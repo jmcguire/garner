@@ -1,0 +1,4 @@
+# sociopath
+
+sociopath. See **psychopath**.
+

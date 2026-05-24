@@ -1,0 +1,4 @@
+# \*psychal
+
+\*psychal. See **psychic**.
+

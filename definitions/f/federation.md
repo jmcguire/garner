@@ -1,0 +1,4 @@
+# federation
+
+federation. See **confederation**.
+

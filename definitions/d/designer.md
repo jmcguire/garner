@@ -1,0 +1,4 @@
+# designer
+
+designer. *Designer*, an agent noun dating from the late 1500s, has two primary senses: \(1\) someone who designs or plans; an originator of a plan; and \(2\) someone who makes an artistic plan or design for construction—and, by extension, someone who invents and markets fashionable clothing. Sense 2 gave rise, beginning in the 1940s, to attributive uses: *designer scarves*, *designer labels*, *designer jeans*. And soon, even things other than garments were tagged with this label: *designer cars*, *designer houses*, even *designer water*. In this voguish use, the term is simply intended to connote status and expense. But as the former editor of the *OED* said a couple of decades after *designer* this and that became all the rage, the attributive use looks as if it will be "staying around for a while." Robert W. Burchfield, *Points of View* 126 \(1992\).
+

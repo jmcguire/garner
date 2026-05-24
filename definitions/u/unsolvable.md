@@ -1,0 +1,4 @@
+# unsolvable
+
+unsolvable. See **insoluble**.
+

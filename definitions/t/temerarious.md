@@ -1,0 +1,4 @@
+# temerarious
+
+temerarious. See **timorous**.
+

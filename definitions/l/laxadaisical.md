@@ -1,0 +1,4 @@
+# \*laxadaisical
+
+\*laxadaisical. See **lackadaisical**.
+

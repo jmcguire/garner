@@ -1,0 +1,4 @@
+# adjure
+
+adjure. See **abjure**.
+

@@ -1,0 +1,4 @@
+# slain
+
+slain. See **slay**.
+

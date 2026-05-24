@@ -1,0 +1,4 @@
+# \*soubriquet
+
+\*soubriquet. See **sobriquet**.
+

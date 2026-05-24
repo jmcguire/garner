@@ -1,0 +1,4 @@
+# determinedly
+
+determinedly. See **determinately**.
+

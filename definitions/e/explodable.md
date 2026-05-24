@@ -1,0 +1,4 @@
+# \*explodable
+
+\*explodable. See **explosible**.
+

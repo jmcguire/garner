@@ -1,0 +1,4 @@
+# tipper
+
+tipper. See **tipster**.
+

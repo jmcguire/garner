@@ -1,0 +1,4 @@
+# \*frier
+
+\*frier. See **fryer**.
+

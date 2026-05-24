@@ -1,0 +1,4 @@
+# \*sympatico
+
+\*sympatico. See **simpatico**.
+

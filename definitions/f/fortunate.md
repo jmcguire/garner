@@ -1,0 +1,4 @@
+# fortunate
+
+fortunate. See **fortuitous**.
+

@@ -1,0 +1,4 @@
+# magistral
+
+magistral. See **magisterial**.
+

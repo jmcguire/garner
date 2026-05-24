@@ -1,0 +1,4 @@
+# \*encrustation
+
+\*encrustation. See **incrustation**.
+

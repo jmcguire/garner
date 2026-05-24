@@ -1,0 +1,4 @@
+# \*conspiratory
+
+\*conspiratory. See **conspiratorial**.
+

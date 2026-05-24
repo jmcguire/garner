@@ -1,0 +1,4 @@
+# profligacy
+
+profligacy. See **prodigality**.
+

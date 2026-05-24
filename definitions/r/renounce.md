@@ -1,0 +1,4 @@
+# renounce
+
+renounce. See **denounce**.
+

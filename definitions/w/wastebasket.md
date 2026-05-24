@@ -1,0 +1,4 @@
+# wastebasket
+
+wastebasket; **wastepaper basket**. Both terms came into use in the 1850s. For about a century, the shorter form *wastebasket* was regarded as an Americanism by speakers of BrE. But English speakers universally like economy of expression—anything to minimize syllables—and beginning about 1960 *wastebasket* rose rapidly in BrE, overtaking the longer form in frequency of use by 1990. Both terms are still in frequent BrE use, probably by different generations of speakers. In AmE, *trash can* appears more frequently even than *wastebasket*—but *trash can* may refer to a small receptacle within a house or office, to the larger receptacle within those places, or to the even larger receptacle put outside for collection \(also, in this latter use, called a *garbage can* in AmE or *dustbin* or *litter bin* in BrE\).
+

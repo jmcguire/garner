@@ -1,0 +1,4 @@
+# equivocal
+
+equivocal. See **unequivocal**.
+

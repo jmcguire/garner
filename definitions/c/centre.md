@@ -1,0 +1,4 @@
+# centre
+
+centre. See **center**.
+

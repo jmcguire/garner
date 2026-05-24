@@ -1,0 +1,4 @@
+# indorse
+
+indorse. See **endorse**.
+

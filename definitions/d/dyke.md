@@ -1,0 +1,4 @@
+# dyke
+
+dyke. See **dike**.
+

@@ -1,0 +1,10 @@
+# Officialese
+
+Officialese = the language of officialdom, characterized by bureaucratic turgidity and insubstantial fustian; inflated language that could be readily translated into simpler terms. E.g.: "To promote the successful completion of our customary mid-diurnal paradigm regarding the procurement of necessary nutritional supplementation and the advancement of the contemporaneous, spontaneous, and coterminous interdialoguing of affiliated human-services assets, the present contingent should initiate both direct and lateral movements as appropriate to minimize and at the end of the day eliminate the physical separation between the target population and the aliment-preparation and -dispensation facilities." As translated: "Let's talk over lunch."
+
+If you think this contrived example is over the top, you should read a few corporate mission statements.
+
+Officialese is governed by four essential rules. First, use as many words as possible. Second, if a longer word \(e.g., *utilize*\) and a shorter word \(e.g., *use*\) are both available, choose the longer. Third, use circumlocutions whenever possible. Fourth, use cumbersome connectives when possible \(*as to*, *with regard to*, *in connection with*, *in the event of*, etc.\).
+
+Among the linguistically unsophisticated, puffed-up language seems more impressive. Hence police officers never *get out of their cars*; instead, they *exit their vehicles.* They never *smell* anything; rather, they *detect it by nasal inhalation.* They *proceed* to a *residence* and *observe* the suspect *partaking of food*. They never *arrest a person*; rather, they *apprehend an individual*. Rather than *sending* papers to each other, officials *transmit* them \(by hand-delivery, not by fax\). And among lawyers, rather than *suing*, one *institutes legal proceedings against* or *brings an action against*. For sound guidance on how to avoid officialese, see Ernest Gowers, *Plain Words: A Guide to the Use of English* \(Rebecca Gowers ed., rev. ed. 2014\); J.R. Masterson & W.B. Phillips, *Federal Prose: How to Write in and/or for Washington* \(1948\). See obscurity. Cf. bureaucratese.
+

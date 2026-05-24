@@ -1,0 +1,4 @@
+# deism
+
+deism. See **theism**.
+

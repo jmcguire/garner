@@ -1,0 +1,4 @@
+# \*theirself
+
+\*theirself. See **ourself**.
+

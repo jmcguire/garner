@@ -1,0 +1,4 @@
+# dispassionate
+
+dispassionate. See **impassionate**.
+

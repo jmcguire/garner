@@ -1,0 +1,4 @@
+# forewent
+
+forewent. See **forego**.
+

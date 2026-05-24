@@ -1,0 +1,4 @@
+# psycho
+
+psycho. See **psychopath**.
+

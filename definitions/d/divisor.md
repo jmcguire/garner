@@ -1,0 +1,4 @@
+# divisor
+
+divisor. See **deviser**.
+

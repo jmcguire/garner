@@ -1,0 +1,4 @@
+# empanel
+
+empanel. See **impanel**.
+

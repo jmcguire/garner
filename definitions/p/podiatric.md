@@ -1,0 +1,4 @@
+# podiatric
+
+podiatric. See **pediatric**.
+

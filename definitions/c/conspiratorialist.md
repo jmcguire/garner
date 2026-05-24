@@ -1,0 +1,4 @@
+# \*conspiratorialist
+
+\*conspiratorialist. See **conspirator**.
+

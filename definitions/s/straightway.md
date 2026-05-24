@@ -1,0 +1,4 @@
+# straightway
+
+straightway. See **straightaway**.
+

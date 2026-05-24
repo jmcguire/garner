@@ -1,0 +1,4 @@
+# resistor
+
+resistor. See **resister**.
+

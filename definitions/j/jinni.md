@@ -1,0 +1,4 @@
+# jinni
+
+jinni. See **genie**.
+

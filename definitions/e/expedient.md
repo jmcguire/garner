@@ -1,0 +1,4 @@
+# expedient
+
+expedient. See **expeditious**.
+

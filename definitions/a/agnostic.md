@@ -1,0 +1,4 @@
+# agnostic
+
+agnostic. See **atheist**.
+

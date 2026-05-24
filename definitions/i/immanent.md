@@ -1,0 +1,4 @@
+# immanent
+
+immanent. See **imminent**.
+

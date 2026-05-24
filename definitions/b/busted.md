@@ -1,0 +1,4 @@
+# busted
+
+busted. See **burst**.
+

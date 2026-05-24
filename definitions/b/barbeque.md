@@ -1,0 +1,4 @@
+# \*barbeque
+
+\*barbeque. See **barbecue**.
+

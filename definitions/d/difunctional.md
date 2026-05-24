@@ -1,0 +1,4 @@
+# difunctional
+
+difunctional. See **bifunctional**.
+

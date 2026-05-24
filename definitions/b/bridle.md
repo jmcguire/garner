@@ -1,0 +1,4 @@
+# bridle
+
+bridle. See **bridal**.
+

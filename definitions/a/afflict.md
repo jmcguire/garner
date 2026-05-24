@@ -1,0 +1,4 @@
+# afflict
+
+afflict. See **inflict**.
+

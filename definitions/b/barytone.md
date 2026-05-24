@@ -1,0 +1,4 @@
+# \*barytone
+
+\*barytone. See **baritone**.
+

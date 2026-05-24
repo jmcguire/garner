@@ -1,0 +1,4 @@
+# long-standing
+
+long-standing; **long-lasting**. Though related in sense, these words are distinct. They both denote continuation over a sustained period. But *long-standing* \(= having continued for a long time\) is backward-looking: something is *long-standing* only if it has a proven history. By contrast, *long-lasting* \(= continuing for a long time\) can be prospective: one can predict that certain changes or innovations will be *long-lasting*. Hence *long-lasting* was doubtless the word needed here: "The final legislation released by Republicans on Friday follows the broad strokes of the previous House and Senate bills, providing deep and *long-standing* \[read *long-lasting*\] tax cuts for businesses." Jim Tankersley & Thomas Kaplan, "Subtle Changes Lure Dissenters Back to Tax Bill," *N.Y. Times*, 6 Dec. 2017, at A1. Both terms are predominantly hyphenated in all varieties of English.
+

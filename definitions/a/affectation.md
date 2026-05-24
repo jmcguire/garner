@@ -1,0 +1,4 @@
+# affectation
+
+affectation. See **affection**.
+

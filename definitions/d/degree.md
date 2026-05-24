@@ -1,0 +1,4 @@
+# degree
+
+degree. See **diploma**.
+

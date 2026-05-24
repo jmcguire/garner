@@ -1,0 +1,4 @@
+# domesticate
+
+domesticate. See **domiciliate**.
+

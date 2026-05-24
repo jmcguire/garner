@@ -1,0 +1,4 @@
+# hymeneal
+
+hymeneal; **hymenal**; **hymenial**. Though related etymologically, these words have taken on quite distinct senses. *Hymeneal* = of, relating to, or involving marriage. E.g.: "In the evening, the party streamed off to the medieval hilltop town of Asolo, . . . along whose streets groups of men spontaneously and undrunkenly came together to sing *hymeneal* numbers to the couple." Alex Hamilton, "Italy: The Wedding Procession," *Guardian*, 3 June 1995, at 56. *Hymenal* = of, relating to, or involving the hymen. E.g.: "If the pain is superficial, it might be caused by *hymenal* strands or lack of vaginal lubrication." Allan Bruckheim, "Health Line," *Chicago Trib.*, 23 Dec. 1996, at C7. *Hymenial* = of, relating to, or involving the superficial layer of spore-producing cells in fungi. See differentiation.
+

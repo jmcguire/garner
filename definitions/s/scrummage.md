@@ -1,0 +1,4 @@
+# \*scrummage
+
+\*scrummage. See **scrimmage**.
+

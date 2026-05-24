@@ -1,0 +1,4 @@
+# vocation
+
+vocation. See **avocation**.
+

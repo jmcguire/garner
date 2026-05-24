@@ -1,0 +1,4 @@
+# rebate
+
+rebate. See **rabbet**.
+

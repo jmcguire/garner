@@ -1,0 +1,4 @@
+# \*medias
+
+\*medias. See **media**.
+

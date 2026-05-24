@@ -1,0 +1,4 @@
+# consulship
+
+consulship. See **consulate**.
+

@@ -1,0 +1,4 @@
+# \*bannister
+
+\*bannister. See **banister**.
+

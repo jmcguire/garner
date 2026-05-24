@@ -1,0 +1,4 @@
+# \*imblaze
+
+\*imblaze. See **emblazon**.
+

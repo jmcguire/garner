@@ -1,0 +1,4 @@
+# impassable
+
+impassable. See **impassible**.
+

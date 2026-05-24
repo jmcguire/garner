@@ -1,0 +1,4 @@
+# manyfold
+
+manyfold. See **manifold**.
+

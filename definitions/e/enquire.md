@@ -1,0 +1,4 @@
+# \*enquire
+
+\*enquire. See **inquire**.
+

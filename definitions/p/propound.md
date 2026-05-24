@@ -1,0 +1,4 @@
+# propound
+
+propound. See **expound**.
+

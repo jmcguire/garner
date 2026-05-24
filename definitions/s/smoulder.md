@@ -1,0 +1,4 @@
+# smoulder
+
+smoulder. See **smolder**.
+

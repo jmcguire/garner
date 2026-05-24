@@ -1,0 +1,4 @@
+# \*sanatarium
+
+\*sanatarium. See **sanatorium**.
+

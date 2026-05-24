@@ -1,0 +1,4 @@
+# \*adulteratable
+
+\*adulteratable. See **adulterable**.
+

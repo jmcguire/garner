@@ -1,0 +1,4 @@
+# lusty
+
+lusty. See **lustful**.
+

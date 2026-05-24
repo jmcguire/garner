@@ -1,0 +1,4 @@
+# obtuse
+
+obtuse. See **abstruse**.
+

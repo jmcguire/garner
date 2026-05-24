@@ -1,0 +1,4 @@
+# console
+
+console. See **condole**.
+

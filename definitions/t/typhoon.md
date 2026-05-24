@@ -1,0 +1,4 @@
+# typhoon
+
+typhoon. See **hurricane**.
+

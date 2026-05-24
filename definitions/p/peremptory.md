@@ -1,0 +1,4 @@
+# peremptory
+
+peremptory. See **preemptive**.
+

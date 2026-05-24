@@ -1,0 +1,4 @@
+# hereditary
+
+hereditary. See **heritable**.
+

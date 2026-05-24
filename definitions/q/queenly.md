@@ -1,0 +1,4 @@
+# queenly
+
+queenly. See **kingly**.
+

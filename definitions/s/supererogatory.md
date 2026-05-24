@@ -1,0 +1,4 @@
+# supererogatory
+
+supererogatory has two almost opposite sets of connotations, some positive and others negative. The core sense is "going beyond what is required." On the one hand, the word may connote "superfluous," and it is often used in this way—e.g.: "The best opera directors accept this primacy of music in creating theatrical illusion; the worst ones swamp it with overblown stage effects which make the music, as it were, *supererogatory*." Terry Teachout, "Words, Music, Opera," *Commentary*, Dec. 1995, at 57. On the other hand, it may mean "performing more than duty or circumstances require; doing more than is minimally needed"—e.g.: "She believed that . . . Christian morality . . . requires *supererogatory* acts toward one's neighbor, even the neighbor who is an enemy." Vigen Guroian, "The New Nationalism & the Gospel Witness," *Commonweal*, 14 July 1995, at 11.
+

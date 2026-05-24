@@ -1,0 +1,4 @@
+# imitation
+
+imitation. See **counterfeit**.
+

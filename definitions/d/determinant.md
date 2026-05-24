@@ -1,0 +1,4 @@
+# determinant
+
+determinant. See **determiner**.
+

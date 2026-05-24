@@ -1,0 +1,4 @@
+# headlong
+
+headlong. See **headstrong**.
+

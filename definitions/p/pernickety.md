@@ -1,0 +1,4 @@
+# pernickety
+
+pernickety. See **persnickety**.
+

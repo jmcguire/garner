@@ -1,0 +1,4 @@
+# unmoral
+
+unmoral. See **immoral**.
+

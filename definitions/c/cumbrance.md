@@ -1,0 +1,4 @@
+# \*cumbrance
+
+\*cumbrance. See **encumbrance**.
+

@@ -1,0 +1,4 @@
+# assertedly
+
+assertedly. See -edly.
+

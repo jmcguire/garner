@@ -1,0 +1,4 @@
+# Slipshod Extension
+
+Slipshod Extension. Several entries in this dictionary refer to this type of misusage. "Slipshod extension" denotes the mistaken stretching of a word beyond its accepted meanings, the mistake lying in a misunderstanding of the true sense. It occurs most often, explained H.W. Fowler, "when some accident gives currency among the uneducated to words of learned origin, and the more if they are isolated or have few relatives in the vernacular" \(*FMEU1* at 540\). Today, one might rightly accuse not only the uneducated but also the educated of the linguistic distortion of *literally* and *protagonist*, to name but two of many possible examples. See **literally** & **protagonist**. For other examples, see **ad hoc**, **alibi**, **compound**, **dilemma**, **egoism**, **factor**, **hopefully**, **medicine**, **veracity**, **verbal**, **viable** & **vitiate**.
+

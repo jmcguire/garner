@@ -1,0 +1,4 @@
+# \*legitimatization
+
+\*legitimatization. See **legitimacy**.
+

@@ -1,0 +1,4 @@
+# \*scollop
+
+\*scollop. See **scallop**.
+

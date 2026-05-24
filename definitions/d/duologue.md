@@ -1,0 +1,4 @@
+# duologue
+
+duologue. See **dialogue**.
+

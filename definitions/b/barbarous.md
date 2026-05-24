@@ -1,0 +1,4 @@
+# barbarous
+
+barbarous. See **barbaric**.
+

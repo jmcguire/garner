@@ -1,0 +1,4 @@
+# bribery
+
+bribery. See **extortion**.
+

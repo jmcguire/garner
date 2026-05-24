@@ -1,0 +1,4 @@
+# yclept
+
+yclept \(= called, by the name of\) is an archaism still sometimes encountered—e.g.: "A World War II British codebreaker (many at Bletchley Park were female) would have been appropriately *yclept* Sadie O. Rylance \[a spoonerism of *radio silence*\]." Don Hauptman, "More Original Spoonerisms and Transposition Puns," 48 *Word Ways* 192 \(1 Aug. 2015\). It's the past participle of the long-obsolete verb *clepe* \(= to call by the name of\). As a revival of an Old English term attested from the 900s, according to the *OED*, *yclept* was "much affected as a literary archaism by Elizabethan and subsequent poets," and "in less dignified writing \[it was\] often used for the sake of quaintness or with serio-comic intention." In recent centuries, it reached the height of its popularity in the 19th. The word has steadily declined in print sources since 1900.
+

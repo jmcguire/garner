@@ -1,0 +1,4 @@
+# assassinator
+
+assassinator. See **assassin**.
+

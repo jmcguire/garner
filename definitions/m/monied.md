@@ -1,0 +1,4 @@
+# \*monied
+
+\*monied. See **moneyed**.
+

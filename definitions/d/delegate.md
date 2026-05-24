@@ -1,0 +1,4 @@
+# delegate
+
+delegate. See **relegate**.
+

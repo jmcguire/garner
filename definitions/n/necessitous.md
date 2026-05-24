@@ -1,0 +1,4 @@
+# necessitous
+
+necessitous. See **necessary**.
+

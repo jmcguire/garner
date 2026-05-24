@@ -1,0 +1,4 @@
+# thrice
+
+thrice \(= three times\) is a literary archaism that is sometimes useful. Common in the 1600s and 1700s, it has steadily declined in use since about 1800. But it appears not to be going extinct—e.g.: "He's *thrice*-divorced and no longer the superstar of Brisbane radio." Steven Rosen, " ‘Serenade' Offbeat Comedy with Certain Dark Elements," *Denver Post*, 8 Aug. 1997, at F3. When *thrice* follows the verb and is not—as in the previous example—part of a phrasal adjective, it sounds pretentious. E.g.: " ‘He may like a hot dog,' says Steve Tobash, golf pro at the Army–Navy Country Club, where Clinton has played *thrice* \[read *three times*\] since rehabilitation. ‘But if he eats a hot dog, he works it off.' " Kevin Walker, "Quips, Quotes, Quibbles & Bits," *Tampa Trib.*, 10 Aug. 1997, at 8.
+

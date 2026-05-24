@@ -1,0 +1,4 @@
+# \*interrogee
+
+\*interrogee. See **interrogatee**.
+

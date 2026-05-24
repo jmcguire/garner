@@ -1,0 +1,4 @@
+# \*forseeable
+
+\*forseeable. See **foreseeable**.
+

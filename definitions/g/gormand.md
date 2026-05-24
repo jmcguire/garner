@@ -1,0 +1,4 @@
+# \*gormand
+
+\*gormand. See **gourmet**.
+

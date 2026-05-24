@@ -1,0 +1,4 @@
+# semimonthly
+
+semimonthly. See bi-.
+

@@ -1,0 +1,4 @@
+# \*fisk
+
+\*fisk. See **fisc**.
+

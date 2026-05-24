@@ -1,0 +1,4 @@
+# \*secretariship
+
+\*secretariship. See **secretaryship**.
+

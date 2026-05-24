@@ -1,0 +1,4 @@
+# bizarre
+
+bizarre. See **bazaar**.
+

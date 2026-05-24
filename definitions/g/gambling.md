@@ -1,0 +1,4 @@
+# gambling
+
+gambling. See **gaming**.
+

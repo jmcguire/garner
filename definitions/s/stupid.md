@@ -1,0 +1,4 @@
+# stupid
+
+stupid. See **ignorant**.
+

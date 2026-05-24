@@ -1,0 +1,4 @@
+# sight
+
+sight. See **site**.
+

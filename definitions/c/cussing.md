@@ -1,0 +1,4 @@
+# Cussing
+
+Cussing. See profanity.
+

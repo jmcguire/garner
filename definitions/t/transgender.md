@@ -1,0 +1,6 @@
+# transgender
+
+transgender; **transgendered**. The precise meaning of this new term \(dating only to the mid-1970s\) is hard to pin down, but it's most commonly used as a broad adjective describing people whose self-identity does not match the sex they were labeled with at birth—e.g.: "\[Dr. Norman\] Spack subjects his patients to a lengthy evaluation process before recommending hormone therapy. Kids undergo a battery of interview-based psychological tests to see if they meet the medically established criteria for gender-identity disorder. . . . There are many mysteries about *the transgendered* \[read, preferably, *transgendered people*\]. This could clear up one of them." Laura Fitzpatrick, "The Gender Conundrum," *Time*, 19 Nov. 2007, at 59. The term is not an identification of sexual orientation.
+
+*Transgender* is the broader and more common term. The participle *transgendered* might suggest some form of physical alteration—e.g.: "Rhiannon O'Donnabhain is suing the IRS in a case advocates for the *transgendered* are hoping will force the tax agency to treat sex-change operations the same as appendectomies, heart bypasses and other deductible medical procedures." "Around the Nation," *Record* \(N.J.\), 17 July 2007, at A6. See **cisgender** & **gender**.
+

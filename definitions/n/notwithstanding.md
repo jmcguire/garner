@@ -1,0 +1,8 @@
+# notwithstanding
+
+notwithstanding is a formal word used in the sense "despite," "in spite of," or "although." In general English-language contexts, it has experienced a steady decline in use since about 1760. E.g.: "*Notwithstanding* an outpouring of editorial opinion on either side of this issue, there are no easy answers." Richard Baum, "Perspective on China," *L.A. Times*, 30 Nov. 1997, at M5.
+
+The question that literalists ask is, What doesn't withstand what else? Is the outpouring of opinion "not withstanding" \(i.e., subordinated to\) the lack of easy answers, or is the lack of easy answers "not withstanding" \(subordinated to\) the outpouring of editorial opinion? Because the former is the correct reading, some believe that *notwithstanding* should be sent to the end of the phrase in which it appears: *The family's objection to the marriage notwithstanding,* as opposed to *Notwithstanding the family's objection to the marriage*.
+
+But the literalist argument is very much in vain, as the *OED* attests with a 14th-century example of *notwithstanding* as a sentence-starter. This usage has been constant from the 1300s to the present day. In fact, the construction with *notwithstanding* following the noun first appeared more than a century later, and has never been as frequent. The *Century Dictionary* explains: "As the noun usually follows \[the word *notwithstanding*\], the \[word\] came to be regarded as a prep. \(as also with *during*, ppr.\), and is now usually so construed." 3 *Century Dictionary and Cyclopedia* 4029 \(1914\). The word is not a dangler because it does not function as a participle.
+

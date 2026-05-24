@@ -1,0 +1,4 @@
+# psychological
+
+psychological. See **psychic**.
+

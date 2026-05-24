@@ -1,0 +1,4 @@
+# \*straightlaced
+
+\*straightlaced. See **straitlaced**.
+

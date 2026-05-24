@@ -1,0 +1,4 @@
+# embarrassedly
+
+embarrassedly. See -edly.
+

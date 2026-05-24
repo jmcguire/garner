@@ -1,0 +1,4 @@
+# \*shute
+
+\*shute. See **shoot**.
+

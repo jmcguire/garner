@@ -1,0 +1,4 @@
+# \*fusable
+
+\*fusable. See **fusible**.
+

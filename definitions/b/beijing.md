@@ -1,0 +1,4 @@
+# Beijing
+
+Beijing; **Peking**. The English-speaking world's traditional name for the Chinese capital, *Peking*, resulted from a system of transliteration called Wade–Giles Romanization, introduced by two 19th-century English scholars. \(*Peiching* was a variant.\) In 1979, the Chinese government settled on a system called Pinyin Romanization \(also called the Chinese phonetic alphabet\) to convert Chinese sounds into roman letters; it is thought to be a closer approximation of Chinese pronunciation in the Mandarin dialect \(/bay-**jing**/, not /-**zhing**/ or /-**shing**/\). The Pinyin system resulted in *Beijing*, which has been the predominant spelling in print since about 1985. Despite the success of Pinyin, Taiwan still adheres to Wade–Giles spellings—and so do a few Western scholars on China.
+

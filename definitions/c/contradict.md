@@ -1,0 +1,4 @@
+# contradict
+
+contradict. See **gainsay**.
+

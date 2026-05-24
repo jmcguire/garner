@@ -1,0 +1,4 @@
+# thralldom
+
+thralldom. See **disenthrall**.
+

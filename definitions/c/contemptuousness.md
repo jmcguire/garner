@@ -1,0 +1,4 @@
+# contemptuousness
+
+contemptuousness. See **contempt**.
+

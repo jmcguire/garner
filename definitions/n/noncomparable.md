@@ -1,0 +1,4 @@
+# noncomparable
+
+noncomparable. See **incomparable**.
+

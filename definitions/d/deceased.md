@@ -1,0 +1,4 @@
+# deceased
+
+deceased. See **diseased**.
+

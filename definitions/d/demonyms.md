@@ -1,0 +1,399 @@
+# Demonyms
+
+Demonyms. What do you call someone from ——? Often that's not an easy question to answer, whether it's a city, state, province, or country. Anyone who lives in Columbus, Ohio—or the other Columbuses in Georgia, Indiana, and Nebraska—is called a *Columbusite*. But someone from the small town of Columbus, Mississippi, is called a *Columbian*. Those inconsistencies can be a little confusing, but at least they're undisputed within a given locale.
+
+Sometimes the authorities can't agree about a single locale. Beginning in the 1950s, a person from Michigan was known by statute as a *Michiganian*—but the originally jocular, occasionally pejorative term *Michigander*, coined in the early 1800s, had decades earlier become the preference of *Michiganders* themselves. Almost no one wanted to be called a \**Michiganite*, but that's what the U.S. Government Printing Office's style manual specified. It took until 2018 for Michigan law to catch up to local preference and shift to *Michigander*; the *USGPO*, ever a step behind, upgraded to *Michiganian*. Best for *Michiganders* and others to follow the law or local preference—not what some stylesheet writer in Washington says.
+
+Loose guidelines exist for naming denizens. George R. Stewart, a historian and onomastician, developed six main guidelines—what H.L. Mencken called "Stewart's Laws of Municipal Onomastics"—that are cited in the best up-to-date work on this subject, Paul Dickson's *Labels for Locals* \(1997\). Here they are: \(1\) If the place name ends in *-a* or *-ia*, add *-n* <Alaska, Alaskan> <California, Californian>. \(2\) If the name ends in *-i*, *-o*, or a sounded *-e*, add *-an* <Hawaii, Hawaiian> <Chicago, Chicagoan> <Albuquerque, Albuquerquean>. \(3\) If the name ends in *-on*, add *-ian* <Oregon, Oregonian>. \(4\) If the name ends in *-y*, change the *-y* to an *-i* and add *-an* <Albany, Albanian>. \(5\) If the name ends in a consonant or a silent *-e*, add either *-ite* or *-er*, depending on euphony <Maine, Mainer> <New Hampshire, New Hampshirite>. \(6\) If the name ends in *-polis*, change that to *-politan* <Minneapolis, Minneapolitan>.
+
+What follows is a selection of demonyms, also known as "denizen labels," including some that override Dickson's preferences.
+
+## U.S. States
+
+ - Alabama Alabamian, \*Alabaman
+ - Alaska Alaskan
+ - Arizona Arizonan, \*Arizonian
+ - Arkansas Arkansan, Arkie, \*Arkansawyer
+ - California Californian
+ - Colorado Coloradan, Coloradoan
+ - Connecticut Nutmegger, Connecticuter \(*USGPO*\)
+ - Delaware Delawarean
+ - Florida Floridian
+ - Georgia Georgian
+ - Hawaii Hawaiian
+ - Idaho Idahoan
+ - Illinois Illinoisan /il-ә-**noy**-әn/ \(pref. not \**Illinoisian*\)
+ - Indiana Hoosier, Indianan, \*Indianian
+ - Iowa Iowan, \*Iowegian
+ - Kansas Kansan
+ - Kentucky Kentuckian
+ - Louisiana Louisianian, \*Louisianan
+ - Maine Mainer, Mainiac
+ - Maryland Marylander
+ - Massachusetts Bay Stater \(by state law\), Massachusettsan \(*USGPO*\)
+ - Michigan Michigander \(by popular consensus\), Michiganian \(official\), \*Michiganite \(rare, but recommended by *USGPO*\)
+ - Minnesota Minnesotan
+ - Mississippi Mississippian
+ - Missouri Missourian
+ - Montana Montanan
+ - Nebraska Nebraskan
+ - Nevada Nevadan
+ - New Hampshire New Hampshirite
+ - New Jersey New Jerseyan, New Jerseyite \(*USGPO*\)
+ - New Mexico New Mexican
+ - New York New Yorker
+ - North Carolina North Carolinian, Tarheel
+ - North Dakota North Dakotan
+ - Ohio Ohioan
+ - Oklahoma Oklahoman, Sooner, Okie
+ - Oregon Oregonian
+ - Pennsylvania Pennsylvanian
+ - Rhode Island Rhode Islander
+ - South Carolina South Carolinian
+ - South Dakota South Dakotan
+ - Tennessee Tennessean, \*Tennesseean
+ - Texas Texan
+ - Utah Utahn \(preferred\), Utahan
+ - Vermont Vermonter
+ - Virginia Virginian
+ - Washington Washingtonian
+ - West Virginia West Virginian
+ - Wisconsin Wisconsinite
+ - Wyoming Wyomingite
+
+## U.S. Cities
+
+ - Akron Akronite
+ - Albany Albanian
+ - Albuquerque Albuquerquean, \*Albuquerquian
+ - Anchorage Anchorageite, \*Anchoragite
+ - Annapolis Annapolitan
+ - Austin Austinite
+ - Baltimore Baltimorean
+ - Bellingham, Wash. Bellinghamster
+ - Boston Bostonian
+ - Buffalo Buffalonian
+ - Cambridge Cantabrigian
+ - Canton, Ohio Cantonian
+ - Chicago Chicagoan
+ - Cincinnati Cincinnatian
+ - Cleveland Clevelander
+ - Columbus \(Ga., Ind., Neb., Ohio\) Columbusite
+ - Columbus \(Miss.\) Columbian
+ - Corpus Christi Corpus Christian /**kris**-tee-әn/
+ - Dallas Dallasite
+ - Detroit Detroiter
+ - District of Columbia Washingtonian
+ - Dodge City Dodge Citian
+ - El Paso El Pasoan
+ - Fairbanks Fairbanksan, Fairbanksian
+ - Fort Worth Fort Worthian, \*Fort Worther
+ - Grand Rapids Grand Rapidian
+ - Greensboro, N.C. Greensburgher
+ - Hanover, Pa. Hanoverian
+ - Harrisburg Harrisburger
+ - Honolulu Honolulan
+ - Houston Houstonian
+ - Independence, Mo. Independent
+ - Indianapolis Indianapolitan
+ - Jackson Jacksonian
+ - Jersey City Jersey Cityite
+ - Kansas City Kansas Citian
+ - Knoxville Knoxvillian
+ - Las Cruces Crucen /**kroo**-sәn/
+ - Las Vegas Las Vegan
+ - Lawrence, Kan. Lawrentian /lә-**ren**-shәn/
+ - Lawrence, Mass. Lawrencian /lә-**ren**-shәn/
+ - Lebanon, Pa. Lebanonian
+ - Los Angeles Angeleno, \*Los Angelean
+ - Louisville Louisvillian
+ - Madison Madisonian
+ - Manhattan \(N.Y. or Kan.\) Manhattanite
+ - Maui Mauian
+ - Memphis Memphian
+ - Miami Miamian
+ - Milwaukee Milwaukeean
+ - Minneapolis Minneapolitan
+ - Nashville Nashvillian
+ - Newark Newarker
+ - New Orleans New Orleanian, \*New Orleansian
+ - New York City New Yorker
+ - Oklahoma City Oklahoma Citian, \*Oklahoma Cityan
+ - Omaha Omahan
+ - Palm Beach Palm Beacher
+ - Pensacola Pensacolian
+ - Philadelphia Philadelphian
+ - Phoenix Phoenician
+ - Pittsburgh Pittsburgher, \*Pittsburger
+ - Pontiac Pontiacker
+ - Portland \(Maine, Ore.\) Portlander
+ - Princeton Princetonian
+ - Providence Providentian
+ - Sacramento Sacramentan
+ - Saginaw Saginawian
+ - Salt Lake City Salt Laker
+ - San Antonio San Antonian
+ - San Diego San Diegan
+ - San Francisco San Franciscan
+ - San Jose San Josean
+ - San Marino San Marinan, \*San Marinoite
+ - Santa Fe Santa Fean
+ - Saratoga Springs Saratogian
+ - Saugus \(Mass.\) Saugonian
+ - Sault Sainte Marie Sooite
+ - Savannah Savannahian
+ - Schenectady Schenectadian
+ - Seattle Seattleite, \*Seattlite
+ - Shreveport Shreveporter
+ - Spokane Spokanite
+ - St. Louis St. Louisan
+ - St. Paul St. Paulite
+ - Tallahassee Tallahasseean
+ - Tampa Tampan
+ - Taos Taoseno /tow-**see**-noh/, Taoseño /tow-**sen**-yoh/
+ - Troy Trojan
+ - Tucson Tucsonan, \*Tucsonian, \*Tucsonite
+ - Twin Cities Twin Citian
+ - Wilkes-Barre Wilkes-Barrean
+ - Williamsport \(Pa.\) Williamsporter
+
+## Countries and Territories
+
+ - Afghanistan Afghan
+ - Argentina Argentine, \*Argentinian
+ - Azerbaijan Azerbaijani
+ - Bahamas Bahamian
+ - Belarus Belarusian, \*Belarusan, \*Belarussian
+ - Belgium Belgian
+ - Canada Canadian
+ - Cayman Islands Caymanian, Cayman Islander
+ - Colombia Colombian
+ - Czech Republic Czech
+ - Denmark Dane
+ - Ecuador Ecuadorian, \*Ecuadoran
+ - Egypt Egyptian
+ - El Salvador Salvadoran, \*Salvadorean, \*Salvadorian
+ - Finland Finn, Finnish, \*Finlander
+ - France French
+ - Germany German
+ - Great Britain Briton
+ - Greece Greek
+ - Greenland Greenlander
+ - Grenada Grenadian, \*Grenadan
+ - Guam Guamanian
+ - Guyana Guyanese
+ - Haiti Haitian
+ - Honduras Honduran
+ - Hungary Hungarian
+ - Indonesia Indonesian
+ - Iran Iranian
+ - Iraq Iraqi
+ - Israel Israeli
+ - Italy Italian
+ - Jamaica Jamaican
+ - Japan Japanese
+ - Jordan Jordanian
+ - Kazakhstan Kazakh
+ - Kenya Kenyan
+ - Korea Korean
+ - Kuwait Kuwaiti
+ - Laos Lao, Laotian
+ - Lebanon Lebanese
+ - Libya Libyan
+ - Liechtenstein Liechtensteiner
+ - Luxembourg Luxembourger
+ - Macedonia Macedonian
+ - Madagascar Malagasy
+ - Malaysia Malaysian
+ - Maldova Maldovan
+ - Mali Malian
+ - Malta Maltese
+ - Martinique Martiniquais
+ - Mexico Mexican
+ - Micronesia Micronesian
+ - Monaco Monacan, Monegasque
+ - Mongolia Mongolian
+ - Morocco Moroccan
+ - Myanmar Burmese, Myanmarese
+ - Nepal Nepali, Nepalese
+ - The Netherlands Hollander, Netherlander, \*Netherlandian
+ - New Zealand New Zealander
+ - Nicaragua Nicaraguan
+ - Niger Nigerien /nī-jir-ee-**en**/
+ - Nigeria Nigerian /nī-**jir**-ee-әn/
+ - Norway Norwegian
+ - Oman Omani
+ - Pakistan Pakistani
+ - Palau Palauan
+ - Panama Panamanian
+ - Paraguay Paraguayan
+ - Peru Peruvian
+ - Philippines Filipino
+ - Poland Pole
+ - Portugal Portuguese
+ - Puerto Rico Puerto Rican
+ - Qatar Qatari
+ - Romania Romanian
+ - Russia Russian
+ - Rwanda Rwandan
+ - San Marino Sammarinese, \*San Marinese
+ - Saudi Arabia Saudi, \*Saudi Arabian
+ - Scotland Scot
+ - Senegal Senegalese
+ - Serbia Serb
+ - Seychelles Seychellois
+ - Singapore Singaporean
+ - Slovakia Slovak
+ - Slovenia Slovene
+ - Somalia Somali
+ - South Africa South African
+ - Spain Spaniard
+ - Sri Lanka Sri Lankan, \*Ceylonese
+ - Sudan Sudanese
+ - Sumatra Sumatran
+ - Suriname Surinamese, \*Surinamer
+ - Swaziland Swazi
+ - Sweden Swede
+ - Switzerland Swiss
+ - Syria Syrian
+ - Tahiti Tahitian
+ - Taiwan Taiwanese
+ - Tajikistan Tajik
+ - Thailand Thai
+ - Tobago Tobagonian
+ - Togo Togolese
+ - Tonga Tongan
+ - Trinidad Trinidadian
+ - Tunisia Tunisian
+ - Turkey Turk
+ - Turkmenistan Turkmen \(pl. Turkmens\)
+ - Uganda Ugandan
+ - Ukraine Ukrainian
+ - United States American
+ - Uruguay Uruguayan
+ - Uzbekistan Uzbek
+ - Vanuatu Ni-Vanuatu
+ - Venezuela Venezuelan
+ - Vietnam Vietnamese
+ - Virgin Islands Virgin Islander
+ - Wales Welsh
+ - Zambia Zambian
+ - Zimbabwe Zimbabwean
+
+## Foreign Cities and Regions
+
+ - Alberta, Canada Albertan
+ - Amsterdam, the Netherlands Amsterdammer
+ - Athens, Greece Athenian
+ - Baghdad, Iraq Baghdadi
+ - Bangkok, Thailand Bangkokian
+ - Béarn, France Béarnais \(not *Béarnaise*\)
+ - Beijing, China Beijinger
+ - Belgrade, Yugoslavia Belgrader
+ - Berlin, Germany Berliner
+ - Bern, Switzerland Bernese
+ - Birmingham, England Brummie
+ - Bogotá, Colombia Bogotano
+ - Bologna, Italy Bolognese
+ - Bordeaux, France Bordelais
+ - Brisbane, Australia Brisbanite
+ - British Columbia, Canada British Columbian
+ - Brussels, Belgium Bruxellois
+ - Budapest, Hungary Budapesti
+ - Buenos Aires, Argentina Porteño
+ - Cairo, Egypt Cairene
+ - Cambridge, England Cantabrigian
+ - Canton, China Cantonese
+ - Cheshire, England Cestrian
+ - Copenhagen, Denmark Copenhagener
+ - Cork, Ireland Corkonian
+ - Cornwall, England Cornish
+ - Devonshire, England Devonian
+ - Dijon, France Dijonese, Dijonnais
+ - Dublin, Ireland Dubliner
+ - Dundee, Scotland Dundonian
+ - Edinburgh, Scotland Edinburgher
+ - Exeter, England Exonian
+ - Flanders, Belgium Flemish
+ - Florence, Italy Florentine
+ - Fontainebleau, France Bellifontain
+ - Geneva, Switzerland Genevan, Genevese
+ - Genoa, Italy Genovese, Genoan
+ - Glasgow, Scotland Glaswegian
+ - The Hague, Netherlands Hagenaar
+ - Halifax, Nova Scotia Haligonian
+ - Hamburg, Germany Hamburger
+ - Hampshire, England Hantsian
+ - Hanover, Germany Hanoverian
+ - Havana, Cuba Havanan
+ - Helsinki, Finland Helsinkian
+ - Hong Kong, China Hong Konger, \*Hong Kongite, \*Hong Kongian
+ - Isle of Man, England Manx
+ - Isle of Wight, England Vectian
+ - Istanbul, Turkey Istanbulite, Istanbullu
+ - Jerusalem, Israel Jerusalemite
+ - Johannesburg, S. Africa Johannesburger
+ - Lima, Peru Limeño
+ - Lisbon, Portugal Lisboan
+ - Liverpool, England Liverpudlian
+ - London, England Londoner
+ - Lyons, France Lyonnais
+ - Madrid, Spain Madrileno
+ - Majorca, Spain Majorcan
+ - Manchester, England Mancunian
+ - Manila, Philippines Manilite
+ - Manitoba, Canada Manitoban
+ - Melbourne, Australia Melburnian
+ - Metz, France Messin
+ - Mexico City, Mexico Chilango
+ - Milan, Italy Milanese
+ - Montenegro, Yugoslavia Montenegrin
+ - Moscow, Russia Muscovite
+ - Naples, Italy Neapolitan
+ - Nazareth, Israel Nazarene
+ - New Brunswick, Canada New Brunswicker
+ - Newcastle, Australia Novocastrian
+ - Newcastle, England Geordie
+ - Newfoundland, Canada Newfoundlander, Newfie
+ - New South Wales, Australia New South Welshman
+ - Nice, France Niçois
+ - Norfolk, England North Anglian
+ - Northumberland, England Northumbrian
+ - Nova Scotia, Canada Nova Scotian
+ - Ontario, Canada Ontarian
+ - Oxford, England Oxonian
+ - Paris, France Parisian
+ - Perth, Australia Perthite
+ - Prague, Czech Republic Praguer
+ - Prince Edward Island, Canada Prince Edward Islander
+ - Quebec, Canada Quebecer \(AmE\), Quebecker \(BrE\)
+ - Quito, Ecuador Quiteño
+ - Rio de Janeiro, Brazil Carioca
+ - Rome, Italy Roman
+ - Saint-Cloud, France Clodoaldien
+ - Salzburg, Austria Salzburger
+ - San Juan, Puerto Rico San Juanero
+ - Santiago, Chile Santiaguino
+ - Sao Paulo, Brazil Paulista \(state\), Paulistano \(city\), Paulistana \(city\)
+ - Saskatchewan, Canada Saskatchewanian
+ - Shanghai, China Shanghailanese
+ - Shropshire, England Salopian
+ - St. Croix, U.S. Virgin Islands Cruzan
+ - Stockholm, Sweden Stockholmer
+ - St. Petersburg, Russia St. Petersburger
+ - Stratford-on-Avon, England Stratfordian
+ - Sydney, Australia Sydneysider
+ - Tangier, Morocco Tangerian, \*Tangierian
+ - Tasmania, Australia Tasmanian
+ - Tehran, Iran Tehrani
+ - Tel Aviv, Israel Tel Avivian
+ - Tokyo, Japan Tokyoite
+ - Toronto, Canada Torontonian
+ - Tripoli, Libya Tripolitan
+ - Trois-Rivières, Canada Trifluvien
+ - Vancouver, Canada Vancouverite
+ - Venice, Italy Venetian
+ - Verona, Italy Veronese
+ - Vienna, Austria Viennese
+ - Winnipeg, Canada Winnipegger
+

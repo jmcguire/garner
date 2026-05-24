@@ -1,0 +1,4 @@
+# optimal
+
+optimal. See **optimum**.
+

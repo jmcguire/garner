@@ -1,0 +1,4 @@
+# \*technic
+
+\*technic. See **technique**.
+

@@ -1,0 +1,4 @@
+# Quran
+
+Quran. See **Koran**.
+

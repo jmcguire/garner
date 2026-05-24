@@ -1,0 +1,4 @@
+# democracy
+
+democracy. This term, meaning literally "government by the people," is often employed loosely, sometimes tendentiously and sometimes disingenuously \(as when the post–World War II Soviet Union was referred to as a "democracy"\). Originally a Greek term, *democracy* was understood by the Greeks very differently from the way we understand it today: Greek democracy was an institution limited to male clan members who were citizens; a huge population of slaves and other subordinated classes were disenfranchised. The same, of course, might be said of the U.S. before the abolition of slavery and before women gained the right to vote. Notions of democracy change with changing notions of who "the people" are. Throughout history, the term has gradually come to be more and more inclusive. See governmental forms.
+

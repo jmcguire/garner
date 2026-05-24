@@ -1,0 +1,4 @@
+# \*judicative
+
+\*judicative. See **adjudicative**.
+

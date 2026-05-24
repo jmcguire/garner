@@ -1,0 +1,4 @@
+# strata
+
+strata. See **stratum**.
+

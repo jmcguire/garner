@@ -1,0 +1,6 @@
+# whence
+
+whence \(= from where; from which; from what source\) is an especially formal word that some readers consider stilted. Rudolf Flesch prematurely called it "obsolete," perhaps to reinforce his absolute recommendation to use *from where* instead. \(See *The ABC of Style* 294 \[1964\].\) But *from where* would hardly work in every context, and *whence* retains some vigor—e.g.: "If his method is to work at all, it must at least work in the sorts of economic cases *whence* it sprang." True, the writer might have said *cases from which it sprang*, but surely not *cases from where it sprang*.
+
+*From whence* is technically redundant—because *whence* implies *from*—but the locution has appeared continually in the great writing from the 1500s: Shakespeare, Dryden, and Dickens all used the phrase. Still, it has seen a sharp decline in use since the early 1700s, just as *whence* has. *From whence* is less stilted than *whence* alone, which requires a greater literary knowledge for it to be immediately understandable. E.g.: "They cast the body into the water *from whence* it could not be reclaimed." Some people object to this usage, however well established; no one would object to *from which*. See **from hence**, **hence** & **thence**.
+

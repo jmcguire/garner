@@ -1,0 +1,4 @@
+# progenitor
+
+progenitor. See **primogeniture**.
+

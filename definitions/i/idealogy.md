@@ -1,0 +1,4 @@
+# \*idealogy
+
+\*idealogy. See **ideology**.
+

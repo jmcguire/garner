@@ -1,0 +1,4 @@
+# \*loadstar
+
+\*loadstar. See **lodestar**.
+

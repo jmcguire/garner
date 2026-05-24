@@ -1,0 +1,4 @@
+# necessitarianism
+
+necessitarianism. See **fatalism**.
+

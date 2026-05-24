@@ -1,0 +1,4 @@
+# \*teepee
+
+\*teepee. See **tepee**.
+

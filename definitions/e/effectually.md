@@ -1,0 +1,4 @@
+# effectually
+
+effectually. See **effectively**.
+

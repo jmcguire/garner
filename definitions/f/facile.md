@@ -1,0 +1,4 @@
+# facile
+
+facile /**fas**-әl/ or, in BrE, /**fas**-īl/. Always meaning "easy" in one sense or another, this word may connote either proficiency or shallowness. The writer must achieve clarity through context. Sometimes the word connotes the ease that comes with artistic mastery—e.g.: "Nicolai Dobrev played the jester, a noble baritone with a *facile* instrument." Keith Powers, "Teatro Lirico Shines in Performance of Dark Verdi Comedy," *Boston Herald*, 30 Mar. 2002, Arts & Life §, at 26. More often, though, it connotes triteness or oversimplification—e.g.: "But most mental health experts say closure is no holy grail, only rendered so by people seeking *facile* solutions to complex problems." Samar Farah, "Lots of People Are Looking for It. But What Exactly Do They Hope to Find?," *Christian Science Monitor*, 28 Mar. 2002, Features §, at 13.
+

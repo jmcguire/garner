@@ -1,0 +1,4 @@
+# \*enounce
+
+\*enounce. See **announce**.
+

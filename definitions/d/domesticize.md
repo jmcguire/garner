@@ -1,0 +1,4 @@
+# \*domesticize
+
+\*domesticize. See **domiciliate**.
+

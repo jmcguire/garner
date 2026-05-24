@@ -1,0 +1,4 @@
+# stakeholder
+
+stakeholder. See **shareholder**.
+

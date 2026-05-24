@@ -1,0 +1,4 @@
+# indicial
+
+indicial. See **indicative**.
+

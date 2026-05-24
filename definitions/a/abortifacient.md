@@ -1,0 +1,4 @@
+# abortifacient
+
+abortifacient. See **contraceptive**.
+

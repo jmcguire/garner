@@ -1,0 +1,4 @@
+# \*unrevokable
+
+\*unrevokable. See **irrevocable**.
+

@@ -1,0 +1,4 @@
+# fore-
+
+fore-. See for-.
+

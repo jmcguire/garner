@@ -1,0 +1,4 @@
+# continuous
+
+continuous. See **continual**.
+

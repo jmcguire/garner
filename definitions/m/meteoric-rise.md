@@ -1,0 +1,4 @@
+# meteoric rise
+
+meteoric rise. This phrase is another example of how idiom trumps logic. Meteors always fall toward the earth. They never actually rise, and even their apparent path is as likely to be falling toward the horizon as rising away from it. Still, the idiom *meteoric rise* is about 90 times as common in print as *meteoric fall*. In fact, it's so much more common that *meteoric* standing alone is now understood to signify quick success—e.g.: "The last time the IRL produced a *meteoric* star of Hornish's caliber, the driver was Tony Stewart." Ed Hinton, "Driver Dust-ups Good Box Office," *Chicago Trib.*, 30 Mar. 2002, Sports §, at 11. A word-frequency graph for the phrase from 1900 to 2000 shows an almost straight-line upward trend—in other words, the very thing commonly denoted by the phrase.
+

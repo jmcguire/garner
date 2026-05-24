@@ -1,0 +1,4 @@
+# polyandry
+
+polyandry. See **polygamy**.
+

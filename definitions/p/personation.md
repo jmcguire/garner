@@ -1,0 +1,4 @@
+# \*personation
+
+\*personation. See **impersonation**.
+

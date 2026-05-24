@@ -1,0 +1,4 @@
+# \*pasttime
+
+\*pasttime. See **pastime**.
+

@@ -1,0 +1,4 @@
+# judicious
+
+judicious. See **judicial**.
+

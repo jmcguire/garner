@@ -1,0 +1,4 @@
+# \*lacrimose
+
+\*lacrimose. See **lachrymose**.
+

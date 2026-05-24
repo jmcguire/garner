@@ -1,0 +1,4 @@
+# insanitary
+
+insanitary. See **unsanitary**.
+

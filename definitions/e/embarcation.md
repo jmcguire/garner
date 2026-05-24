@@ -1,0 +1,4 @@
+# \*embarcation
+
+\*embarcation. See **embarkation**.
+

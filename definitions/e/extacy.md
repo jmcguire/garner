@@ -1,0 +1,4 @@
+# \*extacy
+
+\*extacy. See **ecstasy**.
+

@@ -1,0 +1,4 @@
+# \*empale
+
+\*empale. See **impale**.
+

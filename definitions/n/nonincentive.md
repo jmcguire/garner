@@ -1,0 +1,4 @@
+# nonincentive
+
+nonincentive. See **disincentive**.
+

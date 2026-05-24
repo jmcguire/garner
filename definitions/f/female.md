@@ -1,0 +1,6 @@
+# female
+
+female, adj.; **feminine**; **woman\(ly\)**; **womanlike**; **womanish**; **effeminate**. These adjectives all share the sense "of, relating to, or involving women." *Female* is a neutral term usually used to indicate the sex of a person \(or an animal or plant\), in contrast with *male* <a female cadet> <my female coworkers>. *Feminine* typically refers to what are traditionally considered a woman's favorable qualities <feminine grace>. *Womanly* often carries these positive connotations as well <womanly intuition>, but it's also used to distinguish an adult female from a girl <her womanly figure>. \(*Woman* is sometimes used attributively where *female* would be more natural <a woman lawyer>. These constructions are best avoided.\) *Womanlike* \(the rarest of these words\) is synonymous with *womanly*, though perhaps a bit more neutral <womanlike features>. Finally, *womanish* and *effeminate* are now almost always used in a derogatory way in referring to men who supposedly lack masculine qualities <his womanish laugh> <his effeminate gestures>.
+
+In this era of political correctness, the use of any of these terms can be offensive in certain contexts. Cf. **male**. See sexism.
+

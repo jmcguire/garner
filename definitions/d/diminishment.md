@@ -1,0 +1,4 @@
+# diminishment
+
+diminishment. See **diminution**.
+

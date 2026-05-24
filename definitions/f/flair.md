@@ -1,0 +1,4 @@
+# flair
+
+flair. See **flare**.
+

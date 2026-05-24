@@ -1,0 +1,4 @@
+# \*unfrequent
+
+\*unfrequent. See **infrequent**.
+

@@ -1,0 +1,4 @@
+# \*monies
+
+\*monies. See **moneys**.
+

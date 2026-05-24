@@ -1,0 +1,4 @@
+# wound
+
+wound. See **wind**.
+

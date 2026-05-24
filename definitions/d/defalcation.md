@@ -1,0 +1,6 @@
+# defalcation
+
+defalcation may refer either to the act of embezzling or to the money embezzled, usually the former—e.g.: "The suspect's name is not being released by First Commercial, nor are many details of the alleged *defalcation* \[i.e., the act\]." Mark Anderson, "First Commercial Bank Hit with Alleged Embezzlement," *Bus. J.—Sacramento*, 12 Sept. 1994, § 1, at 2. See **defalcate**.
+
+By slipshod extension, some writers have misused *defalcation* when referring merely to a nonfraudulent default. To be a *defalcation*, a deficiency in money matters must be fraudulent and must be the fault of someone put in trust of the money. To speak of a *loan defalcation* is to fall into ambiguity—e.g.: "Fairfield First Bank submitted a report to the Federal Deposit Insurance Corp. and the state Department of Banking \(DOB\), detailing the alleged losses caused by White's ‘loan *defalcations*,' according to David Tedeschi, a spokesman for the DOB." Don Dzikowski, "Bank Sues Insurers to Recoup Lost Funds," *Fairfield County Bus. J.*, 12 June 1995, at 1. That sentence does not reveal just how serious the alleged wrongdoing was: it was either a criminal act or a noncriminal failure to pay on time.
+

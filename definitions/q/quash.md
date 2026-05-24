@@ -1,0 +1,4 @@
+# quash
+
+quash. See **squash**.
+

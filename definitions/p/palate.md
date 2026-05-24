@@ -1,0 +1,4 @@
+# palate
+
+palate. See **palette**.
+

@@ -1,0 +1,4 @@
+# \*cohabitee
+
+\*cohabitee. See **cohabitant**.
+

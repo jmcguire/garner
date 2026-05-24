@@ -1,0 +1,4 @@
+# \*dieresis
+
+\*dieresis. See **diaeresis**.
+

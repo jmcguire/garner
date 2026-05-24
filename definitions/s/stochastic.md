@@ -1,0 +1,4 @@
+# stochastic
+
+stochastic. See **aleatory**.
+

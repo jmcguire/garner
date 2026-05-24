@@ -1,0 +1,4 @@
+# bale
+
+bale. See **bail**.
+

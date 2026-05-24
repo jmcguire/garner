@@ -1,0 +1,4 @@
+# concede
+
+concede. See **cede**.
+

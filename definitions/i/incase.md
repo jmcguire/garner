@@ -1,0 +1,4 @@
+# \*incase
+
+\*incase. See **encase**.
+

@@ -1,0 +1,4 @@
+# conferment
+
+conferment. See **conferral**.
+

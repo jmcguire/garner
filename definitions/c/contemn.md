@@ -1,0 +1,4 @@
+# contemn
+
+contemn. See **condemn**.
+

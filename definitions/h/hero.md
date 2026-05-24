@@ -1,0 +1,4 @@
+# hero
+
+hero. See **antihero**.
+

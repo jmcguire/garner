@@ -1,0 +1,4 @@
+# counterterrorism
+
+counterterrorism. See **antiterrorism**.
+

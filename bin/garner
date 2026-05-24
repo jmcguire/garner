@@ -1,0 +1,180 @@
+#!/usr/bin/env python3
+
+import argparse
+import re
+import sqlite3
+from pathlib import Path
+from rich.console import Console
+from rich.markdown import Markdown
+
+script_dir = Path(__file__).resolve().parent
+DEFAULT_DB = (script_dir.parent / "var" / "dictionary.sqlite").resolve()
+DEFAULT_DEFINITIONS = (script_dir.parent / "definitions").resolve()
+
+SCHEMA = """
+CREATE TABLE IF NOT EXISTS entries (
+    id INTEGER PRIMARY KEY,
+    headword TEXT NOT NULL UNIQUE,
+    sort_key TEXT NOT NULL UNIQUE,
+    filename TEXT NOT NULL,
+    body_markdown TEXT NOT NULL,
+    body_plain TEXT NOT NULL
+);
+
+CREATE INDEX IF NOT EXISTS idx_entries_sort_key ON entries(sort_key);
+"""
+
+
+def normalize(text):
+    text = text.lower()
+    text = re.sub(r"[^\w\s'-]+", "", text, flags=re.UNICODE)
+    text = re.sub(r"\s+", " ", text, flags=re.UNICODE)
+    return text
+
+
+def markdown_to_plain(text):
+    text = re.sub(r"^#+\s*", "", text, flags=re.MULTILINE)
+    text = re.sub(r"`([^`]*)`", r"\1", text)
+    text = re.sub(r"\*\*([^*]+)\*\*", r"\1", text)
+    text = re.sub(r"\*([^*]+)\*", r"\1", text)
+    return text.strip()
+
+
+def first_heading(markdown):
+    match = re.search(r"^#\s+(.+?)\s*$", markdown, flags=re.MULTILINE)
+    return match.group(1) if match else None
+
+
+def connect(db_path):
+    db_path.parent.mkdir(parents=True, exist_ok=True)
+    conn = sqlite3.connect(db_path)
+    conn.execute("PRAGMA foreign_keys = ON")
+    conn.executescript(SCHEMA)
+    return conn
+
+
+def build(source_dir, db, verbose):
+    source_dir = Path(source_dir)
+    db_path = Path(db).expanduser()
+
+    conn = connect(db_path)
+    conn.execute("DELETE FROM entries")
+
+    console = Console()
+
+    console.print(f"Loading definitions from {source_dir}")
+
+    for path in source_dir.rglob("*.md"):
+
+        body = path.read_text(encoding="utf-8")
+        headword = first_heading(body)
+        sortword = normalize(headword)
+
+        if not headword:
+            if verbose:
+                console.print(f"Skipping {path}: no level 1 heading", style="yellow")
+            continue
+        else:
+            if verbose:
+                console.print(f"loading {headword} ({sortword}) in {path}", style="green")
+
+        conn.execute(
+            """
+            INSERT INTO entries
+                (headword, sort_key, filename, body_markdown, body_plain)
+            VALUES (?, ?, ?, ?, ?)
+            """,
+            (
+                headword,
+                sortword,
+                str(path),
+                body,
+                markdown_to_plain(body),
+            ),
+        )
+
+    conn.commit()
+    conn.close()
+
+    print(f"Built database: {db_path}")
+
+
+def lookup(word, db, verbose):
+    db_path = Path(db).expanduser()
+    key = normalize(word)
+
+    conn = sqlite3.connect(db_path)
+    conn.row_factory = sqlite3.Row
+
+    row = conn.execute(
+        """
+        SELECT headword, body_markdown, filename
+        FROM entries
+        WHERE sort_key = ?
+        """,
+        (key,),
+    ).fetchone()
+
+    conn.close()
+
+    if not row:
+        print(f"No entry found for: {word}")
+        return
+
+    if verbose:
+        print("filename: " + row["filename"])
+
+    console = Console()
+    console.print(Markdown(row["body_markdown"]))
+
+
+def main():
+    parser = argparse.ArgumentParser(prog="dict")
+
+    parser.add_argument(
+        "-d", "--db",
+        default=str(DEFAULT_DB),
+        help=f"SQLite database path; default: {DEFAULT_DB}",
+    )
+
+    parser.add_argument(
+        "-b", "--build",
+        nargs="?",
+        const=True,
+        metavar="DIR",
+        help=f"Build the database from definition files; default: {DEFAULT_DEFINITIONS}",
+    )
+
+    parser.add_argument(
+        "-v", "--verbose",
+        action="store_true",
+        help="Verbose output",
+    )
+
+    parser.add_argument(
+        "word",
+        nargs="?",
+        help="Word to look up",
+    )
+
+    args = parser.parse_args()
+
+    if args.build is None and args.word is None:
+        parser.print_help()
+        parser.exit(1)
+    
+    if args.build is not None:
+        if args.build is True:
+            source_dir = DEFAULT_DEFINITIONS
+        else:
+            source_dir = args.build
+
+        build(source_dir, args.db, args.verbose)
+
+    elif args.word:
+        lookup(args.word, args.db, args.verbose)
+
+
+if __name__ == "__main__":
+    main()
+

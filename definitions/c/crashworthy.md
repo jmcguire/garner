@@ -1,0 +1,4 @@
+# crashworthy
+
+crashworthy. See -worthy.
+

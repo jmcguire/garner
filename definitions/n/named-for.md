@@ -1,0 +1,8 @@
+# named for
+
+named for; **named after**; **named from**. *Named for* means "to be named in honor of \(someone or something\)" <the Nobel Prize was named for Swedish scientist Alfred Nobel>—e.g.: "Saturday's ceremony preceded the Albany Alligators–Fort Worth Cats game at the Paul Eames Sports Complex, *named for* Paul in honor of his decades of work on behalf of baseball and youth sports in Albany." Tim Tucker, "It's a Golden Play at the Plate," *Atlanta J.-Const.*, 24 July 2001, at E2. This usage is chiefly North American.
+
+*Named after* means that a person's or thing's name was given to another person or a place after the namesake was born or achieved fame. It doesn't necessarily connote an honor, but it may—e.g.: "Bradlee seemed to be betting Mrs. Graham's newspaper on the reporting of a couple of then obscure, young city-desk reporters, Bob Woodward and Carl Bernstein, who were in turn relying on anonymous sources, chiefly one *named after* a porn movie, ‘Deep Throat.' " Evan Thomas, "An American Original; Katharine Graham 1917–2001," *Newsweek*, 30 July 2001, at 42.
+
+*Named from* \(the least prevalent phrasing\) applies to things, not people, and means that a name was inspired by something else that isn't necessarily well known or worthy of honor. In some contexts, it signals an implicit memorialization of a predecessor that bore the same name—e.g.: "A new development called Lost Creek proposed by Don Simon Homes in Madison near the town of Blooming Grove has all of its streets *named from* Beatles' song titles." George Hesselberg, "Where the Streets Have Odd Names," *Wis. State J.*, 15 July 2001, at G1. See **eponym**.
+

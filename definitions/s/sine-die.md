@@ -1,0 +1,4 @@
+# sine die
+
+sine die \(= without a day being fixed\) is used to indicate that no date has been set for resumption. The phrase is legalese or officialese for "indefinitely." E.g.: "The court adjourned *sine die*." *Appointment of Iredell*, 2 U.S. \(2 Dall.\) 400, 400 \(1790\) \(term notation\). *Sine die* is used exclusively in reference to adjournment taken with no date set for resumption of the proceedings or meeting. A linguist complains that the phrase is "horribly mispronounced to the point where the first part sounds like the trigonometric function and the second like a synonym for ‘perish.'" Mario Pei, *Words in Sheep's Clothing* 83 \(1969\). But /**sī**-ni **dī**-ee/ has long been established as the usual English-language pronunciation. Even so, /**see**-nay **dee**-ay/ is common in BrE.
+

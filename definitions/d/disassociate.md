@@ -1,0 +1,4 @@
+# \*disassociate
+
+\*disassociate. See **dissociate**.
+

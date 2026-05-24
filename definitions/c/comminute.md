@@ -1,0 +1,4 @@
+# comminute
+
+comminute. See **comminate**.
+

@@ -1,0 +1,4 @@
+# insightful
+
+insightful. See **inciteful**.
+

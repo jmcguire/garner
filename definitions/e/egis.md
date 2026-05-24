@@ -1,0 +1,4 @@
+# \*egis
+
+\*egis. See **aegis**.
+

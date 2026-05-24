@@ -1,0 +1,4 @@
+# \*renouncement
+
+\*renouncement. See **renunciation**.
+

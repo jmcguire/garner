@@ -1,0 +1,4 @@
+# \*delapidation
+
+\*delapidation. See **dilapidation**.
+

@@ -1,0 +1,4 @@
+# registrar
+
+registrar. See **register**.
+

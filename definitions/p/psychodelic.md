@@ -1,0 +1,4 @@
+# \*psychodelic
+
+\*psychodelic. See **psychedelic**.
+

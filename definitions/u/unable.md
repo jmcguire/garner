@@ -1,0 +1,4 @@
+# unable
+
+unable. See **incapable**.
+

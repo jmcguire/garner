@@ -1,0 +1,4 @@
+# operative
+
+operative. See **operable**.
+

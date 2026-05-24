@@ -1,0 +1,4 @@
+# fateful
+
+fateful. See **fatal**.
+

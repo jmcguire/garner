@@ -1,0 +1,4 @@
+# inheritable
+
+inheritable. See **heritable**.
+

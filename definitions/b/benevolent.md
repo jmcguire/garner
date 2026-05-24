@@ -1,0 +1,4 @@
+# benevolent
+
+benevolent. See **beneficent**.
+

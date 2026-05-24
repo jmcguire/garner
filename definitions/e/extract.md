@@ -1,0 +1,4 @@
+# extract
+
+extract. See **extricate**.
+

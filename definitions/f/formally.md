@@ -1,0 +1,4 @@
+# formally
+
+formally. See **formerly**.
+

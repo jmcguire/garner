@@ -1,0 +1,4 @@
+# averse
+
+averse. See **adverse**.
+

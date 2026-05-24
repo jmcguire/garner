@@ -1,0 +1,4 @@
+# \*uncomparable
+
+\*uncomparable. See **incomparable**.
+

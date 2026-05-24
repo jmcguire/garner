@@ -1,0 +1,8 @@
+# colloquial
+
+colloquial. A good deal of confusion has surrounded this word. Traditionally, lexicographers used it to denote that a word so labeled is typical of cultivated conversation or informal speech, as opposed to the most formal style of written prose. E.g.: "The sensible man *speaks* colloquially most of the time. When he wants to be formal or unusually impressive he tries to speak as he thinks he writes. But on these occasions he often makes a pompous ass of himself." Bergen Evans, "Your Speech Is Changing" \(1959\), in *Readings in the Language Arts* 4, 8 \(Verna Dieckman Anderson et al. eds., 1964\).
+
+But many dictionary users mistook the label as indicating a departure from high grammatical standards—even though the dictionary writers who used the label had no such intention. Hence *colloquial*, and especially the corresponding noun *colloquialism*, gradually took on negative connotations. In the second half of the 20th century, most lexicographers dropped the labels. At the same time, mediocre writers strove for hyperformal stiffness, as another authority noted: "Most of us, when we write, have a fear of dropping into colloquialism, and so go to almost any lengths of stilted periphrasis to avoid it." G.H. Vallins, *Good English: How to Write It* 145 \(1951\).
+
+Things have gradually changed, partly as a result of the electronic age: modern communications are increasingly informal. We have come closer to developing a style of speakable writing—one that is natural, idiomatic, and comfortable. Perhaps, after a period of degenerate connotations, *colloquial* will become a term of praise. See casualisms.
+

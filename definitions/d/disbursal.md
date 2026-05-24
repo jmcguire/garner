@@ -1,0 +1,4 @@
+# \*disbursal
+
+\*disbursal. See **disburse**.
+

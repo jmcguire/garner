@@ -1,0 +1,4 @@
+# tureen
+
+tureen; **terrine**. *Tureen* /t\[y\]oo-**reen**/ = a large lidded dish used for serving vegetables or soup. This has been the standard spelling since the early 1700s. Etymologically, it was a corruption of the French word *terrine*—influenced perhaps by the spelling of the Italian city Turin. Beginning in the 1980s and 1990s, *terrine* began to appear on French-influenced ethnic menus throughout the English-speaking world in the sense of either a food made of cooked meat, fish, or fruit and served in a usually loaf-shaped dish; or else the loaf-shaped dish itself. The words are now doublets: they have more or less distinct meanings and forms even though they are etymologically identical <I own a soup *tureen* given to my parents at their wedding in 1951> <she frequently orders lamb-curry *terrine* at her favorite Moroccan restaurant>.
+

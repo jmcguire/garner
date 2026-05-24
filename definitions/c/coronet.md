@@ -1,0 +1,4 @@
+# coronet
+
+coronet. See **cornet**.
+

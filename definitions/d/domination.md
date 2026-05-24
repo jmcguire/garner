@@ -1,0 +1,4 @@
+# domination
+
+domination. See **dominance**.
+

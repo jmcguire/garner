@@ -1,0 +1,4 @@
+# \*rarify
+
+\*rarify. See **rarefy**.
+

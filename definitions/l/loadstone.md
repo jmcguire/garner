@@ -1,0 +1,4 @@
+# \*loadstone
+
+\*loadstone. See **lodestone**.
+

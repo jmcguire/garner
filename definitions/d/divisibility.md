@@ -1,0 +1,4 @@
+# divisibility
+
+divisibility. See **devisability**.
+

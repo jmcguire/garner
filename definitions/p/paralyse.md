@@ -1,0 +1,4 @@
+# paralyse
+
+paralyse. See **paralyze**.
+

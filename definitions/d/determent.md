@@ -1,0 +1,4 @@
+# determent
+
+determent. See **deterrent**.
+

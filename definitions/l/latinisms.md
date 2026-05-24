@@ -1,0 +1,6 @@
+# Latinisms
+
+Latinisms. In the English language, Latin words and phrases typically fall into one of six categories: \(1\) those that are now so common that they're barely recognizable as Latin \(*bonus*, *data*, *vice versa*\); \(2\) those that are reduced to abbreviations, especially in scholarly contexts \(*e.g.*, *i.e.*, *ibid.*, *id.*\); \(3\) those used in jargon of doctors, lawyers, and scientists \(*metatarsus*, *habeas corpus*, *chlorella*\); \(4\) the mottoes and maxims used especially in ceremonial contexts \(*E pluribus unum*, *Sic transit gloria mundi*\); \(5\) those that literate people know and occasionally find useful \(*ipse dixit*, *non sequitur*, *rebus*, *mutatis mutandis*\); and \(6\) the truly rare ones that characterize sesquipedality \(*ceteris paribus*, *hic et ubique*, *ignoratio elenchi*\). Increasingly, the view among stylists is that unless you know that your audience is fairly erudite, categories 3 through 6 are dangerous territory.
+
+For an interesting list of Latinate adjectives describing various animals, see animal adjectives. On whether to italicize words borrowed from Latin and other languages, see italics \(b\). On pluralizing Latin terms, see plurals \(b\) & hypercorrection \(a\).
+

@@ -1,0 +1,4 @@
+# lit
+
+lit. See **lighted**.
+

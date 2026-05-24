@@ -1,0 +1,4 @@
+# purposeful
+
+purposeful. See **purposive**.
+

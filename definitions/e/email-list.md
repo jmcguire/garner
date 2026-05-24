@@ -1,0 +1,4 @@
+# email list
+
+email list; **Listserv**. An *email list* is a subscription service through which participants discuss topics relevant to the forum through emails. *Listserv* is software that runs *email lists*. Although it is common to see *listserv* used to refer to *email lists* generically, that use should be avoided—e.g.: "For about three years I subscribed to an Internet *‘listserv'* \[read *email list*\] that gave charter enthusiasts across America an opportunity to chat." Marion Brady, "Charter Schools: Incubators of Innovation?," *Orlando Sentinel*, 13 Nov. 2002, at A17. *Listserv* is a registered trademark of L-Soft International, Inc. and should always be capitalized. There is no *e* on the end of the name because the software was originally written to run on university IBM mainframe computers, whose filenames were limited to eight characters. And so, for example, the name of a list set up to discuss the works of Shakespeare is *Shakspar*.
+

@@ -1,0 +1,4 @@
+# sank
+
+sank. See **sink**.
+

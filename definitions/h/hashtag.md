@@ -1,0 +1,4 @@
+# hashtag
+
+hashtag \(\#\), a metadata tag used in social media to denote user-generated "folk taxonomy," was the quintessential vogue term of the first two decades of the 21st century. Known also as the *pound sign* or *number symbol* or *octothorpe*, it took on a new life with the advent of Twitter and other social-media sites. People would post a message and then add, for example, "\#goodmemories" or "\#happilymarried"—always without internal spaces or punctuation. About 2008, the term even entered conversations as people would make a comment and then remark, "Hashtag annoyed" or "Hashtag HappyMothersDay." Often the term is invoked with more than a tinge of sarcasm: someone else will self-pityingly harp on personal disappointments, and another \(perhaps a "frenemy"\) will say, "Hashtag Woeisme." See **octothorpe**.
+

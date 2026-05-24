@@ -1,0 +1,4 @@
+# habituation
+
+habituation. See **addicted**.
+

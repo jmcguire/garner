@@ -1,0 +1,4 @@
+# homocentric
+
+homocentric. See **anthropocentric**.
+

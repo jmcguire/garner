@@ -1,0 +1,4 @@
+# apophthegm
+
+apophthegm. See **apothegm**.
+

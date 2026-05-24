@@ -1,0 +1,4 @@
+# adsorb
+
+adsorb. See **absorb**.
+

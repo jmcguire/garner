@@ -1,0 +1,4 @@
+# adolescent
+
+adolescent. See **teenager**.
+

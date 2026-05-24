@@ -1,0 +1,4 @@
+# masculine
+
+masculine. See **male**.
+

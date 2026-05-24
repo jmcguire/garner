@@ -1,0 +1,4 @@
+# \*expediential
+
+\*expediential. See **expeditious**.
+

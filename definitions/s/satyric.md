@@ -1,0 +1,4 @@
+# satyric
+
+satyric. See **satirical**.
+

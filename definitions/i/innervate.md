@@ -1,0 +1,4 @@
+# innervate
+
+innervate. See **enervate**.
+

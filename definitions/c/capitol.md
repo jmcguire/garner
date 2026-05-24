@@ -1,0 +1,4 @@
+# capitol
+
+capitol. See **capital**.
+

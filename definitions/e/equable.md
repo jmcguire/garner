@@ -1,0 +1,4 @@
+# equable
+
+equable. See **equitable**.
+

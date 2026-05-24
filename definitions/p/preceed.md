@@ -1,0 +1,4 @@
+# \*preceed
+
+\*preceed. See **precede**.
+

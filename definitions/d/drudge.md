@@ -1,0 +1,4 @@
+# drudge
+
+drudge. See **drone**.
+

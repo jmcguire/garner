@@ -1,0 +1,4 @@
+# arbiter
+
+arbiter. See **arbitrator**.
+

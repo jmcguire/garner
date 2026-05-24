@@ -1,0 +1,4 @@
+# handsel
+
+handsel, most often a noun meaning either "a luck-inducing gift, esp. a bridegroom's gift to a bride" or "earnest money," can also be a verb meaning "to give a lucky gift or other wish to someone by means of a token." The spelling of the inflected verb leads to the choice between *handseled* and *handseling* \(which, on principle, would predictably be the AmE preferences\) and *handselled* and *handselling* \(predictably the BrE preferences\). In fact, though, the *-ll-* spellings have always predominated across World Englishes. The reason may be the relative rarity of the term: although *Merriam-Webster* and *WNWCD* give priority to the single-*l* inflected forms, they've never come close to predominance in AmE print—probably because they don't occur with enough frequency to have been regularized with *canceled*/*canceling* and *traveled*/*traveling*. See spelling \(c\).
+

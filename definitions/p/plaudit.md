@@ -1,0 +1,4 @@
+# plaudit
+
+plaudit. See **platitude**.
+

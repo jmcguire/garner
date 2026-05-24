@@ -1,0 +1,4 @@
+# \*destroyable
+
+\*destroyable. See **destructible**.
+

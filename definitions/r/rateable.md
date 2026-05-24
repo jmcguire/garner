@@ -1,0 +1,4 @@
+# rateable
+
+rateable. See **ratable**.
+

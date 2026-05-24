@@ -1,0 +1,6 @@
+# authentic
+
+authentic; **genuine**. Although the words are sometimes interchangeable, a couple of distinctions do exist. First, *authentic* is off-target when the sense is "substantial"—e.g.: "No cinema owner has ever lacked for customers with a Woody Allen film. Allen enjoys demi-god status with the intelligentsia but his films are also *authentic* \[read *real* or *genuine*\] crowd-pleasers, with many first-run titles playing for the better part of a year." Lisa Nesselson, "Obscure Helmers Have Gaul," *Variety*, 26 Aug. 2002, Deaville Film Fest. Supp., at 26. Second, *authentic* is an awkward choice when the sense is "sincere"—e.g.: ". . . the stirring color photographs of women and children in liberated Afghanistan, those huge, *authentic* \[read *sincere* or *genuine*\] smiles from human beings who have been rescued from misogynous thugs." George Vecsey, "Knicks Face One Rivalry at a Time," *N.Y. Times*, 16 Nov. 2001, at S1. Cf. **bona fide**.
+
+The *OED* notes that late-18th-century theologians tried to differentiate the words, arguing that a book is *authentic* if its content is accurate, and *genuine* if it is correctly attributed to the writer. The point, weak as it was to begin with, has been preserved in some later usage guides.
+

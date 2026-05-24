@@ -1,0 +1,4 @@
+# nought
+
+nought. See **naught**.
+

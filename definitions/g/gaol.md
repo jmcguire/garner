@@ -1,0 +1,4 @@
+# gaol
+
+gaol. See **jail**.
+

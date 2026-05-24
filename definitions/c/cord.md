@@ -1,0 +1,4 @@
+# cord
+
+cord. See **chord**.
+

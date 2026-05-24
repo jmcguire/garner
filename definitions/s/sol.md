@@ -1,0 +1,4 @@
+# Sol
+
+Sol. See **earth**.
+

@@ -1,0 +1,4 @@
+# faecal
+
+faecal. See **fecal**.
+

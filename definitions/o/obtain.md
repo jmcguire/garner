@@ -1,0 +1,4 @@
+# obtain
+
+obtain. See **attain**.
+

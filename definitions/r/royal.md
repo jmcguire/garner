@@ -1,0 +1,4 @@
+# royal
+
+royal. See **kingly**.
+

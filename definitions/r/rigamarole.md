@@ -1,0 +1,4 @@
+# \*rigamarole
+
+\*rigamarole. See **rigmarole**.
+

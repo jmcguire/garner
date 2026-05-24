@@ -1,0 +1,4 @@
+# \*intrust
+
+\*intrust. See **entrust**.
+

@@ -1,0 +1,4 @@
+# pertain
+
+pertain. See **appertain**.
+

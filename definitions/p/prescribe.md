@@ -1,0 +1,4 @@
+# prescribe
+
+prescribe. See **proscribe**.
+

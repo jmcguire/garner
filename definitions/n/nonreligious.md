@@ -1,0 +1,4 @@
+# nonreligious
+
+nonreligious. See **irreligious**.
+

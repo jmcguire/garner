@@ -1,0 +1,4 @@
+# ochlocracy
+
+ochlocracy. See **mobocracy**.
+

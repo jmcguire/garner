@@ -1,0 +1,4 @@
+# \*forshorten
+
+\*forshorten. See **foreshorten**.
+

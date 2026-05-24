@@ -1,0 +1,4 @@
+# determinism
+
+determinism. See **fatalism**.
+

@@ -1,0 +1,4 @@
+# inductance
+
+inductance. See **inducement**.
+

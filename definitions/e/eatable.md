@@ -1,0 +1,4 @@
+# eatable
+
+eatable. See **edible**.
+

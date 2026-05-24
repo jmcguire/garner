@@ -1,0 +1,4 @@
+# credal
+
+credal. See **creedal**.
+

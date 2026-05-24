@@ -1,0 +1,4 @@
+# routinely
+
+routinely. See **regularly**.
+

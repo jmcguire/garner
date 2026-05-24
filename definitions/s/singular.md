@@ -1,0 +1,4 @@
+# singular
+
+singular. See **single**.
+

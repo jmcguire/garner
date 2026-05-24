@@ -1,0 +1,4 @@
+# certitude
+
+certitude. See **certainty**.
+

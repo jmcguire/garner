@@ -1,0 +1,4 @@
+# \*onery
+
+\*onery. See **ornery**.
+

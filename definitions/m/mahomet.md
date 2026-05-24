@@ -1,0 +1,4 @@
+# Mahomet
+
+Mahomet. See **Muhammad**.
+

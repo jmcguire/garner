@@ -1,0 +1,4 @@
+# discriminating
+
+discriminating. See **discriminatory**.
+

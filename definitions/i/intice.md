@@ -1,0 +1,4 @@
+# \*intice
+
+\*intice. See **entice**.
+

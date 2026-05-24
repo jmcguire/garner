@@ -1,0 +1,4 @@
+# unceremonious
+
+unceremonious. See **ceremonial**.
+

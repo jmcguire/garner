@@ -1,0 +1,4 @@
+# \*incitation
+
+\*incitation. See **incitement**.
+

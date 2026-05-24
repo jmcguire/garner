@@ -1,0 +1,4 @@
+# \*madamoiselle
+
+\*madamoiselle. See **mademoiselle**.
+

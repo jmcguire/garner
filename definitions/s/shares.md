@@ -1,0 +1,4 @@
+# shares
+
+shares. See **stock**.
+

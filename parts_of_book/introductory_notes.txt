@@ -1,0 +1,362 @@
+# ** Quick Editorial Guide ** 
+
+If you’re an editor or teacher, this list of 100 common editorial comments can save considerable time in marking text. Rather than explaining the need for various edits in marginal comments, just key your edits to the discussion in this book by marking the appropriate number alongside the edited passage. The writer can then consult this guide and the relevant pages. You’ll economize in marking pages while still providing an explanation for your edits.
+
+1. Acronymania: pp. 3–4, 1190.
+2. Adverbs—placement of: pp. 30–31.
+3. *Affect* & *effect*: pp. 34–35, 379.
+4. *Aggravate* for *irritate*: pp. 38–39.
+5. *Alot* for *a lot*: p. 50.
+6. Apostrophe misused: pp. 844, 845, 846, 896.
+7. Archaism: pp. 81–84.
+8. *As* & *like*: pp. 665–67.
+9. *Assure* & *ensure* & *insure*: pp. 96–97.
+10. *As to*: pp. 97–98. 
+• Big words: see \#80.
+11. Bullets needed: p. 896.
+12. *But* needed as sentence-starter: pp. 166–68, 554.
+13. Capitalization: pp. 178–80.
+14. Chronology needs improvement: p. 203.
+15. *Clearly*, *obviously*, etc.: pp. 211, 768–69, 1155.
+16. Cliché: pp. 212–13.
+17. Comma misused: pp. 897–99. 
+• Comma, serial: see \#79.
+• Comma splice: see \#77.
+18. Commercialese: p. 226.
+19. *Continual* & *continuous*: pp. 258–59.
+20. Contraction needed: p. 260.
+21. Dangling participle: pp. 290–92.
+22. Dashes needed: pp. 899–900.
+23. *Disinterested* & *uninterested*: p. 345. 
+• *Effect* & *affect*: see \#3.
+24. *Either . . . or*: pp. 383–84. 
+• Elegant variation: see \#41.
+25. Ellipsis needs correct form: pp. 899, 914. 
+• *Ensure* & *insure* & *assure*: see \#9.
+26. Euphemism: pp. 415–16. 
+• Euphony: see \#83.
+27. *Farther* & *further*: pp. 444–45.
+28. *Flaunt* for *flout*: pp. 461–62.
+29. Footnotes need trimming: p. 468.
+30. Formal word mars tone: pp. 474–76.
+31. Fragment: pp. 587–89.
+32. Fused participle: pp. 491–93.
+33. *Historic* & *historical*: p. 545.
+34. *Hopefully*: pp. 552–53.
+35. Hypercorrection: pp. 559–61. 
+• Hyphen needed in phrasal adjective: see \#64.
+36. Hyphen not needed after prefix: pp. 900–01.
+37. *I* & *me* & *myself*: pp. 456, 730, 880–82.
+38. Illogic: pp. 569–71.
+39. *Impact* as a verb: p. 575.
+40. *In connection with*: p. 589.
+41. Inelegant variation: pp. 595–96.
+42. *Infer* for *imply*: pp. 597–98.
+43. *In order to*: pp. 604–05. 
+• *In regard to*: see \#98.
+• *Insure* & *ensure* & *assure*: see \#9.
+44. Irregular verb—use correct form: pp. 620–22.
+45. Italics—problem with: p. 626.
+46. *Its* & *it’s*: p. 627.
+47. *-ize*: p. 627.
+48. Jargon needs simplifying: pp. 628–30.
+49. *Lay* & *lie*: pp. 651–52.
+50. *Less* for *fewer*: pp. 658–60. 
+• *Like* & *as*: see \#8.
+• *Me* & *I* & *myself*: see \#37.
+51. Miscue: pp. 711–13.
+52. Misplaced modifier: pp. 290–92, 570, 712.
+53. Mixed metaphor: p. 704.
+54. *Neither . . . nor*: pp. 742–43. 
+• Nominalization: see \#99.
+55. Non–U wording: pp. 209–10.
+56. Nonword: pp. 750–51.
+57. Noun–pronoun disagreement: pp. 239, 1094–97.
+58. Noun used as verb: pp. 487–90.
+59. Numerals—problems with: pp. 762–63.
+60. *Only* misplaced: pp. 779–80.
+61. Parallelism lacking: pp. 801–02.
+62. *Parameters*: p. 802.
+63. Passive voice: pp. 807–08.
+64. Phrasal adjective—hyphenate: pp. 827–30.
+65. Possessive problem: pp. 854–57.
+66. Prejudicial terminology: pp. 864–65.
+67. Prepositions overused: pp. 866–67.
+68. *Principal* & *principle*: p. 874.
+69. Pronoun problem: pp. 880–83.
+70. Punch word needed at sentence end: p. 979.
+71. Quotation—improve lead-in: pp. 912–14.
+72. Quotation marks—commas and periods inside or outside: p. 902.
+73. Quotation marks misused: p. 902.
+74. *Reason is because*: pp. 926–27.
+75. Redundancy: pp. 932–33.
+76. Remote relative: pp. 942–43.
+77. Run-on sentence: pp. 962–63.
+78. Sentence length: pp. 979–80.
+79. Serial comma: pp. 981–85.
+80. Sesquipedality: pp. 986–88.
+81. Set phrase disturbed: p. 988.
+82. Sexism: pp. 540, 989–92.
+83. Sound of prose: p. 1020.
+84. Spelling: pp. 1024–26.
+85. Split infinitive: pp. 1029–31, 1057–58. 
+• Split verb phrase: see \#2.
+86. Subject–verb disagreement: pp. 238–39, 1044–47.
+87. Subject–verb separation: p. 1047.
+88. Subjunctive problem: pp. 1047–48.
+89. Tense problem: pp. 1080–82.
+90. *That* & *which*: pp. 1086–88.
+91. *That* wrongly omitted: p. 1090.
+92. *Their* & *there* & *they’re*: pp. 1091, 1092.
+93. *There is* & *there are*: pp. 1093–94.
+94. *They* as singular: pp. 239, 1094–97. 
+• *Uninterested* & *disinterested*: see \#23.
+95. *Verbal* & *oral*: p. 1139.
+96. Vogue word: pp. 1147–49. 
+• *Which* & *that*: see \#90.
+97. *Who* & *whom*: pp. 1164–66.
+98. *With regard to* & *in regard to*: p. 936.
+99. Zombie noun: pp. 1186–87.
+100. Wrong word: Check dictionary entry.
+
+
+# Garner’s Modern English Usage 
+
+“Usage . . . is the surest pilot in speaking, and we should treat language as currency minted with the public stamp. But in all cases we have need of a critical judgment.”
+
+—Quintilian, ca. a.d. 88 
+
+
+# **Preface **
+
+Some time ago, while I was standing at a rental-car counter in Austin, Texas, a young clerk told me that a free upgrade to a Cadillac might be available. She would have to see whether any Cadillacs were on the lot.
+
+Two minutes passed as she typed, got on the telephone, twirled her hair around her index finger, and then typed some more. Finally, I said, “Can I get the upgrade?”
+
+“You mean, ‘*May* I get the upgrade,’ ” she responded.
+
+I thought I had imagined it. “What?”
+
+“You said, ‘*Can* I get the upgrade.’ What you mean is, ‘*May* I get the upgrade.’ ”
+
+As it happens, I had been working on the manuscript for this book only minutes before, so I couldn’t help thinking how surreal the experience was. I felt a twinge of indignation—the kind that anyone feels when corrected. But I also found her remark charming in a way. She was doing her best to uphold good English.
+
+But she was wrong, and I gently told her so: “I’m not asking for your permission. I want to know whether you have a Cadillac on the lot. I want to know whether it’s physically possible for me to drive one of them. So: ‘*Can* I get the upgrade?’ ”
+
+“Oh, I guess you’re right,” she said with resignation.
+
+Experiences like that one give me hope: they show that some people still care about our language, however misplaced their concerns might occasionally be.
+
+
+
+# ******The State of the English Language**
+
+Is the English language decaying? Was it once in a pristine state? Has it been sliding ever since?
+
+No on all counts. In many ways, writing today is better than ever. Our best journalists and authors are as talented as any who have ever worked in the language.
+
+But a great deal of mediocre writing also appears in print and online, and both written and oral assaults on the language do seem to come at high velocities. The speed comes from mass communication and social media. Sign on to almost any social-media platform, and you’ll be treated to the heights of inarticulacy. Then imagine all the millions of readers and viewers whose linguistic perceptions are affected by this blather.
+
+There are good, clarifying forces at work on the language. There are also bad, obscuring forces at work. One language, many realities.
+
+The reality I care about most is that some people still want to use the language well. They want to write effectively; they want to speak effectively. They want their language to be graceful at times and powerful at times. They want to understand how to use words well, how to phrase sentences, and how to move about in the language without seeming to flail. They want good grammar, but they want more: they want rhetoric in the traditional sense. That is, they want to use language deftly so that it’s fit for their purposes.
+
+This book is for them.
+
+
+
+# ******First Principles**
+
+Before going further, I should explain my approach. That’s unusual for the author of a usage dictionary—unprecedented, I believe. But a guide to good writing is only as good as the principles on which it’s based. And users of the book should naturally be interested in those principles. So in the interests of full disclosure, here are the ten critical points that, after decades of studying usage problems, I’ve settled on:
+
+
+
+1. **Purpose.** The purpose of a usage dictionary is to help writers, editors, and speakers use the language effectively: to help them sound grammatical but relaxed, refined but natural, correct but unpedantic.
+
+2. **Realism.** To guide users helpfully, recommendations on usage must be genuinely practical. They must recognize the language as it currently stands, encourage reasonable approaches to editorial problems, and avoid refighting battles that were long ago lost. The recommendations, in short, should have empirical support.
+
+3. **Simplicity.** If the same idea can be expressed in a simple way or in a complex way, the simple way is better—and, counterintuitively, it will typically lead readers to conclude that the writer is smarter.
+
+4. **Clarity.** Generally, writing is good if readers find it easy to follow; writing is bad if readers find it hard to follow.
+
+5. **Succinctness.** Omitting needless words is important, especially in writing. As long as it’s accurate and comfortably idiomatic, the briefest way of phrasing an idea is usually best because the brevity enhances speed, clarity, and impact.
+
+6. **Word-judging.** A word or phrase is somewhat undesirable if it has any one of the following characteristics, and it’s worse if it has two or more: 
+
+\(a\) it blurs a useful distinction;
+
+\(b\) it defies logic;
+
+\(c\) it threatens to displace an established expression \(but hasn’t yet done so\);
+
+\(d\) it originated in a misunderstanding of a word or its etymology;
+
+\(e\) it sounds newfangled.
+
+
+
+7. **Differentiation.** If related words—especially those differing only in the suffix—begin to take on different senses, it’s wise to encourage the latent distinctions when they’re first emerging and then to follow them once they’re established.
+
+8. **Needless variants.** Having two or more variant forms of a word is undesirable unless each one conveys a distinct meaning.
+
+9. **Conservatism.** If two constructions are current, but one of them has been widely condemned by acknowledged usage authorities whose values are in line with those outlined in \#6, the other construction is better.
+
+10. **Actual usage.** In the end, the actual usage of educated speakers and writers—whether traditionally educated or self-educated—is the overarching criterion for correctness. But while actual usage can overcome the other factors, it isn’t the only consideration.
+
+
+
+Point \#10 acknowledges that in time, the facts of what users of the language actually do will settle all disputes. But the problem of following statistical evidence of what actually occurs is that things are slowly shifting, and professional writers and editors can’t wait around to see what direction the language takes. They must make decisions. And by doing so, they influence that direction.
+
+A good usage dictionary should help in these decisions. H.W. Fowler’s groundbreaking *Dictionary of Modern English Usage* did that in 1926 and influenced generations; Theodore M. Bernstein’s book *The Careful Writer* did it in 1965; and Wilson Follett’s *Modern American Usage* did it in 1966. That has traditionally been the job of the usage dictionary: to help writers and editors solve editorial predicaments.
+
+
+
+# ******Linguistic Evidence**
+
+This book contains thousands of quotations from published sources. Most are from newspapers, but many are from books and scholarly journals. These quotations came to hand in various ways.
+
+First, they came from my own reading. For several decades, I traveled a good deal, and wherever I went, I made a point of reading and marking up at least one local newspaper, usually more. Upon my return, the marked sentences went into my database.
+
+Second, I have dozens of allies—members of the H.W. Fowler Society, an informal organization I founded—who send me clippings from newspapers. These Fowlerians, who are spread throughout the English-speaking world, have contributed enormously to the book with hundreds of examples.
+
+Third, I’ve supplemented entries with examples gleaned from online databases. Since the 1980s, these electronic sources have provided full-text searchability for millions of published documents—a luxury that earlier lexicographers never enjoyed. Online resources become better year by year.
+
+But before delving further into online resources, I should address a question that some readers may wonder about. Should I really name names? Should I give full citations? Won’t it mortify a journalist to find some badly written sentence preserved in a reference book for all the world to see?
+
+Well, I hope it isn’t mortifying, and for me it’s nothing new. The citations show that the examples are real, not fabricated. They hint at the great variety of evidence on which the judgments in this book are based. And they’re lexicographically noteworthy: they reflect how the language is being used in our time.
+
+The citations are geographically diverse. Although this book is American in origin, and focuses somewhat more on American than on British English, its advice is intended to apply to the many varieties of English around the world. During the mid-20th century, the English language’s center of gravity shifted from England to the U.S. That reality is reflected in the text.
+
+It’s fair to say that the guidance given here is based on a greater corpus of current published writings than any previous usage guide. For contemporary usage, the files of history’s greatest dictionary makers pale in comparison with the searchable databases now available online. The approach here is leavened by a thorough canvassing of actual usage in modern edited prose.
+
+When I say that *self-deprecating* \(traditionally viewed as incorrect\) is 25 times as common as *self-depreciating* \(traditionally viewed as correct\), I have searched databases to give this conservative figure. From 1980 to 1997, *self-deprecating* appeared in 16,040 newspaper sources in the Nexis database, and *self-depreciating* in only 353—a 45:1 ratio. \(The ratio in American judicial opinions is 62:1.\) The Google Books Ngram Viewer—with its corpora based on millions of English-language books—yields data from which the 25:1 ratio is easily derived for the year 2019. So much for the older usage books that recommended *self-depreciating*; that battle is lost.
+
+In this respect—the consideration of voluminous linguistic evidence to back up judgment calls—this book represents a radical departure from most other usage dictionaries.
+
+
+
+# ******Big Data**
+
+Researchers now have access to the largest database for corpus linguistics ever compiled: the Google database of English-language books printed throughout the world. The use of big data in these pages doubtless makes *Garner’s Modern English Usage* the most thoroughly empirical work of its kind. I am grateful to the legal department of Google for arranging for me to be the first author explicitly licensed to reproduce results from the Google Books Ngram Viewer, which shows graphs depicting the relative frequency of specified sequences of words within the corpus of English-language books as compared with other sequences. From this big-data resource, it has become possible to calculate ratios on word frequency and phrase frequency in the greater English-speaking world and its two most prominent varieties: American English and British English. These ratios, found at the end of many entries, provide some fascinating data: the frequency of one form \(the prevalent one\) versus another \(a variant\).
+
+Of course, the ngram data can hardly be viewed as infallible. A false sense of precision may come from a ratio such as 4,376:1 \(the calculation that one word appears in print precisely 4,376 times for every one time that its variant appears\). It may well be that the most current ratios available—for the year 2019—aren’t as fully reliable as those for earlier years: the scanned books are a smaller proportion of all books published that year. There may be other shortcomings. Nevertheless, on balance it seemed better to provide the data than not to, with the stipulation that readers mustn’t view the ratios as immutable truth. Instead, these snapshots of the language, especially when viewed in their relation to usage over time, can provide a sound basis for understanding linguistic developments and usage trends.
+
+To arrive at accurate numbers, I used Google ngrams with contextualized searches within the 2019 Google corpus. The power of these ngrams would have astonished earlier lexicographers—just as it astonished me at first. They take much of the guesswork out of linguistic assessments of Standard Written English. Their reliability was confirmed to me time and again when I compared the results with those from other major corpora. We can now determine, for example, that the phrasal verb *to* *home in on* became common in English print in the 1940s. \(The original metaphor related to homing pigeons.\) We’re also able to know that the variant form *to hone in on* emerged some decades later and has never been used as frequently in published books, though the gap is closing. The variant now rivals the traditional form.
+
+That’s in printed books throughout the English-speaking world. In British books, it’s a 2:1 ratio. In American books, the ratio is 1.2:1. So in American English the variant has gained more ground. Anyone who attentively listens to American speech will notice that most people \(perhaps 80%?\) say *to hone in on*. Who are they? Mostly ordinary people. And who says *to home in on*? Mostly well-read people—subscribers to *The New York Review of Books*, *The New Yorker*, *The Atlantic*, or the like. That’s supportable only by anecdotal evidence—one observer having tested this hypothesis on thousands of audiences over a 20-year period. Yes, the question fascinates me, and I’ve had the good fortune of being able to administer quizzes containing this issue to over 50,000 people on three continents. The evidence isn’t entirely anecdotal, except that I’ve had to take people at their word about their reading habits.
+
+The phrasing *to hone in on* began as a simple error—an example of word-swapping, in which a term gets replaced by its near-homophone. Professional editors have tended to stick to the original formulation, but in this instance the speech habits of English speakers, especially American ones, are increasingly at odds with what appears in well-edited English. At some point the editorial preference for the original phrasing \(*to home in on*\) will more decisively shift. But we’re not to that point yet.
+
+Ascertaining the facts about usage with ngrams is trickier than it might seem: you can’t just search *home in* vs. *hone in*. You’d get many false positives for every reference in English-language books to a *home in Malibu* and similar phrases, with hundreds of thousands of misleading results, if not millions. So the searches have been carefully contextualized, usually by inflecting a verb: *homed in on* vs. *honed in on*. \(Google ngrams allow you to use up to five consecutive words for the purpose of contextualizing.\) In that search, the inflected verb and the preposition produce precise results. A little ingenuity was required to arrive at many of the ratios displayed throughout the text.
+
+With some phrases, big-data research is exceedingly difficult. With *as such*, for example, its rightness depends entirely on what has been said in the preceding sentence: what is the antecedent of *such*? A Google ngram can’t tell you that. So with some words and phrases for which useful ngram data couldn’t be gathered, no comparative information could be supplied. In those instances, ratios wouldn’t be meaningful \(as with *shapable* \[AmE\] vs. *shapeable* \[BrE\], or *supervisorial* \[one sense\] and *supervisory* \[different sense\]\), or else no suitable search could be framed \(as with the adverbial forms *supplely* vs. *supply* \[the latter, of course, being much more frequent as a noun or verb\], or *solon* \[as contrasted with what?\]\). A fair amount of thought went into these decisions. Where ratios do appear, the search terms \(prevalent form vs. variant\) are supplied within parentheses so that it will be clear to the reader what is being compared against what.
+
+One advantage of big data is that outlier instances become trivial. In saying that *Christmas bazaar* is standard and \**Christmas bizarre* a solecism \(marked here by the asterisk\), it matters not that a certain writer might have written, “I thought Christmas bizarre that year.” In the larger scheme of big data, that odd instance becomes unimportant as against the others in which writers have mistakenly used the noun phrase \**Christmas bizarre* in place of the standard phrase to refer to a seasonal marketplace.
+
+A pessimist might well wonder why it’s useful to record a 25,000:1 ratio. \(A few such huge discrepancies in usage are noted.\) The answer is one you could hardly appreciate until you’re suddenly arguing with someone who insists that an outlier usage is correct. One of the virtues of a reliable usage guide is to settle debates between language aficionados, or between editor and author. The empirical evidence here marshaled reduces the degree of opinion involved in such matters.
+
+Reliable data are central to decisions about good usage. The ngrams give us diachronic evidence over the entire period of Modern English \(1700 to date\). Again, they also allow us to calculate relative frequencies of words and phrases for any given year up to 2019. That’s the most recent year for which statistics are available. Hence all my mentions of the “current ratio in print” refer to materials published in 2019. The ratios show a snapshot of usage as it existed in that year. For an example of how valuable this information can be, see the statistics at the end of the entries for **all right \(b\)** and **snuck.**
+
+Those wishing to replicate my research results with the Ngram Viewer should use these settings \(unless otherwise specified in the text\): “smoothing” at 3; case-sensitive searches; English 2019 database. Simply use a search engine to find “Ngram Viewer,” and you’ll soon discover the many delights that ngrams have to offer.
+
+Let me illustrate the lexicographic utility of big data by citing what is in itself a point of only slight importance. When did the standard *hark back* start morphing into \**hearken back*? \(Again, the asterisk marks a nonrecommended variant.\) According to *Webster’s Dictionary of English Usage* \(1989\)—and repeated in its 2002 update—the variant just doesn’t appear in BrE: “We have no evidence that *hearken back* is establishing itself in British use, though it has occasional use in the U.S.” That statement is an extrapolation based on the extensive Merriam-Webster lexicographic files documenting usage.
+
+But with a few seconds of research using ngrams, it’s possible to see that the variant \**hearken back* first appeared in published British books in the mid-1800s and occurred in British writing throughout the 20th century. It didn’t appear in American books with any appreciable frequency until 1888. In both varieties of English, it surged about 1960. In 1989, when *Webster’s Dictionary of English Usage* was first published, the phrase *hark back* outranged \**hearken back* in AmE by a 7:1 ratio, and in BrE by a 45:1 ratio. So the inroads have indeed been greater on the American side. It’s also possible now to see that \**harken back* occurred more frequently in print than \**hearken back* from 1961 to 2002 in AmE and from 1981 to 2000 in BrE. In any event, both \**hearken back* and \**harken back* are variant phrases that have never seriously rivaled the standard phrase \(*hark back*\) in Standard Written English.
+
+So the earlier usage commentators cited negatively by Merriam-Webster—Theodore Bernstein \(1970\) and Roy Copperud \(1980\)—were actually correct in their editorial recommendations against the variants. “They think it must be a mistake,” intones the Merriam-Webster book. Well, yes. A variant newcomer that’s just a by-form of an established term is going to be viewed as an editorial mistake. When Bernstein and Copperud were writing, it was probably a Stage 1 misusage, possibly Stage 2. \(See p. xxv for an explanation of these stages.\) The fact that Merriam-Webster’s files contained a few instances of the linguistic interlopers hardly confirmed their full acceptability. In fairness, though, the Merriam-Webster editors were trying to extrapolate from the relatively sparse evidence they had.
+
+Let’s consider another simple yet even more obscure example: is the word for a wheelbarrow or dumpcart designed for farm use spelled *tumbrel* or *tumbril*? The word dates from the 1300s in English. The *Oxford English Dictionary* \(*OED*\) and most other dictionaries record the primary entry under *tumbrel*, and that was indeed the predominant spelling through the 1700s. But beginning about 1800, the spelling *tumbril* began to dominate. By 1830, its prevalence in print was unquestioned, and the *-el* spelling has never again seriously rivaled the *-il* spelling. We know this from Google ngrams. Yet the dictionaries would lead you to conclude otherwise. This is one tiny example of the valuable information now available to us all.
+
+It’s interesting to speculate about why the change from *tumbrel* to *tumbril* occurred when it did, at the beginning of the 1800s. The fourth edition of a dictionary called *The Complete Farmer*, published in the 1790s, lists only the spelling *tumbrel* and defines it as “a dung-cart.” There must be clues elsewhere.
+
+The 1938 edition of the *Funk & Wagnalls New Standard Dictionary of the English Language* lists this as one meaning of *tumbrel*: “A type of cart in which victims were carried to the guillotine during the first French Revolution \[1787\]: an erroneous use.” *Webster’s Second New International Dictionary* \(1934\) contains a similar definition \(it’s missing from the *OED*\). Mentions of the word *tumbrel* spiked in the late 1780s and 1790s. The switch to the spelling *tumbril* occurred in 1800 in AmE and in the early 1820s in BrE. Could it be that farmers, especially those who wrote about farm-related subjects, wished to avoid, in their ordinary mentions of dumpcarts, associations with the bloody guillotines of revolutionary France and therefore chose the other spelling? That’s just speculation. But such little discoveries hold the possibility of many new avenues of research.
+
+*Hark back* and *tumbril* hint at the wealth of information now available. Multiply those by 5,000 \(for a usage guide\)—or, ultimately, nearly a million \(for a truly unabridged English dictionary\). The degree of ascertainable knowledge about the language is greater than ever before. In the past, lexicographers \(including me\) were playing a guessing game: presented with seven instances, four of them going one way and three another, the dictionary writer would have to make an educated guess about the predominant forms in print. The available evidence was scanty and often unrepresentative. Now much of the guesswork has been eliminated by the powerful tool of big data; lexicography is being revolutionized. Certainly this book has been revolutionized. Every page has been reworked or confirmed by using the extraordinary help of big data.
+
+Mind you, from its very inception in the late 1990s, this book has made copious use of many linguistic corpora. It’s just that the corpus now available is incomparably more vast than what was available when the earlier editions were written.
+
+
+
+# ******Prescribing vs. Describing**
+
+The first several editions made much of the 20th- and 21st-century debates between “descriptivists” and “prescriptivists.” Should we encourage normativity? The debate is old, and it has grown stale. Increasingly, it is passé: descriptivists \(who seek to describe language without judging it\) have in recent years tacitly accepted some degree of prescriptivism, and knowledgeable prescriptivists \(who seek the best uses of language\) have based their judgments more and more on empirical descriptions of English usage.
+
+Despite its prescriptive bent, this book is assuredly descriptive in trying to record the actual state of linguistic affairs, word by word and phrase by phrase. \(Please avoid reading either the P-word or the D-word in the preceding sentence with a preconceived contempt.\) When this book reports ratios of frequency in print, it is essentially recommending the predominant usage and discouraging variants. But current predominance isn’t the only criterion; an evaluation of usage over time comes into play. There are judgment calls.
+
+By supporting normative recommendations with empirical evidence, this book aims to clarify what qualifies as Standard Written English or its spoken equivalent for those who want to achieve good usage. I hope you’re among them.
+
+Bryan A. Garner
+
+Dallas, Texas
+
+
+
+
+
+# **Acknowledgments **
+
+
+
+As with each previous edition of this book, I’ve been fortunate to have help from many quarters. At LawProse, Inc., my skillful and industrious colleagues Karolyne H.C. Garner, Ryden McComas Anderson, Tiger Jackson, Becky R. Moler, and Jeff Newman have provided invaluable help in suggesting and researching entries, finding illustrative examples, calculating and verifying ratios of frequency, and proofreading the rather intricate manuscript. I’m grateful to them all.
+
+Experts lent a hand. John Simpson, the former chief editor of the *Oxford English Dictionary*, reviewed the entire text as special consultant and smartened page after page. So did another Oxford lexicographer, Angus Stevenson, who is head of content development in the Oxford Dictionary Department. The noted linguist Geoffrey K. Pullum, who divides his time between Virginia and Edinburgh, Scotland, reviewed hundreds of entries and made scores of valuable suggestions. My debts to all three are incalculable.
+
+A talented group of allies read and commented on 55-page segments of the book. They were my panel of critical readers, with varying fields of expertise. They have my abiding gratitude: Mark Allen of Bexley, Ohio; Hannah Bryan of Millington, Michigan; Joel Burkholder of Toronto, Ontario; Jean Coatney of College Station, Texas; Anthony Collins of Toronto, Ontario; T.L. Cubbage of Plano, Texas; David E. Fawcett of Laredo, Texas; Lisa Fleck of Austin, Texas; Joshua J. Friedman of Brooklyn, New York; Jana Goldman of Honor, Michigan; Everett Gossard of St. Charles, Missouri; John Hawkinson of Cambridge, Massachusetts; Richard Heppner Jr. of Pittsburgh, Pennsylvania; Paul J. Krog of Brentwood, Tennessee; Joseph Lam of San Gabriel, California; Michael Leddy of Charleston, Illinois; Ian S. Lewenstein of River Falls, Wisconsin; Nancy Bellhouse May of Little Rock, Arkansas; Daniel F. McMahon of Chicago, Illinois; Thomas Meagher of Palm Desert, California; Marcos A. Mendoza of Austin, Texas; John A. Moessner of Kansas City, Missouri; Colleen M. Newbill of Bloomington, Indiana; Loretta Pedersen of Walla Walla, Washington; David W. Schultz of Pearland, Texas; Liz Seif of Lexington, Kentucky; Phillip Shaverdian of Dallas, Texas; Clint C. Stevens of Centralia, Illinois; Michael Ann Straughan of Austin, Texas; Laura E. Thomason of Lizella, Georgia; Richard S. Walinski of Ottawa Hills, Ohio; David Yontz of Athens, Georgia; Kyu Ho Youm of Eugene, Oregon; and Eric H. Zumbach of Minneapolis, Minnesota.
+
+I’ve had excellent suggestions along the way from any number of readers—thousands of them, in fact. Among the most prolific contributors were Ken Adlum, the late Sheridan Baker, Robert Ballou, Isabel Barzun, Sandra Cheng, Christopher Covell, David Dollenmayer, Charles Harrington Elster, Emilio Englade, Matthew J. Franck, Alexandra B. Garner, Caroline B. Garner, Gary T. Garner, Phil Gaskell, Shmuel Gerber, the late Justice Ruth Bader Ginsburg, Mark Halpern, Russell Harper, David Kazdan, Ryan S. Kelly II, Joseph Kimble, Karen Larsen, Nicholas Lemann, Thomas B. Lemann, Joan Maling, Jonathan McCall, John E. McIntyre, Brian Melendez, Gary Muldoon, Alison Parker, Sir Christopher Ricks, the late Justice Antonin Scalia, Merrie Spaeth, Maryirene Stevens, Randall Tietjen, John R. Trimble, the late John W. Velz, Edward T. Wahl, Barbara Wallraff, Jeffrey S. Westbrook, and the late Charles Alan Wright. At Google, Jon Orwant \(the deviser of Google’s ngrams\) and Darryl Chiang \(of the legal department\) proved enormously helpful. At Oxford University Press, I’ve benefited from the expertise of many editors over the years; for this edition, I’m particularly grateful to Casper Grathwohl, Damon Zucca, Jo Payne, and Joanna Harris. Every edition of this book has benefited from the superb copyediting of Karen Magnuson, an editorial marvel.
+
+It has been gratifying over the years to hear from so many people who are interested in English usage. I’m continually heartened by their support and enthusiasm.
+
+B.A.G.
+
+
+# **Abbreviations **
+
+adj. =   adjective   adv. =   adverb   *AHD* =   *The American Heritage Dictionary of the English Language* \(5th ed. 2011\)   Am. =   American   AmE =   American English   Aus. =   Australia, Australian   *BBBM* =   Charles Harrington Elster, *The Big Book of Beastly Mispronunciations* \(2d ed. 2005\)   Br. =   British   BrE =   British English   ca. =   \(*circa*\) around   Can. =   Canadian   cap. =   capitalized   cf. =   \(*confer*\) compare with   *CGEL* =   Rodney Huddleston & Geoffrey K. Pullum, *The Cambridge Grammar of the English Language* \(2002\)   *COD* =   *The Concise Oxford Dictionary of Current English* \(8th ed. 1990\)   colloq. =   colloquial   conj. =   conjunction   *DAEU* =   Margaret Nicholson, *A Dictionary of American-English Usage* \(1957\)   *DARE* =   *Dictionary of American Regional English* \(6 vols., 1985–2013\)   *DCAU* =   Bergen Evans & Cornelia Evans, *A Dictionary of Contemporary American Usage* \(1957\)   ed. =   edition; editor   e.g. =   \(*exempli gratia*\) for example   Eng. =   English   esp. =   especially   ex. =   example   fig. =   figuratively   *FMEU1* =   H.W. Fowler, *A Dictionary of Modern English Usage* \(1926\)   *FMEU2* =   H.W. Fowler, *A Dictionary of Modern English Usage* \(Ernest Gowers ed., 2d ed. 1965\)   *FMEU3* =   R.W. Burchfield, *The New Fowler’s Modern English Usage* \(1996\)   fr. =   from; derived from; found in   Fr. =   French   G.B. =   Great Britain \(i.e., England, Scotland, and Wales\)   Ger. =   German   Gk. =   Greek   *ibid.* =   \(*ibidem*\) in the same source   i.e. =   \(*id est*\) that is   Irl. =   Ireland   Ital. =   Italian   Jap. =   Japanese   L. =   Latin   l.c. =   lowercase   lit. =   literally   L.J. =   Law Journal   L. Rev. =   Law Review   *MAU* =   Wilson Follett, *Modern American Usage* \(1966\)   ME =   Middle English \(1100–1499\)   *MWDEU* =   *Merriam-Webster’s Dictionary of English Usage* \(1989\)   n. =   noun   no. =   number   *NOAD* =   *The New Oxford American Dictionary* \(3d ed. 2010\)   Norw. =   Norwegian   obs. =   obsolete   OE =   Old English \(450–1099\)—same as Anglo-Saxon   *OED* =   *Oxford English Dictionary* \(online 3d ed. as it was in 2021\)   *OED2* =   *The Oxford English Dictionary* \(2d ed. 1989\)   *OED Supp.* =   *A Supplement to the Oxford English Dictionary* \(4 vols., 1972–1986\)   OF =   Old French \(700–1400\)   orig. =   originally   p. =   page   phr. =   phrase   pl. =   plural   pp. =   pages   p.pl. =   past participle   prep. =   preposition   pron. =   pronoun   pr.pl. =   present participle   pt. =   part   quot. =   quotation   repr. =   reprinted   rev. =   revised by; revision   *RH2* =   *The Random House Dictionary of the English Language* \(2d ed. 1987\)   Russ. =   Russian   Scot. =   Scottish   sing. =   singular   *SOED* =   *Shorter Oxford English Dictionary* \(6th ed. 2007\)   Sp. =   Spanish   specif. =   specifically   s.v. =   \(*sub verbo*\) under the word   trans. =   translator   *U&A* =   Eric Partridge, *Usage & Abusage* \(1942\)   U.K. =   United Kingdom \(i.e., Great Britain and Ireland from 1801 to 1922; Great Britain and Northern Ireland since 1922\)   U.S. =   United States   *USGPO* =   *United States Government Printing Office Style Manual* \(rev. ed. 2016\)   usu. =   usually   vb. =   verb   v.i. =   intransitive verb   v.t. =   transitive verb   *W2* =   *Webster’s New International Dictionary of the English Language* \(2d ed. 1934\)   *W3* =   *Webster’s Third New International Dictionary of the English Language* \(1961\)   *W11* =   *Merriam-Webster’s Collegiate Dictionary* \(11th ed. 2003\)   *WNWCD* =   *Webster’s New World College Dictionary* \(5th ed. 2014\)  
+
+
+# **Pronunciation Key **
+
+*The analogous symbols of the International Phonetic Alphabet are in square brackets.*
+
+
+
+**ә** *for all the vowel sounds in* amok, rum, but \[ә\]   **a** *as in* fact, vat \[æ\]   **ah** *as in* calm, father \(1st syllable\) \[ɑː\]   **ahr** *as in* bar, start \[ɑːɹ\]   **air** *as in* flare, lair \[ɛ͡ɚ\]   **aw** *as in* tall, law \[ɔː\] or \[ɑː\]   **ay** *as in* page, same \[e͡ɪ\]   **b** *as in* balk, job \[b\]   **ch** *as in* chief, bench \[ʧ\]   **d** *as in* deck, red \[d\]   **e** *as in* leg, pet \[ɛ\]   **ee** *as in* flea, ceiling \[iː\]   **eer** *as in* mere, tier \[i͡ɚ\] or \[ɪ͡ɚ\]   **f** *as in* fence, off \[f\]   **g** *as in* go, mug \[ɡ\]   **h** *as in* harp, hold \[h\]   **hw** *as in* which, while \[ʍ\]   **i** *as in* rib, akin \[ɪ\]   **ī** *as in* time, eye \[a͡ɪ\]   **j** *as in* jump, magic \[ʤ\]   **k** *as in* cap, keep, quit, school \[k\]   **l** *as in* lever, pill \[l\]   **m** *as in* muck, drum \[m\]   **n** *as in* note, clown \[n\]   ***n*** *the nasalized French* n *as in* contretemps, Saint-Saëns \[ɑ̃\]   **ng** *as in* long, plank \[ŋ\]   **o** *as in* hot, posh \[ɑ\] or \[ɒ\]   **oh** *as in* loan, home \[oː\] or \[o͡ʊ\]   **oi** *as in* join, ploy \[ɔ͡ɪ\]   **oo** *as in* rule, tomb \[uː\]   **oor** *as in* poor, pure \[ʊ͡ɚ\] or \[ɔ͡ː\]   **or** *as in* board, court \[ɔ͡ː\]   **ow** *as in* plow, loud \[a͡ʊ\]   **p** *as in* poem, drop \[p\]   **r** *as in* rank, hear \[ɹ\] or \[ɻ\]   **s** *as in* cite, seek, pass \[s\]   **sh** *as in* sharp, trash \[ʃ\]   **t** *as in* time, boot \[t\]   **th** *as in* thin, math \[θ\]   **th** *as in* there, bathe \[ð\]   **ʊ** *as in* took, pull \[ʊ\]   **v** *as in* vague, shiver \[v\]   **w** *as in* witch, away, suede \[w\]   **y** *as in* year, union \[j\]   **z** *as in* zone, please \[z\]   **zh** *as in* measure, vision \[ʒ\]  
+
+
+
+
+
+# ** Key to the Language-Change Index  **
+
+
+
+
+
+**Stage 1:** A new form emerges as an innovation \(or some dialectal usage persists\) among a small minority of the language community, perhaps displacing a traditional usage. Examples include the misspellings \**baited breath* for *bated breath*; \**bellweather* for *bellwether*; the misbegotten \**harp back* for *hark back*; the double negative \**unrelentlessly* for the correct *relentlessly* or *unrelentingly*; and the dialectal \**brung* for *brought*. People normally consider innovations at this stage outright mistakes. Most people who are aware of them hope they won’t spread.
+
+**Stage 2:** The form spreads to a significant portion of the language community, but it remains unacceptable in standard usage. Examples include *alumni* and *criteria* used as singulars \(rather than the standard *alumnus*, *alumna*, or even *alum* on the one hand, and *criterion* on the other\); *sherbet* misspelled and mispronounced \**sherbert* \(with an extra *r*\); and *infer* misused for *imply*. Although terms in Stage 2 often get recorded in dictionaries as variants, this fact alone is hardly a recommendation for their use.
+
+**Stage 3:** The form becomes commonplace even among many well-educated people, but it’s still avoided in careful usage. Examples include \**adopted mother* for *adoptive mother*; \**gladiolas* for *gladioli* or *gladioluses* \(or simply *glads*\); *idyllic* for *ideal*; \**miniscule* for the correct spelling *minuscule*; the supposed contraction \**’til* for the good old word *till* \(as in *We’ll be here till noon*\); *peruse* used to mean “scan hastily” rather than “read carefully”; and using a nominative pronoun in compound objects such as \**between you and I* rather than *between you and me*.
+
+**Stage 4:** The form becomes virtually universal but is opposed on cogent grounds by a few linguistic stalwarts \(the traditionalists that David Foster Wallace dubbed “snoots”: syntax nudniks of our time\). Examples include pronouncing *flaccid* as /**flas**-id/ instead of the traditional /**flak**-sid/ \(like *access* \[/**ak**-ses/\] and *accident* \[/**ak**-sә-dent/\]\); using \**hone in* for *home in* \(traditionally it’s what homing pigeons do\); using *unbeknownst* for *unbeknown*; and saying or writing \**the reason is because* instead of *the reason is that.*
+
+**Stage 5:** The form is universally adopted except by a few eccentrics. It’s a linguistic fait accompli: what was once merely de facto has become accepted as de jure. There’s no going back here. Examples include *chaperone* \(which erroneously acquired the final *e*—a spelling that didn’t become standard until the 1970s\); *contact* as a verb \(as in *I’ll contact you next week*\); the verb *finalize* \(*Let’s finalize our plans*\); the adjective *interpretive* instead of the traditional *interpretative*; *pompom* instead of *pompon* in reference to cheerleaders’ ornamental fluffy balls; the adjective *self-deprecating* instead of the original *self-depreciating* \(which the British still sometimes insist on\); the saying *You can’t have your cake and eat it too* \(as opposed to the original and more logical sequence from centuries ago: *You can’t eat your cake and have it too*\); and *nimrod* in the Bugs Bunny sense.
+
+
+
+Many mutations never progress beyond Stage 1. They stay in the shadows of the language, emerging now and again, mostly to the annoyance of educated people. Arguments often erupt about words and phrases in Stages 2 and 3. But if a mutation makes its way to Stage 4, its long-term progression to Stage 5 is all but certain: it’s just a question of the passing of time, whether decades or mere days.
+
+If the index were not measuring change but instead were expressing static linguistic phenomena, many serviceable analogies would come to mind. I list six of them here simply to help readers envision the levels of acceptability intended to be conveyed by the idea of stages. We begin with the notation that appears at the bottom of each right-hand page and then have the six analogies.
+
+
+# **Pronunciation Key** 
+
+*The analogous symbols of the International Phonetic Alphabet are in square brackets.*
+
+
+
+**ә** *for all the vowel sounds in* amok, rum, but \[ә\]   **a** *as in* fact, vat \[æ\]   **ah** *as in* calm, father \(1st syllable\) \[ɑː\]   **ahr** *as in* bar, start \[ɑːɹ\]   **air** *as in* flare, lair \[ɛ͡ɚ\]   **aw** *as in* tall, law \[ɔː\] or \[ɑː\]   **ay** *as in* page, same \[e͡ɪ\]   **b** *as in* balk, job \[b\]   **ch** *as in* chief, bench \[ʧ\]   **d** *as in* deck, red \[d\]   **e** *as in* leg, pet \[ɛ\]   **ee** *as in* flea, ceiling \[iː\]   **eer** *as in* mere, tier \[i͡ɚ\] or \[ɪ͡ɚ\]   **f** *as in* fence, off \[f\]   **g** *as in* go, mug \[ɡ\]   **h** *as in* harp, hold \[h\]   **hw** *as in* which, while \[ʍ\]   **i** *as in* rib, akin \[ɪ\]   **ī** *as in* time, eye \[a͡ɪ\]   **j** *as in* jump, magic \[ʤ\]   **k** *as in* cap, keep, quit, school \[k\]   **l** *as in* lever, pill \[l\]   **m** *as in* muck, drum \[m\]   **n** *as in* note, clown \[n\]   ***n*** *the nasalized French* n *as in* ­contretemps, Saint-Saëns \[ɑ̃\]   **ng** *as in* long, plank \[ŋ\]   **o** *as in* hot, posh \[ɑ\] or \[ɒ\]   **oh** *as in* loan, home \[oː\] or \[o͡ʊ\]   **oi** *as in* join, ploy \[ɔ͡ɪ\]   **oo** *as in* rule, tomb \[uː\]   **oor** *as in* poor, pure \[ʊ͡ɚ\] or \[ɔ͡ː\]   **or** *as in* board, court \[ɔ͡ː\]   **ow** *as in* plow, loud \[a͡ʊ\]   **p** *as in* poem, drop \[p\]   **r** *as in* rank, hear \[ɹ\] or \[ɻ\]   **s** *as in* cite, seek, pass \[s\]   **sh** *as in* sharp, trash \[ʃ\]   **t** *as in* time, boot \[t\]   **th** *as in* thin, math \[θ\]   **th** *as in* there, bathe \[ð\]   **ʊ** *as in* took, pull \[ʊ\]   **v** *as in* vague, shiver \[v\]   **w** *as in* witch, away, suede \[w\]   **y** *as in* year, union \[j\]   **z** *as in* zone, please \[z\]   **zh** *as in* measure, vision \[ʒ\]
+
+
+

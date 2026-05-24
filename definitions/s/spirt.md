@@ -1,0 +1,4 @@
+# \*spirt
+
+\*spirt. See **spurt**.
+

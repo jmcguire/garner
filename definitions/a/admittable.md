@@ -1,0 +1,4 @@
+# \*admittable
+
+\*admittable. See **admissible**.
+

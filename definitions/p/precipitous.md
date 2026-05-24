@@ -1,0 +1,4 @@
+# precipitous
+
+precipitous. See **precipitate**.
+

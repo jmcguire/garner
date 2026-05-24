@@ -1,0 +1,4 @@
+# \*swop
+
+\*swop. See **swap**.
+

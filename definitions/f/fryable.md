@@ -1,0 +1,4 @@
+# fryable
+
+fryable. See **friable**.
+

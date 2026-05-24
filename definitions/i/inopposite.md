@@ -1,0 +1,4 @@
+# \*inopposite
+
+\*inopposite. See **inapposite**.
+

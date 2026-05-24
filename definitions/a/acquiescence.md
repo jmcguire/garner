@@ -1,0 +1,4 @@
+# acquiescence
+
+acquiescence. See **permission**.
+

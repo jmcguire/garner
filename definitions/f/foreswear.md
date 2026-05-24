@@ -1,0 +1,4 @@
+# \*foreswear
+
+\*foreswear. See **forswear**.
+

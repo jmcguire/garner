@@ -1,0 +1,4 @@
+# \*diffusable
+
+\*diffusable. See **diffusible**.
+

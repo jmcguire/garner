@@ -1,0 +1,4 @@
+# inept
+
+inept. See **inapt**.
+

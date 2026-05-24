@@ -1,0 +1,4 @@
+# uninterest
+
+uninterest. See **disinterest**.
+

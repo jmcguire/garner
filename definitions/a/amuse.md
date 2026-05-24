@@ -1,0 +1,4 @@
+# amuse
+
+amuse. See **bemuse**.
+
