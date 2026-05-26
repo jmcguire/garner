@@ -12,31 +12,31 @@ This is nothing new. In 1989, the University of Missouri-Columbia School of Jour
 
 There were a dozen primary categories of objectionable terms, namely, those that:
 
-• reinforce invidious stereotypes for women \(*airhead*, *ball and chain*, *bimbo*, *chick*, *dingbat*, *ditz*, *shrew*, *wench*\);
+ - reinforce invidious stereotypes for women \(*airhead*, *ball and chain*, *bimbo*, *chick*, *dingbat*, *ditz*, *shrew*, *wench*\);
 
-• comment on a woman's body \(*buxom*, *cheesecake*, *full-figured*, *statuesque*, *voluptuous*\);
+ - comment on a woman's body \(*buxom*, *cheesecake*, *full-figured*, *statuesque*, *voluptuous*\);
 
-• comment on a woman's sexuality \(*frigid*, *nympho*, *slut*, *whore*\);
+ - comment on a woman's sexuality \(*frigid*, *nympho*, *slut*, *whore*\);
 
-• reinforce invidious stereotypes for minorities \(*bandido*, *boy* \[in reference to an adult\], *Chinaman*, *Chink*, *colored*, *coolie*, *coon*, *frito bandito*, *gook*, *greaser*, *Guido*, *Injun*, *Jap*, *Julio*, *Kike*, *raghead*, *Uncle Tom*\);
+ - reinforce invidious stereotypes for minorities \(*bandido*, *boy* \[in reference to an adult\], *Chinaman*, *Chink*, *colored*, *coolie*, *coon*, *frito bandito*, *gook*, *greaser*, *Guido*, *Injun*, *Jap*, *Julio*, *Kike*, *raghead*, *Uncle Tom*\);
 
-• associate foods with particular races \(*fried chicken*, *watermelon*\);
+ - associate foods with particular races \(*fried chicken*, *watermelon*\);
 
-• denote racial mixtures \(*Amerasian*, *halfie*, *mulatto*, *octoroon*, *quadroon*\);
+ - denote racial mixtures \(*Amerasian*, *halfie*, *mulatto*, *octoroon*, *quadroon*\);
 
-• denigrate a person's religious beliefs \(*Bible-thumper*, *Cafeteria Christian*, *Holy Roller*, *Hymie*, *Jesus freak*, *Yid*\);
+ - denigrate a person's religious beliefs \(*Bible-thumper*, *Cafeteria Christian*, *Holy Roller*, *Hymie*, *Jesus freak*, *Yid*\);
 
-• belittle senior citizens \(*blue-haired*, *codger*, *coot*, *geezer*, *senile*\);
+ - belittle senior citizens \(*blue-haired*, *codger*, *coot*, *geezer*, *senile*\);
 
-• characterize people with disabilities \(*crip*, *crippled*, *dumb*, *pegleg*, *retarded*, *spastic*, *vegetable*\);
+ - characterize people with disabilities \(*crip*, *crippled*, *dumb*, *pegleg*, *retarded*, *spastic*, *vegetable*\);
 
-• perpetuate stereotypes of men as sexual conquerers \(*Don Juan*, *lady killer*, *Latin lover*, *stallion*, *stud*\);
+ - perpetuate stereotypes of men as sexual conquerers \(*Don Juan*, *lady killer*, *Latin lover*, *stallion*, *stud*\);
 
-• invoke nationality or race in insulting ways \(*Dutch treat*, *gyp*, *Indian giver*, *Jew down*\);
+ - invoke nationality or race in insulting ways \(*Dutch treat*, *gyp*, *Indian giver*, *Jew down*\);
 
-• insult LGBTQ people \(*dyke*, *faggot*, *fairy*, *fruit*, *queer*\); and
+ - insult LGBTQ people \(*dyke*, *faggot*, *fairy*, *fruit*, *queer*\); and
 
-• denote gender gratuitously in a way traditionally regarded—by many—as demeaning \(*comedienne*, *executrix*, *poetess*, *prosecutrix*, *starlet*, *waitress*\).
+ - denote gender gratuitously in a way traditionally regarded—by many—as demeaning \(*comedienne*, *executrix*, *poetess*, *prosecutrix*, *starlet*, *waitress*\).
 
 Also on the list were various terms denoting racial minorities that are "X on the outside and white on the inside": *banana* or *Twinkie* \(Asian\), *coconut* \(brown\), and *Oreo* or *Hostess Cupcake* \(Black\).
 

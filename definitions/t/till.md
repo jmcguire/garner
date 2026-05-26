@@ -2,11 +2,11 @@
 
 till; **until**. *Till* is, like *until*, a bona fide preposition and conjunction. Though perhaps a little less formal than *until*, *till* is neither colloquial nor substandard. As Anthony Burgess put it, "In nonpoetic English we use ‘till' and ‘until' indifferently." *A Mouthful of Air* 158 \(1992\). In AmE and BrE alike, the phrases *till noon* and *till midnight* occurred much more frequently than *until noon* and *until midnight*—till, that is, about 1900. Today the prepositional *till* is especially common in BrE—e.g.:
 
-• "After the First World War, Hatay, named by Attaturk after the Hittites, fell into the hands of the French, who did not return it *till* 1939." Daniel Farson, "Rich Rewards in the Land of the Hittites," *Independent*, 1 Apr. 1995, at 37.
+ - "After the First World War, Hatay, named by Attaturk after the Hittites, fell into the hands of the French, who did not return it *till* 1939." Daniel Farson, "Rich Rewards in the Land of the Hittites," *Independent*, 1 Apr. 1995, at 37.
 
-• "It was not *till* 1994 that the New Yorker unmasked Reage as journalist Dominique Aury—Paulhan's long-standing lover." Jonathan Romney, "Story of O and S&M," *Guardian*, 21 Mar. 1997, at T9.
+ - "It was not *till* 1994 that the New Yorker unmasked Reage as journalist Dominique Aury—Paulhan's long-standing lover." Jonathan Romney, "Story of O and S&M," *Guardian*, 21 Mar. 1997, at T9.
 
-• "He works from dawn *till* dusk, six days a week." Adrian Brewer, "The House of God That Justo Built," *Daily Telegraph*, 31 Mar. 1997, at 17.
+ - "He works from dawn *till* dusk, six days a week." Adrian Brewer, "The House of God That Justo Built," *Daily Telegraph*, 31 Mar. 1997, at 17.
 
 And it still occurs in AmE—e.g.: "In medium skillet, sauté the garlic *till* golden. Add onion, wait *till* brown." Jan Norris, "Latin, Asian Fests Add Spice to Weekend," *Palm Beach Post*, 23 Mar. 1995, at FN1.
 

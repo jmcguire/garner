@@ -6,11 +6,11 @@ douse; **dowse**. These words are best kept separate. To *douse* /dows/ is to so
 
 But the opposite error, *dowse* for *douse*, is more common—e.g.:
 
-• "\[T\]he next year quickly *dowsed* \[read *doused*\] his spirits." John Harold Plumb, *Sir Robert Walpole* 131 \(1956\).
+ - "\[T\]he next year quickly *dowsed* \[read *doused*\] his spirits." John Harold Plumb, *Sir Robert Walpole* 131 \(1956\).
 
-• "So firefighters use tankers to shuttle water to portable tanks, which are filled with water that firefighters draw on to *dowse* \[read *douse*\] fires." John C. Keuhner, "Pond Solves Firefighting Problem," *Plain Dealer* \(Cleveland\), 25 Oct. 1995, at B1.
+ - "So firefighters use tankers to shuttle water to portable tanks, which are filled with water that firefighters draw on to *dowse* \[read *douse*\] fires." John C. Keuhner, "Pond Solves Firefighting Problem," *Plain Dealer* \(Cleveland\), 25 Oct. 1995, at B1.
 
-• "Derry firefighters, assisted by departments from four towns, *dowsed* \[read *doused*\] five or six burning cars with foam last night at the same junkyard where more than 100 vehicles burned five months ago." "Correction: Stacked Cars Burn," *N.H. Sunday News*, 25 Nov. 2001, at A4.
+ - "Derry firefighters, assisted by departments from four towns, *dowsed* \[read *doused*\] five or six burning cars with foam last night at the same junkyard where more than 100 vehicles burned five months ago." "Correction: Stacked Cars Burn," *N.H. Sunday News*, 25 Nov. 2001, at A4.
 
 Language-Change Index
 

@@ -4,9 +4,9 @@ renowned \(= famous\) is so spelled. *\*Reknowned* is wrong but fairly common fo
 
 The noun form is *renown*; there is no verb \(despite the past-participial adjective *renowned*\). The adjective is sometimes wrongly written *\*reknown* or *renown*—e.g.:
 
-• "Michaels became *reknown* \[read *renowned*\] for ‘The War Song.' " "The Week in Music," *San Diego Union-Trib.*, 15 Mar. 1984, Panorama §, at 6.
+ - "Michaels became *reknown* \[read *renowned*\] for ‘The War Song.' " "The Week in Music," *San Diego Union-Trib.*, 15 Mar. 1984, Panorama §, at 6.
 
-• "There will be a DVD viewing of a lecture by the *renown* \[read *renowned*\] author Doug Tallamy." "What's Happening," *Orlando Sentinel*, 21 May 2015, at G1.
+ - "There will be a DVD viewing of a lecture by the *renown* \[read *renowned*\] author Doug Tallamy." "What's Happening," *Orlando Sentinel*, 21 May 2015, at G1.
 
 The adjective is pronounced /ri-**nownd**/.
 

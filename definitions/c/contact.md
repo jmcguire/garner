@@ -4,13 +4,13 @@ contact, v.t. Many language authorities vehemently objected to this verb in the 
 
 Although *get in touch with* was the predominant locution from 1900 to the late 1940s, the verb use of *contact* had gained predominance by 1960. Brevity recommends it over *get in touch with* or *communicate with*; it should no longer be considered stylistically infelicitous even in formal contexts. E.g.:
 
-• "One former Palatine village official *contacted* during the investigation called the BGA report a ‘sleazy witch hunt.' " John Carpenter & Becky Beaupre, "Panel Slams Palatine Probe," *Chicago Sun-Times*, 21 Nov. 1997, at 6.
+ - "One former Palatine village official *contacted* during the investigation called the BGA report a ‘sleazy witch hunt.' " John Carpenter & Becky Beaupre, "Panel Slams Palatine Probe," *Chicago Sun-Times*, 21 Nov. 1997, at 6.
 
-• "The Goodmans *contacted* Searle and presented him with a detailed record of their claim to the painting." Adam Zagorin, "Saving the Spoils of War," *Time*, 1 Dec. 1997, at 87.
+ - "The Goodmans *contacted* Searle and presented him with a detailed record of their claim to the painting." Adam Zagorin, "Saving the Spoils of War," *Time*, 1 Dec. 1997, at 87.
 
-• "It is also a way for friends and family . . . to *contact* you." Lynn O'Rourke, "Plans Help International Travel Go Smoothly," *Boston Herald*, 28 Dec. 2015, at 29.
+ - "It is also a way for friends and family . . . to *contact* you." Lynn O'Rourke, "Plans Help International Travel Go Smoothly," *Boston Herald*, 28 Dec. 2015, at 29.
 
-• "If you wish to *contact* me for any reason . . . , feel free to do so." Steve Rowland, "Bigger Crowds Have Brought Some Issues," *Blackpool Gaz.* \(U.K.\), 8 Oct. 2021, at 24.
+ - "If you wish to *contact* me for any reason . . . , feel free to do so." Steve Rowland, "Bigger Crowds Have Brought Some Issues," *Blackpool Gaz.* \(U.K.\), 8 Oct. 2021, at 24.
 
 If, however, the meaning is clearly either *call* or *write*, the specific verb is preferable.
 

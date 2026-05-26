@@ -2,9 +2,9 @@
 
 crow, v.i. A cock *crows*. But if you want to describe what a cock has already done, do you say *crowed* or *crew*? The modern preference is for *crowed*—e.g.:
 
-• "Above the din of car horns, a cock *crowed*." David Arnold, "Cooped Up in the Suburbs," *Boston Globe*, 15 Dec. 1994, at 1.
+ - "Above the din of car horns, a cock *crowed*." David Arnold, "Cooped Up in the Suburbs," *Boston Globe*, 15 Dec. 1994, at 1.
 
-• "Early-bird discounts encouraged shoppers to splash through crowded parking lots to save a few bucks before the cock *crowed*." Becky Tiernan, "Stores Lure Big Crowds," *Tulsa World*, 30 Nov. 1996, at A1.
+ - "Early-bird discounts encouraged shoppers to splash through crowded parking lots to save a few bucks before the cock *crowed*." Becky Tiernan, "Stores Lure Big Crowds," *Tulsa World*, 30 Nov. 1996, at A1.
 
 But until about 1912, published instances of the collocation *cocks crew* were more common than those of *cocks crowed*; in BrE, the two collocations were about equal. In the 1920s, that changed in both varieties of English, and *crowed* came to predominate as the past-tense form.
 

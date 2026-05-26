@@ -4,9 +4,9 @@ climb.
 
 **A. Declension: *climb* > *climbed* > *climbed*.** The past-tense *\*clumb* or *\*clomb* and the past-participial *\*clumb* are dialectal. They sometimes occur in reported speech, especially *\*clumb*—e.g.:
 
-• "Mr. Wimberly, who's 73, says he hasn't ‘*clumb* a tree' and used a cane pole since his 40s." Nancy Kruh, "The Path to Pecan Pie," *Dallas Morning News*, 23 Nov. 1995, at C1.
+ - "Mr. Wimberly, who's 73, says he hasn't ‘*clumb* a tree' and used a cane pole since his 40s." Nancy Kruh, "The Path to Pecan Pie," *Dallas Morning News*, 23 Nov. 1995, at C1.
 
-• "Like Lt. Zebulon Pike said when he discovered it in 1806, ‘I seen it and I *clumb* it,' we *clumb* it too, and thrilled to a midsummer snowball fight." Larry Alexander, " ‘Little Monsters' Head West," *Intelligencer J.* \(Lancaster, Pa.\), 25 July 2001, at 1.
+ - "Like Lt. Zebulon Pike said when he discovered it in 1806, ‘I seen it and I *clumb* it,' we *clumb* it too, and thrilled to a midsummer snowball fight." Larry Alexander, " ‘Little Monsters' Head West," *Intelligencer J.* \(Lancaster, Pa.\), 25 July 2001, at 1.
 
 See dialect & irregular verbs \(d\).
 

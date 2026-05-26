@@ -8,9 +8,9 @@ apt.
 
 The same distinction between *apt* and *likely* applies in the best American usage. In the following sentences, *apt* is correctly used of general or habitual tendencies, rather than a likelihood in a particular instance—e.g.:
 
-• "But be aware: seedling foliage looks like grass, and it is *apt* to be treated as such by meticulous gardeners." Nell Lewis, "Freeze Lays Fall Colors to Rest," *News & Record* \(Greensboro\), 10 Dec. 1997, at R4.
+ - "But be aware: seedling foliage looks like grass, and it is *apt* to be treated as such by meticulous gardeners." Nell Lewis, "Freeze Lays Fall Colors to Rest," *News & Record* \(Greensboro\), 10 Dec. 1997, at R4.
 
-• "The kind of people who seek out written arguments are *apt* to bring to the written word a fund of information and opinions." George F. Will, "The Pursuit of Happiness Is Happiness," *Watertown Daily Times* \(N.Y.\), 17 Sept. 2021, at A4.
+ - "The kind of people who seek out written arguments are *apt* to bring to the written word a fund of information and opinions." George F. Will, "The Pursuit of Happiness Is Happiness," *Watertown Daily Times* \(N.Y.\), 17 Sept. 2021, at A4.
 
 Language-Change Index
 

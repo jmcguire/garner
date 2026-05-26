@@ -4,11 +4,11 @@ graffiti. *W11* notes that this plural, originally Italian, "is sometimes used w
 
 Sometimes one sees *graffito* when the sense is undeniably singular and the mass noun would be inappropriate—e.g.:
 
-• "The young Indian submerged in the menacing urban emptiness of a London ghetto where the least offensive *graffito* says ‘Go Home to Pakistan.' " Julian Symons, "The Three Faces of Ruth Rendell," *Wash. Post*, 18 Oct. 1987, Book World §, at 9.
+ - "The young Indian submerged in the menacing urban emptiness of a London ghetto where the least offensive *graffito* says ‘Go Home to Pakistan.' " Julian Symons, "The Three Faces of Ruth Rendell," *Wash. Post*, 18 Oct. 1987, Book World §, at 9.
 
-• "Tommaso adds a peace symbol to his completed *graffito*." John McPhee, "Season on the Chalk," *New Yorker*, 12 Mar. 2007, at 58.
+ - "Tommaso adds a peace symbol to his completed *graffito*." John McPhee, "Season on the Chalk," *New Yorker*, 12 Mar. 2007, at 58.
 
-• "Troops in Qurah, Iraq, rest under a *graffito* left by insurgents." *Time*, 16 Apr. 2007, at 28 \(photo caption\).
+ - "Troops in Qurah, Iraq, rest under a *graffito* left by insurgents." *Time*, 16 Apr. 2007, at 28 \(photo caption\).
 
 See count nouns and mass nouns.
 

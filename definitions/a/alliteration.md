@@ -8,15 +8,15 @@ Sometimes alliteration reinforces sarcasm, as when Vice President Spiro Agnew re
 
 At other times alliteration merely creates memorable phrasing—e.g.:
 
-• "Only active measures, *promptly* applied, can *provide* this *poor*, *pusillanimous* *poop* with the *proper* *pep*." P.G. Wodehouse, *Right Ho, Jeeves* 129 \(1934; repr. 1986\) \(consonance\).
+ - "Only active measures, *promptly* applied, can *provide* this *poor*, *pusillanimous* *poop* with the *proper* *pep*." P.G. Wodehouse, *Right Ho, Jeeves* 129 \(1934; repr. 1986\) \(consonance\).
 
-• "Nothing *sounds* more *studied* than a repeated *spontaneity*." Tom Stoppard, *Lord Malquist and Mr. Moon* pt. 2, at 1 \(1966\) \(consonance\).
+ - "Nothing *sounds* more *studied* than a repeated *spontaneity*." Tom Stoppard, *Lord Malquist and Mr. Moon* pt. 2, at 1 \(1966\) \(consonance\).
 
-• "She had a *sneaky, sly, shy, squamous* personality." Ursula K. Le Guin, *The Lathe of Heaven* 92 \(1971\) \(consonance\).
+ - "She had a *sneaky, sly, shy, squamous* personality." Ursula K. Le Guin, *The Lathe of Heaven* 92 \(1971\) \(consonance\).
 
-• "Music is unique among the *fine* arts in that it calls *for* a response not only *from* the *head* and the *heart* but also, *frequently*, *from* one or more of the *feet*." Frank Muir, *An Irreverent and Thoroughly Incomplete Social History of Almost Everything* 1 \(1976\) \(consonance\).
+ - "Music is unique among the *fine* arts in that it calls *for* a response not only *from* the *head* and the *heart* but also, *frequently*, *from* one or more of the *feet*." Frank Muir, *An Irreverent and Thoroughly Incomplete Social History of Almost Everything* 1 \(1976\) \(consonance\).
 
-• "A moment later, the banister gave way, and the *pair* on the *stair* were in the *air*." Roger Zelazny, *A Night in the Lonesome October* 200 \(1993\) \(assonance\).
+ - "A moment later, the banister gave way, and the *pair* on the *stair* were in the *air*." Roger Zelazny, *A Night in the Lonesome October* 200 \(1993\) \(assonance\).
 
 Sometimes alliteration is risky. If it leads you into sesquipedality just for the sake of sound, it will probably annoy some readers—e.g.: "Lukacs has an *eagle eye* for the *etiology* of *error* and the seductions of false logic." Ron Rosenbaum, "Springtime for Hitler," *L.A. Times*, 23 Nov. 1997, at 12. If that writer hadn't been lured by alliteration, he almost certainly would have used *cause* rather than *etiology* there. See **etiology**.
 

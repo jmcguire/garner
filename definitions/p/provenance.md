@@ -8,11 +8,11 @@ Current ratio in print \(*provenance* vs. *provenience*\): 30:1
 
 **B. Misused for *province*.** *Provenance* is sometimes misused for *province* \(= domain\), a malapropism—e.g.:
 
-• "Where ‘The Full Monty' makes something akin to a political gesture is in drawing attention to the nude male body, a subject more typically the *provenance* \[read *province*\] of avant-garde artists and photographers than of big Broadway musicals." Reed Johnson, "Bare Truths of Character," *L.A. Times*, 21 Apr. 2002, § 6, at 8.
+ - "Where ‘The Full Monty' makes something akin to a political gesture is in drawing attention to the nude male body, a subject more typically the *provenance* \[read *province*\] of avant-garde artists and photographers than of big Broadway musicals." Reed Johnson, "Bare Truths of Character," *L.A. Times*, 21 Apr. 2002, § 6, at 8.
 
-• "Large, complex documents, once the *provenance* \[read *province*\] of professional printers, were brought in-house to word processing departments years ago." Greta Ostrovitz, "Cadwalader Finds a Better Way to Train Staff," *N.Y.L.J.*, 28 May 2002, at 5.
+ - "Large, complex documents, once the *provenance* \[read *province*\] of professional printers, were brought in-house to word processing departments years ago." Greta Ostrovitz, "Cadwalader Finds a Better Way to Train Staff," *N.Y.L.J.*, 28 May 2002, at 5.
 
-• "If it thinks about it at all, popular opinion may hold that just intonation—the use of purely consonant tunings based on the overtone series—is the *provenance* \[read *province*\] of math geeks with synthesizers." Kyle Gann, "Overtones of Eternity," *Village Voice*, 4 June 2002, at 117.
+ - "If it thinks about it at all, popular opinion may hold that just intonation—the use of purely consonant tunings based on the overtone series—is the *provenance* \[read *province*\] of math geeks with synthesizers." Kyle Gann, "Overtones of Eternity," *Village Voice*, 4 June 2002, at 117.
 
 Language-Change Index
 

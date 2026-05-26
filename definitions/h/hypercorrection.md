@@ -8,16 +8,16 @@ This foible can have several causes. Often, it results from an attempt to avoid 
 
 *Hypercorrect Plural* *Latin Plural* *English Plural*                       
 
-• apparati apparatus apparatuses                                           
-• fori fora forums                                                        
-• ignorami [A vb. in L.] ignoramuses                                       
-• isthmi [Gk. sing. n.: isthmos] isthmuses                                 
-• mandami [A vb. in L.] mandamuses                                         
-• mittimi [A vb. in L.] mittimuses                                         
-• nexi nexus nexuses                                                       
-• octopi [Gk. pl. octopodes] octopuses                                     
-• prospecti prospectus prospectuses                                        
-• stati status statuses                                                    
+ - apparati apparatus apparatuses                                           
+ - fori fora forums                                                        
+ - ignorami [A vb. in L.] ignoramuses                                       
+ - isthmi [Gk. sing. n.: isthmos] isthmuses                                 
+ - mandami [A vb. in L.] mandamuses                                         
+ - mittimi [A vb. in L.] mittimuses                                         
+ - nexi nexus nexuses                                                       
+ - octopi [Gk. pl. octopodes] octopuses                                     
+ - prospecti prospectus prospectuses                                        
+ - stati status statuses                                                    
 
 **B. Pronoun Troubles.** Replacements of *me* with a hypercorrect           
 *I*—instances of word-swapping with pronouns—are nothing new. They may be   
@@ -84,40 +84,40 @@ presenters—all of whom seem to perceive the superiority of the nominative
 case, especially *I*. But notice that many of these bulleted items don't    
 involve the first person:                                                   
 
-• "We put a picture of Bush and *I* [read *me*] at ground zero." Senator    
+ - "We put a picture of Bush and *I* [read *me*] at ground zero." Senator    
 Chuck Schumer, MSNBC, 3 Nov. 2017.                                          
 
-• "I want to play the clip with *he* [read *him*] and Dana Carvey." Chuck   
+ - "I want to play the clip with *he* [read *him*] and Dana Carvey." Chuck   
 Todd, *Meet the Press* (NBC), 12 Feb. 2018.                                 
 
-• "You know, this is a big difference between my opponent and *I* [read     
+ - "You know, this is a big difference between my opponent and *I* [read     
 *me*]." Senator Cindy Hyde-Smith, televised debate, 20 Nov. 2018.           
 
-• "Mueller filed new charges against Manafort in D.C., accusing both *he*   
+ - "Mueller filed new charges against Manafort in D.C., accusing both *he*   
 [read *him*] and his longtime associate." Ali Velshi, MSNBC, 26 Nov. 2018.  
 
-• " . . . two years as National Security Adviser to *he* [read *him*] and   
+ - " . . . two years as National Security Adviser to *he* [read *him*] and   
 President Reagan." General Colin Powell, *This Week with George             
 Stephanopoulos* (ABC), 2 Dec. 2018.                                         
 
-• "I think you see through George's tweet the commonality between *he and I*
+ - "I think you see through George's tweet the commonality between *he and I*
 [read *him and me*]." Neal Katyal, *AC 360* (CNN), 14 Dec. 2018.            
 
-• "Barbara Bush thought Nancy Reagan kicked *she* [read *her*] and George   
+ - "Barbara Bush thought Nancy Reagan kicked *she* [read *her*] and George   
 H.W. Bush when they were down." Jessica Sager, Fox News, 9 Apr. 2019.       
 
-• "I began by asking how months of public attacks by President Trump on *he*
+ - "I began by asking how months of public attacks by President Trump on *he*
 [read *him*] and his son affected him personally." Chuck Todd, *Meet the    
 Press* (NBC), 16 Feb. 2020.                                                 
 
-• "It makes me kind of sad when you show her and *I* [read *me*] sitting    
+ - "It makes me kind of sad when you show her and *I* [read *me*] sitting    
 together." Senator Cory Booker, *Deadline: White House* (CNN), 7 Oct. 2020. 
 
-• "He's named somebody who he says is the guilty party who's trying to      
+ - "He's named somebody who he says is the guilty party who's trying to      
 extort *he* [read *him*] and his family." Rachel Maddow, *The Rachel Maddow 
 Show* (MSNBC), 3 Mar. 2021.                                                 
 
-• "They kept *he* [read *him*] and his colleagues in a Taliban zone in      
+ - "They kept *he* [read *him*] and his colleagues in a Taliban zone in      
 Pakistan." Rachel Maddow, *The Rachel Maddow Show* (MSNBC), 14 Apr. 2021.   
 
 The trouble inevitably arises with coordinated (conjoined) objects. When a  

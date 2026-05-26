@@ -2,9 +2,9 @@
 
 forcible; **forceable**; **forceful**. Oddly, we have the spellings *enforceable* but *forcible*. \(See **enforceable**.\) The usual form, *forcible* means "effected by force against resistance"—e.g.:
 
-• "Driving the 4% dip in violent crime through June were drops in homicide, 2%; *forcible* rape, 6%." Robert Davis, "Random Killings Hit a High," *USA Today*, 5 Dec. 1994, at A1.
+ - "Driving the 4% dip in violent crime through June were drops in homicide, 2%; *forcible* rape, 6%." Robert Davis, "Random Killings Hit a High," *USA Today*, 5 Dec. 1994, at A1.
 
-• "Steel insulated or solid core wood doors offer the most resistance to *forcible* entry, provided there are no sidelights." Linda Syron, "Helpful Ways to Keep Burglars at Bay," *Toronto Sun*, 15 Dec. 1996, at H10.
+ - "Steel insulated or solid core wood doors offer the most resistance to *forcible* entry, provided there are no sidelights." Linda Syron, "Helpful Ways to Keep Burglars at Bay," *Toronto Sun*, 15 Dec. 1996, at H10.
 
 *Forceable*, though it might appear a needless variant, carries a passive sense: "capable of being forced" <she tried to coerce him, but he simply wasn't forceable>.
 

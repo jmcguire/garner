@@ -4,11 +4,11 @@ golf. One may either *play golf* \(the phrase dates from ca. 1575\) or simply *g
 
 Writers on golf often disparage the verb *golf* as symptomatic of linguistic dufferdom—e.g.:
 
-• One writer states: "If you call yourself a golfer, you never use *golf* as a verb. You never say ‘We went *golfing*.' *Golf* to a golfer is a noun. A guy tells you he ‘*golfs*,' and you know he's clueless." David Burgin, "A True Olympian's Golden Review," *S.F. Examiner*, 14 June 1998, at D18.
+ - One writer states: "If you call yourself a golfer, you never use *golf* as a verb. You never say ‘We went *golfing*.' *Golf* to a golfer is a noun. A guy tells you he ‘*golfs*,' and you know he's clueless." David Burgin, "A True Olympian's Golden Review," *S.F. Examiner*, 14 June 1998, at D18.
 
-• Another refers mockingly to "the unwashed who think the word *golf* and its derivatives can be used as verbs \(‘Hey, Ralph, ya wanna go *golfing* tomorrow?' ‘Nah, Jim, I *golfed* yesterday'\)." David Climer, "Senior Tour Isn't Aging Very Nicely," *Tennessean*, 20 July 1999, at C1.
+ - Another refers mockingly to "the unwashed who think the word *golf* and its derivatives can be used as verbs \(‘Hey, Ralph, ya wanna go *golfing* tomorrow?' ‘Nah, Jim, I *golfed* yesterday'\)." David Climer, "Senior Tour Isn't Aging Very Nicely," *Tennessean*, 20 July 1999, at C1.
 
-• A third says that "using *golf* as a verb \[is\] a linguistic gaffe akin to shortening San Francisco to Frisco." Bill Ott, "Blue Fairways," *Booklist*, 1 Sept. 1999, at 63.
+ - A third says that "using *golf* as a verb \[is\] a linguistic gaffe akin to shortening San Francisco to Frisco." Bill Ott, "Blue Fairways," *Booklist*, 1 Sept. 1999, at 63.
 
 See functional shift \(d\).
 

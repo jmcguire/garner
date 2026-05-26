@@ -4,11 +4,11 @@
 
 After *reason is*, you'll need a noun phrase, a predicate adjective, or a clause introduced by *that*. The best cure for *\*reason is because* is to replace *because* with *that*—e.g.:
 
-• "Marcello \(Jean Reno\) has one frantic mission in life: to keep anyone from dying in the small Italian village where he lives. The *reason is because* \[read *reason is that*\] there are only three plots left in the local cemetery and his terminally ill wife, Roseanna \(Mercedes Ruehl\), wishes only that she be buried next to their daughter." "Ticket," *Star-Ledger* \(Newark\), 27 June 1997, at 14.
+ - "Marcello \(Jean Reno\) has one frantic mission in life: to keep anyone from dying in the small Italian village where he lives. The *reason is because* \[read *reason is that*\] there are only three plots left in the local cemetery and his terminally ill wife, Roseanna \(Mercedes Ruehl\), wishes only that she be buried next to their daughter." "Ticket," *Star-Ledger* \(Newark\), 27 June 1997, at 14.
 
-• "The second *reason is because of* \[read *reason relates to*\] the different research perspectives taken in regard to the causes of dyslexia." Denis Lawrence, *Understanding Dyslexia* 29 \(2009\).
+ - "The second *reason is because of* \[read *reason relates to*\] the different research perspectives taken in regard to the causes of dyslexia." Denis Lawrence, *Understanding Dyslexia* 29 \(2009\).
 
-• "There are varying opinions about how a financial model should look. One *reason is because* \[read *reason is that*\] modeling is a relatively recent practice." Jack Avon, *The Handbook of Financial Modeling* xiii \(2013\).
+ - "There are varying opinions about how a financial model should look. One *reason is because* \[read *reason is that*\] modeling is a relatively recent practice." Jack Avon, *The Handbook of Financial Modeling* xiii \(2013\).
 
 As an empirical matter, standard english has embraced *reason is that* over *\*reason is because* since the late 1700s. The predominance of the former has been most stark since 1900.
 

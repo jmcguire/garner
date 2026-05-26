@@ -4,11 +4,11 @@ tend = \(1\) to be predisposed to \[something\]; or \(2\) to look after or care 
 
 *Tend* is sometimes wrongly made *tender*, more commonly in BrE than in AmE—e.g.:
 
-• "She witnessed Neilson fall repeatedly into her carefully *tendered* \[read *tended*\] flower beds." "Savage Deeds in the Garden," *Evening Post*, 22 June 1998, TV §, at 15.
+ - "She witnessed Neilson fall repeatedly into her carefully *tendered* \[read *tended*\] flower beds." "Savage Deeds in the Garden," *Evening Post*, 22 June 1998, TV §, at 15.
 
-• "Their plants, lovingly and carefully *tendered* \[read *tended*\], are their pride and joy." Danielle Gusmaroli, " ‘Gardeners' Dig In for Flower Pot Fight," *Evening Standard*, 12 Feb. 2001, at 9.
+ - "Their plants, lovingly and carefully *tendered* \[read *tended*\], are their pride and joy." Danielle Gusmaroli, " ‘Gardeners' Dig In for Flower Pot Fight," *Evening Standard*, 12 Feb. 2001, at 9.
 
-• "Kevin, a black teenager in South Africa, proudly shows off his well *tendered* \[read *-tended*\] garden and a small hut which he calls home." Hardev Kaur, "Blacks Continue to Live in Poverty," *New Straits Times* \(Malaysia\), 23 May 2001, at 10.
+ - "Kevin, a black teenager in South Africa, proudly shows off his well *tendered* \[read *-tended*\] garden and a small hut which he calls home." Hardev Kaur, "Blacks Continue to Live in Poverty," *New Straits Times* \(Malaysia\), 23 May 2001, at 10.
 
 See **exhibit a tendency**.
 

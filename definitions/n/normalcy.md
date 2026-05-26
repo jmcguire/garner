@@ -2,9 +2,9 @@
 
 normalcy; **normality**. The first was long considered inferior to the second—and was far less common in print sources through about 2020. All that changed with the Covid-19 pandemic that began in 2020. E.g.:
 
-• "The pandemic and the loss of *normalcy* are taking a tremendous toll on students." Dr. Scott Balsitis et al., "Schools Don't Need Mask Mandates to Keep Children COVID-safe," *Asheville Citizen-Times*, 16 Feb. 2022, at A4.
+ - "The pandemic and the loss of *normalcy* are taking a tremendous toll on students." Dr. Scott Balsitis et al., "Schools Don't Need Mask Mandates to Keep Children COVID-safe," *Asheville Citizen-Times*, 16 Feb. 2022, at A4.
 
-• "Live theater continues its slow march toward something resembling *normalcy* in the pandemic era." Jessica Gelt, "How Confronting His White Privilege Led Bryan Cranston to ‘Power of Sail,' " *L.A. Times*, 16 Feb. 2022.
+ - "Live theater continues its slow march toward something resembling *normalcy* in the pandemic era." Jessica Gelt, "How Confronting His White Privilege Led Bryan Cranston to ‘Power of Sail,' " *L.A. Times*, 16 Feb. 2022.
 
 The catchphrase *return to normalcy* became ubiquitous both in speech and in reputable writing in the 2020s—to such an extent that *return to normality* seemed simply abnormal in AmE. \(It remained the usual wording in BrE.\) In fact, with that particular phrasing, *return to normalcy* has predominated in AmE since about 1920.
 

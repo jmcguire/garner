@@ -4,13 +4,13 @@ only.
 
 **A. Placement.** *Only* is perhaps the most frequently misplaced of all English words. Its best placement is precisely before the words intended to be limited. The more words separating *only* from its correct position, the more awkward the sentence. And such a separation can lead to ambiguities. \(Cf. **just** & **solely**.\) Yet the strong but unfortunate tendency is to stick *only* right before the verb or verb phrase regardless of the illogic that creates—e.g.:
 
-• "The prosecution was hindered from seeking a conviction on attempted manslaughter charges because Seles elected not to testify at the hearing and *only provided her medical records shortly before* \[read *provided her medical records only shortly before*\] the trial was to begin." Cindy Shmerler, "WTA Still Working for Harsher Sentence," *USA Today*, 28 Apr. 1994, at C11.
+ - "The prosecution was hindered from seeking a conviction on attempted manslaughter charges because Seles elected not to testify at the hearing and *only provided her medical records shortly before* \[read *provided her medical records only shortly before*\] the trial was to begin." Cindy Shmerler, "WTA Still Working for Harsher Sentence," *USA Today*, 28 Apr. 1994, at C11.
 
-• "So far, the county proposes that PDA \[planned-development agriculture\] *only be allowed for about* \[read *be allowed for only about*\] 15 areas in the eastern county." Dale White, "Instead of Homes on Huge Lots, Houses Could Be Clustered Around Open Land," *Sarasota Herald-Trib.*, 19 Nov. 1997, at B1.
+ - "So far, the county proposes that PDA \[planned-development agriculture\] *only be allowed for about* \[read *be allowed for only about*\] 15 areas in the eastern county." Dale White, "Instead of Homes on Huge Lots, Houses Could Be Clustered Around Open Land," *Sarasota Herald-Trib.*, 19 Nov. 1997, at B1.
 
-• "In the U.S., boys *only seem to go for girl heroes when* \[read *seem to go for girl heroes only when*\] they are teamed up with male partners, as in the Power Rangers." Philip Murphy, "Kidvid Producers Cautiously Optimistic," *Variety*, 1 Dec. 1997, at 70.
+ - "In the U.S., boys *only seem to go for girl heroes when* \[read *seem to go for girl heroes only when*\] they are teamed up with male partners, as in the Power Rangers." Philip Murphy, "Kidvid Producers Cautiously Optimistic," *Variety*, 1 Dec. 1997, at 70.
 
-• "You'd *only* need an apostrophe if you used a noun after the possessive." Mary Newton Bruder, *The Grammar Lady* 106 \(2000\). \[A suggested revision: *You'd need an apostrophe only if you used a noun after the possessive.*\]
+ - "You'd *only* need an apostrophe if you used a noun after the possessive." Mary Newton Bruder, *The Grammar Lady* 106 \(2000\). \[A suggested revision: *You'd need an apostrophe only if you used a noun after the possessive.*\]
 
 The great H.W. Fowler was surprisingly permissive on this point back in 1926: "There is an orthodox position for the adverb, easily determined in case of need; to choose another position that may spoil or obscure the meaning is bad; but a change of position that has no such effect except technically is both justified by historical & colloquial usage & often demanded by rhetorical needs" \(*FMEU1* at 405–06\). The problem with Fowler's view is that what is merely "technically" obscure for one person may for another person be a full-fledged ambiguity.
 

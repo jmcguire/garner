@@ -4,23 +4,23 @@ media; **medium**. Strictly speaking, the first is the plural of the second <the
 
 But it's still possible \(and preferable\) to draw the line at *\*medias*, a double plural that arose in the 1950s—e.g.:
 
-• "He is one of just a few actors to appear in the same role in all three *medias* \[read *media*\]—stage, TV and screen." Crosby Day, "Stewart Delights in ‘Harvey,' " *Orlando Sentinel*, 31 Mar. 1996, at 49.
+ - "He is one of just a few actors to appear in the same role in all three *medias* \[read *media*\]—stage, TV and screen." Crosby Day, "Stewart Delights in ‘Harvey,' " *Orlando Sentinel*, 31 Mar. 1996, at 49.
 
-• "LinkedIn is one of the best but least understood social *medias* in today's business marketplace." "Local Business Calendar," *Telegram & Gaz.* \(Worcester\), 30 Aug. 2015, News §, at 2. \(A possible revision: *LinkedIn is one of the most useful but least understood social-media platforms in today's business marketplace.*\)
+ - "LinkedIn is one of the best but least understood social *medias* in today's business marketplace." "Local Business Calendar," *Telegram & Gaz.* \(Worcester\), 30 Aug. 2015, News §, at 2. \(A possible revision: *LinkedIn is one of the most useful but least understood social-media platforms in today's business marketplace.*\)
 
 *Mediums* is the correct plural when the sense of *medium* is "a clairvoyant or spiritualist"—e.g.:
 
-• "Contact is initiated by the deceased, and no psychics, *mediums* or devices are involved." Kim Gilmore, "Workshop Discusses Messages from the Dead," *St. Petersburg Times* \(Fla.\), 14 Oct. 1996, Citrus Times §, at 1.
+ - "Contact is initiated by the deceased, and no psychics, *mediums* or devices are involved." Kim Gilmore, "Workshop Discusses Messages from the Dead," *St. Petersburg Times* \(Fla.\), 14 Oct. 1996, Citrus Times §, at 1.
 
-• "Now, with us as witnesses, Carol was about to perform what is known as ‘channeling'—a technique commonly used by many psychics and *mediums*." Chris Morton & Ceri Louise Thomas, "Secret of the Crystal Skulls: Day Two," *Daily Mail* \(U.K.\), 4 Nov. 1997, at 28.
+ - "Now, with us as witnesses, Carol was about to perform what is known as ‘channeling'—a technique commonly used by many psychics and *mediums*." Chris Morton & Ceri Louise Thomas, "Secret of the Crystal Skulls: Day Two," *Daily Mail* \(U.K.\), 4 Nov. 1997, at 28.
 
 It is also normal in a collocation such as *happy mediums*. E.g.: "This no doubt is the case with almost all happy *mediums*." Charles Macomb Flandrau, *Prejudices* 167 \(1911\).
 
 Otherwise, the form should be avoided in favor of *media*—e.g.:
 
-• "Reporters for *printed* *mediums* \[read *print media*\] also focus criticism on television for using all-purpose experts to express an opinion on a wide variety of subjects." Charles Rothfeld, "On Legal Pundits and How They Got That Way," *N.Y. Times*, 4 May 1990, at B10.
+ - "Reporters for *printed* *mediums* \[read *print media*\] also focus criticism on television for using all-purpose experts to express an opinion on a wide variety of subjects." Charles Rothfeld, "On Legal Pundits and How They Got That Way," *N.Y. Times*, 4 May 1990, at B10.
 
-• "The message of the Mona Lisa is transmitted through all three *mediums* \[read *media*\]." Sean Hall, *This Means This, This Means That: A User's Guide to Semiotics* 40 \(2d ed. 2012\).
+ - "The message of the Mona Lisa is transmitted through all three *mediums* \[read *media*\]." Sean Hall, *This Means This, This Means That: A User's Guide to Semiotics* 40 \(2d ed. 2012\).
 
 Language-Change Index
 

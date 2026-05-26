@@ -4,7 +4,7 @@ congé; **congee**. *Congé* \(/kon-**zhay**/ or /**kon**-jay/\) = \(1\) formal 
 
 *Congee* /**kon**-jee/ = a rice porridge characteristic of some Asian cuisines. E.g.:
 
-• "A teacher once beat him with a ruler for eating *congee* with dried shrimp for breakfast instead of more traditional American fare." Michael O'Regan, "Chinese-American Hero Makes History," *South China Morning Post*, 7 Nov. 1996, at 4.
+ - "A teacher once beat him with a ruler for eating *congee* with dried shrimp for breakfast instead of more traditional American fare." Michael O'Regan, "Chinese-American Hero Makes History," *South China Morning Post*, 7 Nov. 1996, at 4.
 
-• "Hope Key . . . offers an irresistibly wide variety of serious seafood dishes \(including frog and snail dishes\) as well as comfort foods such as chow foons \(thick noodle dishes\), hot pots and *congees* \(rice porridge\)." Eve Zibart, "A Clarion Call for Clarendon," *Wash. Post*, 22 Nov. 1996, Weekend §, at 25.
+ - "Hope Key . . . offers an irresistibly wide variety of serious seafood dishes \(including frog and snail dishes\) as well as comfort foods such as chow foons \(thick noodle dishes\), hot pots and *congees* \(rice porridge\)." Eve Zibart, "A Clarion Call for Clarendon," *Wash. Post*, 22 Nov. 1996, Weekend §, at 25.
 

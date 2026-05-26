@@ -6,23 +6,23 @@ This construction often has an antique literary flavor, and it gets creakier yea
 
 One does encounter more modern examples—e.g.:
 
-• "Mike would not soon forget the frantic drive back to civilization, *the four-wheel-drive Land Rover slipping and sliding* up the muddy track into the hills." Michael Crichton, *Jurassic Park* 16 \(1990\).
+ - "Mike would not soon forget the frantic drive back to civilization, *the four-wheel-drive Land Rover slipping and sliding* up the muddy track into the hills." Michael Crichton, *Jurassic Park* 16 \(1990\).
 
-• "When I visit the cemetery, I wonder what kind of life Mrs. Peter Anderson had, *she having been* pregnant and/or caring for children throughout much of her existence." L.T. Anderson, "Lessons on Home Schooling," *Charleston Gaz. & Daily Mail* \(W. Va.\), 15 June 1999, at C1.
+ - "When I visit the cemetery, I wonder what kind of life Mrs. Peter Anderson had, *she having been* pregnant and/or caring for children throughout much of her existence." L.T. Anderson, "Lessons on Home Schooling," *Charleston Gaz. & Daily Mail* \(W. Va.\), 15 June 1999, at C1.
 
-• "He speaks in a voice that seems to emerge from a shadow. Perhaps it does, *he having been* conceived in the dark days of Europe following the last world war, and *he having been* nurtured under the repression of the ensuing Iron Curtain." James Keeran, "Andrei Codrescu: Man of Letters . . . and Radio," *Pantagraph* \(Bloomington, Ill.\), 28 Jan. 2000, at D1.
+ - "He speaks in a voice that seems to emerge from a shadow. Perhaps it does, *he having been* conceived in the dark days of Europe following the last world war, and *he having been* nurtured under the repression of the ensuing Iron Curtain." James Keeran, "Andrei Codrescu: Man of Letters . . . and Radio," *Pantagraph* \(Bloomington, Ill.\), 28 Jan. 2000, at D1.
 
 Yet as nominative absolutes become rarer, fewer and fewer writers understand how to handle them. Three problems arise.
 
 First, many writers insert *with* at the beginning of the phrase \(making it something like an "objective absolute"\) <with Jacobson being absent, the party was a bore>. E.g.:
 
-• "In other local elections in France, the results were mixed, *with* \[delete *with*\] the right doing a bit better than expected." "Balkan Dangers," *Economist*, 24 Mar. 2001, at 33.
+ - "In other local elections in France, the results were mixed, *with* \[delete *with*\] the right doing a bit better than expected." "Balkan Dangers," *Economist*, 24 Mar. 2001, at 33.
 
-• "*With her* \[read *She*\] having mastered all these skills, it was time . . . to get her to face up to the biggest challenge yet." Amy Edelstein, "It's Jessie the Messy," *Newsday* \(N.Y.\), 5 Mar. 2002, at B17. \(A better revision: *Once she mastered all these skills, it was time . . . .*\)
+ - "*With her* \[read *She*\] having mastered all these skills, it was time . . . to get her to face up to the biggest challenge yet." Amy Edelstein, "It's Jessie the Messy," *Newsday* \(N.Y.\), 5 Mar. 2002, at B17. \(A better revision: *Once she mastered all these skills, it was time . . . .*\)
 
-• "He excelled in most subjects, *with* physical education being the clear exception." Denise Hruby, "The ‘Plagiarism Hunter' Terrorizing Authors," *N.Y. Times*, 11 Sept. 2021, at A4.
+ - "He excelled in most subjects, *with* physical education being the clear exception." Denise Hruby, "The ‘Plagiarism Hunter' Terrorizing Authors," *N.Y. Times*, 11 Sept. 2021, at A4.
 
-• "The experts say such cases are not frequent but speak to the wider lack of predictability in American medical billing, *with* patients often having little idea what their care will cost." Sara Kliff, "Painful Reminder of Baby's Death: $257,000 Bill," *N.Y. Times*, 21 Sept. 2021, at A1, A18.
+ - "The experts say such cases are not frequent but speak to the wider lack of predictability in American medical billing, *with* patients often having little idea what their care will cost." Sara Kliff, "Painful Reminder of Baby's Death: $257,000 Bill," *N.Y. Times*, 21 Sept. 2021, at A1, A18.
 
 Second, some writers mistakenly make an absolute construction—what should be a "nominative" absolute—possessive. E.g.: "*His* \[read *He*\] having won an astonishing thirteen major golf events, including the 1930 Grand Slam \(the British Open, the British Amateur, the U.S. Amateur, and the U.S. Open Championship\), it's hard to fathom that Bobby Jones was little more than a part-time player." William Kissel, "Great Golf Shops," *Celebrated Living*, Mar. 2002, at 39–40.
 

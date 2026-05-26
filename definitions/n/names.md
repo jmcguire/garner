@@ -8,21 +8,21 @@ Names .
 
 First, a father should not adopt the *Sr.* label, nor should others refer to him that way without good reason. That's what the etiquette mavens have long said—e.g.:
 
-• "A gentleman who represents the head of the senior branch of his family is privileged to use a card engraved simply, ‘Mr. Brown.' " 1 *Correct Social Usage* 212 \(1907\) \(suggesting that ‘Mr. Henry A. Brown Sr.' does not properly exist\).
+ - "A gentleman who represents the head of the senior branch of his family is privileged to use a card engraved simply, ‘Mr. Brown.' " 1 *Correct Social Usage* 212 \(1907\) \(suggesting that ‘Mr. Henry A. Brown Sr.' does not properly exist\).
 
-• "Senior cannot be used with a man's name. No matter how famous the son, he is junior to his father as long as his father is alive." Millicent Fenwick, *Vogue's Book of Etiquette* 557 \(1948\).
+ - "Senior cannot be used with a man's name. No matter how famous the son, he is junior to his father as long as his father is alive." Millicent Fenwick, *Vogue's Book of Etiquette* 557 \(1948\).
 
-• " ‘Senior' is never used after a man's name." Nancy Loughridge, *Dictionary of Etiquette* 105 \(1955\).
+ - " ‘Senior' is never used after a man's name." Nancy Loughridge, *Dictionary of Etiquette* 105 \(1955\).
 
-• "A man never uses ‘Sr.,' though on occasion it is correct for others to add ‘senior' to the name of the older man when referring to him \(though not when addressing a letter to him\) if confusion with his son would otherwise result." Llewellyn Miller, *The Encyclopedia of Etiquette* 393 \(1967\).
+ - "A man never uses ‘Sr.,' though on occasion it is correct for others to add ‘senior' to the name of the older man when referring to him \(though not when addressing a letter to him\) if confusion with his son would otherwise result." Llewellyn Miller, *The Encyclopedia of Etiquette* 393 \(1967\).
 
 Second, a son drops *Jr.* when his father dies \(with exceptions noted below\). Again, that's what the experts have consistently said—e.g.:
 
-• "At the death of his father, he is no longer junior." Margery Wilson, *Pocket Book of Etiquette* 105 \(1937\).
+ - "At the death of his father, he is no longer junior." Margery Wilson, *Pocket Book of Etiquette* 105 \(1937\).
 
-• "A man is ‘Mark Strand Jr.' only while his father is alive and, of course, he bears his father's exact name." Nancy Loughridge, *Dictionary of Etiquette* 105 \(1955\).
+ - "A man is ‘Mark Strand Jr.' only while his father is alive and, of course, he bears his father's exact name." Nancy Loughridge, *Dictionary of Etiquette* 105 \(1955\).
 
-• "Names are traditionally numbered only among the living." Judith Martin, *Miss Manners' Guide for the Turn-of-the-Millennium* 60 \(1990\).
+ - "Names are traditionally numbered only among the living." Judith Martin, *Miss Manners' Guide for the Turn-of-the-Millennium* 60 \(1990\).
 
 Even modern newspapers agree: "Normally, when a father dies, the son drops the ‘Jr.' " "Racing Family Tries to Shake Grief," *Herald* \(Rock Hill, S.C.\), 26 Feb. 2001, at A1.
 
@@ -102,27 +102,27 @@ Milosevic: /mi-**loh**-sә-vich/, not /mi-**loh**-sә-vik/
 
 \(4\) *Within the English-speaking world, follow local preferences for place names.* This is a slightly weaker principle than the others. For example, with *Hawaii* it yields to \#1. \(See **Hawaii \(c\)**.) Many names are pronounced idiosyncratically in different locales:
 
-• Berlin \(Germany\): /bәr-**lin**/Berlin \(New Hampshire\): /**ber**-lәn/
+ - Berlin \(Germany\): /bәr-**lin**/Berlin \(New Hampshire\): /**ber**-lәn/
 
-• Cairo \(Egypt\): /**kī**-roh/Cairo \(Illinois\): /**kay**-roh/
+ - Cairo \(Egypt\): /**kī**-roh/Cairo \(Illinois\): /**kay**-roh/
 
-• DeKalb County \(Illinois\): /de-**kalb**/DeKalb County \(Georgia\): /de-**kab**/
+ - DeKalb County \(Illinois\): /de-**kalb**/DeKalb County \(Georgia\): /de-**kab**/
 
-• Edinburg \(Texas\): /**ed**-in-bәrg/Edinburgh \(Scotland\): /**ed**-in-brә/
+ - Edinburg \(Texas\): /**ed**-in-bәrg/Edinburgh \(Scotland\): /**ed**-in-brә/
 
-• Humble \(Texas\): /**әm**-bәl/ \(see **humble**, adj.\)
+ - Humble \(Texas\): /**әm**-bәl/ \(see **humble**, adj.\)
 
-• Lima \(Peru\): /**lee**-mә/Lima \(Ohio\): /**lī**-mә/
+ - Lima \(Peru\): /**lee**-mә/Lima \(Ohio\): /**lī**-mә/
 
-• Mexia \(Texas\): /mә-**hay**-ә/
+ - Mexia \(Texas\): /mә-**hay**-ә/
 
-• Milan \(Italy\): /mi-**lahn**/ or /mee-**lahn**/ or \(in BrE\) /mi-**lan**/Milan \(Michigan\): /**mī**-lan/
+ - Milan \(Italy\): /mi-**lahn**/ or /mee-**lahn**/ or \(in BrE\) /mi-**lan**/Milan \(Michigan\): /**mī**-lan/
 
-• Palestine \(historic\): /**pal**-ә-stīn/Palestine \(Texas\): /**pal**-ә-steen/
+ - Palestine \(historic\): /**pal**-ә-stīn/Palestine \(Texas\): /**pal**-ә-steen/
 
-• Pedernales \(Texas\): /pәr-di-**nal**-әs/ \(see methathesis\)
+ - Pedernales \(Texas\): /pәr-di-**nal**-әs/ \(see methathesis\)
 
-• Versailles \(France\): /vә-**sī**/ or /vәr-**sī**/Versailles \(Kentucky or Pennsylvania\): /vәr-**saylz**/
+ - Versailles \(France\): /vә-**sī**/ or /vәr-**sī**/Versailles \(Kentucky or Pennsylvania\): /vәr-**saylz**/
 
 **D. Names with Particles.** Many names contain particle prefixes such as *al*, *d'*, *de*, *della*, *der*, *du*, *el*, *la*, *mac*, *ten*, *ter*, *van*, and *von*. If a prefix has been compounded with the remainder of the surname, the correct form takes little thought <Lafarge> <Debussy> <Vandergriff>. But things can become more complicated with proper names having separate particles. When used with a person's full name or with a title, the particle is retained as part of the surname <Count von Zeppelin> <Princess Marie de Bourbon> <Justice van Zandt> <Professor Ahmad al-Hariq> <Mrs. La Ruiz>. By contrast, when the surname is used alone, whether the particle remains depends on the name's origin, the particle's function \(that is, whether it's a preposition, an article, or an expression of descent\), and certain customary usages.
 
@@ -146,9 +146,9 @@ A final note: despite the myriad conventions here discussed, every lowercase par
 
 **E. British Practices with American Place Names.** British writers do a strange thing with American place names: they use the adjectival form ending in *n* where Americans wouldn't change the name at all. Hence the British might refer to Bill Clinton's *Arkansan property*, as opposed to his *Arkansas property*. And notice what British writers do in the following examples—wrongly from the American's perspective:
 
-• "He died Friday night at his *Californian* \[read *California*\] ranch in Big Sur." Clive Cookson, "Linus Pauling: Leader in Chemistry," *Fin. Times*, 22 Aug. 1994, at 4.
+ - "He died Friday night at his *Californian* \[read *California*\] ranch in Big Sur." Clive Cookson, "Linus Pauling: Leader in Chemistry," *Fin. Times*, 22 Aug. 1994, at 4.
 
-• Peter Tory, "Delicious *Texan* \[read *Texas*\] Recipe for Criminal ‘Appetites,' " *Daily Express* \(London\), 26 Aug. 1994, at 9.
+ - Peter Tory, "Delicious *Texan* \[read *Texas*\] Recipe for Criminal ‘Appetites,' " *Daily Express* \(London\), 26 Aug. 1994, at 9.
 
 **F. Proper Names as Adjectives.** See adjectives \(d\).
 

@@ -6,9 +6,9 @@ majority.
 
 **B. Number.** *Majority* is sometimes a collective noun that takes a singular verb, but sometimes (through synesis\) it's a plural demanding a plural verb—e.g.:
 
-• "But the clear *majority reach*, or at least attempt to reach, that level where quality dwells." Jack Valenti, "Lights\! Camera\! Rhetoric\!," *Wash. Post*, 4 Feb. 1996, at C4.
+ - "But the clear *majority reach*, or at least attempt to reach, that level where quality dwells." Jack Valenti, "Lights\! Camera\! Rhetoric\!," *Wash. Post*, 4 Feb. 1996, at C4.
 
-• "It is unwise, however, to become complacent, especially when the *majority seems* to have done just that." "Insider Trading," *Tulsa Trib. & Tulsa World*, 24 Aug. 1997, at E4.
+ - "It is unwise, however, to become complacent, especially when the *majority seems* to have done just that." "Insider Trading," *Tulsa Trib. & Tulsa World*, 24 Aug. 1997, at E4.
 
 Especially in the phrase *a majority of \(people or things\)*—with the *of*-phrase spelled out—the word *majority* is generally treated as a plural in both AmE and BrE. E.g.: "Since the *majority* of shops that will open tomorrow *were* also open last Sunday, most shoppers will be hard put to notice the difference that the law has made." Tim Jackson, "Open All Hours \(Well, Almost\)," *Independent*, 27 Aug. 1994, at 11. Still, the sentence could be advantageously recast: *Since most shops that will open tomorrow were . . . .*
 

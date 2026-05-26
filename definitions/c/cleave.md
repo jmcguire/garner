@@ -6,11 +6,11 @@ The *COD* sanctions, for BrE usage, *cleave* > *clove* > *cloven* for all senses
 
 The past form *\*clefted* is an infrequent solecism—e.g.:
 
-• "*Clefted* \[read *Cleft*\] sandstone floors, hand-troweled walls, rough-hewn beams and distressed wood furnishings add to the western feel." Sherri Vasquez, "Scale and Natural Materials Define the Mode That's Known as Western," *Rocky Mountain News* \(Denver\), 31 Mar. 1996, at D19.
+ - "*Clefted* \[read *Cleft*\] sandstone floors, hand-troweled walls, rough-hewn beams and distressed wood furnishings add to the western feel." Sherri Vasquez, "Scale and Natural Materials Define the Mode That's Known as Western," *Rocky Mountain News* \(Denver\), 31 Mar. 1996, at D19.
 
-• "He doesn't quite nail the subtleties of Ian's inner conflicts, but he's got a fascinating-looking face, with a hugely *clefted* \[read *cleft*\] chin." Matthew Gilbert, " ‘Saint' Saved from Soap by Small Touches," *Boston Globe*, 21 Nov. 1998, at C1.
+ - "He doesn't quite nail the subtleties of Ian's inner conflicts, but he's got a fascinating-looking face, with a hugely *clefted* \[read *cleft*\] chin." Matthew Gilbert, " ‘Saint' Saved from Soap by Small Touches," *Boston Globe*, 21 Nov. 1998, at C1.
 
-• "The valleys in this deeply *clefted* \[read *cleft*\] buffer zone between Austria and the rest of Italy seem to function as discrete cultural entities." Ben Ross, "Italy's Adventure Centre," *Independent*, 14 Apr. 2012, at 4.
+ - "The valleys in this deeply *clefted* \[read *cleft*\] buffer zone between Austria and the rest of Italy seem to function as discrete cultural entities." Ben Ross, "Italy's Adventure Centre," *Independent*, 14 Apr. 2012, at 4.
 
 Language-Change Index
 

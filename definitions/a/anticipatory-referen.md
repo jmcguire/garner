@@ -6,9 +6,9 @@ Only rarely can anticipatory reference be used in a way that doesn't bother the 
 
 Vexatious examples occur in a variety of forms. First, they're frequent with *do*-constructions—e.g.:
 
-• "New Mexico, as *do* most states, invests a great deal of money in its highways." \(Either put *as most states do* at the end of the sentence or change *as do* to *like.*\)
+ - "New Mexico, as *do* most states, invests a great deal of money in its highways." \(Either put *as most states do* at the end of the sentence or change *as do* to *like.*\)
 
-• "English professors, *as do* \[read *like*\] novelists and journalists, produce a body of writing that can be analyzed to discern their underlying philosophies."
+ - "English professors, *as do* \[read *like*\] novelists and journalists, produce a body of writing that can be analyzed to discern their underlying philosophies."
 
 See **like \(a\), \(c\)**.
 

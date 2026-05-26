@@ -10,13 +10,13 @@ Language-Change Index
 
 **B. And *when and if*.** Perhaps in an attempt to get out of a rhetorical rut, some writers reverse these words and make it *when and if* with no change in nuance intended. But that construction loses any logical value that the original may have had—*when* the thing is done, there is no further question about *if* it will be done. Some other phrasing is usually advisable—e.g.:
 
-• "Lawmakers should have a right to determine *when and if* \[read *when*\] such a tax should be considered." "Local Assessors Require Oversight," *Sunday Advocate* \(Baton Rouge\), 28 July 2002, at B8.
+ - "Lawmakers should have a right to determine *when and if* \[read *when*\] such a tax should be considered." "Local Assessors Require Oversight," *Sunday Advocate* \(Baton Rouge\), 28 July 2002, at B8.
 
-• "But with only a little bit of light from their dwindling lamps, miners could never tell *when or if* \[read *whether*\] the water was coming back at them." Guy Gugliotta, "In a Flooded Coal Mine, 3 Days of Waiting, Praying," *Wash. Post*, 29 July 2002, at A1.
+ - "But with only a little bit of light from their dwindling lamps, miners could never tell *when or if* \[read *whether*\] the water was coming back at them." Guy Gugliotta, "In a Flooded Coal Mine, 3 Days of Waiting, Praying," *Wash. Post*, 29 July 2002, at A1.
 
-• "*When and if* \[read *If*\] Gonzalez signs a new contract, Dunn is a backup again." Adam Teicher, "Chiefs Won't Ask Dunn to Be Another Gonzalez," *Kansas City Star*, 30 July 2002, at C1.
+ - "*When and if* \[read *If*\] Gonzalez signs a new contract, Dunn is a backup again." Adam Teicher, "Chiefs Won't Ask Dunn to Be Another Gonzalez," *Kansas City Star*, 30 July 2002, at C1.
 
-• "Other parts of the policies prohibit discrimination and limit *when and if* \[read, perhaps, *when and even whether*\] school staff can tell parents that their child is trans." Matt Jones, "Newport News Bucks State," *Roanoke Times & World News*, 20 Aug. 2021, at 3C.
+ - "Other parts of the policies prohibit discrimination and limit *when and if* \[read, perhaps, *when and even whether*\] school staff can tell parents that their child is trans." Matt Jones, "Newport News Bucks State," *Roanoke Times & World News*, 20 Aug. 2021, at 3C.
 
 *When and if* can have a distinct nuance, however, by emphasizing that the event may never happen. Punctuation can help—e.g.: "The investment is usable, however, only *when—and if*—you take the profits out." Jane Bryant Quinn, "Home Sweet Piggy Bank?," *Newsweek*, 29 July 2002, at 58.
 

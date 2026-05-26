@@ -38,9 +38,9 @@ The one useful distinctive sense that forms such as *southward* and *southerly* 
 
 **D. An Infrequent Error: *\*northernly* for *northerly*, etc.** Writers sometimes err by making the directional words ending in *-erly* into words ending in *-ernly*—e.g.:
 
-• "The districts of Downstate Democratic Reps. Richard Durbin of Springfield and Lane Evans of Rock Island would move clockwise in *westernly* \[read *westerly*\] and *northernly* \[read *northerly*\] directions under the GOP proposal." Thomas Hardy, "Hispanic District, Fewer Democrats in GOP Map," *Chicago Trib.*, 30 July 1991, News §, at 3.
+ - "The districts of Downstate Democratic Reps. Richard Durbin of Springfield and Lane Evans of Rock Island would move clockwise in *westernly* \[read *westerly*\] and *northernly* \[read *northerly*\] directions under the GOP proposal." Thomas Hardy, "Hispanic District, Fewer Democrats in GOP Map," *Chicago Trib.*, 30 July 1991, News §, at 3.
 
-• "The models showed that the cloud of nerve gas initially traveled in a *southernly* \[read *southerly*\] direction from the blast site." Philip Shenon, "Study Sharply Raises Estimate of Troops Exposed to Nerve Gas," *N.Y. Times*, 24 July 1997, at A18.
+ - "The models showed that the cloud of nerve gas initially traveled in a *southernly* \[read *southerly*\] direction from the blast site." Philip Shenon, "Study Sharply Raises Estimate of Troops Exposed to Nerve Gas," *N.Y. Times*, 24 July 1997, at A18.
 
 Though the *-ernly* words are recorded in the *OED*, they're noted as being rare or obsolete. Cf. **nor'easter**.
 

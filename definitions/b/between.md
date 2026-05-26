@@ -10,17 +10,17 @@ The rule as generally enunciated, then, is simplistic. Although it is an accurat
 
 In fact, good writers commonly use *between* with more than two elements, in AmE and BrE alike—e.g.:
 
-• "Sunday morning in Denmark Hill is for the six Huxtable daughters \(the difference *between whom*, as Granville Barker puts it in his stage directions, ‘is to the casual eye the difference between one lead pencil and another'\) a time of nursery scurryings and silences under the unwavering eye of their mother." J.K.L. Walker, "Edwardian Underwear," *TLS*, 11 Sept. 1992, at 19.
+ - "Sunday morning in Denmark Hill is for the six Huxtable daughters \(the difference *between whom*, as Granville Barker puts it in his stage directions, ‘is to the casual eye the difference between one lead pencil and another'\) a time of nursery scurryings and silences under the unwavering eye of their mother." J.K.L. Walker, "Edwardian Underwear," *TLS*, 11 Sept. 1992, at 19.
 
-• "Part of the journey has been to discover the appropriate balance *between family, solitude and community*." Terry Waite, "A Long, Long Way to Travel," *Times* \(London\), 27 Aug. 1994, at 15.
+ - "Part of the journey has been to discover the appropriate balance *between family, solitude and community*." Terry Waite, "A Long, Long Way to Travel," *Times* \(London\), 27 Aug. 1994, at 15.
 
-• " ‘So I said, "Why don't you go build a fort in the woods?" I had no idea it would turn out to be this monstrosity' bolted *between* four treetops in the corner of her front yard." Elizabeth Maker, "Family Trees," *N.Y. Times*, 29 Sept. 2002, 14CN §, at 1.
+ - " ‘So I said, "Why don't you go build a fort in the woods?" I had no idea it would turn out to be this monstrosity' bolted *between* four treetops in the corner of her front yard." Elizabeth Maker, "Family Trees," *N.Y. Times*, 29 Sept. 2002, 14CN §, at 1.
 
 Sometimes, however, the sense is anything but reciprocal or mutual. Without a one-to-one relation, *among* is the better word—e.g.:
 
-• "The five dancing grandmothers have 25 grandchildren *between* \[read *among*\] them." "Dancing Grandmothers," *Austin Am.-Statesman*, 13 Sept. 1993, at B1 \(photo caption\).
+ - "The five dancing grandmothers have 25 grandchildren *between* \[read *among*\] them." "Dancing Grandmothers," *Austin Am.-Statesman*, 13 Sept. 1993, at B1 \(photo caption\).
 
-• "In a recent interview, Mr. Weitzner explained the relationships *between* \[read *among*\] the various entities at 741 Alexander." Brett Pulley, "At One Office, Intricate Links in New Jersey's G.O.P. Funds," *N.Y. Times*, 8 July 1996, at A1, A9. \(*Among* is correct here because the multitude of interlocking political organizations is being stressed.\)
+ - "In a recent interview, Mr. Weitzner explained the relationships *between* \[read *among*\] the various entities at 741 Alexander." Brett Pulley, "At One Office, Intricate Links in New Jersey's G.O.P. Funds," *N.Y. Times*, 8 July 1996, at A1, A9. \(*Among* is correct here because the multitude of interlocking political organizations is being stressed.\)
 
 **B. *Between you and me*; *\*between you and I*.** Because the pronouns following *between* are objects of the preposition, the correct phrasing has long been regarded as *between you and me*. Yet the phrasing *\*between you and I* is common—"a grammatical error of unsurpassable grossness," as one commentator puts it. The grammatical error is committed almost exclusively by educated speakers trying a little too hard to sound refined but stumbling badly. It's almost surely an ingrained instance of hypercorrection based on childhood admonitions not to use *you and me* \(or similar compounds\) as the subject of the sentence—and, far more confusing to most people, as a predicate nominative in sentences such as *it is I*. See pronouns \(b\) & hypercorrection \(b\).
 
@@ -32,11 +32,11 @@ Randolph Quirk—a leading English grammarian of the late 20th century—puts al
 
 Among the better-considered traditional views on the question are these:
 
-• "If the ditch-digger's child said ‘between you and me,' it would probably be ridiculed into using the environmentally more favored ‘between you and I.' Thus the penalties provided for nonconformity nourish and perpetuate ungrammatical usage, and the folk speech is rooted deep in the life of the masses." Edward N. Teall, *Putting Words to Work* 4 \(1940\).
+ - "If the ditch-digger's child said ‘between you and me,' it would probably be ridiculed into using the environmentally more favored ‘between you and I.' Thus the penalties provided for nonconformity nourish and perpetuate ungrammatical usage, and the folk speech is rooted deep in the life of the masses." Edward N. Teall, *Putting Words to Work* 4 \(1940\).
 
-• "The nation is divided in its use of ‘between you and me' and ‘between you and I.' Let me begin by declaring that the only admissible construction of the two in standard use in the twentieth century is ‘between you and me.' . . . *I*, *he*, and other pronouns were frequently used in the sixteenth and seventeenth centuries in ways now regarded as ungrammatical. Grammatical assumptions were different then." Robert W. Burchfield, *Points of View* 117 \(1992\).
+ - "The nation is divided in its use of ‘between you and me' and ‘between you and I.' Let me begin by declaring that the only admissible construction of the two in standard use in the twentieth century is ‘between you and me.' . . . *I*, *he*, and other pronouns were frequently used in the sixteenth and seventeenth centuries in ways now regarded as ungrammatical. Grammatical assumptions were different then." Robert W. Burchfield, *Points of View* 117 \(1992\).
 
-• "English now recognizes only two inflections for all pronouns—the subjective \(or nominative\) ‘I,' ‘you,' ‘he,' ‘she,' ‘they,' and the objective \(or accusative\) ‘me,' ‘you,' ‘him,' ‘her,' ‘them.' The possessives, as in ‘his face' or ‘her hair' or ‘their cheek,' are adjectival. The objective form is used after transitive verbs like ‘hit,' ‘kick,' ‘love,' and also after prepositions like ‘after,' ‘for,' ‘between.' It is because ‘you' has become an invariable form—in number as well as in case—that the solecisms ‘Between you and I' and ‘Let you and I talk' are committed." Anthony Burgess, *A Mouthful of Air* 59 \(1992\).
+ - "English now recognizes only two inflections for all pronouns—the subjective \(or nominative\) ‘I,' ‘you,' ‘he,' ‘she,' ‘they,' and the objective \(or accusative\) ‘me,' ‘you,' ‘him,' ‘her,' ‘them.' The possessives, as in ‘his face' or ‘her hair' or ‘their cheek,' are adjectival. The objective form is used after transitive verbs like ‘hit,' ‘kick,' ‘love,' and also after prepositions like ‘after,' ‘for,' ‘between.' It is because ‘you' has become an invariable form—in number as well as in case—that the solecisms ‘Between you and I' and ‘Let you and I talk' are committed." Anthony Burgess, *A Mouthful of Air* 59 \(1992\).
 
 In print, the standard english expression is in less danger today than it was in the 1700s: *between you and me* occurs with much, much greater frequency. Regardless of what happens in speech, the erroneous form in print, for the time being, represents barely a blip on the screen.
 
@@ -49,17 +49,17 @@ Current ratio in print \(*between you and me* vs. *\*between you and I*\): 16:1
 
 **C. *Between* and Numbers.** This usage causes problems if the things being counted are discrete units and the numbers at each extreme are intended to be included. E.g.:
 
-• "Saleh met with several other defendants in a Queens garage *between June 23 and June 24* \[read \(depending on the meaning\) *from June 23 to June 24* or *on June 23 or 24*\] to discuss getting cars for the conspiracy." Peg Tyre & Kevin McCoy, "Busted at Beach," *Newsday* \(N.Y.\), 24 July 1993, at 3. \(There is no time between June 23 and June 24.\)
+ - "Saleh met with several other defendants in a Queens garage *between June 23 and June 24* \[read \(depending on the meaning\) *from June 23 to June 24* or *on June 23 or 24*\] to discuss getting cars for the conspiracy." Peg Tyre & Kevin McCoy, "Busted at Beach," *Newsday* \(N.Y.\), 24 July 1993, at 3. \(There is no time between June 23 and June 24.\)
 
-• "They had the option of booking *between one and three* \[read *from one to three*\] days." "Window on Tomorrow's World," *Birmingham Post*, 23 Aug. 2002, at 13. \(Two is the only whole number between one and three.\)
+ - "They had the option of booking *between one and three* \[read *from one to three*\] days." "Window on Tomorrow's World," *Birmingham Post*, 23 Aug. 2002, at 13. \(Two is the only whole number between one and three.\)
 
 When you intend to refer to a range of possibilities from a low point to a high point, *from . . . to*, *between . . . and*, or *to* alone is the correct form, not *\*between . . . to*. E.g.:
 
-• "Businesses estimate they lose *between $25 billion to $30 billion* \[read *between $25 billion and $30 billion*\] a year nationwide in lost productivity, errors and accidents attributable to poor literacy." William Celis III, "Study Says Half of Adults in U.S. Can't Read or Handle Arithmetic," *N.Y. Times*, 9 Sept. 1993, at A1, A16.
+ - "Businesses estimate they lose *between $25 billion to $30 billion* \[read *between $25 billion and $30 billion*\] a year nationwide in lost productivity, errors and accidents attributable to poor literacy." William Celis III, "Study Says Half of Adults in U.S. Can't Read or Handle Arithmetic," *N.Y. Times*, 9 Sept. 1993, at A1, A16.
 
-• "The large pressure difference between the low and a high over the southern Plains will generate winds *between* \[read *from*\] 18 to 36 m.p.h. in the wake of a sharp cold front." "High Winds Whip Upper Midwest," *Chicago Trib.*, 10 Sept. 1993, at 10.
+ - "The large pressure difference between the low and a high over the southern Plains will generate winds *between* \[read *from*\] 18 to 36 m.p.h. in the wake of a sharp cold front." "High Winds Whip Upper Midwest," *Chicago Trib.*, 10 Sept. 1993, at 10.
 
-• *"Between 500 to 1,000* \[read *Between 500 and 1,000*\] students a year are served by the district's Homeless Education Program." Richard Obert, "Homeless to Hopeful," *Ariz. Republic*, 11 Sept. 2015, at C1.
+ - *"Between 500 to 1,000* \[read *Between 500 and 1,000*\] students a year are served by the district's Homeless Education Program." Richard Obert, "Homeless to Hopeful," *Ariz. Republic*, 11 Sept. 2015, at C1.
 
 Language-Change Index
 
@@ -69,9 +69,9 @@ Language-Change Index
 
 **D. *Choose between*.** This construction \(with various verbs of selection\) takes *and*, not *or*. The misuse probably results from confusion between *between . . . and* and *either . . . or*—e.g.:
 
-• "Guests can choose *between* ‘Eve of the Eve Classic,' a smaller, more elegant affair with dinner and open bar, *or* \[read *and*\] the general ‘Eve of the Eve' party, which accommodates more than 2,000 revelers." Audarshia Townsend, "Parties for the Celebratory Mood," *Chicago Trib.*, 21 Dec. 2001, at 31.
+ - "Guests can choose *between* ‘Eve of the Eve Classic,' a smaller, more elegant affair with dinner and open bar, *or* \[read *and*\] the general ‘Eve of the Eve' party, which accommodates more than 2,000 revelers." Audarshia Townsend, "Parties for the Celebratory Mood," *Chicago Trib.*, 21 Dec. 2001, at 31.
 
-• "Russia . . . will face, in some instances, the choice *between* isolation *or* \[read *and*\] union with the rest of Europe." Eugene Rumer & Jeffrey Simon, "NATO: Russia Should Have a Seat at the Table," *L.A. Times*, 23 Dec. 2001, at M2.
+ - "Russia . . . will face, in some instances, the choice *between* isolation *or* \[read *and*\] union with the rest of Europe." Eugene Rumer & Jeffrey Simon, "NATO: Russia Should Have a Seat at the Table," *L.A. Times*, 23 Dec. 2001, at M2.
 
 Both logic and idiom require *and* in these constructions, not *or*. One chooses between things \(plural\), not a thing. *X or Y* is a thing; *X and Y* are things. Now, it's true that once you've chosen, you have either X or Y—so as a matter of prolepsis, some writers are tempted by the *or*. \(See **prolepsis** \[p. 1234\].\) But it makes no literal sense.
 
@@ -81,13 +81,13 @@ Current ratio in print \(*choose between him and X* vs. \**choose between him or
 
 **F. *\*Between each* and Other Constructions with Fewer than Two Objects.** This phrasing is a peculiar brand of illogic, as in *\*between each house* and *\*between each speech* \(instead of, properly, *between every two houses* and *between speeches*\). Although it is possible to think of *\*between each house* as being an ellipsis for *between each house and the next*, native speakers of English don't consciously think of the phrase in this way. And the resulting expression is literally nonsensical—e.g.:
 
-• "A series of three or more words, phrases, or clauses \(like this\) takes a comma *between each of the elements* \[read *between the elements*\] and before a conjunction separating the last two." Kate L. Turabian, *A Manual for Writers of Term Papers, Theses, and Dissertations* § 3.68, at 50 \(5th ed. 1987\).
+ - "A series of three or more words, phrases, or clauses \(like this\) takes a comma *between each of the elements* \[read *between the elements*\] and before a conjunction separating the last two." Kate L. Turabian, *A Manual for Writers of Term Papers, Theses, and Dissertations* § 3.68, at 50 \(5th ed. 1987\).
 
-• "Customers can use the same dial tone to make multiple calls by pressing the pound sign *between each call* \[read *between calls*\]." Carol Smith, "Options to Keep the Costs Down When Phoning from Abroad," *L.A. Times*, 2 Oct. 1996, at D4.
+ - "Customers can use the same dial tone to make multiple calls by pressing the pound sign *between each call* \[read *between calls*\]." Carol Smith, "Options to Keep the Costs Down When Phoning from Abroad," *L.A. Times*, 2 Oct. 1996, at D4.
 
-• "*Between each pitch* \[read *Between pitches*\], the camera will dart between batter, Angel manager, Twin manager, a fan with her hands in front of her face, the Rally Monkey jumping up, the pitcher's eyes, some guy in the dugout biting his nails, the Rally Monkey landing, a fan with a Christmas tree on her head, a kid screaming." T.J. Simers, "The Inside Track," *L.A. Times*, 13 Oct. 2002, at D2.
+ - "*Between each pitch* \[read *Between pitches*\], the camera will dart between batter, Angel manager, Twin manager, a fan with her hands in front of her face, the Rally Monkey jumping up, the pitcher's eyes, some guy in the dugout biting his nails, the Rally Monkey landing, a fan with a Christmas tree on her head, a kid screaming." T.J. Simers, "The Inside Track," *L.A. Times*, 13 Oct. 2002, at D2.
 
-• "The bells were traditionally rung at 6 a.m., noon and 6 p.m. in three groups of three chimes with a pause *in between each group* \[read *in between groups*\], followed by nine consecutive strokes." Marilyn Salzl Brinkman, "Bells Will Toll for St. Joseph Again," *St. Cloud Times* \(Minn.\), 14 June 2008, at C5.
+ - "The bells were traditionally rung at 6 a.m., noon and 6 p.m. in three groups of three chimes with a pause *in between each group* \[read *in between groups*\], followed by nine consecutive strokes." Marilyn Salzl Brinkman, "Bells Will Toll for St. Joseph Again," *St. Cloud Times* \(Minn.\), 14 June 2008, at C5.
 
 Language-Change Index
 

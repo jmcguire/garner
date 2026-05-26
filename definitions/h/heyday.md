@@ -4,9 +4,9 @@ heyday.
 
 **A. Spelling.** So spelled—not *\*heydey* or *\*hayday*. In the 1500s, *Heyday\!* was an exclamation of joy, surprise, or exuberance. Although this usage is now defunct, the word lives on to denote a period of great success, popularity, or vitality. The standard spelling persists despite occasional lapses—e.g.:
 
-• "In its *heydey* \[read *heyday*\], Microsoft vs. Apple was computing's Coke vs. Pepsi, its Ali vs. Frazier." Kevin Maney, "Goliath Takes a Bite of Apple," *USA Today*, 7 Aug. 1997, at A1.
+ - "In its *heydey* \[read *heyday*\], Microsoft vs. Apple was computing's Coke vs. Pepsi, its Ali vs. Frazier." Kevin Maney, "Goliath Takes a Bite of Apple," *USA Today*, 7 Aug. 1997, at A1.
 
-• "However, the children of those who played in the club's *hayday* \[read *heyday*\] are becoming old enough to play, and are bringing the club back to where it used to be." Mike Allende, "Can-Am Summer 7s Rugby Tournament," *Bellingham Herald* \(Wash.\), 15 July 2001, at D1.
+ - "However, the children of those who played in the club's *hayday* \[read *heyday*\] are becoming old enough to play, and are bringing the club back to where it used to be." Mike Allende, "Can-Am Summer 7s Rugby Tournament," *Bellingham Herald* \(Wash.\), 15 July 2001, at D1.
 
 Language-Change Index
 
@@ -17,9 +17,9 @@ Current ratio in print \(*heyday* vs. \**heydey* vs. \**hayday*\): 1,611:4:1
 
 The error isn't common, but *heyday* does sometimes displace *field day*—e.g.:
 
-• "The play, an actors' *heyday* \[read *field day*\], is rich with memories of the sisters and their camaraderie." Janet Maslin, "5 Unmarried Sisters in Postcard Ireland," *N.Y. Times*, 13 Nov. 1998, at E1.
+ - "The play, an actors' *heyday* \[read *field day*\], is rich with memories of the sisters and their camaraderie." Janet Maslin, "5 Unmarried Sisters in Postcard Ireland," *N.Y. Times*, 13 Nov. 1998, at E1.
 
-• "Critics had a *heyday* \[read *field day*\] with Sheffield last season when he didn't want to dive for balls on artificial turf because it causes rug burns." Joe Christensen, "Devo, Diving Don't Mix," *Press-Enterprise* \(Riverside, Cal.\), 4 May 2000, at E6.
+ - "Critics had a *heyday* \[read *field day*\] with Sheffield last season when he didn't want to dive for balls on artificial turf because it causes rug burns." Joe Christensen, "Devo, Diving Don't Mix," *Press-Enterprise* \(Riverside, Cal.\), 4 May 2000, at E6.
 
 The opposite error is quite rare.
 

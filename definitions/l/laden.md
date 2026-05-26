@@ -6,9 +6,9 @@ laden.
 
 Although *\*ladened* is permissible in Scottish English—since *laden* is the Scottish equivalent of *lade*, v.t. & v.i.—it is a solecism elsewhere. E.g.:
 
-• "She stares out from the magazine cover, line-free, mascara-*ladened* \[read *laden*\] and pouting, looking something like a teenage daughter who's petulant after being asked to do the dishes." Abigail Trafford, "Mythical Flauntin' of Youth," *Wash. Post*, 26 Nov. 1996, Health §, at Z6.
+ - "She stares out from the magazine cover, line-free, mascara-*ladened* \[read *laden*\] and pouting, looking something like a teenage daughter who's petulant after being asked to do the dishes." Abigail Trafford, "Mythical Flauntin' of Youth," *Wash. Post*, 26 Nov. 1996, Health §, at Z6.
 
-• "How would you like to be able to eat any fat-*ladened* \[read *laden*\] goody you want . . . without gaining weight?" Bill Hendrick, "Gene May Be Key to Raising Metabolism," *Atlanta J.-Const.*, 3 Mar. 1997, at C3.
+ - "How would you like to be able to eat any fat-*ladened* \[read *laden*\] goody you want . . . without gaining weight?" Bill Hendrick, "Gene May Be Key to Raising Metabolism," *Atlanta J.-Const.*, 3 Mar. 1997, at C3.
 
 Current ratio in print \(*laden* vs. *\*ladened*\): 379:1
 

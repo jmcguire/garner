@@ -6,7 +6,7 @@ Although some will argue that the two are interchangeable and the choice is just
 
 Yet *upon* is quite justifiable when the sense is "on the occasion of," or "when \(something\) occurs"—e.g.:
 
-• "*Upon* disembarking from their chartered plane and boarding the team bus on the tarmac, they proceeded to have a fender bender—with a 727." "Major League Log," *Pitt. Post-Gaz.*, 17 July 1997, at D3.
+ - "*Upon* disembarking from their chartered plane and boarding the team bus on the tarmac, they proceeded to have a fender bender—with a 727." "Major League Log," *Pitt. Post-Gaz.*, 17 July 1997, at D3.
 
-• "*Upon* her return, she perused the leaderboard closely, finding she was still on top." Michael Madden, "Harvey, Neumann on Top of Games," *Boston Globe*, 19 Sept. 1997, at D1.
+ - "*Upon* her return, she perused the leaderboard closely, finding she was still on top." Michael Madden, "Harvey, Neumann on Top of Games," *Boston Globe*, 19 Sept. 1997, at D1.
 

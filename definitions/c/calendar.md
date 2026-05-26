@@ -6,9 +6,9 @@ calendar; **calender**. These are separate words. *Calendar*, of course, is the 
 
 Yet the ordinary term *calendar* is often misspelled *calender*—e.g.:
 
-• "K.D. Schmidt, an *Austin Daily Statesman* Linotype operator with a stiff mustache and flexible fingers, looks at the *calender* \[read *calendar*\] to remind himself exactly what day it is." Michele Stanush, "1896 News of the Day," *Austin Am.-Statesman*, 26 Oct. 1996, at C1.
+ - "K.D. Schmidt, an *Austin Daily Statesman* Linotype operator with a stiff mustache and flexible fingers, looks at the *calender* \[read *calendar*\] to remind himself exactly what day it is." Michele Stanush, "1896 News of the Day," *Austin Am.-Statesman*, 26 Oct. 1996, at C1.
 
-• "A newcomer to the festival scene has stormed its way into the North East *calender* \[read *calendar*\] announcing that it has completely sold out in only its third year." Hugh MacKnight, "Hardwick Live Hits Right Note with Sell-Out," *Newcastle J.* \(U.K.\), 22 Aug. 2015, News §, at 28.
+ - "A newcomer to the festival scene has stormed its way into the North East *calender* \[read *calendar*\] announcing that it has completely sold out in only its third year." Hugh MacKnight, "Hardwick Live Hits Right Note with Sell-Out," *Newcastle J.* \(U.K.\), 22 Aug. 2015, News §, at 28.
 
 Language-Change Index
 

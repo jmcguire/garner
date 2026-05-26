@@ -12,9 +12,9 @@ But anyone who uses it should use it grammatically, and that is not difficult. T
 
 **D. *Have issues with*.** Although the colloquial use of *issue* to mean *problem* is becoming common, many people find it grating. It especially stands out in the trendy construction *have issues with*—e.g.:
 
-• "Both kids *have issues with* \[read *are troubled by*\] their parents' sexuality." Roger Ebert, *Roger Ebert's Movie Yearbook 2007* 655 \(2006\).
+ - "Both kids *have issues with* \[read *are troubled by*\] their parents' sexuality." Roger Ebert, *Roger Ebert's Movie Yearbook 2007* 655 \(2006\).
 
-• "This is the third time he's had his left knee repaired, and I'm hard-pressed to name another golfer—a top-flight one—who's had the knee *issues* \[read *problems*\] he's had." Dan Daly, "Woods' Forbidden Apple Pays Off," *Wash. Times*, 18 June 2008, at C1.
+ - "This is the third time he's had his left knee repaired, and I'm hard-pressed to name another golfer—a top-flight one—who's had the knee *issues* \[read *problems*\] he's had." Dan Daly, "Woods' Forbidden Apple Pays Off," *Wash. Times*, 18 June 2008, at C1.
 
 Outside the *have issues with* construction, *issue* and *problem* are often close to synonymous—e.g.: "Cleveland's version of Phalen Boulevard—a proposed 2¾-mile stretch of road from Interstate 490 to University Circle—has been bottled up by money *issues*." Jim Nichols, "Proposal for Corridor Faces Major Obstacles," *Plain Dealer* \(Cleveland\), 13 July 2008, at A10. In this example, *issues* denotes matters of public interest, but those issues probably involve money *problems*.
 

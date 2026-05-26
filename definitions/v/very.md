@@ -10,9 +10,9 @@ Of course, many past-participial adjectives have now lost their verbal force. Al
 
 If there's any doubt about the phrasing, a good solution is to substitute *quite* or \(a little more formally\) *much*—or, again, possibly *very much*—for *very*. E.g.:
 
-• "Now in their early 30s and *very changed* \[read *very much changed*\], they have a reunion." Louis B. Parks, "Mike Leigh Movies Wring the Best from Cast, Crew," *Houston Chron.*, 16 Aug. 1997, at 1.
+ - "Now in their early 30s and *very changed* \[read *very much changed*\], they have a reunion." Louis B. Parks, "Mike Leigh Movies Wring the Best from Cast, Crew," *Houston Chron.*, 16 Aug. 1997, at 1.
 
-• " ‘Paul wrote in a time when women were *very subjugated* \[read *quite subjugated*\], so it was natural for him to take that point of view.' " Dana Sterling, "Retired Pastor Focused on People, Not Phrases," *Tulsa World*, 28 Nov. 1997, at A24 \(quoting Roy Griggs\).
+ - " ‘Paul wrote in a time when women were *very subjugated* \[read *quite subjugated*\], so it was natural for him to take that point of view.' " Dana Sterling, "Retired Pastor Focused on People, Not Phrases," *Tulsa World*, 28 Nov. 1997, at A24 \(quoting Roy Griggs\).
 
 Of course, the problem with *quite* in BrE is that the word is ambiguous there. See **quite**.
 

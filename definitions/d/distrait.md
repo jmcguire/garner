@@ -4,9 +4,9 @@ distrait; **\*distraite**; **distraught**. *Distrait*, a word borrowed from Fren
 
 *\*Distraite* \(pronounced /di-**strayt**/\) is the feminine gallicism for *distrait*. For English-language purposes, it is a needless variant not listed in most dictionaries, and it might be considered objectionable partly on grounds of sexism—e.g.:
 
-• "In New Zealand, my father's first posting as a young first secretary, there was the delightfully *distraite* \[read *distrait*\] Lady Cumming-Bruce." Katie Hickman, "The Dutiful and the Damned," *Sunday Telegraph*, 9 Oct. 1994, at 1.
+ - "In New Zealand, my father's first posting as a young first secretary, there was the delightfully *distraite* \[read *distrait*\] Lady Cumming-Bruce." Katie Hickman, "The Dutiful and the Damned," *Sunday Telegraph*, 9 Oct. 1994, at 1.
 
-• "She is slightly *distraite* \[read *distrait*\] in manner, drily amused by life, not easily impressed, and unnervingly sexy." "Small, Pure and Sexy," *Sunday Telegraph*, 14 July 1996, at 9.
+ - "She is slightly *distraite* \[read *distrait*\] in manner, drily amused by life, not easily impressed, and unnervingly sexy." "Small, Pure and Sexy," *Sunday Telegraph*, 14 July 1996, at 9.
 
 Both words, though, can typically be replaced by an ordinary term such as *distracted*, *preoccupied*, or *absent-minded*—or, if the anxiety level is high enough, by *distraught*, which means either "deeply agitated" or "severely upset and worried." E.g.: "Lucy had still been all but bedridden when her neighbor died. And she'd been *distraught* when the news was brought to her that he was dead." Kathy Lynn Emerson, *Face Down Under the Wych Elm* 8 \(2000\).
 

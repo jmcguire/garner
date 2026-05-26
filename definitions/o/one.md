@@ -10,11 +10,11 @@ Or as another linguist wryly put it: "One has only to listen to one's pseudo-edu
 
 **B. *One . . . he*.** This expression, though historically condemned as inferior to *one . . . one*, actually predominates in AmE usage. But its future probably isn't bright: *one . . . he* bothers strict grammarians as being less than fully grammatical, and it bothers other readers as being sexist. \(See sexism \(b\).) So it should probably be improved—e.g.:
 
-• "When *one* is writing exposition, surely *he* should not indulge himself in poetic prose." Leo Kirschbaum, "Style" \(1961\), in *Perspectives on Style* 56, 61 \(Frederick Candelaria ed., 1968\). \(A possible revision: *Surely a person writing exposition should not indulge in poetic prose*.\)
+ - "When *one* is writing exposition, surely *he* should not indulge himself in poetic prose." Leo Kirschbaum, "Style" \(1961\), in *Perspectives on Style* 56, 61 \(Frederick Candelaria ed., 1968\). \(A possible revision: *Surely a person writing exposition should not indulge in poetic prose*.\)
 
-• "*One* does not sacrifice *his* individuality by using such means of communication." Ellsworth Barnard, *English for Everybody* 35 \(1979\). \(A possible revision: *You don't sacrifice your individuality by using such means of communication.*\)
+ - "*One* does not sacrifice *his* individuality by using such means of communication." Ellsworth Barnard, *English for Everybody* 35 \(1979\). \(A possible revision: *You don't sacrifice your individuality by using such means of communication.*\)
 
-• "I hate it when the rock stars of *my* youth die. Not only does it draw *one* uncomfortably close to *his* own mortality, but a little piece of *yourself* goes toes up with them." Buddy Blue, "A Spoonful-Sized Tribute to a Supersized Talent," *San Diego Union-Trib.*, 26 Dec. 2002, Mag. §, at 14. \(Why not just stick with the first person throughout? Touching all three bases—first [*my*\], second \[*yourself*\], and third \[*his*\]—is impressive, but it's no home run.\)
+ - "I hate it when the rock stars of *my* youth die. Not only does it draw *one* uncomfortably close to *his* own mortality, but a little piece of *yourself* goes toes up with them." Buddy Blue, "A Spoonful-Sized Tribute to a Supersized Talent," *San Diego Union-Trib.*, 26 Dec. 2002, Mag. §, at 14. \(Why not just stick with the first person throughout? Touching all three bases—first [*my*\], second \[*yourself*\], and third \[*his*\]—is impressive, but it's no home run.\)
 
 See **you**.
 

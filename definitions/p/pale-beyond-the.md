@@ -4,9 +4,9 @@ pale, beyond the. This phrase, which means "bizarre, outside the bounds of civil
 
 Modern writers occasionally mangle the phrase by writing *\*beyond the pail* instead of *pale*, a blunder that spread especially after 1950. E.g.:
 
-• "To have a panel of citizens and the Commonwealth's Attorney . . . call for the board members' resignations with such harsh and demeaning language, however, is beyond the *pail* \[read *pale*\]." "School Board Members' Resignation Letters," *Virginian-Pilot & Ledger Star* \(Norfolk\), 10 Mar. 1996, at 7.
+ - "To have a panel of citizens and the Commonwealth's Attorney . . . call for the board members' resignations with such harsh and demeaning language, however, is beyond the *pail* \[read *pale*\]." "School Board Members' Resignation Letters," *Virginian-Pilot & Ledger Star* \(Norfolk\), 10 Mar. 1996, at 7.
 
-• "Justice \[William\] Brennan, who authored the opinion in *Roth* that placed obscenity *beyond the pail* \[read *beyond the pale*\] of First Amendment protection, now dissented." John E. Semouche, *Censoring Sex* 45 \(2007\). \(Here, though, *beyond the pale* would also be inappropriate, unless you consider the First Amendment "outside the bounds of civilized behavior."\)
+ - "Justice \[William\] Brennan, who authored the opinion in *Roth* that placed obscenity *beyond the pail* \[read *beyond the pale*\] of First Amendment protection, now dissented." John E. Semouche, *Censoring Sex* 45 \(2007\). \(Here, though, *beyond the pale* would also be inappropriate, unless you consider the First Amendment "outside the bounds of civilized behavior."\)
 
 Language-Change Index
 

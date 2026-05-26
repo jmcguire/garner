@@ -4,13 +4,13 @@ Adjectives .
 
 **A. Definition.** Adjectives constitute a large class of words \(e.g., *big*, *foolish*, *good*\), nearly all of which can be used either as attributive modifiers of nouns <big problem> <foolish people> <good dog> or as predicate complements <it was big> <they seemed foolish> <he's been good>. Although adjectives are often defined as words that describe, that overbroad assertion probably gives rise to misunderstandings like these:
 
-• " ‘Excellence' is *an adjective* \[read *a noun*\] that describes something which is of the highest quality." "Their Work Stands Out," *Barrister*, Summer 1989, at 5. \(In that sentence, *describes* should probably be *denotes*, and *which is* should be deleted.\)
+ - " ‘Excellence' is *an adjective* \[read *a noun*\] that describes something which is of the highest quality." "Their Work Stands Out," *Barrister*, Summer 1989, at 5. \(In that sentence, *describes* should probably be *denotes*, and *which is* should be deleted.\)
 
-• "Indeed, greatness is *an adjective* \[read *a word*\] befitting this Irish-bred 5-year-old son of 1990 Breeders' Cup Turf champion In The Wings." Jay Richards, "Singspiel More Versatile than Superhorse Cigar," *Las Vegas Rev.-J.*, 4 Apr. 1997, at C6.
+ - "Indeed, greatness is *an adjective* \[read *a word*\] befitting this Irish-bred 5-year-old son of 1990 Breeders' Cup Turf champion In The Wings." Jay Richards, "Singspiel More Versatile than Superhorse Cigar," *Las Vegas Rev.-J.*, 4 Apr. 1997, at C6.
 
-• "Brilliance is an *adjective* \[read *attribute*\] often thrown at nominees." Heather Mallick, "Female Judges Are the Republican Weapon of Choice," *Toronto Star*, 22 Sept. 2020, Opinion §.
+ - "Brilliance is an *adjective* \[read *attribute*\] often thrown at nominees." Heather Mallick, "Female Judges Are the Republican Weapon of Choice," *Toronto Star*, 22 Sept. 2020, Opinion §.
 
-• "The word ‘admirably' is an *adjective* \[read *adverb*\] he adopts from a quote in reference to the UN." "Foreign Policy Perspectives," *Sunday Observer* \(Sri Lanka\), 22 Nov. 2020.
+ - "The word ‘admirably' is an *adjective* \[read *adverb*\] he adopts from a quote in reference to the UN." "Foreign Policy Perspectives," *Sunday Observer* \(Sri Lanka\), 22 Nov. 2020.
 
 Of course, *excellence* and *greatness* and *brilliance* are nouns; their corresponding adjectives are *excellent* and *great* and *brilliant*. *Admirably* is an adverb.
 
@@ -77,13 +77,13 @@ Using a multiword place name as an attributive modifier should generally be resi
 
 Sometimes unexpected candidates may serve as linking verbs, such as *stand*—e.g.:
 
-• "Before the vote, the senator stood *uncertainly* \[read *uncertain*\] for several days.\) \(The word describes not the manner of standing, but the man himself.\)
+ - "Before the vote, the senator stood *uncertainly* \[read *uncertain*\] for several days.\) \(The word describes not the manner of standing, but the man himself.\)
 
 A similar issue arises with an objective complement, in which the sequence is \[subject \+ verb \+ object \+ complement\]—e.g.:
 
-• "Chop the onions *finely* \[read *fine*\]." \(The sentence does not describe the manner of chopping, but the things chopped. The onions are to become fine \[= reduced to small particles\].\)
+ - "Chop the onions *finely* \[read *fine*\]." \(The sentence does not describe the manner of chopping, but the things chopped. The onions are to become fine \[= reduced to small particles\].\)
 
-• "Slice the meat *thinly* \[read *thin*\]." \(As above.\)
+ - "Slice the meat *thinly* \[read *thin*\]." \(As above.\)
 
 An elliptical form of this construction appears in the dentists' much-beloved expression, *Open wide* \(= open your mouth wide\).
 
@@ -108,13 +108,13 @@ Current ratio in print \(*sliced thin* vs. *\*sliced thinly*\): 2.1:1
 
 Rarely, of course, will there be more than four or five adjectives in sequence. But whatever the subject, this order tends to hold. The following examples show three to five adjectives, all following the normal sequence:
 
-• odd carbon-black metallic material \(1, 6, 8\)
-• short plastic child's hammer \(2, 8, 10\)
-• really big blue cowboy statue \(1, 2, 6, 9\)
-• large round Italian cheese wheel \(2, 4, 7, 8\)
-• big old brown canvas fishing hat \(2, 5, 6, 8, 10\)
-• beautiful new purple-sequined twirler uniform \(1, 5, 6, 8, 9\)
-• amazing gigantic vertical Chinese dinosaur sculpture \(1, 2, 3, 7, 9\)
+ - odd carbon-black metallic material \(1, 6, 8\)
+ - short plastic child's hammer \(2, 8, 10\)
+ - really big blue cowboy statue \(1, 2, 6, 9\)
+ - large round Italian cheese wheel \(2, 4, 7, 8\)
+ - big old brown canvas fishing hat \(2, 5, 6, 8, 10\)
+ - beautiful new purple-sequined twirler uniform \(1, 5, 6, 8, 9\)
+ - amazing gigantic vertical Chinese dinosaur sculpture \(1, 2, 3, 7, 9\)
 
 On the question whether to separate consecutive adjectives with commas, see \(c\).
 

@@ -216,15 +216,15 @@ There are two exceptions in the second category. First are proper names: *Busby*
 
 Writers err especially by treating words in the first category as if they belonged in the second—e.g.:
 
-• "\[It seems\] a small enough price to pay, though, for the joy of watching *donkies* \[read *donkeys*\] year-round." Rebecca Jones, "Kicking Up Their Heels," *Rocky Mountain News* \(Denver\), 20 Jan. 1996, at D2.
+ - "\[It seems\] a small enough price to pay, though, for the joy of watching *donkies* \[read *donkeys*\] year-round." Rebecca Jones, "Kicking Up Their Heels," *Rocky Mountain News* \(Denver\), 20 Jan. 1996, at D2.
 
-• "Spurred on by this warning, they all continue with their mortal *journies* \[read *journeys*\] by connecting in ways that will, in the case of death, make their last moments worthwhile." Mary Houlihan-Skilton, " ‘Fat Tuesday' Needs More Louisiana Magic," *Chicago Sun-Times*, 3 Apr. 1996, at 44.
+ - "Spurred on by this warning, they all continue with their mortal *journies* \[read *journeys*\] by connecting in ways that will, in the case of death, make their last moments worthwhile." Mary Houlihan-Skilton, " ‘Fat Tuesday' Needs More Louisiana Magic," *Chicago Sun-Times*, 3 Apr. 1996, at 44.
 
-• "Stephen M. Halajko, 2 Chris Dr., \[was awarded a building permit\] for two one-flue *chimnies* \[read *chimneys*\] and a fireplace valued at $4,000." "Building Permits," *Providence J.-Bull.*, 9 Jan. 1997, at C4.
+ - "Stephen M. Halajko, 2 Chris Dr., \[was awarded a building permit\] for two one-flue *chimnies* \[read *chimneys*\] and a fireplace valued at $4,000." "Building Permits," *Providence J.-Bull.*, 9 Jan. 1997, at C4.
 
-• "McKenna said they would have to build the cost into the budget for next year, consult with law enforcement *attornies* \[read *attorneys*\], and seek support from the state." Nora Shelly, "Myerstown Talks About Forming Police Department," *Lebanon Daily News* \(Pa.\), 16 Aug. 2020, at A4.
+ - "McKenna said they would have to build the cost into the budget for next year, consult with law enforcement *attornies* \[read *attorneys*\], and seek support from the state." Nora Shelly, "Myerstown Talks About Forming Police Department," *Lebanon Daily News* \(Pa.\), 16 Aug. 2020, at A4.
 
-• "A couple of huge ceiba trees . . . had a couple of spider *monkies* \[read *monkeys*\] playing in them." W. Curt Vincent, "Something in Common with Garland," *Laurinburg Exchange* \(N.C.\), 10 Apr. 2021, Editorial §.
+ - "A couple of huge ceiba trees . . . had a couple of spider *monkies* \[read *monkeys*\] playing in them." W. Curt Vincent, "Something in Common with Garland," *Laurinburg Exchange* \(N.C.\), 10 Apr. 2021, Editorial §.
 
 **F. Proper Names.** Although few books on grammar mention the point, proper names often cause problems as plurals. The rule is simple: most take a simple *s*, while those ending in *-s*, *-x*, or *-z*, or in a sibilant *-ch* or *-sh*, take *-es*. Thus:
 
@@ -344,11 +344,11 @@ As with *POW* and *WMD*, even if the first word is the main noun in the spelled-
 
 Using *RBI* as a plural form \(meaning "runs batted in"\) isn't usual, but it does sometimes ill-advisedly appear—e.g.:
 
-• "Jeter . . . is hitting .233 \(10-for-42\) in the postseason with no homers and only three *RBI* \[read *RBIs*\]." Jeff Horrigan, "Jeter's Short at Plate," *Boston Herald*, 30 Oct. 2001, at 90.
+ - "Jeter . . . is hitting .233 \(10-for-42\) in the postseason with no homers and only three *RBI* \[read *RBIs*\]." Jeff Horrigan, "Jeter's Short at Plate," *Boston Herald*, 30 Oct. 2001, at 90.
 
-• "Dave McGrath got the win, three hits, three *RBI* \[read *RBIs*\], scored three runs and went deep." Kevin Callanan, "Sun and Fun Senior Softball League," *Orlando Sentinel*, 5 Dec. 2001, at 8. \(That sentence also illustrates both a lack of parallelism and an odd anticlimax.)
+ - "Dave McGrath got the win, three hits, three *RBI* \[read *RBIs*\], scored three runs and went deep." Kevin Callanan, "Sun and Fun Senior Softball League," *Orlando Sentinel*, 5 Dec. 2001, at 8. \(That sentence also illustrates both a lack of parallelism and an odd anticlimax.)
 
-• "His bat came alive in the postseason, when he was 8-for-19 with three doubles, a triple and three *RBI* \[read *RBIs*\]." Tony Jackson, "Reds Acquire Pirates Pitcher," *Cincinnati Post*, 21 Dec. 2001, at B3.
+ - "His bat came alive in the postseason, when he was 8-for-19 with three doubles, a triple and three *RBI* \[read *RBIs*\]." Tony Jackson, "Reds Acquire Pirates Pitcher," *Cincinnati Post*, 21 Dec. 2001, at B3.
 
 **I. Mass \(Noncount\) Nouns.** A recent trend in the language is to make plurals for mass nouns—i.e., general and abstract nouns that cannot be broken down into discrete units and that therefore should not have plural forms. One example of this phenomenon is the psychologists' and sociologists' term *behaviors* \(= actions\), suggesting that the ways in which people behave are readily categorizable and therefore countable. Granted, one can have good or bad behavior, but not, traditionally speaking, *a* good behavior or *a* bad behavior. This remains jargon.
 

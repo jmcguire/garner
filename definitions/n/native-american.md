@@ -8,11 +8,11 @@ By the 1800s, when the term *Native American* was fairly common, it had also bec
 
 The phrase *indigenous American*, which is more logically and etymologically correct, does have some support—e.g.:
 
-• "He alleged he and other American Indians were being illegally excluded from serving as jurors in San Juan County, where more than half the residents are descended from *indigenous Americans*." Dawn House, "Jury Still Out on Navajos' Role in Utah Courts," *Salt Lake Trib.*, 7 Feb. 2001, at D2.
+ - "He alleged he and other American Indians were being illegally excluded from serving as jurors in San Juan County, where more than half the residents are descended from *indigenous Americans*." Dawn House, "Jury Still Out on Navajos' Role in Utah Courts," *Salt Lake Trib.*, 7 Feb. 2001, at D2.
 
-• "Hundreds of high schools and colleges have dropped their Indian symbols over the past 30 years as many *indigenous American* groups and their members have called for sports teams to drop the names." David McKay Wilson, "Rules Due on School Mascots," *J. News* \(Westchester County, N.Y.\), 3 June 2002, at B1.
+ - "Hundreds of high schools and colleges have dropped their Indian symbols over the past 30 years as many *indigenous American* groups and their members have called for sports teams to drop the names." David McKay Wilson, "Rules Due on School Mascots," *J. News* \(Westchester County, N.Y.\), 3 June 2002, at B1.
 
-• "Bartolome de Las Casas . . . preached justice for *indigenous Americans* in the 16th century." Stephanie Nichols, "Shrine Will Promote Understanding," *Commercial Appeal* \(Memphis\), 8 Aug. 2002, Neighbors §, at 2.
+ - "Bartolome de Las Casas . . . preached justice for *indigenous Americans* in the 16th century." Stephanie Nichols, "Shrine Will Promote Understanding," *Commercial Appeal* \(Memphis\), 8 Aug. 2002, Neighbors §, at 2.
 
 Not surprisingly, the synonymous phrase *autochthonous American* has never caught on. See race-related terms \(k\).
 

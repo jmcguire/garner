@@ -2,9 +2,9 @@
 
 insignia; **\*insigne**. Today *insignia* \(technically a plural form\) is regarded as the singular, *insignias* as its plural. E.g.:
 
-• "Roses bearing this *insignia* have undergone two years of comparison with other new varieties." Diane Relf, "Rose Blooms, Rose Facts," *Roanoke Times*, 20 June 1996, at 9.
+ - "Roses bearing this *insignia* have undergone two years of comparison with other new varieties." Diane Relf, "Rose Blooms, Rose Facts," *Roanoke Times*, 20 June 1996, at 9.
 
-• "Defrock yourself of potentially or actually signaling garb and *insignias*." Leslie Sargent Eskildsen, "Whether Buying or Selling, Skip All Politics," *Orange County Register*, 12 Sept. 2021, Bus. § at 8.
+ - "Defrock yourself of potentially or actually signaling garb and *insignias*." Leslie Sargent Eskildsen, "Whether Buying or Selling, Skip All Politics," *Orange County Register*, 12 Sept. 2021, Bus. § at 8.
 
 Cf. **indicia**.
 

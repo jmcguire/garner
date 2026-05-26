@@ -4,9 +4,9 @@ pommel; **pummel**. *Pommel* should be reserved for the noun meaning "a knob on 
 
 Although *pommel* occasionally appears as a verb, the differentiation outlined above should be favored—e.g.:
 
-• "A sophomore at Sylvan Hills High School, Don Baker *pommeled* \[read *pummeled*\] himself." Charles Allbright, "Career Choices," *Ark. Democrat-Gaz.*, 3 Feb. 1997, at E1.
+ - "A sophomore at Sylvan Hills High School, Don Baker *pommeled* \[read *pummeled*\] himself." Charles Allbright, "Career Choices," *Ark. Democrat-Gaz.*, 3 Feb. 1997, at E1.
 
-• "Seven inmates who belonged to \[a rival gang bashed\] him until his back broke and his face was *pommeled* \[read *pummeled*\]." Vinda Carson, "Bikie Sues for Compo After Jail Attack," *Courier-Mail* \(Aus.\), 13 June 2021, at 4.
+ - "Seven inmates who belonged to \[a rival gang bashed\] him until his back broke and his face was *pommeled* \[read *pummeled*\]." Vinda Carson, "Bikie Sues for Compo After Jail Attack," *Courier-Mail* \(Aus.\), 13 June 2021, at 4.
 
 Of course, in BrE one is *pummelled*, whereas in AmE one is *pummeled*. \(See spelling \(c\).) The bruising effect is the same.
 

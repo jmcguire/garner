@@ -46,19 +46,19 @@ There were counterarguments. The main ones were these: \(1\) capitalizing *Black
 
 Because of the widespread adoption of the *AP Stylebook*, however, *The Washington Post*'s stance is now the minority position in AmE journalism, which routinely contains passages like these:
 
-• "The honor will make Ms. Baker . . . the first Black woman and one of very few foreign-born figures to be interred there." Constant Méheut, "France to Honor Baker with Panthéon Burial," *N.Y. Times*, 23 Aug. 2021, at A4.
+ - "The honor will make Ms. Baker . . . the first Black woman and one of very few foreign-born figures to be interred there." Constant Méheut, "France to Honor Baker with Panthéon Burial," *N.Y. Times*, 23 Aug. 2021, at A4.
 
-• "Whether Black people are moving to the suburbs or the South, they are changing what Black America is and where Black culture is expressed and Black power is exerted." Charles M. Blow, "Chocolate and Chocolate Chip Cities," *N.Y. Times*, 23 Aug. 2021, at A19.
+ - "Whether Black people are moving to the suburbs or the South, they are changing what Black America is and where Black culture is expressed and Black power is exerted." Charles M. Blow, "Chocolate and Chocolate Chip Cities," *N.Y. Times*, 23 Aug. 2021, at A19.
 
-• "Mr. Williams, 41 years old, began work this week as the first Black U.S. attorney for the Southern District of New York." Corinne Ramey, "New Manhattan U.S. Attorney Takes Over," *Wall Street J.*, 12 Oct. 2021, at A3.
+ - "Mr. Williams, 41 years old, began work this week as the first Black U.S. attorney for the Southern District of New York." Corinne Ramey, "New Manhattan U.S. Attorney Takes Over," *Wall Street J.*, 12 Oct. 2021, at A3.
 
 *The New York Times* in particular often prints sentences with a lowercase *white* in juxtaposition to an uppercase *Black*—e.g.:
 
-• "Rounding out the acquisition are portraits of abolitionists and photographs related to the Underground Railroad, with special attention to the women—both Black and white—who worked to raise money for the opposition." Aruna D'Souza, "Rare Images May Rewrite History," *N.Y. Times*, 19 Aug. 2021, at C1, C5.
+ - "Rounding out the acquisition are portraits of abolitionists and photographs related to the Underground Railroad, with special attention to the women—both Black and white—who worked to raise money for the opposition." Aruna D'Souza, "Rare Images May Rewrite History," *N.Y. Times*, 19 Aug. 2021, at C1, C5.
 
-• "Recent studies have also shown that Black employees prefer remote work in higher percentages than their white colleagues." Priya Parker, "How Should We Meet? And Who Decides?," *N.Y. Times*, 21 Aug. 2021, at A19.
+ - "Recent studies have also shown that Black employees prefer remote work in higher percentages than their white colleagues." Priya Parker, "How Should We Meet? And Who Decides?," *N.Y. Times*, 21 Aug. 2021, at A19.
 
-• "In California, a Black college freshman from the South is telling a story about his Latino friends from home when he is interrupted by a white classmate." Amy Harmon, "On the Left, a New Scramble over the Right Words to Say," *N.Y. Times*, 1 Nov. 2021, at A1.
+ - "In California, a Black college freshman from the South is telling a story about his Latino friends from home when he is interrupted by a white classmate." Amy Harmon, "On the Left, a New Scramble over the Right Words to Say," *N.Y. Times*, 1 Nov. 2021, at A1.
 
 Whether, in the long term, people will consider these jarring inconsistencies or natural and desirable usage, only time will tell.
 
@@ -94,11 +94,11 @@ By the 1800s, when the term *Native American* was fairly common, it had also bec
 
 The phrase *indigenous American*, which is more logically and etymologically correct, does have some support, often now with both words capitalized—e.g.:
 
-• "He alleged he and other American Indians were being illegally excluded from serving as jurors in San Juan County, where more than half the residents are descended from *indigenous Americans*." Dawn House, "Jury Still Out on Navajos' Role in Utah Courts," *Salt Lake Trib*., 7 Feb. 2001, at D2. \(Note that this example probably does not exhibit inelegant variation.\)
+ - "He alleged he and other American Indians were being illegally excluded from serving as jurors in San Juan County, where more than half the residents are descended from *indigenous Americans*." Dawn House, "Jury Still Out on Navajos' Role in Utah Courts," *Salt Lake Trib*., 7 Feb. 2001, at D2. \(Note that this example probably does not exhibit inelegant variation.\)
 
-• "Hundreds of high schools and colleges have dropped their Indian symbols over the past 30 years as many *indigenous American* groups and their members have called for sports teams to drop the names." David McKay Wilson, "Rules Due on School Mascots," *J. News* \(Westchester County, N.Y.\), 3 June 2002, at B1.
+ - "Hundreds of high schools and colleges have dropped their Indian symbols over the past 30 years as many *indigenous American* groups and their members have called for sports teams to drop the names." David McKay Wilson, "Rules Due on School Mascots," *J. News* \(Westchester County, N.Y.\), 3 June 2002, at B1.
 
-• "On Sunday, boxing's first *Indigenous American* female world champ faces a new challenge." Jen Yamato, "She's Not Boxed In," *L.A. Times*, 2 Mar. 2022, at 1.
+ - "On Sunday, boxing's first *Indigenous American* female world champ faces a new challenge." Jen Yamato, "She's Not Boxed In," *L.A. Times*, 2 Mar. 2022, at 1.
 
 As for the indigenous peoples of Alaska, *Eskimo* is now discommended unless paired with a group's ethnic name <Inupiat Eskimos> <a Yup'ik Eskimo>. Again, follow a person's or a community's preference <a member of the Cu'pik community> <a Cu'pik>. The AP's most recent stance is that "the term *Eskimo* \[by itself\] was assigned by nonnative people and in some cultures has taken on offensive connotations." *AP Stylebook* 102 \(2020–2022\). *Alaska Native* is generally safe except when greater specificity is possible.
 

@@ -6,9 +6,9 @@ every.
 
 **B. Meaning "complete" or "utmost."** To say that you have *every confidence* in something isn't logical, but it's now an established casualism—e.g.:
 
-• "I *have every confidence* \[or *am quite confident*\] that our own attorneys . . . are perfectly capable of researching the applicable statutes and case law on this issue." Letter of Henry A. Pulkowski Jr., "Moon Director Questions ACLU in Lawsuit," *Pitt. Post-Gaz.*, 2 June 1994, at W2.
+ - "I *have every confidence* \[or *am quite confident*\] that our own attorneys . . . are perfectly capable of researching the applicable statutes and case law on this issue." Letter of Henry A. Pulkowski Jr., "Moon Director Questions ACLU in Lawsuit," *Pitt. Post-Gaz.*, 2 June 1994, at W2.
 
-• "At yet another level, they are being told that you *have every confidence in* \[or *are quite confident of*\] their physical recovery." Lou Makarowski, "Hurt Athletes Need Support in Recovering," *Houston Chron.*, 29 Sept. 1996, at 21.
+ - "At yet another level, they are being told that you *have every confidence in* \[or *are quite confident of*\] their physical recovery." Lou Makarowski, "Hurt Athletes Need Support in Recovering," *Houston Chron.*, 29 Sept. 1996, at 21.
 
 **C. *Each and every*.** See **each and every**.
 

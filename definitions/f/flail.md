@@ -6,11 +6,11 @@ To *flay* is \(1\) to rip the skin or hide off \(something\), or, in AmE, \(2\) 
 
 *Flay* is sometimes misused for *flail*—e.g.:
 
-• "If you really and truly are that outdoorsy, spending many weekends *flaying* \[read *flailing*\] about in mud, water or over yonder dale, then the versatility of the Explorer is well worth the deficit in ride and handling." David Booth, "Pseudo-ute v. Sport-ute," *Nat'l Post*, 29 Sept. 2000, at E2.
+ - "If you really and truly are that outdoorsy, spending many weekends *flaying* \[read *flailing*\] about in mud, water or over yonder dale, then the versatility of the Explorer is well worth the deficit in ride and handling." David Booth, "Pseudo-ute v. Sport-ute," *Nat'l Post*, 29 Sept. 2000, at E2.
 
-• "He was nicknamed ‘the human locomotive' because of his ungainly style—arms *flaying* \[read *flailing*\], head rolling, and his tongue hanging out." Larry Stewart, "The Irish Track," *L.A. Times*, 21 Dec. 2000, at D2.
+ - "He was nicknamed ‘the human locomotive' because of his ungainly style—arms *flaying* \[read *flailing*\], head rolling, and his tongue hanging out." Larry Stewart, "The Irish Track," *L.A. Times*, 21 Dec. 2000, at D2.
 
-• " ‘Who knows where he is\!' Trinidad said, *flaying* \[read *flailing*\] her arms into the air." Allistair Scrutton, "For Better or Worse," *Sun-Sentinel* \(Ft. Lauderdale\), 11 Feb. 2001, at A24.
+ - " ‘Who knows where he is\!' Trinidad said, *flaying* \[read *flailing*\] her arms into the air." Allistair Scrutton, "For Better or Worse," *Sun-Sentinel* \(Ft. Lauderdale\), 11 Feb. 2001, at A24.
 
 Language-Change Index
 

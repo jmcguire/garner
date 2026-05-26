@@ -8,9 +8,9 @@ A related problem is using *cite* as an intransitive rather than as a transitive
 
 In sense 3, some people have recently begun writing that a person is *cited to* court. In this casualism, *cite* is shorthand for "to summon with a citation" and is surely inferior to *summon*—e.g.:
 
-• "He claimed the hunters knew that their activities were illegal because almost 40 other hunters left before TWRA officers could *cite* \[read *summon*\] them to court." Lance Coleman & Dan Cook, "Baited-Field Bust Bags 40\+ Area Dove Hunters," *Chattanooga Free Press*, 4 Sept. 1996, at B2.
+ - "He claimed the hunters knew that their activities were illegal because almost 40 other hunters left before TWRA officers could *cite* \[read *summon*\] them to court." Lance Coleman & Dan Cook, "Baited-Field Bust Bags 40\+ Area Dove Hunters," *Chattanooga Free Press*, 4 Sept. 1996, at B2.
 
-• "A sheriff's deputy charged a South Point woman and a Fort Gay, W.Va., man with possession of drugs \(marijuana\) and drug paraphernalia in Fayette Township and *cited* \[read *summoned*\] them into court last week." "Man Reports Computer, iPod, DVDs, More Stolen," *Herald-Dispatch* \(Huntington, W. Va.\), 31 Mar. 2012, at 1.
+ - "A sheriff's deputy charged a South Point woman and a Fort Gay, W.Va., man with possession of drugs \(marijuana\) and drug paraphernalia in Fayette Township and *cited* \[read *summoned*\] them into court last week." "Man Reports Computer, iPod, DVDs, More Stolen," *Herald-Dispatch* \(Huntington, W. Va.\), 31 Mar. 2012, at 1.
 
 **B. And *quote*.** These words are usefully differentiated. To *cite* an authority is to give its substance and to indicate where it can be found. To *quote* is to repeat someone else's exact words and to enclose them in quotation marks or block-quotation form. In scholarly writing, citations routinely follow quotations. See **quote**.
 

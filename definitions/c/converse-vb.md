@@ -6,11 +6,11 @@ The AmE dialectal variant *\*conversate*, a back-formation, is sometimes heard, 
 
 In print, this nonword almost always appears in reported speech—e.g.:
 
-• "Sometimes, Charles admits, he misses the old life. Or certain things that came with the old life. ‘I miss just walking around. I like *conversating* with people.' " Bill Marvel, "Cast into the Darkness," *Dallas Morning News*, 28 Jan. 2001, at F1.
+ - "Sometimes, Charles admits, he misses the old life. Or certain things that came with the old life. ‘I miss just walking around. I like *conversating* with people.' " Bill Marvel, "Cast into the Darkness," *Dallas Morning News*, 28 Jan. 2001, at F1.
 
-• " ‘Since I'm traveling a lot, we *conversate* via e-mail.' " Mike McGraw, "Rose to Honor Father," *Daily Herald* \(Chicago\), 16 Apr. 2002, at 7 \(quoting Jalen Rose\).
+ - " ‘Since I'm traveling a lot, we *conversate* via e-mail.' " Mike McGraw, "Rose to Honor Father," *Daily Herald* \(Chicago\), 16 Apr. 2002, at 7 \(quoting Jalen Rose\).
 
-• "During a College World Series game, she heard a sportscaster say the coach was ‘*conversating*' with the pitcher." "Smiley Anders," *Advocate* \(Baton Rouge\), 24 June 2002, at B1.
+ - "During a College World Series game, she heard a sportscaster say the coach was ‘*conversating*' with the pitcher." "Smiley Anders," *Advocate* \(Baton Rouge\), 24 June 2002, at B1.
 
 Meanwhile, *\*conversationalize* \(along with cognates such as *\*conversationalization*\) is a piece of bureaucratic mumbo jumbo—e.g.: " ‘\[*C*\]*onversationalization*' . . . \[occurs when\] the presenter is constructed as an ordinary bloke talking to ordinary people, sharing with them . . . a commonsense world of ordinary experience." Norman Fairclough, *Media Discourse* 10 \(1995\). No ordinary bloke would use the word. See -ize & bureaucratese.
 

@@ -8,9 +8,9 @@ Difficulties are especially common in negative forms, in which *may not* can be 
 
 Misusing *might* for *may* runs contrary to the tendency to suppress subjunctives in modern English. But it does occur—e.g.:
 
-• "An American Eagle flight that crashed Tuesday killing 15 people apparently had an engine ‘flame-out' and *might* \[read *may*\] have stalled in the minutes before it approached the Raleigh-Durham airport, the National Transportation Safety Board said late Wednesday." Don Phillips, "Plane *Might* \[read *May*\] Have Stalled Before Crashing," *Austin Am.-Statesman*, 15 Dec. 1994, at A1. \(*Might* erroneously suggests that the stall didn't happen; the probability is that it did.\)
+ - "An American Eagle flight that crashed Tuesday killing 15 people apparently had an engine ‘flame-out' and *might* \[read *may*\] have stalled in the minutes before it approached the Raleigh-Durham airport, the National Transportation Safety Board said late Wednesday." Don Phillips, "Plane *Might* \[read *May*\] Have Stalled Before Crashing," *Austin Am.-Statesman*, 15 Dec. 1994, at A1. \(*Might* erroneously suggests that the stall didn't happen; the probability is that it did.\)
 
-• "Power surges *might* \[read *may*\] have triggered outages for up to 2 million people." Richard Cole, "Western Cities in the Dark After 8-State Mystery Blackout," *Austin Am.-Statesman*, 15 Dec. 1994, at A6. \(*Might* suggests that the outages didn't occur; they did.\)
+ - "Power surges *might* \[read *may*\] have triggered outages for up to 2 million people." Richard Cole, "Western Cities in the Dark After 8-State Mystery Blackout," *Austin Am.-Statesman*, 15 Dec. 1994, at A6. \(*Might* suggests that the outages didn't occur; they did.\)
 
 For the distinction between *may* and *can*, see **can \(a\)**.
 

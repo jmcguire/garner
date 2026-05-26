@@ -4,9 +4,9 @@ consensus = a majority opinion or generally accepted view. Hence two common phra
 
 Because a *consensus* is the collective unanimous opinion of several people, there should be more than two sides agreeing. Strictly speaking, a consensus of two is impossible—e.g.:
 
-• "Oxygen reimbursement cuts have been one of the few areas where the two sides have *reached consensus* \[read *agreed* or *reached an agreement*\]." "Clinton Administration to Cut Home-Oxygen Payments," *Orange County Register*, 20 Jan. 1996, at C2.
+ - "Oxygen reimbursement cuts have been one of the few areas where the two sides have *reached consensus* \[read *agreed* or *reached an agreement*\]." "Clinton Administration to Cut Home-Oxygen Payments," *Orange County Register*, 20 Jan. 1996, at C2.
 
-• "*Both sides* *were unable to reach consensus* \[read *The two sides could not agree*\]." Robert Sanchez, "COD Faculty Poised for Strike Authorization Vote," *Daily Herald* \(Chicago\), 17 Sept. 2019.
+ - "*Both sides* *were unable to reach consensus* \[read *The two sides could not agree*\]." Robert Sanchez, "COD Faculty Poised for Strike Authorization Vote," *Daily Herald* \(Chicago\), 17 Sept. 2019.
 
 *Consensus* is unrelated to *census*, but that word is nevertheless often misspelled *\*concensus*—e.g.: "The emphasis on developing leadership capacity in all students, he says, is reflected in corporations where *concensus building* \[read *consensus-building*\] and working in teams have replaced the old style of centralized authority." Nina McCain, "Striving to Change the System," *Boston Globe*, 27 Oct. 1996, at B12. See spelling \(a\).
 

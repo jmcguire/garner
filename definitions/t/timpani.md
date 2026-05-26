@@ -19,11 +19,11 @@ Current ratio in print \(*tympani* vs. *timpani* in World Englishes\): 1.4:1
 
 **B. Singular or Plural.** The word *timpani*—though borrowed into English as the plural form of the Italian singular *timpano*—has become interchangeably singular or plural. Most commonly, of course, the word is plural—e.g.: "The Jefferson Symphony Orchestra has been awarded a $14,110 grant by the Bonfils-Stanton Foundation for a set of four new *timpani*." "Good for You," *Rocky Mountain News* \(Denver\), 3 Oct. 1996, at D14. But it's often singular as well. Even professional musicians commonly refer to *a timpani*, not *\*a timpano*. E.g.:
 
-• "\[It is an opera\] house where Mozart's double-bass or *timpani* is heard as clearly as the soprano." Anthony Lewis, "To Love and Be Wise," *N.Y. Times*, 11 July 1994, at A15.
+ - "\[It is an opera\] house where Mozart's double-bass or *timpani* is heard as clearly as the soprano." Anthony Lewis, "To Love and Be Wise," *N.Y. Times*, 11 July 1994, at A15.
 
-• "I hear a *timpani*." "Hot Ticket Items," *Sacramento Bee*, 17 May 1996, at TK3.
+ - "I hear a *timpani*." "Hot Ticket Items," *Sacramento Bee*, 17 May 1996, at TK3.
 
-• "The incessant beat of an Aztec drum, which looks like a bongo but booms like a *timpani*, permeates the entire building." Hsiao-Ching Chou, "Fiddle Fervor Woman Passes on Legacy of Unique Instrument," *Denver Post*, 28 Aug. 1996, at G1.
+ - "The incessant beat of an Aztec drum, which looks like a bongo but booms like a *timpani*, permeates the entire building." Hsiao-Ching Chou, "Fiddle Fervor Woman Passes on Legacy of Unique Instrument," *Denver Post*, 28 Aug. 1996, at G1.
 
 See plurals \(b\).
 
@@ -33,11 +33,11 @@ Language-Change Index
 
 **C. *\*Timpani drum*.** This phrase is a redundancy that had little currency till the late 20th century. It should be halved—e.g.:
 
-• "The pit . . . is made up of 14 people on xylophones, marimbas, chimes, gongs, *tympani drums* \[read *timpani* or *kettledrums*\], glockenspiels, bells, triangles, tambourines and more." Michael Colton, "Esprit de Corps," *Boston Globe*, 17 Aug. 1994, at 73.
+ - "The pit . . . is made up of 14 people on xylophones, marimbas, chimes, gongs, *tympani drums* \[read *timpani* or *kettledrums*\], glockenspiels, bells, triangles, tambourines and more." Michael Colton, "Esprit de Corps," *Boston Globe*, 17 Aug. 1994, at 73.
 
-• "A *timpani drum* \[read *timpani* or *kettledrum*\], its head torn, . . . was serving as a trash can." Sandy Strickland, "Paxon Band on the Run in Search of Donations," *Fla. Times-Union*, 28 Aug. 1996, at 1.
+ - "A *timpani drum* \[read *timpani* or *kettledrum*\], its head torn, . . . was serving as a trash can." Sandy Strickland, "Paxon Band on the Run in Search of Donations," *Fla. Times-Union*, 28 Aug. 1996, at 1.
 
-• "Percussive instruments can also be played in an expressive sustaining fashion, such as a roll on a snare or *timpani drum* \[read *timpani* or *kettledrum*\], where the drum is struck repeatedly." Ethan Winer, *The Audio Expert* 626 \(2012\).
+ - "Percussive instruments can also be played in an expressive sustaining fashion, such as a roll on a snare or *timpani drum* \[read *timpani* or *kettledrum*\], where the drum is struck repeatedly." Ethan Winer, *The Audio Expert* 626 \(2012\).
 
 Language-Change Index
 

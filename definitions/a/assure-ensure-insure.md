@@ -10,11 +10,11 @@ In word frequency since 1900 \(when the phrases came into common use\), *ensure 
 
 The following sentences illustrate the correct use of *ensure*:
 
-• "There used to be an Eastern Idaho Sailing Association with more than 100 people, but the members' independent-minded personalities eventually *ensured* its demise." Paul Menser, "Wadsworth Set Sail into Yachting Business in 1940," *Idaho Falls Post Register*, 24 Mar. 1997, at A9.
+ - "There used to be an Eastern Idaho Sailing Association with more than 100 people, but the members' independent-minded personalities eventually *ensured* its demise." Paul Menser, "Wadsworth Set Sail into Yachting Business in 1940," *Idaho Falls Post Register*, 24 Mar. 1997, at A9.
 
-• "The suspension of talks until midmorning *ensured* another gridlocked rush-hour throughout the San Francisco Bay area." "Transit Talks Called Off After Marathon Session," *Buffalo News*, 11 Sept. 1997, at A11.
+ - "The suspension of talks until midmorning *ensured* another gridlocked rush-hour throughout the San Francisco Bay area." "Transit Talks Called Off After Marathon Session," *Buffalo News*, 11 Sept. 1997, at A11.
 
-• "The volcano's shieldlike shape *ensures* that the air at the summit is . . . cool and clear." "Hawaii: Under the Volcano," *Economist*, 12 Sept. 2015, at 70.
+ - "The volcano's shieldlike shape *ensures* that the air at the summit is . . . cool and clear." "Hawaii: Under the Volcano," *Economist*, 12 Sept. 2015, at 70.
 
 Language-Change Index
 

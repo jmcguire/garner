@@ -4,19 +4,19 @@ discrete; **discreet**. Although the two words ultimately have the same Latin or
 
 The usual error is to misuse *discreet* for *discrete*—e.g.:
 
-• "He is clearly not at home with strategic views, but prefers handling *discreet* \[read *discrete*\] issues rather than sweeping ideas." Bernard Gwertzman, "Working Profile: George P. Shultz," *N.Y. Times*, 17 May 1985, at A16.
+ - "He is clearly not at home with strategic views, but prefers handling *discreet* \[read *discrete*\] issues rather than sweeping ideas." Bernard Gwertzman, "Working Profile: George P. Shultz," *N.Y. Times*, 17 May 1985, at A16.
 
-• "Having control over a *discreet* \[read *discrete*\] section of the line fosters a sense of autonomy and pride among workers." Karen Lowry Miller, "The Factory Guru Tinkering with Toyota," *BusinessWeek*, 17 May 1993, at 95.
+ - "Having control over a *discreet* \[read *discrete*\] section of the line fosters a sense of autonomy and pride among workers." Karen Lowry Miller, "The Factory Guru Tinkering with Toyota," *BusinessWeek*, 17 May 1993, at 95.
 
-• "It was decided to break down the system into more *discreet* \[read *discrete*\] sections, as dictated by conditions on the pipeline." Philip J. Dusek, "Pipeline Integrity Program Helps Optimize Resources," *Pipeline & Gas J.*, Mar. 1994, at 36.
+ - "It was decided to break down the system into more *discreet* \[read *discrete*\] sections, as dictated by conditions on the pipeline." Philip J. Dusek, "Pipeline Integrity Program Helps Optimize Resources," *Pipeline & Gas J.*, Mar. 1994, at 36.
 
 Sometimes, though, the opposite blunder appears—e.g.:
 
-• "Mr. Bradshaw said almost everything the group did locally was *discrete* \[read *discreet*\]." Peter Applebome, "Bloody Sunday's Roots in Deep Religious Soil," *N.Y. Times*, 2 Mar. 1993, at A8.
+ - "Mr. Bradshaw said almost everything the group did locally was *discrete* \[read *discreet*\]." Peter Applebome, "Bloody Sunday's Roots in Deep Religious Soil," *N.Y. Times*, 2 Mar. 1993, at A8.
 
-• "The selections are tasteful with visceral mayhem, profanity, and sex almost nonexistent, or *discretely* \[read *discreetly*\] handled." Jim Bencivenga, "Tales That Sift Fact from Fable," *Christian Science Monitor*, 25 July 1996, at 21.
+ - "The selections are tasteful with visceral mayhem, profanity, and sex almost nonexistent, or *discretely* \[read *discreetly*\] handled." Jim Bencivenga, "Tales That Sift Fact from Fable," *Christian Science Monitor*, 25 July 1996, at 21.
 
-• "Although Ashley Madison promised users that their information would be ‘*100% discrete*' \[read *100% discreet*\] if they canceled their accounts, they had to pay an additional $19 to remove all their information from the website." Daniel J. Solove & Woodrow Hartzog, *Breached\!* 146 \(2022\).
+ - "Although Ashley Madison promised users that their information would be ‘*100% discrete*' \[read *100% discreet*\] if they canceled their accounts, they had to pay an additional $19 to remove all their information from the website." Daniel J. Solove & Woodrow Hartzog, *Breached\!* 146 \(2022\).
 
 See **indiscreet**.
 

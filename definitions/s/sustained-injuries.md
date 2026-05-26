@@ -4,9 +4,9 @@ sustained injuries is officialese for *was injured*. Dating from the late 1700s,
 
 To *sustain injuries to \(a body part\)* is usually verbose for *injure*—e.g.:
 
-• "The woman *sustained injuries to her head and neck* \[read *injured her head and neck*\] in the accident at 11:40 a.m. Jan. 11." "Police Report," *Milwaukee J. Sentinel*, 18 Jan. 1996, at 14.
+ - "The woman *sustained injuries to her head and neck* \[read *injured her head and neck*\] in the accident at 11:40 a.m. Jan. 11." "Police Report," *Milwaukee J. Sentinel*, 18 Jan. 1996, at 14.
 
-• "Kennard, in her mid-30s, *sustained injuries to her jaw, neck and shoulder* \[read *injured her jaw, neck, and shoulder*\], and has severe headaches, Collins said." Ted Cilwick, "Jury Awards Woman Who Slipped in Mall Half-Million Dollars," *Salt Lake Trib.*, 26 Nov. 1996, at B4.
+ - "Kennard, in her mid-30s, *sustained injuries to her jaw, neck and shoulder* \[read *injured her jaw, neck, and shoulder*\], and has severe headaches, Collins said." Ted Cilwick, "Jury Awards Woman Who Slipped in Mall Half-Million Dollars," *Salt Lake Trib.*, 26 Nov. 1996, at B4.
 
 To argue that those edits make the victim sound responsible for his or her injuries is to ignore an age-old English idiom. A football player might hurt his arm in a game—might even break his arm—and no one would be led to think that it was a self-inflicted wound.
 

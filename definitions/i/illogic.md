@@ -18,13 +18,13 @@ Logic promotes clear thinking. To avoid the ills catalogued below, consider clos
 
 Another problem of comparison occurs when the writer forgets the point of reference in the comparison:
 
-• "Like the hard-hitting Dianne Feinstein, a candidate for California's governorship, *Silber's views are striking* \[read *Silber strikes*\] a chord among many Democrats tired of losing." Mike Graham, "Democrats' New Breed Upsets the Party Old Guard," *Sunday Times* \(London\), 15 Apr. 1990, at A23. The sentence as written compares a person to someone's views.
+ - "Like the hard-hitting Dianne Feinstein, a candidate for California's governorship, *Silber's views are striking* \[read *Silber strikes*\] a chord among many Democrats tired of losing." Mike Graham, "Democrats' New Breed Upsets the Party Old Guard," *Sunday Times* \(London\), 15 Apr. 1990, at A23. The sentence as written compares a person to someone's views.
 
-• "Like many others in Los Angeles, the quake helped Mr. Becker decide to leave." "Deciding to Escape Los Angeles," *N.Y. Times*, 18 Feb. 1994, at A10 \(photo caption\). This is a fine dangling modifier: the quake joined many others in L.A. in persuading Mr. Becker to leave.
+ - "Like many others in Los Angeles, the quake helped Mr. Becker decide to leave." "Deciding to Escape Los Angeles," *N.Y. Times*, 18 Feb. 1994, at A10 \(photo caption\). This is a fine dangling modifier: the quake joined many others in L.A. in persuading Mr. Becker to leave.
 
-• "But the bone marrow transplant Mr. Getty is to receive is different from the earlier *cases* \[read *ones* or *transplants*\] because the marrow is being processed so that it consists of only two types of cells." Lawrence K. Altman, "Hope in AIDS Case Is Put in Marrow from Baboon," *N.Y. Times*, 15 Dec. 1995, at A1, A16. You can't compare a *transplant* to a *case*, which in medicine comprises the whole situation—the patient, the doctors, the injection, and everything else relating to the patient's problem.
+ - "But the bone marrow transplant Mr. Getty is to receive is different from the earlier *cases* \[read *ones* or *transplants*\] because the marrow is being processed so that it consists of only two types of cells." Lawrence K. Altman, "Hope in AIDS Case Is Put in Marrow from Baboon," *N.Y. Times*, 15 Dec. 1995, at A1, A16. You can't compare a *transplant* to a *case*, which in medicine comprises the whole situation—the patient, the doctors, the injection, and everything else relating to the patient's problem.
 
-• "Significantly, although industrial relations is regarded as more important than when the survey was last conducted, in September, it does not rate in the top 10 most dominant issues." Michael Gordon, "Voters Swing Back to ALP on Issues," *Weekend Australian*, 20–21 Jan. 1996, at 1. Insert the word *now* after *important*. Otherwise, it seems as if you're comparing *industrial relations* to a given time. In fact, we're comparing the importance of the issue then and now.
+ - "Significantly, although industrial relations is regarded as more important than when the survey was last conducted, in September, it does not rate in the top 10 most dominant issues." Michael Gordon, "Voters Swing Back to ALP on Issues," *Weekend Australian*, 20–21 Jan. 1996, at 1. Insert the word *now* after *important*. Otherwise, it seems as if you're comparing *industrial relations* to a given time. In fact, we're comparing the importance of the issue then and now.
 
 For related issues, see **best of all**, **better than any \(other\)**, **everyone . . . not, every other \(a\)** & **vice versa**.
 
@@ -34,9 +34,9 @@ For a fuller discussion of these matters, see danglers & miscues \(b\).
 
 **D. The Disjointed Appositive.** Phrases intended to be in apposition shouldn't be separated—e.g.:
 
-• "A respected English legal authority on the common law, the view of William Blackstone permeated much of the early thinking on freedom of expression." John Murray, *The Media Law Dictionary* 11 \(1978\). \(Blackstone himself, not Blackstone's *view*, is the respected authority.\)
+ - "A respected English legal authority on the common law, the view of William Blackstone permeated much of the early thinking on freedom of expression." John Murray, *The Media Law Dictionary* 11 \(1978\). \(Blackstone himself, not Blackstone's *view*, is the respected authority.\)
 
-• "As the editor of *Godey's Lady's Book* from 1837 to 1877—years in which this widely read magazine almost never mentioned the Civil War because war was not the business of ladies—Hale was regarded as one of America's most influential women." Mark Kurlansky, *Salt: A World History* 305 \(2002\). \(The author's assertion for the years 1837 to 1860 is illogical—the Civil War didn't begin until 1861, so of course it wasn't mentioned before then.\)
+ - "As the editor of *Godey's Lady's Book* from 1837 to 1877—years in which this widely read magazine almost never mentioned the Civil War because war was not the business of ladies—Hale was regarded as one of America's most influential women." Mark Kurlansky, *Salt: A World History* 305 \(2002\). \(The author's assertion for the years 1837 to 1860 is illogical—the Civil War didn't begin until 1861, so of course it wasn't mentioned before then.\)
 
 See appositives & miscues \(b\).
 
@@ -50,11 +50,11 @@ See appositives & miscues \(b\).
 
 What does the writer mean? Probably "half," but who can say for sure? Yet despite the illogic of the phrase, it is used all the time, even in scientific literature—e.g.:
 
-• "It came within just 4,000 miles of the 10-mile-wide nucleus of the comet, *or about 10 times closer than* \[read *much closer than*\] any of the other four missions to Halley's Comet." Bernie Reim, "One Eye's on Planets, One's on Spring," *Portland Press Herald*, 28 Feb. 2001, at C3.
+ - "It came within just 4,000 miles of the 10-mile-wide nucleus of the comet, *or about 10 times closer than* \[read *much closer than*\] any of the other four missions to Halley's Comet." Bernie Reim, "One Eye's on Planets, One's on Spring," *Portland Press Herald*, 28 Feb. 2001, at C3.
 
-• "Virus levels in the one animal were intermittently higher but still *more than 100 times lower than* \[read *less than 1% as much as*\] those in four control animals that had not received the vaccine." "HIV Vaccines: New Prime-Boost Strategy Shows Promise in Monkeys," *Gene Therapy Weekly*, 22 Mar. 2001, at 9.
+ - "Virus levels in the one animal were intermittently higher but still *more than 100 times lower than* \[read *less than 1% as much as*\] those in four control animals that had not received the vaccine." "HIV Vaccines: New Prime-Boost Strategy Shows Promise in Monkeys," *Gene Therapy Weekly*, 22 Mar. 2001, at 9.
 
-• "States were further required to limit soot from power plants, cars and other sources to 2.5 microns, or *28 times smaller than* \[who can be sure what this means?\] the width of a human hair." "EPA's Tougher Clean Air Rules Cloud the Michigan Economy," *Detroit News*, 5 Apr. 2001, at 2.
+ - "States were further required to limit soot from power plants, cars and other sources to 2.5 microns, or *28 times smaller than* \[who can be sure what this means?\] the width of a human hair." "EPA's Tougher Clean Air Rules Cloud the Michigan Economy," *Detroit News*, 5 Apr. 2001, at 2.
 
 **H. *\*Times more than*.** A problem similar to but far less egregious than the illogic of *\*times less than* comes up when we say that X is *\*two times more than* Y. The common understanding is that if Y is 1, then X is 2. But strictly speaking, one *time more* than Y could also be 2, because *more* implies that the result of 1-times-X is added to X to arrive at Y. The more precise and unambiguous wording is "X is two times as much as Y."
 

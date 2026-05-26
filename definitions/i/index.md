@@ -4,9 +4,9 @@ index.
 
 **A. Plurals.** For ordinary purposes, *indexes* is the preferable plural, not *indices*—e.g.:
 
-• "The book is beautifully produced, \[is\] profusely illustrated, \[and\] contains scrupulous filmographies and two *indexes* \(of boy actors and film titles\)." Peter Parker, "Sweet Boys with Insufferable Parents," *Independent*, 12 Oct. 1996, Books §, at 6. \(For the reasons behind the inserted words, see parallelism.)
+ - "The book is beautifully produced, \[is\] profusely illustrated, \[and\] contains scrupulous filmographies and two *indexes* \(of boy actors and film titles\)." Peter Parker, "Sweet Boys with Insufferable Parents," *Independent*, 12 Oct. 1996, Books §, at 6. \(For the reasons behind the inserted words, see parallelism.)
 
-• "A list of contributors and several *indexes* are included." Anne C. Fullam, "Almanac Offers Insights to the Hudson," *N.Y. Times*, 12 Jan. 1997, Westchester §, at 17.
+ - "A list of contributors and several *indexes* are included." Anne C. Fullam, "Almanac Offers Insights to the Hudson," *N.Y. Times*, 12 Jan. 1997, Westchester §, at 17.
 
 In modern print sources, the collocation *book indexes* greatly predominates over *book indices*. See plurals \(b\).
 

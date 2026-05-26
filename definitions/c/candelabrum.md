@@ -2,11 +2,11 @@
 
 candelabrum \(= a branched candlestick with several candles, or a branched lamp with several lights\) is a Latin loanword dating from the early 1800s. It forms the plural *candelabra*, which appears far more often than its singular. Even so, the singular form remains quite common—e.g.:
 
-• "The actor is speaking of his role as Lumiere, a life-size, fully functional *candelabrum*, in the national touring production of ‘Beauty and the Beast,' which kicked off a four-month stint at the Kennedy Center." Nicole Arthur, "All for ‘The Beast,'" *Wash. Post*, 9 June 1996, at G1.
+ - "The actor is speaking of his role as Lumiere, a life-size, fully functional *candelabrum*, in the national touring production of ‘Beauty and the Beast,' which kicked off a four-month stint at the Kennedy Center." Nicole Arthur, "All for ‘The Beast,'" *Wash. Post*, 9 June 1996, at G1.
 
-• "There is a lustrous warmth to the light that gives forth from the candles on a menorah—the nine-branched *candelabrum* used during Hanukkah." John Nichols, "Festival of Lights," *Capital Times* \(Madison\), 7 Dec. 1996, at A11.
+ - "There is a lustrous warmth to the light that gives forth from the candles on a menorah—the nine-branched *candelabrum* used during Hanukkah." John Nichols, "Festival of Lights," *Capital Times* \(Madison\), 7 Dec. 1996, at A11.
 
-• "A footman from the Silver Pantry is adjusting the top of a mid-17th-century 4ft *candelabrum*." Jessica Salter, "The Queen Awaits," *Daily Telegraph*, 25 July 2015, at 20.
+ - "A footman from the Silver Pantry is adjusting the top of a mid-17th-century 4ft *candelabrum*." Jessica Salter, "The Queen Awaits," *Daily Telegraph*, 25 July 2015, at 20.
 
 Three problems arise with this word.
 

@@ -6,9 +6,9 @@ The phrase *civil liberties*, a less frequent term, refers generally to the libe
 
 *Civic rights* is a much less common phrase. It sounds at once less weighty than the other two phrases and less idiomatic. When it appears, it often verges on being a needless variant of *civil rights*—e.g.:
 
-• "Lincoln \[was\] unwilling to alienate a public opinion that everywhere in the North was implacably, savagely opposed to giving slaves movement or *civic rights* \[read *civil rights*\]." Alfred Kazin, "A Forever Amazing Writer," *N.Y. Times*, 10 Dec. 1989, § 7, at 3.
+ - "Lincoln \[was\] unwilling to alienate a public opinion that everywhere in the North was implacably, savagely opposed to giving slaves movement or *civic rights* \[read *civil rights*\]." Alfred Kazin, "A Forever Amazing Writer," *N.Y. Times*, 10 Dec. 1989, § 7, at 3.
 
-• "The peace deal signed on Aug. 13 by the Macedonian and ethnic Albanian parties in Macedonia's government grants ethnic Albanians many of the greater *civic rights* \[read *civil rights*\] the rebels say they have sought." Ian Fisher, "Report Says Macedonians Killed Civilians in Revenge," *N.Y. Times*, 5 Sept. 2001, at A1.
+ - "The peace deal signed on Aug. 13 by the Macedonian and ethnic Albanian parties in Macedonia's government grants ethnic Albanians many of the greater *civic rights* \[read *civil rights*\] the rebels say they have sought." Ian Fisher, "Report Says Macedonians Killed Civilians in Revenge," *N.Y. Times*, 5 Sept. 2001, at A1.
 
-• "The walk started June 1 with O'Neal, *civic rights* \[read *civil-rights*\] legend Bob Zellner, college and graduate students from out of state, and other civil activists." "Thomasville Pastor Walks to D.C. to Support Rural Hospitals," *News & Record* \(Greensboro\), 4 July 2015, News §.
+ - "The walk started June 1 with O'Neal, *civic rights* \[read *civil-rights*\] legend Bob Zellner, college and graduate students from out of state, and other civil activists." "Thomasville Pastor Walks to D.C. to Support Rural Hospitals," *News & Record* \(Greensboro\), 4 July 2015, News §.
 

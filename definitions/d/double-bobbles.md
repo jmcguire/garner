@@ -8,17 +8,17 @@ A similar error occurs when *compromise* is confused with *comprise*, which itse
 
 Sometimes, however, the writer wanting the incorrect *comprise* seizes upon a doubly incorrect word, *compromise*—e.g.:
 
-• "The nation's 1.1 million secular Jews, those born Jewish but practicing no religion, *compromise* \[read *make up*\] 20 percent of the core Jewish population." "A Portrait of Jews in America," *Numbers News* \(Am. Demographics, Inc.\), Jan. 1994, at 4.
+ - "The nation's 1.1 million secular Jews, those born Jewish but practicing no religion, *compromise* \[read *make up*\] 20 percent of the core Jewish population." "A Portrait of Jews in America," *Numbers News* \(Am. Demographics, Inc.\), Jan. 1994, at 4.
 
-• "Women *compromise* \[read *make up*\] 60 percent of the 400,000 California adults estimated to have been seriously mentally ill in 1989." Nancy Weaver, "Mentally Ill Women Bear Brunt of State Cuts in Care, Report Says," *Sacramento Bee*, 8 Mar. 1995, at A1.
+ - "Women *compromise* \[read *make up*\] 60 percent of the 400,000 California adults estimated to have been seriously mentally ill in 1989." Nancy Weaver, "Mentally Ill Women Bear Brunt of State Cuts in Care, Report Says," *Sacramento Bee*, 8 Mar. 1995, at A1.
 
 The error may well arise through spell-checkers.
 
 One more example. There's a difference between the words *forebear* \(a noun meaning "an ancestor"\) and *forbear* \(a verb meaning "to refrain"\). To choose the latter in place of the former, in a noun sense, would be a single bobble. But to morph the word into *\*forbearer* is a double bobble:
 
-• "We have inherited the animal characteristics of our *forbearers* \[read *forebears*\]. They in turn inherited the animal characteristics of their *forbearers* \[read *forebears*\], who also inherited the animal characteristics of their *forbearers* \[read *forebears*\]." Richard Townsend, *The Evolution of the Mind* 41 \(2003\).
+ - "We have inherited the animal characteristics of our *forbearers* \[read *forebears*\]. They in turn inherited the animal characteristics of their *forbearers* \[read *forebears*\], who also inherited the animal characteristics of their *forbearers* \[read *forebears*\]." Richard Townsend, *The Evolution of the Mind* 41 \(2003\).
 
-• "When we academics honor our greatest intellectual *forbearers* \[read *forebears*\], we presumably carry the highest obligation of fidelity to their ideas." Lief H. Carter, "Law and Politics as Play," 83 *Chi.-Kent L. Rev.* 1333, 1334 \(2008\).
+ - "When we academics honor our greatest intellectual *forbearers* \[read *forebears*\], we presumably carry the highest obligation of fidelity to their ideas." Lief H. Carter, "Law and Politics as Play," 83 *Chi.-Kent L. Rev.* 1333, 1334 \(2008\).
 
 All the misuses discussed here are so spectacularly wrong that they merit their own special name: hence "double bobbles." For other examples, see **euphuism**, **\*had have** & **reek**.
 

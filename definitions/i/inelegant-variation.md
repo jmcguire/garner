@@ -25,21 +25,21 @@ There is even a book full of these things, in which a minister is "an old pulpit
 
 The basic type of variation found objectionable by Fowler is the simple change from the straightforward term to some slightly more fanciful or formal synonym, as here:
 
-• "This is Allen's first *directing* bid since 1989's ‘Crimes and Misdemeanors'—he won the *helming trophy* \[read *directing trophy* or *best-director Oscar*\] for 1977's ‘Annie Hall'—and his 11th writing nomination." Kathleen O'Steen, "Hit Happens: ‘Gump' Nods at 13," *Daily Variety*, 15 Feb. 1995, at 1.
+ - "This is Allen's first *directing* bid since 1989's ‘Crimes and Misdemeanors'—he won the *helming trophy* \[read *directing trophy* or *best-director Oscar*\] for 1977's ‘Annie Hall'—and his 11th writing nomination." Kathleen O'Steen, "Hit Happens: ‘Gump' Nods at 13," *Daily Variety*, 15 Feb. 1995, at 1.
 
-• "Pakistan's top court has ruled that male doctors may no longer perform *autopsies* on female corpses, saying *postmortems* \[read *autopsies*\] by the opposite sex show disrespect for the dead." "Autopsies Segregated," *Fresno Bee*, 28 Mar. 1996, at A12.
+ - "Pakistan's top court has ruled that male doctors may no longer perform *autopsies* on female corpses, saying *postmortems* \[read *autopsies*\] by the opposite sex show disrespect for the dead." "Autopsies Segregated," *Fresno Bee*, 28 Mar. 1996, at A12.
 
-• "\[The price controls\] imposed by this budget will cause more distortions, more animosity among patients, hospitals and *doctors* and more thoughts among *physicians* \[read *doctors*\] of quitting and joining labor unions." "Medicare Balances the Budget," *Asian Wall Street J.*, 4 Aug. 1997, at 12.
+ - "\[The price controls\] imposed by this budget will cause more distortions, more animosity among patients, hospitals and *doctors* and more thoughts among *physicians* \[read *doctors*\] of quitting and joining labor unions." "Medicare Balances the Budget," *Asian Wall Street J.*, 4 Aug. 1997, at 12.
 
 Equally common in modern prose is the switch from one form of a word to another—e.g.:
 
-• "But it's not just those with a *sanguinary* view. Those with a *sanguine*—make that *super-sanguine*—view are eyeing California, too." Don Bauder, "Don Bauder" \[series\], *San Diego Union-Trib.*, 30 Aug. 1989, at E1. See **sanguine**.
+ - "But it's not just those with a *sanguinary* view. Those with a *sanguine*—make that *super-sanguine*—view are eyeing California, too." Don Bauder, "Don Bauder" \[series\], *San Diego Union-Trib.*, 30 Aug. 1989, at E1. See **sanguine**.
 
-• "During the hoopla about Vice President Dan Quayle's remark about Murphy Brown, his critics reminded him that she is a *fictional* character. Well, Murphy might be *fictitious*, but so am I, according to the same critics." Lisa Hirsh, "Traditional Families Aren't Modern Fiction," *St. Louis Post-Dispatch*, 23 July 1992, at C3. On that use of *fictitious*, see **fictional**.
+ - "During the hoopla about Vice President Dan Quayle's remark about Murphy Brown, his critics reminded him that she is a *fictional* character. Well, Murphy might be *fictitious*, but so am I, according to the same critics." Lisa Hirsh, "Traditional Families Aren't Modern Fiction," *St. Louis Post-Dispatch*, 23 July 1992, at C3. On that use of *fictitious*, see **fictional**.
 
-• "Now just 27, he's a thoughtful and gifted writer, but he's in something of a *collegiate* rut. Or maybe the patience of those of us not in a *collegial* rut has just worn thin." Jeremy Gerard, "Wonderful Time," *Variety*, 15–21 Jan. 1996, at 135. See **collegial**.
+ - "Now just 27, he's a thoughtful and gifted writer, but he's in something of a *collegiate* rut. Or maybe the patience of those of us not in a *collegial* rut has just worn thin." Jeremy Gerard, "Wonderful Time," *Variety*, 15–21 Jan. 1996, at 135. See **collegial**.
 
-• "For delayed coking, this means having to cope with greater quantities of vacuum *residuum* with a higher carbon *residue*." A. Stefani, "Debottleneck Delayed Cokers for Greater Profitability," *Hydrocarbon Processing*, June 1996, at 99. See **residue**.
+ - "For delayed coking, this means having to cope with greater quantities of vacuum *residuum* with a higher carbon *residue*." A. Stefani, "Debottleneck Delayed Cokers for Greater Profitability," *Hydrocarbon Processing*, June 1996, at 99. See **residue**.
 
 Certain pairs may lend themselves to this snare: *arbiter* and *arbitrator*, *adjudicative* and *\*adjudicatory*, *investigative* and *investigatory*, *exigency* and *\*exigence*. In fact, it sometimes seems that amateurish writers believe that needless variants were made for this specific stylistic purpose.
 

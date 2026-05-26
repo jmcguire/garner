@@ -4,11 +4,11 @@ luxurious; **luxuriant**. Although these two words long ago underwent differenti
 
 Each word is sometimes confused with the other. Most commonly, *luxurious* is wrongly used for *luxuriant*—e.g.:
 
-• "But during December, holly's *luxurious* \[read *luxuriant*\] leaves and brightly colored berries become all but indispensable." Lindsay Bond Totten, "Christmastime Less Colorful Without Holly in the Garden," *Chicago Sun-Times*, 23 Dec. 2001, at C5.
+ - "But during December, holly's *luxurious* \[read *luxuriant*\] leaves and brightly colored berries become all but indispensable." Lindsay Bond Totten, "Christmastime Less Colorful Without Holly in the Garden," *Chicago Sun-Times*, 23 Dec. 2001, at C5.
 
-• "Streets and yards are densely covered with the vines and flowers and *luxurious* \[read *luxuriant*\] vegetation of many semi-tropical varieties." Melinda Kanner, "Savannah After Midnight," *Harv. Gay & Lesbian Rev.*, 1 May 2002, at 22.
+ - "Streets and yards are densely covered with the vines and flowers and *luxurious* \[read *luxuriant*\] vegetation of many semi-tropical varieties." Melinda Kanner, "Savannah After Midnight," *Harv. Gay & Lesbian Rev.*, 1 May 2002, at 22.
 
-• "Frida Kahlo . . . was so proud of her *luxurious* \[read *luxuriant*\] facial hair that she painted it right on to her self-portraits." Stephanie Mencimer, "The Trouble with Frida Kahlo," *Wash. Monthly*, 1 June 2002, at 26.
+ - "Frida Kahlo . . . was so proud of her *luxurious* \[read *luxuriant*\] facial hair that she painted it right on to her self-portraits." Stephanie Mencimer, "The Trouble with Frida Kahlo," *Wash. Monthly*, 1 June 2002, at 26.
 
 But the opposite error, *luxuriant* for *luxurious*, also sometimes occurs—e.g.: "The Hostess House has the feeling of a large, *luxuriant* \[read *luxurious*\] home with plush velvet furnishings, an oak dance floor, a large fireplace and enclosed decks and patios." Lori Taff, "Services Abound to Assist Party Planners," *Columbian* \(Vancouver, Wash.\), 30 Apr. 1996, Special §, at 2. \(On the use of *home* and *house*, see **house**.\)
 

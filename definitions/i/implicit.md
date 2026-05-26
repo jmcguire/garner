@@ -8,9 +8,9 @@ Logic is on the side of this usage: if one has *implicit* faith in something, no
 
 Still, in most contexts the writer is well advised to seek an alternative wording—e.g.:
 
-• "Such *implicit* \[read *complete* or simply delete *implicit*\] trust heralds a new dawn in married life—until we get the next sex poll, and spouses revert to normal." Nancy McIntyre, "Have Sexual Revolutionaries Surrendered?," *Ariz. Republic*, 18 Nov. 1994, at F20.
+ - "Such *implicit* \[read *complete* or simply delete *implicit*\] trust heralds a new dawn in married life—until we get the next sex poll, and spouses revert to normal." Nancy McIntyre, "Have Sexual Revolutionaries Surrendered?," *Ariz. Republic*, 18 Nov. 1994, at F20.
 
-• "In an ideal situation, police, prosecutors and the medical examiner's office should have *implicit* \[read *complete*\] confidence in the skill and professionalism of each other if justice is to be adequately served." "Benz Should Make Graceful Retreat in Response to ‘No Confidence' Vote," *Sun-Sentinel* \(Ft. Lauderdale\), 20 May 1996, at A8.
+ - "In an ideal situation, police, prosecutors and the medical examiner's office should have *implicit* \[read *complete*\] confidence in the skill and professionalism of each other if justice is to be adequately served." "Benz Should Make Graceful Retreat in Response to ‘No Confidence' Vote," *Sun-Sentinel* \(Ft. Lauderdale\), 20 May 1996, at A8.
 
 See **impliedly**.
 

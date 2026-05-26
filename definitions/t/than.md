@@ -4,11 +4,11 @@ than.
 
 **A. Verb Not Repeated After \(*than is*, *than has*\).** Often it's unnecessary \(though not ungrammatical\) to repeat *be*-verbs and *have*-verbs after *than*, especially when a noun follows—e.g.:
 
-• "Derby \(pronounced Darby\) is far more typical of English life *than is* \[read *than*\] London—in the same way that Dubuque is more typical of American life than New York City." Ann Miller Jordan, "Derby Filled with History, Charm—and Ghosts," *Ft. Worth Star-Telegram*, 26 Oct. 1997, at 1.
+ - "Derby \(pronounced Darby\) is far more typical of English life *than is* \[read *than*\] London—in the same way that Dubuque is more typical of American life than New York City." Ann Miller Jordan, "Derby Filled with History, Charm—and Ghosts," *Ft. Worth Star-Telegram*, 26 Oct. 1997, at 1.
 
-• "Both major female hormones, estrogen and progesterone, can be given at any age to strengthen bones, and the combination can be far more effective *than is* \[read *than*\] estrogen alone." Gabe Mirkin, "Looking to Control Body Fat?," *Wash. Times*, 27 Oct. 1997, at B12.
+ - "Both major female hormones, estrogen and progesterone, can be given at any age to strengthen bones, and the combination can be far more effective *than is* \[read *than*\] estrogen alone." Gabe Mirkin, "Looking to Control Body Fat?," *Wash. Times*, 27 Oct. 1997, at B12.
 
-• "Akron is more respected this season *than is* \[read *than*\] Central Michigan." Berry Tramel, "Oklahoma Gets Baptism in Mid-American Conference Football," *Oklahoman*, 18 Aug. 2015, at 13.
+ - "Akron is more respected this season *than is* \[read *than*\] Central Michigan." Berry Tramel, "Oklahoma Gets Baptism in Mid-American Conference Football," *Oklahoman*, 18 Aug. 2015, at 13.
 
 See comparatives and superlatives \(c\).
 
@@ -24,13 +24,13 @@ That view has had its detractors, including Eric Partridge, who preferred the ob
 
 For formal contexts, the traditional usage is generally best; only if you are deliberately aiming for a relaxed, colloquial tone is the prepositional *than* acceptable. Often it seems ill-advised—e.g.:
 
-• "So many of our students seem to struggle . . . . Are we really that much smarter than *them* \[read *they*\]?" John B. Mitchell, "Current Theories on Expert and Novice Thinking," 39 *J. Legal Educ.* 275 \(1989\).
+ - "So many of our students seem to struggle . . . . Are we really that much smarter than *them* \[read *they*\]?" John B. Mitchell, "Current Theories on Expert and Novice Thinking," 39 *J. Legal Educ.* 275 \(1989\).
 
-• "What makes the story even juicier is that Pamela, 74, has allegedly been feuding for years with her two former stepdaughters, both of them slightly older than *her* \[read *she*\]—and one of whom may face financial difficulties." Mark Hosenball, "Clifford Pleads Ignorance," *Newsweek*, 3 Oct. 1994, at 46.
+ - "What makes the story even juicier is that Pamela, 74, has allegedly been feuding for years with her two former stepdaughters, both of them slightly older than *her* \[read *she*\]—and one of whom may face financial difficulties." Mark Hosenball, "Clifford Pleads Ignorance," *Newsweek*, 3 Oct. 1994, at 46.
 
-• "Scrambling to improve his chances, Donald Skelton, a safe-deposit manager at Chase, plans to go to night school this summer at age 46. He had a rude awakening after 25 years at the bank when he learned that his daughter, fresh out of college, earned more than *him* \[read *he*\]." "At the New Workplace, an Unnerving Game of Musical Chairs," *N.Y. Times*, 4 Mar. 1996, at A10 \(photo caption\).
+ - "Scrambling to improve his chances, Donald Skelton, a safe-deposit manager at Chase, plans to go to night school this summer at age 46. He had a rude awakening after 25 years at the bank when he learned that his daughter, fresh out of college, earned more than *him* \[read *he*\]." "At the New Workplace, an Unnerving Game of Musical Chairs," *N.Y. Times*, 4 Mar. 1996, at A10 \(photo caption\).
 
-• "The sun on the runway illuminated their hair, which was bobbed to shoulder length and styled to the same tint—all in their thirties \(he was fifty-eight at the time\), twenty years younger than *him* \[read *he*\], and of the same height." Edward Hoagland, "Sex and the River Styx," *Harper's Mag.*, Jan. 2003, at 49, 59.
+ - "The sun on the runway illuminated their hair, which was bobbed to shoulder length and styled to the same tint—all in their thirties \(he was fifty-eight at the time\), twenty years younger than *him* \[read *he*\], and of the same height." Edward Hoagland, "Sex and the River Styx," *Harper's Mag.*, Jan. 2003, at 49, 59.
 
 See pronouns \(b\).
 

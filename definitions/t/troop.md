@@ -6,9 +6,9 @@ While some object to the use of *troops* \(always plural\) to refer to individua
 
 *Troupe* = a company of actors, acrobats, or other performers <a troupe of actors> <a troupe of circus performers>. Some writers misuse *troop* for *troupe*—e.g.:
 
-• "The 15-member *troop* \[read *troupe*\] that puts on the circus hasn't missed a show since the incident on Wednesday." Robert Farley, "The Show Must Go On," *Patriot & Evening News* \(Harrisburg\), 12 May 1997, at A1.
+ - "The 15-member *troop* \[read *troupe*\] that puts on the circus hasn't missed a show since the incident on Wednesday." Robert Farley, "The Show Must Go On," *Patriot & Evening News* \(Harrisburg\), 12 May 1997, at A1.
 
-• "A writer, director and military scholar, Milius assembled a worthy *troop* \[read *troupe*\] of tough-guy actors for his brawny ‘Rough Riders' miniseries." Lon Grahnke, "Charging Forth into History," *Chicago Sun-Times*, 18 July 1997, at 37.
+ - "A writer, director and military scholar, Milius assembled a worthy *troop* \[read *troupe*\] of tough-guy actors for his brawny ‘Rough Riders' miniseries." Lon Grahnke, "Charging Forth into History," *Chicago Sun-Times*, 18 July 1997, at 37.
 
 Language-Change Index
 

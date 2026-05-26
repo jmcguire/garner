@@ -8,9 +8,9 @@ Here, for example, it makes no difference which vessel weighs 100 tons and which
 
 Often, then, both *respective* and *respectively* aren't needed at all—e.g.:
 
-• "Even those as young as 2 offered opinions on the Indian princess Pocahontas and the English explorer John Smith, voiced by Irene Bedard and Mel Gibson *respectively* \[delete *respectively*\]." Melissa Myers, "You Are the Critic," *Des Moines Register*, 29 June 1995, at 7.
+ - "Even those as young as 2 offered opinions on the Indian princess Pocahontas and the English explorer John Smith, voiced by Irene Bedard and Mel Gibson *respectively* \[delete *respectively*\]." Melissa Myers, "You Are the Critic," *Des Moines Register*, 29 June 1995, at 7.
 
-• "Both men also realized a long time ago that, despite the caliber of their *respective games* \[read *games* or *play*\], careers as touring professionals were not in their future." Leonard Shapiro, "Two Golfers Hope to Play Home Holes," *Wash. Post*, 11 May 1997, at D6.
+ - "Both men also realized a long time ago that, despite the caliber of their *respective games* \[read *games* or *play*\], careers as touring professionals were not in their future." Leonard Shapiro, "Two Golfers Hope to Play Home Holes," *Wash. Post*, 11 May 1997, at D6.
 
 For an example in which *respectively* seems useful, see **paean \(a\)** (fourth sentence).
 

@@ -4,11 +4,11 @@ corollary; **correlation**. A *corollary* is a subsidiary proposition inferred f
 
 In recent years, unfortunately, *corollary* has come to be misused for *correlation* \(the word far more often needed\)—e.g.:
 
-• "Rizzo . . . does not see a logical *corollary* \[read *correlation*\] between accidents, injuries, and a total ban on fireworks sales." Richard Duckett, "Firefighters on Guard for the Fourth," *Telegram & Gaz.* \(Worcester\), 5 July 1996, at A1.
+ - "Rizzo . . . does not see a logical *corollary* \[read *correlation*\] between accidents, injuries, and a total ban on fireworks sales." Richard Duckett, "Firefighters on Guard for the Fourth," *Telegram & Gaz.* \(Worcester\), 5 July 1996, at A1.
 
-• "Researchers have found a direct *corollary* \[read *correlation*\] between the number of hours children watch TV and the number of pounds they weigh." "Not Just Vanity: Obesity Is a Health Problem," *Syracuse Herald-J.*, 2 Nov. 1998, at A6.
+ - "Researchers have found a direct *corollary* \[read *correlation*\] between the number of hours children watch TV and the number of pounds they weigh." "Not Just Vanity: Obesity Is a Health Problem," *Syracuse Herald-J.*, 2 Nov. 1998, at A6.
 
-• "While there are a lot of *corollaries* \[read *correlations*\] between where Hardee's is now and where Carl's was four or five years ago, there's one profound difference: Hardee's is a significant player in the breakfast business—something Carl's never was." Greg Johnson, "The Persuaders," *L.A. Times*, 21 Jan. 1999, at C6.
+ - "While there are a lot of *corollaries* \[read *correlations*\] between where Hardee's is now and where Carl's was four or five years ago, there's one profound difference: Hardee's is a significant player in the breakfast business—something Carl's never was." Greg Johnson, "The Persuaders," *L.A. Times*, 21 Jan. 1999, at C6.
 
 A corollary to the second bulleted example above: there might be a correlation between the number of hours that someone watches TV and that person's tendency to misuse *corollary* for *correlation*.
 

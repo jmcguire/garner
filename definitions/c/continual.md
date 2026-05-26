@@ -4,13 +4,13 @@ continual; **continuous**. *Continual* \(= frequently recurring; intermittent\) 
 
 The two words are subject to word-swapping, usually because *continuous* intrudes where *continual* belongs—e.g.:
 
-• "Wayne Forrest, a Deputy Attorney General helping prosecute the case, told the presiding judge, Charles R. DiGisi, that the sheriff's office had been engaged in a ‘*continuous* \[read *continual*\] course of misconduct' in the Spath case." Robert Hanley, "Courthouse Arrest Roils Trial of Officer in Teaneck Killing," *N.Y. Times*, 18 Jan. 1992, at 9.
+ - "Wayne Forrest, a Deputy Attorney General helping prosecute the case, told the presiding judge, Charles R. DiGisi, that the sheriff's office had been engaged in a ‘*continuous* \[read *continual*\] course of misconduct' in the Spath case." Robert Hanley, "Courthouse Arrest Roils Trial of Officer in Teaneck Killing," *N.Y. Times*, 18 Jan. 1992, at 9.
 
-• "The variety of tactics included *continuous* \[read *continual*\] nagging, crying, screaming, embarrassing parents in public, sulking and emotional blackmail." Maggie Brown, "Children ‘Put Pressure on Adult Buying,' " *Independent*, 30 Apr. 1992, Home News §, at 3.
+ - "The variety of tactics included *continuous* \[read *continual*\] nagging, crying, screaming, embarrassing parents in public, sulking and emotional blackmail." Maggie Brown, "Children ‘Put Pressure on Adult Buying,' " *Independent*, 30 Apr. 1992, Home News §, at 3.
 
-• "*Continuous* \[read *Continual*\] interruptions are frustrating because *it often means* \[read *they often mean*\] you have to warm up all over again or don't get a complete workout." Nick Lackeos, "Getting into Shape," *Montgomery Advertiser*, 1 Jan. 1996, at B1.
+ - "*Continuous* \[read *Continual*\] interruptions are frustrating because *it often means* \[read *they often mean*\] you have to warm up all over again or don't get a complete workout." Nick Lackeos, "Getting into Shape," *Montgomery Advertiser*, 1 Jan. 1996, at B1.
 
-• "Israel has since explained that the *continuous* \[read *continual*\] disturbances on the holy site are clearly not due to a Jewish presence." Khaled Abu Toameh & Tovah Lazaroff, "Ahead of UN Speech, Abbas Calls for Multilateral Track," *Jerusalem Post*, 30 Sept. 2015, at 1.
+ - "Israel has since explained that the *continuous* \[read *continual*\] disturbances on the holy site are clearly not due to a Jewish presence." Khaled Abu Toameh & Tovah Lazaroff, "Ahead of UN Speech, Abbas Calls for Multilateral Track," *Jerusalem Post*, 30 Sept. 2015, at 1.
 
 The phrase *\*almost continuous* indicates that *continual* is the right word—e.g.: "The antidepressant Prozac has been in the news *almost continuously* \[read *continually*\] since it was introduced in Belgium in 1986." Jennifer Barrs, "Prozac on the Front Page," *Tampa Trib.*, 24 Nov. 1996, at 8.
 

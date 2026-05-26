@@ -4,9 +4,9 @@ erotica \(= print or photographic materials intended to appeal to prurient inter
 
 In fact, today *erotica* is almost always used as a singular noun, in reference to the genre itself—e.g.:
 
-• "The future Lord Cobbold, sometimes nicknamed the Blue Baron, . . . has been criticised by those who do not believe that *erotica is* a suitable way to make a living for an Eton-educated blueblood." Hamida Ghafour, "Blue Baron Launches Red-Blooded Sex Book," *Daily Telegraph*, 26 Nov. 2001, at 7.
+ - "The future Lord Cobbold, sometimes nicknamed the Blue Baron, . . . has been criticised by those who do not believe that *erotica is* a suitable way to make a living for an Eton-educated blueblood." Hamida Ghafour, "Blue Baron Launches Red-Blooded Sex Book," *Daily Telegraph*, 26 Nov. 2001, at 7.
 
-• "Brief explanatory titles note \[that\] this early century *erotica was* shown mostly in the waiting rooms of French brothels as a sort of appetizer, and that ‘uncles' often brought teenage nephews to such fare after mass on Sundays ‘to start their initiation into manhood.' " Todd McCarthy, "The Good Old Naughty Days," *Variety*, 10–16 June 2002, at 31.
+ - "Brief explanatory titles note \[that\] this early century *erotica was* shown mostly in the waiting rooms of French brothels as a sort of appetizer, and that ‘uncles' often brought teenage nephews to such fare after mass on Sundays ‘to start their initiation into manhood.' " Todd McCarthy, "The Good Old Naughty Days," *Variety*, 10–16 June 2002, at 31.
 
-• "The Justice Department must convince the Supreme Court that same policy should cover the explicit *erotica* that *permeates* various Web sites." Editorial, "Public Libraries Are No Place for Porn," *Indianapolis Star*, 29 July 2002, at A16.
+ - "The Justice Department must convince the Supreme Court that same policy should cover the explicit *erotica* that *permeates* various Web sites." Editorial, "Public Libraries Are No Place for Porn," *Indianapolis Star*, 29 July 2002, at A16.
 

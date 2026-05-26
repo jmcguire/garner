@@ -6,9 +6,9 @@ Three points militate against the position that the *-ly* form is undesirable. F
 
 Second, the ellipsis does not work with analogous phrases, such as *more notable* and *more interesting*. Both of those phrases require an *-ly* adverb—e.g.:
 
-• "*More notably*, the Dust Brothers are responsible for the production of Beck's Grammy-winning album, ‘Odelay.' " Josh Newman, "Group's Career Is Sweet," *Grand Rapids Press*, 24 July 1997, at D13.
+ - "*More notably*, the Dust Brothers are responsible for the production of Beck's Grammy-winning album, ‘Odelay.' " Josh Newman, "Group's Career Is Sweet," *Grand Rapids Press*, 24 July 1997, at D13.
 
-• "*More* *interestingly*, the robot's untimely end touched all sorts of people with no involvement in the project." "Strange Kindness and Familiar Robots," *Globe & Mail* \(Toronto\), 6 Aug. 2015, at A10.
+ - "*More* *interestingly*, the robot's untimely end touched all sorts of people with no involvement in the project." "Strange Kindness and Familiar Robots," *Globe & Mail* \(Toronto\), 6 Aug. 2015, at A10.
 
 And third, if the position is changed from the beginning of the sentence in any significant way, the usual ellipsis becomes unidiomatic and *-ly* is quite acceptable—e.g.: "Shrage believes that the strategy should not be to reverse the intermarriage rate, as some activists argue, but to make sure that intermarried couples embrace Judaism and, *more importantly*, commit to raising their children as Jews." Diego Ribadeneira, "Jewish Community Flourishing, New Report Says," *St. Louis Post-Dispatch*, 6 Sept. 1997, at 32.
 

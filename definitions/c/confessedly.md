@@ -4,11 +4,11 @@ confessedly \(= admittedly; by acknowledgment or confession\) was once controver
 
 Following are three typical—and unobjectionable—uses of *confessedly*:
 
-• "Ask the *confessedly* road-weary singer that question as she sits in a Minneapolis hotel room, and another one presents itself." Mike Boehm, "O.C. Pop Beat: Kirsty MacColl on Her Own Terms," *L.A. Times*, 6 Apr. 1995, at F1.
+ - "Ask the *confessedly* road-weary singer that question as she sits in a Minneapolis hotel room, and another one presents itself." Mike Boehm, "O.C. Pop Beat: Kirsty MacColl on Her Own Terms," *L.A. Times*, 6 Apr. 1995, at F1.
 
-• "Biographies may become more like portraits, he says, less academic, more *confessedly* subjective." Jerome Weeks, "The Bio Boom," *Dallas Morning News*, 14 Jan. 1996, at C1.
+ - "Biographies may become more like portraits, he says, less academic, more *confessedly* subjective." Jerome Weeks, "The Bio Boom," *Dallas Morning News*, 14 Jan. 1996, at C1.
 
-• "Henry, though *confessedly* inexpert, is a convincing home cook." Adam Gopnik, "Cooked Books," *New Yorker*, 6 Sept. 2021, at 74.
+ - "Henry, though *confessedly* inexpert, is a convincing home cook." Adam Gopnik, "Cooked Books," *New Yorker*, 6 Sept. 2021, at 74.
 
 See -edly.
 

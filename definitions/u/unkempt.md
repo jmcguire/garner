@@ -12,11 +12,11 @@ Most commonly, *unkept* appears \(quite appropriately\) in phrases such as *unke
 
 But the erroneous usage has become fairly common—e.g.:
 
-• "Calvin sported an *unkept* \[read *unkempt*\] shock of red hair and wore thick eyeglasses." Stephen Gurr, "Answers Elusive in 3 Slayings," *Fla. Times-Union*, 30 May 2000, at B1.
+ - "Calvin sported an *unkept* \[read *unkempt*\] shock of red hair and wore thick eyeglasses." Stephen Gurr, "Answers Elusive in 3 Slayings," *Fla. Times-Union*, 30 May 2000, at B1.
 
-• "The Utah fan was depicted with a scraggly beard, *unkept* \[read *unkempt*\] and ‘a bit scruffy-looking.' " Shinika Sykes, "Utah–BYU Humor Hits Nerve in Sensitive Time," *Salt Lake Trib.*, 25 Nov. 2001, at A2.
+ - "The Utah fan was depicted with a scraggly beard, *unkept* \[read *unkempt*\] and ‘a bit scruffy-looking.' " Shinika Sykes, "Utah–BYU Humor Hits Nerve in Sensitive Time," *Salt Lake Trib.*, 25 Nov. 2001, at A2.
 
-• " ‘These raids have made people angry,' said deputy provincial intelligence chief Hassan, whose long, *unkept* \[read *unkempt*\] red beard is reminiscent of those the Taliban required of all Afghan males." Kathy Gannon, "Residents of Afghan Province Oppose U.S. Military Presence," *San Diego Union-Trib.*, 9 Sept. 2002, at A2.
+ - " ‘These raids have made people angry,' said deputy provincial intelligence chief Hassan, whose long, *unkept* \[read *unkempt*\] red beard is reminiscent of those the Taliban required of all Afghan males." Kathy Gannon, "Residents of Afghan Province Oppose U.S. Military Presence," *San Diego Union-Trib.*, 9 Sept. 2002, at A2.
 
 These sentences, however, don't reflect prevailing usage. In identical contexts—those involving beards, hair, appearance, and hygiene generally—*unkempt* remains about 100 times as common as *unkept*. The gap has increased. In an October 2002 search of the allnews database in westlaw, *unkept* occurred in the context of beards, hair, appearance, or hygiene only 70 times in a whole decade \(1992–2002\), while *unkempt* occurred 3,456 times. E.g.: "Reid tried to board an American Airlines flight, but his *unkempt* appearance and lack of baggage prompted airline security to question him closely, and he missed his flight." "Bomb Suspect Offers Guilty Plea," *Wash. Post*, 3 Oct. 2002, at A1.
 

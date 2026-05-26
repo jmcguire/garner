@@ -6,15 +6,15 @@ This means that speakers of English have two cognate words with widely divergent
 
 During the 20th century and into the 21st, commentators promoted the idea that *enormity* and *enormousness* had undergone differentiation:
 
-• **1924:** "*Enormity*, monstrous wickedness—\[is often confused\] with *enormousness*, great size or amount." W.L. Mason, *Troublesome Words* 110 \(1924\).
+ - **1924:** "*Enormity*, monstrous wickedness—\[is often confused\] with *enormousness*, great size or amount." W.L. Mason, *Troublesome Words* 110 \(1924\).
 
-• **1958:** "Authorities on usage are virtually unanimous in reserving *enormity* for the idea of wickedness. *Enormousness* is the word for great size." Theodore M. Bernstein, *Watch Your Language* 31 \(1958\).
+ - **1958:** "Authorities on usage are virtually unanimous in reserving *enormity* for the idea of wickedness. *Enormousness* is the word for great size." Theodore M. Bernstein, *Watch Your Language* 31 \(1958\).
 
-• **1980:** "*Enormousness* and *enormity* are merely siblings: the former refers to immensity of size; the latter, to immensity of indecency or immorality. It is ‘the enormousness of the task,' but ‘the enormity of the crime.' " John Simon, *Paradigms Lost* 15 \(1980\).
+ - **1980:** "*Enormousness* and *enormity* are merely siblings: the former refers to immensity of size; the latter, to immensity of indecency or immorality. It is ‘the enormousness of the task,' but ‘the enormity of the crime.' " John Simon, *Paradigms Lost* 15 \(1980\).
 
-• **2002:** "*Enormity* does not, as is frequently thought, indicate size, but rather refers to something that is wicked, monstrous, and outrageous." Bill Bryson, *Bryson's Dictionary of Troublesome Words* 69 \(2002\) \(recommending instead the admittedly "ungainly" *enormousness* for size\).
+ - **2002:** "*Enormity* does not, as is frequently thought, indicate size, but rather refers to something that is wicked, monstrous, and outrageous." Bill Bryson, *Bryson's Dictionary of Troublesome Words* 69 \(2002\) \(recommending instead the admittedly "ungainly" *enormousness* for size\).
 
-• **2011:** "*Enormity*. Use this word only in reference to an outrageous act or a monstrous condition. Do not use *enormity* to mean ‘great size'; use *enormousness* or *enormous size* instead." William A. Sabin, *The Gregg Reference Manual* 375 \(11th ed. 2011\).
+ - **2011:** "*Enormity*. Use this word only in reference to an outrageous act or a monstrous condition. Do not use *enormity* to mean ‘great size'; use *enormousness* or *enormous size* instead." William A. Sabin, *The Gregg Reference Manual* 375 \(11th ed. 2011\).
 
 But *enormousness* has never been popular. Burchfield referred to "its relative clumsiness" \(*FMEU3* at 251\). That's a fact, but a strange one: both are four syllables, after all. But *enormousness* is doubly sibilant, and it looks bulkier with its four additional characters.
 
@@ -22,13 +22,13 @@ As early as 1981, William Safire said that "the time has come to abandon the ram
 
 But Safire certainly had a point. In the year 2019, the phrase *enormity of the task* was over 3 times as common in print as *enormity of the crime*. But the ratio in 1850 was quite different: *enormity of the crime* was 57 times as common as *enormity of the task*. The language has shifted. The evidence is ubiquitous—e.g.:
 
-• "To appreciate the befuddling *enormity* \[read *vastness*\] of these Olympics you need to wrestle with the following. In Atlanta this weekend there are 42,000 volunteer workers, 30,000 police and soldiers, 15,000 media personnel and 10,788 athletes." Paul Hayward, "Business Opens for Olympics," *Daily Telegraph*, 20 July 1996, at 30.
+ - "To appreciate the befuddling *enormity* \[read *vastness*\] of these Olympics you need to wrestle with the following. In Atlanta this weekend there are 42,000 volunteer workers, 30,000 police and soldiers, 15,000 media personnel and 10,788 athletes." Paul Hayward, "Business Opens for Olympics," *Daily Telegraph*, 20 July 1996, at 30.
 
-• "A biographical sketch prepared by the university shows the *enormity* \[read *magnitude*\] of his energy and output." Martha Jackson, "Portraits of an Artist," *Charleston Daily Mail* \(W. Va.\), 5 Sept. 1996, at D1.
+ - "A biographical sketch prepared by the university shows the *enormity* \[read *magnitude*\] of his energy and output." Martha Jackson, "Portraits of an Artist," *Charleston Daily Mail* \(W. Va.\), 5 Sept. 1996, at D1.
 
-• "The *enormity* \[read *enormousness*\] of Mr. Gore's triumph allows him to move more quickly to patch up relations with Mr. Bradley's backers." Richard L. Berke, "A Sweep by Gore *Assures* \[read *Ensures*\] Nomination," *N.Y. Times*, 8 Mar. 2000, at A1, A16. \(For more on *assure* and *ensure*, see **assure**.)
+ - "The *enormity* \[read *enormousness*\] of Mr. Gore's triumph allows him to move more quickly to patch up relations with Mr. Bradley's backers." Richard L. Berke, "A Sweep by Gore *Assures* \[read *Ensures*\] Nomination," *N.Y. Times*, 8 Mar. 2000, at A1, A16. \(For more on *assure* and *ensure*, see **assure**.)
 
-• "Raducanu collapsed to the surface, the *enormity* \[read *magnitude*\] of what she had just achieved finally allowed to come flooding in." Ben Burrows, "Raducanu's Life Is Changed Forever After US Open Win," *Independent*, 14 Sept. 2021, at 35.
+ - "Raducanu collapsed to the surface, the *enormity* \[read *magnitude*\] of what she had just achieved finally allowed to come flooding in." Ben Burrows, "Raducanu's Life Is Changed Forever After US Open Win," *Independent*, 14 Sept. 2021, at 35.
 
 The problem today is that *enormity* has many characteristics of a skunked term. Literary people still think of it as being tinged with highly negative connotations—if not imbued with a highly negative denotation. Others know nothing of this negativity and use the word as the colorless noun corresponding to *enormous*. In this environment, then, you might rationally choose to avoid *enormity* altogether, preferring some synonym such as *immensity* for size or *wickedness* for the traditional use. Or you might throw in with Safire and promote the idea that *enormity* has lost all its associations with atrocity.
 

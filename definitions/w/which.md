@@ -21,29 +21,29 @@ First, despite the language police, the introductory *Which* can be not only app
 
 Second, even after a short sentence, it can lend a dramatic effect to the *Which*-clause—e.g.:
 
-• "All a dying man could utter would be a prejudgment. *Which* is absurd." Christopher Ricks, *T.S. Eliot and Prejudice* 91 \(1988\).
+ - "All a dying man could utter would be a prejudgment. *Which* is absurd." Christopher Ricks, *T.S. Eliot and Prejudice* 91 \(1988\).
 
-• "It means a comeback for the three-martini lunch. *Which* is a win-win situation." Tony Kornheiser, "There's a New Prescription for Better Exercise, Bending Elbows," *Detroit News*, 12 Oct. 1994, at C1.
+ - "It means a comeback for the three-martini lunch. *Which* is a win-win situation." Tony Kornheiser, "There's a New Prescription for Better Exercise, Bending Elbows," *Detroit News*, 12 Oct. 1994, at C1.
 
-• "Giuliani says the city still will take care of more people than any other city. *Which* is exactly his problem." Jimmy Breslin, "A Lousy Plan for the City," *Newsday* \(N.Y.\), 27 Oct. 1994, at A2.
+ - "Giuliani says the city still will take care of more people than any other city. *Which* is exactly his problem." Jimmy Breslin, "A Lousy Plan for the City," *Newsday* \(N.Y.\), 27 Oct. 1994, at A2.
 
 Third, it's helpful when a thought is expressed in several sentences, and what follows—an inference, a summation, or the result of an alternative description—refers to all of it. E.g.:
 
-• "Incidentally, the punctuation that has just been used, deliberately, is an illogical form that's enforced by publishers and their copyeditors. They cite the accursed *Chicago Manual of Style*. Logically, of course, the period should appear after the quotation marks. The quoted word is itself part of the sentence, and sentences end with periods \(except old-time telegrams\). The irrational custom is now too firmly established to be upset. Anytime soon, anyway. *Which* is another example of making a whole sentence of something that might follow a comma in a preceding sentence. *Which* is okay with me." Letter of Charles Rembar to Bryan A. Garner, 29 July 1993.
+ - "Incidentally, the punctuation that has just been used, deliberately, is an illogical form that's enforced by publishers and their copyeditors. They cite the accursed *Chicago Manual of Style*. Logically, of course, the period should appear after the quotation marks. The quoted word is itself part of the sentence, and sentences end with periods \(except old-time telegrams\). The irrational custom is now too firmly established to be upset. Anytime soon, anyway. *Which* is another example of making a whole sentence of something that might follow a comma in a preceding sentence. *Which* is okay with me." Letter of Charles Rembar to Bryan A. Garner, 29 July 1993.
 
-• " ‘We have our job cut out for us,' she said. ‘There's an untapped hunger here for Memphis to learn about this incredible heritage, and we must do what we can to protect this legacy and ensure its continuation.' *Which* is where her Memphis Charitable Foundation comes in." Larry Nager, "Fittingly, New Local Award Goes to Phillips First," *Commercial Appeal* \(Memphis\), 30 Sept. 1995, at C3.
+ - " ‘We have our job cut out for us,' she said. ‘There's an untapped hunger here for Memphis to learn about this incredible heritage, and we must do what we can to protect this legacy and ensure its continuation.' *Which* is where her Memphis Charitable Foundation comes in." Larry Nager, "Fittingly, New Local Award Goes to Phillips First," *Commercial Appeal* \(Memphis\), 30 Sept. 1995, at C3.
 
 Often the paragraph ends, or a new paragraph begins, with a sentence starting with *Which*—e.g.: "In the process, the 31-year-old Mr. Rose has become a one-man cheering squad for the virtues of pet food. People may turn up their noses, but pet food is made under such stringent controls that it actually is fit for human consumption. ‘It's pasteurized, sterilized and every other "ized," ' Mr. Rose says. \[¶\] *Which* doesn't mean most people want to spread a table cloth and share a few cans with Tabby, or with the guests." Judith Valente, "Edwin Rose's Palate Is Working Overtime on His Pet Theories," *Wall Street J.*, 29 June 1994, at A1. See incomplete sentences \(b\).
 
 **D. *And which*; *but which*.** To use either expression properly, a nonrestrictive *which*-clause parallel to the *and which* or *but which* must come first. E.g.: "Sutherland could have vetoed the $526 million budget, *which* he drafted this fall *and which* the council rewrote last month." Lisa Kremer, "Pierce Budget Won't Get Sutherland's Signature," *News Trib.* \(Tacoma\), 9 Dec. 1997, at B1. Without the preceding *which*, the *and which* puts the reader at sea—e.g.:
 
-• "Eisner still has a huge chunk of stock options—about 8.7 million shares' worth—that he can't exercise yet *and which* will presumably increase in value over the next decade." "Stock Options Give Eisner Record $565 Million Payday," *Newsday* \(N.Y.\), 5 Dec. 1997, at A79. \(Change *and which* to *and that* so that the two relative clauses are parallel.\)
+ - "Eisner still has a huge chunk of stock options—about 8.7 million shares' worth—that he can't exercise yet *and which* will presumably increase in value over the next decade." "Stock Options Give Eisner Record $565 Million Payday," *Newsday* \(N.Y.\), 5 Dec. 1997, at A79. \(Change *and which* to *and that* so that the two relative clauses are parallel.\)
 
-• "He gladly revealed that Philadelphia—the city where he attended art school *and which* he has long criticized as bleak, cruel and gruesome—is his greatest influence." Samara Kalk, "Direct, but Not to the Point," *Wis. State J.*, 18 Dec. 1997, at A1. \(A possible revision: *He gladly revealed that Philadelphia \(where he attended art school\)—a city he has long criticized as bleak, cruel, and gruesome—is his greatest influence.*\)
+ - "He gladly revealed that Philadelphia—the city where he attended art school *and which* he has long criticized as bleak, cruel and gruesome—is his greatest influence." Samara Kalk, "Direct, but Not to the Point," *Wis. State J.*, 18 Dec. 1997, at A1. \(A possible revision: *He gladly revealed that Philadelphia \(where he attended art school\)—a city he has long criticized as bleak, cruel, and gruesome—is his greatest influence.*\)
 
-• "The piece is a Brown original, a blues song that the MJQ has included as a primary entry in its repertoire for decades \(*and which* served as the title track for a classic 1960 album\)." Don Heckman, "Jazz Spotlight," *L.A. Times*, 28 Dec. 1997, at 65. \(Change *and which* to either *and that* or *it*.\)
+ - "The piece is a Brown original, a blues song that the MJQ has included as a primary entry in its repertoire for decades \(*and which* served as the title track for a classic 1960 album\)." Don Heckman, "Jazz Spotlight," *L.A. Times*, 28 Dec. 1997, at 65. \(Change *and which* to either *and that* or *it*.\)
 
-• "How else to account for the explosive story Kirkham told the Voice from his cell at the Metropolitan Detention Center in Brooklyn—*and which* he repeated in a ‘Dear Judge' letter he says he sent to Johnson." Frank Owen, "Club Buster," *Village Voice*, 30 Dec. 1997, at 49. \(Insert *that* after *story* and change *and which* to *and that*.\)
+ - "How else to account for the explosive story Kirkham told the Voice from his cell at the Metropolitan Detention Center in Brooklyn—*and which* he repeated in a ‘Dear Judge' letter he says he sent to Johnson." Frank Owen, "Club Buster," *Village Voice*, 30 Dec. 1997, at 49. \(Insert *that* after *story* and change *and which* to *and that*.\)
 
 See **that \(a\)** & parallelism.
 

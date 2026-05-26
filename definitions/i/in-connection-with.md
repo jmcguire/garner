@@ -4,9 +4,9 @@ in connection with is almost always a vague, loose connective, often used in rep
 
 When criminal charges have officially been made, *in connection with* is almost always too fuzzy—e.g.:
 
-• "Bonds, 26, whose last address was 4 Linden St., Winthrop, is wanted on multiple warrants *in connection with* \[read *for*\] an April armed robbery at a Dorchester pizza restaurant." Ann E. Donlan, "Cops Seeking Murder-Try Suspect," *Boston Herald*, 28 Nov. 1997, at 16.
+ - "Bonds, 26, whose last address was 4 Linden St., Winthrop, is wanted on multiple warrants *in connection with* \[read *for*\] an April armed robbery at a Dorchester pizza restaurant." Ann E. Donlan, "Cops Seeking Murder-Try Suspect," *Boston Herald*, 28 Nov. 1997, at 16.
 
-• "Bowser, King and Meggerson were arrested shortly afterward and charged *in connection with* \[read *with*\] another robbery that occurred that day before Wood was wounded." Glenn E. Rice, "Trial Set for January for Three Men Accused in Shooting a Wyandotte County Deputy," *Kansas City Star*, 1 Sept. 2015, News §.
+ - "Bowser, King and Meggerson were arrested shortly afterward and charged *in connection with* \[read *with*\] another robbery that occurred that day before Wood was wounded." Glenn E. Rice, "Trial Set for January for Three Men Accused in Shooting a Wyandotte County Deputy," *Kansas City Star*, 1 Sept. 2015, News §.
 
 Cf. **in this connection**.
 

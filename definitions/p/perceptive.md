@@ -10,11 +10,11 @@ perceptive.
 
 **B. Misuse of *perceptive* for *perceptible*.** The blunder of using *perceptive* \(= keenly intuitive\) where *perceptible* \(= appreciable, recognizable\) would be the correct word can be readily perceived—e.g.:
 
-• "The Chiefs won yesterday because they made no *perceptive* \[read *perceptible*\] mistakes offensively." Bob Slocum, "Chiefs Embarrass Jumpy Raiders," *San Diego Union-Trib.*, 26 Nov. 1990, at D7.
+ - "The Chiefs won yesterday because they made no *perceptive* \[read *perceptible*\] mistakes offensively." Bob Slocum, "Chiefs Embarrass Jumpy Raiders," *San Diego Union-Trib.*, 26 Nov. 1990, at D7.
 
-• "These are but some of the protests against Ottawa's waste—something the auditor general documents every year with no *perceptive* \[read *perceptible*\] effect on Ottawa's spending." Peter Worthington, "MP Details Ottawa Waste," *Toronto Sun*, 13 Feb. 1996, at 11.
+ - "These are but some of the protests against Ottawa's waste—something the auditor general documents every year with no *perceptive* \[read *perceptible*\] effect on Ottawa's spending." Peter Worthington, "MP Details Ottawa Waste," *Toronto Sun*, 13 Feb. 1996, at 11.
 
-• "A material alteration is broadly defined as a palpable or *perceptive* \[read *perceptible*\] change in the use, appearance, or function of a common element." Steven J. Adamczyk, "Can Contracts Be Delayed Due to the Pandemic?," Stuart News \(Fla.\), 9 Aug. 2020, at G2.
+ - "A material alteration is broadly defined as a palpable or *perceptive* \[read *perceptible*\] change in the use, appearance, or function of a common element." Steven J. Adamczyk, "Can Contracts Be Delayed Due to the Pandemic?," Stuart News \(Fla.\), 9 Aug. 2020, at G2.
 
 Language-Change Index
 

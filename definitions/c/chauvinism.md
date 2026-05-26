@@ -8,11 +8,11 @@ By metaphorical extension, the word has been broadened to denote exaggerated bel
 
 Indeed, some writers have come to use *chauvinism* as if it were synonymous with *male chauvinism*—e.g.:
 
-• "But a year later, as feminism reached even West Peoria, women began complaining about *chauvinism*." Phil Luciano, "Mike's Bar Stands Test of the Times," *Peoria J. Star*, 31 Oct. 2001, at B1.
+ - "But a year later, as feminism reached even West Peoria, women began complaining about *chauvinism*." Phil Luciano, "Mike's Bar Stands Test of the Times," *Peoria J. Star*, 31 Oct. 2001, at B1.
 
-• "Madonna says that her husband doesn't like her wearing see-through tops and tells her not to look like a slapper. Instead of being affronted, she's clearly delighted by his *chauvinism*." Lynda Lee-Potter, "Brash, Brave and a Boost for the Feisty Over-Forties," *Daily Mail* \(U.K.\), 28 Nov. 2001, at 13.
+ - "Madonna says that her husband doesn't like her wearing see-through tops and tells her not to look like a slapper. Instead of being affronted, she's clearly delighted by his *chauvinism*." Lynda Lee-Potter, "Brash, Brave and a Boost for the Feisty Over-Forties," *Daily Mail* \(U.K.\), 28 Nov. 2001, at 13.
 
-• "*Chauvinism* remains in abundant supply in racing, but those who feel in their bones that a man will always outride a woman had a blow struck against their beliefs at the Shergar Cup here on Saturday when female riders beat three other teams composed of male stars from around the world." Chris Cook, "Sammy Jo Bell Wins Two Shergar Cup Races and Lifts Ascot's Silver Saddle," *Observer*, 8 Aug. 2015, Sport §.
+ - "*Chauvinism* remains in abundant supply in racing, but those who feel in their bones that a man will always outride a woman had a blow struck against their beliefs at the Shergar Cup here on Saturday when female riders beat three other teams composed of male stars from around the world." Chris Cook, "Sammy Jo Bell Wins Two Shergar Cup Races and Lifts Ascot's Silver Saddle," *Observer*, 8 Aug. 2015, Sport §.
 
 To the linguistic traditionalist, these uses \(or misuses\) are arrant nonsense. But others view the term as a handy, more pejorative alternative to *sexism*.
 

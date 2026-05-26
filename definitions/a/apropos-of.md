@@ -2,9 +2,9 @@
 
 apropos \(of\). Both the long form \(*apropos of*\) and the short form \(*apropos*\) are generally unnecessary, though they might prove serviceable in informal letters. *Apropos of* \(suggested by the French phrase *à propos de*\)—meaning "with respect to"—is well established in English. Yet the gallicism *apropos* may be used as a preposition to mean "concerning, apropos of" <apropos your plans, let me tell you about our schedule>. Hence *of* can usually be included or omitted, as the writer desires. E.g.:
 
-• "Then, *apropos of* nothing, he proclaims: ‘I'm 105 years old\!' " Anne Rochell, "The Goat Man Lives," *Atlanta J.-Const.*, 10 Sept. 1997, at D1.
+ - "Then, *apropos of* nothing, he proclaims: ‘I'm 105 years old\!' " Anne Rochell, "The Goat Man Lives," *Atlanta J.-Const.*, 10 Sept. 1997, at D1.
 
-• "As Leo Varadkar . . . put it last week *apropos* Greece, ‘It seems like the student union has taken over the government.'" Ruth Dudley Edwards, "Sinn Fein Is Panicking as Its Brothers Wreak Havoc in Greece," *Sunday Independent*, 5 July 2015, at 23.
+ - "As Leo Varadkar . . . put it last week *apropos* Greece, ‘It seems like the student union has taken over the government.'" Ruth Dudley Edwards, "Sinn Fein Is Panicking as Its Brothers Wreak Havoc in Greece," *Sunday Independent*, 5 July 2015, at 23.
 
 As for comparative frequency in print, *apropos of* has predominated over the rival form ever since it emerged in English in the early 1800s.
 

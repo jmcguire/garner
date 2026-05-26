@@ -4,17 +4,17 @@ Comparatives and Superlatives .
 
 **A. Choice Between Comparative and Superlative.** When two items are being compared, a comparative adjective is needed <the greater of the two>; when more than two are being compared, the superlative is needed <the greatest of the three>. The blunder of using the superlative adjective when only two items are being compared is increasingly common, especially in AmE—e.g.:
 
-• "The *tallest* \[read *taller*\] of the two pyramids is nearly 500 feet." Alan Byrd, "Pyramids? Not in My Backyard, Foes Say," *Orlando Bus. J.*, 30 Sept. 1994, at 1.
+ - "The *tallest* \[read *taller*\] of the two pyramids is nearly 500 feet." Alan Byrd, "Pyramids? Not in My Backyard, Foes Say," *Orlando Bus. J.*, 30 Sept. 1994, at 1.
 
-• "He has raced in *worst* \[read *worse*\] conditions, of course, and often won." Samuel Abt, "Rain Plagues Tour de France," *Austin Am.-Statesman*, 2 July 1995, at C8.
+ - "He has raced in *worst* \[read *worse*\] conditions, of course, and often won." Samuel Abt, "Rain Plagues Tour de France," *Austin Am.-Statesman*, 2 July 1995, at C8.
 
-• "With the first half of the game over, the *most* \[read *more*\] important half is yet to be played—this time on the voter's turf." Dan Luzadder & Lynn Bartels, "Broncos Score Upset on Political Field," *Rocky Mountain News* \(Denver\), 12 May 1996, at A5.
+ - "With the first half of the game over, the *most* \[read *more*\] important half is yet to be played—this time on the voter's turf." Dan Luzadder & Lynn Bartels, "Broncos Score Upset on Political Field," *Rocky Mountain News* \(Denver\), 12 May 1996, at A5.
 
-• "The *youngest* \[read *younger*\] of Jean's two children from a previous marriage, a 16-year-old boy, lived with the couple until about a year ago." Nancy Lewis, "Crafts a Lucrative Outlet for Legally Blind Woman," *Virginian-Pilot* \(Norfolk\), 10 Oct. 1996, at 15.
+ - "The *youngest* \[read *younger*\] of Jean's two children from a previous marriage, a 16-year-old boy, lived with the couple until about a year ago." Nancy Lewis, "Crafts a Lucrative Outlet for Legally Blind Woman," *Virginian-Pilot* \(Norfolk\), 10 Oct. 1996, at 15.
 
-• "The *earliest* \[read *earlier*\] of his two works, from the late 60s, is a narrow vertical acrylic." Rod McLoughlin, *Jersey Evening Post* \(U.K.\), 21 Sept. 2020, at 32.
+ - "The *earliest* \[read *earlier*\] of his two works, from the late 60s, is a narrow vertical acrylic." Rod McLoughlin, *Jersey Evening Post* \(U.K.\), 21 Sept. 2020, at 32.
 
-• "Calum Hill was the *best* \[read *better*\] of the two Scots." Bernie McGuire, "Golf Swede's Late Push," *Daily Record* \(Glasgow\), 30 Aug. 2021, at 41.
+ - "Calum Hill was the *best* \[read *better*\] of the two Scots." Bernie McGuire, "Golf Swede's Late Push," *Daily Record* \(Glasgow\), 30 Aug. 2021, at 41.
 
 One idiomatic exception occurs when we put our *best foot* forward, since \(of course\) we have only two.
 
@@ -26,11 +26,11 @@ Superlative with two objects <best of the pair>: Stage 4
 
 Still, if a word ordinarily takes either the *-er* or the *-est* suffix—and that formation sounds more natural—it's poor style to use the two-word form with *more* or *most*. E.g.:
 
-• "Few things in this world short of yard work are *more dull* \[read *duller*\] than watching animated characters play basketball." Daniel Neman, "Double Drivel," *Richmond Times-Dispatch*, 15 Nov. 1996, at C1.
+ - "Few things in this world short of yard work are *more dull* \[read *duller*\] than watching animated characters play basketball." Daniel Neman, "Double Drivel," *Richmond Times-Dispatch*, 15 Nov. 1996, at C1.
 
-• "The answers we sought proved *more simple* \[read *simpler*\] than we imagined." Mike Swift & Deborah Petersen Swift, "The Road Opened Our Hearts," *Hartford Courant*, 7 Jan. 1997, at A1.
+ - "The answers we sought proved *more simple* \[read *simpler*\] than we imagined." Mike Swift & Deborah Petersen Swift, "The Road Opened Our Hearts," *Hartford Courant*, 7 Jan. 1997, at A1.
 
-• "The Smiths loved to travel around the globe, but they were *most happy* \[read *happiest*\] sailing on board their sloop, Elskov, along the coast of Maine." "Hope Noyes Smith" \(obit.\), *Salem News* \(Mass.\), 20 Sept. 2021.
+ - "The Smiths loved to travel around the globe, but they were *most happy* \[read *happiest*\] sailing on board their sloop, Elskov, along the coast of Maine." "Hope Noyes Smith" \(obit.\), *Salem News* \(Mass.\), 20 Sept. 2021.
 
 Current ratio in print \(*simpler method* vs. *more simple method*\): 22:1
 

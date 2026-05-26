@@ -4,13 +4,13 @@ to and fro. This phrase, dating in English from the 1300s, usually functions eit
 
 One invariable aspect of the correct use of the phrase today is its spelling: the words are *to* and *fro*. But sometimes *to* is mistakenly changed to one of its homophones—*too* or *two*. E.g.:
 
-• "The wind rips through \[the evergreens\] and causes their needles to shake *two and fro* \[read *to and fro*\] in bewilderment." "Heading South for the Winter," *Record-J.* \(Meriden, Conn.\), 16 Sept. 2018, at C7.
+ - "The wind rips through \[the evergreens\] and causes their needles to shake *two and fro* \[read *to and fro*\] in bewilderment." "Heading South for the Winter," *Record-J.* \(Meriden, Conn.\), 16 Sept. 2018, at C7.
 
-• "They followed circuitous paths *too and fro* \[read *to and fro*\] searching for something to eat." Charlie Elder, "Animals Leave Their Signatures in the Snow," *Western Morning News* \(U.K.\), 26 Jan. 2021, at 13.
+ - "They followed circuitous paths *too and fro* \[read *to and fro*\] searching for something to eat." Charlie Elder, "Animals Leave Their Signatures in the Snow," *Western Morning News* \(U.K.\), 26 Jan. 2021, at 13.
 
-• "The alleged incident . . . occurred during ‘a bit of *too and fro*' \[read *to and fro*\] between the Stenny players and the Albion bench." Edel Kenealy, "Footballer Accused of Taunting Suicide Bid Player," *Paisley Daily Express* \(Scotland\), 1 May 2021, at 5.
+ - "The alleged incident . . . occurred during ‘a bit of *too and fro*' \[read *to and fro*\] between the Stenny players and the Albion bench." Edel Kenealy, "Footballer Accused of Taunting Suicide Bid Player," *Paisley Daily Express* \(Scotland\), 1 May 2021, at 5.
 
-• "The house rattled while the chandeliers swayed *two and fro* \[read *to and fro*\]." Frederick N. Rasmussen, "A Quake in 1886 Made Some in Area Think Their Homes Were Haunted," *Baltimore Sun*, 26 Aug. 2021, at 3.
+ - "The house rattled while the chandeliers swayed *two and fro* \[read *to and fro*\]." Frederick N. Rasmussen, "A Quake in 1886 Made Some in Area Think Their Homes Were Haunted," *Baltimore Sun*, 26 Aug. 2021, at 3.
 
 In other words, the phrase has been tossed every which way.
 

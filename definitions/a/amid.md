@@ -8,11 +8,11 @@ amid.
 
 *In the midst of*, a wordy equivalent, has always been more common than *amid*. It often lends a better cadence, as in these titles:
 
-• David Freeman Hawke, *In the Midst of a Revolution* \(1961\).
+ - David Freeman Hawke, *In the Midst of a Revolution* \(1961\).
 
-• Louis Breger, *Freud: Darkness in the Midst of Vision* \(2000\).
+ - Louis Breger, *Freud: Darkness in the Midst of Vision* \(2000\).
 
-• Geoffrey Warner, *In the Midst of Events: The Foreign Office Diaries and Papers of Kenneth Younger* \(2005\).
+ - Geoffrey Warner, *In the Midst of Events: The Foreign Office Diaries and Papers of Kenneth Younger* \(2005\).
 
 See **midst**.
 

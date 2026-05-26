@@ -4,11 +4,11 @@ exacerbate \(= to make worse\) seems to be following the course of its tradition
 
 Meanwhile, the word *exasperate* \(traditionally "to irritate thoroughly" but archaically "to make harsher"\) is often confounded with *exacerbate*. Yet the differentiation between the words has been complete for many generations. Using *exasperate* in its obsolete sense can now be regarded as erroneous—e.g.:
 
-• "In most cases, players want to do the right thing. And in 99.9 percent of each of those cases, you can find so-called ‘friends' who *exasperate* \[read *exacerbate*\] the problem." George Robinson, "Pacman Needs to Get New Friends," *Leaf-Chron.* \(Clarksville, Tenn.\), 19 June 2007, at C1.
+ - "In most cases, players want to do the right thing. And in 99.9 percent of each of those cases, you can find so-called ‘friends' who *exasperate* \[read *exacerbate*\] the problem." George Robinson, "Pacman Needs to Get New Friends," *Leaf-Chron.* \(Clarksville, Tenn.\), 19 June 2007, at C1.
 
-• "The meetings come as growth has packed Tecumseh South Elementary beyond its capacity with anticipated growth expected to *exasperate* \[read *exacerbate*\] the problem." Barbara Hollingsworth, "Boundary Talks Continue," *Topeka Capital-J.*, 15 Jan. 2008, Local §, at 2.
+ - "The meetings come as growth has packed Tecumseh South Elementary beyond its capacity with anticipated growth expected to *exasperate* \[read *exacerbate*\] the problem." Barbara Hollingsworth, "Boundary Talks Continue," *Topeka Capital-J.*, 15 Jan. 2008, Local §, at 2.
 
-• "Of course our government would insist that they run any such projects, which would further *exasperate* \[read *exacerbate*\] the problem." Letter of Jim McClain, "Crisis Requires Visionary Leader," *Daily Record* \(Morristown, N.J.\), 22 May 2008, at 2.
+ - "Of course our government would insist that they run any such projects, which would further *exasperate* \[read *exacerbate*\] the problem." Letter of Jim McClain, "Crisis Requires Visionary Leader," *Daily Record* \(Morristown, N.J.\), 22 May 2008, at 2.
 
 Language-Change Index
 

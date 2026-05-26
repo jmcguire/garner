@@ -4,11 +4,11 @@ epitome /i-**pit**-ә-mee/ or, in AmE, /ee-**pit**-ә-mee/ = \(1\) an ideal repr
 
 The word does not mean "pinnacle" or "climax"—e.g.:
 
-• "ESPN reached the *epitome* \[read *pinnacle* or *zenith*\] of boredom during its marathon coverage of the NFL draft." Bruce Jenkins, "They're Everywhere," *S.F. Chron.*, 27 Apr. 1996, at D2.
+ - "ESPN reached the *epitome* \[read *pinnacle* or *zenith*\] of boredom during its marathon coverage of the NFL draft." Bruce Jenkins, "They're Everywhere," *S.F. Chron.*, 27 Apr. 1996, at D2.
 
-• "Jordan's masterstroke was choosing Liam Neeson, whose penchant for deeply emotional yet disturbingly complex men reached its *epitome* \[read *pinnacle* or *zenith*\] in *Schindler's List*." Bruce Kirkland, "Michael Collins a Powerful, Tragic Portrait," *Toronto Sun*, 11 Oct. 1996, at 77.
+ - "Jordan's masterstroke was choosing Liam Neeson, whose penchant for deeply emotional yet disturbingly complex men reached its *epitome* \[read *pinnacle* or *zenith*\] in *Schindler's List*." Bruce Kirkland, "Michael Collins a Powerful, Tragic Portrait," *Toronto Sun*, 11 Oct. 1996, at 77.
 
-• "Strained pranks and smutty jokes reach their *epitome* \[read *pinnacle* or, more appropriately here, *low point*\] in the show's big inspiration: having a dog fall in love with Harris's leg." Tom Shales, "Primal-Time Programming," *Wash. Post*, 19 Sept. 1999, at G1.
+ - "Strained pranks and smutty jokes reach their *epitome* \[read *pinnacle* or, more appropriately here, *low point*\] in the show's big inspiration: having a dog fall in love with Harris's leg." Tom Shales, "Primal-Time Programming," *Wash. Post*, 19 Sept. 1999, at G1.
 
 Language-Change Index
 

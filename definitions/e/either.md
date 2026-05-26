@@ -16,19 +16,19 @@ Language-Change Index
 
 **D. Singular or Plural.** As the subject of a clause, *either* conventionally takes a singular verb. But writers often mistakenly make it plural—e.g.:
 
-• "The law \[is\] . . . supposed to be ‘family friendly,' but we suggest you keep the kids away from Mom or Dad next April when *either* of them *are* \[read *is*\] bouncing off the walls with the complex instructions for filing claims." "Getting Taxes on Track," *Wall Street J.*, 2 Oct. 1997, at A22.
+ - "The law \[is\] . . . supposed to be ‘family friendly,' but we suggest you keep the kids away from Mom or Dad next April when *either* of them *are* \[read *is*\] bouncing off the walls with the complex instructions for filing claims." "Getting Taxes on Track," *Wall Street J.*, 2 Oct. 1997, at A22.
 
-• "Police were not yet disclosing . . . whether *either* of them *are residents* \[read *is a resident*\] of the apartment complex." Robin Brown, "Man Stabbed in Wilmington," *News J.* \(Wilmington, Del.\), 11 Sept. 2012, Crime & Courts §.
+ - "Police were not yet disclosing . . . whether *either* of them *are residents* \[read *is a resident*\] of the apartment complex." Robin Brown, "Man Stabbed in Wilmington," *News J.* \(Wilmington, Del.\), 11 Sept. 2012, Crime & Courts §.
 
-• "If *either* of them *are* \[read *is*\] making you consistently miserable then it's time to go." Paul Catmur, "What I Learnt from Watching Gamblers," *New Zealand Herald*, 13 June 2021, at A38.
+ - "If *either* of them *are* \[read *is*\] making you consistently miserable then it's time to go." Paul Catmur, "What I Learnt from Watching Gamblers," *New Zealand Herald*, 13 June 2021, at A38.
 
 These examples mustn't mislead: for many centuries, the phrasing *either of them is* has been much more prevalent in print than *\*either of them are*. This is still true today. Cf. **neither \(b\)**.
 
 Nouns framed by *either . . . or* take a singular verb when the noun closest to the verb is singular, but a plural verb when that noun is plural—e.g.:
 
-• "What happens when grown children continue to pull on mom's apron strings or play on her ‘mom guilt' for longer than *either they or she needs*?" Ruth Walsh, "Magazine's ‘Mover and Shaper' to Speak," *St. Petersburg Times* \(Fla.\), 5 Jan. 1994, at D2.
+ - "What happens when grown children continue to pull on mom's apron strings or play on her ‘mom guilt' for longer than *either they or she needs*?" Ruth Walsh, "Magazine's ‘Mover and Shaper' to Speak," *St. Petersburg Times* \(Fla.\), 5 Jan. 1994, at D2.
 
-• "He gives every sign of not stopping until *either he or they are* thoroughly defeated." Marianne Means, "Investigators Waiting in the Wings," *Rocky Mountain News* \(Denver\), 3 Nov. 1996, at A81.
+ - "He gives every sign of not stopping until *either he or they are* thoroughly defeated." Marianne Means, "Investigators Waiting in the Wings," *Rocky Mountain News* \(Denver\), 3 Nov. 1996, at A81.
 
 Language-Change Index
 

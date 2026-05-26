@@ -8,9 +8,9 @@ economic.
 
 But the phrase *economic ruin* is acceptable when the reference is to a geographic area \(such as a town\) or a country—e.g.:
 
-• "The news these days is filled with dire predictions about the *economic ruin* awaiting our increasingly long-lived nation." Vern Bengston, "Grandparenting Styles Differ," *Charleston Daily Mail* \(W. Va.\), 10 Oct. 1995, at A8.
+ - "The news these days is filled with dire predictions about the *economic ruin* awaiting our increasingly long-lived nation." Vern Bengston, "Grandparenting Styles Differ," *Charleston Daily Mail* \(W. Va.\), 10 Oct. 1995, at A8.
 
-• "The American exit threatened his town with *economic ruin*, and his family, a long-standing local dynasty, with the loss of its power base." "How to Convert a Military Power Base—Filipino Style," *Sacramento Bee*, 15 Oct. 1995, at F3.
+ - "The American exit threatened his town with *economic ruin*, and his family, a long-standing local dynasty, with the loss of its power base." "How to Convert a Military Power Base—Filipino Style," *Sacramento Bee*, 15 Oct. 1995, at F3.
 
 Language-Change Index
 

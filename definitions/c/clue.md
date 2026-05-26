@@ -4,9 +4,9 @@ clue; **clew**. *Clue* is the only current spelling for the sense "a hint; a bit
 
 *Clue* is construed with *to* or *about*, not *as to*—e.g.:
 
-• "Documents handed over to defense attorneys for Robert Tulloch, 17, and his best friend, James Parker, 16, contain no *clues as to* \[read *clues to* or *clues about*\] why the pair would kill Half and Susanne Zantop." Franci Richardson & Jack Sullivan, "Link for Suspects, Victims Lacking in Dartmouth Case," *Boston Herald*, 14 Mar. 2001, at 14.
+ - "Documents handed over to defense attorneys for Robert Tulloch, 17, and his best friend, James Parker, 16, contain no *clues as to* \[read *clues to* or *clues about*\] why the pair would kill Half and Susanne Zantop." Franci Richardson & Jack Sullivan, "Link for Suspects, Victims Lacking in Dartmouth Case," *Boston Herald*, 14 Mar. 2001, at 14.
 
-• "She dislikes talking about her playing career and is guarded about giving many *clues as to* \[read *clues to*\] how good she might have been." Alan Hart, "A Sports Star Still Shines in Schuylerville," *Times Union* \(Albany\), 27 Mar. 2001, at F7.
+ - "She dislikes talking about her playing career and is guarded about giving many *clues as to* \[read *clues to*\] how good she might have been." Alan Hart, "A Sports Star Still Shines in Schuylerville," *Times Union* \(Albany\), 27 Mar. 2001, at F7.
 
 See **as to**.
 

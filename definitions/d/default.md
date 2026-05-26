@@ -8,9 +8,9 @@ As a verb, *default* is ordinarily intransitive. And when used intransitively, t
 
 But transitive uses sometimes crop up <she defaulted the loan>. That usage may have arisen from the common adjectival use of *defaulted*—e.g.:
 
-• "College officials said they didn't know the dollar amount of *defaulted* loans." Deborah C. Whitten, "Penn Valley Plans Loan Program Appeal," *Kansas City Star*, 3 Sept. 1994, at C4.
+ - "College officials said they didn't know the dollar amount of *defaulted* loans." Deborah C. Whitten, "Penn Valley Plans Loan Program Appeal," *Kansas City Star*, 3 Sept. 1994, at C4.
 
-• "The company forgave about $10.5 million in *defaulted* loans by former customers." Marc Davis, "Court Revives Suit Against Transouth in Used-Car Fraud Case," *Virginian-Pilot* \(Norfolk\), 14 Sept. 1996, at D1.
+ - "The company forgave about $10.5 million in *defaulted* loans by former customers." Marc Davis, "Court Revives Suit Against Transouth in Used-Car Fraud Case," *Virginian-Pilot* \(Norfolk\), 14 Sept. 1996, at D1.
 
-• "Servicing a *defaulted* loan cost an estimated $2,357 in 2014 compared with just $134 for a performing loan." Kate Berry, "Six Takeaways from Big Banks' Strong 2Q Mortgage Results," *Nat'l Mortgage News*, 3 Aug. 2015, at 1.
+ - "Servicing a *defaulted* loan cost an estimated $2,357 in 2014 compared with just $134 for a performing loan." Kate Berry, "Six Takeaways from Big Banks' Strong 2Q Mortgage Results," *Nat'l Mortgage News*, 3 Aug. 2015, at 1.
 

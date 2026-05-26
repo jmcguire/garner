@@ -8,11 +8,11 @@ feel.
 
 **C. *Feel bad*; *\*feel badly*.** When someone is sick or unhappy, that person feels *bad*—not *badly*. In this phrase, *feel* is a linking verb, which takes a predicate adjective instead of an adverb. In modern print sources, *feel bad* outnumbers \**feel badly* by a 16-to-1 margin. Although most professional writers know this point of usage, a few get it wrong—e.g.:
 
-• "Manager Dusty Baker's attention was divided. He felt *badly* \[read *bad*\] for Dunston and was depressed over a ninth-inning rally gone sour." Nick Peters, "Giants, Dunston Suffer a Blow," *Sacramento Bee*, 5 Aug. 1996, at D1.
+ - "Manager Dusty Baker's attention was divided. He felt *badly* \[read *bad*\] for Dunston and was depressed over a ninth-inning rally gone sour." Nick Peters, "Giants, Dunston Suffer a Blow," *Sacramento Bee*, 5 Aug. 1996, at D1.
 
-• "He says he felt *badly* \[read *bad*\] for Jamie Brandon." Barry Temkin, "Ex-Mr. Basketball Makes His Past Work for His Future," *Chicago Trib.*, 20 Dec. 1996, Sports §, at 14.
+ - "He says he felt *badly* \[read *bad*\] for Jamie Brandon." Barry Temkin, "Ex-Mr. Basketball Makes His Past Work for His Future," *Chicago Trib.*, 20 Dec. 1996, Sports §, at 14.
 
-• "Several of the teens said they also felt *badly* \[read *bad*\] that their problems caused their parents pain." Patricia Wen, "For Gay Teens, a Place to Call Home," *Boston Globe*, 22 Oct. 2002, at B1.
+ - "Several of the teens said they also felt *badly* \[read *bad*\] that their problems caused their parents pain." Patricia Wen, "For Gay Teens, a Place to Call Home," *Boston Globe*, 22 Oct. 2002, at B1.
 
 Not to excuse these errors, but they may result from the misplaced fear that *feel bad* somehow suggests wickedness or personal evil.
 
@@ -27,9 +27,9 @@ Current ratio in print \(*feel bad* vs. *\*feel badly*\): 16:1
 
 **D. *Feel like*.** To avoid using *like* as a conjunction, writers usually need to change this phrase to *feel as if*. E.g.:
 
-• "But on a combined income of $60,000, McDonald and his wife Cindy, who have five children, *feel like* \[read *feel as if*\] they're just scraping by." Marc Levinson, "Living on the Edge," *Newsweek*, 4 Nov. 1991, at 23.
+ - "But on a combined income of $60,000, McDonald and his wife Cindy, who have five children, *feel like* \[read *feel as if*\] they're just scraping by." Marc Levinson, "Living on the Edge," *Newsweek*, 4 Nov. 1991, at 23.
 
-• "At this point, it *felt like* \[read *felt as if*\] Amy and I were on solid footing in the relationship." Jason B. Rosenthal, *My Wife Said You May Want to Marry Me* 13 \(2018\).
+ - "At this point, it *felt like* \[read *felt as if*\] Amy and I were on solid footing in the relationship." Jason B. Rosenthal, *My Wife Said You May Want to Marry Me* 13 \(2018\).
 
 See **like \(c\)**.
 

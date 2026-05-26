@@ -6,11 +6,11 @@ beget.
 
 **B. Inflected Forms: *beget* > *begot* > *begotten*.** Because *\*begat* is an archaic past-tense form, it should typically be replaced by *begot* \(and sometimes *begotten*\). It appears most commonly when a writer strives for a humorous echo of all the *begat*s in the King James Version of Genesis. But the humor often fails, as in the following misbegotten examples:
 
-• "Entire generations of Cubs and Sox fans have been born, raised, *begat* \[read *begotten*\] new generations of frustrated fans and died since our last winner." Dennis Byrne, "‘Mistake by the Lake' Moves West," *Chicago Sun-Times*, 10 Oct. 1995, at 27. \(The sentence has a nonparallel construction that could be advantageously recast: *Entire generations of Cubs and Sox fans have been born and raised, have begotten new generations of frustrated fans, and have died since our last winner*. See parallelism.)
+ - "Entire generations of Cubs and Sox fans have been born, raised, *begat* \[read *begotten*\] new generations of frustrated fans and died since our last winner." Dennis Byrne, "‘Mistake by the Lake' Moves West," *Chicago Sun-Times*, 10 Oct. 1995, at 27. \(The sentence has a nonparallel construction that could be advantageously recast: *Entire generations of Cubs and Sox fans have been born and raised, have begotten new generations of frustrated fans, and have died since our last winner*. See parallelism.)
 
-• "He and his wife had three children, who later *begat* \[read *begot*\] eight grandchildren and 10 great-grandchildren." John Keilman, "A Man of Indomitable Spirit Is Cited," *Capital* \(Annapolis\), 25 Sept. 1996, at A10.
+ - "He and his wife had three children, who later *begat* \[read *begot*\] eight grandchildren and 10 great-grandchildren." John Keilman, "A Man of Indomitable Spirit Is Cited," *Capital* \(Annapolis\), 25 Sept. 1996, at A10.
 
-• "The shootings of Ronald Reagan and Press Secretary James Brady eventually *begat* \[read *begot* or \(better\) *led to*\] the Brady Law, which requires a waiting period for handgun purchases." Gordon Witkin, "A Very Different Gun Culture," *U.S. News & World Rep.*, 28 Oct. 1996, at 44.
+ - "The shootings of Ronald Reagan and Press Secretary James Brady eventually *begat* \[read *begot* or \(better\) *led to*\] the Brady Law, which requires a waiting period for handgun purchases." Gordon Witkin, "A Very Different Gun Culture," *U.S. News & World Rep.*, 28 Oct. 1996, at 44.
 
 See archaisms & irregular verbs.
 

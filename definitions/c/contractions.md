@@ -6,23 +6,23 @@ Contractions .
 
 But why shouldn't writers use them in all other types of writing? Some excellent writers use contractions to good effect, even in books—e.g.:
 
-• "I *won't* offer an analysis of the passage and its working; some of the main points are fairly obvious." F.R. Leavis, *The Common Pursuit* 102 \(1952\).
+ - "I *won't* offer an analysis of the passage and its working; some of the main points are fairly obvious." F.R. Leavis, *The Common Pursuit* 102 \(1952\).
 
-• "The ideal book reviewer\['s\] . . . own literary quality should be obvious in his prose. If he is an academic, he *shouldn't* allow this to show through." Joseph Epstein, "Reviewing and Being Reviewed," in *Plausible Prejudices: Essays on American Writing* 44, 56 \(1985\).
+ - "The ideal book reviewer\['s\] . . . own literary quality should be obvious in his prose. If he is an academic, he *shouldn't* allow this to show through." Joseph Epstein, "Reviewing and Being Reviewed," in *Plausible Prejudices: Essays on American Writing* 44, 56 \(1985\).
 
-• "If I *hadn't* \[paid Billy a compliment\], I doubt *we'd* ever have become friends. In fact, if I *hadn't*, he might just have shot me." Larry McMurtry, *Anything for Billy* 14 \(1988\).
+ - "If I *hadn't* \[paid Billy a compliment\], I doubt *we'd* ever have become friends. In fact, if I *hadn't*, he might just have shot me." Larry McMurtry, *Anything for Billy* 14 \(1988\).
 
-• "*It's* no longer the sheepish effusions that score for Byron, but his goatish satires and letters." John Simon, *The Sheep from the Goats: Selected Literary Essays* xviii \(1989\).
+ - "*It's* no longer the sheepish effusions that score for Byron, but his goatish satires and letters." John Simon, *The Sheep from the Goats: Selected Literary Essays* xviii \(1989\).
 
-• "Did sloths make a chirping sound? Tina *didn't* think so, but she *wasn't* sure." Michael Crichton, *Jurassic Park* 14 \(1990\).
+ - "Did sloths make a chirping sound? Tina *didn't* think so, but she *wasn't* sure." Michael Crichton, *Jurassic Park* 14 \(1990\).
 
-• "Deep-seated conflict in the North was another story—it *wasn't* supposed to exist." Nicholas Lemann, *The Promised Land* 117 \(1991\).
+ - "Deep-seated conflict in the North was another story—it *wasn't* supposed to exist." Nicholas Lemann, *The Promised Land* 117 \(1991\).
 
-• "I felt almost wonderful. If it *hadn't* been for the other occupant of my publisher's waiting room, *there'd* have been no ‘almost.' " Phyllis A. Whitney, *Woman Without a Past* 1 \(1991\).
+ - "I felt almost wonderful. If it *hadn't* been for the other occupant of my publisher's waiting room, *there'd* have been no ‘almost.' " Phyllis A. Whitney, *Woman Without a Past* 1 \(1991\).
 
-• "Victims *don't* occupy a higher moral plane. *They've* just suffered more." Jonathan Rosen, "The Trivialization of Tragedy," in *Dumbing Down: Essays on the Strip Mining of American Culture* 270, 280 \(Katharine Washburn & John F. Thornton eds., 1996\).
+ - "Victims *don't* occupy a higher moral plane. *They've* just suffered more." Jonathan Rosen, "The Trivialization of Tragedy," in *Dumbing Down: Essays on the Strip Mining of American Culture* 270, 280 \(Katharine Washburn & John F. Thornton eds., 1996\).
 
-• "*I'd* pray for them. And *I'd* imagine peace they *didn't* expect and *couldn't* account for descending on their illness or their quarreling or their dreams." Marilynne Robinson, *Gilead* 71 \(2004\).
+ - "*I'd* pray for them. And *I'd* imagine peace they *didn't* expect and *couldn't* account for descending on their illness or their quarreling or their dreams." Marilynne Robinson, *Gilead* 71 \(2004\).
 
 The common fear is that using contractions can make writing seem breezy. For most of us, though, that risk is nil. What you gain should be a relaxed sincerity—not breeziness.
 

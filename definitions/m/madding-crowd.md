@@ -4,9 +4,9 @@ madding crowd; **\*maddening crowd**. By historical convention, *madding crowd* 
 
 But some writers get it wrong—e.g.:
 
-• "Far from the *maddening* \[read *madding*\] crowd of shoppers and away from the tinsel and mistletoe, Grinches, apparently, are everywhere." Mike Pellegrini, "Bah\! Humbug\!," *Pitt. Post-Gaz.*, 22 Dec. 1996, at G9.
+ - "Far from the *maddening* \[read *madding*\] crowd of shoppers and away from the tinsel and mistletoe, Grinches, apparently, are everywhere." Mike Pellegrini, "Bah\! Humbug\!," *Pitt. Post-Gaz.*, 22 Dec. 1996, at G9.
 
-• " ‘Being typecast would bother me if my career weren't flourishing outside of the show,' the 47-year-old Williams says earnestly in a tiny office away from the *maddening crowd* \[read *madding crowd*\]." Joel Reese, "Here's the Story, of a Man Named Williams," *Daily Herald* \(Chicago\), 13 Aug. 2002, Suburban Living §, at 1.
+ - " ‘Being typecast would bother me if my career weren't flourishing outside of the show,' the 47-year-old Williams says earnestly in a tiny office away from the *maddening crowd* \[read *madding crowd*\]." Joel Reese, "Here's the Story, of a Man Named Williams," *Daily Herald* \(Chicago\), 13 Aug. 2002, Suburban Living §, at 1.
 
 Language-Change Index
 

@@ -4,9 +4,9 @@ marshal, v.t. \(= to arrange in order\), makes the past-tense and participial fo
 
 Although the inflected form is *marshalled* in BrE, the uninflected form is still *marshal*, as in AmE. But like the noun, the verb *marshal* is often misspelled *\*marshall*—e.g.:
 
-• "That means two large and one smaller country combining together can *marshall* \[read *marshal*\] the 23 votes needed to block new proposals." John Williams, "The Net Is Closing In," *Daily Mirror*, 29 Mar. 1994, at 6.
+ - "That means two large and one smaller country combining together can *marshall* \[read *marshal*\] the 23 votes needed to block new proposals." John Williams, "The Net Is Closing In," *Daily Mirror*, 29 Mar. 1994, at 6.
 
-• "Many in the crowds seemed undeterred—even invigorated—by the steady and seemingly inexorable march toward a possible war, perhaps in a few weeks, as the United States and a few allies *marshall* \[read *marshal*\] troops, naval flotillas and air wings in a rapidly escalating mobilization in the Persian Gulf region." Lynette Clemetson, "Thousands Converge in Capital to Protest Plans for War," *N.Y. Times*, 19 Jan. 2003, § 1, at 12.
+ - "Many in the crowds seemed undeterred—even invigorated—by the steady and seemingly inexorable march toward a possible war, perhaps in a few weeks, as the United States and a few allies *marshall* \[read *marshal*\] troops, naval flotillas and air wings in a rapidly escalating mobilization in the Persian Gulf region." Lynette Clemetson, "Thousands Converge in Capital to Protest Plans for War," *N.Y. Times*, 19 Jan. 2003, § 1, at 12.
 
 Language-Change Index
 

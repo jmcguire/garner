@@ -4,9 +4,9 @@ brooch; **broach**, n. The first denotes a type of pinned jewelry. The second is
 
 Perhaps because of its dominant pronunciation, *brooch* is sometimes misspelled *broach*—e.g.:
 
-• "Here one can find white gold bracelets for $1,250 or diamond *broaches* \[read *brooches*\] for $520,000." Ginia Bellafante, "With Tribal Chic, Chunky Jewelry Is Back," *N.Y. Times*, 4 June 2002, at B11.
+ - "Here one can find white gold bracelets for $1,250 or diamond *broaches* \[read *brooches*\] for $520,000." Ginia Bellafante, "With Tribal Chic, Chunky Jewelry Is Back," *N.Y. Times*, 4 June 2002, at B11.
 
-• "She was wearing an evening gown of pink chiffon joined at one shoulder with a big *broach* \[read *brooch*\] sparkling with diamonds." Charlaine Harris, *All Together Dead* 172 \(2007\).
+ - "She was wearing an evening gown of pink chiffon joined at one shoulder with a big *broach* \[read *brooch*\] sparkling with diamonds." Charlaine Harris, *All Together Dead* 172 \(2007\).
 
 Language-Change Index
 

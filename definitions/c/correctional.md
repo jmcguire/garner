@@ -4,7 +4,7 @@ correctional; **corrective**. *Correctional* = of, relating to, or involving cor
 
 *Corrective* = tending to correct <corrective measures>. E.g.:
 
-• "Among its charges, he said, are identifying regulations that should be streamlined or eliminated and developing *corrective* legislation." Raymond W. Vodicka, "Sen. Bond Seeking to Help Businesses," *St. Louis Post-Dispatch*, 15 Dec. 1994, at 1.
+ - "Among its charges, he said, are identifying regulations that should be streamlined or eliminated and developing *corrective* legislation." Raymond W. Vodicka, "Sen. Bond Seeking to Help Businesses," *St. Louis Post-Dispatch*, 15 Dec. 1994, at 1.
 
-• "\[There was a\] woman with one leg longer than the other, which caused her to walk sideways. The elves arranged for *corrective* surgery." Stacy Downs, "Elves Set to Work This Year's Miracles," *Kansas City Star*, Olathe §, 14 Dec. 1996, at 1.
+ - "\[There was a\] woman with one leg longer than the other, which caused her to walk sideways. The elves arranged for *corrective* surgery." Stacy Downs, "Elves Set to Work This Year's Miracles," *Kansas City Star*, Olathe §, 14 Dec. 1996, at 1.
 

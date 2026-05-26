@@ -6,9 +6,9 @@ Hence in the popular phrase *final* or *ultimate arbiter*, the word *arbitrator*
 
 *\*Arbitor* is a frequent misspelling—e.g.:
 
-• "Under the owners' proposal, they would have the right to reject an *arbitor's* \[read *arbiter's*\] ruling and declare the player a free agent." Dave Fay, "Union Says League Is Holding Up Agreement," *Wash. Times*, 30 Nov. 1994, at B2.
+ - "Under the owners' proposal, they would have the right to reject an *arbitor's* \[read *arbiter's*\] ruling and declare the player a free agent." Dave Fay, "Union Says League Is Holding Up Agreement," *Wash. Times*, 30 Nov. 1994, at B2.
 
-• "Ever since the 1954 Supreme Court desegregation decision, judges, not legislators, have been the *arbitors* \[read *arbiters*\] of social policy." Paul Craig Roberts, "Victory Trail from the New Majority Corral," *Wash. Times*, 11 Aug. 2000, at A17.
+ - "Ever since the 1954 Supreme Court desegregation decision, judges, not legislators, have been the *arbitors* \[read *arbiters*\] of social policy." Paul Craig Roberts, "Victory Trail from the New Majority Corral," *Wash. Times*, 11 Aug. 2000, at A17.
 
 Language-Change Index
 

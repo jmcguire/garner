@@ -4,17 +4,17 @@ fetch \(= to get and bring to\) was once a fully respectable word. It appears, f
 
 Oddly, though, when used in the monetary senses "sell for" and "bring in," the word carries no negative baggage—e.g.:
 
-• "Miramax unspooled the Philip Glass-scored docu ‘Naqoyqatsi' with exclu engagements in Gotham and L.A., *fetching* a fulsome $16,500." Carl DiOrio, " ‘The Ring' Goes Ka-ching," *Daily Variety*, 22 Oct. 2002, News §, at 1.
+ - "Miramax unspooled the Philip Glass-scored docu ‘Naqoyqatsi' with exclu engagements in Gotham and L.A., *fetching* a fulsome $16,500." Carl DiOrio, " ‘The Ring' Goes Ka-ching," *Daily Variety*, 22 Oct. 2002, News §, at 1.
 
-• "If Quintiles shares were *fetching* their all-time high of $56 plus, Gillings would have had to offer more than $6.6 billion to acquire the company." David Ranii, "Is Quintiles Going Up or Down?," *News & Observer* \(Raleigh\), 22 Oct. 2002, at D1.
+ - "If Quintiles shares were *fetching* their all-time high of $56 plus, Gillings would have had to offer more than $6.6 billion to acquire the company." David Ranii, "Is Quintiles Going Up or Down?," *News & Observer* \(Raleigh\), 22 Oct. 2002, at D1.
 
 Nor is the participial adjective *fetching* \(= attractive, alluring\) in any way tainted by the connotations that its root word carries—e.g.: "She wrapped her unfaltering soprano around two of Sondheim's most *fetching* and wrenching ballads, ‘In Buddy's Eyes' and ‘Losing My Mind.' " Peter Marks, "Kennedy Center's Sondheim Treat to N.Y.," *Wash. Post*, 23 Oct. 2002, at C1.
 
 Because *fetch* means "to go get and bring back," the phrase *\*go fetch* is a venial redundancy—e.g.:
 
-• "Next, the hijacker released a third man to *go fetch* \[read *fetch*\] the two escapees." Sonni Efron, "Raid Ends Moscow Hostage Drama," *L.A. Times*, 15 Oct. 1995, at A4.
+ - "Next, the hijacker released a third man to *go fetch* \[read *fetch*\] the two escapees." Sonni Efron, "Raid Ends Moscow Hostage Drama," *L.A. Times*, 15 Oct. 1995, at A4.
 
-• "Presley's manager, Col. Tom Parker, asked Green to *go fetch* \[read *fetch*\] Elvis at the Little Rock airport." Timothy Finn, "Music-Lover Suggestions for All 11th-Hour Santas," *Kansas City Star*, 20 Dec. 1996, at 23.
+ - "Presley's manager, Col. Tom Parker, asked Green to *go fetch* \[read *fetch*\] Elvis at the Little Rock airport." Timothy Finn, "Music-Lover Suggestions for All 11th-Hour Santas," *Kansas City Star*, 20 Dec. 1996, at 23.
 
 Language-Change Index
 

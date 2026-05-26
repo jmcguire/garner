@@ -10,15 +10,15 @@ Current ratio in print \(*all the* vs. *all of the*\): 9:1
 
 **B. With Negatives.** *Not all*—as opposed to *\*all . . . not*—is usually the appropriate sequence in negative constructions. E.g.:
 
-• "*All* literary sentences are *not* elaborate." George P. Krapp, *The Knowledge of English* 72 \(1927\). \(A possible revision: *Not all literary sentences are elaborate*.\)
+ - "*All* literary sentences are *not* elaborate." George P. Krapp, *The Knowledge of English* 72 \(1927\). \(A possible revision: *Not all literary sentences are elaborate*.\)
 
-• "*All* people do *not* possess *Life*'s intuitive perception that the word is so ‘monstrous' that even to list it as a dialect variation is to merit scorn." Bergen Evans, "But What's a Dictionary For?" in *The Ways of Language* 77, 81 \(Raymond J. Pflug ed., 1967\). \(A possible revision: *Not all people possess* Life*'s intuitive perception . . . .*\)
+ - "*All* people do *not* possess *Life*'s intuitive perception that the word is so ‘monstrous' that even to list it as a dialect variation is to merit scorn." Bergen Evans, "But What's a Dictionary For?" in *The Ways of Language* 77, 81 \(Raymond J. Pflug ed., 1967\). \(A possible revision: *Not all people possess* Life*'s intuitive perception . . . .*\)
 
-• "Students rightfully protest; and while *all of their complaints do not* \[read *not all their complaints*\] have merit, they too should be heard." William O. Douglas, *Points of Rebellion* 14 \(1970\).
+ - "Students rightfully protest; and while *all of their complaints do not* \[read *not all their complaints*\] have merit, they too should be heard." William O. Douglas, *Points of Rebellion* 14 \(1970\).
 
-• "When he screened Foster's office files two days after his death, Nussbaum decided that *all* of the papers were *not* relevant to the suicide inquiry." "Cops: White House Aide Foiled Probe," *Chicago Trib.*, 4 Feb. 1994, at N14. \(Two possible revisions to remedy the ambiguity of the original: *Nussbaum decided that none of the papers were relevant*./*Nussbaum decided that some of the papers were not relevant*.\)
+ - "When he screened Foster's office files two days after his death, Nussbaum decided that *all* of the papers were *not* relevant to the suicide inquiry." "Cops: White House Aide Foiled Probe," *Chicago Trib.*, 4 Feb. 1994, at N14. \(Two possible revisions to remedy the ambiguity of the original: *Nussbaum decided that none of the papers were relevant*./*Nussbaum decided that some of the papers were not relevant*.\)
 
-• "Since *all teachers do not* \[read *not all teachers*\] teach the FSA subjects, other tests, like end-of-course exams, must be used." Sue Legg, "Testing—When Is Enough, Enough?," *Gainesville Sun* \(Fla.\), 6 Sept. 2015, Opinion §.
+ - "Since *all teachers do not* \[read *not all teachers*\] teach the FSA subjects, other tests, like end-of-course exams, must be used." Sue Legg, "Testing—When Is Enough, Enough?," *Gainesville Sun* \(Fla.\), 6 Sept. 2015, Opinion §.
 
 See **not \(a\)**. Cf. **\*everyone . . . not**.
 

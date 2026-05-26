@@ -6,13 +6,13 @@ aged.
 
 **B. Used Adverbially in BrE.** British publications have adopted a shorthand adverbial used of *aged*, found most commonly in obituaries. Essentially, BrE uses *aged* where AmE would use the phrase *at the age of*—e.g.:
 
-• "Later in the week, I met a man who had gone to Oxford *aged* 17 to read English and by the age of 22 had become a don." Sarah Hervey-Bathurst, "The Spectator," *Country Life*, 17 June 1999, at 136.
+ - "Later in the week, I met a man who had gone to Oxford *aged* 17 to read English and by the age of 22 had become a don." Sarah Hervey-Bathurst, "The Spectator," *Country Life*, 17 June 1999, at 136.
 
-• "Professor John Lawlor, scholar of medieval English, died on May 31 *aged* 81." "Professor John Lawlor" \(obit.\), *Times* \(London\), 7 July 1999, at 23.
+ - "Professor John Lawlor, scholar of medieval English, died on May 31 *aged* 81." "Professor John Lawlor" \(obit.\), *Times* \(London\), 7 July 1999, at 23.
 
-• "James Farmer, who has died *aged* 79, was one of America's four leading civil rights leaders during the 1960s." "James Farmer" \(obit.\), *Guardian*, 13 July 1999, at 20.
+ - "James Farmer, who has died *aged* 79, was one of America's four leading civil rights leaders during the 1960s." "James Farmer" \(obit.\), *Guardian*, 13 July 1999, at 20.
 
-• "Patrick Saul, who has died *aged* 85, was the founder of the National Sound Archive, the aural counterpart to the British Library." "Patrick Saul" \(obit.\), *Daily Telegraph*, 16 July 1999, at 31.
+ - "Patrick Saul, who has died *aged* 85, was the founder of the National Sound Archive, the aural counterpart to the British Library." "Patrick Saul" \(obit.\), *Daily Telegraph*, 16 July 1999, at 31.
 
 Though once in use in the U.S. \(mostly before the mid-20th century\), this adverbial use of *aged* is now little known in AmE.
 

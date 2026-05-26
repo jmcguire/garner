@@ -6,11 +6,11 @@ Since the early 20th century, AmE has made *careen* do the job of *career*, as b
 
 Still, a few writers reserve *career* for such uses—e.g.:
 
-• "Monday night, while he \[Silvio Berlusconi\] reaffirmed his promise to deliver a ‘new Italian miracle,' supporters *careered* through the streets of Rome blasting their car horns and crying ‘Silvio\! Silvio\!'" Kevin Fedarko, "Knight of the New Right," *Time*, 11 Apr. 1994, at 59.
+ - "Monday night, while he \[Silvio Berlusconi\] reaffirmed his promise to deliver a ‘new Italian miracle,' supporters *careered* through the streets of Rome blasting their car horns and crying ‘Silvio\! Silvio\!'" Kevin Fedarko, "Knight of the New Right," *Time*, 11 Apr. 1994, at 59.
 
-• "A hot rod *careered* out of control during a drag race and flew into the grandstand Sunday." "Out-of-Control Car Kills Woman at Race," *Chicago Trib.*, 11 Nov. 1996, at 12.
+ - "A hot rod *careered* out of control during a drag race and flew into the grandstand Sunday." "Out-of-Control Car Kills Woman at Race," *Chicago Trib.*, 11 Nov. 1996, at 12.
 
-• "A car *careered* out of control last evening and crashed into a knot of people on the sidewalk." Daniel J. Wagin, "Metro Briefing: Fatal Car Crash," *N.Y. Times*, 20 July 2001, at B6.
+ - "A car *careered* out of control last evening and crashed into a knot of people on the sidewalk." Daniel J. Wagin, "Metro Briefing: Fatal Car Crash," *N.Y. Times*, 20 July 2001, at B6.
 
 It's understandable why most people aren't comfortable with this verbal usage of *career*. The word derived from a Latin term for *road* or *path*, and later denoted a racetrack, but today people think of it only as a noun: the path of a life's work.
 

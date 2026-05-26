@@ -6,9 +6,9 @@ doctrinal; **doctrinaire**; **\*doctrinary**. *Doctrinal* \(/**dok**-trә-nәl/ 
 
 *Doctrinaire* is sometimes misspelled *\*doctrinnaire*, on the apparent analogy of *questionnaire*—e.g.:
 
-• "It does indicate a willingness \[by\] the House leadership to negotiate along less conservative *doctrinnaire* \[read *doctrinaire*\] lines." " ‘Endangered' Moderates," *Times & Eagle* \(Reading, Pa.\), 4 Nov. 1995, at A6.
+ - "It does indicate a willingness \[by\] the House leadership to negotiate along less conservative *doctrinnaire* \[read *doctrinaire*\] lines." " ‘Endangered' Moderates," *Times & Eagle* \(Reading, Pa.\), 4 Nov. 1995, at A6.
 
-• "In *doctrinnaire* \[read *doctrinaire*\] terms the decree stated the fundamentals of the Communist doctrine." Malbone W. Graham, *New Governments of Central Europe* 229 \(2007\).
+ - "In *doctrinnaire* \[read *doctrinaire*\] terms the decree stated the fundamentals of the Communist doctrine." Malbone W. Graham, *New Governments of Central Europe* 229 \(2007\).
 
 Cf. **millionaire** & **questionnaire**.
 

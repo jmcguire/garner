@@ -12,13 +12,13 @@ In sense 4—highly objectionable to so many—the word is sometimes said to mea
 
 But that's not to say that the sense-4 crowd stands on firm ground. In addition to distracting literalists, a hyperbolic statement "strengthened" by *literally* is often actually weakened by it. Whether it's a senator saying that the President is \**literally gaslighting the American people* or some other exaggeration, the intensifier that instantly belies itself is rarely helpful—e.g.:
 
-• "He *literally* bombed the Cougars for 52 points." Tom Krasovic, "Aztecs Thinking Aerial Rout Is the Way to Go," *San Diego Union-Trib.*, 22 Sept. 1992, at C1. \(Delete *literally*.\)
+ - "He *literally* bombed the Cougars for 52 points." Tom Krasovic, "Aztecs Thinking Aerial Rout Is the Way to Go," *San Diego Union-Trib.*, 22 Sept. 1992, at C1. \(Delete *literally*.\)
 
-• "For Chip Sullivan, former club professional turned PGA Tour pro, life *literally* has been turned upside down." Randy King, "PGA Life Different Than Being Home on the Range," *Roanoke Times*, 15 Jan. 1997, at B1. \(Delete *literally*. On the use of *different than* in that headline, see **different \(a\)**.)
+ - "For Chip Sullivan, former club professional turned PGA Tour pro, life *literally* has been turned upside down." Randy King, "PGA Life Different Than Being Home on the Range," *Roanoke Times*, 15 Jan. 1997, at B1. \(Delete *literally*. On the use of *different than* in that headline, see **different \(a\)**.)
 
-• "Lives are *literally* at stake." "Baltimore Gets Serious About Helping Homeless People," *Baltimore Sun*, 28 Feb. 2022, Editorial §. \(Delete *literally*.\)
+ - "Lives are *literally* at stake." "Baltimore Gets Serious About Helping Homeless People," *Baltimore Sun*, 28 Feb. 2022, Editorial §. \(Delete *literally*.\)
 
-• "The best overall smartphone right now . . . checks *literally* every box out there." Alexander Maxham, "Top Ten Mother's Day Gifts–2022," *Android Headlines* \(blog\), 13 Apr. 2022. \(Delete *literally*.\)
+ - "The best overall smartphone right now . . . checks *literally* every box out there." Alexander Maxham, "Top Ten Mother's Day Gifts–2022," *Android Headlines* \(blog\), 13 Apr. 2022. \(Delete *literally*.\)
 
 These uses might be characterized as amateurish.
 

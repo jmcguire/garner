@@ -4,9 +4,9 @@ okay; OK; **O.K**. Each of these spellings is okay. Although *OK* predominates i
 
 A few publications, such as *The New Yorker*, prefer the periods—e.g.:
 
-• "It's *O.K.* Take your time." Arthur Miller, "The Bare Manuscript," *New Yorker*, 16 Dec. 2002, at 82, 91.
+ - "It's *O.K.* Take your time." Arthur Miller, "The Bare Manuscript," *New Yorker*, 16 Dec. 2002, at 82, 91.
 
-• "Gavin Newsom \[was\] elected three short years \(*O.K.*, long years\) ago." Nathan Heller, "Recall Fever," *New Yorker*, 6 Sept. 2021, at 13.
+ - "Gavin Newsom \[was\] elected three short years \(*O.K.*, long years\) ago." Nathan Heller, "Recall Fever," *New Yorker*, 6 Sept. 2021, at 13.
 
 For more on the presence or absence of periods, see abbreviations \(a\). See also **A-OK**.
 

@@ -6,17 +6,17 @@ Perhaps the most common error with these words is misusing *effect* for *affect*
 
 Using *affect* \(= to influence\) for *effect* \(= to bring about\) is also an old error that looks ever more difficult to stamp out. The mistake is especially common in the phrase *to effect change\(s\)*—e.g.:
 
-• "Throughout the book her winning personality *affects* \[read *effects*\] changes in the drab and pitiful ‘sad' people she encounters . . . ." Philip Martin, "Rags, Riches," *Ark. Democrat-Gaz.*, 17 Dec. 1995, at E1.
+ - "Throughout the book her winning personality *affects* \[read *effects*\] changes in the drab and pitiful ‘sad' people she encounters . . . ." Philip Martin, "Rags, Riches," *Ark. Democrat-Gaz.*, 17 Dec. 1995, at E1.
 
-• "\[It is\] a good example of environmentalists working with corporations to *affect* \[read *effect*\] change." John Holusha, "Companies Vow to Consider Environment in Buying Paper," *N.Y. Times*, 20 Dec. 1995, at D5.
+ - "\[It is\] a good example of environmentalists working with corporations to *affect* \[read *effect*\] change." John Holusha, "Companies Vow to Consider Environment in Buying Paper," *N.Y. Times*, 20 Dec. 1995, at D5.
 
 H.W. Fowler treated only the verb forms of these words, apparently thinking they didn't seem susceptible to confusion as nouns. But today even the confusion of nouns is fairly common in both AmE and BrE. E.g.:
 
-• "She doubted the majority flip would have a huge *affect* \[read *effect*\] on the council." Rona Kobell, "Republicans Ride Ehrlich Wave," *Baltimore Sun*, 6 Nov. 2002, at B8.
+ - "She doubted the majority flip would have a huge *affect* \[read *effect*\] on the council." Rona Kobell, "Republicans Ride Ehrlich Wave," *Baltimore Sun*, 6 Nov. 2002, at B8.
 
-• "Most players, though, did not think it will have a lasting *affect* \[read *effect*\]." Ed Bouchette, "Looking Ahead," *Pitt. Post-Gaz.*, 14 Nov. 2002, at C6.
+ - "Most players, though, did not think it will have a lasting *affect* \[read *effect*\]." Ed Bouchette, "Looking Ahead," *Pitt. Post-Gaz.*, 14 Nov. 2002, at C6.
 
-• "The Challenger accident had a large and lasting *affect* \[read *effect*\] on the Michoud plant." Gordon Russell & Keith Darce, "Once More, Attention Is Focused on Michoud," *Times-Picayune* \(New Orleans\), 2 Feb. 2003, Nat'l §, at 1.
+ - "The Challenger accident had a large and lasting *affect* \[read *effect*\] on the Michoud plant." Gordon Russell & Keith Darce, "Once More, Attention Is Focused on Michoud," *Times-Picayune* \(New Orleans\), 2 Feb. 2003, Nat'l §, at 1.
 
 Likewise, *effect* is sometimes misused for *affect*. See **effect \(b\)**. Cf. **impact**.
 

@@ -2,11 +2,11 @@
 
 appraise; apprise; **\*apprize**. To *appraise* is to put a value on or set a price for \(a thing\). To *apprise* is to inform or notify \(someone\). Writers often misuse *appraise* when they mean *apprise*—e.g.:
 
-• " ‘Other employees also are kept *appraised* \[read *apprised*\] of developments within the company,' Highsmith said." Elena Bianco, "New Dimensions in Lumber," *Lewiston Morning Trib.* \(Idaho\), 4 Nov. 1990, at E1.
+ - " ‘Other employees also are kept *appraised* \[read *apprised*\] of developments within the company,' Highsmith said." Elena Bianco, "New Dimensions in Lumber," *Lewiston Morning Trib.* \(Idaho\), 4 Nov. 1990, at E1.
 
-• "Bandidos could be *appraised* \[read *apprised*\] of potential customers through Morse code." Larry Habegger & Natanya Pearlman, *Central America: True Stories* 130 \(2002\).
+ - "Bandidos could be *appraised* \[read *apprised*\] of potential customers through Morse code." Larry Habegger & Natanya Pearlman, *Central America: True Stories* 130 \(2002\).
 
-• "\[Jennifer\] Music knocked on an unfamiliar neighbor's door and *appraised* \[read *apprised*\] them of the situation in their back yard." Susan Bromley, *Livonia Observer & Troy Eccentric* \(Mich.\), 11 Mar. 2021, at A4.
+ - "\[Jennifer\] Music knocked on an unfamiliar neighbor's door and *appraised* \[read *apprised*\] them of the situation in their back yard." Susan Bromley, *Livonia Observer & Troy Eccentric* \(Mich.\), 11 Mar. 2021, at A4.
 
 Occasionally, the opposite mistake occurs—e.g.: "The maximum loan-to-value is the percentage of the *apprised* \[read *appraised*\] value of the house the lender will finance." "Fall Mortgage News," *Seattle Times*, 20 Oct. 1996, at G1.
 

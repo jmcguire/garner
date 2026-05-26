@@ -4,19 +4,19 @@ condemn; **contemn**. To *condemn*, in one sense, is to render judgment against 
 
 In AmE, *condemn* has the additional legal sense "to pronounce judicially \(land, etc.\) as converted or convertible to public use, subject to reasonable compensation." E.g.:
 
-• "In *condemning* the structure, city inspectors said large sections of the roof and walls had collapsed." Will Tracy, "Council Approves Spending to Raze State Theater," *Hartford Courant*, 26 Apr. 1994, at B3.
+ - "In *condemning* the structure, city inspectors said large sections of the roof and walls had collapsed." Will Tracy, "Council Approves Spending to Raze State Theater," *Hartford Courant*, 26 Apr. 1994, at B3.
 
-• "They fear a massive Everglades restoration project—which includes plans to *condemn* property and raise the water table—will drive them from their land." "Property Rights: Quiet Revolt," *Fla. Times-Union* \(Georgia ed.\), 16 Sept. 2002, at B4.
+ - "They fear a massive Everglades restoration project—which includes plans to *condemn* property and raise the water table—will drive them from their land." "Property Rights: Quiet Revolt," *Fla. Times-Union* \(Georgia ed.\), 16 Sept. 2002, at B4.
 
-• "Government should *condemn* property only as a last resort. It should *condemn* only to acquire property it cannot otherwise get that is necessary, not merely desirable, for the public good." Editorial, *Salt Lake Trib.*, 19 Sept. 2002, at A18.
+ - "Government should *condemn* property only as a last resort. It should *condemn* only to acquire property it cannot otherwise get that is necessary, not merely desirable, for the public good." Editorial, *Salt Lake Trib.*, 19 Sept. 2002, at A18.
 
 *Contemn* = to hold in contempt; to disregard; esp., to treat \(as laws or court orders\) with contemptuous disregard. The *OED* notes that it is "chiefly a literary word"—e.g.:
 
-• "Rooted as he was in the idiom of Shakespeare and Donne, he *contemned* such trendy ploys." "Richard Burton, RIP," *Nat'l Rev.*, 7 Sept. 1984, at 17.
+ - "Rooted as he was in the idiom of Shakespeare and Donne, he *contemned* such trendy ploys." "Richard Burton, RIP," *Nat'l Rev.*, 7 Sept. 1984, at 17.
 
-• "From Henry James through John O'Hara, the Irish, once much *contemned* in American life, were sensitively attuned to the horrors of snobbery and stimulated by the delights of social attainment." Joseph Epstein, Book Rev., *Commentary*, Nov. 1994, at 52.
+ - "From Henry James through John O'Hara, the Irish, once much *contemned* in American life, were sensitively attuned to the horrors of snobbery and stimulated by the delights of social attainment." Joseph Epstein, Book Rev., *Commentary*, Nov. 1994, at 52.
 
-• "The best regime would recognize the duty to evaluate all human beings on an equal basis, regardless of nationality, and to respect or to *contemn* persons strictly in accordance with their virtue." Thomas L. Pangle, "Justice Among Nations in Platonic and Aristotelian Political Philosophy," *Am. J. Political Sci.*, 1 Apr. 1998, at 377.
+ - "The best regime would recognize the duty to evaluate all human beings on an equal basis, regardless of nationality, and to respect or to *contemn* persons strictly in accordance with their virtue." Thomas L. Pangle, "Justice Among Nations in Platonic and Aristotelian Political Philosophy," *Am. J. Political Sci.*, 1 Apr. 1998, at 377.
 
 In legal contexts, the corresponding agent noun *contemnor* is common. But see **contemner**.
 

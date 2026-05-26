@@ -10,13 +10,13 @@ By extension, the word came to apply to a comic's take on a particular subject, 
 
 Although the *OED* records some pre-1750 uses of *riff* in the obsolete sense "rift, chink," the modern use of the word in that sense appears to be nothing more than rank confusion resulting from sound association—e.g.:
 
-• "\[Roone Arledge\] was angered, sources say, that ABC Daytime had effectively gone behind his back to snare Walters. Walters told him that it was a fait accompli. Thus, ‘The View' has now caused a minor *riff* \[read *rift*\] between the two." Verne Gay, "The Daytime View," *Newsday* \(N.Y.\), 11 Aug. 1997, at B3.
+ - "\[Roone Arledge\] was angered, sources say, that ABC Daytime had effectively gone behind his back to snare Walters. Walters told him that it was a fait accompli. Thus, ‘The View' has now caused a minor *riff* \[read *rift*\] between the two." Verne Gay, "The Daytime View," *Newsday* \(N.Y.\), 11 Aug. 1997, at B3.
 
-• "The mayor of South Jordan says the city has not abandoned a plan to construct a 111-acre wildlife preserve along the Jordan River, despite a major *riff* \[read *rift*\] with the U.S. Fish and Wildlife Service." Brent Israelsen,"S. Jordan to Revive Preserve," *Salt Lake Trib.*, 4 Dec. 1999, at D3.
+ - "The mayor of South Jordan says the city has not abandoned a plan to construct a 111-acre wildlife preserve along the Jordan River, despite a major *riff* \[read *rift*\] with the U.S. Fish and Wildlife Service." Brent Israelsen,"S. Jordan to Revive Preserve," *Salt Lake Trib.*, 4 Dec. 1999, at D3.
 
-• "The way he sees it, things aren't bad at all. No *riffs* \[read *rifts*\] between him and crew chief Todd Parrott." Skip Wood, "Yates Works to Vault Jarrett Back to the Top," *USA Today*, 26 May 2000, at F9.
+ - "The way he sees it, things aren't bad at all. No *riffs* \[read *rifts*\] between him and crew chief Todd Parrott." Skip Wood, "Yates Works to Vault Jarrett Back to the Top," *USA Today*, 26 May 2000, at F9.
 
-• "When the *riff* \[read *rift*\] between the forest monk and the nation's financial wizards became public, it caused many Thais to wonder how an elderly Buddhist monk could have forced powerful government leaders to explain the machinations of their fiscal policy." Sarah Rooney, "Monk vs. the Machine," *S.F. Chron.*, 26 Sept. 2000, at A11.
+ - "When the *riff* \[read *rift*\] between the forest monk and the nation's financial wizards became public, it caused many Thais to wonder how an elderly Buddhist monk could have forced powerful government leaders to explain the machinations of their fiscal policy." Sarah Rooney, "Monk vs. the Machine," *S.F. Chron.*, 26 Sept. 2000, at A11.
 
 Careful users of language preserve the age-old fissure between the words.
 

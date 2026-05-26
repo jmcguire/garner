@@ -12,9 +12,9 @@ Language-Change Index
 
 **B. *Funeral celebrants*.** Although *celebrant* simply means "someone who performs a religious rite" and doesn't necessarily have anything to do with jubilation, its sound association makes it unfit for funeral contexts. Why invite tasteless jokes? That's the effect of saying that this or that religious figure will be the chief *celebrant* at a funeral—e.g.:
 
-• "The Rev. Stephen Karani will *be the Celebrant of* \[read *conduct*\] Fanny's Funeral Mass." Virginia G. Canfield, "Fanny A. Fusco" \(obit.\), *Star-Gaz.* \(Elmira, N.Y.\), 11 Sept. 2002, at C4.
+ - "The Rev. Stephen Karani will *be the Celebrant of* \[read *conduct*\] Fanny's Funeral Mass." Virginia G. Canfield, "Fanny A. Fusco" \(obit.\), *Star-Gaz.* \(Elmira, N.Y.\), 11 Sept. 2002, at C4.
 
-• "His Eminence Bernard Cardinal Law will *be the Principal Celebrant* \[read *officiate*\] in a funeral Mass at 11 a.m. tomorrow." "Rev. Robert Flagg of Brighton, Seminary Dean, at 63" \(obit.\), *Boston Herald*, 29 Sept. 2002, at 71.
+ - "His Eminence Bernard Cardinal Law will *be the Principal Celebrant* \[read *officiate*\] in a funeral Mass at 11 a.m. tomorrow." "Rev. Robert Flagg of Brighton, Seminary Dean, at 63" \(obit.\), *Boston Herald*, 29 Sept. 2002, at 71.
 
 So when a rite marks a sad occasion, it's better to avoid the word, even though you might say that the mourners are celebrating a life. Some reasonable people will consider *celebrant* in such a context offensive.
 

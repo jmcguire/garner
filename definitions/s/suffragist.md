@@ -6,11 +6,11 @@ Today, many people object to the term *suffragette* as sexist—e.g.: " ‘My 
 
 Nevertheless, *suffragette* remains more common in popular usage worldwide than *suffragist*. The terms are often used interchangeably \(sometimes, as in the first example below, for inelegant variation\)—e.g.:
 
-• "Anti-*suffragists* feared voting rights would escort in the destruction of the American family, and many Southerners were suspicious of the Northerners who arrived to sway legislators. American *suffragettes* tended to be well-educated, well-heeled women of social stature, although the underprivileged and working classes actually gained the most by ratification." Lisa A. DuBois, "The Perfect 36," *Variety*, 13 May 1996, at 79.
+ - "Anti-*suffragists* feared voting rights would escort in the destruction of the American family, and many Southerners were suspicious of the Northerners who arrived to sway legislators. American *suffragettes* tended to be well-educated, well-heeled women of social stature, although the underprivileged and working classes actually gained the most by ratification." Lisa A. DuBois, "The Perfect 36," *Variety*, 13 May 1996, at 79.
 
-• "Sojourner Truth . . . was at a meeting with her sister *suffragettes* when a man wandered in and began taunting the women about their desire to vote." Judy Wells, "EVE Awards Presented to 3 Winners," *Fla. Times Union*, 9 June 2001, at B1.
+ - "Sojourner Truth . . . was at a meeting with her sister *suffragettes* when a man wandered in and began taunting the women about their desire to vote." Judy Wells, "EVE Awards Presented to 3 Winners," *Fla. Times Union*, 9 June 2001, at B1.
 
-• "Youngsters will . . . have an opportunity to learn about *suffragists* such as Sojourner Truth, Susan B. Anthony and Anna Howard Shaw." "Camp Features Lessons on Prominent Women," *Lansing State J.*, 9 July 2002, at 4.
+ - "Youngsters will . . . have an opportunity to learn about *suffragists* such as Sojourner Truth, Susan B. Anthony and Anna Howard Shaw." "Camp Features Lessons on Prominent Women," *Lansing State J.*, 9 July 2002, at 4.
 
 In AmE, however, *suffragist* has overtaken *suffragette* in English-language print sources published since the early 1970s. But has everybody voted?
 

@@ -8,11 +8,11 @@ The word *sparse* means "not densely packed; scattered" <sparse trees on the pla
 
 Undoubtedly through mistaken sound association, people have begun misusing *sparse* for *spartan*—e.g.:
 
-• "It is to be her retirement home, so she takes only a few of her worldly possessions and intends to live a *sparse* \[read *spartan*\] life." Kay Rohrer, " ‘Winter Solstice' Exhibits Heartfelt Depth," *Sunday Patriot-News* \(Harrisburg\), 8 Oct. 2000, at E3.
+ - "It is to be her retirement home, so she takes only a few of her worldly possessions and intends to live a *sparse* \[read *spartan*\] life." Kay Rohrer, " ‘Winter Solstice' Exhibits Heartfelt Depth," *Sunday Patriot-News* \(Harrisburg\), 8 Oct. 2000, at E3.
 
-• "The cramped front hall remains pretty much as it was more than 100 years ago. Visitors instantly get a sense of the hunkered-down, *sparse* \[read *spartan*\] existence of the \[tenement\] building's residents." Patrick Connolly, "Walking Tour Peeks at the Past," *Tennessean*, 7 Apr. 2002, at G1.
+ - "The cramped front hall remains pretty much as it was more than 100 years ago. Visitors instantly get a sense of the hunkered-down, *sparse* \[read *spartan*\] existence of the \[tenement\] building's residents." Patrick Connolly, "Walking Tour Peeks at the Past," *Tennessean*, 7 Apr. 2002, at G1.
 
-• "Spec. Kevin Conforti's temporary home is a tent where about 17 soldiers sleep in sleeping bags on cots. A small stove at the end provides heat. Despite the rather *sparse* \[read *spartan*\] accommodations, Conforti, of Okmulgee, says the training is very good." Barbara Hoberock, "Oklahoma Guard Troops Prepare to Deploy Overseas," *Tulsa World*, 17 Dec. 2002, at A11.
+ - "Spec. Kevin Conforti's temporary home is a tent where about 17 soldiers sleep in sleeping bags on cots. A small stove at the end provides heat. Despite the rather *sparse* \[read *spartan*\] accommodations, Conforti, of Okmulgee, says the training is very good." Barbara Hoberock, "Oklahoma Guard Troops Prepare to Deploy Overseas," *Tulsa World*, 17 Dec. 2002, at A11.
 
 See word-swapping.
 

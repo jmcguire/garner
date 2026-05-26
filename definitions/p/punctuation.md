@@ -26,21 +26,21 @@ Here are seven more tips on using bullets well: \(1\) end your introduction with
 
 First, it may link two separate clauses or phrases by indicating a step forward from the first to the second: the step may be from an introduction to a main theme, from a cause to an effect, from a general statement to a particular instance, or from a premise to a conclusion. E.g.:
 
-• "Boeing left some chips on the table: It agreed to give up the exclusive-supplier agreements it had negotiated with American Airlines, Delta Air Lines, and Continental Airlines." "Boeing–McDonnell Gets a Thumbs-Up," *BusinessWeek*, 4 Aug. 1997, at 42.
+ - "Boeing left some chips on the table: It agreed to give up the exclusive-supplier agreements it had negotiated with American Airlines, Delta Air Lines, and Continental Airlines." "Boeing–McDonnell Gets a Thumbs-Up," *BusinessWeek*, 4 Aug. 1997, at 42.
 
-• "Economists point to day care's problems as a classic case of ‘market failure': Large numbers of parents need the service so they can work, but they are not willing to pay the fees that would be necessary for the well-trained, highly motivated workers they would like their children to have." Victoria Pope, "Day-Care Dangers," *U.S. News & World Rep.*, 4 Aug. 1997, at 31, 34.
+ - "Economists point to day care's problems as a classic case of ‘market failure': Large numbers of parents need the service so they can work, but they are not willing to pay the fees that would be necessary for the well-trained, highly motivated workers they would like their children to have." Victoria Pope, "Day-Care Dangers," *U.S. News & World Rep.*, 4 Aug. 1997, at 31, 34.
 
-• "My assignment: Identify and contact the CIOs for 100 companies that were selected on the basis of their productive and innovative use of information technology." Megan Santosus, "Putting Along," *CIO*, Aug. 1997, at 118.
+ - "My assignment: Identify and contact the CIOs for 100 companies that were selected on the basis of their productive and innovative use of information technology." Megan Santosus, "Putting Along," *CIO*, Aug. 1997, at 118.
 
-• "Nor did the evidence submitted resolve the real question: whether Jackson is in fact Cosby's daughter." Matt Bai & Allison Samuels, "No Laughing Matter," *Newsweek*, 4 Aug. 1997, at 33.
+ - "Nor did the evidence submitted resolve the real question: whether Jackson is in fact Cosby's daughter." Matt Bai & Allison Samuels, "No Laughing Matter," *Newsweek*, 4 Aug. 1997, at 33.
 
 As in the examples just quoted, what follows the colon may be either a full clause or just a phrase.
 
 Authorities agree that when a phrase follows a colon, the first word should not be capitalized \(unless, of course, it's a proper noun\). But when a complete clause follows the colon, authorities are divided on whether the first word should be capitalized. The first three bulleted examples in the preceding paragraph follow the prevalent journalistic practice: the first word is capitalized. But the other view—urging for a lowercase word following the colon—is probably sounder: the lowercase \(as in this very sentence\) more closely ties the two clauses together. That's the style used throughout this book. It's also the house style for *The New Yorker*—e.g.:
 
-• "Though active, El Misti isn't doing anything at the moment, but Arequipa is: it has spread up the volcano's flanks along the gullies where lava and ash will someday begin to flow." Tad Friend, "Disaster\!," *New Yorker*, 16 Dec. 2002, at 36, 38.
+ - "Though active, El Misti isn't doing anything at the moment, but Arequipa is: it has spread up the volcano's flanks along the gullies where lava and ash will someday begin to flow." Tad Friend, "Disaster\!," *New Yorker*, 16 Dec. 2002, at 36, 38.
 
-• "Party lines are not to be confused with chat lines, party planners, or escort services: they are a prehistoric phone technology of copper-loop circuits." Susan Orlean, "Party Line," *New Yorker*, 16 Dec. 2002, at 52.
+ - "Party lines are not to be confused with chat lines, party planners, or escort services: they are a prehistoric phone technology of copper-loop circuits." Susan Orlean, "Party Line," *New Yorker*, 16 Dec. 2002, at 52.
 
 Although the uppercase convention is a signpost to the reader that a complete sentence is ahead, that signpost generally isn't needed.
 
@@ -66,9 +66,9 @@ A variation of this comma essentially functions as a shorter equivalent of *and*
 
 Second, the comma separates coordinated main clauses—e.g.: "Cars will turn here\[*,*\] and coaches will go straight." There are two exceptions: \(1\) when the main clauses are closely linked <do as I tell you \[no comma\] and you won't regret it>; and \(2\) when the subject of the second independent clause, being the same as in the first, is not repeated <policies that help prevent crime are often better for the public \[no comma\] and are closer to the ideal of effective public administration>. \(Another way of referring to the construction in that sentence is that it contains a "compound predicate."\) Omitting the comma before the *and* in a compound sentence often causes an ambiguity or miscue:
 
-• "I would love to see her and the baby and I will be here all day." \(Insert a comma after *baby*; otherwise, it might appear that the baby and the writer will be there all day.\)
+ - "I would love to see her and the baby and I will be here all day." \(Insert a comma after *baby*; otherwise, it might appear that the baby and the writer will be there all day.\)
 
-• "No one claimed responsibility for the attack nor for once were Chechen guerrillas seen as the prime suspects." Sander Thoenes, "Russia Rivals Trade Insults over Moscow Bombing," *Fin. Times*, 13 June 1996, at 2. \(Insert a comma after *attack*; otherwise, it looks as if *for once* is parallel to *for the attack*.\)
+ - "No one claimed responsibility for the attack nor for once were Chechen guerrillas seen as the prime suspects." Sander Thoenes, "Russia Rivals Trade Insults over Moscow Bombing," *Fin. Times*, 13 June 1996, at 2. \(Insert a comma after *attack*; otherwise, it looks as if *for once* is parallel to *for the attack*.\)
 
 Third, the comma separates most introductory matter from the main clause, often to prevent misunderstanding. The introductory matter may be a word <Moreover,>, a phrase <In the meantime,>, or a subordinate clause <If everything goes as planned,>. Matter that is very short may not need this comma <On Friday we leave for Florida>, but phrases of three or more words usually do—and even the shortest of subordinate clauses always do <That said,>. On the other hand, a comma may prove helpful for clarity even with shorter phrases <For now, we must assume the worst>. It may even be necessary <Outside, the world goes on>.
 
@@ -108,31 +108,31 @@ For a more detailed explanation of ellipses, see quotations \(e\) & **ellipsis**
 
 The em-dash can also be used to replace the colon—e.g.:
 
-• "On July 22, the company was awarded the largest privatization contract ever for a prison—a 2,048-bed minimum-security facility in Taft, Calif." "Wackenhut Wins Its Prison Bid," *BusinessWeek*, 4 Aug. 1997, at 42.
+ - "On July 22, the company was awarded the largest privatization contract ever for a prison—a 2,048-bed minimum-security facility in Taft, Calif." "Wackenhut Wins Its Prison Bid," *BusinessWeek*, 4 Aug. 1997, at 42.
 
-• "She returned to singing in 1996—after a stroke and complications from diabetes forced her to have both legs amputated." Suzanne Braun Levine, "My Secret Predawn Rite," *Newsweek*, 4 Aug. 1997, at 12.
+ - "She returned to singing in 1996—after a stroke and complications from diabetes forced her to have both legs amputated." Suzanne Braun Levine, "My Secret Predawn Rite," *Newsweek*, 4 Aug. 1997, at 12.
 
 The em-dash was once the most underused punctuation mark in American writing. But during the early 21st century, it reached a sort of cult status, with memes on social media about its use. There is also a growing sentiment that em-dashes should have their own designated key on keyboards.
 
 Whatever the type of writing, dashes can often clarify a sentence that is clogged up with commas—or even one that's otherwise lusterless. Imagine the following sentences if commas replaced the well-chosen em-dashes:
 
-• "It is noteworthy that the most successful revolutions—that of England in 1688 and that of America in 1776—were carried out by men who were deeply imbued with a respect for law." Bertrand Russell, "Individual and Social Ethics" \(1949\), in *The Basic Writings of Bertrand Russell* 357, 358 \(1961\).
+ - "It is noteworthy that the most successful revolutions—that of England in 1688 and that of America in 1776—were carried out by men who were deeply imbued with a respect for law." Bertrand Russell, "Individual and Social Ethics" \(1949\), in *The Basic Writings of Bertrand Russell* 357, 358 \(1961\).
 
-• "Unfortunately, moral beauty in art—like physical beauty in a person—is extremely perishable." Susan Sontag, *Against Interpretation* 55 \(1966\).
+ - "Unfortunately, moral beauty in art—like physical beauty in a person—is extremely perishable." Susan Sontag, *Against Interpretation* 55 \(1966\).
 
-• "When David Nemer sat down with his 12-year-old daughter one night recently to watch a television sitcom—a treat for finishing her homework early—he was shocked by the behavior he saw in his living room." Daniel Howard Cerone, "Adult Programming Invades Family Hour," *L.A. Times*, 15 Oct. 1995, at A1.
+ - "When David Nemer sat down with his 12-year-old daughter one night recently to watch a television sitcom—a treat for finishing her homework early—he was shocked by the behavior he saw in his living room." Daniel Howard Cerone, "Adult Programming Invades Family Hour," *L.A. Times*, 15 Oct. 1995, at A1.
 
-• "I heard this anecdote from Mikhail Gorbachev—who had heard it from Gromyko himself—when I paid him a visit, earlier this year, to talk about the vodka anniversary." Victor Erofeyev, "The Russian God," *New Yorker*, 16 Dec. 2002, at 56.
+ - "I heard this anecdote from Mikhail Gorbachev—who had heard it from Gromyko himself—when I paid him a visit, earlier this year, to talk about the vodka anniversary." Victor Erofeyev, "The Russian God," *New Yorker*, 16 Dec. 2002, at 56.
 
-• "She tried not to think that all his verses about her—the sonnets, the villanelles, the haiku—were merely ploys to prepare her for this ridiculous rubber balloon." Arthur Miller, "The Bare Manuscript," *New Yorker*, 16 Dec. 2002, at 82, 86.
+ - "She tried not to think that all his verses about her—the sonnets, the villanelles, the haiku—were merely ploys to prepare her for this ridiculous rubber balloon." Arthur Miller, "The Bare Manuscript," *New Yorker*, 16 Dec. 2002, at 82, 86.
 
 Sometimes, perhaps as a result of an ill-founded prejudice against dashes, writers try to make commas function in their place. Often this doesn't work. In fact, the commas can result in a comma splice \(one of two types of run-on sentence\)—e.g.: "Don't worry about making it pretty, they will do that, just make sure the mathematics is right." "Get Out Your Pencils," *Newsweek*, 4 Apr. 1994, at 8. \(A possible revision: *Don't worry about making it pretty; they will do that. Just make sure the mathematics is right.*\)
 
 When using dashes, be sure to place them logically so that the parallelism of the sentence remains intact. Sometimes writers put them in odd places—e.g.:
 
-• "Criminologist Marvin Wolfgang compiled arrest records for every male born—and raised in Philadelphia—in 1945 and 1958." James Wootton, "Lessons of Pop Jordan's Death," *Newsweek*, 13 Sept. 1993, at 12. \(A possible revision: *Marvin Wolfgang, a criminologist, compiled arrest records for every male who was both born in Philadelphia in either of two years—**1945* *and* *1958**—and raised there.* On the reason for changing the position of *criminologist* in that sentence, see titular tomfoolery.\)
+ - "Criminologist Marvin Wolfgang compiled arrest records for every male born—and raised in Philadelphia—in 1945 and 1958." James Wootton, "Lessons of Pop Jordan's Death," *Newsweek*, 13 Sept. 1993, at 12. \(A possible revision: *Marvin Wolfgang, a criminologist, compiled arrest records for every male who was both born in Philadelphia in either of two years—**1945* *and* *1958**—and raised there.* On the reason for changing the position of *criminologist* in that sentence, see titular tomfoolery.\)
 
-• "There were other cellars beyond an arch, containing nothing more than rats and rubbish *but—and that was—important*, they couldn't be seen from the cages." Terry Pratchett, *Night Watch* 167 \(2002\). \(Perhaps the writer meant to put *important* before the second dash. Even if that were true, though, the sentence would have a problem with anticipatory reference—since the word *that* refers to something that hasn't yet been mentioned.\)
+ - "There were other cellars beyond an arch, containing nothing more than rats and rubbish *but—and that was—important*, they couldn't be seen from the cages." Terry Pratchett, *Night Watch* 167 \(2002\). \(Perhaps the writer meant to put *important* before the second dash. Even if that were true, though, the sentence would have a problem with anticipatory reference—since the word *that* refers to something that hasn't yet been mentioned.\)
 
 Generally, two em-dashes are all a sentence can handle. With three, the reader loses track of what material is part of the main sentence and what is parenthetical. A long sentence might contain distinct pairs of em-dashes far apart without creating problems, but it's better to observe the two-em-dash limit.
 
@@ -202,9 +202,9 @@ As to quotations that are interrupted to indicate a speaker, AmE and BrE again s
 
 Finally, be cautious about using gratuitous quotation marks. The emphatic use is a sign of amateurish writing \(and advertising\). Don't use them for phrasal adjectives, don't use them to be cute, and don't use them to suggest that the marked word or phrase is somehow informal or slangy—it usually isn't. If you mean what you say, say it without hesitation. If you don't, then use other words. The following examples could be improved by removing the quotation marks and tweaking the sentences:
 
-• "Features are the characteristics of a product or service that are ‘built-in' when you buy it—in other words, ‘the things it already comes with.' " Erica Levy Klein, *Write Great Ads* 33 \(1990\).
+ - "Features are the characteristics of a product or service that are ‘built-in' when you buy it—in other words, ‘the things it already comes with.' " Erica Levy Klein, *Write Great Ads* 33 \(1990\).
 
-• "The individual, however, who truly ‘made it happen' is our senior vice president, Jim Savage. . . . Since he and I are virtually always on the ‘same page' in our philosophy and thoughts, I had a double advantage of having a dedicated, experienced, bright collaborator who made a magnificent contribution." Zig Ziglar, *Ziglar on Selling* 16 \(1991\).
+ - "The individual, however, who truly ‘made it happen' is our senior vice president, Jim Savage. . . . Since he and I are virtually always on the ‘same page' in our philosophy and thoughts, I had a double advantage of having a dedicated, experienced, bright collaborator who made a magnificent contribution." Zig Ziglar, *Ziglar on Selling* 16 \(1991\).
 
 **O. Semicolon \[;\].** This mark—a kind of "supercomma"—separates sentence parts that need a more distinct break than a comma can signal but that are too closely connected to be made into separate sentences. Typically these will be clauses of similar importance and grammatical construction.
 
@@ -212,29 +212,29 @@ Four uses are common.
 
 First, the semicolon is sometimes used to unite closely connected sentences; typically, as in this very sentence, there is no conjunction between clauses. E.g.: "But Shakespeare's language appears entirely familiar to us, although it is almost 400 years old; the spelling, the vocabulary, the shapes of the words and phrases seem to have changed but little in that time." W.F. Bolton, *A Short History of Literary English* 15 \(1972\). Often, such a semicolon signals an antithesis—e.g.:
 
-• "He did not lead; he followed." John Wain, "Byron: The Search for Identity," in *Essays on Literature and Ideas* 85, 91 \(1963\).
+ - "He did not lead; he followed." John Wain, "Byron: The Search for Identity," in *Essays on Literature and Ideas* 85, 91 \(1963\).
 
-• "The evil lover is not prudent; he is simply wicked."W. Ross Winterowd, *Rhetoric: A Synthesis* 13 \(1968\).
+ - "The evil lover is not prudent; he is simply wicked."W. Ross Winterowd, *Rhetoric: A Synthesis* 13 \(1968\).
 
-• "Malamud promises an oeuvre; Bellow, at fifty-one, has already achieved one." Anthony Burgess, "The Jew as American," in *Urgent Copy* 131, 132 \(1968\).
+ - "Malamud promises an oeuvre; Bellow, at fifty-one, has already achieved one." Anthony Burgess, "The Jew as American," in *Urgent Copy* 131, 132 \(1968\).
 
 Some editors would argue that in the first two examples, the clauses are so short and interconnected that a comma could have been used instead of a semicolon, especially since there is no other internal punctuation. But the better practice is to use a semicolon rather than a comma to avoid a comma splice. See the final paragraph of \(d\).
 
 Second, the semicolon sometimes separates coordinate clauses in long, complex sentences. This use was much more common in the 1800s than it is today—e.g.:
 
-• "But Elizabeth was not formed for ill-humour; and though every prospect of her own was destroyed for the evening, it could not dwell long on her spirits; and having told all her griefs to Charlotte Lucas, whom she had not seen for a week, she was soon able to make a voluntary transition to the oddities of her cousin, and to point him out to her in particular notice." Jane Austen, *Pride and Prejudice* 80 \(1813; repr. 1990\).
+ - "But Elizabeth was not formed for ill-humour; and though every prospect of her own was destroyed for the evening, it could not dwell long on her spirits; and having told all her griefs to Charlotte Lucas, whom she had not seen for a week, she was soon able to make a voluntary transition to the oddities of her cousin, and to point him out to her in particular notice." Jane Austen, *Pride and Prejudice* 80 \(1813; repr. 1990\).
 
-• "The system which had addressed him in exactly the same manner as it had addressed hundreds of other boys, all varying in character and capacity, had enabled him to dash through his tasks, always with fair credit, and often with distinction; but in a fitful, dazzling way that had confirmed his reliance on those very qualities in himself, which it had been most desirable to direct and train." Charles Dickens, *Bleak House* 211 \(1853; repr. 1985\).
+ - "The system which had addressed him in exactly the same manner as it had addressed hundreds of other boys, all varying in character and capacity, had enabled him to dash through his tasks, always with fair credit, and often with distinction; but in a fitful, dazzling way that had confirmed his reliance on those very qualities in himself, which it had been most desirable to direct and train." Charles Dickens, *Bleak House* 211 \(1853; repr. 1985\).
 
-• "If the memory which we have uncovered does not answer our expectations, it may be that we ought to pursue the same path a little further; perhaps behind the first traumatic scene there may be concealed the memory of a second, which satisfies our requirements better and whose reproduction has a greater therapeutic effect." Sigmund Freud, "The Aetiology of Hysteria" \(1896\), in *The Freud Reader* 100 \(Peter Gay ed., 1989\).
+ - "If the memory which we have uncovered does not answer our expectations, it may be that we ought to pursue the same path a little further; perhaps behind the first traumatic scene there may be concealed the memory of a second, which satisfies our requirements better and whose reproduction has a greater therapeutic effect." Sigmund Freud, "The Aetiology of Hysteria" \(1896\), in *The Freud Reader* 100 \(Peter Gay ed., 1989\).
 
 Third, the semicolon separates items in a series when any element in the series contains an internal comma—e.g.:
 
-• "Greek developments include *pimplemi* and *pletho*, ‘to fill'; *pleres*, *pleos*, ‘full'; *poly-*, ‘much,' with comparative *pleios* and superlative *pleistos*; *polemos*, ‘war'; and *polis*, ‘city.' " Mario Pei, *The Families of Words* 229 \(1962\).
+ - "Greek developments include *pimplemi* and *pletho*, ‘to fill'; *pleres*, *pleos*, ‘full'; *poly-*, ‘much,' with comparative *pleios* and superlative *pleistos*; *polemos*, ‘war'; and *polis*, ‘city.' " Mario Pei, *The Families of Words* 229 \(1962\).
 
-• "I wish to acknowledge the valuable help of a number of superior editors in the composition of this book: Neal Kozodoy of *Commentary*; Erich Eichmann and Hilton Kramer of *The New Criterion*; John Gross, formerly of the *Times Literary Supplement*; and Carol Houck Smith, of W.W. Norton." Joseph Epstein, *Plausible Prejudices: Essays on American Writing* 9 \(1985\).
+ - "I wish to acknowledge the valuable help of a number of superior editors in the composition of this book: Neal Kozodoy of *Commentary*; Erich Eichmann and Hilton Kramer of *The New Criterion*; John Gross, formerly of the *Times Literary Supplement*; and Carol Houck Smith, of W.W. Norton." Joseph Epstein, *Plausible Prejudices: Essays on American Writing* 9 \(1985\).
 
-• "Between 1815 and 1850 Americans constructed elaborate networks of roads, canals, and early railroad lines; opened up wide areas of newly acquired land for settlement and trade; and began to industrialize manufacturing." Sean Wilentz, "Society, Politics, and the Market Revolution," in *The New American History* 62 \(Eric Foner ed., 1997\).
+ - "Between 1815 and 1850 Americans constructed elaborate networks of roads, canals, and early railroad lines; opened up wide areas of newly acquired land for settlement and trade; and began to industrialize manufacturing." Sean Wilentz, "Society, Politics, and the Market Revolution," in *The New American History* 62 \(Eric Foner ed., 1997\).
 
 Fourth, the semicolon sometimes appears simply to give a weightier pause than a comma would. This use is discretionary. A comma would do, but the writer wants a stronger stop—e.g.: "There is never anything sexy about Lautrec's art; but there also is never anything deliberately, sarcastically anti-feminist in it." Aldous Huxley, "Doodles in the Dictionary" \(1956\), in *Aldous Huxley: Selected Essays* 198, 206 \(1961\).
 

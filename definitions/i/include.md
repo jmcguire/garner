@@ -8,7 +8,7 @@ Hence the age-old lawyers' phrase *including but not limited to* is, strictly sp
 
 **B. *To include*.** Use of the phrase *to include* to mean "including" is a silly bit of officialese. Unfortunately, it's much too common in military, healthcare, and legal writing—e.g.:
 
-• "Mrs. Vieira consented to a search of the *home to include* \[read *home, including*\] their home computer." *U.S. v. Vieira*, 64 M.J. 524, 527 \(A.F. Ct. Crim. App. 2006\).
+ - "Mrs. Vieira consented to a search of the *home to include* \[read *home, including*\] their home computer." *U.S. v. Vieira*, 64 M.J. 524, 527 \(A.F. Ct. Crim. App. 2006\).
 
-• "As an initial matter, this case demonstrates that a hospital can be held liable for the acts of the personnel working at the facility, *to include* \[read *including*\] doctors." Blake J. Delaney, "Improper Use of Forceps Results in Large Federal Tort Verdict," *Healthcare Risk Mgmt.*, 1 Feb. 2007.
+ - "As an initial matter, this case demonstrates that a hospital can be held liable for the acts of the personnel working at the facility, *to include* \[read *including*\] doctors." Blake J. Delaney, "Improper Use of Forceps Results in Large Federal Tort Verdict," *Healthcare Risk Mgmt.*, 1 Feb. 2007.
 

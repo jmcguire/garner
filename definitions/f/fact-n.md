@@ -16,11 +16,11 @@ When *the fact that* can easily be avoided, it should be—e.g.: "Aniston, who s
 
 **E. *\*True facts*.** This is a common redundancy, especially in legal writing—e.g.:
 
-• "Two Sandwich teachers accused of showing a sexually explicit foreign film to a class of seventh-graders say they have done nothing wrong and are being fired from their jobs without the *true facts* \[read *facts* or *truth*\] of the incident being revealed." Tom Farmer, "2 Teachers Who Showed Racy Movie Crying Foul," *Boston Herald*, 20 Nov. 1997, at 18.
+ - "Two Sandwich teachers accused of showing a sexually explicit foreign film to a class of seventh-graders say they have done nothing wrong and are being fired from their jobs without the *true facts* \[read *facts* or *truth*\] of the incident being revealed." Tom Farmer, "2 Teachers Who Showed Racy Movie Crying Foul," *Boston Herald*, 20 Nov. 1997, at 18.
 
-• "But it's a *true fact* \[read *fact*\] that my maternal grandmother was sent to her grave by the egg salad at a Methodist church picnic." C.W. Gusewelle, "Don't Try to Snuff Out Stuffing," *Kansas City Star*, 25 Nov. 1997, at B2.
+ - "But it's a *true fact* \[read *fact*\] that my maternal grandmother was sent to her grave by the egg salad at a Methodist church picnic." C.W. Gusewelle, "Don't Try to Snuff Out Stuffing," *Kansas City Star*, 25 Nov. 1997, at B2.
 
-• "Has he forgotten that Japanese schoolchildren are still not being taught the *true facts* \[read *truth*\] of what happened in the Far East during that dreadful period in history?" Campbell Thomson, "Japan Must Stop the Airbrushing of History If Progress Is to Be Made," *Herald* \(Glasgow\), 7 July 2015, at 15.
+ - "Has he forgotten that Japanese schoolchildren are still not being taught the *true facts* \[read *truth*\] of what happened in the Far East during that dreadful period in history?" Campbell Thomson, "Japan Must Stop the Airbrushing of History If Progress Is to Be Made," *Herald* \(Glasgow\), 7 July 2015, at 15.
 
 Writers debase the word when they qualify *facts* with an adjective like *true* or *incorrect*. We ought to be able to rely on facts as being facts, instead of having to wonder whether the writer failed to describe what kind of facts they are. \(Cf. \(c\) above.\) Yet we must also recognize that the phrase *fake facts* and what it denotes are gaining ground these days.
 

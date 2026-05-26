@@ -4,11 +4,11 @@ regard.
 
 **A. As a Noun in *with regard to* and *in regard to*.** In these phrases, the singular noun is standard. The plural form \(as in *\*with regards to* or *\*in regards to*\) is incorrect—e.g.:
 
-• "In the case of Angel, it is \[set\] to a simple piano accompaniment, *and with regards to* \[read *but with regard to* or, better, *but with*\] Mimi and Roger, there is a musical gap when the line is spoken." Robert Sprayberry, " ‘Prescription' Results from an Under-Dose of ‘Rent,' " *L.A. Times*, 20 Oct. 1997, at F3.
+ - "In the case of Angel, it is \[set\] to a simple piano accompaniment, *and with regards to* \[read *but with regard to* or, better, *but with*\] Mimi and Roger, there is a musical gap when the line is spoken." Robert Sprayberry, " ‘Prescription' Results from an Under-Dose of ‘Rent,' " *L.A. Times*, 20 Oct. 1997, at F3.
 
-• "Single men and women are overwhelmed and confused by a barrage of information and advice on what to do and what not to do *in regards to* \[read *in regard to*\] finding Mr. Right and Ms. Girl-of-My-Dreams." Lynn Norment, "The Dos and Don'ts of the New Dating Rules," *Ebony*, Dec. 1997, at 46.
+ - "Single men and women are overwhelmed and confused by a barrage of information and advice on what to do and what not to do *in regards to* \[read *in regard to*\] finding Mr. Right and Ms. Girl-of-My-Dreams." Lynn Norment, "The Dos and Don'ts of the New Dating Rules," *Ebony*, Dec. 1997, at 46.
 
-• "I've come to learn some complexities of our system, especially *in* *regards to* \[read *with regard to*\] its unique freedom of movement." David Staples, "School Success Depends on Parents," *Edmonton J.*, 4 Sept. 2015, at A4.
+ - "I've come to learn some complexities of our system, especially *in* *regards to* \[read *with regard to*\] its unique freedom of movement." David Staples, "School Success Depends on Parents," *Edmonton J.*, 4 Sept. 2015, at A4.
 
 The acceptable forms—*in regard to* and *with regard to*—are best used as introductory phrases. But even these may be advantageously replaced by a single word such as *concerning*, *regarding*, or *considering*, or even *in*, *about*, or *for*.
 

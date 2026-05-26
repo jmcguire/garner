@@ -6,13 +6,13 @@ But Simon is right that the *eat–have* sequence is the traditional one. That's
 
 Yet the *have–eat* sequence has been the dominant one since about 1940—e.g.:
 
-• "I want to *have my cake and eat it too*." Paul Gallico, "Mainly Autobiographical" \(1946\), in *A Reader for Writers* 30, 53 \(William Targ ed., 1951\).
+ - "I want to *have my cake and eat it too*." Paul Gallico, "Mainly Autobiographical" \(1946\), in *A Reader for Writers* 30, 53 \(William Targ ed., 1951\).
 
-• "Still wanting to *have your cake and eat it, too*, Gregory?" Patricia Wrede, *Mairelon the Magician* 244 \(1991\).
+ - "Still wanting to *have your cake and eat it, too*, Gregory?" Patricia Wrede, *Mairelon the Magician* 244 \(1991\).
 
-• "A theory that promises liberty as part of equality seems to allow us to *have our cake and eat it too*." K. Anthony Appiah, "Equality of What?," *N.Y. Rev. of Books*, 26 Apr. 2001, at 63.
+ - "A theory that promises liberty as part of equality seems to allow us to *have our cake and eat it too*." K. Anthony Appiah, "Equality of What?," *N.Y. Rev. of Books*, 26 Apr. 2001, at 63.
 
-• "Due to a recent change in law, you can keep working after reaching retirement age and not lose a penny of your Social Security retirement benefits. It's almost like *having your cake and eating it, too*." Jerry Freeman, "You Can Work and Get Benefits," *Fla. Today*, 9 Sept. 2002, People §, at 3.
+ - "Due to a recent change in law, you can keep working after reaching retirement age and not lose a penny of your Social Security retirement benefits. It's almost like *having your cake and eating it, too*." Jerry Freeman, "You Can Work and Get Benefits," *Fla. Today*, 9 Sept. 2002, People §, at 3.
 
 Meanwhile, the *eat–have* sequence has steadily declined since the 1940s, so much so that many speakers of English have never encountered it.
 

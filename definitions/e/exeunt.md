@@ -2,9 +2,9 @@
 
 exeunt /**ek**-see-әnt/ \[L. "they leave"\], an Elizabethan stage direction, means that two or more actors leave the stage. \(The corresponding singular in Latin is *exit* "he or she leaves."\) The phrase *exeunt omnes* means that all leave. Most people first see it in a Shakespeare play. And they often seem both confused by it and tempted to use it—e.g.:
 
-• "In the small American delegation, no one takes a Sweet Swan of Avon Cup. Robert Downey Jr. is hardly employed as Rivers, though he *exeunts* \[read *exits*\] terrifically, gasping in interrupted sex." David Elliott, "Drunk on Violence," *San Diego Union-Trib.*, 18 Jan. 1996, Entertainment §, at 4.
+ - "In the small American delegation, no one takes a Sweet Swan of Avon Cup. Robert Downey Jr. is hardly employed as Rivers, though he *exeunts* \[read *exits*\] terrifically, gasping in interrupted sex." David Elliott, "Drunk on Violence," *San Diego Union-Trib.*, 18 Jan. 1996, Entertainment §, at 4.
 
-• "*Exeunt* \[read *Exit*\] first Yankee \(as Shakespeare might have directed this scene\) never to be seen in this very select society again." Perry Young, "The Honorable Redneck," *Chapel Hill Herald*, 17 Aug. 1996, at 4.
+ - "*Exeunt* \[read *Exit*\] first Yankee \(as Shakespeare might have directed this scene\) never to be seen in this very select society again." Perry Young, "The Honorable Redneck," *Chapel Hill Herald*, 17 Aug. 1996, at 4.
 
 Of course, Shakespeare would never have used the word for a single player.
 

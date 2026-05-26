@@ -12,19 +12,19 @@ Because *mani*- denotes something related to the hand, and *pedi*- to the foot, 
 
 *Noun:*
 
-• "Webster pampers her feet with weekly *manicures* \[read *pedicures*\], moisturizers, and a pumice rock." Luisa Yanez, "Fancy Footwork," *Sun-Sentinel* \(Ft. Lauderdale\), 27 Feb. 1998, at B3.
+ - "Webster pampers her feet with weekly *manicures* \[read *pedicures*\], moisturizers, and a pumice rock." Luisa Yanez, "Fancy Footwork," *Sun-Sentinel* \(Ft. Lauderdale\), 27 Feb. 1998, at B3.
 
-• "Another girl fussed while giving her toenails a quick *manicure* \[read *pedicure*\]." Billy Sloan, "The Other Day I Could Feel My Eggs Ticking," *Sunday Mail* \(Scotland\), 31 Oct. 1999, at 45.
+ - "Another girl fussed while giving her toenails a quick *manicure* \[read *pedicure*\]." Billy Sloan, "The Other Day I Could Feel My Eggs Ticking," *Sunday Mail* \(Scotland\), 31 Oct. 1999, at 45.
 
 *Verb:*
 
-• "He's started having a girl massage him and *manicure* \[read *pedicure*\] his toes." Nigel Rosser, "Andrew's Fixer," *Evening Standard*, 22 Jan. 2001, at 10.
+ - "He's started having a girl massage him and *manicure* \[read *pedicure*\] his toes." Nigel Rosser, "Andrew's Fixer," *Evening Standard*, 22 Jan. 2001, at 10.
 
-• "Female workers were subject to the sexual and other whims of the owner, who forced them to clip and *manicure* \[read *pedicure*\] his toenails, and watched them shower and lie in their cots." Malia Zimmerman, "U.S. Probes American Samoan Firm," *Wash. Times*, 30 Mar. 2001, at A14.
+ - "Female workers were subject to the sexual and other whims of the owner, who forced them to clip and *manicure* \[read *pedicure*\] his toenails, and watched them shower and lie in their cots." Malia Zimmerman, "U.S. Probes American Samoan Firm," *Wash. Times*, 30 Mar. 2001, at A14.
 
 *Past-participial adjective:*
 
-• "We wouldn't want those *manicured* \[read *pedicured*\] toes to get dirty now, would we?" Jennifer D. Braun, "Canine Couture from the House of Poochie," *Star-Ledger* \(Newark\), 16 July 2000, at 1.
+ - "We wouldn't want those *manicured* \[read *pedicured*\] toes to get dirty now, would we?" Jennifer D. Braun, "Canine Couture from the House of Poochie," *Star-Ledger* \(Newark\), 16 July 2000, at 1.
 
 Language-Change Index
 

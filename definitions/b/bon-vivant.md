@@ -12,11 +12,11 @@ Current ratio in print \(*bon vivant* vs. *\*bon viveur*\): 5:1
 
 But the phrase is often considered anglicized enough to use the English plural *bon vivants*. Indeed, the English form is far more common—e.g.:
 
-• "When '60 Minutes' reported this so-called ‘French Paradox' several years ago, vin rouge sales surged as *bon vivants* hoped for some undiscovered antioxidant." Fran Price, "Variety Balances Fatty Diet," *Richmond Times-Dispatch*, 16 Oct. 1996, at F3.
+ - "When '60 Minutes' reported this so-called ‘French Paradox' several years ago, vin rouge sales surged as *bon vivants* hoped for some undiscovered antioxidant." Fran Price, "Variety Balances Fatty Diet," *Richmond Times-Dispatch*, 16 Oct. 1996, at F3.
 
-• "There were the *bon vivants* who remained anchored to their bar stools." Frank Bruni, "World Champs: The Fans," *N.Y. Times*, 28 Oct. 1996, at C6.
+ - "There were the *bon vivants* who remained anchored to their bar stools." Frank Bruni, "World Champs: The Fans," *N.Y. Times*, 28 Oct. 1996, at C6.
 
-• "*Bon vivants* are descending upon the annual long lunch." Andrea Black, "Place of Plenty," *Australian*, 30 Apr. 2022, Travel §, at 4.
+ - "*Bon vivants* are descending upon the annual long lunch." Andrea Black, "Place of Plenty," *Australian*, 30 Apr. 2022, Travel §, at 4.
 
 See plurals \(b\).
 

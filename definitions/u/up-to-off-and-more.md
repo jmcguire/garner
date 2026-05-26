@@ -4,7 +4,7 @@
 
 Versions of the phrase appear in places other than signs announcing sales—e.g.:
 
-• "Some lakes and forests devastated by acid rain will likely take *up to* 70 years *or more* to recover." Mark Weiner, "Region's Acid Rain Recovery Goes Slow," *Post-Standard* \(Syracuse\), 26 Mar. 2001, at A1. \(A possible revision: *Some lakes and forests devastated by acid rain could take 70 years or more to recover.*\)
+ - "Some lakes and forests devastated by acid rain will likely take *up to* 70 years *or more* to recover." Mark Weiner, "Region's Acid Rain Recovery Goes Slow," *Post-Standard* \(Syracuse\), 26 Mar. 2001, at A1. \(A possible revision: *Some lakes and forests devastated by acid rain could take 70 years or more to recover.*\)
 
-• "Use live bait or cut bait for yellow perch *up to* 1 1/2 pounds *or more*." Deane Winegar, "Fishing Report: Freshwater," *Richmond Times-Dispatch*, 30 Mar. 2001, at D4. \(A possible revision: *Use live bait or cut bait for yellow perch up to 1 1/2 pounds \(possibly a little more\).*\)
+ - "Use live bait or cut bait for yellow perch *up to* 1 1/2 pounds *or more*." Deane Winegar, "Fishing Report: Freshwater," *Richmond Times-Dispatch*, 30 Mar. 2001, at D4. \(A possible revision: *Use live bait or cut bait for yellow perch up to 1 1/2 pounds \(possibly a little more\).*\)
 

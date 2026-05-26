@@ -10,7 +10,7 @@ When *rather than* separates two verbs, it's often less awkward to convert the v
 
 **C. *\*More . . . rather than*.** The word *rather* is redundant in the solecism \**more X rather than Y*—e.g.:
 
-• "His ideological convictions . . . were defined *more* by present-day concerns *rather* \[delete *rather*\] *than* by thirteenth-century conditions." Robert E. Norton, *Secret Germany* 667 \(2002\).
+ - "His ideological convictions . . . were defined *more* by present-day concerns *rather* \[delete *rather*\] *than* by thirteenth-century conditions." Robert E. Norton, *Secret Germany* 667 \(2002\).
 
-• "Investors suddenly seem a lot *more* focused on the company's financials today *rather than* \[read *than on*\] some rosy future." Laura Forman, "Peloton Is Starting to Look Tired," *Wall Street J.*, 7 Sept. 2021, at B10.
+ - "Investors suddenly seem a lot *more* focused on the company's financials today *rather than* \[read *than on*\] some rosy future." Laura Forman, "Peloton Is Starting to Look Tired," *Wall Street J.*, 7 Sept. 2021, at B10.
 

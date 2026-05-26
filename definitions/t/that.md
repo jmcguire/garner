@@ -22,13 +22,13 @@ Although the usual mistake is *which* for *that* as a restrictive pronoun, *that
 
 British writers mostly ignore the distinction between restrictive and nonrestrictive relative pronouns. Most commonly *which* encroaches on *that*'s territory, but sometimes too a nonrestrictive *which* remains unpunctuated—e.g.:
 
-• "Esa-Pekka Salonen, the boyish \(36 going on 18\) music director of the Los Angeles Philharmonic *which* plays the Proms at London's Albert Hall next week, says . . . ." Antony Thorncroft, "A Conductor Who Fits the Bill," *Fin. Times*, 26 Aug. 1994, at 11. \(Insert a comma before *which*.\)
+ - "Esa-Pekka Salonen, the boyish \(36 going on 18\) music director of the Los Angeles Philharmonic *which* plays the Proms at London's Albert Hall next week, says . . . ." Antony Thorncroft, "A Conductor Who Fits the Bill," *Fin. Times*, 26 Aug. 1994, at 11. \(Insert a comma before *which*.\)
 
-• "The decision is the second defeat in five months for the French government *which* has been attempting to delay liberalising its domestic air transport market while it seeks to restructure its loss-making flag carrier." Paul Betts et al., "France Ordered to Open Two Internal Air Routes," *Fin. Times*, 27 Oct. 1994, at 1. \(Insert a comma before *which*.\)
+ - "The decision is the second defeat in five months for the French government *which* has been attempting to delay liberalising its domestic air transport market while it seeks to restructure its loss-making flag carrier." Paul Betts et al., "France Ordered to Open Two Internal Air Routes," *Fin. Times*, 27 Oct. 1994, at 1. \(Insert a comma before *which*.\)
 
-• "Force Ouvrière, one of the French unions *which* \[read *that*\] were most aggressive in calling for the industrial action that disrupted the country last year, yesterday lost control of the Caisse Nationale d'Assurance Maladie, the national health care agency, for the first time since 1967." "Hardline French Union Loses Role," *Fin. Times*, 13 June 1996, at 2.
+ - "Force Ouvrière, one of the French unions *which* \[read *that*\] were most aggressive in calling for the industrial action that disrupted the country last year, yesterday lost control of the Caisse Nationale d'Assurance Maladie, the national health care agency, for the first time since 1967." "Hardline French Union Loses Role," *Fin. Times*, 13 June 1996, at 2.
 
-• "The result is a gelatinous red slab of plant meat that contains long, thick, elastic muscle-like fibres *which look and flake* \[read *looking and flaking*\] apart like pulled pork or beef." "Fake Moos," *Economist*, 12 Oct. 2019, at 61, 62.
+ - "The result is a gelatinous red slab of plant meat that contains long, thick, elastic muscle-like fibres *which look and flake* \[read *looking and flaking*\] apart like pulled pork or beef." "Fake Moos," *Economist*, 12 Oct. 2019, at 61, 62.
 
 One last thing. The Fowler brothers are often credited with "inventing" this distinction in *The King's English* \(1906\)—and the credit often seems to take the form of blame: "The ban on the restrictive *which* was made up suddenly by H.W. and F.G. Fowler in *The King's English* . . . . This spurious rule, which dismayed other grammarians, had no background in usage and cannot always be followed, notably in ‘that which' clauses." Don Bush, "Grammatical Arthritis," *Technical Communication*, Feb. 1994, at 125. Although the Fowlers' exposition on this point is nothing short of brilliant, many earlier writers had already suggested the distinction. Note, however, that the first and fourth authors quoted below engage in the very misusage they talk about \(both noted by a bracketed *n.b.*\):
 
@@ -90,11 +90,11 @@ The empirical facts about modern usage are as follows. In the mid-20th century, 
 
 Seemingly the first English-language grammarian to address the point was Daniel Turner in the early 18th century: "The word *that* may be used instead of *who* or *which* as a relative; as, *the pen* that*, or* which*, you made; the man* that*, or* who*, came*." Daniel Turner, *An Abstract of English Grammar and Rhetoric* 28 \(1739\) \(cleaned up\). Others followed suit—e.g.:
 
-• **1762:** "*That* is used indifferently both of persons and \[of\] things." Robert Lowth, *A Short Introduction to English Grammar* 134 \(1762\).
+ - **1762:** "*That* is used indifferently both of persons and \[of\] things." Robert Lowth, *A Short Introduction to English Grammar* 134 \(1762\).
 
-• **1765:** "*Who* is only applied to persons, and *which* only to things; but *that* may equally represent either persons or things." William Ward, *An Essay on Grammar* 461 \(1765\).
+ - **1765:** "*Who* is only applied to persons, and *which* only to things; but *that* may equally represent either persons or things." William Ward, *An Essay on Grammar* 461 \(1765\).
 
-• **1777:** "*Who* relates to persons, *which* to things; *that* may refer to either." Ralph Harrison, *Institutes of English Grammar* 32 \(1777\).
+ - **1777:** "*Who* relates to persons, *which* to things; *that* may refer to either." Ralph Harrison, *Institutes of English Grammar* 32 \(1777\).
 
 The famous Lindley Murray, whose grammar first appeared in 1795, was the most thorough commentator in the early days. He found instances in which *that* is the preferred relative for people—most of them where a restrictive relative is required: "The pronoun *that* is frequently applied to persons as well as to things; but after an adjective in the superlative degree, and after the pronominal adjective *some*, it is generally used in preference to *who* or *which*; as ‘Charles XII, king of Sweden, was one of the greatest madmen *that* the world ever saw.' . . . ‘He is the same man *that* we saw before.' There are cases wherein we cannot conveniently dispense with this relative as applied to persons; as first, after *who* the interrogative; ‘Who *that* has any sense of religion, would have argued thus?' Secondly, when persons make but a part of the antecedent; ‘The woman and the estate *that* became his portion, were too much for his moderation.' In neither of these examples could any other relative have been used." Lindley Murray, *An English Grammar* 127 \(1st Am. ed. 1800\).
 
@@ -102,31 +102,31 @@ Because *that* is used restrictively \(see \(a)), it would almost never be used 
 
 What do more modern commentators say? Very much the same thing, on the whole—e.g.:
 
-• **1928:** "*That* is used when referring to persons, animals, and things without life. *That* is preferred \(1\) when the antecedent is qualified by a superlative adjective <He is the most daring man *that* I have ever seen>; \(2\) when the antecedent includes both persons and things <Where are the tents and the hunters *that* I saw?>." Mason Long, *A College Grammar* 66 \(1928\) \(cleaned up\).
+ - **1928:** "*That* is used when referring to persons, animals, and things without life. *That* is preferred \(1\) when the antecedent is qualified by a superlative adjective <He is the most daring man *that* I have ever seen>; \(2\) when the antecedent includes both persons and things <Where are the tents and the hunters *that* I saw?>." Mason Long, *A College Grammar* 66 \(1928\) \(cleaned up\).
 
-• **1966:** "The relative *that* refers to persons quite as naturally as to things, and quite as naturally as *who* refers to persons. . . . We are, then, free to use *that* instead of *who* for a sign of the restrictive clause about persons." Wilson Follett, *MAU* at 326.
+ - **1966:** "The relative *that* refers to persons quite as naturally as to things, and quite as naturally as *who* refers to persons. . . . We are, then, free to use *that* instead of *who* for a sign of the restrictive clause about persons." Wilson Follett, *MAU* at 326.
 
-• **1980:** "*That* for *who* is sometimes objected to, but the objection has no basis. Random House says *that* may refer to a person, and so do American Heritage and Webster." Roy H. Copperud, *American Usage and Style: The Consensus* 376–77 \(1980\).
+ - **1980:** "*That* for *who* is sometimes objected to, but the objection has no basis. Random House says *that* may refer to a person, and so do American Heritage and Webster." Roy H. Copperud, *American Usage and Style: The Consensus* 376–77 \(1980\).
 
-• **2001:** "*Who*, *whose*, and *whom* . . . refer to persons. *That* refers to animals, persons, or things and is used to introduce restrictive clauses." Margaret Shertzer, *The Elements of Grammar* 18 \(2001\).
+ - **2001:** "*Who*, *whose*, and *whom* . . . refer to persons. *That* refers to animals, persons, or things and is used to introduce restrictive clauses." Margaret Shertzer, *The Elements of Grammar* 18 \(2001\).
 
-• **2005:** "*Who* and *that* are used when referring to persons. Select *who* when the individual person or the individuality of a group is meant and *that* when a class or type is meant." William A. Sabin, *The Gregg Reference Manual* § 1062, at 291 \(10th ed. 2005\).
+ - **2005:** "*Who* and *that* are used when referring to persons. Select *who* when the individual person or the individuality of a group is meant and *that* when a class or type is meant." William A. Sabin, *The Gregg Reference Manual* § 1062, at 291 \(10th ed. 2005\).
 
 There are two other lines of authority.
 
 The first may have begun with James Buchanan \(not the 19th-century American president but the 18th-century English grammarian\): "*That* is often used, but inelegantly, for *who*, *whom*, and *which;* as, *This is the Man that bought the Horse*, for *who bought the Horse*. *He is the Man that* \(for *whom*\) *I met in the fields*." James Buchanan, *The British Grammar* 171 \(1768\) \(cleaned up\). Note that the charge is just that the usage is "inelegant," not wrong. Historically, this notion appeared only sparsely in grammars and stylebooks, but it had a resurgence among some prescriptivists who, beginning in the 1980s, came to believe the "people" usage to be erroneous—e.g.:
 
-• **1980:** "Please use *who* instead of *that* or *which* to refer to people. Slightly rude: *The students that come to class make my heart jump with joy.* Polite: *The students who come to class make my heart jump with joy.*" Sally Foster Wallace, *Practically Painless English* 82 \(1980\).
+ - **1980:** "Please use *who* instead of *that* or *which* to refer to people. Slightly rude: *The students that come to class make my heart jump with joy.* Polite: *The students who come to class make my heart jump with joy.*" Sally Foster Wallace, *Practically Painless English* 82 \(1980\).
 
-• **1989:** "*Who*, *whom*, *whoever,* and *whomever* refer to people. *Which*, *what*, *that*, *whichever*, and *whatever* refer to things." Frank O'Hare, *The Modern Writer's Handbook* 146 \(2d ed. 1989\).
+ - **1989:** "*Who*, *whom*, *whoever,* and *whomever* refer to people. *Which*, *what*, *that*, *whichever*, and *whatever* refer to things." Frank O'Hare, *The Modern Writer's Handbook* 146 \(2d ed. 1989\).
 
-• **1992:** "Use *that* or *which* when referring to a thing. Use *who* when referring to a person." Laurie G. Kirszner, *The Holt Handbook* A31 \(1992\).
+ - **1992:** "Use *that* or *which* when referring to a thing. Use *who* when referring to a person." Laurie G. Kirszner, *The Holt Handbook* A31 \(1992\).
 
-• **1995:** "Use *that* in restrictive relative clauses that refer to things, but *who* in clauses that refer to people." Gerald P. Mulderig, *The Heath Handbook* G21 \(13th ed. 1995\).
+ - **1995:** "Use *that* in restrictive relative clauses that refer to things, but *who* in clauses that refer to people." Gerald P. Mulderig, *The Heath Handbook* G21 \(13th ed. 1995\).
 
-• **2002:** "For people, use *who* or *whom*. For objects, plants and animals, use *that* or *which*. But for animals that are given names or otherwise personalized, use *who* or *whom*." Paul R. Martin, *The Wall Street Journal Guide to Business Style and Usage* 230 \(2002\).
+ - **2002:** "For people, use *who* or *whom*. For objects, plants and animals, use *that* or *which*. But for animals that are given names or otherwise personalized, use *who* or *whom*." Paul R. Martin, *The Wall Street Journal Guide to Business Style and Usage* 230 \(2002\).
 
-• **2003:** "*That* and *which* should refer to animals and things; *who* should refer to people." Gerald J. Alred, Charles T. Brusaw & Walter E. Oliu, *Handbook of Technical Writing* 541 \(7th ed. 2003\).
+ - **2003:** "*That* and *which* should refer to animals and things; *who* should refer to people." Gerald J. Alred, Charles T. Brusaw & Walter E. Oliu, *Handbook of Technical Writing* 541 \(7th ed. 2003\).
 
 Wallace's view that *who* seems more polite than *that* is worth considering in any given context, but on the whole this line of authority is simply ill-considered on the people/object point.
 
@@ -134,9 +134,9 @@ Yet it is an influential line of authority. In a Twitter poll conducted in Septe
 
 The second line of authority says that the relative *that* is preferable to *who* in all restrictive senses. The idea is that *who* must always be preceded by a comma, parenthesis, or long dash—the way AmE tends to treat *which*. It's an idiosyncratic notion supported only in sources of the late 1800s and early 1900s—e.g.:
 
-• **1874:** "Many good writers use *who* and *which*, as well as *that*, for the restrictive meaning. But this mixture of usages should be discouraged; and *that* should be put forward as the sole proper representative of restriction. We might urge the variety attainable by this distinction; but the great argument for the separation of functions is the avoidance of ambiguity." Alexander Bain, *A Companion to the Higher English Grammar* 66 \(1874\).
+ - **1874:** "Many good writers use *who* and *which*, as well as *that*, for the restrictive meaning. But this mixture of usages should be discouraged; and *that* should be put forward as the sole proper representative of restriction. We might urge the variety attainable by this distinction; but the great argument for the separation of functions is the avoidance of ambiguity." Alexander Bain, *A Companion to the Higher English Grammar* 66 \(1874\).
 
-• **1909:** "*That* is properly the *restrictive relative* pronoun, and *which* and *who* are properly the *co-ordinating* \[i.e., *nonrestrictive*\] *relative* pronouns. *That,* when properly used, introduces something without which the antecedent *is not fully defined*, whereas *which* and *who*, when properly used, introduce a *new fact* concerning the antecedent." Alfred Ayres, *The Verbalist* 287 \(rev. ed. 1909\).
+ - **1909:** "*That* is properly the *restrictive relative* pronoun, and *which* and *who* are properly the *co-ordinating* \[i.e., *nonrestrictive*\] *relative* pronouns. *That,* when properly used, introduces something without which the antecedent *is not fully defined*, whereas *which* and *who*, when properly used, introduce a *new fact* concerning the antecedent." Alfred Ayres, *The Verbalist* 287 \(rev. ed. 1909\).
 
 This view succeeded as to *that* vs. *which*, but not as to *that* vs. *who*. Uniformly preferring *people that* over *people who* in all contexts is unsupported in usage. The idea never caught on.
 
@@ -150,23 +150,23 @@ Some early grammarians considered contact clauses to be "mistakes"—e.g.: "The 
 
 **D. Wrongly Suppressed *that*.** Despite the justified existence of contact clauses in which *that* is omitted as a relative pronoun \(see \(c\)\), the word is often ill-advisedly omitted as a conjunction. True, the conjunction is often elided after the verbs *say* and *think* <he said the claim was bogus> <he thought the claim was well-founded>, but the elision doesn't work well with near-synonyms <he stated \[that\] the claim was bogus> <he believed \[that\] the claim was well-founded>. The conjunction should usually be retained to introduce clauses begun with verbs such as *acknowledge, ask*, *believe*, *claim*, *decide, doubt*, *state*, *suggest*, and countless others. Without the conjunction, what follows might be taken to be a noun complement, as in \**the board decided the question did not need to be resolved*. Dropping the conjunction *that* after the verb commonly creates a miscue, even if only momentarily—e.g.:
 
-• "They *believed prisoners* should be placed in isolation and educated." Mary Frain, "Criminal Justice—and Injustice," *Telegram & Gaz.* \(Worcester\), 27 Sept. 1996, at C1. \(Insert *that* after *believed*.\)
+ - "They *believed prisoners* should be placed in isolation and educated." Mary Frain, "Criminal Justice—and Injustice," *Telegram & Gaz.* \(Worcester\), 27 Sept. 1996, at C1. \(Insert *that* after *believed*.\)
 
-• "HUD later deemed it a misappropriation of funds and *demanded the money* be returned." Margaret Sullivan, *Ghosting the News* 58 \(2020\). \(Insert *that* after *demanded*.\)
+ - "HUD later deemed it a misappropriation of funds and *demanded the money* be returned." Margaret Sullivan, *Ghosting the News* 58 \(2020\). \(Insert *that* after *demanded*.\)
 
 Writers who misguidedly omit the conjunction *that* have somehow, in this context, blunted their awareness of ambiguities and miscues. When one instance occurs in a piece of writing, others are sure to follow. These examples come from a single article—which contains six similar blemishes of the same type:
 
-• "The state *charged the lease deal* \[read *charged that the lease deal*\], signed in 1991, sprang from a web of fraud and deceit." P.L. Wyckoff, "State Pays While Bankruptcy Delays Lease Suit," *Sunday Star-Ledger* \(Newark\), 11 Aug. 1996, § 1, at 25, 32.
+ - "The state *charged the lease deal* \[read *charged that the lease deal*\], signed in 1991, sprang from a web of fraud and deceit." P.L. Wyckoff, "State Pays While Bankruptcy Delays Lease Suit," *Sunday Star-Ledger* \(Newark\), 11 Aug. 1996, § 1, at 25, 32.
 
-• "During more than a year of negotiations and bureaucratic processing, the Karcher group *claimed the property* \[read *claimed that the property*\] was worth $2 million when it really was only worth $850,000." *Ibid.*
+ - "During more than a year of negotiations and bureaucratic processing, the Karcher group *claimed the property* \[read *claimed that the property*\] was worth $2 million when it really was only worth $850,000." *Ibid.*
 
 It is true, however, that these judgment calls are highly context-specific. What you need is a finely tuned sense of how others will read. In the following examples, the conjunction *that—*bracketed here for its hypothetical inclusion—was omitted without harm:
 
-• "Official paperwork can go a long way to ensuring \[that\] you receive the end-of-life care you want." B.J. Miller & Shoshana Berger, *A Beginner's Guide to the End* 47 \(2019\).
+ - "Official paperwork can go a long way to ensuring \[that\] you receive the end-of-life care you want." B.J. Miller & Shoshana Berger, *A Beginner's Guide to the End* 47 \(2019\).
 
-• "DNA evidence cleared the teens, but Trump never admitted \[that\] he was wrong or apologized." Jon Marshall, *Clash* 212 \(2022\).
+ - "DNA evidence cleared the teens, but Trump never admitted \[that\] he was wrong or apologized." Jon Marshall, *Clash* 212 \(2022\).
 
-• "In other words, some mistakes are so egregious \[that\] they require correction." "Did Supreme Nominees Lie to Congress?," *Wall Street J.*, 6 May 2022, at A16.
+ - "In other words, some mistakes are so egregious \[that\] they require correction." "Did Supreme Nominees Lie to Congress?," *Wall Street J.*, 6 May 2022, at A16.
 
 It appears that when a pronoun begins the subordinate clause introduced by an implied *that*, the conjunction can be more safely omitted than it can be with other noun elements.
 

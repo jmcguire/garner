@@ -2,9 +2,9 @@
 
 outside, in spatial senses, does not need *of*—hence *outside the house*, not \**outside of the house*. E.g.:
 
-• "Italian goods have done well *outside of* \[read *outside*\] the Continent because the lira has fallen 15% vs. the U.S. dollar in the past year." James C. Cooper & Kathleen Madigan, "Sprinting Toward Entry in the EMU," *BusinessWeek*, 15 Sept. 1997, at 31.
+ - "Italian goods have done well *outside of* \[read *outside*\] the Continent because the lira has fallen 15% vs. the U.S. dollar in the past year." James C. Cooper & Kathleen Madigan, "Sprinting Toward Entry in the EMU," *BusinessWeek*, 15 Sept. 1997, at 31.
 
-• "Once Strong got *outside of* \[read *outside*\] Manhattan, she was able to work more productively." Dave Itzkoff, "Life, Loss and What It All Means," *N.Y. Times*, 6 Aug. 2021, at C1, C12.
+ - "Once Strong got *outside of* \[read *outside*\] Manhattan, she was able to work more productively." Dave Itzkoff, "Life, Loss and What It All Means," *N.Y. Times*, 6 Aug. 2021, at C1, C12.
 
 In modern print sources, the collocation *outside the* occurs much more often than *outside of the*. See **of \(b\)**. Cf. **\*off of**.
 

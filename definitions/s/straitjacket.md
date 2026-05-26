@@ -4,9 +4,9 @@ straitjacket. The *strait* in this word means "close-fitting." *\*Straightjacket
 
 As with many other compound nouns, this term has been spelled as two words, as a hyphenated compound, and as a single word. Today the single word is by far the most common form and should be accepted as standard—e.g.:
 
-• "A white-coated psychiatrist flips his notebook, as The Woman, in a *straight-jacket* \[read *straitjacket*\], hallucinates her way through a therapy session." Janelle Gelfand, "Enthralling Performances, Design Double Operas' Intensity," *Cincinnati Enquirer*, 1 July 2001, at E2.
+ - "A white-coated psychiatrist flips his notebook, as The Woman, in a *straight-jacket* \[read *straitjacket*\], hallucinates her way through a therapy session." Janelle Gelfand, "Enthralling Performances, Design Double Operas' Intensity," *Cincinnati Enquirer*, 1 July 2001, at E2.
 
-• "Skip the wrap shirt, an invention that feels more like a *straight jacket* \[read *straitjacket*\] than a garment of leisure." Jill Radsken, "Dive In to End-of-Season Sales Racks," *Boston Herald*, 12 July 2001, at 50.
+ - "Skip the wrap shirt, an invention that feels more like a *straight jacket* \[read *straitjacket*\] than a garment of leisure." Jill Radsken, "Dive In to End-of-Season Sales Racks," *Boston Herald*, 12 July 2001, at 50.
 
 Language-Change Index
 

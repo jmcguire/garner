@@ -2,9 +2,9 @@
 
 drier; **dryer**. *Drier* is the adjective meaning "more dry." *Dryer* is the appliance that dries things. The error of confounding them works both ways—e.g.:
 
-• " ‘It wasn't any *dryer* \[read *drier*\] for them,' said Venia, who refused to use the weather as an excuse." Rick Jakacki, "Second-Half Struggles Cost Vikings, Again," *Times Herald* \(Port Huron, Mich.\), 5 Oct. 2002, at C1.
+ - " ‘It wasn't any *dryer* \[read *drier*\] for them,' said Venia, who refused to use the weather as an excuse." Rick Jakacki, "Second-Half Struggles Cost Vikings, Again," *Times Herald* \(Port Huron, Mich.\), 5 Oct. 2002, at C1.
 
-• "Most city balconies hold a clothes *drier* \[read *dryer*\], a tiny barbecue, a dog basket and a chair." Janet Street-Porter, "Would You Like an Extra Helping of Guidelines?," *Independent*, 30 May 2020, at 32.
+ - "Most city balconies hold a clothes *drier* \[read *dryer*\], a tiny barbecue, a dog basket and a chair." Janet Street-Porter, "Would You Like an Extra Helping of Guidelines?," *Independent*, 30 May 2020, at 32.
 
 See **dry**.
 

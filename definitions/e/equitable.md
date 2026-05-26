@@ -4,9 +4,9 @@ equitable; **equable**. *Equitable* /**ek**-wi-tә-bәl/, deriving from *equity*
 
 Each word is sometimes misused for the other—e.g.:
 
-• "Certainly Henman's realistic approach and his *equitable* \[read *equable*\] temperament make him better equipped than most to overcome what has basically been a sudden lack of confidence." John Parsons, "Henman Hoping to End His Slump," *Daily Telegraph*, 18 Feb. 1998, at 39.
+ - "Certainly Henman's realistic approach and his *equitable* \[read *equable*\] temperament make him better equipped than most to overcome what has basically been a sudden lack of confidence." John Parsons, "Henman Hoping to End His Slump," *Daily Telegraph*, 18 Feb. 1998, at 39.
 
-• "The objectives include . . . \[establishing\] an *equable* \[read *equitable*\] allocation of district capital funds for facility construction." Eva Jo Goins, "Board Sets Objectives for Fixing Schools," *Santa Fe New Mexican*, 18 Oct. 2000, at P1.
+ - "The objectives include . . . \[establishing\] an *equable* \[read *equitable*\] allocation of district capital funds for facility construction." Eva Jo Goins, "Board Sets Objectives for Fixing Schools," *Santa Fe New Mexican*, 18 Oct. 2000, at P1.
 
 Language-Change Index
 

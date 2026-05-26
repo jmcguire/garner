@@ -10,9 +10,9 @@ There's a history. Since at least the 1950s, Republicans have been trying to den
 
 Usage writers including Roy H. Copperud, Bergen Evans, and William and Mary Morris have condemned the practice \("*Democrat party*" is the idiotic creation of some of the least responsible members of the Republican party," wrote the Morrises\). But the usage has continued ever since, with typical reference to the *\*Democrat Party* from its GOP opponents, and occasionally in the press—e.g.:
 
-• "Shelby County *Democrat* \[read *Democratic*\] Party Chairman Linda Montgomery rose to Zerr's defense." Jerry Graff, "GOP Contest for Mayor Set," *Indianapolis Star*, 5 Dec. 2002, at S1.
+ - "Shelby County *Democrat* \[read *Democratic*\] Party Chairman Linda Montgomery rose to Zerr's defense." Jerry Graff, "GOP Contest for Mayor Set," *Indianapolis Star*, 5 Dec. 2002, at S1.
 
-• "While Democrats outnumber Republicans 52–46 in the state House of Representatives, it will be up to McMorris to offer alternatives to *Democrat* \[read *Democratic*\] proposals and make sure the minority voice is heard on budget and other issues." Editorial, "Our Views," *Olympian* \(Olympia, Wash.\), 7 Dec. 2002, at A7.
+ - "While Democrats outnumber Republicans 52–46 in the state House of Representatives, it will be up to McMorris to offer alternatives to *Democrat* \[read *Democratic*\] proposals and make sure the minority voice is heard on budget and other issues." Editorial, "Our Views," *Olympian* \(Olympia, Wash.\), 7 Dec. 2002, at A7.
 
 In politics, of course, this type of semantic jockeying is a practice without end, as this columnist well knows: "Talk radio is rewriting the political language. . . . Environmentalists are wackos. The Democratic Party is the *Democrat* Party. Taxation is theft." Tom Teepen, "Talk Radio Isn't Just Talk," *Chattanooga Times/Chattanooga Free Press*, 29 Nov. 2002, at B8. And if *Republic* could somehow be loaded with pejorative connotations, you can be sure the Democrats wouldn't hesitate to do so.
 

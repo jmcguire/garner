@@ -4,9 +4,9 @@ pacifist, n.; **\*pacificist**; **passivist**. *Pacifist* \(= one opposed to war
 
 The term *passivist* \(= one with a passive attitude or way of life\) is usually set against *activist*—e.g.:
 
-• "Sitting-in seems more *passivist* than activist, but activism can apparently take many shapes, including simple relentlessness." Russell Baker, "Activism Epidemic\!," *N.Y. Times*, 28 June 1994, at A17.
+ - "Sitting-in seems more *passivist* than activist, but activism can apparently take many shapes, including simple relentlessness." Russell Baker, "Activism Epidemic\!," *N.Y. Times*, 28 June 1994, at A17.
 
-• "McCain also seems stunningly unaware that the justices he simplistically lauds as ‘judicial *passivists*' are nothing of the sort." Geoffrey R. Stone, "McCain's Justice: Conservative Activism Gone Wild," *Chicago Trib.*, 7 May 2008, at C23.
+ - "McCain also seems stunningly unaware that the justices he simplistically lauds as ‘judicial *passivists*' are nothing of the sort." Geoffrey R. Stone, "McCain's Justice: Conservative Activism Gone Wild," *Chicago Trib.*, 7 May 2008, at C23.
 
 Language-Change Index
 

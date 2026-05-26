@@ -2,9 +2,9 @@
 
 sole \(= the one and only; single\) should not be used with a plural noun, as it sometimes is. *Only* is the better choice—e.g.:
 
-• "Pakistan's soldiers seem to be the *sole* \[read *only*\] people in the country with a sense of duty and national responsibility." Eric Margolis, "Pakistan's Rid of Bhutto, but Other Woes Remain," *Toronto Sun*, 9 Feb. 1997, at C5.
+ - "Pakistan's soldiers seem to be the *sole* \[read *only*\] people in the country with a sense of duty and national responsibility." Eric Margolis, "Pakistan's Rid of Bhutto, but Other Woes Remain," *Toronto Sun*, 9 Feb. 1997, at C5.
 
-• "The first \[flawed premise\] is that grade point average \(GPA\) and SAT scores are the *sole* \[read *only*\] criteria for ranking students." Letter of Mark L. Liquorman, "Quotas Still Needed," *St. Petersburg Times* \(Fla.\), 30 Nov. 1997, at D2.
+ - "The first \[flawed premise\] is that grade point average \(GPA\) and SAT scores are the *sole* \[read *only*\] criteria for ranking students." Letter of Mark L. Liquorman, "Quotas Still Needed," *St. Petersburg Times* \(Fla.\), 30 Nov. 1997, at D2.
 
 Occasionally the word *sole* and its homophone *soul* get confounded, as in the phrases \**soul heir*, \**soul purpose*, and \**soul source*—which, if they aren't puns, are errors.
 

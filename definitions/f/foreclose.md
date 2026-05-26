@@ -14,9 +14,9 @@ Some writers even use *\*foreclose against*, but *on* is more idiomatic—e.g.: 
 
 **B. Misspelled *\*forclose*.** *\*Forclose* is an erroneous form that sometimes appears—e.g.:
 
-• "And both the Norwest Bank and the Federal Land Bank have moved in court to *forclose* \[read *foreclose*\] on the farm." "Illicit Crop Almost Saved Farm," *N.Y. Times*, 7 Sept. 1988, at A24.
+ - "And both the Norwest Bank and the Federal Land Bank have moved in court to *forclose* \[read *foreclose*\] on the farm." "Illicit Crop Almost Saved Farm," *N.Y. Times*, 7 Sept. 1988, at A24.
 
-• "Town officials are taking steps to *forclose* \[read *foreclose*\] on the following property owners . . . ." Kim Martineau, "Town Pursues Property of Tax Scofflaws," *Hartford Courant*, 7 Nov. 2002, at B3.
+ - "Town officials are taking steps to *forclose* \[read *foreclose*\] on the following property owners . . . ." Kim Martineau, "Town Pursues Property of Tax Scofflaws," *Hartford Courant*, 7 Nov. 2002, at B3.
 
 See for-.
 

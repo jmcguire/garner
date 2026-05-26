@@ -8,11 +8,11 @@ As an adverb, *any* is used before a comparative adjective or adverb in question
 
 **B. Singular or Plural.** *Any* may take either a singular or a plural verb. The singular use is fairly rare—e.g.:
 
-• "He and Didi prop Sissy up in front of an Elvis mural to see if *any* of them *is* tall enough to ride the Rock 'n' Rollercoaster." Sandy Smith, "Sharing a Good Time," *Tennessean*, 18 July 1996, at D1.
+ - "He and Didi prop Sissy up in front of an Elvis mural to see if *any* of them *is* tall enough to ride the Rock 'n' Rollercoaster." Sandy Smith, "Sharing a Good Time," *Tennessean*, 18 July 1996, at D1.
 
-• "If *any* of them *is* successful, it would be the first time an Asian American would serve on the council." Sarah Kershaw, "Chen Bumped Off Ballot in Flushing Race for Council Seat," *Newsday* \(N.Y.\), 15 Aug. 1997, at A6.
+ - "If *any* of them *is* successful, it would be the first time an Asian American would serve on the council." Sarah Kershaw, "Chen Bumped Off Ballot in Flushing Race for Council Seat," *Newsday* \(N.Y.\), 15 Aug. 1997, at A6.
 
-• "Many of the other professors have Washington strings to pull, and Tal isn't sure which side *any* of them *is* on." Laurie Muchnick, "A Debut Novel of Suspense and Social Observation," *Chicago Trib.*, July 7, 2002, Books §, at 7.
+ - "Many of the other professors have Washington strings to pull, and Tal isn't sure which side *any* of them *is* on." Laurie Muchnick, "A Debut Novel of Suspense and Social Observation," *Chicago Trib.*, July 7, 2002, Books §, at 7.
 
 In such contexts, *any* is elliptical for *any one*; the sentence often reads better if *one* is retained. See **anyone \(a\)**.
 

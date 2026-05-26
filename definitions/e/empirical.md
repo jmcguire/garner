@@ -2,9 +2,9 @@
 
 empirical; **empiric**. *Empirical* \(= based not merely on speculation but on scientific testing and practical experience\), a Latin loanword dating in English from the 1500s, is predominantly so written. Although *empiric* might easily be labeled a needless variant, medical writers, surprisingly enough, often use *empiric*—e.g.:
 
-• "We recognize that there was more *empiric* therapy used in nonclinic patients by the primary care physicians without recourse to bronchoscopy." R. Andrew McIvor et al., "An Effectiveness Community-Based Clinical Trial of Respirgard II \[etc.\]," 110 *Chest*, July 1996, at 141.
+ - "We recognize that there was more *empiric* therapy used in nonclinic patients by the primary care physicians without recourse to bronchoscopy." R. Andrew McIvor et al., "An Effectiveness Community-Based Clinical Trial of Respirgard II \[etc.\]," 110 *Chest*, July 1996, at 141.
 
-• "*Empiric* treatment with cefotaxime and dexamethasone was begun." J.D. Colmenero et al., "Complications with Brucella Melitensis Infection," 75 *Medicine*, July 1996, at 195.
+ - "*Empiric* treatment with cefotaxime and dexamethasone was begun." J.D. Colmenero et al., "Complications with Brucella Melitensis Infection," 75 *Medicine*, July 1996, at 195.
 
 Still, medical writers use *empirical* *therapy* and *empirical treatment* about as often as they use *empiric* in those phrases, and it would doubtless be a good thing if their usage mirrored general usage.
 

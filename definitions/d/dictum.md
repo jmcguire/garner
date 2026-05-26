@@ -16,9 +16,9 @@ In sense 3, the word denotes a truism—e.g.: "The more fastidious response is e
 
 Able writers generally have no difficulty getting the number correct—e.g.:
 
-• "Of course, \[Governor George\] Allen is a public figure, and his public *dicta* are there for all to hear on television and radio." Jeff E. Schapiro, "Paramilitary Group Seeks Respectability by Association," *Richmond Times-Dispatch*, 11 Aug. 1996, at F2.
+ - "Of course, \[Governor George\] Allen is a public figure, and his public *dicta* are there for all to hear on television and radio." Jeff E. Schapiro, "Paramilitary Group Seeks Respectability by Association," *Richmond Times-Dispatch*, 11 Aug. 1996, at F2.
 
-• "Ottawa's many *dicta*, some quite possibly unnecessary, *are* . . . harassing thousands of travellers." Douglas Todd, "Travellers Face Chaos over Vax Certificates," *Vancouver Sun*, 28 Aug. 2021, at B3.
+ - "Ottawa's many *dicta*, some quite possibly unnecessary, *are* . . . harassing thousands of travellers." Douglas Todd, "Travellers Face Chaos over Vax Certificates," *Vancouver Sun*, 28 Aug. 2021, at B3.
 
 Language-Change Index
 

@@ -4,9 +4,9 @@ doyen; **doyenne**. *Doyen* \(/doi-**yen**/ or /**doi**-yәn/\) = \(1\) a knowle
 
 *Doyenne* /doi-**yen**/, the feminine counterpart, occurs almost as frequently, but only in sense 1:
 
-• "Maida Heatter—*doyenne* of desserts, queen of cookies, sultana of sweets—seems to feel that everyone, deep down, shares her passionate conviction." Suzanne Hamlin, "A Passion for Baking and Recipes That Really Deliver," *N.Y. Times*, 1 Nov. 1995, at C3.
+ - "Maida Heatter—*doyenne* of desserts, queen of cookies, sultana of sweets—seems to feel that everyone, deep down, shares her passionate conviction." Suzanne Hamlin, "A Passion for Baking and Recipes That Really Deliver," *N.Y. Times*, 1 Nov. 1995, at C3.
 
-• "Soon after the move to Twin Falls, Ben was put in touch with \[Beverly\] Hackney, one of the *doyennes* of Idaho's small ballet community, who hired him to teach classes in her studio." Jim Hopkins, "The Tragedy Ahead," *Idaho Statesman*, 11 Aug. 1996, at A1.
+ - "Soon after the move to Twin Falls, Ben was put in touch with \[Beverly\] Hackney, one of the *doyennes* of Idaho's small ballet community, who hired him to teach classes in her studio." Jim Hopkins, "The Tragedy Ahead," *Idaho Statesman*, 11 Aug. 1996, at A1.
 
 See sexism \(d\).
 

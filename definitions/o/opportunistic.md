@@ -6,11 +6,11 @@ opportunistic; **opportune**. *Opportunistic* describes someone or some action t
 
 But *opportunistic* is now sometimes misused to mean *opportune*—e.g.:
 
-• "At a crucial and *opportunistic* \[read *opportune*\] moment, he \[Emperor Hirohito of Japan\] risked his throne to bring his people's suffering to an end." E. Barry Keehn, "The Emperor's Mask After the War," *San Diego Union-Trib.*, 24 Sept. 2000, Books §, at 1.
+ - "At a crucial and *opportunistic* \[read *opportune*\] moment, he \[Emperor Hirohito of Japan\] risked his throne to bring his people's suffering to an end." E. Barry Keehn, "The Emperor's Mask After the War," *San Diego Union-Trib.*, 24 Sept. 2000, Books §, at 1.
 
-• "Now is the most *opportunistic* \[read *opportune*\] time for this type of product." Cecile B. Corral, "Suppliers Hope Retailers Get the ‘Basic' Idea," *Home Textiles Today*, 26 Nov. 2001, at 13.
+ - "Now is the most *opportunistic* \[read *opportune*\] time for this type of product." Cecile B. Corral, "Suppliers Hope Retailers Get the ‘Basic' Idea," *Home Textiles Today*, 26 Nov. 2001, at 13.
 
-• "Some of Stuckey's more exciting plays couldn't have come at more *opportunistic* \[read *opportune*\] times." Chris Hughes, "Stuckey Will Leave Large Legacy at Northside," *Macon Telegraph*, 14 June 2002, at C1.
+ - "Some of Stuckey's more exciting plays couldn't have come at more *opportunistic* \[read *opportune*\] times." Chris Hughes, "Stuckey Will Leave Large Legacy at Northside," *Macon Telegraph*, 14 June 2002, at C1.
 
 Language-Change Index
 

@@ -8,11 +8,11 @@ Current ratio in print \(*henceforth* vs. \**henceforward*\): 10:1
 
 **B. *\*From henceforth*.** This phrase is an archaism that was especially common during the 1600s. Today *henceforth* without *from*—or, casually, the voguish *going forward*—is more typical. Avoid *from henceforth*—e.g.:
 
-• "We are told that they have just remastered that disc, and all orders *from henceforth will be* \[read *will henceforth be*\] filled using the new one, not the one Mr. Bauman complains about." Editor's Note, *Am. Record Guide*, 1 Mar. 1994, at 190.
+ - "We are told that they have just remastered that disc, and all orders *from henceforth will be* \[read *will henceforth be*\] filled using the new one, not the one Mr. Bauman complains about." Editor's Note, *Am. Record Guide*, 1 Mar. 1994, at 190.
 
-• "*From henceforth* \[read *Henceforth*\], Connerly suggested last week, applicants to the UC system no longer should petition by name." Peter H. King, "Under Every Rock, Agents of Diversity," *L.A. Times*, 16 Mar. 1997, at A3.
+ - "*From henceforth* \[read *Henceforth*\], Connerly suggested last week, applicants to the UC system no longer should petition by name." Peter H. King, "Under Every Rock, Agents of Diversity," *L.A. Times*, 16 Mar. 1997, at A3.
 
-• " ‘IMPORTANT\!\!\! We can no longer refer to the Freedom Fuel Initiative,' John Sullivan, a deputy assistant at the Energy Department wrote in a memo. ‘*From henceforth* \[read *Henceforth*\] it is to be referred to as "The President's Hydrogen Fuel Initiative." '" H. Josef Hebert, "U.S. Finds It Isn't Free to Use Zippy Phrase," *Chicago Trib.*, 15 Feb. 2003, News §, at 8.
+ - " ‘IMPORTANT\!\!\! We can no longer refer to the Freedom Fuel Initiative,' John Sullivan, a deputy assistant at the Energy Department wrote in a memo. ‘*From henceforth* \[read *Henceforth*\] it is to be referred to as "The President's Hydrogen Fuel Initiative." '" H. Josef Hebert, "U.S. Finds It Isn't Free to Use Zippy Phrase," *Chicago Trib.*, 15 Feb. 2003, News §, at 8.
 
 Language-Change Index
 

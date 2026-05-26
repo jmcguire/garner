@@ -10,11 +10,11 @@ The other forms are less defensible. At least one writer uses *\*frog's legs*, a
 
 Those citations don't quite reflect general usage in newspapers and journals. Of 1,600 examples checked in westlaw's allnews database in January 2002, the breakdown was as follows: *frog legs*—880 \(55%\); *frogs' legs*—450 \(28%\); *\*frog's legs*—194 \(12%\); and *\*frogs legs*—76 \(5%\). Likewise, informal surveys suggest that most cultivated speakers who would order this item say *frog legs*. The cookbook writers' preference for *frogs' legs* seems a mite pedantic. In any event, the two forms to be avoided are *\*frog's legs* \(unless you're talking about a particular frog\) and *\*frogs legs* \(unless you eat them without utensils or napkins\)—e.g.:
 
-• "They were out of *frog's legs* \[read *frog legs* or *frogs' legs*\] the night we ordered them, so we can't say whether we agree." Molli Yood & Andy Yood, "Food, Fun and Music Are the Order of the Day," *Wash. Post*, 8 Nov. 2001, So. Md. §, at T6.
+ - "They were out of *frog's legs* \[read *frog legs* or *frogs' legs*\] the night we ordered them, so we can't say whether we agree." Molli Yood & Andy Yood, "Food, Fun and Music Are the Order of the Day," *Wash. Post*, 8 Nov. 2001, So. Md. §, at T6.
 
-• "Johnny's Bistro . . . offers . . . an appetizer list that includes country pork pate, *frogs legs* \[read *frog legs* or *frogs' legs*\] and other delicious treats." Ralph McGreevy, "Carve Out Time for Bite and a Belt," *Plain Dealer* \(Cleveland\), 14 Dec. 2001, at 26.
+ - "Johnny's Bistro . . . offers . . . an appetizer list that includes country pork pate, *frogs legs* \[read *frog legs* or *frogs' legs*\] and other delicious treats." Ralph McGreevy, "Carve Out Time for Bite and a Belt," *Plain Dealer* \(Cleveland\), 14 Dec. 2001, at 26.
 
-• "The ‘Bites' on the menu alone speak volumes for their culinary bent: garlic, parsley, and . . . crispy *frogs legs* \[read *frog legs* or *frogs' legs*\]." Fiona Duncan, "Hotel Hit Squad," *Sunday Telegraph*, 1 Aug. 2021, at 11.
+ - "The ‘Bites' on the menu alone speak volumes for their culinary bent: garlic, parsley, and . . . crispy *frogs legs* \[read *frog legs* or *frogs' legs*\]." Fiona Duncan, "Hotel Hit Squad," *Sunday Telegraph*, 1 Aug. 2021, at 11.
 
 Language-Change Index
 

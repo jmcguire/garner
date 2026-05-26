@@ -16,11 +16,11 @@ Language-Change Index
 
 **C. As a Verb.** Nor should *alibi* be used as a verb, as it occasionally has been since the late 1800s. The examples below are doubly bad, since the misbegotten verb \(meaning *excuse*\) is based on the misused noun:
 
-• " ‘He looked very heavy-armed warming up,' Apodaca said. ‘I'm not *alibying* \[read *making excuses*\] for him, but I was very worried about him because of that start in Chicago.' " Rafael Hermoso, "Reynoso Feeling ‘Lucky,' " *Record* \(N.J.\), 18 June 1997, at S1 \(quoted speech\).
+ - " ‘He looked very heavy-armed warming up,' Apodaca said. ‘I'm not *alibying* \[read *making excuses*\] for him, but I was very worried about him because of that start in Chicago.' " Rafael Hermoso, "Reynoso Feeling ‘Lucky,' " *Record* \(N.J.\), 18 June 1997, at S1 \(quoted speech\).
 
-• "Tyson *alibied* \[read *said* or *tried to excuse himself by saying*\] that he ‘snapped' when he bit Holyfield—twice." Jeff Schultz, "Tyson's Main Event: Avoid Trouble," *Atlanta J.-Const.*, 11 July 1997, at F10.
+ - "Tyson *alibied* \[read *said* or *tried to excuse himself by saying*\] that he ‘snapped' when he bit Holyfield—twice." Jeff Schultz, "Tyson's Main Event: Avoid Trouble," *Atlanta J.-Const.*, 11 July 1997, at F10.
 
-• "I'd say there's a danger and plain lousy taste in distorting a current president's words to zip up a movie. ‘It's fantasy, entertainment,' Zemeckis *alibied* \[read *rationalized*\]. ‘It adds verisimilitude.' " Sandy Grady, "When Hollywood Distorts Reality for Big Bucks," *Milwaukee J. Sentinel*, 23 July 1997, at 12.
+ - "I'd say there's a danger and plain lousy taste in distorting a current president's words to zip up a movie. ‘It's fantasy, entertainment,' Zemeckis *alibied* \[read *rationalized*\]. ‘It adds verisimilitude.' " Sandy Grady, "When Hollywood Distorts Reality for Big Bucks," *Milwaukee J. Sentinel*, 23 July 1997, at 12.
 
 Language-Change Index
 

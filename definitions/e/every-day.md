@@ -2,9 +2,9 @@
 
 every day, adv.; **everyday**, adj. One tries to accomplish something *every day*; but an *everyday* feat would hardly be an accomplishment. The two are often confused—e.g.:
 
-• "But what of the phrase ‘per stirpes,' symbolic here of the hundreds of Latin and law French words still used *everyday* \[read *every day*\] by fully modernized American lawyers whose penchant for foreign languages probably extends no further?" Richard Weisberg, *When Lawyers Write* 99 \(1987\).
+ - "But what of the phrase ‘per stirpes,' symbolic here of the hundreds of Latin and law French words still used *everyday* \[read *every day*\] by fully modernized American lawyers whose penchant for foreign languages probably extends no further?" Richard Weisberg, *When Lawyers Write* 99 \(1987\).
 
-• "We are confronted *everyday* \[read *every day*\] with having to decide exactly what they cover." Ronald Wardhaugh, *Proper English: Myths and Misunderstandings About Language* 21 \(1999\).
+ - "We are confronted *everyday* \[read *every day*\] with having to decide exactly what they cover." Ronald Wardhaugh, *Proper English: Myths and Misunderstandings About Language* 21 \(1999\).
 
 Language-Change Index
 

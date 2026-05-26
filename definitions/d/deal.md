@@ -10,9 +10,9 @@ Current ratio in print \(*has dealt* vs. *\*has dealed*\): 8,405:1
 
 Yet in two contexts *deal* is transitive. The phrase *deal cards* has been in use since the 1560s. And since the 1980s *deal drugs* has been a common phrase in the language of the underworld, not *\*deals in drugs*—e.g.:
 
-• "Two Barnesville brothers have been charged with growing marijuana in their yard and *dealing drugs* from their home in Vulcan Village, state police at Frackville said." "Two Brothers Charged by Police Drug Raiders," *Morning Call* \(Allentown, Pa.\), 6 Sept. 1996, at B3.
+ - "Two Barnesville brothers have been charged with growing marijuana in their yard and *dealing drugs* from their home in Vulcan Village, state police at Frackville said." "Two Brothers Charged by Police Drug Raiders," *Morning Call* \(Allentown, Pa.\), 6 Sept. 1996, at B3.
 
-• "A husband had been arrested for *dealing drugs*, which meant the lady's tips went straight to his lawyer and she couldn't leave town before trial." Edward Hoagland, "Sex and the River Styx," *Harper's Mag.*, Jan. 2003, at 49, 53–54.
+ - "A husband had been arrested for *dealing drugs*, which meant the lady's tips went straight to his lawyer and she couldn't leave town before trial." Edward Hoagland, "Sex and the River Styx," *Harper's Mag.*, Jan. 2003, at 49, 53–54.
 
 Perhaps this exception exists because *dealing drugs* is reprehensible; to say that one *deals in* contraband would sanitize it, as if it were an alternative to dealing in cosmetics or foodstuffs.
 
@@ -22,9 +22,9 @@ When the simple preposition *about* suffices, it's typically a better choice tha
 
 But *deal with* can usefully cover a wide range of senses such as *grapple with* <to deal with mental illness>, *cope with* <to deal with hurricanes>, *interact with* <to deal with difficult customers>, *handle* <to deal with employee tardiness>, and \(as shown in the preceding paragraph\) *be about* <the novel deals with funeral-home practices>. When no ready substitute suggests itself, it is surely unobjectionable—e.g.:
 
-• "Possibly the most difficult case she's *dealt with* was a small one that had an unfortunate ending." Bill Bradshaw, "Critters Have a New Doctor in Town," *Wallowa County Chieftain* \(Enterprise, Ore.\), 29 Dec. 2021, at A6.
+ - "Possibly the most difficult case she's *dealt with* was a small one that had an unfortunate ending." Bill Bradshaw, "Critters Have a New Doctor in Town," *Wallowa County Chieftain* \(Enterprise, Ore.\), 29 Dec. 2021, at A6.
 
-• "Neighbors said . . . she's just *dealing with* the pain." Paul Boyd, "UA Women Trying to End 3-Game Skid," *Ark. Democrat-Gaz.*, 24 Feb. 2022, at 28.
+ - "Neighbors said . . . she's just *dealing with* the pain." Paul Boyd, "UA Women Trying to End 3-Game Skid," *Ark. Democrat-Gaz.*, 24 Feb. 2022, at 28.
 
-• "In her 31 years, she has *dealt with* bullying in high school, hiding her sexuality in college, the consequences of violent behavior , . . . and her own mental wellness." Jenna Ortiz et al., "Griner's Path to WNBA Legend, Then Russian Prisoner," *Ariz. Republic*, 10 Mar. 2022, at B1.
+ - "In her 31 years, she has *dealt with* bullying in high school, hiding her sexuality in college, the consequences of violent behavior , . . . and her own mental wellness." Jenna Ortiz et al., "Griner's Path to WNBA Legend, Then Russian Prisoner," *Ariz. Republic*, 10 Mar. 2022, at B1.
 

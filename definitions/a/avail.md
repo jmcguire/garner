@@ -10,17 +10,17 @@ In AmE, some jargonistic writers use the passive *be availed* in various incorre
 
 In Ireland, oddly, it is quite common to omit the reflexive object and to use *avail of* in the sense "to take advantage of"—e.g.:
 
-• "Drapier also believes he has a duty to tell his readers that, yes, his wife *availed of* \[read *took advantage of*\] the Dunnes Stores ‘Saucepans for Stamps' promotion." "Parties Try to Outdo Each Other in Their Race to the High Moral Ground," *Irish Times*, 14 Dec. 1996, at 14.
+ - "Drapier also believes he has a duty to tell his readers that, yes, his wife *availed of* \[read *took advantage of*\] the Dunnes Stores ‘Saucepans for Stamps' promotion." "Parties Try to Outdo Each Other in Their Race to the High Moral Ground," *Irish Times*, 14 Dec. 1996, at 14.
 
-• "Galway United increased their lead on the hour when they *availed of* \[read *took advantage of*\] a poor clearance by Noel Hartigan." "First Blood to Galway in Final," *Irish Times*, 18 Dec. 1996, at 21. \(The *they* in reference to a sports team is typical of BrE. See collective nouns.)
+ - "Galway United increased their lead on the hour when they *availed of* \[read *took advantage of*\] a poor clearance by Noel Hartigan." "First Blood to Galway in Final," *Irish Times*, 18 Dec. 1996, at 21. \(The *they* in reference to a sports team is typical of BrE. See collective nouns.)
 
 Irish examples of this usage are legion.
 
 Often this verb, when used transitively \(sense 2\), could be replaced by a simpler word such as *help*, *profit*, or *benefit*—e.g.:
 
-• "The sedate slopes averted mildew—death for grapes—and *availed* \[read *helped*\] Evans in his quest for developing a sweet purple grape." Bart Ripp, "Maritime Memento," *News Trib.* \(Tacoma\), 15 Oct. 1995, Soundlife §, at 10.
+ - "The sedate slopes averted mildew—death for grapes—and *availed* \[read *helped*\] Evans in his quest for developing a sweet purple grape." Bart Ripp, "Maritime Memento," *News Trib.* \(Tacoma\), 15 Oct. 1995, Soundlife §, at 10.
 
-• "The Tide blitzed Danny Wuerffel, knocked him down, made him hurry. This was the formula plied by FSU, but it *availed Alabama not at all* \[read *didn't help Alabama at all*\]." Mark Bradley, "Florida 45, Alabama 30," *Atlanta J.-Const.*, 8 Dec. 1996, at E4.
+ - "The Tide blitzed Danny Wuerffel, knocked him down, made him hurry. This was the formula plied by FSU, but it *availed Alabama not at all* \[read *didn't help Alabama at all*\]." Mark Bradley, "Florida 45, Alabama 30," *Atlanta J.-Const.*, 8 Dec. 1996, at E4.
 
 Often simpler words also better express sense 1—e.g.: "Festival-goers *availed* \[read *helped*\] themselves to a buffet and a bellyful of ragtime, jazz standards and vaudeville classics." Michael Kuelker, "Ragtime Fest Opens with 6-Hour Session," *St. Louis Post-Dispatch*, 2 Sept. 1995, at D7. In that sentence, *avail* was also mistakenly matched with *to* rather than *of*.
 
@@ -30,9 +30,9 @@ Language-Change Index
 
 **B. As a Noun.** Since the late 1700s, *avail* has frequently been used as a noun having the sense "beneficial effect, advantage," especially in the phrase *to no avail*, meaning "without success"—e.g.:
 
-• "We tried to get them to sing carols with us, but *to no avail*." Joe A. Ashley, "The Christmas Train," *Anchorage Daily News*, 24 Dec. 1996, at E1.
+ - "We tried to get them to sing carols with us, but *to no avail*." Joe A. Ashley, "The Christmas Train," *Anchorage Daily News*, 24 Dec. 1996, at E1.
 
-• "Wren got a shot off, but he even got his stick on an in-close rebound, *to no avail*." Phil Jackman, "Bandits Lose Lead in Third, Salvage 4–4 Tie with Blades," *Baltimore Sun*, 7 Feb. 1997, at D6.
+ - "Wren got a shot off, but he even got his stick on an in-close rebound, *to no avail*." Phil Jackman, "Bandits Lose Lead in Third, Salvage 4–4 Tie with Blades," *Baltimore Sun*, 7 Feb. 1997, at D6.
 
-• "Sometimes she'd cross her legs tightly, trying to make it all stop—to *no avail.*" Andrea K. McDaniels, "Treatment for Parkinson's Could Replace Surgery," *Baltimore Sun*, 8 Sept. 2015, at A1.
+ - "Sometimes she'd cross her legs tightly, trying to make it all stop—to *no avail.*" Andrea K. McDaniels, "Treatment for Parkinson's Could Replace Surgery," *Baltimore Sun*, 8 Sept. 2015, at A1.
 

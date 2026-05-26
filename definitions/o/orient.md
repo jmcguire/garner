@@ -4,11 +4,11 @@ orient; **\*orientate**. The latter is a needless variant of *orient*, which mea
 
 The longer variant \(a back-formation from *orientation*\) is more common in BrE than in AmE—e.g.:
 
-• "Not everyone, even in *market-orientated* \[read *market-oriented*\] America, is wholly happy with what is happening." *Sunday Times* \(London\), 11 Dec. 1988, at H1.
+ - "Not everyone, even in *market-orientated* \[read *market-oriented*\] America, is wholly happy with what is happening." *Sunday Times* \(London\), 11 Dec. 1988, at H1.
 
-• " ‘Vampires aren't very *family orientated* \[read *family-oriented*\].' " Terry Pratchett, *Carpe Jugulum* 151 \(1998\).
+ - " ‘Vampires aren't very *family orientated* \[read *family-oriented*\].' " Terry Pratchett, *Carpe Jugulum* 151 \(1998\).
 
-• "As excited as she had been to be reunited with Connor, she had felt *disorientated* \[read *disoriented*\] by leaving the Vampirate ship—and her friends there—so precipitately." Justin Somper, *Vampirates: Tide of Terror* 79–80 \(2007\).
+ - "As excited as she had been to be reunited with Connor, she had felt *disorientated* \[read *disoriented*\] by leaving the Vampirate ship—and her friends there—so precipitately." Justin Somper, *Vampirates: Tide of Terror* 79–80 \(2007\).
 
 Cf. **disorient**.
 

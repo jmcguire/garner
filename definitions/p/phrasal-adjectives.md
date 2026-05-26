@@ -470,13 +470,13 @@ Upon encountering a phrasal adjective, the reader isn't misled into thinking mom
 
 Some guides might suggest that you should make a case-by-case decision, based on whether a misreading is likely. You're better off with a flat rule \(with a few exceptions noted below\) because almost all sentences with unhyphenated phrasal adjectives will be misread by *someone*. \(See punctuation \(j\).) The following examples demonstrate the hesitation or lack of clarity caused by a missing hyphen:
 
-• "One last pop on this whole question of incivility of discourse, the *much argued over* \[read *much-argued-over*\] issue of whose speech has been more inflammatory and socially destructive than whose." Meg Greenfield, "It's Time for Some Civility," *Newsweek*, 5 June 1995, at 78. \(After *much argued*, the reader expects a noun; then *over* appears, unsettling the reader for a moment; then, in two milliseconds, the reader adjusts to see that *much-argued-over* is a phrasal adjective modifying *issue*.\)
+ - "One last pop on this whole question of incivility of discourse, the *much argued over* \[read *much-argued-over*\] issue of whose speech has been more inflammatory and socially destructive than whose." Meg Greenfield, "It's Time for Some Civility," *Newsweek*, 5 June 1995, at 78. \(After *much argued*, the reader expects a noun; then *over* appears, unsettling the reader for a moment; then, in two milliseconds, the reader adjusts to see that *much-argued-over* is a phrasal adjective modifying *issue*.\)
 
-• "O'Neill is serving a 20- to 40-year state prison sentence in Dallas, Luzerne County, for a Northampton County conviction in 1994 on *statutory rape, involuntary deviate sexual intercourse and corruption of minors charges*." Bob Laylo, "Children Testify on Sex Ring Abuse," *Morning Call* \(Allentown, Pa.\), 20 Sept. 1996, at B1. \(Read either *statutory-rape, involuntary-deviant-sexual-intercourse, and corruption-of-minors charges* or \[better\] *charges of statutory rape, involuntary deviant sexual intercourse, and corruption of minors*. \[On the change from *deviate* to *deviant*, see **deviant \(a\)**.)
+ - "O'Neill is serving a 20- to 40-year state prison sentence in Dallas, Luzerne County, for a Northampton County conviction in 1994 on *statutory rape, involuntary deviate sexual intercourse and corruption of minors charges*." Bob Laylo, "Children Testify on Sex Ring Abuse," *Morning Call* \(Allentown, Pa.\), 20 Sept. 1996, at B1. \(Read either *statutory-rape, involuntary-deviant-sexual-intercourse, and corruption-of-minors charges* or \[better\] *charges of statutory rape, involuntary deviant sexual intercourse, and corruption of minors*. \[On the change from *deviate* to *deviant*, see **deviant \(a\)**.)
 
-• "*Business telephone call protocol* is crucial." Mary Newton Bruder, *The Grammar Lady* 84 \(2000\). \(A possible revision: *Business telephone-call protocol is crucial*.\)
+ - "*Business telephone call protocol* is crucial." Mary Newton Bruder, *The Grammar Lady* 84 \(2000\). \(A possible revision: *Business telephone-call protocol is crucial*.\)
 
-• "This *English as a second language text* presents the different speaking styles for international students." *Ibid.* at 243. \(A possible revision: *This English-as-a-second-language text presents the different speaking styles for international students*.\)
+ - "This *English as a second language text* presents the different speaking styles for international students." *Ibid.* at 243. \(A possible revision: *This English-as-a-second-language text presents the different speaking styles for international students*.\)
 
 Readability is especially enhanced when the hyphens are properly used in two phrasal adjectives that modify a single noun—e.g.:
 
@@ -492,19 +492,19 @@ Some writers—those who haven't cultivated an empathy for their readers—would
 
 Following are examples in which enlightened writers or editors supplied the necessary hyphens:
 
-• "As a reader you are alerted by that direct, *straight-to-the-heart-of-the-matter statement*." Lucile Vaughan Payne, *The Lively Art of Writing* 65 \(1965\).
+ - "As a reader you are alerted by that direct, *straight-to-the-heart-of-the-matter statement*." Lucile Vaughan Payne, *The Lively Art of Writing* 65 \(1965\).
 
-• "The petition . . . argues that the ruling ‘took a major step away from settled law' in the First Amendment's *free-exercise-of-religion clause*." Wade Lambert & Wayne E. Green, "Subway-Begging Ban Is Backed on Appeal," *Wall Street J.*, 11 May 1990, at B8, B11.
+ - "The petition . . . argues that the ruling ‘took a major step away from settled law' in the First Amendment's *free-exercise-of-religion clause*." Wade Lambert & Wayne E. Green, "Subway-Begging Ban Is Backed on Appeal," *Wall Street J.*, 11 May 1990, at B8, B11.
 
-• "The survey was conducted by telephone Jan. 12–16, before the radio ads promoting the *official-English bill* were broadcast on Atlanta radio stations." Elizabeth Kurylo & Rhonda Cook, "*English-Only Bill* Splits Georgians," *Atlanta J.-Const.*, 20 Feb. 1994, at A1.
+ - "The survey was conducted by telephone Jan. 12–16, before the radio ads promoting the *official-English bill* were broadcast on Atlanta radio stations." Elizabeth Kurylo & Rhonda Cook, "*English-Only Bill* Splits Georgians," *Atlanta J.-Const.*, 20 Feb. 1994, at A1.
 
-• "The *English-language bill*'s sponsor, Sen. Mike Crotts \(R-Conyers\), said he is confident the legislation will pass the Senate." *Ibid.* at A14.
+ - "The *English-language bill*'s sponsor, Sen. Mike Crotts \(R-Conyers\), said he is confident the legislation will pass the Senate." *Ibid.* at A14.
 
-• "They lived in a *first-floor* *apartment* in a *six-story* *rent-controlled*, *union-subsidized* *housing development* in Flushing, Queens." Ken Auletta, "Beauty and the Beast," *New Yorker*, 16 Dec. 2002, at 65, 70.
+ - "They lived in a *first-floor* *apartment* in a *six-story* *rent-controlled*, *union-subsidized* *housing development* in Flushing, Queens." Ken Auletta, "Beauty and the Beast," *New Yorker*, 16 Dec. 2002, at 65, 70.
 
-• " ‘Out of the way, out of the way\!' sang Mrs. Weasley, coming through the gate with what appeared to be a giant, *beach-ball-sized* *Snitch* floating in front of her." J.K. Rowling, *Harry Potter and the Deathly Hallows* 119 \(1st Am. ed. 2007\).
+ - " ‘Out of the way, out of the way\!' sang Mrs. Weasley, coming through the gate with what appeared to be a giant, *beach-ball-sized* *Snitch* floating in front of her." J.K. Rowling, *Harry Potter and the Deathly Hallows* 119 \(1st Am. ed. 2007\).
 
-• "Mr. Johnson's too-close-for-comfort victory in a no-confidence vote on Monday evening left him badly damaged, with plenty of openings for would-be coup plotters." Mark Landler & Stephen Castle, "British Prime Minister Survives One Political Crisis, but Another Looms," *N.Y. Times*, 8 June 2022, at A5.
+ - "Mr. Johnson's too-close-for-comfort victory in a no-confidence vote on Monday evening left him badly damaged, with plenty of openings for would-be coup plotters." Mark Landler & Stephen Castle, "British Prime Minister Survives One Political Crisis, but Another Looms," *N.Y. Times*, 8 June 2022, at A5.
 
 For more on these hyphens, see punctuation \(j\).
 
@@ -514,11 +514,11 @@ Meanwhile, be sure not to confuse adjectives ending in *-ly* with adverbs. A hyp
 
 **C. Suspensive Hyphens.** When two phrasal adjectives have a common element at the end, and this ending portion \(usually the last word\) appears only with the second phrase, insert a suspensive hyphen after the unattached words to show their relationship with the common element. The hyphens become especially important when phrases are compounded in this way—e.g.:
 
-• "Detroit is . . . positioning the new class of compacts as the centerpiece of an old-fashioned, *'50s- and '60s-style* all-out autumn advertising blitz." Janice Castro, "Small Cars, High Hopes," *Time*, 12 Sept. 1994, at 58.
+ - "Detroit is . . . positioning the new class of compacts as the centerpiece of an old-fashioned, *'50s- and '60s-style* all-out autumn advertising blitz." Janice Castro, "Small Cars, High Hopes," *Time*, 12 Sept. 1994, at 58.
 
-• "Disney money also permitted Bob Weinstein to launch Dimension Films, a division devoted to the revenue-producing *horror-* and *teen-movie* market." Ken Auletta, "Beauty and the Beast," *New Yorker*, 16 Dec. 2002, at65, 75.
+ - "Disney money also permitted Bob Weinstein to launch Dimension Films, a division devoted to the revenue-producing *horror-* and *teen-movie* market." Ken Auletta, "Beauty and the Beast," *New Yorker*, 16 Dec. 2002, at65, 75.
 
-• "It was a *four- or five-times-a-year* indulgence, if that." Arthur Miller, "The Bare Manuscript," *New Yorker*, 16 Dec. 2002, at 82, 85.
+ - "It was a *four- or five-times-a-year* indulgence, if that." Arthur Miller, "The Bare Manuscript," *New Yorker*, 16 Dec. 2002, at 82, 85.
 
 Occasionally writers omit the hyphens, resulting almost invariably in readers' puzzlement—e.g.: "They lived in the small city of Apopka, Florida, located *in the fern and foliage growing region* \[read instead *in the fern- and foliage-growing region*\] north of Orlando."
 
@@ -526,11 +526,11 @@ Occasionally writers omit the hyphens, resulting almost invariably in readers' p
 
 **E. The Compound Conundrum.** When the first or last element in a phrasal adjective is part of a compound noun, it too needs to be hyphenated: *post-cold-war norms*, not *\*post-cold war norms*. Otherwise, as in that example, *cold* appears more closely related to *post* than to *war*. Writers frequently blunder by omitting one of the necessary hyphens—e.g.:
 
-• "Agnes Manyara's *smooth kidney bean-colored complexion* \[read *smooth kidney-bean-colored complexion*\] is interrupted by a row of tiny, barely visible tribal markings etched beneath each eye." Toni Y. Joseph, "Scarring Ritual," *Dallas Morning News*, 18 Apr. 1993, at A1.
+ - "Agnes Manyara's *smooth kidney bean-colored complexion* \[read *smooth kidney-bean-colored complexion*\] is interrupted by a row of tiny, barely visible tribal markings etched beneath each eye." Toni Y. Joseph, "Scarring Ritual," *Dallas Morning News*, 18 Apr. 1993, at A1.
 
-• "If Dian Parkinson has paid a price for leaving ‘The Price Is Right' after 18 years, you'd never know it. The bubbly former model, 41, just did a week of *game show-spoofing* \[read *game-show-spoofing*\] cameos on David Letterman's show, and she's launching an acting career." "Life After ‘Price' Is Right," *USA Today*, 19 Nov. 1993, at D2.
+ - "If Dian Parkinson has paid a price for leaving ‘The Price Is Right' after 18 years, you'd never know it. The bubbly former model, 41, just did a week of *game show-spoofing* \[read *game-show-spoofing*\] cameos on David Letterman's show, and she's launching an acting career." "Life After ‘Price' Is Right," *USA Today*, 19 Nov. 1993, at D2.
 
-• "I see vegetables in abundance, fresh green salads drenched in healthy *olive oil-based* \[read *olive-oil-based*\] dressing overflowing their bowls." Robert C. Atkins, *Dr. Atkins' New Diet Revolution* 5 \(2002\).
+ - "I see vegetables in abundance, fresh green salads drenched in healthy *olive oil-based* \[read *olive-oil-based*\] dressing overflowing their bowls." Robert C. Atkins, *Dr. Atkins' New Diet Revolution* 5 \(2002\).
 
 Sometimes attaching a modifier to a one-word compound noun may require separating its elements. The problem arises when the adjective specifically modifies the first element of the compound, creating a new phrase that in turn modifies the second element. For example, *pillbox* is always written as a single word, but a box containing sleeping pills would have to be a *sleeping-pill box* \(not a *sleeping pillbox* or a *sleeping-pillbox*\). Similarly, in baseball we always make the term *baseline* a one-word compound when it stands alone, but when we use it to identify the line from home plate to first or third base, we have to split the elements to make *first-base line* or *third-base line*. Two more examples: although a *bookstore* is where we buy books, for secondhand books we go to a *used-book store* \(not a *used bookstore* or a *used-bookstore*\); and although a *schoolteacher* teaches school, a *Sunday-school teacher* teaches Sunday school. Cf. **watermark**.
 

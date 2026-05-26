@@ -2,11 +2,11 @@
 
 ravage; **ravish**. *Ravage* \(= destruction or devastation, usu. through repeated acts over a sustained period\) is subject to word-swapping with *ravish* \(= \[1\] to abduct and rape; or \[2\] to enrapture\)—e.g.:
 
-• "Still, to see the *ravishes* \[read *ravages*\] of too much salinity in the river continues to upset residents as well as environmentalists." Janis D. Froelich, "Hillsborough River Too Salty, Friends Say," *Tampa Trib.*, 14 Dec. 2000, at 1.
+ - "Still, to see the *ravishes* \[read *ravages*\] of too much salinity in the river continues to upset residents as well as environmentalists." Janis D. Froelich, "Hillsborough River Too Salty, Friends Say," *Tampa Trib.*, 14 Dec. 2000, at 1.
 
-• "People fleeing the *ravishes* \[read *ravages*\] of Eastern Europe, Africa and elsewhere are confined for months at a time while their paperwork is ‘processed.' " Eric Harrison, " ‘Last Resort' Builds on a Dream," *Houston Chron.*, 30 Mar. 2001, at 5.
+ - "People fleeing the *ravishes* \[read *ravages*\] of Eastern Europe, Africa and elsewhere are confined for months at a time while their paperwork is ‘processed.' " Eric Harrison, " ‘Last Resort' Builds on a Dream," *Houston Chron.*, 30 Mar. 2001, at 5.
 
-• "Marcus was about to ask how the mechanism had withstood the *ravishes* \[read *ravages*\] of time, but David merely said he had no idea." Johan Minto, *The Heliopolis Scrolls* 216 \(2009\).
+ - "Marcus was about to ask how the mechanism had withstood the *ravishes* \[read *ravages*\] of time, but David merely said he had no idea." Johan Minto, *The Heliopolis Scrolls* 216 \(2009\).
 
 As in those examples, the word *ravage* typically occurs in a plural construction <the ravages of time>. *Ravage* is also occasionally used as a verb meaning "to ruin, destroy" <tornadoes ravaged the area>.
 

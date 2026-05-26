@@ -6,11 +6,11 @@ Sense 3 is controversial. The late Jacques Barzun, among others, disapproved: "T
 
 Yet sense 3 predominates in AmE—e.g.:
 
-• "Svich . . . launch\[es\] her poetry in speeches that are sometimes beautiful and sometimes embarrassingly *jejune* or stickily romantic." Bill Von Maurer, "There's Little Chemistry in ‘Alchemy,' " *Sun-Sentinel* \(Ft. Lauderdale\), 10 Dec. 1996, at E3.
+ - "Svich . . . launch\[es\] her poetry in speeches that are sometimes beautiful and sometimes embarrassingly *jejune* or stickily romantic." Bill Von Maurer, "There's Little Chemistry in ‘Alchemy,' " *Sun-Sentinel* \(Ft. Lauderdale\), 10 Dec. 1996, at E3.
 
-• "My wife had given me carte blanche . . . for the evening and I felt positively *jejune* again . . . . I stood at the corner of Dow and Jones, wondering where to begin." Herb Caen, "7 Decades of Baghdad by the Bay," *S.F. Chron.*, 3 Feb. 1997, at H2.
+ - "My wife had given me carte blanche . . . for the evening and I felt positively *jejune* again . . . . I stood at the corner of Dow and Jones, wondering where to begin." Herb Caen, "7 Decades of Baghdad by the Bay," *S.F. Chron.*, 3 Feb. 1997, at H2.
 
-• "The show . . . will delight those who find this sort of frolicsome caper ingenious rather than *jejune*." Charles McNulty, "‘Murder for Two' a Frantic Bid for Musical Amusement," *L.A. Times*, 5 June 2015, at 11.
+ - "The show . . . will delight those who find this sort of frolicsome caper ingenious rather than *jejune*." Charles McNulty, "‘Murder for Two' a Frantic Bid for Musical Amusement," *L.A. Times*, 5 June 2015, at 11.
 
 The unfortunate thing about this double meaning is that it's sometimes hard to tell what the writer means. *Jejune* is a put-down, but is the writer calling something "dull" or "adolescent"? In the following sentence, you can't really tell: "This poor translation of a hastily withdrawn French comedy . . . bumps along in a way that makes one yearn for the *jejune* raunchiness of ‘Private Parts.' " Malcolm Johnson, "Machete Needed to Wade Through ‘Jungle,' " *Hartford Courant*, 8 Mar. 1997, at E1. Maybe, in fact, the word has a tinge of both, as the meanings merge: "The self-indulgent ‘Girls Only' . . . is pointless and aimless, offering up tired or *jejune* observations best confined to a \[schoolgirl's\] diary." Joanne Kaufman, " ‘Girls Only': A Memoir Resting on a Shaky Foundation," *Chicago Trib.*, 2 Feb. 1997, at C3.
 

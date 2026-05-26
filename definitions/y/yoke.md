@@ -4,11 +4,11 @@ yoke; **yolk**. *Yoke* = \(1\) a twice-curved, usu. wooden beam with U-shaped br
 
 With this pair, word-swapping is fairly common. Sometimes *yolk* is misused for *yoke*—e.g.:
 
-• "A couple of Jacqueline Ott's sculptures are quite cunning: \[for example,\] two flat plywood umbrellas *yolked* \[read *yoked*\] together like Siamese twins." William Zimmer, "Spirited Shows in New Haven," *N.Y. Times*, 27 July 1986, § 11, at 26.
+ - "A couple of Jacqueline Ott's sculptures are quite cunning: \[for example,\] two flat plywood umbrellas *yolked* \[read *yoked*\] together like Siamese twins." William Zimmer, "Spirited Shows in New Haven," *N.Y. Times*, 27 July 1986, § 11, at 26.
 
-• "But now that information is king, members of the media monde have thrown off the *yolk* \[read *yoke*\] of oppression and now mostly cover each other, cutting out silly distractions." David Brooks, "Media Monde," *Wall Street J.*, 28 Apr. 2000, at W17.
+ - "But now that information is king, members of the media monde have thrown off the *yolk* \[read *yoke*\] of oppression and now mostly cover each other, cutting out silly distractions." David Brooks, "Media Monde," *Wall Street J.*, 28 Apr. 2000, at W17.
 
-• "She glances across the Cow Camp, studying the salted ham hanging from the shingles, the oxen *yolk* \[read *yoke*\] draped over the back fence, the spurs and the skillets and the bull skull nailed to the roof." Lane DeGregory, "The Cracker Life," *St. Petersburg Times* \(Fla.\), 15 Feb. 2002, at D1.
+ - "She glances across the Cow Camp, studying the salted ham hanging from the shingles, the oxen *yolk* \[read *yoke*\] draped over the back fence, the spurs and the skillets and the bull skull nailed to the roof." Lane DeGregory, "The Cracker Life," *St. Petersburg Times* \(Fla.\), 15 Feb. 2002, at D1.
 
 The reverse error, though uncommon, does occur—e.g.: "I was stunned by the mix of aquamarine, luscious tans, dusty reds, yellow of egg *yoke* \[read *yolk*\], the turquoise as mute as a lizard." Sean Connolly, "One Nation, Cool and Damp," *Pitt. Post-Gaz.*, 30 Aug. 1997, at A9.
 

@@ -2,11 +2,11 @@
 
 chronic is best reserved to describe diseases and physical conditions that persist over time <a chronic backache>. But it is sometimes loosely and unwisely used for *habitual* or *inveterate*—e.g.:
 
-• "High school football coaches are *chronic* \[read *habitual*\] exaggerators." Jim Browitt, "Timberline, Lapwai in Crucial CIL Game," *Lewiston Morning Trib.* \(Idaho\), 1 Oct. 1993, at B4.
+ - "High school football coaches are *chronic* \[read *habitual*\] exaggerators." Jim Browitt, "Timberline, Lapwai in Crucial CIL Game," *Lewiston Morning Trib.* \(Idaho\), 1 Oct. 1993, at B4.
 
-• "Albert's lawyer, Roy Black, . . . \[claimed\] that Albert's accuser had a pattern of threatening past boyfriends, was a *chronic* \[read *habitual*\] liar and was mentally unstable." "Albert Pleads Guilty in Sex Case," *Sacramento Bee*, 26 Sept. 1997, at A1.
+ - "Albert's lawyer, Roy Black, . . . \[claimed\] that Albert's accuser had a pattern of threatening past boyfriends, was a *chronic* \[read *habitual*\] liar and was mentally unstable." "Albert Pleads Guilty in Sex Case," *Sacramento Bee*, 26 Sept. 1997, at A1.
 
-• "The day before the prison announcement, a Hartford man, a *chronic* \[read *habitual*\] offender, earned his 14th conviction and was sent back to prison." Chris Powell, "Lamont's Appeal Won't Lure Businesses," *Chronicle* \(Willimantic, Conn.\), 17 Sept. 2021, at 5.
+ - "The day before the prison announcement, a Hartford man, a *chronic* \[read *habitual*\] offender, earned his 14th conviction and was sent back to prison." Chris Powell, "Lamont's Appeal Won't Lure Businesses," *Chronicle* \(Willimantic, Conn.\), 17 Sept. 2021, at 5.
 
 The corresponding adverb is *chronically*—not *\*chronicly*.
 

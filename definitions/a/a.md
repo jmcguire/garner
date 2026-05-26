@@ -6,21 +6,21 @@
 
 The distinction between *a* and *an* was not solidified until the 1800s. Up to that time, *an* preceded most words beginning with a vowel, regardless of how the first syllable sounded. The U.S. Constitution, for example, reads: "The Congress shall have Power . . . \[t\]o establish *an uniform* Rule of Naturalization." U.S. Const. art. I, § 8. But that's no excuse for a modern writer—e.g.:
 
-• "The revisions include . . . \[f\]iling legislation to create *an uniform* \[read *a uniform*\] inspection code." Doris Sue Wong, "Revisions to Title 5 Unveiled," *Boston Globe*, 2 Aug. 1995, at 25.
+ - "The revisions include . . . \[f\]iling legislation to create *an uniform* \[read *a uniform*\] inspection code." Doris Sue Wong, "Revisions to Title 5 Unveiled," *Boston Globe*, 2 Aug. 1995, at 25.
 
-• "When touring Fontainebleu in 1677, John Locke noted that the back stairs leading to the apartments of the King's brother smelt like *an urinal* \[read *a* *urinal*\]." Anne Somerset, *The Affair of the Poisons* 47 \(2003\).
+ - "When touring Fontainebleu in 1677, John Locke noted that the back stairs leading to the apartments of the King's brother smelt like *an urinal* \[read *a* *urinal*\]." Anne Somerset, *The Affair of the Poisons* 47 \(2003\).
 
-• "I would have no ethical worries if a physician who knows your medical history chose to give you *a F.D.A.-authorized* \[read *an F.D.A.-authorized*\] vaccine on top of our W.H.O.-listed one." Kwame Anthony Appiah, "The Ethicist," *N.Y. Times Mag.*, 8 Aug. 2021, at 15.
+ - "I would have no ethical worries if a physician who knows your medical history chose to give you *a F.D.A.-authorized* \[read *an F.D.A.-authorized*\] vaccine on top of our W.H.O.-listed one." Kwame Anthony Appiah, "The Ethicist," *N.Y. Times Mag.*, 8 Aug. 2021, at 15.
 
 People worry about whether the correct article is *a* or *an* with *historian*, *historic*, and a few other words. Most authorities have supported *a* over *an*. The traditional rule is that if the *h* is sounded, then *a* is the proper form. So people who aspirate their *h*'s and follow that rule would say *a historian* and *a historic*—e.g.:
 
-• "Because this argument isn't so much *a historical* analogy as *a historical* desecration." Paul Greenberg, " ‘They All Do It'—Even the Founding Fathers?," *Wall Street J.*, 12 Oct. 1998, at A18.
+ - "Because this argument isn't so much *a historical* analogy as *a historical* desecration." Paul Greenberg, " ‘They All Do It'—Even the Founding Fathers?," *Wall Street J.*, 12 Oct. 1998, at A18.
 
-• "The treatment of crime in Britain shows *a historic* shift away from the protection of life and property toward the pursuit of ideological ends." Paul Johnson, "Britain: A Thieves' Paradise," *Forbes*, 17 Feb. 2003, at 35.
+ - "The treatment of crime in Britain shows *a historic* shift away from the protection of life and property toward the pursuit of ideological ends." Paul Johnson, "Britain: A Thieves' Paradise," *Forbes*, 17 Feb. 2003, at 35.
 
-• "*A historical* analysis provided to Congress concluded that the Taliban had learned lessons from their takeover of the country in the 1990s." Mark Mazzetti, Julian E. Barnes & Adam Goldman, "Contradicting Biden, Reports Warned of Rapid Collapse," *N.Y. Times*, 18 Aug. 2021, at A1.
+ - "*A historical* analysis provided to Congress concluded that the Taliban had learned lessons from their takeover of the country in the 1990s." Mark Mazzetti, Julian E. Barnes & Adam Goldman, "Contradicting Biden, Reports Warned of Rapid Collapse," *N.Y. Times*, 18 Aug. 2021, at A1.
 
-• "But Pap Ndiaye, *a historian* who specializes in Black studies, said in 2019 on France Culture radio that Ms. Baker had specifically used the stereotypes in her acts, deriding them as much as she exaggerated them." Constant Méheut, "France to Honor Baker with Panthéon Burial," *N.Y. Times*, 23 Aug. 2021, at A4.
+ - "But Pap Ndiaye, *a historian* who specializes in Black studies, said in 2019 on France Culture radio that Ms. Baker had specifically used the stereotypes in her acts, deriding them as much as she exaggerated them." Constant Méheut, "France to Honor Baker with Panthéon Burial," *N.Y. Times*, 23 Aug. 2021, at A4.
 
 This is not a new "rule." Even the venerated language authority H.W. Fowler, in the England of 1926, advocated *a* before *historic\(al\)* and *humble* \(*FMEU1* at 1\).
 
@@ -28,13 +28,13 @@ The theory behind using *an* in such a context is that the *h* is weak when the 
 
 Today, however, such wordings as *\*an hypothesis*, *\*an hereditary title*, and *\*an historic era* are likely to strike readers and listeners as affectations in need of editing—e.g.:
 
-• "You have *an hypothesis* \[read *a hypothesis*\]." Norman Mailer, *Pontifications* 127 \(1982\).
+ - "You have *an hypothesis* \[read *a hypothesis*\]." Norman Mailer, *Pontifications* 127 \(1982\).
 
-• "If we value the information which they provide us, then the cognitive movement is reinforced and comes to be habitual: *an habitual* \[read *a habitual*\] pattern or pathway between neurons in the brain, *an habitual* \[read *a habitual*\] association of ideas in the mind." Nigel Rapport, "Context as an Act of Personal Externalisation," in *The Problem of Context* 194 \(Roy Dilley ed., 1999\).
+ - "If we value the information which they provide us, then the cognitive movement is reinforced and comes to be habitual: *an habitual* \[read *a habitual*\] pattern or pathway between neurons in the brain, *an habitual* \[read *a habitual*\] association of ideas in the mind." Nigel Rapport, "Context as an Act of Personal Externalisation," in *The Problem of Context* 194 \(Roy Dilley ed., 1999\).
 
-• "\[A\]n agreement could be found among the members of the Security Council that they had the legitimate authority to start *an humanitarian* \[read *a humanitarian*\] intervention." Bruno Coppieters, "Legitimate Authority," in *Moral Constraints on War* 41, 50 \(Bruno Coppieters et al. eds., 2002\).
+ - "\[A\]n agreement could be found among the members of the Security Council that they had the legitimate authority to start *an humanitarian* \[read *a humanitarian*\] intervention." Bruno Coppieters, "Legitimate Authority," in *Moral Constraints on War* 41, 50 \(Bruno Coppieters et al. eds., 2002\).
 
-• "\[She\] laughed aloud, *an hysterical* \[read *a hysterical*\] sort of giggle, quickly stifled." Katharine Kerr, *Snare: A Novel of the Far Future* 591 \(2003\).
+ - "\[She\] laughed aloud, *an hysterical* \[read *a hysterical*\] sort of giggle, quickly stifled." Katharine Kerr, *Snare: A Novel of the Far Future* 591 \(2003\).
 
 As Mark Twain once wrote, referring to *humble*, *heroic*, and *historical*: "Correct writers of the American language do not put *an* before those words." *The Stolen White Elephant* 220 \(1882\). Nearly a century later, the linguist Dwight Bolinger harshly condemned those who write *an historical* as being guilty of "a Cockneyed, cockeyed, and half-cocked ignorance and self-importance, that knoweth not where it aspirateth." Dwight Bolinger, "Are You a Sincere *H*-Dropper?," 50 *Am. Speech* 313, 315 \(1975\).
 

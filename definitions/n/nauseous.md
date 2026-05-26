@@ -4,9 +4,9 @@ nauseous \(= inducing nausea\) for *nauseated* \(= experiencing nausea\) is beco
 
 But other writers have spread the peccadillo, especially since the late 20th century—e.g.:
 
-• "At first, she didn't worry too much when she felt *nauseous* \[read *nauseated*\] and had a few more headaches than usual." Laura Bendix, "Factory Stores Workers Worry About Illnesses," *Santa Fe New Mexican*, 12 May 1995, at A1.
+ - "At first, she didn't worry too much when she felt *nauseous* \[read *nauseated*\] and had a few more headaches than usual." Laura Bendix, "Factory Stores Workers Worry About Illnesses," *Santa Fe New Mexican*, 12 May 1995, at A1.
 
-• "He takes $30,000 worth of AIDS-related drugs a year, which leave him horribly *nauseous* \[read *nauseated*\]." Dave Saltonstall, "Cops Clip 61 at Pot Rally," *Daily News* \(N.Y.\), 4 May 1997, at 6.
+ - "He takes $30,000 worth of AIDS-related drugs a year, which leave him horribly *nauseous* \[read *nauseated*\]." Dave Saltonstall, "Cops Clip 61 at Pot Rally," *Daily News* \(N.Y.\), 4 May 1997, at 6.
 
 *Nauseous* is pronounced /**naw**-shәs/ in AmE and either /**naw**-see-әs/ or /**naw**-zee-әs/ in BrE.
 

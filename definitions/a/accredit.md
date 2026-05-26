@@ -4,13 +4,13 @@ accredit \(= \[1\] to establish as credible; or \[2\] to issue credentials to\) 
 
 Occasionally *accredit* is loosely used in place of *credit* or *attribute*—e.g.:
 
-• "It would be reasonable to assume that at least some of Rusedski's astonishing recent improvement could be *accredited* \[read *credited*\] to his coach, Tony Pickard." Rosie DiManno, "More than Meets the Eye in Rusedski Affair," *Toronto Star*, 29 June 1998, at D6.
+ - "It would be reasonable to assume that at least some of Rusedski's astonishing recent improvement could be *accredited* \[read *credited*\] to his coach, Tony Pickard." Rosie DiManno, "More than Meets the Eye in Rusedski Affair," *Toronto Star*, 29 June 1998, at D6.
 
-• "He was also an inventor and had several patents *accredited* \[read *credited*\] to his name." "John Steven" \(obit.\), *South Bend Trib.*, 2 July 1999, at D5.
+ - "He was also an inventor and had several patents *accredited* \[read *credited*\] to his name." "John Steven" \(obit.\), *South Bend Trib.*, 2 July 1999, at D5.
 
-• "She *accredits* \[read *attributes*\] to her father, the retired Rev Hugh Dermot McMorran, one of the tenets of her policing ‘beliefs'." Alan Murray, "Force for the Future," *Belfast Telegraph*, 17 Dec. 2011, at 22.
+ - "She *accredits* \[read *attributes*\] to her father, the retired Rev Hugh Dermot McMorran, one of the tenets of her policing ‘beliefs'." Alan Murray, "Force for the Future," *Belfast Telegraph*, 17 Dec. 2011, at 22.
 
-• "If you have any doubts about a charge *accredited* \[read *credited*\] to your account, call the company immediately." Larry Martin, "Debt and Charge Cards," *Leavenworth Times* \(Kan.\), 27 Aug. 2013, at A4.
+ - "If you have any doubts about a charge *accredited* \[read *credited*\] to your account, call the company immediately." Larry Martin, "Debt and Charge Cards," *Leavenworth Times* \(Kan.\), 27 Aug. 2013, at A4.
 
 Citing examples from 1878 to 2004, the *OED* calls this use originally an Americanism. But it doesn't represent the best in American usage.
 

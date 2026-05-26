@@ -4,11 +4,11 @@ literati, the Italian plural of *literato* \("lettered person"\), corresponding 
 
 Whoever misuses *literati* as a singular is indisputably not a *litterateur*—e.g.:
 
-• "Among the more remarkable things about the guide is that Bartholomew, scarcely *a literati* \[read *a litterateur*\], never dreamed of writing it at all." Charlie Meyers, "If Books Could Thrill," *Denver Post*, 28 Jan. 1998, at D16.
+ - "Among the more remarkable things about the guide is that Bartholomew, scarcely *a literati* \[read *a litterateur*\], never dreamed of writing it at all." Charlie Meyers, "If Books Could Thrill," *Denver Post*, 28 Jan. 1998, at D16.
 
-• "In the entries . . . are gems of her novels, but the writings are not the self-conscious renderings of *a literati* \[read *a litterateur*\] writing for posterity." Marcy Smith Rice, "Dawn Powell's Time to Be Reborn," *News & Observer* \(Raleigh\), 25 Oct. 1998, at G5.
+ - "In the entries . . . are gems of her novels, but the writings are not the self-conscious renderings of *a literati* \[read *a litterateur*\] writing for posterity." Marcy Smith Rice, "Dawn Powell's Time to Be Reborn," *News & Observer* \(Raleigh\), 25 Oct. 1998, at G5.
 
-• "He is *a literati* \[read *a litterateur*\], musician, bon vivant, surfer dude and fly fisherman." Phil Richards, "Colts' Debut: Indy's Good Catch," *Indianapolis Star*, 9 Sept. 2012, at A1.
+ - "He is *a literati* \[read *a litterateur*\], musician, bon vivant, surfer dude and fly fisherman." Phil Richards, "Colts' Debut: Indy's Good Catch," *Indianapolis Star*, 9 Sept. 2012, at A1.
 
 See **litterateur**.
 

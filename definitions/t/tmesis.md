@@ -4,9 +4,9 @@ Tmesis, the practice of separating parts of a compound word by inserting another
 
 The traditional form of tmesis, however, occurs with formal words ending in *-soever*. It has an archaic ring to it, and most readers probably encounter it primarily in the King James Version of the Bible—e.g.:
 
-• "*What things soever* ye desire, when ye pray, believe that ye receive them and ye shall have them." Mark 11:24.
+ - "*What things soever* ye desire, when ye pray, believe that ye receive them and ye shall have them." Mark 11:24.
 
-• "Then answered Jesus and said unto them, ‘Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for *what things soever* he doeth, these also doeth the Son likewise.' " John 5:19.
+ - "Then answered Jesus and said unto them, ‘Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for *what things soever* he doeth, these also doeth the Son likewise.' " John 5:19.
 
 The modern tendency, of course, is to write *whatever things*.
 

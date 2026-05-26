@@ -10,11 +10,11 @@ In AmE and BrE alike, *discomfit* makes the past tense *discomfited*, not *\*dis
 
 **C. And *discomfort*.** *Discomfort* is preferably a noun, not a verb. Writers sometimes misuse it for *discomfit* in its newer sense \(to disconcert\)—e.g.:
 
-• "Not only has it embraced what amounts to a social crusade—something that some journalists find *discomforting* \[read *discomfiting*\]—but it has set a goal it almost certainly will not meet." Ellis Cose, "A City Room of Many Colors," *Newsweek*, 4 Oct. 1993, at 82.
+ - "Not only has it embraced what amounts to a social crusade—something that some journalists find *discomforting* \[read *discomfiting*\]—but it has set a goal it almost certainly will not meet." Ellis Cose, "A City Room of Many Colors," *Newsweek*, 4 Oct. 1993, at 82.
 
-• "These melanist notions and other extremes of Afrocentrism are *discomforting* \[read *discomfiting*\] to many black educators." Leon Jaroff, "Teaching Reverse Racism," *Time*, 4 Apr. 1994, at 75.
+ - "These melanist notions and other extremes of Afrocentrism are *discomforting* \[read *discomfiting*\] to many black educators." Leon Jaroff, "Teaching Reverse Racism," *Time*, 4 Apr. 1994, at 75.
 
-• "Sometimes his access was *discomforting* \[read *discomfiting*\] to the men at the top." Seymour M. Hersh, "The Wild East," *Atlantic Monthly*, June 1994, at 61, 62.
+ - "Sometimes his access was *discomforting* \[read *discomfiting*\] to the men at the top." Seymour M. Hersh, "The Wild East," *Atlantic Monthly*, June 1994, at 61, 62.
 
 Language-Change Index
 

@@ -4,9 +4,9 @@ redound, now used most commonly in the verbose expressions *to redound to the be
 
 Unfortunately, some writers confuse this word with *rebound*—e.g.:
 
-• "If these remarks may be understood only as opinion, the words of Eros further emphasize Shakespeare's intention, *Eros* \[read *Eros'*\] statement being especially important because it deviates from the source where the indicated events *rebound* \[read *redound*\] largely to Anthony's discredit." J. Leeds Barroll, "Shakespeare and the Art of Character: A Study of Anthony," 5 *Shakespeare Studies* 159, 171 \(1969\).
+ - "If these remarks may be understood only as opinion, the words of Eros further emphasize Shakespeare's intention, *Eros* \[read *Eros'*\] statement being especially important because it deviates from the source where the indicated events *rebound* \[read *redound*\] largely to Anthony's discredit." J. Leeds Barroll, "Shakespeare and the Art of Character: A Study of Anthony," 5 *Shakespeare Studies* 159, 171 \(1969\).
 
-• "Weavers are favored by karmic forces, and such endeavors as the saving of a weaver's life can *rebound* \[read *redound*\] to one's benefit at the most unexpected times." Peter David, *Sir Apropos of Nothing* 110 \(2001\).
+ - "Weavers are favored by karmic forces, and such endeavors as the saving of a weaver's life can *rebound* \[read *redound*\] to one's benefit at the most unexpected times." Peter David, *Sir Apropos of Nothing* 110 \(2001\).
 
 The etymology of *redound* lies in the Latin *und* "wave," and the word implies an advancing and receding move.
 

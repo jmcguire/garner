@@ -4,11 +4,11 @@ ad hominem \(= \[of an argument\] directed to an adversary's character rather th
 
 The more usual shortened form is sometimes misspelled *\*ad hominum*—e.g.:
 
-• "He is not without sin; Limbaugh himself has made *ad hominum* \[read *ad hominem*\] attacks on some with whom he disagrees." Debra J. Saunders, "Rush and the Juice," *S.F. Chron.*, 8 July 1994, at A23.
+ - "He is not without sin; Limbaugh himself has made *ad hominum* \[read *ad hominem*\] attacks on some with whom he disagrees." Debra J. Saunders, "Rush and the Juice," *S.F. Chron.*, 8 July 1994, at A23.
 
-• "I don't believe that they'll get into a lot of *ad hominum personal* \[read *ad hominem*\] attacks." Andy Sher, "Quayle Predicting Different Approach by Gore This Time," *Nashville Banner*, 9 Oct. 1996, at A1.
+ - "I don't believe that they'll get into a lot of *ad hominum personal* \[read *ad hominem*\] attacks." Andy Sher, "Quayle Predicting Different Approach by Gore This Time," *Nashville Banner*, 9 Oct. 1996, at A1.
 
-• "I think most Americans are getting a bellyful of *ad-hominum* \[read *ad hominem*\] attacks and character assassinations." "A Character of Conservation," *Wash. Times*, 4 Mar. 2001, at B5.
+ - "I think most Americans are getting a bellyful of *ad-hominum* \[read *ad hominem*\] attacks and character assassinations." "A Character of Conservation," *Wash. Times*, 4 Mar. 2001, at B5.
 
 Language-Change Index
 

@@ -14,11 +14,11 @@ gibe; jibe; gybe; jive.
 
 **B. *Jive* for *jibe*.** Some writers misuse *jive* for *jibe*—e.g.:
 
-• "If staying in a dorm doesn't *jive* \[read *jibe*\] with your requirements for ski accommodations, the Fireside still may suit you." David Gonzales, "Fireside: A Cozy Spot for the Budget Skier," *Dallas Morning News*, 13 Dec. 1992, at G3.
+ - "If staying in a dorm doesn't *jive* \[read *jibe*\] with your requirements for ski accommodations, the Fireside still may suit you." David Gonzales, "Fireside: A Cozy Spot for the Budget Skier," *Dallas Morning News*, 13 Dec. 1992, at G3.
 
-• "The new songs were clamorous and spacey, with distorted hooks and extended feedback that *jived* \[read *jibed*\] well with the futuristic stage lighting." Sandy Stahl, "Separate Accommodations Prevent Lollapalooza from Coming Together," *Morning Call* \(Allentown, Pa.\), 5 Aug. 1995, at A53.
+ - "The new songs were clamorous and spacey, with distorted hooks and extended feedback that *jived* \[read *jibed*\] well with the futuristic stage lighting." Sandy Stahl, "Separate Accommodations Prevent Lollapalooza from Coming Together," *Morning Call* \(Allentown, Pa.\), 5 Aug. 1995, at A53.
 
-• "Former deputy prosecutor Lawrence Taylor . . . believes the district attorney's media-driven loser image doesn't *jive* \[read *jibe*\] with reality." Bill Blum, "In Defense of the Prosecution," *L.A. Times*, 28 July 1996, Book Rev. §, at 1.
+ - "Former deputy prosecutor Lawrence Taylor . . . believes the district attorney's media-driven loser image doesn't *jive* \[read *jibe*\] with reality." Bill Blum, "In Defense of the Prosecution," *L.A. Times*, 28 July 1996, Book Rev. §, at 1.
 
 Language-Change Index
 
@@ -27,11 +27,11 @@ Current ratio in print \(*jibe well with* vs. *\*jive well with*\): 3:1
 
 **C. *Jibe* for *gibe*.** While *jibe* is a recognized variant spelling of *gibe*, it is not the preferred spelling. And since the words are confusing enough as it is, the alternative spelling should be avoided—e.g.:
 
-• "Chat rooms on the hockey fan website Faceoff.com were filled with *jibes* \[read *gibes*\] from fans and detractors alike." Eric Beaudan, "Canadian Hockey Up Against the Financial Boards," *Christian Science Monitor*, 13 Jan. 2003, World §, at 5.
+ - "Chat rooms on the hockey fan website Faceoff.com were filled with *jibes* \[read *gibes*\] from fans and detractors alike." Eric Beaudan, "Canadian Hockey Up Against the Financial Boards," *Christian Science Monitor*, 13 Jan. 2003, World §, at 5.
 
-• "During football season, he hung a Purdue flag on the rectory that drew good-natured *jibes* \[read *gibes*\] from the parish's Michigan, Michigan State and Notre Dame alums." David Shepardson, "Parishes Hope Sex Crisis Over," *Detroit News*, 14 Jan. 2003, at C3.
+ - "During football season, he hung a Purdue flag on the rectory that drew good-natured *jibes* \[read *gibes*\] from the parish's Michigan, Michigan State and Notre Dame alums." David Shepardson, "Parishes Hope Sex Crisis Over," *Detroit News*, 14 Jan. 2003, at C3.
 
-• "Once the game started, players continued to exchange *jibes* \[read *gibes*\], but that was the extent through the first 20 minutes." Will Parrish, "Eagles Get Key Big South Victory Against Liberty," *Herald* \(Rock Hill, S.C.\), 17 Jan. 2003, at C1.
+ - "Once the game started, players continued to exchange *jibes* \[read *gibes*\], but that was the extent through the first 20 minutes." Will Parrish, "Eagles Get Key Big South Victory Against Liberty," *Herald* \(Rock Hill, S.C.\), 17 Jan. 2003, at C1.
 
 Language-Change Index
 

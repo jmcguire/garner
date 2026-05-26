@@ -42,15 +42,15 @@ Though words that have recently undergone semantic shift are typically unsuitabl
 
 **D. Nouns as Verbs.** A type of semantic shift a little less common than the noun-to-adjective shift occurs when nouns function as verbs. There are scores of examples, such as *appeal*, *bias*, *deal*, *function* \(as in the preceding sentence\), *handle*, *people*, *perfume*, *reward*, *room*, *silence*, *survey*, and *weather*. Often these new usages are slangy—e.g.:
 
-• " ‘The Firm' . . . for a time even out-*box-officed* ‘Jurassic Park.' " Joe Dirck, "Grisham's Latest Loses on Appeal," *Plain Dealer* \(Cleveland\), 22 May 1994, at K1.
+ - " ‘The Firm' . . . for a time even out-*box-officed* ‘Jurassic Park.' " Joe Dirck, "Grisham's Latest Loses on Appeal," *Plain Dealer* \(Cleveland\), 22 May 1994, at K1.
 
-• "He'd be as busy *ambassadoring* in Rome as he's been *mayoring* in Boston." David Nyhan, "Bill's Dabble at Diplomacy," *Boston Globe*, 2 May 1997, at A23.
+ - "He'd be as busy *ambassadoring* in Rome as he's been *mayoring* in Boston." David Nyhan, "Bill's Dabble at Diplomacy," *Boston Globe*, 2 May 1997, at A23.
 
-• "Samples were *air-expressed* to Atlanta for testing." Ken Kaye, "Asbestos Threat Delays Flights," *Sun-Sentinel* \(Ft. Lauderdale\), 3 Dec. 1997, at B3.
+ - "Samples were *air-expressed* to Atlanta for testing." Ken Kaye, "Asbestos Threat Delays Flights," *Sun-Sentinel* \(Ft. Lauderdale\), 3 Dec. 1997, at B3.
 
-• "George will be *limoed* to the Vet and given great seats." "The Winners\! When ‘K' Means a Home Run," *Phil. Daily News*, 12 Sept. 2002, at 41.
+ - "George will be *limoed* to the Vet and given great seats." "The Winners\! When ‘K' Means a Home Run," *Phil. Daily News*, 12 Sept. 2002, at 41.
 
-• " ‘Unless you can type, you're not going to make it,' she said. ‘But they don't even call it typing anymore; anymore, it's called *keyboarding*.' " Chuck Stinnett, "E-Mail, PC Have Redefined the Field and the Job," *Evansville Courier & Press*, 15 Dec. 2002, at F1. \(On the second use of *anymore* in that sentence, see **anymore**.)
+ - " ‘Unless you can type, you're not going to make it,' she said. ‘But they don't even call it typing anymore; anymore, it's called *keyboarding*.' " Chuck Stinnett, "E-Mail, PC Have Redefined the Field and the Job," *Evansville Courier & Press*, 15 Dec. 2002, at F1. \(On the second use of *anymore* in that sentence, see **anymore**.)
 
 Although some writers enjoy referring to *fast-tracking* budgets, *tasking* committees, and *mainstreaming* children, be wary of these vogue terms. They reek of jargon.
 
@@ -72,11 +72,11 @@ For some audiences, these conversions may serve that interest or various others,
 
 **F. Adjectives as Verbs.** Adjective-to-verb transformations have never been common in English. They usually have a jargonistic quality \(as in the first and third examples below\) or a trendy quality \(as in the second\). Careful writers tend to avoid them or, when quoting someone else, to distance themselves with telltale quotation marks \(as in the first example\):
 
-• "The New York City Fire Commissioner directed that her cargo tanks be ‘*inerted*' through the introduction of carbon dioxide into the tanks." Grant Gilmore & Charles L. Black Jr., *The Law of Admiralty* 925 \(2d ed. 1975\).
+ - "The New York City Fire Commissioner directed that her cargo tanks be ‘*inerted*' through the introduction of carbon dioxide into the tanks." Grant Gilmore & Charles L. Black Jr., *The Law of Admiralty* 925 \(2d ed. 1975\).
 
-• "Clinton would be well-advised to *low-key* the task force before it announces anything embarrassing." Joe Klein, "Time to Step Back," *Newsweek*, 17 May 1993, at 40.
+ - "Clinton would be well-advised to *low-key* the task force before it announces anything embarrassing." Joe Klein, "Time to Step Back," *Newsweek*, 17 May 1993, at 40.
 
-• "If any industry can be described as cutthroat, disk drives fit the bill. The industry *obsoletes* its products every nine months." Brian Deagon, "Quantum Sells Division to Maxtor for $1.4 Billion," *Investor's Bus. Daily*, 30 Mar. 2001, at A6.
+ - "If any industry can be described as cutthroat, disk drives fit the bill. The industry *obsoletes* its products every nine months." Brian Deagon, "Quantum Sells Division to Maxtor for $1.4 Billion," *Investor's Bus. Daily*, 30 Mar. 2001, at A6.
 
 There are exceptions <greening rooftops>. And to copyeditors, it is natural to talk about *lowercasing* and *uppercasing* words. But to those not familiar with copyediting, references such as these smell of jargon.
 

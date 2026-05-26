@@ -12,11 +12,11 @@ Current ratio in print \(*precedence* vs. \**precedency*\): 112:1
 
 Likewise, *precedence* sometimes ousts *precedent* in the phrase *set a precedent*—e.g.:
 
-• "The state Supreme Court earlier set the *precedence* \[read *precedent*\] for Brantley's ruling." Michelle Hillier, "Go to Vote on Park Tax, Backers Say," *Ark. Democrat-Gaz.*, 4 Nov. 1994, at A13.
+ - "The state Supreme Court earlier set the *precedence* \[read *precedent*\] for Brantley's ruling." Michelle Hillier, "Go to Vote on Park Tax, Backers Say," *Ark. Democrat-Gaz.*, 4 Nov. 1994, at A13.
 
-• "Jones set a *precedence* \[read *precedent*\] by seeking approval from the Continental Congress before accepting the foreign decoration." David T. Zabecki, "Medals and Decorations," in 2 *A Companion to American Military History* 899, 913 \(James C. Bradford ed., 2009\).
+ - "Jones set a *precedence* \[read *precedent*\] by seeking approval from the Continental Congress before accepting the foreign decoration." David T. Zabecki, "Medals and Decorations," in 2 *A Companion to American Military History* 899, 913 \(James C. Bradford ed., 2009\).
 
-• "We are in a public health crisis that is without *precedence* \[read *precedent*\] in the *lifetimes* \[read *lifetime*\] of anyone alive today." Sharon Moren, "Enough with the Righteous Anger," *Ottawa Citizen*, 16 Aug. 2021, at A5.
+ - "We are in a public health crisis that is without *precedence* \[read *precedent*\] in the *lifetimes* \[read *lifetime*\] of anyone alive today." Sharon Moren, "Enough with the Righteous Anger," *Ottawa Citizen*, 16 Aug. 2021, at A5.
 
 Language-Change Index
 

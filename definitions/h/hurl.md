@@ -8,15 +8,15 @@ Although collision was an essential part of *hurtle*'s original meaning \(dating
 
 The essential idea of *hurdle* is leaping over obstacles. Sometimes the word is misused for *hurtle*—e.g.:
 
-• "You have people *hurdling* \[read *hurtling*\] down the road in machines that weigh several tons." Julie M. King, *Post-Standard* \(Syracuse\), 19 Dec. 2002, at 2.
+ - "You have people *hurdling* \[read *hurtling*\] down the road in machines that weigh several tons." Julie M. King, *Post-Standard* \(Syracuse\), 19 Dec. 2002, at 2.
 
-• "What he'd seen were pieces of Columbia *hurdling* \[read *hurtling*\] toward earth." Nancy Bergeron, "Policeman Sickened by Sight of Shuttle," *News-Star* \(Monroe, La.\), 4 Feb. 2003, at A6.
+ - "What he'd seen were pieces of Columbia *hurdling* \[read *hurtling*\] toward earth." Nancy Bergeron, "Policeman Sickened by Sight of Shuttle," *News-Star* \(Monroe, La.\), 4 Feb. 2003, at A6.
 
 The opposite error, *hurtle* for *hurdle*, is somewhat less common but does occur—e.g.:
 
-• "It was awkward hearing the applause and congratulations, as if I had *hurtled* \[read *hurdled*\] a major obstacle." Mary Awosika, "Don't Cry Out Loud," *Sarasota Herald-Trib.*, 6 July 2001, at 12.
+ - "It was awkward hearing the applause and congratulations, as if I had *hurtled* \[read *hurdled*\] a major obstacle." Mary Awosika, "Don't Cry Out Loud," *Sarasota Herald-Trib.*, 6 July 2001, at 12.
 
-• "He watched three horses *hurtle* \[read *hurdle*\] a brush jump on the Great Meadow steeplechase course." Ian Shapira, "Bringing Ponies to the People," *Wash. Post*, 9 Oct. 2002, at B1.
+ - "He watched three horses *hurtle* \[read *hurdle*\] a brush jump on the Great Meadow steeplechase course." Ian Shapira, "Bringing Ponies to the People," *Wash. Post*, 9 Oct. 2002, at B1.
 
 See word-swapping.
 

@@ -4,9 +4,9 @@ hyphenation; **hyphenization**. *Hyphenation* is the standard form for the use o
 
 Although *hyphenization*, dating from the mid-1800s, has traditionally been just a needless variant of *hyphenation*, some degree of differentiation now appears to be emerging: increasingly, the word denotes the designation of ethnic origins by using compound forms such as *African-American*, *Asian-American*, *Mexican-American*, and the like. With its *-ize* infix, *hyphenization* carries negative connotations of divisiveness—e.g.:
 
-• "While she sometimes describes herself as Indo-American, Mukherjee deplores the ghettos of ethnic *hyphenization*." John Habich, "Mukherjee Is Inspired by Struggles of Immigration," *Star Trib.* \(Minneapolis\), 24 Mar. 2002, at E1.
+ - "While she sometimes describes herself as Indo-American, Mukherjee deplores the ghettos of ethnic *hyphenization*." John Habich, "Mukherjee Is Inspired by Struggles of Immigration," *Star Trib.* \(Minneapolis\), 24 Mar. 2002, at E1.
 
-• "They sometimes face school boards or parents who worry that lessons that used to focus on a unified sense of ‘America' are falling by the wayside in an era of *hyphenization*." Stacy A. Teicher, "Opening the Book on Race," *Christian Science Monitor*, 18 June 2002, Features §, at 14.
+ - "They sometimes face school boards or parents who worry that lessons that used to focus on a unified sense of ‘America' are falling by the wayside in an era of *hyphenization*." Stacy A. Teicher, "Opening the Book on Race," *Christian Science Monitor*, 18 June 2002, Features §, at 14.
 
 Inconsistently enough, though, we use the term *hyphenated Americans*, dating from the late 1800s—not *\*hyphenized Americans*.
 

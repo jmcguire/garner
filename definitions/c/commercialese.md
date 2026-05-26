@@ -32,13 +32,13 @@ Books on business writing have long admonished writers to avoid these mind-numbi
 
 For more on the subject, see the following books:
 
-• L.E. Frailey, *Handbook for Business Letters* \(2d ed. 1965\).
+ - L.E. Frailey, *Handbook for Business Letters* \(2d ed. 1965\).
 
-• Maryann V. Piotrowski, *Effective Business Writing* \(1989\).
+ - Maryann V. Piotrowski, *Effective Business Writing* \(1989\).
 
-• Gary Blake & Robert W. Bly, *The Elements of Business Writing* \(1991\).
+ - Gary Blake & Robert W. Bly, *The Elements of Business Writing* \(1991\).
 
-• Charles T. Brusaw et al., *The Business Writer's Handbook* \(4th ed. 1993\).
+ - Charles T. Brusaw et al., *The Business Writer's Handbook* \(4th ed. 1993\).
 
-• Bryan A. Garner, *HBR Guide to Better Business Writing* \(2013\).
+ - Bryan A. Garner, *HBR Guide to Better Business Writing* \(2013\).
 

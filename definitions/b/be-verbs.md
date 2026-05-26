@@ -4,9 +4,9 @@ Be-Verbs .
 
 **A. Wrongly Omitted in Nonfinite Uses.** *Be*-verbs, usually in the infinitive or participial form, are often omitted from sentences in which they would add clarity. One explanation is that they are intended to be "understood." \(See understood words.\) But this explanation does not excuse the ambiguity and awkwardness often caused by such omissions. The bracketed verbs in the following sentences were omitted in the original sources.
 
-• "These devices can be used to intercept a wire or oral communication; specifically designated as not \[*being*\] such devices are telephone or telegraph equipment furnished to a user and used in the ordinary course of business, and hearing aids."
+ - "These devices can be used to intercept a wire or oral communication; specifically designated as not \[*being*\] such devices are telephone or telegraph equipment furnished to a user and used in the ordinary course of business, and hearing aids."
 
-• "If the Western film offer were found \[*to be*\] different from the musical film offer, then it might be more appealing."
+ - "If the Western film offer were found \[*to be*\] different from the musical film offer, then it might be more appealing."
 
 **B. Circumlocutions with *Be*-Verbs.** Verb phrases containing *be*-verbs are often merely roundabout ways of saying something better said with a simple verb. Thus *be determinative of* for *determine* is verbose. But *be determinative* is all right without an object <this factor may be determinative in a given situation>.
 

@@ -4,9 +4,9 @@
 
 But it's often quite natural and idiomatic to use *that* in place of *in which*, or even to omit the relative pronoun altogether. These phrasings are much more relaxed—e.g.:
 
-• "*Ways that* they can help include volunteering to tutor." Letter of Janie Moore, "Parents' Help at Schools Is Good for Children," *Columbus Dispatch*, 7 Nov. 1997, at A10.
+ - "*Ways that* they can help include volunteering to tutor." Letter of Janie Moore, "Parents' Help at Schools Is Good for Children," *Columbus Dispatch*, 7 Nov. 1997, at A10.
 
-• "Well, that's the *way* they would do it in Mayberry." Letter of Kathy Heath, *Tampa Trib.*, 12 Sept. 1997, at 6.
+ - "Well, that's the *way* they would do it in Mayberry." Letter of Kathy Heath, *Tampa Trib.*, 12 Sept. 1997, at 6.
 
 Language-Change Index
 

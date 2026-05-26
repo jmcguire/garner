@@ -4,11 +4,11 @@ unbeknown; **unbeknownst**. George P. Krapp suggested that both forms are humoro
 
 These inconsistent pronouncements serve as confusing guides. We can perhaps accept as British orthodoxy the suggestion, in the *Concise Oxford Dictionary* of the 1990s, that in BrE the forms were colloquial \(for *unknown*\). In AmE, neither can really be called dialectal or colloquial, since the words are essentially literary. In current AmE usage, *unbeknownst* far outranges *unbeknown* in frequency, and it must therefore be considered at least acceptable. But *unbeknownst*, like other *-st* forms \(e.g., *whilst*, *amidst*\), seems to come less naturally to AmE. So there's something to be said for preferring *unbeknown*—e.g.:
 
-• "*Unbeknown* to her, though, Christmas was the day a curse transformed him from a handsome but vain young prince into the ugly, angry Beast." Susan King, "The Untold Chapter," *L.A. Times*, 13 Nov. 1997, at F41.
+ - "*Unbeknown* to her, though, Christmas was the day a curse transformed him from a handsome but vain young prince into the ugly, angry Beast." Susan King, "The Untold Chapter," *L.A. Times*, 13 Nov. 1997, at F41.
 
-• "*Unbeknown* to the landlord, the group installed chemistry equipment, sinks, and a fume hood." Aaron Zitner, "What Ever Happened to the Saga of RU-486?," *Boston Globe*, 23 Nov. 1997, at 18.
+ - "*Unbeknown* to the landlord, the group installed chemistry equipment, sinks, and a fume hood." Aaron Zitner, "What Ever Happened to the Saga of RU-486?," *Boston Globe*, 23 Nov. 1997, at 18.
 
-• "*Unbeknown* to the participants—either before or after—for some of the people, slipped into twenty of their thirty sets was a word linked to the negative aspects of ageing—words like *old, lonely, grey, forgetful, retired,* etc. The other participants, again quite *unbeknown* to them, saw only neutral words not linked to ageing." Ian Robertson, *The Winner Effect: How Power Affects Your Brain* 90 \(2012\).
+ - "*Unbeknown* to the participants—either before or after—for some of the people, slipped into twenty of their thirty sets was a word linked to the negative aspects of ageing—words like *old, lonely, grey, forgetful, retired,* etc. The other participants, again quite *unbeknown* to them, saw only neutral words not linked to ageing." Ian Robertson, *The Winner Effect: How Power Affects Your Brain* 90 \(2012\).
 
 See dialect.
 

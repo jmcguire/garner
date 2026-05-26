@@ -20,23 +20,23 @@ Examples may be readily found in which the primary sequence is mangled—e.g.: "
 
 But the secondary sequence also causes problems when the writer begins with a past-tense verb in the principal clause and then switches to the present or future tense in the subordinate clause—e.g.:
 
-• "Mr. Noriega limited his own movements even further, avoiding windows and even the shaded palm court out of fear that snipers *will* \[read *would*\] gun him down." Kempe, "So Noriega Is Ours," *Wall Street J.*, 4 Jan. 1990, at A1, A14.
+ - "Mr. Noriega limited his own movements even further, avoiding windows and even the shaded palm court out of fear that snipers *will* \[read *would*\] gun him down." Kempe, "So Noriega Is Ours," *Wall Street J.*, 4 Jan. 1990, at A1, A14.
 
-• "The term ‘request' *implied* that you *have* \[read *had*\] a choice in the matter." Eoin Colfer, *Artemis Fowl: The Arctic Incident* 112 \(Am. ed. 2002\).
+ - "The term ‘request' *implied* that you *have* \[read *had*\] a choice in the matter." Eoin Colfer, *Artemis Fowl: The Arctic Incident* 112 \(Am. ed. 2002\).
 
 An exceedingly common problem occurs with \(tenseless\) infinitives, which, when put after past-tense verbs, are often wrongly made perfect infinitives—e.g.:
 
-• "Remembering how busy General Maxwell Taylor must have been as Chairman of the Joint Chiefs of Staff in 1963, how would you have liked *to have been* \[read *to be*\] in his shoes when he received the following cablegram, dated October 31, 1963, from General Paul Harkins, United States commander in Vietnam?" David W. Ewing, *Writing for Results in Business, Government, and the Professions* 111 \(1974\).
+ - "Remembering how busy General Maxwell Taylor must have been as Chairman of the Joint Chiefs of Staff in 1963, how would you have liked *to have been* \[read *to be*\] in his shoes when he received the following cablegram, dated October 31, 1963, from General Paul Harkins, United States commander in Vietnam?" David W. Ewing, *Writing for Results in Business, Government, and the Professions* 111 \(1974\).
 
-• "Guest . . . had had plenty of time *to have challenged* \[read *to challenge*\] on either side." Geoff Lester, "Guest's Up and Downer\!," *Sporting Life*, 15 Nov. 1996, at 19.
+ - "Guest . . . had had plenty of time *to have challenged* \[read *to challenge*\] on either side." Geoff Lester, "Guest's Up and Downer\!," *Sporting Life*, 15 Nov. 1996, at 19.
 
-• "It would have been unfair to the co-authors, he said, *to have listed* \[read *to list*\] Dr. Lu among them." Nicholas Wade, "Scientists Find a Key Weapon Used by H.I.V.," *N.Y. Times*, 19 Apr. 1997, at 1, 9.
+ - "It would have been unfair to the co-authors, he said, *to have listed* \[read *to list*\] Dr. Lu among them." Nicholas Wade, "Scientists Find a Key Weapon Used by H.I.V.," *N.Y. Times*, 19 Apr. 1997, at 1, 9.
 
 This problem occurs frequently with the verbs *seemed* and *appeared*—e.g.:
 
-• "Ripken *appeared to have enjoyed* \[read *appeared to enjoy*\] passing Kinugasa more than he enjoyed passing Gehrig." Mark Maske, "Officially, Ripken Is on Top of the World," *Wash. Post*, 15 June 1996, at H1.
+ - "Ripken *appeared to have enjoyed* \[read *appeared to enjoy*\] passing Kinugasa more than he enjoyed passing Gehrig." Mark Maske, "Officially, Ripken Is on Top of the World," *Wash. Post*, 15 June 1996, at H1.
 
-• "Other residents, however, *seemed to have enjoyed* \[read *seemed to enjoy*\] the storm as they ventured into the hail-covered streets." Ibon Villelabeitia, "Let It Snow, Let It Snow, Let It . . . Er, Hail," *Orange County Register*, 16 Jan. 1997, Community §, at 1.
+ - "Other residents, however, *seemed to have enjoyed* \[read *seemed to enjoy*\] the storm as they ventured into the hail-covered streets." Ibon Villelabeitia, "Let It Snow, Let It Snow, Let It . . . Er, Hail," *Orange County Register*, 16 Jan. 1997, Community §, at 1.
 
 Cf. **would have liked**.
 
@@ -44,11 +44,11 @@ On a related subject, see double modals.
 
 **C. Ongoing-Truth Exception.** Are the tenses right in these sentences?
 
-• "Yesterday, she *said* she *likes* \[*liked*?\] chocolate ice cream."
+ - "Yesterday, she *said* she *likes* \[*liked*?\] chocolate ice cream."
 
-• "Last year, he *declared* that he *writes* \[*wrote*?\] fiction for a living."
+ - "Last year, he *declared* that he *writes* \[*wrote*?\] fiction for a living."
 
-• "He said last month that he *was* \[*is*?\] Italian." \[Nothing in the context suggests a discontinuance of citizenship.\]
+ - "He said last month that he *was* \[*is*?\] Italian." \[Nothing in the context suggests a discontinuance of citizenship.\]
 
 In all these examples, the present tense is correct if the assertion deals with what seems to be an ongoing state of affairs. But if things have changed \(she no longer likes ice cream, he is now a carpenter, he is known to have changed his citizenship\), then the past tense would be appropriate. Many writers mistakenly use the past tense for a condition or state that is ongoing—e.g.: "It hadn't escaped my notice that many modern texts . . . *were* \[read *are*\] self-referential, or concerned with the pleasures of ‘recognition.' " Letter of Claude Rawson, *London Rev. of Books*, 18 May 1989, at 5.
 

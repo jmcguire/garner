@@ -2,11 +2,11 @@
 
 while for *although* or *whereas* is permissible and often all but necessary, despite what purists sometimes say about the word's inherent element of time. \(See **although** & **whereas**.) *While* is a more relaxed and conversational term than *although* or *whereas*, and it works nicely when introducing a contrast—e.g.:
 
-• "But *while* vertical malls like Manhattan Mall and nearby Herald Center have struggled, multi-story shops are becoming de rigueur for many big-name retailers from Barnes & Noble to Banana Republic." Amy Feldman, "Manhattan Mall on Sale Now," *Crain's N.Y. Bus.*, 17 Feb. 1997, at 1.
+ - "But *while* vertical malls like Manhattan Mall and nearby Herald Center have struggled, multi-story shops are becoming de rigueur for many big-name retailers from Barnes & Noble to Banana Republic." Amy Feldman, "Manhattan Mall on Sale Now," *Crain's N.Y. Bus.*, 17 Feb. 1997, at 1.
 
-• "*While* police have no suspects, the owner said she heard two males laughing just before the mailbox exploded." Sara Olkon, "Homemade Bombs Set Off in a Roadside Mailbox," *Providence J.-Bull.*, 23 May 1997, at C1.
+ - "*While* police have no suspects, the owner said she heard two males laughing just before the mailbox exploded." Sara Olkon, "Homemade Bombs Set Off in a Roadside Mailbox," *Providence J.-Bull.*, 23 May 1997, at C1.
 
-• "Five of the nine Dallas school board members are white, *while* only 11 percent of Dallas' schoolchildren are white." Chris Newton, "Turmoil Continues in Dallas Schools," *Pitt. Post-Gaz.*, 18 Sept. 1997, at A9.
+ - "Five of the nine Dallas school board members are white, *while* only 11 percent of Dallas' schoolchildren are white." Chris Newton, "Turmoil Continues in Dallas Schools," *Pitt. Post-Gaz.*, 18 Sept. 1997, at A9.
 
 The *OED* traces this use back to Shakespeare in 1588 \(*Love's Labour's Lost*\).
 

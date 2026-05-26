@@ -27,11 +27,11 @@ Writers sometimes use oxymorons to good effect—e.g.: "And there was, moreover,
 
 Today, *oxymora* looks pedantic—e.g.:
 
-• "If time is money, then Florida's ‘toll-free' consumer hot lines are *oxymora* \[read *oxymorons*\]." "State Tries to Make Its Hot Lines More Efficient, Less Expensive," *Orlando Sentinel*, 23 Oct. 1995, at C1.
+ - "If time is money, then Florida's ‘toll-free' consumer hot lines are *oxymora* \[read *oxymorons*\]." "State Tries to Make Its Hot Lines More Efficient, Less Expensive," *Orlando Sentinel*, 23 Oct. 1995, at C1.
 
-• "During a fall month of a Major League Baseball season, former catcher/manager Yogi Berra, the king of *oxymora* \[read *oxymorons*\], once noted that it was getting ‘later earlier.' " "July Was 2nd Driest on Record," *Indianapolis Star*, 6 Aug. 1997, at B4.
+ - "During a fall month of a Major League Baseball season, former catcher/manager Yogi Berra, the king of *oxymora* \[read *oxymorons*\], once noted that it was getting ‘later earlier.' " "July Was 2nd Driest on Record," *Indianapolis Star*, 6 Aug. 1997, at B4.
 
-• "Add this to your list of government *oxymora* \[read *oxymorons*\]: Priority Mail." Rick Brooks, "Priority Mail Fails Test of Time," *Times Union* \(Albany\), 30 May 2002, at A1.
+ - "Add this to your list of government *oxymora* \[read *oxymorons*\]: Priority Mail." Rick Brooks, "Priority Mail Fails Test of Time," *Times Union* \(Albany\), 30 May 2002, at A1.
 
 Language-Change Index
 

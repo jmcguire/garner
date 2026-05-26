@@ -4,11 +4,11 @@ Hybrids, or words composed of morphemes from different languages \(such as *tele
 
 One occasionally finds hybrids criticized in older literature—e.g.:
 
-• **1902:** "*Ize* and *ist* ‘are Greek terminations, and cannot properly be added to Anglo-Saxon words. *Ist* is the substantive form, *ize* the verbal.' Jeopard*ize* is one of the monsters made by adding *ize* to an English verb. *Jeopard* means to put in peril—and jeopard*ize* could mean no more . . . . So, also, is the Anglo-Saxon *er* \(sign of the doer of a thing\) ‘incorrectly affixed to such words as *photograph* and *telegraph*'; the proper termination is *ist*: *photographist, telegraphist*, the same as *paragraph*–*paragraphist*. *Geographer* and *biographer* are exceptions firmly fixed in the language." Ralcy Husted Bell, *The Worth of Words* 149–50 \(1902\).
+ - **1902:** "*Ize* and *ist* ‘are Greek terminations, and cannot properly be added to Anglo-Saxon words. *Ist* is the substantive form, *ize* the verbal.' Jeopard*ize* is one of the monsters made by adding *ize* to an English verb. *Jeopard* means to put in peril—and jeopard*ize* could mean no more . . . . So, also, is the Anglo-Saxon *er* \(sign of the doer of a thing\) ‘incorrectly affixed to such words as *photograph* and *telegraph*'; the proper termination is *ist*: *photographist, telegraphist*, the same as *paragraph*–*paragraphist*. *Geographer* and *biographer* are exceptions firmly fixed in the language." Ralcy Husted Bell, *The Worth of Words* 149–50 \(1902\).
 
-• **1930:** "*A-* \(not\) is Greek; *moral* is Latin. It is at least desirable that in making new words the two languages should not be mixed." H.W. Fowler & F.G. Fowler, *The King's English* 50 \(3d ed. 1930\).
+ - **1930:** "*A-* \(not\) is Greek; *moral* is Latin. It is at least desirable that in making new words the two languages should not be mixed." H.W. Fowler & F.G. Fowler, *The King's English* 50 \(3d ed. 1930\).
 
-• **1942:** "Neologisms . . . should be formed with some regard to etymological decency; the marriage of a so very English word as *swim* with a so very Greek vocable *stad* strikes one as an unseemly misalliance." Eric Partridge, *U&A* at 202.
+ - **1942:** "Neologisms . . . should be formed with some regard to etymological decency; the marriage of a so very English word as *swim* with a so very Greek vocable *stad* strikes one as an unseemly misalliance." Eric Partridge, *U&A* at 202.
 
 Today, though, only a few Classics professors object. As an American lexicographer once observed, "Not many people care whether a word has Greek and Latin elements mixed in it." Mitford Mathews, *American Words* 93 \(1959\). Perhaps this is because of our increasing ignorance of Classical tongues. Whatever the cause, though, modern neologists have little regard for the morphological integrity of the words they coin.
 

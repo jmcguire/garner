@@ -8,33 +8,33 @@ Many mondegreens occur in transcribed speech. A secretary or court reporter does
 
 Perhaps the most interesting of all, though, are those that result from listening to songs. Often the lyrics aren't readily available to listeners, and often the lyrics are sung a little indistinctly. So listeners create their own plausible versions, some of which in sheer creativity rival the originals—e.g.:
 
-• "A girl with kaleidoscope eyes." \(Beatles\) "A girl with colitis goes by."
+ - "A girl with kaleidoscope eyes." \(Beatles\) "A girl with colitis goes by."
 
-• "A Merry Conceit." \(Folk tune\) "American Seat."
+ - "A Merry Conceit." \(Folk tune\) "American Seat."
 
-• "Don't it make my brown eyes blue." \(Crystal Gayle\) "Donuts make my brown eyes blue."
+ - "Don't it make my brown eyes blue." \(Crystal Gayle\) "Donuts make my brown eyes blue."
 
-• "Gladly, the Cross I'd Bear." \(Name of hymn\) "Gladly, the Cross-Eyed Bear."
+ - "Gladly, the Cross I'd Bear." \(Name of hymn\) "Gladly, the Cross-Eyed Bear."
 
-• "Lead On, O King Eternal." \(Hymn title\) "Lead On, O Kinky Turtle."
+ - "Lead On, O King Eternal." \(Hymn title\) "Lead On, O Kinky Turtle."
 
-• "Livin' is easy with eyes closed." \(Beatles\) "Livin' is easy with nice clothes."
+ - "Livin' is easy with eyes closed." \(Beatles\) "Livin' is easy with nice clothes."
 
-• "Revved up like a deuce, another runner in the night." \(Manfred Mann adapting Bruce Springsteen\) "Wrapped up like a douche in the middle of the night."
+ - "Revved up like a deuce, another runner in the night." \(Manfred Mann adapting Bruce Springsteen\) "Wrapped up like a douche in the middle of the night."
 
-• " 'Scuse me while I kiss the sky." \(Jimi Hendrix\) " 'Scuse me while I kiss this guy."
+ - " 'Scuse me while I kiss the sky." \(Jimi Hendrix\) " 'Scuse me while I kiss this guy."
 
-• "Secret Agent Man." \(Johnny Rivers\) "Secret Asian Man."
+ - "Secret Agent Man." \(Johnny Rivers\) "Secret Asian Man."
 
-• "She's got a ticket to ride." \(Beatles\) "She's got a tick in her eye."
+ - "She's got a ticket to ride." \(Beatles\) "She's got a tick in her eye."
 
-• "Somewhere over the rainbow, way up high." \("Somewhere Over the Rainbow"\) "Somewhere over the rainbow, weigh a pie."
+ - "Somewhere over the rainbow, way up high." \("Somewhere Over the Rainbow"\) "Somewhere over the rainbow, weigh a pie."
 
-• "The answer, my friends, is blowin' in the wind." \(Bob Dylan\) "The ants are my friends, it's blowin' in the wind."
+ - "The answer, my friends, is blowin' in the wind." \(Bob Dylan\) "The ants are my friends, it's blowin' in the wind."
 
-• "There's a bad moon on the rise." \(Creedence Clearwater Revival\) "There's a bathroom on the right."
+ - "There's a bad moon on the rise." \(Creedence Clearwater Revival\) "There's a bathroom on the right."
 
-• "Today, I feel like pleasing you more than before." \(Jefferson Airplane\) "Today, I feel like leaving you more than before."
+ - "Today, I feel like pleasing you more than before." \(Jefferson Airplane\) "Today, I feel like leaving you more than before."
 
 Sometimes a misheard phrase does more than just confuse the listening public. In 1979, Bonnie Raitt recorded Jackson Browne's lovelorn song "Sleep's Dark and Silent Gate." As Browne composed the song, one line goes: "I found my love too late." But Raitt sang this line differently: "I found my love today." So Raitt's version is \(unwittingly?\) less forlorn than Browne's.
 

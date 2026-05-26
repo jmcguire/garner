@@ -4,9 +4,9 @@ so.
 
 **A. Beginning Sentences with.** Like *And* and *But*, *So* is a good word for beginning a sentence \(no comma following\). Each of these three is the informal equivalent of a heavier and longer conjunctive adverb \(*Additionally*, *However*, and *Consequently* or *Therefore*\). Rhetoric, not grammar, is what counts here. The shorter word affords a brisker pace—e.g.:
 
-• "After more than tripling the magazine's newsstand sales, she was hired by Hearst Magazines to start the U.S. version of *Marie Claire* . . . . The 1994 start-up became the most successful in the company's history. *So* she was picked to succeed Brown." Janny Scott, "New Cosmo Editor's Life Is a Page Right Out of the Magazine," *San Diego Union-Trib.*, 1 June 1997, at D5.
+ - "After more than tripling the magazine's newsstand sales, she was hired by Hearst Magazines to start the U.S. version of *Marie Claire* . . . . The 1994 start-up became the most successful in the company's history. *So* she was picked to succeed Brown." Janny Scott, "New Cosmo Editor's Life Is a Page Right Out of the Magazine," *San Diego Union-Trib.*, 1 June 1997, at D5.
 
-• "The world they've been living in has been broken, says he. *So* they cling to football: an old ritual to get them through New Year's Day." William Green, "The Sky Was Falling," *Forbes*, 2 June 1997, at 208.
+ - "The world they've been living in has been broken, says he. *So* they cling to football: an old ritual to get them through New Year's Day." William Green, "The Sky Was Falling," *Forbes*, 2 June 1997, at 208.
 
 See **and \(a\)** & **but \(a\)**.
 
@@ -22,9 +22,9 @@ As a linguistic matter, the prefatory *so* is often a speech act equivalent to "
 
 **C. *\*So therefore*.** Coupling *so* with *therefore* typically results in a redundancy—e.g.:
 
-• "*So therefore* \[read *Therefore,*\] wise British businesses should carry on with the notion of sterling as a generally strong currency in the medium term." Hamish McRae, "What Will Happen to the Pound Outside the Eurozone?," *Independent*, 23 Jan. 2003, at 22.
+ - "*So therefore* \[read *Therefore,*\] wise British businesses should carry on with the notion of sterling as a generally strong currency in the medium term." Hamish McRae, "What Will Happen to the Pound Outside the Eurozone?," *Independent*, 23 Jan. 2003, at 22.
 
-• "*So, therefore,* \[read *So*\] with all the opportunity for armchair psychoanalyzing, getting to know the real Mr. Archer should be a slam dunk, right?" Carol Herman, "Peer Disgraced but Managing to Thrill, Still," *Wash. Times*, 2 Feb. 2003, at B6.
+ - "*So, therefore,* \[read *So*\] with all the opportunity for armchair psychoanalyzing, getting to know the real Mr. Archer should be a slam dunk, right?" Carol Herman, "Peer Disgraced but Managing to Thrill, Still," *Wash. Times*, 2 Feb. 2003, at B6.
 
 **D. The Construction *so . . . as*.** See **as . . . as \(a\)**.
 

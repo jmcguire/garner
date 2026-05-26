@@ -14,23 +14,23 @@ There is simply no way to reason out why *Stone Age* is capitalized but *space a
 
 Despite all those paradoxes, and many others, the following conventions may prove useful when deciding whether to capitalize:
 
-• Capitalize the first word of a sentence even if the word standing alone would be an exception to the rule to capitalize proper nouns, such as *eBay* <EBay reported higher earnings Tuesday>.
+ - Capitalize the first word of a sentence even if the word standing alone would be an exception to the rule to capitalize proper nouns, such as *eBay* <EBay reported higher earnings Tuesday>.
 
-• Capitalize the first word of a complete sentence within a sentence, such as a direct quotation <I said, "Do you want to dance?">.
+ - Capitalize the first word of a complete sentence within a sentence, such as a direct quotation <I said, "Do you want to dance?">.
 
-• When a common noun is part of a proper name, capitalize it when the entire name appears <Mississippi River>, but not when it is separated from the proper name <the Mississippi and Missouri rivers>. See names \(a\).
+ - When a common noun is part of a proper name, capitalize it when the entire name appears <Mississippi River>, but not when it is separated from the proper name <the Mississippi and Missouri rivers>. See names \(a\).
 
-• Capitalize the adjectival form of a noun that is always proper <Keynesian economics> but not one from a noun that can also be common <congressional investigation> or that has lost any connection with the thing described by the combined term <french fries>.
+ - Capitalize the adjectival form of a noun that is always proper <Keynesian economics> but not one from a noun that can also be common <congressional investigation> or that has lost any connection with the thing described by the combined term <french fries>.
 
-• Usually capitalize all letters of an acronym or initialism \(and avoid periods\) <NCAA>, but follow the preferred style if it is different <Nasdaq> and any style established by long usage <U.S.> <mpg>. \(See abbreviations \(a\).) This is another area in which a style manual is essential.
+ - Usually capitalize all letters of an acronym or initialism \(and avoid periods\) <NCAA>, but follow the preferred style if it is different <Nasdaq> and any style established by long usage <U.S.> <mpg>. \(See abbreviations \(a\).) This is another area in which a style manual is essential.
 
-• Capitalize compass directions when they refer to identifiable places <the American West>, but not when they are just general directions <go west, young man>.
+ - Capitalize compass directions when they refer to identifiable places <the American West>, but not when they are just general directions <go west, young man>.
 
-• Capitalize days of the week <Monday>, months of the year <June>, and holidays <Fourth of July>, but not seasons <fall>, even if used attributively <spring 2004 semester>.
+ - Capitalize days of the week <Monday>, months of the year <June>, and holidays <Fourth of July>, but not seasons <fall>, even if used attributively <spring 2004 semester>.
 
-• Capitalize historic eras <the Roaring Twenties>, but not general labels that could apply to many eras <the golden age of radio>.
+ - Capitalize historic eras <the Roaring Twenties>, but not general labels that could apply to many eras <the golden age of radio>.
 
-• Capitalize sparingly to show personification <it's not nice to fool Mother Nature> or that something is being elevated from the commonplace for some rhetorical purpose <still waiting for that One Big Deal>.
+ - Capitalize sparingly to show personification <it's not nice to fool Mother Nature> or that something is being elevated from the commonplace for some rhetorical purpose <still waiting for that One Big Deal>.
 
 **B. Overcapitalizing.** Inexperienced writers—and overzealous house stylists—often tend to capitalize common nouns inappropriately. As mentioned above, a house style may insist that certain common nouns \(e.g., *Company*, *University*, *City*\) be capitalized when referring to its own institution. But even this holdout against the modern trend is weakening—the University of Colorado at Boulder recently declared that its internal style is to always make *university* lowercase when it stands alone. A few nouns that are arguably common in form are always capitalized, such as *House* \(for House of Representatives\) and *Crown* for the British monarchy. But that's not an excuse to capitalize *federal* or *government*. Again, a style manual is invaluable for handling the exceptions to the rule.
 

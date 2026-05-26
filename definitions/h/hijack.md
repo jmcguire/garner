@@ -4,9 +4,9 @@ hijack. Vehicles and airplanes are *hijacked*, not people. E.g.: " ‘It's hor
 
 The word is often misspelled *\*highjack*—e.g.:
 
-• "Buildings are bombed and planes are *highjacked* \[read *hijacked*\]." Anita G. Nicholls, "Jerry Falwell Isn't This Nation's Problem," *Richmond Times-Dispatch*, 28 May 1997, at A8.
+ - "Buildings are bombed and planes are *highjacked* \[read *hijacked*\]." Anita G. Nicholls, "Jerry Falwell Isn't This Nation's Problem," *Richmond Times-Dispatch*, 28 May 1997, at A8.
 
-• "The need for such work became clear to Karadja in December 1994, during the *highjacking* \[read *hijacking*\] of an airplane in which her daughter and sister were on board." Scott Peterson, "Amid Algeria's Massacres," *Christian Science Monitor*, 9 Jan. 1998, Int'l §, at 1.
+ - "The need for such work became clear to Karadja in December 1994, during the *highjacking* \[read *hijacking*\] of an airplane in which her daughter and sister were on board." Scott Peterson, "Amid Algeria's Massacres," *Christian Science Monitor*, 9 Jan. 1998, Int'l §, at 1.
 
 Language-Change Index
 

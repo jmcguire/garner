@@ -4,11 +4,11 @@ obviate. Some modern dictionaries define *obviate* as meaning "to render unneces
 
 But that definition is unduly restrictive. In fact, the *OED* doesn't even list this sense. *Obviate* more often means "to anticipate and prevent or quickly eliminate \(difficulties, obstacles, etc.\)"—e.g.:
 
-• "Human influence is a natural part of planetary evolution that might need to be tempered but certainly not *obviated*." "Environment: Facing Facts," *Richmond Times-Dispatch*, 6 Dec. 1995, at A10.
+ - "Human influence is a natural part of planetary evolution that might need to be tempered but certainly not *obviated*." "Environment: Facing Facts," *Richmond Times-Dispatch*, 6 Dec. 1995, at A10.
 
-• "Mr. Kasparov said he had missed the draw because the computer had played so brilliantly that he thought it would have *obviated* the possibility of the draw known as perpetual check." Bruce Weber, "Kasparov Sings the Deep Blues," *Int'l Herald Trib.*, 13 May 1997, at 1.
+ - "Mr. Kasparov said he had missed the draw because the computer had played so brilliantly that he thought it would have *obviated* the possibility of the draw known as perpetual check." Bruce Weber, "Kasparov Sings the Deep Blues," *Int'l Herald Trib.*, 13 May 1997, at 1.
 
-• "I am also aware that if I capitulate, ceding my claim without contesting the other claim, I will raise the very suspicions I am seeking to *obviate*." Chelsea Quinn Yarbro, *Communion Blood* 23 \(1999\).
+ - "I am also aware that if I capitulate, ceding my claim without contesting the other claim, I will raise the very suspicions I am seeking to *obviate*." Chelsea Quinn Yarbro, *Communion Blood* 23 \(1999\).
 
 See **circumvent**. Cf. **vitiate**.
 

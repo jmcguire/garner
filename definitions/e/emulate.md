@@ -4,9 +4,9 @@ emulate \(= \[1\] to strive to equal or rival in quality or accomplishment; or \
 
 This nuance is destroyed when a person is said to emulate not someone else but someone else's speech patterns or hair style or even toothbrush. In traditional idiom, a person doesn't emulate a habit or an implement. The better word for all such uses is *adopt, espouse, take on,* or *use*—e.g.:
 
-• "For his second directing job . . . , Avary *emulates* \[read *adopts*\] a novelist's style." Bob Ross, "Love Is in the Air," *Tampa Trib.*, 11 Oct. 2002, Friday Extra §, at 25.
+ - "For his second directing job . . . , Avary *emulates* \[read *adopts*\] a novelist's style." Bob Ross, "Love Is in the Air," *Tampa Trib.*, 11 Oct. 2002, Friday Extra §, at 25.
 
-• "Success breeds imitation, and more authoritarian regimes \(plus some backsliding democracies\) across Eurasia, Latin America, the Middle East, and Africa are beginning to *emulate* \[read *adopt*\] these \[antidemocratic\] practices." Alexander Cooley, "The Rise of Global Counternorms," in *Regardless of Frontiers* 310 \(Lee C. Bollinger & Agnès Callamard eds., 2021\).
+ - "Success breeds imitation, and more authoritarian regimes \(plus some backsliding democracies\) across Eurasia, Latin America, the Middle East, and Africa are beginning to *emulate* \[read *adopt*\] these \[antidemocratic\] practices." Alexander Cooley, "The Rise of Global Counternorms," in *Regardless of Frontiers* 310 \(Lee C. Bollinger & Agnès Callamard eds., 2021\).
 
 Language-Change Index
 

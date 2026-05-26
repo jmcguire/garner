@@ -4,9 +4,9 @@ curtsy; **curtsey**. This word, a variant of the French loanword *courtesy*, aro
 
 Interestingly, the *OED* records *courtesy* as an obsolete form of *curtsy*. Yet it's not quite obsolete. It occurs many times in a 21st-century book, in each instance as a needless variant of *curtsy*—e.g.:
 
-• "She was making her *courtesy* \[read *curtsy*\] to him. He bowed to her. They both straightened up and stood in silence." Ursula K. Le Guin, *The Other Wind* 162 \(2001\).
+ - "She was making her *courtesy* \[read *curtsy*\] to him. He bowed to her. They both straightened up and stood in silence." Ursula K. Le Guin, *The Other Wind* 162 \(2001\).
 
-• "Lebannen bowed. ‘Your presence honors us, Princess.' She performed a deep, straight-backed *courtesy* \[read *curtsy*\] and said, ‘Thank you.' " *Ibid.* at 201.
+ - "Lebannen bowed. ‘Your presence honors us, Princess.' She performed a deep, straight-backed *courtesy* \[read *curtsy*\] and said, ‘Thank you.' " *Ibid.* at 201.
 
 Yet there are serious complications. And rather than try to rationalize them, it might be best simply to bow out and show the current \(dizzying\) statistics. It's enough to make you bow down to the word.
 

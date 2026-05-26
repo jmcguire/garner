@@ -8,23 +8,23 @@ Of the usual AmE method—*May 26, 2009*—the first editor of the *OED* said: "
 
 **B. Month and Year.** *February 2010* is better than *February of 2010*. Stylebooks have long agreed that no comma should appear between the month and the year. Among them are these:
 
-• *The Washington Post Deskbook on Style* 127 \(1978\).
+ - *The Washington Post Deskbook on Style* 127 \(1978\).
 
-• Kate L. Turabian, *A Manual for Writers of Term Papers, Theses, and Dissertations* 30 \(5th ed. 1987\).
+ - Kate L. Turabian, *A Manual for Writers of Term Papers, Theses, and Dissertations* 30 \(5th ed. 1987\).
 
-• *Publication Manual of the American Psychological Association* 63 \(4th ed. 1994\).
+ - *Publication Manual of the American Psychological Association* 63 \(4th ed. 1994\).
 
-• *Scientific Style and Format* 227 \(6th ed. 1994\).
+ - *Scientific Style and Format* 227 \(6th ed. 1994\).
 
-• Joseph Gibaldi, *MLA Handbook for Writers of Research Papers* 70 \(1999\).
+ - Joseph Gibaldi, *MLA Handbook for Writers of Research Papers* 70 \(1999\).
 
-• Allan M. Siegal & William G. Connolly, *The New York Times Manual of Style and Usage* 101 \(1999\).
+ - Allan M. Siegal & William G. Connolly, *The New York Times Manual of Style and Usage* 101 \(1999\).
 
-• *Webster's New World English Grammar Handbook* 161 \(2001\).
+ - *Webster's New World English Grammar Handbook* 161 \(2001\).
 
-• *The Associated Press Stylebook* 177 \(2013\).
+ - *The Associated Press Stylebook* 177 \(2013\).
 
-• *The Chicago Manual of Style* § 6.38, at 381–82 \(17th ed. 2017\).
+ - *The Chicago Manual of Style* § 6.38, at 381–82 \(17th ed. 2017\).
 
 It may therefore seem strange to encounter an article in *The New Yorker*, one of our best-edited literary magazines, in which *January, 2000* and *March, 2000* appear on the first page, and then five similar references appear throughout the piece. \(See Scott Turow, "To Kill or Not to Kill," *New Yorker*, 6 Jan. 2003, at 40–47.\) This seems anomalous: almost every professional editor would immediately delete the superfluous commas. Yet seasoned readers of *The New Yorker* know that these little bacilli in month–year references are one of the unfortunate conventions of the magazine's house style.
 

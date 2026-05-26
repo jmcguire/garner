@@ -4,11 +4,11 @@ slide > slid > slid. So inflected. A few older grammar books listed *\*slidden* 
 
 The past-tense form *\*slided* is standard only in the AmE compound *slip-slided*—e.g.: "For most of the day, \[Ruston\] Boucher had *slip-slided* through other subdivisions and sauntered up to a retirement home." Tim Bryant & Stephen Deere, "No Street Slick Enough to Keep Florists from Getting Valentine's Flowers to You," *St. Louis Post-Dispatch*, 14 Feb. 2007, at A1. In other constructions, it's erroneous—e.g.:
 
-• "The puck *slided* \[read *slid*\] down the ice." Steven Bruss, "Pro Hockey," *Atlanta J.-Const.*, 17 Feb. 1996, at G6.
+ - "The puck *slided* \[read *slid*\] down the ice." Steven Bruss, "Pro Hockey," *Atlanta J.-Const.*, 17 Feb. 1996, at G6.
 
-• "Over the years, the \[National Baptist Convention\] has changed and matured, \[Jesse Jackson\] added, claiming the laws of the nation have *slided* \[read *slid*\] during that time." Harold McNeil, "Baptist Gathering Hears Jackson Call for Return to Activism," *Buffalo News*, 7 Aug. 1997, at C5.
+ - "Over the years, the \[National Baptist Convention\] has changed and matured, \[Jesse Jackson\] added, claiming the laws of the nation have *slided* \[read *slid*\] during that time." Harold McNeil, "Baptist Gathering Hears Jackson Call for Return to Activism," *Buffalo News*, 7 Aug. 1997, at C5.
 
-• "They helped Bezanson put on a life jacket after he crawled onto the truck's hood, then got him into a basket that was *slided* \[read *slid*\] across the ladder to land." "N.H. Divers Rescue Driver from Icy River," *Seattle Times*, 19 Apr. 2001, at A2.
+ - "They helped Bezanson put on a life jacket after he crawled onto the truck's hood, then got him into a basket that was *slided* \[read *slid*\] across the ladder to land." "N.H. Divers Rescue Driver from Icy River," *Seattle Times*, 19 Apr. 2001, at A2.
 
 See irregular verbs.
 

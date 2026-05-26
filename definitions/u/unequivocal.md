@@ -4,11 +4,11 @@ unequivocal; **\*unequivocable**. The adjective *equivocal* \(= deliberately unc
 
 In the mid-1800s, the mistaken form *\*unequivocable* first appeared. It became more and more widespread during the 1900s, reaching its zenith of popularity in the early 1980s. It has tapered off significantly since then, perhaps with the rise of spell-checkers, but it still occurs—e.g.:
 
-• "Coach Joan Stolarik can say *unequivocably* \[read *unequivocally*\] that her team will win when Wilson Hunt swims against Wilson Fike." Tim Stevens, "Two Rival Wilson Teams, One Coach," *News & Observer* \(Raleigh\), 27 Nov. 1996, at C10.
+ - "Coach Joan Stolarik can say *unequivocably* \[read *unequivocally*\] that her team will win when Wilson Hunt swims against Wilson Fike." Tim Stevens, "Two Rival Wilson Teams, One Coach," *News & Observer* \(Raleigh\), 27 Nov. 1996, at C10.
 
-• "And yet it is in this same voice that Martha Ingram states *unequivocably* \[read *unequivocally*\] her answer to the question: What do you like most about business?" Anne Faircloth, "Minding Martha's Business," *Fortune*, 29 Sept. 1997, at 173.
+ - "And yet it is in this same voice that Martha Ingram states *unequivocably* \[read *unequivocally*\] her answer to the question: What do you like most about business?" Anne Faircloth, "Minding Martha's Business," *Fortune*, 29 Sept. 1997, at 173.
 
-• "The Fort Worth Seminary and several other agencies gave *unequivocable* \[read *unequivocal*\] affirmation." Stewart G. Cole, *The History of Fundamentalism* 289 \(2008\).
+ - "The Fort Worth Seminary and several other agencies gave *unequivocable* \[read *unequivocal*\] affirmation." Stewart G. Cole, *The History of Fundamentalism* 289 \(2008\).
 
 Interestingly, the supposed antonym of this nonword—namely, *\*equivocable*—has never gained any currency.
 

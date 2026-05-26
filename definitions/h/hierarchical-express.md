@@ -8,19 +8,19 @@ Analogous situations of recognizing superior rank arise more overtly in courts \
 
 The more interesting everyday examples relate to situational awareness of one's linguistic place. Normally these arise in relationships such as those of parent/child, adult/minor, teacher/pupil, and employer/employee. In each of those pairings, it might be acceptable for the first \(superior\) in the dichotomy to say to the second \(subordinate\), *I'm proud of you* or *I'm disappointed in you*. Only in exceptional circumstances could the second say such a thing to the first without seeming somehow insubordinate. Likewise, imperatives are more usual with the first \(*Have a seat*, *Turn to page 49*, *Go ahead*, etc.\). To the extent that any such idea might be conveyed from a lower-ranking person to a higher, it would be couched as a polite request or even a question \(*Would you like to have a seat?* *If you would, please look at page 49.* *Would you like to go ahead?* etc.\). All sorts of things can be said by the higher-ranking person to the lower—e.g.:
 
-• At ease \(in the military\).
+ - At ease \(in the military\).
 
-• Don't delay.
+ - Don't delay.
 
-• Get it done pronto.
+ - Get it done pronto.
 
-• Get to it.
+ - Get to it.
 
-• I'm counting on you.
+ - I'm counting on you.
 
-• Make it so.
+ - Make it so.
 
-• Shape up.
+ - Shape up.
 
 Sometimes there are much subtler distinctions. The verb *befriend*, for example, has traditionally connoted not just "to make friends with" but "to give favor, aid, or benefit to"—meaning that the higher-ranking befriends the lower-ranking, not vice versa. Or equals can befriend each other, but a lower-ranking person cannot idiomatically or appropriately be said to "befriend" a higher-ranking person.
 

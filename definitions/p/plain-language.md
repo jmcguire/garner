@@ -56,31 +56,31 @@ Fourth, the very idea of professionalism demands that writers not conspire again
 
 **B. A Plain-Language Library.** Those wishing to consult further sources in the field may find the following books helpful:
 
-• Martin Cutts, *The Oxford Guide to Plain English* \(5th ed. 2020\).
+ - Martin Cutts, *The Oxford Guide to Plain English* \(5th ed. 2020\).
 
-• Robert D. Eagleson, *Writing in Plain English* \(1990\).
+ - Robert D. Eagleson, *Writing in Plain English* \(1990\).
 
-• Rudolf Flesch, *The Art of Plain Talk* \(1951; repr. 1978\).
+ - Rudolf Flesch, *The Art of Plain Talk* \(1951; repr. 1978\).
 
-• Rudolf Flesch, *The Art of Readable Writing* \(1949\).
+ - Rudolf Flesch, *The Art of Readable Writing* \(1949\).
 
-• Rudolf Flesch, *How to Write Plain English: A Book for Lawyers and Consumers* \(1979\).
+ - Rudolf Flesch, *How to Write Plain English: A Book for Lawyers and Consumers* \(1979\).
 
-• Bryan A. Garner, *Legal Writing in Plain English* \(2d ed. 2013\).
+ - Bryan A. Garner, *Legal Writing in Plain English* \(2d ed. 2013\).
 
-• Ernest Gowers, *The Complete Plain Words* \(Sidney Greenbaum & Janet Whitcut eds., 3d ed. 1986\).
+ - Ernest Gowers, *The Complete Plain Words* \(Sidney Greenbaum & Janet Whitcut eds., 3d ed. 1986\).
 
-• Robert Gunning, *The Technique of Clear Writing* \(rev. ed. 1968\).
+ - Robert Gunning, *The Technique of Clear Writing* \(rev. ed. 1968\).
 
-• *How Plain English Works for Business: Twelve Case Studies* \(U.S. Dep't of Commerce, Office of Consumer Affairs, 1984\).
+ - *How Plain English Works for Business: Twelve Case Studies* \(U.S. Dep't of Commerce, Office of Consumer Affairs, 1984\).
 
-• Joseph Kimble, *Lifting the Fog of Legalese* \(2006\).
+ - Joseph Kimble, *Lifting the Fog of Legalese* \(2006\).
 
-• Joseph Kimble, *Seeing Through Legalese* \(2017\).
+ - Joseph Kimble, *Seeing Through Legalese* \(2017\).
 
-• Joseph Kimble, *Writing for Dollars, Writing to Please* \(2012\).
+ - Joseph Kimble, *Writing for Dollars, Writing to Please* \(2012\).
 
-• Richard Lauchman, *Plain Style: Techniques for Simple, Concise, Emphatic Business Writing* \(1993\).
+ - Richard Lauchman, *Plain Style: Techniques for Simple, Concise, Emphatic Business Writing* \(1993\).
 
-• *Plain Language: Principles and Practice* \(Erwin R. Steinberg ed., 1991\).
+ - *Plain Language: Principles and Practice* \(Erwin R. Steinberg ed., 1991\).
 

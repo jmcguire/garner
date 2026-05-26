@@ -4,9 +4,9 @@ deign /dayn/, properly speaking, means "to condescend \(to do something\) in a w
 
 When used in the sense "to decide, see fit," the word has fallen victim to slipshod extension—e.g.:
 
-• "On some nights, during two hours of prime-time coverage, the networks *deigned* \[read *decided* or *saw fit*\] to show less than half an hour from the podium." "Conventional Wisdom," *Christian Science Monitor*, 6 Sept. 1996, at 20.
+ - "On some nights, during two hours of prime-time coverage, the networks *deigned* \[read *decided* or *saw fit*\] to show less than half an hour from the podium." "Conventional Wisdom," *Christian Science Monitor*, 6 Sept. 1996, at 20.
 
-• "The fast food nugget has faced criticism over the years—no one would *deign* \[read *see fit* or *dare*?\] to call them healthy." Lucas Kwan Peterson, "Nugget of Truth on Truth of Nuggets," *L.A. Times*, 22 Aug. 2021, Food §, at 2.
+ - "The fast food nugget has faced criticism over the years—no one would *deign* \[read *see fit* or *dare*?\] to call them healthy." Lucas Kwan Peterson, "Nugget of Truth on Truth of Nuggets," *L.A. Times*, 22 Aug. 2021, Food §, at 2.
 
 Language-Change Index
 

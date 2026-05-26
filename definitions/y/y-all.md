@@ -4,11 +4,11 @@ y'all.
 
 **A. Spelling.** Dating back to the early 1800s, this sturdy Southernism—prevalent from Texas to Virginia—is most logically *y'all*, not *\*ya'll*, and the better form is vastly predominant in print sources. Only the *you* of *you all* is contracted. And in modern print sources, *y'all* is nine times as common. So *\*ya'll* \(which misleadingly resembles *he'll*, *she'll*, and *we'll*\) deserves an edit—e.g.:
 
-• "If *ya'll* \[read *y'all*\] want to stink up your breath and your clothes and start forest fires and make other people sick and get heart disease and cancer . . . well, you just go right ahead." Jim Jenkins, "Thank Goodness Smoking Was Not Addictive," *News & Observer* \(Raleigh\), 26 May 1994, at A18.
+ - "If *ya'll* \[read *y'all*\] want to stink up your breath and your clothes and start forest fires and make other people sick and get heart disease and cancer . . . well, you just go right ahead." Jim Jenkins, "Thank Goodness Smoking Was Not Addictive," *News & Observer* \(Raleigh\), 26 May 1994, at A18.
 
-• " ‘Geeeeeeez,' Puck yelled from above. ‘*Ya'll* \[read *Y'all*\] look like ants from up here.' " Jim Souhan, "Forever," *Star Trib.* \(Minneapolis\), 23 May 1997, at C12.
+ - " ‘Geeeeeeez,' Puck yelled from above. ‘*Ya'll* \[read *Y'all*\] look like ants from up here.' " Jim Souhan, "Forever," *Star Trib.* \(Minneapolis\), 23 May 1997, at C12.
 
-• " ‘I kind of felt bamboozled because *ya'll* \[read *y'all*\] told me to go.' " Mark Daniels, "Cam Newton Was Shocked the Patriots Cut Him," *Providence J.*, 10 Sept. 2021, Sports §.
+ - " ‘I kind of felt bamboozled because *ya'll* \[read *y'all*\] told me to go.' " Mark Daniels, "Cam Newton Was Shocked the Patriots Cut Him," *Providence J.*, 10 Sept. 2021, Sports §.
 
 In the late 1900s, some writers began spelling the term without an apostrophe: *\*yall*. See Jan Tillery & Guy Bailey, "*Yall* in Oklahoma," 73 *Am. Speech* 257 \(1998\). This spelling is not yet widespread \(and not recommended\).
 

@@ -18,47 +18,47 @@ Another leading grammar, *CGEL*, notes that "there can be little doubt that the 
 
 *Longman* calls it rare; *CGEL* calls it common. The latter view is doubtless right, and the empirical evidence shows the problem to have been on the rise since 2000. Consider this array of examples, beginning with presidential contender Bill Clinton in 1992:
 
-• "My mother was busy *raising my brother and I* \[read *raising my brother and me*\]." / "*Give Al Gore and I* \[read *Give Al Gore and me*\] a chance to bring America back." Bill Clinton, accepting the Democratic nomination for President of the United States, 16 July 1992.
+ - "My mother was busy *raising my brother and I* \[read *raising my brother and me*\]." / "*Give Al Gore and I* \[read *Give Al Gore and me*\] a chance to bring America back." Bill Clinton, accepting the Democratic nomination for President of the United States, 16 July 1992.
 
-• "That tax of course is *passed on to you and I* \[read *passed on to you and me*\] through a franchise fee on our electric bills. Boiling it down, our city *charges you and I* \[read *charges you and me*\] for the electric company to use our city easements." "WT Should Be Appreciated," *Canyon News* \(Tex.\), 20 Aug. 1995, at 4.
+ - "That tax of course is *passed on to you and I* \[read *passed on to you and me*\] through a franchise fee on our electric bills. Boiling it down, our city *charges you and I* \[read *charges you and me*\] for the electric company to use our city easements." "WT Should Be Appreciated," *Canyon News* \(Tex.\), 20 Aug. 1995, at 4.
 
-• "But they are not *like you and I* \[read *like you and me*\], Po." Peter David, *Sir Apropos of Nothing* 110 \(2001\).
+ - "But they are not *like you and I* \[read *like you and me*\], Po." Peter David, *Sir Apropos of Nothing* 110 \(2001\).
 
-• "My Grandma Betty and her boyfriend *took my sister Laura and I* \[read *took my sister Laura and me*\] to Idaho to visit my Mama and Papa for Christmas." Britany Dooley, "Spending Time with Family Was Most Memorable Christmas," *Redding Record Searchlight* \(Cal.\), 24 Dec. 2005, at A12.
+ - "My Grandma Betty and her boyfriend *took my sister Laura and I* \[read *took my sister Laura and me*\] to Idaho to visit my Mama and Papa for Christmas." Britany Dooley, "Spending Time with Family Was Most Memorable Christmas," *Redding Record Searchlight* \(Cal.\), 24 Dec. 2005, at A12.
 
-• "In the end, it's not *up to you or I* \[read *up to you or me*\] to find the missing." Pat Dooley, "Time for UF to Find All That Is Missing," *Gainesville Sun* \(Fla.\), 15 Oct. 2010, Opinion §.
+ - "In the end, it's not *up to you or I* \[read *up to you or me*\] to find the missing." Pat Dooley, "Time for UF to Find All That Is Missing," *Gainesville Sun* \(Fla.\), 15 Oct. 2010, Opinion §.
 
-• "It had taken months *for my partner, Mike, and I* \[read *for my partner, Mike, and me*\] to find a house in Connecticut." Jeanne Bonner, "Leaving Atlanta," *Atlanta J.-Const.*, 31 Dec. 2017, at E6.
+ - "It had taken months *for my partner, Mike, and I* \[read *for my partner, Mike, and me*\] to find a house in Connecticut." Jeanne Bonner, "Leaving Atlanta," *Atlanta J.-Const.*, 31 Dec. 2017, at E6.
 
-• "Noise-canceling headphones . . . were even more efficient when my parents called out *for either my sister or I* \[read *for either my sister or me*\] to do chores around the house." Braden Fogal, "Growing Up with Educators," *Southern Illinoisian*, 29 July 2021, Regional §.
+ - "Noise-canceling headphones . . . were even more efficient when my parents called out *for either my sister or I* \[read *for either my sister or me*\] to do chores around the house." Braden Fogal, "Growing Up with Educators," *Southern Illinoisian*, 29 July 2021, Regional §.
 
 Given that those examples are all from North America, you might be tempted to conclude that the issue is largely confined to AmE. That's hardly so. It exists plentifully in BrE and across World Englishes. Here is a representative sampling from reported speech in just one week's worth of sources—e.g.:
 
-• " ‘This has *encouraged . . . my wife and I* \[read *encouraged . . . my wife and me*\] to share the care of our daughter.' " Viktoria Yordanova, "People Make Assumptions," *Essex County Standard* \(U.K.\), 10 Oct. 2021, Health & Wellness § \(quoting a psychologist\).
+ - " ‘This has *encouraged . . . my wife and I* \[read *encouraged . . . my wife and me*\] to share the care of our daughter.' " Viktoria Yordanova, "People Make Assumptions," *Essex County Standard* \(U.K.\), 10 Oct. 2021, Health & Wellness § \(quoting a psychologist\).
 
-• " ‘The easiest thing *for Minister Donohoe and I* \[read *for Minister Donohoe and me*\] to do would be to say we're now going to go on to splurge.' " James Ward, "McGrath: €7bn Boost but We Won't Splurge," *Irish Daily Mail*, 11 Oct. 2021, at 4 \(quoting a government minister\).
+ - " ‘The easiest thing *for Minister Donohoe and I* \[read *for Minister Donohoe and me*\] to do would be to say we're now going to go on to splurge.' " James Ward, "McGrath: €7bn Boost but We Won't Splurge," *Irish Daily Mail*, 11 Oct. 2021, at 4 \(quoting a government minister\).
 
-• " ‘My dad's ashes were placed into gold hearts *for my mum, my brothers and I* \[read *for my mum, my brothers, and me*\] to treasure forever.' " Erin Black, "Tom Talks About Grief for His Dad in His New Book," *Plymouth Herald* \(U.K.\), 14 Oct. 2021, at 3 \(quoting an Olympic-athlete memoirist\).
+ - " ‘My dad's ashes were placed into gold hearts *for my mum, my brothers and I* \[read *for my mum, my brothers, and me*\] to treasure forever.' " Erin Black, "Tom Talks About Grief for His Dad in His New Book," *Plymouth Herald* \(U.K.\), 14 Oct. 2021, at 3 \(quoting an Olympic-athlete memoirist\).
 
-• " ‘It is up *to Eoin Bradley, Cathair Friel and I* \[read *to \(them\) and* *me*\] to lead the line.' " Steve Jones, "Shevlin Well Aware of Competition at Coleraine," *Belfast Telegraph*, 15 Oct. 2021, at 44 \(quoting an athlete\).
+ - " ‘It is up *to Eoin Bradley, Cathair Friel and I* \[read *to \(them\) and* *me*\] to lead the line.' " Steve Jones, "Shevlin Well Aware of Competition at Coleraine," *Belfast Telegraph*, 15 Oct. 2021, at 44 \(quoting an athlete\).
 
-• " ‘My parents . . . *raised* *my brothers and I* \[read *raised my brothers and me*\] to see change as an opportunity for growth,' Ms. Robinson said." Mollie Tracey, "Getting to Know Wheatbelt Businesses," *Farm Weekly* \(Aus.\), 15 Oct. 2021 \(quoting a farmer\).
+ - " ‘My parents . . . *raised* *my brothers and I* \[read *raised my brothers and me*\] to see change as an opportunity for growth,' Ms. Robinson said." Mollie Tracey, "Getting to Know Wheatbelt Businesses," *Farm Weekly* \(Aus.\), 15 Oct. 2021 \(quoting a farmer\).
 
-• " ‘I have had to make my own arrangements *for* *my husband and I* \[read *for my husband and me*\] to have it done at Boots the chemist.' " "Why Are Under-65s Having Flu Jab First?," *Guernsey Press & Star* \(U.K.\), 15 Oct. 2021, at 16 \(quoting a senior citizen\).
+ - " ‘I have had to make my own arrangements *for* *my husband and I* \[read *for my husband and me*\] to have it done at Boots the chemist.' " "Why Are Under-65s Having Flu Jab First?," *Guernsey Press & Star* \(U.K.\), 15 Oct. 2021, at 16 \(quoting a senior citizen\).
 
-• " ‘The school council will *help the staff and I* \[read *help the staff and me*\] to continue to raise standards.' " Bruce Sinclair, "Ambassadors and School Council Members Lead the Way," *Western Telegraph* \(U.K.\), 16 Oct. 2021 \(quoting a head teacher\).
+ - " ‘The school council will *help the staff and I* \[read *help the staff and me*\] to continue to raise standards.' " Bruce Sinclair, "Ambassadors and School Council Members Lead the Way," *Western Telegraph* \(U.K.\), 16 Oct. 2021 \(quoting a head teacher\).
 
 Nor is the perplexity confined to the first-person-singular pronoun. Although that may be the most common manifestation of the hypercorrect choice in pronoun case, it assuredly occurs in other types of coordinate constructions—e.g.:
 
-• "\[There are\] scenes of Mr. Kelly passing the time with vigorous exercise and *of he* \[read *of him*\] and his parents declaring his innocence." George Judson, "Ex-Fugitive from Rape Charge Seeks to Shape Image and Trial," *N.Y. Times*, 2 May 1996, at A12.
+ - "\[There are\] scenes of Mr. Kelly passing the time with vigorous exercise and *of he* \[read *of him*\] and his parents declaring his innocence." George Judson, "Ex-Fugitive from Rape Charge Seeks to Shape Image and Trial," *N.Y. Times*, 2 May 1996, at A12.
 
-• "Tokens predicting the future were buried in each dish . . . , a coin for one who would become wealthy and a ring *for he or she* \[read *for him or her*—or, less awkwardly, *for someone*\] who would marry." Edythe Preet, "Good Cheer," *Irish America*, 31 Oct. 1996, at 66.
+ - "Tokens predicting the future were buried in each dish . . . , a coin for one who would become wealthy and a ring *for he or she* \[read *for him or her*—or, less awkwardly, *for someone*\] who would marry." Edythe Preet, "Good Cheer," *Irish America*, 31 Oct. 1996, at 66.
 
-• "If you have the opportunity to speak with any current law enforcement officer, *ask he or she* \[read *ask*\] who their vote is for on Nov. 4." Letter of a retired police officer, "Hedlund Would Lead in a Positive Direction," *Daily J.* \(International Falls, Minn.\), 22 Oct. 2014, Opinion §.
+ - "If you have the opportunity to speak with any current law enforcement officer, *ask he or she* \[read *ask*\] who their vote is for on Nov. 4." Letter of a retired police officer, "Hedlund Would Lead in a Positive Direction," *Daily J.* \(International Falls, Minn.\), 22 Oct. 2014, Opinion §.
 
-• "Some assume there's always a way *for he or she* \[read *for him or her*—or possibly *them*\] to stay." Paul Catala, "Group Focuses on Path to Permanent Residency," *Ledger* \(Lakeland, Fla.\), 13 Nov. 2017, Local News §.
+ - "Some assume there's always a way *for he or she* \[read *for him or her*—or possibly *them*\] to stay." Paul Catala, "Group Focuses on Path to Permanent Residency," *Ledger* \(Lakeland, Fla.\), 13 Nov. 2017, Local News §.
 
-• "Go to a lawyer who does real estate closings and *have he or she* \[read *have him or her*—or, today, more likely *them*\] prepare the purchase or sales agreement." Craig Johnson, "Ask Clark," *Dayton Daily News*, 7 Dec. 2020, News §.
+ - "Go to a lawyer who does real estate closings and *have he or she* \[read *have him or her*—or, today, more likely *them*\] prepare the purchase or sales agreement." Craig Johnson, "Ask Clark," *Dayton Daily News*, 7 Dec. 2020, News §.
 
 One advantage of the singular use of *they/them* is that many such problems will be preempted: when the third-person *them* is called for \(as in the third, fourth, and fifth examples above\), nobody will misuse the nominative *they*. See **they \(a\)**.
 
@@ -66,19 +66,19 @@ The position, then, remains this. In coordinated phrases, Standard English requi
 
 **C. Underused in Specialized Writing.** Some specialized writers—especially legal writers—have overlearned the lesson that pronouns sometimes have unclear referents. So they \(the writers, not the referents\) swear off ever using them \(the pronouns, not the writers\). The resulting style is quite stiff and unnatural—e.g.:
 
-• "Frankfurter was unprepared for what was to come. *Frankfurter* \[read *He*\] did hold opinions about the Court's role in handling civil liberties, but these opinions were sometimes contradictory, extremely fuzzy, inarticulate, and unrefined." H.N. Hirsch, *The Enigma of Felix Frankfurter* 133 \(1981\).
+ - "Frankfurter was unprepared for what was to come. *Frankfurter* \[read *He*\] did hold opinions about the Court's role in handling civil liberties, but these opinions were sometimes contradictory, extremely fuzzy, inarticulate, and unrefined." H.N. Hirsch, *The Enigma of Felix Frankfurter* 133 \(1981\).
 
-• "Frankfurter was also convinced that he could easily handle his judicial colleagues. Throughout his life *Frankfurter* \[read *he*\] had excelled at ‘personalia.' " *Ibid.* at 138.
+ - "Frankfurter was also convinced that he could easily handle his judicial colleagues. Throughout his life *Frankfurter* \[read *he*\] had excelled at ‘personalia.' " *Ibid.* at 138.
 
-• "Throughout the spring of 1941, as Black, Douglas, and Murphy continued to agree with Frankfurter only in minor cases, Frankfurter stepped up his efforts at instruction. By the end of the term, *Frankfurter* \[read *he*\] was clearly exasperated with his colleagues." *Ibid*. at 155.
+ - "Throughout the spring of 1941, as Black, Douglas, and Murphy continued to agree with Frankfurter only in minor cases, Frankfurter stepped up his efforts at instruction. By the end of the term, *Frankfurter* \[read *he*\] was clearly exasperated with his colleagues." *Ibid*. at 155.
 
 **D. Indefinite Pronouns: Number.** Traditionally, indefinite pronouns \(*anybody*, *anyone*, *everybody*, *everyone*, *nobody*, *no one*, *somebody,* and *someone*\) have been considered invariably singular. Indeed, as the subject of a verb, each of those terms must be singular—e.g.:
 
-• "There's just one problem: Hardly *anybody* is riding." William LaRue, "Bootlegger's Secret," *Post-Standard* \(Syracuse\), 16 Dec. 1997, at A8.
+ - "There's just one problem: Hardly *anybody* is riding." William LaRue, "Bootlegger's Secret," *Post-Standard* \(Syracuse\), 16 Dec. 1997, at A8.
 
-• "He releases bad news when *nobody* is looking." "Public Pulse," *Omaha World-Herald*, 19 Dec. 1997, at 28.
+ - "He releases bad news when *nobody* is looking." "Public Pulse," *Omaha World-Herald*, 19 Dec. 1997, at 28.
 
-• "*Everyone* was gleeful, full of the spirit of Hanukkah." Beverly Levitt, "If It's Hanukkah, It's Latke Time," *Denver Post*, 21 Dec. 1997, at D1.
+ - "*Everyone* was gleeful, full of the spirit of Hanukkah." Beverly Levitt, "If It's Hanukkah, It's Latke Time," *Denver Post*, 21 Dec. 1997, at D1.
 
 For an example of *anyone . . . are*, see **anyone \(d\)**.
 
@@ -86,9 +86,9 @@ But often, as in the following sentences, the sense undoubtedly carries the idea
 
 Other sentences present closer calls, but the trend is unmistakable—e.g.:
 
-• "We are therefore appealing to *anyone* working on a literary, social, or other historical text who has found a discrepancy between the material with which *they* are working and an entry in the *OED*, no matter how trivial, to send *their* comments to us." Letter of John Simpson & Edmund Weiner \[coeditors of the *OED*\], "Revision of the Oxford English Dictionary," *TLS*, 5 Nov. 1993, at 15.
+ - "We are therefore appealing to *anyone* working on a literary, social, or other historical text who has found a discrepancy between the material with which *they* are working and an entry in the *OED*, no matter how trivial, to send *their* comments to us." Letter of John Simpson & Edmund Weiner \[coeditors of the *OED*\], "Revision of the Oxford English Dictionary," *TLS*, 5 Nov. 1993, at 15.
 
-• "Being so down-to-earth she accepts *everybody* for who *they* are, and so is unlikely to treat *them* any differently from the way she deals with anybody else." Shelley von Strunckel, "What the Stars Say About Them," *Sunday Times* \(London\), 18 June 1995, Style §, at 36.
+ - "Being so down-to-earth she accepts *everybody* for who *they* are, and so is unlikely to treat *them* any differently from the way she deals with anybody else." Shelley von Strunckel, "What the Stars Say About Them," *Sunday Times* \(London\), 18 June 1995, Style §, at 36.
 
 Although *everybody* and *everyone* carry the strongest suggestions of plurality, the other indefinite pronouns are almost as natural as antecedents with *they* and *them*. That's because *they* has increasingly moved toward singular senses. Disturbing though these developments may be to purists, they're irreversible. And nothing that a grammarian says will change them. See **they \(a\)** & sexism \(b\).
 

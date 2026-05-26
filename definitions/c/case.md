@@ -8,9 +8,9 @@ The offending phrases include *in case* \(better made *if*\), *in cases in which
 
 **B. Meaning "argument."** This meaning is commonplace and is no more objectionable than any other use of the word—e.g.:
 
-• "Lincoln repeated his *case* from town to town in the seven debates with Douglas." Alfred Kazin, "A Forever Amazing Writer," *N.Y. Times*, 10 Dec. 1989, § 7, at 3.
+ - "Lincoln repeated his *case* from town to town in the seven debates with Douglas." Alfred Kazin, "A Forever Amazing Writer," *N.Y. Times*, 10 Dec. 1989, § 7, at 3.
 
-• "With Tenet sitting behind him in the Security Council chamber last week, Powell made his *case* in a 77-minute speech interspersed with satellite photographs and recordings of intercepted communications." Kevin Whitelaw, "Prosecutor Powell," *U.S. News & World Rep.*, 17 Feb. 2003, at 26.
+ - "With Tenet sitting behind him in the Security Council chamber last week, Powell made his *case* in a 77-minute speech interspersed with satellite photographs and recordings of intercepted communications." Kevin Whitelaw, "Prosecutor Powell," *U.S. News & World Rep.*, 17 Feb. 2003, at 26.
 
 This is the meaning of *case* in the title of the book \(*Making Your Case: The Art of Persuading Judges* \[2008\]\) by Justice Antonin Scalia together with me. See **argument**.
 

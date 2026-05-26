@@ -2,11 +2,11 @@
 
 flee > fled > fled. So inflected. *\*Fleed* is a solecism—e.g.:
 
-• "Lexington police say Wallace Charles Lanford *fleed* \[read *fled*\] the prison camp about 8 p.m." "Man Convicted of Murder Escapes from Davidson Jail," *News & Record* \(Greensboro\), 15 Nov. 1995, at BH2.
+ - "Lexington police say Wallace Charles Lanford *fleed* \[read *fled*\] the prison camp about 8 p.m." "Man Convicted of Murder Escapes from Davidson Jail," *News & Record* \(Greensboro\), 15 Nov. 1995, at BH2.
 
-• "The Worcester Democrat pulled his ticket for the third time and *fleed* \[read *fled*\] the scene before the Ethics Commission SWAT team could surround him." Lee Hammel, "Kennedy, Harshbarger Have Experienced Help," *Telegram & Gaz.* \(Worcester\), 21 June 1997, at A3.
+ - "The Worcester Democrat pulled his ticket for the third time and *fleed* \[read *fled*\] the scene before the Ethics Commission SWAT team could surround him." Lee Hammel, "Kennedy, Harshbarger Have Experienced Help," *Telegram & Gaz.* \(Worcester\), 21 June 1997, at A3.
 
-• "Shortly after, Skelly *fleed* \[read *fled*\] the island after being suspected of working for the CIA." Mimi Whitefield, "After Fleeing Fidel, Newsman Ready to Return to Cuba," *Miami Herald*, 9 June 2015, News §.
+ - "Shortly after, Skelly *fleed* \[read *fled*\] the island after being suspected of working for the CIA." Mimi Whitefield, "After Fleeing Fidel, Newsman Ready to Return to Cuba," *Miami Herald*, 9 June 2015, News §.
 
 See irregular verbs.
 

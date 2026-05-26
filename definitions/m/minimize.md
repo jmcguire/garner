@@ -16,11 +16,11 @@ Current ratio in print \(*minimize* vs. \**minify*\): 1,187:1
 
 **C. And *\*minimalize*.** *\*Minimalize* is a nonword bearing an extra syllable—e.g.:
 
-• "Paperwork has been *minimalized* \[read *minimized*\]." David Fettig, "Drive to Improve Cash Flow Yields Productivity Gains," *Fedgazette*, Apr. 1995, at 1.
+ - "Paperwork has been *minimalized* \[read *minimized*\]." David Fettig, "Drive to Improve Cash Flow Yields Productivity Gains," *Fedgazette*, Apr. 1995, at 1.
 
-• "TV director Brian Large *minimalizes* \[read *minimizes*\] the damage by relying on closeups." Jeff Bradley, "PBS's ‘Cosi' Showcases Mezzo Cecilia Bartoli," *Denver Post*, 28 Dec. 1996, at E10.
+ - "TV director Brian Large *minimalizes* \[read *minimizes*\] the damage by relying on closeups." Jeff Bradley, "PBS's ‘Cosi' Showcases Mezzo Cecilia Bartoli," *Denver Post*, 28 Dec. 1996, at E10.
 
-• "Insufficient technology and bandwidth shuts down teacher/student computer access and *minimalizes* \[read *minimizes*\] the education during excessive testing." Cindi Andrews, "Common Core Test Flaws Are Obvious," *Cincinnati Enquirer*, 8 Mar. 2015, at F4.
+ - "Insufficient technology and bandwidth shuts down teacher/student computer access and *minimalizes* \[read *minimizes*\] the education during excessive testing." Cindi Andrews, "Common Core Test Flaws Are Obvious," *Cincinnati Enquirer*, 8 Mar. 2015, at F4.
 
 Language-Change Index
 

@@ -6,11 +6,11 @@ The popular grammarian Edwin Newman once chided a Justice of the U.S. Supreme Co
 
 In fact, though, the figurative sense of *belabor* has vastly predominated over the literal one since about 1950. It is standard—e.g.:
 
-• "The embalmed, *belabored* fussiness of the filmmaker's style, laden with a sentimentality at once maudlin and coy, makes one wonder if the Belfast-born wunderkind hasn't gone slightly batty." David Baron, "Tired ‘Tale' Likely to Leave You Cold," *Times-Picayune* \(New Orleans\), 5 Apr. 1996, at L22.
+ - "The embalmed, *belabored* fussiness of the filmmaker's style, laden with a sentimentality at once maudlin and coy, makes one wonder if the Belfast-born wunderkind hasn't gone slightly batty." David Baron, "Tired ‘Tale' Likely to Leave You Cold," *Times-Picayune* \(New Orleans\), 5 Apr. 1996, at L22.
 
-• "There's no need to *belabor* here the ingenious forms of folly that led the ‘smart guys' on Wall Street to believe they could eliminate risk by making it invisible." Tim Rutten, "A Crisis of Trust Too," *L.A. Times*, 11 Oct. 2008, at A19.
+ - "There's no need to *belabor* here the ingenious forms of folly that led the ‘smart guys' on Wall Street to believe they could eliminate risk by making it invisible." Tim Rutten, "A Crisis of Trust Too," *L.A. Times*, 11 Oct. 2008, at A19.
 
-• "\[Author Ian\] O'Connor *belabors* the rivalry a bit, describing how \[Jack\] Nicklaus and \[Arnold\] Palmer competed passionately for endorsements \(Palmer was the clear winner\) and contracts to design new golf courses \(Nicklaus dominated\)." Chuck Leddy, "Sizing Up Golf's Legendary Rivalry," *Boston Globe*, 13 Oct. 2008, Sidekick §, at 8.
+ - "\[Author Ian\] O'Connor *belabors* the rivalry a bit, describing how \[Jack\] Nicklaus and \[Arnold\] Palmer competed passionately for endorsements \(Palmer was the clear winner\) and contracts to design new golf courses \(Nicklaus dominated\)." Chuck Leddy, "Sizing Up Golf's Legendary Rivalry," *Boston Globe*, 13 Oct. 2008, Sidekick §, at 8.
 
 In BrE, of course, the spellings are *labour* and *belabour*.
 

@@ -4,9 +4,9 @@ eligible may be equally well construed with either *for* or *to* \(an office\). 
 
 But *eligible to*, though archaic-sounding today, has unimpeachable credentials—e.g.:
 
-• "No person except a natural born citizen . . . shall be *eligible to* the office of president." U.S. Const. art. II, § 1.
+ - "No person except a natural born citizen . . . shall be *eligible to* the office of president." U.S. Const. art. II, § 1.
 
-• "No judge of any court . . . shall during the term for which he is elected or appointed, be *eligible to* the legislature." Tex. Const. art. III, § 19.
+ - "No judge of any court . . . shall during the term for which he is elected or appointed, be *eligible to* the legislature." Tex. Const. art. III, § 19.
 
 Current ratio in print \(*eligible for the* vs. *eligible to the*\): 11:1
 

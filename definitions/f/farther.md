@@ -2,13 +2,13 @@
 
 farther; **further**. Both are comparative degrees of *far*. *Further* is much more ubiquitous than *farther* in everyday speech and writing. But the two have undergone some degree of differentiation. In the most punctilious usage, *farther* is thought to refer only to physical distances, *further* only to figurative distances—e.g.:
 
-• "After popping in to say hello to Sue's dad, we walked *further* \[read *farther*\] up Main Street to the Maritime Museum." Elise Ford, "A Piece of the Rockwell," *Wash. Post*, 14 Dec. 1994, at C9.
+ - "After popping in to say hello to Sue's dad, we walked *further* \[read *farther*\] up Main Street to the Maritime Museum." Elise Ford, "A Piece of the Rockwell," *Wash. Post*, 14 Dec. 1994, at C9.
 
-• "Some \[people\] walk no *farther* than the synagogue on the Sabbath." Jo Sandin, "Hanukkah Is Time to Ask Questions of Identity," *Milwaukee J. Sentinel*, 5 Dec. 1996, at 1.
+ - "Some \[people\] walk no *farther* than the synagogue on the Sabbath." Jo Sandin, "Hanukkah Is Time to Ask Questions of Identity," *Milwaukee J. Sentinel*, 5 Dec. 1996, at 1.
 
-• "\[Chad\] Johnson has taken the florid displays of flanker ego even *further*, brashly predicting victories, à la his idol Muhammad Ali, and once sending Pepto Bismol to an opposing secondary before a game." Karl Taro Greenfeld, "It's Good to Be Chad," *Sports Illustrated*, 30 Oct. 2006, at 58.
+ - "\[Chad\] Johnson has taken the florid displays of flanker ego even *further*, brashly predicting victories, à la his idol Muhammad Ali, and once sending Pepto Bismol to an opposing secondary before a game." Karl Taro Greenfeld, "It's Good to Be Chad," *Sports Illustrated*, 30 Oct. 2006, at 58.
 
-• "That said, moms who've been *farther* \[read *further*\] down the road say, ‘Just wait.' Just wait for preadolescent angst." Paula Spencer, "What's Your Favorite Parenting Stage?," *Parenting*, Nov. 2006, at 76.
+ - "That said, moms who've been *farther* \[read *further*\] down the road say, ‘Just wait.' Just wait for preadolescent angst." Paula Spencer, "What's Your Favorite Parenting Stage?," *Parenting*, Nov. 2006, at 76.
 
 In BrE, *further* is typically both physical and figurative, whereas *farther* is generally physical only. But some writers fail to observe the point—e.g.: "In a move which goes *farther* \[read *further*\] than anything the Conservatives have proposed, a Labour government will set up a new, independent watchdog, the General Teaching Council." Charles Reiss & Howard Smith, "Labour Will Sack the Bad Teachers Says Blair," *Evening Standard*, 26 July 1994, at 17.
 

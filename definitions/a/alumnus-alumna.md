@@ -10,21 +10,21 @@ One common mistake with these words is confusing their number, as by using *alum
 
 *Alum* is an AmE clipped form that dodges the gender issue. This slangy casualism appears often in chatty discussions about high-school and college sports—e.g.:
 
-• "A group of former Kentucky residents and Wildcat *alums*—mostly female—gather to cheer on their team." Ethan Machado, "Team Spirits," *Oregonian* \(Portland\), 27 Mar. 1998, at 4.
+ - "A group of former Kentucky residents and Wildcat *alums*—mostly female—gather to cheer on their team." Ethan Machado, "Team Spirits," *Oregonian* \(Portland\), 27 Mar. 1998, at 4.
 
-• "He still has the support of influential *alums*, but it may be too late." Dick Weiss, "Penders on Ropes in Texas," *Daily News* \(N.Y.\), 29 Mar. 1998, at 93.
+ - "He still has the support of influential *alums*, but it may be too late." Dick Weiss, "Penders on Ropes in Texas," *Daily News* \(N.Y.\), 29 Mar. 1998, at 93.
 
 *Alum* is a better and more frequent spelling than *\*alumn*—e.g.:
 
-• "Four Lancaster-Lebanon League *alumns* \[read *alums*\] are members of the 24th-ranked Penn State team." "Sports Digest," *Lancaster New Era*, 27 Sept. 1996, at C5.
+ - "Four Lancaster-Lebanon League *alumns* \[read *alums*\] are members of the 24th-ranked Penn State team." "Sports Digest," *Lancaster New Era*, 27 Sept. 1996, at C5.
 
-• "I've been doing nothing all day but spouting bullshit: to the press, to trustees, to parents, to *alumns* \[read *alums*\]." Joanne Dobson, *Quieter than Sleep* 136 \(1997\).
+ - "I've been doing nothing all day but spouting bullshit: to the press, to trustees, to parents, to *alumns* \[read *alums*\]." Joanne Dobson, *Quieter than Sleep* 136 \(1997\).
 
 **B. *\*Former alumnus*, *alumna*.** Just as a graduate is always a graduate, an *alumnus* or *alumna* is ever thus. Yet the strange redundancy *\*former alumnus* is fairly common—e.g.:
 
-• "Gregory Bellamy, a friend of Sean Taylor's, speaks at a memorial service at Gulliver Preparatory School for the slain *former alumnus* \[delete *former*\] and NFL safety." Shandel Richardson & Joel Marino, "Rolle: Taylor Was a Target," *Sun-Sentinel* \(Ft. Lauderdale\), 29 Nov. 2007, at C1 \(photo caption\).
+ - "Gregory Bellamy, a friend of Sean Taylor's, speaks at a memorial service at Gulliver Preparatory School for the slain *former alumnus* \[delete *former*\] and NFL safety." Shandel Richardson & Joel Marino, "Rolle: Taylor Was a Target," *Sun-Sentinel* \(Ft. Lauderdale\), 29 Nov. 2007, at C1 \(photo caption\).
 
-• "Many team principals are interviewed \(\[John\] Wooden lovers all\), as are entertaining *former alumni* \[delete *former*\] for extra juice." Mike Clark, "New on DVD: The UCLA Dynasty," *USA Today*, 14 Mar. 2008, at E9.
+ - "Many team principals are interviewed \(\[John\] Wooden lovers all\), as are entertaining *former alumni* \[delete *former*\] for extra juice." Mike Clark, "New on DVD: The UCLA Dynasty," *USA Today*, 14 Mar. 2008, at E9.
 
 Language-Change Index
 

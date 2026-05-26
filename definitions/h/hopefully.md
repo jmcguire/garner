@@ -8,25 +8,25 @@ The novel use that provoked the reaction is not really a change in meaning, but 
 
 The hostility reached its peak during the 1970s. Some critics objected that *Hopefully it will rain* had to be an error because no person was specified, and only a person can have hope. Some thought there was a fishy lack of parallelism between the adverb *hopefully* and the adjective *hopeful*: the sentence *Curiously, he disappeared* says that his disappearance is a curious fact, but *Hopefully they didn't notice* doesn't mean that their not noticing was a hopeful fact. Often the critics worried about ambiguity and consequent lack of clarity; and indeed, it is possible for *hopefully* to be ambiguous—e.g.: "Dave Krieg will take the snaps and, *hopefully*, hand off to RB Garrison Hearst." Larry Weisman, "NFC East: Teams Aim at Dallas Dozen," *USA Today*, 1 Sept. 1995, at E14. \(Is Krieg hoping for the best when Hearst runs? Or is the writer \[Weisman\] hoping that Krieg won't pass or hand off to another running back?\) But such cases are unusual. The new sense is now vastly more common, but the manner sense has certainly not entirely disappeared, and probably never will. Some post-1965 examples of it:
 
-• **1967:** "But if one can't very *hopefully* go about understanding the learning process, one can with more confidence try to figure out the thing learned, the grammar." Graham Wilson, Foreword, *A Linguistics Reader* xxiii \(Graham Wilson ed., 1967\).
+ - **1967:** "But if one can't very *hopefully* go about understanding the learning process, one can with more confidence try to figure out the thing learned, the grammar." Graham Wilson, Foreword, *A Linguistics Reader* xxiii \(Graham Wilson ed., 1967\).
 
-• **1994:** "Officials recently have pointed *hopefully* to signs of increased usage of the garage." John Laidler, "Low Usage Plagues Lynn MBTA Station," *Boston Globe*, 9 Oct. 1994, North Weekly §, at 1.
+ - **1994:** "Officials recently have pointed *hopefully* to signs of increased usage of the garage." John Laidler, "Low Usage Plagues Lynn MBTA Station," *Boston Globe*, 9 Oct. 1994, North Weekly §, at 1.
 
-• **2002:** "Joe Lieberman looks *hopefully* toward the White House." Jeffrey Toobin, "Candide," *New Yorker*, 16 Dec. 2002, at 42.
+ - **2002:** "Joe Lieberman looks *hopefully* toward the White House." Jeffrey Toobin, "Candide," *New Yorker*, 16 Dec. 2002, at 42.
 
-• **2003:** "On the trip, Paul tentatively, *hopefully*, begins a flirtation with a young painter, Fern." Meryl Gordon, "Cinderella Story," *New York*, 13 Jan. 2003, at 24, 26.
+ - **2003:** "On the trip, Paul tentatively, *hopefully*, begins a flirtation with a young painter, Fern." Meryl Gordon, "Cinderella Story," *New York*, 13 Jan. 2003, at 24, 26.
 
-• **2018:** "Smrekar and her teammates listened *hopefully* for signals, but they heard only silence." Julia Rosen, "NASA's Deep Dive on Mars," *L.A. Times*, 25 Nov. 2018, at 1.
+ - **2018:** "Smrekar and her teammates listened *hopefully* for signals, but they heard only silence." Julia Rosen, "NASA's Deep Dive on Mars," *L.A. Times*, 25 Nov. 2018, at 1.
 
 The battle over *hopefully* as a sentence adverb was essentially over by the end of the 1980s. Many quite conservative usage commentators \(William Safire among them\) had changed their minds. In 2012 the *AP Stylebook*, the bible of U.S. newspaper copy desks, accepted the new use. But once a prejudice against a particular expression or word use has become established, even for just a decade or two, it takes a long time to go away. For now, the sentence-adverb use of *hopefully* is still skunked. Stalwarts are holding out, so anyone using it in the new sense is likely to have a credibility problem with some readers. Some post-1980s commentaries:
 
-• **1990:** "Where we do not move forward, we regress. To be sure, it begins with slight lapses. Errors of usage—confusing ‘disinterest' with ‘uninterest,' using ‘hopefully' for ‘it is to be hoped.' And then, with astonishing swiftness, the rot sets in." Henry Louis Gates Jr., "Canon Confidential: A Sam Slade Caper," *N.Y. Times*, 25 Mar. 1990, § 7, at 1.
+ - **1990:** "Where we do not move forward, we regress. To be sure, it begins with slight lapses. Errors of usage—confusing ‘disinterest' with ‘uninterest,' using ‘hopefully' for ‘it is to be hoped.' And then, with astonishing swiftness, the rot sets in." Henry Louis Gates Jr., "Canon Confidential: A Sam Slade Caper," *N.Y. Times*, 25 Mar. 1990, § 7, at 1.
 
-• **1992:** "In the 1969 Usage Panel survey \[*hopefully*\] was acceptable to 44 percent of the Panel; in the most recent survey it was acceptable to only 27 percent." *The American Heritage Dictionary of the English Language* 871 \(3d ed. 1992\).
+ - **1992:** "In the 1969 Usage Panel survey \[*hopefully*\] was acceptable to 44 percent of the Panel; in the most recent survey it was acceptable to only 27 percent." *The American Heritage Dictionary of the English Language* 871 \(3d ed. 1992\).
 
-• **1996:** "Professor Michael Dummett, an Oxford logician, condemns the new usage of *hopefully* because only a person can be hopeful, and in many such cases there is nobody around in the sentence to be hopeful." "Christopher Howse's Grammar School Lesson XXVII," *Daily Telegraph*, 11 Dec. 1996, at 21.
+ - **1996:** "Professor Michael Dummett, an Oxford logician, condemns the new usage of *hopefully* because only a person can be hopeful, and in many such cases there is nobody around in the sentence to be hopeful." "Christopher Howse's Grammar School Lesson XXVII," *Daily Telegraph*, 11 Dec. 1996, at 21.
 
-• **2000:** "Although various adverbs may be used to modify entire clauses, *hopefully* isn't among them—yet. I only hope I won't have to concede that it is until I'm an old, old woman." Barbara Wallraff, *Word Court* 120 \(2000\).
+ - **2000:** "Although various adverbs may be used to modify entire clauses, *hopefully* isn't among them—yet. I only hope I won't have to concede that it is until I'm an old, old woman." Barbara Wallraff, *Word Court* 120 \(2000\).
 
 In April 2021, Laura Ingraham of Fox News criticized a Virginia education expert for using the phrase "ungrammatically," adding sardonically: "She's an education expert."
 

@@ -6,11 +6,11 @@ But confusion in the popular mind was aggravated by a clever pun in the title of
 
 Yet as one linguist has observed in reference to similar phrases, "what one generation says in game the next generation takes in earnest." John Algeo, "Editor's Note," 54 *Am. Speech* 240 \(1979\). What begins as a pun can spread into genuine linguistic confusion—e.g.:
 
-• "A few players seem to the English *manor* \[read *manner*\] born, and the rest at least have the general idea." Richard Christiansen, "Wordplay a Little Wobbly in Challenging ‘Superman,' " *Chicago Trib.*, 16 Jan. 2001, at 2.
+ - "A few players seem to the English *manor* \[read *manner*\] born, and the rest at least have the general idea." Richard Christiansen, "Wordplay a Little Wobbly in Challenging ‘Superman,' " *Chicago Trib.*, 16 Jan. 2001, at 2.
 
-• "Many of the more than 100 designers who showcased their collections at the Bryant Park tents shared an affinity for military-themed outfits or upper-crust clothes cut to exude the aura of one clearly to the *manor* \[read *manner*\] born." Cheryl Lu-Lien Tan, "Fashion Week Finishes in Style," *Baltimore Sun*, 17 Feb. 2001, at E1.
+ - "Many of the more than 100 designers who showcased their collections at the Bryant Park tents shared an affinity for military-themed outfits or upper-crust clothes cut to exude the aura of one clearly to the *manor* \[read *manner*\] born." Cheryl Lu-Lien Tan, "Fashion Week Finishes in Style," *Baltimore Sun*, 17 Feb. 2001, at E1.
 
-• "If you were not to the *manor* \[read *manner*\] born, consider staying at a hotel where a guest can feel like a country squire." Barrett J. Brunsman, "Virginia's Vintages," *Cincinnati Enquirer*, 18 Mar. 2001, at T3.
+ - "If you were not to the *manor* \[read *manner*\] born, consider staying at a hotel where a guest can feel like a country squire." Barrett J. Brunsman, "Virginia's Vintages," *Cincinnati Enquirer*, 18 Mar. 2001, at T3.
 
 Sometimes it's not clear whether the phrase is a pun or simply a blunder—e.g.: "She is landed gentry, so to speak; *to the manor born*, some would say." Lynne Duke, "On the Inside Looking Out," *Wash. Post*, 23 Apr. 2001, at C1. And sometimes it's a strained pun at best—e.g.: "As befits a privy *to the manor born*, Berman's stucco outhouse has a louvered cupola and plaster walls." Marty Crisp, "Privy Preview," *Lancaster New Era*, 1 Apr. 2001, at B1. In the last example just quoted, the phrase *to the manner born* wouldn't really work, since the reference is obviously to real estate \(in fact, a toilet\)—not to human behavior or experience.
 

@@ -6,11 +6,11 @@ In dialect, *beat* is a frequent past participle, and it sometimes creeps into o
 
 But if that usage \(*could have beat*\) is nonstandard, the form *\*beated* is distinctly substandard, whether as a past tense or as a past participle—e.g.:
 
-• "That win was even more gritty, since Disponzio had *beated* \[read *beaten*\] Golnar twice during the regular season." John Valenti & Joe Krupinski, "Vogts Doesn't Miss a Beat," *Newsday* \(N.Y.\), 9 Nov. 1995, at A86.
+ - "That win was even more gritty, since Disponzio had *beated* \[read *beaten*\] Golnar twice during the regular season." John Valenti & Joe Krupinski, "Vogts Doesn't Miss a Beat," *Newsday* \(N.Y.\), 9 Nov. 1995, at A86.
 
-• "Daniels never left. Not after Rev. James Reeb, a Unitarian minister from Boston, was *beated* \[read *beaten*\] to death by four segregationists in Selma the next day." Bob Hohler, "Seminary Student Honors '65 Sacrifice," *Boston Globe*, 24 Aug. 1997, at A1.
+ - "Daniels never left. Not after Rev. James Reeb, a Unitarian minister from Boston, was *beated* \[read *beaten*\] to death by four segregationists in Selma the next day." Bob Hohler, "Seminary Student Honors '65 Sacrifice," *Boston Globe*, 24 Aug. 1997, at A1.
 
-• "Third-seeded Alberto Berasategui of Spain *beated* \[read *beat*\] unseeded countryman Joaquin Munoz 6–4, 6–4 in the first round." Paul Newberry, "Pro Tennis—Courier Saves U.S. Hopes," *Dayton Daily News*, 7 Apr. 1998, at C1.
+ - "Third-seeded Alberto Berasategui of Spain *beated* \[read *beat*\] unseeded countryman Joaquin Munoz 6–4, 6–4 in the first round." Paul Newberry, "Pro Tennis—Courier Saves U.S. Hopes," *Dayton Daily News*, 7 Apr. 1998, at C1.
 
 See irregular verbs.
 

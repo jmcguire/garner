@@ -4,9 +4,9 @@ ex-, when meaning "former," should always be hyphenated: "A bitter *exemployee* 
 
 A problem arises when using the prefix with a noun phrase. Is an *ex-brain surgeon* a former brain surgeon, a surgeon formerly having a brain, or a specialist in head-autopsies? Although a nitpicker might argue for either of the last two, most reasonable readers will understand that *ex-* applies to the entire phrase, not just to the attributive. By far the better approach is to use *former* rather than to prefix the first word of a phrase. Otherwise, where should the prefix go in the following examples?
 
-• "Others say that *ex-corporate middle managers* \[read *former corporate middle managers*\] are prone to reproducing the world they knew." Kirk Johnson, "Franchise Shops Draw Downsized Managers," *Commercial Appeal* \(Memphis\), 26 June 1994, at C3.
+ - "Others say that *ex-corporate middle managers* \[read *former corporate middle managers*\] are prone to reproducing the world they knew." Kirk Johnson, "Franchise Shops Draw Downsized Managers," *Commercial Appeal* \(Memphis\), 26 June 1994, at C3.
 
-• "The company, owned by two London marketing men who live in Dorset, and run by Mr. Paul Simmons, *an ex-corporate financier* \[read *a former corporate financier*\], produces 850 tons of lime annually." "Quarry Firm Buried by Bureaucracy," *Daily Telegraph*, 15 Aug. 1994, at 7.
+ - "The company, owned by two London marketing men who live in Dorset, and run by Mr. Paul Simmons, *an ex-corporate financier* \[read *a former corporate financier*\], produces 850 tons of lime annually." "Quarry Firm Buried by Bureaucracy," *Daily Telegraph*, 15 Aug. 1994, at 7.
 
 For an illogical use of this prefix, see **\*ex-felon**.
 

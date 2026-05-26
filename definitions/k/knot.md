@@ -4,11 +4,11 @@ knot. A *knot* is a unit of speed equal to one nautical mile per hour. The term 
 
 Since a *knot* is a measure of speed and not distance, a redundancy results if you append a time element such as *per hour*—e.g.:
 
-• "An effective speed is 1.5 to 1.6 *knots per hour* \[read *knots*\], or just fast enough to keep the herring rolling slowly." Fenton Roskelley, "Hunting & Fishing," *Spokesman-Rev.* \(Spokane\), 19 Nov. 1999, at C4.
+ - "An effective speed is 1.5 to 1.6 *knots per hour* \[read *knots*\], or just fast enough to keep the herring rolling slowly." Fenton Roskelley, "Hunting & Fishing," *Spokesman-Rev.* \(Spokane\), 19 Nov. 1999, at C4.
 
-• "They usually work best at slow trolling speeds, no more than 2.5 *knots per hour* \[read *knots*\]." J. Michael Kelly, "Slammin' Salmon," *Post-Standard* \(Syracuse\), 24 Aug. 2000, at D9.
+ - "They usually work best at slow trolling speeds, no more than 2.5 *knots per hour* \[read *knots*\]." J. Michael Kelly, "Slammin' Salmon," *Post-Standard* \(Syracuse\), 24 Aug. 2000, at D9.
 
-• "Ships must negotiate 12 sharp turns in waters that flow anywhere from 3 to 7 *knots per hour* \[read *knots*\]." Louis Meixler, "Oil Tankers Pose Risk on Bosporus," *L.A. Times*, 1 July 2001, at A8.
+ - "Ships must negotiate 12 sharp turns in waters that flow anywhere from 3 to 7 *knots per hour* \[read *knots*\]." Louis Meixler, "Oil Tankers Pose Risk on Bosporus," *L.A. Times*, 1 July 2001, at A8.
 
 Language-Change Index
 

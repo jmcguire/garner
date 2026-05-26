@@ -8,11 +8,11 @@ A documented fact, event, or development—perhaps having no great importance in
 
 Examples of *historic* used incorrectly for *historical* could easily run for several pages—e.g.:
 
-• "The Sunday Trading Act, which formally became law yesterday, removes *historic* \[read *historical*\] anomalies of the kind that allowed shopkeepers to sell pornographic magazines but not Bibles on the Sabbath, and instant but not ground coffee." Marianne Curphey, "M&S Gives Up Fight to Keep Stores Shut on Sundays," *Times* \(London\), 27 Aug. 1994, at 5.
+ - "The Sunday Trading Act, which formally became law yesterday, removes *historic* \[read *historical*\] anomalies of the kind that allowed shopkeepers to sell pornographic magazines but not Bibles on the Sabbath, and instant but not ground coffee." Marianne Curphey, "M&S Gives Up Fight to Keep Stores Shut on Sundays," *Times* \(London\), 27 Aug. 1994, at 5.
 
-• "The odds are now on a further easing of monetary policy and there is a good *historic* \[read *historical*\] correlation between falling interest rates and a rising stock market." "Indian Summer," *Fin. Times*, 13 June 1996, at 12.
+ - "The odds are now on a further easing of monetary policy and there is a good *historic* \[read *historical*\] correlation between falling interest rates and a rising stock market." "Indian Summer," *Fin. Times*, 13 June 1996, at 12.
 
-• "Rape is also *an historic* \[read *a historical*\] soldiers' sport." Edward Hoagland, "Sex and the River Styx," *Harper's Mag.*, Jan. 2003, at 49, 62.
+ - "Rape is also *an historic* \[read *a historical*\] soldiers' sport." Edward Hoagland, "Sex and the River Styx," *Harper's Mag.*, Jan. 2003, at 49, 62.
 
 The far less common mistake is misusing *historical* for *historic*—e.g.: "Gary Pinkel didn't know what to expect after Toledo and Nevada found themselves going into a *historical* \[read *historic*\] overtime in the Las Vegas Bowl." "Vegas Bowl Passes OT Test," *Austin Am.-Statesman*, 16 Dec. 1995, at E5. See -ic/-ical.
 

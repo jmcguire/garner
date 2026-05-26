@@ -6,11 +6,11 @@ diffuse; **defuse**, vb. To *diffuse* something is to disperse it from a single 
 
 The notion that something *diffused* is softened like filtered light may explain why some writers misuse *diffuse* for the similar-sounding *defuse*—e.g.:
 
-• "Leaders were hopeful last week that the agreement would *diffuse* \[read *defuse*\] the possibility of violence at today's march." Joe Hallett, "Cincinnati: Has Anything Changed?," *Columbus Dispatch*, 7 Apr. 2002, at A1.
+ - "Leaders were hopeful last week that the agreement would *diffuse* \[read *defuse*\] the possibility of violence at today's march." Joe Hallett, "Cincinnati: Has Anything Changed?," *Columbus Dispatch*, 7 Apr. 2002, at A1.
 
-• "With almost 1 million troops stationed on both sides of the India–Pakistan border and with Pakistan having recently test-fired another round of missiles, Deputy Secretary of State Richard Armitage and Defense Secretary Donald Rumsfeld were sent to the region for emergency exercises in diplomacy to try to *diffuse* \[read *defuse*\] tensions." "The India–Pakistan War Machine," *Wash. Times*, 5 June 2002, at A16.
+ - "With almost 1 million troops stationed on both sides of the India–Pakistan border and with Pakistan having recently test-fired another round of missiles, Deputy Secretary of State Richard Armitage and Defense Secretary Donald Rumsfeld were sent to the region for emergency exercises in diplomacy to try to *diffuse* \[read *defuse*\] tensions." "The India–Pakistan War Machine," *Wash. Times*, 5 June 2002, at A16.
 
-• "Now the three-person squad has a bomb suit, X-ray systems and other sophisticated tools to *diffuse* \[read *defuse*\] bombs and check suspicious packages." Michelle Sutherlin, "Officer Trains for Bomb Team," *Daily Oklahoman*, 13 June 2002, Norman Today §, at 1.
+ - "Now the three-person squad has a bomb suit, X-ray systems and other sophisticated tools to *diffuse* \[read *defuse*\] bombs and check suspicious packages." Michelle Sutherlin, "Officer Trains for Bomb Team," *Daily Oklahoman*, 13 June 2002, Norman Today §, at 1.
 
 Language-Change Index
 

@@ -16,11 +16,11 @@ In the days after the American Revolution, not surprisingly, American practice w
 
 The reversal in practice has become so firmly established in AmE that it is hardly wrong to say that with certain collective nouns, singular verbs are preferred. But you can't be doctrinaire on this point of usage. The dilemma frequently occurs with nouns such as *couple*, *faculty*, *majority*, and *press*—e.g.:
 
-• "The French press *have* \[read, in AmE, *has*\] said he is too expansion-minded." Judi Bevan, "Lafarge's Conquering Hero," *Daily Telegraph*, 30 Nov. 1997, at 3.
+ - "The French press *have* \[read, in AmE, *has*\] said he is too expansion-minded." Judi Bevan, "Lafarge's Conquering Hero," *Daily Telegraph*, 30 Nov. 1997, at 3.
 
-• "And *faculty are* \[or *the faculty is*\] committed to improving curriculum based on information from a variety of sources." Sarah A. Derks, "State Nursing Panel OK's Shelby State," *Commercial Appeal* \(Memphis\), 4 Dec. 1997, at A19.
+ - "And *faculty are* \[or *the faculty is*\] committed to improving curriculum based on information from a variety of sources." Sarah A. Derks, "State Nursing Panel OK's Shelby State," *Commercial Appeal* \(Memphis\), 4 Dec. 1997, at A19.
 
-• "The *couple are* \[or *couple is*\] trapped overnight in Madras by a native uprising." Maureen O'Connor, "On Foreign Shores," *Irish Literary Supp.*, 22 Sept. 2021, at 5.
+ - "The *couple are* \[or *couple is*\] trapped overnight in Madras by a native uprising." Maureen O'Connor, "On Foreign Shores," *Irish Literary Supp.*, 22 Sept. 2021, at 5.
 
 These are questions more of local idiom than of correct or incorrect grammar. See count nouns and mass nouns.
 

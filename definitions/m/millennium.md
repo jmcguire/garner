@@ -4,11 +4,11 @@ millennium \[L. *mille* "thousand" \+ *annus* "year"\] forms two plurals: *mille
 
 A few major AmE publications continue to use *-iums*. E.g.:
 
-• "For decades, La Selva, a lush, dripping jungle filled with towering trees and swinging vines, has served as the quintessential example of the pristine rain forest, untouched and unchanged for *millenniums*." Carol K. Yoon, "Rain Forests Seen as Shaped by Human Hand," *N.Y. Times*, 27 July 1993, at B5.
+ - "For decades, La Selva, a lush, dripping jungle filled with towering trees and swinging vines, has served as the quintessential example of the pristine rain forest, untouched and unchanged for *millenniums*." Carol K. Yoon, "Rain Forests Seen as Shaped by Human Hand," *N.Y. Times*, 27 July 1993, at B5.
 
-• "Abruptly, the two sexes—who had gone for *millenniums* without exchanging any more than the few grunts required for courtship—were expected to entertain each other with witty repartee over dinner." Barbara Ehrenreich, "Burt, Loni and Our Way of Life," *Time*, 20 Sept. 1993, at 92.
+ - "Abruptly, the two sexes—who had gone for *millenniums* without exchanging any more than the few grunts required for courtship—were expected to entertain each other with witty repartee over dinner." Barbara Ehrenreich, "Burt, Loni and Our Way of Life," *Time*, 20 Sept. 1993, at 92.
 
-• "I reminded him that for *millenniums*, Europe has brimmed with white people who have hated and fought each other." Dawn M. Turner, "White Separatist Echoes Trump," *Chicago Trib.*, 1 Sept. 2015, at 3.
+ - "I reminded him that for *millenniums*, Europe has brimmed with white people who have hated and fought each other." Dawn M. Turner, "White Separatist Echoes Trump," *Chicago Trib.*, 1 Sept. 2015, at 3.
 
 The spelling of the word shouldn't be any mystery: "*Millennium* has been spelled *millennium* for about a millennium. It links the Latin *mille* \(thousand\) and *annus* \(year\) . . . . When *annus* bonds with another word, the *a* becomes an *e*." Barry Newman, "Mil\(l\)-en\(n\)ium," 13 *English Today* 17, 18 \(1997\). But the word is commonly misspelled in all sorts of ways, as Newman's article details.
 

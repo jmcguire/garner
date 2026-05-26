@@ -8,19 +8,19 @@ One major purpose of this book is to detail what is and is not Standard English.
 
 Throughout the 20th century, commentators noted \(sometimes in strong terms\) the social disapproval that attaches to nonstandard English. Mostly this is put in negative terms. If you don't speak Standard English, you can find yourself at a social and professional disadvantage—e.g.:
 
-• **1901:** "The intelligent people of America use reasonably pure English. If the speaker falls below this level he simply disgusts." John P. Altgeld, *Oratory: Its Requirements and Its Rewards* 9 \(1901\).
+ - **1901:** "The intelligent people of America use reasonably pure English. If the speaker falls below this level he simply disgusts." John P. Altgeld, *Oratory: Its Requirements and Its Rewards* 9 \(1901\).
 
-• **1940:** "Anyone who cannot use the language habits in which the major affairs of the country are conducted, the language habits of the socially acceptable of most of our communities, would have a serious handicap." Charles Carpenter Fries, *American English Grammar* 14 \(1940\).
+ - **1940:** "Anyone who cannot use the language habits in which the major affairs of the country are conducted, the language habits of the socially acceptable of most of our communities, would have a serious handicap." Charles Carpenter Fries, *American English Grammar* 14 \(1940\).
 
-• **1946:** "Talking the Standard Language . . . is to \[people's\] advantage, not merely materially, because they can more easily obtain positions in society which now—whether one approves of it or not in the abstract—are given by preference to people whose speech is free from dialect, but also because they thus escape being looked down on on account of their speech and are therefore saved from many unpleasant humiliations. Apart from all this, merely by reason of their way of speaking they have a better chance of coming in contact with others and getting a fuller interchange of ideas." Otto Jespersen, *Mankind, Nation, and Individual from a Linguistic Point of View* 70–71 \(1946\).
+ - **1946:** "Talking the Standard Language . . . is to \[people's\] advantage, not merely materially, because they can more easily obtain positions in society which now—whether one approves of it or not in the abstract—are given by preference to people whose speech is free from dialect, but also because they thus escape being looked down on on account of their speech and are therefore saved from many unpleasant humiliations. Apart from all this, merely by reason of their way of speaking they have a better chance of coming in contact with others and getting a fuller interchange of ideas." Otto Jespersen, *Mankind, Nation, and Individual from a Linguistic Point of View* 70–71 \(1946\).
 
-• **1953:** "A standard has the advantages of uniformity, general utility, and presentability. Whoever writes it knows two things: he *will* be understood; he will *not* be regarded with condescension, amusement, or contempt." A.P. Rossiter, *Our Living Language* 75 \(1953\).
+ - **1953:** "A standard has the advantages of uniformity, general utility, and presentability. Whoever writes it knows two things: he *will* be understood; he will *not* be regarded with condescension, amusement, or contempt." A.P. Rossiter, *Our Living Language* 75 \(1953\).
 
-• **1967:** "Native deviators from standard English—ours—are suspected of being vulgar, uneducated, or simply rustic." Graham Wilson, *A Linguistics Reader* 86 \(Graham Wilson ed., 1967\).
+ - **1967:** "Native deviators from standard English—ours—are suspected of being vulgar, uneducated, or simply rustic." Graham Wilson, *A Linguistics Reader* 86 \(Graham Wilson ed., 1967\).
 
-• **1974:** "People, whether male or female, who use a substandard or less prestigious form of speech often pay a social penalty for doing so." Peter Farb, *Word Play* 57 \(1974\).
+ - **1974:** "People, whether male or female, who use a substandard or less prestigious form of speech often pay a social penalty for doing so." Peter Farb, *Word Play* 57 \(1974\).
 
-• **2000:** "Deviations from standard English, or what people take to be deviations, are more likely to arouse fury, pity, or scorn than admiration for the deviator's individuality." Barbara Wallraff, *Word Court* 9 \(2000\).
+ - **2000:** "Deviations from standard English, or what people take to be deviations, are more likely to arouse fury, pity, or scorn than admiration for the deviator's individuality." Barbara Wallraff, *Word Court* 9 \(2000\).
 
 So there's the neatly compiled answer to why Standard English is worth trying to attain: without it, you may not be taken seriously. Some people, especially educated people, may regard you with condescension, amusement, and contempt; they may consider you vulgar, uneducated, and rustic; you might well arouse fury, pity, or scorn. Fortunately, though, society as a whole is embracing greater levels of tolerance for linguistic variation.
 

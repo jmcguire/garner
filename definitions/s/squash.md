@@ -6,9 +6,9 @@ To *quash*, meanwhile, is most conventionally to crush or completely suppress <t
 
 Most traditionally, then, laws, motions, subpoenas, etc. are *quashed*, not *squashed*. Many writers use the more vivid *squash* in contexts that would conventionally call for *quash*—e.g.:
 
-• "The Alabama story ends for the moment with criminal indictments, and with Windom not only installed as lieutenant governor but also successfully seeing through the tort-reform legislation his opponents had tried to *squash* \[read *quash*\]." Arianna Huffington, "Happy Ending No Savior in Political Horror Story," *Chicago Sun-Times*, 1 Sept. 1999, at 45.
+ - "The Alabama story ends for the moment with criminal indictments, and with Windom not only installed as lieutenant governor but also successfully seeing through the tort-reform legislation his opponents had tried to *squash* \[read *quash*\]." Arianna Huffington, "Happy Ending No Savior in Political Horror Story," *Chicago Sun-Times*, 1 Sept. 1999, at 45.
 
-• "Khader's attorneys filed a lawsuit . . . arguing a judge should stop the probe into him and *squash* \[read *quash*\] a subpoena he was issued earlier this month." David Propper, "Days Before Primary, City Council President Sues Yonkers," *J. News* \(Westchester County, N.Y.\), 18 June 2021, at A2.
+ - "Khader's attorneys filed a lawsuit . . . arguing a judge should stop the probe into him and *squash* \[read *quash*\] a subpoena he was issued earlier this month." David Propper, "Days Before Primary, City Council President Sues Yonkers," *J. News* \(Westchester County, N.Y.\), 18 June 2021, at A2.
 
 Even rebellions are most traditionally *quashed*, not *squashed*. But either way, they go splat.
 

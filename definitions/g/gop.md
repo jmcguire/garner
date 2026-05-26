@@ -6,11 +6,11 @@ GOP.
 
 **B. Redundancy.** When coupled with *party*, *GOP* creates an odd redundancy. *\*GOP party* represents *\*Grand Old Party party*. Either drop *party* or change *GOP* to *Republican*—e.g.:
 
-• " ‘We're playing ball,' said *GOP party* \[read *GOP*\] chairman Richard S. Williamson." Lynn Sweet, "Bush Plans Major Illinois Ad Blitz," *Chicago Sun-Times*, 27 Oct. 2000, at 4.
+ - " ‘We're playing ball,' said *GOP party* \[read *GOP*\] chairman Richard S. Williamson." Lynn Sweet, "Bush Plans Major Illinois Ad Blitz," *Chicago Sun-Times*, 27 Oct. 2000, at 4.
 
-• "In those cases, local Democrats are seeking to have tossed out thousands of absentee ballots because of alleged mishandling of the ballot applications by *GOP party* \[read *GOP*\] workers." Bob Davis & Phil Kuntz, "Gore Comments Unnerve Certain Democrats," *Wall Street J.*, 6 Dec. 2000, at A12.
+ - "In those cases, local Democrats are seeking to have tossed out thousands of absentee ballots because of alleged mishandling of the ballot applications by *GOP party* \[read *GOP*\] workers." Bob Davis & Phil Kuntz, "Gore Comments Unnerve Certain Democrats," *Wall Street J.*, 6 Dec. 2000, at A12.
 
-• "The *GOP party* \[read *GOP*\] leaders . . . then learned how to apply for a job in the prospective Bush administration." Tyler Whitley, "Republicans Cheer Halt in Fla. Recount," *Richmond Times-Dispatch*, 10 Dec. 2000, at C1.
+ - "The *GOP party* \[read *GOP*\] leaders . . . then learned how to apply for a job in the prospective Bush administration." Tyler Whitley, "Republicans Cheer Halt in Fla. Recount," *Richmond Times-Dispatch*, 10 Dec. 2000, at C1.
 
 Language-Change Index
 

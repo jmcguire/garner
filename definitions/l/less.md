@@ -8,9 +8,9 @@ If you have trouble distinguishing the two words, try substituting a phrase. If 
 
 The exception in using *fewer* occurs when count nouns essentially function as mass nouns because the units are so very numerous or they aren't considered discrete items \(the idea of individual units becomes meaningless\). Hence *less* is used correctly with time and money: one isn't, ordinarily, talking about the number of years or the number of dollars but rather the amount of time or the amount of money. E.g.:
 
-• "On that mantra, Larry Clark has built a $45 million-a-year company in *less* than five years." Max Jarman, "Homebuilder on Fast-Grow Track," *Ariz. Bus. Gaz.*, 30 Nov. 1995, at 17.
+ - "On that mantra, Larry Clark has built a $45 million-a-year company in *less* than five years." Max Jarman, "Homebuilder on Fast-Grow Track," *Ariz. Bus. Gaz.*, 30 Nov. 1995, at 17.
 
-• "Okay, how about $50 a month for such an apartment—*less* than two dollars a day?" J.A. Lobbia, "Getting Skewed on Rent," *Village Voice*, 29 Apr. 1997, at 49.
+ - "Okay, how about $50 a month for such an apartment—*less* than two dollars a day?" J.A. Lobbia, "Getting Skewed on Rent," *Village Voice*, 29 Apr. 1997, at 49.
 
 *Fewer*, in fact, is incorrect when intended to refer to a period of time—e.g.: "You can run from sea level to the sky and back to earth in as fast as 45 minutes \(so far\), but even today, going round-trip in *fewer* \[read *less*\] than 60 minutes carries a special cachet." Lew Freedman, "Their Own Mountain," *Anchorage Daily News*, 29 June 1997, at D1. But if the units of time are thought of as wholes, and not by fractions, then *fewer* is called for <fewer days abroad> <fewer weeks spent apart>.
 
@@ -20,11 +20,11 @@ The degree to which *less* occurs where *fewer* would be the better word is a ma
 
 Although the modern evidence seems to suggest that Lewis was more accurate than Hanes in describing what you'll find in edited English, fastidious writers and editors preserve the old distinction. But the loose usage crops up often—e.g.:
 
-• "She says it, but fact is, she's a linguist—a student of words. We need more of them, not *less* \[read *fewer*\]; more words, more students." Lorene Cary, "As Plain as Black and White," *Newsweek*, 29 June 1992, at 53.
+ - "She says it, but fact is, she's a linguist—a student of words. We need more of them, not *less* \[read *fewer*\]; more words, more students." Lorene Cary, "As Plain as Black and White," *Newsweek*, 29 June 1992, at 53.
 
-• "There were *less* \[read *fewer*\] than 300,000 marriages in 1993, the lowest level since the second world war, leaving clerics with little to do on Saturday mornings but twiddle their thumbs." Nick Gardner, "Secure Your Future by Tying the Knot," *Sunday Times* \(London\), 6 Aug. 1995,§ 5, at 5. \(Why, with a number like 300,000, isn't the idea of an individual increment meaningless? Because, although we might think of dollars in that light, we don't think of marriages in that way.\)
+ - "There were *less* \[read *fewer*\] than 300,000 marriages in 1993, the lowest level since the second world war, leaving clerics with little to do on Saturday mornings but twiddle their thumbs." Nick Gardner, "Secure Your Future by Tying the Knot," *Sunday Times* \(London\), 6 Aug. 1995,§ 5, at 5. \(Why, with a number like 300,000, isn't the idea of an individual increment meaningless? Because, although we might think of dollars in that light, we don't think of marriages in that way.\)
 
-• "You will have *less* \[read *fewer*\] people to call and haunt about paying for their outfits and buying their accessories." "Advice for the Bride," *Boston Herald* \(Mag.\), 19 Oct. 1997, at 6.
+ - "You will have *less* \[read *fewer*\] people to call and haunt about paying for their outfits and buying their accessories." "Advice for the Bride," *Boston Herald* \(Mag.\), 19 Oct. 1997, at 6.
 
 The linguistic hegemony by which *less* has encroached on *fewer*'s territory is probably now irreversible. What has clinched this development is something as mundane as the express checkout lines in supermarkets. They're typically bedecked with signs cautioning, "15 items or less." These signs are all but ubiquitous in the U.S. But the occasional more literate supermarket owner uses a different sign: "15 or fewer items."
 
@@ -46,19 +46,19 @@ Current ratio in print \(*ten pages or less* vs. *ten pages or fewer*\): 3:1
 
 **B. *One less* or *\*one fewer*?** If, in strict usage, *less* applies to singular nouns and *fewer* to plural nouns, the choice is clear: *one less golfer* on the course, not *\*one fewer golfer*. This is tricky only because *less* is being applied to a singular count noun, whereas it usually applies to a mass noun. Burt Bacharach got it right in "One Less Bell to Answer" \(1970\). Since at least 1700, most published authors have gotten it right. And most contemporary writers get it right—e.g.:
 
-• "I couldn't care less that NFL players will receive *one less* game check." "Capital-Journal," *Topeka Capital-J.*, 16 Sept. 2001, at X2.
+ - "I couldn't care less that NFL players will receive *one less* game check." "Capital-Journal," *Topeka Capital-J.*, 16 Sept. 2001, at X2.
 
-• "Some Middle Georgia cancer patients may have *one less* thing to worry about this time next year." Charlie Lanter, "Pulaski Hospital to Build Cancer Treatment Center," *Macon Telegraph*, 15 Nov. 2001, at 3.
+ - "Some Middle Georgia cancer patients may have *one less* thing to worry about this time next year." Charlie Lanter, "Pulaski Hospital to Build Cancer Treatment Center," *Macon Telegraph*, 15 Nov. 2001, at 3.
 
-• "Some industry observers worry about a deal that will lead to *one less* independent news organization." Mark Kempner, "In a Merger, CNN, ABC May Shoot for the Stars," *Atlanta J.-Const.*, 3 Nov. 2002, Bus. §, at 1.
+ - "Some industry observers worry about a deal that will lead to *one less* independent news organization." Mark Kempner, "In a Merger, CNN, ABC May Shoot for the Stars," *Atlanta J.-Const.*, 3 Nov. 2002, Bus. §, at 1.
 
 Nearly 10% of the time, however, writers use *\*one fewer*, an awkward and unidiomatic phrase. One can't help thinking that this is a kind of hypercorrection induced by underanalysis of the *less*-vs.-*fewer* question—e.g.:
 
-• "But Boras points out that Park had only one *fewer* \[read *less*\] quality start than Randy Johnson and Curt Schilling of the Arizona Diamondbacks." Jason Reid, "Silence Speaks Loudly to Park Baseball," *L.A. Times*, 19 Nov. 2001, at D1.
+ - "But Boras points out that Park had only one *fewer* \[read *less*\] quality start than Randy Johnson and Curt Schilling of the Arizona Diamondbacks." Jason Reid, "Silence Speaks Loudly to Park Baseball," *L.A. Times*, 19 Nov. 2001, at D1.
 
-• "In studies, women given the gel during open pelvic surgery had only one *fewer* \[read *less*\] internal scar but almost twice the risk of infection." Lauran Neergaard, "FDA Reverses Decision on Gel," *State* \(Columbia, S.C.\), 20 Nov. 2001, at A8.
+ - "In studies, women given the gel during open pelvic surgery had only one *fewer* \[read *less*\] internal scar but almost twice the risk of infection." Lauran Neergaard, "FDA Reverses Decision on Gel," *State* \(Columbia, S.C.\), 20 Nov. 2001, at A8.
 
-• "Energy Secretary Spencer Abraham . . . has one *fewer* \[read *less*\] hat than we said the other day." Al Kamen, "Cheney Losing His Voice," *Wash. Post*, 21 Nov. 2001, at A21.
+ - "Energy Secretary Spencer Abraham . . . has one *fewer* \[read *less*\] hat than we said the other day." Al Kamen, "Cheney Losing His Voice," *Wash. Post*, 21 Nov. 2001, at A21.
 
 Current ratio in print \(*one less* vs. \**one fewer*\): 12:1
 
@@ -66,9 +66,9 @@ Current ratio in print \(*one less* vs. \**one fewer*\): 12:1
 
 Occasionally, *lessor* \(= landlord\) is misused for *lesser*—e.g.:
 
-• "The nuclear-arms race has produced 70,000 nuclear bombs by the United States and a *lessor* \[read *lesser*\] *amount* \[read *number*\] by the former U.S.S.R." Letter of Minerva Rees Massen, "In the Wake of Hiroshima and Nagasaki," *S.F. Chron.*, 5 Aug. 1995, at A20.
+ - "The nuclear-arms race has produced 70,000 nuclear bombs by the United States and a *lessor* \[read *lesser*\] *amount* \[read *number*\] by the former U.S.S.R." Letter of Minerva Rees Massen, "In the Wake of Hiroshima and Nagasaki," *S.F. Chron.*, 5 Aug. 1995, at A20.
 
-• "Washington residents pay 2.2 percent of the sticker price of a new car for the first two years, and then *lessor* \[read *lesser*\] amounts each year on a sliding scale." Tom Koenninger, "License-Plate Cheats Cause Neighbors to Pay More Tax," *Columbian* \(Vancouver, Wash.\), 6 Oct. 1996, at B9.
+ - "Washington residents pay 2.2 percent of the sticker price of a new car for the first two years, and then *lessor* \[read *lesser*\] amounts each year on a sliding scale." Tom Koenninger, "License-Plate Cheats Cause Neighbors to Pay More Tax," *Columbian* \(Vancouver, Wash.\), 6 Oct. 1996, at B9.
 
 See **lessor**.
 

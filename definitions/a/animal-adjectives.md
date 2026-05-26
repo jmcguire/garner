@@ -12,11 +12,11 @@
 
 Others are somewhat less well known. Aficionados of Sherlock Holmes know that Sir Arthur Conan Doyle described Holmes more than once as having an *aquiline* nose. \(That means "eagle-like."\) Others that are middlingly well known appear from time to time—e.g.:
 
-• "Jagger \[acted as if he were\] in the midst of a shopping spree, and the lean, *leonine* singer was a pounding, preening song-and-dance man—a kindlier version of the ‘Clockwork Orange' rounder he played in the '70s." Greg Kot, "Stones Are Risk-Free, but Rockers in the End," *Chicago Trib.*, 25 Sept. 1997, at 2. \(*Leonine* = of, relating to, or like a lion.\)
+ - "Jagger \[acted as if he were\] in the midst of a shopping spree, and the lean, *leonine* singer was a pounding, preening song-and-dance man—a kindlier version of the ‘Clockwork Orange' rounder he played in the '70s." Greg Kot, "Stones Are Risk-Free, but Rockers in the End," *Chicago Trib.*, 25 Sept. 1997, at 2. \(*Leonine* = of, relating to, or like a lion.\)
 
-• "‘You have to treat the bear like a loaded, fully explosive-laden gasoline tanker,' Tamahori said. The *ursine* star came with his longtime trainers, who oversaw him in ‘The Bear'." Steve Murray, "Call of the Wild Put ‘Edge' Director into His Element," *Atlanta J.-Const.*, 5 Oct. 1997, at L2. \(*Ursine* = of, relating to, or like a bear.\)
+ - "‘You have to treat the bear like a loaded, fully explosive-laden gasoline tanker,' Tamahori said. The *ursine* star came with his longtime trainers, who oversaw him in ‘The Bear'." Steve Murray, "Call of the Wild Put ‘Edge' Director into His Element," *Atlanta J.-Const.*, 5 Oct. 1997, at L2. \(*Ursine* = of, relating to, or like a bear.\)
 
-• "Jonathan Heale's colored woodcuts perfectly suit the two *porcine* heroes." Michael Dirda, "Children's Books," *Wash. Post*, 5 Oct. 1997, Book World §, at 11. \(*Porcine* = of, relating to, or like a pig.\)
+ - "Jonathan Heale's colored woodcuts perfectly suit the two *porcine* heroes." Michael Dirda, "Children's Books," *Wash. Post*, 5 Oct. 1997, Book World §, at 11. \(*Porcine* = of, relating to, or like a pig.\)
 
 For those who dabble in sesquipedality, the less familiar ones are equally appealing, if the sense fits:
 

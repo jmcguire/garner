@@ -8,19 +8,19 @@ Over a long period, many pronunciation authorities have listed only /**flak**-si
 
 Since the 1800s, some authorities have explicitly disparaged the *k*-less pronunciation:
 
-• **1937:** "Flaccid—flak'sid, *not* flas'id." Richard Soule & Loomis J. Campbell, *Pronouncing Handbook of Words Often Mispronounced* 35 \(1873\). Identical phrasing appears in other books, such as Alfred Ayres, *The Orthoepist* 70 \(1881\); Julian W. Abernethy, *Correct Pronunciation* 50 \(1912\); and William Henry P. Phyfe, *20,000 Words Often Mispronounced* 317 \(rev. ed. 1937\).
+ - **1937:** "Flaccid—flak'sid, *not* flas'id." Richard Soule & Loomis J. Campbell, *Pronouncing Handbook of Words Often Mispronounced* 35 \(1873\). Identical phrasing appears in other books, such as Alfred Ayres, *The Orthoepist* 70 \(1881\); Julian W. Abernethy, *Correct Pronunciation* 50 \(1912\); and William Henry P. Phyfe, *20,000 Words Often Mispronounced* 317 \(rev. ed. 1937\).
 
-• **1943:** "*Flac'cid* means having little or no resistance, yielding easily to force or weight or pressure. It rhymes with *back slid*, that is, *flack'sid*. The noun *flaccidity* is pronounced *flak sid' i t*. Don't say *flassid* to rhyme with *acid*." John Baker Opdycke, *Don't Say It* 343 \(1943\).
+ - **1943:** "*Flac'cid* means having little or no resistance, yielding easily to force or weight or pressure. It rhymes with *back slid*, that is, *flack'sid*. The noun *flaccidity* is pronounced *flak sid' i t*. Don't say *flassid* to rhyme with *acid*." John Baker Opdycke, *Don't Say It* 343 \(1943\).
 
-• **1950:** "*Flaccid* should not rhyme with *placid*. . . . Note that *flaccid* is syllabified *flac-cid*. The *c* ending the first syllable is pronounced k; the second *c* is followed by *i* and is therefore pronounced s." Frank O. Colby, *The American Pronouncing Dictionary of Troublesome Words* 158 \(1950\).
+ - **1950:** "*Flaccid* should not rhyme with *placid*. . . . Note that *flaccid* is syllabified *flac-cid*. The *c* ending the first syllable is pronounced k; the second *c* is followed by *i* and is therefore pronounced s." Frank O. Colby, *The American Pronouncing Dictionary of Troublesome Words* 158 \(1950\).
 
-• **2005:** "Although FLAK-sid-sayers are now in the minority, there's no denying it's one heck of a respectable minority. A survey of sources published since the 1960s reveals that an overwhelming number of authorities prefer FLAK-sid." Charles Harrington Elster, *BBBM* at 203–04.
+ - **2005:** "Although FLAK-sid-sayers are now in the minority, there's no denying it's one heck of a respectable minority. A survey of sources published since the 1960s reveals that an overwhelming number of authorities prefer FLAK-sid." Charles Harrington Elster, *BBBM* at 203–04.
 
 The limp, flabby pronunciation of the word—which some have tried to rationalize as a kind of sensory onomatopoeia \(the logic being that *flaccid* denotes what is soft and should therefore have a soft *c* in the middle\)—started gaining some \(grudging\) acceptance in the mid-20th century in *W3* \(1961\) and in other wordbooks—e.g.:
 
-• **1983:** "*Flaccid* is preferably pronounced /**flak**-sid/, but some people say /**flas**-id/, which is also acceptable." *Reader's Digest Success with Words* 240 \(1983\).
+ - **1983:** "*Flaccid* is preferably pronounced /**flak**-sid/, but some people say /**flas**-id/, which is also acceptable." *Reader's Digest Success with Words* 240 \(1983\).
 
-• **1996:** "The older pronunciation is \(flak'sid\), but the variant \(flas'id\) has been recorded in dictionaries since about the middle of the 20th century." *The American Heritage Book of English Usage* 222 \(1996\).
+ - **1996:** "The older pronunciation is \(flak'sid\), but the variant \(flas'id\) has been recorded in dictionaries since about the middle of the 20th century." *The American Heritage Book of English Usage* 222 \(1996\).
 
 It's recorded in *Webster's New World Dictionary* \(1994\), all right, but only as a secondary variant. *W10* \(1993\) obelizes /**flas**-id/ with the mark "÷" \(suggesting that it's "considered by some to be unacceptable"\), but then it labels /**flak**-sid/ as being "appreciably less common." Meanwhile, *OED2* lists only /**flak**-sid/. *W11* \(2003\) removed the "÷" and, without comment, gave preference to /**flas**-id/.
 
@@ -32,11 +32,11 @@ Language-Change Index
 
 **B. Misspelling.** As a result of the spreading mispronunciation, the misspelling *\*flacid* \(on the analogy of *placid*\) has arisen—e.g.:
 
-• "Naomi, Toshiyuki and I unrolled the long, *flacid* \[read *flaccid*\] canopy while Richard positioned a huge electric fan at the mouth." Elliot Neal Hester, "The Sky's the Limit for Central Florida Vacations," *Boston Herald*, 16 May 1996, at 54.
+ - "Naomi, Toshiyuki and I unrolled the long, *flacid* \[read *flaccid*\] canopy while Richard positioned a huge electric fan at the mouth." Elliot Neal Hester, "The Sky's the Limit for Central Florida Vacations," *Boston Herald*, 16 May 1996, at 54.
 
-• "The succulent shellfish practically melted on the tongue, but the tempura coating was oddly *flacid* \[read *flaccid*\]." Cynthia Kilian, "A Win, Win Situation," *N.Y. Post*, 12 May 2002, at 55.
+ - "The succulent shellfish practically melted on the tongue, but the tempura coating was oddly *flacid* \[read *flaccid*\]." Cynthia Kilian, "A Win, Win Situation," *N.Y. Post*, 12 May 2002, at 55.
 
-• "We few, we unhappy few, grimace through the molasses-on-grits Southern accents, shake our heads at the historical revisionism and snort at the static dullness of this endless, *flacid* \[read *flaccid*\] adaptation of another historical novel about America's defining moment." Roger Moore, "This Civil War Epic Is God-Awful and Generally a Waste," *Orlando Sentinel*, 21 Feb. 2003, Cal. §, at 20.
+ - "We few, we unhappy few, grimace through the molasses-on-grits Southern accents, shake our heads at the historical revisionism and snort at the static dullness of this endless, *flacid* \[read *flaccid*\] adaptation of another historical novel about America's defining moment." Roger Moore, "This Civil War Epic Is God-Awful and Generally a Waste," *Orlando Sentinel*, 21 Feb. 2003, Cal. §, at 20.
 
 Language-Change Index
 

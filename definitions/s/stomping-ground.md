@@ -4,9 +4,9 @@ stomping ground; **stamping ground**. The traditional phrase is *stamping ground
 
 It's perfectly idiomatic to say either *stomping ground* or *stomping grounds*—e.g.:
 
-• "Sanchez and Charlton are from Tampa, while Bender hails from Clemson, S.C., head coach Jackie Hadel's old *stomping grounds*." Scott Kauffman, "Freshmen Serve Up Volleyball Success," *Orlando Sentinel*, 21 Sept. 1997, at K9.
+ - "Sanchez and Charlton are from Tampa, while Bender hails from Clemson, S.C., head coach Jackie Hadel's old *stomping grounds*." Scott Kauffman, "Freshmen Serve Up Volleyball Success," *Orlando Sentinel*, 21 Sept. 1997, at K9.
 
-• "Smith, 51, just completed four consecutive nights at CBGB, her old *stomping ground* and the birthplace of New York punk." Jim Sullivan, "Patti Smith Finds ‘Peace' Outside Rock," *Boston Globe*, 2 Dec. 1997, at E1.
+ - "Smith, 51, just completed four consecutive nights at CBGB, her old *stomping ground* and the birthplace of New York punk." Jim Sullivan, "Patti Smith Finds ‘Peace' Outside Rock," *Boston Globe*, 2 Dec. 1997, at E1.
 
 Language-Change Index
 

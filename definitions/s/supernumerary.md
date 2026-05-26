@@ -4,9 +4,9 @@ supernumerary is a fancy adjective meaning \(1\) "extra"; \(2\) \(of an employee
 
 The same error occurs in the noun use, in which *supernumerary* means "an extra person or thing"—e.g.:
 
-• "The chorus hung around like *supernumeries* \[read *supernumeraries*\]." Andrew Clark, "Where Opera Goes from Strength to Strength," *Fin. Times*, 28 July 1994, at 15.
+ - "The chorus hung around like *supernumeries* \[read *supernumeraries*\]." Andrew Clark, "Where Opera Goes from Strength to Strength," *Fin. Times*, 28 July 1994, at 15.
 
-• "The good burghers of Cannes . . . don't like to be treated as *supernumeries* \[read *supernumeraries*\]." Derek Malcolm, "Cannes 96," *Guardian*, 8 May 1996, at T6.
+ - "The good burghers of Cannes . . . don't like to be treated as *supernumeries* \[read *supernumeraries*\]." Derek Malcolm, "Cannes 96," *Guardian*, 8 May 1996, at T6.
 
 Language-Change Index
 

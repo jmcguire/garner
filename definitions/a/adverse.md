@@ -4,11 +4,11 @@ adverse; **averse**. To be *adverse to* something is to be turned in opposition 
 
 Each word is occasionally misused for the other—e.g.:
 
-• "Alistair Boyle's narrator Gil Yates is certainly not *adverse* \[read *averse*\] to a money-making scheme, however dubious." Jeremy C. Shea, "Everyone's a Con," *St. Louis Post-Dispatch* \(Everyday Mag.\), 4 May 1996, at D4.
+ - "Alistair Boyle's narrator Gil Yates is certainly not *adverse* \[read *averse*\] to a money-making scheme, however dubious." Jeremy C. Shea, "Everyone's a Con," *St. Louis Post-Dispatch* \(Everyday Mag.\), 4 May 1996, at D4.
 
-• "He and Kasner say many investors are *adverse* \[read *averse*\] to risk and unlikely to substitute risky company shares for conservative muni bond investments." John G. Edwards, "Cost of Interest Could Increase," *Las Vegas Rev.-J.*, 9 Jan. 2003, at D1.
+ - "He and Kasner say many investors are *adverse* \[read *averse*\] to risk and unlikely to substitute risky company shares for conservative muni bond investments." John G. Edwards, "Cost of Interest Could Increase," *Las Vegas Rev.-J.*, 9 Jan. 2003, at D1.
 
-• "People with chronic liver problems can lead normal lives until an *averse* \[read *adverse*\] reaction to something such as a viral infection or a fatty diet pushes them over the edge into liver failure." Linda Marsa, "An Artificial Liver May Bridge a Gap," *L.A. Times*, 20 Jan. 2003, at F3.
+ - "People with chronic liver problems can lead normal lives until an *averse* \[read *adverse*\] reaction to something such as a viral infection or a fatty diet pushes them over the edge into liver failure." Linda Marsa, "An Artificial Liver May Bridge a Gap," *L.A. Times*, 20 Jan. 2003, at F3.
 
 Language-Change Index
 

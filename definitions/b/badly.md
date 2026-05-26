@@ -4,9 +4,9 @@ badly.
 
 **A. And *bad*.** With a linking verb such as *is*, *feels*, *seems*, or *tastes*, the predicate adjective *bad* is required, not the adverbial complement *badly*—e.g.:
 
-• "But the punishment hardly seems to fit the ‘crime' as presented, and both teacher and students come off looking *badly* \[read *bad*\]." Eric Ries, "Rip-Snortin' Romp," *Techniques*, 1 Feb. 2000, at 76.
+ - "But the punishment hardly seems to fit the ‘crime' as presented, and both teacher and students come off looking *badly* \[read *bad*\]." Eric Ries, "Rip-Snortin' Romp," *Techniques*, 1 Feb. 2000, at 76.
 
-• "A good rule of thumb is: If a mushroom looks, smells, or tastes *badly* \[read *bad*\], do not eat it." Art Judd, "Mushroom Madness," *Santa Fe New Mexican*, 21 June 2001, at C1.
+ - "A good rule of thumb is: If a mushroom looks, smells, or tastes *badly* \[read *bad*\], do not eat it." Art Judd, "Mushroom Madness," *Santa Fe New Mexican*, 21 June 2001, at C1.
 
 See **feel \(c\)**.
 

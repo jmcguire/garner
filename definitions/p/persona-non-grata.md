@@ -4,11 +4,11 @@ persona non grata \(/pәr-**soh**-nә non **grah**-tә/\) \[L. "an unwanted pers
 
 Some writers get misled by the much more common latinism *gratis* /**grat**-is/, meaning "free, without charge," and proceed to mangle the phrase—e.g.:
 
-• "Couples who should know better are quickly becoming *persona non gratis* \[read *persona non grata*\] in several circles." Judy Wells, "The Wells Watch," *Fla. Times-Union*, 13 Feb. 2000, at D2. \(Because of the plural sense, another wording would be preferable. See below.\)
+ - "Couples who should know better are quickly becoming *persona non gratis* \[read *persona non grata*\] in several circles." Judy Wells, "The Wells Watch," *Fla. Times-Union*, 13 Feb. 2000, at D2. \(Because of the plural sense, another wording would be preferable. See below.\)
 
-• "Through mid-August they . . . were *persona non gratis* \[read *persona non grata*\] to their fans." Jay Greenberg, "Yes, It Really Is Happening," *N.Y. Post*, 23 Sept. 2001, at 106. \(Ditto.\)
+ - "Through mid-August they . . . were *persona non gratis* \[read *persona non grata*\] to their fans." Jay Greenberg, "Yes, It Really Is Happening," *N.Y. Post*, 23 Sept. 2001, at 106. \(Ditto.\)
 
-• "When he questioned the wisdom of being listed as her newest book club selection, he traded in her seal of approval for a *persona non gratis* \[read *persona non grata*\] label instead." Lisa Tramontana, "Corrections: Bestseller Achieves Success Without Oprah's Boost," *Advocate* \(Baton Rouge\), 27 Jan. 2002, Mag. §, at 13.
+ - "When he questioned the wisdom of being listed as her newest book club selection, he traded in her seal of approval for a *persona non gratis* \[read *persona non grata*\] label instead." Lisa Tramontana, "Corrections: Bestseller Achieves Success Without Oprah's Boost," *Advocate* \(Baton Rouge\), 27 Jan. 2002, Mag. §, at 13.
 
 The mistake occurs more often in AmE than in BrE, where *gratis* is often pronounced /**gray**-tis/.
 

@@ -4,17 +4,17 @@ ordinance; **ordnance**; **ordonnance**. *Ordinance* \(= a municipal \[i.e., cit
 
 Occasionally *ordnance* is misused for *ordinance*—e.g.:
 
-• "His municipal government adopted its own standards in May 1994 as a city *ordnance* \[read *ordinance*\]." Kevin Petrie, "TCI Promises Cities Better Service Record," *Denver Bus. J.*, 19 Apr. 1996, at A9.
+ - "His municipal government adopted its own standards in May 1994 as a city *ordnance* \[read *ordinance*\]." Kevin Petrie, "TCI Promises Cities Better Service Record," *Denver Bus. J.*, 19 Apr. 1996, at A9.
 
-• "He said noise and parking are addressed specifically by city *ordnances* \[read *ordinances*\]." Martin Luttrell, "Bands Might Not Play On," *Telegram & Gaz.* \(Worcester\), 16 Jan. 2006, at B1.
+ - "He said noise and parking are addressed specifically by city *ordnances* \[read *ordinances*\]." Martin Luttrell, "Bands Might Not Play On," *Telegram & Gaz.* \(Worcester\), 16 Jan. 2006, at B1.
 
 The opposite error, *ordinance* for *ordnance*, also occurs—e.g.:
 
-• "It coordinates civilian organizations clearing mines and unexploded *ordinance* \[read *ordnance*\] across Kosovo." Carlotta Gall, "U.N. Aide in Kosovo Faults NATO on Unexploded Bombs," *N.Y. Times*, 23 May 2000, at A3.
+ - "It coordinates civilian organizations clearing mines and unexploded *ordinance* \[read *ordnance*\] across Kosovo." Carlotta Gall, "U.N. Aide in Kosovo Faults NATO on Unexploded Bombs," *N.Y. Times*, 23 May 2000, at A3.
 
-• "There are a number of unexploded small *ordinance* \[read *ordnance*\] scattered about the entire island." Andrew Doughty & Harriett Friedman, *Maui Revealed* 141 \(2001\).
+ - "There are a number of unexploded small *ordinance* \[read *ordnance*\] scattered about the entire island." Andrew Doughty & Harriett Friedman, *Maui Revealed* 141 \(2001\).
 
-• "They are reluctant veterans of detonating unexploded *ordinance* \[read *ordnance*\]." Amy Waldman, "A Nation Challenged," *N.Y. Times*, 23 Nov. 2001, at B4.
+ - "They are reluctant veterans of detonating unexploded *ordinance* \[read *ordnance*\]." Amy Waldman, "A Nation Challenged," *N.Y. Times*, 23 Nov. 2001, at B4.
 
 Language-Change Index
 

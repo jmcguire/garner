@@ -4,11 +4,11 @@ everyone.
 
 **A. Singular or Plural?** Today it is standard practice to use *everyone* and *everybody* with a singular verb but a plural pronoun—e.g.:
 
-• "Almost *everybody* now seems to be a ‘victim' of something—of society or *their* own weaknesses." Susan Crosland, "The Aftershock of Anger," *Sunday Times* \(London\), 22 Oct. 1989, at B2.
+ - "Almost *everybody* now seems to be a ‘victim' of something—of society or *their* own weaknesses." Susan Crosland, "The Aftershock of Anger," *Sunday Times* \(London\), 22 Oct. 1989, at B2.
 
-• "The compilation of the *OED* made it possible for *everyone* to have before *them* the historical shape and configuration of the language." R.W. Burchfield, *Unlocking the English Language* 169 \(1989\).
+ - "The compilation of the *OED* made it possible for *everyone* to have before *them* the historical shape and configuration of the language." R.W. Burchfield, *Unlocking the English Language* 169 \(1989\).
 
-• "*Everyone* in the ground that day couldn't take *their* eyes off it." Keith Duggan, "If Tyrone Overturn Logic It Will Be Harte's Greatest Achievement," *Irish Times*, 22 Aug. 2015, Sport §, at 12.
+ - "*Everyone* in the ground that day couldn't take *their* eyes off it." Keith Duggan, "If Tyrone Overturn Logic It Will Be Harte's Greatest Achievement," *Irish Times*, 22 Aug. 2015, Sport §, at 12.
 
 Here's a statement of the modern view: "Jane Austen wrote ‘every body' as two words and considered the phrase as singular; we now write one word, ‘everybody,' and consider it as plural, equivalent to ‘all people.' Hence the entry in the *Dictionary* under ‘agreement' gives ‘Everybody knows this, don't they?' as an example of notional concord, obviously rightly: we would not accept ‘Everybody knows this, doesn't he or she?' " Paul Dean, "More Grammatical than Thou," *TLS*, 22 Apr. 1994, at 8.
 

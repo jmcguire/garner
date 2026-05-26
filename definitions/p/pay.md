@@ -4,9 +4,9 @@ pay.
 
 **A. Inflected Forms: *pay* > *paid* > *paid*.** *\*Payed* is a startling error for *paid*—e.g.:
 
-• "He got charged with harassment after a supermarket fistfight, a violation, and *payed* \[read *paid*\] a $250 fine." Al Baker, "Bounty Hunter Tom Evangelista Comes Armed with a Big Gun, Lots of Patience, and a Plan to Get His Man," *Newsday* \(N.Y.\), 9 Nov. 1997, at G8.
+ - "He got charged with harassment after a supermarket fistfight, a violation, and *payed* \[read *paid*\] a $250 fine." Al Baker, "Bounty Hunter Tom Evangelista Comes Armed with a Big Gun, Lots of Patience, and a Plan to Get His Man," *Newsday* \(N.Y.\), 9 Nov. 1997, at G8.
 
-• "He *payed* \[read *paid*\] $387,500 in 1995, according to the records." David Montgomery, "Embassy Neighbors Try to Dig Up Dirt on Tunnel," *Wash. Post*, 11 Mar. 2001, at C1.
+ - "He *payed* \[read *paid*\] $387,500 in 1995, according to the records." David Montgomery, "Embassy Neighbors Try to Dig Up Dirt on Tunnel," *Wash. Post*, 11 Mar. 2001, at C1.
 
 See irregular verbs.
 

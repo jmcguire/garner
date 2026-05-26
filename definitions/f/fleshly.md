@@ -6,9 +6,9 @@ fleshly; **fleshy**. *Fleshly* = \(1\) bodily, corporeal <the soul's fleshly cou
 
 Not surprisingly, these terms are susceptible to word-swapping—e.g.:
 
-• "Modotti's technique left her portrait subjects looking so *fleshly* \[read *fleshy*\] that the prints themselves seem to have skin." Kenneth Baker, "Southern Exposure," *S.F. Chron.*, 2 Sept. 2006, at E1.
+ - "Modotti's technique left her portrait subjects looking so *fleshly* \[read *fleshy*\] that the prints themselves seem to have skin." Kenneth Baker, "Southern Exposure," *S.F. Chron.*, 2 Sept. 2006, at E1.
 
-• "Max Boot . . . does as much as any other writer of recent vintage to bring the *fleshy* \[read *fleshly*\] reality of warfare back into view." Paul McLeary, "Why It's Better to Be Smart than Strong," *Christian Science Monitor*, 23 Jan. 2007, Features §, at 17.
+ - "Max Boot . . . does as much as any other writer of recent vintage to bring the *fleshy* \[read *fleshly*\] reality of warfare back into view." Paul McLeary, "Why It's Better to Be Smart than Strong," *Christian Science Monitor*, 23 Jan. 2007, Features §, at 17.
 
 Language-Change Index
 

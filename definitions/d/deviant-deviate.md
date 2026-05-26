@@ -4,11 +4,11 @@ deviant; deviate.
 
 **A. As Adjectives.** *Deviant* is normal. In 1895, the *OED* labeled both these adjectives "obsolete" and "rare." The *OED Supp.* \(1972\) deleted the tag on *deviant* and cited many examples in the sense "deviating from normal social standards or behavior." The word is common—e.g.:
 
-• "He wasn't a young rebel, *deviant*, troubled or neurotic, didn't die early and wasn't weirdly erotic." James Warren, "America's Love, and Need, for the Duke," *Chicago Trib.*, 16 Aug. 1996, Tempo §, at 3.
+ - "He wasn't a young rebel, *deviant*, troubled or neurotic, didn't die early and wasn't weirdly erotic." James Warren, "America's Love, and Need, for the Duke," *Chicago Trib.*, 16 Aug. 1996, Tempo §, at 3.
 
-• "However, \[the drug\] does not change an abuser's proclivity toward *deviant* sex, experts say." Ellen Hale, "Value of Chemical Castration Doubted," *Courier-J.* \(Louisville\), 28 Aug. 1996, at A4.
+ - "However, \[the drug\] does not change an abuser's proclivity toward *deviant* sex, experts say." Ellen Hale, "Value of Chemical Castration Doubted," *Courier-J.* \(Louisville\), 28 Aug. 1996, at A4.
 
-• "Only the faintest electronic hum, audible to dogs and superhumans, suggested his *deviant* handiwork." Jeff Turrentine, "The Hotel Dick," *Forbes*, 23 Sept. 1996, at 41.
+ - "Only the faintest electronic hum, audible to dogs and superhumans, suggested his *deviant* handiwork." Jeff Turrentine, "The Hotel Dick," *Forbes*, 23 Sept. 1996, at 41.
 
 Although *deviant* is the predominant adjective, it has had to compete—unfortunately—with *deviate*. The latter, in this sense a needless variant of *deviant*, is common in AmE—e.g.: "Nora Mae Roberts is charged with one count of first-degree violation of a minor, involving alleged intercourse or *deviate* \[read *deviant*\] sex with a 17-year-old boy." Mike Rodman, "Ex-Girls' Basketball Coach Pleads Guilty to Sexually Violating 3 Players," *Ark. Democrat-Gaz.*, 15 Feb. 1995, at B1.
 

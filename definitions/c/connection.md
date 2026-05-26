@@ -4,9 +4,9 @@ connection; \***connexion; connexity**. The spelling *-tion* is standard in AmE;
 
 Some writers use *connexity* in a distinct way, synonymously with *connectedness* \(= the quality of being connected\). E.g.: "John's storytelling has the virtues of economy, *connexity*, and depth." Thomas D'Evelyn, "Looking at the Bible as Literature," *Christian Science Monitor*, 21 Oct. 1987, at 19. British writers use it somewhat more often than American writers—e.g.:
 
-• "Here's a group of small green landscapes. Here are some monumental bodies. Here are two still-lives, both with fruit and a vessel. Here are some seated nudes. Now compare and contrast, note likenesses and differences. This unrelenting *connexity* can be a bit nagging, and the connections are sometimes slight." Tom Lubbock, "Two of a Kind?," *Independent*, 17 May 2002, at 9.
+ - "Here's a group of small green landscapes. Here are some monumental bodies. Here are two still-lives, both with fruit and a vessel. Here are some seated nudes. Now compare and contrast, note likenesses and differences. This unrelenting *connexity* can be a bit nagging, and the connections are sometimes slight." Tom Lubbock, "Two of a Kind?," *Independent*, 17 May 2002, at 9.
 
-• "In the same decade of the 1990s that gave the US the strength and size of Behemoth and the rapidity and *connexity* of Ariel, we tried once more to develop an international rule of law; a rule of law that would cover the benign superpower as well." John Lloyd, "America, with Relish, Spits on Britain," *New Statesman*, 8 July 2002, at 18.
+ - "In the same decade of the 1990s that gave the US the strength and size of Behemoth and the rapidity and *connexity* of Ariel, we tried once more to develop an international rule of law; a rule of law that would cover the benign superpower as well." John Lloyd, "America, with Relish, Spits on Britain," *New Statesman*, 8 July 2002, at 18.
 
 At times, especially in legal writing, *connexity* is simply a needless variant of *connection*—e.g.: "There should be some *connexity* \[read *connection*\] between this defendant and this crime." Huey L. Golden, "Knowledge, Intent, System, and Motive," 55 *La. L. Rev.* 179, 207 \(1994\).
 

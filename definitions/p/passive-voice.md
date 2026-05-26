@@ -44,17 +44,17 @@ The active voice has palpable advantages in most contexts: it saves words, says 
 
 The hedging in the previous sentence—"in most contexts"—is purposeful. That is, sometimes you'll be perfectly justified in using the passive voice. There's no absolute prohibition against it—and anyone who tries carrying out such a prohibition would spoil a piece of writing. Among the times when you'll want the passive in a given sentence are these:
 
-• When the actor is unimportant.
+ - When the actor is unimportant.
 
-• When the actor is unknown.
+ - When the actor is unknown.
 
-• When you want or need to hide the actor's identity.
+ - When you want or need to hide the actor's identity.
 
-• When you need to put the punch word at the end of the sentence.
+ - When you need to put the punch word at the end of the sentence.
 
-• When the focus of the passage is on the thing being acted on.
+ - When the focus of the passage is on the thing being acted on.
 
-• When the passive simply sounds better.
+ - When the passive simply sounds better.
 
 Still, professional editors find that these six situations account for only about 15% to 20% of the contexts in which the passive actually appears.
 
@@ -62,17 +62,17 @@ That means you ought to have a presumption against using the passive, unless it 
 
 **B. The Double Passive.** The problem here is using one passive immediately after another. E.g.:
 
-• "This document refers to the portion of the votes *entitled to be cast* by virtue of membership in the union." \(Votes are not *entitled to be cast*; rather, union members are *entitled to cast* votes.\)
+ - "This document refers to the portion of the votes *entitled to be cast* by virtue of membership in the union." \(Votes are not *entitled to be cast*; rather, union members are *entitled to cast* votes.\)
 
-• "Had the new vaccine *been intended to have been injected* into the patient, he would have been warned to avoid drinking alcohol." \(A possible revision: *If the new vaccine had been intended for injection into the patient . . . .*\)
+ - "Had the new vaccine *been intended to have been injected* into the patient, he would have been warned to avoid drinking alcohol." \(A possible revision: *If the new vaccine had been intended for injection into the patient . . . .*\)
 
 The problem is common with the verb *seek* \(and sometimes *attempt*\), especially in legal contexts—e.g.:
 
-• "But the inference *sought to be drawn* in such a case would have to be that the parties had, at the time of the acquisition of the property, communicated to one another a common intention to acquire the property in equal shares." Shiranikha Herbert, "Home Truths About Sharing the Mortgage," *Guardian*, 29 Apr. 1992, at 23. \(A possible revision: *But the inference in such a case would have to be that when the parties acquired the property, they communicated to one another a common intention to acquire it in equal shares*.\)
+ - "But the inference *sought to be drawn* in such a case would have to be that the parties had, at the time of the acquisition of the property, communicated to one another a common intention to acquire the property in equal shares." Shiranikha Herbert, "Home Truths About Sharing the Mortgage," *Guardian*, 29 Apr. 1992, at 23. \(A possible revision: *But the inference in such a case would have to be that when the parties acquired the property, they communicated to one another a common intention to acquire it in equal shares*.\)
 
-• "There is no evidence that any improper influence *was sought to be exercised* by me or anybody else over any official decision." President Bill Clinton, as quoted in "The Whitewater Inquiry," *N.Y. Times*, 8 Mar. 1994, at D20. \(A possible revision: *There is no evidence that I or anybody else tried to influence any official decision*.\)
+ - "There is no evidence that any improper influence *was sought to be exercised* by me or anybody else over any official decision." President Bill Clinton, as quoted in "The Whitewater Inquiry," *N.Y. Times*, 8 Mar. 1994, at D20. \(A possible revision: *There is no evidence that I or anybody else tried to influence any official decision*.\)
 
-• "The investigation began after fake $20 bills *were attempted to be passed* at Key Bank on Main Street." Ben Beagle, "Funny Money Still a Mystery," *Livingston County News* \(Geneseo, N.Y.\), 11 June 2015, at A4. \(A possible revision: *The investigation began after fake $20 bills were recognized at Key Bank on Main Street.*\)
+ - "The investigation began after fake $20 bills *were attempted to be passed* at Key Bank on Main Street." Ben Beagle, "Funny Money Still a Mystery," *Livingston County News* \(Geneseo, N.Y.\), 11 June 2015, at A4. \(A possible revision: *The investigation began after fake $20 bills were recognized at Key Bank on Main Street.*\)
 
 H.W. Fowler wrote that "monstrosities of this kind . . . are as repulsive to the grammarian as to the stylist" \(*FMEU1* at 121\).
 

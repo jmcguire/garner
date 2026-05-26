@@ -12,15 +12,15 @@ That's not the only kind of sentence in which the possessive is impossible or un
 
 Yet Fowler had a stylistic if not a grammatical point. Especially in formal prose, traditionalists are likely to prefer the possessive whenever it is not unidiomatic or unnatural. In the following sentences, then, possessives might have been better used than the nouns and objective-case pronouns:
 
-• "If his patients asked, he would not object to *them trying* \[read *their trying*\] it." Elisabeth Tacey, "Doctor Puts Faith in Shark Cancer Cure," *South China Morning Post*, 21 Apr. 1994, at 3.
+ - "If his patients asked, he would not object to *them trying* \[read *their trying*\] it." Elisabeth Tacey, "Doctor Puts Faith in Shark Cancer Cure," *South China Morning Post*, 21 Apr. 1994, at 3.
 
-• "The pattern of our life, which now involves *me spending* \[read *my spending*\] some days each week totally alone so as to write, proves to be creative and necessary for all of us." Terry Waite, "A Long, Long Way to Travel," *Times* \(London\), 27 Aug. 1994, at 15.
+ - "The pattern of our life, which now involves *me spending* \[read *my spending*\] some days each week totally alone so as to write, proves to be creative and necessary for all of us." Terry Waite, "A Long, Long Way to Travel," *Times* \(London\), 27 Aug. 1994, at 15.
 
-• "Now when 11-year-old Shelby Young rides the bus to Loudon Grade School, he doesn't worry *about the older kids soaking* \[read *that the older kids will soak*\] him with water guns." Carrie Sturrock, "Separate Buses, Better than Equal," *Concord Monitor*, 7 Sept. 1994, at B1. \(The difference in meaning between *kids soaking* and *kids' soaking* is slight: as currently worded, *the older kids soaking him* seems elliptical for *the older kids who are soaking him* \[in which case the original sentence is right\]. But the writer probably meant *their soaking him*—hence *the older kids' soaking him*. The question is what he's not worrying about: the *kids* or the *soaking*. The revised version, with a new subordinate clause \[*that the older kids will soak him*\], is a good way to avoid the problem altogether.\)
+ - "Now when 11-year-old Shelby Young rides the bus to Loudon Grade School, he doesn't worry *about the older kids soaking* \[read *that the older kids will soak*\] him with water guns." Carrie Sturrock, "Separate Buses, Better than Equal," *Concord Monitor*, 7 Sept. 1994, at B1. \(The difference in meaning between *kids soaking* and *kids' soaking* is slight: as currently worded, *the older kids soaking him* seems elliptical for *the older kids who are soaking him* \[in which case the original sentence is right\]. But the writer probably meant *their soaking him*—hence *the older kids' soaking him*. The question is what he's not worrying about: the *kids* or the *soaking*. The revised version, with a new subordinate clause \[*that the older kids will soak him*\], is a good way to avoid the problem altogether.\)
 
-• "Ms. Warren promises to run a government ‘more actively managing our currency, value to promote exports and domestic manufacturing' in response to other countries\['\] manipulating their exchange rates." "Warrensworld," *Economist*, 26 Oct. 2019, at 18, 20.
+ - "Ms. Warren promises to run a government ‘more actively managing our currency, value to promote exports and domestic manufacturing' in response to other countries\['\] manipulating their exchange rates." "Warrensworld," *Economist*, 26 Oct. 2019, at 18, 20.
 
-• "This implosion comes despite the United States\['\] having poured more than $83 billion in weapons, equipment, and training into the country's security forces over two decades." Thomas Gibbons-Neff, Fahim Abed & Sharif Hassan, "Over 15 Cities Slip Out of Grasp of Afghan Forces," *N.Y. Times*, 14 Aug. 2021, at A1.
+ - "This implosion comes despite the United States\['\] having poured more than $83 billion in weapons, equipment, and training into the country's security forces over two decades." Thomas Gibbons-Neff, Fahim Abed & Sharif Hassan, "Over 15 Cities Slip Out of Grasp of Afghan Forces," *N.Y. Times*, 14 Aug. 2021, at A1.
 
 Fowler assumed a distinction between the "gerund" -*ing* form \(which behaves like a noun\) and the "present participle" -*ing* form \(which behaves like a verb\). It feels more literary, to be sure, to say *My undertaking this job depends on your paying a deposit first*—as opposed to \**Me undertaking this job depends on you paying a deposit first*.
 
@@ -32,9 +32,9 @@ In the relevant constructions, using a possessive isn't obligatory—and is some
 
 In modern print sources, fused participles are more likely to be encountered in BrE than in AmE. In one short piece in a leading English newspaper, for example, these two examples appeared:
 
-• "Within minutes of a terrorist \[probably read, in AmE, *terrorist's*\] driving a white van at speed along the central pavement, social media platforms were broadcasting the uncensored horror that he left in his wake." "Low-Tech Terror in the Age of Social Media," *Times* \(London\), 18 Aug. 2017, at 5.
+ - "Within minutes of a terrorist \[probably read, in AmE, *terrorist's*\] driving a white van at speed along the central pavement, social media platforms were broadcasting the uncensored horror that he left in his wake." "Low-Tech Terror in the Age of Social Media," *Times* \(London\), 18 Aug. 2017, at 5.
 
-• "There is no prospect of the threat \[probably read, in AmE, *threat's*\] abating." *Ibid*.
+ - "There is no prospect of the threat \[probably read, in AmE, *threat's*\] abating." *Ibid*.
 
 The lack of apostrophe is more understandable when another possessive is nearby—e.g.: "Her latest obsession . . . is similar to a normal sheet mask except that it's made from rubber to prevent the mask's ingredients evaporating." Amy Kester, "Is £10 Treatment Worth It?," *Daily Mail* \(U.K.\), 16 Aug. 2017, at 3. In AmE, the fused participle \(*ingredients evaporating*\) in that example would be forestalled by inserting the word *from* before *evaporating*. See **prevent**.
 

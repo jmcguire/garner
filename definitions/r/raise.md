@@ -4,11 +4,11 @@ raise.
 
 **A. And *rear*.** The old AmE rule, still sometimes observed, is that crops and livestock are *raised* and children are *reared*. But today the phrase *born and raised* is about nine times as common in print as *born and reared*. And *raise* is now standard as a synonym for *rear*—e.g.:
 
-• "He earlier had worked in the candy-making business in Pittsburgh, where he was born and *raised*." "John J. Martin Dies at 74," *Wash. Post*, 8 Aug. 1997, at B4.
+ - "He earlier had worked in the candy-making business in Pittsburgh, where he was born and *raised*." "John J. Martin Dies at 74," *Wash. Post*, 8 Aug. 1997, at B4.
 
-• "My mother *raised* me to be polite." Mary Newton Brudner, *The Grammar Lady* 57 \(2000\).
+ - "My mother *raised* me to be polite." Mary Newton Brudner, *The Grammar Lady* 57 \(2000\).
 
-• "However, of the thirty-one young people born in Britain, five of them were sent back to Hong Kong and partly *raised* there, before returning to Britain. Individuals *born* *and* *raised* predominantly in Hong Kong and those *born* *and* *raised* in Britain \(or brought to Britain by primary school age\) tended to have different expectations about family and work." Miri Song, *Helping Out* 106 \(2010\).
+ - "However, of the thirty-one young people born in Britain, five of them were sent back to Hong Kong and partly *raised* there, before returning to Britain. Individuals *born* *and* *raised* predominantly in Hong Kong and those *born* *and* *raised* in Britain \(or brought to Britain by primary school age\) tended to have different expectations about family and work." Miri Song, *Helping Out* 106 \(2010\).
 
 Indeed, *born and reared* is now likely to sound affected in AmE—even though it was predominant over *born and raised* till about 1950.
 

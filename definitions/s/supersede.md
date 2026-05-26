@@ -4,11 +4,11 @@ supersede.
 
 **A. Spelling.** This word—from the Latin root *-sed-* "to sit," not *-ced-* "to move"—is properly spelled with an internal *s*, not a *c*. But so many other English words end in *-cede* or *-ceed* that many writers unconsciously distort the spelling of *supersede*. The misspelling has persistently occurred since the 1600s, though quite infrequently in comparison with the correct spelling. The error appears in some surprising places—e.g.:
 
-• "The decision sends a strong message to lumber companies that claim their property rights *supercede* \[read *supersede*\] environmental concerns." Daniel Sneider, "Species Act Survives Challenge," *Christian Science Monitor*, 21 Feb. 1997, at 3.
+ - "The decision sends a strong message to lumber companies that claim their property rights *supercede* \[read *supersede*\] environmental concerns." Daniel Sneider, "Species Act Survives Challenge," *Christian Science Monitor*, 21 Feb. 1997, at 3.
 
-• "For now, their legal battle in California mostly centers on jurisdiction, whether the state's gun laws *supercede* \[read *supersede*\] those enacted locally." Lynda Gorov, "Calif. Gun Battle," *Boston Globe*, 18 Apr. 1997, at A1.
+ - "For now, their legal battle in California mostly centers on jurisdiction, whether the state's gun laws *supercede* \[read *supersede*\] those enacted locally." Lynda Gorov, "Calif. Gun Battle," *Boston Globe*, 18 Apr. 1997, at A1.
 
-• "For example, a federal statute may *supercede* \[read *supersede*\] or ‘preempt' a similar state statute, and a state statute may *supercede* \[read *supersede*\] or ‘preempt' a similar county or city ordinance." William A. Kaplin & Barbara A. Lee, *The Law of Higher Education* 673 \(2011\).
+ - "For example, a federal statute may *supercede* \[read *supersede*\] or ‘preempt' a similar state statute, and a state statute may *supercede* \[read *supersede*\] or ‘preempt' a similar county or city ordinance." William A. Kaplin & Barbara A. Lee, *The Law of Higher Education* 673 \(2011\).
 
 See spelling \(a\).
 

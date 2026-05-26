@@ -8,7 +8,7 @@ temporize.
 
 **B. And *extemporize*.** *Extemporize* = to speak or perform extemporaneously; improvise. E.g.:
 
-• "Many Americans recall how Clinton, speaking on health care to Congress last September, had to *extemporize* after finding the wrong speech scrolling on his Teleprompter screen." John Aloysius Farrell, "Life on the Edge Marks Presidency," *Boston Globe*, 13 June 1994, at 1.
+ - "Many Americans recall how Clinton, speaking on health care to Congress last September, had to *extemporize* after finding the wrong speech scrolling on his Teleprompter screen." John Aloysius Farrell, "Life on the Edge Marks Presidency," *Boston Globe*, 13 June 1994, at 1.
 
-• "Marvin Jones had to *extemporize* Wednesday in front of Orlando's Downtown Athletic Club, the organization that awarded him the 1992 Butkus Award as the nation's top linebacker." Carter Gaddis, "Improvising Will Be Key as Jets' Jones Hits Camp," *Tampa Trib.*, 13 July 1997, at 6.
+ - "Marvin Jones had to *extemporize* Wednesday in front of Orlando's Downtown Athletic Club, the organization that awarded him the 1992 Butkus Award as the nation's top linebacker." Carter Gaddis, "Improvising Will Be Key as Jets' Jones Hits Camp," *Tampa Trib.*, 13 July 1997, at 6.
 

@@ -4,11 +4,11 @@ practical; **practicable**. Though similar, these words should be distinguished.
 
 *Practicable* /**prak**-ti-kә-bәl/ = capable of being accomplished; feasible; possible; doable. E.g.:
 
-• "Officers were instructed to hold the apprehended person for delivery to an officer of the other jurisdiction as soon as *practicable*." Mark A. Hutchison, "Legality of Police Pacts Questioned," *Sunday Oklahoman*, 6 Apr. 1997, at 1.
+ - "Officers were instructed to hold the apprehended person for delivery to an officer of the other jurisdiction as soon as *practicable*." Mark A. Hutchison, "Legality of Police Pacts Questioned," *Sunday Oklahoman*, 6 Apr. 1997, at 1.
 
-• "On the basis of emerging ITU standards, videoconferencing should become *practicable* over standard telephone lines." George Black, "Videoconferencing," *Fin. Times*, 10 Sept. 1997, at 12.
+ - "On the basis of emerging ITU standards, videoconferencing should become *practicable* over standard telephone lines." George Black, "Videoconferencing," *Fin. Times*, 10 Sept. 1997, at 12.
 
-• "The rollout should start with all over-70s . . . and those who are immunosuppressed, with everyone over 50 then offered jabs ‘as soon as practicable.' " "Autumn Boosters Could Be Limited to Most Vulnerable," *Daily Telegraph*, 20 Aug. 2021, at 1.
+ - "The rollout should start with all over-70s . . . and those who are immunosuppressed, with everyone over 50 then offered jabs ‘as soon as practicable.' " "Autumn Boosters Could Be Limited to Most Vulnerable," *Daily Telegraph*, 20 Aug. 2021, at 1.
 
 For a mistake related to this word, see **impracticability**. For comments on the negative forms, see **impractical**.
 

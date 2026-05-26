@@ -38,11 +38,11 @@ This sentence has several faults. First, it contains three *and*s. Second, it ha
 
 Let's try using subordination with the sentence, casting it three different ways:
 
-• Given the highly specialized society in which we live, it's hardly surprising that we learn most of what we know from teachers and experts.
+ - Given the highly specialized society in which we live, it's hardly surprising that we learn most of what we know from teachers and experts.
 
-• We learn most of what we know from teachers and experts—hardly surprising given how highly specialized modern society has become.
+ - We learn most of what we know from teachers and experts—hardly surprising given how highly specialized modern society has become.
 
-• It can hardly come as a surprise that we learn most of what we know from teachers and experts. After all, we live in a highly specialized society.
+ - It can hardly come as a surprise that we learn most of what we know from teachers and experts. After all, we live in a highly specialized society.
 
 Each of those versions has a slightly different emphasis based on the words at the beginnings and ends of the sentences. The end, of course, is of paramount importance. The third revision creates two sentence ends and therefore two points of emphasis. Doing that also improves the average sentence length. (See sentence length.)
 
@@ -52,11 +52,11 @@ However, it is possible to rely too heavily on experts and this approach to lear
 
 This sentence, containing four *and*s, begins with the clunky *However*. \(See **but \(a\)**.) Once again, someone wanting to use subordination instead of coordination could devise three more appealing versions:
 
-• Yet if we rely too heavily on experts for our learning and knowledge, we tend to become passive and receptive rather than inventive and imaginative.
+ - Yet if we rely too heavily on experts for our learning and knowledge, we tend to become passive and receptive rather than inventive and imaginative.
 
-• But this heavy reliance on others to learn may encourage passivity and receptiveness rather than inventiveness and imagination.
+ - But this heavy reliance on others to learn may encourage passivity and receptiveness rather than inventiveness and imagination.
 
-• Yet when it comes to learning and knowledge, an overreliance on experts can encourage passivity and receptiveness rather than inventiveness and imagination.
+ - Yet when it comes to learning and knowledge, an overreliance on experts can encourage passivity and receptiveness rather than inventiveness and imagination.
 
 Note once again that the revisions are shorter. Subordination typically promotes economy with words. It also makes the syntax more interesting because there's more variety. The prose is more than a series of compound sentences with undifferentiated main clauses linked by conjunctions.
 

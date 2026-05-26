@@ -8,19 +8,19 @@ Although the words do have some overlap, they are largely distinct. *Intense* = 
 
 *Intensive* is sometimes wrongly made \**intensitive* or \**intensative*—forms disapproved, along with \**preventative*, in an old book: Austin Phelps & Henry Allyn Frink, *Rhetoric: Its Theory and Practice* 24 \(1895\). The first of those variants still crops up in technical contexts in which it's surely simplifiable—e.g.:
 
-• "The above-described process is *user intensitive* \[read *user-intensive*\]." "Researchers Submit Patent Application," *J. of Engineering*, 12 Feb. 2014, at 3101.
+ - "The above-described process is *user intensitive* \[read *user-intensive*\]." "Researchers Submit Patent Application," *J. of Engineering*, 12 Feb. 2014, at 3101.
 
-• "Determining geodesic distances is closely related to an all-pair-shortest-path problem, which is a computationally *intensitive* \[read *intensive*\] operation." "Patent Issued for Increasing Resolution of Depth Images," *J. of Engineering*, 1 Apr. 2015, at 7709.
+ - "Determining geodesic distances is closely related to an all-pair-shortest-path problem, which is a computationally *intensitive* \[read *intensive*\] operation." "Patent Issued for Increasing Resolution of Depth Images," *J. of Engineering*, 1 Apr. 2015, at 7709.
 
 See **preventive**.
 
 Meanwhile, *intense* has taken on a new life as a hip, slangy casualism equivalent to *amazing* or *extraordinary*—e.g.:
 
-• " ‘We have some \[students\] that are pretty low-key and then some that are like, "Whoa, that's *intense*,' " said Gina Mitchell, the EGMS English teacher who has issued the assignment for the past several years." Brittani Howell, "They Should Have a Platform," *Herald-Times* \(Bloomington, Ill.\), 8 May 2019.
+ - " ‘We have some \[students\] that are pretty low-key and then some that are like, "Whoa, that's *intense*,' " said Gina Mitchell, the EGMS English teacher who has issued the assignment for the past several years." Brittani Howell, "They Should Have a Platform," *Herald-Times* \(Bloomington, Ill.\), 8 May 2019.
 
-• "I would be like, ‘Wow, this is so *intense*. This is so crazy.' " Ben Rothenberg, "Despite Pauses, Gauff Could Be Even Better," *Daily Gaz.* \(Schenectady, N.Y.\), 14 Aug. 2020, at 17.
+ - "I would be like, ‘Wow, this is so *intense*. This is so crazy.' " Ben Rothenberg, "Despite Pauses, Gauff Could Be Even Better," *Daily Gaz.* \(Schenectady, N.Y.\), 14 Aug. 2020, at 17.
 
-• "When the show is over, I don't want people going back and saying, ‘Wow that music was really good.' I want them thinking, ‘Wow, that was really *intense*.' " Denise Duguay, "Wired for Sound," *Winnipeg Free Press*, 26 Apr. 2021, at C3.
+ - "When the show is over, I don't want people going back and saying, ‘Wow that music was really good.' I want them thinking, ‘Wow, that was really *intense*.' " Denise Duguay, "Wired for Sound," *Winnipeg Free Press*, 26 Apr. 2021, at C3.
 
 With this usage, *intense* may have come into its own as a vogue term.
 

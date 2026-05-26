@@ -4,9 +4,9 @@ supposable; **suppositious**; **supposititious**; **suppositional**; **\*supposi
 
 *Suppositious* and *supposititious* sometimes cause confusion. Although some modern dictionaries list these as variants, some differentiation is both possible and desirable. *Suppositious* should be used to mean "hypothetical; theoretical; assumed." E.g.:
 
-• "House Speaker Thomas Foley . . . said: ‘I never answer questions like that. They are what are called *suppositious* questions.' " Michael Karnish, "Clinton Receives a High Court List," *Boston Globe*, 16 Apr. 1994, at 1.
+ - "House Speaker Thomas Foley . . . said: ‘I never answer questions like that. They are what are called *suppositious* questions.' " Michael Karnish, "Clinton Receives a High Court List," *Boston Globe*, 16 Apr. 1994, at 1.
 
-• "It is exactly here that I think the roots of Charles's tragicomedy lie, and not in the wholly *suppositious* notion of ‘parricide' advanced by the Robert Redford movie ‘Quiz Show.' " Jeffrey Hart, " ‘Van Doren' and ‘Redford,' " *Nat'l Rev.*, 7 Nov. 1994, at 78.
+ - "It is exactly here that I think the roots of Charles's tragicomedy lie, and not in the wholly *suppositious* notion of ‘parricide' advanced by the Robert Redford movie ‘Quiz Show.' " Jeffrey Hart, " ‘Van Doren' and ‘Redford,' " *Nat'l Rev.*, 7 Nov. 1994, at 78.
 
 *Supposititious* \(the most frequently occurring of all the headwords in this entry\) should be confined to its usual sense: "illegitimate; spurious; counterfeit." E.g.: "This *supposititious* mortal mind, not God, is the parent of all oppression and abuse, individual and collective." "The Circle of Love," *Christian Science Monitor*, 11 Sept. 1996, at 17. Interestingly, one user of the word has complained that not everyone grasps its precise meaning: "People who write about musical manuscripts find it difficult if not impossible to get the word *supposititious* into print \(‘fraudulently substituted in the place of another thing; not genuine, spurious'\) without someone suggesting it should be *suppositious* \(‘based on supposition'\)." Fritz Spiegl, "Usage and Abusage," *Daily Telegraph*, 8 July 1995, at 32.
 

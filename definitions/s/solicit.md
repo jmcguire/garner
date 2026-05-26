@@ -10,9 +10,9 @@ Language-Change Index
 
 **B. And *\*solicitate*.** *\*Solicitate*, a needless variant of *solicit*, is an erroneous back-formation from *solicitation*. Though it is old—having originated in the 1500s—it serves no purpose—e.g.:
 
-• "Among those Watson has *solicitated* \[read *solicited*\] advice from was Roy Williams." Steve Hershey, "Ryder Cup Caps Career for Watson," *USA Today*, 24 Sept. 1993, at B1.
+ - "Among those Watson has *solicitated* \[read *solicited*\] advice from was Roy Williams." Steve Hershey, "Ryder Cup Caps Career for Watson," *USA Today*, 24 Sept. 1993, at B1.
 
-• "Packwood *solicitated* \[read *solicited*\] jobs for his estranged wife." Glenn Kessler, "Diaries Paint a Bleak Image of Washington," *Charleston Daily Mail* \(W. Va.\), 9 Sept. 1995, at A1.
+ - "Packwood *solicitated* \[read *solicited*\] jobs for his estranged wife." Glenn Kessler, "Diaries Paint a Bleak Image of Washington," *Charleston Daily Mail* \(W. Va.\), 9 Sept. 1995, at A1.
 
 Language-Change Index
 

@@ -10,13 +10,13 @@ Especially to be avoided is quoting another writer at the end of a paragraph or 
 
 Before discussing how a good lead-in reads, let's look at the way many of them read. These are dreadful:
 
-• According to one authority: . . . .
+ - According to one authority: . . . .
 
-• The author went on to state: . . . .
+ - The author went on to state: . . . .
 
-• The article concludes as follows: . . . .
+ - The article concludes as follows: . . . .
 
-• As stated by one critic: . . . .
+ - As stated by one critic: . . . .
 
 Anyone who wants to become a stylist must vow to try *never* to introduce a quotation in this way. Readers are sure to skip the quotation.
 
@@ -24,27 +24,27 @@ With a long quotation, the better practice is to evoke the gist of the quotation
 
 Consider, for example, how nicely three literary critics introduce quotations. First is Randall Jarrell, in his *Third Book of Criticism* \(1965\):
 
-• "His poetic rhetoric is embarrassingly threadbare and commonplace, as when he writes about his own lost belief: . . . ."
+ - "His poetic rhetoric is embarrassingly threadbare and commonplace, as when he writes about his own lost belief: . . . ."
 
-• "What he says about his childhood is true of his maturity: . . . ."
+ - "What he says about his childhood is true of his maturity: . . . ."
 
-• "His obsessions, at their worst, are a moral and intellectual disaster and make us ashamed for him: . . . ."
+ - "His obsessions, at their worst, are a moral and intellectual disaster and make us ashamed for him: . . . ."
 
 Second is William Empson, in *Argufying: Essays on Literature and Culture* \(1987\):
 
-• "The first reply of Lamb \(3 October\) begins with the words, ‘Your letter was an inestimable treasure to me,' but the next one grieves that Coleridge is not settling down to a serious course of life, and the third \(24 October\) questions the doctrines that Coleridge has preached: . . . ."
+ - "The first reply of Lamb \(3 October\) begins with the words, ‘Your letter was an inestimable treasure to me,' but the next one grieves that Coleridge is not settling down to a serious course of life, and the third \(24 October\) questions the doctrines that Coleridge has preached: . . . ."
 
-• "Mr. Piper sometimes admits that a use of words by a Romantic is bad, but even so he considers it bad in a different way from what we think: . . . ."
+ - "Mr. Piper sometimes admits that a use of words by a Romantic is bad, but even so he considers it bad in a different way from what we think: . . . ."
 
-• "He quotes from ‘A General Introduction for My Work' \(1937\) about the undirected hatred that sprouts in the modern world: . . . ."
+ - "He quotes from ‘A General Introduction for My Work' \(1937\) about the undirected hatred that sprouts in the modern world: . . . ."
 
 Third is Hermione Lee, in her essay entitled "*Power* : Women and the Word," in *The State of the Language* \(Christopher Ricks & Leonard Michaels eds., 1990\):
 
-• "Adrienne Rich, in an essay called ‘Power and Danger,' gives a feminist history of the word as used against women: . . . ."
+ - "Adrienne Rich, in an essay called ‘Power and Danger,' gives a feminist history of the word as used against women: . . . ."
 
-• "Any rewriting of women's history, as in this neutrally uninformative passage, has to center on the word: . . . ."
+ - "Any rewriting of women's history, as in this neutrally uninformative passage, has to center on the word: . . . ."
 
-• "Toril Moi \(arguing with Irigaray over the word *power*\) writes these heartening words: . . . ."
+ - "Toril Moi \(arguing with Irigaray over the word *power*\) writes these heartening words: . . . ."
 
 How does such a lead-in work in the fuller context? Here's an example from the masterly Christopher Ricks:
 

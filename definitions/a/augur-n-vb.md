@@ -8,11 +8,11 @@ augur, n. & vb.
 
 Not surprisingly, some writers confuse the two words. Most commonly, *auger* is misused for *augur*—e.g.:
 
-• "The highly partisan vote to begin open-ended impeachment proceedings against President Bill Clinton *augers* \[read *augurs*\] ill for the United States and for the world that depends upon its stability and leadership." "Partisan Impeachment Vote," *Ariz. Daily Star*, 10 Oct. 1998, at A18.
+ - "The highly partisan vote to begin open-ended impeachment proceedings against President Bill Clinton *augers* \[read *augurs*\] ill for the United States and for the world that depends upon its stability and leadership." "Partisan Impeachment Vote," *Ariz. Daily Star*, 10 Oct. 1998, at A18.
 
-• "The dearth of rainfall that pervades virtually all of the Midlands *augered* \[read *augured*\] against pheasants and other game birds in several deadly ways." Charlie Meyers, "Tough Times Are Ahead for Pheasant Hunters," *Denver Post*, 23 July 2000, at C3. \(Note also the clashing words in *dearth of rainfall that pervades*.\)
+ - "The dearth of rainfall that pervades virtually all of the Midlands *augered* \[read *augured*\] against pheasants and other game birds in several deadly ways." Charlie Meyers, "Tough Times Are Ahead for Pheasant Hunters," *Denver Post*, 23 July 2000, at C3. \(Note also the clashing words in *dearth of rainfall that pervades*.\)
 
-• "Sens. John McCain \(R-Ariz.\) and Russell D. Feingold \(D-Wis.\) said that the skyrocketing election spending and new Senate allies *auger* \[read *augur*\] well for at least a ban on soft money." Alan C. Miller & T. Christian Miller, "America Waits," *L.A. Times*, 8 Dec. 2000, at A1.
+ - "Sens. John McCain \(R-Ariz.\) and Russell D. Feingold \(D-Wis.\) said that the skyrocketing election spending and new Senate allies *auger* \[read *augur*\] well for at least a ban on soft money." Alan C. Miller & T. Christian Miller, "America Waits," *L.A. Times*, 8 Dec. 2000, at A1.
 
 And the reverse error sometimes occurs, especially with the noun \(*augur* being misused for *auger*\)—e.g.: "Chesapeake Fire Chief R. Stephen Best said most of the barrels recovered were found in one location, near the spot where an *augur* \[read *auger*\] drilled into a buried drum last fall during excavations." Robert McCabe, "Officials Find More Waste on City Land," *Virginian-Pilot* \(Norfolk\), 31 Jan. 2001, at B1.
 
@@ -26,15 +26,15 @@ Current ratio in print \(*soil auger* vs. *\*soil augur*\): 25:1
 
 **B. And *augury*, n.** An *augury* is an omen, portent, or indication of the future; or it can refer to the art of reading omens and the like. *Augur* is to *augury* as *soothsayer* is to *omen*—e.g.:
 
-• "The results were invigorating and fearless, an exciting *augury* for the performances still to come." Joshua Kosman, "S.F. Symphony Gets Stravinsky ‘Rite,' " *S.F. Chron.*, 14 June 1999, at E1.
+ - "The results were invigorating and fearless, an exciting *augury* for the performances still to come." Joshua Kosman, "S.F. Symphony Gets Stravinsky ‘Rite,' " *S.F. Chron.*, 14 June 1999, at E1.
 
-• "Unfortunately for Bush, the *auguries* are disquieting: A recession and a fall in the stock market are both overdue." John O'Sullivan, "Profiting from Recession," *Chicago Sun-Times*, 26 Dec. 2000, at 33.
+ - "Unfortunately for Bush, the *auguries* are disquieting: A recession and a fall in the stock market are both overdue." John O'Sullivan, "Profiting from Recession," *Chicago Sun-Times*, 26 Dec. 2000, at 33.
 
 The word appears much more commonly in BrE than in AmE. But writers commonly misuse *augur* for *augury*—e.g.:
 
-• "In what may be an *augur* \[read *augury*\] of coming events, soon after the ECAR meeting closed Enron Power Marketing pulled its offers to sell power." "The Heat Is On," *Retail Servs. Rep.*, 31 Mar. 2000, at 17.
+ - "In what may be an *augur* \[read *augury*\] of coming events, soon after the ECAR meeting closed Enron Power Marketing pulled its offers to sell power." "The Heat Is On," *Retail Servs. Rep.*, 31 Mar. 2000, at 17.
 
-• "This time the blood stayed dry, and many interpreted it as an *augur* \[read *augury*\] of misfortune." John L. Allen Jr., "Cardinal's Acquittal Met with Cynicism," *Nat'l Catholic Rptr.*, 5 Jan. 2001, at 28.
+ - "This time the blood stayed dry, and many interpreted it as an *augur* \[read *augury*\] of misfortune." John L. Allen Jr., "Cardinal's Acquittal Met with Cynicism," *Nat'l Catholic Rptr.*, 5 Jan. 2001, at 28.
 
 Language-Change Index
 

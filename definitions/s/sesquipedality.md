@@ -4,21 +4,21 @@ Sesquipedality is the use of big words, literally those that are "a foot and a h
 
 This discrepancy gives rise to a tension between two ideals. On the one hand, vocabulary-builders have long maintained that a rich personal word-stock is your key to success:
 
-• **1946:** "A rich vocabulary is the most common and invaluable possession of the leaders in every profession, in every commercial enterprise, and in every department of active living. . . . Vocabulary is so intimately tied up with success that from now on we might as well talk of the two as though they were one and the same thing." Wilfred Funk, *The Way to Vocabulary Power and Culture* 1 \(1946\).
+ - **1946:** "A rich vocabulary is the most common and invaluable possession of the leaders in every profession, in every commercial enterprise, and in every department of active living. . . . Vocabulary is so intimately tied up with success that from now on we might as well talk of the two as though they were one and the same thing." Wilfred Funk, *The Way to Vocabulary Power and Culture* 1 \(1946\).
 
-• **1957:** "You are likelier to succeed \(both in school and after\) if you have the words you need at your command. You can, by using this book diligently, attain not only a *larger* vocabulary but, even more, an *improved* vocabulary." Arthur Waldhorn & Arthur Zeiger, *Word Mastery Made Simple* 8 \(1957\).
+ - **1957:** "You are likelier to succeed \(both in school and after\) if you have the words you need at your command. You can, by using this book diligently, attain not only a *larger* vocabulary but, even more, an *improved* vocabulary." Arthur Waldhorn & Arthur Zeiger, *Word Mastery Made Simple* 8 \(1957\).
 
-• **1986:** "It has been stated on the basis of a study of student academic mortality at one large university that the lack of an adequate vocabulary is the most important single factor contributing to failure in college." Donald M. Ayers, *English Words from Latin and Greek Elements* xiv \(rev. Thomas D. Worthen, 2d ed. 1986\) \(citing G. Rexford Davis, *Vocabulary Building* 1 \[1951\]\).
+ - **1986:** "It has been stated on the basis of a study of student academic mortality at one large university that the lack of an adequate vocabulary is the most important single factor contributing to failure in college." Donald M. Ayers, *English Words from Latin and Greek Elements* xiv \(rev. Thomas D. Worthen, 2d ed. 1986\) \(citing G. Rexford Davis, *Vocabulary Building* 1 \[1951\]\).
 
 On the other hand, writing guides are full of advice to shun big words:
 
-• **1929:** "There is a tendency, almost an instinct in the American, to use and prefer high-sounding words. The American, as such, likes to be unsimple and grandiloquent when it comes to his manner of expression." Richard Burton, *Why Do You Talk Like That?* 124 \(1929\).
+ - **1929:** "There is a tendency, almost an instinct in the American, to use and prefer high-sounding words. The American, as such, likes to be unsimple and grandiloquent when it comes to his manner of expression." Richard Burton, *Why Do You Talk Like That?* 124 \(1929\).
 
-• **1938:** "It is a habit, amounting almost to mania, among inexperienced and ignorant writers to shun simple words. They rack their brains and wear out their dictionaries searching for high-sounding words and phrases to express ideas that can be conveyed in simple terms." Edward Frank Allen, *How to Write and Speak Effective English* 57 \(1938\).
+ - **1938:** "It is a habit, amounting almost to mania, among inexperienced and ignorant writers to shun simple words. They rack their brains and wear out their dictionaries searching for high-sounding words and phrases to express ideas that can be conveyed in simple terms." Edward Frank Allen, *How to Write and Speak Effective English* 57 \(1938\).
 
-• **1965:** "Those who run to long words are mainly the unskillful and tasteless; they confuse pomposity with dignity, flaccidity with ease, and bulk with force." H.W. Fowler, *FMEU2* at 342.
+ - **1965:** "Those who run to long words are mainly the unskillful and tasteless; they confuse pomposity with dignity, flaccidity with ease, and bulk with force." H.W. Fowler, *FMEU2* at 342.
 
-• **1975:** "The more you surrender to the temptation to use big words . . . the further you are apt to stray from your true feelings and the more you will tend to write in a style designed to impress rather than to serve the reader." John R. Trimble, *Writing with Style* 80 \(1975\).
+ - **1975:** "The more you surrender to the temptation to use big words . . . the further you are apt to stray from your true feelings and the more you will tend to write in a style designed to impress rather than to serve the reader." John R. Trimble, *Writing with Style* 80 \(1975\).
 
 Which of these two views is correct? It's entirely possible to resolve the seeming paradox and to hold that they're both essentially right. Build your vocabulary to make yourself a better reader; choose simple words whenever possible to make yourself a better writer.
 
@@ -50,39 +50,39 @@ A third reason for waxing lexiphanic is to soften one's scurrility—to abstract
 
 In the end, there seem to be three legitimate stances for the writer. The first is that if you truly want to communicate with a wide readership, you have to build your core of small, familiar words. The second is that if one of your purposes is to edify, use challenging words while allowing the context to reveal their meanings, as in the following examples:
 
-• ***umbrelliferous*:** "His arms were like pipes, and had a way of branching from his shoulders at sharp angles so that the umbrella-bearing, or *umbrelliferous*, limb, for example, shot up on a steeply ascending vertical before articulating crisply at the elbow into a true vertical." Patrick McGrath, *Blood and Water and Other Tales* 68 \(1988\).
+ - ***umbrelliferous*:** "His arms were like pipes, and had a way of branching from his shoulders at sharp angles so that the umbrella-bearing, or *umbrelliferous*, limb, for example, shot up on a steeply ascending vertical before articulating crisply at the elbow into a true vertical." Patrick McGrath, *Blood and Water and Other Tales* 68 \(1988\).
 
-• ***enucleate* \[A psychiatrist is talking to a woman in love with a madman\]:** "Appearances to the contrary, Edgar Stark is a deeply disturbed individual." "I know this, Jack." "I wonder if you do. Do you know what he did to that woman after he killed her?" She said nothing. "He decapitated her. Then he *enucleated* her. He cut her head off, and then he took her eyes out." *Ibid.* at 72.
+ - ***enucleate* \[A psychiatrist is talking to a woman in love with a madman\]:** "Appearances to the contrary, Edgar Stark is a deeply disturbed individual." "I know this, Jack." "I wonder if you do. Do you know what he did to that woman after he killed her?" She said nothing. "He decapitated her. Then he *enucleated* her. He cut her head off, and then he took her eyes out." *Ibid.* at 72.
 
-• ***synaesthesia*:** "The *synaesthesia* \(mixing of senses\) of ‘visible sob' might seem too rich to apply to a golf ball, if it didn't occupy the climactic position in the description." David Lodge, *The Art of Fiction* 148 \(1992\).
+ - ***synaesthesia*:** "The *synaesthesia* \(mixing of senses\) of ‘visible sob' might seem too rich to apply to a golf ball, if it didn't occupy the climactic position in the description." David Lodge, *The Art of Fiction* 148 \(1992\).
 
 The third stance is that if you know you're writing for a specific audience with a prodigious, specialized vocabulary—whether one particular reader or the intelligentsia generally—then use hard words that are truly unsimplifiable. But question your motives: are you doing it to express yourself well, or are you just showing off?
 
 For those who wish to do the second or third of those three things, there is no shortage of books on the subject. These are among the best:
 
-• Robert H. Hill, *A Dictionary of Difficult Words* \(1st Am. ed. 1971\).
+ - Robert H. Hill, *A Dictionary of Difficult Words* \(1st Am. ed. 1971\).
 
-• Russell Rocke, *The Grandiloquent Dictionary* \(1972\).
+ - Russell Rocke, *The Grandiloquent Dictionary* \(1972\).
 
-• I. Moyer Hunsberger, *The Quintessential Dictionary* \(1978\).
+ - I. Moyer Hunsberger, *The Quintessential Dictionary* \(1978\).
 
-• J.N. Hook, *The Grand Panjandrum: And 1,999 Other Rare, Useful, and Delightful Words and Expressions* \(1980\).
+ - J.N. Hook, *The Grand Panjandrum: And 1,999 Other Rare, Useful, and Delightful Words and Expressions* \(1980\).
 
-• George S. Saussy, *The Oxter English Dictionary: Uncommon Words Used by Uncommonly Good Writers* \(1984\).
+ - George S. Saussy, *The Oxter English Dictionary: Uncommon Words Used by Uncommonly Good Writers* \(1984\).
 
-• Paul Hellweg, *The Insomniac's Dictionary: The Last Word on the Odd Word* \(1986\).
+ - Paul Hellweg, *The Insomniac's Dictionary: The Last Word on the Odd Word* \(1986\).
 
-• *Dictionary of Uncommon Words* \(Laurence Urdang ed., 1991\).
+ - *Dictionary of Uncommon Words* \(Laurence Urdang ed., 1991\).
 
-• Norman W. Schur, *2000* *Most Challenging and Obscure Words* \(1994\).
+ - Norman W. Schur, *2000* *Most Challenging and Obscure Words* \(1994\).
 
-• David Grambs, *The Endangered English Dictionary: Bodacious Words Your Dictionary Forgot* \(1994\).
+ - David Grambs, *The Endangered English Dictionary: Bodacious Words Your Dictionary Forgot* \(1994\).
 
-• Josefa Heifetz Byrne, *Mrs. Byrne's Dictionary of Unusual, Obscure, and Preposterous Words* \(2d ed. 1994\).
+ - Josefa Heifetz Byrne, *Mrs. Byrne's Dictionary of Unusual, Obscure, and Preposterous Words* \(2d ed. 1994\).
 
-• Charles Harrington Elster, *There's a Word for It: A Grandiloquent Guide to Life* \(1996\).
+ - Charles Harrington Elster, *There's a Word for It: A Grandiloquent Guide to Life* \(1996\).
 
-• Eugene Ehrlich, *The Highly Selective Dictionary for the Extraordinarily Literate* \(1997\).
+ - Eugene Ehrlich, *The Highly Selective Dictionary for the Extraordinarily Literate* \(1997\).
 
-• Erin McKean, *Weird and Wonderful Words* \(2002\).
+ - Erin McKean, *Weird and Wonderful Words* \(2002\).
 

@@ -28,27 +28,27 @@ Typographical gimmickry may once have served a political purpose, but it should 
 
 For the persuasive writer—for whom credibility is all—the writer's point of view matters less than the reader's. So if you're writing for an unknown or a broad readership, the only course that does not risk damaging your credibility is to write around the problem. For this purpose, every writer ought to have available a repertoire of methods to avoid the generic masculine pronoun. No single method is sufficient. In a given context, you might consider doing any of the following:
 
-• Delete the pronoun reference altogether. E.g.: "Every manager should read memoranda as soon as they are delivered *to him* \[delete *to him*\] by a mail clerk."
+ - Delete the pronoun reference altogether. E.g.: "Every manager should read memoranda as soon as they are delivered *to him* \[delete *to him*\] by a mail clerk."
 
-• Change the pronoun to an article, such as *a* or *the*. E.g.: "An author may adopt any of the following dictionaries in preparing *his* \[read *a*\] manuscript."
+ - Change the pronoun to an article, such as *a* or *the*. E.g.: "An author may adopt any of the following dictionaries in preparing *his* \[read *a*\] manuscript."
 
-• Pluralize, so that *he* becomes *they*. E.g.: "A student should avoid engaging in any activities that might bring discredit to *his* school." \(Read: *Students should avoid engaging in any activities that might bring discredit to their school.*\)
+ - Pluralize, so that *he* becomes *they*. E.g.: "A student should avoid engaging in any activities that might bring discredit to *his* school." \(Read: *Students should avoid engaging in any activities that might bring discredit to their school.*\)
 
-• Use the relative pronoun *who*, especially when the generic *he* follows an *if*. E.g.: "If a student cannot use Standard English, *he* cannot be expected to master the nuances of the literature assigned in this course." \(Read: *A student who cannot use Standard English cannot be expected to master the nuances of the literature assigned in this course.*\)
+ - Use the relative pronoun *who*, especially when the generic *he* follows an *if*. E.g.: "If a student cannot use Standard English, *he* cannot be expected to master the nuances of the literature assigned in this course." \(Read: *A student who cannot use Standard English cannot be expected to master the nuances of the literature assigned in this course.*\)
 
-• Repeat the noun instead of using a pronoun, especially when the two are separated by several words. E.g.: "When considering a manuscript for publication, the editor should evaluate the suitability of both the subject matter and the writing style. In particular, *he* \[read *the editor*\] . . . ."
+ - Repeat the noun instead of using a pronoun, especially when the two are separated by several words. E.g.: "When considering a manuscript for publication, the editor should evaluate the suitability of both the subject matter and the writing style. In particular, *he* \[read *the editor*\] . . . ."
 
-• Use the singular *they*.
+ - Use the singular *they*.
 
 Many of those methods have the added benefit of removing pronouns that can be difficult for English-language-learners and other struggling readers.
 
 Though the masculine singular personal pronoun may survive awhile longer as a generic term, it will probably be ultimately displaced by *they*, which is coming to be used alternatively as singular or plural. \(See concord \(b\).\) This usage is becoming common—e.g.:
 
-• "It is assumed that, if *someone* is put under enough pressure, *they* will tell the truth, or the truth will emerge despite the teller." Robin T. Lakoff, *Talking Power: The Politics of Language in Our Lives* 90 \(1990\).
+ - "It is assumed that, if *someone* is put under enough pressure, *they* will tell the truth, or the truth will emerge despite the teller." Robin T. Lakoff, *Talking Power: The Politics of Language in Our Lives* 90 \(1990\).
 
-• "*Anyone* planning a dissertation on Hollywood's fling with yuppie demonology will want to include ‘The Temp' in *their* calculations." Janet Maslin, "A Perfect Secretary, Temporarily," *N.Y. Times*, 13 Feb. 1993, at 8.
+ - "*Anyone* planning a dissertation on Hollywood's fling with yuppie demonology will want to include ‘The Temp' in *their* calculations." Janet Maslin, "A Perfect Secretary, Temporarily," *N.Y. Times*, 13 Feb. 1993, at 8.
 
-• "*Everybody* from President Vicente Fox to governors and mayors regularly *visit* *their* country-folk here, to participate in community festivities and crown Mexican-American beauty queens." Eduardo Porter, "Mexico Woos Its Citizens Living in U.S.," *Wall Street J.*, 24 Oct. 2002, at B1.
+ - "*Everybody* from President Vicente Fox to governors and mayors regularly *visit* *their* country-folk here, to participate in community festivities and crown Mexican-American beauty queens." Eduardo Porter, "Mexico Woos Its Citizens Living in U.S.," *Wall Street J.*, 24 Oct. 2002, at B1.
 
 Speakers of AmE long resisted this development more than speakers of BrE, in which the indeterminate *they* had become standard by 2000 or so. In AmE it was standard by about 2020. See **they \(a\)**.
 
@@ -62,13 +62,13 @@ Throughout the English-speaking world, writers' awareness of sexism rose most ma
 
 In a similar vein, American businesspeople and journalists have begun to write in more neutral language, sometimes awkwardly neutral—e.g.:
 
-• "The ice cream mixture is placed in the frozen canister and turned automatically, thus eliminating the use of salt, ice and *personpower* \[read *labor* or *toil*\]." Vivian Taylor, "A Passion for Ice Cream," *Fresno Bee*, 14 Aug. 1996, at E1.
+ - "The ice cream mixture is placed in the frozen canister and turned automatically, thus eliminating the use of salt, ice and *personpower* \[read *labor* or *toil*\]." Vivian Taylor, "A Passion for Ice Cream," *Fresno Bee*, 14 Aug. 1996, at E1.
 
-• "The University of Iowa *Office of the Ombudsperson* \[read *Ombuds Office*?\] saw 386 new clients during fiscal 1996–97, up 7 percent from a year ago." "More Clients Visit U of I *Ombudsperson* \[read *Ombuds*\]," *Des Moines Register*, 16 Aug. 1997, Metro §, at 5.
+ - "The University of Iowa *Office of the Ombudsperson* \[read *Ombuds Office*?\] saw 386 new clients during fiscal 1996–97, up 7 percent from a year ago." "More Clients Visit U of I *Ombudsperson* \[read *Ombuds*\]," *Des Moines Register*, 16 Aug. 1997, Metro §, at 5.
 
-• "When the blow-dried *anchorperson* \[read *anchor*\] on the 11 o'clock news tells you the market rose or fell 100 points, you have learned absolutely nothing." Martin Sosnoff, "Where Are the Analysts' Yachts?," *Forbes*, 6 Oct. 1997, at 144.
+ - "When the blow-dried *anchorperson* \[read *anchor*\] on the 11 o'clock news tells you the market rose or fell 100 points, you have learned absolutely nothing." Martin Sosnoff, "Where Are the Analysts' Yachts?," *Forbes*, 6 Oct. 1997, at 144.
 
-• "The *chairperson* \[read *chair*\] must consider the point of order immediately and make a decision as to whether it is valid or not." Beverley Weynton, *Manage Meetings* 48 \(2002\).
+ - "The *chairperson* \[read *chair*\] must consider the point of order immediately and make a decision as to whether it is valid or not." Beverley Weynton, *Manage Meetings* 48 \(2002\).
 
 As a nonsexist suffix, *-person* leaves much to be desired. For every *\*chairperson*, *\*anchorperson*, *\*draftsperson*, *\*ombudsperson*, and *\*tribesperson*, there is a superior substitute: *chair*, *anchor*, *drafter*, *ombuds*, and *tribe member*. Words ending in *-person* are at once wooden and pompous. Many words that ended in *-man* have been successfully transformed without using *-person*, among them *police officer*, *firefighter*, and *mail carrier*.
 
@@ -98,29 +98,29 @@ Even *Mr.*, on the one hand, as contrasted with *Miss* or *Mrs.*, on the other, 
 
 **G. Bibliography.** For those wishing to inquire further into this interesting subject, the following books are worth consulting:
 
-• Merriellyn Kett & Virginia Underwood, *How to Avoid Sexism: A Guide for Writers, Editors and Publishers* \(1978\).
+ - Merriellyn Kett & Virginia Underwood, *How to Avoid Sexism: A Guide for Writers, Editors and Publishers* \(1978\).
 
-• Mary Vetterling-Braggin ed., *Sexist Language: A Modern Philosophical Analysis* \(1981\).
+ - Mary Vetterling-Braggin ed., *Sexist Language: A Modern Philosophical Analysis* \(1981\).
 
-• Barrie Thorne et al. eds., *Language, Gender and Society* \(1983\).
+ - Barrie Thorne et al. eds., *Language, Gender and Society* \(1983\).
 
-• Michelene Wandor ed., *On Gender and Writing* \(1983\).
+ - Michelene Wandor ed., *On Gender and Writing* \(1983\).
 
-• Bobbye D. Sorrels, *The Nonsexist Communicator* \(1983\).
+ - Bobbye D. Sorrels, *The Nonsexist Communicator* \(1983\).
 
-• Dennis Baron, *Grammar and Gender* \(1986\).
+ - Dennis Baron, *Grammar and Gender* \(1986\).
 
-• Casey Miller & Kate Swift, *The Handbook of Nonsexist Writing* \(2d ed. 1988\).
+ - Casey Miller & Kate Swift, *The Handbook of Nonsexist Writing* \(2d ed. 1988\).
 
-• Francine Wattman Frank & Paula A. Treichler, *Language, Gender, and Professional Writing* \(1989\).
+ - Francine Wattman Frank & Paula A. Treichler, *Language, Gender, and Professional Writing* \(1989\).
 
-• Val Dumond, *The Elements of Nonsexist Usage* \(1990\).
+ - Val Dumond, *The Elements of Nonsexist Usage* \(1990\).
 
-• Dale Spender, *Man Made Language* \(2d ed. 1990\).
+ - Dale Spender, *Man Made Language* \(2d ed. 1990\).
 
-• Rosalie Maggio, *The Bias-Free Word Finder* \(1991\).
+ - Rosalie Maggio, *The Bias-Free Word Finder* \(1991\).
 
-• Jane Mills, *Womanwords* \(1993\).
+ - Jane Mills, *Womanwords* \(1993\).
 
-• Casey Miller & Kate Swift, *Words and Women* \(3d ed. 2001\).
+ - Casey Miller & Kate Swift, *Words and Women* \(3d ed. 2001\).
 

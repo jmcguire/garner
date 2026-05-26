@@ -4,11 +4,11 @@ bicep; **biceps**. Despite its appearance, *biceps* is traditionally a singular 
 
 His objection was pedantic: *bicepses* has hardly ever been used, whereas the plural *biceps* has been fairly common since the late 1800s. It is now standard—e.g.:
 
-• "The heroines of ‘Aliens' and ‘Terminator 2,' however, developed their *biceps* between movies." Caryn James, "The Woman in ‘True Lies,' " *N.Y. Times*, 17 July 1994, § 2, at 13.
+ - "The heroines of ‘Aliens' and ‘Terminator 2,' however, developed their *biceps* between movies." Caryn James, "The Woman in ‘True Lies,' " *N.Y. Times*, 17 July 1994, § 2, at 13.
 
-• "The sculpted *biceps* reflect the constant work that's made him an attraction for Division I schools." Kevin Lonnquist, "Making a Name," *Dallas Morning News*, 25 Oct. 1996, at B4.
+ - "The sculpted *biceps* reflect the constant work that's made him an attraction for Division I schools." Kevin Lonnquist, "Making a Name," *Dallas Morning News*, 25 Oct. 1996, at B4.
 
-• "He's one of the team's hardest workers in the weight room, and his *biceps* look like tree trunks." Robert Gagliardi, "Gentry's Play Positive from Last Week, but UW Needs to Build from There," *Laramie Boomerang*, 10 Sept. 2015, at B1.
+ - "He's one of the team's hardest workers in the weight room, and his *biceps* look like tree trunks." Robert Gagliardi, "Gentry's Play Positive from Last Week, but UW Needs to Build from There," *Laramie Boomerang*, 10 Sept. 2015, at B1.
 
 Naturally, the back-formed singular *bicep* has also caught on and in nontechnical contexts is the usual form—e.g.: "Lincoln Kennedy will be sidelined two weeks by a torn left *bicep*." "Slaughter Gets Deal with Jets," *Chattanooga Times*, 24 July 1996, at F5. But that usage isn't uniform, even within a single publication in a single month: "Appier \(8–7\), sidelined since July 3 because of inflammation in his right *biceps*, allowed one run and three hits." "Padres Stop Rockies' Streak," *Chattanooga Times*, 19 July 1996, at E2. See back-formations.
 

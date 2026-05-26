@@ -4,11 +4,11 @@ circumlocution.
 
 **A. Generally.** Circumlocution is roundabout speech or language, or else the use of many words where a few would suffice. People who use circumlocutions are generally not admired for doing so, as the following quotations attest:
 
-• "It's really grown tiresome, hearing so many versions of the same excuse, so many *circumlocutions* around the truth." Anita Creamer, " ‘Experimenting' with the Truth," *Sacramento Bee*, 19 Aug. 1996, at C1.
+ - "It's really grown tiresome, hearing so many versions of the same excuse, so many *circumlocutions* around the truth." Anita Creamer, " ‘Experimenting' with the Truth," *Sacramento Bee*, 19 Aug. 1996, at C1.
 
-• "Perhaps that's because the Prime Minister, with his weird *circumlocutions*—‘a not inconsiderable degree of'—does not come across as a silver-tongued smoothie." Ann Leslie, "Why Women Find This Man So Smarmy," *Daily Mail* \(U.K.\), 11 Oct. 1996, at 8.
+ - "Perhaps that's because the Prime Minister, with his weird *circumlocutions*—‘a not inconsiderable degree of'—does not come across as a silver-tongued smoothie." Ann Leslie, "Why Women Find This Man So Smarmy," *Daily Mail* \(U.K.\), 11 Oct. 1996, at 8.
 
-• "Pundits at least laid partial blame on his palpable uneasiness toward homosexuality—his unwillingness to march at Pride, his strained *circumlocutions* when discussing gay marriage." Spencer Morrison, "Preaching to the Choir," *Globe & Mail* \(Toronto\), 22 Feb. 2020, at R10.
+ - "Pundits at least laid partial blame on his palpable uneasiness toward homosexuality—his unwillingness to march at Pride, his strained *circumlocutions* when discussing gay marriage." Spencer Morrison, "Preaching to the Choir," *Globe & Mail* \(Toronto\), 22 Feb. 2020, at R10.
 
 One of the most famous government departments in all literature is Charles Dickens's "Circumlocution Office" in *Little Dorrit* \(1857–1858\).
 
@@ -22,13 +22,13 @@ Language-Change Index
 
 Avoid the synonymous variants *\*circumlocutionary* and *\*circumlocutious*—e.g.:
 
-• "The *circumlocutionary* \[read *circumlocutory*\] comic has just returned from a stint at Bally's Casino in Las Vegas." Michael Blowen, "Carlin Is Cable Ready," *Boston Globe*, 15 Apr. 1992, at 90.
+ - "The *circumlocutionary* \[read *circumlocutory*\] comic has just returned from a stint at Bally's Casino in Las Vegas." Michael Blowen, "Carlin Is Cable Ready," *Boston Globe*, 15 Apr. 1992, at 90.
 
-• "It's my contention that's in no small part because Tonks, for all his *circumlocutionary* \[read *circumlocutory*\] council and committee speeches and media scrums, simply cannot get Metro's message across." Dick Chapman, "Metro's Communications Gap," *Toronto Sun*, 5 Nov. 1995, at C4.
+ - "It's my contention that's in no small part because Tonks, for all his *circumlocutionary* \[read *circumlocutory*\] council and committee speeches and media scrums, simply cannot get Metro's message across." Dick Chapman, "Metro's Communications Gap," *Toronto Sun*, 5 Nov. 1995, at C4.
 
-• "In my *circumlocutious* \[read *circumlocutory*\] way, I've given the impression that the column will be about baseball. No, it's about redundancy." Art Trujillo, "Work of Art—A Cheeseburger Con Queso," *Las Vegas Opt*, 27 Aug. 2013, columns §.
+ - "In my *circumlocutious* \[read *circumlocutory*\] way, I've given the impression that the column will be about baseball. No, it's about redundancy." Art Trujillo, "Work of Art—A Cheeseburger Con Queso," *Las Vegas Opt*, 27 Aug. 2013, columns §.
 
-• "Davis could be elusive and *circumlocutious* \[read *circumlocutory*\] in his mischievous way." Martin Regg Cohn, "Eight Toronto Premiers," *Toronto Star*, 12 Dec. 2020, News §.
+ - "Davis could be elusive and *circumlocutious* \[read *circumlocutory*\] in his mischievous way." Martin Regg Cohn, "Eight Toronto Premiers," *Toronto Star*, 12 Dec. 2020, News §.
 
 Language-Change Index
 

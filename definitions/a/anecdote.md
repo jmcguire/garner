@@ -12,17 +12,17 @@ Current ratio in print \(*anecdotal history* vs. \**anecdotic history*\): 6:1
 
 **B. And *antidote*.** *Anecdote* \(= a brief story, usu. true and intended to amuse\) is sometimes confused with *antidote* \(= something that counteracts poison\), resulting in a malapropism—e.g.:
 
-• "One dog was poisoned but we found the *anecdote* \[read *antidote*\]." Dennis Pollock, "Home Alone Is Not This Guy's Choice During Holidays," *Fresno Bee*, 5 Dec. 1994, at F2.
+ - "One dog was poisoned but we found the *anecdote* \[read *antidote*\]." Dennis Pollock, "Home Alone Is Not This Guy's Choice During Holidays," *Fresno Bee*, 5 Dec. 1994, at F2.
 
-• "The Oilers were 6–6 and staggering and looking for an *anecdote* \[read *antidote*\] to whatever was poisoning their system." John McClain, "On the Road Again," *Houston Chron.*, 22 Dec. 1996, Sports §, at 4.
+ - "The Oilers were 6–6 and staggering and looking for an *anecdote* \[read *antidote*\] to whatever was poisoning their system." John McClain, "On the Road Again," *Houston Chron.*, 22 Dec. 1996, Sports §, at 4.
 
-• "He went to the hospital quickly but still died because there is no *anecdote* \[read *antidote*\] for glory lily poisoning." Katherine Snow Smith, "Know What to Do if Your Child Eats a Toxic Plant," *St. Petersburg Times* \(Fla.\), 7 Apr. 2002, Neighborhood Times §, at 12.
+ - "He went to the hospital quickly but still died because there is no *anecdote* \[read *antidote*\] for glory lily poisoning." Katherine Snow Smith, "Know What to Do if Your Child Eats a Toxic Plant," *St. Petersburg Times* \(Fla.\), 7 Apr. 2002, Neighborhood Times §, at 12.
 
 The opposite error is less common, but it does occur—e.g.:
 
-• "Laughter could be heard. It was the apparent jovial reunion following a successful hunt, no doubt accompanied by a few amusing *antidotes* \[read *anecdotes*\] of Spade's undress." John M. Bishop, *Casting Shadows with Shamans* 21 \(2003\).
+ - "Laughter could be heard. It was the apparent jovial reunion following a successful hunt, no doubt accompanied by a few amusing *antidotes* \[read *anecdotes*\] of Spade's undress." John M. Bishop, *Casting Shadows with Shamans* 21 \(2003\).
 
-• "Amanda delighted the two women by playing the consummate hostess, serving tea and cookies to their guest, telling funny *antidotes* \[read *anecdotes*\] about the cats, and describing the dolls in remarkable detail." R.C. Morris, *Tender Prey* 162 \(2005\).
+ - "Amanda delighted the two women by playing the consummate hostess, serving tea and cookies to their guest, telling funny *antidotes* \[read *anecdotes*\] about the cats, and describing the dolls in remarkable detail." R.C. Morris, *Tender Prey* 162 \(2005\).
 
 See word-swapping.
 

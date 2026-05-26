@@ -8,11 +8,11 @@ admission.
 
 Sometimes *admittance* is misused for *admission*, as when the subject is being accepted for enrollment in a school—e.g.:
 
-• "Your recent story on Texas Woman's University students' reaction to their board of regents' decision to allow men *admittance* \[read *admission*\] made me wonder." Letter of Robert L. Hazelwood, "The Other Side Now," *Houston Post*, 30 Dec. 1994, at A26.
+ - "Your recent story on Texas Woman's University students' reaction to their board of regents' decision to allow men *admittance* \[read *admission*\] made me wonder." Letter of Robert L. Hazelwood, "The Other Side Now," *Houston Post*, 30 Dec. 1994, at A26.
 
-• "To the extent that some private colleges may not require B averages to gain *admittance* \[read *admission*\], it could be tougher to win a state scholarship." "All Students Receiving Aid Should Have a B Average," *Atlanta J.-Const.*, 20 Jan. 1995, at A10.
+ - "To the extent that some private colleges may not require B averages to gain *admittance* \[read *admission*\], it could be tougher to win a state scholarship." "All Students Receiving Aid Should Have a B Average," *Atlanta J.-Const.*, 20 Jan. 1995, at A10.
 
-• "BYU's long-awaited *admittance* \[read *admission*\] into the Big 12 Conference . . . is the result of a lot of hard work by a lot of people." "Difference Maker," *Deseret News* \(Salt Lake City\), 1 Oct. 2021.
+ - "BYU's long-awaited *admittance* \[read *admission*\] into the Big 12 Conference . . . is the result of a lot of hard work by a lot of people." "Difference Maker," *Deseret News* \(Salt Lake City\), 1 Oct. 2021.
 
 Language-Change Index
 

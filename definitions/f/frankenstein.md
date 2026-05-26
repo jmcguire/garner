@@ -4,9 +4,9 @@ Frankenstein. In Mary Shelley's novel *Frankenstein* \(1818\), Dr. Victor Franke
 
 But popular usage has created a monster of its own: *Frankenstein* has come to refer to the creature itself. Today this ubiquitous usage must be accepted as standard—e.g.:
 
-• "A visit to ‘Bordello of Blood' is like a date with *Frankenstein* on Prozac: It's a bloated, lumbering, bloody bore." Rick Holter, " ‘Bordello' Merely Rolls Over and Goes to Sleep," *Dallas Morning News*, 16 Aug. 1996, at C5.
+ - "A visit to ‘Bordello of Blood' is like a date with *Frankenstein* on Prozac: It's a bloated, lumbering, bloody bore." Rick Holter, " ‘Bordello' Merely Rolls Over and Goes to Sleep," *Dallas Morning News*, 16 Aug. 1996, at C5.
 
-• " ‘I freaked out in the hospital when I saw myself. I looked like *Frankenstein* . . . . They cut your legs and your chest.' " Tom Roland, "Truth and Consequences: K.T. Oslin Wouldn't Have It Any Other Way," *Tennessean*, 18 Jan. 1997, at D1 \(quoting K.T. Oslin\).
+ - " ‘I freaked out in the hospital when I saw myself. I looked like *Frankenstein* . . . . They cut your legs and your chest.' " Tom Roland, "Truth and Consequences: K.T. Oslin Wouldn't Have It Any Other Way," *Tennessean*, 18 Jan. 1997, at D1 \(quoting K.T. Oslin\).
 
 Language-Change Index
 

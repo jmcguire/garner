@@ -4,11 +4,11 @@ premises \(= a house or building\) has a curious history. Originally, it denoted
 
 The term is always used in the plural—e.g.:
 
-• "The paint was peeling from its exterior, its rooms were empty and the *premises* *were* condemned by selectmen." Fred Hanson, "Old School Becomes a Jewel," *Patriot-Ledger* \(Quincy, Mass.\), 3 Oct. 1994, at F8.
+ - "The paint was peeling from its exterior, its rooms were empty and the *premises* *were* condemned by selectmen." Fred Hanson, "Old School Becomes a Jewel," *Patriot-Ledger* \(Quincy, Mass.\), 3 Oct. 1994, at F8.
 
-• "The movements of pigs, feedstuffs, vehicles, and people onto and off the *premises* were traced to identify possible sources of the virus and limit the spread of infection." Anna Rovid Spickler et al., "Descriptions of Recent Incursions of Exotic Animal Diseases," in *Emerging and Exotic Diseases of Animals* 52, 58 \(Anna Rovid Spickler et al. eds., 4th ed. 2010\).
+ - "The movements of pigs, feedstuffs, vehicles, and people onto and off the *premises* were traced to identify possible sources of the virus and limit the spread of infection." Anna Rovid Spickler et al., "Descriptions of Recent Incursions of Exotic Animal Diseases," in *Emerging and Exotic Diseases of Animals* 52, 58 \(Anna Rovid Spickler et al. eds., 4th ed. 2010\).
 
-• "Cooper's . . . *premises* were burgled last October and around 1,800 garments taken . . . worth nearly a million dollars." Rosemary McLeod, "Dressing for Disaster Days," *Dominion Post* \(N.Z.\), 23 July 2021, at 15. \(On the question of *burgled* there, see **burglarize**.\)
+ - "Cooper's . . . *premises* were burgled last October and around 1,800 garments taken . . . worth nearly a million dollars." Rosemary McLeod, "Dressing for Disaster Days," *Dominion Post* \(N.Z.\), 23 July 2021, at 15. \(On the question of *burgled* there, see **burglarize**.\)
 
 It is pronounced /**prem**-i-siz/, not /-seez/.
 

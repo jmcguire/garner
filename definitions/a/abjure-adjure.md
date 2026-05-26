@@ -10,13 +10,13 @@ abjure; adjure.
 
 The other error, *adjure* for *require* or *command*, occurs often in legal writing but elsewhere as well—e.g.:
 
-• "Arizona law *adjures* \[read *requires*\] that statutes should be construed to effect their objects." *Knapp v. Cardwell*, 667 F.2d 1253, 1261 \(9th Cir. 1982\).
+ - "Arizona law *adjures* \[read *requires*\] that statutes should be construed to effect their objects." *Knapp v. Cardwell*, 667 F.2d 1253, 1261 \(9th Cir. 1982\).
 
-• "Assaying the quality of defendant's acts and omissions . . . *adjures* \[read *requires*\] just such a judgment call." *Swift v. U.S.*, 866 F.2d 507, 511 \(1st Cir. 1989\).
+ - "Assaying the quality of defendant's acts and omissions . . . *adjures* \[read *requires*\] just such a judgment call." *Swift v. U.S.*, 866 F.2d 507, 511 \(1st Cir. 1989\).
 
-• " ‘Use Absolut,' he *adjures* \[read *commands* or *tells*\] a waiter at the restaurant where he, Iris, Kate and Daniel have an uncomfortable dinner. ‘I'll know if the bartender uses a house brand.' " Amanda Vaill, "A Story of Reckless Passion and Race," *Chicago Trib.*, 25 May 2003, Books §, at 3.
+ - " ‘Use Absolut,' he *adjures* \[read *commands* or *tells*\] a waiter at the restaurant where he, Iris, Kate and Daniel have an uncomfortable dinner. ‘I'll know if the bartender uses a house brand.' " Amanda Vaill, "A Story of Reckless Passion and Race," *Chicago Trib.*, 25 May 2003, Books §, at 3.
 
-• "The law *adjures* \[read *requires*\] residents to report strays to animal control or shelters within 24 hours or possibly face a misdemeanor charge." "Shelters Can Only Do So Much," *Battle Creek Inquirer* \(Mich.\), 8 Jan. 2008, at A1.
+ - "The law *adjures* \[read *requires*\] residents to report strays to animal control or shelters within 24 hours or possibly face a misdemeanor charge." "Shelters Can Only Do So Much," *Battle Creek Inquirer* \(Mich.\), 8 Jan. 2008, at A1.
 
 Fortunately, most writers use *adjure* correctly—e.g.: "Some talked of open schism last week, when she *adjured* him to ‘rule' if he wanted to save home rule, and he replied that she had failed him in his moment of need." Michael Powell & Hamil R. Harris, "Norton's Exercise in Flexibility," *Wash. Post*, 7 Aug. 1997, at J1.
 

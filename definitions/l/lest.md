@@ -8,21 +8,21 @@ Some passages present close calls. Yearning for something that you've just disco
 
 **B. Mood Following.** *Lest* is best followed by a verb in the subjunctive mood, not in the indicative, because *lest* points to something that is merely possible, not definite. E.g.:
 
-• "*Lest* there *be* any doubt about the extent of the trouble, Archuletta points to the fact that most production companies now routinely include in their filming budgets some money to pay off harassers." Cynthia H. Craft, "Acts of Extortion Steal the Scene from Film Crews," *L.A. Times*, 15 Mar. 1995, at A1.
+ - "*Lest* there *be* any doubt about the extent of the trouble, Archuletta points to the fact that most production companies now routinely include in their filming budgets some money to pay off harassers." Cynthia H. Craft, "Acts of Extortion Steal the Scene from Film Crews," *L.A. Times*, 15 Mar. 1995, at A1.
 
-• "As with any spice, however, it shouldn't be overheated *lest* it *burn*." Ann Steiner, "Color from Paprika Gives Food a Boost," *Houston Chron.*, 4 Dec. 1996, at 13.
+ - "As with any spice, however, it shouldn't be overheated *lest* it *burn*." Ann Steiner, "Color from Paprika Gives Food a Boost," *Houston Chron.*, 4 Dec. 1996, at 13.
 
-• "The Bosnian Serb military leader is reportedly leery of leaving the self-proclaimed republic of Srpska, *lest* he *be* dragged off to The Hague where an international tribunal seeks to try him for crimes against humanity." James Ledbetter, "Waiting for Radovan," *Village Voice*, 11 Mar. 1997, at 34.
+ - "The Bosnian Serb military leader is reportedly leery of leaving the self-proclaimed republic of Srpska, *lest* he *be* dragged off to The Hague where an international tribunal seeks to try him for crimes against humanity." James Ledbetter, "Waiting for Radovan," *Village Voice*, 11 Mar. 1997, at 34.
 
 Occasionally, though, writers ill-advisedly use the indicative—e.g.: "Certain foreign policy experts urged . . . that the West shouldn't press Mikhail Gorbachev too hard to liberate his dissidents *lest* it *makes it harder* \[read *become harder*\] for him to do other good things." Suzanne Fields, "Trouble Ahead for Israel's Labor Party," *Wash. Times*, 16 Mar. 1995, at A19.
 
 Idiomatically speaking, if a modal verb follows *lest*, it should be *might* \(or perhaps *should*\), not *will* or *would*—e.g.:
 
-• "I feared for a fortnight to walk the streets of Seattle *lest* I *would* \[delete *would*\] be thwacked soundly about the head and ears by a blackthorn cudgel." Jon Hahn, "Ack\! These Columns Really Stepped in It," *Seattle Post-Intelligencer*, 29 Dec. 2001, at E2.
+ - "I feared for a fortnight to walk the streets of Seattle *lest* I *would* \[delete *would*\] be thwacked soundly about the head and ears by a blackthorn cudgel." Jon Hahn, "Ack\! These Columns Really Stepped in It," *Seattle Post-Intelligencer*, 29 Dec. 2001, at E2.
 
-• "Other justices found it strange that judicial candidates could talk about old cases, but never current ones, *lest* it *would* \[delete *would*\] be regarded as prejudging a case." Tom Webb, "Judicial Elections Argued," *Pioneer Press* \(St. Paul\), 27 Mar. 2002, at A1.
+ - "Other justices found it strange that judicial candidates could talk about old cases, but never current ones, *lest* it *would* \[delete *would*\] be regarded as prejudging a case." Tom Webb, "Judicial Elections Argued," *Pioneer Press* \(St. Paul\), 27 Mar. 2002, at A1.
 
-• "Jonathan Clark nipped him at the wire, *lest* he *would* \[read *should*\] have three straight titles." Dave Hickman, "Westfall Wraps Up Fourth Title with Final-Round 68," *Charleston Gaz. & Daily Mail* \(W. Va.\), 29 June 2002, at B1.
+ - "Jonathan Clark nipped him at the wire, *lest* he *would* \[read *should*\] have three straight titles." Dave Hickman, "Westfall Wraps Up Fourth Title with Final-Round 68," *Charleston Gaz. & Daily Mail* \(W. Va.\), 29 June 2002, at B1.
 
 Current ratio in print \(*lest he be* vs. \**lest he is*\): 54:1   
 Current ratio in print \(*lest he might* vs. \**lest he will*\): 17:1

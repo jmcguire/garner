@@ -2,9 +2,9 @@
 
 errant; **arrant**. *Errant* = \(1\) traveling; itinerant <knight errant>; or \(2\) fallible, straying from what is proper. Except in the phrase *knight errant*, sense 2 overwhelmingly predominates—e.g.:
 
-• "On other holes, strategically placed bunkers keep *errant* shots from going too far astray." Chris Dortch, "Challenges Fly Wild at New Eagle Bluff Course," *Chattanooga Times*, 26 Oct. 1995, at C6.
+ - "On other holes, strategically placed bunkers keep *errant* shots from going too far astray." Chris Dortch, "Challenges Fly Wild at New Eagle Bluff Course," *Chattanooga Times*, 26 Oct. 1995, at C6.
 
-• "He's been sent to the Italian coast by a wealthy San Francisco industrialist to bring back the man's *errant*, decadent son, Philipe \(Maurice Ronet\)." Stephen Hunter, "Scorcese Rescues Evil Chiller from Kinder, Gentler Time," *Fla. Times-Union*, 4 Oct. 1996, at D3.
+ - "He's been sent to the Italian coast by a wealthy San Francisco industrialist to bring back the man's *errant*, decadent son, Philipe \(Maurice Ronet\)." Stephen Hunter, "Scorcese Rescues Evil Chiller from Kinder, Gentler Time," *Fla. Times-Union*, 4 Oct. 1996, at D3.
 
 Generally used in reference to people or their actions, *errant* is not synonymous with *erroneous*—e.g.: "He piles so many *errant* \[read *erroneous*\] conclusions atop skewed observations atop false premises that you hardly know where to start." Gregory Stanford, " ‘Color Bar' Will Die Once Talent Matters More than Race," *Milwaukee J. Sentinel*, 4 Aug. 1996, Crossroads §, at 3.
 

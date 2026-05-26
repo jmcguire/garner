@@ -6,11 +6,11 @@ First, that word is occasionally misused for *torturous*—e.g.: "Dozens of deaf
 
 Second, *tortuous* is sometimes misused for *tortious* \(the least common of the three words\)—e.g.:
 
-• "In return, Bocwinski agreed to drop the three other allegations, which were described in the settlement agreement as ‘*tortuous* \[read *tortious*\] acts.' " Pat Clawson, "Village Approves Lawsuit Settlement," *Chicago Trib.*, 7 Oct. 1996, at 3.
+ - "In return, Bocwinski agreed to drop the three other allegations, which were described in the settlement agreement as ‘*tortuous* \[read *tortious*\] acts.' " Pat Clawson, "Village Approves Lawsuit Settlement," *Chicago Trib.*, 7 Oct. 1996, at 3.
 
-• "Bridas, meanwhile, are suing Unocal for ‘*tortuous* \[read *tortious*\] interference' in their business." J.J. Fergusson, "Western Oil Firms Face Central Asia's Political Minefield," *Independent*, 15 May 1997, at 12.
+ - "Bridas, meanwhile, are suing Unocal for ‘*tortuous* \[read *tortious*\] interference' in their business." J.J. Fergusson, "Western Oil Firms Face Central Asia's Political Minefield," *Independent*, 15 May 1997, at 12.
 
-• "Just because a person has become a drug addict does not mean they should not be able to recover damages because of the ‘*tortuous* \[read *tortious*\] conduct' of another." Hoppy Kercheval, "Lawmakers Should Act on Court Ruling," *Charleston Daily Mail* \(W. Va.\), 20 May 2015, at A4.
+ - "Just because a person has become a drug addict does not mean they should not be able to recover damages because of the ‘*tortuous* \[read *tortious*\] conduct' of another." Hoppy Kercheval, "Lawmakers Should Act on Court Ruling," *Charleston Daily Mail* \(W. Va.\), 20 May 2015, at A4.
 
 In those examples, it's hard to know who made the error: the quoter or the original writer. But somebody did.
 

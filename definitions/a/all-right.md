@@ -16,47 +16,47 @@ In the short story "Unser Karl," first published in 1882, Bret Harte had a Germa
 
 Thus began a steady stream of disapproval through the years. What follows is merely a representative sampling. Pay close attention to the quotations from 1940 and 1983:
 
-• **1888:** "The word *alright* . . . has never received the sanction of good authority." Jerome B. Howard, "Questions and Answers," 2 *Phonographic Mag.* 75 \(1 Apr. 1888\).
+ - **1888:** "The word *alright* . . . has never received the sanction of good authority." Jerome B. Howard, "Questions and Answers," 2 *Phonographic Mag.* 75 \(1 Apr. 1888\).
 
-• **1902:** "*Alright* \[is\] sometimes seen in illiterate manuscript and ill-printed village newspapers." "Proofroom Notes and Queries," 29 *Inland Printer* 606 \(July 1902\).
+ - **1902:** "*Alright* \[is\] sometimes seen in illiterate manuscript and ill-printed village newspapers." "Proofroom Notes and Queries," 29 *Inland Printer* 606 \(July 1902\).
 
-• **1912:** "*All right* should never be written *alright*." William Dana Orcutt, *The Writer's Deskbook* 101 \(1912\).
+ - **1912:** "*All right* should never be written *alright*." William Dana Orcutt, *The Writer's Deskbook* 101 \(1912\).
 
-• **1926:** "**all right.** The words should always be written separate; there are no such forms as *all-right*, *allright*, \[and\] *alright*." Fowler, *FMEU* at 16.
+ - **1926:** "**all right.** The words should always be written separate; there are no such forms as *all-right*, *allright*, \[and\] *alright*." Fowler, *FMEU* at 16.
 
-• **1927:** "*All right*, adv., . . . \[is\] now never written as one word, *alright*." George Philip Krapp, *A Comprehensive Guide to Good English* 32–33 \(1927\).
+ - **1927:** "*All right*, adv., . . . \[is\] now never written as one word, *alright*." George Philip Krapp, *A Comprehensive Guide to Good English* 32–33 \(1927\).
 
-• **1937:** "*Alright* is not a word." Harry Shaw, *Writing and Rewriting: A Handbook of Good Usage* 43 \(1937\).
+ - **1937:** "*Alright* is not a word." Harry Shaw, *Writing and Rewriting: A Handbook of Good Usage* 43 \(1937\).
 
-• **1940:** "*All right* . . . is the only correct form to use. Though it may be seen in print, the one-word form with one *l* is all wrong. There is no similarity to such other pairs of words as *all ready* and *already*, in which the two spellings have different meanings." Clarence Stratton, *Handbook of English* 15 \(1940\).
+ - **1940:** "*All right* . . . is the only correct form to use. Though it may be seen in print, the one-word form with one *l* is all wrong. There is no similarity to such other pairs of words as *all ready* and *already*, in which the two spellings have different meanings." Clarence Stratton, *Handbook of English* 15 \(1940\).
 
-• **1947:** "Which is correct, *allright* or *alright*? Answer—Neither. There are no such words. The expression must be written as two words: *all right*." Frank Colby, *The Practical Handbook of Better English* 58 \(2d ed. 1947\).
+ - **1947:** "Which is correct, *allright* or *alright*? Answer—Neither. There are no such words. The expression must be written as two words: *all right*." Frank Colby, *The Practical Handbook of Better English* 58 \(2d ed. 1947\).
 
-• **1954:** "*All right* is the only correct spelling. *Alright*, though occasionally used by writers of advertising and fiction, has not been generally accepted. *All right* in the sense of ‘satisfactory' or ‘very well' is a colloquialism which is becoming standard." Glenn Leggett, C. David Mead & William Charvat, *Prentice-Hall Handbook for Writers* 316 \(2d ed. 1954\).
+ - **1954:** "*All right* is the only correct spelling. *Alright*, though occasionally used by writers of advertising and fiction, has not been generally accepted. *All right* in the sense of ‘satisfactory' or ‘very well' is a colloquialism which is becoming standard." Glenn Leggett, C. David Mead & William Charvat, *Prentice-Hall Handbook for Writers* 316 \(2d ed. 1954\).
 
-• **1956:** "*Alright* is a common misspelling for *all right*, accepted in modern dictionaries only with reservations." Robert M. Gorrell & Charlton Laird, *Modern English Handbook* 588 \(2d ed. 1956\).
+ - **1956:** "*Alright* is a common misspelling for *all right*, accepted in modern dictionaries only with reservations." Robert M. Gorrell & Charlton Laird, *Modern English Handbook* 588 \(2d ed. 1956\).
 
-• **1965:** "*Alright* . . . is still regarded as a vulgarism, inadmissible not only in those obvious cases where two words are completely independent . . . but also where they may be regarded as forming a more or less fixed phrase." Sir Ernest Gowers in revising *FMEU2* at 18.
+ - **1965:** "*Alright* . . . is still regarded as a vulgarism, inadmissible not only in those obvious cases where two words are completely independent . . . but also where they may be regarded as forming a more or less fixed phrase." Sir Ernest Gowers in revising *FMEU2* at 18.
 
-• **1980:** "Most authorities consider the single-word form \(*alright*\) substandard. Simply remember that *alright* is not *all right*." Earl G. Bingham, *Pocketbook for Writers* 86 \(1980\).
+ - **1980:** "Most authorities consider the single-word form \(*alright*\) substandard. Simply remember that *alright* is not *all right*." Earl G. Bingham, *Pocketbook for Writers* 86 \(1980\).
 
-• **1980:** "*All right* is the only correct way to write this expression." Edward P.J. Corbett, *The Little English Handbook* 228 \(3d ed. 1980\).
+ - **1980:** "*All right* is the only correct way to write this expression." Edward P.J. Corbett, *The Little English Handbook* 228 \(3d ed. 1980\).
 
-• **1982:** "It is always written as two words, with no hyphen; *all-right* and *alright* are both incorrect." Charles T. Brusaw, Gerald J. Alred & Walter E. Oliu, *Handbook of Technical Writing* 35 \(1982\).
+ - **1982:** "It is always written as two words, with no hyphen; *all-right* and *alright* are both incorrect." Charles T. Brusaw, Gerald J. Alred & Walter E. Oliu, *Handbook of Technical Writing* 35 \(1982\).
 
-• **1983:** "*Alright* . . . may eventually establish itself, but for the time being most authorities agree that *alright* is unacceptable in formal writing." Peter Davies, *Success with Words* 26 \(1983\).
+ - **1983:** "*Alright* . . . may eventually establish itself, but for the time being most authorities agree that *alright* is unacceptable in formal writing." Peter Davies, *Success with Words* 26 \(1983\).
 
-• **1995:** "The only correct spelling is *all right*." Gerald P. Mulderig, *The Heath Handbook* G3 \(1995\).
+ - **1995:** "The only correct spelling is *all right*." Gerald P. Mulderig, *The Heath Handbook* G3 \(1995\).
 
-• **1998:** "*Alright* is not *all right*; you are confusing it with the spelling of *already*. Never use *alright*." Sheridan Baker, *The Practical Stylist* 235 \(8th ed. 1998\).
+ - **1998:** "*Alright* is not *all right*; you are confusing it with the spelling of *already*. Never use *alright*." Sheridan Baker, *The Practical Stylist* 235 \(8th ed. 1998\).
 
-• **1999:** "*All right* is always two words. *Alright* is a common misspelling." H. Ramsey Fowler, *The Little, Brown Handbook* 794 \(7th ed. 1998\).
+ - **1999:** "*All right* is always two words. *Alright* is a common misspelling." H. Ramsey Fowler, *The Little, Brown Handbook* 794 \(7th ed. 1998\).
 
-• **2003:** "*All right*, meaning ‘acceptable,' is the correct spelling. *Alright* is nonstandard." Lester Faigley, *The Penguin Handbook* 807 \(2003\).
+ - **2003:** "*All right*, meaning ‘acceptable,' is the correct spelling. *Alright* is nonstandard." Lester Faigley, *The Penguin Handbook* 807 \(2003\).
 
-• **2005:** "The standard spelling is *all right*. *Alright* is common, but some people consider it incorrect." Michael Swan, *Practical English Usage* 43 \(3d ed. 2005\).
+ - **2005:** "The standard spelling is *all right*. *Alright* is common, but some people consider it incorrect." Michael Swan, *Practical English Usage* 43 \(3d ed. 2005\).
 
-• **2011:** ". . . the solecism *alright*." Robert Hartwell Fiske, *The Dictionary of Unendurable English* 454 n.4 \(2011\).
+ - **2011:** ". . . the solecism *alright*." Robert Hartwell Fiske, *The Dictionary of Unendurable English* 454 n.4 \(2011\).
 
 The 1940 quotation is interesting for its suggestion that the solid form signals no difference in sense, when in fact it arguably does. It's possible to see *all right* as meaning "each one correct" <were my answers all right?>, and *alright* in senses equivalent to those of *okay*. \(See \(a\).) The parallel with *all ready* and *already* can be seen as quite close. So in 1940 Stratton was wrong to dismiss it and suggest that *all ready* and *already* are distinguishable because they bear different senses. So might *all right* and *alright*.
 

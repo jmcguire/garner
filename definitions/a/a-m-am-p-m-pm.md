@@ -8,9 +8,9 @@ These abbreviations stand for the Latin phrases *ante meridiem* \("before noon"\
 
 **B. Redundant Use.** Because *a.m.* and *p.m.* are well understood to designate "morning" and "night" \(or "afternoon" or "evening"\), it is not necessary to use both designations—e.g.:
 
-• "It was 11:45 *a.m.* Saturday *morning* \[delete *a.m.* or *morning*\] in Bangkok, Thailand." M.A.J. McKenna, "Disease Spreads Fear," *Atlanta J.-Const.*, 2 Apr. 2003, at A1.
+ - "It was 11:45 *a.m.* Saturday *morning* \[delete *a.m.* or *morning*\] in Bangkok, Thailand." M.A.J. McKenna, "Disease Spreads Fear," *Atlanta J.-Const.*, 2 Apr. 2003, at A1.
 
-• "As of 8 *p.m.* Tuesday *night* \[delete *p.m.* or *night*\], Fresno recorded 0.16 of an inch." "Cold Weather Returns to Valley for Weeklong Stay," *Fresno Bee*, 2 Apr. 2003, at B5.
+ - "As of 8 *p.m.* Tuesday *night* \[delete *p.m.* or *night*\], Fresno recorded 0.16 of an inch." "Cold Weather Returns to Valley for Weeklong Stay," *Fresno Bee*, 2 Apr. 2003, at B5.
 
 These redundancies sprang up in the latter half of the 1800s and spread throughout the 1900s.
 

@@ -10,9 +10,9 @@ murder.
 
 **B. *Unintentional murder*.** This phrase may strike some readers as an oxymoron, but it has been fairly widespread since the late 1700s. E.g.:
 
-• "On Tuesday, the \[California Supreme Court\], in a major break with a 4-year-old precedent, ruled that a killer can be executed for an *unintentional murder*." "Calif. Death Sentence Upheld," *L.A. Times*, 15 Oct. 1987, § 1, at 1.
+ - "On Tuesday, the \[California Supreme Court\], in a major break with a 4-year-old precedent, ruled that a killer can be executed for an *unintentional murder*." "Calif. Death Sentence Upheld," *L.A. Times*, 15 Oct. 1987, § 1, at 1.
 
-• "One of McDonagh's gifts is knowing that the darker the subtext, the more outrageous the lines can be, because what would ordinarily seem offensive becomes significant in light of a true disaster: the *unintentional murder* of a child." John Anderson, "Bumbling Hit Men Score Bulls-Eye in Darkly Droll ‘Bruges,' " *Wash. Post*, 8 Feb. 2008, at C6.
+ - "One of McDonagh's gifts is knowing that the darker the subtext, the more outrageous the lines can be, because what would ordinarily seem offensive becomes significant in light of a true disaster: the *unintentional murder* of a child." John Anderson, "Bumbling Hit Men Score Bulls-Eye in Darkly Droll ‘Bruges,' " *Wash. Post*, 8 Feb. 2008, at C6.
 
 And it is entirely proper to speak of an *unintentional murder*, as when someone, for no good reason, shoots a gun into an occupied room and kills somebody inside. But traditionally, intent is the very distinction between murder and manslaughter, so unless this is a legal term of art you are stuck with, use *unintentional killing* instead.
 

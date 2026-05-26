@@ -2,9 +2,9 @@
 
 contextual, not *contextural*, is the adjective corresponding to *context*. But the intrusive *r* often appears—e.g.:
 
-• "For choreographers, *contextural* \[read *contextual*\] issues are at risk. In a bar setting, the cultural context calls for humor; anything else seems out of place." Gia Kourlas, "A New Stage for Modernists: the Nightclub," *N.Y. Times*, 30 Sept. 2001, § 2, at 33.
+ - "For choreographers, *contextural* \[read *contextual*\] issues are at risk. In a bar setting, the cultural context calls for humor; anything else seems out of place." Gia Kourlas, "A New Stage for Modernists: the Nightclub," *N.Y. Times*, 30 Sept. 2001, § 2, at 33.
 
-• "Buildings have been limited to 35 feet in height or three stories since the 1970's, but now there is talk of *contextural* \[read *contextual*\] zoning, which would honor the local character." Nancy Beth Jackson, "City Island; Close-Knit Waterfront Enclave in Bronx," *N.Y. Times*, 14 Apr. 2002, § 11, at 5.
+ - "Buildings have been limited to 35 feet in height or three stories since the 1970's, but now there is talk of *contextural* \[read *contextual*\] zoning, which would honor the local character." Nancy Beth Jackson, "City Island; Close-Knit Waterfront Enclave in Bronx," *N.Y. Times*, 14 Apr. 2002, § 11, at 5.
 
 For similar mistakes, see **contractual** & **pretextual**. For more on the intrusive *r*, see pronunciation \(e\).
 

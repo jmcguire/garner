@@ -38,29 +38,29 @@ Finally, headline writers must be attuned to part-of-speech miscues. Consider th
 
 **E. Guidance for Journalists.** Over the years, newspaper editors and web designers have developed many pointers for effective headline writing. Among the principal ones are these:
 
-• Capsulize the gist of the piece. Use words that apply so specifically to the story that they couldn't be used to headline another one <Pa. Race Won't Tip Superdelegates>.
+ - Capsulize the gist of the piece. Use words that apply so specifically to the story that they couldn't be used to headline another one <Pa. Race Won't Tip Superdelegates>.
 
-• Make a definite statement with a concrete idea that can be easily grasped. Always prefer a tangible example over a general concept <50 Iraqis Die in Suicide Bombing> \(as opposed to *Violence Continues in Middle East*\).
+ - Make a definite statement with a concrete idea that can be easily grasped. Always prefer a tangible example over a general concept <50 Iraqis Die in Suicide Bombing> \(as opposed to *Violence Continues in Middle East*\).
 
-• Ensure that the headline reflects the right tone for the publication and for the specific article, be it serious and sober or light and sensational <All 155 Aboard Safe as Crippled Jet Crash-Lands in Hudson \(*N.Y. Times*\)> <CRASH RESCUE A REAL SLAM DUNK / GEESE KO ENGINES \(*N.Y. Post*\)>.
+ - Ensure that the headline reflects the right tone for the publication and for the specific article, be it serious and sober or light and sensational <All 155 Aboard Safe as Crippled Jet Crash-Lands in Hudson \(*N.Y. Times*\)> <CRASH RESCUE A REAL SLAM DUNK / GEESE KO ENGINES \(*N.Y. Post*\)>.
 
-• Include a verb <A Dash of Wit Salts Obama's Speech>, even if it's only implied <Scalia, Long Shy of News Media, Now More Open> \(in which *Is* is implied after *Media*\). Hence every headline is a statement. If suppressed, the verb must be readily supplied by the reader's mind—its feeling remains <Air Trips Slowest in Past 20 Years>.
+ - Include a verb <A Dash of Wit Salts Obama's Speech>, even if it's only implied <Scalia, Long Shy of News Media, Now More Open> \(in which *Is* is implied after *Media*\). Hence every headline is a statement. If suppressed, the verb must be readily supplied by the reader's mind—its feeling remains <Air Trips Slowest in Past 20 Years>.
 
-• Use the present tense, not past <Chaos Rules at Nevada Polygamist Hearing> \(not *Chaos Ruled . . .*\).
+ - Use the present tense, not past <Chaos Rules at Nevada Polygamist Hearing> \(not *Chaos Ruled . . .*\).
 
-• Use an active verb if possible <Attacks Rooted in Religion Energize Faith in Many>. Avoid the word *was* <B.U. Ex-President Named as Man on Drifting Barge> \(as opposed to *Man on Drifting Barge Was Ex-President of B.U.*\).
+ - Use an active verb if possible <Attacks Rooted in Religion Energize Faith in Many>. Avoid the word *was* <B.U. Ex-President Named as Man on Drifting Barge> \(as opposed to *Man on Drifting Barge Was Ex-President of B.U.*\).
 
-• Don't repeat any important word in any part of the same headline <Businesses Absorb Oil Costs> \(as opposed to *Business Costs Rise with Oil Costs*\).
+ - Don't repeat any important word in any part of the same headline <Businesses Absorb Oil Costs> \(as opposed to *Business Costs Rise with Oil Costs*\).
 
-• Omit articles unless necessary for the sense <3 Charged with Arlington Heights Apartment Break-In>.
+ - Omit articles unless necessary for the sense <3 Charged with Arlington Heights Apartment Break-In>.
 
-• Avoid ending lines with fizzle-words. Put the punch word at the end. <Icicles Can Hurt Roofs, Interiors of Homes, and, of Course, Passersby>.
+ - Avoid ending lines with fizzle-words. Put the punch word at the end. <Icicles Can Hurt Roofs, Interiors of Homes, and, of Course, Passersby>.
 
-• Avoid cramming in too much information <To Nest Best, Feather Together> \(as opposed to *To Pamper Their Parrots, Cockatiels, and Macaws, Bird Lovers Are Creating a Whole New Species of Rooms*\).
+ - Avoid cramming in too much information <To Nest Best, Feather Together> \(as opposed to *To Pamper Their Parrots, Cockatiels, and Macaws, Bird Lovers Are Creating a Whole New Species of Rooms*\).
 
-• Avoid a clutter of punctuation <School Woes Aren't Over Yet> \(as opposed to *Political Animals of Public Schools; So the Amarillo Unified School Board Has Finally Been Assimilated by the Recall/Reform Movement: Problem Solved, Right? Nope\!*\).
+ - Avoid a clutter of punctuation <School Woes Aren't Over Yet> \(as opposed to *Political Animals of Public Schools; So the Amarillo Unified School Board Has Finally Been Assimilated by the Recall/Reform Movement: Problem Solved, Right? Nope\!*\).
 
-• Don't use a comma as a substitute for any word except *and* <Pet Owners, Landlords Need Win–Win Strategy>.
+ - Don't use a comma as a substitute for any word except *and* <Pet Owners, Landlords Need Win–Win Strategy>.
 
 **F. Further Reading.** For reliable treatments, see Robert E. Garst & Theodore M. Bernstein, *Headlines and Deadlines* \(1933\); John B. Bremner, *HTK* \(1972\); Barbara G. Ellis, *The Copy-Editing and Headline Handbook* \(2001\); Paula LaRocque, *Heads You Win: An Easy Guide to Better Headline and Caption Writing* \(2003\).
 

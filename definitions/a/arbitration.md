@@ -6,11 +6,11 @@ arbitration.
 
 Writers occasionally err by substituting *arbitrage* for *arbitration*, especially in the phrase \**arbitrage panel*—e.g.:
 
-• "In a terse statement on Wednesday, Sir Leon said the EU ‘will carefully study both the *arbitrator's* report and the two panel reports, and of course meanwhile reserve our right of appeal.' . . . In a parallel ruling, an *arbitrage* \[read *arbitration*\] panel decided the U.S. retaliation is legal but excessive." Elizabeth de Bony, *J. of Commerce*, 8 Apr. 1999, at A1.
+ - "In a terse statement on Wednesday, Sir Leon said the EU ‘will carefully study both the *arbitrator's* report and the two panel reports, and of course meanwhile reserve our right of appeal.' . . . In a parallel ruling, an *arbitrage* \[read *arbitration*\] panel decided the U.S. retaliation is legal but excessive." Elizabeth de Bony, *J. of Commerce*, 8 Apr. 1999, at A1.
 
-• "What's more, in a hotly contested move, a state *arbitrage* \[read *arbitration*\] panel granted the Florida Windstorm Underwriting Association, a state pool of insurers, an average increase of 96 percent statewide." Sharon Harvey Rosenberg, "Wind Damage Is Down This Hurricane Season, but Not Insurance Rates," *Miami Daily Bus. Rev.*, 26 Oct. 2000, at A1.
+ - "What's more, in a hotly contested move, a state *arbitrage* \[read *arbitration*\] panel granted the Florida Windstorm Underwriting Association, a state pool of insurers, an average increase of 96 percent statewide." Sharon Harvey Rosenberg, "Wind Damage Is Down This Hurricane Season, but Not Insurance Rates," *Miami Daily Bus. Rev.*, 26 Oct. 2000, at A1.
 
-• "Any case \[over Brexit\] would go to an *arbitrage* \[read *arbitration*\] panel or to a WTO tribunal." Ambrose Evans-Pritchard, "Europe's War of ‘Equivalence' Risks Violating International Law," *Daily Telegraph*, 13 Feb. 2021, at 37.
+ - "Any case \[over Brexit\] would go to an *arbitrage* \[read *arbitration*\] panel or to a WTO tribunal." Ambrose Evans-Pritchard, "Europe's War of ‘Equivalence' Risks Violating International Law," *Daily Telegraph*, 13 Feb. 2021, at 37.
 
 The opposite error is rare but not unknown—e.g.: "Futures and options based on the Russell 1000 provides *arbitrage* opportunities for investors . . . . The degree to which such *arbitrations take* \[read *arbitrage takes*\] place is likely to determine the pace at which the Russell 1000 overtakes the S&P 500." C. Michael Carty, "Favored Large-Cap Barometer Will Change," *Pensions & Investments*, 1 Nov. 1999, at 36.
 

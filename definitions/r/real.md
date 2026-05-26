@@ -4,19 +4,19 @@ real, adj., in its nontechnical uses, may describe \(1\) what actually exists an
 
 Since the early 1700s, *real* has been considered dialectal when used for *very*—e.g.:
 
-• "Competition in recent years hasn't been *real* \[read *very*\] friendly." L. Gordon Crovitz, "Even Gentlemanly Yachtsmen Go to Court, but Why Let Them?," *Wall Street J.*, 16 May 1990, at A17.
+ - "Competition in recent years hasn't been *real* \[read *very*\] friendly." L. Gordon Crovitz, "Even Gentlemanly Yachtsmen Go to Court, but Why Let Them?," *Wall Street J.*, 16 May 1990, at A17.
 
-• "But he said it *real* *nice* \[read *very nicely*\]." Gordon Edes, "Little Is Preparing a Forceful Response," *Boston Globe*, 11 Feb. 2003, at F1.
+ - "But he said it *real* *nice* \[read *very nicely*\]." Gordon Edes, "Little Is Preparing a Forceful Response," *Boston Globe*, 11 Feb. 2003, at F1.
 
-• "This was a *real* \[read *very*\] big deal and even I got into the countdown business." J.V. Trott, *The Cleavers Didn't Live on Our Street* 95 \(2009\).
+ - "This was a *real* \[read *very*\] big deal and even I got into the countdown business." J.V. Trott, *The Cleavers Didn't Live on Our Street* 95 \(2009\).
 
 The phrasing *\*real good* likewise is dialectal, *really good* or *quite good* \(adverb \+ adjective\) being standard—e.g.:
 
-• " ‘I think the two BU teams were really talented and were *real* \[read *really* or *quite*\] good on special teams.' " John Connolly, "Champions Return to BU," *Boston Herald*, 4 Dec. 2000, at 86 \(quoting Peter Yetten\).
+ - " ‘I think the two BU teams were really talented and were *real* \[read *really* or *quite*\] good on special teams.' " John Connolly, "Champions Return to BU," *Boston Herald*, 4 Dec. 2000, at 86 \(quoting Peter Yetten\).
 
-• " ‘I don't think anybody is feeling *real* \[read *really*\] good about him \[Al Gore\] right now.' " "Missing Man," *Newsweek*, 11 Dec. 2000, at 43 \(quoting Miami mayor Alex Penelas\).
+ - " ‘I don't think anybody is feeling *real* \[read *really*\] good about him \[Al Gore\] right now.' " "Missing Man," *Newsweek*, 11 Dec. 2000, at 43 \(quoting Miami mayor Alex Penelas\).
 
-• "A *real* \[read *really*\] good mortgage lender can tell within five minutes if he can give you a loan from looking at your report." Carl Agard, *Getting the Real Out of Real Estate* 65–66 \(2007\).
+ - "A *real* \[read *really*\] good mortgage lender can tell within five minutes if he can give you a loan from looking at your report." Carl Agard, *Getting the Real Out of Real Estate* 65–66 \(2007\).
 
 See dialect.
 

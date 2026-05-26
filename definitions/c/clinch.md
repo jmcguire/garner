@@ -8,11 +8,11 @@ Here is the situation today. *Clench* has become something you do alone, as by c
 
 With certain exceptions, *clinch* is figurative, and *clench* physical. Hence you *clinch* an argument, case, or debate, but you *clench* your jaw, or your teeth, or your fists—e.g.:
 
-• "But one claim . . . would really *clinch* the argument." Stephen Jay Gould, "Planet of the Bacteria," *Wash. Post*, 13 Nov. 1996, at H1.
+ - "But one claim . . . would really *clinch* the argument." Stephen Jay Gould, "Planet of the Bacteria," *Wash. Post*, 13 Nov. 1996, at H1.
 
-• "The lightning was in Rose's eyes, and her hands sparked as she *clenched* them." Ursula K. Le Guin, *Tales from Earthsea* 129 \(2001\).
+ - "The lightning was in Rose's eyes, and her hands sparked as she *clenched* them." Ursula K. Le Guin, *Tales from Earthsea* 129 \(2001\).
 
-• "Meredith and Ken Williams nervously watched election results trickle in. Meredith Williams *clenched* her teeth." Nedra Rhone & Helena Oliviero, "Voter Reaction," *Atlanta J.-Const.*, 5 Nov. 2020, at A1.
+ - "Meredith and Ken Williams nervously watched election results trickle in. Meredith Williams *clenched* her teeth." Nedra Rhone & Helena Oliviero, "Voter Reaction," *Atlanta J.-Const.*, 5 Nov. 2020, at A1.
 
 Although *clench* is traditionally transitive, it is occasionally used intransitively to good effect—e.g.: "Her stomach *clenched* in fear." Kathy Lynn Emerson, *Face Down Under the Wych Elm* 8 \(2000\).
 
@@ -20,11 +20,11 @@ The physical uses of *clinch* occur in boxing, carpentry, and metalworking: clut
 
 Having now clinched the basic distinctions—which shouldn't cause you to clench \(much less gnash\) your teeth—let's examine a few misuses. But wait. Are they really misuses? Couldn't it be that the overlap just continues over the centuries? That's one way of looking at it. But the trends have been so strong in favor of the distinctions that careful writers will indeed regard these instances as misuses:
 
-• "At one point, the fighters *clenched* \[read *clinched*\], fell over and partly through the ropes." Sam Farmer, "Mayweather Prevails in Close Fight," *Manistee News Advocate* \(Mich.\), 5 May 2014, at B2.
+ - "At one point, the fighters *clenched* \[read *clinched*\], fell over and partly through the ropes." Sam Farmer, "Mayweather Prevails in Close Fight," *Manistee News Advocate* \(Mich.\), 5 May 2014, at B2.
 
-• "Maybe it was the Tenterfield sausage sanga that *clenched* \[read *clinched*\] the deal." "GG Made Patron of Lions Australia," *Tenterfield Star* \(Aus.\), 2 Oct. 2019, at 3.
+ - "Maybe it was the Tenterfield sausage sanga that *clenched* \[read *clinched*\] the deal." "GG Made Patron of Lions Australia," *Tenterfield Star* \(Aus.\), 2 Oct. 2019, at 3.
 
-• "The whole mess spewed from my mouth between sobs and *clinched* \[read *clenched*\] teeth." Hiedi Anderson, "Advice from the Past Soothes Current Turmoil," *Reno Gaz.-J.*, 10 Feb. 2021, at A4.
+ - "The whole mess spewed from my mouth between sobs and *clinched* \[read *clenched*\] teeth." Hiedi Anderson, "Advice from the Past Soothes Current Turmoil," *Reno Gaz.-J.*, 10 Feb. 2021, at A4.
 
 Rarely is the choice unclear. But it can happen. In the following specimen, is the context more suggestive of clenched fists or of clinching boxers? "After their speeches, Mr. Bentsen and Mr. Clinton *clinched* hands together with Gov. Ann Richards on the stage of the party's state convention as ‘Deep in the Heart of Texas' played over the loudspeakers." Sam Attlesey & Wayne Slater, "Bentsen Strongly Endorses Clinton," *Dallas Morning News*, 6 June 1992, at A1. There is more than one participant, after all. But given that Clinton and Bentsen and Richards were allies, not adversaries, an emendation to *clenched* might be called for. Yet on reflection, one hesitates.
 

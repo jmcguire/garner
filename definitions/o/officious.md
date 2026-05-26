@@ -6,9 +6,9 @@ In the context of diplomacy, the word has a strangely different, neutral sense: 
 
 Also, the word has been subjected to slipshod extension. Some mistakenly think it means "official-looking"—e.g.: "He still lived in the same old dormitory, but in a bigger and more *officious* room." Still others take it to mean "official-sounding" or merely "official"—e.g.:
 
-• "A dead person is the ‘decedent' in the *officious lingo* \[read *jargon*\] of the medical examiner, for example, and ballistics experts often refer to ‘the signature of the weapon.' " Phil Reisman, "Firsthand Look at the Ease of Getting an Indictment," *J. News* \(Westchester County, N.Y.\), 9 Jan. 2003, at B1.
+ - "A dead person is the ‘decedent' in the *officious lingo* \[read *jargon*\] of the medical examiner, for example, and ballistics experts often refer to ‘the signature of the weapon.' " Phil Reisman, "Firsthand Look at the Ease of Getting an Indictment," *J. News* \(Westchester County, N.Y.\), 9 Jan. 2003, at B1.
 
-• "In an *officious-sounding* \[read *official-sounding*\] voice, he warns victims they've ignored multiple summonses for jury duty." Dan Casey, "‘Jury Duty' Scam Targets Unwary Residents," *Roanoke Times*, 8 Jan. 2015, at B1.
+ - "In an *officious-sounding* \[read *official-sounding*\] voice, he warns victims they've ignored multiple summonses for jury duty." Dan Casey, "‘Jury Duty' Scam Targets Unwary Residents," *Roanoke Times*, 8 Jan. 2015, at B1.
 
 Language-Change Index
 

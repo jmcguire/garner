@@ -6,13 +6,13 @@ The words' etymologies provide a useful way to remember their basic senses. *Evo
 
 The most common mistake in using these words is substituting *evoke* for sense 1 or 2 of *invoke*. This error occurs especially in the phrase *evoke the name of*, but also in other phrases—e.g.:
 
-• **Sense 1:** "Then Heard *evoked* \[read *invoked*\] the name of God in his next untruth wherein he accused the Zulu demonstrators of attempting to ‘storm the ANC headquarters.' " Letter of Jerry McGlothlin, "South African Zulus," *L.A. Times*, 7 Apr. 1994, at B6.
+ - **Sense 1:** "Then Heard *evoked* \[read *invoked*\] the name of God in his next untruth wherein he accused the Zulu demonstrators of attempting to ‘storm the ANC headquarters.' " Letter of Jerry McGlothlin, "South African Zulus," *L.A. Times*, 7 Apr. 1994, at B6.
 
-• **Sense 1:** "At the Sunday worship of the Re-imagining conference, a liturgy *evoked* \[read *invoked*\] ‘Creator God Sophia.' " Larry Witham, "Bishop Calls for Calm on ‘Sophia' Issue," *Wash. Times*, 11 June 1994, at A5.
+ - **Sense 1:** "At the Sunday worship of the Re-imagining conference, a liturgy *evoked* \[read *invoked*\] ‘Creator God Sophia.' " Larry Witham, "Bishop Calls for Calm on ‘Sophia' Issue," *Wash. Times*, 11 June 1994, at A5.
 
-• **Sense 1:** "The leader of Turkey's Islamic party opened his first news conference as prime minister by *evoking* \[read *invoking*\] God's blessing." "Turkey's Islamic Leader Eyes Moderate Course," *Record* \(N.J.\), 30 June 1996, at A17.
+ - **Sense 1:** "The leader of Turkey's Islamic party opened his first news conference as prime minister by *evoking* \[read *invoking*\] God's blessing." "Turkey's Islamic Leader Eyes Moderate Course," *Record* \(N.J.\), 30 June 1996, at A17.
 
-• **Sense 2:** "As his fellow Democratic candidates have done across the country, Mr. Yates *evoked* \[read *invoked*\] the name of the Republican Speaker of the House, Newt Gingrich, to hang around his opponent's neck like a millstone." Don Terry, "Illinois Lawmaker Proves a Tough Target for G.O.P.," *N.Y. Times*, 24 Oct. 1996, at A10.
+ - **Sense 2:** "As his fellow Democratic candidates have done across the country, Mr. Yates *evoked* \[read *invoked*\] the name of the Republican Speaker of the House, Newt Gingrich, to hang around his opponent's neck like a millstone." Don Terry, "Illinois Lawmaker Proves a Tough Target for G.O.P.," *N.Y. Times*, 24 Oct. 1996, at A10.
 
 Language-Change Index
 

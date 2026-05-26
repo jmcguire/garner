@@ -4,11 +4,11 @@ prioritize; **\*priorize**. Writers with sound stylistic priorities long avoided
 
 Much less common than *prioritize* is the illogically formed *\*priorize*, a fairly obscure Canadianism—e.g.:
 
-• "Of course, the finance minister will, for the benefit of his colleagues, *‘priorize'* \[read *establish priorities for*\] the promises made by the new regime." Dalton Camp, "Grits Can Be Ruthless," *Toronto Star*, 7 Nov. 1993, at H3.
+ - "Of course, the finance minister will, for the benefit of his colleagues, *‘priorize'* \[read *establish priorities for*\] the promises made by the new regime." Dalton Camp, "Grits Can Be Ruthless," *Toronto Star*, 7 Nov. 1993, at H3.
 
-• "Two months later, not only must a prospective comrade share all of our ‘isms'; s/he must also *priorize them* \[read *view their relative importance*\] exactly as we do." "The Left's First Deadly Sin: Ideological Elitism," *Canadian Dimension*, 19 Sept. 1997, at 3. \(On the use of *s/he* in that sentence, see sexism \(b\).)
+ - "Two months later, not only must a prospective comrade share all of our ‘isms'; s/he must also *priorize them* \[read *view their relative importance*\] exactly as we do." "The Left's First Deadly Sin: Ideological Elitism," *Canadian Dimension*, 19 Sept. 1997, at 3. \(On the use of *s/he* in that sentence, see sexism \(b\).)
 
-• "In consequence, the triple criteria used in this work can help to *priorize* \[read *arrange*\] several clusterings and to find the more reliable patterns from a set of data." Dante Conti & Karina Gibert, "The Use of the Traffic Lights Panel as a Goodness-of-Clustering Indicator," in *Artificial Intelligence Research and Development* 19, 27 \(David Riaño et al. eds., 2012\).
+ - "In consequence, the triple criteria used in this work can help to *priorize* \[read *arrange*\] several clusterings and to find the more reliable patterns from a set of data." Dante Conti & Karina Gibert, "The Use of the Traffic Lights Panel as a Goodness-of-Clustering Indicator," in *Artificial Intelligence Research and Development* 19, 27 \(David Riaño et al. eds., 2012\).
 
 See -ize & bureaucratese.
 

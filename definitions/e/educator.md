@@ -4,11 +4,11 @@ educator; **educationist**; **educationalist**. *Educator*, a 16th-century coina
 
 *Educationist*, by contrast, is a dysphemism suggesting a puffed-up teacher who cloaks commonplace ideas in abstract, theoretical language or else turns common sense on its head—e.g.:
 
-• "The educator John Keats noted a fundamental divide between the progressive *educationist*, for whom ‘the individual has only a functional significance in society,' and the traditionalist, to whom ‘society is merely a function of individuals.' " John R. Dunlap, "Dumb and Dumber: Does Choice Matter?," *Am. Spectator*, Sept. 1996.
+ - "The educator John Keats noted a fundamental divide between the progressive *educationist*, for whom ‘the individual has only a functional significance in society,' and the traditionalist, to whom ‘society is merely a function of individuals.' " John R. Dunlap, "Dumb and Dumber: Does Choice Matter?," *Am. Spectator*, Sept. 1996.
 
-• "*Educationists* love the humane-sounding idea of self-esteem. It gives them cover for low standards and low effort both on their part and that of students." Walter Williams, "Girl Who Received Top Marks in School Couldn't Read Street Signs," *Chattanooga Free Press*, 15 Sept. 1996, at B7. \(At the end of the sentence, parallelism could be maintained by changing *both on their part and that of students* to *both on their part and on the part of students*.\)
+ - "*Educationists* love the humane-sounding idea of self-esteem. It gives them cover for low standards and low effort both on their part and that of students." Walter Williams, "Girl Who Received Top Marks in School Couldn't Read Street Signs," *Chattanooga Free Press*, 15 Sept. 1996, at B7. \(At the end of the sentence, parallelism could be maintained by changing *both on their part and that of students* to *both on their part and on the part of students*.\)
 
-• "Not surprisingly, *educationists* love a system where brand-new schools are built to their liking, while they retain control." "The Business of Schooling," *Richmond Times-Dispatch*, 27 Sept. 1996, at A16.
+ - "Not surprisingly, *educationists* love a system where brand-new schools are built to their liking, while they retain control." "The Business of Schooling," *Richmond Times-Dispatch*, 27 Sept. 1996, at A16.
 
 In BrE, *educationist* is sometimes used in the sense that *educator* bears in AmE—e.g.: "The current project involving *educationists*, churchmen and others, in an effort to strengthen the teaching of morality in the national school curriculum, has now reached substantial agreement on the way forward—about everything except sex." Clifford Longley, "Sacred and Profane," *Daily Telegraph*, 30 Aug. 1996, at 23.
 

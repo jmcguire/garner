@@ -8,11 +8,11 @@ Of course, *otherwise* often functions adverbially as well—e.g.: "Paul Sanchez
 
 **B. As a Conjunction Meaning "or else."** This slipshod usage, which leads to run-on sentences, occurs primarily in BrE. *Otherwise* shouldn't connect two clauses in a compound sentence—e.g.:
 
-• "It's got to be attractive, *otherwise* people won't go there." George Martin, "Why My Montserrat Is More than Just a Home for Retired Rockers," *Evening Standard*, 11 Sept. 1997, at 23. \(Put a period or semicolon after *attractive* and a comma after *otherwise*. Or else change *otherwise* to *or else*.\)
+ - "It's got to be attractive, *otherwise* people won't go there." George Martin, "Why My Montserrat Is More than Just a Home for Retired Rockers," *Evening Standard*, 11 Sept. 1997, at 23. \(Put a period or semicolon after *attractive* and a comma after *otherwise*. Or else change *otherwise* to *or else*.\)
 
-• "The alliance needs to receive clearance from London, Washington and Brussels by November *otherwise* BA and American may not be able to launch joint services in time for next summer's timetable." Michael Harrison, "Brussels Urged to Relax Stance on BA Alliance," *Independent*, 12 Sept. 1997, at 21. \(Put a period or semicolon after *November* and a comma after *otherwise*. Or else change *otherwise* to *or else*.\)
+ - "The alliance needs to receive clearance from London, Washington and Brussels by November *otherwise* BA and American may not be able to launch joint services in time for next summer's timetable." Michael Harrison, "Brussels Urged to Relax Stance on BA Alliance," *Independent*, 12 Sept. 1997, at 21. \(Put a period or semicolon after *November* and a comma after *otherwise*. Or else change *otherwise* to *or else*.\)
 
-• "But they cannot afford to do this, since they must believe that their view is correct, *otherwise* why would they be bothering to put it forward." Richard J. Evans, "Bound by the Web of Facts," *Fin. Times*, 13 Sept. 1997, at 4. \(Put a period or semicolon after *correct* and a comma after *otherwise*.\)
+ - "But they cannot afford to do this, since they must believe that their view is correct, *otherwise* why would they be bothering to put it forward." Richard J. Evans, "Bound by the Web of Facts," *Fin. Times*, 13 Sept. 1997, at 4. \(Put a period or semicolon after *correct* and a comma after *otherwise*.\)
 
 In each of those sentences, a period or semicolon should precede *otherwise*; after *otherwise*, the comma is optional but preferred.
 

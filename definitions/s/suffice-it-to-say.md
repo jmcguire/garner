@@ -2,11 +2,11 @@
 
 suffice it to say is the subjunctive form of *it suffices to say*. It has been in common use since the mid-1700s, usually at the beginning of a sentence but not always—e.g.:
 
-• "*Suffice it to say* that the plotters, once their plan has been set into motion, aren't content to leave well enough alone." Janet Maslin, " ‘Deathtrap' with Michael Caine," *N.Y. Times*, 19 Mar. 1982, at C8.
+ - "*Suffice it to say* that the plotters, once their plan has been set into motion, aren't content to leave well enough alone." Janet Maslin, " ‘Deathtrap' with Michael Caine," *N.Y. Times*, 19 Mar. 1982, at C8.
 
-• "When her students were asked how they liked working with her, *suffice it to say* that they gushed." Natalie Angier, "Scientist at Work," *N.Y. Times*, 30 May 1995, at C1.
+ - "When her students were asked how they liked working with her, *suffice it to say* that they gushed." Natalie Angier, "Scientist at Work," *N.Y. Times*, 30 May 1995, at C1.
 
-• "*Suffice it to say* that the film concerns a British-born inspirational speaker named Michael Stone." Steven Zeitchik, "Leaders of the Pack," *L.A. Times*, 4 Sept. 2015, Calendar §, at 1.
+ - "*Suffice it to say* that the film concerns a British-born inspirational speaker named Michael Stone." Steven Zeitchik, "Leaders of the Pack," *L.A. Times*, 4 Sept. 2015, Calendar §, at 1.
 
 See subjunctives.
 

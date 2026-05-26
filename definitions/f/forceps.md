@@ -6,9 +6,9 @@ The English plural is either *forceps* or *forcepses*. In *The Origin of Species
 
 Since the early 1800s, the back-formation *\*forcep* has occasionally appeared—e.g.:
 
-• "With a considered tug Mr. Shehata soon frees the organ from one of the small holes in the donor's stomach. He strides swiftly across the theatre, skirting trays of gleaming equipment, with it dangling from a *forcep* \[read *forceps*\]." "It's All a Bit More Stressful with a TV Audience," *Nottingham Evening Post* \(U.K.\), 25 Nov. 2006, at 12.
+ - "With a considered tug Mr. Shehata soon frees the organ from one of the small holes in the donor's stomach. He strides swiftly across the theatre, skirting trays of gleaming equipment, with it dangling from a *forcep* \[read *forceps*\]." "It's All a Bit More Stressful with a TV Audience," *Nottingham Evening Post* \(U.K.\), 25 Nov. 2006, at 12.
 
-• "The resected polyps were retrieved by M-S technique, in which suction, regarded as the leading technique, was taken in combination with channel occlusion, trap, snare, and grasping *forcep* \[read *forceps*\]." "New Findings Reported from Zhejiang University Describe Advances in Polypectomy," *Med. Devices & Surgical Tech. Week*, 18 May 2008, at 333.
+ - "The resected polyps were retrieved by M-S technique, in which suction, regarded as the leading technique, was taken in combination with channel occlusion, trap, snare, and grasping *forcep* \[read *forceps*\]." "New Findings Reported from Zhejiang University Describe Advances in Polypectomy," *Med. Devices & Surgical Tech. Week*, 18 May 2008, at 333.
 
 Cf. **biceps**.
 

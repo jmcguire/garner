@@ -2,9 +2,9 @@
 
 final outcome; **final result**; **final upshot**. Each of these is a common redundancy, since *outcome*, *result*, and *upshot* are all generally understood as final. It may be, however, that because modern technology—whether in instant replays on television or in computer calculations—allows us to view all sorts of preliminary results, some further qualification is considered desirable. But that's merely an excuse, not a sound rationale. And besides, writers often use the wordy phrases even when they don't mean them—e.g.:
 
-• "The *final outcome* \[read *outcome*\] was a convincing 90–76 America East victory over the Northeastern Huskies." Andrew Neff, "Reed's Six 3-Pointers Help Bears Down Northeastern," *Bangor Daily News*, 16 Jan. 2003, at C9.
+ - "The *final outcome* \[read *outcome*\] was a convincing 90–76 America East victory over the Northeastern Huskies." Andrew Neff, "Reed's Six 3-Pointers Help Bears Down Northeastern," *Bangor Daily News*, 16 Jan. 2003, at C9.
 
-• "They both said the process won't be as important as the *final result* \[read *result*\]." Tom Bell, "State Lawmakers Differ on Need for Tax-Reform Panel," *Portland Press Herald*, 16 Jan. 2003, at B1.
+ - "They both said the process won't be as important as the *final result* \[read *result*\]." Tom Bell, "State Lawmakers Differ on Need for Tax-Reform Panel," *Portland Press Herald*, 16 Jan. 2003, at B1.
 
 Cf. **destination**.
 

@@ -8,31 +8,31 @@ The word was not in good standing. In 1920, a critic wrote: "Do not use corrupt 
 
 Things changed in the late 20th century, as *snuck* began appearing with increasing frequency. For a long time, commentators and grammar handbooks ignored the word altogether, with a few exceptions \(often calling the verb "sneaky"\). The timeline here shows the gradual progress of the term from Stage 1 to Stage 5:
 
-• **1940:** "**snuck.** Ignorantly used as the past tense of the verb *to sneak*. The only correct form is *sneaked*." Clarence Stratton, *Handbook of English* 301 \(1940\).
+ - **1940:** "**snuck.** Ignorantly used as the past tense of the verb *to sneak*. The only correct form is *sneaked*." Clarence Stratton, *Handbook of English* 301 \(1940\).
 
-• **1940:** "*Snuck* for *sneaked*, *crope* for *crept*, these are rural colloquialisms; but not so much more horrible as some urbanites might think than their own *dreamt* for *dreamed*, *plead* \(pronounced *pled*\) for *pleaded*." Edward N. Teall, *Putting Words to Work* 71 \(1940\).
+ - **1940:** "*Snuck* for *sneaked*, *crope* for *crept*, these are rural colloquialisms; but not so much more horrible as some urbanites might think than their own *dreamt* for *dreamed*, *plead* \(pronounced *pled*\) for *pleaded*." Edward N. Teall, *Putting Words to Work* 71 \(1940\).
 
-• **1956:** "There are no such verbs in the English language as *clumb*, *drug*, *drownded*, and *snuck*." Jacob Cloyd Tressler, *Junior English in Action, Book Two* 234 \(1956\).
+ - **1956:** "There are no such verbs in the English language as *clumb*, *drug*, *drownded*, and *snuck*." Jacob Cloyd Tressler, *Junior English in Action, Book Two* 234 \(1956\).
 
-• **1961:** "*Clumb*, *drug*, *drownded*, and *snuck* are never correct." *Heath Handbook of English* 50 \(1961\).
+ - **1961:** "*Clumb*, *drug*, *drownded*, and *snuck* are never correct." *Heath Handbook of English* 50 \(1961\).
 
-• **1977:** "**snuck.** Does the fairly widespread use of *snuck* as the past tense of *sneak* make it correct? Nope. One dictionary lists the word as if it were standard, but the others label it colloquial or dialectal or substandard. The label here would be at least substandard and more probably slang." Theodore M. Bernstein, *Dos, Don'ts, and Maybes of English Usage* 204 \(1977\).
+ - **1977:** "**snuck.** Does the fairly widespread use of *snuck* as the past tense of *sneak* make it correct? Nope. One dictionary lists the word as if it were standard, but the others label it colloquial or dialectal or substandard. The label here would be at least substandard and more probably slang." Theodore M. Bernstein, *Dos, Don'ts, and Maybes of English Usage* 204 \(1977\).
 
-• **1982:** "Am I the only one in the world who is horrified at the growing use of the word *snuck*? I seem to be on a one-woman crusade, and I'm losing badly. Everyone knows that the past tense of *peek* is not *puck*, so why do they think the past tense of *sneak* is *snuck*? Twice within this month I've seen the word in print, once in a national magazine, and I heard it on the radio the other day." Betty A. Bishop \(as quoted in William Safire, *What's the Good Word?* 108 \(1982\)\).
+ - **1982:** "Am I the only one in the world who is horrified at the growing use of the word *snuck*? I seem to be on a one-woman crusade, and I'm losing badly. Everyone knows that the past tense of *peek* is not *puck*, so why do they think the past tense of *sneak* is *snuck*? Twice within this month I've seen the word in print, once in a national magazine, and I heard it on the radio the other day." Betty A. Bishop \(as quoted in William Safire, *What's the Good Word?* 108 \(1982\)\).
 
-• **1995:** "*Snuck* is one of those words that you feel guilty in using \(instead of *sneaked*\) but which seem to express the situation so well. It has gained enough stature to be acceptable in informal usage, probably more in speaking than in writing, but use it cautiously." Don K. Ferguson, *Grammar Gremlins* 169 \(1995\).
+ - **1995:** "*Snuck* is one of those words that you feel guilty in using \(instead of *sneaked*\) but which seem to express the situation so well. It has gained enough stature to be acceptable in informal usage, probably more in speaking than in writing, but use it cautiously." Don K. Ferguson, *Grammar Gremlins* 169 \(1995\).
 
-• **1999:** "**sneak, sneaked, sneaking.** Never *snuck*." Allan M. Siegal & William G. Connolly, *The New York Times Manual of Style and Usage* 308 \(1999\).
+ - **1999:** "**sneak, sneaked, sneaking.** Never *snuck*." Allan M. Siegal & William G. Connolly, *The New York Times Manual of Style and Usage* 308 \(1999\).
 
-• **2001:** "Snuck up? . . . Here's a perfect example of a usage that has crept \(informally *creeped*\) up on us." William Safire, *Let a Simile Be Your Umbrella* 147 \(2001\).
+ - **2001:** "Snuck up? . . . Here's a perfect example of a usage that has crept \(informally *creeped*\) up on us." William Safire, *Let a Simile Be Your Umbrella* 147 \(2001\).
 
-• **2002:** "**sneaked** Preferred as past tense of *sneak*. Do not use the colloquial *snuck*." Norm Goldstein, *AP Stylebook* 232 \(2002\).
+ - **2002:** "**sneaked** Preferred as past tense of *sneak*. Do not use the colloquial *snuck*." Norm Goldstein, *AP Stylebook* 232 \(2002\).
 
-• **2005:** "*Snuck* . . . is now used by educated speakers in all regions. Formal written English is more conservative than other varieties, of course, and here *snuck* still meets with some resistance. In our 2001 survey, 61 percent of the Usage Panel preferred *sneaked* in the sentence *The pickpocket quietly \(sneaked/snuck\) up on his intended victim.* This was down slightly from 67 percent in our 1988 survey." *The American Heritage Guide to Contemporary Usage and Style* 435 \(2005\).
+ - **2005:** "*Snuck* . . . is now used by educated speakers in all regions. Formal written English is more conservative than other varieties, of course, and here *snuck* still meets with some resistance. In our 2001 survey, 61 percent of the Usage Panel preferred *sneaked* in the sentence *The pickpocket quietly \(sneaked/snuck\) up on his intended victim.* This was down slightly from 67 percent in our 1988 survey." *The American Heritage Guide to Contemporary Usage and Style* 435 \(2005\).
 
-• **2006:** "Your risk-free choice is *sneaked*, though *snuck* appears to be gaining some long-withheld respect. . . . Use *snuck* only with a playful wink." Mark Davidson, *Right, Wrong, and Risky* 487 \(2006\).
+ - **2006:** "Your risk-free choice is *sneaked*, though *snuck* appears to be gaining some long-withheld respect. . . . Use *snuck* only with a playful wink." Mark Davidson, *Right, Wrong, and Risky* 487 \(2006\).
 
-• **2018:** "While *snuck* may be inexorably on its way to acceptance, it's not there yet, and many conscientious writers and editors still avoid it. If you use it in conversation, you're not likely to attract notice, but if you use it in formal writing approximately a quarter of your readership will consider it a blunder or, at best, stylistic slumming." Charles Harrington Elster, *How to Tell Fate from Destiny* 254 \(2018\).
+ - **2018:** "While *snuck* may be inexorably on its way to acceptance, it's not there yet, and many conscientious writers and editors still avoid it. If you use it in conversation, you're not likely to attract notice, but if you use it in formal writing approximately a quarter of your readership will consider it a blunder or, at best, stylistic slumming." Charles Harrington Elster, *How to Tell Fate from Destiny* 254 \(2018\).
 
 After the year 2000 or so, *snuck* experienced a meteoric rise in frequency. It seems to have had phonemic appeal. Perhaps people liked the combination of the strong *sn* beginning \(think of *snivel*, *sneer*, *snout*, etc.\) and the strong *ck* ending \(think of *cluck*, *puck*, *stuck*, etc.\), as if the word has some sort of onomatopoeic character. Perhaps, too, the /uh/ sound in the middle of the word—which is often associated with something unworthy or unpleasant in one-syllable words \(think of *bum*, *funk*, *glut*, *grunt*, *muck*, *slut*, etc.\)—adds to the effect. The word might be considered phonemically perfect to denote furtive action.
 

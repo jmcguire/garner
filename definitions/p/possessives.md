@@ -24,13 +24,13 @@ Current ratio in print \(*Aeschylus' tragedy* vs. *Aeschylus's tragedy*\): 1.1:1
 
 Writers sometimes confound the singular and plural possessives, most commonly by misusing the singular for the plural—e.g.:
 
-• "Asses were ‘generally the property of the poor,' who used to keep them as beasts of burden and for their milk, which is more nutritious and closer to human milk than *cow's* \[read *cows'*\] milk is; in the 1750s, some London shops sold *ass's* \[read *asses'*\] milk, usually under the sign ‘Ass and Foal.' " Tony Fairman, "How the Ass Became a Donkey," 10 *English Today* 29, 34 \(1994\).
+ - "Asses were ‘generally the property of the poor,' who used to keep them as beasts of burden and for their milk, which is more nutritious and closer to human milk than *cow's* \[read *cows'*\] milk is; in the 1750s, some London shops sold *ass's* \[read *asses'*\] milk, usually under the sign ‘Ass and Foal.' " Tony Fairman, "How the Ass Became a Donkey," 10 *English Today* 29, 34 \(1994\).
 
-• "I don't much admire the *Wales's* \[read *Waleses'*\] taste in expensive schools." Peter Preston, "Good Schooling Is Just a Passing Fancy," *Guardian*, 16 June 1995, at 9. \(The reference was to the Prince and Princess of Wales.\)
+ - "I don't much admire the *Wales's* \[read *Waleses'*\] taste in expensive schools." Peter Preston, "Good Schooling Is Just a Passing Fancy," *Guardian*, 16 June 1995, at 9. \(The reference was to the Prince and Princess of Wales.\)
 
-• "Arielle found me in the *girl's bathroom* \[read *girls' bathroom* \(because it's a school bathroom\)\] on the floor, during my math class." Paige Love-Rose, *Beauty* 106 \(2011\).
+ - "Arielle found me in the *girl's bathroom* \[read *girls' bathroom* \(because it's a school bathroom\)\] on the floor, during my math class." Paige Love-Rose, *Beauty* 106 \(2011\).
 
-• "My family moved out of *the Jones's* \[read *the Joneses'*\] house within a year." Liz Kessler, "The Incredible Act of Kindness That Saved My Family from the Holocaust," *Express*, 26 Jan. 2021, at 28.
+ - "My family moved out of *the Jones's* \[read *the Joneses'*\] house within a year." Liz Kessler, "The Incredible Act of Kindness That Saved My Family from the Holocaust," *Express*, 26 Jan. 2021, at 28.
 
 Current ratio in print \(*the Joneses' house* vs. *\*the Jones's house*\): 2.2:1   
 Current ratio in print \(*the Collinses' house* vs. *\*the Collins's house*\): 3:1
@@ -43,11 +43,11 @@ Occasionally, an absolute possessive occurs when it shouldn't—usually in combi
 
 But this age-old idiom has appeared consistently since the days of Middle English. And it is widely approved:
 
-• "The double genitive \[i.e., double possessive\] is required whenever a word indicating ownership is placed after *of*. For example, *he found a bone of the dog's* and *he found a bone of the dog* mean different things; and *he found a toy of the child* is meaningless." *DCAU* at 142–43.
+ - "The double genitive \[i.e., double possessive\] is required whenever a word indicating ownership is placed after *of*. For example, *he found a bone of the dog's* and *he found a bone of the dog* mean different things; and *he found a toy of the child* is meaningless." *DCAU* at 142–43.
 
-• "By an old and well-established English idiom, sometimes called the double genitive, possession may be shown by two methods at the same time, by an *of*-phrase and by a possessive form of the substantive. ‘You are no friend of mine.' \[Possession is shown by the prepositional *of*-phrase and by the possessive form *mine*.\]" R.W. Pence & D.W. Emery, *A Grammar of Present-Day English* 345 \(2d ed. 1963\).
+ - "By an old and well-established English idiom, sometimes called the double genitive, possession may be shown by two methods at the same time, by an *of*-phrase and by a possessive form of the substantive. ‘You are no friend of mine.' \[Possession is shown by the prepositional *of*-phrase and by the possessive form *mine*.\]" R.W. Pence & D.W. Emery, *A Grammar of Present-Day English* 345 \(2d ed. 1963\).
 
-• "Using both the *s-* and *of*-genitives together is an English idiom of long and respectable standing. It is especially common in locutions beginning with *that* or *this* and usually has an informal flavor: ‘that boy of Henry's'; ‘friends of my father's'; ‘hobbies of Jack's.' It is useful in avoiding \[an\] ambiguity . . . : ‘Jane's picture' is resolved either as ‘the picture of Jane' or ‘the picture of Jane's.' " Porter G. Perrin, *Writer's Guide and Index to English* 625 \(Karl W. Dykema & Wilma R. Ebbitt eds., 4th ed. 1965\).
+ - "Using both the *s-* and *of*-genitives together is an English idiom of long and respectable standing. It is especially common in locutions beginning with *that* or *this* and usually has an informal flavor: ‘that boy of Henry's'; ‘friends of my father's'; ‘hobbies of Jack's.' It is useful in avoiding \[an\] ambiguity . . . : ‘Jane's picture' is resolved either as ‘the picture of Jane' or ‘the picture of Jane's.' " Porter G. Perrin, *Writer's Guide and Index to English* 625 \(Karl W. Dykema & Wilma R. Ebbitt eds., 4th ed. 1965\).
 
 The double possessive appears in good writing and typically causes no trouble. Occasionally, however, it can be improved on—e.g.: "Many *colleagues of Dr. Siegel's* \[read *of Dr. Siegel's colleagues*\] have said they were shocked by the allegations about a man whom they have long considered to be a reserved, somewhat academic person." Elisabeth Rosenthal, "Hospital Chief Denies Harassing Aide," *N.Y. Times*, 1 Sept. 1995, at A13.
 
@@ -76,9 +76,9 @@ Again: "At times *Mr. Levinson's and Mr. Link's script* \[read *Mr. Levinson and
 
 Other reputable writers have likewise been thrown off—e.g.:
 
-• "Plays of this kind had become very popular on the London stage, with dramas such as *Beaumont's and Fletcher's* \[read *Beaumont and Fletcher's*\] recent *Philaster* and the revival of the favourite *Mucedorus*." Peter Ackroyd, *Shakespeare* 481 \(2005\) \(they were coauthors\).
+ - "Plays of this kind had become very popular on the London stage, with dramas such as *Beaumont's and Fletcher's* \[read *Beaumont and Fletcher's*\] recent *Philaster* and the revival of the favourite *Mucedorus*." Peter Ackroyd, *Shakespeare* 481 \(2005\) \(they were coauthors\).
 
-• "Lipsey's and Light's paper \[read *Lipsey and Light's paper*\] competed fiercely for further market domination, starting a Sunday edition to go head to head with the \[*Buffalo*\] *Courier*\[*-News*\]." Margaret Sullivan, *Ghosting the News* 31 \(2020\). \(Lipsey was the publisher, Light the editor of a single Buffalo newspaper.\)
+ - "Lipsey's and Light's paper \[read *Lipsey and Light's paper*\] competed fiercely for further market domination, starting a Sunday edition to go head to head with the \[*Buffalo*\] *Courier*\[*-News*\]." Margaret Sullivan, *Ghosting the News* 31 \(2020\). \(Lipsey was the publisher, Light the editor of a single Buffalo newspaper.\)
 
 **F. Names as Adjectives.** When a proper name is used as an adjective, it isn't a possessive and therefore doesn't take an apostrophe. Hence "the Cubs \[not *Cubs'*\] game is at 1:00 today." The following example incorrectly uses an apostrophe because the name *Fields* \(referring to a single person\) is being used adjectivally: "One source who attended the fundraiser said it generated at least $50,000 for the *Fields'* \[read *Fields*\] campaign." "Scuttlebutt," *Gambit* \(New Orleans\), 14 Nov. 1995, at 8. With a title instead of a name, the apostrophe would be needed <the mayor's campaign>.
 
@@ -102,11 +102,11 @@ As always, there are exceptions—two of them. With a compound such as *mother-i
 
 **L. Units of Time or Value.** The idiomatic possessive should be used with periods of time and statements of worth—hence *30 days' notice* \(i.e., notice of 30 days\), *three days' time*, *20 dollars' worth*, and *several years' experience*. E.g.:
 
-• "Under Japanese law, 10 judges of the 15-member Supreme Court, the nation's top court, must be legal experts with at least *10 years experience* \[read *10 years' experience*\]." "Japanese Supreme Court May Soon Seat 1st Woman," *Ariz. Daily Star*, 15 Jan. 1994, at A2. In that sentence, of course, it would also be possible to write *with at least 10 years of experience*.
+ - "Under Japanese law, 10 judges of the 15-member Supreme Court, the nation's top court, must be legal experts with at least *10 years experience* \[read *10 years' experience*\]." "Japanese Supreme Court May Soon Seat 1st Woman," *Ariz. Daily Star*, 15 Jan. 1994, at A2. In that sentence, of course, it would also be possible to write *with at least 10 years of experience*.
 
-• "The three fashion-industry veterans with more than *80 years experience* \[read *80 years' experience*\] among them were clearly ready for a vacation." William Kissel, "Fashioning a Home," *Celebrated Living*, Fall 2002, at 54.
+ - "The three fashion-industry veterans with more than *80 years experience* \[read *80 years' experience*\] among them were clearly ready for a vacation." William Kissel, "Fashioning a Home," *Celebrated Living*, Fall 2002, at 54.
 
-• "Anyone found in possession of the drug risks up to *five years imprisonment* \[read *five years' imprisonment*\]." Daniel Keane, "Cannibis Use in Teenagers Linked to Premature Babies," *Independent*, 20 Aug. 2021, at 21.
+ - "Anyone found in possession of the drug risks up to *five years imprisonment* \[read *five years' imprisonment*\]." Daniel Keane, "Cannibis Use in Teenagers Linked to Premature Babies," *Independent*, 20 Aug. 2021, at 21.
 
 This usage was dealt a real setback in 2002 with the release of the hit movie *Two Weeks Notice* \[read *Two Weeks' Notice*\], starring Hugh Grant and Sandra Bullock. It might have been an even bigger hit if the good-usage crowd hadn't boycotted the movie on principle. Cf. *six months pregnant* under **pregnant**.
 

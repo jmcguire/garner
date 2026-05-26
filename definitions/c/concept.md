@@ -4,9 +4,9 @@ concept; **conception**. Both may mean "an abstract idea." *Conception* also mea
 
 True, *concept* is sometimes just a high-flown equivalent of *design*, *program*, *thought*, or *idea*—e.g.:
 
-• "That is good news for \[Senator\] Kerry, who was dragged kicking and screaming to the *concept* \[read *idea*\] of a long series of debates that began in April." Geeta Anand et al., "Defying Assumptions, Poll Shows Debates Helped Kerry with Voters," *Boston Globe*, 8 Sept. 1996, at B7.
+ - "That is good news for \[Senator\] Kerry, who was dragged kicking and screaming to the *concept* \[read *idea*\] of a long series of debates that began in April." Geeta Anand et al., "Defying Assumptions, Poll Shows Debates Helped Kerry with Voters," *Boston Globe*, 8 Sept. 1996, at B7.
 
-• "The basic *concept* \[read *idea*\] is to activate a string while lightly touching one of its nodes—a point where the string divides into fractional lengths." Muriel Anderson, "Sweeping Palm Harmonics," *Guitar Player*, Dec. 1996, at 146.
+ - "The basic *concept* \[read *idea*\] is to activate a string while lightly touching one of its nodes—a point where the string divides into fractional lengths." Muriel Anderson, "Sweeping Palm Harmonics," *Guitar Player*, Dec. 1996, at 146.
 
 But the word is becoming so commonplace that it has lost most of the original distinction.
 
@@ -14,9 +14,9 @@ When the purpose is to denote a cluster of design elements making up a unified t
 
 When the reference is to a way of conceiving or a manner of thought, as opposed to some straightforward idea, *conception* is the right word—e.g.:
 
-• "Economists are often too narrow or mechanical in their *conception* of risk, viewing it simply as the variance or standard deviation of the expected return." Charles Cathcart, "Broader Implications of the Information Age," *Global Investor*, Feb. 1996, at 42.
+ - "Economists are often too narrow or mechanical in their *conception* of risk, viewing it simply as the variance or standard deviation of the expected return." Charles Cathcart, "Broader Implications of the Information Age," *Global Investor*, Feb. 1996, at 42.
 
-• "Lincoln and King . . . both afford opportunity for fresh articulation of a radical neo-Anabaptist *conception* of citizenship." Charles Scriven, "Is Patriotism Good?," *Christian Century*, 22 Sept. 2021, at 38.
+ - "Lincoln and King . . . both afford opportunity for fresh articulation of a radical neo-Anabaptist *conception* of citizenship." Charles Scriven, "Is Patriotism Good?," *Christian Century*, 22 Sept. 2021, at 38.
 
-• "These movements would have considerable influence on Liszt in his *conception* of the Inferno of his Dante symphony." Andrew Thomson, "Proto-Modernist Visions of Tragedy and Damnation," *Musical Times*, 1 Oct. 2021, at 51.
+ - "These movements would have considerable influence on Liszt in his *conception* of the Inferno of his Dante symphony." Andrew Thomson, "Proto-Modernist Visions of Tragedy and Damnation," *Musical Times*, 1 Oct. 2021, at 51.
 

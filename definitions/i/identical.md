@@ -4,9 +4,9 @@ identical takes either *with* or *to*. Historically, *with* has been considered 
 
 The phrase *\*same identical*—more often heard than seen—is redundant. E.g.:
 
-• "From dawn to darkness they \[cult members\] lived *the same, identical,* \[read *identical*\] controlled lives." "Death of a Salesman," *Seattle Times*, 1 Apr. 1997, at B4.
+ - "From dawn to darkness they \[cult members\] lived *the same, identical,* \[read *identical*\] controlled lives." "Death of a Salesman," *Seattle Times*, 1 Apr. 1997, at B4.
 
-• "No one who has not traveled the *same identical* \[read *same*\] road could possibly know the mountains that were climbed, the blood, sweat and tears and the fear like punches in the gut constantly in a barrage that few professional fighters could or would tolerate." Patricia Tedesco, "Utica Community Was There When the Times Were Tough," *Observer-Dispatch* \(Utica, N.Y.\), 6 Aug. 2015, at A7.
+ - "No one who has not traveled the *same identical* \[read *same*\] road could possibly know the mountains that were climbed, the blood, sweat and tears and the fear like punches in the gut constantly in a barrage that few professional fighters could or would tolerate." Patricia Tedesco, "Utica Community Was There When the Times Were Tough," *Observer-Dispatch* \(Utica, N.Y.\), 6 Aug. 2015, at A7.
 
 Language-Change Index
 

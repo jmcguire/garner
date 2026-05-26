@@ -10,7 +10,7 @@ For the plural of the noun, the preferred pronunciation is /**prah**-ses-iz/ in 
 
 **B. *In the process of*.** This phrase never adds anything to the sentence in which it appears. You can safely omit it and thereby tighten your sentence—e.g.:
 
-• "I have on my desk a little manuscript from the fourteenth century written by an unknown author, which I am *in the process of* \[delete *in the process of*\] editing." Donald J. Lloyd, "Our National Mania for Correctness," in *A Linguistics Reader* 57, 58 \(Graham Wilson ed., 1967\).
+ - "I have on my desk a little manuscript from the fourteenth century written by an unknown author, which I am *in the process of* \[delete *in the process of*\] editing." Donald J. Lloyd, "Our National Mania for Correctness," in *A Linguistics Reader* 57, 58 \(Graham Wilson ed., 1967\).
 
-• "Appropriately for a community that was *in the process of* \[delete *in the process of*\] acquiring the sophistication of golf and drugs, this was not a case of a mean little robbery gone wrong but a thoroughly contemporary killing." Owen Harris, "A Long Time Between Murders," *Am. Scholar*, Winter 2001, at 71, 79.
+ - "Appropriately for a community that was *in the process of* \[delete *in the process of*\] acquiring the sophistication of golf and drugs, this was not a case of a mean little robbery gone wrong but a thoroughly contemporary killing." Owen Harris, "A Long Time Between Murders," *Am. Scholar*, Winter 2001, at 71, 79.
 

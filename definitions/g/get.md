@@ -4,11 +4,11 @@ get.
 
 **A. Generally.** *Get* is good English. Yet many writers want to avoid it because they consider it too informal; they prefer *obtain* or *procure*, two formal words. The same tendency is at work here that leads some writers to shun *before* in favor of *\*prior to*, *later* in favor of *\*subsequent to*, and the like. But confident, relaxed writers use the word *get* quite naturally—e.g.:
 
-• "It was until recently a civil offense, called ‘alienation of affections,' for which either spouse could *get* damages." Max Radin, *The Law and You* 54 \(1948\).
+ - "It was until recently a civil offense, called ‘alienation of affections,' for which either spouse could *get* damages." Max Radin, *The Law and You* 54 \(1948\).
 
-• "Duke was obviously referring to some of the conference championship teams or playoff winners that either *got* lucky or hot during the playoffs or played an unimpressive schedule to win a conference title and gain an automatic berth." Gordon S. White Jr., "N.C.A.A. Tourney Snubs Syracuse," *N.Y. Times*, 9 Mar. 1981, at C1.
+ - "Duke was obviously referring to some of the conference championship teams or playoff winners that either *got* lucky or hot during the playoffs or played an unimpressive schedule to win a conference title and gain an automatic berth." Gordon S. White Jr., "N.C.A.A. Tourney Snubs Syracuse," *N.Y. Times*, 9 Mar. 1981, at C1.
 
-• "People have told the Amherst couple to *get* divorced." Miriam Hill, "The Costs of Caring," *Plain Dealer* \(Cleveland\), 3 Feb. 1997, at D1.
+ - "People have told the Amherst couple to *get* divorced." Miriam Hill, "The Costs of Caring," *Plain Dealer* \(Cleveland\), 3 Feb. 1997, at D1.
 
 Although some pedants have contended that *get* must always mean "to obtain," any good dictionary will confirm that it has more than a dozen meanings, including "to become." So the second and third bulleted examples above are quite proper. And it's entirely acceptable to use such phrases as *get sick*, *get well*, *get rich*, and *get angry*.
 
@@ -18,11 +18,11 @@ Anthony Burgess noted the enormous versatility of *get*: "Foreign learner and na
 
 **C. *Have got* for *have* or *must*.** The phrase *have got*—often contracted \(as in *I've got*\)—has long been criticized as unnecessary for *have*. In fact, though, the phrasing with *got* adds emphasis and is perfectly idiomatic—e.g.:
 
-• "Most pathetic lyrics: The dumbest lyrics *have got* to be ‘Whose junkpile or Chevelle is this? You boys come here to race or just kiss?' from '455 Rocket.' " Kathy Mattea, "In Sync," *Richmond Times-Dispatch*, 21 Mar. 1997, at E11.
+ - "Most pathetic lyrics: The dumbest lyrics *have got* to be ‘Whose junkpile or Chevelle is this? You boys come here to race or just kiss?' from '455 Rocket.' " Kathy Mattea, "In Sync," *Richmond Times-Dispatch*, 21 Mar. 1997, at E11.
 
-• "For this offense to work, *he's got* to be able to do more than dump the ball off desperately to his receivers." Michael Wilbon, "Latest Effort Leaves a Lot to Be Desired," *Wash. Post*, 6 Oct. 1997, at C1.
+ - "For this offense to work, *he's got* to be able to do more than dump the ball off desperately to his receivers." Michael Wilbon, "Latest Effort Leaves a Lot to Be Desired," *Wash. Post*, 6 Oct. 1997, at C1.
 
-• "That's pretty cool, but as an Ohio boy, *I've got* to go with the Fighting Irish in this one." Michael Beaven, "Sports Sage Knows All and Sees All for Week 1," *Akron Beacon J.*, 27 Aug. 2015, at C1.
+ - "That's pretty cool, but as an Ohio boy, *I've got* to go with the Fighting Irish in this one." Michael Beaven, "Sports Sage Knows All and Sees All for Week 1," *Akron Beacon J.*, 27 Aug. 2015, at C1.
 
 The *OED*, under *get* \(33a\), has examples of *have got* from the early 1600s onward. It cites Shakespeare's play *The Merchant of Venice* \(1600\): "What a beard thou hast got" \(2.2.89\). Swift and Ruskin are also cited. Jespersen adds Disraeli, Dickens, Eliot, Wilde, Shaw, Wells, Trollope. Although the *OED* once called it "colloquial or vulgar," Albert H. Marckwardt and Fred Walcott declared \(in light of the strong authorial evidence as of the 1930s\) that it's good literary English. *Facts About Current English Usage* 29 \(1938\).
 

@@ -11,9 +11,9 @@ Current ratio in print \(*Nowadays* vs. *Anymore* as first word in sentence\): 1
 
 **B. And *any more*.** AmE has developed this distinction: while the solid *anymore* conveys a temporal sense <they don't eat there anymore>, *any more* conveys a sense of comparing quantities <I don't want any more tea, thank you> or degrees <I don't like it any more than you do>. Sometimes even careful writers muddle this distinction—e.g.:
 
-• "*Peruse* . . . is not a word we use very often *any more* \[read *anymore*\]." *Merriam-Webster's Concise Dictionary of English Usage* 584 \(2002\).
+ - "*Peruse* . . . is not a word we use very often *any more* \[read *anymore*\]." *Merriam-Webster's Concise Dictionary of English Usage* 584 \(2002\).
 
-• "By Fowler's time it apparently was not so rare *any more* \[read *anymore*\], and it is not at all rare today." *Ibid.* at 630.
+ - "By Fowler's time it apparently was not so rare *any more* \[read *anymore*\], and it is not at all rare today." *Ibid.* at 630.
 
 In BrE, the nuance hasn't taken hold: the two-word *any more* tends to serve both functions.
 

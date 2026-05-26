@@ -6,11 +6,11 @@ As a reference to the site of the former World Trade Center, *ground zero* might
 
 As in the example just quoted, it is common to hear and read phrases such as *start from ground zero* and *back to ground zero* where the meaning is *start from scratch* or *back to square one*. In these phrases, using *ground zero* is ill-advised because \(1\) a ready-made phrase is already at hand \(either of the substitutes just mentioned\), \(2\) the sense of destruction is wholly absent, and \(3\) the phrases seem to trivialize the 2001 devastation of lower Manhattan, with which the phrase is now so closely associated—e.g.:
 
-• "Members of the Orchard Park Village Board held out hope Monday that planning for the Orchard Downs site at the village's heart might not be back *at ground zero* \[read *to the drawing board*\]." Elmer Ploetz, "Board Hopeful for Project at Four Corners Site," *Buffalo News*, 14 Aug. 2001, at C3.
+ - "Members of the Orchard Park Village Board held out hope Monday that planning for the Orchard Downs site at the village's heart might not be back *at ground zero* \[read *to the drawing board*\]." Elmer Ploetz, "Board Hopeful for Project at Four Corners Site," *Buffalo News*, 14 Aug. 2001, at C3.
 
-• "It starts at *ground zero* \[read *square one*\] and helps you develop routines you can do on your own." Lowell E. Sunderland, "Fitness Is Not Just for Fanatics," *Baltimore Sun*, 7 Apr. 2002, at B3.
+ - "It starts at *ground zero* \[read *square one*\] and helps you develop routines you can do on your own." Lowell E. Sunderland, "Fitness Is Not Just for Fanatics," *Baltimore Sun*, 7 Apr. 2002, at B3.
 
-• "Baer knew he didn't have to start from *ground zero* \[read *scratch*\]." David Wooks, "Irish Defense Ahead of the Offense," *Indianapolis Star*, 29 Apr. 2002, at C6.
+ - "Baer knew he didn't have to start from *ground zero* \[read *scratch*\]." David Wooks, "Irish Defense Ahead of the Offense," *Indianapolis Star*, 29 Apr. 2002, at C6.
 
 Language-Change Index
 

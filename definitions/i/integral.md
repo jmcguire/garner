@@ -4,9 +4,9 @@ integral; **integrant**. The second is a needless variant of the first as an adj
 
 *Integral* /**in**-tә-grәl/ is often misspelled *\*intergral*—e.g.:
 
-• "Before long the slender, shy immigrant became an *intergral* \[read *integral*\] part of the New York art scene." Amy Sutherland, "When Yasuo Kuniyoshi Was Still Plain Folk," *Portland Press Herald*, 26 Jan. 1997, at E1.
+ - "Before long the slender, shy immigrant became an *intergral* \[read *integral*\] part of the New York art scene." Amy Sutherland, "When Yasuo Kuniyoshi Was Still Plain Folk," *Portland Press Herald*, 26 Jan. 1997, at E1.
 
-• "The 24-year-old has been an *intergral* \[read *integral*\] part of the Seagulls." Adam Stenning, "How Albion's Best Piece of Business Was Not an Incomings," *Argus* \(U.K.\), 1 Sept. 2021, Sports §.
+ - "The 24-year-old has been an *intergral* \[read *integral*\] part of the Seagulls." Adam Stenning, "How Albion's Best Piece of Business Was Not an Incomings," *Argus* \(U.K.\), 1 Sept. 2021, Sports §.
 
 Avoid also the mispronunciation /in-**teg**-rәl/.
 

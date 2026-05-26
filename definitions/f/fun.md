@@ -6,17 +6,17 @@ For speakers who consider *fun* in *This is fun* to be a predicate adjective, it
 
 R.W. Burchfield notes that "in serious writing, it \(so far\) lacks a comparative and a superlative" \(*FMEU3* at 318\). That may be true of serious writing, but not of spoken AmE \(especially among those born after 1970 or so\)—e.g.:
 
-• " ‘It's always *funner*,' says 13-year-old Jeff Oehrlein, ‘to be where the parents aren't.' " Mary Battiata, "The Friday Night Ice Age," *Wash. Post*, 6 Dec. 1982, at B1.
+ - " ‘It's always *funner*,' says 13-year-old Jeff Oehrlein, ‘to be where the parents aren't.' " Mary Battiata, "The Friday Night Ice Age," *Wash. Post*, 6 Dec. 1982, at B1.
 
-• " ‘You've got to be super-aggressive and ride just a hair over your head without blowing it,' agrees Mike Cotes, 42, a Spokane condominium maintenance man who won the Masters Amateur category last year. ‘It's pretty intimidating to do it. Once you get comfortable with it, it's the "*funnest*" thing to do.' " Fiona Cohen, "Legendary Banked Slalom Preview," *Bellingham Herald* \(Wash.\), 6 Feb. 2003, at B1.
+ - " ‘You've got to be super-aggressive and ride just a hair over your head without blowing it,' agrees Mike Cotes, 42, a Spokane condominium maintenance man who won the Masters Amateur category last year. ‘It's pretty intimidating to do it. Once you get comfortable with it, it's the "*funnest*" thing to do.' " Fiona Cohen, "Legendary Banked Slalom Preview," *Bellingham Herald* \(Wash.\), 6 Feb. 2003, at B1.
 
-• " ‘It definitely wasn't one of the *funner* games I have ever played in,' Duke freshman J.J. Redick said after making only three of 12 shots." Tim Peeler, "Duke Gets Ugly Win in ‘Man's Game,' " *News & Record* \(Greensboro\), 10 Feb. 2003, at C1.
+ - " ‘It definitely wasn't one of the *funner* games I have ever played in,' Duke freshman J.J. Redick said after making only three of 12 shots." Tim Peeler, "Duke Gets Ugly Win in ‘Man's Game,' " *News & Record* \(Greensboro\), 10 Feb. 2003, at C1.
 
 The *NOAD* records *funner* and *funnest* as informal. Some writers use them seriously—e.g.:
 
-• "This year, he was the guy everybody but Bob Huggins wanted to replace with Chadd Moore, the faster, *funner* \[read *more fun*\] freshman." Lonnie Wheeler, "Barker Reason Bearcats Are 13–3," *Cincinnati Post*, 7 Jan. 2003, at C1.
+ - "This year, he was the guy everybody but Bob Huggins wanted to replace with Chadd Moore, the faster, *funner* \[read *more fun*\] freshman." Lonnie Wheeler, "Barker Reason Bearcats Are 13–3," *Cincinnati Post*, 7 Jan. 2003, at C1.
 
-• "This is the simplest, arguably *funnest* \[read *most fun*\], fondue of all—particularly for kids." "Do You Fondue?," *Wash. Post*, 12 Feb. 2003, Food §, at 4.
+ - "This is the simplest, arguably *funnest* \[read *most fun*\], fondue of all—particularly for kids." "Do You Fondue?," *Wash. Post*, 12 Feb. 2003, Food §, at 4.
 
 The linguist Steven Pinker has been quoted as saying that he "can tell whether people are under or over thirty years old by whether they're willing to accept *fun* as a full-fledged adjective. \[‘Boomers allow *fun* to have a few adjective privileges, and slackers allow it to have most or all of them, including modification by *so* and comparative *-er* and *-est* forms.'\]" Barbara Wallraff, *Word Court* 87 \(2000\).
 

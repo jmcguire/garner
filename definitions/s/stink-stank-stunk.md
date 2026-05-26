@@ -2,11 +2,11 @@
 
 stink > stank > stunk. So inflected. *\*Stinked* is a dialectal past tense and past participle \(see dialect). *Stunk* often appears erroneously as a simple-past form, especially in figurative uses—e.g.:
 
-• "When I coached, the calls *stunk* \[read *stank*\] then and the calls stink now." Howard Manly, "Patriots, Ch. 4 Winners," *Boston Globe*, 8 Dec. 1998, at E5.
+ - "When I coached, the calls *stunk* \[read *stank*\] then and the calls stink now." Howard Manly, "Patriots, Ch. 4 Winners," *Boston Globe*, 8 Dec. 1998, at E5.
 
-• "The Patriots *stunk* \[read *stank*\]." Steve Buckley, "Blow a Gasket, Pete," *Boston Herald*, 28 Dec. 1998, at 100.
+ - "The Patriots *stunk* \[read *stank*\]." Steve Buckley, "Blow a Gasket, Pete," *Boston Herald*, 28 Dec. 1998, at 100.
 
-• "Your timing *stunk* \[read *stank*\]." David Landis, "Beat the Street," *Kiplinger's Personal Fin. Mag.*, 1 Feb. 2003, at 56.
+ - "Your timing *stunk* \[read *stank*\]." David Landis, "Beat the Street," *Kiplinger's Personal Fin. Mag.*, 1 Feb. 2003, at 56.
 
 See irregular verbs.
 

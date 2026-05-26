@@ -8,11 +8,11 @@ This one isn't: "The *site* \[read *sight*\], therefore, of Fudge stepping out o
 
 The phrase *set one's sights* is a set phrase with its origins in gunmanship. It means "to aim at" or "to have as one's ambition." Writers sometimes mangle the phrase, most commonly by writing *sites* for *sights*—e.g.:
 
-• "He set his *sites* \[read *sights*\] on a law career early." Scott Fornek, "Inner-City Success Story Turns Tragic," *Chicago Sun-Times*, 20 Sept. 1994, at 3.
+ - "He set his *sites* \[read *sights*\] on a law career early." Scott Fornek, "Inner-City Success Story Turns Tragic," *Chicago Sun-Times*, 20 Sept. 1994, at 3.
 
-• "Miller and Laura lost their re-election bids in November and will be replaced by Republican commissioners who had set their *sites* \[read *sights*\] on eliminating Harrison's job." Hector Gutierrez, "Golden Manager to Get Extra Severance Pay," *Rocky Mountain News* \(Denver\), 25 Dec. 1996, at A36.
+ - "Miller and Laura lost their re-election bids in November and will be replaced by Republican commissioners who had set their *sites* \[read *sights*\] on eliminating Harrison's job." Hector Gutierrez, "Golden Manager to Get Extra Severance Pay," *Rocky Mountain News* \(Denver\), 25 Dec. 1996, at A36.
 
-• "The defeat of British troops by the Mahdists in the Sudan in the 1880s encouraged Belgian king Leopold II and French expansionists to set their *sites* \[read *sights*\] on the Nile Valley." Richard A. Bradshaw, "Central African Republic: Nineteenth Century: Gbaya, Banda, and Zande," in 1 *Encyclopedia of African History* 398, 399 \(Kevin Shillington ed., 2013\).
+ - "The defeat of British troops by the Mahdists in the Sudan in the 1880s encouraged Belgian king Leopold II and French expansionists to set their *sites* \[read *sights*\] on the Nile Valley." Richard A. Bradshaw, "Central African Republic: Nineteenth Century: Gbaya, Banda, and Zande," in 1 *Encyclopedia of African History* 398, 399 \(Kevin Shillington ed., 2013\).
 
 Cf. **sight unseen**. For other errors with *site*, see **cite**, n. \(b\).
 

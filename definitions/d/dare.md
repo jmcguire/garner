@@ -10,21 +10,21 @@ dare.
 
 **D. Past Forms.** As a modal verb, *dare* raises an interesting question of tense: in reference to past time, should one write \(1\) *Although challenged to do it, he dare not*, or \(2\) *Although challenged to do it, he dared not*? *OED2* endorses the first and calls the second "careless," but that advice was written when that part of the great dictionary was published in 1894 \(and the dandy but now archaic *durst* was still available—see \(e\)\). More recent grammarians are more lenient—e.g.:
 
-• **1924:** " ‘Dare' in the sense of ‘challenge' has formed a new past tense *dared* . . . as ‘He *dared* not go.' " J.C. Nesfield, *English Grammar Past and Present* 355 \(rev. ed. 1924; repr. 1948\).
+ - **1924:** " ‘Dare' in the sense of ‘challenge' has formed a new past tense *dared* . . . as ‘He *dared* not go.' " J.C. Nesfield, *English Grammar Past and Present* 355 \(rev. ed. 1924; repr. 1948\).
 
-• **1957:** "We may say *I do not dare* and *do you dare?*, or we may use the older forms and say *I dare not* and *dare you?* Some grammarians feel that this is license enough and object when the new forms are used in the old construction, that is, without the *to* of the infinitive, as in *he dares go*, *he dared go*, *I don't dare go*. . . . But the best writers and speakers have not agreed with them." *DCAU* at 126.
+ - **1957:** "We may say *I do not dare* and *do you dare?*, or we may use the older forms and say *I dare not* and *dare you?* Some grammarians feel that this is license enough and object when the new forms are used in the old construction, that is, without the *to* of the infinitive, as in *he dares go*, *he dared go*, *I don't dare go*. . . . But the best writers and speakers have not agreed with them." *DCAU* at 126.
 
-• **1985:** "As a modal, *dare* exhibits abnormal time reference in that it can be used, without inflection, for past as well as present time: ‘The king was so hot-tempered that no one *dare* tell him the bad news.' The main verb form *dared \(to\)* might also occur here." Randolph Quirk et al., *A Comprehensive Grammar of the English Language* § 3.42, at 138 \(1985\).
+ - **1985:** "As a modal, *dare* exhibits abnormal time reference in that it can be used, without inflection, for past as well as present time: ‘The king was so hot-tempered that no one *dare* tell him the bad news.' The main verb form *dared \(to\)* might also occur here." Randolph Quirk et al., *A Comprehensive Grammar of the English Language* § 3.42, at 138 \(1985\).
 
-• **1985:** "The marginal modal auxiliary *dare* has a past form *dared* <esp. BrE>." *Ibid.* § 10.68, at 797 n.\(b\).
+ - **1985:** "The marginal modal auxiliary *dare* has a past form *dared* <esp. BrE>." *Ibid.* § 10.68, at 797 n.\(b\).
 
 These more modern grammarians' analyses are borne out by actual usage—e.g.:
 
-• "A male screener wanded the woman's breasts—twice, even though a female screener was hanging around just steps away; the angry husband said he *dared not* complain lest they miss their flight." Edwin Black, "Travel Security," *Chicago Trib.*, 2 Dec. 2001, at 1.
+ - "A male screener wanded the woman's breasts—twice, even though a female screener was hanging around just steps away; the angry husband said he *dared not* complain lest they miss their flight." Edwin Black, "Travel Security," *Chicago Trib.*, 2 Dec. 2001, at 1.
 
-• "Mayo said he *dared not* declare it a little blue heron without confirmation from others." Steve Grant, "Bird Count Turns Up a Few Surprises," *Hartford Courant*, 23 Dec. 2001, at B1.
+ - "Mayo said he *dared not* declare it a little blue heron without confirmation from others." Steve Grant, "Bird Count Turns Up a Few Surprises," *Hartford Courant*, 23 Dec. 2001, at B1.
 
-• "Another of their quirks is a proclivity for skinny-dipping—something they *dared not* attempt at the beaches around Flinders." David Wroe, "Fridge Magnet Car Attracts the Curious," *The Age*, 31 Dec. 2001, at 4.
+ - "Another of their quirks is a proclivity for skinny-dipping—something they *dared not* attempt at the beaches around Flinders." David Wroe, "Fridge Magnet Car Attracts the Curious," *The Age*, 31 Dec. 2001, at 4.
 
 It is odd, however, to see the past-tense form in the set phrase *how dare you*—e.g.: " ‘How *dared* you\!' Jon shouted, waving his arms for emphasis. ‘That dish was ours, the property of the entire Order\! How *dared* you even *think* to appropriate it for your own uses\!' " Patricia C. Wrede, *Mairelon the Magician* 91 \(1991\). Most writers and editors would insist on making those phrases *How dare you\!* See \(f\).
 

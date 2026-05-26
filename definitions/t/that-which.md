@@ -6,11 +6,11 @@ But when *that* has an antecedent, *that which* is needed—e.g.: "The best fina
 
 When *that* becomes, in plural, *those*, the second word in this construction may be either *which* or *that*. But *that* is better because the relative pronoun is restrictive—e.g.:
 
-• "The Florida task force could \[investigate\] a variety of creatures, including *those that* cause poisonous red tides in salt water." Steve Patterson, "Task Force to Examine Toxic Algae," *Fla. Times-Union*, 9 Oct. 1997, at B1.
+ - "The Florida task force could \[investigate\] a variety of creatures, including *those that* cause poisonous red tides in salt water." Steve Patterson, "Task Force to Examine Toxic Algae," *Fla. Times-Union*, 9 Oct. 1997, at B1.
 
-• "Why are the ‘cool' annuals *those which* \[read *those that*\] are expensive, hard to get and harder to grow?" Ann Lovejoy, "When It Comes to Annual Plants, Sometimes What's Less Gives More," *Seattle Post-Intelligencer*, 9 Oct. 1997, at E3.
+ - "Why are the ‘cool' annuals *those which* \[read *those that*\] are expensive, hard to get and harder to grow?" Ann Lovejoy, "When It Comes to Annual Plants, Sometimes What's Less Gives More," *Seattle Post-Intelligencer*, 9 Oct. 1997, at E3.
 
-• "Deep-sea species tend to grow more slowly than *those which live* \[read *those that live* or *those living*\] near the surface." "Fisheries: Drawing the Line," *Economist*, 5 Sept. 2015, at 63.
+ - "Deep-sea species tend to grow more slowly than *those which live* \[read *those that live* or *those living*\] near the surface." "Fisheries: Drawing the Line," *Economist*, 5 Sept. 2015, at 63.
 
 We use *that which* in the singular because *that that* is intolerably awkward, but in the plural *those that* isn't awkward at all.
 

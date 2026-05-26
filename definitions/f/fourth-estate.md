@@ -4,7 +4,7 @@ fourth estate \(= the journalistic profession; the news media\) was coined as a 
 
 Today, of course, this system of classifying estates is obsolete, but the term *fourth estate* is still commonly used, especially to indicate the media's extraordinary influence on politics—e.g.:
 
-• " ‘But now journalists make more than the people they are covering, and the *fourth estate* has become a conservative elite.' " "Culture, Et Cetera," *Wash. Times*, 31 Dec. 1996, at A2 \(quoting John F. Kennedy Jr.\).
+ - " ‘But now journalists make more than the people they are covering, and the *fourth estate* has become a conservative elite.' " "Culture, Et Cetera," *Wash. Times*, 31 Dec. 1996, at A2 \(quoting John F. Kennedy Jr.\).
 
-• "Don't stop reading. This isn't just another journalist spouting off about the public's right to know or the role of the *fourth estate*." Mickie Valente, "What This Verdict May Mean to You," *Tampa Trib.*, 23 Jan. 1997, Bus. & Fin. §, at 1.
+ - "Don't stop reading. This isn't just another journalist spouting off about the public's right to know or the role of the *fourth estate*." Mickie Valente, "What This Verdict May Mean to You," *Tampa Trib.*, 23 Jan. 1997, Bus. & Fin. §, at 1.
 

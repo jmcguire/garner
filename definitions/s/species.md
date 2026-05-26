@@ -6,11 +6,11 @@ Some writers erroneously make *specie* a singular of *species*—e.g.: "The shru
 
 And sometimes people mistake *species* for *sex*—e.g.:
 
-• "And she was on the whole glad she didn't have to play the scene in which her co-star, Patsy Kensit, is attacked by moths, which required her to have ‘rubber rings impregnated with female sex pheromones' sewn into her dress to attract the sex-starved *male species* \[read *males*\]." Sheila Johnston, "Terrifying, Brittle, Arrogant, Icy," *Independent*, 7 Dec. 1995, Features §, at 10.
+ - "And she was on the whole glad she didn't have to play the scene in which her co-star, Patsy Kensit, is attacked by moths, which required her to have ‘rubber rings impregnated with female sex pheromones' sewn into her dress to attract the sex-starved *male species* \[read *males*\]." Sheila Johnston, "Terrifying, Brittle, Arrogant, Icy," *Independent*, 7 Dec. 1995, Features §, at 10.
 
-• "In an annual ritual, pollen released by the males drifts through the air until it reaches the *female species of tree* \[read *female of this species* or *female trees*\]." Linda Weiford, "High Tree-Pollen Counts Hammer the Allergic," *Anchorage Daily News*, 8 June 1997, at A1.
+ - "In an annual ritual, pollen released by the males drifts through the air until it reaches the *female species of tree* \[read *female of this species* or *female trees*\]." Linda Weiford, "High Tree-Pollen Counts Hammer the Allergic," *Anchorage Daily News*, 8 June 1997, at A1.
 
-• "Beach volleyball has become one of the most popular Olympic sports, especially for the male-dominated TV audience. Some would crudely suggest that it's the uniforms. I have a higher opinion of *the male species* \[read *men*\] than that." Mark McCarter, "Sights, Sounds, Sand," *Huntsville Times* \(Ala.\), 14 Aug. 2008, at D1.
+ - "Beach volleyball has become one of the most popular Olympic sports, especially for the male-dominated TV audience. Some would crudely suggest that it's the uniforms. I have a higher opinion of *the male species* \[read *men*\] than that." Mark McCarter, "Sights, Sounds, Sand," *Huntsville Times* \(Ala.\), 14 Aug. 2008, at D1.
 
 The pronunciation is /**spee**-sheez/ or /**spee**-seez/. Cf. **genus**.
 

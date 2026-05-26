@@ -6,11 +6,11 @@ Writers occasionally use *shined* where *shone* is the word they want—e.g.: "A
 
 Still others confuse *shone* with *shown*—e.g.:
 
-• "As March turns into April, there are houses here where it has been weeks since the sun has *shown* \[read *shone*\] through the windows, so high are the snowbanks." Lorna Colquhoun, "Winter Just Won't Quit," *Union Leader* \(Manchester, N.H.\), 31 Mar. 1997, at A1.
+ - "As March turns into April, there are houses here where it has been weeks since the sun has *shown* \[read *shone*\] through the windows, so high are the snowbanks." Lorna Colquhoun, "Winter Just Won't Quit," *Union Leader* \(Manchester, N.H.\), 31 Mar. 1997, at A1.
 
-• "The lights *shown* \[read *shone*\] bright and sparkly blue in the picture window." John Przybys, "Christmas Memories," *Las Vegas Rev.-J.*, 24 Dec. 2000, at J1.
+ - "The lights *shown* \[read *shone*\] bright and sparkly blue in the picture window." John Przybys, "Christmas Memories," *Las Vegas Rev.-J.*, 24 Dec. 2000, at J1.
 
-• "I feel such a deep gratitude for the light *shown* \[read *shone*\] forth in you, this church." Stephen Goyer, "Tragedy, Prayer and the Power of God," *Charlotte Observer*, 13 Aug. 2001, at A11.
+ - "I feel such a deep gratitude for the light *shown* \[read *shone*\] forth in you, this church." Stephen Goyer, "Tragedy, Prayer and the Power of God," *Charlotte Observer*, 13 Aug. 2001, at A11.
 
 Rarely, a writer will slip the other way and spell *shown* as *shone*—e.g.: "Former No. 1 Pick *Shone* \[read *Shown*\] to Sonic Door." Headline, *Seattle Post-Intelligencer*, 1 Nov. 1996, at E6. See irregular verbs.
 

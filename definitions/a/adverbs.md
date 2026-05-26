@@ -10,11 +10,11 @@ Traditional grammars classify words like *around*, *down*, *in*, *off*, *on*, *o
 
 Some books on writing tell people, with a striking absoluteness, to avoid adverbs—e.g.:
 
-• **1979:** "Write with nouns and verbs, not with adjectives and adverbs." William Strunk Jr. & E.B. White, *The Elements of Style* 71 \(3d ed. 1979\).
+ - **1979:** "Write with nouns and verbs, not with adjectives and adverbs." William Strunk Jr. & E.B. White, *The Elements of Style* 71 \(3d ed. 1979\).
 
-• **1980:** "Most adverbs are unnecessary." William Zinsser, *On Writing Well* 102 \(2d ed. 1980\). \(Note the adverb in his title\!\)
+ - **1980:** "Most adverbs are unnecessary." William Zinsser, *On Writing Well* 102 \(2d ed. 1980\). \(Note the adverb in his title\!\)
 
-• **2000:** "I believe the road to hell is paved with adverbs, and I will shout it from the rooftops." Stephen King, *On Writing* 124–25 \(2000\).
+ - **2000:** "I believe the road to hell is paved with adverbs, and I will shout it from the rooftops." Stephen King, *On Writing* 124–25 \(2000\).
 
 This drumbeat of advice is badly overdrawn. The commonest adverbs are so frequent that abstaining completely would make your writing very strange indeed.
 
@@ -24,13 +24,13 @@ A strange case of the phobia is provided by Justice Anthony Kennedy, who once sa
 
 This curious position led Justice Kennedy, over several decades of writing for the Supreme Court, to adopt roundabout wordings, often using four words in place of a single adverb—e.g.:
 
-• "Laws restricting commercial speech . . . need only be tailored *in a reasonable manner* \[read *reasonably*\] to serve a substantial state interest." *Edenfield v. Fane*, 507 U.S. 761, 767 \(1993\). \[Another possible edit: *Laws restricting commercial speech must be reasonably tailored to serve a substantial state interest*.\]
+ - "Laws restricting commercial speech . . . need only be tailored *in a reasonable manner* \[read *reasonably*\] to serve a substantial state interest." *Edenfield v. Fane*, 507 U.S. 761, 767 \(1993\). \[Another possible edit: *Laws restricting commercial speech must be reasonably tailored to serve a substantial state interest*.\]
 
-• "The second important governmental interest *furthered in a substantial manner* \[read *substantially furthered*\] by § 1409\(a\)\(4\) is the determination to ensure that the child and the citizen parent have some demonstrated opportunity . . . ." *Nguyen v. INS*, 533 U.S. 53, 64–65 \(2001\).
+ - "The second important governmental interest *furthered in a substantial manner* \[read *substantially furthered*\] by § 1409\(a\)\(4\) is the determination to ensure that the child and the citizen parent have some demonstrated opportunity . . . ." *Nguyen v. INS*, 533 U.S. 53, 64–65 \(2001\).
 
-• "The habeas corpus statute . . . \[was\] *recently amended in a substantial manner* \[read *substantially amended most recently*\] by the Antiterrorism and Effective Death Penalty Act of 1996." *Miller-El v. Cockrell*, 537 U.S. 322, 326 \(2003\).
+ - "The habeas corpus statute . . . \[was\] *recently amended in a substantial manner* \[read *substantially amended most recently*\] by the Antiterrorism and Effective Death Penalty Act of 1996." *Miller-El v. Cockrell*, 537 U.S. 322, 326 \(2003\).
 
-• "It has been the Court's approach to interpret the term *in a consistent manner* \[read *consistently*\]." *CRST Van Expedited, Inc. v. EEOC*, 578 U.S. 419, 435 \(2016\).
+ - "It has been the Court's approach to interpret the term *in a consistent manner* \[read *consistently*\]." *CRST Van Expedited, Inc. v. EEOC*, 578 U.S. 419, 435 \(2016\).
 
 In doggedly pursuing this strange practice, Kennedy introduced many blemishes into his writing.
 
@@ -46,31 +46,31 @@ Professor Trimble gives a good counterbalance to all the naysaying about this di
 
 Many writers fall into awkward, unidiomatic sentences when they misguidedly refuse to put an adverb between the auxiliary and the main verb. A clause-modifying adverb is ideally placed just after the first auxiliary verb: *is ideally placed*—not *ideally is placed.* Some writers think that the separation of a verb phrase is akin to the so-called split infinitive. It is not. As H.W. Fowler explained long ago, when a clause with one or more auxiliary verbs preceding the main verb is modified by an adverb, "its normal place is between the auxiliary \(or sometimes the first auxiliary if there are two or more\) and the rest." \(*FMEU1* at 448.\) Not only is there no objection to this placement, he stresses, "but any other position for the adverb requires special justification. *I have never seen her*, not *I never have seen her*, is the ordinary idiom" \(*Ibid.*\). Many authorities over more than two centuries have agreed on this point:
 
-• **1782:** "\[The adverb\] frequently stands between the auxiliary and the verb, as ‘He . . . *was attentively heard* by the whole audience.' " Robert Lowth, *A Short Introduction to English Grammar* 135 \(rev. ed. 1782\).
+ - **1782:** "\[The adverb\] frequently stands between the auxiliary and the verb, as ‘He . . . *was attentively heard* by the whole audience.' " Robert Lowth, *A Short Introduction to English Grammar* 135 \(rev. ed. 1782\).
 
-• **1852:** "Those \[adverbs\] . . . which belong to compound verbs, are commonly placed after the first auxiliary." Goold Brown, *The Institutes of English Grammar* 167 \(rev. ed. 1852\).
+ - **1852:** "Those \[adverbs\] . . . which belong to compound verbs, are commonly placed after the first auxiliary." Goold Brown, *The Institutes of English Grammar* 167 \(rev. ed. 1852\).
 
-• **1938:** "When the tense of a transitive verb is compound, the adverb follows the first auxiliary if the verb is in the active voice \[e.g., *the boy has always obeyed his father*\], and immediately precedes the principal verb if the verb is in the passive voice \[e.g., *the house can be quickly built*\]." Josephine Turck Baker, *Correct English: Complete Grammar and Drill Book* 180 \(1938\).
+ - **1938:** "When the tense of a transitive verb is compound, the adverb follows the first auxiliary if the verb is in the active voice \[e.g., *the boy has always obeyed his father*\], and immediately precedes the principal verb if the verb is in the passive voice \[e.g., *the house can be quickly built*\]." Josephine Turck Baker, *Correct English: Complete Grammar and Drill Book* 180 \(1938\).
 
-• **1942:** "In a compound verb \(*have seen*\) with an adverb, that adverb comes between the auxiliary and the participle \(‘I have *never* seen her'\); or, if there are two or more auxiliaries, immediately after the first auxiliary \(‘I have *always* been intending to go to Paris'\); that order is changed only to obtain emphasis, as in ‘I never have seen her' \(with stress on ‘have'\) . . . . There is, however, a tendency to move an adverb from its rightful and natural position for inadequate reasons, as in ‘Oxford must *heartily* be congratulated.' " Eric Partridge, *U&A* at 224.
+ - **1942:** "In a compound verb \(*have seen*\) with an adverb, that adverb comes between the auxiliary and the participle \(‘I have *never* seen her'\); or, if there are two or more auxiliaries, immediately after the first auxiliary \(‘I have *always* been intending to go to Paris'\); that order is changed only to obtain emphasis, as in ‘I never have seen her' \(with stress on ‘have'\) . . . . There is, however, a tendency to move an adverb from its rightful and natural position for inadequate reasons, as in ‘Oxford must *heartily* be congratulated.' " Eric Partridge, *U&A* at 224.
 
-• **1945:** "When there is a compound verb form, it is usual to put the adverb between the auxiliary and the main verb. ‘I have always wanted to do so.' ‘He has rarely failed us.' " W.P. Jowett, *Chatting About English* 184 \(1945\).
+ - **1945:** "When there is a compound verb form, it is usual to put the adverb between the auxiliary and the main verb. ‘I have always wanted to do so.' ‘He has rarely failed us.' " W.P. Jowett, *Chatting About English* 184 \(1945\).
 
-• **1952:** "Barring the infinitive, verb groups should be split . . . . In verb groups formed by parts of the verbs ‘be,' ‘have,' ‘do,' ‘can,' ‘may,' and ‘must,' adverbs are best placed immediately before the main verb." R.G. Ralph, *Put It Plainly* 60 \(1952\).
+ - **1952:** "Barring the infinitive, verb groups should be split . . . . In verb groups formed by parts of the verbs ‘be,' ‘have,' ‘do,' ‘can,' ‘may,' and ‘must,' adverbs are best placed immediately before the main verb." R.G. Ralph, *Put It Plainly* 60 \(1952\).
 
-• **1963:** "Because of their misconception as to what a split infinitive really is, some have reached the erroneous conclusion that an adverbial modifier must never be placed between parts of a compound verb phrase, with the result that they write in such an eccentric style as ‘I greatly have been disappointed' instead of writing naturally ‘I have been greatly disappointed.' " R.W. Pence & D.W. Emery, *A Grammar of Present-Day English* 320 n.69 \(1963\).
+ - **1963:** "Because of their misconception as to what a split infinitive really is, some have reached the erroneous conclusion that an adverbial modifier must never be placed between parts of a compound verb phrase, with the result that they write in such an eccentric style as ‘I greatly have been disappointed' instead of writing naturally ‘I have been greatly disappointed.' " R.W. Pence & D.W. Emery, *A Grammar of Present-Day English* 320 n.69 \(1963\).
 
-• **1965:** "The truth is that more often than not the proper and natural place for an adverb is between the parts of a compound verb." Theodore M. Bernstein, *The Careful Writer* 26 \(1965\).
+ - **1965:** "The truth is that more often than not the proper and natural place for an adverb is between the parts of a compound verb." Theodore M. Bernstein, *The Careful Writer* 26 \(1965\).
 
-• **1966:** "With a compound verb—that is, one made with an auxiliary and a main verb—the adverb comes between auxiliary and main verb \(*He will probably telephone before starting* / *I have often had that thought myself* / *The clock is consistently losing five minutes a day*\)." Wilson Follett, *MAU* at 53.
+ - **1966:** "With a compound verb—that is, one made with an auxiliary and a main verb—the adverb comes between auxiliary and main verb \(*He will probably telephone before starting* / *I have often had that thought myself* / *The clock is consistently losing five minutes a day*\)." Wilson Follett, *MAU* at 53.
 
-• **1975:** "There is a frequent need to link an adverb with a compound verb \(‘I *have always been*'\), and the regular place for the modifier is shown in the example." Jacques Barzun, *Simple & Direct* 63 \(1975\).
+ - **1975:** "There is a frequent need to link an adverb with a compound verb \(‘I *have always been*'\), and the regular place for the modifier is shown in the example." Jacques Barzun, *Simple & Direct* 63 \(1975\).
 
 But confusion on this point is all but ubiquitous. The result is an unidiomatic, unnatural style—e.g.:
 
-• "Circuit judges *currently are elected* \[read *are currently elected*\] in countywide races." Michael R. Zahn, "Two Veteran Judges Favor District System to Elect More Minority Judges," *Milwaukee J. Sentinel*, 18 Oct. 1994, at A1.
+ - "Circuit judges *currently are elected* \[read *are currently elected*\] in countywide races." Michael R. Zahn, "Two Veteran Judges Favor District System to Elect More Minority Judges," *Milwaukee J. Sentinel*, 18 Oct. 1994, at A1.
 
-• "Capitalistic economies *easily can adjust* \[read *can easily adjust*\] to more unequal distributions of purchasing power." Lester C. Thurow, "Inequalities in Wealth a Political, Not Economic Problem," *USA Today*, 23 Nov. 1999, at A19 \(also asserting that "policies . . . *easily could be designed* \[read either *could easily be designed* or *could be easily designed*\]"\).
+ - "Capitalistic economies *easily can adjust* \[read *can easily adjust*\] to more unequal distributions of purchasing power." Lester C. Thurow, "Inequalities in Wealth a Political, Not Economic Problem," *USA Today*, 23 Nov. 1999, at A19 \(also asserting that "policies . . . *easily could be designed* \[read either *could easily be designed* or *could be easily designed*\]"\).
 
 In the following example, the first adverb is awkwardly placed and the second is right: "If you're doing serious research, possibly for a college course, then you *already have* \[read *have already*\] begun \(or will *soon* begin to involve yourself in\) Internet research." H. Eric Branscomb, *Casting Your Net* 1 \(2000\).
 

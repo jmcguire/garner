@@ -6,9 +6,9 @@ mantle; **mantel**. *Mantle* means, among other things, "a loose robe." It is fr
 
 The two are subject to word-swapping, each sometimes being misused for the other—e.g.:
 
-• "With key veterans like Byron Scott and Kenny Gattison gone from the inaugural season team, the *mantel* \[read *mantle*\] of leadership fell to Anthony and Edwards." Gary Kingston, "Toothless Grizzlies Look for Leadership to Spark Next Season," *Vancouver Sun*, 19 Apr. 1997, at C1.
+ - "With key veterans like Byron Scott and Kenny Gattison gone from the inaugural season team, the *mantel* \[read *mantle*\] of leadership fell to Anthony and Edwards." Gary Kingston, "Toothless Grizzlies Look for Leadership to Spark Next Season," *Vancouver Sun*, 19 Apr. 1997, at C1.
 
-• "That's where he hopes to get that intercepted pass that will finally go on his *mantle* \[read *mantel*\]." Jonathan Jones, "Undrafted Rookie Dean Marlowe Trying to Latch on with Carolina Panthers," *Charlotte Observer*, 30 Aug. 2015, Sports §.
+ - "That's where he hopes to get that intercepted pass that will finally go on his *mantle* \[read *mantel*\]." Jonathan Jones, "Undrafted Rookie Dean Marlowe Trying to Latch on with Carolina Panthers," *Charlotte Observer*, 30 Aug. 2015, Sports §.
 
 Language-Change Index
 

@@ -6,11 +6,11 @@ By contrast, *180 degrees* from one direction is the opposite direction. In the 
 
 Sometimes writers turn the idiom too far, referring absurdly to a *\*360-degree turnaround*, which would logically denote "full circle" or \(to change the geometrical metaphor\) "back to square one"—e.g.:
 
-• "\[Christina\] Aguilera, when she wasn't dressed as a wannabe New Orleans hooker for the ‘Lady Marmalade' performance, did a *360-degree* \[read *180-degree*\] turn from last year's Grammy fashion fiasco." Monica L. Haynes, "O J-Lo, Where Art Thou?," *Pitt. Post-Gaz.*, 28 Feb. 2002, at D1.
+ - "\[Christina\] Aguilera, when she wasn't dressed as a wannabe New Orleans hooker for the ‘Lady Marmalade' performance, did a *360-degree* \[read *180-degree*\] turn from last year's Grammy fashion fiasco." Monica L. Haynes, "O J-Lo, Where Art Thou?," *Pitt. Post-Gaz.*, 28 Feb. 2002, at D1.
 
-• "For many rock fans, the ‘alternative rock' music scene out there today is quite disappointing—the music sounds too manufactured and fake and isn't very original. The Used is a *360-degree* \[read *180-degree*\] turn from all of this." Melissa Ortiz, "A Utah Alternative," *Buffalo News*, 13 Nov. 2002, at N4.
+ - "For many rock fans, the ‘alternative rock' music scene out there today is quite disappointing—the music sounds too manufactured and fake and isn't very original. The Used is a *360-degree* \[read *180-degree*\] turn from all of this." Melissa Ortiz, "A Utah Alternative," *Buffalo News*, 13 Nov. 2002, at N4.
 
-• "\[Joe\] McCarthy, arguably the top boys basketball player in the 1A North Star League, has done a *360-degree* \[read *180-degree*\] turnaround since arriving in Clark Fork in November 2000." Greg Lee, "New Spin on Life," *Spokesman Rev.* \(Spokane\), 16 Jan. 2003, at C1.
+ - "\[Joe\] McCarthy, arguably the top boys basketball player in the 1A North Star League, has done a *360-degree* \[read *180-degree*\] turnaround since arriving in Clark Fork in November 2000." Greg Lee, "New Spin on Life," *Spokesman Rev.* \(Spokane\), 16 Jan. 2003, at C1.
 
 See illogic.
 

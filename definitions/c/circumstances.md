@@ -14,9 +14,9 @@ Current ratio in print \(*under the circumstances* vs. *in the circumstances*\):
 
 **B. *\*Surrounding circumstances*.** This phrase, which is about as common in BrE as it is in AmE, has been stigmatized as a redundancy on etymological grounds. The *OED* confirms this, noting that *circumstance* derives from the Latin *circumstantia* "standing around, surrounding condition." In AmE, it appears most commonly in legal contexts, though not exclusively so. The phrase shows no signs of disappearing—e.g.:
 
-• "The emotional and physical shock of giving birth, as well as other *surrounding circumstances* \[read *circumstances*\], led doctors to believe that Kraft was not responsible for stabbing her child." Heather Wiese, "From ‘Attempted Murder' to Misdemeanor," *Des Moines Register*, 17 Oct. 1996, Metro Iowa §, at 4.
+ - "The emotional and physical shock of giving birth, as well as other *surrounding circumstances* \[read *circumstances*\], led doctors to believe that Kraft was not responsible for stabbing her child." Heather Wiese, "From ‘Attempted Murder' to Misdemeanor," *Des Moines Register*, 17 Oct. 1996, Metro Iowa §, at 4.
 
-• "We try to distinguish saves by *surrounding circumstances* \[read *all the circumstances*\]. We include the size of the score, the length of time pitched, and the presumed difficulty of the situation." Leonard Koppett, "Call the 'Pen, Baseball, to Salvage Saves," *Seattle Post-Intelligencer*, 2 Aug. 2002, at C5.
+ - "We try to distinguish saves by *surrounding circumstances* \[read *all the circumstances*\]. We include the size of the score, the length of time pitched, and the presumed difficulty of the situation." Leonard Koppett, "Call the 'Pen, Baseball, to Salvage Saves," *Seattle Post-Intelligencer*, 2 Aug. 2002, at C5.
 
 **C. *In some circumstances*.** This phrase is wordy for *sometimes*. First popular in the 1600s, it waned in the 1800s and then surged in the 1900s—in both AmE and BrE. But that's no recommendation of it.
 

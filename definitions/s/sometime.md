@@ -6,9 +6,9 @@ sometime.
 
 Each is sometimes misused for the other and has been for quite some time—e.g.:
 
-• "I spent *sometime* \[read *some time*\] searching for new or pre-construction apartments that would work out to under 33 percent of what the average household makes in Miami." Ricardo Mor, "Can an Average Joe Find a Place Around Here?," *Miami Herald*, 19 Aug. 2015, Opinion §.
+ - "I spent *sometime* \[read *some time*\] searching for new or pre-construction apartments that would work out to under 33 percent of what the average household makes in Miami." Ricardo Mor, "Can an Average Joe Find a Place Around Here?," *Miami Herald*, 19 Aug. 2015, Opinion §.
 
-• "They heard about a plan to have the district's gifted program studied and evaluated by a nationally recognized educator *some time* \[read *sometime*\] this school year." Susan Snyder, "ASD Schools to Try Out Uniforms," *Morning Call* \(Allentown, Pa.\), 4 Oct. 1996, at A1.
+ - "They heard about a plan to have the district's gifted program studied and evaluated by a nationally recognized educator *some time* \[read *sometime*\] this school year." Susan Snyder, "ASD Schools to Try Out Uniforms," *Morning Call* \(Allentown, Pa.\), 4 Oct. 1996, at A1.
 
 Language-Change Index
 

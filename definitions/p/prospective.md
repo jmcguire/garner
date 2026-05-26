@@ -4,9 +4,9 @@ prospective; **perspective**. *Prospective* \(adj.\) = \(1\) likely to become <p
 
 Misusing *perspective* for *prospective* amounts to a malapropism—e.g.:
 
-• "Manis is expected to call 1,500 *perspective* \[read *prospective*\] jurors, or more than three times the usual number for a case, to look for 12 unbiased jurors." Lee Mungin, "Al-Amin Case," *Atlanta J.-Const.*, 6 Jan. 2003, at D1.
+ - "Manis is expected to call 1,500 *perspective* \[read *prospective*\] jurors, or more than three times the usual number for a case, to look for 12 unbiased jurors." Lee Mungin, "Al-Amin Case," *Atlanta J.-Const.*, 6 Jan. 2003, at D1.
 
-• "A jury questionnaire will help prosecutors and defense lawyers determine if the *perspective* \[read *prospective*\] jurors have predisposed biases in the case." Andy Nelesen, "Hill Trial in Toddler's Death Set for Monday," *Green Bay Press-Gaz.*, 16 Feb. 2003, at B7. \(On the use of *if* in that sentence, see **if \(a\)**.)
+ - "A jury questionnaire will help prosecutors and defense lawyers determine if the *perspective* \[read *prospective*\] jurors have predisposed biases in the case." Andy Nelesen, "Hill Trial in Toddler's Death Set for Monday," *Green Bay Press-Gaz.*, 16 Feb. 2003, at B7. \(On the use of *if* in that sentence, see **if \(a\)**.)
 
 Language-Change Index
 

@@ -6,9 +6,9 @@ people.
 
 Consider these examples:
 
-• "Some *persons* take delight in the felicities of language." Lester S. King, *Why Not Say It Clearly* 81 \(1978\).
+ - "Some *persons* take delight in the felicities of language." Lester S. King, *Why Not Say It Clearly* 81 \(1978\).
 
-• "Of course, some *persons* do not consider the National Lawyers Guild respectable." Ellsworth Barnard, *English for Everybody* 21 \(1979\).
+ - "Of course, some *persons* do not consider the National Lawyers Guild respectable." Ellsworth Barnard, *English for Everybody* 21 \(1979\).
 
 To the modern reader or speaker, these sentences seem a little unnatural or strained. By 1871 in BrE and 1883 in AmE, the collocation *some people* was more common in print sources than *some persons*. It's understandable why the Associated Press and *The New York Times* recommend using *people* over *persons* except in quotations and in set phrases \(e.g., *Missing Persons Bureau*, *third persons*\).
 

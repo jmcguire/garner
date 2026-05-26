@@ -4,11 +4,11 @@ above.
 
 **A. Meaning "more than" or "longer than.**" Although *over* has come to be accepted in these senses, *above* should be restricted to informal contexts. It's a casualism when used before a plural noun—e.g.:
 
-• "Now, the RBI has allowed only the incentive of one percent for one-year deposits, 1.5 percent for two-year deposits and two percent for deposits *above two years* \[read *of two years or more* or *of longer than two years*\]." "NBFCs Allowed to Reimburse Part of Broker's Expenses," *Econ. Times*, 3 Oct. 1996, at 8. Cf. **over \(a\)**.
+ - "Now, the RBI has allowed only the incentive of one percent for one-year deposits, 1.5 percent for two-year deposits and two percent for deposits *above two years* \[read *of two years or more* or *of longer than two years*\]." "NBFCs Allowed to Reimburse Part of Broker's Expenses," *Econ. Times*, 3 Oct. 1996, at 8. Cf. **over \(a\)**.
 
-• "A recent survey of New York City restaurants showed that only 12 percent had seating capacity *above* \[read *for more than*\] 200 people." Terry Fiedler, "Restaurants," *Star Trib.* \(Minneapolis\), 22 Apr. 1998, at D1.
+ - "A recent survey of New York City restaurants showed that only 12 percent had seating capacity *above* \[read *for more than*\] 200 people." Terry Fiedler, "Restaurants," *Star Trib.* \(Minneapolis\), 22 Apr. 1998, at D1.
 
-• "The data shows the vast majority of users in Wales were men with *above* nine out of ten users being men in nearly every town." "Almost 3,000 Joined Adultery Website," *S. Wales Evening Post*, 24 Aug. 2015, at 2. \(A possible revision: *The data show that over 90% of Welsh users were men.*\)
+ - "The data shows the vast majority of users in Wales were men with *above* nine out of ten users being men in nearly every town." "Almost 3,000 Joined Adultery Website," *S. Wales Evening Post*, 24 Aug. 2015, at 2. \(A possible revision: *The data show that over 90% of Welsh users were men.*\)
 
 Language-Change Index
 

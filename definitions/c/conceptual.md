@@ -4,9 +4,9 @@ conceptual; **conceptualistic; conceptional; conceptive**. These words are very 
 
 When not simply a needless variant of *conceptual*, the word *conceptional* serves as the adjective corresponding to a different kind of conception—namely, fertilizing an egg—e.g.:
 
-• "It is not easy to reconcile this attitude with the papal concession of some kinds of anti-*conceptional* measures." Glanville Williams, *The Sanctity of Life and the Criminal Law* 69 \(1957; repr. 1972\).
+ - "It is not easy to reconcile this attitude with the papal concession of some kinds of anti-*conceptional* measures." Glanville Williams, *The Sanctity of Life and the Criminal Law* 69 \(1957; repr. 1972\).
 
-• "Retardation of neuronal maturation in premature infants was compared with term infants of the same post-*conceptional* age." Naomi Breslau et al., "Psychiatric Sequelae of Low Birth Weight at 6 Years of Age," 24 *J. Abnormal Child Psychology* 385 \(1996\).
+ - "Retardation of neuronal maturation in premature infants was compared with term infants of the same post-*conceptional* age." Naomi Breslau et al., "Psychiatric Sequelae of Low Birth Weight at 6 Years of Age," 24 *J. Abnormal Child Psychology* 385 \(1996\).
 
 To be sure, though, the word is often misused—e.g.: "Two \[board members saw\] the vote as the approval to see *conceptional* \[read *conceptual*\] designs the firm had with no financial obligations." Jordan Meier, "School Board Takes First Steps," *Morning Sun* \(Pittsburg, Kan.\), 16 June 2021, News §.
 

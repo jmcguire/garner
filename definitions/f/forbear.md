@@ -6,15 +6,15 @@ forbear /fohr-**bair**/, v.t.; **forebear** /**fohr**-bair/, n. Though unrelated
 
 *Forbear* is occasionally misused for *forebear*—e.g.:
 
-• "You should also be alert for literate members of society in the areas where your *forbears* \[read *forebears*\] resided." Lloyd Bockstruck, "Genealogists Owe Debt to South Carolina Record Keeper," *Dallas Morning News*, 17 Dec. 1994, at C13.
+ - "You should also be alert for literate members of society in the areas where your *forbears* \[read *forebears*\] resided." Lloyd Bockstruck, "Genealogists Owe Debt to South Carolina Record Keeper," *Dallas Morning News*, 17 Dec. 1994, at C13.
 
-• "The founding fathers of cyberspace . . . , like their *forbears* \[read *forebears*\], were almost exclusively white, male, middle-aged and privileged." Peter H. Lewis, "Technology," *N.Y. Times*, 28 Aug. 1995, at D3.
+ - "The founding fathers of cyberspace . . . , like their *forbears* \[read *forebears*\], were almost exclusively white, male, middle-aged and privileged." Peter H. Lewis, "Technology," *N.Y. Times*, 28 Aug. 1995, at D3.
 
 The opposite error, though less common, also occurs—e.g.:
 
-• "The governor scrupulously *forebore* \[read *forbore*\] to notice Mark Green in 1986 and could barely conceal his hostility to Robert Abrams in 1992." Murray Kempton, "Can D'Amato Save Cuomo?," *Newsday* \(N.Y.\), 26 Oct. 1994, at A16.
+ - "The governor scrupulously *forebore* \[read *forbore*\] to notice Mark Green in 1986 and could barely conceal his hostility to Robert Abrams in 1992." Murray Kempton, "Can D'Amato Save Cuomo?," *Newsday* \(N.Y.\), 26 Oct. 1994, at A16.
 
-• "An agreement was made to *forebear* \[read *forbear*\] the interest and principal from August 2014 until June 30, 2015." Stanley Dunlap, "Macon-Bibb Officials Approve Blight Funding Split with a Last-Minute Change," *Macon Telegraph*, 22 July 2015, at 580.
+ - "An agreement was made to *forebear* \[read *forbear*\] the interest and principal from August 2014 until June 30, 2015." Stanley Dunlap, "Macon-Bibb Officials Approve Blight Funding Split with a Last-Minute Change," *Macon Telegraph*, 22 July 2015, at 580.
 
 See word-swapping.
 

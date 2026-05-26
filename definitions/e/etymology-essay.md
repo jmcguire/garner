@@ -4,13 +4,13 @@ Etymology .
 
 **A. English Etymology Generally.** Etymology is the study of word derivations. Understanding etymology often leads to a greater appreciation of linguistic nuances. For example, knowing the history of words such as the following can open up vistas:
 
-• *abominable*, L. *ab-* "off, away from" \+ *ominari* "to prophesy, forebode"—hence "being an evil omen."
+ - *abominable*, L. *ab-* "off, away from" \+ *ominari* "to prophesy, forebode"—hence "being an evil omen."
 
-• *exorbitant*, L. *ex-* "out of, away from" \+ *orbita* "wheel track"—hence "off track" or "out of line."
+ - *exorbitant*, L. *ex-* "out of, away from" \+ *orbita* "wheel track"—hence "off track" or "out of line."
 
-• *inoculate*, L. *in-* "into" \+ *oculus* "eye \(i.e., ‘bud,' as in eye of a potato\)"—hence to graft a bud from one plant to another, where it will continue to grow. The sense of implanting germs to produce immunity from a disease dates from the early 1700s.
+ - *inoculate*, L. *in-* "into" \+ *oculus* "eye \(i.e., ‘bud,' as in eye of a potato\)"—hence to graft a bud from one plant to another, where it will continue to grow. The sense of implanting germs to produce immunity from a disease dates from the early 1700s.
 
-• *symposium*, Gk. *syn-* "together" \+ *posis* "a drink." The term was extended from "a drinking party" to "a convivial meeting for intellectual stimulation," and then was extended further to "a collection of articles published together on a given topic."
+ - *symposium*, Gk. *syn-* "together" \+ *posis* "a drink." The term was extended from "a drinking party" to "a convivial meeting for intellectual stimulation," and then was extended further to "a collection of articles published together on a given topic."
 
 Learning the classical roots and prefixes of English words—as by studying Donald M. Ayers's *English Words from Latin and Greek Elements* \(Thomas D. Worthen ed., 2d ed. 1986\)—will certainly repay the effort.
 
@@ -67,11 +67,11 @@ In specialized writing, a knowledge of classical languages is especially helpful
 
 **C. Etymological Awareness.** Through wide reading and a conscious sensitivity to words and their origins, good writers become aware of etymological associations that may escape others. Ignorance of etymologies can easily lead writers astray, as when a journalist gave the label *holocaust* \(Gk. "burnt whole"\) to a flood. Following are sentences in which writers wandered into etymological bogs:
 
-• "The right to exclude or to expel aliens in war or in peace is an inherent and *inalienable* right of every independent nation." \(The root *alien*- causes problems when we say that a country has an *inalienable* right to exclude *aliens.*\)
+ - "The right to exclude or to expel aliens in war or in peace is an inherent and *inalienable* right of every independent nation." \(The root *alien*- causes problems when we say that a country has an *inalienable* right to exclude *aliens.*\)
 
-• "What we are concerned with here is the automobile and its *peripatetic* \[= able to walk up and down, not just *itinerant*\] character."
+ - "What we are concerned with here is the automobile and its *peripatetic* \[= able to walk up and down, not just *itinerant*\] character."
 
-• "This is a result which, if at all possible *consonant* \[lit., "sounding together"\] with *sound* judicial policy, should be avoided."
+ - "This is a result which, if at all possible *consonant* \[lit., "sounding together"\] with *sound* judicial policy, should be avoided."
 
 In the first and third specimens, an incongruous repetition of the root sense occurs; in the second, the writer has insensitively abstracted and broadened a word still ineluctably tied to its root sense. Cf. sound of prose & verbal awareness.
 

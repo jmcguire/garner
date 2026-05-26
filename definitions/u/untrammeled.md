@@ -6,11 +6,11 @@ The traditional sense can be stretched too far—e.g.: "A wilderness, in contras
 
 Unfortunately, and perhaps because of its sanction in that statute, this new "green" sense of *untrammeled* is trampling on the word's traditional sense—e.g.:
 
-• "\[Sara\] Thomas understands the love of *untrammeled* \[read *wilderness*\] spaces." Sharon Gittleman, "Livingston County: Observers to Peek at Wilderness Habitat," *Detroit Free Press*, 13 May 2007, News §, at 4.
+ - "\[Sara\] Thomas understands the love of *untrammeled* \[read *wilderness*\] spaces." Sharon Gittleman, "Livingston County: Observers to Peek at Wilderness Habitat," *Detroit Free Press*, 13 May 2007, News §, at 4.
 
-• "The Hudson River School artists typically painted landscapes *untrammeled* \[read *untouched*\] by man." Roy Proctor, "New River Views," *Richmond Times-Dispatch*, 17 June 2007, at G12.
+ - "The Hudson River School artists typically painted landscapes *untrammeled* \[read *untouched*\] by man." Roy Proctor, "New River Views," *Richmond Times-Dispatch*, 17 June 2007, at G12.
 
-• "The two senior Vauxes live on an idyllic spread at Lloyd's Neck, surrounded by *untrammeled* \[read *untrampled*? *unspoiled*?\] countryside." Ariella Budick, "Their Home Is Where the Art Is," *Newsday* \(N.Y.\), 20 June 2007, at B6.
+ - "The two senior Vauxes live on an idyllic spread at Lloyd's Neck, surrounded by *untrammeled* \[read *untrampled*? *unspoiled*?\] countryside." Ariella Budick, "Their Home Is Where the Art Is," *Newsday* \(N.Y.\), 20 June 2007, at B6.
 
 Language-Change Index
 

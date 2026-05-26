@@ -2,9 +2,9 @@
 
 swing > swung > swung. So inflected. The dialectal *\*swang* has occurred sporadically in print since the 1700s. It persists—e.g.:
 
-• "One of \[the boys\] *swang* \[read *swung*\] erratically, topping his ball, which rattled a few yards along the grass and disappeared into a drainage ditch." Don Gillmor, "Scot on the Rocks," *Sun-Sentinel* \(Ft. Lauderdale\), 27 Feb. 1994, at J1.
+ - "One of \[the boys\] *swang* \[read *swung*\] erratically, topping his ball, which rattled a few yards along the grass and disappeared into a drainage ditch." Don Gillmor, "Scot on the Rocks," *Sun-Sentinel* \(Ft. Lauderdale\), 27 Feb. 1994, at J1.
 
-• "As the youngster performed the \[baseball\] drill, he *swang* \[read *swung*\] away." Rich Kaipust, "Mavs Lose Pair to Injuries," *Omaha World-Herald*, 7 Apr. 1998, Sports §, at 30.
+ - "As the youngster performed the \[baseball\] drill, he *swang* \[read *swung*\] away." Rich Kaipust, "Mavs Lose Pair to Injuries," *Omaha World-Herald*, 7 Apr. 1998, Sports §, at 30.
 
 See dialect.
 

@@ -178,43 +178,43 @@ The following list of archaisms, with modern translations to the right, hints at
 
 Up to the 1600s, the *-eth* suffix was merely an alternative third-person singular inflection for an English verb. Used primarily in southern England, it had, by the end of that century, become obsolete. *She calls* and *he answers* took the place of *she calleth* and *he answereth*. Some writers, straining for an archaic literary touch, use this suffix with no regard to whether the subject is singular or plural. The following title illustrates this tendency: Bill Rogers, "The Bowls *Overfloweth* \[read *Overflow*\]," *Canyon News* \(Tex.\), 25 Dec. 1994, at 9 \(referring to the football bowls\). This use of *-eth* with a plural subject has become lamentably common—e.g.:
 
-• William F. Powers, "The Friendly Faces *Giveth*, the Fine Print *Taketh* Away," *Wash. Post*, 13 July 1993, at D1 \(the singular use of *taketh* with *print* is correct here\).
+ - William F. Powers, "The Friendly Faces *Giveth*, the Fine Print *Taketh* Away," *Wash. Post*, 13 July 1993, at D1 \(the singular use of *taketh* with *print* is correct here\).
 
-• "They *giveth* legroom, and they *taketh* away." Barbara Ann Curcio, "Worldwise," *Wash. Post*, 5 June 1994, at E3.
+ - "They *giveth* legroom, and they *taketh* away." Barbara Ann Curcio, "Worldwise," *Wash. Post*, 5 June 1994, at E3.
 
-• "What the travel Gods *taketh* away, they sometimes *giveth* back." Alan Reinhart, "Taking Advantage of Life on the Road," *Nat'l Dragster*, 28 Aug. 2015, at 22.
+ - "What the travel Gods *taketh* away, they sometimes *giveth* back." Alan Reinhart, "Taking Advantage of Life on the Road," *Nat'l Dragster*, 28 Aug. 2015, at 22.
 
 Sometimes the second-person *-est* appears in the third person or even the first person—e.g.:
 
-• "Whither *goest* the sport of boxing these days?" Bill Dwyre, "Arum's Next Big Promotion Definitely Goes the Distance," *L.A. Times*, 10 Aug. 2013, Sports §, at 2.
+ - "Whither *goest* the sport of boxing these days?" Bill Dwyre, "Arum's Next Big Promotion Definitely Goes the Distance," *L.A. Times*, 10 Aug. 2013, Sports §, at 2.
 
-• "These silver linings provided balm to some, while the editorial writers and columnists—as always—worried aloud: Whither we *goest* into this nuclear night?" Bob Hill, "A Glimpse of News and Views at the Dawn of the Atomic Age of World War II," *Courier-J.* \(Louisville\), 3 Aug. 1995, at B1.
+ - "These silver linings provided balm to some, while the editorial writers and columnists—as always—worried aloud: Whither we *goest* into this nuclear night?" Bob Hill, "A Glimpse of News and Views at the Dawn of the Atomic Age of World War II," *Courier-J.* \(Louisville\), 3 Aug. 1995, at B1.
 
 Sometimes an error creeps in from the mangling of a set phrase. A famous quotation from Shakespeare's *Hamlet*, for example, is that "the lady doth protest too much" \(3.2.230\). Translate this to the first person and you have: "Perhaps *I* *doth* protest too much; it's just that the players' timing could have been better managed, methinks." Stephen Foster, "Case of Awkward Timing?," *Roanoke Times*, 8 Aug. 1995, NRV §, at 2. That's equivalent to saying *I does*.
 
 A similar example appears in the phrase *the ice man cometh*, from Eugene O'Neill's play by that name. Refer instead to *men*—or to some other plural noun—and you make a hash of the phrase or at best an inept allusion:
 
-• "The tax men *cometh*." Mary Ann Galante, "More Tax Audits Due as FBI Adds to County Force," *L.A. Times* \(Orange County ed.\), 21 May 1987, § 4, at 1.
+ - "The tax men *cometh*." Mary Ann Galante, "More Tax Audits Due as FBI Adds to County Force," *L.A. Times* \(Orange County ed.\), 21 May 1987, § 4, at 1.
 
-• "Tickets are hot in Denver now that they know the ice men \[i.e., hockey players\] *cometh*." "Icy Reception May Await in Nashville," *Boston Globe*, 25 June 1995, at 94.
+ - "Tickets are hot in Denver now that they know the ice men \[i.e., hockey players\] *cometh*." "Icy Reception May Await in Nashville," *Boston Globe*, 25 June 1995, at 94.
 
-• "Cometh the hour, *cometh* the brothers." Adam Lusher, "Jeremy Corbyn Wants to Run the Country. His Brother Wants to Control the Weather," *Independent*, 29 Aug. 2015, at 8 \(the use of *cometh* with *hour* is correct here\).
+ - "Cometh the hour, *cometh* the brothers." Adam Lusher, "Jeremy Corbyn Wants to Run the Country. His Brother Wants to Control the Weather," *Independent*, 29 Aug. 2015, at 8 \(the use of *cometh* with *hour* is correct here\).
 
 Even when the writer gets the grammar right, it's not very heartening because the archaism makes the sentence ring false—e.g.:
 
-• "But *doth* Nippon see through the wooden masks of a Noh drama—slow, plotless, and mistily symbolic?" James W. Scott, "Ad 1995," *Kansas City Star*, 1 July 1995, at C6.
+ - "But *doth* Nippon see through the wooden masks of a Noh drama—slow, plotless, and mistily symbolic?" James W. Scott, "Ad 1995," *Kansas City Star*, 1 July 1995, at C6.
 
-• "As an example, what *doth* one think would happen in Washington if it was discovered that the chief guy in charge of the nation's finances had made his fortune in part by avoiding American taxes by way of putting his operations under flags of convenience?" Allan Fotheringham, "Columnists Need to Step into Fields Where Politicians Fear to Tread," *Fin. Post* \(Can.\), 12 Aug. 1995, § 1, at 19. \(This passage is particularly inept because a redundant casualism [*chief guy in charge*\] is mixed with a pseudo-biblical style.\)
+ - "As an example, what *doth* one think would happen in Washington if it was discovered that the chief guy in charge of the nation's finances had made his fortune in part by avoiding American taxes by way of putting his operations under flags of convenience?" Allan Fotheringham, "Columnists Need to Step into Fields Where Politicians Fear to Tread," *Fin. Post* \(Can.\), 12 Aug. 1995, § 1, at 19. \(This passage is particularly inept because a redundant casualism [*chief guy in charge*\] is mixed with a pseudo-biblical style.\)
 
-• "When he goes to bed at night, the taxpayer pays for the pillow upon which Walker *doth* rest his weary head." Thomas L. Knapp, "Election 2016: Scott Walker vs. Government Dependence," *Jackson Star News* \(Ravenswood, W. Va.\), 23 July 2015, at A3.
+ - "When he goes to bed at night, the taxpayer pays for the pillow upon which Walker *doth* rest his weary head." Thomas L. Knapp, "Election 2016: Scott Walker vs. Government Dependence," *Jackson Star News* \(Ravenswood, W. Va.\), 23 July 2015, at A3.
 
 And even in jocular contexts, the humor is typically of debatable merit—e.g.:
 
-• "Yet it's fitting that a comic rockumentary, Spinal Tap, has come closest to portraying the ridiculous truth of life as it *doth* rock and thence roll." David Belcher, "Source of the Sound That Goes with the Flow," *Herald* \(Glasgow\), 10 Aug. 1995, at 12.
+ - "Yet it's fitting that a comic rockumentary, Spinal Tap, has come closest to portraying the ridiculous truth of life as it *doth* rock and thence roll." David Belcher, "Source of the Sound That Goes with the Flow," *Herald* \(Glasgow\), 10 Aug. 1995, at 12.
 
-• "So ‘all the world's a stage', says Shakes, but *doth* the world need another staging of Hamlet, say I?" Shannon Harvey, "Bell Rings Up an Accessible Hamlet," *West Australian*, 5 Aug. 2015, at 6.
+ - "So ‘all the world's a stage', says Shakes, but *doth* the world need another staging of Hamlet, say I?" Shannon Harvey, "Bell Rings Up an Accessible Hamlet," *West Australian*, 5 Aug. 2015, at 6.
 
-• "The Denver star receiver *doth* protest too much, methinks." Mark Kiszla, "D.T. Isn't Catching a Lot of Respect," *Denver Post*, 28 Aug. 2015, at B1.
+ - "The Denver star receiver *doth* protest too much, methinks." Mark Kiszla, "D.T. Isn't Catching a Lot of Respect," *Denver Post*, 28 Aug. 2015, at B1.
 
 Finally, even when the intent is to be humorous, one shouldn't betray an utter ignorance of how a given form was once used. In the mid-1990s, British Airways ran a commercial in which an Englishman strikes up a mock-Shakespearean dialogue that ends, " 'Tis the way we make you feeleth." This construction is doubly bad because *feel*, in that sentence, is actually an infinitive in an elliptical construction: " 'Tis the way we make you \[to\] feel\[eth\]." How awful. Maybe an ad agency was to blame.
 

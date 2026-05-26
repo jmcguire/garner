@@ -16,9 +16,9 @@ Redundancies are especially common when *mutual* appears with *both*—e.g.: "An
 
 The phrasing *\*mutual . . . each other* is a fairly common redundancy—e.g.:
 
-• "They have a deep, *mutual respect for each other* \[read *mutual respect*\] even when they bump heads over draft picks." Mike Preston, "Savage Finds Diamonds in the Rough," *Baltimore Sun*, 18 Jan. 2001, at D1.
+ - "They have a deep, *mutual respect for each other* \[read *mutual respect*\] even when they bump heads over draft picks." Mike Preston, "Savage Finds Diamonds in the Rough," *Baltimore Sun*, 18 Jan. 2001, at D1.
 
-• "My father was a Roman Catholic and my mother a Protestant and . . . they *had a mutual respect for each other's religion* \[read *respected each other's religion*\]." Dale Turner, "The Simple Favor of an Introduction Can Change a Life," *Seattle Times*, 20 Jan. 2001, at A11.
+ - "My father was a Roman Catholic and my mother a Protestant and . . . they *had a mutual respect for each other's religion* \[read *respected each other's religion*\]." Dale Turner, "The Simple Favor of an Introduction Can Change a Life," *Seattle Times*, 20 Jan. 2001, at A11.
 
 See **reciprocity** & redundancy.
 

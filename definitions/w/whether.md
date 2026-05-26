@@ -4,11 +4,11 @@ whether.
 
 **A. *Whether or not*.** Despite the superstition to the contrary, the words *or not* are usually superfluous, since *whether* implies *or not*—e.g.:
 
-• "In another essay, ‘The Rules of the Game,' he discusses moral codes and *whether or not* \[read *whether*\] they work." Diane Hartman, "At Life's End, Carl Sagan Awed by Life's Unknowns," *Denver Post*, 22 June 1997, at D6.
+ - "In another essay, ‘The Rules of the Game,' he discusses moral codes and *whether or not* \[read *whether*\] they work." Diane Hartman, "At Life's End, Carl Sagan Awed by Life's Unknowns," *Denver Post*, 22 June 1997, at D6.
 
-• "Yet he seemed troubled by having to decide *whether or not* \[read *whether*\] to show the film at Venice." Ken Auletta, "Beauty and the Beast," *New Yorker*, 16 Dec. 2002, at 65, 68.
+ - "Yet he seemed troubled by having to decide *whether or not* \[read *whether*\] to show the film at Venice." Ken Auletta, "Beauty and the Beast," *New Yorker*, 16 Dec. 2002, at 65, 68.
 
-• "\[It depends\] on *whether or not* \[read *whether*\] the winds favor us, and *whether or not* \[read *whether*\] there's any trouble." Gary Blackwood, *Year of the Hangman* 27 \(2002\).
+ - "\[It depends\] on *whether or not* \[read *whether*\] the winds favor us, and *whether or not* \[read *whether*\] there's any trouble." Gary Blackwood, *Year of the Hangman* 27 \(2002\).
 
 For a hilarious discussion of *whether or not*—and its variations, including *whether or not . . . or not*—see James Joseph Duane, "Avoiding the Curse of *Whetherornot*," 6 *Scribes J. Legal Writing* 41 \(1996–1997\).
 
@@ -16,9 +16,9 @@ But the *or not* is necessary when *whether or not* means "regardless of whether
 
 **B. *As to whether*.** In *The King's English* 344 \(3d ed. 1931\), the Fowler brothers describe this phrasing as "seldom necessary." That judgment still stands—e.g.:
 
-• "Surprisingly, most folks have never taken the time to learn this skill . . . , \[which\] may *mean the difference as to whether* \[read *determine whether*\] someone with no pulse or respiration will live or die." David Jennings, "We're All Obligated to Learn Basic Life-Saving Techniques," *Cincinnati Post*, 10 July 1997, at A20.
+ - "Surprisingly, most folks have never taken the time to learn this skill . . . , \[which\] may *mean the difference as to whether* \[read *determine whether*\] someone with no pulse or respiration will live or die." David Jennings, "We're All Obligated to Learn Basic Life-Saving Techniques," *Cincinnati Post*, 10 July 1997, at A20.
 
-• "Mellot admits he ‘doesn't have any facts' *as to* \[read *about*\] whether the curfew actually has cut crime." John Luciew, "Curfew's Legality Still Not Precise," *Patriot & Evening News* \(Harrisburg\), 24 Sept. 1997, at A1.
+ - "Mellot admits he ‘doesn't have any facts' *as to* \[read *about*\] whether the curfew actually has cut crime." John Luciew, "Curfew's Legality Still Not Precise," *Patriot & Evening News* \(Harrisburg\), 24 Sept. 1997, at A1.
 
 See **as to \(b\)** & **question whether**.
 
