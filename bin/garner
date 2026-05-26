@@ -12,13 +12,17 @@ DEFAULT_DB = (script_dir.parent / "var" / "dictionary.sqlite").resolve()
 DEFAULT_DEFINITIONS = (script_dir.parent / "definitions").resolve()
 
 SCHEMA = """
-CREATE TABLE IF NOT EXISTS entries (
+DROP TABLE entries;
+
+CREATE TABLE entries (
     id INTEGER PRIMARY KEY,
     headword TEXT NOT NULL UNIQUE,
     sort_key TEXT NOT NULL UNIQUE,
     filename TEXT NOT NULL,
     body_markdown TEXT NOT NULL,
-    body_plain TEXT NOT NULL
+    body_plain TEXT NOT NULL,
+    forwarding TEXT NULL,
+    is_essay BOOLEAN NOT NULL CHECK (is_essay in (0,1))
 );
 
 CREATE INDEX IF NOT EXISTS idx_entries_sort_key ON entries(sort_key);
@@ -49,7 +53,6 @@ def connect(db_path):
     db_path.parent.mkdir(parents=True, exist_ok=True)
     conn = sqlite3.connect(db_path)
     conn.execute("PRAGMA foreign_keys = ON")
-    conn.executescript(SCHEMA)
     return conn
 
 
@@ -58,7 +61,7 @@ def build(source_dir, db, verbose):
     db_path = Path(db).expanduser()
 
     conn = connect(db_path)
-    conn.execute("DELETE FROM entries")
+    conn.executescript(SCHEMA)
 
     console = Console()
 
@@ -81,8 +84,8 @@ def build(source_dir, db, verbose):
         conn.execute(
             """
             INSERT INTO entries
-                (headword, sort_key, filename, body_markdown, body_plain)
-            VALUES (?, ?, ?, ?, ?)
+                (headword, sort_key, filename, body_markdown, body_plain, forwarding, is_essay)
+            VALUES (?, ?, ?, ?, ?, ?, ?)
             """,
             (
                 headword,
@@ -90,6 +93,8 @@ def build(source_dir, db, verbose):
                 str(path),
                 body,
                 markdown_to_plain(body),
+                None,
+                False
             ),
         )
 
