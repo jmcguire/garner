@@ -2,7 +2,7 @@
 
 **a.
 
-**A. Choice Between *a* and *an*.**** The indefinite article *a* is used before words beginning with a consonant sound, including /y/ and /w/ sounds. The other form, *an*, is used before words beginning with a vowel sound. Since the sound rather than the letter controls, it's not unusual to find *a* before a vowel or *an* before a consonant. Hence *a eulogy* \(but *an elegy*\), *a European country*, *a one-year term*, *a Ouija board*, *a uniform*, *an FBI agent*, *an MBA degree*, *an SEC filing*.
+**A. Choice Between *a* and *an*.** The indefinite article *a* is used before words beginning with a consonant sound, including /y/ and /w/ sounds. The other form, *an*, is used before words beginning with a vowel sound. Since the sound rather than the letter controls, it's not unusual to find *a* before a vowel or *an* before a consonant. Hence *a eulogy* \(but *an elegy*\), *a European country*, *a one-year term*, *a Ouija board*, *a uniform*, *an FBI agent*, *an MBA degree*, *an SEC filing*.
 
 The distinction between *a* and *an* was not solidified until the 1800s. Up to that time, *an* preceded most words beginning with a vowel, regardless of how the first syllable sounded. The U.S. Constitution, for example, reads: "The Congress shall have Power . . . \[t\]o establish *an uniform* Rule of Naturalization." U.S. Const. art. I, § 8. But that's no excuse for a modern writer—e.g.:
 

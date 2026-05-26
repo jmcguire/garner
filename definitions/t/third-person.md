@@ -12,7 +12,7 @@ Third Person .
 
 **E. *It is him*.** See **it is I**.
 
-**F. Shifting Between Second and Third Person.** See *\****one . . . you**.
+**F. Shifting Between Second and Third Person.** See *\***one . . . you**.
 
 **G. *Should/would*.** See **should**.
 

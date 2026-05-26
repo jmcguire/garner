@@ -10,7 +10,7 @@ Second Person .
 
 **D. Possessive Form.** See **your**.
 
-**E. Shifting Between Second and Third Person.** See *\****one . . . you**.
+**E. Shifting Between Second and Third Person.** See *\***one . . . you**.
 
 **F. *Should/would*.** See **should**.
 

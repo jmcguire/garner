@@ -10,21 +10,18 @@ cleaning up:
 
 easy features:
 
- - store actual connections of "see x" in db
  - a list of essays, again with numbers. need an essay column. need to identify essays programatically from the md file. maybe with a -e/--essays.
  - help should explain "current ratio" and "language change index". also the point of this project. what a usage dictionary is.
- - option to turn off markdown formatting
  - look for internal links, like "(see blah blah)", and wrap them in a markdown link so they "look" appropriate on a screen, even if they can't be clicked
  - also look for entries that only an internal link, and store that forwarding entry
- - need a way to look for those endings, like -ality
- -  
+ - need a way to look for those endings, like -ality, these are suffixes. they're currently marked as essays. a separate tag for prefixes or siuffixes
 
 harder features:
 
  - a separate table for misspellings?
  - how to package this up as an app. maybe a separate "compiled" thing?
  - what if it's part of word that matches, show a likely list? then let the the user either type the correct word, or a number, like `garner 2`, as a shortcut to an item in the last list shown. (which would require state.)
- - basically need a search if something doesn't match
+ - basically need a search if something doesn't match, also an actual -search flag
  - for long entries, give "page x/y" in the paging
  - tab-completion?
 

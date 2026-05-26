@@ -57,7 +57,7 @@ def connect(db_path):
 
 
 def get_forwarding(body, headword):
-    pattern = rf"\A{re.escape(headword)}\n\n{re.escape(headword)}. See (\w+).\Z" 
+    pattern = rf"\. See (\w+)\.\Z" 
     match = re.search(pattern, body, flags=re.DOTALL)
     if match:
         return match.group(1)
@@ -138,7 +138,7 @@ def lookup(word, db, verbose, plain):
 
     row = conn.execute(
         """
-        SELECT headword, body_markdown, body_plain, filename
+        SELECT headword, body_markdown, body_plain, filename, forwarding
         FROM entries
         WHERE sort_key = ?
         """,
@@ -153,12 +153,16 @@ def lookup(word, db, verbose, plain):
 
     if verbose:
         print("filename: " + row["filename"])
-
+    
     console = Console()
     if plain:
         console.print(Markdown(row["body_plain"]))
     else:
         console.print(Markdown(row["body_markdown"]))
+
+    if row["forwarding"]:
+        lookup(row["forwarding"], db, verbose, plain)
+
 
 
 def list_essays(db):
