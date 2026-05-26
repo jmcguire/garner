@@ -18,6 +18,6 @@ Language-Change Index
 
 2. *input* as a verb: Stage 4
 
-3. *\*inputted* as a past tense: Stage 2  
+3. *\*inputted* as a past tense: Stage 2
 Current ratio in print \(*been input* vs. *\*been inputted*\): 4:1
 

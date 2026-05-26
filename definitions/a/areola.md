@@ -10,7 +10,7 @@ areola; **aureole; aureola**. *Areola* /a-ree-**oh**-lә/ or /ә-**ree**-ә-lә/
 
 Language-Change Index
 
-*aureola* misused for *areola*: Stage 2   
+*aureola* misused for *areola*: Stage 2
 Current ratio in print \(*aureole* vs. *aureola*\): 7:1
 
 Current ratio in print \(*aureoles* vs. *aureolas* vs. *aureolae*\): 28:1.3:1

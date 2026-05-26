@@ -4,6 +4,6 @@ ever since. This is the standard phrase. *\*Every since* is AmE dialect—e.g.: 
 
 Language-Change Index
 
-*\*every since* for *ever since*: Stage 1   
+*\*every since* for *ever since*: Stage 1
 Current ratio in print \(*ever since* vs. *\*every since*\): 671:1
 

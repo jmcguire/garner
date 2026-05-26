@@ -30,6 +30,6 @@ In French, by the way, *du* is a sort of contraction for *de le* in the same way
 
 Language-Change Index
 
-*du jour* misspelled *\*de jour*: Stage 2   
+*du jour* misspelled *\*de jour*: Stage 2
 Current ratio in print \(*du jour* vs. \**de jour*\): 8:1
 

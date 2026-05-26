@@ -6,6 +6,6 @@ A *shutter* is either \(1\) one of a pair of usu. wooden or metal window covers 
 
 Although some people differentiate between the two words in pronunciation—/**shә**-dәr/ vs. /**shә**-tәr/—the words are homophones in many speech communities. Hence they get confounded in a variety of uses.
 
-Current ratio in print \(*shudder to think* vs. \**shutter to think*\): 237:1   
+Current ratio in print \(*shudder to think* vs. \**shutter to think*\): 237:1
 Current ratio in print \(*window shutters* vs. \**window shudders*\): 188:1
 

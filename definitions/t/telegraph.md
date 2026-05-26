@@ -12,6 +12,6 @@ Since 1799—only seven years after the word was first used in English—*telegr
 
 Language-Change Index
 
-*telegram* misused for *telegraph*: Stage 2   
+*telegram* misused for *telegraph*: Stage 2
 Current ratio in print \(*telegraphed* vs. *\*telegrammed*\): 25:1
 

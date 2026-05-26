@@ -18,6 +18,6 @@ These misuses are nothing new. Vallins noted them in 1951: " ‘He has *began*
 
 Language-Change Index
 
-*began* for past-participial *begun*: Stage 1   
+*began* for past-participial *begun*: Stage 1
 Current ratio in print \(*has begun* vs. \**has began*\): 305:1
 

@@ -12,6 +12,6 @@ Two of these examples involve phrasal adjectives—*fast-changing* and *fast-exp
 
 Language-Change Index
 
-*\*fastly* for *fast*: Stage 1   
+*\*fastly* for *fast*: Stage 1
 Current ratio in print \(*is fast becoming* vs. *\*is fastly becoming*\): 707:1
 

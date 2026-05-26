@@ -1,4 +1,4 @@
-# *ipse dixit* 
+# *ipse dixit*
 
 *ipse dixit*  \(lit., "he himself said it"\) = something said but not proved; a dogmatic statement. E.g.:
 

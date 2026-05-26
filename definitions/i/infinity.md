@@ -4,6 +4,6 @@ infinity; **\*infinitude**. The latter, a Latin loanword dating in English from 
 
 Language-Change Index
 
-*\*infinitude* for *infinity*: Stage 2   
+*\*infinitude* for *infinity*: Stage 2
 Current ratio in print \(*infinity of* vs. *\*infinitude of *\): 7:1
 

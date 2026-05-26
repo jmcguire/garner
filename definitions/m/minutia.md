@@ -14,7 +14,7 @@ The plural is often mispronounced as if it were the singular word \(/mi-**n\[y\]
 
 Language-Change Index
 
-*minutia* for the plural *minutiae*: Stage 2   
-Current ratio in print \(*lost in the minutiae* vs. *\*lost in the minutia*\): 3:1   
+*minutia* for the plural *minutiae*: Stage 2
+Current ratio in print \(*lost in the minutiae* vs. *\*lost in the minutia*\): 3:1
 Current ratio in print \(*minutiae are* vs. \**minutia are*\): 15:1
 

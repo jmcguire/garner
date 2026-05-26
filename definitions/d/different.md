@@ -24,7 +24,7 @@ When *from* nicely fills the slot of *than*, however, that is the idiom to be pr
 
 Language-Change Index
 
-*different than* for *different from*: Stage 3   
+*different than* for *different from*: Stage 3
 Current ratio in print \(*different from* vs. *different than*\): 8:1
 
 **B. *Than* with Adverbial Forms.** With the adverb *differently*, the word *than* often follows—a usage common since the 1600s. This usage is especially common in speech, but it also appears in print—e.g.:
@@ -43,10 +43,10 @@ In modern print, *differently from* occurs more frequently than *differently tha
 
 Language-Change Index
 
-1. *differently than* preceding an independent clause: Stage 5  
+1. *differently than* preceding an independent clause: Stage 5
 Current ratio in print \(*differently than they did* vs. *differently from how they did*\): 15:1
 
-2. *differently than* not preceding an independent clause: Stage 2  
+2. *differently than* not preceding an independent clause: Stage 2
 Current ratio in print \(*differently from him* vs. *\*differently than him*\): 8:1
 
 **C. *Three different*, etc.** When following a number, *different* is sometimes a superfluity <Bennett backed Forbes as a candidate for five different reasons>. Sometimes, however, the word *different* does add a desirable emphasis <scientists examined the problem using three different methods>. The word is emphatic in the same way as *distinct*. In fact, if you wouldn't feel comfortable replacing *different* with *distinct*, you shouldn't be using *different*.

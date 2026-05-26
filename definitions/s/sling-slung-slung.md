@@ -12,9 +12,9 @@ See irregular verbs.
 
 Language-Change Index
 
-1. *slang* for *slung* as past tense of *sling*: Stage 1  
+1. *slang* for *slung* as past tense of *sling*: Stage 1
 Current ratio in print \(*had slung* vs. *\*had slang*\): 110:1
 
-2. *\*slinged* for *slung* as past tense of *sling*: Stage 1  
+2. *\*slinged* for *slung* as past tense of *sling*: Stage 1
 Current ratio in print \(*slung* vs. *\*slinged*\): 1,355:1
 

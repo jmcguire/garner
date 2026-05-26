@@ -1,4 +1,4 @@
-# -wise 
+# -wise
 
  -wise . Generally, avoid *-wise* words or compounds when the suffix means "regarding" or some other frame of reference. They typically displace a more direct wording, and they're invariably graceless and inelegant—e.g.:
 

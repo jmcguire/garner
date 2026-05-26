@@ -14,6 +14,6 @@ For the malapropism of misusing *render* for *rend*, see **heart-rending**.
 
 Language-Change Index
 
-*\*rended* for past-tense *rent*: Stage 1   
+*\*rended* for past-tense *rent*: Stage 1
 Current ratio in print \(*have rent* vs. *\*have rended*\): 87:1
 

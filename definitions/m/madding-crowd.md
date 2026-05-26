@@ -10,6 +10,6 @@ But some writers get it wrong—e.g.:
 
 Language-Change Index
 
-*\*maddening crowd* for *madding crowd*: Stage 2   
+*\*maddening crowd* for *madding crowd*: Stage 2
 Current ratio in print \(*madding crowd* vs. *\*maddening crowd*\): 4:1
 

@@ -14,7 +14,7 @@ H.W. Fowler noted this aberration and called it "a curious mistake" \(*FMEU1* at
 
 Language-Change Index
 
-*inculcate* misused for *indoctrinate*: Stage 3   
+*inculcate* misused for *indoctrinate*: Stage 3
 Current ratio in print \(*inculcated into him* vs. *\*inculcated him with*\): 3:1
 
 **B. And *instill*.** *Instill* \(BrE *instil*\) usually follows the syntactic pattern of *inculcate* <a commander must instill confidence in the troops>. The terms overlap to a great degree, each one denoting compulsion by persistent repetition. But there are subtleties in their connotations. To *inculcate* a value or belief is to pound it in \(a rare second sense of the word is "to trample"\). To *instill* it is to build up the value or belief bit by bit \(a rare second sense is to introduce a liquid drop by drop\). So *instill* carries more positive connotations than *inculcate*, which is closer in nuance to *indoctrinate*. See **instill**.

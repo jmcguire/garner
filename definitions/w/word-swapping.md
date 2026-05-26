@@ -1,4 +1,4 @@
-# Word-Swapping 
+# Word-Swapping
 
  Word-Swapping . It's something like a Murphy's Law of Language: whenever two words are similar enough that people might confuse them for each other, some people will do so. Although usually the more popular word encroaches on the less popular \(e.g., *melody*/*medley*\), sometimes the less-well-known word is the encroacher \(*commendatory*/*commendable*\). Some pairs are homophones \(*populace*/*populous*\), some are near-homophones \(*parley*/*parlay*\), and some sound quite different \(*prevaricate*/*procrastinate*\). Usually both members of the pair will be the same part of speech \(*drastic*/*dramatic*\), but sometimes not \(*bridal*/*bridle*\). Often the confusion goes only one way \(*recoup*/*recuperate*\), but occasionally it's reciprocal \(*raucous*/*ruckus*\). In the following list of terms, all of which are discussed in their own entries, the first word more commonly displaces the second than vice versa:
 

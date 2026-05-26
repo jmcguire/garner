@@ -8,6 +8,6 @@ except, vb., = \(1\) to exclude; omit <present company excepted>; or \(2\) = to 
 
 Language-Change Index
 
-*except* misused for *accept*: Stage 1   
+*except* misused for *accept*: Stage 1
 Current ratio in print \(*well accepted* vs. *\*well excepted*\): 1,713:1
 

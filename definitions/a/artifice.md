@@ -4,6 +4,6 @@ artifice is sometimes misspelled *\*artiface*—e.g.: "There are subtle lines be
 
 Language-Change Index
 
-*artifice* misspelled *\*artiface*: Stage 1   
+*artifice* misspelled *\*artiface*: Stage 1
 Current ratio in print \(*artifice* vs. \**artiface*\): 2,303:1
 

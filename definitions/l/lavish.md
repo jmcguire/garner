@@ -12,6 +12,6 @@ Despite those edits, the nontraditional usage does seem to give the language mor
 
 Language-Change Index
 
-*\*lavishing someone with gifts* for *lavishing gifts on someone*: Stage 4   
+*\*lavishing someone with gifts* for *lavishing gifts on someone*: Stage 4
 Current ratio in print \(*lavished gifts on him* vs. *\*lavished him with gifts*\): 1:3
 

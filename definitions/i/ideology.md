@@ -4,6 +4,6 @@ ideology. So spelled. But many writers misunderstand its etymology, believing th
 
 Language-Change Index
 
-*ideology* misspelled *\*idealogy*: Stage 2   
+*ideology* misspelled *\*idealogy*: Stage 2
 Current ratio in print \(*ideology* vs. \**idealogy*\): 5,248:1
 

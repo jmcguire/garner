@@ -4,6 +4,6 @@ stained glass, not *\*stain glass*, is the standard form—e.g.: "One of the mos
 
 Language-Change Index
 
-*\*stain glass* for *stained glass*: Stage 1   
+*\*stain glass* for *stained glass*: Stage 1
 Current ratio in print \(*stained glass* vs. *\*stain glass*\): 101:1
 

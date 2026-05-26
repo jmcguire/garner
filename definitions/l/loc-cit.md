@@ -1,4 +1,4 @@
-# *loc. cit* 
+# *loc. cit*
 
 *loc. cit* . See ***ibid.***
 

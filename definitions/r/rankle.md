@@ -10,6 +10,6 @@ rankle \(= to irritate or embitter\) is traditionally a transitive verb, not an 
 
 Language-Change Index
 
-*\*rankle with* for *rankle*: Stage 3   
+*\*rankle with* for *rankle*: Stage 3
 Current ratio in print \(*rankled him* vs. *\*rankled with him*\): 5:1
 

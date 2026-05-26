@@ -4,6 +4,6 @@ emulable, not *\*emulatable*, is the traditional form of the adjective meaning "
 
 Language-Change Index
 
-*\*emulatable* for *emulable*: Stage 4   
+*\*emulatable* for *emulable*: Stage 4
 Current ratio in print \(*emulable* vs. *\*emulatable*\): 2.6:1
 

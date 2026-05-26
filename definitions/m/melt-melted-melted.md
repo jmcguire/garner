@@ -4,6 +4,6 @@ melt > melted > melted. So inflected. *Molten* is now only a past-participial ad
 
 Language-Change Index
 
-*molten* for past-participial *melted*: Stage 1   
+*molten* for past-participial *melted*: Stage 1
 Current ratio in print \(*had melted* vs. *\*had molten*\): 255:1
 

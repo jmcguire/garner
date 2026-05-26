@@ -10,6 +10,6 @@ To *route around* is to establish a route that bypasses something—e.g.: "Meanw
 
 Language-Change Index
 
-*root around* misspelled *\*rout around* or *\*route around*: Stage 1   
+*root around* misspelled *\*rout around* or *\*route around*: Stage 1
 Current ratio in print \(*root around* vs. *\*rout around*\): 122:1
 

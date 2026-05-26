@@ -6,6 +6,6 @@ The one justifiable sense of *potentiality* is "the state or quality of possessi
 
 Language-Change Index
 
-*potentiality* for *potential*: Stage 1   
+*potentiality* for *potential*: Stage 1
 Current ratio in print \(*their potential* vs. *\*their potentiality*\): 159:1
 

@@ -1,4 +1,4 @@
-# -er 
+# -er
 
 -er .
 
@@ -19,7 +19,7 @@ Attempts to confine *-er* to words of Anglo-Saxon origin and *-or* to those of L
  - profferer persecutor
  - promoter purveyor
  - requester surveyor
- -  
+ -
 
 **B. And *-re*.** Words borrowed from French generally arrived in English with the *-re* spelling. Most such words have gradually made the transition in AmE to *-er.* A few words may be spelled only *-re*, such as *acre*, *chancre*, *massacre*, and *mediocre*, because of the preceding *c*. Still others—the great majority—have variant spellings, the *-er* ending usually being more common in AmE and the *-re* ending in BrE. The following words have this distinction: *caliber, -re*; *center, -re*; *goiter, -re*; *liter, -re*; *louver, -re*; *luster, -re*; *meager, -re*; *meter, -re*; *miter, -re*; *niter, -re*; *reconnoiter, -re*; *scepter, -re*; *sepulcher, -re*; *somber, -re*; *specter, -re*; *theater, -re*. Likewise *maneuver, manoeuvre*. An odd exception is *accoutre* \(both AmE and BrE\)—the putative AmE spelling *\*accouter* never having caught on.
 

@@ -20,7 +20,7 @@ For more on the word, see **illegal**.
 
 Language-Change Index
 
-1. *illicit* for *elicit*: Stage 1  
+1. *illicit* for *elicit*: Stage 1
 Current ratio in print \(*elicited* vs. *\*illicited*\): 6,602:1
 
 2. *illicit* for *solicit*: Stage 1

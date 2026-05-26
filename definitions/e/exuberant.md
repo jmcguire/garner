@@ -18,6 +18,6 @@ exuberant.
 
 Language-Change Index
 
-*exuberant* misspelled *\*exhuberant*: Stage 1   
+*exuberant* misspelled *\*exhuberant*: Stage 1
 Current ratio in print \(*exuberant* vs. \**exhuberant*\): 667:1
 

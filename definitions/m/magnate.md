@@ -14,6 +14,6 @@ Before the Gilded Age of the late 1800s, the terms *magnate* and *tycoon* both r
 
 Language-Change Index
 
-*\*shipping magnet* for *shipping magnate*: Stage 1   
+*\*shipping magnet* for *shipping magnate*: Stage 1
 Current ratio in print \(*shipping magnate* vs. \**shipping magnet*\): 83:1
 

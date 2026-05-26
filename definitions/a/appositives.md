@@ -1,4 +1,4 @@
-# Appositives 
+# Appositives, Essay
 
  Appositives . An appositive points out the same person or thing by a different name, usually in the form of an explanatory phrase that narrows an earlier, more general phrase. So in the sentence "My brother Blair lives in Tennessee," *Blair* is the appositive of *brother.* Typically, in phrases less succinct than *my brother Blair* \(in which *Blair* is restrictive\), the appositive is set off by commas or parentheses:
 

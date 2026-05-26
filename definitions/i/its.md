@@ -22,9 +22,9 @@ Also, the possessive *its* should never be used—as it sometimes is—as a pers
 
 Language-Change Index
 
-1. *it's* misused for *its*: Stage 2  
+1. *it's* misused for *its*: Stage 2
 Current ratio in print \(*its own* vs. *\*it's own*\): 629:1
 
-2. *its* misused for *it's*: Stage 2  
+2. *its* misused for *it's*: Stage 2
 Current ratio in print \(*it's not* vs. *\*its not*\): 92:1
 

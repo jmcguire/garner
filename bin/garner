@@ -56,6 +56,19 @@ def connect(db_path):
     return conn
 
 
+def get_forwarding(body, headword):
+    pattern = rf"\A{re.escape(headword)}\n\n{re.escape(headword)}. See (\w+).\Z" 
+    match = re.search(pattern, body, flags=re.DOTALL)
+    if match:
+        return match.group(1)
+    else:
+        return None
+
+
+def get_is_essay(title):
+    return title.endswith(", Essay")
+
+
 def build(source_dir, db, verbose):
     source_dir = Path(source_dir)
     db_path = Path(db).expanduser()
@@ -70,16 +83,28 @@ def build(source_dir, db, verbose):
     for path in source_dir.rglob("*.md"):
 
         body = path.read_text(encoding="utf-8")
+        plain_body = markdown_to_plain(body)
         headword = first_heading(body)
         sortword = normalize(headword)
 
+        forwarding = get_forwarding(plain_body, headword)
+        is_essay = get_is_essay(headword)
+
+        if is_essay:
+            headword = headword.removesuffix(", Essay")
+            #sortword = sortword.removesuffix(" essay")
+
         if not headword:
-            if verbose:
-                console.print(f"Skipping {path}: no level 1 heading", style="yellow")
+            console.print(f"Skipping {path}: no level 1 heading", style="yellow")
             continue
         else:
             if verbose:
-                console.print(f"loading {headword} ({sortword}) in {path}", style="green")
+                if forwarding:
+                    console.print(f"loading {headword} ({sortword}) from {path}, forwards to {forwarding}", style="green")
+                elif is_essay:
+                    console.print(f"loading {headword} ({sortword}) from {path}, an essay", style="green")
+                else:
+                    console.print(f"loading {headword} ({sortword}) from {path}", style="green")
 
         conn.execute(
             """
@@ -92,9 +117,9 @@ def build(source_dir, db, verbose):
                 sortword,
                 str(path),
                 body,
-                markdown_to_plain(body),
-                None,
-                False
+                plain_body,
+                forwarding,
+                is_essay
             ),
         )
 
@@ -104,7 +129,7 @@ def build(source_dir, db, verbose):
     print(f"Built database: {db_path}")
 
 
-def lookup(word, db, verbose):
+def lookup(word, db, verbose, plain):
     db_path = Path(db).expanduser()
     key = normalize(word)
 
@@ -113,7 +138,7 @@ def lookup(word, db, verbose):
 
     row = conn.execute(
         """
-        SELECT headword, body_markdown, filename
+        SELECT headword, body_markdown, body_plain, filename
         FROM entries
         WHERE sort_key = ?
         """,
@@ -130,7 +155,30 @@ def lookup(word, db, verbose):
         print("filename: " + row["filename"])
 
     console = Console()
-    console.print(Markdown(row["body_markdown"]))
+    if plain:
+        console.print(Markdown(row["body_plain"]))
+    else:
+        console.print(Markdown(row["body_markdown"]))
+
+
+def list_essays(db):
+    db_path = Path(db).expanduser()
+    conn = sqlite3.connect(db_path)
+    conn.row_factory = sqlite3.Row
+
+    rows = conn.execute(
+        """
+        SELECT headword, sort_key
+        FROM entries
+        WHERE is_essay = 1
+        """,
+    ).fetchall()
+
+    if not rows:
+        print("No essays found. Probably an build error.")
+    else:
+        for row in rows:
+            print(f"{row['headword']}")
 
 
 def main():
@@ -151,9 +199,21 @@ def main():
     )
 
     parser.add_argument(
+        "-e", "--essays",
+        action="store_true",
+        help="List the \"essays\" in this dictionary",
+    )
+
+    parser.add_argument(
         "-v", "--verbose",
         action="store_true",
         help="Verbose output",
+    )
+
+    parser.add_argument(
+        "-p", "--plain",
+        action="store_true",
+        help="Output plain text, no fancy styling.",
     )
 
     parser.add_argument(
@@ -164,11 +224,10 @@ def main():
 
     args = parser.parse_args()
 
-    if args.build is None and args.word is None:
-        parser.print_help()
-        parser.exit(1)
+    if args.word:
+        lookup(args.word, args.db, args.verbose, args.plain)
     
-    if args.build is not None:
+    elif args.build is not None:
         if args.build is True:
             source_dir = DEFAULT_DEFINITIONS
         else:
@@ -176,8 +235,13 @@ def main():
 
         build(source_dir, args.db, args.verbose)
 
-    elif args.word:
-        lookup(args.word, args.db, args.verbose)
+    elif args.essays is True:
+        list_essays(args.db)
+
+    else:
+        parser.print_help()
+        parser.exit(1)
+    
 
 
 if __name__ == "__main__":

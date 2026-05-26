@@ -4,6 +4,6 @@ bulk large, an equivalent of *loom large*, is a set phrase \(perhaps even someth
 
 Language-Change Index
 
-*\*bulk largely* for *bulk large*: Stage 2   
+*\*bulk largely* for *bulk large*: Stage 2
 Current ratio in print \(*bulk large* vs. *\*bulk largely*\): 3:1
 

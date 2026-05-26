@@ -10,6 +10,6 @@ shoot, n.; **chute**. The latter means \(1\) "an inclined channel or passage"; \
 
 Language-Change Index
 
-*\*shute* for *chute*: Stage 1   
+*\*shute* for *chute*: Stage 1
 Current ratio in print \(*chutes* vs. \**shutes*\): 134:1
 

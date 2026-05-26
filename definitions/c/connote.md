@@ -30,6 +30,6 @@ See back-formations.
 
 Language-Change Index
 
-*\*connotate* for *connote*: Stage 1   
+*\*connotate* for *connote*: Stage 1
 Current ratio in print \(*connoting* vs. \**connotating*\): 136:1
 

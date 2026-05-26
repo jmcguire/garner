@@ -24,7 +24,7 @@ An equally strange error is confusing *pneumonic* and *pneumatic* \(= of, relati
 
 Language-Change Index
 
-1. *pneumonic* misused for *mnemonic*: Stage 1  
+1. *pneumonic* misused for *mnemonic*: Stage 1
 Current ratio in print \(*mnemonic device* vs. *\*pneumonic device*\): 67:1
 
 2. *pneumonic* misused for *pneumatic*: Stage 1

@@ -4,6 +4,6 @@ ransack \(= to search thoroughly, esp. for loot; pillage\) is occasionally missp
 
 Language-Change Index
 
-*ransacked* misspelled *\*ramsacked*: Stage 1   
+*ransacked* misspelled *\*ramsacked*: Stage 1
 Current ratio in print \(*ransacked* vs. \**ramsacked*\): 2,290:1
 

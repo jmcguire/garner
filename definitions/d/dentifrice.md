@@ -4,6 +4,6 @@ dentifrice \(an old-fashioned, rather fancy word for "toothpaste"\) is so spelle
 
 Language-Change Index
 
-*dentifrice* misspelled *\*dentrifice*: Stage 1   
+*dentifrice* misspelled *\*dentrifice*: Stage 1
 Current ratio in print \(*dentifrice* vs. \**dentrifice*\): 11:1
 

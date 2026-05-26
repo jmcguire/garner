@@ -1,4 +1,4 @@
-# Numerals 
+# Numerals
 
 Numerals .
 

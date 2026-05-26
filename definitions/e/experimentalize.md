@@ -4,6 +4,6 @@
 
 Language-Change Index
 
-*\*experimentalize* for *experiment on* or *experiment with*: Stage 1   
+*\*experimentalize* for *experiment on* or *experiment with*: Stage 1
 Current ratio in print \(*experiment with* vs. *\*experimentalize*\): 2,245:1
 

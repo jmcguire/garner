@@ -12,7 +12,7 @@ fair.
 
 Language-Change Index
 
-*fair* misused for *fare*: Stage 1   
+*fair* misused for *fare*: Stage 1
 Current ratio in print \(*fared well* vs. *\*faired well*\): 81:1
 
 **B. *Bid fair*.** For the past tense of this phrasal verb, see **bid \(a\)**.

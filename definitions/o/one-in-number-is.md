@@ -16,6 +16,6 @@ The same holds true when the construction is *one of five*, etc. See subject–v
 
 Language-Change Index
 
-*\*one in three believe* for *one in three believes*: Stage 2   
+*\*one in three believe* for *one in three believes*: Stage 2
 Current ratio in print \(*one in five is* vs. \**one in five are*\): 1.3:1
 

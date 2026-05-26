@@ -22,10 +22,10 @@ As demonstrated in the immediately preceding example, the word takes *to*, not *
 
 Language-Change Index
 
-1. *\*more preferable* for *preferable* or *much preferable*: Stage 3  
+1. *\*more preferable* for *preferable* or *much preferable*: Stage 3
 Current ratio in print \(*much preferable to* vs. *\*more preferable than*\): 1.4:1
 
-2. *\*preferable than* for *preferable to*: Stage 1  
+2. *\*preferable than* for *preferable to*: Stage 1
 Current ratio in print \(*preferable to* vs. *\*preferable than*\): 78:1
 
 3. *preferable* mispronounced /pri-**fәr**-ә-bәl/: Stage 2

@@ -6,7 +6,7 @@ bring.
 
 Language-Change Index
 
-*\*brung* for *brought*: Stage 1   
+*\*brung* for *brought*: Stage 1
 Current ratio in print \(*brought* vs. *\*brung*\): 1,234:1
 
 **B. And *take*.** *Bring* suggests motion toward the writer or reader <please bring me a soda>. *Take* suggests motion in the opposite direction <just after you put the soda down, he took it from me>. Cf. **come \(b\)**.

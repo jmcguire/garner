@@ -6,6 +6,6 @@ As a verb form, *sawed* has long been thought to be the preferable past particip
 
 Language-Change Index
 
-*sawn* for *sawed* as a past participle: Stage 3   
+*sawn* for *sawed* as a past participle: Stage 3
 Current ratio in print \(*be sawed into* vs. *be sawn into*\): 1:1.9
 

@@ -14,7 +14,7 @@ but.
 
  - **1963:** "Of the many myths concerning ‘correct' English, one of the most persistent is the belief that it is somehow improper to begin a sentence with \[*and*, *but*, *for*, *or*, or *nor*\]. The construction is, of course, widely used today and has been widely used for generations, for the very good reason that it is an effective means of achieving coherence between sentences and between larger units of discourse, such as paragraphs." R.W. Pence & D.W. Emery, *A Grammar of Present-Day English* 106 n.15 \(2d ed. 1963\).
 
- - **1965:** "A student writer will almost invariably give *however* first position in a sentence . . . . In any case, *however* works best if it is inside the sentence. Just exactly why this position is best is one of those stylistic mysteries that can't really be explained. It simply sounds better that way. And the importance of sound can't be dismissed, even in silent reading. 
+ - **1965:** "A student writer will almost invariably give *however* first position in a sentence . . . . In any case, *however* works best if it is inside the sentence. Just exactly why this position is best is one of those stylistic mysteries that can't really be explained. It simply sounds better that way. And the importance of sound can't be dismissed, even in silent reading.
 . . .
 
 "Occasionally you will find yourself with a *however* that simply refuses to be tucked into a sentence comfortably. In that case, change it to *but* and put it in first position." Lucile Vaughan Payne, *The Lively Art of Writing* 85–86 \(1965\).
@@ -97,9 +97,9 @@ Even so, significant variability remains. You might conclude that the most prude
 
 Language-Change Index
 
-*No one but me was there*: Stage 5   
-Current ratio in print \(*everybody but me was* vs. *everybody but I was*\): 9:1   
-Current ratio in print \(*nobody but me was* vs. *nobody but I was*\): 1:1   
-Current ratio in print \(*nobody but him would* vs. *nobody but he would*\): 2:1   
+*No one but me was there*: Stage 5
+Current ratio in print \(*everybody but me was* vs. *everybody but I was*\): 9:1
+Current ratio in print \(*nobody but me was* vs. *nobody but I was*\): 1:1
+Current ratio in print \(*nobody but him would* vs. *nobody but he would*\): 2:1
 Current ratio in print \(*all but he were* vs. *all but him were*\): 2:1
 

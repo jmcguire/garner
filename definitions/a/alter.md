@@ -8,6 +8,6 @@ alter; **altar**. *Alter* \(= to change\) is a verb; *altar* \(= the table or st
 
 Language-Change Index
 
-*alter* misused for *altar*: Stage 1   
+*alter* misused for *altar*: Stage 1
 Current ratio in print \(*at the altar* vs. *\*at the alter*\): 82:1
 

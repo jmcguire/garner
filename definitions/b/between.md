@@ -44,7 +44,7 @@ In a 2021 poll taken at a Cosmos Club event in Washington, D.C., 100% of those v
 
 Language-Change Index
 
-*\*between you and I* for *between you and me*: Stage 3   
+*\*between you and I* for *between you and me*: Stage 3
 Current ratio in print \(*between you and me* vs. *\*between you and I*\): 16:1
 
 **C. *Between* and Numbers.** This usage causes problems if the things being counted are discrete units and the numbers at each extreme are intended to be included. E.g.:
@@ -91,6 +91,6 @@ Current ratio in print \(*choose between him and X* vs. \**choose between him or
 
 Language-Change Index
 
-*\*between each period* for *between periods*: Stage 2   
+*\*between each period* for *between periods*: Stage 2
 Current ratio in print \(*between periods* vs. *\*between each period*\): 78:1
 

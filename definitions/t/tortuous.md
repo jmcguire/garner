@@ -16,9 +16,9 @@ In those examples, it's hard to know who made the error: the quoter or the origi
 
 Language-Change Index
 
-1. *tortuous* misused for *torturous*: Stage 2  
+1. *tortuous* misused for *torturous*: Stage 2
 Current ratio in print \(*torturous interrogation* vs. *\*tortuous interrogation*\): 7:1
 
-2. *tortuous* misused for *tortious*: Stage 1  
+2. *tortuous* misused for *tortious*: Stage 1
 Current ratio in print \(*tortious act* vs. *\*tortuous act*\): 23:1
 

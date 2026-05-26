@@ -12,6 +12,6 @@ Cf. **embiggen**.
 
 Language-Change Index
 
-*\*enlargen* for the verb *enlarge*: Stage 1   
+*\*enlargen* for the verb *enlarge*: Stage 1
 Current ratio in print \(*enlarge* vs. *\*enlargen*\): 1,826:1
 

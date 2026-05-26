@@ -18,7 +18,7 @@ In 2017, a lead editorial in *The Wall Street Journal* began: "Even Donald Trump
 
 Language-Change Index
 
-1. *\*reason . . . is because*: Stage 4  
+1. *\*reason . . . is because*: Stage 4
 Current ratio in print \(*reason is that* vs. *\*reason is because*\): 18:1
 
 2. *\*reason . . . is due to*: Stage 3

@@ -10,7 +10,7 @@ Since the word was first introduced into English, the standard plural has always
 
 Language-Change Index
 
-*aficionado* misspelled *\*afficionado*: Stage 1   
+*aficionado* misspelled *\*afficionado*: Stage 1
 Current ratio in print \(*aficionado* vs. \**afficionado*\): 91:1
 
 Current ratio in print \(*aficionados* vs. \**aficionadoes*\): 2,102:1

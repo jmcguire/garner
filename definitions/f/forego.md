@@ -26,9 +26,9 @@ The opposite mistake—misusing *forgo* for *forego*—is much less common. E.g.
 
 Language-Change Index
 
-1. *forego* misused for *forgo*: Stage 4  
+1. *forego* misused for *forgo*: Stage 4
 Current ratio in print \(*forgo the opportunity* vs. *\*forego the opportunity*\): 1.3:1
 
-2. *forgoing* misused for *foregoing*: Stage 1  
+2. *forgoing* misused for *foregoing*: Stage 1
 Current ratio in print \(*the foregoing* vs. *\*the forgoing*\): 90:1
 

@@ -8,9 +8,9 @@ glance; **glimpse**. The traditional idioms are that one *takes* or *gives a gla
 
 Language-Change Index
 
-1. *glimpse* misused for *glance*: Stage 1  
+1. *glimpse* misused for *glance*: Stage 1
 Current ratio in print \(*glances at* vs. *glimpses at*\): 76:1
 
-2. *glance* misused for *glimpse*: Stage 1  
+2. *glance* misused for *glimpse*: Stage 1
 Current ratio in print \(*get a glimpse of* vs. *get a glance at*\): 73:1
 

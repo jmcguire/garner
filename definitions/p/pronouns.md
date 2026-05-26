@@ -1,4 +1,4 @@
-# Pronouns 
+# Pronouns
 
 Pronouns .
 
@@ -104,7 +104,7 @@ Nonstandard reflexive pronouns, such as *\*hisself* and *\*theirselves*, typify 
 
 The traditional phrasing would be *if I were he*, not \**if I were him*. But almost no speaker of English would say \**if you were I* as opposed to *if you were me*. \(For *it's me*, see **it is I**.\) The same is true of many other constructions <it's him she loves> <the only one supporting the measure was me>. These constructions present a curious choice between being hyperformal and pretty casual—with nothing available in between, short of a full rewording.
 
-Current ratio in print \(*it was they* vs. *it was them*\): 4:1   
+Current ratio in print \(*it was they* vs. *it was them*\): 4:1
 Current ratio in print \(*Was it him?* vs. *Was it he?*\): 9:1
 
 **H. Overeager Pronouns.** See anticipatory reference.

@@ -4,6 +4,6 @@ gully \(= a small ravine\) is sometimes misspelled *\*gulley*—perhaps because 
 
 Language-Change Index
 
-*gully* misspelled *\*gulley*: Stage 1   
+*gully* misspelled *\*gulley*: Stage 1
 Current ratio in print \(*gully* vs. \**gulley*\): 11:1
 

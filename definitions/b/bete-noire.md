@@ -1,4 +1,4 @@
-# *bête noire* 
+# *bête noire*
 
  *bête noire* ; ***\*bête noir***. The spelling *bête noire* /bet **nwahr**/—the only one with any standing in the dictionaries—is about four times as common in print as *\*bête noir* \(in which, by the way, the gender of the adjective does not agree with that of the noun\). The French term literally means "black beast," but in English it is used figuratively to mean "a person or thing that is strongly disliked or that should be avoided"—e.g.:
 
@@ -16,6 +16,6 @@ The plural form remains the French *bêtes noires*, as opposed to the more fully
 
 Given that the circumflex remains over the first *e*, it is hardly surprising that the word has retained its foreign plural. See plurals \(b\).
 
-Current ratio in print \(*bête noire* vs. \**bête noir*\): 4:1   
+Current ratio in print \(*bête noire* vs. \**bête noir*\): 4:1
 Current ratio in print \(*bêtes noires* vs.\**bête noires*\): 13:1
 

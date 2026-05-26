@@ -20,7 +20,7 @@ The opposite error is somewhat less common—e.g.:
 
 Language-Change Index
 
-1. *vociferous* misused for *voracious*: Stage 1  
+1. *vociferous* misused for *voracious*: Stage 1
 Current ratio in print \(*voracious reader* vs. *\*vociferous reader*\): 172:1
 
 2. *voracious* misused for *vociferous*: Stage 1

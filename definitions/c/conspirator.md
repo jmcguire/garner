@@ -6,7 +6,7 @@ The term *coconspirator* \(unlike *\*copartner*\) is not always redundant. When 
 
 Language-Change Index
 
-1. *\*conspiratorialist* for *conspirator*: Stage 1   
+1. *\*conspiratorialist* for *conspirator*: Stage 1
 Current ratio in print \(*conspirator* vs. *\*conspiratorialist*\): 760:1
 
 2. *coconspirator* meaning "fellow conspirator": Stage 5

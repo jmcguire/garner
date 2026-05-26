@@ -12,6 +12,6 @@ For those seeking to denigrate the medical profession, one of the most shopworn 
 
 Language-Change Index
 
-*\*Hypocratic* for *Hippocratic*: Stage 1   
+*\*Hypocratic* for *Hippocratic*: Stage 1
 Current ratio in print \(*Hippocratic Oath* vs. *\*Hypocratic Oath*\): 1,171:1
 

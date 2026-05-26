@@ -14,9 +14,9 @@ The reverse error, though uncommon, does occur—e.g.: "I was stunned by the mix
 
 Language-Change Index
 
-1. *yolk* misused for *yoke*: Stage 1   
+1. *yolk* misused for *yoke*: Stage 1
 Current ratio in print \(*yoked together* vs. *\*yolked together*\): 398:1
 
-2. *yoke* misused for *yolk*: Stage 1   
+2. *yoke* misused for *yolk*: Stage 1
 Current ratio in print \(*egg yolks* vs. *\*egg yokes*\): 1,244:1
 

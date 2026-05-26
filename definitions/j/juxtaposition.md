@@ -4,6 +4,6 @@ juxtaposition is the noun, *juxtapose* the corresponding verb. Although you may 
 
 Language-Change Index
 
-*\*juxtapositioned* for *juxtaposed*: Stage 1   
+*\*juxtapositioned* for *juxtaposed*: Stage 1
 Current ratio in print \(*juxtaposed* vs. *\*juxtapositioned*\): 557:1
 

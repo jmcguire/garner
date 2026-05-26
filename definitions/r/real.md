@@ -22,6 +22,6 @@ See dialect.
 
 Language-Change Index
 
-*real* for *really* <*\**he's feeling real bad>: Stage 3   
+*real* for *really* <*\**he's feeling real bad>: Stage 3
 Current ratio in print \(*feeling really bad* vs. *\*feeling real bad*\): 10:1
 

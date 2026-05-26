@@ -1,4 +1,4 @@
-# Passive Voice 
+# Passive Voice
 
 Passive Voice .
 
@@ -10,11 +10,11 @@ But that sentence is actually in active voice—even though it's badly in need o
 
 The point about passive voice is that the subject of the clause doesn't perform the action of the verb. Instead, you back into the sentence:
 
-Passive: The deadline was missed by the applicant.   Active: The applicant missed the deadline.    
+Passive: The deadline was missed by the applicant.   Active: The applicant missed the deadline.
 
 And, of course, in the passive form, it's possible to omit the actor altogether—a prime source of unclarity. Sometimes it amounts to responsibility-dodging:
 
-Passive: The deadline was missed.    
+Passive: The deadline was missed.
 
 As anyone who follows political discourse knows, the passive voice is a staple of politicians <mistakes were made>.
 
@@ -78,15 +78,15 @@ H.W. Fowler wrote that "monstrosities of this kind . . . are as repulsive to the
 
 Even so, a few double passives are defensible—e.g.: "Offerings made in compliance with Regulation D *are not required to be registered* with the SEC under the Securities Act." As Ernest Gowers noted, "In legal or quasi-legal language this construction may sometimes be useful and unexceptionable: *Diplomatic privilege applies only to such things as are done or omitted to be done in the course of a person's official duties. / Motion made: that the words proposed to be left out stand part of the Question*" \(*FMEU2* at 139\). But these are of a different kind from *are sought to be included* and *are attempted to be refuted*, which can be easily remedied by recasting. The principle is that if the first passive-voice construction can be made active—leaving the passive infinitive intact—the sentence is correctly formed. Here, in Fowler's famous example, a recasting of the first passive verb form into the active voice clarifies the sense:
 
-Passive/Passive: The prisoners were ordered to be shot.   Active/Passive: He ordered the prisoners to be shot.   Active/Passive: He ordered the prisoners shot.    
+Passive/Passive: The prisoners were ordered to be shot.   Active/Passive: He ordered the prisoners to be shot.   Active/Passive: He ordered the prisoners shot.
 
 But in the following example, a recasting of the first passive verb into the active voice does not make sense:
 
-Passive/Passive: The contention has been attempted to be made.   Active/Passive: He attempted the contention to be made.    
+Passive/Passive: The contention has been attempted to be made.   Active/Passive: He attempted the contention to be made.
 
 The last-quoted sentence is un-English. Sense can be restored to it by casting both parts in the active voice:
 
-Active/Active: He attempted to make the contention.    
+Active/Active: He attempted to make the contention.
 
 A final caution against the passive: "The difference between an active-verb style and a passive-verb style—in clarity and vigor—is the difference between life and death for a writer." William Zinsser, *On Writing Well* 111 \(5th ed. 1994\).
 

@@ -6,6 +6,6 @@ When *gauge* refers to the width of wire, needles, or shotgun barrels—or to th
 
 *Gauge* has long had the variant spelling *gage*, which ought to be reserved to its legal sense: "a pledge, pawn, or other thing deposited as security for performance" \(*Black's Law Dictionary* 820 \[11th ed. 2019\]\). It appears in the Middle English compound *mortgage* "dead pledge."
 
-Current ratio in print \(*pressure gauge* vs. \**pressure gage*\): 14:1   
+Current ratio in print \(*pressure gauge* vs. \**pressure gage*\): 14:1
 Current ratio in print \(*gauge needle* vs. \**gage needle*\): 284:1
 

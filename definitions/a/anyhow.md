@@ -4,6 +4,6 @@ anyhow \(= in any way; in any manner\) is a folksy casualism for *anyway* or *ne
 
 Language-Change Index
 
-*anyhow* for *anyway*: Stage 4   
+*anyhow* for *anyway*: Stage 4
 Current ratio in print \(*anyway* vs. *anyhow*\): 10:1
 

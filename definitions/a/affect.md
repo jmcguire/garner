@@ -26,9 +26,9 @@ Although *affect* is almost always a verb, it does have a rare, somewhat vague n
 
 Language-Change Index
 
-1. *affect* misused for *effect*, n. & vb.: Stage 1   
+1. *affect* misused for *effect*, n. & vb.: Stage 1
 Current ratio in print \(*the bad effects* vs. *\*the bad affects*\): 217:1
 
-2. *effect* misused for *affect*, vb.: Stage 2   
+2. *effect* misused for *affect*, vb.: Stage 2
 Current ratio in print \(*affect our lives* vs. *\*effect our lives*\): 101:1
 

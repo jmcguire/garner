@@ -6,7 +6,7 @@ descendant; **\*descendent**. A majority of American desktop dictionaries list *
 
 Language-Change Index
 
-*descendant* misspelled *\*decendant*: Stage 2   
-Current ratio in print \(*descendant* vs. *\*descendent*\): 8:1   
+*descendant* misspelled *\*decendant*: Stage 2
+Current ratio in print \(*descendant* vs. *\*descendent*\): 8:1
 Current ratio in print \(*descendant line* vs. \**descendent line*\): 4:1
 

@@ -6,6 +6,6 @@ Even staunch descriptivists endorsed the prescriptive shift from *inflammable* t
 
 Language-Change Index
 
-*flammable* \(= combustible\): Stage 5   
+*flammable* \(= combustible\): Stage 5
 Current ratio in print \(*flammable* vs. *inflammable*\): 4:1
 

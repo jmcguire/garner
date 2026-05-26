@@ -22,7 +22,7 @@ gibe; jibe; gybe; jive.
 
 Language-Change Index
 
-*jive* misused for *jibe*: Stage 2   
+*jive* misused for *jibe*: Stage 2
 Current ratio in print \(*jibe well with* vs. *\*jive well with*\): 3:1
 
 **C. *Jibe* for *gibe*.** While *jibe* is a recognized variant spelling of *gibe*, it is not the preferred spelling. And since the words are confusing enough as it is, the alternative spelling should be avoided—e.g.:
@@ -35,13 +35,13 @@ Current ratio in print \(*jibe well with* vs. *\*jive well with*\): 3:1
 
 Language-Change Index
 
-*jibe* misused for *gibe*: Stage 4   
+*jibe* misused for *gibe*: Stage 4
 Current ratio in print \(*bitter gibes* vs. *\*bitter jibes*\): 2.1:1
 
 **D. Other Mistaken Uses.** While less frequent than the above misuses, other errors do occur. *Jibe* is sometimes mistaken for *jive*—e.g.: "Plug and play. It sounds so ‘good to go.' . . . Yet the ‘plug and pray' *jibe* \[read *jive*\], while admittedly tired, exists among engineers for a reason." Leslie Ellis, "Plug and Play: Easy, Right? Ha\!," *Multichannel News*, 13 Jan. 2003, at 30. Even less frequent is the misuse of *gibe* for *jibe*, though this error also sometimes occurs—e.g.: " ‘The Gift of the Magi' is played out in the broader-than-broad conventions of uninspired children's theater, which doesn't really *gibe* \[read *jibe*\] with the material." Roy Proctor, " ‘Gifts' Appears Fashioned for Non-Existent Audience," *Richmond Times-Dispatch*, 9 Dec. 2002, at E5.
 
 Language-Change Index
 
-*gibe* misused for *jibe*: Stage 1   
+*gibe* misused for *jibe*: Stage 1
 Current ratio in print \(*does not jibe with* vs. *\*does not gibe with*\): 28:1
 

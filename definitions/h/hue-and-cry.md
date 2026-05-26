@@ -10,7 +10,7 @@ The phrase is occasionally misrendered *\*hew and cry*—e.g.:
 
 Language-Change Index
 
-*\*hew and cry* for *hue and cry*: Stage 1   
-Current ratio in print \(*hue and cry* vs. *\*hew* *and* *cry*\): 294:1   
+*\*hew and cry* for *hue and cry*: Stage 1
+Current ratio in print \(*hue and cry* vs. *\*hew* *and* *cry*\): 294:1
 Current ratio in print \(*raise a hue and cry* vs. *raise the hue and cry*\): 1.7:1
 

@@ -6,6 +6,6 @@ gimme, a golf term shortened from "give me," refers to a short putt that needn't
 
 Language-Change Index
 
-*\*gimmies* for *gimmes*: Stage 3   
+*\*gimmies* for *gimmes*: Stage 3
 Current ratio in print \(*gimmes* vs. *\*gimmies*\): 3:1
 

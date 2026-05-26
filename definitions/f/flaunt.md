@@ -26,6 +26,6 @@ A federal judge who misused *flaunt* for *flout* in a published opinion—only t
 
 Language-Change Index
 
-*flaunt* misused for *flout*: Stage 3   
+*flaunt* misused for *flout*: Stage 3
 Current ratio in print \(*flouting the rules* vs. *\*flaunting the rules*\): 6:1
 

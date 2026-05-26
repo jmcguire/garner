@@ -12,6 +12,6 @@ See abbreviations \(b\).
 
 Language-Change Index
 
-*\*please RSVP* for *RSVP*: Stage 3   
+*\*please RSVP* for *RSVP*: Stage 3
 Current ratio in print \(*RSVP* vs. *R.S.V.P.* vs. *rsvp* vs. *r.s.v.p.*\): 784:46:12:1
 

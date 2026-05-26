@@ -8,6 +8,6 @@ Language-Change Index
 
 1. *bridal* misused for *bridle*: Stage 1
 
-2. *bridle* misused for *bridal*: Stage 1  
+2. *bridle* misused for *bridal*: Stage 1
 Current ratio in print \(*bridle path* vs. *\*bridal path*\): 18:1
 

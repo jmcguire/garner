@@ -1,4 +1,4 @@
-# Casualisms 
+# Casualisms
 
 Casualisms .
 

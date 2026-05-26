@@ -4,6 +4,6 @@ sic, vb.; **sick**, vb. *Sic*, in AmE, means to direct a person or an animal to 
 
 Although *sic* was traditionally inflected *sicked* and *sicking*, the predominant inflections have increasingly become *sicced* and *siccing* just since the late 1980s. But as the ratios below show, usage remains in flux—which is a sure sign that nobody likes either option.
 
-Current ratio in print \(*sicked the dogs* vs. *sicced the dogs*\): 4:1   
+Current ratio in print \(*sicked the dogs* vs. *sicced the dogs*\): 4:1
 Current ratio in print \(*sicced the police* vs. *sicked the police*\): 4:1
 

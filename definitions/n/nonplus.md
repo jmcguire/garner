@@ -12,7 +12,7 @@ Since the 1990s there has arisen a mystifying notion that *nonplussed* is essent
 
 Language-Change Index
 
-1. *nonplussed* misspelled *\*nonplused*: Stage 1  
+1. *nonplussed* misspelled *\*nonplused*: Stage 1
 Current ratio in print \(*nonplussed* vs. \**nonplused*\): 17:1
 
 2. *nonplussed* as meaning "unfazed": Stage 2

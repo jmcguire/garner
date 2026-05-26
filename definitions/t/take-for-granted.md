@@ -4,6 +4,6 @@ take for granted is sometimes written *\*take for granite*, occasionally as a pl
 
 Language-Change Index
 
-*\*take for granite* for *take for granted*: Stage 1   
+*\*take for granite* for *take for granted*: Stage 1
 Current ratio in print \(*take for granted* vs. *\*take for granite*\): 2,562:1
 

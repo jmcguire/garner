@@ -8,7 +8,7 @@ Sometimes the binomials are alliterative <flora and fauna> or even rhyming <slic
 
 The terms in a binomial might be any part of speech, but most often they're nouns, verbs, or adjectives. In many pairings of complementary nouns, foodstuffs that commonly go together are yoked into a phrase, the more substantial item normally coming first <cookies and cream> <macaroni and cheese>. Various categories might be created, but these are perhaps the most typical semantic groupings:
 
-Antonyms or Contrasting Words 
+Antonyms or Contrasting Words
 
  - back and forth
  - balls and strikes
@@ -61,7 +61,7 @@ Antonyms or Contrasting Words
  - with or without
  - yin and yang
 
-Synonyms and Near-Synonyms 
+Synonyms and Near-Synonyms
 
  - aches and pains
  - armed and dangerous
@@ -115,7 +115,7 @@ Synonyms and Near-Synonyms
  - ways and means
  - whys and wherefores
 
-Complementary Words 
+Complementary Words
 
  - above and beyond
  - alpha and omega

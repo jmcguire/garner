@@ -6,6 +6,6 @@ In parts of the U.S., especially on the West Coast, the phrase *benedict-elect* 
 
 Language-Change Index
 
-*\*bride-elect* for *bride-to-be*: Stage 2   
+*\*bride-elect* for *bride-to-be*: Stage 2
 Current ratio in print \(*bride-to-be* vs. *\*bride-elect*\): 13:1
 

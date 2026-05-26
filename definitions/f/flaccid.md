@@ -40,6 +40,6 @@ Language-Change Index
 
 Language-Change Index
 
-*flaccid* misspelled *\*flacid*: Stage 1   
+*flaccid* misspelled *\*flacid*: Stage 1
 Current ratio in print \(*flaccid* vs. \**flacid*\): 473:1
 

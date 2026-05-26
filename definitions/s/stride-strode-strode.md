@@ -22,9 +22,9 @@ See irregular verbs.
 
 Language-Change Index
 
-1. *strode* as a past participle: Stage 5  
+1. *strode* as a past participle: Stage 5
 Current ratio in print \(*had strode* vs. *\*had stridden*\): 2.5:1
 
-2. *\*strided* for *strode*: Stage 1  
+2. *\*strided* for *strode*: Stage 1
 Current ratio in print \(*strode* vs. *\*strided*\): 456:1
 

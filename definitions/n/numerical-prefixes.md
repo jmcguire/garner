@@ -6,14 +6,14 @@ Among the combining forms that we have inherited are those relating to numbers. 
 
 ## one
 
- - *uni-* \(Latin\) 
+ - *uni-* \(Latin\)
  - unicellular
  - unicorn
  - unicycle
  - unilateral
  - unique
  - unit
- - *mono-* \(Greek\) 
+ - *mono-* \(Greek\)
  - monodactylous
  - monogamy
  - monoglot
@@ -28,7 +28,7 @@ Among the combining forms that we have inherited are those relating to numbers. 
 
 ## two
 
- - *du\(o\)-* \(Latin\) 
+ - *du\(o\)-* \(Latin\)
  - duet
  - duodecillion
  - duodrama
@@ -36,7 +36,7 @@ Among the combining forms that we have inherited are those relating to numbers. 
  - duomachy
  - duopoly
  - duplicate
- - *deuter\(o\)-* \(Greek\) 
+ - *deuter\(o\)-* \(Greek\)
  - deuteragonist
  - deuteride
  - deuterium
@@ -46,7 +46,7 @@ Among the combining forms that we have inherited are those relating to numbers. 
 
 ## twice
 
- - *bi-* \(Latin\) 
+ - *bi-* \(Latin\)
  - bicycle
  - biennial
  - bifocals
@@ -56,7 +56,7 @@ Among the combining forms that we have inherited are those relating to numbers. 
  - biped
  - bisect
  - bisexual
- - *di-* \(Greek\) 
+ - *di-* \(Greek\)
  - dichromatic
  - \*digamy
  - dilemma
@@ -65,7 +65,7 @@ Among the combining forms that we have inherited are those relating to numbers. 
 
 ## three
 
- - *tri-* \(Latin & Greek\) 
+ - *tri-* \(Latin & Greek\)
  - triangle
  - triathlon
  - triceratops
@@ -80,7 +80,7 @@ Among the combining forms that we have inherited are those relating to numbers. 
 
 ## four
 
- - *quadr-* \(Latin\) 
+ - *quadr-* \(Latin\)
  - quadrant
  - quadrennial
  - quadriceps
@@ -91,7 +91,7 @@ Among the combining forms that we have inherited are those relating to numbers. 
  - quadrivium
  - quadrumanous
  - quadruped
- - *tetra-* \(Greek\) 
+ - *tetra-* \(Greek\)
  - tetracycline
  - tetrad
  - tetragon
@@ -102,7 +102,7 @@ Among the combining forms that we have inherited are those relating to numbers. 
 
 ## five
 
- - *quin\(que\)-* \(Latin\) 
+ - *quin\(que\)-* \(Latin\)
  - quinary
  - quincentennial
  - quinquelateral
@@ -112,7 +112,7 @@ Among the combining forms that we have inherited are those relating to numbers. 
  - quintessential
  - quintet
  - quintuple
- - *penta-* \(Greek\) 
+ - *penta-* \(Greek\)
  - pentagon
  - pentagram
  - pentarch
@@ -121,7 +121,7 @@ Among the combining forms that we have inherited are those relating to numbers. 
 
 ## six
 
- - *sex-* \(Latin\) 
+ - *sex-* \(Latin\)
  - sexagenarian
  - sexangular
  - sexcentennial
@@ -130,7 +130,7 @@ Among the combining forms that we have inherited are those relating to numbers. 
  - sextet
  - sextuplets
  - sextuplicate
- - *hexa-* \(Greek\) 
+ - *hexa-* \(Greek\)
  - hexachlorophane
  - hexagon
  - hexagram
@@ -140,7 +140,7 @@ Among the combining forms that we have inherited are those relating to numbers. 
 
 ## seven
 
- - *sept-* \(Latin\) 
+ - *sept-* \(Latin\)
  - September
  - septemvirate
  - septenarius
@@ -149,7 +149,7 @@ Among the combining forms that we have inherited are those relating to numbers. 
  - septipartite
  - septuagenarian
  - septuplets
- - *hept-* \(Greek\) 
+ - *hept-* \(Greek\)
  - hebdomadal \[Late Greek\]
  - heptad
  - heptagon
@@ -160,7 +160,7 @@ Among the combining forms that we have inherited are those relating to numbers. 
 
 ## eight
 
- - *oct\(o\)-* \(Latin & Greek \[*okto*\]\) 
+ - *oct\(o\)-* \(Latin & Greek \[*okto*\]\)
  - octagenarian
  - octagon
  - octarchy
@@ -171,19 +171,19 @@ Among the combining forms that we have inherited are those relating to numbers. 
 
 ## nine
 
- - *nona-* \(Latin\) 
+ - *nona-* \(Latin\)
  - nonagenarian
  - nonagon
  - nonamer
  - nonary
- - *nove\(m\)-* \(Latin\) 
+ - *nove\(m\)-* \(Latin\)
  - novemarticulate
  - November
  - novemdecillion
  - novena
  - novendial
  - novennial
- - *ennea-* \(Greek\) 
+ - *ennea-* \(Greek\)
  - ennead
  - enneagon
  - enneagram
@@ -192,12 +192,12 @@ Among the combining forms that we have inherited are those relating to numbers. 
 
 ## ten
 
- - *dec\(em\)-* \(Latin\) 
+ - *dec\(em\)-* \(Latin\)
  - December
  - decempedal
  - decemvir
  - decennial
- - *deca-* \(Greek\) 
+ - *deca-* \(Greek\)
  - decadal
  - decade
  - decagon
@@ -209,7 +209,7 @@ Among the combining forms that we have inherited are those relating to numbers. 
 
 ## hundred
 
- - *cent-* \(Latin\) 
+ - *cent-* \(Latin\)
  - centenarian
  - centennial
  - centesimal
@@ -219,7 +219,7 @@ Among the combining forms that we have inherited are those relating to numbers. 
  - centipede
  - centurion
  - century
- - *hect\(o\)-* \(Greek\) 
+ - *hect\(o\)-* \(Greek\)
  - hectare
  - hectogram
  - hectograph
@@ -228,7 +228,7 @@ Among the combining forms that we have inherited are those relating to numbers. 
 
 ## thousand
 
- - *mill\(e\)-* \(Latin\) 
+ - *mill\(e\)-* \(Latin\)
  - millecuple
  - millennial
  - milliampere
@@ -237,18 +237,18 @@ Among the combining forms that we have inherited are those relating to numbers. 
  - millipede
  - millirem
  - milliwatt
- - *kilo-* \(Greek\) 
+ - *kilo-* \(Greek\)
  - kilogram
  - kiloliter
  - kilometer
  - kiloton
  - kilowatt
- - *chili-* \(Greek\) 
+ - *chili-* \(Greek\)
  - chiliad
 
 ## ten thousand \(or "countless"\)
 
- - *myri-* \(Latin\) 
+ - *myri-* \(Latin\)
  - myriad
  - myriametric
  - myriapod

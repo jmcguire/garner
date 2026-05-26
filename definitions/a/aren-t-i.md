@@ -12,6 +12,6 @@ In the 1930s, the lexicographer Frank Vizetelly denounced *aren't I* as a "hopel
 
 Language-Change Index
 
-*aren't I?* for *am I not?*: Stage 5   
+*aren't I?* for *am I not?*: Stage 5
 Current ratio in print \(*aren't I* vs. \**amn't I* vs. \**an't I*\): 83:1:1
 

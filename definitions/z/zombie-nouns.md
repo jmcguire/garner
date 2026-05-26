@@ -1,4 +1,4 @@
-# Zombie Nouns 
+# Zombie Nouns
 
  Zombie Nouns . Some call them "nominalizations," i.e., verbs that have been changed into nouns. Without the jargon, we might say that a verb has been buried in a longer noun—usually a noun ending in one of the following suffixes: *-tion*, *-sion*, *-ment*, *-ence*, *-ance*, *-ity*. Today such nouns are commonly called "zombie nouns." It is hardly an exaggeration \(make that *one hardly exaggerates*\) to say that when the verb will work in context, the better choice is almost always to use it instead of a zombie noun. Thus:
 
@@ -25,7 +25,7 @@
  - perpetuation perpetuate
  - reduction reduce
  - utilization utilize, use
- - violation violate    
+ - violation violate
 
 Naturally, you will sometimes need to refer to competition or litigation or regulation as a procedure, and when that is so you must say *competition* or *litigation* or *regulation*. But if a first draft says *the insurance industry's attempts at regulation of doctors*, you would be well advised to change that to *the insurance industry's attempts to regulate doctors*.
 

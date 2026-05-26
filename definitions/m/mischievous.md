@@ -10,6 +10,6 @@ See pronunciation \(b\). Cf. **grievous**.
 
 Language-Change Index
 
-*mischievous* misspelled or mispronounced *\*mischievious*: Stage 2   
+*mischievous* misspelled or mispronounced *\*mischievious*: Stage 2
 Current ratio in print \(*mischievous* vs. \**mischievious*\): 680:1
 

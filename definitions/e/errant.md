@@ -16,9 +16,9 @@ Language-Change Index
 
 1. *errant* misused for *erroneous*: Stage 2
 
-2. *errant* misused for *arrant*: Stage 2  
+2. *errant* misused for *arrant*: Stage 2
 Current ratio in print \(*arrant nonsense* vs. *\*errant nonsense*\): 6:1
 
-3. *arrant* misused in what should be *knight errant*: Stage 1  
+3. *arrant* misused in what should be *knight errant*: Stage 1
 Current ratio in print \(*knight errant* vs. *\*knight arrant*\): 195:1
 

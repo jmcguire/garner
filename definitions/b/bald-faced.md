@@ -18,8 +18,8 @@ Because of the "shameful" connotation of *bald-faced*, it is occasionally used t
 
 Language-Change Index
 
-*\*boldface lie* or *\*boldfaced lie* for *bald-faced lie*: Stage 1   
-Current ratio in print \(*bald-faced lie* vs. *\*boldfaced lie* vs. *\*boldface lie*\): 24:2.4:1   
+*\*boldface lie* or *\*boldfaced lie* for *bald-faced lie*: Stage 1
+Current ratio in print \(*bald-faced lie* vs. *\*boldfaced lie* vs. *\*boldface lie*\): 24:2.4:1
 Current ratio in print \(*bald-faced lie* vs. *barefaced lie* in AmE\): 4:1
 
 Current ratio in print \(*bald-faced lie* vs. *barefaced lie* in BrE\): 1.5:1

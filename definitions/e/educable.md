@@ -8,6 +8,6 @@ educable.
 
 Language-Change Index
 
-*\*educatable* for *educable*: Stage 1   
+*\*educatable* for *educable*: Stage 1
 Current ratio in print \(*educable* vs. *\*educatable*\): 65:1
 

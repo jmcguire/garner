@@ -20,7 +20,7 @@ Formerly, a bare infinitive \(without *to*\) was used in negative and interrogat
 
 Language-Change Index
 
-*\*ought not be* for *ought not to be*: Stage 2   
+*\*ought not be* for *ought not to be*: Stage 2
 Current ratio in print \(*ought not to be* vs. \**ought not be*\): 11:1
 
 **B. And *should*.** *Ought* should be reserved for expressions of necessity, duty, or obligation; *should*, the slightly weaker but more usual word, especially in speech, expresses appropriateness, suitability, or fittingness.

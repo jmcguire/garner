@@ -8,9 +8,9 @@ grisly; **grizzly**; **gristly**; **grizzled**. *Grisly* = ghastly, horrible <gr
 
 Language-Change Index
 
-1. *grisly* misused for *grizzly*: Stage 1  
+1. *grisly* misused for *grizzly*: Stage 1
 Current ratio in print \(*grizzly bear* vs. *\*grisly bear*\): 86:1
 
-2. *grizzly* misused for *grisly*: Stage 1  
+2. *grizzly* misused for *grisly*: Stage 1
 Current ratio in print \(*grisly details* vs. *\*grizzly details*\): 13:1
 

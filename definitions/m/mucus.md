@@ -6,6 +6,6 @@ In medical literature, *mucous ball* and *mucus ball* are about equally common. 
 
 Language-Change Index
 
-*\*mucus membrane* for *mucous membrane*: Stage 1   
+*\*mucus membrane* for *mucous membrane*: Stage 1
 Current ratio in print \(*mucous membrane* vs. *\*mucus membrane*\): 27:1
 

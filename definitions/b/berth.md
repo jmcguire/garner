@@ -10,6 +10,6 @@ berth \(= a spot or position\) is occasionally misspelled *birth*, sometimes \(a
 
 Language-Change Index
 
-*birth* misused for *berth*: Stage 1   
+*birth* misused for *berth*: Stage 1
 Current ratio in print \(*secure a berth* vs. *\*secure a birth*\): 15:1
 

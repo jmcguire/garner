@@ -6,6 +6,6 @@ A few writers have objected to *email* as a shortened form of *email message* <s
 
 Language-Change Index
 
-*email* as a solid word: Stage 5   
+*email* as a solid word: Stage 5
 Current ratio in print \(*email* vs. *e-mail*\): 2.1:1
 

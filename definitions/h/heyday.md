@@ -10,7 +10,7 @@ heyday.
 
 Language-Change Index
 
-*heyday* misspelled *\*heydey* or *\*hayday*: Stage 1   
+*heyday* misspelled *\*heydey* or *\*hayday*: Stage 1
 Current ratio in print \(*heyday* vs. \**heydey* vs. \**hayday*\): 1,611:4:1
 
 **B. And *field day*.** Each term most often appears in its distinct set phrase: *in* \(*its*, *his*, *her*, *their*\) *heyday* \(= in \[its\] prime\) and *having a field day* \(= having an extraordinarily good time\). *Field day* originated as a military term to denote a day when troops go out on maneuvers \(in the field\) as opposed to drilling in their barracks. Dwight Bolinger was perhaps the first to note that when the terms are switched in these phrases, the result is a classic malapropism: "The columnist Peter Weaver wrote *Professional bill collectors are having a heyday*, confusing *heyday* with *field day*; the two are faintly related in the common notion of ‘prosperity.' *Heyday* itself may have developed in a similar way from an exclamation *heyda* ‘hey there\!' used to express exaltation and later applied to a time of excitement, causing the *-da* part to be identified with *day*." *Language: The Loaded Weapon* 23 \(1980\). See word-swapping.
@@ -25,6 +25,6 @@ The opposite error is quite rare.
 
 Language-Change Index
 
-*heyday* misused for *field day*: Stage 1   
+*heyday* misused for *field day*: Stage 1
 Current ratio in print \(*had a field day* vs. *\*had a heyday*\): 23:1
 

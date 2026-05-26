@@ -12,6 +12,6 @@ leapt; **leaped**. Both are acceptable past-tense and past-participial forms for
 
 Language-Change Index
 
-*leapt* misspelled *\*lept*: Stage 1   
+*leapt* misspelled *\*lept*: Stage 1
 Current ratio in print \(*leaped* vs. *leapt*\): 1.2:1
 

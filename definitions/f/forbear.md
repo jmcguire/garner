@@ -20,12 +20,12 @@ See word-swapping.
 
 Language-Change Index
 
-1. *forbear* misused for *forebear*: Stage 2  
+1. *forbear* misused for *forebear*: Stage 2
 Current ratio in print \(*their forebears* vs. *\*their forbears*\): 7:1
 
-2. *forebear* misused for *forbear*: Stage 1  
+2. *forebear* misused for *forbear*: Stage 1
 Current ratio in print \(*must forbear* vs. *\*must forebear*\): 38:1
 
-3. *\*forebearer* for *forebear*: Stage 1  
+3. *\*forebearer* for *forebear*: Stage 1
 Current ratio in print \(*our forebears* vs. *\*our forebearers*\): 47:1
 

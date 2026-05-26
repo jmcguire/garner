@@ -1,4 +1,4 @@
-# *mutatis mutandis* 
+# *mutatis mutandis*
 
 *mutatis mutandis*  \(= the necessary changes having been made; taking into consideration or allowing for the changes that must be made\) has been used pretty consistently in literary English since the late 1600s. The phrase might seem a useful latinism in some literary contexts, since the English equivalents are wordier. But in most actual uses of the phrase, it can be simplified. The phrase is hardly needed for a straightforward comparison in which readers are sure to know that two things aren't identical—e.g.:
 

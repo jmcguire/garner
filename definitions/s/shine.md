@@ -16,9 +16,9 @@ Rarely, a writer will slip the other way and spell *shown* as *shone*—e.g.: "F
 
 Language-Change Index
 
-1. *shined* misused for *shone*: Stage 2  
+1. *shined* misused for *shone*: Stage 2
 Current ratio in print \(*sun shone brightly* vs. *\*sun shined brightly*\): 23:1
 
-2. *shown* misused for *shone*: Stage 1  
+2. *shown* misused for *shone*: Stage 1
 Current ratio in print \(*light shone down* vs. *\*light shown down*\): 30:1
 

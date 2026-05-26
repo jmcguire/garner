@@ -10,6 +10,6 @@ Each word is sometimes misused for the other—e.g.:
 
 Language-Change Index
 
-*equable* misused for *equitable*: Stage 1   
+*equable* misused for *equitable*: Stage 1
 Current ratio in print \(*equitable distribution* vs. *\*equable distribution*\): 79:1
 

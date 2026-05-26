@@ -12,6 +12,6 @@ These errors seem to result from confusion with words such as *exhale*, *exhort*
 
 Language-Change Index
 
-*exalt* misspelled *\*exhalt* or *\*exhault*: Stage 1   
+*exalt* misspelled *\*exhalt* or *\*exhault*: Stage 1
 Current ratio in print \(*exalt* vs. \**exhalt* vs. \**exhault*\): 4,437:3:1
 

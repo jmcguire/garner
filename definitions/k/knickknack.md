@@ -4,6 +4,6 @@ knickknack is so spelled, with a *-kk-* in the middle. Some writers mistakenly o
 
 Language-Change Index
 
-*knickknack* misspelled *\*knicknack*: Stage 1   
+*knickknack* misspelled *\*knicknack*: Stage 1
 Current ratio in print \(*knickknack* vs. \**nicknack* vs. \**knicknack*\): 42:1.9:1
 

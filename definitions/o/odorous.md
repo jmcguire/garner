@@ -10,6 +10,6 @@ Language-Change Index
 
 1. *\*odiferous*: Stage 2
 
-2. *odoriferous* in the sense "foul-smelling": Stage 2  
+2. *odoriferous* in the sense "foul-smelling": Stage 2
 Current ratio in print \(*odoriferous* vs. \**odiferous*\): 4:1
 

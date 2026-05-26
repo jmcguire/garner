@@ -4,6 +4,6 @@ forefathers; **founding fathers**. Both may denote the founders of a country, bu
 
 Language-Change Index
 
-*\*founding forefathers* for *founding fathers*: Stage 1   
+*\*founding forefathers* for *founding fathers*: Stage 1
 Current ratio in print \(*founding fathers* vs. *\*founding forefathers*\): 720:1
 

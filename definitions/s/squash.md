@@ -14,6 +14,6 @@ Even rebellions are most traditionally *quashed*, not *squashed*. But either way
 
 Language-Change Index
 
-*squash* misused for *quash*: Stage 3   
+*squash* misused for *quash*: Stage 3
 Current ratio in print \(*quash the rebellion* vs. *\*squash the rebellion*\): 3:1
 

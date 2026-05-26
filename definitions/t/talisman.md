@@ -8,6 +8,6 @@ talisman. Pl. *talismans*. Sometimes the erroneous *\*talismen* appears for the 
 
 Language-Change Index
 
-*\*talismen* as a false plural for *talismans*: Stage 1   
+*\*talismen* as a false plural for *talismans*: Stage 1
 Current ratio in print \(*talismans* vs. *\*talismen*\): 206:1
 

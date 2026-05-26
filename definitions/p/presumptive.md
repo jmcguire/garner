@@ -22,9 +22,9 @@ See spelling \(a\). Pronounced properly, the word has four syllables: /pri-**zum
 
 Language-Change Index
 
-1. *presumptuous* misspelled *\*presumptious*: Stage 1  
+1. *presumptuous* misspelled *\*presumptious*: Stage 1
 Current ratio in print \(*presumptuous* vs. \**presumptious*\): 159:1
 
-2. *presumptive* misused for *presumptuous*: Stage 1  
+2. *presumptive* misused for *presumptuous*: Stage 1
 Current ratio in print \(*be so presumptuous* vs. *\*be so presumptive*\): 46:1
 

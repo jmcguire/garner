@@ -16,6 +16,6 @@ In BrE, *educationist* is sometimes used in the sense that *educator* bears in A
 
 Language-Change Index
 
-*educationalist* for *educationist*: Stage 4   
+*educationalist* for *educationist*: Stage 4
 Current ratio in print \(*educator* vs. *educationalist* vs. *educationist*\): 57:1.4:1
 

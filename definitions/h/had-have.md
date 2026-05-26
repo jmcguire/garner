@@ -30,9 +30,9 @@ For more on this type of error, see **of \(d\)**.
 
 Language-Change Index
 
-1. *\*had have* or *\*had've* for *had*: Stage 2  
+1. *\*had have* or *\*had've* for *had*: Stage 2
 Current ratio in print \(*had been* vs. *\*had have been*\): 31,538:1
 
-2. *\*had of* for *had*: Stage 1  
+2. *\*had of* for *had*: Stage 1
 Current ratio in print \(*had been* vs. *\*had of been*\): 40,757:1
 

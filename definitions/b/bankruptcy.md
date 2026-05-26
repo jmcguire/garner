@@ -4,6 +4,6 @@ bankruptcy \[fr. L. *bancus* "table" \+ *ruptus* "broken"\] is sometimes misspel
 
 Language-Change Index
 
-*bankruptcy* misspelled *\*bankruptsy*: Stage 1   
+*bankruptcy* misspelled *\*bankruptsy*: Stage 1
 Current ratio in print \(*bankruptcy* vs. \**bankruptsy*\): 23,247:1
 

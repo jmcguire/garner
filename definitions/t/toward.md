@@ -4,7 +4,7 @@ toward.
 
 **A. And *towards*.** Since about 1900, *toward* has been the predominant and editorially preferred form in AmE; *towards* has always been predominant in BrE. See directional words \(a\).
 
-Current ratio in print \(*toward* vs. *towards* in AmE \[case-insensitive search\]\): 4:1   
+Current ratio in print \(*toward* vs. *towards* in AmE \[case-insensitive search\]\): 4:1
 Current ratio in print \(*toward* vs. *towards* in BrE \[case-insensitive search\]\): 2:1
 
 **B. Pronunciation.** The word is preferably pronounced /tord/ \(to rhyme with *board*\), not /tword/ or /tә-**word**/. See class distinctions.

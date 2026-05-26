@@ -10,6 +10,6 @@ The same error occurs in the noun use, in which *supernumerary* means "an extra 
 
 Language-Change Index
 
-*supernumerary* misspelled *\*supernumery*: Stage 1   
+*supernumerary* misspelled *\*supernumery*: Stage 1
 Current ratio in print \(*supernumerary* vs. \**supernumery*\): 283:1
 

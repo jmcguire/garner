@@ -6,6 +6,6 @@ bar mitzvah; **bat mitzvah**; **bas mitzvah**. These terms are gender-specific. 
 
 While these terms were once compounded into single words, or joined by hyphens, today they are written as two-word phrases.
 
-Current ratio in print \(*bar mitzvah* vs. *bar mizvah*\): 2,290:1   
+Current ratio in print \(*bar mitzvah* vs. *bar mizvah*\): 2,290:1
 Current ratio in print \(*bat mitzvah* vs. *bas mitzvah* vs. *bat mizvah*\): 8,372:42:1
 

@@ -12,10 +12,10 @@ The two are subject to word-swapping, each sometimes being misused for the other
 
 Language-Change Index
 
-1. *mantle* misused for *mantel*: Stage 1  
-Current ratio in print \(*clock on the mantel* vs. \**clock on the mantle*\): 5:1   
+1. *mantle* misused for *mantel*: Stage 1
+Current ratio in print \(*clock on the mantel* vs. \**clock on the mantle*\): 5:1
 Current ratio in print \(*mantelpiece* vs. \**mantlepiece*\): 34:1
 
-2. *mantel* misused for *mantle*: Stage 1  
+2. *mantel* misused for *mantle*: Stage 1
 Current ratio in print \(*take on the mantle* vs. \**take on the mantel*\): 29:1
 

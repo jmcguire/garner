@@ -12,7 +12,7 @@ Now for the upshot: use *lede* if you like, but understand that some among the u
 
 Language-Change Index
 
-*bury the lede*: Stage 5   
-Current ratio in print \(*bury the lead* vs. *bury the lede* in World Englishes\): 1.05:1   
+*bury the lede*: Stage 5
+Current ratio in print \(*bury the lead* vs. *bury the lede* in World Englishes\): 1.05:1
 Current ratio in print \(*bury the lede* vs. *bury the lead* in AmE\): 1.3:1
 

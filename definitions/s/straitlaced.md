@@ -10,6 +10,6 @@ Once hyphenated in AmE, the term has been solid since the late 1970s. In BrE, th
 
 Language-Change Index
 
-*\*straightlaced* for *straitlaced*: Stage 3   
+*\*straightlaced* for *straitlaced*: Stage 3
 Current ratio in print \(*straitlaced* vs. *\*straightlaced*\): 4:1
 

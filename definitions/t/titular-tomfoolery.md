@@ -1,4 +1,4 @@
-# Titular Tomfoolery 
+# Titular Tomfoolery
 
 Titular Tomfoolery . Nowadays almost any appositive is likely to be treated as if it were a title. This trend is primarily the fault of newspapers and magazines, which create descriptive titles for people on the fly. So instead of *Timothy McVeigh, the convicted bomber*, journalists want to say *convicted bomber Timothy McVeigh*. Worse yet, some writers would even capitalize the descriptor, further elevating the common noun to title status—e.g.: *Convicted Bomber Timothy McVeigh*.
 

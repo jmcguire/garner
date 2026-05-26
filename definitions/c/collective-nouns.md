@@ -1,4 +1,4 @@
-# Collective Nouns 
+# Collective Nouns
 
 Collective Nouns .
 

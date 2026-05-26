@@ -12,6 +12,6 @@ Whatever the interest rate a debtor must be charged, it's revolting to think of 
 
 Language-Change Index
 
-*per anum* misused for *per annum*: Stage 1   
+*per anum* misused for *per annum*: Stage 1
 Current ratio in print \(*percent per annum* vs. *\*percent per anum*\): 2,148:1
 

@@ -18,6 +18,6 @@ Language-Change Index
 
 1. *restrain* misused for *refrain*: Stage 2
 
-2. *\*refrain oneself* for *restrain oneself*: Stage 1  
+2. *\*refrain oneself* for *restrain oneself*: Stage 1
 Current ratio in print \(*restrain oneself* vs. *\*refrain oneself *\): 38:1
 

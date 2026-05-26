@@ -12,6 +12,6 @@ Cf. **all right \(b\)**.
 
 Language-Change Index
 
-*\*alot* for *a lot*: Stage 2   
+*\*alot* for *a lot*: Stage 2
 Current ratio in print \(*a lot* vs. *\*alot*\): 1,022:1
 

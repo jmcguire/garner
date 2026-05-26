@@ -24,10 +24,10 @@ For a misuse of *sprang* for *sprained*, see **sprain**.
 
 Language-Change Index
 
-1. *sprung* misused for simple past-tense *sprang*: Stage 4  
+1. *sprung* misused for simple past-tense *sprang*: Stage 4
 Current ratio in print \(*vessel sprang a leak* vs. *\*vessel sprung a leak*\): 1.6:1
 
-2. *sprang* misused for past-participial *sprung*: Stage 1  
-Current ratio in print \(*have sprung* vs. *\*have sprang*\): 229:1   
+2. *sprang* misused for past-participial *sprung*: Stage 1
+Current ratio in print \(*have sprung* vs. *\*have sprang*\): 229:1
 Current ratio in print \(*they sprang* vs. \**they sprung*\): 4:1
 

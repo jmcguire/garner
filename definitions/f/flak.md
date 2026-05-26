@@ -20,9 +20,9 @@ During the 1960s, the noun *flack* was made into a verb—as a synonym of *hype*
 
 Language-Change Index
 
-1. *flack* misused for *flak*: Stage 3  
+1. *flack* misused for *flak*: Stage 3
 Current ratio in print \(*caught flak* vs. *\*caught flack*\): 1.6:1
 
-2. *flak* misused for *flack*: Stage 2  
+2. *flak* misused for *flack*: Stage 2
 Current ratio in print \(*PR flacks* vs. *\*PR flaks*\): 6:1
 

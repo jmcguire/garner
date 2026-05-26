@@ -24,9 +24,9 @@ The most common mistake is to write *\*prostrate gland* instead of *prostate gla
 
 Language-Change Index
 
-1. *\*prostrate gland* for *prostate gland*: Stage 1  
+1. *\*prostrate gland* for *prostate gland*: Stage 1
 Current ratio in print \(*prostate gland* vs. *\*prostrate gland*\): 218:1
 
-2. *prostate* misused for *prostrate*: Stage 1  
+2. *prostate* misused for *prostrate*: Stage 1
 Current ratio in print \(*lying prostrate* vs. \**lying prostate*\): 83:1
 

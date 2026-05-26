@@ -16,6 +16,6 @@ Still, it's permissible to say *tell that to your father* and the like—e.g.: "
 
 Language-Change Index
 
-*tell* misused for *say*: Stage 1   
+*tell* misused for *say*: Stage 1
 Current ratio in print \(*he said that he* vs. *\*he told that he*\): 152:1
 

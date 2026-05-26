@@ -1,4 +1,4 @@
-# *pace* 
+# *pace*
 
 *pace* , prep. \(/**pay**-see/ or /**pah**-chay/\), is a latinism meaning originally "with peace to," and today "with all due respect to." It is used most often when the writer expresses a contrary position—e.g.:
 

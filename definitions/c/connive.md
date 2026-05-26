@@ -20,7 +20,7 @@ Perhaps because of the suffix and the word's unsavory, even criminal connotation
 
 Language-Change Index
 
-1. *connive* misused for *conspire* or *contrive*: Stage 4   
+1. *connive* misused for *conspire* or *contrive*: Stage 4
 Current ratio in print \(*conniving at* vs. *conniving against*\): 16:1
 
 2. *connive* misused for *plot* or *con*: Stage 2

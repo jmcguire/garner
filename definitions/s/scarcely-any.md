@@ -4,6 +4,6 @@ scarcely any is sometimes displaced by the dialectal double negative *\*scarcely
 
 Language-Change Index
 
-*\*scarcely no* for *scarcely any*: Stage 1   
+*\*scarcely no* for *scarcely any*: Stage 1
 Current ratio in print \(*scarcely any* vs. *\*scarcely no*\): 480:1
 

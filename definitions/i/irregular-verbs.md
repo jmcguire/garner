@@ -1,4 +1,4 @@
-# Irregular Verbs 
+# Irregular Verbs
 
 Irregular Verbs .
 

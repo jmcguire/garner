@@ -26,6 +26,6 @@ See irregular verbs.
 
 Language-Change Index
 
-*\*slayed* for *slew*: Stage 1   
+*\*slayed* for *slew*: Stage 1
 Current ratio in print \(*slew* vs. *\*slayed*\): 28:1
 

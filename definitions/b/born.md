@@ -18,10 +18,10 @@ Yet *borne* misused for *born* is certainly attested, especially in the metaphor
 
 Language-Change Index
 
-1. *born* misused for *borne*: Stage 1  
-Current ratio in print \(*borne in mind* vs. *\*born in mind*\): 40:1   
+1. *born* misused for *borne*: Stage 1
+Current ratio in print \(*borne in mind* vs. *\*born in mind*\): 40:1
 Current ratio in print \(*borne by him* vs. *\*born by him*\): 24:1
 
-2. *borne* misused for *born*: Stage 1  
+2. *borne* misused for *born*: Stage 1
 Current ratio in print \(*born of a desire* vs. *\*borne of a desire*\): 7:1
 

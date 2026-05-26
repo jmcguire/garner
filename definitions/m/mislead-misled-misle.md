@@ -12,6 +12,6 @@ Cf. **lead**.
 
 Language-Change Index
 
-*mislead* misused for the past-tense *misled*: Stage 1   
+*mislead* misused for the past-tense *misled*: Stage 1
 Current ratio in print \(*were misled by* vs. *\*were mislead by*\): 86:1
 

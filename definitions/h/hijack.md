@@ -10,6 +10,6 @@ The word is often misspelled *\*highjack*—e.g.:
 
 Language-Change Index
 
-*\*highjack* for *hijack*: Stage 1   
+*\*highjack* for *hijack*: Stage 1
 Current ratio in print \(*hijack* vs. *\*highjack*\): 29:1
 

@@ -18,7 +18,7 @@ Language-Change Index
 
 Language-Change Index
 
-*\*not as good of a* for *not as good a*: Stage 2   
+*\*not as good of a* for *not as good a*: Stage 2
 Current ratio in print \(*not as good a* vs. *\*not as good of a*: 12:1
 
 **E. *As . . . than*.** *Than* is sometimes misused for the second *as*—e.g.: "A Roper Starch poll says that 24 percent of consumers—twice *as* many *than* \[read *as*\] in 1987—say they never go to malls." Allison Lucas, "The Fall of the Mall," *Sales & Marketing Mgmt.*, 1 Apr. 1996, at 13. \(But it would be *twice more than*.\) See swapping horses.

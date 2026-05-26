@@ -14,6 +14,6 @@ The opposite error—misusing *deserts* for *desserts*—is so rare as to sugges
 
 Language-Change Index
 
-*just deserts* misspelled *just desserts*: Stage 3   
+*just deserts* misspelled *just desserts*: Stage 3
 Current ratio in print \(*just deserts* vs. *just desserts*\): 3:1
 

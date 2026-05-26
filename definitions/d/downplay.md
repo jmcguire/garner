@@ -4,6 +4,6 @@ downplay \(= to de-emphasize\), an Americanism dating from the 1950s, became a v
 
 Language-Change Index
 
-*downplay* for *play down*: Stage 5   
+*downplay* for *play down*: Stage 5
 Current ratio in print \(*downplay* vs. *play down*\): 4:1
 

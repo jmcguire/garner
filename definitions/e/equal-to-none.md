@@ -8,6 +8,6 @@
 
 Language-Change Index
 
-*\*equal to none* for *second to none*: Stage 2   
+*\*equal to none* for *second to none*: Stage 2
 Current ratio in print \(*second to none* vs. *\*equal to none*\): 128:1
 

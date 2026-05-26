@@ -8,6 +8,6 @@ On the other hand, one benefit may be avoidance of the misspelling *\*run a muck
 
 Language-Change Index
 
-*amok* for *amuck*: Stage 5   
+*amok* for *amuck*: Stage 5
 Current ratio in print \(*amok* vs. *amuck*\): 3:1
 

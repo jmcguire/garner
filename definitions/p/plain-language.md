@@ -1,4 +1,4 @@
-# Plain Language 
+# Plain Language
 
 Plain Language .
 

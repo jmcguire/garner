@@ -18,6 +18,6 @@ A related mistake is to use *continuous* for something that happens at regular \
 
 Language-Change Index
 
-*continuous* misused for *continual*: Stage 3   
+*continuous* misused for *continual*: Stage 3
 Current ratio in print \(*continually urging* vs. *\*continuously urging*\): 11:1
 

@@ -18,6 +18,6 @@ If *\*confirmant* were appropriate at all, it would refer to the priest or minis
 
 Language-Change Index
 
-\**confirmant* for *confirmand*: Stage 1   
+\**confirmant* for *confirmand*: Stage 1
 Current ratio in print \(*the confirmands* vs. \**the confirmants*\): 33:1
 

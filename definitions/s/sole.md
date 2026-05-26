@@ -10,10 +10,10 @@ Occasionally the word *sole* and its homophone *soul* get confounded, as in the 
 
 Language-Change Index
 
-*sole* followed by a plural noun: Stage 2   
-Current ratio in print \(*sole heir* vs. \**soul heir*\): 702:1   
-Current ratio in print \(*sole purpose* vs. \**soul purpose*\): 45:1   
-Current ratio in print \(*sole source* vs. \**soul source*\): 358:1   
-Current ratio in print \(*the only people* vs. \**the sole people*\): 1,117:1   
+*sole* followed by a plural noun: Stage 2
+Current ratio in print \(*sole heir* vs. \**soul heir*\): 702:1
+Current ratio in print \(*sole purpose* vs. \**soul purpose*\): 45:1
+Current ratio in print \(*sole source* vs. \**soul source*\): 358:1
+Current ratio in print \(*the only people* vs. \**the sole people*\): 1,117:1
 Current ratio in print \(*the only criteria* vs. \**the sole criteria*\): 2.4:1
 

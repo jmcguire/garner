@@ -4,6 +4,6 @@ bureaucrat \(= an official of a bureaucracy\), a word tinged with pejorative ove
 
 Language-Change Index
 
-*bureaucrat* misspelled *\*beaurocrat*: Stage 1   
+*bureaucrat* misspelled *\*beaurocrat*: Stage 1
 Current ratio in print \(*bureaucrat* vs. \**beaurocrat*\): 1,915:1
 

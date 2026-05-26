@@ -20,6 +20,6 @@ This distinction was firm even in the early to mid-1900s, when Wodehouse wrote t
 
 Language-Change Index
 
-*incredulous* misused for *incredible*: Stage 1   
+*incredulous* misused for *incredible*: Stage 1
 Current ratio in print \(*it is incredible* vs. *\*it is incredulous*\): 104:1
 

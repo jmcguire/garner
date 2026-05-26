@@ -26,6 +26,6 @@ Language-Change Index
 
 1. *fun* as an adjective <a fun place>: Stage 4
 
-2. *fun* as an inflectable adjective \(hence *funner*, *funnest*\): Stage 2  
+2. *fun* as an inflectable adjective \(hence *funner*, *funnest*\): Stage 2
 Current ratio in print \(*more fun* vs. *funner*\): 207:1
 

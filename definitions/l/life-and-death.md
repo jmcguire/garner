@@ -8,6 +8,6 @@ life-and-death; **\*life-or-death**. Though the sense is "relating to a matter o
 
 Language-Change Index
 
-*\*life-or-death* for *life-and-death*: Stage 3   
+*\*life-or-death* for *life-and-death*: Stage 3
 Current ratio in print \(*life-and-death* vs. *\*life-or-death*\): 1.7:1
 

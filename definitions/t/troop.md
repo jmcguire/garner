@@ -12,6 +12,6 @@ While some object to the use of *troops* \(always plural\) to refer to individua
 
 Language-Change Index
 
-*troop* misused for *troupe*: Stage 1   
+*troop* misused for *troupe*: Stage 1
 Current ratio in print \(*theater troupe* vs. *\*theater troop*\): 33:1
 

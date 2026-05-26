@@ -8,6 +8,6 @@ tie makes, in the present participle, *tying*. *\*Tieing*, though common, is inc
 
 Language-Change Index
 
-*\*tieing* for *tying*: Stage 1   
+*\*tieing* for *tying*: Stage 1
 Current ratio in print \(*tying* vs. *\*tieing*\): 395:1
 

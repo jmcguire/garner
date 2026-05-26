@@ -16,7 +16,7 @@ Dating from 1952, *doublespeak* is also known as *double-talk* \(dating from 193
 
 For good treatments of the subject, see Lutz's work cited above and several earlier works: Mario Pei, *Words in Sheep's Clothing* \(1969\); Mario Pei, *Double-Speak in America* \(1973\); Mario Pei, *Weasel Words: The Art of Saying What You Don't Mean* \(1978\); William Lambdin, *Doublespeak Dictionary* \(1979\); and Hugh Rawson, *A Dictionary of Euphemisms & Other Doubletalk* \(1981\).
 
-Current ratio in print \(*doublespeak* vs. *double-talk*\): 1.7:1   
-Current ratio in print \(*doublespeak* vs. \**double-speak* vs. \**double speak*\): 12:3:1   
+Current ratio in print \(*doublespeak* vs. *double-talk*\): 1.7:1
+Current ratio in print \(*doublespeak* vs. \**double-speak* vs. \**double speak*\): 12:3:1
 Current ratio in print \(*double-talk* vs. \**double talk* vs. \**doubletalk*\): 3:1.8:1
 

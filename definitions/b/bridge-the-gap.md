@@ -10,6 +10,6 @@ bridge the gap. This is the established idiom, dating from the 1600s. Through mi
 
 Language-Change Index
 
-*\*breach the gap* for *bridge the gap*: Stage 1   
+*\*breach the gap* for *bridge the gap*: Stage 1
 Current ratio in print \(*bridge the gap* vs. *\*breach the gap*\): 234:1
 

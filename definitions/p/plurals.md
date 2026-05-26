@@ -1,4 +1,4 @@
-# Plurals 
+# Plurals
 
 Plurals .
 
@@ -31,7 +31,7 @@ French words also present problems. *Bête noire* makes *bêtes noires*; *charg�
 
 Technical terms in a given field of study often tenaciously keep their classical plurals. Among the terms individually discussed in entries throughout this book are these:
 
-Loanwords Predominantly Having a Foreign Plural 
+Loanwords Predominantly Having a Foreign Plural
 
  - cactus
  - continuum
@@ -74,7 +74,7 @@ Loanwords Predominantly Having a Foreign Plural
 
 Some are almost 50/50 in forming either a foreign or a native plural; for them, there is no settled convention. Among these few are *interregnum* and *referendum*, each discussed in its own entry. Still others are predominantly formed with an -*s* or -*es* \(again, see the individual entries\):
 
-Loanwords Predominantly Having a Native-English Plural 
+Loanwords Predominantly Having a Native-English Plural
 
  - analect
  - apparatus

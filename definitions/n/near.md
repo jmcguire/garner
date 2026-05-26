@@ -4,6 +4,6 @@ near should not be used adverbially in place of *nearly*. That use of the word i
 
 Language-Change Index
 
-*near* misused for the adverb *nearly*: Stage 1   
+*near* misused for the adverb *nearly*: Stage 1
 Current ratio in print \(*not nearly as* vs. *\*not near as*\): 36:1
 

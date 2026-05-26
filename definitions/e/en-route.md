@@ -6,6 +6,6 @@ The phrase is pronounced /en root/ or /on root/. Avoid /in/. Although /rowt/ is 
 
 Dating from the late 1700s, *en route* has been susceptible to the mistaken rendering \**on route* \(same pronunciation\) since the late 1800s. The error occurs today with some frequency.
 
-Current ratio in print \(*en route* vs. \**enroute*\): 28:1   
+Current ratio in print \(*en route* vs. \**enroute*\): 28:1
 Current ratio in print \(*while en route to* vs. \**while on route to*\): 31:1
 

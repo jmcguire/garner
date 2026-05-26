@@ -22,6 +22,6 @@ See plurals \(b\).
 
 Language-Change Index
 
-*bon vivants* as a plural: Stage 5   
+*bon vivants* as a plural: Stage 5
 Current ratio in print \(*bon vivants* vs. *bons vivants*\): 3:1
 

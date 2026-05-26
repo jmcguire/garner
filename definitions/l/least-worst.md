@@ -16,6 +16,6 @@ Cf. **worse comes to worst**. See comparatives and superlatives & illogic.
 
 Language-Change Index
 
-*\*least worst* or *\*least worse* for *least bad*: Stage 3   
+*\*least worst* or *\*least worse* for *least bad*: Stage 3
 Current ratio in print \(*least bad* vs. *\*least worst* vs. *\*least worse*\): 15:6:1
 

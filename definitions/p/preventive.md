@@ -34,6 +34,6 @@ Although the ferocity of more modern usage commentators has diminished, the stan
 
 Language-Change Index
 
-*\*preventative* for *preventive*: Stage 3   
+*\*preventative* for *preventive*: Stage 3
 Current ratio in print \(*preventive* vs. *\*preventative*\): 4:1
 

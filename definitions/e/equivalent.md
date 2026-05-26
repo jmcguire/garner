@@ -6,7 +6,7 @@ equivalent.
 
 Language-Change Index
 
-*\*equivalent with* for *equivalent to*: Stage 1   
+*\*equivalent with* for *equivalent to*: Stage 1
 Current ratio in print \(*equivalent to* vs. *\*equivalent with*\): 98:1
 
 **B. A Malapropism: *\*equivocal with*.** Misusing *equivocal* for *equivalent* is a surprising malapropism, committed here by the chair of a college biology department: "Though physical sexual identity is not *equivocal with* \[read *equivalent to*\] sexual orientation, the point I am trying to make is that not all things are as black and white as some homophobes might like them to be." Joseph Adam Pearson, "Homophobia a Useless Passion That Destroys Lives on Both Sides," *Ariz. Republic*, 28 Sept. 1994, at B6.

@@ -6,6 +6,6 @@ The phrase *directly antithetical* verges on redundancy—e.g.: "The question is
 
 Language-Change Index
 
-*\*antithetic* for *antithetical*: Stage 2   
+*\*antithetic* for *antithetical*: Stage 2
 Current ratio in print \(*antithetical* vs. *\*antithetic*\): 13:1
 

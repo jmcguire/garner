@@ -16,6 +16,6 @@ If, however, the meaning is clearly either *call* or *write*, the specific verb 
 
 Language-Change Index
 
-*contact* as a verb meaning "to get in touch with": Stage 5   
+*contact* as a verb meaning "to get in touch with": Stage 5
 Current ratio in print \(*contact me* vs. *get in touch with me*\): 7:1
 

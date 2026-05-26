@@ -20,9 +20,9 @@ Likewise, *precedence* sometimes ousts *precedent* in the phrase *set a preceden
 
 Language-Change Index
 
-1. *\*taking precedent* for *taking precedence*: Stage 1  
+1. *\*taking precedent* for *taking precedence*: Stage 1
 Current ratio in print \(*taking precedence* vs. *\*taking precedent*\): 31:1
 
-2. *\*setting a precedence* for *setting a precedent*: Stage 1  
+2. *\*setting a precedence* for *setting a precedent*: Stage 1
 Current ratio in print \(*setting a precedent* vs. *\*setting a precedence*\): 56:1
 

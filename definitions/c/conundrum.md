@@ -4,6 +4,6 @@ conundrum. Pl. *conundrums*. This mock-Latin word, which grew popular in the 160
 
 Language-Change Index
 
-*\*conundra* for *conundrums*: Stage 1   
+*\*conundra* for *conundrums*: Stage 1
 Current ratio in print \(*conundrums* vs. *\*conundra*\): 48:1
 

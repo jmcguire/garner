@@ -1,4 +1,4 @@
-# -agog\(ue\) 
+# -agog\(ue\), Essay
 
  -agog\(ue\) . This suffix derives from the Greek word meaning "to lead; drive." Traditionalists and BrE writers prefer retaining the *-ue*—hence *demagogue* \(lit., "a leader of people"\) and *pedagogue* \(lit., "a leader of children"\). Among other advantages, these spellings prevent any possible confusion with the adjective and adverb *agog* \(= intensely excited\) <all agog over the Christmas presents>.
 

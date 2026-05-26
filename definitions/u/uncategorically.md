@@ -6,6 +6,6 @@ Even by then, the illogically formed nonword had already made its way into print
 
 Language-Change Index
 
-*\*uncategorically*: Stage 1   
+*\*uncategorically*: Stage 1
 Current ratio in print \(*categorically* vs. *\*uncategorically*\): 604:1
 

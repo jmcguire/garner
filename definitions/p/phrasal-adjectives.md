@@ -1,4 +1,4 @@
-# Phrasal Adjectives 
+# Phrasal Adjectives
 
 Phrasal Adjectives .
 

@@ -8,9 +8,9 @@ The phrase *\*blatantly obvious* is a redundancyâ€”e.g.: "That brought to mindâ€
 
 Language-Change Index
 
-1. *blatant* for *flagrant*: Stage 2  
+1. *blatant* for *flagrant*: Stage 2
 Current ratio in print \(*flagrant violation* vs. *blatant violation*\): 2.4:1
 
-2. *flagrant* for *blatant*: Stage 2  
+2. *flagrant* for *blatant*: Stage 2
 Current ratio in print \(*blatant attempt* vs. *flagrant attempt*\): 19:1
 

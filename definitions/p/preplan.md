@@ -12,6 +12,6 @@ See illogic \(a\).
 
 Language-Change Index
 
-*\*preplan* for *plan*: Stage 2   
+*\*preplan* for *plan*: Stage 2
 Current ratio in print \(*planned* vs. *\*preplanned*\): 229:1
 

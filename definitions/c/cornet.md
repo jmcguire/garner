@@ -4,6 +4,6 @@ cornet; **coronet**. *Cornet* /kor-**net**/ or, in BrE, /**kor**-net/ = a brass 
 
 Language-Change Index
 
-*coronet* misused for *cornet*: Stage 1   
+*coronet* misused for *cornet*: Stage 1
 Current ratio in print \(*cornet player* vs. *\*coronet player*\): 37:1
 

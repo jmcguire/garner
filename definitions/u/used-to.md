@@ -32,7 +32,7 @@ But remember the standard form that can save you headaches: *never used to*. It 
 
 Language-Change Index
 
-*didn't used to*: Stage 5   
+*didn't used to*: Stage 5
 Current ratio in print \(*didn't used to be* vs. *didn't use to be*\): 2.5:1
 
 **C. Contracted Form of *used not to*.** In Irish speech, the formal phrase *used not to* is sometimes contracted \(rather awkwardly\) to *usen't to* or *\*usedn't to*—e.g.:

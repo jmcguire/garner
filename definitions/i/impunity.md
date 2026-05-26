@@ -16,7 +16,7 @@ For more on this word, see **immunity**.
 
 Language-Change Index
 
-*\*without impunity* for *with impunity*: Stage 1   
+*\*without impunity* for *with impunity*: Stage 1
 Current ratio in print \(*with impunity* vs. *\*without impunity*\): 176:1
 
 **B. *\*Impugnity*.** Some writers apparently confuse the word *impunity* as having some association with *impugn* \(= to assail the integrity of \[a person, a person's motives, etc.\]\)—e.g.:
@@ -27,6 +27,6 @@ Current ratio in print \(*with impunity* vs. *\*without impunity*\): 176:1
 
 Language-Change Index
 
-*impunity* misspelled *\*impugnity*: Stage 1   
+*impunity* misspelled *\*impugnity*: Stage 1
 Current ratio in print \(*impunity* vs. \**impugnity*\): 2,898:1
 

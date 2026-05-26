@@ -6,9 +6,9 @@ The verb is often misspelled *\*smoothe*, doubtless on the analogy of *sheathe*,
 
 Language-Change Index
 
-1. *\*smoothe* for the verb *smooth*: Stage 1  
+1. *\*smoothe* for the verb *smooth*: Stage 1
 Current ratio in print \(*to smooth* vs. *\*to smoothe*\): 252:1
 
-2. *\*smoothen* for the verb *smooth*: Stage 1  
+2. *\*smoothen* for the verb *smooth*: Stage 1
 Current ratio in print \(*smoothed* vs. *\*smoothened*\): 91:1
 

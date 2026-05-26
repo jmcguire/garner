@@ -12,6 +12,6 @@ This error is a malapropism. See **bequest**, n.
 
 Language-Change Index
 
-*bequest* misused for *behest*: Stage 1   
+*bequest* misused for *behest*: Stage 1
 Current ratio in print \(*at his behest* vs. *\*at his bequest*\): 36:1
 

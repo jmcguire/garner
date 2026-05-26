@@ -18,10 +18,10 @@ And the reverse error sometimes occurs, especially with the noun \(*augur* being
 
 Language-Change Index
 
-1. *auger* misused for *augur*: Stage 1   
+1. *auger* misused for *augur*: Stage 1
 Current ratio in print \(*augurs well* vs. *\*augers well*\): 9:1
 
-2. *augur* misused for *auger*: Stage 1   
+2. *augur* misused for *auger*: Stage 1
 Current ratio in print \(*soil auger* vs. *\*soil augur*\): 25:1
 
 **B. And *augury*, n.** An *augury* is an omen, portent, or indication of the future; or it can refer to the art of reading omens and the like. *Augur* is to *augury* as *soothsayer* is to *omen*—e.g.:
@@ -38,6 +38,6 @@ The word appears much more commonly in BrE than in AmE. But writers commonly mis
 
 Language-Change Index
 
-*augur* misused for *augury*: Stage 1   
+*augur* misused for *augury*: Stage 1
 Current ratio in print \(*an augury of the future* vs. *\*an augur of the future*\): 2:1
 

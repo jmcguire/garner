@@ -1,4 +1,4 @@
-# Verbs 
+# Verbs
 
  Verbs . See tenses.
 

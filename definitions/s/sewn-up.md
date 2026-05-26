@@ -14,6 +14,6 @@ The mistake occurs much more frequently in BrE than in AmE—e.g.:
 
 Language-Change Index
 
-*sown* misused for *sewn*: Stage 1   
+*sown* misused for *sewn*: Stage 1
 Current ratio in print \(*sewn up* vs. *\*sown up*\): 29:1
 

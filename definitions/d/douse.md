@@ -14,9 +14,9 @@ But the opposite error, *dowse* for *douse*, is more common—e.g.:
 
 Language-Change Index
 
-1. *douse* misused for *dowse*: Stage 1  
+1. *douse* misused for *dowse*: Stage 1
 Current ratio in print \(*dowsing rod* vs. *\*dousing rod*\): 21:1
 
-2. *dowse* misused for *douse*: Stage 1  
+2. *dowse* misused for *douse*: Stage 1
 Current ratio in print \(*dousing the fire* vs. *\*dowsing the fire*\): 19:1
 

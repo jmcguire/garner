@@ -34,7 +34,7 @@ Avoid *spit* as the simple-past form. It has never been the predominant form in 
 
 Language-Change Index
 
-*spit* as past tense or past participle of *spit*: Stage 4   
-Current ratio in print \(*he spat on* vs. \**he spit on*\): 4:1   
+*spit* as past tense or past participle of *spit*: Stage 4
+Current ratio in print \(*he spat on* vs. \**he spit on*\): 4:1
 Current ratio in print \(*she spat out* vs. \**she spit out*\): 4:1
 

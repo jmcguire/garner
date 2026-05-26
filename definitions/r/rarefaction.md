@@ -10,6 +10,6 @@ rarefaction /rair-ә-**fak**-shәn/ = \(1\) the act or process of making less de
 
 Language-Change Index
 
-*rarefaction* misspelled *\*rarefication*, *\*rarification*, or *\*rarifaction*: Stage 1   
+*rarefaction* misspelled *\*rarefication*, *\*rarification*, or *\*rarifaction*: Stage 1
 Current ratio in print \(*rarefaction* vs. *\*rarefication* vs. *\*rarification* vs. *\*rarifaction*\): 547:16:5:1
 

@@ -6,6 +6,6 @@ AmE prefers the spellings above; the BrE spellings are *anaesthetic* and *anaest
 
 Language-Change Index
 
-*anesthesia* misused for *anesthetic*: Stage 2   
+*anesthesia* misused for *anesthetic*: Stage 2
 Current ratio in print \(*without an anesthetic* vs. ***\*without** an anesthesia*\): 9:1
 

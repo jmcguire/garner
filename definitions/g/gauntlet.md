@@ -28,6 +28,6 @@ Occasionally the phrase invites a confused metaphor—e.g.: " ‘It probably j
 
 Language-Change Index
 
-*gauntlet* for *gantlet*: Stage 5   
+*gauntlet* for *gantlet*: Stage 5
 Current ratio in print \(*running the gauntlet* vs. *running the gantlet*\): 16:1
 

@@ -14,7 +14,7 @@ Although *deviant* is the predominant adjective, it has had to compete—unfortu
 
 Language-Change Index
 
-*deviate* used as an adjective in place of *deviant*: Stage 1   
+*deviate* used as an adjective in place of *deviant*: Stage 1
 Current ratio in print \(*deviant behavior* vs. *\*deviate behavior*\): 341:1
 
 **B. As Nouns.** Both *deviate* and *deviant* are used as \(generally pejorative\) nouns to denote someone whose behavior departs from the accepted range of normality—especially a sexual pervert. Although the two forms are both common, the noun *deviant*, as in *sexual deviant*, has predominated since about 1970. *Deviant* has the advantage of deriving from the preferred adjective. \(See functional shift.) All in all, *deviate* is best reserved for its verb function.

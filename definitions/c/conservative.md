@@ -4,6 +4,6 @@ conservative is surprisingly often, through a kind of visual metathesis, printed
 
 Language-Change Index
 
-*conservative* misspelled *\*conversative*: Stage 1   
+*conservative* misspelled *\*conversative*: Stage 1
 Current ratio in print \(*conservative* vs. \**conversative*\): 17,338:1
 

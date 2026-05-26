@@ -1,4 +1,4 @@
-# *tu quoque* 
+# *tu quoque*
 
 *tu quoque*  /too **kwoh**-kwee/ \(lit., "you also"\) = a retort in kind; accusing an accuser of a similar offense. Traditionally, the phrase serves as a noun—e.g.:
 

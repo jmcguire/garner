@@ -24,6 +24,6 @@ Language-Change Index
 
 1. *parley* misused for *parlay*: Stage 1
 
-2. *parlay* misused for *parley*: Stage 1  
+2. *parlay* misused for *parley*: Stage 1
 Current ratio in print \(*parley with him* vs. *\*parlay with him*\): 36:1
 

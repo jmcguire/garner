@@ -1,4 +1,4 @@
-# ae 
+# ae, Essay
 
  ae . In many words, *ae* is a remnant of the Latin digraph, formerly ligatured \(æ\), appearing in words of Latin and Greek origin. In many words in which this digraph once appeared, the first vowel has been dropped, especially in AmE. One sees this tendency at work in *\(a\)eon*, *\(a\)estivate*, *\(a\)ether*, *\(a\)etiology*, *encyclop\(a\)edia*, *et c\(a\)etera*, *f\(a\)eces*, and *h\(a\)emoglobin*. But in some words, the *ae-* forms are established—for example, *aegis*, *aeolian*, *aerial*, *aerobic*, *aerosol*, *aerospace*, *aesthetic*, *diaeresis*, *paean*, and *praetor*.
 

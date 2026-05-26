@@ -8,6 +8,6 @@
 
 Language-Change Index
 
-*\*slanderize* for the verb *slander*: Stage 1   
+*\*slanderize* for the verb *slander*: Stage 1
 Current ratio in print \(*slander*, vb. vs. *\*slanderize*\): 954:1
 

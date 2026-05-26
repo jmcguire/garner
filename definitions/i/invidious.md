@@ -4,6 +4,6 @@ invidious. This term is sometimes mistakenly, through metathesis, written *\*ind
 
 Language-Change Index
 
-*invidious* misspelled *\*indivious*: Stage 1   
+*invidious* misspelled *\*indivious*: Stage 1
 Current ratio in print \(*invidious* vs. \**indivious*\): 3,370:1
 

@@ -6,9 +6,9 @@ fewer; **less**. *Fewer* emphasizes number, and *less* emphasizes degree or quan
 
 Language-Change Index
 
-1. *\*fewer* \[or *fewest*\] *number* for *smaller* \[or *smallest*\] *number*: Stage 3  
+1. *\*fewer* \[or *fewest*\] *number* for *smaller* \[or *smallest*\] *number*: Stage 3
 Current ratio in print \(*smallest number* vs. *\*fewest number*\): 3:1
 
-2. *\*one fewer* for *one less*: Stage 3  
+2. *\*one fewer* for *one less*: Stage 3
 Current ratio in print \(*one less* vs. *\*one fewer*\): 12:1
 

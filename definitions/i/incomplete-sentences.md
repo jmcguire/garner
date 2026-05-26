@@ -1,4 +1,4 @@
-# Incomplete Sentences 
+# Incomplete Sentences
 
 Incomplete Sentences .
 

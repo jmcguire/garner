@@ -6,6 +6,6 @@ imprimatur; **\*imprimatura**; **\*imprimature**. The normal form for ordinary p
 
 Language-Change Index
 
-*\*imprimature* for *imprimatur*: Stage 1   
+*\*imprimature* for *imprimatur*: Stage 1
 Current ratio in print \(*imprimatur* vs. \**imprimatura* vs. \**imprimature*\): 597:9:1
 

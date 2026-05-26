@@ -4,6 +4,6 @@ gist \(= the main point or essential part\), pronounced /jist/, is so spelled. T
 
 Language-Change Index
 
-*\*jist* for *gist*: Stage 1   
+*\*jist* for *gist*: Stage 1
 Current ratio in print \(*the gist of* vs. *\*the jist of *\): 395:1
 

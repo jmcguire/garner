@@ -10,6 +10,6 @@ antivenin \(= an antitoxin for venom, esp. from snakes\) is often mistakenly wri
 
 Language-Change Index
 
-*\*antivenom* for *antivenin*: Stage 4   
+*\*antivenom* for *antivenin*: Stage 4
 Current ratio in print \(*antivenins* vs. *\*antivenoms*\): 1:3
 

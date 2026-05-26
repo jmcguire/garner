@@ -6,6 +6,6 @@ Language-Change Index
 
 1. *sherbet* mispronounced /**shәr**-bәrt/: Stage 3
 
-2. *sherbet* misspelled *\*sherbert*: Stage 2  
+2. *sherbet* misspelled *\*sherbert*: Stage 2
 Current ratio in print \(*sherbet* vs. \**sherbert*\): 29:1
 

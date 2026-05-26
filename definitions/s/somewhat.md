@@ -12,6 +12,6 @@ The collocation *something of a* has a greatly predominated over \**somewhat of 
 
 Language-Change Index
 
-*\*somewhat of an expert* for *something of an expert*: Stage 3   
+*\*somewhat of an expert* for *something of an expert*: Stage 3
 Current ratio in print \(*something of an expert* vs. *\*somewhat of an expert*\): 4:1
 

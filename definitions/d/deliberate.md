@@ -6,6 +6,6 @@ deliberate, adj.; **deliberative**. These words should be differentiated. *Delib
 
 Language-Change Index
 
-*deliberative* misused for *deliberate*: Stage 1   
+*deliberative* misused for *deliberate*: Stage 1
 Current ratio in print \(*deliberate attempt* vs. \**deliberative attempt*\): 664:1
 

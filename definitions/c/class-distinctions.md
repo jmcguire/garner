@@ -40,7 +40,7 @@ Vocabulary Markers in AmE
  - what kind of bird *\**what kind of a bird
  - you and I are through *\**me and you are through
  - \[nothing\] real classy, class act, high-class
- -  
+ -
 
 Pronunciation Markers in AmE
 

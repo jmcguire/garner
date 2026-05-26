@@ -4,6 +4,6 @@ geriatric. This word is an adjective meaning either \(1\) "of, relating to, or i
 
 Language-Change Index
 
-*geriatric* as a noun meaning "old person": Stage 2   
+*geriatric* as a noun meaning "old person": Stage 2
 Current ratio in print \(*geriatric* vs. *\*geriatrical*\): 14,351:1
 

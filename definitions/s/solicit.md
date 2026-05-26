@@ -16,6 +16,6 @@ Language-Change Index
 
 Language-Change Index
 
-*\*solicitate* for *solicit*: Stage 1   
+*\*solicitate* for *solicit*: Stage 1
 Current ratio in print \(*solicited* vs. *\*solicitated*\): 3,195:1
 

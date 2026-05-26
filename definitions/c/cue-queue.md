@@ -14,7 +14,7 @@ Language-Change Index
 
 1. *queue* misused for *cue*: Stage 1
 
-2. *cue* misused for *queue*: Stage 1   
+2. *cue* misused for *queue*: Stage 1
 Current ratio in print \(*long queues* vs. *\*long cues*\): 215:1
 
 **B. *Cue up*; *queue up*.** To *cue up* an audio or video recording is to have it ready for playing at a particular point. E.g.:

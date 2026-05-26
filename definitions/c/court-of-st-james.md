@@ -4,6 +4,6 @@ Court of St. James = the British royal court. Although one sometimes encounters 
 
 Language-Change Index
 
-*Court of St. James* for *Court of St. James's*: Stage 5   
+*Court of St. James* for *Court of St. James's*: Stage 5
 Current ratio in print \(*St. James* vs. *St. James's*\): 3:1
 

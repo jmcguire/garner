@@ -1,4 +1,4 @@
-# Acronyms 
+# Acronyms
 
  Acronyms . See abbreviations.
 

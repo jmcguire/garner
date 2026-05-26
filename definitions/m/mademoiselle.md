@@ -10,7 +10,7 @@ The term is abbreviated *Mlle.* in the singular, *Mlles.* in the plural. In BrE,
 
 What is the plural of *mademoiselle*? From about 1750 to 1850, it was a regular English plural: *mademoiselles*. From about 1850 to 1915, the gallicism *mesdemoiselles* \(answering to *mesdames*\) predominated in English-language print sources. But then the pendulum swung back to *mademoiselles*. Since 2000, the degree of frequency has tightened once again to a 1:1 ratio in World English sources. The slight tendency in print is for AmE to prefer the fully anglicized plural *mademoiselles* and for BrE to prefer the French form *mesdemoiselles*. Cf. **Messrs**.
 
-Current ratio in print \(*mademoiselles* vs. *mesdemoiselles* in AmE\): 2:1   
-Current ratio in print \(*mesdemoiselles* vs. *mademoiselles* in BrE\): 1.2:1   
+Current ratio in print \(*mademoiselles* vs. *mesdemoiselles* in AmE\): 2:1
+Current ratio in print \(*mesdemoiselles* vs. *mademoiselles* in BrE\): 1.2:1
 Current ratio in print \(*mademoiselle* vs. \**madamoiselle*\): 377:1
 

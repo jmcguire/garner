@@ -34,7 +34,7 @@ Especially when followed by a negative, *there* has in many minds come to repres
 
 Language-Change Index
 
-1. *there is* \(or *there's*\) with a plural subject <there's three things>: Stage 2  
+1. *there is* \(or *there's*\) with a plural subject <there's three things>: Stage 2
 Current ratio in print \(*there are three things* vs. *\*there's three things*\): 42:1
 
 2. *there is* \(or *there's*\) with a compound subject whose first member is singular <there's an outhouse and a sump pump out back>: Stage 4

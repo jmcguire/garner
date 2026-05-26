@@ -8,6 +8,6 @@ Language-Change Index
 
 1. *crescendo* in reference to a climax or peak: Stage 3
 
-2. *\*crescendi* as a plural: Stage 2   
+2. *\*crescendi* as a plural: Stage 2
 Current ratio in print \(*crescendos* vs. *\*crescendi*\): 13:1
 

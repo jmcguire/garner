@@ -4,6 +4,6 @@ fine-toothed comb; **fine-tooth comb**. The latter spelling has long been more t
 
 Language-Change Index
 
-*fine-tooth comb* for *fine-toothed comb*: Stage 5   
+*fine-tooth comb* for *fine-toothed comb*: Stage 5
 Current ratio in print \(*tooth* vs. *toothed*\): 2:1
 

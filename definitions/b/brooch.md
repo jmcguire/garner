@@ -10,6 +10,6 @@ Perhaps because of its dominant pronunciation, *brooch* is sometimes misspelled 
 
 Language-Change Index
 
-*broach* misused for *brooch*: Stage 1   
+*broach* misused for *brooch*: Stage 1
 Current ratio in print \(*diamond brooch* vs. *\*diamond broach*\): 18:1
 

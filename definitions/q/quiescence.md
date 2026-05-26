@@ -4,9 +4,9 @@ quiescence; **\*quiescency**. *Quiescence* \(/kwee-**es**-әnts/ or /kwī-/\) is
 
 Language-Change Index
 
-1. *quiescence* misspelled *\*quiesence*: Stage 1  
+1. *quiescence* misspelled *\*quiesence*: Stage 1
 Current ratio in print \(*quiescence* vs. \**quiesence*\): 497:1
 
-2. *\*quiescency* for *quiescence*: Stage 1  
+2. *\*quiescency* for *quiescence*: Stage 1
 Current ratio in print \(*quiescence* vs. *\*quiescency*\): 987:1
 

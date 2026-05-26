@@ -22,6 +22,6 @@ Errol Flynn is reported to have resented the phrase, but it will always be linke
 
 Language-Change Index
 
-*\*in like Flint* for *in like Flynn*: Stage 2   
+*\*in like Flint* for *in like Flynn*: Stage 2
 Current ratio in print \(*in like Flynn* vs. *\*in like Flint*\): 12:1
 

@@ -4,6 +4,6 @@ incubus; **succubus**. An *incubus* is a male demon said to have sex with sleepi
 
 The plural forms are *incubi* \(or *incubuses*\) and *succubi* \(or *succubuses*\). It might be better to adopt *succubuses*, though, than to lead writers into the inconsistent forms seen in the following sentence: "We discovered that we could fashion medieval *incubuses* and *succubi* \[read *succubuses*\] not only from blacks but from late 19th-century immigrant hordes." Florence King, "Current Need to Awaken Dormant Beelzebub," *Wash. Times*, 12 Nov. 1995, at B8. Some writers would write *incubi* and *succubi*, but see plurals \(b\). Others have wisely espoused *incubuses* and *succubuses* \(well, the words, not the things denoted by them\)—e.g.: "These days, there are no *incubuses* or *succubuses*, I suspect, but we still have nightmares." Michael G. Gartner, "Words, Words, Words," *Courier-J.* \(Louisville\), 8 Dec. 1991, at D3.
 
-Current ratio in print \(*incubi* vs. *incubuses*\): 14:1   
+Current ratio in print \(*incubi* vs. *incubuses*\): 14:1
 Current ratio in print \(*succubi* vs. *succubuses*\): 60:1
 

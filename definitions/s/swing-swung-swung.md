@@ -12,9 +12,9 @@ The weak form *\*swinged* is also an infrequent error—e.g.: "The game *swinged
 
 Language-Change Index
 
-1. *\*swang* for *swung*: Stage 1  
+1. *\*swang* for *swung*: Stage 1
 Current ratio in print \(*swung* vs. *\*swang*\): 723:1
 
-2. *\*swinged* for *swung*: Stage 1  
+2. *\*swinged* for *swung*: Stage 1
 Current ratio in print \(*swung* vs. *\*swinged*\): 2,124:1
 

@@ -8,6 +8,6 @@ formerly; **formally**. *Formerly* \(= once, at a time in the past\) is sometime
 
 Language-Change Index
 
-*formally* misused for *formerly*: Stage 1   
+*formally* misused for *formerly*: Stage 1
 Current ratio in print \(*was formerly the case* vs. *\*was formally the case*\): 54:1
 

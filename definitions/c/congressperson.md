@@ -4,7 +4,7 @@
 
 Language-Change Index
 
-*\*Congressperson*: Stage 3   
-Current ratio in print \(*member of Congress* vs. *Congressperson*\): 9:1   
+*\*Congressperson*: Stage 3
+Current ratio in print \(*member of Congress* vs. *Congressperson*\): 9:1
 Current ratio in print \(*Congressman* vs. *Congresswoman* vs. *\*Congressperson*\): 103:11:1
 

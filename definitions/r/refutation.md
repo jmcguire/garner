@@ -4,6 +4,6 @@ refutation; **\*refutal**. The first is standard. The second is an unnecessary a
 
 Language-Change Index
 
-*\*refutal* for *refutation* or *denial*: Stage 1   
+*\*refutal* for *refutation* or *denial*: Stage 1
 Current ratio in print \(*refutation* vs. *\*refutal*\): 432:1
 

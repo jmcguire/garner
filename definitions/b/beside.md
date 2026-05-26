@@ -12,9 +12,9 @@ Likewise, *besides* is sometimes misused for *beside*—e.g.: "Whether or not th
 
 Language-Change Index
 
-1. *beside* misused for *besides*: Stage 1  
+1. *beside* misused for *besides*: Stage 1
 Current ratio in print \(*Besides doing* vs. *\*Beside doing*\): 117:1
 
-2. *besides* misused for *beside*: Stage 1  
+2. *besides* misused for *beside*: Stage 1
 Current ratio in print \(*beside the point* vs. *\*besides the point*\): 46:1
 

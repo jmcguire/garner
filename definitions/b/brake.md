@@ -18,9 +18,9 @@ Modern technology, here as elsewhere, has complicated usage. Consider this sente
 
 Language-Change Index
 
-1. *break* misused for *brake*: Stage 1  
+1. *break* misused for *brake*: Stage 1
 Current ratio in print \(*brake pedal* vs. *\*break pedal*\): 280:1
 
-2. *\*brake a fall* for *break a fall*: Stage 1  
+2. *\*brake a fall* for *break a fall*: Stage 1
 Current ratio in print \(*break their fast* vs. *\*brake their fast*\): 16:1
 

@@ -24,10 +24,10 @@ See irregular verbs.
 
 Language-Change Index
 
-1. *\*drived* for the simple-past *drove*: Stage 1  
+1. *\*drived* for the simple-past *drove*: Stage 1
 Current ratio in print \(*drove a* vs. *\*drived a*\): 5,648:1
 
-2. *\*drived* for the past-participial *driven*: Stage 1  
+2. *\*drived* for the past-participial *driven*: Stage 1
 Current ratio in print \(*driven by* vs. *\*drived by*\): 21,539:1
 
 **B. Dialectal Variants.** There are two dialectal past-tense forms—*\*driv* \(surviving in the southern U.S. and New England\) and *\*druv* \(occurring mostly in Kentucky and in Sussex\). It would surely be no great loss if they were driven into extinction.

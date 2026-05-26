@@ -10,6 +10,6 @@ The word is sometimes misspelled *\*amature*—e.g.: "Thanks to travel sites, We
 
 Language-Change Index
 
-*amateur* misspelled *\*amature*: Stage 1   
+*amateur* misspelled *\*amature*: Stage 1
 Current ratio in print \(*amateur* vs. \**amature*\): 1,554:1
 

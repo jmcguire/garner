@@ -10,6 +10,6 @@ Cf. **inconsistency**.
 
 Language-Change Index
 
-*\*consistence* for *consistency*: Stage 1   
+*\*consistence* for *consistency*: Stage 1
 Current ratio in print \(*consistency* vs. *\*consistence*\): 74:1
 

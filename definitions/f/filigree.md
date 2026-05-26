@@ -8,6 +8,6 @@ filigree \(= ornamentation consisting of a network of gold or silver wires, or o
 
 Language-Change Index
 
-*filigree* misspelled *\*fillagree* or *\*filagree*: Stage 1   
+*filigree* misspelled *\*fillagree* or *\*filagree*: Stage 1
 Current ratio in print \(*filigree* vs. *\*filagree* vs. *\*fillagree*\): 276:12:1
 

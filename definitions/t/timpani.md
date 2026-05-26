@@ -14,7 +14,7 @@ In AmE journalism, *timpani* now preponderates by a significant margin. Perhaps 
 
 Language-Change Index
 
-*timpani* spelled *tympani*: Stage 5   
+*timpani* spelled *tympani*: Stage 5
 Current ratio in print \(*tympani* vs. *timpani* in World Englishes\): 1.4:1
 
 **B. Singular or Plural.** The word *timpani*—though borrowed into English as the plural form of the Italian singular *timpano*—has become interchangeably singular or plural. Most commonly, of course, the word is plural—e.g.: "The Jefferson Symphony Orchestra has been awarded a $14,110 grant by the Bonfils-Stanton Foundation for a set of four new *timpani*." "Good for You," *Rocky Mountain News* \(Denver\), 3 Oct. 1996, at D14. But it's often singular as well. Even professional musicians commonly refer to *a timpani*, not *\*a timpano*. E.g.:
@@ -41,6 +41,6 @@ Language-Change Index
 
 Language-Change Index
 
-*\*timpani drum* for *timpani* or *kettledrum*: Stage 1   
+*\*timpani drum* for *timpani* or *kettledrum*: Stage 1
 Current ratio in print \(*timpani* vs. *kettledrum* vs. *\*timpani drum*\): 82:14:1
 

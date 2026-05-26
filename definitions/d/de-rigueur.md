@@ -1,4 +1,4 @@
-# *de rigueur* 
+# *de rigueur*
 
 *de rigueur*  \(= proper; required by custom or etiquette\) is sometimes misspelled *\*de rigeur* or *\*de riguer*—e.g.:
 
@@ -10,6 +10,6 @@ The phrase is pronounced /dә ri-**gәr**/.
 
 Language-Change Index
 
-*de rigueur* misspelled *\*de rigeur* or *\*de riguer*: Stage 2   
+*de rigueur* misspelled *\*de rigeur* or *\*de riguer*: Stage 2
 Current ratio in print \(*de rigueur* vs. *\*de rigeur*\): 9:1
 

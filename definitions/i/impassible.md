@@ -10,6 +10,6 @@ Occasionally, *impassible* wrongly displaces *impassable*—e.g.:
 
 Language-Change Index
 
-*impassible* misused for *impassable*: Stage 1   
+*impassible* misused for *impassable*: Stage 1
 Current ratio in print \(*impassable barrier* vs. *\*impassible barrier*\): 20:1
 

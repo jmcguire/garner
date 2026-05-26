@@ -14,6 +14,6 @@ This example of folk etymology was first noted by Robert L. Chapman in 41 *Am. S
 
 Language-Change Index
 
-*plantar wart* mistakenly written *\*planter's wart*: Stage 1   
+*plantar wart* mistakenly written *\*planter's wart*: Stage 1
 Current ratio in print \(*plantar wart* vs. \**planter's wart*\): 33:1
 

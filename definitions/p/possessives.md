@@ -1,4 +1,4 @@
-# Possessives 
+# Possessives
 
 Possessives .
 
@@ -16,8 +16,8 @@ There are four exceptions to this rule. \(1\) The possessives of personal pronou
 
 No extra syllable is added in sounding the possessive form. \(3\) If a corporate or similar name is formed from a plural word, it takes only the apostrophe. Hence *General Motors* makes *General Motors'*, not *\*General Motors's*—e.g.: "A merger by General Motors will excite great interest in an enforcement agency simply because of *General Motors's* \[read *General Motors'*\] size." E.W. Kintner, *An Antitrust Primer* 95 \(2d ed. 1973\). And *United States* has always made *United States'*, not *\*United States's*. \(4\) According to the traditional rule, a sibilant possessive before *sake* takes merely an apostrophe, without an additional *s*—hence *for appearance' sake*, *for goodness' sake*, and *for conscience' sake*. See \(n\).
 
-Current ratio in print \(*Jones's work* vs. *Jones' work*\): 3:1   
-Current ratio in print \(*Jesus' life* vs. *Jesus's life*\): 2.5:1   
+Current ratio in print \(*Jones's work* vs. *Jones' work*\): 3:1
+Current ratio in print \(*Jesus' life* vs. *Jesus's life*\): 2.5:1
 Current ratio in print \(*Aeschylus' tragedy* vs. *Aeschylus's tragedy*\): 1.1:1
 
 **B. Plural Possessives.** For most plural possessives, use the ordinary plural form and add an apostrophe to the final *s*: *Smiths'*, *Joneses'*, *bosses'*, *octopuses'*. The one exception is for plurals not ending in *s*, for which *'s* is added as in the singular possessive: *brethren's*, *children's*, *men's*, *women's*.
@@ -32,7 +32,7 @@ Writers sometimes confound the singular and plural possessives, most commonly by
 
  - "My family moved out of *the Jones's* \[read *the Joneses'*\] house within a year." Liz Kessler, "The Incredible Act of Kindness That Saved My Family from the Holocaust," *Express*, 26 Jan. 2021, at 28.
 
-Current ratio in print \(*the Joneses' house* vs. *\*the Jones's house*\): 2.2:1   
+Current ratio in print \(*the Joneses' house* vs. *\*the Jones's house*\): 2.2:1
 Current ratio in print \(*the Collinses' house* vs. *\*the Collins's house*\): 3:1
 
 **C. Absolute Possessives.** The words *hers*, *ours*, *theirs*, and *yours* are sometimes termed "absolute" or "independent" possessives because they occur when no noun follows. No apostrophe appears in these words, which are often in the predicate <the house was ours> <the fault was theirs>. Sometimes, though, they can occur as subjects <hers was a gift that anyone would envy>. See understood words.
@@ -55,7 +55,7 @@ Of course, the double possessive is impossible to avoid in constructions with pe
 
 Language-Change Index
 
-*a friend of John's*: Stage 5   
+*a friend of John's*: Stage 5
 Current ratio in print \(*a friend of mine* vs. *a friend of me*\): 152:1
 
 **E. Joint Possessives: *John and Mary's house*.** For joint possession, an apostrophe goes with the last element in a series of names. If you put an apostrophe with each element in the series, you signal individual possession. E.g.:
@@ -110,7 +110,7 @@ As always, there are exceptions—two of them. With a compound such as *mother-i
 
 This usage was dealt a real setback in 2002 with the release of the hit movie *Two Weeks Notice* \[read *Two Weeks' Notice*\], starring Hugh Grant and Sandra Bullock. It might have been an even bigger hit if the good-usage crowd hadn't boycotted the movie on principle. Cf. *six months pregnant* under **pregnant**.
 
-Current ratio in print \(*years' imprisonment* vs. \**years imprisonment*\): 3:1   
+Current ratio in print \(*years' imprisonment* vs. \**years imprisonment*\): 3:1
 Current ratio in print \(*weeks' notice* vs. \**weeks notice*\): 8:1
 
 **M. Titles of Books, Films, and the Like.** Do you say *Turabian's "A Manual for Writers"* or *Turabian's "Manual for Writers"*? That is, if you're introducing a title with a possessive, do you include an article \(*A* or *The*\) that begins the title? Including the article gets the full title of the book, but omitting it seems less stilted. Eric Partridge liked the former phrasing \(*U&A* at 333\); others prefer the latter \(e.g., *Words into Type* 136 \[3d ed. 1974\]\). In fact, though, either style is likely to bother some readers.
@@ -123,7 +123,7 @@ Current ratio in print \(*Burgess's A Clockwork Orange* vs. *Burgess's Clockwork
 
 The best course is probably to stick with the traditional forms so that they're parallel: *goodness' sake* and *conscience' sake*. See **conscience' sake**.
 
-Current ratio in print \(*goodness' sake* vs. \**goodness sake* vs. *goodness's sake*\): 118:61:1   
+Current ratio in print \(*goodness' sake* vs. \**goodness sake* vs. *goodness's sake*\): 118:61:1
 Current ratio in print \(*conscience' sake* vs. \**conscience sake* vs. *conscience's sake*\): 6:4:1
 
 **O. Fused Participles.** On the need for the possessive case before an *-ing* participle, see fused participles.

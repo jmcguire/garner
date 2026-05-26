@@ -1,4 +1,4 @@
-# Word Order 
+# Word Order
 
  Word Order . See inversion.
 

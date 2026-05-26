@@ -4,6 +4,6 @@ idolize; **\*idolatrize**. The first has been standard since the 1600s. The seco
 
 Language-Change Index
 
-*\*idolatrize* for *idolize*: Stage 1   
+*\*idolatrize* for *idolize*: Stage 1
 Current ratio in print \(*idolize* vs. *\*idolatrize*\): 187:1
 

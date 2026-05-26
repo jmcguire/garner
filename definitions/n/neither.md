@@ -22,7 +22,7 @@ But often it's not that simple. In the first example below, the plural *themselv
 
 Language-Change Index
 
-*neither* as a pronoun erroneously construed with a plural verb: Stage 3   
+*neither* as a pronoun erroneously construed with a plural verb: Stage 3
 Current ratio in print \(*Neither of them is* vs. *\*Neither of them are*\): 2:1
 
 **C. Beginning Sentences with.** It is permissible to begin a sentence with *neither*—just as it is with *nor*—when embarking on yet another negative subject. E.g.:

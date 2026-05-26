@@ -16,6 +16,6 @@ Language-Change Index
 
 1. *prioritize*: Stage 5
 
-2. *\*priorize*: Stage 1  
+2. *\*priorize*: Stage 1
 Current ratio in print \(*prioritize* vs. *establish priorities* vs. *\*priorize*\): 3,890:67:1
 

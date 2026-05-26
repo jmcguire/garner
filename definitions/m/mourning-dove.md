@@ -10,6 +10,6 @@ mourning dove; **mourning warbler**. The *mourning dove*, a grayish-brown medium
 
 Language-Change Index
 
-*\*morning dove* for *mourning dove*: Stage 1   
+*\*morning dove* for *mourning dove*: Stage 1
 Current ratio in print \(*mourning dove* vs. *\*morning dove*\): 12:1
 

@@ -6,7 +6,7 @@ Briton.
 
 Language-Change Index
 
-*\*Britisher* for *Briton*: Stage 2   
+*\*Britisher* for *Briton*: Stage 2
 Current ratio in print \(*Briton* vs. \**Britisher*\): 7:1
 
 **B. And *Breton*.** A *Briton* /**brit**-әn/ is a British subject—that is, a native or citizen of Great Britain. A *Breton* /**bret**-әn/ is a native or citizen of the region in northwestern France called Brittany \(Fr. *Bretagne*\).

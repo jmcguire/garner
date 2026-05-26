@@ -10,6 +10,6 @@ as best; **\*as** best as. The traditional idiom is *as best she can*, meaning "
 
 Language-Change Index
 
-*\*as best as he can* for *as best he can*: Stage 1   
+*\*as best as he can* for *as best he can*: Stage 1
 Current ratio in print \(*as best he can* vs. *\*as best as he can*\): 9:1
 

@@ -10,6 +10,6 @@ knapsack \(= a lightweight frameless backpack\) is frequently misspelled *\*naps
 
 Language-Change Index
 
-*knapsack* misspelled *\*napsack*: Stage 1   
+*knapsack* misspelled *\*napsack*: Stage 1
 Current ratio in print \(*knapsack* vs. \**napsack*\): 720:1
 

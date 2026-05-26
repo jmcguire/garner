@@ -14,6 +14,6 @@ In BrE it is especially common for *no one* and *nobody* to act as antecedents o
 
 Language-Change Index
 
-*no one* or *nobody . . . their*: Stage 5   
+*no one* or *nobody . . . their*: Stage 5
 Current ratio in print \(*nobody in their right mind* vs. *nobody in his right mind*\): 3:1
 

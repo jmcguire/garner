@@ -12,6 +12,6 @@ Cf. **hoof**. See plurals \(c\).
 
 Language-Change Index
 
-*\*rooves* for *roofs*: Stage 1   
+*\*rooves* for *roofs*: Stage 1
 Current ratio in print \(*roofs* vs. *\*rooves*\): 267:1
 

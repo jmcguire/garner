@@ -158,7 +158,7 @@ But in one context, AmE is somewhat hospitable to the hyphen. That's in the real
  - high frequency  high-frequency sounds
  - natural gas  natural-gas pipeline
  - small business  small-business perspectives
- - used record  used-record store    
+ - used record  used-record store
 
 Wilson Follett had it right when he said, in reference to this phrasal-adjective hyphen: "Nothing gives away the incompetent amateur more quickly than the typescript that neglects this mark of punctuation or that employs it where it is not wanted" \(*MAU* at 428\).
 
@@ -190,7 +190,7 @@ In marking quotations, writers and editors of AmE and BrE have developed differe
 
 With a closing quotation mark, practices vary. In AmE, it is usual to place a period or comma within the closing quotation mark, whether or not the punctuation so placed is actually a part of the quoted matter. In BrE, by contrast, the closing quotation mark comes before any punctuation marks, unless these marks form a part of the quotation itself \(or what is quoted is *less* than a full sentence in its own right\). Thus:
 
-AmE: \(1\) "Joan pointedly said, ‘We won't sing "God Save the Queen." ‘"    \(2\) "She looked back on her school years as being ‘unmitigated misery.' "   BrE: \(1\) ‘Joan pointedly said, "We won't sing ‘God Save the Queen'." '    \(2\) ‘She looked back on her school years as being "unmitigated misery". ‘    
+AmE: \(1\) "Joan pointedly said, ‘We won't sing "God Save the Queen." ‘"    \(2\) "She looked back on her school years as being ‘unmitigated misery.' "   BrE: \(1\) ‘Joan pointedly said, "We won't sing ‘God Save the Queen'." '    \(2\) ‘She looked back on her school years as being "unmitigated misery". ‘
 
 In both sets of examples, the outermost quotation marks indicate that a printed source is being quoted directly.
 

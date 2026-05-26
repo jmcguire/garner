@@ -12,6 +12,6 @@ The corresponding Latin singular *\*insigne* is rarely used. When it does appear
 
 Language-Change Index
 
-*\*insigne* for *insignia*: Stage 1   
+*\*insigne* for *insignia*: Stage 1
 Current ratio in print \(*an insignia* vs. *\*an insigne*\): 49:1
 

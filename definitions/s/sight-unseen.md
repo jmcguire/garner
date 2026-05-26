@@ -6,6 +6,6 @@ Sometimes the phrase is erroneously written *\*site unseen*—e.g.: "Experts say
 
 Language-Change Index
 
-*sight unseen* misspelled *\*site unseen*: Stage 1   
+*sight unseen* misspelled *\*site unseen*: Stage 1
 Current ratio in print \(*sight unseen* vs. \**site unseen*\): 74:1
 

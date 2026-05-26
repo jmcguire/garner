@@ -26,6 +26,6 @@ Writers debase the word when they qualify *facts* with an adjective like *true* 
 
 Language-Change Index
 
-*\*true facts* for *facts*: Stage 2   
+*\*true facts* for *facts*: Stage 2
 Current ratio in print \(*the facts* vs. *\*the true facts*\): 143:1
 

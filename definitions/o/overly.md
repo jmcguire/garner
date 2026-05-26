@@ -32,7 +32,7 @@ In the previous edition of this book, *overly* was pegged at Stage 4 on the Lang
 
 Language-Change Index
 
-*overly* as a premodifier: Stage 5   
-Current ratio in print \(*overly cautious* vs. *overcautious*\): 1.9:1   
+*overly* as a premodifier: Stage 5
+Current ratio in print \(*overly cautious* vs. *overcautious*\): 1.9:1
 Current ratio in print \(*overly concerned* vs. *overconcerned*\): 37:1
 

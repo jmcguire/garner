@@ -4,6 +4,6 @@ promoter. So spelled in AmE and BrE alike—not *\*promotor*. E.g.: "Meanwhile, 
 
 Language-Change Index
 
-*promoter* misspelled *\*promotor*: Stage 1   
+*promoter* misspelled *\*promotor*: Stage 1
 Current ratio in print \(*promoter* vs. \**promotor*\): 43:1
 

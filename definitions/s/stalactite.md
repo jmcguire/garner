@@ -18,7 +18,7 @@ In AmE, the accent for both words falls on the second syllable. In BrE, the firs
 
 Language-Change Index
 
-1. *stalagmite* misused for *stalactite*: Stage 1  
+1. *stalagmite* misused for *stalactite*: Stage 1
 Current ratio in print \(*stalactites hanging* vs. \**stalagmites hanging*\): 19:1
 
 2. *stalactite* misused for *stalagmite*: Stage 1

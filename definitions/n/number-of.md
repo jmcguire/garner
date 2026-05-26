@@ -44,7 +44,7 @@ Few usage critics have ever discussed this particular point. One who did, G.H. V
 
 Language-Change Index
 
-*a number of* with plural noun and plural verb: Stage 5   
+*a number of* with plural noun and plural verb: Stage 5
 Current ratio in print \(*a number of them were* vs. *\*a number of them was*\): 51:1
 
 **B. *The number of*.** When the phrase is used with the definite article *the*, everything changes. Now, instead of talking about the multiple things, we're talking about the number itself, which is singular <the number of students planning to attend college is steadily rising>. E.g.: "While the number of cases *are* \[read *is*\] still relatively low compared with the United States and elsewhere, these new outbreaks . . . are showcasing the limitations of China's zero-tolerance approach to Covid." Sui-Lee Wee & Elsie Chen, "Delta Outbreak in China Tests a Success Story," *N.Y. Times*, 5 Aug. 2021, at A1, A10.

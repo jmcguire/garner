@@ -28,9 +28,9 @@ But *\*shaked* is probably pointless when it appears alongside other weak verbs,
 
 Language-Change Index
 
-1. *shook* misused for *shaken* \(past participle of *shake*\): Stage 1  
+1. *shook* misused for *shaken* \(past participle of *shake*\): Stage 1
 Current ratio in print \(*had shaken* vs. *\*had shook*\): 40:1
 
-2. *\*shaked* for *shook*: Stage 1  
+2. *\*shaked* for *shook*: Stage 1
 Current ratio in print \(*he shook off* vs. *\*he shaked off *\): 2,097:1
 

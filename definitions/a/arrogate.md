@@ -14,6 +14,6 @@ For the distinction between *arrogate* and *abrogate*, see **abrogate**.
 
 Language-Change Index
 
-*\*arrogate oneself* for *arrogate to oneself*: Stage 1   
+*\*arrogate oneself* for *arrogate to oneself*: Stage 1
 Current ratio in print \(*arrogated to himself* vs. *\*arrogated himself *\): 73:1
 

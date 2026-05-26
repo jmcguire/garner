@@ -35,7 +35,7 @@ The result of all this word-coining, though, is that English now has many sets o
  - prolegomenon prologue foreword
  - prophesy predict foretell
  - sarcophagous carnivorous meat-eating
- -  
+ -
 
 But others have undergone differentiation to varying degrees:
 

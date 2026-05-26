@@ -12,7 +12,7 @@ See -fy. See also spelling \(a\). Cf. **liquefy** & **stupefy**.
 
 Language-Change Index
 
-*rarefy* misspelled *\*rarify*: Stage 4   
-Current ratio in print \(*rarefy* vs. \**rarify*\): 2.3:1   
+*rarefy* misspelled *\*rarify*: Stage 4
+Current ratio in print \(*rarefy* vs. \**rarify*\): 2.3:1
 Current ratio in print \(*rarefied air* vs. \**rarified air*\): 3:1
 

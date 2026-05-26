@@ -14,6 +14,6 @@ As a noun in sense 2, *skewer* is used correctly here: " ‘What was he doing 
 
 Language-Change Index
 
-*skewer* misused for *skew*: Stage 1   
+*skewer* misused for *skew*: Stage 1
 Current ratio in print \(*skewed view* vs. \**skewered view*\): 98:1
 

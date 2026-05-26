@@ -20,6 +20,6 @@ three or more *alternatives*: Stage 5
 
 Language-Change Index
 
-*alternate* misused for the adjective *alternative*: Stage 2   
+*alternate* misused for the adjective *alternative*: Stage 2
 Current ratio in print \(*alternative solution* vs. *\*alternate solution*\): 9:1
 

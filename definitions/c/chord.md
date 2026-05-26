@@ -18,9 +18,9 @@ And sometimes *cord* displaces *chord* in references to music \(literal or metap
 
 Language-Change Index
 
-1. *chord* misused for *cord*: Stage 3   
+1. *chord* misused for *cord*: Stage 3
 Current ratio in print \(*vocal cords* vs. *\*vocal chords*\): 4:1
 
-2. *cord* misused for *chord*: Stage 1   
+2. *cord* misused for *chord*: Stage 1
 Current ratio in print \(*strike a chord* vs. *\*strike a cord*\): 77:1
 

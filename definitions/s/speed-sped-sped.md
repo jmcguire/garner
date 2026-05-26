@@ -4,7 +4,7 @@ speed > sped > sped. So inflected. The predominant past-tense and past-participi
 
 Language-Change Index
 
-*\*speeded* for *sped* as past tense and past participle of *speed*: Stage 2   
-Current ratio in print \(*sped* vs. *\*speeded*\): 11:1   
+*\*speeded* for *sped* as past tense and past participle of *speed*: Stage 2
+Current ratio in print \(*sped* vs. *\*speeded*\): 11:1
 Current ratio in print \(*sped up* vs. *speeded up*\): 4:1
 

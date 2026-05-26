@@ -12,6 +12,6 @@ See irregular verbs.
 
 Language-Change Index
 
-*\*sweeped* for *swept*: Stage 1   
+*\*sweeped* for *swept*: Stage 1
 Current ratio in print \(*swept* vs. *\*sweeped*\): 6,499:1
 

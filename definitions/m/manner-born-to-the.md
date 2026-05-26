@@ -16,6 +16,6 @@ Sometimes it's not clear whether the phrase is a pun or simply a blunder—e.g.:
 
 Language-Change Index
 
-*\*to the manor born* for *to the manner born*: Stage 1   
+*\*to the manor born* for *to the manner born*: Stage 1
 Current ratio in print \(*to the manner born* vs. \**to the manor born*\): 2.5:1
 

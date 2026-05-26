@@ -12,9 +12,9 @@ Meanwhile, the word *exasperate* \(traditionally "to irritate thoroughly" but ar
 
 Language-Change Index
 
-1. *exacerbate* misused for *irritate*: Stage 1  
+1. *exacerbate* misused for *irritate*: Stage 1
 Current ratio in print \(*felt irritated* vs. \**felt exacerbated*\): 229:1
 
-2. *exasperate* misused for *exacerbate*: Stage 1  
+2. *exasperate* misused for *exacerbate*: Stage 1
 Current ratio in print \(*exacerbated the problem* vs. \**exasperated the problem*\): 93:1
 

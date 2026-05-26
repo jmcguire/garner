@@ -18,9 +18,9 @@ Occasionally, an even worse past form, *bounded*, appears, especially in reporte
 
 Language-Change Index
 
-1. *\*binded* for past-tense *bound*: Stage 1  
+1. *\*binded* for past-tense *bound*: Stage 1
 Current ratio in print \(*is bound* vs. *\*is binded*\): 5,068:1
 
-2. *bounded* misused for past-tense *bound*: Stage 1  
+2. *bounded* misused for past-tense *bound*: Stage 1
 Current ratio in print \(*bound by the contract* vs. *\*bounded by the contract*\): 199:1
 

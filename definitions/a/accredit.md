@@ -16,7 +16,7 @@ Citing examples from 1878 to 2004, the *OED* calls this use originally an Americ
 
 Language-Change Index
 
-1. *\*accreditate* for *accredit*: Stage 1   
+1. *\*accreditate* for *accredit*: Stage 1
 Current ratio in print \(*accredit* vs. \**accreditate*\): 619:1
 
 2. *accredit* in the sense "credit" or "attribute": Stage 2

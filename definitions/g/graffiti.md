@@ -14,7 +14,7 @@ See count nouns and mass nouns.
 
 Language-Change Index
 
-*graffiti* as a singular mass noun: Stage 5   
-Current ratio in print \(*the graffiti was* vs. *the graffiti were*\): 3:1   
+*graffiti* as a singular mass noun: Stage 5
+Current ratio in print \(*the graffiti was* vs. *the graffiti were*\): 3:1
 Current ratio in print \(*graffiti* vs. *\*graffitos*\): 22,029:1
 

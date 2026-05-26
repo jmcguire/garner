@@ -12,11 +12,11 @@ gild.
 
 Language-Change Index
 
-*guild* misused for *gild*: Stage 1   
+*guild* misused for *gild*: Stage 1
 Current ratio in print \(*gilded* vs. *\*guilded*\): 139:1
 
 **B. *Gilding the lily*.** The phrase *gilding the lily* misquotes its Shakespearean source, which reads, "To gild refined gold, to paint the lily" \(*King John* 4.2.11\). The misquoted phrase became a cliché in the mid-20th century \(and remains so\). So criticizing it as inaccurate would be as fruitless as complaining about the inaccuracy of "Play it again, Sam" \(which is never actually said in the film *Casablanca*—the line is "Play it, Sam"\).
 
-Current ratio in print \(*gild the lily* vs. *paint the lily*\): 2.2:1   
+Current ratio in print \(*gild the lily* vs. *paint the lily*\): 2.2:1
 Current ratio in print \(*gild the lily* vs. *\*guild the lily*\): 33:1
 

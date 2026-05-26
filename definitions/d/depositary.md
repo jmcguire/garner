@@ -6,6 +6,6 @@ depositary; **depository**; **\*depositee**. Most authorities have agreed throug
 
 Language-Change Index
 
-*\*depositee* for *depositary*: Stage 1   
+*\*depositee* for *depositary*: Stage 1
 Current ratio in print \(*depositaries* vs. *\*depositees*\): 104:1
 

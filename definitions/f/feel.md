@@ -22,7 +22,7 @@ In a 2021 poll at a Cosmos Club event in Washington, D.C., only 15% of those vot
 
 Language-Change Index
 
-*\*feel badly* for *feel bad*: Stage 2   
+*\*feel badly* for *feel bad*: Stage 2
 Current ratio in print \(*feel bad* vs. *\*feel badly*\): 16:1
 
 **D. *Feel like*.** To avoid using *like* as a conjunction, writers usually need to change this phrase to *feel as if*. E.g.:

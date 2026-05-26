@@ -12,6 +12,6 @@ But the mere fact that a person is suspended doesn't mean that *hanged*—which 
 
 Language-Change Index
 
-*hung* for *hanged* in reference to an execution: Stage 3   
+*hung* for *hanged* in reference to an execution: Stage 3
 Current ratio in print \(*hanged by the neck* vs. *\*hung by the neck*\): 3:1
 

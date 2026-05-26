@@ -10,6 +10,6 @@ eyes peeled. The phrase is so spelled, though some erroneously make it *\*eyes p
 
 Language-Change Index
 
-*\*eyes pealed* for *eyes peeled*: Stage 1   
+*\*eyes pealed* for *eyes peeled*: Stage 1
 Current ratio in print \(*eyes peeled* vs. *\*eyes pealed*\): 261:1
 

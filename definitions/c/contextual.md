@@ -12,6 +12,6 @@ But *contextural* is a bona fide adjective formed from *contexture* \(a close sy
 
 Language-Change Index
 
-*contextual* misspelled *contextural*: Stage 1   
+*contextual* misspelled *contextural*: Stage 1
 Current ratio in print \(*contextual information* vs. *\*contextural information*\): 10,269:1
 

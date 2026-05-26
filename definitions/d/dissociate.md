@@ -10,6 +10,6 @@ dissociate; **\*disassociate**. *Dissociate* has long been the standard term; *\
 
 Language-Change Index
 
-*\*disassociate* for *dissociate*: Stage 3   
+*\*disassociate* for *dissociate*: Stage 3
 Current ratio in print \(*dissociate* vs. \**disassociate*\): 3:1
 

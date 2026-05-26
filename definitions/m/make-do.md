@@ -12,6 +12,6 @@ For more on this type of verb, see phrasal verbs.
 
 Language-Change Index
 
-*\*make due* for *make do*: Stage 1   
+*\*make due* for *make do*: Stage 1
 Current ratio in print \(*make do with* vs. *\*make due with*\): 51:1
 

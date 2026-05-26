@@ -10,6 +10,6 @@ Cf. **\*self-confessed**.
 
 Language-Change Index
 
-*\*self-admitted* for *admitted*: Stage 3   
+*\*self-admitted* for *admitted*: Stage 3
 Current ratio in print \(*an admitted* vs. *\*a self-admitted*\): 12:1
 

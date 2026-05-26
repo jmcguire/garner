@@ -10,6 +10,6 @@ Both *wrathful* and *wroth* are formal words, and the latter in particular smack
 
 The word is most often seen in the set phrase *wax wroth* \(= to become angry\), which can be easily simplified—e.g.: "Pfeiffer has a ropy vein at her left temple that, when she *waxes wroth* \[read *gets angry*\], throbs noticeably." Leah Rozen, "Picks & Pans: Screen," *People*, 21 Oct. 2002, at 43.
 
-Current ratio in print \(*wrathful* vs. *wroth*\): 1.03:1   
+Current ratio in print \(*wrathful* vs. *wroth*\): 1.03:1
 Current ratio in print \(*wrathful* vs. *\*wrothful*\): 1,705:1
 

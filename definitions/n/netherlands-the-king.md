@@ -6,6 +6,6 @@ Netherlands, the; Kingdom of the Netherlands; Holland; Dutch; The Hague. A. Gene
 
 **C. Demonym.** The predominant noun for a citizen of the Netherlands has consistently been *Hollander* from 1680 to the present day. *Netherlander*, an alternative term, was common in the mid-1600s but fell into relative decline. *\*Netherlandian* is a needless variant. (See demonyms.\) But a paraphrase such as *citizen of the Netherlands* is probably most common of all.
 
-Current ratio in print \(*Hollanders* vs. *Netherlanders*\): 2.2:1   
+Current ratio in print \(*Hollanders* vs. *Netherlanders*\): 2.2:1
 Current ratio in print \(*Netherlander* vs. *\*Netherlandian*\): 122:1
 

@@ -4,6 +4,6 @@ gnaw > gnawed > gnawed. So inflected. The form *\*gnawn* is an archaic past part
 
 Language-Change Index
 
-*gnawn* used for the past participle *gnawed*: Stage 1   
+*gnawn* used for the past participle *gnawed*: Stage 1
 Current ratio in print \(*had gnawed* vs. *\*had gnawn*\): 79:1
 

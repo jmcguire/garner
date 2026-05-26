@@ -4,6 +4,6 @@ split > split > split. So inflected. But some wayward writers have split from th
 
 Language-Change Index
 
-*\*splitted* for past-tense *split*: Stage 1   
+*\*splitted* for past-tense *split*: Stage 1
 Current ratio in print \(*has split* vs. *\*has splitted*\): 517:1
 

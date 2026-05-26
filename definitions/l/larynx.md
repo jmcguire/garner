@@ -10,7 +10,7 @@ Cf. **pharynx**.
 
 Language-Change Index
 
-*larynx* misspelled and mispronounced *\*larnyx*: Stage 1   
-Current ratio in print \(*larynx* vs. *\*larnyx*\): 3,602:1   
+*larynx* misspelled and mispronounced *\*larnyx*: Stage 1
+Current ratio in print \(*larynx* vs. *\*larnyx*\): 3,602:1
 Current ratio in print \(*larynges* vs. *larynxes* as pl.\): 1.4:1
 

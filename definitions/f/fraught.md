@@ -28,6 +28,6 @@ The confusion may be due in part to the similarity of another idiom, *wrought up
 
 Language-Change Index
 
-*wrought with* misused for *fraught with*: Stage 1   
+*wrought with* misused for *fraught with*: Stage 1
 Current ratio in print \(*fraught with problems* vs. *\*wrought with problems*\): 81:1
 

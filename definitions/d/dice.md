@@ -12,6 +12,6 @@ The phrase is sometimes incorrectly written \**dye is cast* or \**dice is cast*.
 
 Language-Change Index
 
-*dice* as a false singular: Stage 2   
+*dice* as a false singular: Stage 2
 Current ratio in print \(*die is cast* vs. \**dye is cast* vs. \**dice is cast*\): 171:3:1
 

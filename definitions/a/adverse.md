@@ -12,9 +12,9 @@ Each word is occasionally misused for the other—e.g.:
 
 Language-Change Index
 
-1. *adverse* misused for *averse*: Stage 2   
+1. *adverse* misused for *averse*: Stage 2
 Current ratio in print \(*averse to the idea* vs. \**adverse to the idea*\): 10:1
 
-2. *averse* misused for *adverse*: Stage 1   
+2. *averse* misused for *adverse*: Stage 1
 Current ratio in print \(*adverse effects* vs. \**averse effects*\): 20,875:1
 

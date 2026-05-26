@@ -1,4 +1,4 @@
-# Metaphors 
+# Metaphors
 
 Metaphors .
 

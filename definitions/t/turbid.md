@@ -18,6 +18,6 @@ turbid; **turgid**; **turpid**; **torpid**. *Turbid* = \(of water\) muddy, thick
 
 Language-Change Index
 
-*turgid* misused for *turbid*: Stage 1   
+*turgid* misused for *turbid*: Stage 1
 Current ratio in print \(*turbid waters* vs. *\*turgid waters*\): 12:1
 

@@ -12,7 +12,7 @@ The misuse of *laudatory* for *laudable* is lamentably common—e.g.:
 
 Language-Change Index
 
-*laudatory* misused for *laudable*: Stage 2   
-Current ratio in print \(*laudable goal* vs. *\*laudatory goal*\): 44:1   
+*laudatory* misused for *laudable*: Stage 2
+Current ratio in print \(*laudable goal* vs. *\*laudatory goal*\): 44:1
 Current ratio in print \(*laudatory* vs. \**laudative*\): 338:1
 

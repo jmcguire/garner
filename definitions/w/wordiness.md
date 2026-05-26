@@ -1,4 +1,4 @@
-# Wordiness 
+# Wordiness
 
  Wordiness . See redundancy.
 

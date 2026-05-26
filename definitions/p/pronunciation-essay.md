@@ -100,7 +100,7 @@ On pronunciations as class indicators, see class distinctions.
  - **pas**toral pas**tor**al \(LCI Stage 2\)
  - **pref**erable pre**fer**able \(LCI Stage 2\)
  - **rev**ocable re**voc**able \(LCI Stage 3\)
- - **ve**hement ve**he**ment \(LCI Stage 1\)    
+ - **ve**hement ve**he**ment \(LCI Stage 1\)
 
 With other terms, though, the force of change is in the opposite direction, from second syllable to first. Again the shift from the traditional pronunciation to the new stress sometimes typifies unrefined speech. But note that many more of the progressively stressed words have reached Stage 5 of the Language-Change Index—meaning full acceptability in standard english.
 
@@ -122,7 +122,7 @@ With other terms, though, the force of change is in the opposite direction, from
  - po**lice** **po**lice \(LCI Stage 1\)
  - pre**ced**ence **prec**edence \(LCI Stage 5\)
  - so**nor**ous **son**orous \(LCI Stage 4\)
- - va**gar**ies **va**garies \(LCI Stage 5\)    
+ - va**gar**ies **va**garies \(LCI Stage 5\)
 
 Much depends on what one linguist calls the "dynamics of utterance." Dwight L. Bolinger, "Stress and Information," 33 *Am. Speech* 5–20 \(1958\). Stress shifts in certain words are an indication of dialect and of regional preferences. They may also be affected by the presence or absence of stress in neighboring words. See Arthur J. Bronstein, *The Pronunciation of American English* 256 \(1960\).
 

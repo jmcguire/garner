@@ -10,6 +10,6 @@ pronunciation is sometimes mistakenly said \(and written\) *\*pronounciation*—
 
 Language-Change Index
 
-*\*pronounciation* for *pronunciation*: Stage 1   
+*\*pronounciation* for *pronunciation*: Stage 1
 Current ratio in print \(*pronunciation* vs. *\*pronounciation*\): 228:1
 

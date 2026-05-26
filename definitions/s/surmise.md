@@ -16,6 +16,6 @@ Current ratio in print \(*surmise* vs. *\*surmize*\): 528:1
 
 Language-Change Index
 
-*\*surmisal* for *surmise*: Stage 1   
+*\*surmisal* for *surmise*: Stage 1
 Current ratio in print \(*the surmise* vs. *\*the surmisal*\): 383:1
 

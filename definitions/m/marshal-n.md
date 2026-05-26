@@ -18,13 +18,13 @@ The second is *court marshal* \(= a judicial officer\) for *court-martial* \(= a
 
 The third is *martial law* \(= military rule imposed by a country's government under an asserted claim of necessity\), which is incorrectly made *\*marshal law*, especially in loose uses of the term—e.g.: "Fourteen months later, the control board's imposed system of *marshal* \[read *martial*\] law hasn't made a marked difference." Adrienne T. Washington, "Finally, a Court Puts Limits on D.C. Board," *Wash. Times*, 9 Jan. 1998, at C2. This error was spread when a made-for-TV movie entitled *Marshal Law* was released in 1996: it was about a marshal who was ruthless with violent criminals. How many viewers caught the pun?
 
-Current ratio in print \(*martial arts* vs. \**marshal arts*\): 2,167:1   
+Current ratio in print \(*martial arts* vs. \**marshal arts*\): 2,167:1
 Current ratio in print \(*martial law* vs. *\*marshal law*\): 265:1
 
 **B. Spelling.** *Marshal* is often misspelled *\*marshall*—e.g.: "Spokane Valley firefighters helped save 30 tons of the hay, but the loss still reached about $12,000, said Kevin Miller, deputy fire *marshall* \[read *marshal*\] for Valley Fire." "Haystack Fire Deemed Suspicious," *Spokesman-Rev.* \(Spokane\), 16 Jan. 2003, at V11. The error is undoubtedly encouraged by the frequency of the proper name *Marshall*.
 
 Language-Change Index
 
-*marshal* as noun misspelled *\*marshall*: Stage 1   
+*marshal* as noun misspelled *\*marshall*: Stage 1
 Current ratio in print \(*fire marshal* vs. *\*fire marshall*\): 33:1
 

@@ -12,6 +12,6 @@ No doubt part of the blame goes to Smokey Robinson and the Miracles for the 1967
 
 Language-Change Index
 
-*\*notion seconded* for *notion confirmed*: Stage 1   
+*\*notion seconded* for *notion confirmed*: Stage 1
 Current ratio in print \(*notion confirmed* vs. *\*notion seconded*\): 3:1
 

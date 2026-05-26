@@ -14,6 +14,6 @@ The adjectival use of *engraved* predominates—e.g.: "An *engraved* silver urn,
 
 Language-Change Index
 
-*engraven* for the past-participial *engraved*: Stage 1   
+*engraven* for the past-participial *engraved*: Stage 1
 Current ratio in print \(*had engraved* vs. *\*had engraven*\): 27:1
 

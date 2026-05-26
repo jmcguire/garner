@@ -16,6 +16,6 @@ Current ratio in print \(*provenance* vs. *provenience*\): 30:1
 
 Language-Change Index
 
-*provenance* misused for *province*: Stage 1   
+*provenance* misused for *province*: Stage 1
 Current ratio in print \(*within the province* *of* vs. \**within the provenance of *\): 72:1
 

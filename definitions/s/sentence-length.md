@@ -13,7 +13,7 @@ Publication **Average Sentence Length**
 - *Time* 24.4 words
 - *Scientific American* 24.9 words
 - *The New York Times* 26.6 words
-- *The Wall Street Journal* 27 words    
+- *The Wall Street Journal* 27 words
 
 Source: Gary A. Olson, James DeGeorge & Richard Ray, *Style and Readability in Business Writing* 102 \(1985\).
 

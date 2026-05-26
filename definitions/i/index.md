@@ -14,7 +14,7 @@ In modern print sources, the collocation *book indexes* greatly predominates ove
 
 Writers who use the Latinate form, of course, should spell it correctly. Some misspell it with a medial *e* on the influence of *index*—e.g.: "Standard & Poor's Equity Services Group plans to add Newport News Shipbuilding to one of its equity *indeces* \[read *indices*\] after the shipyard is spun off." "S&P to Add Peninsula Yard to Equity Index," *Virginian-Pilot* \(Norfolk\), 6 Dec. 1996, at D1.
 
-Current ratio in print \(*book indexes* vs. *book indices*\): 7:1   
+Current ratio in print \(*book indexes* vs. *book indices*\): 7:1
 Current ratio in print \(*economic indices* vs. *economic indexes*\): 3:1
 
 **B. And *\*indice*.** The erroneous back-formation *\*indice* /**in**-dә-see/ has been around for a while. Although the term is noted as the singular form of *indicia* \(= indicators\) in the *OED*, it is labeled both rare and obsolete; the surviving alternative, *indicium*, is also rare. What has happened is that the Latinate plural of *index*—*indices*—has confused people into using *\*indice* as a singular \(instead of *index*\). In September 1982, President Ronald Reagan mentioned economic *indices* and then used the singular, three-syllable *\*indice* where *index* might have been expected. See Alan R. Slotkin, "Media Watch," 58 *Am. Speech* 192 \(1983\).

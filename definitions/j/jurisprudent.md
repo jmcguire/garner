@@ -4,6 +4,6 @@ jurisprudent, n.; **jurisprude**. *Jurisprudent*, though appearing to be an adje
 
 Language-Change Index
 
-*jurisprude* as a nonpejorative equivalent of *jurisprudent*, n.: Stage 3   
+*jurisprude* as a nonpejorative equivalent of *jurisprudent*, n.: Stage 3
 Current ratio in print \(*jurisprudents* vs. *jurisprudes*\): 9:1
 

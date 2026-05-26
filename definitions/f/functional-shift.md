@@ -1,4 +1,4 @@
-# Functional Shift 
+# Functional Shift
 
 Functional Shift .
 

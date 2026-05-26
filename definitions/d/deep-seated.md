@@ -10,6 +10,6 @@ deep-seated. So spelled. *\*Deep-seeded* is a misbegotten metaphor, a malapropis
 
 Language-Change Index
 
-*\*deep-seeded* for *deep-seated*: Stage 1   
+*\*deep-seeded* for *deep-seated*: Stage 1
 Current ratio in print \(*deep-seated* vs. *\*deep-seeded*\): 104:1
 

@@ -4,6 +4,6 @@ replicable, not *\*replicatable*, has always been the standard form since the wo
 
 Language-Change Index
 
-*\*replicatable* for *replicable*: Stage 1   
+*\*replicatable* for *replicable*: Stage 1
 Current ratio in print \(*replicable* vs. *\*replicatable*\): 240:1
 

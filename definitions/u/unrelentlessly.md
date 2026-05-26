@@ -10,6 +10,6 @@ Cf. **\*uncategorically** & **\*unmercilessly**.
 
 Language-Change Index
 
-*\*unrelentlessly* for *relentlessly*: Stage 1   
+*\*unrelentlessly* for *relentlessly*: Stage 1
 Current ratio in print \(*relentlessly* vs. *\*unrelentlessly*\): 2,144:1
 

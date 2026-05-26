@@ -22,10 +22,10 @@ So which past tense is correct in the phrase *to bid fair* \(= to seem likely\)â
 
 Language-Change Index
 
-1. *bid farewell* misused for the past-tense *bade farewell*: Stage 2  
+1. *bid farewell* misused for the past-tense *bade farewell*: Stage 2
 Current ratio in print \(*he* *bade farewell* vs. *\*he bid farewell*\): 2.2:1
 
-2. *bid fair* misused for the past-tense *bade fair*: Stage 3  
+2. *bid fair* misused for the past-tense *bade fair*: Stage 3
 Current ratio in print \(*he bade fair to* vs. *\*he bid fair to*\): 2.5:1
 
 **B. *\*Bidded* as a Solecism.** When people aren't sure about the past tense of an irregular verb, they revert to the default *-ed*. Many people are uncertain about the past-tense forms of *bid*â€”e.g.:
@@ -56,9 +56,9 @@ The simple past *bade* is sometimes misused for *bidden*, a mistake that should 
 
 Language-Change Index
 
-1. *bid* misused for past-participial *bidden*: Stage 3  
+1. *bid* misused for past-participial *bidden*: Stage 3
 Current ratio in print \(*had bidden her* vs. *\*had bid her*\): 3:1
 
-2. *bade* misused for past-participial *bidden*: Stage 1  
+2. *bade* misused for past-participial *bidden*: Stage 1
 Current ratio in print \(*was bidden* vs. *\*was bade*\): 17:1
 

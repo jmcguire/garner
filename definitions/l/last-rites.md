@@ -6,6 +6,6 @@ A former term for *last rites* is *extreme unction*, but the Roman Catholic Chur
 
 Language-Change Index
 
-*\*last rights* for *last rites*: Stage 1   
+*\*last rights* for *last rites*: Stage 1
 Current ratio in print \(*last rites* vs. *\*last rights*\): 24:1
 

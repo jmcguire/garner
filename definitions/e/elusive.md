@@ -14,7 +14,7 @@ More than that, however, the multiple forms can lead to confusion between them. 
 
 Language-Change Index
 
-1. *\*illusive* misused for *elusive*: Stage 1  
+1. *\*illusive* misused for *elusive*: Stage 1
 Current ratio in print \(*elusive concept* vs. *\*illusive concept*\): 37:1
 
 2. *allusive* misused for *elusive*: Stage 1

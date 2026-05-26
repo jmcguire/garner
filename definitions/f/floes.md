@@ -12,6 +12,6 @@ Of course, when ice actually does flow, as in a melting glacier, that movement i
 
 Language-Change Index
 
-*flows* misused for *floes*: Stage 2   
+*flows* misused for *floes*: Stage 2
 Current ratio in print \(*ice floes* vs. *\*ice flows*\): 7:1
 

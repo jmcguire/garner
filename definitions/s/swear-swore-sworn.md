@@ -22,10 +22,10 @@ For a discussion of the redundancy of *sworn affidavit*, see **affidavit**.
 
 Language-Change Index
 
-1. *swore* as a past participle in place of *sworn*: Stage 1  
-Current ratio in print \(*could have sworn* vs. *\*could have swore*\): 300:1   
+1. *swore* as a past participle in place of *sworn*: Stage 1
+Current ratio in print \(*could have sworn* vs. *\*could have swore*\): 300:1
 Current ratio in print \(*had sworn* vs. \**had swore*\): 352:1
 
-2. *\*sweared* as a past-tense form: Stage 1  
+2. *\*sweared* as a past-tense form: Stage 1
 Current ratio in print \(*have sworn* vs. *\*have sweared*\): 11,305:1
 

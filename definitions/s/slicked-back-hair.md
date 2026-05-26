@@ -4,6 +4,6 @@ slicked-back hair. That's the phrase, not *\*slicked-backed hair* or \**slick-ba
 
 Language-Change Index
 
-*\*slicked-backed* for *slicked-back*: Stage 1   
+*\*slicked-backed* for *slicked-back*: Stage 1
 Current ratio in print \(*slicked-back* vs. \**slick-backed* vs. \**slicked-backed*\): 254:5:1
 

@@ -10,6 +10,6 @@ subornation of perjury. This legal phrase refers to the crime of trying to persu
 
 Language-Change Index
 
-*\*subordination of perjury* for *subornation of perjury*: Stage 1   
+*\*subordination of perjury* for *subornation of perjury*: Stage 1
 Current ratio in print \(*subornation of perjury* vs. *\*subordination of perjury*\): 22:1
 

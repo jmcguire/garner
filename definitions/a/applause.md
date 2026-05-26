@@ -14,7 +14,7 @@ Yet because the end of the word sounds much like a plural ending in *s*, some wr
 
 Language-Change Index
 
-*applause* misused as a plural: Stage 2   
+*applause* misused as a plural: Stage 2
 Current ratio in print \(*the applause was* vs. *\*the applause were*\): 84:1
 
 **B. Narrowing of Meaning.** As suggested in \(a), the word has never referred merely to clapping. Huzzahs would count as applause. But today the word is increasingly thought to be interchangeable with clapping—e.g.:

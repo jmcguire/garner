@@ -10,9 +10,9 @@ role; **roll**. Like many other homophones, these are subject to word-swapping. 
 
 Language-Change Index
 
-1. *role* misused for *roll* \(= list\): Stage 1  
+1. *role* misused for *roll* \(= list\): Stage 1
 Current ratio in print \(*roll call* vs. \**role call*\): 113:1
 
-2. *roll* misused for *role*: Stage 1  
+2. *roll* misused for *role*: Stage 1
 Current ratio in print \(*fill the role of* vs. \**fill the roll of *\): 234:1
 

@@ -6,6 +6,6 @@ But \**question as to whether* raises a different question. Yes, it's ungainly, 
 
 Language-Change Index
 
-*question of whether* for *question whether:* Stage 5   
+*question of whether* for *question whether:* Stage 5
 Current ratio in print \(*question of whether* vs. *question whether* vs. \**question as to whether*\): 7:5:1
 

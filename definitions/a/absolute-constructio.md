@@ -1,4 +1,4 @@
-# Absolute Constructions 
+# Absolute Constructions, Essay
 
 Absolute Constructions are sentence elements that stand apart from the usual syntactic relationships of words, as with *he being late* in *He being late, we decided to delay the program.* Increasingly rare in modern prose, absolute constructions have traditionally allowed writers to vary their syntax while concisely subordinating incidental matter. The absolute phrase doesn't bear an ordinary grammatical relation to the rest of the sentence, since the noun or noun phrase does not perform any function \(subject, object, apposition, etc.\) that ordinarily attaches a noun grammatically to other words in the sentence. Yet the whole absolute phrase adverbially modifies some verb. For example: *The court adjourning, we left the courtroom*. This is equivalent to *When the court adjourned, we left the courtroom*.
 

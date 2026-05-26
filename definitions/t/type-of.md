@@ -12,6 +12,6 @@ For the phrase *\*these type of*, see **\*these kind of**. See also **sort of**.
 
 Language-Change Index
 
-*\*type person* for *type of person*: Stage 3   
+*\*type person* for *type of person*: Stage 3
 Current ratio in print \(*type of person* vs. *\*type person*\): 26:1
 

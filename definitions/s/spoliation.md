@@ -14,10 +14,10 @@ Oddly, though, the corresponding verb is *despoil*. Why the discrepancy in spell
 
 Language-Change Index
 
-1. *spoliation* misspelled *\*spoilation*: Stage 1  
+1. *spoliation* misspelled *\*spoilation*: Stage 1
 Current ratio in print \(*spoliation* vs. \**spoilation*\): 46:1
 
-2. *despoliation* misspelled *\*despoilation*: Stage 1  
-Current ratio in print \(*despoliation* vs. \**despoilation*\): 29:1   
+2. *despoliation* misspelled *\*despoilation*: Stage 1
+Current ratio in print \(*despoliation* vs. \**despoilation*\): 29:1
 Current ratio in print \(*despoliation* vs. \**despoilment*\): 4:1
 

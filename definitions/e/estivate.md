@@ -10,6 +10,6 @@ estivate, vb.; **aestivate**. From the Latin *aestas* "summer," this verb is a l
 
 In zoology, the word bears a technical sense correlative to *hibernate*—e.g.: "As the weather heats up this month, they should retreat to their burrows to *estivate*, the summer equivalent of hibernation." Gail Wesson, "Rodent-Buster Gets Call in Squirrel Crisis," *Press-Enterprise* \(Riverside, Cal.\), 14 July 1996, at B3.
 
-Current ratio in print \(*estivate* vs. *aestivate* in AmE\): 1.2:1   
+Current ratio in print \(*estivate* vs. *aestivate* in AmE\): 1.2:1
 Current ratio in print \(*aestivate* vs. *estivate* in BrE\): 5:1
 

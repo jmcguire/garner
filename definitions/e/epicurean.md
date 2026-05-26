@@ -10,6 +10,6 @@ The same recipe spoils other cognates of *epicure* as well—e.g.: "One would en
 
 Language-Change Index
 
-*epicurean* misspelled *\*epicurian*: Stage 1   
+*epicurean* misspelled *\*epicurian*: Stage 1
 Current ratio in print \(*epicurean* vs. \**epicurian*\): 104:1
 

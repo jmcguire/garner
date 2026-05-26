@@ -4,6 +4,6 @@ parenthesis /pә-**ren**-thә-sis/, the singular noun, forms the plural *parenth
 
 Language-Change Index
 
-*\*parenthese* as false singular in place of *parenthesis*: Stage 1   
+*\*parenthese* as false singular in place of *parenthesis*: Stage 1
 Current ratio in print \(*parenthesis* vs. *\*parenthese*\): 291:1
 

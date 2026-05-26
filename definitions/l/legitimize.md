@@ -34,6 +34,6 @@ Language-Change Index
 
 2. *legitimate* /lә-**jit**-ә-mayt/ in the specialized meaning "to make \[a nonmarital child\] legitimate": Stage 5
 
-3. *\*legitimatize* for *legitimize*: Stage 1  
+3. *\*legitimatize* for *legitimize*: Stage 1
 Current ratio in print \(*legitimized* vs. *\*legitimatized*\): 50:1
 

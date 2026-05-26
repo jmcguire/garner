@@ -10,6 +10,6 @@ bathetic, not *\*bathotic*, is the adjective corresponding to *bathos*. \(See **
 
 Language-Change Index
 
-*\*bathotic* for *bathetic*: Stage 1   
+*\*bathotic* for *bathetic*: Stage 1
 Current ratio in print \(*bathetic* vs. *\*bathotic*\): 43:1
 

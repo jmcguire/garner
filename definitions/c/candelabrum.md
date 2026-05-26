@@ -20,12 +20,12 @@ The word may be pronounced /kan-dә-**lah**-brәm/ or /kan-dә-**lay**-brәm/.
 
 Language-Change Index
 
-1. *candelabra* for *candelabrum* as a singular: Stage 4   
+1. *candelabra* for *candelabrum* as a singular: Stage 4
 Current ratio in print \(*a candelabrum* vs. *\*a candelabra*\): 1:1.5
 
-2. *\*candelabras* for *candelabra* as a plural: Stage 3   
+2. *\*candelabras* for *candelabra* as a plural: Stage 3
 Current ratio in print \(*two candelabra* vs. *\*two candelabras*\): 2.3:1
 
-3. *\*candelabrums* for *candelabra*: Stage 1   
+3. *\*candelabrums* for *candelabra*: Stage 1
 Current ratio in print \(*candelabra* vs. *\*candelabrums*\): 165:1
 

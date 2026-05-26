@@ -14,12 +14,12 @@ The needless variant *\*apprize* \(rare\) is synonymous with *appraise*, althoug
 
 Language-Change Index
 
-1. *appraise* misused for *apprise*: Stage 1   
+1. *appraise* misused for *apprise*: Stage 1
 Current ratio in print \(*apprised of* vs. *\*appraised of *\): 13:1
 
-2. *apprise* misused for *appraise*: Stage 1   
+2. *apprise* misused for *appraise*: Stage 1
 Current ratio in print \(*appraised at* vs. *\*apprised at*\): 44:1
 
-3. *\*apprize* misused for *apprise*: Stage 1   
+3. *\*apprize* misused for *apprise*: Stage 1
 Current ratio in print \(*apprised of* vs. *\*apprized of *\): 12:1
 

@@ -12,9 +12,9 @@ bequest, n.; **\*bequeathal**; **\*bequeathment**. *Bequest* = \(1\) the act of 
 
 Language-Change Index
 
-1. *\*bequeathment* for *bequest*: Stage 1  
+1. *\*bequeathment* for *bequest*: Stage 1
 Current ratio in print \(*bequest* vs. *\*bequeathment*\): 205:1
 
-2. *\*bequeathal* for *bequest*: Stage 1  
+2. *\*bequeathal* for *bequest*: Stage 1
 Current ratio in print \(*bequest* vs. *\*bequeathal*\): 106:1
 

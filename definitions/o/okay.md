@@ -10,6 +10,6 @@ A few publications, such as *The New Yorker*, prefer the periods—e.g.:
 
 For more on the presence or absence of periods, see abbreviations \(a\). See also **A-OK**.
 
-Current ratio in print \(*it's okay* vs. *it's OK* vs. *it's O.K.*\): 176:30:1   
+Current ratio in print \(*it's okay* vs. *it's OK* vs. *it's O.K.*\): 176:30:1
 Current ratio in print \(*okayed it* vs. *OK'd it* vs. *O.K.'d it*\): 34:3:1
 

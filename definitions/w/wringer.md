@@ -6,6 +6,6 @@ In the phrase *put through the wringer*, an Americanism dating from the late 180
 
 Language-Change Index
 
-*put through the \*ringer* for *put through the wringer*: Stage 3   
+*put through the \*ringer* for *put through the wringer*: Stage 3
 Current ratio in print \(*put through the wringer* vs. \**put through the ringer*\): 3:1
 

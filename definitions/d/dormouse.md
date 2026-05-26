@@ -4,6 +4,6 @@ dormouse \(= a small European squirrel-like rodent with a long furry tail\), a w
 
 The plural \**dormouses* was common during the 1500s and 1600s. But today, as the result of folk etymology, the established plural is *dormice*. See etymology \(d\).
 
-Current ratio in print \(*dormouse* vs. \**doormouse*\): 133:1   
+Current ratio in print \(*dormouse* vs. \**doormouse*\): 133:1
 Current ratio in print \(*dormice* vs. \**dormouses*\): 438:1
 

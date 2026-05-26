@@ -10,6 +10,6 @@ The pronunciation is /**dok**-tә-rәl/, not /dok-**tor**-әl/ or /dok-**tor**-e
 
 Language-Change Index
 
-*\*doctorial* for *doctoral*: Stage 1   
+*\*doctorial* for *doctoral*: Stage 1
 Current ratio in print \(*doctoral* vs. *\*doctorial*\): 743:1
 

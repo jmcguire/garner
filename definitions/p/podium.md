@@ -12,6 +12,6 @@ The plural is *podiums* or *podia*. Although the latter long predominated in pri
 
 Language-Change Index
 
-*podium* misused for *lectern*: Stage 4   
+*podium* misused for *lectern*: Stage 4
 Current ratio in print \(*podiums* vs. *podia*\): 1.2:1
 

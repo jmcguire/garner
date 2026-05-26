@@ -1,4 +1,4 @@
-# Headlinese 
+# Headlinese
 
 Headlinese .
 

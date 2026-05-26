@@ -22,10 +22,10 @@ Because *opossum*, as noted at the outset of this entry, begins with an unaccent
 
 Language-Change Index
 
-1. *possum* for *opossum*: Stage 5  
-Current ratio in print \(*possums* vs. *opossums*\): 1.3:1   
+1. *possum* for *opossum*: Stage 5
+Current ratio in print \(*possums* vs. *opossums*\): 1.3:1
 Current ratio in print \(*playing possum* vs. \**playing opossum*\): 24:1
 
-2. *opossum* misspelled *\*opposum* or *\*oppossum*: Stage 1  
+2. *opossum* misspelled *\*opposum* or *\*oppossum*: Stage 1
 Current ratio in print \(*opossum* vs. \**oppossum* vs. \**opposum*\): 143:1.1:1
 

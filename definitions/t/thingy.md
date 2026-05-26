@@ -8,6 +8,6 @@ But in BrE and AmE alike, *thingamajig* began outpacing all the -*bob* forms—b
 
 The real success story among these words, however, is *thingy*, which first appeared in the 1700s but remains unrecorded in most dictionaries. For most of the 1900s, the word was used with a frequency about equal to that of the other terms until it suddenly surged in popularity—first in BrE \(about 1975\) and later in AmE \(about 1993\). The term has two variant spellings: \**thingie* and \**thingey*. See diminutives \(g\).
 
-Current ratio in print \(*thingy* vs. *thingamajig* vs. *thingamabob* vs. *thingumbob* vs. *\*thingumajig* vs. *\*thingumabob*\): 231:25:12:7:4:1   
+Current ratio in print \(*thingy* vs. *thingamajig* vs. *thingamabob* vs. *thingumbob* vs. *\*thingumajig* vs. *\*thingumabob*\): 231:25:12:7:4:1
 Current ratio in print \(*thingy* vs. \**thingie* vs. \**thingey*\): 474:59:1
 

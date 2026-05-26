@@ -1,6 +1,6 @@
 # Simple Futurity
 
-Simple Futurity     *First person* I shall we shall   *Second person* you will you will   *Third person* he will, she will they will   **Determination, Promise, or Command**   *First person* I will we will   *Second person* you shall you shall   *Third person* he shall, she shall they shall    
+Simple Futurity     *First person* I shall we shall   *Second person* you will you will   *Third person* he will, she will they will   **Determination, Promise, or Command**   *First person* I will we will   *Second person* you shall you shall   *Third person* he shall, she shall they shall
 
 But with only minor exceptions, *will* has become the universal word to express futurity, regardless of whether the subject is in the first, second, or third person. *Shall* is now mostly restricted to two situations: \(1\) interrogative sentences requesting permission or agreement <shall we all go outside?> <shall I open the present now?>; and \(2\) legal documents, in which *shall* purportedly imposes a duty <the tenant shall obtain the landlord's permission before making any changes to the premises>. In both of those situations, *shall* seems likely to persist, but in law it is declining because of increased recognition of its hopeless ambiguity as actually misused by lawyers. See *Garner's Dictionary of Legal Usage* 952–55 \(3d ed. 2011\).
 

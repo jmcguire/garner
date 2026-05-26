@@ -4,10 +4,8 @@ cleaning up:
 
  - look for things with many \* in a row. I think these are happening when it's a in a sectino title, like "E. As for like", where the whole thing is bold, and the "As" and "like" are also italicized.
  - look for things where the first paragraph is a list. that means it should have been appended to the previous thing by my parsing screwed up
- - turn • in proper markdown list with - 
  - an incorrect usage example inside a paragraph is preceded by an asterisk, \*, but these need to be encoded with a slash \\. i need something like `s/(\*\*[\w\s]+?\*(?!\*))/\\$1/`.
  - turn those bolded and lettered subsections into second-level headings?
- - fix newlines that should be newlines. hopefully it's as simple as it sounds
  - what to do with the lists that should be tables?
 
 easy features:

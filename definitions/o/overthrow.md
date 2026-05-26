@@ -8,6 +8,6 @@ overthrow, n.; **\*overthrowal**. The latter, a needless variant that cropped up
 
 Language-Change Index
 
-*\*overthrowal* for the noun *overthrow*: Stage 1   
+*\*overthrowal* for the noun *overthrow*: Stage 1
 Current ratio in print \(*the overthrow of* vs. *\*the overthrowal of *\): 2,148:1
 

@@ -20,10 +20,10 @@ The phrase *wreak havoc*, by the way, came into vogue only as recently as the 19
 
 Language-Change Index
 
-1. *\*wreck havoc* for *wreak havoc*: Stage 1   
+1. *\*wreck havoc* for *wreak havoc*: Stage 1
 Current ratio in print \(*wreak havoc* vs. *\*wreck havoc*\): 53:1
 
-2. *\*work havoc* for *wreak havoc*: Stage 1   
+2. *\*work havoc* for *wreak havoc*: Stage 1
 Current ratio in print \(*wreak havoc* vs. *\*work havoc*\): 71:1
 
 **D. And *reek*.** For the confusion of *wreak* with *reek*, see **reek**.

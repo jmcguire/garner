@@ -8,6 +8,6 @@ hale, vb. \(= to compel to go\), is said in the *OED* to be characteristic of Am
 
 Language-Change Index
 
-*hail* misused for *hale*: Stage 2   
+*hail* misused for *hale*: Stage 2
 Current ratio in print \(*haled into court* vs. *\*hailed into court*\): 9:1
 

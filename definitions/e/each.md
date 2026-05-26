@@ -22,7 +22,7 @@ As for the second question, pronouns having *each* as an antecedent are traditio
 
 Language-Change Index
 
-1. *each* with a plural verb <each have chores to do>: Stage 2  
+1. *each* with a plural verb <each have chores to do>: Stage 2
 Current ratio in print \(*each of them is* vs. *\*each of them are*\): 9:1
 
 2. *each* followed by a plural *their* or *they* <each did their share>: Stage 4

@@ -1,4 +1,4 @@
-# bi-/semi- 
+# bi-/semi-
 
  bi-/semi- . One can remember the proper prefix in a given context by noting that *bi*- means "two" <bifocals>, and *semi*- "half" <semicircle>. Hence *bimonthly* = every two months \(not "twice a month"\) and *semimonthly* = every half-month, or twice a month. *Biweekly* and *semiweekly* work similarly.
 

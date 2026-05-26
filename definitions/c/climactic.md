@@ -28,10 +28,10 @@ Language-Change Index
 
 1. *climactic* as an equivalent of *climacteric*: Stage 5
 
-2. *climatic* misused for *climactic*: Stage 1   
-Current ratio in print \(*anticlimactic* vs. *\*anticlimatic*\): 54:1   
+2. *climatic* misused for *climactic*: Stage 1
+Current ratio in print \(*anticlimactic* vs. *\*anticlimatic*\): 54:1
 Current ratio in print \(*climactic moment* vs. \**climatic moment*\): 22:1
 
-3. *climactic* misused for *climatic*: Stage 1   
+3. *climactic* misused for *climatic*: Stage 1
 Current ratio in print \(*climatic conditions* vs. *\*climactic conditions*\): 84:1
 

@@ -18,10 +18,10 @@ Whenever you can simplify *in regard to* or *with regard to*, do so. The phrases
 
 Language-Change Index
 
-1. *\*in regards to* for *in regard to*: Stage 3  
+1. *\*in regards to* for *in regard to*: Stage 3
 Current ratio in print \(*in regard to* vs. *\*in regards to*\): 7:1
 
-2. *\*with regards to* for *with regard to*: Stage 2  
+2. *\*with regards to* for *with regard to*: Stage 2
 Current ratio in print \(*with regard to* vs. *\*with regards to*\): 12:1
 
 **B. As a Verb in *highly regarded* and *widely regarded*.** The verb *regard* commonly appears in these two combinations. The one phrase, *highly regarded*, is a vague expression of praise; the other, *widely regarded as*, usually leads to words of praise—though it would certainly be possible to say that someone is *widely regarded as beneath contempt.* It's a mistake, however, to truncate the latter phrase—to say *widely regarded* in place of *highly regarded*: "Crotty has published four novels since leaving the newspaper, and he's *widely regarded* \[read *highly regarded*\] by both fiction writers and journalists." Worse still is the error based on a mishearing of the already-erroneous phrase as *\*wildly regarded*.

@@ -4,6 +4,6 @@ gibberish. So spelled—not *\*jibberish* \(a misspelling that arises from the p
 
 Language-Change Index
 
-*gibberish* misspelled *\*jibberish*: Stage 1   
+*gibberish* misspelled *\*jibberish*: Stage 1
 Current ratio in print \(*gibberish* vs. \**jibberish*\): 141:1
 

@@ -12,9 +12,9 @@ Dwight Bolinger explains the origin of the error: "*Portentous* sounds like *pre
 
 Language-Change Index
 
-1. *portentous* misspelled *\*portentious*: Stage 1  
+1. *portentous* misspelled *\*portentious*: Stage 1
 Current ratio in print \(*portentous* vs. \**portentious*\): 156:1
 
-2. *portentous* misspelled *\*portentuous*: Stage 1  
+2. *portentous* misspelled *\*portentuous*: Stage 1
 Current ratio in print \(*portentous* vs. \**portentuous*\): 1,772:1
 

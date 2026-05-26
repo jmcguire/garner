@@ -8,6 +8,6 @@ A few writers and speakers—sometimes in jest—have resorted to *grandparent c
 
 Language-Change Index
 
-*grandparent clause* for *grandfather clause*: Stage 1   
+*grandparent clause* for *grandfather clause*: Stage 1
 Current ratio in print \(*grandfather clause* vs. *grandparent clause*\): 165:1
 

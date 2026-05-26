@@ -8,6 +8,6 @@ dissimilar has always preferably taken the preposition *to*, not *from* on the a
 
 Language-Change Index
 
-*\*dissimilar from* for *dissimilar to*: Stage 2   
+*\*dissimilar from* for *dissimilar to*: Stage 2
 Current ratio in print \(*dissimilar to* vs. *\*dissimilar from*\): 3:1
 

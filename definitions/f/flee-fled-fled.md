@@ -14,6 +14,6 @@ Readers may occasionally encounter *\*fleed* as an obsolete past participle not 
 
 Language-Change Index
 
-*\*fleed* for *fled*: Stage 1   
+*\*fleed* for *fled*: Stage 1
 Current ratio in print \(*he fled* vs. *\*he fleed*\): 17,290:1
 

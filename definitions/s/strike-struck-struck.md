@@ -12,6 +12,6 @@ See irregular verbs & **stricken**.
 
 Language-Change Index
 
-*\*striked* for *struck*: Stage 1   
+*\*striked* for *struck*: Stage 1
 Current ratio in print \(*struck* vs. *\*striked*\): 7,241:1
 

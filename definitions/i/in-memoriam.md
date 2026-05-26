@@ -10,6 +10,6 @@ Unfortunately, one unsure about the spelling may have difficulty looking it up i
 
 Language-Change Index
 
-*in memoriam* misspelled *\*in memorium*: Stage 1   
+*in memoriam* misspelled *\*in memorium*: Stage 1
 Current ratio in print \(*in memoriam* vs. \**in memorium*\): 41:1
 

@@ -10,7 +10,7 @@ Language-Change Index
 
 1. *awful* in the sense "very bad" <what an awful performance>, "shocking" <the casualties were just awful>, or "very great" <we did an awful lot of work>: Stage 5
 
-2. *awful* as an adverb <she's awful nice>: Stage 1   
+2. *awful* as an adverb <she's awful nice>: Stage 1
 Current ratio in print \(*awfully good* vs. \**awful good*\): 5:1
 
 3. *awfully* for *very* with positive adjectives <an awfully pleasant evening>: Stage 4

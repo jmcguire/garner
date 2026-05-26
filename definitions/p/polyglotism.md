@@ -4,7 +4,7 @@ polyglotism /**pol**-ee-glah-tiz-әm/ \(= \[1\] the use of many languages; or \[
 
 But neither spelling seriously contends with the far more prevalent synonym: *multilingualism*. So stick to that word if you can.
 
-Current ratio in print \(*multilingualism* vs. *polyglotism* vs. *polyglottism* in World Englishes\): 342:1.6:1   
-Current ratio in print \(*polyglotism* vs. *polyglottism* in AmE\): 3:1   
+Current ratio in print \(*multilingualism* vs. *polyglotism* vs. *polyglottism* in World Englishes\): 342:1.6:1
+Current ratio in print \(*polyglotism* vs. *polyglottism* in AmE\): 3:1
 Current ratio in print \(*polyglottism* vs. *polyglotism* in BrE\): 3:1
 

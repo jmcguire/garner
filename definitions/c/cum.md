@@ -1,4 +1,4 @@
-# *cum* 
+# *cum*
 
 *cum*  \(/kәm/ or /koom/\) is a Latin preposition meaning "with." It appears in various latinisms, such as *cum grano salis* \(= with a grain of salt\), *cum laude* \(= with praise\), and *cum notis variorum* \(= with notes of various people\). In English, it bears that same sense, or sometimes "along with being; and." It's usually hyphenated before and after—e.g.:
 

@@ -4,6 +4,6 @@ delectable. So spelled. But it is sometimes misspelled *\*delectible*—e.g.: "A
 
 Language-Change Index
 
-*delectable* misspelled *\*delectible*: Stage 1   
+*delectable* misspelled *\*delectible*: Stage 1
 Current ratio in print \(*delectable* vs. \**delectible*\): 3,647:1
 

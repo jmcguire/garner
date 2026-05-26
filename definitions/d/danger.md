@@ -14,6 +14,6 @@ danger.
 
 Language-Change Index
 
-*\*run the danger* for *run the risk*: Stage 1   
+*\*run the danger* for *run the risk*: Stage 1
 Current ratio in print \(*run the risk* vs. *\*run the danger*\): 49:1
 

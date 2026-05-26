@@ -4,6 +4,6 @@ rewind > rewound > rewound. So inflected. *\*Rewinded* is an infrequent error—
 
 Language-Change Index
 
-*\*rewinded* for past-tense *rewound*: Stage 1   
+*\*rewinded* for past-tense *rewound*: Stage 1
 Current ratio in print \(*rewound* vs. *\*rewinded*\): 86:1
 

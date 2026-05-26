@@ -12,6 +12,6 @@ The word does not mean "pinnacle" or "climax"—e.g.:
 
 Language-Change Index
 
-*epitome* misused for *pinnacle*: Stage 1   
+*epitome* misused for *pinnacle*: Stage 1
 Current ratio in print \(*reach the pinnacle* vs. *\*reach the epitome*\): 83:1
 

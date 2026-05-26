@@ -1,4 +1,4 @@
-# Anticipatory Subjects 
+# Anticipatory Subjects
 
  Anticipatory Subjects . See expletives.
 

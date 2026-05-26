@@ -4,6 +4,6 @@ deep-freeze > deep-froze > deep-frozen. So inflected. *\*Deep-freezed* should be
 
 Language-Change Index
 
-*\*deep-freezed* for *deep-frozen*: Stage 1   
+*\*deep-freezed* for *deep-frozen*: Stage 1
 Current ratio in print \(*deep-frozen* vs. *\*deep-freezed*\): 71:1
 

@@ -12,6 +12,6 @@ The past-participial form of *bear out* is *borne out*. For *borne* vs. *born*, 
 
 Language-Change Index
 
-*\*bare out* for *bear out*: Stage 1   
+*\*bare out* for *bear out*: Stage 1
 Current ratio in print \(*bear out* vs. *\*bare out*\): 121:1
 

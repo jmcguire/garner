@@ -10,6 +10,6 @@ The casual use is more at home in conversational writing—e.g.: "An *invite* to
 
 Language-Change Index
 
-*invite* as a noun: Stage 4   
+*invite* as a noun: Stage 4
 Current ratio in print \(*two invitations* vs. *\*two invites*\): 16:1
 

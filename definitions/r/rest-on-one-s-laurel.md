@@ -12,6 +12,6 @@ Of course, people resting on their laurels might also be sitting on their hands.
 
 Language-Change Index
 
-*\*sitting on laurels* for *resting on laurels*: Stage 1   
+*\*sitting on laurels* for *resting on laurels*: Stage 1
 Current ratio in print \(*resting on their laurels* vs. *\*sitting on their laurels*\): 12:1
 

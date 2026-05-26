@@ -1,4 +1,4 @@
-# Loanwords 
+# Loanwords
 
 Loanwords .
 

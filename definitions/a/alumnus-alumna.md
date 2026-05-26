@@ -28,17 +28,17 @@ One common mistake with these words is confusing their number, as by using *alum
 
 Language-Change Index
 
-1. *alumni* as a singular: Stage 2   
+1. *alumni* as a singular: Stage 2
 Current ratio in print \(*an alumnus of* vs. *\*an alumni of *\): 15:1
 
-2. *alumnae* as a singular: Stage 1   
+2. *alumnae* as a singular: Stage 1
 Current ratio in print \(*an alumna of* vs. *\*an alumnae of *\): 68:1
 
 3. *alum* as a clipped form: Stage 5
 
-4. *\*alumn* as the spelling for the clipped form: Stage 1   
+4. *\*alumn* as the spelling for the clipped form: Stage 1
 Current ratio in print \(*alums* vs. *\*alumns*\): 185:1
 
-5. *\*former alumni* for *alumni*: Stage 1   
+5. *\*former alumni* for *alumni*: Stage 1
 Current ratio in print \(*the alumni* vs. *\*the former alumni*\): 935:1
 

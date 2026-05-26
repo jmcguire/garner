@@ -10,6 +10,6 @@ It isn't even listed in most dictionaries. For other adverbs ending in a superfl
 
 Language-Change Index
 
-*\*seldomly* for *seldom*: Stage 1   
+*\*seldomly* for *seldom*: Stage 1
 Current ratio in print \(*seldom* vs. *\*seldomly*\): 718:1
 

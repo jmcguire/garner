@@ -1,4 +1,4 @@
-# yes, but . . 
+# yes, but . .
 
 yes, but . . .. In various fields, from the art of selling to relationship counseling to social networking, this expression is warned about. The *OED* even has a definition suggesting its negativity: it describes *yes but* as "expressing concessive assent or agreement \(sometimes sarcastically\), before introducing an objection or qualification." And it defines *yes but* also as a noun denoting a response that concedes assent or agreement before introducing an objection or qualification, with this 2011 illustrative quotation: "Planning may include knowing how to confront self-defeating behaviours or patterns, procrastination, hurdles, and ‘yes buts.' "
 

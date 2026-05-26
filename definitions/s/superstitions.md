@@ -28,7 +28,7 @@ For a pleasing cornucopia of still more authorities—should you need them—see
 
  - **1941:** "There is some indication that the split infinitive is becoming respectable, in the living English of today. At times it seems to express the desired meaning better, as in *I want you to distinctly understand*—." Lloyd E. Smith, *Making Words Work for You* 97 \(1941\).
 
- - **1952:** "A split infinitive will sometimes give a meaning that is destroyed if the intruding word is moved. Suppose we try to alter: *He was ready to entirely condone illegal practices*. If we write ‘ready entirely to condone' we may convey the meaning ‘entirely ready.' This is a good example of the difference between speech and prose, for in speech a falling intonation up to ‘ready,' a pause, and a sharp rise of intonation on ‘entirely' would make it clear that ‘ready' and ‘entirely' did not go together. This cannot be shown in writing, so ‘ready entirely to condone' is ambiguous. 
+ - **1952:** "A split infinitive will sometimes give a meaning that is destroyed if the intruding word is moved. Suppose we try to alter: *He was ready to entirely condone illegal practices*. If we write ‘ready entirely to condone' we may convey the meaning ‘entirely ready.' This is a good example of the difference between speech and prose, for in speech a falling intonation up to ‘ready,' a pause, and a sharp rise of intonation on ‘entirely' would make it clear that ‘ready' and ‘entirely' did not go together. This cannot be shown in writing, so ‘ready entirely to condone' is ambiguous.
 "If we write ‘to condone entirely illegal practices,' we get the meaning ‘entirely illegal.' Lastly, it is unsatisfactory to put ‘entirely' at the very end of the sentence, because ‘condone' and ‘entirely' are then too far apart, and have between them another word, ‘illegal,' which ‘entirely' could qualify. The writer must therefore choose between keeping a split infinitive and writing a new sentence." R.G. Ralph, *Put It Plainly* 41–42 \(1952\).
 
  - **1957:** "The notion that it is a grammatical mistake to place a word between *to* and the simple form of a verb, as in *to quietly walk away*, is responsible for a great deal of bad writing by people who are trying to write well. Actually the rule against ‘splitting an infinitive' contradicts the principles of English grammar and the practice of our best writers." Bergen Evans & Cornelia Evans, *DCAU* at 469.
@@ -93,7 +93,7 @@ See **and \(a\)** & **but \(a\)**.
 
  - **1964:** "There are certain paragraphs that nakedly and bluntly do only one thing: change the subject. Such paragraphs are invariably brief. They should be used sparingly." S. Leonard Rubinstein & Robert G. Weaver, *The Plain Rhetoric* 30 \(1964\).
 
- - **1965:** "You have often seen paragraphs that are very brief indeed—mere flashes of thought thrust between heavier blocks of writing. Sometimes a single sentence, even a single phrase, will have full paragraph indentation. 
+ - **1965:** "You have often seen paragraphs that are very brief indeed—mere flashes of thought thrust between heavier blocks of writing. Sometimes a single sentence, even a single phrase, will have full paragraph indentation.
 "Like this.
 
 "Such fragments, however, are not really paragraphs. They are rhetorical devices, attention-getters. They can be very effective, but their effectiveness depends mainly upon their contrast with the fully developed paragraphs around them." Lucile Vaughan Payne, *The Lively Art of Writing* \(1965\).

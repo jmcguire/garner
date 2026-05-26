@@ -4,6 +4,6 @@ median; **medium**. These words occasionally get confounded in two ways. First, 
 
 Language-Change Index
 
-*medium* misused for *median*: Stage 1   
+*medium* misused for *median*: Stage 1
 Current ratio in print \(*median income* vs. *\*medium income*\): 19:1
 

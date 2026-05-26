@@ -14,6 +14,6 @@ The notion that something *diffused* is softened like filtered light may explain
 
 Language-Change Index
 
-*diffuse* misused for *defuse*: Stage 1   
+*diffuse* misused for *defuse*: Stage 1
 Current ratio in print \(*defuse the bomb* vs. \**diffuse the bomb*\): 5:1
 

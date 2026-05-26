@@ -8,6 +8,6 @@ vertex; **vortex**. A *vertex* is either \(1\) the apex or highest point of some
 
 See **vortex**.
 
-Current ratio in print \(*vertices* vs. *vertexes*\): 65:1   
+Current ratio in print \(*vertices* vs. *vertexes*\): 65:1
 Current ratio in print \(*vortices* vs. *vortexes*\): 9:1
 

@@ -4,6 +4,6 @@
 
 Language-Change Index
 
-*\*everyone . . . not* for *not everyone*: Stage 2   
+*\*everyone . . . not* for *not everyone*: Stage 2
 Current ratio in print \(*not everyone is* vs. *\*everyone is not*\): 6:1
 

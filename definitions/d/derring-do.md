@@ -10,6 +10,6 @@ derring-do \(= daring action\) derives, according to the *OED*, from a "chain of
 
 Language-Change Index
 
-*derring-do* misspelled *\*daring-do*: Stage 1   
+*derring-do* misspelled *\*daring-do*: Stage 1
 Current ratio in print \(*derring-do* vs. \**daring-do*\): 19:1
 

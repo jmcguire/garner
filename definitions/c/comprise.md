@@ -24,7 +24,7 @@ In 2015, a man named Bryan Henderson, a 51-year-old software engineer, was repor
 
 Language-Change Index
 
-*\*is comprised of* for *comprises*: Stage 4   
+*\*is comprised of* for *comprises*: Stage 4
 Current ratio in print \(*comprises* vs. *\*is comprised of *\): 7:1
 
 **C. *Comprise* for *make up* or *constitute*.** If the whole comprises the parts, the reverse can't be true—e.g.:
@@ -43,7 +43,7 @@ Language-Change Index
 
 Language-Change Index
 
-*comprise* misspelled *\*comprize*: Stage 1   
+*comprise* misspelled *\*comprize*: Stage 1
 Current ratio in print \(*comprised* vs. *\*comprized*\): 850:1
 
 **F. *Compromise* for *comprise*.** See double bobbles.

@@ -4,6 +4,6 @@ politick, v.i.; **politicize**. *Politick*, a back-formation from *politics*, wa
 
 An ill-advised and unusual variant of *politick* is *politic*—which should be reserved for use as an adjective meaning "sensible, prudent, and circumspect."
 
-Current ratio in print \(*to politick for* vs. \**to politic for*\): 1.4:1   
+Current ratio in print \(*to politick for* vs. \**to politic for*\): 1.4:1
 Current ratio in print \(*politicking* vs. \**politicing*\): 785:1
 

@@ -1,4 +1,4 @@
-#  Wellerisms  
+#  Wellerisms
 
   Wellerisms  . A *wellerism* \(after Sam Weller or his father, two noted characters in Charles Dickens's *Pickwick Papers* \[1836–1837\]\), is a statement, especially a proverbial or allusive one, in which the speaker puts the words in a new light or a surprising setting, often by means of punning. E.g.:
 

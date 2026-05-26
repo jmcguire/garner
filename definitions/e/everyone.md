@@ -18,9 +18,9 @@ So although *every student . . . they* would pass unnoticed in the British press
 
 The shift to the predominance of *everyone . . . their* took place in both AmE and BrE during the early 1980s. The transition to the predominance of *everyone . . . they* over *everyone . . . he* was much slower. It occurred only in the 1990s—and once again AmE lagged behind BrE. The singular uses of *they*, widely adopted in the 2020s, have largely made the problem evaporate. See **they \(a\)**.
 
-Current ratio in print \(*Everyone got their* vs. *Everyone got his*\): 12:1   
-Current ratio in print \(*Everybody got their* vs. *Everybody got his*\): 7:1   
-Current ratio in print \(*Everyone thinks they* vs. *Everyone thinks he*\): 1.7:1   
+Current ratio in print \(*Everyone got their* vs. *Everyone got his*\): 12:1
+Current ratio in print \(*Everybody got their* vs. *Everybody got his*\): 7:1
+Current ratio in print \(*Everyone thinks they* vs. *Everyone thinks he*\): 1.7:1
 Current ratio in print \(*Everybody thinks they* vs. *Everybody thinks he*\): 2:1
 
 **B. And *every one*.** This sentence should make the distinction evident: "*Every one* of the employees attended the company picnic, and *everyone* had a good time." If you're unsure about whether the single word *everyone* is right, mentally substitute the synonymous *everybody* to see whether the sentence still makes sense; if it does, *everyone* is the correct form.

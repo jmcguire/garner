@@ -12,6 +12,6 @@ See possessives \(c\).
 
 Language-Change Index
 
-*\*her's* for *hers*: Stage 1   
+*\*her's* for *hers*: Stage 1
 Current ratio in print \(*hers* vs. *\*her's*\): 280:1
 

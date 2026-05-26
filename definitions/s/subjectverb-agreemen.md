@@ -1,4 +1,4 @@
-# Subject–Verb Agreement 
+# Subject–Verb Agreement
 
 Subject–Verb Agreement .
 

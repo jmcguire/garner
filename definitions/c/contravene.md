@@ -24,7 +24,7 @@ In AmE, a simpler, more direct writing style favors *violate* over *contravene*.
 
 Language-Change Index
 
-*contravene* misspelled *\*controvene*: Stage 1   
+*contravene* misspelled *\*controvene*: Stage 1
 Current ratio in print \(*contravene* vs. \**controvene*\): 4,572:1
 
 **D. And *\*contravent*.** This form is a misbegotten back-formation used by writers who, reaching for the verb corresponding to *contravention*, forget that *contravene* is the correct form—e.g.:
@@ -35,6 +35,6 @@ Current ratio in print \(*contravene* vs. \**controvene*\): 4,572:1
 
 Language-Change Index
 
-*\*contravent* for *contravene*: Stage 1   
+*\*contravent* for *contravene*: Stage 1
 Current ratio in print \(*contravene* vs. *\*contravent*\): 1,589:1
 

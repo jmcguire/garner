@@ -12,6 +12,6 @@ See irregular verbs. Cf. **mislead**.
 
 Language-Change Index
 
-*led*, the past tense, misspelled *lead*: Stage 2   
+*led*, the past tense, misspelled *lead*: Stage 2
 Current ratio in print \(*had led to the* vs. *\*had lead to the*\): 259:1
 

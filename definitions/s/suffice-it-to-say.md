@@ -14,6 +14,6 @@ The phrase is sometimes wrongly morphed into *\*suffice to say*, without the *it
 
 Language-Change Index
 
-*\*suffice to say* for *suffice it to say*: Stage 4   
+*\*suffice to say* for *suffice it to say*: Stage 4
 Current ratio in print \(*suffice it to say* vs. *\*suffice to say*\): 1.6:1
 

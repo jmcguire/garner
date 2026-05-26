@@ -1,4 +1,4 @@
-# *scilicet* 
+# *scilicet*
 
 *scilicet* . See **sc**.
 

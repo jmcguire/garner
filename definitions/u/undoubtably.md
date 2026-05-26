@@ -4,6 +4,6 @@
 
 Language-Change Index
 
-*\*undoubtably* for *undoubtedly*: Stage 1   
+*\*undoubtably* for *undoubtedly*: Stage 1
 Current ratio in print \(*undoubtedly* vs. *\*undoubtably*\): 916:1
 

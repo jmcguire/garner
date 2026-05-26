@@ -44,7 +44,7 @@ For just the opposite tendency—the intrusive *of*—see **of \(b\)**. Cf. **ty
 
 Language-Change Index
 
-*\*couple things* for *couple of things*: Stage 2   
+*\*couple things* for *couple of things*: Stage 2
 Current ratio in print \(*couple of things* vs. *\*couple things*\): 5:1
 
 **D. With Words of Comparison.** When *couple* is used with comparison words such as *more*, *fewer*, and *too many*, the *of* is omitted <have a couple more shrimp>. In the predicate of the previous example, *shrimp* is the direct object. It is modified by the adjective *more*, which in turn is modified by the adverbial phrase *a couple*. There is no place in the example for *of* \(neither *\*a couple of more shrimp* nor *\*a couple more of shrimp* makes sense\). But if the informal sentence structure can be slightly inverted, the *of* becomes idiomatic again <I'll have a couple of shrimp more>. E.g.:

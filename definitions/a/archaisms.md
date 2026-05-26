@@ -1,4 +1,4 @@
-# Archaisms 
+# Archaisms, Essay
 
 Archaisms .
 
@@ -174,7 +174,7 @@ The following list of archaisms, with modern translations to the right, hints at
 
 *Second Person* ***Third Person***
 
- - thou goest he \(or she\) goeth    
+ - thou goest he \(or she\) goeth
 
 Up to the 1600s, the *-eth* suffix was merely an alternative third-person singular inflection for an English verb. Used primarily in southern England, it had, by the end of that century, become obsolete. *She calls* and *he answers* took the place of *she calleth* and *he answereth*. Some writers, straining for an archaic literary touch, use this suffix with no regard to whether the subject is singular or plural. The following title illustrates this tendency: Bill Rogers, "The Bowls *Overfloweth* \[read *Overflow*\]," *Canyon News* \(Tex.\), 25 Dec. 1994, at 9 \(referring to the football bowls\). This use of *-eth* with a plural subject has become lamentably common—e.g.:
 

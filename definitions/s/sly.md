@@ -10,7 +10,7 @@ sly \(= wily, cunning, sneaky\) preferably makes *slyer*, *slyest*, and *slyly*â
 
 Cf. **shy** & **spry**.
 
-Current ratio in print \(*slyer* vs. \**slier*\): 6:1   
-Current ratio in print \(*slyest* vs. *\*sliest*\): 7:1   
+Current ratio in print \(*slyer* vs. \**slier*\): 6:1
+Current ratio in print \(*slyest* vs. *\*sliest*\): 7:1
 Current ratio in print \(*slyly* vs. *\*slily*\): 15:1
 

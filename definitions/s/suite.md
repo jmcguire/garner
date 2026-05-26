@@ -4,6 +4,6 @@ suite. In the phrase *bedroom suite*, the standard pronunciation of *suite* is /
 
 Language-Change Index
 
-*bedroom suite* misspelled \**bedroom suit*: Stage 1   
+*bedroom suite* misspelled \**bedroom suit*: Stage 1
 Current ratio in print \(*bedroom suite* vs. \**bedroom suit*\): 76:1
 

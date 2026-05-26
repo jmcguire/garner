@@ -4,6 +4,6 @@ neck-and-neck. This metaphorical phrase, from horse racing, is sometimes wrongly
 
 Language-Change Index
 
-*\*neck-in-neck* for *neck-and-neck*: Stage 1   
+*\*neck-in-neck* for *neck-and-neck*: Stage 1
 Current ratio in print \(*neck-and-neck* vs. *\*neck-in-neck*\): 25:1
 

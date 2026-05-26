@@ -10,6 +10,6 @@ all of a sudden. This is the idiomatic phrase, not *\*all of the sudden*—e.g.:
 
 Language-Change Index
 
-*\*all of the sudden* for *all of a sudden*: Stage 1   
+*\*all of the sudden* for *all of a sudden*: Stage 1
 Current ratio in print \(*all of a sudden* vs. *\*all of the sudden*\): 45:1
 

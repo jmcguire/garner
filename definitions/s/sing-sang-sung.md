@@ -12,9 +12,9 @@ See irregular verbs.
 
 Language-Change Index
 
-1. *sung* misused for simple past-tense *sang*: Stage 1   
+1. *sung* misused for simple past-tense *sang*: Stage 1
 Current ratio in print \(*she sang* vs. *\*she sung*\): 23:1
 
-2. *sang* misused for past-participial *sung*: Stage 1   
+2. *sang* misused for past-participial *sung*: Stage 1
 Current ratio in print \(*has sung* vs. \**has sang*\): 115:1
 

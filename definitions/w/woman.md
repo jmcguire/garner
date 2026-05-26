@@ -1,4 +1,4 @@
-# -woman 
+# -woman
 
  -woman . See sexism \(c\).
 

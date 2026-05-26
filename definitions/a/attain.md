@@ -8,6 +8,6 @@ Occasionally—as a malapropism—*obtain* is misused for *attain*. E.g.: "The s
 
 Language-Change Index
 
-*obtain* misused for *attain*: Stage 1   
+*obtain* misused for *attain*: Stage 1
 Current ratio in print \(*attaining the age of* vs. *\*obtaining the age of *\): 79:1
 

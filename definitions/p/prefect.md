@@ -8,12 +8,12 @@ The similarly spelled *prefectural* is in good use as the adjective correspondin
 
 Language-Change Index
 
-1. *\*praefect* for *prefect*: Stage 1  
+1. *\*praefect* for *prefect*: Stage 1
 Current ratio in print \(*prefect* vs. *\*praefect*\): 21:1
 
-2. *\*prefectoral* misused for *prefectural*: Stage 1  
+2. *\*prefectoral* misused for *prefectural*: Stage 1
 Current ratio in print \(*prefectural* vs. *\*prefectoral*\): 20:1
 
-3. *prefectural* misspelled *\*prefectual*: Stage 1  
+3. *prefectural* misspelled *\*prefectual*: Stage 1
 Current ratio in print \(*prefectural* vs. \**prefectual*\): 577:1
 

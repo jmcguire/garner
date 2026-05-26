@@ -14,6 +14,6 @@ See irregular verbs.
 
 Language-Change Index
 
-*\*breeded* for past-tense *bred*: Stage 1   
+*\*breeded* for past-tense *bred*: Stage 1
 Current ratio in print \(*bred* vs. *\*breeded*\): 2,126:1
 

@@ -20,6 +20,6 @@ See malapropisms.
 
 Language-Change Index
 
-*\*for all intensive purposes* for *for all intents and purposes*: Stage 1   
+*\*for all intensive purposes* for *for all intents and purposes*: Stage 1
 Current ratio in print \(*all intents and purposes* vs. *\*all intensive purposes*\): 211:1
 

@@ -4,6 +4,6 @@ ensheath \(= to put into a sheath—that is, a close-fitting cover or protective
 
 The spellings \**insheath* and \**insheathe* are variants.
 
-Current ratio in print \(*to* *ensheath* vs. \**to* *ensheathe*\): 3:1   
+Current ratio in print \(*to* *ensheath* vs. \**to* *ensheathe*\): 3:1
 Current ratio in print \(*sheathed* vs. *ensheathed*\): 73:1
 

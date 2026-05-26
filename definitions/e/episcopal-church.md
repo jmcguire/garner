@@ -8,6 +8,6 @@ Episcopal Church; **\*Episcopalian Church**. Strictly, one refers to the *Episco
 
 Language-Change Index
 
-*\*Episcopalian Church* for *Episcopal Church*: Stage 1   
+*\*Episcopalian Church* for *Episcopal Church*: Stage 1
 Current ratio in print \(*Episcopal Church* vs. *\*Episcopalian Church*\): 57:1
 

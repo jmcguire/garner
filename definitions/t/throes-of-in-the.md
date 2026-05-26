@@ -16,8 +16,8 @@ The word is misused when the situation does not involve serious pain or difficul
 
 Language-Change Index
 
-1. *\*in the throws* for *in the throes*: Stage 1  
-Current ratio in print \(*in the throes of* vs. *\*in the throws of *\): 77:1   
+1. *\*in the throws* for *in the throes*: Stage 1
+Current ratio in print \(*in the throes of* vs. *\*in the throws of *\): 77:1
 Current ratio in print \(*throes of death* vs. \**throws of death*\): 61:1
 
 2. *throes* used without a sense of struggle: Stage 2

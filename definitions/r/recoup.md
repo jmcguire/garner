@@ -24,9 +24,9 @@ Language-Change Index
 
 1. *recoup* misused for *recuperate*: Stage 3
 
-2. *recuperate* misused for *recoup*: Stage 2  
+2. *recuperate* misused for *recoup*: Stage 2
 Current ratio in print \(*recoup the loss* vs. *\*recuperate the loss*\): 6:1
 
-3. *recuperate* misspelled \**recouperate*: Stage 1  
+3. *recuperate* misspelled \**recouperate*: Stage 1
 Current ratio in print \(*recuperate* vs. \**recouperate*\): 2,146:1
 

@@ -12,6 +12,6 @@ See irregular verbs.
 
 Language-Change Index
 
-*\*flinged* for *flung*: Stage 1   
+*\*flinged* for *flung*: Stage 1
 Current ratio in print \(*flung* vs. *\*flinged*\): 10,371:1
 

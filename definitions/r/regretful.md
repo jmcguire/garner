@@ -12,7 +12,7 @@ See adverbs \(f\).
 
 Language-Change Index
 
-*regretfully* misused for *regrettably*: Stage 4   
-Current ratio in print \(*regrettably not* vs. *\*regretfully not*\): 8:1   
+*regretfully* misused for *regrettably*: Stage 4
+Current ratio in print \(*regrettably not* vs. *\*regretfully not*\): 8:1
 Current ratio in print \(*it is regrettable that* vs. \**it is regretful that*\): 31:1
 

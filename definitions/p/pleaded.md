@@ -50,9 +50,9 @@ See irregular verbs \(d\).
 
 Language-Change Index
 
-1. *\*pled* as a past tense for *pleaded*: Stage 3  
+1. *\*pled* as a past tense for *pleaded*: Stage 3
 Current ratio in print \(*he pleaded guilty* vs. *\*he pled guilty*\): 3:1
 
-2. *plead* as a past tense for *pleaded*: Stage 3  
+2. *plead* as a past tense for *pleaded*: Stage 3
 Current ratio in print \(*he pleaded guilty* vs. *\*he plead guilty*\): 12:1
 

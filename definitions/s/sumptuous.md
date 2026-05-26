@@ -10,6 +10,6 @@ sumptuous; **sumptuary**. These words have almost opposite senses. *Sumptuous* =
 
 Language-Change Index
 
-*sumptuous* misspelled *\*sumptious*: Stage 1   
+*sumptuous* misspelled *\*sumptious*: Stage 1
 Current ratio in print \(*sumptuous* vs. \**sumptious*\): 817:1
 

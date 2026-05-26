@@ -4,6 +4,6 @@ preponderant; **\*preponderate**, adj. The latter is a needless variant that oft
 
 Use *preponderate* only as a verb—e.g.: "Its market share has declined each year as cars equipped for unleaded gasoline have *preponderated*, and lead gas is projected essentially to disappear by about 1990." Daniel Rosenheim, "Getting the Lead Out Won't Be a Gas," *Chicago Trib.*, 17 Feb. 1985, at C1. Cf. **predominant**.
 
-Current ratio in print \(*preponderant role* vs. *\*preponderate role*\): 742:1   
+Current ratio in print \(*preponderant role* vs. *\*preponderate role*\): 742:1
 Current ratio in print \(*preponderantly* vs. *\*preponderately*\): 32:1
 

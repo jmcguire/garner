@@ -14,7 +14,7 @@ See spelling \(a\).
 
 Language-Change Index
 
-*supersede* misspelled *\*supercede*: Stage 2   
+*supersede* misspelled *\*supercede*: Stage 2
 Current ratio in print \(*supersede* vs. \**supercede*\): 35:1
 
 **B. Corresponding Noun.** *Supersession* is the standard noun form, meaning either "the act of superseding" or "the state of being superseded." E.g.: "School Board 12 is the sixth community school board that has had part of its operations superseded by Mr. Fernandez and his aides. *Supersession* is a more lenient step than suspension." Joseph Berger, "School District Stripped of Fiscal Power," *N.Y. Times*, 7 Dec. 1991, at 27. As with the verb, the internal *s* is sometimes incorrectly made *c*.

@@ -12,8 +12,8 @@ In AmE and BrE print sources, instances of the query *\*Where is it at?* are ext
 
 Language-Change Index
 
-*\*where it's at* for *where it is*: Stage 3   
-Current ratio in print \(*Where is it?* vs. *\*Where is it at?*\): 298:1   
+*\*where it's at* for *where it is*: Stage 3
+Current ratio in print \(*Where is it?* vs. *\*Where is it at?*\): 298:1
 Current ratio in print \(*where we are now* vs. *\*where we're at now*\): 81:1
 
 **B. For *in which*.** In formal prose, *where* should not be used as a relative pronoun instead of as a locative—hence not *case where* but *case in which*. But if you want a relaxed tone, *where* may be more suitable. In the following example, the contraction *I've* might not comfortably fit in the same sentence as *in which*—hence *where* is justifiable: "I've deliberately chosen an example *where* this unspeakable cluster did *not* stand out." Richard A. Lanham, *Revising Prose* 29 \(1979\).

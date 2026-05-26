@@ -6,6 +6,6 @@ When the word has been used as a verb, it has historically been intransitive, no
 
 Language-Change Index
 
-*demagogue* as a transitive verb: Stage 4   
+*demagogue* as a transitive verb: Stage 4
 Current ratio in print \(*demagogue* vs. \**demagog*\): 119:1
 

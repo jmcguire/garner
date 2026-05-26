@@ -32,9 +32,9 @@ Avoid the synonymous variants *\*circumlocutionary* and *\*circumlocutious*—e.
 
 Language-Change Index
 
-1. *\*circumlocutionary* for *circumlocutory*: Stage 1   
+1. *\*circumlocutionary* for *circumlocutory*: Stage 1
 Current ratio in print \(*circumlocutory* vs. *\*circumlocutionary*\): 11:1
 
-2. *\*circumlocutious* for *circumlocutory*: Stage 1   
+2. *\*circumlocutious* for *circumlocutory*: Stage 1
 Current ratio in print \(*circumlocutory* vs. *\*circumlocutious*\): 10:1
 

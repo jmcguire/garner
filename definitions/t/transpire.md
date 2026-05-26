@@ -12,6 +12,6 @@ All in all, *transpire* fits the definition of a skunked term: careful writers s
 
 Language-Change Index
 
-*transpire* for *happen* or *occur*: Stage 4   
+*transpire* for *happen* or *occur*: Stage 4
 Current ratio in print \(*what happened in the past* vs. *\*what transpired in the past*\): 134:1
 

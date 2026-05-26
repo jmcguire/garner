@@ -22,7 +22,7 @@ See word-swapping.
 
 Language-Change Index
 
-1. *hurdle* misused for *hurtle*: Stage 2  
+1. *hurdle* misused for *hurtle*: Stage 2
 Current ratio in print \(*hurtled down* vs. \**hurdled down*\): 82:1
 
 2. *hurtle* misused for *hurdle*: Stage 1

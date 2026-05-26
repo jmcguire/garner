@@ -16,9 +16,9 @@ If a form deserves a *sic*, it's the incorrect *\*'til*: the word has no literar
 
 Language-Change Index
 
-1. *\*'til* for *till*: Stage 2  
+1. *\*'til* for *till*: Stage 2
 Current ratio in print \(*till* vs. *\*'til*\): 65:1
 
-2. *\*'till* for *till*: Stage 1  
+2. *\*'till* for *till*: Stage 1
 Current ratio in print \(*till* vs. *\*'till*\): 161:1
 

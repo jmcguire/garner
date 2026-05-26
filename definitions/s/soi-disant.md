@@ -1,4 +1,4 @@
-# *soi-disant* 
+# *soi-disant*
 
 *soi-disant*  \(= self-proclaimed\) is a French affectation popular during the 1800s—less so today. It is inferior both to the translation just given and to *self-styled*. E.g.:
 

@@ -6,8 +6,8 @@ pair.
 
 Language-Change Index
 
-*pair* as a plural for *pairs*: Stage 3   
-Current ratio in print \(*two pairs* vs. \**two pair*\): 9:1   
+*pair* as a plural for *pairs*: Stage 3
+Current ratio in print \(*two pairs* vs. \**two pair*\): 9:1
 Current ratio in print \(*three pairs* vs. *\*three pair*\): 14:1
 
 **B. *Pair of twins*.** Is it right to speak of a *pair of twins*—that is, does this phrase denote two people or four? Because twins are always two per birth, a pair of twins is two people. \(Shoes also come in pairs, and a pair of shoes is two—not four—shoes.\) Four twins are two pairs of twins. But the redundant phrase *pair of twins* can be found in print sources fairly steadily from 1800 to the present day.

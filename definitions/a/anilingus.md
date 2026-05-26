@@ -12,6 +12,6 @@ Cf. **cunnilingus**.
 
 Language-Change Index
 
-*anilingus* misspelled *\*analingus*: Stage 4   
+*anilingus* misspelled *\*analingus*: Stage 4
 Current ratio in print \(*anilingus* vs. \**analingus* vs. *\*anilinctus*\): 6:4:1
 

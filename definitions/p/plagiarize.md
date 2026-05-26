@@ -10,6 +10,6 @@ plagiarize is often misspelled *\*plagarize* or *\*plagerize*. E.g.:
 
 Language-Change Index
 
-*plagiarize* misspelled *\*plagarize* or *\*plagerize*: Stage 1   
+*plagiarize* misspelled *\*plagarize* or *\*plagerize*: Stage 1
 Current ratio in print \(*plagiarize* vs. *\*plagarize*\): 305:1
 

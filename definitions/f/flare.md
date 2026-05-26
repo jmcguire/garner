@@ -14,7 +14,7 @@ This bit of word-swapping has always plagued the phrase *flair for the dramatic*
 
 Language-Change Index
 
-*flare* misused for *flair*: Stage 1   
-Current ratio in print \(*natural flair* vs. *\*natural flare*\): 13:1   
+*flare* misused for *flair*: Stage 1
+Current ratio in print \(*natural flair* vs. *\*natural flare*\): 13:1
 Current ratio in print \(*flair for the dramatic* vs. \**flare for the dramatic*\): 7:1
 

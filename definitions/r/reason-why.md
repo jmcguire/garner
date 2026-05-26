@@ -20,6 +20,6 @@ The phrasing *reason that* is often a poor substitute for *reason why*—as in a
 
 Language-Change Index
 
-*reason why*: Stage 5   
+*reason why*: Stage 5
 Current ratio in print \(*reason why* vs. *reason that*\): 1.7:1
 

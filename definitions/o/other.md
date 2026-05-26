@@ -20,7 +20,7 @@ Very occasionally, the *no other . . . except* phrasing is actually correct—e.
 
 Language-Change Index
 
-*\*no other . . . except* for *no other . . . than*: Stage 1   
+*\*no other . . . except* for *no other . . . than*: Stage 1
 Current ratio in print \(*no other person than* vs. \**no other person except*\): 16:1
 
 **C. And *otherwise*.** See **otherwise \(a\)**.

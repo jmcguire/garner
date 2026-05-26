@@ -8,6 +8,6 @@ The term *bacchanal* is also a noun denoting \(1\) a worshiper of Bacchus, \(2\)
 
 Given the frenzied orgies and disorderly merry-making involved with these words, one can perhaps understand their fuzzy boundaries. In bacchanalian events, boundaries are often disregarded.
 
-Current ratio in print \(*bacchanalian orgies* vs. *bacchanal orgies*\): 16:1   
+Current ratio in print \(*bacchanalian orgies* vs. *bacchanal orgies*\): 16:1
 Current ratio in print \(*bacchanalia was* vs. *bacchanalia were* \[case-insensitive search\]\): 1:1
 

@@ -8,6 +8,6 @@ forbearance. So spelled—not *\*forebearance*, which is a nonword. But some wri
 
 Language-Change Index
 
-*\*forebearance* for *forbearance*: Stage 1   
+*\*forebearance* for *forbearance*: Stage 1
 Current ratio in print \(*forbearance* vs. *\*forebearance*\): 76:1
 

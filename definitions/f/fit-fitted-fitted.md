@@ -32,6 +32,6 @@ The traditional form also persists with prefixed derivatives \(e.g., *outfitted*
 
 Language-Change Index
 
-*fit* as a past-tense form: Stage 5   
+*fit* as a past-tense form: Stage 5
 Current ratio in print \(*It fit him well* vs. *It fitted him well*\): 3:1
 

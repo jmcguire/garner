@@ -1,4 +1,4 @@
-# Contractions 
+# Contractions
 
 Contractions .
 

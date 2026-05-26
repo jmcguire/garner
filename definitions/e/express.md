@@ -14,6 +14,6 @@ As a verb, *expressed* is a past-tense or past-participial form of the verb *exp
 
 Language-Change Index
 
-*expressed* misused for *express*: Stage 1   
+*expressed* misused for *express*: Stage 1
 Current ratio in print \(*an express provision* vs. *\*an expressed provision*\): 146:1
 

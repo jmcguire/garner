@@ -16,6 +16,6 @@ See illogic.
 
 Language-Change Index
 
-*\*360-degree turnaround* for *180-degree turnaround*: Stage 1   
+*\*360-degree turnaround* for *180-degree turnaround*: Stage 1
 Current ratio in print \(*180-degree turnaround* vs. \**360-degree turnaround*\): 5:1
 

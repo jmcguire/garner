@@ -22,9 +22,9 @@ See **indiscreet**.
 
 Language-Change Index
 
-1. *discreet* misused for *discrete*: Stage 1  
+1. *discreet* misused for *discrete*: Stage 1
 Current ratio in print \(*discrete units* vs. *\*discreet units*\): 44:1
 
-2. *discrete* misused for *discreet*: Stage 2  
+2. *discrete* misused for *discreet*: Stage 2
 Current ratio in print \(*discreet distance* vs. *\*discrete distance*\): 10:1
 

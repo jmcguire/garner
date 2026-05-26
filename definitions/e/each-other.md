@@ -28,9 +28,9 @@ Language-Change Index
 
 Language-Change Index
 
-1. *\*each others'* for *each other's*: Stage 1  
+1. *\*each others'* for *each other's*: Stage 1
 Current ratio in print \(*each other's* vs. *\*each others'*\): 34:1
 
-2. *\*one anothers'* for *one another's*: Stage 1  
+2. *\*one anothers'* for *one another's*: Stage 1
 Current ratio in print \(*one another's* vs. *\*one anothers'*\): 234:1
 

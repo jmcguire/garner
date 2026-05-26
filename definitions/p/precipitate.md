@@ -12,6 +12,6 @@ precipitate, adj.; **precipitous**; **\*precipitant**. Since about 1980, the fir
 
 Language-Change Index
 
-*precipitous* misused for *precipitate*: Stage 4   
+*precipitous* misused for *precipitate*: Stage 4
 Current ratio in print \(*a precipitate retreat* vs. \**a precipitous retreat*\): 16:1
 

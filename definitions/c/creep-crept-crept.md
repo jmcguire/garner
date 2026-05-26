@@ -14,6 +14,6 @@ Although *crept* is the standard form, the slang phrasal verb *creep out* \(= to
 
 Language-Change Index
 
-*creeped* misused for *crept*: Stage 1   
+*creeped* misused for *crept*: Stage 1
 Current ratio in print \(*crept in* vs. *\*creeped in*\): 118:1
 

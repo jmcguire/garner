@@ -4,6 +4,6 @@ cuneiform \(= \[1\] wedge-shaped; \[2\] written in wedge-shaped characters; or \
 
 Language-Change Index
 
-*cuneiform* misspelled and mispronounced *\*cuniform*: Stage 1   
+*cuneiform* misspelled and mispronounced *\*cuniform*: Stage 1
 Current ratio in print \(*cuneiform* vs. \**cuniform*\): 517:1
 

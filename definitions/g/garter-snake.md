@@ -10,6 +10,6 @@ garter snake; **\*garden snake**. A *garter snake* is a nonvenomous North Americ
 
 Language-Change Index
 
-*\*garden snake* for *garter snake*: Stage 2   
+*\*garden snake* for *garter snake*: Stage 2
 Current ratio in print \(*garter snake* vs. *\*garden snake*\): 5:1
 

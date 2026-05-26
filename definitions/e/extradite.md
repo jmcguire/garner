@@ -12,6 +12,6 @@ But instances of the mistaken *\*extradict* and *\*extradiction* are legion—e.
 
 Language-Change Index
 
-*\*extradict* for *extradite*: Stage 1   
+*\*extradict* for *extradite*: Stage 1
 Current ratio in print \(*extradited* vs. *\*extradicted*\): 106:1
 

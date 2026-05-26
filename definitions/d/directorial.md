@@ -10,6 +10,6 @@ directorial \(in five syllables\), not *\*directoral*, is the adjective correspo
 
 Language-Change Index
 
-*\*directoral* for *directorial*: Stage 1   
+*\*directoral* for *directorial*: Stage 1
 Current ratio in print \(*directorial* vs. *\*directoral*\): 55:1
 

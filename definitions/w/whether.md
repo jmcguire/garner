@@ -32,8 +32,8 @@ Up to the mid-20th century, the phrasing *issue whether* was more common than *i
 
 Language-Change Index
 
-*issue of whether* for *issue whether*: Stage 5 *question of whether* for *question whether*: Stage 5   
-Current ratio in print \(*issue of whether* vs. *issue whether*\): 9:1   
+*issue of whether* for *issue whether*: Stage 5 *question of whether* for *question whether*: Stage 5
+Current ratio in print \(*issue of whether* vs. *issue whether*\): 9:1
 Current ratio in print \(*question of whether* vs. *question whether*\): 1.3:1
 
 **D. And *if*.** See **if \(a\)**.

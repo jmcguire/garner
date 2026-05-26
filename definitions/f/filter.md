@@ -10,6 +10,6 @@ Of course, *filtrate* is perfectly proper as a noun meaning "a liquid that has b
 
 Language-Change Index
 
-*filtrate* misused for the verb *filter*: Stage 1   
+*filtrate* misused for the verb *filter*: Stage 1
 Current ratio in print \(*filtered* vs. *\*filtrated*\): 189:1
 

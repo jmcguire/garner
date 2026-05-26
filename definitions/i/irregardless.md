@@ -20,6 +20,6 @@ The widely scorned term seems unlikely to move into standard english. Careful sp
 
 Language-Change Index
 
-*\*irregardless* for *regardless* or *irrespective*: Stage 2   
+*\*irregardless* for *regardless* or *irrespective*: Stage 2
 Current ratio in print \(*regardless* vs. *\*irregardless*\): 1,180:1
 

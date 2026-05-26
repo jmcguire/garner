@@ -1,4 +1,4 @@
-# Pointing Words 
+# Pointing Words
 
 Pointing Words .
 

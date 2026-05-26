@@ -20,7 +20,7 @@ The other error, *adjure* for *require* or *command*, occurs often in legal writ
 
 Fortunately, most writers use *adjure* correctly—e.g.: "Some talked of open schism last week, when she *adjured* him to ‘rule' if he wanted to save home rule, and he replied that she had failed him in his moment of need." Michael Powell & Hamil R. Harris, "Norton's Exercise in Flexibility," *Wash. Post*, 7 Aug. 1997, at J1.
 
-Language-Change Index 
+Language-Change Index
 
 1. *adjure* misused for *abhor*: Stage 1
 

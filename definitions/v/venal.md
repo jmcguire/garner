@@ -14,9 +14,9 @@ Predictably enough, writers sometimes misuse *venal* for *venial*, a recurrent e
 
 Language-Change Index
 
-1. *venal* misused for *venial*: Stage 1  
+1. *venal* misused for *venial*: Stage 1
 Current ratio in print \(*venial sin* vs. *\*venal sin*\): 53:1
 
-2. *venial* misused for *venal*: Stage 1  
+2. *venial* misused for *venal*: Stage 1
 Current ratio in print \(*venal politicians* vs. *\*venial politicians*\): 61:1
 

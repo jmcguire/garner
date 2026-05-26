@@ -4,6 +4,6 @@ kimono \(= a long, loose Japanese robe\) is frequently misspelled *\*kimona*—e
 
 Language-Change Index
 
-*kimono* misspelled *\*kimona*: Stage 1   
+*kimono* misspelled *\*kimona*: Stage 1
 Current ratio in print \(*kimono* vs. \**kimona*\): 99:1
 

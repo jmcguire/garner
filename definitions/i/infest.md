@@ -30,6 +30,6 @@ Language-Change Index
 
 Language-Change Index
 
-*invest* misused for *infest*: Stage 1   
+*invest* misused for *infest*: Stage 1
 Current ratio in print \(*shark-infested* vs. \**shark-invested*\): 239:1
 

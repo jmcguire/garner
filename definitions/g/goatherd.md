@@ -4,6 +4,6 @@ goatherd; **\*goatherder**. *Goatherd* \(= someone who tends goats\) is the stan
 
 Language-Change Index
 
-*\*goatherder* for *goatherd*: Stage 1   
+*\*goatherder* for *goatherd*: Stage 1
 Current ratio in print \(*goatherd* vs. *\*goatherder*\): 77:1
 

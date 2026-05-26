@@ -28,10 +28,10 @@ And a double bobble results when the misspelling *\*reak havoc* displaces the co
 
 Language-Change Index
 
-1. *\*reek havoc* for *wreak havoc*: Stage 1  
+1. *\*reek havoc* for *wreak havoc*: Stage 1
 Current ratio in print \(*wreak havoc* vs. *\*reek havoc*\): 410:1
 
-2. *wreak* misused for *reek*: Stage 1  
+2. *wreak* misused for *reek*: Stage 1
 Current ratio in print \(*reek of* vs. *\*wreak of *\): 166:1
 
 3. *\*reak* as a misspelling of *wreak* or *reek*: Stage 1

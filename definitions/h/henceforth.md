@@ -16,7 +16,7 @@ Current ratio in print \(*henceforth* vs. \**henceforward*\): 10:1
 
 Language-Change Index
 
-*\*from henceforth* for *henceforth*: Stage 3   
+*\*from henceforth* for *henceforth*: Stage 3
 Current ratio in print \(*Henceforth* vs. *\*From henceforth* at start of sentence\): 28:1
 
 **C. Misused for *hence*.** Whereas *henceforth* means "from this point on," *hence* can mean "after now." Idiomatically, one speaks of *two years hence*, not *\*two years henceforth*—e.g.: "But there are simply too many happy and successful quarterbacks who have been left in Fassel's wake to think that Brown won't be joining that list at some point *henceforth* \[read *hence*\]." Bob Glauber, "Brown Ultimate Test for Fassel," *Newsday* \(N.Y.\), 15 Jan. 1997, at A71. See **hence**.

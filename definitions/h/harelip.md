@@ -12,7 +12,7 @@ The term is considered offensive. *Cleft lip* or *cleft palate* has been the pre
 
 Language-Change Index
 
-*\*hairlip* for *harelip*: Stage 1   
-Current ratio in print \(*harelip* vs. *\*hairlip*\): 36:1   
+*\*hairlip* for *harelip*: Stage 1
+Current ratio in print \(*harelip* vs. *\*hairlip*\): 36:1
 Current ratio in print \(*cleft palate* vs. *harelip*\): 9:1
 

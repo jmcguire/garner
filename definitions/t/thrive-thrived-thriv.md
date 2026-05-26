@@ -4,7 +4,7 @@ thrive > thrived > thrived. So inflected. *Thrived*, not *\*throve*, is now cons
 
 Language-Change Index
 
-*thrived* as a past form: Stage 5   
-Current ratio in print \(*thrived* vs. *\*throve*\): 14:1   
+*thrived* as a past form: Stage 5
+Current ratio in print \(*thrived* vs. *\*throve*\): 14:1
 Current ratio in print \(*has thrived* vs. *\*has thriven*\): 12:1
 

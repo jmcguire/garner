@@ -8,6 +8,6 @@ skid > skidded > skidded. So inflected. *Skid* is an incorrect past tense that o
 
 Language-Change Index
 
-*skid* misused for past-tense *skidded*: Stage 2   
+*skid* misused for past-tense *skidded*: Stage 2
 Current ratio in print \(*car skidded* vs. *\*car skid*\): 14:1
 

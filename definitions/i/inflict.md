@@ -22,9 +22,9 @@ The reverse error is also surprisingly frequent—e.g.:
 
 Language-Change Index
 
-1. *inflict* misused for *afflict*: Stage 1  
+1. *inflict* misused for *afflict*: Stage 1
 Current ratio in print \(*afflicted with* vs. *\*inflicted with*\): 11:1
 
-2. *afflict* misused for *inflict*: Stage 1  
+2. *afflict* misused for *inflict*: Stage 1
 Current ratio in print \(*inflicted on* vs. *\*afflicted on*\): 140:1
 

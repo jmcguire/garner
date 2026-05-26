@@ -12,6 +12,6 @@ Current ratio in print \(*epic poem* vs. *\*epical poem*\): 913:1
 
 Language-Change Index
 
-*\*epic-making* for *epoch-making*: Stage 1   
+*\*epic-making* for *epoch-making*: Stage 1
 Current ratio in print \(*epoch-making* vs. *\*epic-making*\): 239:1
 

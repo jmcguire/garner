@@ -10,6 +10,6 @@ The undignified phrase is spreading in American print sources.
 
 Language-Change Index
 
-*\*treat with dignity* for *treat with respect*: Stage 1   
+*\*treat with dignity* for *treat with respect*: Stage 1
 Current ratio in print \(*treat with respect* vs. *\*treat with dignity*\): 7:1
 

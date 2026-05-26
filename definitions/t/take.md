@@ -14,7 +14,7 @@ Though unusual, the form *\*tooken* isn't new: it first appeared in print in the
 
 Language-Change Index
 
-*\*tooken*: Stage 1   
+*\*tooken*: Stage 1
 Current ratio in print \(*taken* vs. *\*tooken*\): 19,725:1
 
 **B. And *bring*.** See **bring \(b\)**.

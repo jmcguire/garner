@@ -18,12 +18,12 @@ The adverb *statutorily* is sometimes wrongly written *\*statutorially* or *\*st
 
 Language-Change Index
 
-1. *\*statutorial* for *statutory*: Stage 1  
+1. *\*statutorial* for *statutory*: Stage 1
 Current ratio in print \(*statutory* vs. *\*statutorial*\): 15,675:1
 
-2. *\*statutorally* for *statutorily*: Stage 1  
+2. *\*statutorally* for *statutorily*: Stage 1
 Current ratio in print \(*statutorily* vs. *\*statutorally*\): 1,388:1
 
-3. *\*statutorially* for *statutorily*: Stage 1  
+3. *\*statutorially* for *statutorily*: Stage 1
 Current ratio in print \(*statutorily* vs. *\*statutorially*\): 918:1
 

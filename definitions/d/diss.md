@@ -20,6 +20,6 @@ One outcome of the *diss* fad is that the transitive verb *disrespect*, which ha
 
 Language-Change Index
 
-*diss* as a verb: Stage 4   
+*diss* as a verb: Stage 4
 Current ratio in print \(*to diss him* vs. *to dis him*\): 1.5:1
 

@@ -20,12 +20,12 @@ Finally, *immanent* \(= inherent\) sometimes appears where *imminent* belongs—
 
 Language-Change Index
 
-1. *imminent* for *eminent*: Stage 1  
+1. *imminent* for *eminent*: Stage 1
 Current ratio in print \(*eminent domain* vs. *\*imminent domain*\): 238:1
 
-2. *eminent* for *imminent*: Stage 1  
+2. *eminent* for *imminent*: Stage 1
 Current ratio in print \(*imminent danger* vs. *\*eminent danger*\): 66:1
 
-3. *immanent* for *imminent*: Stage 1  
+3. *immanent* for *imminent*: Stage 1
 Current ratio in print \(*imminent death* vs. *\*immanent death*\): 74:1
 

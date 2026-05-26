@@ -8,9 +8,9 @@ overdo; **overdue**. These are homophones in AmE but not in BrE, which uses /oh-
 
 Language-Change Index
 
-1. *overdo* misused for *overdue*: Stage 1  
+1. *overdo* misused for *overdue*: Stage 1
 Current ratio in print \(*long overdue* vs. *\*long overdo*\): 1,681:1
 
-2. *overdue* misused for *overdo*: Stage 1  
+2. *overdue* misused for *overdo*: Stage 1
 Current ratio in print \(*overdo them* vs. \**overdue them*\): 98:1
 

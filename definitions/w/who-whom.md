@@ -38,10 +38,10 @@ In the examples just listed, *who* is defensible as a casualism. But the objecti
 
 Language-Change Index
 
-1. *who* as an object not following a preposition: Stage 4   
+1. *who* as an object not following a preposition: Stage 4
 Current ratio in print \(*whom he had known* vs. *\*who he had known*\): 27:1
 
-2. *who* as an object following a preposition: Stage 2   
+2. *who* as an object following a preposition: Stage 2
 Current ratio in print \(*one of whom is* vs. *\*one of who is*\): 152:1
 
 **C. The Mistaken Nominative *whom*.** Among the toughest contexts in which to get the pronouns right are those involving linking verbs. We say, for example, *who it is* for the same reason we say *This is he*, but some very good writers have nodded. In any event, *whom* shouldn't be used as the subject of any finite verb, despite this galaxy of occurrences in reputable sources:
@@ -94,7 +94,7 @@ But animals with names most naturally take *who* <Lassie, who starred in a TV se
 
 Language-Change Index
 
-*who* in reference to nonhumans: Stage 2   
+*who* in reference to nonhumans: Stage 2
 Current ratio in print \(*companies that* vs. *\*companies who*\): 8:1
 
 **E. *Which* for *who* or *whom*.** Some inattentive writers use *which* in referring to human beings—e.g.:

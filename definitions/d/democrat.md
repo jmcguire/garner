@@ -18,6 +18,6 @@ In politics, of course, this type of semantic jockeying is a practice without en
 
 Language-Change Index
 
-*\*Democrat Party* for *Democratic Party*: Stage 2   
+*\*Democrat Party* for *Democratic Party*: Stage 2
 Current ratio in print \(*Democratic Party* vs. *\*Democrat Party*\): 30:1
 

@@ -14,7 +14,7 @@ To the modern reader or speaker, these sentences seem a little unnatural or stra
 
 Language-Change Index
 
-*people* for *persons* in reference to small, specific groups: Stage 5   
+*people* for *persons* in reference to small, specific groups: Stage 5
 Current ratio in print \(*three people* vs. *\*three persons*\): 3:1
 
 **B. And *state*.** A *people* \(collectively\) is a great many persons united by a common language and by similar customs—usually the result of common ancestry, religion, and historical circumstances. A *state* is a great many persons, generally occupying a given territory, among whom the will of the majority—or of an ascertainable class of persons—prevails against anyone who opposes that will. A *state* may coincide exactly with one *people*, as in Japan, or may embrace several, as in the U.S.

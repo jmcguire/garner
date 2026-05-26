@@ -16,6 +16,6 @@ Sometimes, though, the writer really means *underestimate*—e.g.: "A little sub
 
 Language-Change Index
 
-*\*impossible to underestimate* for *impossible to overestimate*: Stage 2   
+*\*impossible to underestimate* for *impossible to overestimate*: Stage 2
 Current ratio in print \(*impossible to overestimate* vs. *\*impossible to underestimate*\): 5:1
 

@@ -4,6 +4,6 @@ hiatus. The standard plural has been *hiatuses* since about 1800. The Latinate p
 
 Language-Change Index
 
-*\*hiati* for *hiatuses*: Stage 1   
+*\*hiati* for *hiatuses*: Stage 1
 Current ratio in print \(*hiatuses* vs. *\*hiati*\): 48:1
 

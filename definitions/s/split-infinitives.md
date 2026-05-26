@@ -1,4 +1,4 @@
-# Split Infinitives 
+# Split Infinitives
 
 Split Infinitives .
 
@@ -30,7 +30,7 @@ split infinitives where they are natural and logically correct: Stage 5
 
 **B. Splits to Be Avoided.** If a split is easily fixed by putting the adverb at the end of the phrase and the meaning remains the same, then avoiding the split is the best course:
 
-Split: "It is not necessary *to here enlarge* upon those points."   Unsplit: "It is not necessary *to enlarge* upon those points *here*."    
+Split: "It is not necessary *to here enlarge* upon those points."   Unsplit: "It is not necessary *to enlarge* upon those points *here*."
 
 Such capriciously split infinitives only jar the reader. Similar examples turn up frequently—e.g.:
 

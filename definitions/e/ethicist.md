@@ -4,6 +4,6 @@ ethicist; **\*ethician**. *\*Ethician* is more than two centuries older \(dating
 
 Language-Change Index
 
-*ethicist* for one who specializes in ethics: Stage 5   
+*ethicist* for one who specializes in ethics: Stage 5
 Current ratio in print \(*ethicist* vs. *\*ethician*\): 266:1
 

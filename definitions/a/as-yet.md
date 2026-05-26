@@ -12,9 +12,9 @@
 
 Language-Change Index
 
-1. *\*as yet* for *yet*: Stage 3   
+1. *\*as yet* for *yet*: Stage 3
 Current ratio in print \(*not yet* vs. *\*not as yet*\): 48:1
 
-2. *\*as of yet* for *yet*: Stage 2   
+2. *\*as of yet* for *yet*: Stage 2
 Current ratio in print \(*not yet* vs. *\*not as of yet*\): 4,853:1
 

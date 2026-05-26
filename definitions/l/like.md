@@ -22,7 +22,7 @@ As all the parenthetical revisions suggest, the most natural solution is to open
 
 Language-Change Index
 
-Prepositional *like* introducing nominative pronoun: Stage 1   
+Prepositional *like* introducing nominative pronoun: Stage 1
 Current ratio in print \(*like you and me* vs. \**like you and I*\): 3:1
 
 **B. As a Conjunction.** In traditional usage, *like* is a preposition that governs nouns and noun phrases, not a conjunction that governs verbs or clauses. Its function is adjectival, not adverbial. Hence one does not write, properly, *\*The story ended like it began*, but *The story ended as it began*. If we change the verbs to nouns, *like* is correct: "The story's ending was like its beginning." Frequently, therefore, *like* needs to be replaced by the proper conjunction *as* \(or *as if*\)—e.g.:
@@ -51,10 +51,10 @@ Although this use of *like* can no longer be considered an outright solecism, as
 
 Language-Change Index
 
-1. *like* as a conjunction: Stage 4  
+1. *like* as a conjunction: Stage 4
 Current ratio in print \(*as they do* vs. *like they do*\): 9:1
 
-2. *like* for *as if* or *as though*: Stage 4  
+2. *like* for *as if* or *as though*: Stage 4
 Current ratio in print \(*acts as if he* vs. *acts like he*\): 1:1.3
 
 **C. *As* for *like*.** This is a form of hypercorrection—trying so hard to avoid error that you end up falling into an opposite error. Ernest Gowers saw the problem: "A fashion seems to be growing, even among some good writers, to prefer *as* to *like* not only, rightly, as a conjunction, but also, ill-advisedly, as a prepositional adjective" \(*FMEU2* at 336\). E.g.: "*As* \[read *Like*\] most people, I have been fortunate to have many mentors in life." John B. Simon, "Seymour F. Simon," *CBA Record*, Oct. 1993, at 14. Cf. **in common with**.

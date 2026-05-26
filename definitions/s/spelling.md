@@ -1,4 +1,4 @@
-# Spelling 
+# Spelling
 
 Spelling .
 
@@ -516,7 +516,7 @@ There are exceptions. Unaccented syllables in inflected words are often spelled 
  - trammeled, trammeling trammelled, trammelling
  - traveled, traveling travelled, travelling
  - unraveled, unraveling unravelled, unravelling
- -  
+ -
 
 The British–American split is seen also in words such as *jewel\(l\)er*, *pupil\(l\)age*, *tranquil\(l\)er*, and *travel\(l\)er*, the British preferring *ll* over the *l* used by Americans. But there are exceptions: British writers use the forms *paralleled, paralleling*—just as Americans do—presumably to avoid the ungainly appearance of four *l*'s in quick succession. And American writers have always preferred *handsell* and *handselling* over *handseled* and *handseling*—despite the stress on the first syllable. Likewise with *hocussed* and *hocussing*.
 

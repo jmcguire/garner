@@ -10,6 +10,6 @@ Language-Change Index
 
 1. *draconian* meaning "harsh" but without a sense of cruelty: Stage 3
 
-2. *draconic* misused for *draconian*: Stage 1  
+2. *draconic* misused for *draconian*: Stage 1
 Current ratio in print \(*draconian measures* vs. *\*draconic measures*\): 49:1
 

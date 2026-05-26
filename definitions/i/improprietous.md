@@ -12,6 +12,6 @@ The word, a back-formation from *impropriety*, is highly improper.
 
 Language-Change Index
 
-*\*improprietous* for *improper*: Stage 1   
+*\*improprietous* for *improper*: Stage 1
 Current ratio in print \(*improper* vs. *\*improprietous*\): 5,079:1
 

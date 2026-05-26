@@ -10,6 +10,6 @@ sprightly \(= \[1\] lively, airy; or \[2\] zesty, esp. spicy, in flavor\) is sub
 
 Language-Change Index
 
-*sprightly* misspelled *\*spritely*: Stage 1   
+*sprightly* misspelled *\*spritely*: Stage 1
 Current ratio in print \(*sprightly* vs. \**spritely*\): 11:1
 

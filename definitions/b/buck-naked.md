@@ -18,6 +18,6 @@ Outside edited publications, though, the more graphic *\*butt naked* has outrang
 
 Language-Change Index
 
-*\*butt naked* for *buck naked*: Stage 4   
+*\*butt naked* for *buck naked*: Stage 4
 Current ratio in print \(*buck naked* vs. *\*butt naked*\): 1.6:1
 

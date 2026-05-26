@@ -6,6 +6,6 @@ But the verb *handcraft* \(= to fashion by hand\) and the adjective *handcrafted
 
 Language-Change Index
 
-*\*handicrafted* for *handcrafted*: Stage 1   
+*\*handicrafted* for *handcrafted*: Stage 1
 Current ratio in print \(*handcrafted* vs. *\*handicrafted*\): 1,105:1
 

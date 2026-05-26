@@ -12,6 +12,6 @@ Cf. **genericness**.
 
 Language-Change Index
 
-*\*prolificness* for *prolificacy*: Stage 1   
+*\*prolificness* for *prolificacy*: Stage 1
 Current ratio in print \(*prolificacy* vs. *\*prolificness*\): 3:1
 

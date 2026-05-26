@@ -8,6 +8,6 @@ Language-Change Index
 
 1. *ponderous* misused for *contemplative*: Stage 1
 
-2. *ponderous* misspelled *\*pondrous*: Stage 1  
+2. *ponderous* misspelled *\*pondrous*: Stage 1
 Current ratio in print \(*ponderous* vs. \**pondrous*\): 696:1
 

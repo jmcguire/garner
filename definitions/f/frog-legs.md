@@ -24,6 +24,6 @@ Language-Change Index
 
 3. *\*frog's legs*: Stage 3
 
-4. *\*frogs legs*: Stage 1  
+4. *\*frogs legs*: Stage 1
 Current ratio in print \(*frog legs* vs. *frogs' legs* vs. \**frog's legs* vs. \**frogs legs*\): 15:10:4:1
 

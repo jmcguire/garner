@@ -10,6 +10,6 @@ Oddly, this expression reached its zenith in frequency of occurrence during the 
 
 Language-Change Index
 
-*\*didn't ought to* for *shouldn't*: Stage 1   
+*\*didn't ought to* for *shouldn't*: Stage 1
 Current ratio in print \(*shouldn't* vs. *\*didn't ought to*\): 2,851:1
 

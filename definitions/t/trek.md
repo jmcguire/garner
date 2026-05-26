@@ -14,6 +14,6 @@ As a verb, *trek* makes *trekked* and *trekking*. But the misspelling occurs wit
 
 Language-Change Index
 
-*\*trecking* for *trekking*: Stage 1   
+*\*trecking* for *trekking*: Stage 1
 Current ratio in print \(*trekking* vs. *\*trecking*\): 1,466:1
 

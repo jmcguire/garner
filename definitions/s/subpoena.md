@@ -14,7 +14,7 @@ Current ratio in print \(*subpoena* vs. *\*subpena*\): 147:1
 
 Language-Change Index
 
-*\*subpoenae* for *subpoenas*: Stage 1   
+*\*subpoenae* for *subpoenas*: Stage 1
 Current ratio in print \(*subpoenas* vs. *\*subpoenae*\): 278:1
 
 **D. *Subpoena*, v.t.** The inflected forms of this verb, which dates from the early 1600s, are *subpoenaed* and *subpoenaing.* The miscast forms *\*subpoened* and *\*subpoening* have appeared sporadically since the 1800s. The mistaken form *\*subpoenaeing* is a 20th-century American error. *\*Subpoena'd* is an old BrE past-tense variant that was never as common as the standard form *subpoenaed*.

@@ -4,6 +4,6 @@ anticlimactic /an-tee-klī-**mak**-tik/ is the correct form. *\*Anticlimatic* is
 
 Language-Change Index
 
-*anticlimactic* misspelled *\*anticlimatic*: Stage 1   
+*anticlimactic* misspelled *\*anticlimatic*: Stage 1
 Current ratio in print \(*anticlimactic* vs. \**anticlimatic*\): 54:1
 

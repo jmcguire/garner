@@ -8,9 +8,9 @@ The same is true of the misuse of *proceed* for *precede*—e.g.: "Representativ
 
 Language-Change Index
 
-1. *precede* misspelled *\*preceed*: Stage 1  
+1. *precede* misspelled *\*preceed*: Stage 1
 Current ratio in print \(*the preceding section* vs. \**the preceeding section*\): 317:1
 
-2. *proceed* misused for *precede*: Stage 1  
+2. *proceed* misused for *precede*: Stage 1
 Current ratio in print \(*the preceding section* vs. \**the proceeding section*\): 199:1
 

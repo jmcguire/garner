@@ -24,6 +24,6 @@ Don't be swayed by apologetic notes in some dictionaries that sanction the use o
 
 Language-Change Index
 
-*infer* misused for *imply*: Stage 3   
+*infer* misused for *imply*: Stage 3
 Current ratio in print \(*clearly implying that* vs. *\*clearly inferring that*\): 35:1
 

@@ -4,6 +4,6 @@ bettor is the standard spelling for "someone who bets or wagers." *Better* has a
 
 Language-Change Index
 
-*better* misused for *bettor*: Stage 1   
+*better* misused for *bettor*: Stage 1
 Current ratio in print \(*a heavy bettor* vs. *\*a heavy better*\): 1.1:1
 

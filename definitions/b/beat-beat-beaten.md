@@ -16,12 +16,12 @@ See irregular verbs.
 
 Language-Change Index
 
-1. *beat* misused for past-participial *beaten*: Stage 2  
+1. *beat* misused for past-participial *beaten*: Stage 2
 Current ratio in print \(*had beaten* vs. *had beat*\): 7:1
 
-2. *\*beated* for simple-past *beat*: Stage 1  
+2. *\*beated* for simple-past *beat*: Stage 1
 Current ratio in print \(*beat me* vs. *\*beated me*\): 5,447:1
 
-3. *\*beated* for past-participial *beaten*: Stage 1  
+3. *\*beated* for past-participial *beaten*: Stage 1
 Current ratio in print \(*was beaten* vs. *\*was beated*\): 3,638:1
 

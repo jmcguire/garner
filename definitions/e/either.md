@@ -32,7 +32,7 @@ Nouns framed by *either . . . or* take a singular verb when the noun closest to 
 
 Language-Change Index
 
-*either . . . or* construction followed by a verb not agreeing with second member: Stage 3   
+*either . . . or* construction followed by a verb not agreeing with second member: Stage 3
 Current ratio in print \(*either of them is* vs. \**either of them are*\): 3:1
 
 **E. *Not . . . either*.** This phrasing should typically be a *neither . . . nor* construction—e.g.: "They are cynical shams that *do not require either* the council *or* the mayor to abide the weak processes they establish." "Flouting the Public's Will," *Times-Picayune* \(New Orleans\), 15 Mar. 1996, at B6. \(A possible revision: *They are cynical shams that require neither the council nor the mayor to abide the weak processes they establish.*\)

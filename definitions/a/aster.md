@@ -1,4 +1,4 @@
-# -aster 
+# -aster
 
  -aster . See diminutives \(a\).
 

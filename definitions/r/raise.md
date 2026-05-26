@@ -16,7 +16,7 @@ As a matter of word frequency, *raising children* \(as opposed to *rearing child
 
 Language-Change Index
 
-*raise* meaning "to bring up \(children\)": Stage 5   
+*raise* meaning "to bring up \(children\)": Stage 5
 Current ratio in print \(*raise children* vs. *rear children*\): 8:1
 
 Current ratio in print \(*child-rearing* vs. \**child-raising*\): 16:1

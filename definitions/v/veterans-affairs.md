@@ -6,6 +6,6 @@ Although the older name was predominantly written *Veterans' Administration* \(w
 
 Yet the standard form for the common-noun phrase is *veterans' benefits*, not *\*veterans benefits*.
 
-Current ratio in print \(*Veterans Administration* vs. *\*Veterans' Administration*\): 14:1   
+Current ratio in print \(*Veterans Administration* vs. *\*Veterans' Administration*\): 14:1
 Current ratio in print \(*veterans' benefits* vs. *\*veterans benefits*\): 4:1
 

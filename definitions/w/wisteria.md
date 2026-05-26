@@ -8,6 +8,6 @@ The newer spelling with the medial *e* took a while to catch on: it became predo
 
 Language-Change Index
 
-*wisteria* so spelled: Stage 5   
+*wisteria* so spelled: Stage 5
 Current ratio in print \(*wisteria* vs. *wistaria*\): 6:1
 

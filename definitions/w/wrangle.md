@@ -12,6 +12,6 @@ This confusion was all but unknown before the mid-1950s, but it has become commo
 
 Language-Change Index
 
-*wrangle* misused for *wangle*: Stage 4   
+*wrangle* misused for *wangle*: Stage 4
 Current ratio in print \(*wangle an invitation* vs. *\*wrangle an invitation*\): 1:1.02
 

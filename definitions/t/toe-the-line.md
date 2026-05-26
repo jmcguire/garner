@@ -16,7 +16,7 @@ Although *toe the line* is about eight times as common as *toe the mark* in prin
 
 Language-Change Index
 
-*\*tow the line* for *toe the line*: Stage 2   
-Current ratio in print \(*toe the line* vs. *\*tow the line*\): 16:1   
+*\*tow the line* for *toe the line*: Stage 2
+Current ratio in print \(*toe the line* vs. *\*tow the line*\): 16:1
 Current ratio in print \(*toe the mark* vs. *\*tow the mark*\): 41:1
 

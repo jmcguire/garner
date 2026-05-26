@@ -12,6 +12,6 @@ See irregular verbs.
 
 Language-Change Index
 
-*\*ridded* for *rid* as past tense and past participle: Stage 1   
+*\*ridded* for *rid* as past tense and past participle: Stage 1
 Current ratio in print \(*had rid* vs. *\*had ridded*\): 67:1
 

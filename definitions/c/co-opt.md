@@ -8,8 +8,8 @@ The noun corresponding to *co-opt* is *co-optation* \(still so hyphenated\)—al
 
 Language-Change Index
 
-*co-op* misused for *co-opt*: Stage 1   
-Current ratio in print \(*to co-opt the* vs. *\*to coopt the* vs. *\*to co-op the*\): 292:53:1   
-Current ratio in print \(*co-optation* vs. *\*cooptation*\): 1.6:1   
+*co-op* misused for *co-opt*: Stage 1
+Current ratio in print \(*to co-opt the* vs. *\*to coopt the* vs. *\*to co-op the*\): 292:53:1
+Current ratio in print \(*co-optation* vs. *\*cooptation*\): 1.6:1
 Current ratio in print \(*co-optation* vs. *\*co-option*\): 1.8:1
 

@@ -14,7 +14,7 @@ Language-Change Index
 
 1. *\*meat out* for *mete out*: Stage 1
 
-2. *\*meet out* for *mete out*: Stage 1  
+2. *\*meet out* for *mete out*: Stage 1
 Current ratio in print \(*punishment meted out* vs. *\*punishment meeted out*\): 4,912:1
 
 3. *\*meter out* for *mete out*: Stage 1

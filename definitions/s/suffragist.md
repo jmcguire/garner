@@ -14,7 +14,7 @@ Nevertheless, *suffragette* remains more common in popular usage worldwide than 
 
 In AmE, however, *suffragist* has overtaken *suffragette* in English-language print sources published since the early 1970s. But has everybody voted?
 
-Current ratio in print \(*suffragette* vs. *suffragist* in World Englishes\): 1.1:1 \(*suffragette* went ahead in 2010\)   
-Current ratio in print \(*suffragist* vs. *suffragette* in AmE\): 1.4:1 \(*suffragist* predominant since 1972\)   
+Current ratio in print \(*suffragette* vs. *suffragist* in World Englishes\): 1.1:1 \(*suffragette* went ahead in 2010\)
+Current ratio in print \(*suffragist* vs. *suffragette* in AmE\): 1.4:1 \(*suffragist* predominant since 1972\)
 Current ratio in print \(*suffragette* vs. *suffragist* in BrE\): 2.2:1 \(*suffragette* predominant since 1920\)
 

@@ -6,7 +6,7 @@ As a noun, *sprout* is \(1\) the shoot or tendril of a young plant <the sprouts 
 
 Unsurprisingly, these terms are susceptible to word-swapping. The confusion goes both ways.
 
-Current ratio in print \(*waterspout* vs. \**watersprout*\): 493:1   
-Current ratio in print \(*spouting blood* vs. \**sprouting blood*\): 25:1   
+Current ratio in print \(*waterspout* vs. \**watersprout*\): 493:1
+Current ratio in print \(*spouting blood* vs. \**sprouting blood*\): 25:1
 Current ratio in print \(*bean sprouts* vs. \**bean spouts*\): 603:1
 

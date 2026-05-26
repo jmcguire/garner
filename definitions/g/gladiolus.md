@@ -14,12 +14,12 @@ You might be tempted to say that in a phrase such as \**bouquet of gladiolus*, t
 
 Language-Change Index
 
-1. *\*gladiola* for *gladiolus* as a singular: Stage 2  
+1. *\*gladiola* for *gladiolus* as a singular: Stage 2
 Current ratio in print \(*gladiolus* vs. *\*gladiola*\): 9:1
 
-2. *\*gladiolas* for *gladioli* as a plural: Stage 3  
+2. *\*gladiolas* for *gladioli* as a plural: Stage 3
 Current ratio in print \(*gladioli* vs. *\*gladiolas* vs. *gladioluses*\): 22:7:1
 
-3. *gladiolus* as a plural: Stage 3  
+3. *gladiolus* as a plural: Stage 3
 Current ratio in print \(*bouquet of gladioli* vs. \**bouquet of gladiolus*\): 1.9:1
 

@@ -4,6 +4,6 @@ broadcast > broadcast > broadcast. So inflected, like the verb *cast* itself. In
 
 Language-Change Index
 
-*\*broadcasted* for *broadcast*: Stage 1   
+*\*broadcasted* for *broadcast*: Stage 1
 Current ratio in print \(*was broadcast* vs. *\*was broadcasted*\): 18:1
 

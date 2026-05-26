@@ -14,9 +14,9 @@ interment; **internment**; **inurnment**. *Interment* = burial <interment will f
 
 Language-Change Index
 
-1. *internment* misused for *interment*: Stage 1  
+1. *internment* misused for *interment*: Stage 1
 Current ratio in print \(*interment ceremony* vs. *\*internment ceremony*\): 4:1
 
-2. *interment* misused for *internment*: Stage 1  
+2. *interment* misused for *internment*: Stage 1
 Current ratio in print \(*internment camp* vs. *\*interment camp*\): 304:1
 

@@ -4,6 +4,6 @@ delegable is the word, not *\*delegatable*. But many writers mistakenly use the 
 
 Language-Change Index
 
-*\*delegatable* for *delegable*: Stage 1   
+*\*delegatable* for *delegable*: Stage 1
 Current ratio in print \(*delegable* vs. *\*delegatable*\): 12:1
 

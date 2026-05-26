@@ -4,7 +4,7 @@ worship, vb. Although some American dictionaries give preference to the inflecte
 
 Yet *worshiper* is surprisingly robust in AmE, perhaps because it is given priority in *WNWCD*, which tends to be followed by newspapers.
 
-Current ratio in print \(*worshipped* vs. *worshiped* in World Englishes\): 2.5:1   
-Current ratio in print \(*worshipper* vs. *worshiper* in BrE\): 6:1   
+Current ratio in print \(*worshipped* vs. *worshiped* in World Englishes\): 2.5:1
+Current ratio in print \(*worshipper* vs. *worshiper* in BrE\): 6:1
 Current ratio in print \(*worshipper* vs. *worshiper* in AmE\): 1:1
 

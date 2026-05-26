@@ -14,7 +14,7 @@ Language-Change Index
 
 1. *incentivize*: Stage 5
 
-2. *\*incent*: Stage 2  
-Current ratio in print \(*to incentivize* vs. *to provide an incentive to* vs. *\*to incent*\): 33:1.6:1   
+2. *\*incent*: Stage 2
+Current ratio in print \(*to incentivize* vs. *to provide an incentive to* vs. *\*to incent*\): 33:1.6:1
 Current ratio in print \(*incentivized* vs. *\*incented*\): 35:1
 

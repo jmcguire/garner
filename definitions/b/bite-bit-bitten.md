@@ -18,7 +18,7 @@ See irregular verbs.
 
 Language-Change Index
 
-*bit* misused as a past participle for *bitten*: Stage 2   
-Current ratio in print \(*had bitten* vs. *\*had bit*\): 6:1   
+*bit* misused as a past participle for *bitten*: Stage 2
+Current ratio in print \(*had bitten* vs. *\*had bit*\): 6:1
 Current ratio in print \(*been bitten* vs. *\*been bit*\): 16:1
 

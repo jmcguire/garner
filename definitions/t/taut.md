@@ -24,6 +24,6 @@ Current ratio in print \(*taut rope* vs. \**taught rope*\): 30:1
 
 Language-Change Index
 
-*taunt* misused for *taut*: Stage 1   
+*taunt* misused for *taut*: Stage 1
 Current ratio in print \(*stretched taut* vs. *\*stretched taunt*\): 155:1
 

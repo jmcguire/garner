@@ -18,6 +18,6 @@ Since the early 1800s, the false adverb *\*unequivocably* has occurred with even
 
 Language-Change Index
 
-*\*unequivocable* for *unequivocal*: Stage 1   
+*\*unequivocable* for *unequivocal*: Stage 1
 Current ratio in print \(*unequivocal* vs. *\*unequivocable*\): 703:1
 

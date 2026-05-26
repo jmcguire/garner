@@ -14,6 +14,6 @@ In fact, though, American speakers and writers tend to use *envision* in both wa
 
 Still, *envisage* is hardly unknown in AmE—e.g.: "President Clinton's advisers . . . earnestly hope that the fragile arrangement *envisaged* in the Dayton peace plan will somehow hang together." Mike O'Connor, "Stray Cable from Bosnia Creates Stir in Capital," *N.Y. Times*, 10 Oct. 1996, at 29.
 
-Current ratio in print \(*envision* vs. *envisage* in AmE\): 5:1   
+Current ratio in print \(*envision* vs. *envisage* in AmE\): 5:1
 Current ratio in print \(*envisage* vs. *envision* in BrE\): 1.2:1
 

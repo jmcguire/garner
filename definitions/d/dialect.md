@@ -1,4 +1,4 @@
-# Dialect 
+# Dialect
 
 Dialect .
 
@@ -22,7 +22,7 @@ Although some people regret the demise of dialects with the spread of Standard E
 
 *Dialect* ***Standard***
 
- - We're fixin' to mosey over yonder. We're getting ready to go over there.    
+ - We're fixin' to mosey over yonder. We're getting ready to go over there.
 
 In grammar, nonstandard dialects often have different \(nearly always simpler\) inflected forms for irregular verbs, and some have different reflexive pronouns:
 
@@ -30,14 +30,14 @@ In grammar, nonstandard dialects often have different \(nearly always simpler\) 
 
  - I don't like it and she don't either, but it don't make no never mind. I don't like it and she doesn't either, but it doesn't matter.
  - They was broke, so we drug 'em outside. They were broken, so we dragged them outside.
- - He coulda hurt hisself. He could have hurt himself.    
+ - He coulda hurt hisself. He could have hurt himself.
 
 Dialects show many differences in the use of auxiliary verb combinations:
 
 *Dialect* ***Standard***
 
  - We ain't seen hide nor hair of him since then. We haven't seen him since then.
- - If I'd'a bin there, I'd'a done sumpin about it. If I had been there, I would have done something about it.    
+ - If I'd'a bin there, I'd'a done sumpin about it. If I had been there, I would have done something about it.
 
 The negative auxiliary verb *ain't* is notoriously and stereotypically nonstandard; it can correspond to Standard English *am not*, *are not*, *is not*, *have not*, or *has not*. See **ain't**.
 
@@ -47,21 +47,21 @@ Apart from auxiliary-verb sequences, there are relatively few genuinely syntacti
 
  - Where's the restrooms at? Where are the restrooms?
  - Him and me are friends. He and I are friends.
- - This rug needs washed. This rug needs to be washed.    
+ - This rug needs washed. This rug needs to be washed.
 
 The most salient syntactic difference is that nonstandard dialects nearly all have what linguists call either negative concord or multiple negation. In these dialects, negative words beginning *no-* are used in negative clauses wherever Standard English would use words beginning with *any-* or *some-*:
 
 *Dialect* ***Standard***
 
  - I ain't never did nothin' bad. I haven't ever done anything wrong.
- - We ain't got no gas and there ain't no way to get none. We haven't got any gas and there isn't any way to get any.    
+ - We ain't got no gas and there ain't no way to get none. We haven't got any gas and there isn't any way to get any.
 
 The most clearly divergent dialects of English are the varieties of African-American Vernacular English \(AAVE\) spoken in many African-American communities. These show interesting syntactic features: not only negative concord, but also initial auxiliaries in negative clauses, absence of the *'s* possessive suffix, and omission of the copular verb *be* in certain present-tense contexts:
 
 *AAVE* ***Standard***
 
  - Ain't nobody gonna try that on me. Nobody is going to try that on me.
- - A junkie shoes either fallin' apart or they brand new. A junkie's shoes are either falling apart or brand new.    
+ - A junkie shoes either fallin' apart or they brand new. A junkie's shoes are either falling apart or brand new.
 
 The immediately preceding example is from dialogue in Walter Mosley's novel *The Right Mistake* \(2008\). See **African-American English**.
 
@@ -82,7 +82,7 @@ One of the most salient and noticeable features of nonstandard dialects relates 
  - wash /wahsh/ /wahrsh/
  - window /**win**-doh/ /**win**-dәr/
  - wrestling /**res**-ling/ /**ras**-lin/
- - yellow /**yel**-oh/ /**yel**-ә/ or /**yel**-әr/    
+ - yellow /**yel**-oh/ /**yel**-ә/ or /**yel**-әr/
 
 The *Longman Pronunciation Dictionary* by J.C. Wells \(3d ed. 2008\) is a thorough and reliable guide to English pronunciation using the International Phonetic Alphabet. It gives the BrE pronunciation first and the Standard American English pronunciation second.
 

@@ -4,7 +4,7 @@ frenum; **\*fraenum**. Since about 1900, *frenum* /**free**-nәm/ has been the s
 
 If the frenum is small, the diminutive *frenulum* is used <clitoral frenulum>—*\*fraenulum* being a variant.
 
-Current ratio in print \(*frenum* vs. *\*fraenum*\): 15:1   
-Current ratio in print \(*frena* vs. *frenums*\): 10:1   
+Current ratio in print \(*frenum* vs. *\*fraenum*\): 15:1
+Current ratio in print \(*frena* vs. *frenums*\): 10:1
 Current ratio in print \(*frenula* vs. *frenulums*\): 13:1
 

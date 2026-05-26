@@ -12,7 +12,7 @@ See **feel \(c\)**.
 
 Language-Change Index
 
-*badly* after a linking verb <\*feel badly> <\*looked badly after the loss>: Stage 2   
+*badly* after a linking verb <\*feel badly> <\*looked badly after the loss>: Stage 2
 Current ratio in print \(*felt bad* vs. *\*felt badly*\): 13:1
 
 **B. In the Sense "very greatly" or "very much."** This use, as in *badly in need*, was formerly criticized. Having become established in the early 20th century, it is perfectly idiomatic in AmE—e.g.: "Democrats demanded concessions in a bill tightening immigration laws, another measure Republicans want *badly*." Dave Skidmore, "Congress Fights Budget Demons," *Chattanooga Times*, 28 Sept. 1996, at A4. But cf. **awful**.
@@ -25,6 +25,6 @@ Language-Change Index
 
 1. *badly* for *very much* <badly in need>: Stage 5
 
-2. *bad* for *badly* <we need some paper bad>: Stage 2  
+2. *bad* for *badly* <we need some paper bad>: Stage 2
 Current ratio in print \(*need it badly* vs. *\*need it bad*\): 1.4:1
 

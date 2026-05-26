@@ -14,6 +14,6 @@ Language-Change Index
 
 1. *cliché* as an adjective: Stage 5
 
-2. *clichéd* as an adjective: Stage 3   
+2. *clichéd* as an adjective: Stage 3
 Current ratio in print \(*clichéd image* vs. *cliché image*\): 4:1
 

@@ -20,7 +20,7 @@ A contrarian view comes from *WNWCD*, which records only *spit and image*. It's 
 
 Language-Change Index
 
-*spitting image*: Stage 5   
+*spitting image*: Stage 5
 Current ratio in print \(*spitting image* vs. *spit and image*\): 38:1
 
 **B. And *\*splitting image*.** This odd variant, another chip off the old *spit and image* block, usually appears as a pun. But occasionally \(and sadly\), a sober-sided writer will err with it—e.g.:
@@ -33,6 +33,6 @@ Current ratio in print \(*spitting image* vs. *spit and image*\): 38:1
 
 Language-Change Index
 
-*\*splitting image* for *spitting image*: Stage 1   
+*\*splitting image* for *spitting image*: Stage 1
 Current ratio in print \(*spitting image* vs. *\*splitting image*\): 38:1
 

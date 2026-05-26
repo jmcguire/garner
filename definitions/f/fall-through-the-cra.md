@@ -10,6 +10,6 @@ fall through the cracks. The *cracks* in this idiom are the openings between sla
 
 Language-Change Index
 
-*\*fall between the cracks* for *fall through the cracks*: Stage 3   
+*\*fall between the cracks* for *fall through the cracks*: Stage 3
 Current ratio in print \(*fall through the cracks* vs. *\*fall between the cracks*\): 4:1
 

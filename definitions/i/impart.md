@@ -6,6 +6,6 @@ Language-Change Index
 
 1. *\*impart someone with something* for *impart something to someone*: Stage 1
 
-2. *impart* misused for *imbue*: Stage 1  
+2. *impart* misused for *imbue*: Stage 1
 Current ratio in print \(*imbued with* vs. *\*imparted with*\): 109:1
 

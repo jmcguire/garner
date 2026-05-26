@@ -24,6 +24,6 @@ Current ratio in print \(*minimize* vs. \**minify*\): 1,187:1
 
 Language-Change Index
 
-*\*minimalize* for *minimize*: Stage 1   
+*\*minimalize* for *minimize*: Stage 1
 Current ratio in print \(*minimized* vs. *\*minimalized*\): 212:1
 

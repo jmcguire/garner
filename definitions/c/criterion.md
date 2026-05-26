@@ -20,10 +20,10 @@ Cf. **media** & **phenomenon**. See plurals \(b\).
 
 Language-Change Index
 
-1. *criteria* as a false singular for *criterion*: Stage 2   
+1. *criteria* as a false singular for *criterion*: Stage 2
 Current ratio in print \(*a criterion* vs. *\*a criteria*\): 16:1
 
-2. *\*criterions* as a plural: Stage 1   
+2. *\*criterions* as a plural: Stage 1
 Current ratio in print \(*criteria* vs. *\*criterions*\): 668:1
 
 **B. *Criterion* Misused as a Plural.** Oddly, perhaps because *criteria* is so often wrongly thought to be singular, the correct singular and plural forms have—in some writers' minds—done something of a role reversal. So *criterion* is sometimes incorrectly used as the plural form—e.g.:
@@ -34,7 +34,7 @@ Current ratio in print \(*criteria* vs. *\*criterions*\): 668:1
 
 Language-Change Index
 
-*criterion* as a false plural for *criteria*: Stage 1   
+*criterion* as a false plural for *criteria*: Stage 1
 Current ratio in print \(*several criteria* vs. *\*several criterion*\): 165:1
 
 **C. And *criterium*.** Since about 1970, *criterium* has denoted "a bicycle race of a specified number of laps on a closed course over public roads closed to normal traffic" \(*W11*\). The word was borrowed from the French, in which *critérium* means "competition." E.g.:

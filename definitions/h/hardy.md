@@ -20,9 +20,9 @@ Sometimes, too, *hearty* is misused for *hardy*. We speak of *hardy* \(not *hear
 
 Language-Change Index
 
-1. *hardy* misused for *hearty*: Stage 1  
+1. *hardy* misused for *hearty*: Stage 1
 Current ratio in print \(*hearty laugh* vs. *\*hardy laugh*\): 50:1
 
-2. *hearty* misused for *hardy*: Stage 1  
+2. *hearty* misused for *hardy*: Stage 1
 Current ratio in print \(*hardy plants* vs. *\*hearty plants*\): 25:1
 

@@ -1,4 +1,4 @@
-# Animal Adjectives 
+# Animal Adjectives, Essay
 
  Animal Adjectives . If you have an English–Latin dictionary, look up any animal to find the corresponding Latin term. Then look up that term in an unabridged English-language dictionary and you're likely to find an English adjective—perhaps rare, but there nevertheless—ending in *-ine*. Some of these, of course, are well known:
 
@@ -8,7 +8,7 @@
  - elephantine = of, relating to, or like an elephant
  - equine = of, relating to, or like a horse
  - feline = of, relating to, or like a cat
- - serpentine = of, relating to, or like a snake    
+ - serpentine = of, relating to, or like a snake
 
 Others are somewhat less well known. Aficionados of Sherlock Holmes know that Sir Arthur Conan Doyle described Holmes more than once as having an *aquiline* nose. \(That means "eagle-like."\) Others that are middlingly well known appear from time to time—e.g.:
 

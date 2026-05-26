@@ -6,6 +6,6 @@ In modern print, *ambience* is used more than twice as often as *ambiance*. Thou
 
 Language-Change Index
 
-*ambiance* for *ambience*: Stage 4   
+*ambiance* for *ambience*: Stage 4
 Current ratio in print \(*ambience* vs. *ambiance*\): 2.4:1
 

@@ -92,6 +92,6 @@ All in all, despite their more and more positive connotations, you might bemoan 
 
 Language-Change Index
 
-*fortuity* misused for *good fortune*: Stage 2   
+*fortuity* misused for *good fortune*: Stage 2
 Current ratio in print \(*fortuity* vs. *fortuitousness*\): 3:1
 

@@ -12,6 +12,6 @@ This confusion provides yet one more reason why *flammable* is to be encouraged 
 
 Language-Change Index
 
-*inflammable* misused for *inflammatory*: Stage 1   
+*inflammable* misused for *inflammatory*: Stage 1
 Current ratio in print \(*inflammatory words* vs. *\*inflammable words*\): 188:1
 

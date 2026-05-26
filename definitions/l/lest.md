@@ -24,6 +24,6 @@ Idiomatically speaking, if a modal verb follows *lest*, it should be *might* \(o
 
  - "Jonathan Clark nipped him at the wire, *lest* he *would* \[read *should*\] have three straight titles." Dave Hickman, "Westfall Wraps Up Fourth Title with Final-Round 68," *Charleston Gaz. & Daily Mail* \(W. Va.\), 29 June 2002, at B1.
 
-Current ratio in print \(*lest he be* vs. \**lest he is*\): 54:1   
+Current ratio in print \(*lest he be* vs. \**lest he is*\): 54:1
 Current ratio in print \(*lest he might* vs. \**lest he will*\): 17:1
 

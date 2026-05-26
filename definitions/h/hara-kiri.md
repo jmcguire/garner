@@ -12,6 +12,6 @@ Fortunately, the proper spelling is more than twice as common in print as any of
 
 Language-Change Index
 
-*hara-kiri* misspelled *\*hari-kari* or *\*hiri kiri*: Stage 2   
+*hara-kiri* misspelled *\*hari-kari* or *\*hiri kiri*: Stage 2
 Current ratio in print \(*hara-kiri* vs. *\*hari-kari*\): 5:1
 

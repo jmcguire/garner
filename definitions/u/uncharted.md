@@ -12,6 +12,6 @@ An airplane might be *unchartered* if it had no scheduled flights. But unknown t
 
 Language-Change Index
 
-*unchartered* misused for *uncharted*: Stage 1   
+*unchartered* misused for *uncharted*: Stage 1
 Current ratio in print \(*uncharted waters* vs. *\*unchartered waters*\): 6:1
 

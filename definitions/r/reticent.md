@@ -20,6 +20,6 @@ The corresponding noun is *reticence*, not *\*reticency* \(a needless variant\).
 
 Language-Change Index
 
-*reticent* in the sense "reluctant": Stage 4   
+*reticent* in the sense "reluctant": Stage 4
 Current ratio in print \(*reluctant to* vs. *\*reticent to*\): 45:1
 

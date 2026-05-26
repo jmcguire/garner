@@ -1,4 +1,4 @@
-# *ceteris paribus* 
+# *ceteris paribus*
 
 *ceteris paribus*  \(= other things being equal or the same\) is, for the most part, an unnecessary latinism. Other things being equal, the common English phrase is better—e.g.:
 

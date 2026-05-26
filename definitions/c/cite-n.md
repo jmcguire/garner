@@ -26,9 +26,9 @@ The opposite error—*site* for *cite—*is rarely seen outside legal writing \(
 
 Language-Change Index
 
-1. *cite* misused for *site*: Stage 1   
+1. *cite* misused for *site*: Stage 1
 Current ratio in print \(*building site* vs. *\*building cite*\): 2,677:1
 
-2. *site* misused for *cite*: Stage 2   
+2. *site* misused for *cite*: Stage 2
 Current ratio in print \(*citing authority* vs. *\*siting authority*\): 1.6:1
 

@@ -14,6 +14,6 @@ Notice, however, that if the adverb precedes the verb, the decision has been mad
 
 Language-Change Index
 
-*go slow* \(with *slow* in adverbial sense\): Stage 5   
+*go slow* \(with *slow* in adverbial sense\): Stage 5
 Current ratio in print \(*go slow* vs. *go slowly*\): 1.6:1
 

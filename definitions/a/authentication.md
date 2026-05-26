@@ -10,6 +10,6 @@ authentication, so spelled, is occasionally misrendered *\*authentification*. Tr
 
 Language-Change Index
 
-*\*authentification* for *authentication*: Stage 1   
+*\*authentification* for *authentication*: Stage 1
 Current ratio in print \(*authentication* vs. \**authentification*\): 422:1
 

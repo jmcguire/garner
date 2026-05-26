@@ -1,4 +1,4 @@
-# -atable 
+# -atable, Essay
 
  -atable  does not generally appear other than in *-able* adjectives derived from two-syllable verbs \(e.g., *create*, *vacate*\). It does so in those cases because the *-able* adjectives would be unrecognizable. H.W. Fowler notes some long exceptions to the general rule \(*inculcatable*, *inculpatable*, *incubatable*\), and states his standard: "The practice should be to use *-atable* where the shorter form is felt to be out of the question" \(*FMEU1* at 36\). Other examples with which the shorter form is impracticable are *anticipatable, translatable*, and *infiltratable* \(so that *infiltrable* not be thought to be derived from *infilter* \[= to sift or filter in\] rather than from *infiltrate*\).
 

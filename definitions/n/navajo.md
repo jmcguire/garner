@@ -4,6 +4,6 @@ Navajo; **\*Navaho**. Although *\*Navaho* was a common spelling as recently as t
 
 *Navajo* has three plurals: *Navajos* \(best\), *Navajo* \(second best\), and *\*Navajoes* \(not best at all\). See plurals \(d\).
 
-Current ratio in print \(*Navajo* vs. *\*Navaho*\): 12:1   
+Current ratio in print \(*Navajo* vs. *\*Navaho*\): 12:1
 Current ratio in print \(*Navajos* vs. *\*Navajoes*\): 30:1
 

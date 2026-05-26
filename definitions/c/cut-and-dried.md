@@ -4,6 +4,6 @@ cut-and-dried, the age-old phrasal adjective, is sometimes wrongly written *\*cu
 
 Language-Change Index
 
-*\*cut-and-dry* for *cut-and-dried*: Stage 2   
+*\*cut-and-dry* for *cut-and-dried*: Stage 2
 Current ratio in print \(*cut-and-dried* vs. *\*cut-and-dry*\): 7:1
 

@@ -26,9 +26,9 @@ See word-swapping.
 
 Language-Change Index
 
-1. *preemptory* misused for *preemptive*: Stage 1  
+1. *preemptory* misused for *preemptive*: Stage 1
 Current ratio in print \(*preemptive strike* vs. *\*preemptory strike*\): 174:1
 
-2. *preemptory* misused for *peremptory*: Stage 1  
+2. *preemptory* misused for *peremptory*: Stage 1
 Current ratio in print \(*peremptory challenges* vs. *\*preemptory challenges*\): 56:1
 

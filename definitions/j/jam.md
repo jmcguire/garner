@@ -8,6 +8,6 @@ jam \(= \[1\] a fruit jelly; or \[2\] a congested or otherwise difficult situati
 
 Language-Change Index
 
-*\*doorjam* for *doorjamb*: Stage 1   
+*\*doorjam* for *doorjamb*: Stage 1
 Current ratio in print \(*doorjamb* vs. *\*doorjam*\): 277:1
 

@@ -12,6 +12,6 @@ See irregular verbs.
 
 Language-Change Index
 
-*\*betted* for past-tense *bet*: Stage 1   
+*\*betted* for past-tense *bet*: Stage 1
 Current ratio in print \(*are bet* vs. *\*are betted*\): 16:1
 

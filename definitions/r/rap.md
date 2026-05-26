@@ -8,6 +8,6 @@ rap \(= a negative allegation or reputation\) typically appears in the phrase *b
 
 Language-Change Index
 
-*\*bum wrap* for *bum rap*: Stage 1   
+*\*bum wrap* for *bum rap*: Stage 1
 Current ratio in print \(*bum rap* vs. *\*bum wrap*\): 36:1
 

@@ -4,6 +4,6 @@ rumbustious \(= boisterous, rambunctious\)—a term that sprang to life as an 18
 
 Language-Change Index
 
-*rumbustious* misspelled *\*rumbustuous*: Stage 1   
+*rumbustious* misspelled *\*rumbustuous*: Stage 1
 Current ratio in print \(*rumbustious* vs. \**rumbustuous*\): 38:1
 

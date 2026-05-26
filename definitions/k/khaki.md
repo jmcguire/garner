@@ -4,6 +4,6 @@ khaki \(= a brownish-yellow fabric of twilled cotton or wool\) is frequently mis
 
 Language-Change Index
 
-*khaki* misspelled *\*kahki*: Stage 1   
+*khaki* misspelled *\*kahki*: Stage 1
 Current ratio in print \(*khaki* vs. *\*kahki*\): 2,601:1
 

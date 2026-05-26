@@ -4,6 +4,6 @@ quantify; **\*quantitate**. The latter is a needless variant newly popular with 
 
 Language-Change Index
 
-*\*quantitate* for *quantify*: Stage 1   
+*\*quantitate* for *quantify*: Stage 1
 Current ratio in print \(*quantify* vs. *\*quantitate*\): 42:1
 

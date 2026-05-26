@@ -10,6 +10,6 @@ The correct phrase, then, is *mother lode* \(= an abundant supply\), not *\*moth
 
 Language-Change Index
 
-*\*mother load* for *mother lode*: Stage 1   
+*\*mother load* for *mother lode*: Stage 1
 Current ratio in print \(*the mother lode* vs. *\*the mother load*\): 23:1
 

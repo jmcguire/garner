@@ -10,6 +10,6 @@ objectionable; **objectional**. *Objectionable* \(= open to objection; unaccepta
 
 Language-Change Index
 
-*objectional* misused for *objectionable*: Stage 1   
+*objectional* misused for *objectionable*: Stage 1
 Current ratio in print \(*objectionable features* vs. *\*objectional features*\): 327:1
 

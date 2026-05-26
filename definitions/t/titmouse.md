@@ -4,6 +4,6 @@ titmouse \(= a small songbird\) is also known as a *tit*, but only serious birdw
 
 Language-Change Index
 
-*\*titmouses* for *titmice*: Stage 1   
+*\*titmouses* for *titmice*: Stage 1
 Current ratio in print \(*titmice* vs. *\*titmouses*\): 29:1
 

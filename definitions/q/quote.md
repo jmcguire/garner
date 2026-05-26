@@ -14,6 +14,6 @@ The negative form, too, is a casualism—e.g.: "I need to correct several *misqu
 
 Language-Change Index
 
-*quote* for *quotation*: Stage 4   
+*quote* for *quotation*: Stage 4
 Current ratio in print \(*several quotations* vs. *several quotes*\): 1.05:1
 

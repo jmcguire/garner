@@ -4,6 +4,6 @@ metal for *mettle* \(= determination and courage\) is a blunder—e.g.: "We have
 
 Language-Change Index
 
-*metal* misused for *mettle*: Stage 1   
+*metal* misused for *mettle*: Stage 1
 Current ratio in print \(*test their mettle* vs. *\*test their metal*\): 23:1
 

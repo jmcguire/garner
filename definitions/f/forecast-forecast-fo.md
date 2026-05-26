@@ -12,6 +12,6 @@ See -cast & irregular verbs.
 
 Language-Change Index
 
-*\*forecasted* for past-tense *forecast*: Stage 2   
+*\*forecasted* for past-tense *forecast*: Stage 2
 Current ratio in print \(*forecast that* vs. *\*forecasted that*\): 6:1
 

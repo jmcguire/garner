@@ -14,9 +14,9 @@ The opposite error \(*whet* for *wet*\) also sometimes occurs—e.g.: "To *whet*
 
 Language-Change Index
 
-1. *wet* misused for *whet*: Stage 1   
+1. *wet* misused for *whet*: Stage 1
 Current ratio in print \(*whet your appetite* vs. *\*wet your appetite*\): 41:1
 
-2. *whet* misused for *wet*: Stage 1   
+2. *whet* misused for *wet*: Stage 1
 Current ratio in print \(*wet my whistle* vs. *\*whet my whistle*\): 13:1
 

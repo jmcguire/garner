@@ -14,6 +14,6 @@ divestiture; **divesture**; **divestment**. The standard noun corresponding to t
 
 Language-Change Index
 
-*\*divesture* for *divestiture*: Stage 1   
+*\*divesture* for *divestiture*: Stage 1
 Current ratio in print \(*divestiture* vs. *\*divesture*\): 25:1
 

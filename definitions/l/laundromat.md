@@ -14,6 +14,6 @@ Although *laundromat* appears to be a portmanteau word, perhaps derived from *la
 
 Language-Change Index
 
-*\*laundry mat* for *laundromat*: Stage 1   
+*\*laundry mat* for *laundromat*: Stage 1
 Current ratio in print \(*laundromat* vs. *\*laundry mat*\): 22:1
 

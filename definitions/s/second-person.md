@@ -1,4 +1,4 @@
-# Second Person 
+# Second Person
 
 Second Person .
 

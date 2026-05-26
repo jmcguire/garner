@@ -8,7 +8,7 @@ hyperbolic.
 
 Language-Change Index
 
-*hyperbolic* misused for *hyperbaric*: Stage 1   
+*hyperbolic* misused for *hyperbaric*: Stage 1
 Current ratio in print \(*hyperbaric oxygen* vs. *\*hyperbolic oxygen*\): 526:1
 
 **C. And *\*hyperbolical*.** The standard adjective has been *hyperbolic* since the late 1800s—not *\*hyperbolical*.

@@ -76,12 +76,12 @@ For the time being, there are four groups of people: \(1\) those who solidify wi
 
 Language-Change Index
 
-*alright* for *all right*: Stage 4   
-1900 ratio in print \(*all right* vs. *alright*\): 254:1   
-1950 ratio in print \(*all right* vs. *alright*\): 77:1   
-1975 ratio in print \(*all right* vs. *alright*\): 18:1   
-Current ratio in print \(*all right* vs. *alright*\): 5:1   
-1975 ratio in print \(*All right\!* vs. *Alright\!*\): 22:1   
+*alright* for *all right*: Stage 4
+1900 ratio in print \(*all right* vs. *alright*\): 254:1
+1950 ratio in print \(*all right* vs. *alright*\): 77:1
+1975 ratio in print \(*all right* vs. *alright*\): 18:1
+Current ratio in print \(*all right* vs. *alright*\): 5:1
+1975 ratio in print \(*All right\!* vs. *Alright\!*\): 22:1
 Current ratio in print \(*All right\!* vs. *Alright\!*\): 1.2:1
 
 **C. Altered Forms.** The term *all right* \(or *alright*\) is so ubiquitous that speakers have condensed and changed it in various ways. In BrE beginning in the 1870s, it was spelled *orright* as an interjection—and later as an adjective and adverb as well. According to the *OED*, *orright* represents "a colloquial pronunciation." In the 1990s, some AmE speakers compressed the two syllables into *aight* \(or *a'ight* or *'ight*\)—first attested in the *OED* from 1993. That form became common in social media as well as slangy speech.
