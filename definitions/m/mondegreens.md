@@ -1,4 +1,4 @@
-# Mondegreens
+# Mondegreens, Essay
 
 Mondegreens. A mondegreen is a misheard lyric, saying, catchphrase, slogan, or word. The term was coined by the Scottish writer Sylvia Wright in a 1954 article in *Harper's Magazine*. There she wrote that, as a child, she had misinterpreted the lyrics of a Scottish ballad called "The Bonny Earl of Moray." One of the lines in the song is this: "They hae slain the Earl o' Moray and laid him on the green." She had thought it went, "They hae slain the Earl o' Moray and Lady Mondegreen."
 

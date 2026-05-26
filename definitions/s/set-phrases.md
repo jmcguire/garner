@@ -1,4 +1,4 @@
-# Set Phrases
+# Set Phrases, Essay
 
 Set Phrases. Bits of language sometimes become fossilized, and when they do it's foolish to vary them. Hence *carved in stone* should never become *carved in shale*, or whatever other variation one might invent. Nor, to cite another example, should one change *comparing apples and oranges* to *comparing apples and pomegranates*. Wilson Follett called set phrases "inviolable" \(if not quite inviolate\): "The attempt to liven up old clichés by inserting modifiers into the set phrase is a mistake: the distended phrase is neither original, nor unobtrusive, nor brief, and sometimes it has ceased to be immediately clear, as in *They have been reticent to a tactical fault*" \(*MAU* at 303\).
 

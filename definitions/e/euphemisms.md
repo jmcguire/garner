@@ -1,4 +1,4 @@
-# Euphemisms
+# Euphemisms, Essay
 
 Euphemisms are supposedly soft or unobjectionable terms used in place of harsh or objectionable ones. The purpose is to soften; the means is usually indirection—saying one thing and meaning another. To discerning readers, of course, some euphemisms may seem unnecessarily mealy-mouthed—even silly.
 

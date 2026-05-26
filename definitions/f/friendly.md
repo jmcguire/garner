@@ -1,4 +1,4 @@
-# -friendly
+# -friendly, Essay
 
 -friendly. When used in a compound with another word, *-friendly* implies ease of use or openness to the needs of a type of user. Several such compounds have become vogue terms on their own, beginning with *user-friendly*. That term usually describes a device, software, or website that is easy to use—e.g.: "I use online resources nearly exclusively for researching your complaints and keeping up to date on consumer issues. . . . None of these sites requires a fee, and most of them are pretty *user-friendly*." Suzanne Palmer, "Consumers' Protection Is Information," *St. Petersburg Times* \(Fla.\), 4 Feb. 2007, at E3. Many other analogous terms also exist, such as *customer-friendly*, *driver-friendly*, and *pet-friendly*.
 

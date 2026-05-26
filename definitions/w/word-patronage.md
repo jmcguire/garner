@@ -1,4 +1,4 @@
-# Word Patronage
+# Word Patronage, Essay
 
  Word Patronage  is "the tendency to take out one's words and look at them, to apologize for expressions that either need no apology or should be quietly refrained from" \(*FMEU1* at 733\). A flourishing example today is *no pun intended*. But others are ready at hand as well—e.g.: "Hopefully—to use an ugly word—the dilemma will be solved by the proposed legislation." In his preface to *FMEU2*, Ernest Gowers indulged mildly in word patronage when he wrote: "This was indeed an epoch-making book in the strict sense of that overworked phrase" \(p. iii\). The tendency is not at all uncommon:
 

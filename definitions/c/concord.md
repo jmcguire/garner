@@ -1,4 +1,4 @@
-# Concord
+# Concord, Essay
 
 Concord \(= grammatical agreement of one word with another to which it relates\) embraces number, person, case, and gender. It applies most often to \(1\) a subject and its verb; \(2\) a noun and its pronoun; \(3\) a subject and its complement; \(4\) a noun and its appositive; \(5\) a relative pronoun and its antecedent; and \(6\) an adjective and its noun. Errors in concord for \(1\), \(2\), and \(3\) are examined at \(a\), \(b\), and \(c\) below; for \(4\), see appositives; for \(5\), see \(d\) below and remote relatives; for (6), see (e\) below.
 

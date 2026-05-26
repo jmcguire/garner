@@ -1,4 +1,4 @@
-# Portmanteau Words
+# Portmanteau Words, Essay
 
 Portmanteau Words. Lewis Carroll improvised this term to denote words formed by combining the sounds and meanings of two different words. \(Linguists use the term *blend*.\) Carroll gave us *chortle* \(chuckle \+ snort\) and *galumph* \(gallop \+ triumph\). Thus *aerobicise* derives from *aerobic exercise*; *insinuendo* combines *insinuation* with *innuendo*; and *quasar* is from *quasi* and *stellar.* Other recent innovations are *avigation*, from *aviation* and *navigation*; *pictionary* for *picture-filled dictionary*; and *videbut* for *video debut*.
 

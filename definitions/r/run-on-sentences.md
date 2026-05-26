@@ -1,4 +1,4 @@
-# Run-On Sentences
+# Run-On Sentences, Essay
 
 Run-On Sentences do not stop where they should—as a matter of grammar. The problem usually occurs when the writer is uncertain how to handle punctuation or how to handle such adverbs as *however* and *otherwise*, which are often mistakenly treated as conjunctions. Please understand, though, that a run-on sentence isn't simply a long one.
 

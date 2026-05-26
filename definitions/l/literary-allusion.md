@@ -1,4 +1,4 @@
-# Literary Allusion
+# Literary Allusion, Essay
 
 Literary Allusion. A brief mention or evocation of a literary work can enrich discourse, bringing in a world of experience that transcends plain statement. Ideally, there should be a good chance of recognition among listeners and readers—no small challenge. With a general audience, the object is to discern what people can be presumed to know. It used to be that every high-school graduate and certainly every college graduate would have a smattering of knowledge about Shakespeare and the Bible. That is far less true today than it was in the early 1900s. No longer is there a widely shared curriculum. Yet with allusion, you must hope that some appreciable number of people in your audience will recognize the deeper meaning.
 

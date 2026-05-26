@@ -1,4 +1,4 @@
-# Differentiation
+# Differentiation, Essay
 
 Differentiation is the linguistic process by which similar words, usually those having a common etymology, gradually diverge in meaning. The process is as old as language itself. Often the semantic change occurs gradually, as when *off* became separate from *of* \(1600s\), *thorough* became separate from *through* \(ca. 1500–1700\), and *too* became separate from *to* \(ca. 1500–1700\). All three pairs began as a single word, but then by a difference in spelling the words took on distinct senses.
 

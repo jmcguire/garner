@@ -241,7 +241,6 @@ def main():
     else:
         parser.print_help()
         parser.exit(1)
-    
 
 
 if __name__ == "__main__":

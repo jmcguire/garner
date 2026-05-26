@@ -1,4 +1,4 @@
-# -edly
+# -edly, Essay
 
 -edly. With words ending in *-edly*, the classic adverbial formula *in an X manner* does not always work. Although *amazedly* means "in an amazed manner," *allegedly* does not mean "in an alleged manner" and *purportedly* does not mean "in a purported manner." Nor does *admittedly* mean "in an admitted manner." Rather, the unorthodox formula for these words is *it is . . . -ed that*; i.e., *allegedly* means "it is alleged that," and so on. Instead of bewailing the unorthodoxy of these words ending in *-edly*, we should welcome the conciseness they promote and should continue to use the forms that have made their way into common usage. We have many of them:
 

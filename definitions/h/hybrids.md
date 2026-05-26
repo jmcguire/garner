@@ -1,4 +1,4 @@
-# Hybrids
+# Hybrids, Essay
 
 Hybrids, or words composed of morphemes from different languages \(such as *teleprinter* \[Gk. *tele-* \+ OF *preint*\]\), became quite common in the 1900s. But in fact, they have existed for a very long time in English: *grandfather* \(dating from the 1400s\) has a French prefix and an English root; *bicycle* \(dating from the mid-1800s\) has a Latin prefix and a Greek root. \(*Bicycle* is a hybrid even in French, from which we originally borrowed the word.\)
 

@@ -1,4 +1,4 @@
-# Century Descriptions
+# Century Descriptions, Essay
 
 Century Descriptions. Some of us, apparently, forget from time to time that *19th century* describes the 1800s, that *18th century* describes the 1700s, and so on. Take, for example, R.B. Collins's article titled "Can an Indian Tribe Recover Land Illegally Taken in the Seventeenth Century?" 1984–1985 *Preview of United States Supreme Court Cases* no. 8, p. 179 \(18 Jan. 1985\), which discusses land acquired by New York from the Oneida people in 1795. The title should refer to the 18th century, not the 17th.
 

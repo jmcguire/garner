@@ -1,4 +1,4 @@
-# Gallicisms
+# Gallicisms, Essay
 
 Gallicisms /**gal**-ә-siz-әms/, or French loanwords, appear frequently in modern prose—e.g., *blasé*, *coup de grâce*, *cul-de-sac*, *joie de vivre*, *mésalliance*, *succès d'estime*, *tête-a-tête*, and *tour de force*. None of these is unduly *recherché*, to use yet another. But foreignisms of any kind become affectations when used in place of perfectly good English terms—e.g., *bifteck* for *beefsteak*, *brusquerie* for *brusqueness*, *en passant* for *in passing*, *peu à peu* for *little by little*, and *sans* for *without*. \(See **sans**.\)
 

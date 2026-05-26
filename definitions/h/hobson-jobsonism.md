@@ -1,4 +1,4 @@
-# Hobson-Jobsonism
+# Hobson-Jobsonism, Essay
 
 Hobson-Jobsonism. This term denotes the principle that with loanwords, foreign-sounding phonemes of the original language are modified to approximate the phonemes available in the borrowing language. Hence *Rodriguez*, pronounced in Spanish with two instances of the guttural *r*, is normally pronounced with the usual English *r* in English-speaking contexts—even when spoken by a Spanish speaker. An insistence that *Rodriguez* be enunciated just as it would be in Spanish—with the concomitant idea that an anglicized pronunciation is a "mispronunciation"—is perverse.
 

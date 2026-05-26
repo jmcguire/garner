@@ -1,4 +1,4 @@
-# Overstatement
+# Overstatement, Essay
 
 Overstatement. In persuasive or even polemical prose, such words as *clearly*, *patently*, *obviously*, and *indisputably* generally weaken rather than strengthen the statements they preface. They have been debased by overuse. Critics have noted that a writer who begins a sentence with one of these words is likely to be stating something questionable. See **clearly** & adverbs \(f\).
 

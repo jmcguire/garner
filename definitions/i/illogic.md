@@ -1,4 +1,4 @@
-# Illogic
+# Illogic, Essay
 
 Illogic .
 

@@ -1,4 +1,4 @@
-# Commercialese
+# Commercialese, Essay
 
 Commercialese. This is the peculiar jargon of business, typified by words and phrases such as these \(from correspondence\):
 

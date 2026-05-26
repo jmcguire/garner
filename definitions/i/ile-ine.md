@@ -1,4 +1,4 @@
-# -ile/-ine
+# -ile/-ine, Essay
 
 -ile/-ine. Most words with these endings are best pronounced in AmE with the *i* short rather than long —or else with a schwa sound. Thus: *agile* /**aj**-әl/, not /**aj**-īl/; *genuine* /**jen**-yoo-in/, not /**jen**-yoo-īn/. But as with any other rule of pronunciation, there are many exceptions, among them *infantile* /**in**-fәn-tīl/, *magazine* /mag-ә-**zeen**/, and *turpentine* /**tәr**-pәn-tīn/.
 

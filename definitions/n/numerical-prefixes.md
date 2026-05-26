@@ -1,4 +1,4 @@
-# Numerical Prefixes
+# Numerical Prefixes, Essay
 
 Numerical Prefixes. English is a major debtor to the world's other languages, especially to Latin and Greek. The extent of borrowing from the classical languages is mind-boggling. One of the early editors of the *OED*, the great Henry Bradley, put it this way: "The Latin element in modern English is so great that there would be no difficulty in writing hundreds of consecutive pages in which the proportion of words of native English and French etymology, excluding particles, pronouns, and auxiliary and substantive verbs, would not exceed five per cent of the whole." Henry Bradley, *The Making of English* 94 \(1904\).
 

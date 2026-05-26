@@ -1,4 +1,4 @@
-# Morphological Deformities
+# Morphological Deformities, Essay
 
 Morphological Deformities are words derived from other languages, usually Latin or Greek, whose morphemes are so put together as to clash with the lending or borrowing language's principles of word-formation. In some philologists' view, one does not combine the inseparable particle *dis*- with nouns to form English verbs \(e.g., *dismember*\) because it is impermissible by Latin morphology. In Latin, *dis*- was joined only with verbs to form privative verbs \(e.g., *disentitle*, *disregard*\).
 

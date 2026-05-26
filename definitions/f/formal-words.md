@@ -1,4 +1,4 @@
-# Formal Words
+# Formal Words, Essay
 
 Formal Words are those occupying an elevated level of diction. The English language has several levels of diction, and it frequently has synonyms existing on the different levels. So *residence* is formal, *house* is the ordinary word, and *digs* \(or *pad* or *crib*\) is slang. Likewise, *proceed* is formal, *go* is ordinary, and *head on over* is slang.
 

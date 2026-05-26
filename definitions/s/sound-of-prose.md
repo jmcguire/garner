@@ -1,4 +1,4 @@
-# Sound of Prose
+# Sound of Prose, Essay
 
 Sound of Prose. Every writer is occasionally guilty of having a tin ear. But the effective writer is self-trained not to write in a way that distracts with undue alliteration, unconscious puns, accidental rhyming, or unseemly images. These clunkers are sure to irritate some readers. And although clunkers are never entirely escapable, writers can learn to minimize them—most helpfully by acquiring the habit of reading their prose aloud.
 

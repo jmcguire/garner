@@ -1,4 +1,4 @@
-# -cide
+# -cide, Essay
 
 -cide. This suffix denotes either the act of slaying \[fr. L. *-cīdium* "cutting, killing"\] or someone who slays \[fr. L. *-cīda* "cutter, killer"\]. Hence *fratricide* is either the killing of one's brother or someone who kills his or her brother. Some common words ending in this suffix are these:
 

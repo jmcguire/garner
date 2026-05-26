@@ -1,4 +1,4 @@
-# Clichés
+# Clichés, Essay
 
 Clichés. Writing pundits have often warned against clichés:
 

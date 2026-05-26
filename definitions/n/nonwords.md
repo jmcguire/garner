@@ -1,4 +1,4 @@
-# Nonwords
+# Nonwords, Essay
 
 Nonwords. H.W. Fowler's formidable American precursor, Richard Grant White, wrote incisively about words that aren't legitimate words:
 

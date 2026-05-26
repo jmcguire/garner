@@ -1,4 +1,4 @@
-# Miscues
+# Miscues, Essay
 
 Miscues. A miscue is an inadvertent misdirection that causes the reader to proceed momentarily with an incorrect assumption about how—in mechanics or in sense—a sentence or passage will end. The misdirection is not serious enough to cause a true ambiguity because, on reflection, the reader can figure out the meaning. Thus:
 

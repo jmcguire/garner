@@ -1,4 +1,4 @@
-# Understood Words
+# Understood Words, Essay
 
 Understood Words are common in English, and they usually aren't very troublesome if we can mentally supply them. Often they occur at the outset of sentences. *More important* is short for *what is more important*; *as pointed out earlier* is short for *as was pointed out earlier*.
 

@@ -1,4 +1,4 @@
-# Zombie Nouns
+# Zombie Nouns, Essay
 
  Zombie Nouns . Some call them "nominalizations," i.e., verbs that have been changed into nouns. Without the jargon, we might say that a verb has been buried in a longer noun—usually a noun ending in one of the following suffixes: *-tion*, *-sion*, *-ment*, *-ence*, *-ance*, *-ity*. Today such nouns are commonly called "zombie nouns." It is hardly an exaggeration \(make that *one hardly exaggerates*\) to say that when the verb will work in context, the better choice is almost always to use it instead of a zombie noun. Thus:
 

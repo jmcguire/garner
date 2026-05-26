@@ -1,4 +1,4 @@
-# Chronology
+# Chronology, Essay
 
 Chronology. Many writing problems—though described in various other ways—result primarily from disruptions in chronological order. In narrative presentations, of course, chronology is the essential organizer. The brain can more easily process the information when it's presented in that order. So generally, the writer should try to work out the sequence of events and use sentences and paragraphs to let the story unfold.
 

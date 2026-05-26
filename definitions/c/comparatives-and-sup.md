@@ -1,4 +1,4 @@
-# Comparatives and Superlatives
+# Comparatives and Superlatives, Essay
 
 Comparatives and Superlatives .
 

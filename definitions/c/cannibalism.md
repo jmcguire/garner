@@ -1,4 +1,4 @@
-# Cannibalism
+# Cannibalism, Essay
 
 Cannibalism is H.W. Fowler's term for constructions in which certain words "devour their own kind" \(*FMEU1* at 64\). That is, if a word appears once in a sentence, and another instance of it is grammatically needed, the second will be omitted because the writer has been beguiled into thinking that the first instance serves both needs. Words that commonly fall prey are *as*, *to*, and *that*. E.g.:
 

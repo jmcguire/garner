@@ -1,4 +1,4 @@
-# Tmesis
+# Tmesis, Essay
 
 Tmesis, the practice of separating parts of a compound word by inserting another word between those parts, seldom occurs today. Typically, it occurs either in humorous passages or in low colloquial language—e.g.: "The crowds and the loud music and the X Games are miles and miles and miles away, *a whole 'nother* country away." Chris Jenkins, "Hell of a Race," *San Diego Union-Trib.*, 24 June 1997, at D1. \(See set phrases.\) But tmesis occurs in other phrases as well—e.g.: " ‘\[H\]e might be in Florida *some-damn-where*,' says Fred Haselrig, Carlton's father." Michael Silver, "Invisible Man," *Sports Illustrated*, 18 Dec. 1995, at 66. In a similar vein, Joseph Pulitzer \(1847–1911\) of the *New York World* had a pet word: *indegoddampendent*. This type of interpolated profanity use is common in BrE with *bloody*—e.g.: "It is also, as her fans Down Under rightly proclaim, *abso-bloody-lutely* wonderful." Paul Cole, "Special Kasey," *Sunday Mercury* \(U.K.\), 21 Apr. 2002, at P38. In AmE, far stronger language is commonly inserted, as moviegoers know only too well.
 

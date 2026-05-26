@@ -1,4 +1,4 @@
-# Political Correctness
+# Political Correctness, Essay
 
 Political Correctness today primarily refers to the phenomenon of stifling views and attitudes contrary to those of the enlightened intelligentsia of the left, especially as regards social and political issues. It is a kind of planned intolerance for the expression of ideas that run counter to liberal orthodoxies. One sees it in language, when a vocal minority insists on the avoidance of certain terminology considered discriminatory or offensive, and especially promotes what might be regarded as euphemisms and doublespeak; in debate, when contrarian views are excoriated for their very utterance; and in everyday life, when the timid refuse to express an idea in any but the most anodyne way. A host of new sensitivities have been recognized: ableism, ageism, lookism, sizeism, weightism, and the like.
 

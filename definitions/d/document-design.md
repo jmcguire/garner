@@ -1,4 +1,4 @@
-# Document Design
+# Document Design, Essay
 
 Document Design. Traditionally, writers have been relatively unconcerned with the look of their documents. This lack of concern didn't have many horrible consequences in the days of typewriters, when the primary design choices were the width of the margins and the amount of underlining and capitals.
 

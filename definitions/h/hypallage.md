@@ -1,4 +1,4 @@
-# Hypallage
+# Hypallage, Essay
 
 Hypallage /hī-**pal**-ә-jee/, known also as the transferred epithet, is a figure of speech in which the logical subject has been displaced by what would more literally be something else that isn't directly named. Usually hypallage is a mere idiomatic curiosity. It has a distinguished lineage—a famous example being Shakespeare's line from *Julius Caesar*: "This was the most unkindest cut of all" \(3.2.183\). It was not the *cut* that was unkind, but rather the *cutter.* Hence the object has become the subject.
 

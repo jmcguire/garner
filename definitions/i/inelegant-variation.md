@@ -1,4 +1,4 @@
-# Inelegant Variation
+# Inelegant Variation, Essay
 
 Inelegant Variation. H.W. Fowler devised the term "elegant variation" for the ludicrous practice of never using the same word twice in the same sentence or passage. But when Fowler named this vice of language in the 1920s, *elegant* had a pejorative cast: it was commonly associated with precious overrefinement. Today, however, the word has much more positive connotations. E.g.: "The book is exceedingly well edited, and several essays are *elegantly* written."
 

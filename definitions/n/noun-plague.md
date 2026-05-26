@@ -1,4 +1,4 @@
-# Noun Plague
+# Noun Plague, Essay
 
 Noun Plague refers to the piling up of nouns to modify other nouns. When a sentence has more than two nouns in a row, it generally becomes much less readable. The following sentence is badly constructed because of the noun-upon-noun syndrome: "Consumers complained to their congressmen about *the National Highway Traffic Safety Administration's automobile seat belt ‘interlock' rule.*" One can hardly make it to the end of the sentence to discover that we're talking about a rule. \(Even worse, many writers today would leave off the possessive after *Administration.*\) In the interest of plague control, we might instead refer to *the ‘interlock' rule applied to automotive seat belts by the National Highway Traffic Safety Administration.* A few prepositional phrases and an adjective \(*automotive*\) do the job.
 

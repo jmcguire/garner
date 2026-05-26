@@ -1,4 +1,4 @@
-# Doublespeak
+# Doublespeak, Essay
 
 Doublespeak, the language of disinformation, is a subset of euphemism. In the words of a leading text on the subject:
 

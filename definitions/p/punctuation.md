@@ -1,4 +1,4 @@
-# Punctuation
+# Punctuation, Essay
 
 Punctuation is the cuing system by which writers signal their readers to slow down, pause, speed up, supply tonal inflections, and otherwise move more smoothly through sentences. Punctuation is an aspect of rhetoric—a way of giving emphasis and rhythm and achieving clarity. Meanwhile, punctuation problems often stem from bad writing: "Most errors of punctuation arise from ill-designed, badly shaped sentences, and from the attempt to make them work by means of violent tricks with commas and colons." Hugh Sykes Davies, *Grammar Without Tears* 167 \(1951\).
 

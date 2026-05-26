@@ -1,4 +1,4 @@
-# Sentence Length
+# Sentence Length, Essay
 
 Sentence Length. What is the correlation between sentence length and readability? No one knows precisely. Rhetoricians and readability specialists have long suggested aiming for sentences of varying lengths, but with an average of about 20 to 25 words. And empirical evidence seems to bear out this rough guideline. In 1985, three authors calculated figures for several publications, using extensive samples:
 

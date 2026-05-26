@@ -1,4 +1,4 @@
-# Diminutives
+# Diminutives, Essay
 
 Diminutives. Many English words have suffixes \(such as *-elle*, *-ette*, and *-let*\) showing that the words connote small, petty, or inferior things. Often these things are smaller or younger than the referents of unsuffixed words: a *piglet*, for example, is a young *pig*. So-called diminutive suffixes sometimes lead double lives. For example, *-ette* may denote a feminine form <bachelorette> or show that something is an imitation <leatherette>. And a diminutive suffix may appear in a word that is not a diminutive of anything \(e.g., a *jerkin* is a sleeveless jacket, not a small *jerk*\). The most common diminutive suffixes are discussed below.
 

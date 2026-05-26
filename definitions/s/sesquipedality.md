@@ -1,4 +1,4 @@
-# Sesquipedality
+# Sesquipedality, Essay
 
 Sesquipedality is the use of big words, literally those that are "a foot and a half" long. Although the English language has an unmatched wealth of words available for its users, most of its resources go untapped. The *OED* contains more than 600,000 words, yet even educated people have only about 10% of that number in their working vocabulary. See David Crystal, *The Cambridge Encyclopedia of the English Language* 123 \(1995\); Tom McArthur, *The Oxford Companion to the English Language* 1091–92 \(1992\).
 

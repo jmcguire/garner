@@ -1,4 +1,4 @@
-# Jargon
+# Jargon, Essay
 
 Jargon refers to the special, usually technical idiom of any social, occupational, or professional group. It arises from the need to streamline communication, to save time and space—and occasionally to conceal meaning from the uninitiated. The subject has a magnified importance today because we live "in an age when vague rhetoric and incomprehensible jargon predominate." Oliver Letwin, "Good Servant, Bad Master," *Times* \(London\), 25 May 1995, Books §, at 37.
 

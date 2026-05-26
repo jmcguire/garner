@@ -1,4 +1,4 @@
-# Redundancy
+# Redundancy, Essay
 
 Redundancy. Washington Irving wrote that "redundancy of language is never found with deep reflection. Verbiage may indicate observation, but not thinking. He who thinks much says but little in proportion to his thoughts." Those words are worth reflecting on.
 

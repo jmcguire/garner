@@ -1,4 +1,4 @@
-# -or/-our
+# -or/-our, Essay
 
 -or/-our. Although all agent nouns except *saviour* \(BrE\) take *-or* in both AmE and BrE \(e.g., *actor*, *investor*\), the general distinction is that of the other nouns that end in either of these forms, AmE nouns tend to be spelled *-or*, and BrE nouns *-our*. That distinction occurs primarily in abstract nouns. Hence the British write *behaviour*, *colour*, *flavour*, and *humour*, whereas Americans write *behavior*, *color*, *flavor*, and *humor*. The following words, however, end in *-or* on both sides of the Atlantic: *error*, *horror*, *languor*, *liquor*, *pallor*, *squalor*, *stupor*, *terror*, *torpor*, and *tremor.* *Glamour* is the primary exception to the *-or* rule in AmE.
 

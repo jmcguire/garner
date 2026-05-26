@@ -1,4 +1,4 @@
-# Skunked Terms
+# Skunked Terms, Essay
 
 Skunked Terms. When a word undergoes a marked change from one use to another—a phase that might take ten years or a hundred—it's likely to be the subject of dispute. Some people \(Group 1\) insist on the traditional use; others \(Group 2\) embrace the new use, even if it originated purely as the result of word-swapping or slipshod extension. Group 1 comprises various members of the literati, ranging from language aficionados to hard-core purists; Group 2 comprises linguistic liberals and those who don't concern themselves much with language. As time goes by, Group 1 dwindles; meanwhile, Group 2 swells (even without an increase among the linguistic liberals).
 

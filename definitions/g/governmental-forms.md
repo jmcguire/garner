@@ -1,4 +1,4 @@
-# Governmental Forms
+# Governmental Forms, Essay
 
 Governmental Forms. The English language abounds in words denoting almost every conceivable form of government, usually ending in either *-cracy* or *-archy*. What follows is only a sampling of the scores of familiar and arcane terms:
 

@@ -1,4 +1,4 @@
-# Puns
+# Puns, Essay
 
 Puns. After centuries of disrepute, puns \(= humorous verbal ambiguities\) now appear in straight-faced writing more than ever. It's easy to see why they're sometimes considered boring or corny—e.g.: "Hip hotelier Ian Schrager has brought a *Starck* change to San Francisco's historic Clift Hotel. He and celebrated designer Philippe Starck have teamed up to reopen the stately hotel." "Nifty New Clift," *Am. Way*, 15 Nov. 2001, at 18. On the other hand, it's easy to admire a seafood restaurateur who's willing to put money at risk with the name "Just for the Halibut."
 

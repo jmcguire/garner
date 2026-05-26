@@ -1,4 +1,4 @@
-# Standard English
+# Standard English, Essay
 
 Standard English. This is a troublesome term: we all think we know what it is, but a definition proves elusive. Broadly speaking, it is the English used by educated people. Some Britons contend that it is the English used by educated Britons, and that whatever is used by educated people in the U.S. is Standard American English. Some Americans refer to Standard British English to differentiate it from American English. Among commentators, some believe that there is a Standard English that subsumes both AmE and BrE. Still others suggest that each English-speaking nation has its own standard: whatever happens to be the most prestigious dialect within that nation.
 

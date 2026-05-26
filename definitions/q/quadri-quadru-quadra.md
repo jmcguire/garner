@@ -1,4 +1,4 @@
-# quadri-/quadru-/quadra-
+# quadri-/quadru-/quadra-, Essay
 
 quadri-/quadru-/quadra-. In Latinate words denoting four of something, *quadri-* is the usual form, as in *quadripartite* \(= having four parts\), *quadrillion* \(= 1015 \[consisting of four groups of three zeros after 1,000\]\), and *quadrivium* \(= the four subjects of study in the higher division of the medieval curriculum, consisting of arithmetic, geometry, astronomy, and music\).
 

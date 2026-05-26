@@ -1,4 +1,4 @@
-# Obscurity
+# Obscurity, Essay
 
 Obscurity, generally speaking, is a serious literary offense. Simple ideas are often made needlessly difficult, and difficult ideas are often made much more difficult than necessary.
 

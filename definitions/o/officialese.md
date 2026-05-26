@@ -1,4 +1,4 @@
-# Officialese
+# Officialese, Essay
 
 Officialese = the language of officialdom, characterized by bureaucratic turgidity and insubstantial fustian; inflated language that could be readily translated into simpler terms. E.g.: "To promote the successful completion of our customary mid-diurnal paradigm regarding the procurement of necessary nutritional supplementation and the advancement of the contemporaneous, spontaneous, and coterminous interdialoguing of affiliated human-services assets, the present contingent should initiate both direct and lateral movements as appropriate to minimize and at the end of the day eliminate the physical separation between the target population and the aliment-preparation and -dispensation facilities." As translated: "Let's talk over lunch."
 

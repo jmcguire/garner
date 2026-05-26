@@ -1,4 +1,4 @@
-# Zeugma
+# Zeugma, Essay
 
  Zeugma . This figure of speech, literally a "yoking together," involves a word's being a part of two constructions. Sometimes it results in a grammatical error, but sometimes it's simply a felicitous way of phrasing an idea. For example, sometimes a verb or preposition is applied to two other words in different senses, often figuratively in one sense and literally in the other, as in *she took her oath and her seat*. Often, the phrasing is both purposeful and humorous—e.g.:
 

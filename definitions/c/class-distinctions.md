@@ -1,4 +1,4 @@
-# Class Distinctions
+# Class Distinctions, Essay
 
 Class Distinctions. Much can be said about the relationship between standard english and social class. \(The question is most relevant to native speakers.\) Much might be said against it, too, given that social class, which in the relevant sense has little to do with income but is instead about behavior and taste, is perhaps the biggest taboo in the U.S. Serious mentions of class may provoke accusations of elitism and snobbery.
 

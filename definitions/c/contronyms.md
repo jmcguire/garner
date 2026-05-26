@@ -1,4 +1,4 @@
-# Contronyms
+# Contronyms, Essay
 
 Contronyms. A surprising number of words can bear contradictory senses. They're known as "contronyms," or "autoantonyms." Typically, context eliminates any real possibility of ambiguity. A truly recondite contronym is *anabasis* /ә-**nab**-ә-sәs/, which can mean either a military advance or a military retreat. Xenophon \(ca. 431–352 BC\) used the word in reference to Cyrus the Younger's attack on his brother, Artaxerxes II, in 401 BC. Once Cyrus was killed in battle, the maneuver turned into a protracted retreat. The word has been recorded in English from 1706, mostly in reference to advances. Following are some less erudite examples:
 

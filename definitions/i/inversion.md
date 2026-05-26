@@ -1,4 +1,4 @@
-# Inversion
+# Inversion, Essay
 
 Inversion. Awkward are most, though not all, grammatical inversions \(like the one that begins this sentence\). They seem to be on the rise in journalism—e.g.: "*Said* the silver-haired Rotblat, a professor emeritus of physics at the University of London: ‘I hope the recognition will help other scientists to recognize their social responsibility.' " William D. Montalbano, "Anti-Nuclear Scientists Win Nobel Peace Prize," *L.A. Times*, 15 Oct. 1995, at A1.
 

@@ -1,4 +1,4 @@
-# Double Bobbles
+# Double Bobbles, Essay
 
 Double Bobbles. A double bobble occurs when somebody reaches for a word—in fact, the *wrong* word—and then mistakes another word altogether for that wrong word. It's a word twice removed from its correct use. Two ready examples are *\*Hobbesian choice* \(when misused for a difficult choice\) and *compromise* \(when misused for *comprise*\).
 

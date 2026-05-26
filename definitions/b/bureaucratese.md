@@ -1,4 +1,4 @@
-# Bureaucratese
+# Bureaucratese, Essay
 
  Bureaucratese  /byʊ-rahk-rә-**teez**/, the jargon of bureaucrats, is a type of writing characterized by zombie nouns, passive voice, overlong sentences, and loose grammar. Add to that an overlay of doublespeak and officialese, and you end up with bureaucratese at its finest. Here's an example drawn from a classic work:
 

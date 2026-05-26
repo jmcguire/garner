@@ -1,4 +1,4 @@
-# Oxymorons
+# Oxymorons, Essay
 
 Oxymorons .
 

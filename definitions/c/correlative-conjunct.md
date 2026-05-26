@@ -1,4 +1,4 @@
-# Correlative Conjunctions
+# Correlative Conjunctions, Essay
 
 Correlative Conjunctions, or conjunctions used in pairs, should join structurally identical sentence elements, sometimes called "matching parts." Simple nouns never cause problems <neither fish nor fowl>. When we use constructions with phrases and clauses, however, parallelism may become a problem. Following are examples with some of the more common correlative conjunctions:
 

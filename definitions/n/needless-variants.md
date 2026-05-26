@@ -1,4 +1,4 @@
-# Needless Variants
+# Needless Variants, Essay
 
 Needless Variants, two or more forms of the same word without nuance or differentiation—and seemingly without even hope for either—teem in the English language. They're especially common in the outer reaches of the language—in technical vocabulary. Unfortunately, the unnecessary use of variant forms \(e.g., adjectives ending in *-tive* and *-tory*\) leads not to precision in technical writing but to uncertainties about the writer's intention. The trusting reader silently thinks, "The writer used *investigative* on the previous page but now uses *investigatory*—is a distinction intended?"
 

@@ -1,4 +1,4 @@
-# Preventive Grammar
+# Preventive Grammar, Essay
 
 Preventive Grammar. Occasionally a grammarian or editor will be asked a question such as, "Should it be *It's both of their second marriage* or *It's both of their second marriages?*" The expert to whom the question has been posed will demur and recommend a rewrite: *It's a second marriage for each of them*, or even *It's a second marriage for them both*. Or perhaps *the* for *a*. The questioner will persist: "But which of the original wordings is correct? Assume a rewrite is impossible."
 

@@ -1,4 +1,4 @@
-# Object-Shuffling
+# Object-Shuffling, Essay
 
 Object-Shuffling. This term describes what unwary writers often do with verbs that require an indirect as well as a direct object. E.g.: "He continued the medicine a few days longer, and then *substituted the penicillin with tetracycline* \[read *substituted tetracycline for the penicillin* or *replaced the penicillin with tetracycline*\]." This use of *substitute* for *replace*, resulting from a confusion over the type of object that each verb may take, used to be labeled "incorrect" in the *OED*. \(Now the editors concede that it is "common."\)
 

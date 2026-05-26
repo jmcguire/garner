@@ -1,4 +1,4 @@
-# Ergative Verbs
+# Ergative Verbs, Essay
 
 Ergative Verbs. In the mid-20th century, grammarians devised the term *ergative* \("working"\) to describe a verb that can be used \(1\) in the active voice with a normal subject \(actor\) and object \(the thing acted on\) <I broke the window>; \(2\) in the passive voice, with the recipient of the verb's action as the subject of the sentence (and most often the actor's becoming the object of a *by*-phrase <the window was broken by me>; or \(3\) in what one textbook called "the third way," as an intransitive verb \(without a direct object\) <the window broke>. Ergative verbs are also sometimes called *labile verbs* or *ambitransitive verbs*.
 

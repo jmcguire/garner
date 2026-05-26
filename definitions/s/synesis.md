@@ -1,4 +1,4 @@
-# Synesis
+# Synesis, Essay
 
 Synesis. In some contexts, meaning—as opposed to the strict requirements of grammar or syntax—governs subject–verb agreement. Henry Sweet, the 19th-century English grammarian, used the term "antigrammatical constructions" for these triumphs of logic over grammar. \(Expressions in which grammar triumphs over logic are termed "antilogical."\) Modern grammarians call the principle underlying these antigrammatical constructions "synesis" \(/**sin**-ә-sis/\).
 

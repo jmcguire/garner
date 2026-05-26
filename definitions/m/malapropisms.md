@@ -1,4 +1,4 @@
-# Malapropisms
+# Malapropisms, Essay
 
 Malapropisms are words that, because they are used incorrectly, produce a humorous effect. The term derives from the character Mrs. Malaprop in Richard Brinsley Sheridan's play *The Rivals* \(1775\). Mrs. Malaprop loves big words, but she uses them ignorantly and creates hilarious solecisms and occasionally embarrassing double entendres. One of Mrs. Malaprop's famous similes is *as headstrong as an allegory on the banks of the Nile*. Elsewhere, she refers to the *geometry* of *contagious countries*.
 

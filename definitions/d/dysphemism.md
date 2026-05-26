@@ -1,4 +1,4 @@
-# Dysphemism
+# Dysphemism, Essay
 
 Dysphemism /**dis**-fә-miz-әm/ = \(1\) the substitution of a disagreeable word or phrase for a neutral or even positive one; or \(2\) a word or phrase so substituted. Dysphemism is the opposite of euphemism. Examples usually fall into the realm of slang—e.g.:
 

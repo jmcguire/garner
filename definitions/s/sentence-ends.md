@@ -1,4 +1,4 @@
-# Sentence Ends
+# Sentence Ends, Essay
 
 Sentence Ends. Rhetoricians have long emphasized that the punch word in a sentence should come at the end:
 

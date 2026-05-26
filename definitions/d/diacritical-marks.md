@@ -1,4 +1,4 @@
-# Diacritical Marks
+# Diacritical Marks, Essay
 
 Diacritical Marks, also known as "diacritics," are orthographical marks that indicate a special phonetic quality for a given character. They occur mostly in foreign languages. But in English a fair number of imported terms have diacritical marks. Sometimes they survive indefinitely, but often they fall into disuse as terms are fully naturalized. \(See loanwords \(b\).) Nobody today, for example, writes *hôtel* or *rôle*. Although those spellings can be found in some 19th-century publications, they were falling out of fashion even then. To the extent that modern readers encounter diacritical marks, the main ones are as follows:
 

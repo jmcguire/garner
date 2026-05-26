@@ -1,4 +1,4 @@
-# Swapping Horses
+# Swapping Horses, Essay
 
 Swapping Horses while crossing the stream is H.W. Fowler's term for vacillating between two constructions \(*FMEU1* at 589\). Thus someone writes that *the rate of divorce is almost as high in Continental Europe, other things being equal, than it is in the U.S.* The first *as* needs a second one in answer, but instead is ill greeted by *than*. See **as . . . as \(e\)**.
 

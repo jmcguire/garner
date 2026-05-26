@@ -1,4 +1,4 @@
-# Double Modals
+# Double Modals, Essay
 
 Double Modals. In grammar, a *modal* \(short for *modal auxiliary*\) is a verb such as *can*, *could*, *may*, *might*, *must*, *ought*, *shall*, *should*, *used*, *will*, or *would*. A modal is used with another verb to express grammatical mood—that is, to indicate the speaker's attitude toward the factuality or likelihood of what is being said: \(1\) the indicative expresses objective fact <Sam can play the piano>; \(2\) the imperative expresses a command or request <play it again, Sam>; and \(3\) the subjunctive expresses something hypothetical or contrary to fact <if Sam were up to it, he would play>. \(See subjunctives.)
 

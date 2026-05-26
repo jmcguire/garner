@@ -1,4 +1,4 @@
-# Postpositive Adjectives
+# Postpositive Adjectives, Essay
 
 Postpositive Adjectives follow the nouns they modify, generally because they follow Romance rather than Germanic \(or English\) syntax. They exist in English largely as a remnant of the Norman French influence during the Middle Ages, and especially in the century following the Norman Conquest. The French influence was most pronounced in the language of law, politics, religion, and heraldry.
 

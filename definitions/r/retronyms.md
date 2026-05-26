@@ -1,4 +1,4 @@
-# Retronyms
+# Retronyms, Essay
 
 Retronyms. In the beginning there was the *telephone*. Each one had the same essential features, including a dial. \(For convenience, the word was shortened to the casualism *phone*.\) Then came another type: the *push-button telephone* \(often referred to by the trademark *Touch-Tone telephone*\). So a neologism had to be developed to refer to the original type with a dial: the *rotary telephone*. That term is an example of a retronym: a word or phrase invented to denote what was originally a genus term but has now become just one more species in a larger genus. Retronyms are usually occasioned by developments in culture <lawn tennis>, history <World War I>, and technology <land line>.
 

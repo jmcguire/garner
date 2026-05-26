@@ -1,4 +1,4 @@
-# Phrasal Verbs
+# Phrasal Verbs, Essay
 
 Phrasal Verbs are verbs that comprise more than one word, often a verb and a preposition \(acting as an adverbial particle\). Hence politicians *put up with* the press, and vice versa; striking workers *hold out* for more benefits; arguing family members *work out* their problems; campers must *make do* with the supplies they have; legacies are *handed down* from one generation to the next; gardeners work to *get rid of* weeds; overworked employees, like candles left too long, *burn out*; boxers are *knocked out*—and pregnant women \(in the vulgar dysphemism\) *knocked up*. For a collection of these verbs, see G.W. Davidson, *Chambers Pocket Guide to Phrasal Verbs* \(1982\).
 

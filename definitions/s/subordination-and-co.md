@@ -1,4 +1,4 @@
-# Subordination and Coordination
+# Subordination and Coordination, Essay
 
 Subordination and Coordination. People like being coordinated; they dislike being subordinated. So the terminology in this entry is a little counterintuitive because in writing subordination is good, and coordination often less so.
 

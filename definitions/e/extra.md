@@ -1,4 +1,4 @@
-# extra-
+# extra-, Essay
 
 extra- \(= lying outside the province or scope of\) is a prefix that, beginning in the 20th century, has formed hundreds of new adjectives—mostly for learned or literary purposes. The prefix has been adopted by many writers to form neologisms not yet found in unabridged dictionaries. These writers usually do no harm and, in fact, occasionally coin useful words. Following are representative examples of fairly recent neologisms using this prefix—which, by the way, usually takes no hyphen:
 
