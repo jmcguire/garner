@@ -23,6 +23,7 @@
 
 ## bugs:
 
+ - the search isn't getting unique entries
  - the search isn't correctly searching for essays, e.g. "Hypercorrection (essay)"
 
 # usage

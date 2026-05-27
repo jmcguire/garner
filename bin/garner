@@ -303,14 +303,15 @@ def main():
 
     parser.add_argument(
         "word",
-        nargs="?",
+        nargs="*",
         help="Word to look up",
     )
 
     args = parser.parse_args()
 
     if args.word:
-        row = lookup(args.word, args.db)
+        word = " ".join(args.word)
+        row = lookup(word, args.db)
         display(row, None, args.verbose, args.plain)
         if row and row["forwarding"]:
             row = lookup(row["forwarding"])
