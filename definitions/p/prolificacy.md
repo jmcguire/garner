@@ -1,6 +1,6 @@
 # prolificacy
 
-prolificacy; **\*prolificness**. The standard noun corresponding to *prolific* is *prolificacy*, not *\*prolificness*—e.g.:
+prolificacy; \***prolificness**. The standard noun corresponding to *prolific* is *prolificacy*, not *\*prolificness*—e.g.:
 
  - "Alas, Ms. Oates—whose work I deeply admire—has paid a price for her prolificacy." Jay Parini, "On Being Prolific," in *Writers on Writing* 199, 204 \(Robert Pack & Jay Perini eds., 1991\).
 

@@ -1,4 +1,4 @@
 # Indianan
 
-Indianan; **\*Indianian**. See **Hoosier**.
+Indianan; \***Indianian**. See **Hoosier**.
 

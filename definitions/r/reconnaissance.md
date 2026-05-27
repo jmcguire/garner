@@ -1,4 +1,4 @@
 # reconnaissance
 
-reconnaissance; **\*reconnoissance**. See **recognizance**.
+reconnaissance; \***reconnoissance**. See **recognizance**.
 

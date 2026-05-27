@@ -1,6 +1,6 @@
 # buck naked
 
-buck naked; **\*butt naked**. Both phrases mean "completely undressed." The original and standard expression, dating from the 1910s, is *buck naked*—e.g.:
+buck naked; \***butt naked**. Both phrases mean "completely undressed." The original and standard expression, dating from the 1910s, is *buck naked*—e.g.:
 
  - "With Lucille Ball flair she torches houses and locks herself out of the house *buck naked*." Tom Cunneff et al., "My Favorite Housewife," *People*, 24 Jan. 2005, at 38.
 

@@ -1,4 +1,4 @@
 # amatory
 
-amatory; **\*amative**. See **amorous**.
+amatory; \***amative**. See **amorous**.
 

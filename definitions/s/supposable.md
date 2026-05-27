@@ -1,6 +1,6 @@
 # supposable
 
-supposable; **suppositious**; **supposititious**; **suppositional**; **\*suppositive**. *Supposable* = capable of being supposed; presumable. E.g.: "He learns more about himself and the *supposable* dimension of man's future." Dick Richmond, "A Sequel to ‘The Celestine Prophecy,' " *St. Louis Post-Dispatch*, 16 May 1996, at G7.
+supposable; **suppositious**; **supposititious**; **suppositional**; \***suppositive**. *Supposable* = capable of being supposed; presumable. E.g.: "He learns more about himself and the *supposable* dimension of man's future." Dick Richmond, "A Sequel to ‘The Celestine Prophecy,' " *St. Louis Post-Dispatch*, 16 May 1996, at G7.
 
 *Suppositious* and *supposititious* sometimes cause confusion. Although some modern dictionaries list these as variants, some differentiation is both possible and desirable. *Suppositious* should be used to mean "hypothetical; theoretical; assumed." E.g.:
 

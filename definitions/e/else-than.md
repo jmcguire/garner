@@ -1,4 +1,4 @@
 # \*else than
 
-\*else than. See **\*else but**.
+\*else than. See \***else but**.
 

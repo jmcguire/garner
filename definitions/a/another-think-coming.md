@@ -1,6 +1,6 @@
 # another think coming
 
-another think coming; **\*another** thing coming. The traditional idiom is "If you think X, you've got another think coming." That phrasing has predominated since the expression became popular in the early 20th century. It may not be funny anymore, but it makes sense: X is wrong, so eventually you're going to think Y instead. But a surprising number of writers substitute *thing* for *think*, which is grammatical but not even vaguely clever. E.g.:
+another think coming; \***another** thing coming. The traditional idiom is "If you think X, you've got another think coming." That phrasing has predominated since the expression became popular in the early 20th century. It may not be funny anymore, but it makes sense: X is wrong, so eventually you're going to think Y instead. But a surprising number of writers substitute *thing* for *think*, which is grammatical but not even vaguely clever. E.g.:
 
  - "If Osama bin Laden imagined, in releasing a threatening new videotape days before the presidential election, that he could sway the votes of Kerry supporters like David and Jan Hill and Bush supporters like Paul Christene, he has *another thing coming* \[read *another think coming*\]." Kirk Johnson, "Voters, Their Minds Made Up, Say bin Laden Changes Nothing," *N.Y. Times*, 31 Oct. 2004, § 1, at 1.
 

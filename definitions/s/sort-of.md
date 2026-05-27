@@ -10,5 +10,5 @@ In speech, this adverbial *sort of* often \(1\) denotes something that is partly
 
 In traditional written English, *sort* functions as a noun followed by an *of*-phrase <that is not the sort of price we would be willing to pay> <what sort of party do you want to throw?>.
 
-The phrase *and that sort of thing* is an informal tag-on similar to *and so on* or *etc*. <Indian food, Mexican food, Italian food, and that sort of thing>. In BrE, *sort of thing* often follows a noun to show indefiniteness or resemblance <he had a golf bag sort of thing slung over his back>. See **\*these kind of** & **type of**. Cf. **kind of \(a\)**.
+The phrase *and that sort of thing* is an informal tag-on similar to *and so on* or *etc*. <Indian food, Mexican food, Italian food, and that sort of thing>. In BrE, *sort of thing* often follows a noun to show indefiniteness or resemblance <he had a golf bag sort of thing slung over his back>. See \***these kind of** & **type of**. Cf. **kind of \(a\)**.
 

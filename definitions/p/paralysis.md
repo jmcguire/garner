@@ -1,6 +1,6 @@
 # paralysis
 
-paralysis; **\*paralyzation**. The first is standard. The second is a nonword that arose in the mid-1800s and today appears with some frequency—e.g.:
+paralysis; \***paralyzation**. The first is standard. The second is a nonword that arose in the mid-1800s and today appears with some frequency—e.g.:
 
  - "Part 1 includes a special-effects shot depicting the *paralyzation* \[read *paralysis*\] of New York City." Tom Shales, "Doomsday: The Miniseries," *Wash. Post*, 7 May 1994, at G1.
 

@@ -8,7 +8,7 @@ A problem arises when using the prefix with a noun phrase. Is an *ex-brain surge
 
  - "The company, owned by two London marketing men who live in Dorset, and run by Mr. Paul Simmons, *an ex-corporate financier* \[read *a former corporate financier*\], produces 850 tons of lime annually." "Quarry Firm Buried by Bureaucracy," *Daily Telegraph*, 15 Aug. 1994, at 7.
 
-For an illogical use of this prefix, see **\*ex-felon**.
+For an illogical use of this prefix, see \***ex-felon**.
 
 Some copyeditors have learned to use an en-dash when a hyphenated combining form \(such as *ex-*\) combines with a compound having a space: *ex–brain surgeon*, and the like. The compounds tend to read somewhat better this way. \(See punctuation \(h\).\) Still, it's always best to look for a solution that won't make the reader do a double take. Cf. co- \(b\).
 

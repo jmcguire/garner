@@ -1,4 +1,4 @@
 # \*applicative
 
-\*applicative; **\*applicatory**. See **applicable \(b\)**.
+\*applicative; \***applicatory**. See **applicable \(b\)**.
 

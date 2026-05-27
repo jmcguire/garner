@@ -1,6 +1,6 @@
 # entice
 
-entice; **\*intice**. The latter is an obsolete spelling of *entice* \(= to lure, attract\). *\*Inticement* is also obsolete for the corresponding noun *enticement*. Both spellings with *i* are therefore needless variants, but they occasionally appear in modern sources—e.g.:
+entice; \***intice**. The latter is an obsolete spelling of *entice* \(= to lure, attract\). *\*Inticement* is also obsolete for the corresponding noun *enticement*. Both spellings with *i* are therefore needless variants, but they occasionally appear in modern sources—e.g.:
 
  - "The decline of the International Motor Sports Association, among other diversions, has *inticed* \[read *enticed*\] the biggest names in road racing to SCCA Trans-Am racing." Jeff Olson, "Trans-Am Stars to Be Out in Full Force at Grand Prix," *Des Moines Register*, 2 July 1994, Sports §, at 1.
 

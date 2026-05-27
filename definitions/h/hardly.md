@@ -1,6 +1,6 @@
 # hardly
 
-hardly. In dialect, this word appears in at least three erroneous forms: *\*can't hardly* \(for *can hardly*\), *\*not hardly* \(for *hardly*\), and *\*without hardly* \(for *almost without*\). See **can hardly** & **\*not hardly**. Cf. **scarcely any**.
+hardly. In dialect, this word appears in at least three erroneous forms: *\*can't hardly* \(for *can hardly*\), *\*not hardly* \(for *hardly*\), and *\*without hardly* \(for *almost without*\). See **can hardly** & \***not hardly**. Cf. **scarcely any**.
 
 ## Language-Change Index
 

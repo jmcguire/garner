@@ -20,7 +20,7 @@ One more example. There's a difference between the words *forebear* \(a noun mea
 
  - "When we academics honor our greatest intellectual *forbearers* \[read *forebears*\], we presumably carry the highest obligation of fidelity to their ideas." Lief H. Carter, "Law and Politics as Play," 83 *Chi.-Kent L. Rev.* 1333, 1334 \(2008\).
 
-All the misuses discussed here are so spectacularly wrong that they merit their own special name: hence "double bobbles." For other examples, see **euphuism**, **\*had have** & **reek**.
+All the misuses discussed here are so spectacularly wrong that they merit their own special name: hence "double bobbles." For other examples, see **euphuism**, \***had have** & **reek**.
 
 Shortly before the fifth edition of this book went to press, the editor of a national magazine sent me proofs of an article I'd written. She was querying a sentence that I'd used twice: "You know what you're looking for." In both instances, she suggested that I change it to "You know that for which you're looking." And in both instances, she noted, "Try not to end with a proposition." That's a different kind of double bobble: *preposition* is the word, not *proposition*. But the whole idea of prohibiting sentence-ending prepositions is a mistaken proposition. \(See prepositions \(b\).) I gently asked her to leave it as written.
 

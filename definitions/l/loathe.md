@@ -1,6 +1,6 @@
 # loathe
 
-loathe; **loath**; **\*loth**. *Loathe* /lohth/ is the verb meaning "to abhor, detest." *Loath* /lohth/, with its needless variant *\*loth*, is an adjective meaning "reluctant." The verb spelling is often wrongly used for the adjective—e.g.:
+loathe; **loath**; \***loth**. *Loathe* /lohth/ is the verb meaning "to abhor, detest." *Loath* /lohth/, with its needless variant *\*loth*, is an adjective meaning "reluctant." The verb spelling is often wrongly used for the adjective—e.g.:
 
  - "If you are at a dinner, sitting at the head table, you may be *loathe* \[read *loath*\] to stand up and walk away because you are on display up there." Charles Osgood, *Osgood on Speaking* 80–81 \(1988\).
 

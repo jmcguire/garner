@@ -1,4 +1,4 @@
 # Anchorageite
 
-Anchorageite; **\*Anchoragite**. The first spelling is standard. See demonyms.
+Anchorageite; \***Anchoragite**. The first spelling is standard. See demonyms.
 

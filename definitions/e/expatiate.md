@@ -1,6 +1,6 @@
 # expatiate
 
-expatiate; **expatriate**; **\*expatriot**. *Expatiate* /ek-**spay**-shee-ayt/ means \(1\) "to wander"; or \(2\) "to discourse on \(a subject\) at length." *Expatriate* /eks-**pay**-tree-ayt/ means \(1\) "to leave one's home country to live elsewhere"; or \(2\) "to banish; exile."
+expatiate; **expatriate**; \***expatriot**. *Expatiate* /ek-**spay**-shee-ayt/ means \(1\) "to wander"; or \(2\) "to discourse on \(a subject\) at length." *Expatriate* /eks-**pay**-tree-ayt/ means \(1\) "to leave one's home country to live elsewhere"; or \(2\) "to banish; exile."
 
 *Expatriate* /eks-**pay**-tree-it/ is also a noun meaning "a person who lives permanently in a foreign land." It is sometimes mistakenly spelled *\*expatriot*, a form based on a misunderstanding of the root word. In fact, *expatriate* \(L. *ex-* "out of" \+ *patrie* "native land"\) is a fairly neutral word, but the mistaken form *\*expatriot* appears to attach some opprobrium—e.g.:
 

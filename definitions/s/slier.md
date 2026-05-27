@@ -1,4 +1,4 @@
 # \*slier
 
-\*slier; **\*sliest**; **\*slily**. See **sly**.
+\*slier; \***sliest**; **\*slily**. See **sly**.
 

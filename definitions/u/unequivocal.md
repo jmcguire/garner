@@ -1,6 +1,6 @@
 # unequivocal
 
-unequivocal; **\*unequivocable**. The adjective *equivocal* \(= deliberately unclear in conveying information or opinion\) was first used as an English word in the mid-1500s. By the mid-1700s, the antonym *unequivocal* \(= completely clear and without possibility of doubt\) had come into use. By 1800, the two terms occurred in print sources with almost equal frequency. Since the 1940s in AmE and the 1960s in BrE, the negative term *unequivocal* has occurred with greater frequency than *equivocal*.
+unequivocal; \***unequivocable**. The adjective *equivocal* \(= deliberately unclear in conveying information or opinion\) was first used as an English word in the mid-1500s. By the mid-1700s, the antonym *unequivocal* \(= completely clear and without possibility of doubt\) had come into use. By 1800, the two terms occurred in print sources with almost equal frequency. Since the 1940s in AmE and the 1960s in BrE, the negative term *unequivocal* has occurred with greater frequency than *equivocal*.
 
 In the mid-1800s, the mistaken form *\*unequivocable* first appeared. It became more and more widespread during the 1900s, reaching its zenith of popularity in the early 1980s. It has tapered off significantly since then, perhaps with the rise of spell-checkers, but it still occurs—e.g.:
 

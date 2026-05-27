@@ -1,4 +1,4 @@
 # \*penuchle
 
-\*penuchle; **\*penuckle**. See **pinochle**.
+\*penuchle; \***penuckle**. See **pinochle**.
 

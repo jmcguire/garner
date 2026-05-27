@@ -1,4 +1,4 @@
 # \*esthetic
 
-\*esthetic; **\*esthetical**. See **aesthetic**.
+\*esthetic; \***esthetical**. See **aesthetic**.
 

@@ -1,6 +1,6 @@
 # spasmodic
 
-spasmodic; **\*spasmodical**; **\*spasmatic**; **spastic**. *Spasmodic* = \(1\) of, relating to, or characterized by a spasm; or \(2\) intermittent, sporadic, unsustained. *\*Spasmodical* and *\*spasmatic* are needless variants. *\*Spasmatic* is labeled "rare or obsolete" by the *SOED*, but of those two labels only "rare" is accurate—e.g.:
+spasmodic; \***spasmodical**; **\*spasmatic**; **spastic**. *Spasmodic* = \(1\) of, relating to, or characterized by a spasm; or \(2\) intermittent, sporadic, unsustained. *\*Spasmodical* and *\*spasmatic* are needless variants. *\*Spasmatic* is labeled "rare or obsolete" by the *SOED*, but of those two labels only "rare" is accurate—e.g.:
 
  - "Likewise, human history is a *spasmatic* \[read *spasmodic*\], seemingly random rise from a lake, through evolution, to the high points of history." Ernest Tucker, "Laughs Fail to Work in AIDS Farce," *Chicago Sun-Times*, 17 Nov. 1994, at 48.
 

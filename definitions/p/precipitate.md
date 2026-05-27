@@ -1,6 +1,6 @@
 # precipitate
 
-precipitate, adj.; **precipitous**; **\*precipitant**. Since about 1980, the first two have been particularly subject to word-swapping. *Precipitate* /pri-**sip**-i-tәt/ \(= sudden; hasty; rash; showing violent or uncontrollable speed\) is applied to actions, movements, or demands. *Precipitous* \(= like a precipice; steep\) is traditionally applied to physical things—rarely to actions, unless the metaphor of steepness is apt. The metaphorical extension is especially common in the phrases *precipitous decline* and *precipitous drop*, which are unobjectionable. Picture a graph with a sharp fall.
+precipitate, adj.; **precipitous**; \***precipitant**. Since about 1980, the first two have been particularly subject to word-swapping. *Precipitate* /pri-**sip**-i-tәt/ \(= sudden; hasty; rash; showing violent or uncontrollable speed\) is applied to actions, movements, or demands. *Precipitous* \(= like a precipice; steep\) is traditionally applied to physical things—rarely to actions, unless the metaphor of steepness is apt. The metaphorical extension is especially common in the phrases *precipitous decline* and *precipitous drop*, which are unobjectionable. Picture a graph with a sharp fall.
 
 *Precipitous* is frequently misused for *precipitate*—e.g.:
 

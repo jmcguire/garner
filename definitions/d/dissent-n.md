@@ -1,6 +1,6 @@
 # dissent, n
 
-dissent, n.; **dissension**; **\*dissention**. *Dissent* refers to a difference of opinion, whether it is citizens dissenting from the decision of a governmental body or a judge dissenting from a majority opinion. *A dissent*, as opposed to *dissent* as a mass noun, refers to a dissenting judicial opinion—e.g.: "Judge Dennis wrote a brazenly activist *dissent*." Thomas L. Jipping, "President Clinton's Judicial Legacy," *Wash. Times*, 17 Sept. 1996, at A19.
+dissent, n.; **dissension**; \***dissention**. *Dissent* refers to a difference of opinion, whether it is citizens dissenting from the decision of a governmental body or a judge dissenting from a majority opinion. *A dissent*, as opposed to *dissent* as a mass noun, refers to a dissenting judicial opinion—e.g.: "Judge Dennis wrote a brazenly activist *dissent*." Thomas L. Jipping, "President Clinton's Judicial Legacy," *Wash. Times*, 17 Sept. 1996, at A19.
 
 *Dissension* refers to contentious or partisan arguing—e.g.: "Dr. Mazzullo, who declined to comment about the *dissension* surrounding his contract renewal, has been a lightning rod for some residents' discontent." Merri Rosenberg, "Greenburgh Passes School Budget," *N.Y. Times*, 22 Sept. 1996, § 13, at 4.
 

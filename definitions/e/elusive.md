@@ -1,6 +1,6 @@
 # elusive
 
-elusive; **\*elusory**; **illusory**; **\*illusive**; **allusive**. *Elusive* \(rather than *\*elusory*\) is the usual adjective related to *elude*; *illusory* \(rather than *\*illusive*\) is the usual adjective related to *illusion*. In short, *\*elusory* and \**illusive* are needless variants.
+elusive; \***elusory**; **illusory**; **\*illusive**; **allusive**. *Elusive* \(rather than *\*elusory*\) is the usual adjective related to *elude*; *illusory* \(rather than *\*illusive*\) is the usual adjective related to *illusion*. In short, *\*elusory* and \**illusive* are needless variants.
 
 More than that, however, the multiple forms can lead to confusion between them. Most commonly, *\*illusive* is misused for *elusive*—e.g.:
 

@@ -1,4 +1,4 @@
 # \*transferal
 
-\*transferal; **\*transferral**; **transference**. See **transfer**, n.
+\*transferal; \***transferral**; **transference**. See **transfer**, n.
 

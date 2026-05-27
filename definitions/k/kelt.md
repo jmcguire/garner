@@ -1,4 +1,4 @@
 # \*Kelt
 
-\*Kelt; **\*Keltic**. See **Celt**.
+\*Kelt; \***Keltic**. See **Celt**.
 

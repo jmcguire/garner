@@ -23,5 +23,5 @@ doubt.
 
 **B. Followed by a Negative.** *Doubt* can be confusing when followed by a negative—e.g.: "I *doubt* whether the company *will not* take the further step when necessary." This sentence merely states that the writer thinks the company *will* take the further step.
 
-**C. And *\*misdoubt*.** See **\*misdoubt**.
+**C. And *\*misdoubt*.** See \***misdoubt**.
 

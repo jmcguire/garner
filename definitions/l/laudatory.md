@@ -1,6 +1,6 @@
 # laudatory
 
-laudatory; **\*laudative**; **laudable**. The first two both mean "expressing praise." But *\*laudative* is a needless variant of *laudatory*, the much more common word. *Laudable*, in contrast, means "deserving praise." The distinction is the same as that between *praiseworthy* \(= *laudable*\) and *praiseful* \(= *laudatory*\).
+laudatory; \***laudative**; **laudable**. The first two both mean "expressing praise." But *\*laudative* is a needless variant of *laudatory*, the much more common word. *Laudable*, in contrast, means "deserving praise." The distinction is the same as that between *praiseworthy* \(= *laudable*\) and *praiseful* \(= *laudatory*\).
 
 The misuse of *laudatory* for *laudable* is lamentably common—e.g.:
 

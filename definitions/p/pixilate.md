@@ -1,4 +1,4 @@
 # \*pixilate
 
-\*pixilate; **\*pixillate**. See **pixelate**.
+\*pixilate; \***pixillate**. See **pixelate**.
 

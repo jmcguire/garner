@@ -1,4 +1,4 @@
 # \*inthrall
 
-\*inthrall; **\*inthral**. See **enthrall**.
+\*inthrall; \***inthral**. See **enthrall**.
 

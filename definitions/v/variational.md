@@ -1,4 +1,4 @@
 # variational
 
-variational; **\*variative**. See **variable**.
+variational; \***variative**. See **variable**.
 

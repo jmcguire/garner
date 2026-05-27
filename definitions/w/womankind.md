@@ -1,6 +1,6 @@
 # womankind
 
-womankind; **\*womenkind**. The latter is erroneous, since *-kind* includes all the members of the sex. E.g.:
+womankind; \***womenkind**. The latter is erroneous, since *-kind* includes all the members of the sex. E.g.:
 
  - "Now she feels she's pressured about what her roles will say to all of *womenkind* \[read *womankind*\]." Matthew Gilbert, "Fiorentino Sees ‘Jade' Role as Reward, Not Selling Out," *Seattle Post-Intelligencer*, 16 Oct. 1995, at D1.
 

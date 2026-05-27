@@ -8,7 +8,7 @@ worse comes to worst; **worst comes to worst**. The traditional idiom, dating fr
 
  - "Bring in an accountant. Bring in an economics graduate. *Worse comes to worst*, bring in a 12-year-old who runs a lemonade stand." Tim Hobson, "Get Some Real Pros," *Waterloo Region Record*, 21 July 2015, at A6.
 
-Cf. **\*least worst**.
+Cf. \***least worst**.
 
 A related idiom, *from worse to worst*, likewise denotes even further deterioration in an already bad situation. You might use it if push comes to shove.
 

@@ -1,4 +1,4 @@
 # \*shammy
 
-\*shammy; **\*shamois**; **\*shamoy**. See **chamois**.
+\*shammy; \***shamois**; **\*shamoy**. See **chamois**.
 

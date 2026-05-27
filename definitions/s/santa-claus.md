@@ -1,6 +1,6 @@
 # Santa Claus
 
-Santa Claus; **\*Santa Klaus**; **Father Christmas**; **St. Nicholas**; **Saint Nick**. The ubiquitous name *Santa Claus* dates from the late 1700s as a loanword from the Dutch *Sinterklaas*, or its dialectal variant *Sint Klaas* "Saint Nicholas." Originally an Americanism that has been traced to a New York publication of 1773, it did not come into widespread AmE use until the mid-1800s, especially after 1840. The variant spelling *\*Santa Klaus* made infrequent appearances in print from about 1850 to 1950.
+Santa Claus; \***Santa Klaus**; **Father Christmas**; **St. Nicholas**; **Saint Nick**. The ubiquitous name *Santa Claus* dates from the late 1700s as a loanword from the Dutch *Sinterklaas*, or its dialectal variant *Sint Klaas* "Saint Nicholas." Originally an Americanism that has been traced to a New York publication of 1773, it did not come into widespread AmE use until the mid-1800s, especially after 1840. The variant spelling *\*Santa Klaus* made infrequent appearances in print from about 1850 to 1950.
 
 In BrE, the traditional name is *Father Christmas*, which dates from the mid-1600s but didn't come into common use until about 1820. Interestingly, the Americanism *Santa Claus* has overtaken *Father Christmas* in BrE print sources since 1960.
 

@@ -1,4 +1,4 @@
 # \*analyzer
 
-\*analyzer; **\*analyzist**. See **analyst**.
+\*analyzer; \***analyzist**. See **analyst**.
 

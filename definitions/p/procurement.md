@@ -1,6 +1,6 @@
 # procurement
 
-procurement; **procuration**; **\*procurance**; **procuracy**. *Procurement* \(= the act of obtaining\) is the generic noun corresponding to *procure*—e.g.:
+procurement; **procuration**; \***procurance**; **procuracy**. *Procurement* \(= the act of obtaining\) is the generic noun corresponding to *procure*—e.g.:
 
  - "Judicial Watch represents five of the 900 former White House staffers in a suit seeking $90 million in damages for what they allege was the Clinton administration's improper *procurement* of the files." Jerry Seeper, "Ruling Expected in Secret Files Suit," *Wash. Times*, 24 May 1997, at A4.
 

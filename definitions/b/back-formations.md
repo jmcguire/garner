@@ -23,5 +23,5 @@ Still, many examples have survived respectably, among them *collide*, *diagnose*
 
 The best rule of thumb is to avoid newborn back-formations that appear newfangled, but not better-established ones that, being only faintly recognizable as back-formations, are genuinely useful. Only philologists today recognize \(much less condemn\) as back-formations *beg* \(from *beggar*\), *jell* \(from *jelly*\), *peddle* \(from *peddler*\), and *type* \(from *typewriter*\).
 
-For specific discussions \(and exceptions\) elsewhere in the dictionary, see **\*enthuse**, **liaise**, **registrate**, **remediate** & **surveil**.
+For specific discussions \(and exceptions\) elsewhere in the dictionary, see \***enthuse**, **liaise**, **registrate**, **remediate** & **surveil**.
 

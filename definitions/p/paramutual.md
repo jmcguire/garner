@@ -1,4 +1,4 @@
 # \*paramutual
 
-\*paramutual; **\*paramutuel**. See **parimutuel**.
+\*paramutual; \***paramutuel**. See **parimutuel**.
 

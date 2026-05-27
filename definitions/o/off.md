@@ -1,4 +1,4 @@
 # off
 
-off. See **\*off of**.
+off. See \***off of**.
 

@@ -1,4 +1,4 @@
 # \*grainary
 
-\*grainary; **\*grainery**. See **granary**.
+\*grainary; \***grainery**. See **granary**.
 

@@ -1,4 +1,4 @@
 # extempore
 
-extempore, adj.; **\*extemporary**. See **extemporaneous**.
+extempore, adj.; \***extemporary**. See **extemporaneous**.
 

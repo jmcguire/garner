@@ -1,4 +1,4 @@
 # \*basha
 
-\*basha; **\*bashaw**. See **pasha**.
+\*basha; \***bashaw**. See **pasha**.
 

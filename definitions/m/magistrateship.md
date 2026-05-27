@@ -1,4 +1,4 @@
 # \*magistrateship
 
-\*magistrateship; **\*magistrature**. See **magistracy**.
+\*magistrateship; \***magistrature**. See **magistracy**.
 

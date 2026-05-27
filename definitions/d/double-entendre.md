@@ -1,6 +1,6 @@
 # double entendre
 
-double entendre; **\*double entente**. The English phrase—sometimes thought to be pseudo-French, but actually 17th-century French—is *double entendre*. The modern French form, *\*double entente*, is an affectation—e.g.:
+double entendre; \***double entente**. The English phrase—sometimes thought to be pseudo-French, but actually 17th-century French—is *double entendre*. The modern French form, *\*double entente*, is an affectation—e.g.:
 
  - "Martin Booth writes the scripts, funny in a conventional way, with rather more *double entente* \[read *double entendres*\] than I expected." B.A. Young, "The Man Within," *Fin. Times*, 11 July 1987, at xvii.
 

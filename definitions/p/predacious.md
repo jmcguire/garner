@@ -1,4 +1,4 @@
 # predacious
 
-predacious; **\*predaceous**. See **predatory**.
+predacious; \***predaceous**. See **predatory**.
 

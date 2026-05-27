@@ -1,6 +1,6 @@
 # bend sinister
 
-bend sinister; **\*baton sinister**; **bar sinister**. In heraldry, the *bend sinister* is a diagonal band on a shield, extending \(from the viewer's vantage point\) between the upper right and the lower left corners; it denotes bastardy in the family line—e.g.: "To the 99.9% of people in Britain and beyond who feel their identity to be defined adequately without the aid of impalements and *bends sinister* or a family tree going back to John of Gaunt, the vocation of Garter King of Arms must seem as fantastical as that of the Lion King or King Kong." "Anthony Wagner," *Economist*, 3 June 1995, at 95. As in that quotation, the plural form is *bends sinister*. See postpositive adjectives.
+bend sinister; \***baton sinister**; **bar sinister**. In heraldry, the *bend sinister* is a diagonal band on a shield, extending \(from the viewer's vantage point\) between the upper right and the lower left corners; it denotes bastardy in the family line—e.g.: "To the 99.9% of people in Britain and beyond who feel their identity to be defined adequately without the aid of impalements and *bends sinister* or a family tree going back to John of Gaunt, the vocation of Garter King of Arms must seem as fantastical as that of the Lion King or King Kong." "Anthony Wagner," *Economist*, 3 June 1995, at 95. As in that quotation, the plural form is *bends sinister*. See postpositive adjectives.
 
 *\*Baton sinister*, a variant dating from the early 1800s, is seldom encountered.
 

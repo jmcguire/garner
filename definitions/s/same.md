@@ -46,7 +46,7 @@ If the verb seems desirable after the *as*—because the reader wouldn't automat
 
 **D. *\*Same identical*.** See **identical**.
 
-**E. *\*Repeat the same*.** See **\*repeat the same**.
+**E. *\*Repeat the same*.** See \***repeat the same**.
 
 **F. *Exact same*.** See **exact same**.
 

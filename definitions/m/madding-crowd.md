@@ -1,6 +1,6 @@
 # madding crowd
 
-madding crowd; **\*maddening crowd**. By historical convention, *madding crowd* is the idiom, the adjective *madding* being traceable to the late 1500s in similar constructions. Unlike *maddening*, which describes the effect on the observer, *madding* \(= frenzied\) describes the crowd itself. Thomas Gray's "Elegy in a Country Churchyard" \(1751\) and Thomas Hardy's novel *Far from the Madding Crowd* \(1874\) helped establish this idiom, especially Gray's "far from the *madding crowd*'s ignoble strife." In modern writing, *madding crowd* remains more than six times as common as its corrupted form.
+madding crowd; \***maddening crowd**. By historical convention, *madding crowd* is the idiom, the adjective *madding* being traceable to the late 1500s in similar constructions. Unlike *maddening*, which describes the effect on the observer, *madding* \(= frenzied\) describes the crowd itself. Thomas Gray's "Elegy in a Country Churchyard" \(1751\) and Thomas Hardy's novel *Far from the Madding Crowd* \(1874\) helped establish this idiom, especially Gray's "far from the *madding crowd*'s ignoble strife." In modern writing, *madding crowd* remains more than six times as common as its corrupted form.
 
 But some writers get it wrong—e.g.:
 

@@ -1,6 +1,6 @@
 # pleaded
 
-pleaded; **\*pled**; **plead** \(as a past tense\). *Pleaded* has always been the predominant past-tense and past-participial form. From the early 1600s, *pleaded* has appeared much more frequently in print sources than its rivals. Commentators on usage have long preferred it, pouring drops of vitriol onto *\*has pled* and \**has plead*:
+pleaded; \***pled**; **plead** \(as a past tense\). *Pleaded* has always been the predominant past-tense and past-participial form. From the early 1600s, *pleaded* has appeared much more frequently in print sources than its rivals. Commentators on usage have long preferred it, pouring drops of vitriol onto *\*has pled* and \**has plead*:
 
  - **1893:** "*Plĕad*, sometimes wrongly used as the pret. of *plead*. The correct form is *pleaded*." John F. Genung, *Outlines of Rhetoric* 324 \(1893\).
 

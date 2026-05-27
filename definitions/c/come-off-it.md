@@ -8,7 +8,7 @@ come off it, in the sense "you can't be serious," is a colloquial idiom as old a
 
  - "There's no ‘Oh, *come off of it* \[read *come off it*\]' during tonight's episode of Spooks." "Murder in Mind," *Evening Standard*, 14 Aug. 2018, at 33.
 
-See **\*off of**.
+See \***off of**.
 
 ## Language-Change Index
 

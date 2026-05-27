@@ -37,7 +37,7 @@ As the statistics below show, the language has seen a major shift toward the int
 
  - "Beethoven never would *of* \[read *have*\] made the cut either." Letter of Elizabeth A. Pickett, *Hartford Courant*, 2 Dec. 2000, at A14.
 
-See **\*had have**.
+See \***had have**.
 
 ## Language-Change Index
 

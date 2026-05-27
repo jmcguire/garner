@@ -90,7 +90,7 @@ The same is true, to a lesser extent, of many adverbs derived from adjectives th
 
 If you use unusual adverbs, do so sparingly. Some writers display an unfortunate fondness for them, as by using such forms as *consideredly*, *corollarily*, and the spurious *\*widespreadly*. Cf. -edly.
 
-**D. Double Adverbs.** Several adverbs not ending in *-ly*—especially *doubtless*, *fast*, *ill*, *much*, *seldom*, *thus*—have nonword counterparts ending in *-ly*. Using *\*doubtlessly*, *\*fastly*, etc. is incorrect. See \***doubtlessly**, \***fastly**, **ill**, **\*muchly**, **seldom** & **thus \(b\)**.
+**D. Double Adverbs.** Several adverbs not ending in *-ly*—especially *doubtless*, *fast*, *ill*, *much*, *seldom*, *thus*—have nonword counterparts ending in *-ly*. Using *\*doubtlessly*, *\*fastly*, etc. is incorrect. See \***doubtlessly**, \***fastly**, **ill**, \***muchly**, **seldom** & **thus \(b\)**.
 
 **E. Adverbs vs. Adjectives.** See adjectives \(e\).
 

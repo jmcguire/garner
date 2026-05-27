@@ -1,6 +1,6 @@
 # salutary
 
-salutary; **\*salutiferous**; **salubrious**. *Salutary* = beneficial; wholesome. *\*Salutory* is a common misspelling, especially in BrE—e.g.:
+salutary; \***salutiferous**; **salubrious**. *Salutary* = beneficial; wholesome. *\*Salutory* is a common misspelling, especially in BrE—e.g.:
 
  - "Fans of the gone-but-not-forgotten Butterflies should rush to see Wendy Craig in this *salutory* \[read *salutary*\] tale about how not to treat your relatives." "Pick of the Day: Sleeping Beauty," *Independent*, 19 Dec. 1995, at 10.
 

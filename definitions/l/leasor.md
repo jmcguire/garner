@@ -1,6 +1,6 @@
 # \*leasor
 
-\*leasor; **\*leasee**. These are aberrations in Modern English for *lessor* and *lessee.* E.g.:
+\*leasor; \***leasee**. These are aberrations in Modern English for *lessor* and *lessee.* E.g.:
 
  - "The city would require the *leasee* \[read *lessee*\] to construct at least 55,000 square feet of maintenance hangar space." "Government Actions," *Wash. Post*, 12 Apr. 1990, at V5.
 

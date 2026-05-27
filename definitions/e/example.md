@@ -1,6 +1,6 @@
 # example
 
-example; **exemplar**; **\*exemplum**; **exemplification**. *Example*, of course, is the general term. *Exemplar* = an ideal or typical example. E.g.: "The artist \[Carl von Marr\], regarded as his era's foremost *exemplar* of German academic realism, was born to German immigrants in Milwaukee in 1858 and died in Munich in 1936." James Auer, "West Bend Gallery Buys Massive Oil," *Milwaukee J. Sentinel*, 30 Nov. 1995, at 8. The Latin *\*exemplum* is usually a needless variant of *example*—e.g.:
+example; **exemplar**; \***exemplum**; **exemplification**. *Example*, of course, is the general term. *Exemplar* = an ideal or typical example. E.g.: "The artist \[Carl von Marr\], regarded as his era's foremost *exemplar* of German academic realism, was born to German immigrants in Milwaukee in 1858 and died in Munich in 1936." James Auer, "West Bend Gallery Buys Massive Oil," *Milwaukee J. Sentinel*, 30 Nov. 1995, at 8. The Latin *\*exemplum* is usually a needless variant of *example*—e.g.:
 
  - "From Caesar's murder on, however, he is an *exemplum* \[read *example*\] both in compelling minor detail and in his sure awareness of the historic scale of the events he is helping to shape." Alistair Macaulay, "Julius Caesar—Theatre," *Fin. Times*, 6 July 1995, at 23.
 

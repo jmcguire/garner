@@ -1,6 +1,6 @@
 # bigamy
 
-bigamy; **polygamy**; **deuterogamy**; **\*digamy**. *Bigamy* = the act of marrying one person while being married to another. It may be committed knowingly or unknowingly; if committed knowingly, *bigamy* is a criminal offense.
+bigamy; **polygamy**; **deuterogamy**; \***digamy**. *Bigamy* = the act of marrying one person while being married to another. It may be committed knowingly or unknowingly; if committed knowingly, *bigamy* is a criminal offense.
 
 *Polygamy* is the generic term for multiple marriages and encompasses *bigamy*. The word is much used by anthropologists, describing both *polygyny* \(/pә-**lij**-ә-nee/—the practice of having several wives\) and *polyandry* \(/**pol**-ee-an-dree/—the practice of having several husbands\). See **polygamy**.
 

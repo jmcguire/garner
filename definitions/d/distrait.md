@@ -1,6 +1,6 @@
 # distrait
 
-distrait; **\*distraite**; **distraught**. *Distrait*, a word borrowed from French and pronounced /di-**stray**/, means "distracted or preoccupied, esp. because of anxiety." Although the word typically refers to a person, it sometimes refers to personified things—e.g.: "As it looks to the start of the 21st century and the end of 14 years under Socialist President Francois Mitterrand, the world's fifth largest military power and fourth biggest economy is *distrait* and irresolute." Thomas Sancton, "If at First You Don't Succeed," *Time*, 24 Apr. 1995, at 46.
+distrait; \***distraite**; **distraught**. *Distrait*, a word borrowed from French and pronounced /di-**stray**/, means "distracted or preoccupied, esp. because of anxiety." Although the word typically refers to a person, it sometimes refers to personified things—e.g.: "As it looks to the start of the 21st century and the end of 14 years under Socialist President Francois Mitterrand, the world's fifth largest military power and fourth biggest economy is *distrait* and irresolute." Thomas Sancton, "If at First You Don't Succeed," *Time*, 24 Apr. 1995, at 46.
 
 *\*Distraite* \(pronounced /di-**strayt**/\) is the feminine gallicism for *distrait*. For English-language purposes, it is a needless variant not listed in most dictionaries, and it might be considered objectionable partly on grounds of sexism—e.g.:
 

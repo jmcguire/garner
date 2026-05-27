@@ -1,6 +1,6 @@
 # reactionary
 
-reactionary, adj.; **\*reactionist**; **\*reactionarist**; **reactive**. *Reactionary* \(= ultraconservative\) is the standard form. *\*Reactionist* and *\*reactionarist* are needless variants.
+reactionary, adj.; \***reactionist**; **\*reactionarist**; **reactive**. *Reactionary* \(= ultraconservative\) is the standard form. *\*Reactionist* and *\*reactionarist* are needless variants.
 
 *Reactive* = \(1\) of, relating to, or characterized by reactions <Jones's reflexes made him an extraordinarily reactive athlete>; or \(2\) occurring in response to a stimulus <reactive depression>. Occasionally *reactionary* is misused for *reactive*—e.g.:
 

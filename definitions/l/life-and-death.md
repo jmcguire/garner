@@ -1,6 +1,6 @@
 # life-and-death
 
-life-and-death; **\*life-or-death**. Though the sense is "relating to a matter of life *or* death," idiom has long sanctioned *and* in this phrase, not *or. Life-and-death* has vastly predominated in print sources since the phrase became popular in the early 1800s. It still predominates—e.g.:
+life-and-death; \***life-or-death**. Though the sense is "relating to a matter of life *or* death," idiom has long sanctioned *and* in this phrase, not *or. Life-and-death* has vastly predominated in print sources since the phrase became popular in the early 1800s. It still predominates—e.g.:
 
  - "Easy's temperament lets him saunter his way into any number of *life-and-death* situations and barely break a sweat." Adina Hoffman, "Denzel: So Noir and Yet So Far," *Jerusalem Post*, 1 July 1996, Arts §, at 5.
 

@@ -1,6 +1,6 @@
 # jeopardize
 
-jeopardize; **\*jeopard**; **\*enjeopard**. H.W. Horwill wrote that in AmE "*jeopard* is preferred to *jeopardize*, the common term in England." *Modern American Usage* 178 \(2d ed. 1944\). That wasn't true in 1944, and it isn't true today—e.g.:
+jeopardize; \***jeopard**; **\*enjeopard**. H.W. Horwill wrote that in AmE "*jeopard* is preferred to *jeopardize*, the common term in England." *Modern American Usage* 178 \(2d ed. 1944\). That wasn't true in 1944, and it isn't true today—e.g.:
 
  - "Mr. Connelly said no federal funds were *jeopardized* by the ordinance." Joyce Price, "Allentown Feels HUD's Wrath over ‘English-Only' Law," *Wash. Times*, 5 Apr. 1995, at A1.
 

@@ -1,4 +1,4 @@
 # sanative
 
-sanative; **\*sanatory**. See **sanitary**.
+sanative; \***sanatory**. See **sanitary**.
 

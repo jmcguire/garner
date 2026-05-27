@@ -1,4 +1,4 @@
 # suppositious
 
-suppositious; **supposititious**; **suppositional**; **\*suppositive**. See **supposable**.
+suppositious; **supposititious**; **suppositional**; \***suppositive**. See **supposable**.
 

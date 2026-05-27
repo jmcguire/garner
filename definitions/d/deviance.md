@@ -1,4 +1,4 @@
 # deviance
 
-deviance; **\*deviancy**. See **deviation**.
+deviance; \***deviancy**. See **deviation**.
 

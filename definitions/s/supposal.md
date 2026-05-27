@@ -1,4 +1,4 @@
 # supposal
 
-supposal; **\*suppose**, n. See **supposition**.
+supposal; \***suppose**, n. See **supposition**.
 

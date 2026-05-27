@@ -1,6 +1,6 @@
 # syllabification
 
-syllabification; **\*syllabication**. Although these are synonyms \(= the act or process of forming syllables, or of dividing words into syllables\), prefer *syllabification*, since it corresponds to the more common verb *syllabify* \(as opposed to *\*syllabicate*\). Although the two nouns were once almost equally common, since 1985 or so *syllabification* has predominated—e.g.:
+syllabification; \***syllabication**. Although these are synonyms \(= the act or process of forming syllables, or of dividing words into syllables\), prefer *syllabification*, since it corresponds to the more common verb *syllabify* \(as opposed to *\*syllabicate*\). Although the two nouns were once almost equally common, since 1985 or so *syllabification* has predominated—e.g.:
 
  - "Teachers spend at least four weeks of valuable instructional time teaching children to bubble-in the scantron sheet and to memorize such trivia as *syllabication* \[read *syllabification*\] rules." Letter of Deidra W. Frazier, "Let Them Write to Pass Exam," *Advocate* \(Baton Rouge\), 8 Aug. 1996, at B8.
 

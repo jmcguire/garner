@@ -1,6 +1,6 @@
 # anilingus
 
-anilingus; **\*anilinctus**. The term denotes a nonstandard thing, of course, but the standard form is *anilingus*. The term dates from the late 1800s. *\*Anilinctus* is a needless variant that many dictionaries record but that almost never appears in print.
+anilingus; \***anilinctus**. The term denotes a nonstandard thing, of course, but the standard form is *anilingus*. The term dates from the late 1800s. *\*Anilinctus* is a needless variant that many dictionaries record but that almost never appears in print.
 
 Because of its etymological association with *anal*, writers often, by false analogy \(ahem\) with that word, use a deviant spelling—e.g.:
 

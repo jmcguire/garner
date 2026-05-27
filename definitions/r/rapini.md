@@ -1,4 +1,4 @@
 # rapini
 
-rapini; **\*rappini**. See **broccoli rabe**.
+rapini; \***rappini**. See **broccoli rabe**.
 

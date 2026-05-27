@@ -1,4 +1,4 @@
 # \*persuadible
 
-\*persuadible; **\*persuasible**. See **persuadable**.
+\*persuadible; \***persuasible**. See **persuadable**.
 

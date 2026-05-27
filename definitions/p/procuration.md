@@ -1,4 +1,4 @@
 # procuration
 
-procuration; **\*procurance**; **procuracy**. See **procurement**.
+procuration; \***procurance**; **procuracy**. See **procurement**.
 

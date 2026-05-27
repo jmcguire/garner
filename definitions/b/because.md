@@ -50,7 +50,7 @@ In any event, the "rule" has never had any basis in grammar, and good writers of
 
 **G. Fragment Beginning with.** See incomplete sentences \(b\).
 
-**H. Coupled with *reason*.** See **\*reason is because**.
+**H. Coupled with *reason*.** See \***reason is because**.
 
 **I. As a Causal Word Generally.** See **as \(a\)**.
 

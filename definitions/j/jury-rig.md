@@ -1,6 +1,6 @@
 # jury-rig
 
-jury-rig; **jerry-build**; **\*jerry-rig**; **\*gerry-rig**. The first is an authentic nautical phrase, dating from the early 1600s. Derived from *jury-mast* \(= a temporary replacement for a ship's broken mast\), the *jury* part here has nothing to do with 12 peers deciding someone's fate. Instead, according to Barnhart's *Dictionary of Etymology*, it probably derives from the Old French word *ajurie* \(= help\). The second is something of a portmanteau word combining *jury-rig* with a 19th-century BrE casualism, *jerry-built* \(= shoddy; poorly made to last a short time\).
+jury-rig; **jerry-build**; \***jerry-rig**; **\*gerry-rig**. The first is an authentic nautical phrase, dating from the early 1600s. Derived from *jury-mast* \(= a temporary replacement for a ship's broken mast\), the *jury* part here has nothing to do with 12 peers deciding someone's fate. Instead, according to Barnhart's *Dictionary of Etymology*, it probably derives from the Old French word *ajurie* \(= help\). The second is something of a portmanteau word combining *jury-rig* with a 19th-century BrE casualism, *jerry-built* \(= shoddy; poorly made to last a short time\).
 
 *Jerry-build* is sometimes used transitively to refer to something assembled from bits and pieces of other things. E.g.:
 

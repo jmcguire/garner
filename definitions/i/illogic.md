@@ -58,5 +58,5 @@ What does the writer mean? Probably "half," but who can say for sure? Yet despit
 
 **H. *\*Times more than*.** A problem similar to but far less egregious than the illogic of *\*times less than* comes up when we say that X is *\*two times more than* Y. The common understanding is that if Y is 1, then X is 2. But strictly speaking, one *time more* than Y could also be 2, because *more* implies that the result of 1-times-X is added to X to arrive at Y. The more precise and unambiguous wording is "X is two times as much as Y."
 
-**I. Miscellaneous Other Examples.** For various other brands of poor thinking, see adjectives \(b\), **all \(d\)**, **between \(f\)**, **contiguous**, **every other \(a\)**, **\*ex-felon**, **\*least worst**, **much less**, **much-needed**, **same \(c\)**, **temperature \(b\)**, **\*these kind of**, **underestimate**, **\*up to —— off and more**, **wean**, **within**, **\*without scarcely** & **yet \(b\)**.
+**I. Miscellaneous Other Examples.** For various other brands of poor thinking, see adjectives \(b\), **all \(d\)**, **between \(f\)**, **contiguous**, **every other \(a\)**, \***ex-felon**, **\*least worst**, **much less**, **much-needed**, **same \(c\)**, **temperature \(b\)**, **\*these kind of**, **underestimate**, **\*up to —— off and more**, **wean**, **within**, **\*without scarcely** & **yet \(b\)**.
 

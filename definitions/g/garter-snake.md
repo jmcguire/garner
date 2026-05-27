@@ -1,6 +1,6 @@
 # garter snake
 
-garter snake; **\*garden snake**. A *garter snake* is a nonvenomous North American snake having longitudinal stripes that resemble garters. A *\*garden snake* is an unknown variety—perhaps "a snake that can be found in a garden." But beginning about 1960, the herpetologically challenged have often referred to this unknown species—e.g.:
+garter snake; \***garden snake**. A *garter snake* is a nonvenomous North American snake having longitudinal stripes that resemble garters. A *\*garden snake* is an unknown variety—perhaps "a snake that can be found in a garden." But beginning about 1960, the herpetologically challenged have often referred to this unknown species—e.g.:
 
  - "These were not those cute little *garden* \[read *garter*\] snakes, but rattlers and cobras." Kathleen Merryman, "Spine Shivering Stories," *News Trib.* \(Tacoma\), 29 Oct. 1997, Fam. §, at 1.
 

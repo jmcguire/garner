@@ -1,4 +1,4 @@
 # \*sculduggery
 
-\*sculduggery; **\*scullduggery**. See **skulduggery**.
+\*sculduggery; \***scullduggery**. See **skulduggery**.
 

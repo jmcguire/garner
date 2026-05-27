@@ -1,4 +1,4 @@
 # penuche
 
-penuche; **\*penuchi**. See **panocha**.
+penuche; \***penuchi**. See **panocha**.
 

@@ -8,7 +8,7 @@ expense, v.t. In general use, this is an overblown substitute for *spend* and ou
 
  - "The company has now *expensed* $625 million to cover the cost of the Ignition Compensation Fund, which has found 124 deaths caused by the defect." Greg Gardner, "Color GM Greener, UAW More Hopeful," *Detroit Free Press*, 24 July 2015, at A1.
 
-The word in this sense should be confined to accounting contexts—not used as a pretentious synonym for *spend*. Cf. **\*inexpense**.
+The word in this sense should be confined to accounting contexts—not used as a pretentious synonym for *spend*. Cf. \***inexpense**.
 
 The effect of the words is quite different for noun uses: *expense* is usual <reasonable expenses>, and *spend* is bizspeak <that's a big spend>.
 

@@ -1,4 +1,4 @@
 # \*boogeyman
 
-\*boogeyman; **\*boogieman**; **\*boogyman**. See **bogeyman**.
+\*boogeyman; \***boogieman**; **\*boogyman**. See **bogeyman**.
 

@@ -1,6 +1,6 @@
 # appraise
 
-appraise; apprise; **\*apprize**. To *appraise* is to put a value on or set a price for \(a thing\). To *apprise* is to inform or notify \(someone\). Writers often misuse *appraise* when they mean *apprise*—e.g.:
+appraise; apprise; \***apprize**. To *appraise* is to put a value on or set a price for \(a thing\). To *apprise* is to inform or notify \(someone\). Writers often misuse *appraise* when they mean *apprise*—e.g.:
 
  - " ‘Other employees also are kept *appraised* \[read *apprised*\] of developments within the company,' Highsmith said." Elena Bianco, "New Dimensions in Lumber," *Lewiston Morning Trib.* \(Idaho\), 4 Nov. 1990, at E1.
 

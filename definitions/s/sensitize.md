@@ -1,6 +1,6 @@
 # sensitize
 
-sensitize; **\*sensitivize**. Although in 1926 H.W. Fowler championed the latter, the former is now standard in AmE and BrE alike. *\*Sensitivize*, a rare word, is now rightly seen as eccentric. See -ize.
+sensitize; \***sensitivize**. Although in 1926 H.W. Fowler championed the latter, the former is now standard in AmE and BrE alike. *\*Sensitivize*, a rare word, is now rightly seen as eccentric. See -ize.
 
 ## Language-Change Index
 

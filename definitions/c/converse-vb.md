@@ -1,6 +1,6 @@
 # converse, vb
 
-converse, vb.; **\*conversate**; **\*conversationalize**. *Converse* /kәn-**vәrs**/ is the standard verb corresponding to the noun *conversation* <she converses with ease in several languages>.
+converse, vb.; \***conversate**; **\*conversationalize**. *Converse* /kәn-**vәrs**/ is the standard verb corresponding to the noun *conversation* <she converses with ease in several languages>.
 
 The AmE dialectal variant *\*conversate*, a back-formation, is sometimes heard, as reported here: "The Westerfield case had its cast of characters whose testimony made them local celebrities—the friends of the van Dams', the bartender at Dad's Cafe who kept using the word ‘*conversate*' on the witness stand." Alex Roth, "Guilty on All Counts," *San Diego Union-Trib.*, 22 Aug. 2002, at A1. During the trial referred to in that quotation, the bartender received an anonymous hate letter over his use of this word; the writer expressed "outrage that he \[the bartender\] hadn't spoken proper English." Alex Roth, "Westerfield Trial: Dad's Uneasy with Notoriety," *San Diego Union-Trib.*, 21 July 2002, at A1. \(A serious breach of decorum: proponents of good English should always remain civil. Hate mail isn't the way.\)
 

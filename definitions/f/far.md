@@ -1,4 +1,4 @@
 # far
 
-far. See **farther** & **\*furtherest**.
+far. See **farther** & \***furtherest**.
 

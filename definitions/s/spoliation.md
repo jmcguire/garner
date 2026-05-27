@@ -1,6 +1,6 @@
 # spoliation
 
-spoliation; **despoliation**; **\*despoilment**. A learned word, *spoliation* /spoh-lee-**ay**-shәn/ means the act of ruining, destroying, or spoiling something. It's sometimes misspelled and mispronounced *\*spoilation* \(an example of metathesis\). The difference between the form of the verb and of the noun arises from different paths by which the words came into English: in the 1300s, *spoil* was borrowed from Old French \(*espoille*\), whereas in the 1400s *spoliation* was borrowed from Latin \(*spoliātio*\).
+spoliation; **despoliation**; \***despoilment**. A learned word, *spoliation* /spoh-lee-**ay**-shәn/ means the act of ruining, destroying, or spoiling something. It's sometimes misspelled and mispronounced *\*spoilation* \(an example of metathesis\). The difference between the form of the verb and of the noun arises from different paths by which the words came into English: in the 1300s, *spoil* was borrowed from Old French \(*espoille*\), whereas in the 1400s *spoliation* was borrowed from Latin \(*spoliātio*\).
 
 *Despoliation* \(= pillaging, plundering\) is often misspelled *\*despoilation*—a blunder that can spoil otherwise highly literate writing—e.g.:
 

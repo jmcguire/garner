@@ -20,7 +20,7 @@ In two circumstances, though, *all of* is the better choice. The first occurs wh
 
  - "Since *all teachers do not* \[read *not all teachers*\] teach the FSA subjects, other tests, like end-of-course exams, must be used." Sue Legg, "Testing—When Is Enough, Enough?," *Gainesville Sun* \(Fla.\), 6 Sept. 2015, Opinion §.
 
-See **not \(a\)**. Cf. **\*everyone . . . not**.
+See **not \(a\)**. Cf. \***everyone . . . not**.
 
 ## Language-Change Index
 

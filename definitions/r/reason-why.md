@@ -16,7 +16,7 @@ reason why; **reason that**. Both forms are correct. It's an unfortunate superst
 
 It is true, however, that *why* might have been omitted in all but the King and Martin examples.
 
-The phrasing *reason that* is often a poor substitute for *reason why*—as in any of the examples just quoted—just as *time that* and *place that* are poor substitutes when adverbials of time and place are called for. Cf. the indefensible redundancy **\*reason is because**.
+The phrasing *reason that* is often a poor substitute for *reason why*—as in any of the examples just quoted—just as *time that* and *place that* are poor substitutes when adverbials of time and place are called for. Cf. the indefensible redundancy \***reason is because**.
 
 ## Language-Change Index
 

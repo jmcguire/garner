@@ -1,6 +1,6 @@
 # overthrow
 
-overthrow, n.; **\*overthrowal**. The latter, a needless variant that cropped up in the 1830s and has persisted, isn't recorded in most dictionaries. But it does, unfortunately, occur—e.g.:
+overthrow, n.; \***overthrowal**. The latter, a needless variant that cropped up in the 1830s and has persisted, isn't recorded in most dictionaries. But it does, unfortunately, occur—e.g.:
 
  - "The military says more than 2,000 people had been killed in insurgency-related incidents since the February *overthrowal* \[read *overthrow*\] of President Ferdinand Marcos." "Philippine Rebel Leader in Favor of Peace Talks," *Chicago Trib.*, 13 Nov. 1986, at C4.
 

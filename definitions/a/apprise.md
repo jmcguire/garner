@@ -1,4 +1,4 @@
 # apprise
 
-apprise; **\*apprize**. See **appraise**.
+apprise; \***apprize**. See **appraise**.
 

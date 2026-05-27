@@ -1,4 +1,4 @@
 # \*copasetic
 
-\*copasetic; **\*copesetic**; **\*copesettic**. See **copacetic**.
+\*copasetic; \***copesetic**; **\*copesettic**. See **copacetic**.
 

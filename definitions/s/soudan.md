@@ -1,4 +1,4 @@
 # \*Soudan
 
-\*Soudan; **\*Soudanese**. See **Sudan**.
+\*Soudan; \***Soudanese**. See **Sudan**.
 

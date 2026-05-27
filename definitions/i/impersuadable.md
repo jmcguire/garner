@@ -1,4 +1,4 @@
 # impersuadable
 
-impersuadable; **\*impersuasible**. See **persuadable**.
+impersuadable; \***impersuasible**. See **persuadable**.
 

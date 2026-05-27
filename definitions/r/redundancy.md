@@ -47,9 +47,9 @@ Though many of those mistakes look like unique ones—the result of semiconsciou
  - excessive drunkenness
  - fellow classmate
  - fellow colleagues
- - few in number \(see **\*few in number**\)
+ - few in number \(see \***few in number**\)
  - fictional novel
- - free gift \(see **\*free gift**\)
+ - free gift \(see \***free gift**\)
  - future forecast
  - future plans
  - general consensus of opinion \(see **consensus**\)
@@ -67,7 +67,7 @@ Though many of those mistakes look like unique ones—the result of semiconsciou
  - pivotal crossroads
  - plead a plea
  - pooled together
- - reason is because \(see **\*reason is because**)
+ - reason is because \(see \***reason is because**)
  - reelected for another term
  - refer back
  - regress back

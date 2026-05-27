@@ -1,6 +1,6 @@
 # interpretive
 
-interpretive; **interpretative**; **\*interpretational**. Generally, one forms the adjective on the model of the noun form of a word. Hence *prevention* yields *preventive*, not *\*preventative*; *determination* yields *determinative*, not *\*determinive*; *administration* yields *administrative*, not *\*administerive*. And with *interpretation*, the traditionally correct adjective is *interpretative* \(= having the character or function of interpreting; explanatory\). E.g.:
+interpretive; **interpretative**; \***interpretational**. Generally, one forms the adjective on the model of the noun form of a word. Hence *prevention* yields *preventive*, not *\*preventative*; *determination* yields *determinative*, not *\*determinive*; *administration* yields *administrative*, not *\*administerive*. And with *interpretation*, the traditionally correct adjective is *interpretative* \(= having the character or function of interpreting; explanatory\). E.g.:
 
  - "You will misuse it . . . if you substitute the dictionary for the exercise of your own *interpretative* judgment in reading." Mortimer Adler, "How to Read a Dictionary" \(1941\), in *Words, Words, Words About Dictionaries* 53, 59 \(Jack C. Gray ed., 1963\).
 

@@ -1,6 +1,6 @@
 # problematic
 
-problematic; **\*problematical**. The first is standard; the second is a needless variant.
+problematic; \***problematical**. The first is standard; the second is a needless variant.
 
 How *problematic* came to denote "troublesome" isn't puzzling. The word *problem* derives from the Latin and Greek term for "something put forward, esp. for discussion and perhaps resolution." This sense lives on, for example, in the math *problems* that a teacher assigns for homework. In English, this original sense of *problem* goes back at least to the 1300s.
 

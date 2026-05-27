@@ -1,6 +1,6 @@
 # culpable
 
-culpable; **inculpable**; **\*culpatory**; **\*culpose**. *Culpable* \(= guilty, blameworthy\) is the ordinary word among this group. E.g.:
+culpable; **inculpable**; \***culpatory**; **\*culpose**. *Culpable* \(= guilty, blameworthy\) is the ordinary word among this group. E.g.:
 
  - "Merritt said yesterday that Christian conservatives were not *culpable* in \[Oliver\] North's defeat." Kent Jenkins Jr., "Uncertainties Arise on Morning After GOP Triumph," *Wash. Post*, 10 Nov. 1994, at C1.
 

@@ -1,4 +1,4 @@
 # forbade
 
-forbade; **\*forbad**. See **forbid**.
+forbade; \***forbad**. See **forbid**.
 

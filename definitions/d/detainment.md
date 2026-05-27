@@ -1,4 +1,4 @@
 # \*detainment
 
-\*detainment; **\*detainal**. See **detention**.
+\*detainment; \***detainal**. See **detention**.
 

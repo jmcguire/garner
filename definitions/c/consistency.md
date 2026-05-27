@@ -1,6 +1,6 @@
 # consistency
 
-consistency; **\*consistence**. The former has been standard since about 1800, before which time the two words tussled for preeminence. The latter is now a needless variant—e.g.:
+consistency; \***consistence**. The former has been standard since about 1800, before which time the two words tussled for preeminence. The latter is now a needless variant—e.g.:
 
  - "Though Natrone Means was unable to run with his usual *consistence* \[read *consistency*\], Ronnie Harmon was often effective in the backfield and Eric Bieniemy contributed one stirring sortie." Welton Jones, "Bowled Over, Could a Sequel Be Super?," *San Diego Union-Trib.*, 31 Jan. 1995, at E1.
 

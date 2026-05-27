@@ -6,5 +6,5 @@
 
  - "Therefore, private investment can only be attracted *subsequent to* public sector land preparation." Craig Johnson, "Brownfield Funding Issue Is About More than Clean Soil," *Star Trib.* \(Minneapolis\), 22 May 1997, at A23. \(A possible revision: *Therefore, private investors will be attracted only after the public sector has helped clean up the land*.\)
 
-Cf. **prior** & **\*previous to**.
+Cf. **prior** & \***previous to**.
 

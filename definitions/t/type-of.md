@@ -8,7 +8,7 @@ type of —like *kind of*, *sort of*, and *variety of*—is often used unnecessa
 
 Cf. **couple \(c\)**.
 
-For the phrase *\*these type of*, see **\*these kind of**. See also **sort of**.
+For the phrase *\*these type of*, see \***these kind of**. See also **sort of**.
 
 ## Language-Change Index
 

@@ -1,4 +1,4 @@
 # precipitancy
 
-precipitancy; **\*precipitance**. See **precipitation**.
+precipitancy; \***precipitance**. See **precipitation**.
 

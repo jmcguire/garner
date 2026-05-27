@@ -1,6 +1,6 @@
 # thingy
 
-thingy; **thingamajig**; **thingamabob**; **thingumbob**; **\*thingumajig**; **\*thingumabob**. During the late 1700s and the 1800s, these words emerged as casualisms to denote something that one can't remember the name of or doesn't know the name of. The headwords in this entry are presented in order of frequency today.
+thingy; **thingamajig**; **thingamabob**; **thingumbob**; \***thingumajig**; **\*thingumabob**. During the late 1700s and the 1800s, these words emerged as casualisms to denote something that one can't remember the name of or doesn't know the name of. The headwords in this entry are presented in order of frequency today.
 
 The most traditional of the -*bob* words is *thingumbob*, which gave way as the predominant form in AmE to *thingamabob* in the 1970s. In BrE, that very process appears to be underway today, having begun in the early 1990s. The spelling \**thingumabob* has never been nearly as widespread as the other two.
 

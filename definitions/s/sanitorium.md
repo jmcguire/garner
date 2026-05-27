@@ -1,4 +1,4 @@
 # \*sanitorium
 
-\*sanitorium; **\*sanitarium**. See **sanatorium**.
+\*sanitorium; \***sanitarium**. See **sanatorium**.
 

@@ -1,6 +1,6 @@
 # bequest, n
 
-bequest, n.; **\*bequeathal**; **\*bequeathment**. *Bequest* = \(1\) the act of bequeathing; or \(2\) personal property \(usu. other than money\) disposed of in a will. As a classic example of word-swapping, *bequest* is sometimes confused with *behest*. See **behest**.
+bequest, n.; \***bequeathal**; **\*bequeathment**. *Bequest* = \(1\) the act of bequeathing; or \(2\) personal property \(usu. other than money\) disposed of in a will. As a classic example of word-swapping, *bequest* is sometimes confused with *behest*. See **behest**.
 
 *\*Bequeathal* and *\*bequeathment* are needless variants of sense 1 of *bequest*—e.g.:
 

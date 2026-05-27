@@ -1,6 +1,6 @@
 # prosecutorial
 
-prosecutorial; **prosecutive**; **prosecutory**; **\*prosecutional**. Among these, the most common term in criminal-law texts is *prosecutorial*, but many dictionaries omit the term. Instead, most dictionaries define *prosecutory* and its variant *prosecutive*—less common words—as "of, relating to, or involving prosecution." E.g.: "Law enforcement, shelter and support agencies, medical personnel, legal and *prosecutory* agencies, child-abuse treatment and intervention personnel all needed special interdisciplinary training." Dee Aker, "The World Is Watching," *Chicago Trib.*, 11 Aug. 1996, Womanews §, at 1.
+prosecutorial; **prosecutive**; **prosecutory**; \***prosecutional**. Among these, the most common term in criminal-law texts is *prosecutorial*, but many dictionaries omit the term. Instead, most dictionaries define *prosecutory* and its variant *prosecutive*—less common words—as "of, relating to, or involving prosecution." E.g.: "Law enforcement, shelter and support agencies, medical personnel, legal and *prosecutory* agencies, child-abuse treatment and intervention personnel all needed special interdisciplinary training." Dee Aker, "The World Is Watching," *Chicago Trib.*, 11 Aug. 1996, Womanews §, at 1.
 
 But *prosecutorial* serves as the adjective corresponding to *prosecutor*—e.g.:
 

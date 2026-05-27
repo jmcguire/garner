@@ -1,6 +1,6 @@
 # lese majesty
 
-lese majesty; ***\*lèse majesté***; ***\*laesae majestatis***; **\*leze majesty**; **\*lèse majesty**; ***\*laesae majestas***. The long-predominant form of this originally legal term—meaning "a crime against the state, esp. against the ruler" or "an attack on a custom or traditional belief"—is the anglicized *lese majesty*. The variant spellings might be best avoided. In BrE, the phrase tends to be hyphenated; in AmE, it usually isn't. E.g.:
+lese majesty; ***\*lèse majesté***; ***\*laesae majestatis***; \***leze majesty**; **\*lèse majesty**; ***\*laesae majestas***. The long-predominant form of this originally legal term—meaning "a crime against the state, esp. against the ruler" or "an attack on a custom or traditional belief"—is the anglicized *lese majesty*. The variant spellings might be best avoided. In BrE, the phrase tends to be hyphenated; in AmE, it usually isn't. E.g.:
 
  - "Ad posters for the film fail to take into account Thai sensibilities by picturing Foster above the king. This is considered a great insult by Thais and a possible *lese majesty*. Thai royals must be pictured above commoners." James East & Dana Harris, "Thailand Picks a Sword Fight with ‘Anna' Pic," *Hollywood Rptr.*, 22 Nov. 1999, at 4.
 

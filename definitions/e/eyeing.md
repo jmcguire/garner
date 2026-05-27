@@ -1,4 +1,4 @@
 # eyeing
 
-eyeing; **\*eying**. The first is the preferred spelling.
+eyeing; \***eying**. The first is the preferred spelling.
 

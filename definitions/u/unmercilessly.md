@@ -10,7 +10,7 @@
 
  - "For every Ian Keatley kick they *unmercilessly* \[read *mercilessly*\] booed." Alan Quinlan, "So, the Heineken Cup Odyssey Ended in Marseille," *Irish Times*, 30 Apr. 2014, Sport §, at 2.
 
-Cf. **\*uncategorically** & **\*unrelentlessly**.
+Cf. \***uncategorically** & **\*unrelentlessly**.
 
 Though it is a syllable longer than *mercilessly*, *unmercifully* also suffices—e.g.: "And still, Stevie Wonder seemed intent on taking his sweet, soulful time, teasing us *unmercifully*, making us sweat for his presence." Patricia Smith, "He's Still a Wonder to Behold," *Boston Globe*, 4 Jan. 1995, at 53.
 

@@ -1,6 +1,6 @@
 # filter
 
-filter, vb.; **\*filtrate**, vb. The latter is a needless variant—e.g.:
+filter, vb.; \***filtrate**, vb. The latter is a needless variant—e.g.:
 
  - "We buy sprinkler systems instead and spray expensively *filtrated* \[read *filtered*\] drinking water all over the garden." Anna Pavord, "And Hummingbirds Flicker by Tall, White Foxgloves," *Independent*, 2 Mar. 1996, at 12.
 

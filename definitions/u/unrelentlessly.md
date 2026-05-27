@@ -6,7 +6,7 @@
 
  - "This prime minister \[Benjamin Netanyahu\] is still under the shadow of public opinion, and the opposition will *unrelentlessly* \[read *unrelentingly* or *relentlessly*\] continue to fight against him through legal, moral and political means." Amos Perlmutter, "Dodging a Misguided Political Fusillade," *Wash. Times*, 22 Apr. 1997, at A14.
 
-Cf. **\*uncategorically** & **\*unmercilessly**.
+Cf. \***uncategorically** & **\*unmercilessly**.
 
 ## Language-Change Index
 

@@ -52,5 +52,5 @@ But in standard english, only one modal appears in a verb phrase. A double modal
 
 These phrases are not uncommon in regional AmE dialect—especially in the South—but they do not belong in Standard English and rarely appear in print. E.g.: "Although I have only spent one day on the water at Lay Lake, and interviewed perhaps 20 percent of the field, I still believe I *might can* \[read *might*\] get pretty close." Steve Bowman, "Expect the Unexpected When Classic Title on Line," *Ark. Democrat-Gaz.*, 8 Aug. 1996, at C4.
 
-The problem with most double modals, of course, is that only one of the verbs is needed. In the most common double modal, *\*might could*, the word *might* can usually be dropped without a change in meaning. So unless you're recording dialect or creating fictional dialogue—or mimicking regional speech for effect—don't use double modals. Cf. **\*might should have**.
+The problem with most double modals, of course, is that only one of the verbs is needed. In the most common double modal, *\*might could*, the word *might* can usually be dropped without a change in meaning. So unless you're recording dialect or creating fictional dialogue—or mimicking regional speech for effect—don't use double modals. Cf. \***might should have**.
 

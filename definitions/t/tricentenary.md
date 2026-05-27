@@ -1,4 +1,4 @@
 # \*tricentenary
 
-\*tricentenary; **\*tricentennial**. See **tercentenary**.
+\*tricentenary; \***tricentennial**. See **tercentenary**.
 

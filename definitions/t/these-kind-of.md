@@ -1,6 +1,6 @@
 # \*these kind of
 
-\*these kind of; **\*these type of**; **\*these sort of**. These illogical forms were not uncommon in the 1600s and early 1700s, but by the mid-1700s they had been stigmatized. Today they brand the speaker or writer as slovenly. They appear most commonly in reported speech, but sometimes not—e.g.:
+\*these kind of; \***these type of**; **\*these sort of**. These illogical forms were not uncommon in the 1600s and early 1700s, but by the mid-1700s they had been stigmatized. Today they brand the speaker or writer as slovenly. They appear most commonly in reported speech, but sometimes not—e.g.:
 
  - "\[The\] Lebanon team . . . felt it was built for *these kind of challenges* \[read *this kind of challenge*\]." Mike Gross, "Berks Power Chops Down Cedars," *Patriot & Evening News* \(Harrisburg\), 6 Sept. 1997, at C1.
 

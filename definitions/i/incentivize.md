@@ -1,6 +1,6 @@
 # incentivize
 
-incentivize; **\*incent**, vb. Dating from the mid-1970s, these have become vogue terms, especially in American business jargon. E.g.:
+incentivize; \***incent**, vb. Dating from the mid-1970s, these have become vogue terms, especially in American business jargon. E.g.:
 
  - "Together, the programs represent the most aggressive *incentivizing* to date by Honda." "Subaru, BMW Are Now Offering Consumer-Incentive Programs," *Atlanta J.-Const.*, 15 Mar. 1991, § S, at 6. \(A possible revision: *Together, the programs provide the best incentives that Honda has ever offered.*\)
 

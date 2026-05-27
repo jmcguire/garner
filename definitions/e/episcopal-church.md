@@ -1,6 +1,6 @@
 # Episcopal Church
 
-Episcopal Church; **\*Episcopalian Church**. Strictly, one refers to the *Episcopal Church* and to an *Episcopal minister*. The word *Episcopalian* is most commonly a noun, as in *I'm an Episcopalian*. Yet many writers have started using *Episcopalian* as an adjective—e.g.:
+Episcopal Church; \***Episcopalian Church**. Strictly, one refers to the *Episcopal Church* and to an *Episcopal minister*. The word *Episcopalian* is most commonly a noun, as in *I'm an Episcopalian*. Yet many writers have started using *Episcopalian* as an adjective—e.g.:
 
  - "The Liberal Catholic Church . . . is independent of the Roman Catholic and *Episcopalian* \[read *Episcopal*\] Church." Luisa Yanez, "Church Dissolves Cultural Barriers," *Sun-Sentinel* \(Ft. Lauderdale\), 30 May 1988, at B3. \(Note the concord problem here.\)
 

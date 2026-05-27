@@ -1,4 +1,4 @@
 # \*magistratic
 
-\*magistratic; **\*magistratical**. See **magisterial**.
+\*magistratic; \***magistratical**. See **magisterial**.
 

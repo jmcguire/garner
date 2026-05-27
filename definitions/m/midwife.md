@@ -1,6 +1,6 @@
 # midwife
 
-midwife, v.t.; **\*midwive**. The first is the standard form for the verb as well as the noun—e.g.:
+midwife, v.t.; \***midwive**. The first is the standard form for the verb as well as the noun—e.g.:
 
  - "The milling district of Minneapolis . . . *midwived* \[read *midwifed*\] some of its most prominent companies." Steve Brandt, "Reclaiming Mill City's River Roots," *Star Trib.* \(Minneapolis\), 18 Dec. 1996, at B1.
 

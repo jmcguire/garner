@@ -1,4 +1,4 @@
 # \*arcked
 
-\*arcked; **\*arcking**. See **arc**.
+\*arcked; \***arcking**. See **arc**.
 

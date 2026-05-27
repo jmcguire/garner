@@ -1,4 +1,4 @@
 # pedlar
 
-pedlar; **\*pedler**. See **peddler**.
+pedlar; \***pedler**. See **peddler**.
 

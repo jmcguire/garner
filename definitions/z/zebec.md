@@ -1,4 +1,4 @@
 # \*zebec
 
-\*zebec; **\*zebeck**. See **xebec**.
+\*zebec; \***zebeck**. See **xebec**.
 

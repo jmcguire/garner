@@ -1,6 +1,6 @@
 # contumacy
 
-contumacy; **\*contumacity**; **contumely**. Of the two forms of the noun corresponding to *contumacious*, *contumacy* /**kon**-tyʊ-mә-see/ is the usual term, meaning \(1\) "rebellion against authority"; or \(2\) "willful contempt of court." Sense 1 is the nonlegal sense—e.g.: "But he was a backslider, and finally was removed from the rolls \[of the church\] in 1880 for *contumacy*." Perre Magness, "Church Celebrates a Colorful 150 Years," *Commercial Appeal* \(Memphis\), 21 Apr. 1994, Neighbors §, at ME2. *\*Contumacity* is a needless variant. For the corresponding adjective, see **contemptuous \(b\)**.
+contumacy; \***contumacity**; **contumely**. Of the two forms of the noun corresponding to *contumacious*, *contumacy* /**kon**-tyʊ-mә-see/ is the usual term, meaning \(1\) "rebellion against authority"; or \(2\) "willful contempt of court." Sense 1 is the nonlegal sense—e.g.: "But he was a backslider, and finally was removed from the rolls \[of the church\] in 1880 for *contumacy*." Perre Magness, "Church Celebrates a Colorful 150 Years," *Commercial Appeal* \(Memphis\), 21 Apr. 1994, Neighbors §, at ME2. *\*Contumacity* is a needless variant. For the corresponding adjective, see **contemptuous \(b\)**.
 
 *Contumely* /kon-**tyoo**-mә-lee/, easily confused with *contumacy*, is a literary word meaning "rude and haughty language." Shakespeare wrote, in *Hamlet*, of "the proud man's *contumely*" \(3.1.70\). More recent examples are not common, but the word does still appear—e.g.:
 

@@ -1,6 +1,6 @@
 # oneself
 
-oneself; **\*one's self**. *Oneself* became the predominant spelling of the reflexive pronoun about 1900. *\*One's self* is an archaic variant that was already becoming old-fashioned when this passage was written: "The first and probably the most important one is production discipline, making *one's self* \[read *oneself*\] write whether one feels like it or not. The second is revision discipline; the third, rejection-slip discipline." Anne Hamilton, *How to Revise Your Own Stories* vii \(1946\). By the late 20th century, the two-word version had become distinctly nonstandard and pedantic-looking. Yet it still appears occasionally—e.g.:
+oneself; \***one's self**. *Oneself* became the predominant spelling of the reflexive pronoun about 1900. *\*One's self* is an archaic variant that was already becoming old-fashioned when this passage was written: "The first and probably the most important one is production discipline, making *one's self* \[read *oneself*\] write whether one feels like it or not. The second is revision discipline; the third, rejection-slip discipline." Anne Hamilton, *How to Revise Your Own Stories* vii \(1946\). By the late 20th century, the two-word version had become distinctly nonstandard and pedantic-looking. Yet it still appears occasionally—e.g.:
 
  - "Going to work for *one's self* \[read *oneself*\] often proved the only solution to bridging gaps in a work record." Mary Agria, "Flexibility Is Key for Working at Home," *Telegraph Herald* \(Dubuque\), 22 Sept. 1996, at D3.
 

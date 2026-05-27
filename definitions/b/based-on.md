@@ -46,5 +46,5 @@ And here it's a preposition \(a dangler, to be exact):
 
 Occasionally the phrasing is idiomatically justified, when you're saying that a business, for example, has its headquarters near a given road: "Covestro \[is\] a plastics manufacturer that is *based off* the Parkway West in Robinson." Paul J. Gough, "Stories That Helped Define Pittsburgh's Business in the 2010s," *Pitt. Bus. Times*, 31 Dec. 2019. But with this type of use, the word *based* simply appears alongside the preposition *off*; it's not really a phrase because *is based* could be replaced by *has its headquarters*.
 
-For more on the *of* in \**based off of*, see **\*off of**.
+For more on the *of* in \**based off of*, see \***off of**.
 

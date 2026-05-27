@@ -16,5 +16,5 @@ Cf. **but \(a\)**.
 
 **B. Idioms Involving *yet*.** There are two common negative phrases revolving around this word: *no person has yet done something* and *the person has yet to do something*. Some writers have ill-advisedly conflated the two idioms to come up with their own brand of illogic—e.g.: "No artist has yet to capture the essence of the Thai sea." Advertisement of the Tourism Authority of Thailand, *Island* \(Mag.\), Fall 1995, at 7. The writer has inadvertently suggested that every artist has already captured the essence of the Thai sea.
 
-**C. Other Phrases.** See **although . . . yet**, **as yet** & **\*but yet**.
+**C. Other Phrases.** See **although . . . yet**, **as yet** & \***but yet**.
 

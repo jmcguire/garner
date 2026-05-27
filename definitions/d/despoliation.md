@@ -1,4 +1,4 @@
 # despoliation
 
-despoliation; **\*despoilment**. See **spoliation**.
+despoliation; \***despoilment**. See **spoliation**.
 

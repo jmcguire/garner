@@ -1,6 +1,6 @@
 # extortionate
 
-extortionate; **\*extortive**; **\*extortionary**; **\*extorsive**. *Extortionate* \(= \[1\] given to or characterized by extortion; or \[2\] \[of prices\] exorbitant\) has been the standard term since the late 1700s. The others are needless variants. E.g.:
+extortionate; \***extortive**; **\*extortionary**; **\*extorsive**. *Extortionate* \(= \[1\] given to or characterized by extortion; or \[2\] \[of prices\] exorbitant\) has been the standard term since the late 1700s. The others are needless variants. E.g.:
 
  - "Phanor Arizabaleta, considered No. 5 in the \[Cali\] syndicate, was convicted and sentenced for *extorsive* \[read *extortionate*\] kidnapping Tuesday by a regional judge in Cali, the chief prosecutor's office said." "Datelines," *Deseret News* \(Salt Lake City\), 16 Apr. 1997, at A4.
 

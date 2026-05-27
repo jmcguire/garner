@@ -1,6 +1,6 @@
 # sanatorium
 
-sanatorium; **\*sanitarium**; **\*sanitorium**; **\*sanatarium**. The standard spelling is *sanatorium* \(= an institution for the treatment of chronic diseases or care of long-term convalescents; a health resort\). The others are needless variants—e.g.:
+sanatorium; \***sanitarium**; **\*sanitorium**; **\*sanatarium**. The standard spelling is *sanatorium* \(= an institution for the treatment of chronic diseases or care of long-term convalescents; a health resort\). The others are needless variants—e.g.:
 
  - "Early Tuesday, Carter—the first former or current American president to visit Castro's Cuba—was to visit Cuba's AIDS *sanatarium* \[read *sanatorium*\] and a farm cooperative, both on the outskirts of Havana." "Carter Debates Castro on Rights, Democracy," *Deseret News* \(Salt Lake City\), 14 May 2002, at A4.
 

@@ -1,6 +1,6 @@
 # playwriting
 
-playwriting; **\*playwrighting**. The second, a corrupt form of the first, is lamentably common—e.g.:
+playwriting; \***playwrighting**. The second, a corrupt form of the first, is lamentably common—e.g.:
 
  - "\[A\] professor in the English department at the University of Cincinnati counts *playwrighting* \[read *playwriting*\] among the courses she teaches." Jackie Demaline, "Playhouse Booking Good for Local Playwrights," *Cincinnati Enquirer*, 16 Mar. 2003, at E2.
 

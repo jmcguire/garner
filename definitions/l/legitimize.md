@@ -1,6 +1,6 @@
 # legitimize
 
-legitimize; **legitimate**, vb.; **\*legitimatize**. *Legitimate* is the oldest of these verbs—a Latin loanword dating from 1494—but it's not the most frequent. *Legitimize*, the same loanword coupled with the *-ize* suffix, dates from the 1640s and predominates in modern print sources by a large margin. It refers to establishing the legitimacy of anything or anyone \(except with regard to parentage\)—e.g.:
+legitimize; **legitimate**, vb.; \***legitimatize**. *Legitimate* is the oldest of these verbs—a Latin loanword dating from 1494—but it's not the most frequent. *Legitimize*, the same loanword coupled with the *-ize* suffix, dates from the 1640s and predominates in modern print sources by a large margin. It refers to establishing the legitimacy of anything or anyone \(except with regard to parentage\)—e.g.:
 
  - "Joel Aranson . . . need only flash his ticket stub from Game 6 of the 1996 World Series to *legitimize* his friendship with Torres." Tom Keegan, "Joe's Brother Keeps on Tickin'," *N.Y. Post*, 25 Oct. 2000, at 12.
 

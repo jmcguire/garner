@@ -153,9 +153,9 @@ The following list of archaisms, with modern translations to the right, hints at
  - whilom \(see **erstwhile**\) former
  - wight person
  - wilt thou will you
- - withal \(see **\*withal**\) besides, nevertheless
+ - withal \(see \***withal**\) besides, nevertheless
  - woe sorrow
- - wot \(see **\*wot**\) know
+ - wot \(see \***wot**\) know
  - wot not, know not don't know
  - wotted not why didn't know why
  - would it were \(see subjunctives \(a\)) if only it were so

@@ -1,6 +1,6 @@
 # nowhere
 
-nowhere; **\*nowheres**. The first is standard. The second is a dialectal word. See dialect. Cf. **anywhere**.
+nowhere; \***nowheres**. The first is standard. The second is a dialectal word. See dialect. Cf. **anywhere**.
 
 ## Language-Change Index
 

@@ -1,6 +1,6 @@
 # adulterer
 
-adulterer; **\*adulter; adulteress; adultera; adulterator**. *Adulterer* is the usual agent noun meaning "someone who commits adultery." But the usage issue doesn't stop there because that definition raises the question: Which participant is it, precisely, who commits adultery? The law gives three possible answers:
+adulterer; \***adulter; adulteress; adultera; adulterator**. *Adulterer* is the usual agent noun meaning "someone who commits adultery." But the usage issue doesn't stop there because that definition raises the question: Which participant is it, precisely, who commits adultery? The law gives three possible answers:
 
  - Under the canon-law rule, a married participant is an adulterer and an unmarried one is a fornicator. The sex of the married participant doesn't matter.
 

@@ -1,4 +1,4 @@
 # \*phrensy
 
-\*phrensy; **\*phrenzy**. See **frenetic**.
+\*phrensy; \***phrenzy**. See **frenetic**.
 

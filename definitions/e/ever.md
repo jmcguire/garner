@@ -2,7 +2,7 @@
 
 ever.
 
-**A. Superfluous.** For phrases in which *ever* is superfluous, see **\*rarely ever** & **\*seldom ever**.
+**A. Superfluous.** For phrases in which *ever* is superfluous, see \***rarely ever** & **\*seldom ever**.
 
 **B. *Ever* for *every*.** Clipping *every* to *ever* is typical of AmE dialect—e.g.:
 

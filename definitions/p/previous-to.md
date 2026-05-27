@@ -6,5 +6,5 @@
 
  - "During the nine years *previous to* \[read *before*\] their reign, 1980–88, the Chiefs appeared on ABC's prime-time game one time." Greg Hall, "Chiefs' Performance Worthy of Prime Time," *Kansas City Star*, 9 Sept. 1997, at 3.
 
-Cf. **prior** & **\*subsequent to**.
+Cf. **prior** & \***subsequent to**.
 

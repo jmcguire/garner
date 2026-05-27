@@ -1,4 +1,4 @@
 # trembler
 
-trembler; **\*tremblor**. See **temblor**.
+trembler; \***tremblor**. See **temblor**.
 

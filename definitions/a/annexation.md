@@ -1,4 +1,4 @@
 # annexation
 
-annexation; **\*annexment**; **\*annexion**. See **annex**.
+annexation; \***annexment**; **\*annexion**. See **annex**.
 

@@ -1,4 +1,4 @@
 # \*miaow
 
-\*miaow; **\*miaou**; **\*miaul**. See **meow** & **mewl**.
+\*miaow; \***miaou**; **\*miaul**. See **meow** & **mewl**.
 

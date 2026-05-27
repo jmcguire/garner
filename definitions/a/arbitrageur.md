@@ -1,6 +1,6 @@
 # arbitrageur
 
-arbitrageur; **\*arbitrager**. English-language dictionaries have traditionally preferred the Frenchified *arbitrageur* \(= someone who simultaneously buys and sells different securities, commodities, currency, and the like to profit on price differences\). Some journalists and courts have preferred the naturalized form, *\*arbitrager* \(with the main accent on the first syllable: /**ahr**-bi-trah-jәr/\)—e.g.:
+arbitrageur; \***arbitrager**. English-language dictionaries have traditionally preferred the Frenchified *arbitrageur* \(= someone who simultaneously buys and sells different securities, commodities, currency, and the like to profit on price differences\). Some journalists and courts have preferred the naturalized form, *\*arbitrager* \(with the main accent on the first syllable: /**ahr**-bi-trah-jәr/\)—e.g.:
 
  - "The *arbitragers* who were indicted yesterday were D. Ronald Yogada \[and others\] . . . ." Kurt Eichenwald, "Two Firms Are Charged as Insiders," *N.Y. Times*, 3 Nov. 1988, at 29.
 

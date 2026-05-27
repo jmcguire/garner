@@ -1,6 +1,6 @@
 # en route
 
-en route; **\*enroute**. The standard form is *en route*. In modern print sources \(mostly American\), the closed-up *\*enroute* appears occasionally; although the *OED* suggests that this one-word version is exclusively North American \(the earliest example being 1967\), it occurs also in BrE.
+en route; \***enroute**. The standard form is *en route*. In modern print sources \(mostly American\), the closed-up *\*enroute* appears occasionally; although the *OED* suggests that this one-word version is exclusively North American \(the earliest example being 1967\), it occurs also in BrE.
 
 The phrase is pronounced /en root/ or /on root/. Avoid /in/. Although /rowt/ is accepted for the word *route* by itself, in this phrase the pronunciation should invariably be /root/. For more, see **route**.
 

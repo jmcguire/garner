@@ -1,4 +1,4 @@
 # societal
 
-societal; **\*societary**. See **social**.
+societal; \***societary**. See **social**.
 

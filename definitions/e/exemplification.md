@@ -1,4 +1,4 @@
 # exemplification
 
-exemplification; **\*exemplum**. See **example**.
+exemplification; \***exemplum**. See **example**.
 

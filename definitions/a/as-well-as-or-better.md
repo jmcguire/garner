@@ -1,6 +1,6 @@
 # as well as or better than
 
-as well as or better than; **\*as well or better than**. Some writers—a slight majority even, judging from the evidence of big data—illogically leave out *as* after *well*—e.g.:
+as well as or better than; \***as well or better than**. Some writers—a slight majority even, judging from the evidence of big data—illogically leave out *as* after *well*—e.g.:
 
  - "Women would write in detail why they were working *as well or better than* \[read *as well as or better than*\] their male counterparts." Simon Hoggart, "All Present and Incorrect," *Observer Sunday*, 15 Dec. 1991, at 37, 38.
 

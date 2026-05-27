@@ -8,7 +8,7 @@ The noun may take either a singular or a plural verb—e.g.:
 
  - "The advantage of such a program is that the offender's *whereabouts are* known in a more real-time manner." Robert D. Hanser, *Introduction to Corrections* 147 \(2012\).
 
-From 1850 to 1950 or so, the singular and plural uses vied closely for predominance, but beginning in the mid-20th century the plural uses took a decided advantage in both BrE \(before 1950\) and AmE \(beginning in the 1960s\). The plural use is now more common in print than the singular. Cf. **\*thereabouts**.
+From 1850 to 1950 or so, the singular and plural uses vied closely for predominance, but beginning in the mid-20th century the plural uses took a decided advantage in both BrE \(before 1950\) and AmE \(beginning in the 1960s\). The plural use is now more common in print than the singular. Cf. \***thereabouts**.
 
  - Current ratio in print \(*his whereabouts are* vs. *his whereabouts is*\): 3:1
 

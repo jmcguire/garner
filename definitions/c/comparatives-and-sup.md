@@ -38,7 +38,7 @@ Still, if a word ordinarily takes either the *-er* or the *-est* suffix—and th
 
 **D. The Double Comparative.** Among literate speakers and writers, the double comparative is fairly uncommon. But it has occasionally appeared in print, especially since the mid-20th century—e.g.: "Does it mean that change will be a bit *more slower* \[read *slower*\], a bit more careful, a bit more reasoned than totally revamping the health care system? Yes." Leonard Marcus, "New Approach Needed to Restore System's Balance," *Am. Medical News*, 2 Dec. 1996, at 45. \(If the writer of that sentence wanted the parallelism of three *more*s, then the first phrase should have been *more slow*.\)
 
-For an example of the double superlative, see **\*least worst**.
+For an example of the double superlative, see \***least worst**.
 
 ## Language-Change Index
 

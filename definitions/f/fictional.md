@@ -1,6 +1,6 @@
 # fictional
 
-fictional; **fictitious**; **fictive**; **\*fictionary**. Although these forms overlap to a great degree, they have undergone some useful differentiation. *Fictional* = of, relating to, or having the characteristics of fiction. E.g.:
+fictional; **fictitious**; **fictive**; \***fictionary**. Although these forms overlap to a great degree, they have undergone some useful differentiation. *Fictional* = of, relating to, or having the characteristics of fiction. E.g.:
 
  - "Despite widespread public criticism of the movie's \[i.e., Oliver Stone's *JFK*'s\] speculative and *fictional* nature, it sparked a furor in 1992 that led to the creation of the records review board." Mark Wrolstad, "Open to Debate," *Dallas Morning News*, 19 Nov. 1994, at A31.
 

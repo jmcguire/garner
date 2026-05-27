@@ -1,6 +1,6 @@
 # preventive
 
-preventive; **\*preventative**. Both forms of the word date back to the 1600s. *Preventive* is \(1\) older, \(2\) more common, and \(3\) more correctly formed by analogy to the noun \(*prevention*, of course, not \**preventation*\). Hence usage commentators have long rejected the form with the "extra syllable."
+preventive; \***preventative**. Both forms of the word date back to the 1600s. *Preventive* is \(1\) older, \(2\) more common, and \(3\) more correctly formed by analogy to the noun \(*prevention*, of course, not \**preventation*\). Hence usage commentators have long rejected the form with the "extra syllable."
 
 In 1755, Samuel Johnson listed only *preventive*, as both adjective \("tending to hinder"\) and noun \("that which prevents; an antidote"\). Almost all other 18th-century lexicographers did the same. The only exception was Thomas Dyche & William Pardon, *A New General English Dictionary* \(2d ed. 1737 and later eds.\). That lexicon has this entry: "preventive or preventative \(a.\) that has the power or faculty of hindering or keeping back any thing." The other dictionary writers—and there were many—simply omitted the longer variant. So did Noah Webster in his first unabridged dictionary of 1828 and later editions during his lifetime \(d. 1843\).
 

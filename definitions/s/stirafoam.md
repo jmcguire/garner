@@ -1,4 +1,4 @@
 # \*stirafoam
 
-\*stirafoam; **\*stirofoam**. See **Styrofoam**.
+\*stirafoam; \***stirofoam**. See **Styrofoam**.
 

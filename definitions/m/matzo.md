@@ -1,6 +1,6 @@
 # matzo
 
-matzo; **\*matzoh**; **\*matzah**; **\*matza**; **\*matsah**. The first is the standard spelling <matzo-ball soup>. The others are variant spellings.
+matzo; \***matzoh**; **\*matzah**; **\*matza**; **\*matsah**. The first is the standard spelling <matzo-ball soup>. The others are variant spellings.
 
 Since 1975 in AmE and 1985 in BrE, the predominant plural has been *matzos*. Before that, \**matzoth* \(1880–1958\) and \**matzot* \(1958–1972\) predominated, but those Yiddish plurals receded as the term was fully naturalized in English. Among the other variants are \**matzohs*, \**matzas*, and \**matzahs*. See plurals \(b\).
 

@@ -1,6 +1,6 @@
 # \*as yet
 
-\*as yet; **\*as** **of yet**. These are both invariably inferior to *yet* alone, *still*, *thus far*, or some other equivalent—e.g.:
+\*as yet; \***as** **of yet**. These are both invariably inferior to *yet* alone, *still*, *thus far*, or some other equivalent—e.g.:
 
  - "Seven years ago, a woman, *not as yet* \[read *not yet*\] identified, died in a stream in Monroe, Clarion County." "Probe of 1990 Death Goes On," *Pitt. Post-Gaz.*, 25 July 1997, at B3.
 
@@ -8,7 +8,7 @@
 
  - "There are no plans *as yet* \[read *yet*\] to develop major Java products." Richard Evans, "Going Soft?," *Barron's*, 15 Sept. 1997, at 33.
 
-*\*As of yet* is a vulgarism. Cf. **as of \(b\)** & **\*but yet**.
+*\*As of yet* is a vulgarism. Cf. **as of \(b\)** & \***but yet**.
 
 ## Language-Change Index
 

@@ -1,4 +1,4 @@
 # \*schtick
 
-\*schtick; **\*schtik**. See **shtick**.
+\*schtick; \***schtik**. See **shtick**.
 

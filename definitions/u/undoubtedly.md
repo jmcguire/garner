@@ -1,4 +1,4 @@
 # undoubtedly
 
-undoubtedly. See **\*doubtlessly**, **clearly** & **obviously**.
+undoubtedly. See \***doubtlessly**, **clearly** & **obviously**.
 

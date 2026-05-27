@@ -1,6 +1,6 @@
 # malfeasance
 
-malfeasance; **\*malfeazance**; **\*malefeasance**; **misfeasance**; **malefaction**. Because the words *malfeasance* and *misfeasance* are imprecise in AmE, we begin with the clear-cut BrE distinctions. In BrE, *malfeasance* refers to an unlawful or intentionally wrongful act, whereas *misfeasance* refers to an otherwise lawful act performed in a wrongful manner. *\*Malfeazance* and *\*malefeasance* are obsolete spellings of *malfeasance*.
+malfeasance; \***malfeazance**; **\*malefeasance**; **misfeasance**; **malefaction**. Because the words *malfeasance* and *misfeasance* are imprecise in AmE, we begin with the clear-cut BrE distinctions. In BrE, *malfeasance* refers to an unlawful or intentionally wrongful act, whereas *misfeasance* refers to an otherwise lawful act performed in a wrongful manner. *\*Malfeazance* and *\*malefeasance* are obsolete spellings of *malfeasance*.
 
 In AmE, *malfeasance* has traditionally been associated with misconduct by a public official. But more and more it is used to denote wrongdoing by anyone in a position of trust—e.g.: "Lawyers, accountants, corporate consultants, executive recruiters and retired chief executives are selling themselves as experts on the federal law passed last year to crack down on corporate *malfeasance*." Ameet Sachdev, "Corporate Governance Becomes Go-To Field," *Chicago Trib.*, 20 Jan. 2003, Bus. §, at 1. See **malfeasant**.
 

@@ -1,4 +1,4 @@
 # preclusive
 
-preclusive; **\*preclusory**. The latter is a needless variant.
+preclusive; \***preclusory**. The latter is a needless variant.
 

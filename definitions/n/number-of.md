@@ -51,5 +51,5 @@ Few usage critics have ever discussed this particular point. One who did, G.H. V
 
  - Current ratio in print \(*the number of people was* vs. \**the number of people were*\): 6:1
 
-**C. With *most*.** See **\*most number of things**.
+**C. With *most*.** See \***most number of things**.
 

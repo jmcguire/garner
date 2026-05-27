@@ -1,4 +1,4 @@
 # squelch
 
-squelch. See **\*quelch**.
+squelch. See \***quelch**.
 

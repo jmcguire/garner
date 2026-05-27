@@ -1,6 +1,6 @@
 # for all intents and purposes
 
-for all intents and purposes; **to all intents and purposes**; **\*for all intensive purposes**. The original phrase, dating from the 1600s, is *to all intents and purposes*. The other phrase, with *for* at the outset, is a relative latecomer that cropped up in BrE in the late 1800s and spread to AmE in the mid-1900s. By the 1990s *for* was almost as common as *to* in AmE, whereas *to* retained predominance in BrE. Both forms are used today, *for* being more common in AmE and *to* in BrE—e.g.:
+for all intents and purposes; **to all intents and purposes**; \***for all intensive purposes**. The original phrase, dating from the 1600s, is *to all intents and purposes*. The other phrase, with *for* at the outset, is a relative latecomer that cropped up in BrE in the late 1800s and spread to AmE in the mid-1900s. By the 1990s *for* was almost as common as *to* in AmE, whereas *to* retained predominance in BrE. Both forms are used today, *for* being more common in AmE and *to* in BrE—e.g.:
 
  - "Vermeer's mainly domestic scenes . . . are also, *to all intents and purposes*, priceless." Nigel Reynolds, "The Drawing Power of Vermeer," *Daily Telegraph*, 10 June 1996, at 4.
 

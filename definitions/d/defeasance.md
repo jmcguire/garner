@@ -1,6 +1,6 @@
 # defeasance
 
-defeasance; **\*defeasement**. *Defeasance* \(= an annulment or abrogation\), the standard form, is much more common in print than *\*defeasement*. E.g.:
+defeasance; \***defeasement**. *Defeasance* \(= an annulment or abrogation\), the standard form, is much more common in print than *\*defeasement*. E.g.:
 
  - "He said he intended to negotiate a restructuring of FFr3bn in loans from banks to support its FFr13bn off-balance sheet ‘*defeasance*' of non-performing loans hived off as part of a restructuring earlier this year." Andrew Jack, "GAN to Prepare for Sell-Off with FFr9bn Sale," *Fin. Times*, 15 Dec. 1995, at 22.
 

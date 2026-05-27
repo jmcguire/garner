@@ -1,4 +1,4 @@
 # \*aberrance
 
-\*aberrance; **\*aberrancy**. See **aberration**.
+\*aberrance; \***aberrancy**. See **aberration**.
 

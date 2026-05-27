@@ -1,4 +1,4 @@
 # \*opthalmology
 
-\*opthalmology; **\*opthamology**. See **ophthalmology**.
+\*opthalmology; \***opthamology**. See **ophthalmology**.
 

@@ -1,6 +1,6 @@
 # insoluble
 
-insoluble; **unsolvable**; **\*insolvable**. *Insoluble* is used in reference both to substances that will not dissolve in liquids and to problems that cannot be solved. E.g.:
+insoluble; **unsolvable**; \***insolvable**. *Insoluble* is used in reference both to substances that will not dissolve in liquids and to problems that cannot be solved. E.g.:
 
  - "Her duties included making calamine lotion from water-*insoluble* powders." Brian Brennan, "Pharmacy Was Fascinating," *Calgary Herald*, 26 Sept. 1995, at B2.
 

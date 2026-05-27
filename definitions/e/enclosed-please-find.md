@@ -1,6 +1,6 @@
 # \*enclosed please find
 
-\*enclosed please find; **\*please find enclosed**; **\*enclosed herewith**; **\*enclosed herein**. These phrases—common in commercial and legal correspondence since the mid-1800s—are archaic deadwood for *here are*, *enclosed is*, *I've enclosed*, or the like. Interestingly, business-writing texts have consistently condemned the phrases since the late 1800s:
+\*enclosed please find; \***please find enclosed**; **\*enclosed herewith**; **\*enclosed herein**. These phrases—common in commercial and legal correspondence since the mid-1800s—are archaic deadwood for *here are*, *enclosed is*, *I've enclosed*, or the like. Interestingly, business-writing texts have consistently condemned the phrases since the late 1800s:
 
  - **1880:** "\[*Please find enclosed*:\] A more ridiculous use of words, it seems to me, there could not be." Richard Grant White, *Every-Day English* 492 \(1880\).
 

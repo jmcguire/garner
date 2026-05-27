@@ -1,4 +1,4 @@
 # \*recision
 
-\*recision; **\*recission**. See **rescission \(a\)**.
+\*recision; \***recission**. See **rescission \(a\)**.
 

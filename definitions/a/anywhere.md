@@ -1,6 +1,6 @@
 # anywhere
 
-anywhere; **\*anywheres**. The first is standard. The second is dialectal. Cf. **nowhere**.
+anywhere; \***anywheres**. The first is standard. The second is dialectal. Cf. **nowhere**.
 
 ## Language-Change Index
 

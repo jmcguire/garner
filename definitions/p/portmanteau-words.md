@@ -86,7 +86,7 @@ permapress \(*permanent* \+ *press*\) \[1955\]
 
 pleather \(*plastic* \+ *leather*\) \[1995\]
 
-\*quelch \(*quell* \+ *squelch*\) \(see **\*quelch**\) \[1960\]
+\*quelch \(*quell* \+ *squelch*\) \(see \***quelch**\) \[1960\]
 
 radiocast \(*radio* \+ *broadcast*\) \[1920\] \(see **radiocast**\)
 

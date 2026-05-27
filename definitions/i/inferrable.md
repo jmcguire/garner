@@ -1,4 +1,4 @@
 # \*inferrable
 
-\*inferrable; **\*inferrible**. See **inferable**.
+\*inferrable; \***inferrible**. See **inferable**.
 

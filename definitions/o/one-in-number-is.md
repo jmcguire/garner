@@ -1,6 +1,6 @@
 # one in \[number\] is
 
-one in \[number\] is; **\*one in \[number\] are**. In this construction, a singular verb is required because *one* is the subject. But writers frequently get it wrong—e.g.:
+one in \[number\] is; \***one in \[number\] are**. In this construction, a singular verb is required because *one* is the subject. But writers frequently get it wrong—e.g.:
 
  - "Research has found that only *one* in six *think* \[read *thinks*\] that political agreement is important for a successful marriage." Cherrill Hicks, " ‘How on Earth Can You Live with a Tory?' " *Independent*, 22 Mar. 1992, at 24.
 
