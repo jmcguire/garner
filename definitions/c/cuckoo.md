@@ -4,6 +4,6 @@ cuckoo \(= silly, crazy\) is sometimes misspelled *\*coocoo*—e.g.: "I assumed 
 
 ## Language-Change Index
 
-*cuckoo* misspelled *\*coocoo*: Stage 1
-Current ratio in print \(*cuckoo* vs. \**coocoo*\): 366:1
+ - *cuckoo* misspelled *\*coocoo*: Stage 1
+ - Current ratio in print \(*cuckoo* vs. \**coocoo*\): 366:1
 

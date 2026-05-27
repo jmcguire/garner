@@ -4,6 +4,6 @@ litterateur; **literatus**; **literato**; **\*literateur**. English speakers hav
 
 ## Language-Change Index
 
-*litterateur* misspelled *\*literateur*: Stage 1
-Current ratio in print \(*litterateur* vs. *literatus* vs. *literato* vs. \**literateur*\): 12:9:1.8:1
+ - *litterateur* misspelled *\*literateur*: Stage 1
+ - Current ratio in print \(*litterateur* vs. *literatus* vs. *literato* vs. \**literateur*\): 12:9:1.8:1
 

@@ -10,5 +10,5 @@ flamenco = \(1\) a type of Spanish music originally characterized by stomping an
 
 ## Language-Change Index
 
-*flamingo* misused for *flamenco*: Stage 1
+ - *flamingo* misused for *flamenco*: Stage 1
 

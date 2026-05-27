@@ -9,8 +9,8 @@ impale \(= to drive a stake or lance through \[usu. a living body\]\) is the sta
 ## Language-Change Index
 
 1. *impale* misspelled *\*impail*: Stage 1
-Current ratio in print \(*impaled* vs. *\*impailed*\): 1,798:1
+ - Current ratio in print \(*impaled* vs. *\*impailed*\): 1,798:1
 
 2. *\*empale* for *impale*: Stage 1
-Current ratio in print \(*impaled* vs. *\*empaled*\): 153:1
+ - Current ratio in print \(*impaled* vs. *\*empaled*\): 153:1
 

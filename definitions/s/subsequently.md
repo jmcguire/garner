@@ -8,5 +8,5 @@ subsequently.
 
 ## Language-Change Index
 
-*subsequently* misused for *consequently*: Stage 1
+ - *subsequently* misused for *consequently*: Stage 1
 

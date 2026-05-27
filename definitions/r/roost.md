@@ -4,5 +4,5 @@ roost \(= to settle down for rest or sleep\), originally an Old English noun, wa
 
 Occasionally in this phrase—sometimes as a pun, but equally often not—*roost* \(a comparatively uncommon word\) gets displaced by *roast*. But a vague etymological association has stumped etymologists: the phrase *to rule the roost* \(= to be dominant\), dating from the mid-1700s, is much newer than *to rule the roast* \(same sense\), dating from about 1500. But as the *OED* notes, "none of the early examples \[of *to rule the roast*\] throw any light on the precise origin of the expression."
 
-Current ratio in print \(*come home to roost* vs. \**come home to roast*\): 263:1
+ - Current ratio in print \(*come home to roost* vs. \**come home to roast*\): 263:1
 

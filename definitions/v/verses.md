@@ -12,5 +12,5 @@ For more on *versus*, see **v**.
 
 ## Language-Change Index
 
-*verses* misused for *versus*: Stage 1
+ - *verses* misused for *versus*: Stage 1
 

@@ -6,5 +6,5 @@ But despite its prevalence throughout the English-speaking world, the word might
 
 Several writers have tried *\*ombudsperson*, but that coinage should be allowed to wither. Others have experimented with *ombuds officer*, which at least satisfies one's desire to have a word that looks as if it denotes a person—e.g.: "Columbia University last week named its first ‘*ombuds officer*' as a reference point on campus for people who have grievances within the university and are looking for options to deal with them." "Campus Life: Columbia," *N.Y. Times*, 14 July 1991, § 1, pt. 2, at 31.
 
-Current ratio in print \(*ombudsman* vs. \**ombudsperson* vs. *ombuds*\): 12:1.2:1
+ - Current ratio in print \(*ombudsman* vs. \**ombudsperson* vs. *ombuds*\): 12:1.2:1
 

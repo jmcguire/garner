@@ -14,5 +14,5 @@ As in the example just quoted, it is common to hear and read phrases such as *st
 
 ## Language-Change Index
 
-*ground zero* for *square one*: Stage 1
+ - *ground zero* for *square one*: Stage 1
 

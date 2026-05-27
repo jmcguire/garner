@@ -8,6 +8,6 @@ dissent, n.; **dissension**; **\*dissention**. *Dissent* refers to a difference 
 
 ## Language-Change Index
 
-*\*dissention* for *dissension*: Stage 1
-Current ratio in print \(*dissension* vs. *\*dissention*\): 9:1
+ - *\*dissention* for *dissension*: Stage 1
+ - Current ratio in print \(*dissension* vs. *\*dissention*\): 9:1
 

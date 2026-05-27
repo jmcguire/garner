@@ -12,7 +12,7 @@ Adherents tend to capitalize the noun *kabbalist*, while skeptics tend not to. F
 
 As for the adjective, the traditional spelling—predominant for about 350 years, from the early 1600s through the mid-1970s—is *cabalistic*. In the broad sense "having an esoterically mysterious meaning," that spelling doubtless remains standard. But if the sense is nonmetaphorical and refers instead to the actual doctrines of *kabbalists*, the adjective *kabbalistic* tends to appear today: in print sources, it predominates over *cabalistic* by a 2:1 ratio.
 
-Current ratio in print \(in order of headwords \[case-insensitive search\]\): 514:67:43:29:28:25:10:4:2.3:1.3:1
-Current ratio in print \(*Kabbalists* vs. *kabbalists*\): 1.3:1
-Current ratio in print \(*kabbalistic* vs. *Kabbalistic*\): 1:1.1
+ - Current ratio in print \(in order of headwords \[case-insensitive search\]\): 514:67:43:29:28:25:10:4:2.3:1.3:1
+ - Current ratio in print \(*Kabbalists* vs. *kabbalists*\): 1.3:1
+ - Current ratio in print \(*kabbalistic* vs. *Kabbalistic*\): 1:1.1
 

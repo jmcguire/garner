@@ -4,6 +4,6 @@
 
 ## Language-Change Index
 
-*\*anyplace* for *anywhere*: Stage 1
-Current ratio in print \(*anywhere* vs. *\*anyplace*\): 102:1
+ - *\*anyplace* for *anywhere*: Stage 1
+ - Current ratio in print \(*anywhere* vs. *\*anyplace*\): 102:1
 

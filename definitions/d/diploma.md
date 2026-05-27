@@ -10,5 +10,5 @@ diploma; **degree**. The traditional distinction is worth preserving. Secondary 
 
 ## Language-Change Index
 
-*degree* misused for *diploma*: Stage 3
+ - *degree* misused for *diploma*: Stage 3
 

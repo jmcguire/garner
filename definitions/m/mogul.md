@@ -4,5 +4,5 @@ mogul \(= \[1\] any of the Mongolian conquerors of India or their descendants; o
 
 The skiing term *mogul* \(= a bump on a ski slope\) is an unrelated germanicism.
 
-Current ratio in print \(*Indian Mughal* vs. \**Indian Moghul* vs. \**Indian Mogul*\): 8:1.3:1
+ - Current ratio in print \(*Indian Mughal* vs. \**Indian Moghul* vs. \**Indian Mogul*\): 8:1.3:1
 

@@ -22,7 +22,7 @@ For those sentences to make any sense, Wake Forest must be one of its own oppone
 
 ## Language-Change Index
 
-*every other* misused for *all other*: Stage 3
+ - *every other* misused for *all other*: Stage 3
 
 **B. Ambiguous Use.** The phrase *every other* can give rise to an ambiguity: when you say *every other person you see*, does that mean all the people you see or half the people you see \(every second person\)? When there is a remote possibility of misunderstanding, or even of a miscue, the best practice is to rewrite—e.g.:
 

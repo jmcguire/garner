@@ -9,5 +9,5 @@ The word is sometimes misspelled without the medial *e*, perhaps on the analogy 
 1. *ponderous* misused for *contemplative*: Stage 1
 
 2. *ponderous* misspelled *\*pondrous*: Stage 1
-Current ratio in print \(*ponderous* vs. \**pondrous*\): 696:1
+ - Current ratio in print \(*ponderous* vs. \**pondrous*\): 696:1
 

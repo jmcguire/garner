@@ -10,5 +10,5 @@ elegy; **eulogy**. An *elegy* is a mournful song or poem, whereas a *eulogy* is 
 
 ## Language-Change Index
 
-*elegy* misused for *eulogy*: Stage 1
+ - *elegy* misused for *eulogy*: Stage 1
 

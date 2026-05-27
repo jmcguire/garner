@@ -26,6 +26,6 @@ See **marshal**, n. **\(a\)**.
 
 ## Language-Change Index
 
-*\*court marshal* for *court-martial*: Stage 1
-Current ratio in print \(*court-martialed* vs. *\*court-marshalled* vs. *\*court-marshaled*\): 70:1.1:1
+ - *\*court marshal* for *court-martial*: Stage 1
+ - Current ratio in print \(*court-martialed* vs. *\*court-marshalled* vs. *\*court-marshaled*\): 70:1.1:1
 

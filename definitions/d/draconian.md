@@ -11,5 +11,5 @@ In one of its senses, *draconic* is a needless variant of *draconian*—e.g.: "K
 1. *draconian* meaning "harsh" but without a sense of cruelty: Stage 3
 
 2. *draconic* misused for *draconian*: Stage 1
-Current ratio in print \(*draconian measures* vs. *\*draconic measures*\): 49:1
+ - Current ratio in print \(*draconian measures* vs. *\*draconic measures*\): 49:1
 

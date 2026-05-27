@@ -38,7 +38,7 @@ Most usage books that call uniformly for a comma after the year in a full date, 
 
 **D. *2020s* vs. *2020's*.** When referring to decades, most professional writers today use a final *s* without an apostrophe: hence, *2020s* instead of *2020's*. That's the dominant style. See plurals \(j\) & punctuation \(a\). On whether a decade is singular or plural, see subject–verb agreement \(l\).
 
-Current ratio in print \(*1990s* vs. *1990's*\): 112:1
+ - Current ratio in print \(*1990s* vs. *1990's*\): 112:1
 
 **E. Spans.** Although a span of time may be denoted with an en-dash \(*1997–2002*\), the dash should not appear if the word *from* introduces the numbers: *from* *1997* *to* *2002* \(not *\*from* *1997–2002*\).
 

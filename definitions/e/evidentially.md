@@ -6,5 +6,5 @@ Although this error might seem analogous to using *partially* for *partly*, the 
 
 ## Language-Change Index
 
-*evidentially* misused for *evidently*: Stage 1
+ - *evidentially* misused for *evidently*: Stage 1
 

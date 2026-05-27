@@ -4,6 +4,6 @@ Halley's Comet, named after Edmund Halley /**hal**-ee/ \(1656–1742\), is often
 
 ## Language-Change Index
 
-*\*Haley's Comet* for *Halley's Comet*: Stage 1
-Current ratio in print \(*Halley's Comet* vs. *\*Haley's Comet*\): 20:1
+ - *\*Haley's Comet* for *Halley's Comet*: Stage 1
+ - Current ratio in print \(*Halley's Comet* vs. *\*Haley's Comet*\): 20:1
 

@@ -12,13 +12,13 @@ See **antihero**.
 
 ## Language-Change Index
 
-*protagonist* in the sense "any character": Stage 2
+ - *protagonist* in the sense "any character": Stage 2
 
 **B. And *proponent*.** Perhaps the most objectionable watering-down of the meaning of *protagonist* occurs when it is used as an equivalent of *proponent*—e.g.: "Rep. Henry Gonzalez, the Texas Democrat who chairs the housing subcommittee, is the *protagonist* \[read *proponent*\] of this legislation that also would increase the number of adjustable rate mortgages the FHA may insure." "Senate Panel Action Gives Housing a User-Tax Victory," *San Diego Union-Trib.*, 27 Apr. 1986, at F23.
 
 ## Language-Change Index
 
-*protagonist* in the sense "proponent": Stage 2
+ - *protagonist* in the sense "proponent": Stage 2
 
 **C. And *antagonist*.** Some writers mistakenly use *protagonist* when the word they were looking for was *antagonist* \(= opponent\)—e.g.:
 
@@ -30,7 +30,7 @@ See **antihero**.
 
 ## Language-Change Index
 
-*protagonist* misused for *antagonist*: Stage 2
+ - *protagonist* misused for *antagonist*: Stage 2
 
 **D. Plural Use.** If the *protagonist* is the main character in a play <Oedipus>, may we address more than one main character as *protagonists* <Romeo and Juliet>? H.W. Fowler decried the extensions of *protagonist* discussed in \(b\) and \(c\), but he also called the plural use "absurd." The *OED* disagrees, contending that "limitation to the singular is strictly relevant only in the context of ancient Greek drama." Today the plural is widely used and just as widely accepted—e.g.: "Everyone did a very good job, starting with the *protagonists*, Mitchell Bennett Schor as Little Joe and Eve Levin as Annette." Anne Midgette, "Sweet Take for a Child, but a Dark Side, Too," *N.Y. Times*, 18 Feb. 2003, at E3.
 

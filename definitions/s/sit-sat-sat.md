@@ -4,6 +4,6 @@ sit > sat > sat. So inflected. Except as part of the compound verb *babysit*, th
 
 ## Language-Change Index
 
-*\*sitted* for *seated*: Stage 1
-Current ratio in print \(*were seated* vs. \**were sitted*\): 24,795:1
+ - *\*sitted* for *seated*: Stage 1
+ - Current ratio in print \(*were seated* vs. \**were sitted*\): 24,795:1
 

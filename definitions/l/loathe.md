@@ -12,7 +12,7 @@ Cf. **wreath**.
 
 ## Language-Change Index
 
-*loathe* for the adjective *loath*: Stage 2
-Current ratio in print \(*am loath to* vs. *\*am loathe to*\): 6:1
-Current ratio in print \(*am loath to* vs. \**am loth to*\): 2.1:1
+ - *loathe* for the adjective *loath*: Stage 2
+ - Current ratio in print \(*am loath to* vs. *\*am loathe to*\): 6:1
+ - Current ratio in print \(*am loath to* vs. \**am loth to*\): 2.1:1
 

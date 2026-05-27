@@ -10,5 +10,5 @@ The word doesn't properly mean "to prevent, preclude, or obviate," but some writ
 
 ## Language-Change Index
 
-*pretermit* misused for *prevent*, *preclude*, or *obviate*: Stage 1
+ - *pretermit* misused for *prevent*, *preclude*, or *obviate*: Stage 1
 

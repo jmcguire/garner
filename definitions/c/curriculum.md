@@ -8,5 +8,5 @@ curriculum. Pl. *curricula* or *curriculums*. E.g.:
 
 The Latinate plural remains much more common. See plurals \(b\).
 
-Current ratio in print \(*curricula* vs. *curriculums*\): 18:1
+ - Current ratio in print \(*curricula* vs. *curriculums*\): 18:1
 

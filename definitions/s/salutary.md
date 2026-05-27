@@ -18,6 +18,6 @@ salutary; **\*salutiferous**; **salubrious**. *Salutary* = beneficial; wholesome
 
 ## Language-Change Index
 
-*\*salutory* for *salutary*: Stage 1
-Current ratio in print \(*salutary* vs. *\*salutory*\): 112:1
+ - *\*salutory* for *salutary*: Stage 1
+ - Current ratio in print \(*salutary* vs. *\*salutory*\): 112:1
 

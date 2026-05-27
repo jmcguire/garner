@@ -10,8 +10,8 @@ effrontery.
 
 ## Language-Change Index
 
-*effrontery* misused for *affront*: Stage 1
-Current ratio in print \(*an affront to* vs. *\*an effrontery to*\): 344:1
+ - *effrontery* misused for *affront*: Stage 1
+ - Current ratio in print \(*an affront to* vs. *\*an effrontery to*\): 344:1
 
 **B. Misspelled *\*affrontery*.** This malapropism has occurred with some frequency since the late 1600s. It remains fairly common today—e.g.:
 
@@ -25,6 +25,6 @@ The correct form *effrontery* derives from the French *effronté* \(lit., "shame
 
 ## Language-Change Index
 
-*\*affrontery* for *effrontery*: Stage 1
-Current ratio in print \(*effrontery* vs. *\*affrontery*\): 151:1
+ - *\*affrontery* for *effrontery*: Stage 1
+ - Current ratio in print \(*effrontery* vs. *\*affrontery*\): 151:1
 

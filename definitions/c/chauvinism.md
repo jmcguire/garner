@@ -18,7 +18,7 @@ To the linguistic traditionalist, these uses \(or misuses\) are arrant nonsense.
 
 ## Language-Change Index
 
-*chauvinism* for *male chauvinism*: Stage 3
+ - *chauvinism* for *male chauvinism*: Stage 3
 
 **B. And *jingoism*.** The void left by the shift in the meaning of *chauvinism* from national pride to supposed sexual superiority has been filled by *jingoism*. Essentially synonymous with *chauvinism* in its traditional sense, *jingoism* has the added layer of xenophobic and aggressive attitudes toward foreign policy—e.g.: "Gilmour goes overboard in trying to rationalize and justify Kipling's racism and *jingoism*. He argues, for example, that ‘white' in *The White Man's Burden* does not refer to skin color but rather to ‘civilization and character' and that Kipling's imperialistic beliefs were essentially humane and benevolent rather than based on greed, paternalism and self-interest." Earl L. Dachslager, "The Kipling Paradox," *Houston Chron.*, 23 June 2002, Zest §, at 19.
 

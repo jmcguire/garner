@@ -4,5 +4,5 @@ endear, v.t., is properly a reflexive verb. President John F. Kennedy endeared h
 
 ## Language-Change Index
 
-*endear* misused for *charm*: Stage 1
+ - *endear* misused for *charm*: Stage 1
 

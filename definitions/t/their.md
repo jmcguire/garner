@@ -8,5 +8,5 @@ their.
 
 ## Language-Change Index
 
-*they're* misused for *their*: Stage 1
+ - *they're* misused for *their*: Stage 1
 

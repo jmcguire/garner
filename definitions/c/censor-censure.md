@@ -22,7 +22,7 @@ Sometimes the writer's intent becomes unclear—e.g.: "A production about her Ba
 
 ## Language-Change Index
 
-*censor* misused for *censure*: Stage 2
+ - *censor* misused for *censure*: Stage 2
 
 **B. As Nouns.** *Censor*, n., = someone who inspects publications, films, and the like before they are released to ensure that they contain nothing heretical, libelous, or offensive. Although it would be nice to pronounce this use of the term obsolete, censors remain prominent in some places. E.g.:
 

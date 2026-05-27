@@ -46,7 +46,7 @@ In a humorous 2003 exchange on late-night television, Conan O'Brien was intervie
 
 *snuck* as a past tense*:* Stage 5 \(as a casualism)
 1980 ratio in print \(*sneaked* vs. *snuck* in World Englishes\): 5:1
-Current ratio in print \(*snuck* vs. *sneaked* in World Englishes\): 1.5:1 1980 ratio in print \(*sneaked up* vs. *snuck up* in AmE\): 3:1
-Current ratio in print \(*snuck up* vs. *sneaked up* in AmE\): 2.6:1 1980 ratio in print \(*sneaked up* vs. *snuck up* in BrE\): 7:1
-Current ratio in print \(*snuck up* vs. *sneaked up* in BrE\): 1.2:1
+ - Current ratio in print \(*snuck* vs. *sneaked* in World Englishes\): 1.5:1 1980 ratio in print \(*sneaked up* vs. *snuck up* in AmE\): 3:1
+ - Current ratio in print \(*snuck up* vs. *sneaked up* in AmE\): 2.6:1 1980 ratio in print \(*sneaked up* vs. *snuck up* in BrE\): 7:1
+ - Current ratio in print \(*snuck up* vs. *sneaked up* in BrE\): 1.2:1
 

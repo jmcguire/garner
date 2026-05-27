@@ -8,5 +8,5 @@ waistband is sometimes, in a gross error, written *\*wasteband* \(sporadic throu
 
 For more on this curiosity, see *Garner on Language and Writing* 259–60, 283 \(2009\).
 
-Current ratio in print \(*waistband* vs. \**wasteband*\): 1,349:1
+ - Current ratio in print \(*waistband* vs. \**wasteband*\): 1,349:1
 

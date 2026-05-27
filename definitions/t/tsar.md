@@ -4,8 +4,8 @@ tsar; **czar**; **\*tzar**. The variable spellings of this word historically dep
 
 For metaphorical uses originating in the late 1800s, *czar* is the usual spelling. Originally in this sense, *czar* denoted a tyrant or authoritarian ruler, but in recent decades it has become usual, especially in AmE, in reference to someone responsible for coordinating policy and overseeing its implementation <drug czar> <energy czar>. In BrE, the spelling *tsar* is often attached to this extended sense; even so, *drug czar* is more common in BrE than *\*drug tsar*.
 
-Current ratio in print \(*Tsar Peter* vs. *Czar Peter*\): 1.8:1
-Current ratio in print \(*drug czar* vs. \**drug tsar* in AmE\): 27:1
-Current ratio in print \(*drug czar* vs. *\*drug tsar* in BrE\): 10:1
-Current ratio in print \(*tsarina* vs. *tsaritsa*\): 2.5:1
+ - Current ratio in print \(*Tsar Peter* vs. *Czar Peter*\): 1.8:1
+ - Current ratio in print \(*drug czar* vs. \**drug tsar* in AmE\): 27:1
+ - Current ratio in print \(*drug czar* vs. *\*drug tsar* in BrE\): 10:1
+ - Current ratio in print \(*tsarina* vs. *tsaritsa*\): 2.5:1
 

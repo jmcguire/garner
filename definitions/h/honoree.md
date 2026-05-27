@@ -6,5 +6,5 @@ honoree; **honorand**. In the 1800s, these two forms sprang up, both denoting a 
 
  - "The evening, hosted by the Arkansas Game and Fish Foundation, began with the Governor's Reception for the *honorees* and their families." Cary Jenkins, "100 Years on Record," *Ark. Democrat-Gaz.*, 30 Aug. 2015, at 40.
 
-Current ratio in print \(*honoree* vs. *honorand* in World Englishes\): 1.6:1
+ - Current ratio in print \(*honoree* vs. *honorand* in World Englishes\): 1.6:1
 

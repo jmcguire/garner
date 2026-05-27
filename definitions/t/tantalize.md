@@ -20,5 +20,5 @@ Although it's sometimes hard to be sure from the context, *tantalize* often seem
 
 ## Language-Change Index
 
-*tantalize* misused for *titillate*: Stage 1
+ - *tantalize* misused for *titillate*: Stage 1
 

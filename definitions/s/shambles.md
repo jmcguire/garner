@@ -6,6 +6,6 @@ In terms of English usage, the principal question today is whether the phrase is
 
 ## Language-Change Index
 
-*in a shambles* in the sense of great disarray: Stage 5 *in shambles* for *in a shambles*: Stage 5
-Current ratio in print \(*in shambles* vs. *in a shambles*\): 6:1
+ - *in a shambles* in the sense of great disarray: Stage 5 *in shambles* for *in a shambles*: Stage 5
+ - Current ratio in print \(*in shambles* vs. *in a shambles*\): 6:1
 

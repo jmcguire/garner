@@ -10,5 +10,5 @@ In this latter \(transitive\) sense, one *confers* something *on*, not *in*, ano
 
 ## Language-Change Index
 
-*\*confer in* for *confer on*: Stage 1
+ - *\*confer in* for *confer on*: Stage 1
 

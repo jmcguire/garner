@@ -4,5 +4,5 @@ past. This word occurs in many redundant phrases, such as *\*past history*, *\*p
 
 ## Language-Change Index
 
-*past* in redundancies such as *\*past history*, *\*past experience*: Stage 3
+ - *past* in redundancies such as *\*past history*, *\*past experience*: Stage 3
 

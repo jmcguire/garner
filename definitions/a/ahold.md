@@ -15,8 +15,8 @@ The dialectal variant *\*aholt* \(barely known to BrE\) is uncommon even in reco
 ## Language-Change Index
 
 1. *ahold* for *hold*: Stage 2
-Current ratio in print \(*get hold* vs. *get ahold*\): 8:1
+ - Current ratio in print \(*get hold* vs. *get ahold*\): 8:1
 
 2. *\*aholt* for *ahold*: Stage 1
-Current ratio in print \(*ahold* vs. *\*aholt*\): 112:1
+ - Current ratio in print \(*ahold* vs. *\*aholt*\): 112:1
 

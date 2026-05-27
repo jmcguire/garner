@@ -4,5 +4,5 @@ ill. The comparative form of this adjective is *worse*, the superlative *worst.*
 
 ## Language-Change Index
 
-*\*illy* for the adverb *ill*: Stage 1
+ - *\*illy* for the adverb *ill*: Stage 1
 

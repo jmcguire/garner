@@ -6,8 +6,8 @@
 
 ## Language-Change Index
 
-*\*rarely ever* for *rarely* or *rarely if ever*: Stage 2
-Current ratio in print \(*rarely if ever* vs. *\*rarely ever*\): 1.5:1
+ - *\*rarely ever* for *rarely* or *rarely if ever*: Stage 2
+ - Current ratio in print \(*rarely if ever* vs. *\*rarely ever*\): 1.5:1
 
 **B. And *\*rarely or ever*.** The phrasing *\*rarely or ever* has no justification at all. It's erroneous in place of *rarely or never* or *rarely if ever*—e.g.:
 
@@ -19,6 +19,6 @@ Current ratio in print \(*rarely if ever* vs. *\*rarely ever*\): 1.5:1
 
 ## Language-Change Index
 
-*\*rarely or ever* for *rarely or never*: Stage 1
-Current ratio in print \(*rarely or never* vs. *\*rarely or ever*\): 55:1
+ - *\*rarely or ever* for *rarely or never*: Stage 1
+ - Current ratio in print \(*rarely or never* vs. *\*rarely or ever*\): 55:1
 

@@ -14,5 +14,5 @@ For more on *sufficient*, see **adequate \(a\)**.
 
 ## Language-Change Index
 
-*sufficient* used with a count noun: Stage 3
+ - *sufficient* used with a count noun: Stage 3
 

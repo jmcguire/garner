@@ -4,6 +4,6 @@ prosecute; **persecute**. *Prosecute* = to begin a case at law for punishment of
 
 ## Language-Change Index
 
-*persecute* misused for *prosecute*: Stage 1
-Current ratio in print \(*prosecuting attorney* vs. \**persecuting attorney* \[perhaps a joke\]\): 512:1
+ - *persecute* misused for *prosecute*: Stage 1
+ - Current ratio in print \(*prosecuting attorney* vs. \**persecuting attorney* \[perhaps a joke\]\): 512:1
 

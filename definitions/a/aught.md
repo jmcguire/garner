@@ -16,11 +16,11 @@ These uses, to the American ear, sound either self-consciously old-fashioned or 
 
 ## Language-Change Index
 
-*aught* in the sense of *nought*: Stage 5
+ - *aught* in the sense of *nought*: Stage 5
 
 **C. Misused for *ought*.** Occasionally, *aught* displaces *ought* \(= should\)—e.g.: "Maradona and Cantona *aught* \[read *ought*\] to show humility for their failure to live up to superstardom." Rob Hughes, "Maradona's Union," *Int'l Herald Trib.*, 20 Sept. 1995, at 21. See **ought**. Cf. **naught**.
 
 ## Language-Change Index
 
-*aught* misused for *ought*: Stage 1
+ - *aught* misused for *ought*: Stage 1
 

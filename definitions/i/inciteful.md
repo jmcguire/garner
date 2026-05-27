@@ -14,5 +14,5 @@ The word has two unfortunate qualities. First, it is anomalously formed. Unlike 
 
 ## Language-Change Index
 
-*inciteful* misused for *insightful*: Stage 1
+ - *inciteful* misused for *insightful*: Stage 1
 

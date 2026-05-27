@@ -10,5 +10,5 @@ Another slight influence leading to this error might be a place name: Carmel, Ca
 
 ## Language-Change Index
 
-*caramel* misspelled *\*carmel*: Stage 1
+ - *caramel* misspelled *\*carmel*: Stage 1
 

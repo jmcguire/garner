@@ -14,8 +14,8 @@ See irregular verbs.
 
 ## Language-Change Index
 
-*\*boughten*: Stage 1
-Current ratio in print \(*bought* vs. *\*boughten*\): 3,624:1
+ - *\*boughten*: Stage 1
+ - Current ratio in print \(*bought* vs. *\*boughten*\): 3,624:1
 
 **B. And *purchase*.** As a verb, *buy* is the ordinary word, *purchase* the more formal word. Generally, *buy* is the better stylistic choice. As one commentator says, "Only a very pompous person indeed would say he was going to *purchase* an ice-cream cone or a bar of candy." Robert Hendrickson, *Business Talk* 61 \(1984\). Traditionally, however, *purchase* has been the preferred word for real estate.
 

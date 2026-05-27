@@ -4,5 +4,5 @@ prodigious \(= \[1\] amazing, marvelous; \[2\] enormous; or \[3\] abnormal\) for
 
 ## Language-Change Index
 
-*prodigious* misused for *prestigious*: Stage 1
+ - *prodigious* misused for *prestigious*: Stage 1
 

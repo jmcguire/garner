@@ -13,8 +13,8 @@ Just remember the difference between the analogous terms *breath* \(n.\) and *br
 ## Language-Change Index
 
 1. *sheathe* misused as noun for *sheath*: Stage 1
-Current ratio in print \(*a sheath* vs. *\*a sheathe*\): 221:1
+ - Current ratio in print \(*a sheath* vs. *\*a sheathe*\): 221:1
 
 2. *sheath* misused as a verb for *sheathe*: Stage 4
-Current ratio in print \(*to sheathe his sword* vs. *\*to sheath his sword*\): 1.1:1
+ - Current ratio in print \(*to sheathe his sword* vs. *\*to sheath his sword*\): 1.1:1
 

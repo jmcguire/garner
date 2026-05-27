@@ -4,5 +4,5 @@ anytime, adv., = at any time; whenever. E.g.: "*Anytime* a seller rents back fro
 
 ## Language-Change Index
 
-*anytime* for *whenever*: Stage 5
+ - *anytime* for *whenever*: Stage 5
 

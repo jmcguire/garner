@@ -22,7 +22,7 @@ In comparison with *layperson*, the gender-balancing term *laywoman* \(somewhat 
 
 ## Language-Change Index
 
-*layperson* for *layman*: Stage 4
-Current ratio in print \(*layman* vs. *layperson*\): 3:1
-Current ratio in print \(*layman* vs. *laywoman*\): 26:1
+ - *layperson* for *layman*: Stage 4
+ - Current ratio in print \(*layman* vs. *layperson*\): 3:1
+ - Current ratio in print \(*layman* vs. *laywoman*\): 26:1
 

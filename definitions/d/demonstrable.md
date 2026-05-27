@@ -12,6 +12,6 @@ See -able \(d\) & -atable.
 
 ## Language-Change Index
 
-*\*demonstratable* for *demonstrable*: Stage 1
-Current ratio in print \(*demonstrable* vs. *\*demonstratable*\): 528:1
+ - *\*demonstratable* for *demonstrable*: Stage 1
+ - Current ratio in print \(*demonstrable* vs. *\*demonstratable*\): 528:1
 

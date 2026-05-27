@@ -8,5 +8,5 @@ interface, v.i. Outside computerese, this verb is jargonmongers' talk. E.g.:
 
 ## Language-Change Index
 
-*interface* to denote interaction between people <the editor must interface with the writer>: Stage 2
+ - *interface* to denote interaction between people <the editor must interface with the writer>: Stage 2
 

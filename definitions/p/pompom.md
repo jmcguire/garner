@@ -14,6 +14,6 @@ Today, the newer form, *pompom*, is sanctioned both by the *AP Stylebook* \(2008
 
 ## Language-Change Index
 
-*pompom* for *pompon*: Stage 5
-Current ratio in print \(*pompoms* vs. *pompons*\): 4:1
+ - *pompom* for *pompon*: Stage 5
+ - Current ratio in print \(*pompoms* vs. *pompons*\): 4:1
 

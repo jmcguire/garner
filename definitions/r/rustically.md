@@ -4,5 +4,5 @@ rustically \(= in a rural, countrified manner\) is the adverb corresponding to *
 
 ## Language-Change Index
 
-*rustically* misspelled *\*rusticly*: Stage 1
+ - *rustically* misspelled *\*rusticly*: Stage 1
 

@@ -14,5 +14,5 @@ Like its corresponding verb, *conformity* takes either *to* or *with*—the latt
 
  - "It *harkens* \[read *harks*\] back to years before the mid-2000s when people could eat food without having to consider whether their choices were in *conformity with* their chosen subculture." Andrew Edwards, "Contemplating the Cultural Cachet of Curious Chips," *Long Beach Press-Telegram*, 8 Aug. 2015, News §, at 3. \(See **hark back**.)
 
-Current ratio in print \(*in conformity with* vs. \**in conformance with*\): 12:1
+ - Current ratio in print \(*in conformity with* vs. \**in conformance with*\): 12:1
 

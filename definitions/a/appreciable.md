@@ -4,6 +4,6 @@ appreciable. So formed—not *\*appreciatable*. E.g.: "It is most unlikely that 
 
 ## Language-Change Index
 
-*\*appreciatable* for *appreciable*: Stage 1
-Current ratio in print \(*appreciable* vs. *\*appreciatable*\): 5,956:1
+ - *\*appreciatable* for *appreciable*: Stage 1
+ - Current ratio in print \(*appreciable* vs. *\*appreciatable*\): 5,956:1
 

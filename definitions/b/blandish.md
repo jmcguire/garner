@@ -8,5 +8,5 @@ Misusages occur most often with the corresponding nouns, especially *brandishmen
 
 ## Language-Change Index
 
-*brandishment* misused for *blandishment*: Stage 1
+ - *brandishment* misused for *blandishment*: Stage 1
 

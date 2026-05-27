@@ -6,7 +6,7 @@ foot-and-mouth disease.
 
 There is also an unrelated childhood condition called "Hand, Foot, and Mouth Disease," characterized by ulcerated sores in the mouth and rashes on the extremities.
 
-Current ratio in print \(*foot-and-mouth disease* vs. *hoof-and-mouth disease*\): 24:1
+ - Current ratio in print \(*foot-and-mouth disease* vs. *hoof-and-mouth disease*\): 24:1
 
 **B. Whether to Hyphenate.** During the devastating 2001 outbreak of the disease in Europe, five major newspapers and magazines over a two-day period hyphenated the phrasal adjective, and one didn't:
 

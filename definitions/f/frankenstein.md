@@ -10,5 +10,5 @@ But popular usage has created a monster of its own: *Frankenstein* has come to r
 
 ## Language-Change Index
 
-*Frankenstein* in reference to a monster: Stage 5
+ - *Frankenstein* in reference to a monster: Stage 5
 

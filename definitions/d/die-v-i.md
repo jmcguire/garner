@@ -8,8 +8,8 @@ Even so, *die with* *AIDS* is not uncommon. One doesn't die of AIDS; it weakens 
 
 ## Language-Change Index
 
-*die with* misused for *die of*: Stage 2
-Current ratio in print \(*died of* vs. *died with*\): 6:1
+ - *die with* misused for *die of*: Stage 2
+ - Current ratio in print \(*died of* vs. *died with*\): 6:1
 
 **B. And *dye*, v.t.** The verb *dye* \(= tint or treat with a coloring agent\) is sometimes mistakenly written *die*—e.g.:
 
@@ -23,7 +23,7 @@ See **dying**.
 
 ## Language-Change Index
 
-*die* misused for *dye*: Stage 1
+ - *die* misused for *dye*: Stage 1
 
 **C. *Die off*.** See phrasal verbs.
 

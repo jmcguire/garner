@@ -10,5 +10,5 @@ canon; **cannon**. *Canon* = \(1\) a corpus of writings <the Western canon>; \(2
 
 ## Language-Change Index
 
-*cannon* misused for *canon*: Stage 1
+ - *cannon* misused for *canon*: Stage 1
 

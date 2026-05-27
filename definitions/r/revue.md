@@ -4,5 +4,5 @@ revue \(= a musical show\) is so spelled. Avoid the erroneous variant *review* i
 
 ## Language-Change Index
 
-*review* misused for *revue*: Stage 1
+ - *review* misused for *revue*: Stage 1
 

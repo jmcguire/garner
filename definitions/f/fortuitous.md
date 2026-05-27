@@ -40,7 +40,7 @@ How do things stand in the 2020s? The erosion of the verbal coastline, if we may
 
 ## Language-Change Index
 
-*fortuitous* misused for *fortunate*: Stage 3
+ - *fortuitous* misused for *fortunate*: Stage 3
 
 **B. \**Fortuitous accident* & \**fortuitous coincidence*.** In these phrases, the word *fortuitous* bears the right sense but amounts to a redundancy: every accident or coincidence is fortuitous. Writers using those phrases, though, almost invariably mean "fortunate" or "lucky"—e.g.:
 
@@ -72,7 +72,7 @@ You might argue, surely enough, that in these examples, the writer wanted to emp
 
 ## Language-Change Index
 
-*fortuitously* misused for *fortunately*: Stage 3
+ - *fortuitously* misused for *fortunately*: Stage 3
 
 **D. Corresponding Noun: *fortuity*.** The noun *fortuity* is the relatively unusual noun corresponding to *fortuitous* \(usually in the strict sense\)—e.g.:
 
@@ -92,6 +92,6 @@ All in all, despite their more and more positive connotations, you might bemoan 
 
 ## Language-Change Index
 
-*fortuity* misused for *good fortune*: Stage 2
-Current ratio in print \(*fortuity* vs. *fortuitousness*\): 3:1
+ - *fortuity* misused for *good fortune*: Stage 2
+ - Current ratio in print \(*fortuity* vs. *fortuitousness*\): 3:1
 

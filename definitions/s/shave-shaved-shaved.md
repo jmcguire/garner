@@ -4,6 +4,6 @@ shave > shaved > shaved. So inflected. *Shaven* exists only as a past-participia
 
 ## Language-Change Index
 
-*shaven* for *shaved* as a past-tense verb: Stage 1
-Current ratio in print \(*had shaved* vs. *\*had shaven*\): 36:1
+ - *shaven* for *shaved* as a past-tense verb: Stage 1
+ - Current ratio in print \(*had shaved* vs. *\*had shaven*\): 36:1
 

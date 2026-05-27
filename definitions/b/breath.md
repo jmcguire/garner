@@ -10,5 +10,5 @@ breath; **breathe**. The first is the noun, the second the verb. But *breath* /b
 
 ## Language-Change Index
 
-*breath* misused for *breathe*: Stage 1
+ - *breath* misused for *breathe*: Stage 1
 

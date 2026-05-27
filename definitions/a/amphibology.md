@@ -4,11 +4,11 @@ amphibology; **amphiboly**. The form *amphibology* \(= a quibble; ambiguous word
 
 The corresponding adjectives are *amphibological* and *amphibolous*. The evidence of predominance is appropriately ambiguous.
 
-Current ratio in print \(*amphibology* vs. *amphiboly* in AmE\): 1.1:1
+ - Current ratio in print \(*amphibology* vs. *amphiboly* in AmE\): 1.1:1
 
-Current ratio in print \(*amphibology* vs. *amphiboly* in BrE\): 1.2:1
+ - Current ratio in print \(*amphibology* vs. *amphiboly* in BrE\): 1.2:1
 
-Current ratio in print \(*amphibolous* vs. *amphibological* in AmE\): 1.5:1
+ - Current ratio in print \(*amphibolous* vs. *amphibological* in AmE\): 1.5:1
 
-Current ratio in print \(*amphibological* vs. *amphibolous* in BrE\): 1.2:1
+ - Current ratio in print \(*amphibological* vs. *amphibolous* in BrE\): 1.2:1
 

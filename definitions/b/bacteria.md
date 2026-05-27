@@ -20,7 +20,7 @@ The singular usage shows no signs of gaining ground in frequency of use.
 
 ## Language-Change Index
 
-*bacteria* as a singular: Stage 2
-Current ratio in print \(*a bacterium was* vs. *\*a bacteria was*\): 5:1
-Current ratio in print \(*bacteria* vs. *\*bacteriums*\): 24,680:1
+ - *bacteria* as a singular: Stage 2
+ - Current ratio in print \(*a bacterium was* vs. *\*a bacteria was*\): 5:1
+ - Current ratio in print \(*bacteria* vs. *\*bacteriums*\): 24,680:1
 

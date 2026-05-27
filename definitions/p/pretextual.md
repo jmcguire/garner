@@ -4,5 +4,5 @@ pretextual \(= based on a pretext\), coined in the early 1800s, is sometimes wro
 
 ## Language-Change Index
 
-*pretextual* misspelled *\*pretextural*: Stage 1
+ - *pretextual* misspelled *\*pretextural*: Stage 1
 

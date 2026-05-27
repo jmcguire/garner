@@ -4,5 +4,5 @@ colloquy; **colloquium**. *Colloquy* /**kol**-ә-kwee/ means "a formal discussio
 
 *Colloquium* /kә-**loh**-kwee-әm/—meaning "an academic conference or seminar"—is sometimes misspelled *\*colloquim.* Most American dictionaries prefer the plural *colloquiums*, but *colloquia* has always been predominant in both AmE and BrE. See plurals \(b\).
 
-Current ratio in print \(*colloquia* vs. *colloquiums*\): 7:1
+ - Current ratio in print \(*colloquia* vs. *colloquiums*\): 7:1
 

@@ -14,7 +14,7 @@ confess.
 
 Cf. **admit**.
 
-Current ratio in print \(*confessed guilt* vs. \**confessed to guilt*\): 4:1
+ - Current ratio in print \(*confessed guilt* vs. \**confessed to guilt*\): 4:1
 
 **B. *\*Confess innocence* for *profess innocence*.** This misusage is nothing short of a malapropism \(probably influenced by the similar-sounding *confess ignorance*\)—e.g.:
 
@@ -26,5 +26,5 @@ Current ratio in print \(*confessed guilt* vs. \**confessed to guilt*\): 4:1
 
 ## Language-Change Index
 
-*\*confess innocence* for *profess innocence*: Stage 1
+ - *\*confess innocence* for *profess innocence*: Stage 1
 

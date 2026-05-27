@@ -6,6 +6,6 @@ To be *in the mist* is to be covered in a foggy, watery cloud <the dales were sh
 
 As you can see, the words *midst* and *mist* are quite distinct. Yet people sometimes misuse *mist* for *midst*, as by writing \**in the mist of this crisis*.
 
-Current ratio in print *\(in the midst of this* vs. \**in the mist of this*\): 533:1
-Current ratio in print \(*mists of time* vs. \**mist of time*\): 13:1
+ - Current ratio in print *\(in the midst of this* vs. \**in the mist of this*\): 533:1
+ - Current ratio in print \(*mists of time* vs. \**mist of time*\): 13:1
 

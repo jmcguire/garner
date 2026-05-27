@@ -34,7 +34,7 @@ And here it's a preposition \(a dangler, to be exact):
 
 ## Language-Change Index
 
-*based on* used adverbially in place of *because* or *because of*: Stage 4
+ - *based on* used adverbially in place of *because* or *because of*: Stage 4
 
 **B. And \**based off*.** Since about 2000, the phrase \**based off* \(or \**based off of *\) has surged in popularity. Not recorded in most dictionaries, the phrase is essentially equivalent to *based on* or *because of*—e.g.:
 

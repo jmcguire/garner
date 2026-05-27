@@ -4,5 +4,5 @@ acclimate; **acclimatize**. Although the *-ize* form is preferred by H.W. Fowler
 
 ## Language-Change Index
 
-*acclimate*, vb., and *acclimation*, n.: Stage 5 Current ratio in print \(*acclimate* vs. *acclimatize* in World Englishes\): 2.3:1 Current ratio in print \(*acclimated* vs. *acclimatized* in AmE\): 3:1 Current ratio in print \(*acclimatized* vs. *acclimated* in BrE\): 1.1:1
+ - *acclimate*, vb., and *acclimation*, n.: Stage 5 Current ratio in print \(*acclimate* vs. *acclimatize* in World Englishes\): 2.3:1 Current ratio in print \(*acclimated* vs. *acclimatized* in AmE\): 3:1 Current ratio in print \(*acclimatized* vs. *acclimated* in BrE\): 1.1:1
 

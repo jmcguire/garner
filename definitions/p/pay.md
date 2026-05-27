@@ -10,7 +10,7 @@ pay.
 
 See irregular verbs.
 
-Current ratio in print \(*paid* vs. *\*payed*\): 631:1
+ - Current ratio in print \(*paid* vs. *\*payed*\): 631:1
 
 **B. And *pay up*.** The phrasal verb *pay up* means "to discharge \(a debt\) completely." *Pay* may refer to partial or total payments. Because of this slight differentiation, *up* is not a needless particle: it can definitely add a menacing tone. See phrasal verbs.
 

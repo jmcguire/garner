@@ -12,7 +12,7 @@ It's conceivable in those instances that some confusion arose from the secondary
 
 ## Language-Change Index
 
-*exercise* misused for *exorcise*: Stage 1
-Current ratio in print \(*exorcise the evil* vs. *\*exercise the evil*\): 59:1
-Current ratio in print \(*exorcise the demons* vs. \**exorcize the demons*\): 8:1
+ - *exercise* misused for *exorcise*: Stage 1
+ - Current ratio in print \(*exorcise the evil* vs. *\*exercise the evil*\): 59:1
+ - Current ratio in print \(*exorcise the demons* vs. \**exorcize the demons*\): 8:1
 

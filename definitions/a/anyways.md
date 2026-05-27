@@ -6,6 +6,6 @@ At the beginning of a sentence, it often means "as I was saying before" or "be t
 
 ## Language-Change Index
 
-*\*anyways* for *anyway*: Stage 2
-Current ratio in print \(*anyway* vs. *\*anyways*\): 49:1
+ - *\*anyways* for *anyway*: Stage 2
+ - Current ratio in print \(*anyway* vs. *\*anyways*\): 49:1
 

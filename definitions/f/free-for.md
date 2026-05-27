@@ -8,6 +8,6 @@ For an early discussion of this usage, see John R. Krueger, "On Pleonastic ‘Fo
 
 ## Language-Change Index
 
-*for free* instead of *free*: Stage 4
-Current ratio in print \(*get it free* vs. *\*get it for free*\): 1.4:1
+ - *for free* instead of *free*: Stage 4
+ - Current ratio in print \(*get it free* vs. *\*get it for free*\): 1.4:1
 

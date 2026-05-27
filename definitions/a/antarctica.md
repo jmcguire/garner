@@ -4,6 +4,6 @@ Antarctica is often misspelled and mispronounced *\*Antartica*—e.g.: "Kroc exp
 
 ## Language-Change Index
 
-*Antarctica* misspelled *\*Antartica*: Stage 1
-Current ratio in print \(*Antarctica* vs. \**Antartica*\): 177:1
+ - *Antarctica* misspelled *\*Antartica*: Stage 1
+ - Current ratio in print \(*Antarctica* vs. \**Antartica*\): 177:1
 

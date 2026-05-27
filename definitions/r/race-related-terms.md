@@ -106,8 +106,8 @@ As for the indigenous peoples of Alaska, *Eskimo* is now discommended unless pai
 
 What should it be? By far the most common term since about 2005 has been *indigenous Australians*. For the time being, that's the best choice. Both words are sometimes capitalized. See **aborigine**.
 
-Current ratio in print \(*Indigenous Australian* vs. *indigenous Australian*\): 4:1
-Current ratio in print \(*indigenous Australians* vs. *Australian aborigines* vs. *aboriginal Australians* vs. *Australian aboriginals* \[case-insensitive search\]\): 11:6:4:1
+ - Current ratio in print \(*Indigenous Australian* vs. *indigenous Australian*\): 4:1
+ - Current ratio in print \(*indigenous Australians* vs. *Australian aborigines* vs. *aboriginal Australians* vs. *Australian aboriginals* \[case-insensitive search\]\): 11:6:4:1
 
 **M. *Romani* vs. *Gypsy*.** Beginning in the late 1500s, the term *Gypsy* \(formerly also *\*Gipsy*\) was used in reference to a member of the European diaspora of an itinerant people originating in South Asia and later found primarily in Europe and in North and South America. The name was an altered form—in plain english, a corruption—of *Egyptian* \(they were thought to have originated in Egypt\). Their traditional language is Romani. Today the term *Gypsy*, though widely used in the English-speaking world, is thought, especially in official circles, to be derogatory and offensive. \(See prejudiced and prejudicial terms.\) It is therefore increasingly replaced by *Romani* \(for the singular\) and *Roma* \(for the plural\).
 

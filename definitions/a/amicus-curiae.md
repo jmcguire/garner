@@ -4,5 +4,5 @@ amicus curiae; friend of the court. These phrases refer to "someone who is not a
 
 The Latin phrase is variously pronounced. The singular is /ә-**mee**-kәs **kyoor**-ee-ī/ or /ә-**mī**-kәs **kyoor**-i-ee/ and the plural \(*amici curiae*\) is /ә-**mee**-kee **kyoor**-ee-ī/ or /ә-**mee**-see/ or /ә-**mī**-kee/ or /ә-**mī**-see/. Another acceptable pronunciation of the first word—a common pronunciation in AmE—is /**am**-ә-kәs/.
 
-Current ratio in print \(*amicus curiae* vs. *friend of the court*\): 7:1
+ - Current ratio in print \(*amicus curiae* vs. *friend of the court*\): 7:1
 

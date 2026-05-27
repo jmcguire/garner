@@ -8,5 +8,5 @@ ad nauseam is often misspelled *\*ad nauseum*—e.g.:
 
 ## Language-Change Index
 
-*ad nauseam* misspelled *\*ad nauseum*: Stage 2 Current ratio in print \(*ad nauseam* vs. \**ad nauseum*\): 4:1
+ - *ad nauseam* misspelled *\*ad nauseum*: Stage 2 Current ratio in print \(*ad nauseam* vs. \**ad nauseum*\): 4:1
 

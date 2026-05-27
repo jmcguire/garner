@@ -18,15 +18,15 @@ The following sentences illustrate the correct use of *ensure*:
 
 ## Language-Change Index
 
-*assure* for *ensure*: Stage 3
-Current ratio in print \(*to* *ensure that* vs. *\*to assure that*\): 32:1
+ - *assure* for *ensure*: Stage 3
+ - Current ratio in print \(*to* *ensure that* vs. *\*to assure that*\): 32:1
 
 **B. *Insure* and *ensure*.** *Insure* is best restricted to financial contexts involving indemnification; it should refer to what insurance companies do. *Ensure* should be used in all other senses of the word. Intransitively, *insure* is commonly followed by the preposition *against* <insure against loss>; it may also be used transitively <insure one's valuables>. Following is a commonplace peccadillo: "‘He has an agenda, but with Clinton, he's reached the top and is going to *insure* \[read *ensure*\] that he serves his master,' says an observer." "The Young Master of the White House," *Time*, 4 Apr. 1994, at 25.
 
 ## Language-Change Index
 
-*insure* for *ensure*: Stage 3
-Current ratio in print \(*ensure that* vs. *insure that*\): 65:1
+ - *insure* for *ensure*: Stage 3
+ - Current ratio in print \(*ensure that* vs. *insure that*\): 65:1
 
 **C. Corresponding Nouns.** See **insurance \(a\)**.
 

@@ -4,5 +4,5 @@ purposely; **purposefully**. *Purposely* = on purpose; intentionally <purposely 
 
 ## Language-Change Index
 
-*purposefully* misused for *purposely*: Stage 1
+ - *purposefully* misused for *purposely*: Stage 1
 

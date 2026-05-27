@@ -4,6 +4,6 @@ lightning; **lightening**. The first is the flashing phenomenon that occurs in a
 
 ## Language-Change Index
 
-*lightning* misspelled *lightening*: Stage 1
-Current ratio in print \(*lightning flash* vs. \**lightening flash*\): 35:1
+ - *lightning* misspelled *lightening*: Stage 1
+ - Current ratio in print \(*lightning flash* vs. \**lightening flash*\): 35:1
 

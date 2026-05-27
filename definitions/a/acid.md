@@ -8,5 +8,5 @@ acid, adj.; **acidic; acidulous; \*acidulent**. The term *acid* often functions 
 
 But *acidulous* itself has been in a slow decline since the early 1800s, and its genuine utility may be open to question—unless the purpose is to signal magniloquence or ultraformality. Then again, some of the statistics may be skewed by context: an *acid critic* might be someone who opposes the use of LSD, while an *acidulous critic* may be just a caustic commentator.
 
-Current ratio in print \(*acid phosphates* vs. *acidic phosphates*\): 8:1 Current ratio in print \(*acid critics* vs. *acidulous critics*\): 9:1 Current ratio in print \(*acid remarks* vs. *acidic remarks* vs. *acidulous remarks*\): 10:2.5:1 Current ratio in print \(*acidic protein* vs. *acid protein*\): 2.2:1
+ - Current ratio in print \(*acid phosphates* vs. *acidic phosphates*\): 8:1 Current ratio in print \(*acid critics* vs. *acidulous critics*\): 9:1 Current ratio in print \(*acid remarks* vs. *acidic remarks* vs. *acidulous remarks*\): 10:2.5:1 Current ratio in print \(*acidic protein* vs. *acid protein*\): 2.2:1
 

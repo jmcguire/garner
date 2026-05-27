@@ -10,7 +10,7 @@ with.
 
 ## Language-Change Index
 
-*with* as a quasi-conjunction: Stage 3
+ - *with* as a quasi-conjunction: Stage 3
 
 **B. In Absolute Constructions.** See absolute constructions.
 

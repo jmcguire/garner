@@ -12,5 +12,5 @@ no use. Eric Partridge labeled this "incorrect—or, at best, colloquial—for *
 
 The longer phrase, *of no use*, would be of no use in any of these citations unless the sentences were rearranged—and made slightly longer.
 
-Current ratio in print \(*it's no use* vs. *it's of no use*\): 9:1
+ - Current ratio in print \(*it's no use* vs. *it's of no use*\): 9:1
 

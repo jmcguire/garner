@@ -12,6 +12,6 @@ See **impart** & **instill**.
 
 ## Language-Change Index
 
-*imbue* misused for *instill*: Stage 1
-Current ratio in print \(*instilling in them* vs. *\*imbuing in them*\): 68:1
+ - *imbue* misused for *instill*: Stage 1
+ - Current ratio in print \(*instilling in them* vs. *\*imbuing in them*\): 68:1
 

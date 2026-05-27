@@ -14,5 +14,5 @@ Perhaps the best thing that might be said is that euphony should govern the choi
 
 Since 1600 or so, *mystical* has prevailed over *mystic* in frequency of use in English-language print sources— with the exception of the period from 1870 to 1930 \(a mystic period\).
 
-Current ratio in print \(*mystical* vs. *mystic*\): 2:1
+ - Current ratio in print \(*mystical* vs. *mystic*\): 2:1
 

@@ -4,7 +4,7 @@ anagogy /**an**-ә-goh-jee/ \(= mystical interpretation of a text, as opposed to
 
 The corresponding adjective is predominantly *anagogical*, the form *anagogic* being a variant. See -ic/-ical.
 
-Current ratio in print \(*anagogy* vs. *anagoge*\): 5:1
+ - Current ratio in print \(*anagogy* vs. *anagoge*\): 5:1
 
-Current ratio in print \(*anagogical* vs. *anagogic*\): 3:1
+ - Current ratio in print \(*anagogical* vs. *anagogic*\): 3:1
 

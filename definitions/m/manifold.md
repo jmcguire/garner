@@ -6,5 +6,5 @@ manifold; **manyfold**. *Manifold* /**man**-ә-fohld/ means "many and varied" <t
 
 ## Language-Change Index
 
-*manyfold* misused for *manifold*: Stage 1
+ - *manyfold* misused for *manifold*: Stage 1
 

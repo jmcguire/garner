@@ -4,5 +4,5 @@ abscess \(= a small mass of pus collected in a hollow where tissue has decayed\)
 
 ## Language-Change Index
 
-*abscess* misspelled *\*abcess* or *\*absess*: Stage 1 Current ratio in print \(*abscess* vs. \**abcess* vs. \**absess*\): 4,238:9:1
+ - *abscess* misspelled *\*abcess* or *\*absess*: Stage 1 Current ratio in print \(*abscess* vs. \**abcess* vs. \**absess*\): 4,238:9:1
 

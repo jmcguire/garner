@@ -10,6 +10,6 @@ In both examples, another substitute would be *for its whole existence*: the int
 
 ## Language-Change Index
 
-*\*since its existence* for *since its inception*: Stage 1
-Current ratio in print \(*since its inception* vs. *\*since its existence*\): 63:1
+ - *\*since its existence* for *since its inception*: Stage 1
+ - Current ratio in print \(*since its inception* vs. *\*since its existence*\): 63:1
 

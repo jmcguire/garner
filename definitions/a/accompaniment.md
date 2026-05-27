@@ -8,5 +8,5 @@ accompaniment is so spelled—not *\*accompanyment*. E.g.:
 
 ## Language-Change Index
 
-*accompaniment* misspelled *\*accompanyment*: Stage 1 Current ratio in print \(*accompaniment* vs. \**accompanyment*\): 997:1
+ - *accompaniment* misspelled *\*accompanyment*: Stage 1 Current ratio in print \(*accompaniment* vs. \**accompanyment*\): 997:1
 

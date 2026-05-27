@@ -18,9 +18,9 @@ This usage occurs most commonly in sports contexts—and particularly \(though n
 
 ## Language-Change Index
 
-*aside* misused for *on each side*: Stage 1
+ - *aside* misused for *on each side*: Stage 1
 
 **B. *Aside from* vs. *apart from*.** Though once considered inferior to *apart from*, *aside from* has become standard in AmE and BrE alike. But in print, *apart from* appears far more frequently on both sides of the Atlantic. Cf. **outside**.
 
-Current ratio in print \(*apart from* vs. *aside from*\): 5:1
+ - Current ratio in print \(*apart from* vs. *aside from*\): 5:1
 

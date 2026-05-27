@@ -14,5 +14,5 @@ In modern print sources—both AmE and BrE—the collocation *homing in on the ~
 
 ## Language-Change Index
 
-*\*hone in* for *home in*: Stage 4
+ - *\*hone in* for *home in*: Stage 4
 

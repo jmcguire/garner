@@ -10,5 +10,5 @@ clue; **clew**. *Clue* is the only current spelling for the sense "a hint; a bit
 
 See **as to**.
 
-Current ratio in print \(*no clues* vs. *no clews*\): 169:1
+ - Current ratio in print \(*no clues* vs. *no clews*\): 169:1
 

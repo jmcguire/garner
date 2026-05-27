@@ -4,6 +4,6 @@ pharynx /**fair**-ingks/ or /**fa**-ringks/ \(= the muscular tube extending from
 
 In AmE and BrE alike, the noun *pharynx* is liable to be misspelled and mispronounced \**pharnyx*. Cf. **larynx**.
 
-Current ratio in print \(*pharynges* vs. *pharynxes*\): 2.5:1
-Current ratio in print \(*pharynx* vs. \**pharnyx*\): 1,792:1
+ - Current ratio in print \(*pharynges* vs. *pharynxes*\): 2.5:1
+ - Current ratio in print \(*pharynx* vs. \**pharnyx*\): 1,792:1
 

@@ -14,7 +14,7 @@ The truncated phrase *that depends*, without a complement, is often heard in con
 
 ## Language-Change Index
 
-*depend* for *depend on*: Stage 2
-Current ratio in print \(*depends on what* vs. *\*depends what*\): 11:1
-Current ratio in print \(*depends on how* vs. \**depends how*\): 18:1
+ - *depend* for *depend on*: Stage 2
+ - Current ratio in print \(*depends on what* vs. *\*depends what*\): 11:1
+ - Current ratio in print \(*depends on how* vs. \**depends how*\): 18:1
 

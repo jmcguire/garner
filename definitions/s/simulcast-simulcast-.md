@@ -12,5 +12,5 @@ See -cast, irregular verbs & portmanteau words.
 
 ## Language-Change Index
 
-*\*simulcasted* for past-tense *simulcast*: Stage 1
+ - *\*simulcasted* for past-tense *simulcast*: Stage 1
 

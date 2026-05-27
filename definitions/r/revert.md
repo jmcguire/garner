@@ -4,5 +4,5 @@ revert = \(1\) to return to a former state, condition, or posture; \(2\) to go b
 
 *\*Revert back* is a redundancy common in AmE—e.g.: "Medieval town centers, once built for people on foot and a few carts and carriages, have partly *reverted back* \[read *reverted*\] to strollers." Marlise Simons, "Amsterdam Plans Wide Limit on Cars," *N.Y. Times*, 28 Jan. 1993, at A5. Cf. **refer back**, **relate back** & **\*retreat back**.
 
-Current ratio in print \(*reverted to* vs. *\*reverted back to*\): 9:1
+ - Current ratio in print \(*reverted to* vs. *\*reverted back to*\): 9:1
 

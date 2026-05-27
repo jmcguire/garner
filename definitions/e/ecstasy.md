@@ -8,6 +8,6 @@ Occasionally the word is also misspelled with an *x* displacing the *c*. Here, t
 
 ## Language-Change Index
 
-*ecstasy* misspelled *\*ecstacy* or *\*extacy*: Stage 1
-Current ratio in print \(*ecstasy* vs. *\*ecstacy* vs. *\*extacy*\): 380:8:1
+ - *ecstasy* misspelled *\*ecstacy* or *\*extacy*: Stage 1
+ - Current ratio in print \(*ecstasy* vs. *\*ecstacy* vs. *\*extacy*\): 380:8:1
 

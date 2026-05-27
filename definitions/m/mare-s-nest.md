@@ -4,6 +4,6 @@ mare's nest \(= \[1\] something erroneously thought to be a miraculous discovery
 
 The plural is of some interest. The predominant form has pretty consistently been *mares' nests*. The variant forms are \**mare's nests*, \**mares'-nests*, and \**mare's-nests*.
 
-Current ratio in print \(*mare's nest* vs. \**mare's-nest*\): 8:1
-Current ratio in print \(*mares' nests* vs. \**mare's nests* vs. \**mares'-nests* vs. \**mare's-nests*\): 6:4:1.6:1
+ - Current ratio in print \(*mare's nest* vs. \**mare's-nest*\): 8:1
+ - Current ratio in print \(*mares' nests* vs. \**mare's nests* vs. \**mares'-nests* vs. \**mare's-nests*\): 6:4:1.6:1
 

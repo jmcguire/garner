@@ -12,5 +12,5 @@ The *OED* dates this usage from 1888. By the early 20th century, it was commonpl
 
 ## Language-Change Index
 
-*absent* for *without*: Stage 3
+ - *absent* for *without*: Stage 3
 

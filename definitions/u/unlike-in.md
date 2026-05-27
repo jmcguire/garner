@@ -14,5 +14,5 @@ As a matter of frequency in print sources, the phrase first appeared in the late
 
 ## Language-Change Index
 
-*unlike in*: Stage 4
+ - *unlike in*: Stage 4
 

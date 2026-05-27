@@ -16,6 +16,6 @@ The second and fifth examples are particularly ironic misspellings, given the co
 
 ## Language-Change Index
 
-*reckless* misspelled *\*wreckless*: Stage 1
-Current ratio in print \(*reckless* vs. \**wreckless*\): 1,375:1
+ - *reckless* misspelled *\*wreckless*: Stage 1
+ - Current ratio in print \(*reckless* vs. \**wreckless*\): 1,375:1
 

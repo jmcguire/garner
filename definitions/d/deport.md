@@ -4,5 +4,5 @@ deport; **disport**. *Deport* = \(1\) to behave \(oneself\); or \(2\) to banish,
 
 ## Language-Change Index
 
-*disport* misused for *deport* or *comport*: Stage 1
+ - *disport* misused for *deport* or *comport*: Stage 1
 

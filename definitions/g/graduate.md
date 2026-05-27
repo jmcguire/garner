@@ -25,5 +25,5 @@ You may be happy to learn, however, that the collocation *graduated from college
 1. *graduate* as an intransitive verb \(as in *he graduated from college*\): Stage 5
 
 2. *graduate* as a transitive verb \(as in *\*he graduated college*\): Stage 3
-Current ratio in print \(*he graduated from college* vs. *\*he graduated college* vs. *he was graduated from college*\): 77:20:1
+ - Current ratio in print \(*he graduated from college* vs. *\*he graduated college* vs. *he was graduated from college*\): 77:20:1
 

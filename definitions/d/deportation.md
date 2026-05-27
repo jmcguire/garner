@@ -6,5 +6,5 @@ Yet *deportment* is sometimes misused for *deportation*—e.g.: "Thurman support
 
 ## Language-Change Index
 
-*deportment* misused for *deportation*: Stage 1
+ - *deportment* misused for *deportation*: Stage 1
 

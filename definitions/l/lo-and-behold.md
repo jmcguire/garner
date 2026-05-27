@@ -14,6 +14,6 @@ Some might assert that these regional newspapers can hardly signal much of anyth
 
 ## Language-Change Index
 
-*\*low and behold* for *lo and behold*: Stage 2
-Current ratio in print \(*lo and behold* vs. *\*low and behold*\): 11:1
+ - *\*low and behold* for *lo and behold*: Stage 2
+ - Current ratio in print \(*lo and behold* vs. *\*low and behold*\): 11:1
 

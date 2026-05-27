@@ -8,6 +8,6 @@ registrable /**rej**-is-trә-bәl/ is so spelled in AmE and BrE alike—e.g.: "T
 
 ## Language-Change Index
 
-*registrable* misspelled *\*registerable*: Stage 1
-Current ratio in print \(*registrable* vs. \**registerable*\): 12:1
+ - *registrable* misspelled *\*registerable*: Stage 1
+ - Current ratio in print \(*registrable* vs. \**registerable*\): 12:1
 

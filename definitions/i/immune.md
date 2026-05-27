@@ -18,5 +18,5 @@ To be *immune from* something is to be free of some duty, liability, or restrict
 
 In this latter sense, the preposition *from* is preferable to *to*, but *to* is used so commonly that it can't be stigmatized as incorrect—e.g.: "Commission member John O. Wynne of Norfolk, a former publishing executive, noted that the largest sectors of the Virginia budget, including education and Medicaid, will be *immune to* \[read, preferably, *immune from*\] Wilder commission cuts." R.H. Melton, "Wilder Panel Adopts Guide for Va. Cuts," *Wash. Post*, 15 Aug. 2002, at B1.
 
-Current ratio in print \(*immune to* vs. *immune from*\): 2.4:1
+ - Current ratio in print \(*immune to* vs. *immune from*\): 2.4:1
 

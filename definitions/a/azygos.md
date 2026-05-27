@@ -6,7 +6,7 @@ azygos \(= not being one of a pair; not having a corresponding part\), a Greek l
 
 In a way, the adjective *azygos* is itself azygos, since words with the same root form the adjective with an -*ous* suffix \(e.g., *heterozygous*, *homozygous*\).
 
-Current ratio in print \(*azygos* vs. *\*azygous*\): 3:1
+ - Current ratio in print \(*azygos* vs. *\*azygous*\): 3:1
 
-Current ratio in print \(*azygos vein* vs. *\*azygous vein*\): 4:1
+ - Current ratio in print \(*azygos vein* vs. *\*azygous vein*\): 4:1
 

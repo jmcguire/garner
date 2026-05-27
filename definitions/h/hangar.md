@@ -4,6 +4,6 @@ hangar; **hanger**. The shelter for airplanes is spelled *hangar* \(a loanword f
 
 ## Language-Change Index
 
-*hanger* misused for *hangar*: Stage 3
-Current ratio in print \(*aircraft hangar* vs. *\*aircraft hanger*\): 13:1
+ - *hanger* misused for *hangar*: Stage 3
+ - Current ratio in print \(*aircraft hangar* vs. *\*aircraft hanger*\): 13:1
 

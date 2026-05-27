@@ -9,5 +9,5 @@ For the misuse of *onerous* for *heinous*, see **onerous**.
 1. *heinous* mispronounced /**hee**-nәs/ or /**hee**-nee-әs/: Stage 4
 
 2. *heinous* misspelled *\*heinious*: Stage 1
-Current ratio in print \(*heinous* vs. \**heinious*\): 4,232:1
+ - Current ratio in print \(*heinous* vs. \**heinious*\): 4,232:1
 

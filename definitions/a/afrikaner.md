@@ -4,5 +4,5 @@ Afrikaner; **\*Afrikander; \*Afrikaaner; Africander; \*Africaander**. These term
 
 *Afrikaner* is pronounced /af-ri-**kah**-nәr/; *Africander* and *\*Afrikander* are pronounced /af-ri-**kan**-dәr/.
 
-Current ratio in print \(*Afrikaner people* vs. *\*Afrikander people* vs. *\*Afrikaaner people*\): 155:3:1
+ - Current ratio in print \(*Afrikaner people* vs. *\*Afrikander people* vs. *\*Afrikaaner people*\): 155:3:1
 

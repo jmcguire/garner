@@ -14,6 +14,6 @@ Naturally, the back-formed singular *bicep* has also caught on and in nontechnic
 
 Today, to refer to a person's right *biceps* and to both *bicepses* or *bicipites* seems pedantic. \(In 1939, one commentator said that he had "never met anyone with sufficient hardihood to use \[*bicepses*\]." William Freeman, *Plain English* 84 \[Blanche C. Williams ed., Am. ed. 1939\].\) Although the etymology suggests that those forms are superior, the standard terms are now *bicep* as the singular and *biceps* as the plural. The same will probably someday be true for *triceps* and *quadriceps*. Cf. **pecs**, **quadriceps** & **triceps**.
 
-Current ratio in print \(*a torn bicep* vs. *a torn biceps*\): 1.2:1
-Current ratio in print \(*left bicep* vs. *left biceps*\): 3:1
+ - Current ratio in print \(*a torn bicep* vs. *a torn biceps*\): 1.2:1
+ - Current ratio in print \(*left bicep* vs. *left biceps*\): 3:1
 

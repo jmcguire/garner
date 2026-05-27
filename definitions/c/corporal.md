@@ -10,6 +10,6 @@ corporal; **corporeal**. These terms have undergone differentiation. *Corporal* 
 
 ## Language-Change Index
 
-*\*corporeal punishment* for *corporal punishment*: Stage 1
-Current ratio in print \(*corporal punishment* vs. *\*corporeal punishment*\): 45:1
+ - *\*corporeal punishment* for *corporal punishment*: Stage 1
+ - Current ratio in print \(*corporal punishment* vs. *\*corporeal punishment*\): 45:1
 

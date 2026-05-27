@@ -21,8 +21,8 @@ See word-swapping.
 ## Language-Change Index
 
 1. *dramatic* misused for *drastic*: Stage 1
-Current ratio in print \(*drastic measures* vs. *\*dramatic measures*\): 35:1
+ - Current ratio in print \(*drastic measures* vs. *\*dramatic measures*\): 35:1
 
 2. *drastic* misused for *dramatic*: Stage 1
-Current ratio in print \(*dramatic improvement* vs. *\*drastic improvement*\): 7:1
+ - Current ratio in print \(*dramatic improvement* vs. *\*drastic improvement*\): 7:1
 

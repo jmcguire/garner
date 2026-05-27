@@ -12,6 +12,6 @@ See count nouns and mass nouns.
 
 ## Language-Change Index
 
-*amount* misused for *number*: Stage 2
-Current ratio in print \(*number of people* vs. ***\*amount** of people*\): 44:1
+ - *amount* misused for *number*: Stage 2
+ - Current ratio in print \(*number of people* vs. ***\*amount** of people*\): 44:1
 

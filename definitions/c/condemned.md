@@ -4,5 +4,5 @@ condemned, n. As a matter of functional shift, the past-participial adjective *c
 
 ## Language-Change Index
 
-*condemn* misused for the attributive noun *condemned*: Stage 1
+ - *condemn* misused for the attributive noun *condemned*: Stage 1
 

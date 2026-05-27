@@ -12,9 +12,9 @@ among.
 
 Cf. **amid \(b\)**; **whilst**.
 
-Current ratio in print \(*among* vs. *amongst* in AmE\): 30:1
+ - Current ratio in print \(*among* vs. *amongst* in AmE\): 30:1
 
-Current ratio in print \(*among* vs. *amongst* in BrE\): 9:1
+ - Current ratio in print \(*among* vs. *amongst* in BrE\): 9:1
 
 **B. With Mass Nouns.** Generally, *among* is used with plural nouns and *amid* with mass nouns. Hence one is *among* friends but *amid* a crowd. \(See count nouns and mass nouns & **amid**.) *Among* is occasionally misused for other prepositions—e.g.:
 
@@ -26,7 +26,7 @@ Current ratio in print \(*among* vs. *amongst* in BrE\): 9:1
 
 ## Language-Change Index
 
-*among* used with a mass noun: Stage 2
+ - *among* used with a mass noun: Stage 2
 
 **C. And *between*.** See **between \(a\)**.
 

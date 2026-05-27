@@ -10,6 +10,6 @@ For other misuses, see **track**.
 
 ## Language-Change Index
 
-*\*sound tract* for *soundtrack*: Stage 1
-Current ratio in print \(*soundtrack* vs. *\*sound tract*\): 6,626:1
+ - *\*sound tract* for *soundtrack*: Stage 1
+ - Current ratio in print \(*soundtrack* vs. *\*sound tract*\): 6,626:1
 

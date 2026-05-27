@@ -17,11 +17,11 @@ As the examples illustrate, reducing the *of*s can, even at the sentence level, 
 As the statistics below show, the language has seen a major shift toward the intrusive *of*, which is becoming a common casualism.
 
 1980 ratio in print \(*that big a* vs. *\*that big of a*\): 8:1
-Current ratio in print \(*that big a* vs. \**that big of a*\): 1:1.2
+ - Current ratio in print \(*that big a* vs. \**that big of a*\): 1:1.2
 1980 ratio in print \(*that hard a* vs. \**that hard of a*\): 31:1
-Current ratio in print \(*that hard a* vs. \**that hard of a*\): 1.2:1
+ - Current ratio in print \(*that hard a* vs. \**that hard of a*\): 1.2:1
 1980 ratio in print \(*not that difficult a* vs. \**not that difficult of a*\): 25:1
-Current ratio in print \(*not that difficult a* vs. \**not that difficult of a*\): 2.5:1
+ - Current ratio in print \(*not that difficult a* vs. \**not that difficult of a*\): 2.5:1
 
 **C. Superfluous in Dates.** *December of* *1987* should be *December* *1987**.* See dates \(b\).
 
@@ -41,7 +41,7 @@ See **\*had have**.
 
 ## Language-Change Index
 
-*of* misused for *have*: Stage 1
+ - *of* misused for *have*: Stage 1
 
 **E. *Of a . . . nature*.** See **nature**.
 

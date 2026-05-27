@@ -6,5 +6,5 @@ Historically, though, *rime* is correct for "poetry." But a linguist once incorr
 
 *Rime* still appears for *rhyme* on rare occasions. But unless it's in a historical or jocular context \(or there's an ancient mariner involved\), use the modern spelling—e.g.: "This informative section also includes suggestions for helping children read and write by using letter-onset/*rime* \[read *rhyme*\] analogies, and for encouraging bilingual children's writing." Cathy J. Morton, "Writing in the Elementary Classroom: A Reconsideration," *Childhood Educ.*, 1 Oct. 2002, at 54.
 
-Current ratio in print \(*rhymes* vs. *rimes*\): 19:1
+ - Current ratio in print \(*rhymes* vs. *rimes*\): 19:1
 

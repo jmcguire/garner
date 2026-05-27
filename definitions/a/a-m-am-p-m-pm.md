@@ -24,5 +24,5 @@ The simple solution for noon and midnight is to shun both *a.m.* and *p.m.* and 
 
 ## Language-Change Index
 
-*12 a.m.* or *12* *p.m.* for *noon* or *midnight*: Stage 2
+ - *12 a.m.* or *12* *p.m.* for *noon* or *midnight*: Stage 2
 

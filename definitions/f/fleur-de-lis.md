@@ -4,5 +4,5 @@ fleur-de-lis \(= \[1\] the flower known as an iris; \[2\] the French royal coat 
 
 The phrase has two needless variants in English: *\*fleur-de-lys* and *\*fleur-de-luce*, both of which are archaic. The *OED* records more than 20 historical spellings.
 
-Current ratio in print \(*fleur-de-lis* vs. *\*fleur-de-lys* vs. *\*fleur-de-luce*\): 327:115:1
+ - Current ratio in print \(*fleur-de-lis* vs. *\*fleur-de-lys* vs. *\*fleur-de-luce*\): 327:115:1
 

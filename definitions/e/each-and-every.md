@@ -4,6 +4,6 @@ each and every. This emphatic \(and trite\) phrase, like *each* or *every* alone
 
 ## Language-Change Index
 
-*\*each and every one are* for *each and every one is*: Stage 1
-Current ratio in print \(*each and every one is* vs. \**each and every one are*\): 11:1
+ - *\*each and every one are* for *each and every one is*: Stage 1
+ - Current ratio in print \(*each and every one is* vs. \**each and every one are*\): 11:1
 

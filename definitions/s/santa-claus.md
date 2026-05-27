@@ -6,5 +6,5 @@ In BrE, the traditional name is *Father Christmas*, which dates from the mid-160
 
 By far the oldest term in English is *St. Nicholas* \(*St.* usually abbreviated thus\), referring to the 4th-century bishop of Myra in Asia Minor, who is known as the patron saint of Russia and Greece, as well as of sailors and children. After the Reformation in the 1500s, his popularity died out in Protestant Europe—except in Holland. Dutch colonists brought *Sinterklaas* to New York, then known as "New Amsterdam." In English-language print sources, *St. Nicholas* appeared more commonly than *Santa Claus* until the mid-1900s. The ratio today for *Santa Claus/St. Nicholas/Father Christmas* in World English print sources is 4:1.3:1. The shortened forms *St. Nick* and *Saint Nick* typically occur in jocular contexts.
 
-Current ratio in print \(*Santa Claus* vs. \**Santa Klaus*\): 534:1
+ - Current ratio in print \(*Santa Claus* vs. \**Santa Klaus*\): 534:1
 

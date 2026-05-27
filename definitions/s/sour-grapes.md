@@ -6,5 +6,5 @@ But the traditional and correct use of the phrase seems to be on the wane. Some 
 
 ## Language-Change Index
 
-*sour grapes* in the sense "envy": Stage 3
+ - *sour grapes* in the sense "envy": Stage 3
 

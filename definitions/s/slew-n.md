@@ -23,8 +23,8 @@ For still further confusions between these words, see **slough** & **slue**.
 ## Language-Change Index
 
 1. *slough* misused for *slew*: Stage 1
-Current ratio in print \(*whole slew* vs. *\*whole slough*\): 150:1
+ - Current ratio in print \(*whole slew* vs. *\*whole slough*\): 150:1
 
 2. *slue* misused for *slew*: Stage 1
-Current ratio in print \(*a slew of* vs. *\*a slue of *\): 1,228:1
+ - Current ratio in print \(*a slew of* vs. *\*a slue of *\): 1,228:1
 

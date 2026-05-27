@@ -80,7 +80,7 @@ Some writers defend the restrictive *which* when there's a *that* nearby, as can
 
 ## Language-Change Index
 
-*which* used with restrictive clauses: Stage 4
+ - *which* used with restrictive clauses: Stage 4
 
 **B. And *who.*** People often ask whether, as a relative pronoun, *that* is permitted to refer to people as well as things. Despite a popular canard \(see superstitions \(l\)\), the better authorities have maintained that this use of *that* is perfectly permissible. The *OED* notes that *that* is a "general relative pronoun . . . referring to persons or things" and shows that it dates back some 1,300 years in English.
 
@@ -176,7 +176,7 @@ It appears that when a pronoun begins the subordinate clause introduced by an im
 
 ## Language-Change Index
 
-*all that* for *so very* <it's not all that interesting>: Stage 4
+ - *all that* for *so very* <it's not all that interesting>: Stage 4
 
 **G. As a Pointing Word.** See pointing words.
 

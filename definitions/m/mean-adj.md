@@ -4,5 +4,5 @@ mean, adj., = \(1\) small; \(2\) cruel; \(3\) ignoble; \(4\) stingy; or \(5\) av
 
 ## Language-Change Index
 
-*mean-spirited* in the sense "malicious": Stage 3
+ - *mean-spirited* in the sense "malicious": Stage 3
 

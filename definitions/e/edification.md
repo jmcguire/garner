@@ -12,5 +12,5 @@ edification. In the phrase *for your edification* \(= for your moral or intellec
 
 ## Language-Change Index
 
-*edification* misused in the sense of "thrill, titillation": Stage 1
+ - *edification* misused in the sense of "thrill, titillation": Stage 1
 

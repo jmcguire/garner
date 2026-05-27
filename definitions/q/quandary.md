@@ -17,5 +17,5 @@ Because the *-ary* is unstressed, the misspelling *\*quandry* sometimes appearsâ
 1. *quandary* misused in the sense "dilemma," "problem," "issue," or the like: Stage 1
 
 2. *quandary* misspelled *\*quandry*: Stage 1
-Current ratio in print \(*quandary* vs. \**quandry*\): 131:1
+ - Current ratio in print \(*quandary* vs. \**quandry*\): 131:1
 

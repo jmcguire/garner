@@ -10,5 +10,5 @@ jeopardize; **\*jeopard**; **\*enjeopard**. H.W. Horwill wrote that in AmE "*jeo
 
 *\*Jeopard* and *\*enjeopard* are needless variants that, though extremely rare, still sometimes appear—e.g.: "He quit, *jeoparding* \[read *jeopardizing*\] more than 20 years of integrity in one day." Kelley Steve, "James Abandons His Sinking Ship," *Des Moines Register*, 24 Aug. 1993, Sports §, at 1.
 
-Current ratio in print \(*jeopardized* vs. *\*jeoparded*\): 87:1
+ - Current ratio in print \(*jeopardized* vs. *\*jeoparded*\): 87:1
 

@@ -10,6 +10,6 @@ When he released his famous movie in 1938, Walt Disney got it right: *Snow White
 
 ## Language-Change Index
 
-*\*dwarves* for *dwarfs*: Stage 3
-Current ratio in print \(*dwarfs* vs. *\*dwarves*\): 1.3:1
+ - *\*dwarves* for *dwarfs*: Stage 3
+ - Current ratio in print \(*dwarfs* vs. *\*dwarves*\): 1.3:1
 

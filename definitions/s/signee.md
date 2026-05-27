@@ -16,5 +16,5 @@ But in other situations—where the person who signs can in no way be said to ha
 
 ## Language-Change Index
 
-*signee* misused for *signer*: Stage 1
+ - *signee* misused for *signer*: Stage 1
 

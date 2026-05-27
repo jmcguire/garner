@@ -4,5 +4,5 @@ dilettante \(= \[1\] a devotee of the fine arts; or \[2\] someone who dabbles in
 
 As for pronouncing the singular noun, it's /**dil**-i-tahnt/ in AmE but /dil-i-**tahn**-tee/ or /dil-i-**tahn**-tay/ in BrE.
 
-Current ratio in print \(*dilettantes* vs. *dilettanti*\): 1.7:1
+ - Current ratio in print \(*dilettantes* vs. *dilettanti*\): 1.7:1
 

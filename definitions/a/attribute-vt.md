@@ -12,5 +12,5 @@ The verb is pronounced /ә-**tri**-byoot/.
 
 ## Language-Change Index
 
-*contribute* misused for *attribute*: Stage 1
+ - *contribute* misused for *attribute*: Stage 1
 

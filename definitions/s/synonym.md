@@ -4,5 +4,5 @@ synonym \(= a word having the same meaning as another\) for *pseudonym* \(= a pe
 
 ## Language-Change Index
 
-*synonym* misused for *pseudonym*: Stage 1
+ - *synonym* misused for *pseudonym*: Stage 1
 

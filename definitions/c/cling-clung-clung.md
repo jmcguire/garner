@@ -12,5 +12,5 @@ See irregular verbs.
 
 ## Language-Change Index
 
-*\*clinged* for *clung* as a past tense: Stage 1 Current ratio in print \(*he clung* vs. *\*he clinged*\): 2,257:1
+ - *\*clinged* for *clung* as a past tense: Stage 1 Current ratio in print \(*he clung* vs. *\*he clinged*\): 2,257:1
 

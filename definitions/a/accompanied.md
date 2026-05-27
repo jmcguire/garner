@@ -10,5 +10,5 @@ accompanied. Since the 1800s, idiom has required *accompanied by*, not *\*accomp
 
 ## Language-Change Index
 
-*\*accompanied with* for *accompanied by*: Stage 2 Current ratio in print \(*accompanied by* vs. *\*accompanied with*\): 20:1
+ - *\*accompanied with* for *accompanied by*: Stage 2 Current ratio in print \(*accompanied by* vs. *\*accompanied with*\): 20:1
 

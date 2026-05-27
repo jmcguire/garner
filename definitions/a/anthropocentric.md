@@ -13,7 +13,7 @@ anthropocentric; homocentric. Both words may denote a philosophy or worldview th
 ## Language-Change Index
 
 1. *homocentric* for *anthropocentric*: Stage 1
-Current ratio in print \(*anthropocentric view* vs. *homocentric view*\): 71:1
+ - Current ratio in print \(*anthropocentric view* vs. *homocentric view*\): 71:1
 
 2. *homocentric* in the sense "homosexually oriented": Stage 1
 

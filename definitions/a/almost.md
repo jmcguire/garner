@@ -16,5 +16,5 @@ Oddly, however, this phrasing wasn't uncommon in the 1600s and 1700s. It trailed
 
 ## Language-Change Index
 
-*\*almost quite*: Stage 1
+ - *\*almost quite*: Stage 1
 

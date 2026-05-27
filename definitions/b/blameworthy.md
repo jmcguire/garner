@@ -22,6 +22,6 @@ In all phases of Modern English, the Latinate *culpable* has always appeared mor
 
 ## Language-Change Index
 
-*blameful* misused for *blameworthy*: Stage 1
-Current ratio in print \(*blameworthy* vs. *blamable* vs. *blameable*\): 9:1.2:1
+ - *blameful* misused for *blameworthy*: Stage 1
+ - Current ratio in print \(*blameworthy* vs. *blamable* vs. *blameable*\): 9:1.2:1
 

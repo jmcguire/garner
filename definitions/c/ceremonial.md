@@ -16,7 +16,7 @@ The word is more often seen in its negative adverbial form, *unceremoniously*, w
 
 ## Language-Change Index
 
-*ceremonious* misused for *ceremonial*: Stage 1
+ - *ceremonious* misused for *ceremonial*: Stage 1
 
-Current ratio in print \(*ceremonial observances* vs. \**ceremonious observances*\): 7:1
+ - Current ratio in print \(*ceremonial observances* vs. \**ceremonious observances*\): 7:1
 

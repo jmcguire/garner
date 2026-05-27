@@ -6,5 +6,5 @@ perjured, adj.; **perjurious**; **\*perjurous**; **\*perjurial**; **\*perjuried*
 
 *\*Perjuried* is an infrequent blunder for *perjured*—e.g.: "They committed fraud on the court by misrepresenting and concealing evidence, sponsoring *perjuried* \[read *perjured*\] testimony, and presenting false evidence." David Cohn, "Court Rejects Asbestos Liability Case," *J. of Commerce*, 28 Nov. 1989, at A13. See **subornation of perjury**.
 
-Current ratio in print \(*perjured testimony* vs. *perjurious* *testimony*\): 15:1
+ - Current ratio in print \(*perjured testimony* vs. *perjurious* *testimony*\): 15:1
 

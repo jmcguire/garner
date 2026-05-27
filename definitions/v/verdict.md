@@ -4,5 +4,5 @@ verdict refers to a jury's pronouncement. It shouldn't be used in reference to a
 
 ## Language-Change Index
 
-*verdict* in reference to a judge's decision: Stage 2
+ - *verdict* in reference to a judge's decision: Stage 2
 

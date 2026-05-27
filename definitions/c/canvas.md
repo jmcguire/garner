@@ -14,7 +14,7 @@ canvas; **canvass**. *Canvas*, almost always a noun, is the heavy cloth. In its 
 
 As a noun, the word *canvass* means "the act of canvassing."
 
-Current ratio in print \(*canvas bag* vs. \**canvass bag*\): 78:1
+ - Current ratio in print \(*canvas bag* vs. \**canvass bag*\): 78:1
 
-Current ratio in print \(*to canvass votes* vs. \**to canvas votes*\): 3:1
+ - Current ratio in print \(*to canvass votes* vs. \**to canvas votes*\): 3:1
 

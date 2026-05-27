@@ -4,6 +4,6 @@ isolable \(= capable of being isolated\) is the standard form, not *\*isolatable
 
 ## Language-Change Index
 
-*\*isolatable* for *isolable*: Stage 4
-Current ratio in print \(*isolable* vs. *\*isolatable*\): 2:1
+ - *\*isolatable* for *isolable*: Stage 4
+ - Current ratio in print \(*isolable* vs. *\*isolatable*\): 2:1
 

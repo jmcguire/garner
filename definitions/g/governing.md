@@ -12,5 +12,5 @@ This error is analogous to misusing *error* as a verb in place of *err*. See **e
 
 ## Language-Change Index
 
-*governoring* misused for *governing*: Stage 1
+ - *governoring* misused for *governing*: Stage 1
 

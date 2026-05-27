@@ -14,5 +14,5 @@ fare.
 
 ## Language-Change Index
 
-*\*food fare* for *fare*: Stage 1
+ - *\*food fare* for *fare*: Stage 1
 

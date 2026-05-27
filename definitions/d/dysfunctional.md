@@ -8,6 +8,6 @@ dysfunctional \(= functioning abnormally\) is occasionally misspelled \(or *dyss
 
 ## Language-Change Index
 
-*dysfunctional* misspelled *\*disfunctional*: Stage 1
-Current ratio in print \(*dysfunctional* vs. \**disfunctional*\): 576:1
+ - *dysfunctional* misspelled *\*disfunctional*: Stage 1
+ - Current ratio in print \(*dysfunctional* vs. \**disfunctional*\): 576:1
 

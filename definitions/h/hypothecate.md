@@ -12,6 +12,6 @@ President George H.W. Bush occasionally misused *hypothecate*—e.g.:
 
 ## Language-Change Index
 
-*hypothecate* misused for *hypothesize*: Stage 1
-Current ratio in print \(*hypothesize that* vs. *\*hypothecate that*\): 2,585:1
+ - *hypothecate* misused for *hypothesize*: Stage 1
+ - Current ratio in print \(*hypothesize that* vs. *\*hypothecate that*\): 2,585:1
 

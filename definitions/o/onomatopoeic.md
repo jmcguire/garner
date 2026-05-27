@@ -12,5 +12,5 @@ One historian of the English language has suggested *echoic* as a simpler substi
 
 *Onomatopoeic* is pronounced /on-ә-mat-ә-**pee**-ik/. Take care not to use the sloppy pronunciation /on-ә-mon-ә-**pee**-ik/.
 
-Current ratio in print \(*onomatopoeic* vs. \**onomatopoetic*\): 3:1
+ - Current ratio in print \(*onomatopoeic* vs. \**onomatopoetic*\): 3:1
 

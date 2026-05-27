@@ -4,5 +4,5 @@ unconscionably \(= unreasonably, unscrupulously, outrageously\) is sometimes mis
 
 ## Language-Change Index
 
-*unconscionably* misused for *unconsciously*: Stage 1
+ - *unconscionably* misused for *unconsciously*: Stage 1
 

@@ -8,6 +8,6 @@ One writer rather fatalistically defines *escapee* as "one who has been caught a
 
 ## Language-Change Index
 
-*escapee* for "one who escapes": Stage 5
-Current ratio in print \(*escapee* vs. *escaper*\): 10:1
+ - *escapee* for "one who escapes": Stage 5
+ - Current ratio in print \(*escapee* vs. *escaper*\): 10:1
 

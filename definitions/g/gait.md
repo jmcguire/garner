@@ -12,5 +12,5 @@ See word-swapping.
 
 ## Language-Change Index
 
-*gate* misused for *gait*: Stage 1
+ - *gate* misused for *gait*: Stage 1
 

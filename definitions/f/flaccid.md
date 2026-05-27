@@ -28,7 +28,7 @@ In short, this word is a kind of skunked term: pronounce it in the traditional w
 
 ## Language-Change Index
 
-*flaccid* pronounced /**flas**-id/ instead of /**flak**-sid/: Stage 4
+ - *flaccid* pronounced /**flas**-id/ instead of /**flak**-sid/: Stage 4
 
 **B. Misspelling.** As a result of the spreading mispronunciation, the misspelling *\*flacid* \(on the analogy of *placid*\) has arisen—e.g.:
 
@@ -40,6 +40,6 @@ In short, this word is a kind of skunked term: pronounce it in the traditional w
 
 ## Language-Change Index
 
-*flaccid* misspelled *\*flacid*: Stage 1
-Current ratio in print \(*flaccid* vs. \**flacid*\): 473:1
+ - *flaccid* misspelled *\*flacid*: Stage 1
+ - Current ratio in print \(*flaccid* vs. \**flacid*\): 473:1
 

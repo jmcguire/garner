@@ -12,5 +12,5 @@ Although the pronunciation /neesh/ is heard among educated speakers, many consid
 
 ## Language-Change Index
 
-*niche* misspelled *\*nitch* or *\*nitche*: Stage 1
+ - *niche* misspelled *\*nitch* or *\*nitche*: Stage 1
 

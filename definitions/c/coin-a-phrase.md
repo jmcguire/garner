@@ -18,5 +18,5 @@ Although it is typically the writer who is doing the coining when this phrase is
 
 ## Language-Change Index
 
-*coin a phrase* misused to mean "borrow a phrase": Stage 3
+ - *coin a phrase* misused to mean "borrow a phrase": Stage 3
 

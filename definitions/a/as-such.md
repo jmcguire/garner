@@ -18,5 +18,5 @@ Obviously, this phrase requires much care.
 
 ## Language-Change Index
 
-*as such* for *therefore*: Stage 2
+ - *as such* for *therefore*: Stage 2
 

@@ -4,5 +4,5 @@ caddie; **caddy**. *Caddie* = someone who carries a golf bag for a player, esp. 
 
 ## Language-Change Index
 
-*caddie* misused for *caddy*: Stage 1 Current ratio in print \(*tea caddy* vs. *\*tea caddie*\): 126:1 Current ratio in print \(*asked his caddie* vs. *\*asked his caddy*\): 3:1
+ - *caddie* misused for *caddy*: Stage 1 Current ratio in print \(*tea caddy* vs. *\*tea caddie*\): 126:1 Current ratio in print \(*asked his caddie* vs. *\*asked his caddy*\): 3:1
 

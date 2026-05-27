@@ -10,6 +10,6 @@ Might people confuse or associate this word with *soirée*?
 
 ## Language-Change Index
 
-*sortie* misspelled *\*sortee*: Stage 1
-Current ratio in print \(*sortie* vs. \**sortee*\): 1,260:1
+ - *sortie* misspelled *\*sortee*: Stage 1
+ - Current ratio in print \(*sortie* vs. \**sortee*\): 1,260:1
 

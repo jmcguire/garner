@@ -6,6 +6,6 @@ In the 1600sâ€”perhaps through epenthesis combined with the influence of *away*â
 
 In both AmE and BrE, *straightaway* has overtaken *straightway* since the late 1970s. *Straightaway* has the feel of a casualism. The rivalry between the words appears to be over, and *straightaway* won it in the final stretch of the 20th century.
 
-Current ratio in print \(*straightaway* vs. *straightway* in AmE\): 2.3:1
-Current ratio in print \(*straightaway* vs. *straightway* in BrE\): 5:1
+ - Current ratio in print \(*straightaway* vs. *straightway* in AmE\): 2.3:1
+ - Current ratio in print \(*straightaway* vs. *straightway* in BrE\): 5:1
 

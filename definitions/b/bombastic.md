@@ -10,5 +10,5 @@ bombastic is sometimes misconstrued to mean "strident" or "violent." Properly, *
 
 ## Language-Change Index
 
-*bombastic* misused in a violent sense: Stage 2
+ - *bombastic* misused in a violent sense: Stage 2
 

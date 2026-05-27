@@ -12,5 +12,5 @@ Sometimes the senses truly seem to merge, as *headstrong* takes on an adverbial 
 
 ## Language-Change Index
 
-*headstrong* misused for *headlong*: Stage 1
+ - *headstrong* misused for *headlong*: Stage 1
 

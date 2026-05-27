@@ -4,5 +4,5 @@ harbinger /**hahr**-bin-jәr/ \(= a sign that something will soon happen\), a no
 
 Since the 1600s, the term has also been used as a verb—a synonym of *presage*. That usage has long been standard. But the misspellings and mispronunciations of the word cannot be said to harbinger a heightened degree of punctilio among speakers and writers generally.
 
-Current ratio in print \(*harbinger* vs. \**harbringer*\): 1,905:1
+ - Current ratio in print \(*harbinger* vs. \**harbringer*\): 1,905:1
 

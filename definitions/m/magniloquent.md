@@ -4,5 +4,5 @@ magniloquent \(= characterized by high-flown, bombastic speech\), like its synon
 
 ## Language-Change Index
 
-*magniloquent* meaning "grandiose" but not in reference to language: Stage 1
+ - *magniloquent* meaning "grandiose" but not in reference to language: Stage 1
 

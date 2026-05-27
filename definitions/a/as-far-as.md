@@ -8,5 +8,5 @@ Idiom aside, however, *as far as* usually signals verbosity. So instead of *As f
 
 ## Language-Change Index
 
-*as far as* without a subject and verb following: Stage 2
+ - *as far as* without a subject and verb following: Stage 2
 

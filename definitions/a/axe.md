@@ -4,5 +4,5 @@ axe; **ax**. According to Sir James A.H. Murray, editor of the first edition of 
 
 Compound words follow the same course—hence *pickaxe* and *poleaxe*.
 
-Current ratio in print \(*axe* vs. *ax*\): 2.1:1
+ - Current ratio in print \(*axe* vs. *ax*\): 2.1:1
 

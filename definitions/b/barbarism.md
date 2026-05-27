@@ -4,5 +4,5 @@ barbarism; **barbarity**. Both denote a lack of civilization. *Barbarism* refers
 
 ## Language-Change Index
 
-*barbarity* misused for *barbarism*: Stage 1
+ - *barbarity* misused for *barbarism*: Stage 1
 

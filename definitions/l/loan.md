@@ -5,8 +5,8 @@ loan; **lend**. In strict usage, *lend* is the verb and *loan* the noun. The ver
 ## Language-Change Index
 
 1. *loan* \(money\) for *lend* \(money\): Stage 5
-Current ratio in print \(*lend money* vs. *loan money*\): 3:1
+ - Current ratio in print \(*lend money* vs. *loan money*\): 3:1
 
 2. *loan* \(a thing\) for *lend* \(a thing\): Stage 4
-Current ratio in print \(*lend me a car* vs. *\*loan me a car*\): 1.8:1
+ - Current ratio in print \(*lend me a car* vs. *\*loan me a car*\): 1.8:1
 

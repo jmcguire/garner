@@ -6,5 +6,5 @@ In fact, sense 1 of *agenda* is archaic today and sounds pedantic—e.g.: "Place
 
 ## Language-Change Index
 
-*agenda* as a singular noun: Stage 5 Current ratio in print \(*agenda is* vs. *agenda are*\): 10:1
+ - *agenda* as a singular noun: Stage 5 Current ratio in print \(*agenda is* vs. *agenda are*\): 10:1
 

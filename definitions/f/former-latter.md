@@ -10,7 +10,7 @@ former; latter.
 
 ## Language-Change Index
 
-*former* misused for *latter*: Stage 1
+ - *former* misused for *latter*: Stage 1
 
 **C. *Latter* without *former*.** May one have a *latter* without an explicit *former*? Yes, as long as there are two identifiable elements. For a similar problem, see **on the other hand**.
 

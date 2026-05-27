@@ -4,6 +4,6 @@ thief. Pl. *thieves*—not *\*thiefs*. The mistaken plural occasionally appears 
 
 ## Language-Change Index
 
-*\*thiefs* for *thieves*: Stage 1
-Current ratio in print \(*thieves* vs. *\*thiefs*\): 936:1
+ - *\*thiefs* for *thieves*: Stage 1
+ - Current ratio in print \(*thieves* vs. *\*thiefs*\): 936:1
 

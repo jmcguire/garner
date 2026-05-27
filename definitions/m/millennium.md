@@ -16,6 +16,6 @@ The word is especially often deprived of one *n* and misspelled *\*millenium*—
 
 ## Language-Change Index
 
-*millennium* misspelled *\*millenium*: Stage 1
-Current ratio in print \(*millennium* vs. \**millenium*\): 69:1
+ - *millennium* misspelled *\*millenium*: Stage 1
+ - Current ratio in print \(*millennium* vs. \**millenium*\): 69:1
 

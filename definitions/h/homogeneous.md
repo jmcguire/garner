@@ -17,7 +17,7 @@ The scientific community has moved on from the theft of its four-syllable term, 
 ## Language-Change Index
 
 1. *\*homogenous* for the traditional *homogeneous*: Stage 3
-Current ratio in print \(*homogeneous* vs. *\*homogenous*\): 3:1
+ - Current ratio in print \(*homogeneous* vs. *\*homogenous*\): 3:1
 
 2. *homogeneous* pronounced nontraditionally with four syllables: Stage 4
 

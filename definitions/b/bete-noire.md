@@ -16,6 +16,6 @@ The plural form remains the French *bêtes noires*, as opposed to the more fully
 
 Given that the circumflex remains over the first *e*, it is hardly surprising that the word has retained its foreign plural. See plurals \(b\).
 
-Current ratio in print \(*bête noire* vs. \**bête noir*\): 4:1
-Current ratio in print \(*bêtes noires* vs.\**bête noires*\): 13:1
+ - Current ratio in print \(*bête noire* vs. \**bête noir*\): 4:1
+ - Current ratio in print \(*bêtes noires* vs.\**bête noires*\): 13:1
 

@@ -29,12 +29,12 @@ In the sense of departing, *bail* is the word <she bailed out of the plane> <he 
 ## Language-Change Index
 
 1. *\*baling water* for *bailing water*: Stage 2
-Current ratio in print \(*bailing water* vs. *\*baling water*\): 11:1
+ - Current ratio in print \(*bailing water* vs. *\*baling water*\): 11:1
 
 2. *\*bailing hay* for *baling hay*: Stage 2
-Current ratio in print \(*baling hay* vs. *\*bailing hay*\): 5:1
+ - Current ratio in print \(*baling hay* vs. *\*bailing hay*\): 5:1
 
 3. *\*bail of hay* for *bale of hay*: Stage 1
-Current ratio in print \(*bale of hay* vs. *\*bail of hay*\): 71:1
-Current ratio in print \(*bailed him out* vs. \**baled him out*\): 195:1
+ - Current ratio in print \(*bale of hay* vs. *\*bail of hay*\): 71:1
+ - Current ratio in print \(*bailed him out* vs. \**baled him out*\): 195:1
 

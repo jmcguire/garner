@@ -4,5 +4,5 @@ flounder; **founder**. Both verbs connote failure, but the literal senses—and 
 
 Idiomatically speaking, boats are said to *founder*—not *flounder*.
 
-Current ratio in print \(*the boat foundered* vs. \**the boat floundered*\): 2.4:1
+ - Current ratio in print \(*the boat foundered* vs. \**the boat floundered*\): 2.4:1
 

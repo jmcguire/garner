@@ -22,6 +22,6 @@ See for-.
 
 ## Language-Change Index
 
-*foreclose* misspelled *\*forclose*: Stage 1
-Current ratio in print \(*foreclose* vs. \**forclose*\): 744:1
+ - *foreclose* misspelled *\*forclose*: Stage 1
+ - Current ratio in print \(*foreclose* vs. \**forclose*\): 744:1
 

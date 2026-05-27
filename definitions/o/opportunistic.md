@@ -14,5 +14,5 @@ But *opportunistic* is now sometimes misused to mean *opportune*—e.g.:
 
 ## Language-Change Index
 
-*opportunistic* misused for *opportune*: Stage 1
+ - *opportunistic* misused for *opportune*: Stage 1
 

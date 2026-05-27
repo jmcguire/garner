@@ -4,5 +4,5 @@ Romania; **\*Rumania**; **\*Roumania**; **\*România**. *Romania* /roh-**may**-n
 
 The choice in spelling has on occasion been an emotionally fraught issue: "A university press once made a book of papers by seven professors, each dealing with his own specialty in world affairs. One author insisted his paper would be unavailable unless the spelling ‘Rumania' appeared in it, and another announced that his article would be withdrawn if he could not spell it ‘Roumania,' retaining the *o* as a heritage from ‘Rome.' " Edward N. Teall, *Putting Words to Work* 123 \(1940\). Presumably neither one of those authors would be happy with today's preference for *Romania*.
 
-Current ratio in print \(*Romania* vs. \**Rumania* vs. \**Roumania* vs. \**România*\): 70:4:2:1
+ - Current ratio in print \(*Romania* vs. \**Rumania* vs. \**Roumania* vs. \**România*\): 70:4:2:1
 

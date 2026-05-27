@@ -4,5 +4,5 @@ censorious; **censorial**. *Censorious* \(= severely critical\) is the adjective
 
 ## Language-Change Index
 
-*censorious* misused for *censorial*: Stage 1
+ - *censorious* misused for *censorial*: Stage 1
 

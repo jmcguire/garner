@@ -4,6 +4,6 @@
 
 ## Language-Change Index
 
-*\*theirselves* for *themselves*: Stage 1
-Current ratio in print \(*themselves* vs. *\*theirselves*\): 2,416:1
+ - *\*theirselves* for *themselves*: Stage 1
+ - Current ratio in print \(*themselves* vs. *\*theirselves*\): 2,416:1
 

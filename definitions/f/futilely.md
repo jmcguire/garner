@@ -12,6 +12,6 @@ Cf. **agilely** & **solely**. See adverbs \(c\).
 
 ## Language-Change Index
 
-*futilely* misspelled *\*futiley*: Stage 1
-Current ratio in print \(*futilely* vs. *\*futiley*\): 466:1
+ - *futilely* misspelled *\*futiley*: Stage 1
+ - Current ratio in print \(*futilely* vs. *\*futiley*\): 466:1
 

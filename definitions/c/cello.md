@@ -4,7 +4,7 @@ cello. This word is an 18th-century clipping of *violoncello*; until the late 20
 
 Since 1880, the standard english plural has been *cellos*, not *\*celli*.
 
-Current ratio in print \(*cello* vs. *'cello*\): 14:1
+ - Current ratio in print \(*cello* vs. *'cello*\): 14:1
 
-Current ratio in print \(*cellos* vs. *\*celli*\): 10:1
+ - Current ratio in print \(*cellos* vs. *\*celli*\): 10:1
 

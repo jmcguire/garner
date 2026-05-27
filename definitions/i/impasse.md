@@ -4,6 +4,6 @@ impasse \(= \[1\] a deadlock; or \[2\] a blind alley\), a French loanword, is so
 
 ## Language-Change Index
 
-*impasse* misspelled *\*impass*: Stage 1
-Current ratio in print \(*an impasse* vs. *\*an impass*\): 1,059:1
+ - *impasse* misspelled *\*impass*: Stage 1
+ - Current ratio in print \(*an impasse* vs. *\*an impass*\): 1,059:1
 

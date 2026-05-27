@@ -12,5 +12,5 @@ See dialect.
 
 ## Language-Change Index
 
-*\*furtherest* for *furthest*: Stage 1
+ - *\*furtherest* for *furthest*: Stage 1
 

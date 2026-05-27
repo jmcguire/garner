@@ -17,5 +17,5 @@ See **their**.
 1. *there* misused for *they're*: Stage 1
 
 2. *there* misused for *their*: Stage 1
-Current ratio in print \(*on their own* vs. *\*on there own*\): 5,587:1
+ - Current ratio in print \(*on their own* vs. *\*on there own*\): 5,587:1
 

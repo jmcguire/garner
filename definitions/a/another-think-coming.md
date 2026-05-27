@@ -14,6 +14,6 @@ The heavy-metal band Judas Priest may share some blame for the widespread accept
 
 ## Language-Change Index
 
-*\*another thing coming* for *another think coming*: Stage 4
-Current ratio in print \(*another think coming* vs. *\*another thing coming*\): 1.2:1
+ - *\*another thing coming* for *another think coming*: Stage 4
+ - Current ratio in print \(*another think coming* vs. *\*another thing coming*\): 1.2:1
 

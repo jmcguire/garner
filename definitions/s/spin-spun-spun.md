@@ -12,5 +12,5 @@ spin > spun > spun. This irregular verb is so inflected in AmE and BrE alike. *S
 
 ## Language-Change Index
 
-*span* as a past tense for *spun*: Stage 1
+ - *span* as a past tense for *spun*: Stage 1
 

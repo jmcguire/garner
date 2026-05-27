@@ -10,5 +10,5 @@ The verb is conjugated *critiqued* and *critiquing*. Some writers mistakenly wri
 
 ## Language-Change Index
 
-*critique* as a verb: Stage 5
+ - *critique* as a verb: Stage 5
 

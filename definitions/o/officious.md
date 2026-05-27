@@ -12,5 +12,5 @@ Also, the word has been subjected to slipshod extension. Some mistakenly think i
 
 ## Language-Change Index
 
-*officious* in the sense "official-looking": Stage 3
+ - *officious* in the sense "official-looking": Stage 3
 

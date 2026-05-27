@@ -6,5 +6,5 @@ It is also used in extended senses, such as "the murder of the ruler of a countr
 
 *\*Patricide* is a needless variant that was little attested through the mid-20th century.
 
-Current ratio in print \(*parricide* vs. *\*patricide*\): 3:1
+ - Current ratio in print \(*parricide* vs. *\*patricide*\): 3:1
 

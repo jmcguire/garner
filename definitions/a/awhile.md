@@ -11,8 +11,8 @@ When the choice is between *for a while* and *awhile*, prefer the latter. And do
 ## Language-Change Index
 
 1. *a while* used adverbially for *awhile*: Stage 4
-Current ratio in print \(*rested awhile* vs. \**rested a while*\): 1.3:1
+ - Current ratio in print \(*rested awhile* vs. \**rested a while*\): 1.3:1
 
 2. *awhile* misused for *a while*: Stage 1
-Current ratio in print \(*for a while* vs. \**for awhile*\): 29:1
+ - Current ratio in print \(*for a while* vs. \**for awhile*\): 29:1
 

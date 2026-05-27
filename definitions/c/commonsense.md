@@ -4,8 +4,8 @@ commonsense, adj. **A. And *commonsensical*; *\***commonsensible*.** The adjecti
 
 As between *commonsensical* and *\*commonsensible*, you might suspect that *-ible* would be the more usual: the dictionaries have traditionally listed it first, and it's modeled on the existing word *sensible*. \(*Sensical* is rare.\) In fact, though, *commonsensical* predominates in print by a tremendous margin—e.g.: "But Kim argued that his actions regarding Flores's artwork were simply practical and *commonsensical*." Celeste Katz, "Culture Clash," *Providence J.-Bull.*, 6 Nov. 1997, at D1. But again, *commonsensical* should be confined to uses—as in the example just quoted—in which a noun doesn't immediately follow.
 
-Current ratio in print \(*commonsense reasons* vs. *commonsensical reasons*\): 6:1
-Current ratio in print \(*commonsensical* vs. *\*commonsensible*\): 83:1
+ - Current ratio in print \(*commonsense reasons* vs. *commonsensical reasons*\): 6:1
+ - Current ratio in print \(*commonsensical* vs. *\*commonsensible*\): 83:1
 
 **B. And *common sense*, n.** Although the adjective is one word, the noun is two: *common sense*.
 

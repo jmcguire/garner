@@ -4,5 +4,5 @@ D-Day; **\*D-day**. Originally \(from about 1918\) a military codeword denoting 
 
 The initial *D* in *D-Day* is simply an abbreviated form of *day*. The term was already in somewhat popular use before 1944—from about 1920—in BrE and AmE alike. From the beginning, it has predominantly been written with both *D*'s capitalized: *D-Day*, not *\*D-day*.
 
-Current ratio in print \(*D-Day* vs. \**D-day*\): 8:1
+ - Current ratio in print \(*D-Day* vs. \**D-day*\): 8:1
 

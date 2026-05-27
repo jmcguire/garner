@@ -18,5 +18,5 @@ artist.
 
  - "Story follows a phobic con *artist* \(Cage\) and his protege \(Rockwell\), who are on the verge of pulling off a lucrative swindle when Cage's teenage daughter \(Lohman\) arrives unexpectedly." Dana Harris, "Lohman Joins ‘Matchstick,'" *Daily Variety*, 29 July 2002, at 12.
 
-Current ratio in print \(*artisan* vs. *\*artizan* vs. *\*artesan*\): 3,582:55:1
+ - Current ratio in print \(*artisan* vs. *\*artizan* vs. *\*artesan*\): 3,582:55:1
 

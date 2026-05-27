@@ -8,5 +8,5 @@ Occasionally, it's hard to decipher what the writer intended—e.g.: "There is c
 
 ## Language-Change Index
 
-*prevaricate* misused for *procrastinate*: Stage 1
+ - *prevaricate* misused for *procrastinate*: Stage 1
 

@@ -5,5 +5,5 @@ bruit /broot/ \(= to spread \[a rumor, report, etc.\]\), a French loanword datin
 ## Language-Change Index
 
 \**brute about* for *bruit about*: Stage 1
-Current ratio in print \(*bruited about* vs. \**bruted about*\): 939:1
+ - Current ratio in print \(*bruited about* vs. \**bruted about*\): 939:1
 

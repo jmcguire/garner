@@ -10,6 +10,6 @@ From the 1930s \(when the bag first became popular\) to the 1970s, the two spell
 
 ## Language-Change Index
 
-*duffel* misspelled *\*duffle*: Stage 3
-Current ratio in print \(*duffel* vs. \**duffle*\): 3:1
+ - *duffel* misspelled *\*duffle*: Stage 3
+ - Current ratio in print \(*duffel* vs. \**duffle*\): 3:1
 

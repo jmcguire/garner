@@ -10,5 +10,5 @@ sextant; **sexton**. A *sextant* is an old-fashioned instrument used in navigati
 
 ## Language-Change Index
 
-*sextant* misused for *sexton*: Stage 1
+ - *sextant* misused for *sexton*: Stage 1
 

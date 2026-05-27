@@ -4,5 +4,5 @@ satin; **sateen**; **satinet**; **satinette**. *Satin*, a French loanword dating
 
 *Satinet* /sat-әn-**et**/ \(= a very thin satin or imitation satin\), likewise a French loanword dating in English from the early 1700s, has always been predominantly so spelled across World Englishes. But beginning about 1880, the variant spelling *satinette* \(the precise spelling of the French etymon\) became a close rival. In BrE, it became the standard spelling. Across World Englishes today, *satinet* has the slight edge in frequency of use. Cf. **velvet**.
 
-Current ratio in print \(*satinet* vs. *satinette*\): 2.1:1
+ - Current ratio in print \(*satinet* vs. *satinette*\): 2.1:1
 

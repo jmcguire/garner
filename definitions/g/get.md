@@ -28,7 +28,7 @@ The *OED*, under *get* \(33a\), has examples of *have got* from the early 1600s 
 
 The main error to watch out for is omitting *have* in either its full or its contracted form. That is, such expressions as *\*I gotta leave now* and *\*I got a $10 bill in my billfold* aren't standard english. But *I've got to leave now* and *I've got a $10 bill in my billfold* are fine. Cf. **better \(a\)**.
 
-Current ratio in print \(*I have to get* vs. *I must get* vs. *I've got to get*\): 2.3:1:1
+ - Current ratio in print \(*I have to get* vs. *I must get* vs. *I've got to get*\): 2.3:1:1
 
 **D. Passive Voice with *get*.** See passive voice \(a\).
 

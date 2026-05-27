@@ -4,5 +4,5 @@ humble, adj., is now preferably pronounced with the *h* sounded: /**hәm**-bәl/
 
 In Humble, Texas \(near Houston\), the residents all say /**әm**-bәl/. That pronunciation has led local writers to use *an* before the proper name—e.g.: "West Brook got on the board early in the second quarter following *an Humble* fumble." Brian McTaggart, "Ambres, West Brook Stun No. 1 Humble," *Houston Chron.*, 16 Nov. 1997, at 19. Most out-of-town readers would probably find that phrase odd-looking. But locals know better—and proudly so. See **a \(a\)**. Cf. **herb** & **homage**.
 
-Current ratio in print \(*a humble* vs. \**an humble*\): 9:1
+ - Current ratio in print \(*a humble* vs. \**an humble*\): 9:1
 

@@ -6,6 +6,6 @@ In the following sentence, *proprietorial* is almost certainly misused for *prop
 
 ## Language-Change Index
 
-*proprietorial* misused for *proprietary*: Stage 1
-Current ratio in print \(*proprietary interest* vs. *proprietorial interest*\): 30:1
+ - *proprietorial* misused for *proprietary*: Stage 1
+ - Current ratio in print \(*proprietary interest* vs. *proprietorial interest*\): 30:1
 

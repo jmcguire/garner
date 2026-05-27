@@ -36,6 +36,6 @@ Even so, the word has been extremely successful worldwide. Today one hears it in
 
 ## Language-Change Index
 
-*hopefully* as a sentence adverb: Stage 4
-Current ratio in print \(*I hope it won't* vs. *Hopefully it won't*\): 7:1
+ - *hopefully* as a sentence adverb: Stage 4
+ - Current ratio in print \(*I hope it won't* vs. *Hopefully it won't*\): 7:1
 

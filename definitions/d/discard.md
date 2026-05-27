@@ -12,5 +12,5 @@ The error appears to be as common in British as in American publications—e.g.:
 
 ## Language-Change Index
 
-*\*disgard* for *discard*: Stage 1
+ - *\*disgard* for *discard*: Stage 1
 

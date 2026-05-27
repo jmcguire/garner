@@ -4,5 +4,5 @@ condonation; \***condonance; condonement**. *Condonation* = \(1\) the pardoning 
 
 *\*Condonance* is a needless variant. *Condonement* is a technical term in certain card games.
 
-Current ratio in print \(*condonation* vs. \**condonance*\): 170:1
+ - Current ratio in print \(*condonation* vs. \**condonance*\): 170:1
 

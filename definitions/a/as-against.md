@@ -8,5 +8,5 @@ Speakers of AmE sometimes use the phrase in completely different ways that can g
 
 ## Language-Change Index
 
-*as against* misused for *against*: Stage 1
+ - *as against* misused for *against*: Stage 1
 

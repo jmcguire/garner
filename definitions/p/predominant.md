@@ -12,6 +12,6 @@ Cf. **preponderant**.
 
 ## Language-Change Index
 
-*predominate* misused as an adjective for *predominant*: Stage 1
-Current ratio in print \(*predominant role* vs. *\*predominate role*\): 108:1
+ - *predominate* misused as an adjective for *predominant*: Stage 1
+ - Current ratio in print \(*predominant role* vs. *\*predominate role*\): 108:1
 

@@ -10,5 +10,5 @@ ecology. When it originated in the late 1800s, this word referred to the biologi
 
 ## Language-Change Index
 
-*ecology* misused for *environment*: Stage 1
+ - *ecology* misused for *environment*: Stage 1
 

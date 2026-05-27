@@ -10,5 +10,5 @@ The phrase is sometimes misrendered *\*mode of operandi*—e.g.:
 
 ## Language-Change Index
 
-*\*mode of operandi* for *modus operandi*: Stage 1
+ - *\*mode of operandi* for *modus operandi*: Stage 1
 

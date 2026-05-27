@@ -10,5 +10,5 @@ The anglicized pronunciation is /leez **maj**-ә-stee/.
 
 Since 2000, writers on the subject have been strongly inclined to repatriate the gallicism and treat it as foreign. So in recent years it has been reacquiring its diacritical marks and its italics. Call it a linguistic *lese majesty*.
 
-Current ratio in print \(\**lèse majesté* vs. *lese majesty* vs. \**laesae majestatis* vs. \**leze majesty*\): 89:26:9:1
+ - Current ratio in print \(\**lèse majesté* vs. *lese majesty* vs. \**laesae majestatis* vs. \**leze majesty*\): 89:26:9:1
 

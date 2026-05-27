@@ -10,6 +10,6 @@ taken aback. This phrase \(meaning "shocked or stunned, usu. by something someon
 
 ## Language-Change Index
 
-*\*taken back* misused for *taken aback*: Stage 2
-Current ratio in print \(*somewhat taken aback* vs. *\*somewhat taken back*\): 27:1
+ - *\*taken back* misused for *taken aback*: Stage 2
+ - Current ratio in print \(*somewhat taken aback* vs. *\*somewhat taken back*\): 27:1
 

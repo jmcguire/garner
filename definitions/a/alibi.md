@@ -6,13 +6,13 @@ alibi.
 
 ## Language-Change Index
 
-*alibi* for *excuse*: Stage 3 Current ratio in print \(*an excuse for not* vs. *an alibi for not*\): 75:1
+ - *alibi* for *excuse*: Stage 3 Current ratio in print \(*an excuse for not* vs. *an alibi for not*\): 75:1
 
 **B. As an Adverb.** In legal usage since the 1600s, *alibi* has sometimes been used as an adverb \(meaning "elsewhere" <he proved himself alibi>\), but this usage should be avoided. Although "elsewhere" is the original Latin meaning of *alibi* \(originally a locative of L. *alius* "other"\), in English it has long served only as a noun, and harking back to the classical sense is an affectation.
 
 ## Language-Change Index
 
-*alibi* as an adverb: Stage 1
+ - *alibi* as an adverb: Stage 1
 
 **C. As a Verb.** Nor should *alibi* be used as a verb, as it occasionally has been since the late 1800s. The examples below are doubly bad, since the misbegotten verb \(meaning *excuse*\) is based on the misused noun:
 
@@ -24,5 +24,5 @@ alibi.
 
 ## Language-Change Index
 
-*alibi* as a verb: Stage 1
+ - *alibi* as a verb: Stage 1
 

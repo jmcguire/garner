@@ -4,5 +4,5 @@ iterate. Although *iterate* \(= to say or do again\) is not an equivalent of *un
 
 ## Language-Change Index
 
-*iterate* misused for *underscore* or *ensure*: Stage 1
+ - *iterate* misused for *underscore* or *ensure*: Stage 1
 

@@ -4,6 +4,6 @@ habeas corpus \(lit., "you shall have the body"\) = a writ ordering that a perso
 
 In AmE, the traditional plural *habeas corpora* has gradually given way to *habeas corpuses*. See **corpus**.
 
-Current ratio in print \(*habeas corpuses* vs*. habeas corpora* in AmE\): 1.6:1
-Current ratio in print \(*habeas corpuses* vs. *habeas corpora* in World Englishes\): 1:1.9
+ - Current ratio in print \(*habeas corpuses* vs*. habeas corpora* in AmE\): 1.6:1
+ - Current ratio in print \(*habeas corpuses* vs. *habeas corpora* in World Englishes\): 1:1.9
 

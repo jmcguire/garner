@@ -19,8 +19,8 @@ The phrase is sometimes wrongly written *\*hare's breath* or *\*hair's breath*â€
 ## Language-Change Index
 
 1. *\*hare's breath* for *hair's breadth*: Stage 1
-Current ratio in print \(*hair's breadth* vs. *\*hare's breath*\): 282:1
+ - Current ratio in print \(*hair's breadth* vs. *\*hare's breath*\): 282:1
 
 2. *\*hair's breath* for *hair's breadth*: Stage 1
-Current ratio in print \(*hair's breadth* vs. *\*hair's breath*\): 44:1
+ - Current ratio in print \(*hair's breadth* vs. *\*hair's breath*\): 44:1
 

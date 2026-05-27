@@ -10,7 +10,7 @@ circumnavigate; **circumvent**. *Circumnavigate* \(= to go completely around \[s
 
 ## Language-Change Index
 
-*circumvent* misused for *circumnavigate*: Stage 1
+ - *circumvent* misused for *circumnavigate*: Stage 1
 
-Current ratio in print \(*circumnavigate the globe* vs. *\*circumvent the globe*\): 43:1
+ - Current ratio in print \(*circumnavigate the globe* vs. *\*circumvent the globe*\): 43:1
 

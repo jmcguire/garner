@@ -12,6 +12,6 @@ See -cast & irregular verbs.
 
 ## Language-Change Index
 
-*\*telecasted* for *telecast* as a past tense: Stage 1
-Current ratio in print \(*was telecast* vs. *\*was telecasted*\): 7:1
+ - *\*telecasted* for *telecast* as a past tense: Stage 1
+ - Current ratio in print \(*was telecast* vs. *\*was telecasted*\): 7:1
 

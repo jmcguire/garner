@@ -12,6 +12,6 @@ Of course, the verb *rend* \(= to split, tear\) has nothing to do with the verb 
 
 ## Language-Change Index
 
-*\*heart-rendering* for *heart-rending*: Stage 1
-Current ratio in print \(*heart-rending* vs. *\*heart-rendering*\): 83:1
+ - *\*heart-rendering* for *heart-rending*: Stage 1
+ - Current ratio in print \(*heart-rending* vs. *\*heart-rendering*\): 83:1
 

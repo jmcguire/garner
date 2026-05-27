@@ -12,5 +12,5 @@ Cf. **proactive**.
 
 ## Language-Change Index
 
-*reactionary* misused for *reactive*: Stage 1
+ - *reactionary* misused for *reactive*: Stage 1
 

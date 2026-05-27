@@ -17,8 +17,8 @@ The superlatives—*farthest* and *furthest*—follow the same patterns. *Furthe
 ## Language-Change Index
 
 1. *further* for physical distances: Stage 4
-Current ratio in print \(*traveled farther* vs. *traveled further* in AmE\): 2.4:1
+ - Current ratio in print \(*traveled farther* vs. *traveled further* in AmE\): 2.4:1
 
 2. *farther* for figurative distances: Stage 2
-Current ratio in print \(*read further* vs. *\*read farther*\): 27:1
+ - Current ratio in print \(*read further* vs. *\*read farther*\): 27:1
 

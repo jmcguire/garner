@@ -8,5 +8,5 @@ The adjectival form is *antipathetic*.
 
 ## Language-Change Index
 
-*antipathy* misused for *antithesis*: Stage 1
+ - *antipathy* misused for *antithesis*: Stage 1
 

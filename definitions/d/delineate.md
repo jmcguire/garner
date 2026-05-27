@@ -10,5 +10,5 @@ delineate \(= \[1\] to sketch out or describe with some degree of specificity or
 
 ## Language-Change Index
 
-*delineate* misused for *differentiate* in the phrase \**delineate between*: Stage 3
+ - *delineate* misused for *differentiate* in the phrase \**delineate between*: Stage 3
 

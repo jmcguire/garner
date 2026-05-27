@@ -4,7 +4,7 @@ benefit.
 
 **A. Inflections of Verb.** *Benefit* makes *benefited* and *benefiting* in AmE and BrE alike—not *\*benefitted* and *\*benefitting*. See spelling \(c\).
 
-Current ratio in print \(*benefited* vs. *benefitted* in World Englishes\): 4:1
+ - Current ratio in print \(*benefited* vs. *benefitted* in World Englishes\): 4:1
 
 **B. Improving Wordy Constructions.** As a verb, *benefit* typically functions more economically and smoothly in the active voice than in the passive—e.g.:
 

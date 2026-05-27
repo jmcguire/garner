@@ -10,5 +10,5 @@ knave \(= a rogue\) is sometimes, through the most spectacular word-swapping, co
 
 ## Language-Change Index
 
-*knave* misused for *nave*: Stage 1
+ - *knave* misused for *nave*: Stage 1
 

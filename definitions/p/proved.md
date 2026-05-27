@@ -16,6 +16,6 @@ In AmE, *proven*, like *stricken*, is best used only as an adjective—e.g.:
 
 ## Language-Change Index
 
-*proven* as a past participle: Stage 4
-Current ratio in print \(*experience has proved* vs. *\*experience has proven*\): 2.4:1
+ - *proven* as a past participle: Stage 4
+ - Current ratio in print \(*experience has proved* vs. *\*experience has proven*\): 2.4:1
 

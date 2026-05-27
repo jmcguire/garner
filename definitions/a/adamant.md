@@ -14,5 +14,5 @@ The two forms vied for predominance through the 1930s and 1940s. By the 1950s, *
 
 ## Language-Change Index
 
-*adamancy*: Stage 5 Current ratio in print \(*adamancy* vs. *adamance*\): 3:1
+ - *adamancy*: Stage 5 Current ratio in print \(*adamancy* vs. *adamance*\): 3:1
 

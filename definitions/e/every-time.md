@@ -10,6 +10,6 @@ every time. Two words. But many writers try to solidify the phrase—e.g.:
 
 ## Language-Change Index
 
-*\*everytime* for *every time*: Stage 1
-Current ratio in print \(*every time* vs. *\*everytime*\): 209:1
+ - *\*everytime* for *every time*: Stage 1
+ - Current ratio in print \(*every time* vs. *\*everytime*\): 209:1
 

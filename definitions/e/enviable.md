@@ -14,6 +14,6 @@ The pair is in the unenviable position of being susceptible to word-swapping—e
 
 ## Language-Change Index
 
-*envious* misused for *enviable*: Stage 1
-Current ratio in print \(*enviable reputation* vs. *\*envious reputation*\): 60:1
+ - *envious* misused for *enviable*: Stage 1
+ - Current ratio in print \(*enviable reputation* vs. *\*envious reputation*\): 60:1
 

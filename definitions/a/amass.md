@@ -4,5 +4,5 @@ amass, vb. This is traditionally a transitive verb meaning "to accumulate \(some
 
 ## Language-Change Index
 
-*amass* used in an intransitive sense: Stage 1
+ - *amass* used in an intransitive sense: Stage 1
 

@@ -44,8 +44,8 @@ In a 2021 poll taken at a Cosmos Club event in Washington, D.C., 100% of those v
 
 ## Language-Change Index
 
-*\*between you and I* for *between you and me*: Stage 3
-Current ratio in print \(*between you and me* vs. *\*between you and I*\): 16:1
+ - *\*between you and I* for *between you and me*: Stage 3
+ - Current ratio in print \(*between you and me* vs. *\*between you and I*\): 16:1
 
 **C. *Between* and Numbers.** This usage causes problems if the things being counted are discrete units and the numbers at each extreme are intended to be included. E.g.:
 
@@ -75,7 +75,7 @@ When you intend to refer to a range of possibilities from a low point to a high 
 
 Both logic and idiom require *and* in these constructions, not *or*. One chooses between things \(plural\), not a thing. *X or Y* is a thing; *X and Y* are things. Now, it's true that once you've chosen, you have either X or Y—so as a matter of prolepsis, some writers are tempted by the *or*. \(See **prolepsis** \[p. 1234\].\) But it makes no literal sense.
 
-Current ratio in print \(*choose between him and X* vs. \**choose between him or X*\): 18:1
+ - Current ratio in print \(*choose between him and X* vs. \**choose between him or X*\): 18:1
 
 **E. *Between*; *as between*.** Sometimes *as between* \(= comparing; in comparison of\) is misused for the straightforward preposition. E.g.: "The contractual provisions *as between* \[read *between*\] the parties are as follows." Cf. **as against**.
 
@@ -91,6 +91,6 @@ Current ratio in print \(*choose between him and X* vs. \**choose between him or
 
 ## Language-Change Index
 
-*\*between each period* for *between periods*: Stage 2
-Current ratio in print \(*between periods* vs. *\*between each period*\): 78:1
+ - *\*between each period* for *between periods*: Stage 2
+ - Current ratio in print \(*between periods* vs. *\*between each period*\): 78:1
 

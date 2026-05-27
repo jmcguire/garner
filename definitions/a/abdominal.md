@@ -12,5 +12,5 @@ Sometimes the substitution isn't an error but a pun, as in this headline: "Arnal
 
 ## Language-Change Index
 
-*\*abdominable* for *abdominal*: Stage 1 Current ratio in print \(*abdominal* vs. *\*abdominable*\): 18,555:1
+ - *\*abdominable* for *abdominal*: Stage 1 Current ratio in print \(*abdominal* vs. *\*abdominable*\): 18,555:1
 

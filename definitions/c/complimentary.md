@@ -12,6 +12,6 @@ The set phrase for the sign-off in a letter is *complimentary close*.
 
 ## Language-Change Index
 
-*complementary* misused for *complimentary*: Stage 1
-Current ratio in print \(*complimentary close* vs. *\*complementary close*\): 42:1
+ - *complementary* misused for *complimentary*: Stage 1
+ - Current ratio in print \(*complimentary close* vs. *\*complementary close*\): 42:1
 

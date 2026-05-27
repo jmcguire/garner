@@ -4,7 +4,7 @@ archetype; **prototype**. Although these words are close in meaning, a distincti
 
 Inconsistently enough, the corresponding adjectives are *archetypal* and *prototypical*. The several by-forms \(*\*archetypic*, *\*archetypical*, *\*prototypal*, and *\*prototypic*\) are needless variants.
 
-Current ratio in print \(*archetypal* vs. *\*archetypical* vs. *\*archetypic*\): 794:104:1
+ - Current ratio in print \(*archetypal* vs. *\*archetypical* vs. *\*archetypic*\): 794:104:1
 
-Current ratio in print \(*prototypical* vs. *\*prototypic* vs. *\*prototypal*\): 53:4:1
+ - Current ratio in print \(*prototypical* vs. *\*prototypic* vs. *\*prototypal*\): 53:4:1
 

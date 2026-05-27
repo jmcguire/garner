@@ -10,5 +10,5 @@ But it's often quite natural and idiomatic to use *that* in place of *in which*,
 
 ## Language-Change Index
 
-*\*way which* for *way in which*: Stage 1
+ - *\*way which* for *way in which*: Stage 1
 

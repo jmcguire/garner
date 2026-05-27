@@ -20,5 +20,5 @@ The word is pronounced /**flor**-yoo-it/.
 
 ## Language-Change Index
 
-*\*floruit period* for *floruit*: Stage 1
+ - *\*floruit period* for *floruit*: Stage 1
 

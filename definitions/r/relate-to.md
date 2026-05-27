@@ -4,5 +4,5 @@ relate to \(= to empathize with; to understand because of one's own experience\)
 
 ## Language-Change Index
 
-*relate to* in the sense "empathize with": Stage 4
+ - *relate to* in the sense "empathize with": Stage 4
 

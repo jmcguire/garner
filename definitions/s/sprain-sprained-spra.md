@@ -12,5 +12,5 @@ Another error is to misuse *strain* for *sprain* in reference to ankles, as in \
 
 ## Language-Change Index
 
-*\*sprang ankle* for *sprained ankle*: Stage 1
+ - *\*sprang ankle* for *sprained ankle*: Stage 1
 

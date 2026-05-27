@@ -4,5 +4,5 @@ accuse; **charge**. One is *accused of*, then *charged with*, a crime. Perhaps u
 
 ## Language-Change Index
 
-*\*accused with* for *accused of*: Stage 1 Current ratio in print \(*accused of* vs. \**accused with*\): 136:1
+ - *\*accused with* for *accused of*: Stage 1 Current ratio in print \(*accused of* vs. \**accused with*\): 136:1
 

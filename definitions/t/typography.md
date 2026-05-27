@@ -4,5 +4,5 @@ typography; **topography**. *Typography* = the study and techniques of using typ
 
 ## Language-Change Index
 
-*typography* misused for *topography*: Stage 1
+ - *typography* misused for *topography*: Stage 1
 

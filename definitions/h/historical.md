@@ -19,10 +19,10 @@ The far less common mistake is misusing *historical* for *historic*—e.g.: "Gar
 ## Language-Change Index
 
 1. *historic* for *historical*: Stage 3
-Current ratio in print \(*the historical development* vs. *\*the historic development*\): 29:1
+ - Current ratio in print \(*the historical development* vs. *\*the historic development*\): 29:1
 
 2. *historical* for *historic*: Stage 3
-Current ratio in print \(*historic occasion* vs. *\*historical occasion*\): 3:1
+ - Current ratio in print \(*historic occasion* vs. *\*historical occasion*\): 3:1
 
 **B. *A historic\(al\)*; *\*an historic\(al\)*.** On the question whether to write *a* or *an historic\(al\)*, see **a \(a\)**.
 

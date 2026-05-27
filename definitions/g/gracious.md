@@ -10,5 +10,5 @@ President George W. Bush was quoted as making this gaffe in 2001: "I'm so thankf
 
 ## Language-Change Index
 
-*gracious* misused for *grateful*: Stage 1
+ - *gracious* misused for *grateful*: Stage 1
 

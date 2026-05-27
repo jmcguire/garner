@@ -10,5 +10,5 @@ The word is pronounced /kә-**mel**-ә-pahrd/.
 
 ## Language-Change Index
 
-*camelopard* misspelled *\*cameleopard*: Stage 1 Current ratio in print \(*camelopard* vs. \**cameleopard*\): 1.7:1
+ - *camelopard* misspelled *\*cameleopard*: Stage 1 Current ratio in print \(*camelopard* vs. \**cameleopard*\): 1.7:1
 

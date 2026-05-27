@@ -43,10 +43,10 @@ Trigger warning: the following ratios aren't altogether comforting to traditiona
 ## Language-Change Index
 
 Garden-variety fused participle <I can understand him not wanting to participate>: Stage 3
-Current ratio in print \(*resent their being* vs. *resent them being* in World Englishes\): 1.5:1
-Current ratio in print \(*appreciate you coming* vs. *appreciate your coming* in AmE\): 2:1
-Current ratio in print \(*appreciate you coming* vs. *appreciate your coming* in BrE\): 3:1
-Current ratio in print \(*appreciate you coming* vs. *appreciate your coming* in World Englishes\): 3:1
+ - Current ratio in print \(*resent their being* vs. *resent them being* in World Englishes\): 1.5:1
+ - Current ratio in print \(*appreciate you coming* vs. *appreciate your coming* in AmE\): 2:1
+ - Current ratio in print \(*appreciate you coming* vs. *appreciate your coming* in BrE\): 3:1
+ - Current ratio in print \(*appreciate you coming* vs. *appreciate your coming* in World Englishes\): 3:1
 
 **B. A Brief History.** Rather cryptically, H.W. Fowler wrote in 1926 that the phrase *fused participle* had been "invented a dozen years \[before\] for the purpose of labelling & so making recognizable & avoidable a usage considered by the inventor to be rapidly corrupting English style." \(*FMEU1* at 206.\) Who was this inventor? Either H.W. himself or his late brother, F.G. Fowler, who died in 1918 from tuberculosis contracted in World War I. The term was first used, it is believed, in *The King's English* \(2d ed. 1908\). In that book, the two brothers elaborated why they thought the fused participle "defrauds" both the gerund and the "honest participle." \(*Ibid.* at 120.\) The argument extends for ten pages.
 

@@ -32,5 +32,5 @@ Since the word sometimes implies authoritativeness, sometimes disingenuousness, 
 
 ## Language-Change Index
 
-*\*opinioned* for *opined*: Stage 1
+ - *\*opinioned* for *opined*: Stage 1
 

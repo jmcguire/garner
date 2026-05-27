@@ -10,6 +10,6 @@ considerable, used adverbially for *considerably*, is labeled "obsolete or diale
 
 ## Language-Change Index
 
-*considerable* misused adverbially for *considerably*: Stage 1
-Current ratio in print \(*considerably more* vs. *\*considerable more*\): 78:1
+ - *considerable* misused adverbially for *considerably*: Stage 1
+ - Current ratio in print \(*considerably more* vs. *\*considerable more*\): 78:1
 

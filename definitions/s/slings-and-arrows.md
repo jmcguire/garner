@@ -6,5 +6,5 @@ By the late 1700s, some writers had mistaken the allusive phrase and begun misre
 
 By the 1960s, the phrase *slings and arrows* had taken on a new sense in theatrical, literary, musical, and artistic contexts, referring to acerbic attacks or bad reviews <she has endured the slings and arrows of dyspeptic critics>.
 
-Current ratio in print \(*slings and arrows* vs. \**stings and arrows* vs. \**strings and arrows*\): 221:2.2:1
+ - Current ratio in print \(*slings and arrows* vs. \**stings and arrows* vs. \**strings and arrows*\): 221:2.2:1
 

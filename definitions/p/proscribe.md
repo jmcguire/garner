@@ -13,7 +13,7 @@ Sometimes, but much less often, the opposite error occurs—e.g.: "Most of these
 ## Language-Change Index
 
 1. *proscribe* misused for *prescribe*: Stage 1
-Current ratio in print \(*prescribe rules* vs. *\*proscribe rules*\): 313:1
+ - Current ratio in print \(*prescribe rules* vs. *\*proscribe rules*\): 313:1
 
 2. *prescribe* misused for *proscribe*: Stage 1
 

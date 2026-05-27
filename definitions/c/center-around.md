@@ -34,9 +34,9 @@ The recommendation here is to understand that although *centering around* may on
 
 ## Language-Change Index
 
-*center around* for *center on* or *revolve around*: Stage 3
+ - *center around* for *center on* or *revolve around*: Stage 3
 
-Current ratio in print \(*centering on* vs. *centering around* in AmE\): 7:1
+ - Current ratio in print \(*centering on* vs. *centering around* in AmE\): 7:1
 
-Current ratio in print \(*centering on* vs. *centering around* in BrE & World Englishes\): 5:1
+ - Current ratio in print \(*centering on* vs. *centering around* in BrE & World Englishes\): 5:1
 

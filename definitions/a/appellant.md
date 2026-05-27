@@ -4,6 +4,6 @@ appellant. This word is ordinarily a noun meaning "a litigant who appeals agains
 
 ## Language-Change Index
 
-*appellant* misused for *appellate*: Stage 1
-Current ratio in print \(*appellate court* vs. *\*appellant court*\): 452:1
+ - *appellant* misused for *appellate*: Stage 1
+ - Current ratio in print \(*appellate court* vs. *\*appellant court*\): 452:1
 

@@ -4,5 +4,5 @@ kindly, adv. This word is now frequently misplaced in sentences. Traditionally, 
 
 ## Language-Change Index
 
-*kindly* in reference to the requester instead of the person requested: Stage 2
+ - *kindly* in reference to the requester instead of the person requested: Stage 2
 

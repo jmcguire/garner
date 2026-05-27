@@ -6,5 +6,5 @@ Since the mid-1800s, *scissors* has occasionally been construed with a singular 
 
 As a term used in sports \(e.g., wrestling, gymnastics\), *scissors* always takes a singular verb <the scissors is a classic wrestling move> <in the pommel-horse competition, the scissors is a demanding display requiring great gymnastic skill>.
 
-Current ratio in print \(*The scissors are* vs. *The scissors is*\): 10:1
+ - Current ratio in print \(*The scissors are* vs. *The scissors is*\): 10:1
 

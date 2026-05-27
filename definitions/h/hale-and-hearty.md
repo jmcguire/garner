@@ -12,6 +12,6 @@ Cf. **hardy**.
 
 ## Language-Change Index
 
-*\*hail and hardy* \(any variation\) for *hale and hearty*: Stage 1
-Current ratio in print \(*hale and hearty* vs. *\*hale and hardy* vs. *\*hail and hearty*\): 151:3:1
+ - *\*hail and hardy* \(any variation\) for *hale and hearty*: Stage 1
+ - Current ratio in print \(*hale and hearty* vs. *\*hale and hardy* vs. *\*hail and hearty*\): 151:3:1
 

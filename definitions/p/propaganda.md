@@ -4,5 +4,5 @@ propaganda, typically a singular mass noun, makes the \(rare\) count-noun plural
 
 ## Language-Change Index
 
-*propaganda* misused as a plural: Stage 1
+ - *propaganda* misused as a plural: Stage 1
 

@@ -10,5 +10,5 @@ diminish \(= to reduce in size, importance, etc.\) may be either transitive or i
 
 ## Language-Change Index
 
-*\*diminish from* for *detract from*: Stage 1
+ - *\*diminish from* for *detract from*: Stage 1
 

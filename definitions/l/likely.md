@@ -4,5 +4,5 @@ likely. Traditionally, this word had to be preceded by a modifier such as *very*
 
 ## Language-Change Index
 
-*likely* as an equivalent of *probably* \(as in *We'll likely be on time*\): Stage 5
+ - *likely* as an equivalent of *probably* \(as in *We'll likely be on time*\): Stage 5
 

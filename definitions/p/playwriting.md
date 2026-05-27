@@ -12,6 +12,6 @@ See spelling \(a\). For a similar error, see **copyright**.
 
 ## Language-Change Index
 
-*playwriting* misspelled *\*playwrighting*: Stage 1
-Current ratio in print \(*playwriting* vs. *\*playwrighting*\): 30:1
+ - *playwriting* misspelled *\*playwrighting*: Stage 1
+ - Current ratio in print \(*playwriting* vs. *\*playwrighting*\): 30:1
 

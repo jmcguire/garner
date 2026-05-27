@@ -25,11 +25,11 @@ In what appears to be an amalgam of the two words, *baloney* is sometimes misspe
 ## Language-Change Index
 
 1. *bologna* misused for *baloney* in reference to nonsense: Stage 1
-Current ratio in print \(*bunch of baloney* vs. *\*bunch of bologna*\): 5:1
+ - Current ratio in print \(*bunch of baloney* vs. *\*bunch of bologna*\): 5:1
 
 2. *baloney* misused for *bologna* in reference to meat: Stage 3
-Current ratio in print \(*bologna sandwich* vs. *\*baloney sandwich*\): 3:1
+ - Current ratio in print \(*bologna sandwich* vs. *\*baloney sandwich*\): 3:1
 
 3. *\*boloney* for *baloney*: Stage 1
-Current ratio in print \(*baloney* vs. *\*boloney*\): 25:1
+ - Current ratio in print \(*baloney* vs. *\*boloney*\): 25:1
 

@@ -12,6 +12,6 @@ The error occurs also in BrE—e.g.: "Britain is doing its *upmost* \[read *utmo
 
 ## Language-Change Index
 
-*upmost* misused for *utmost*: Stage 1
-Current ratio in print \(*utmost importance* vs. *\*upmost importance*\): 50:1
+ - *upmost* misused for *utmost*: Stage 1
+ - Current ratio in print \(*utmost importance* vs. *\*upmost importance*\): 50:1
 

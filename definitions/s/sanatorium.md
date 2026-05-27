@@ -10,5 +10,5 @@ Although the traditional plural is *sanatoria*, the anglicized *sanatoriums* has
 
 Although some writers have tried to distinguish *\*sanitorium* as a facility for physical healthcare from *sanatorium* as one for mental healthcare, the distinction has never taken hold.
 
-Current ratio in print \(*sanatorium* vs. \**sanitarium* vs. \**sanitorium* vs. \**sanatarium*\): 86:41:3:1
+ - Current ratio in print \(*sanatorium* vs. \**sanitarium* vs. \**sanitorium* vs. \**sanatarium*\): 86:41:3:1
 

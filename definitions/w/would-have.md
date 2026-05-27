@@ -10,6 +10,6 @@ would have for *had*, in a conditional statement, is an example of a confused se
 
 ## Language-Change Index
 
-*\*if I would have* for *if I had*: Stage 2
-Current ratio in print \(*if I had gone* vs. *\*if I would have gone*\): 23:1
+ - *\*if I would have* for *if I had*: Stage 2
+ - Current ratio in print \(*if I had gone* vs. *\*if I would have gone*\): 23:1
 

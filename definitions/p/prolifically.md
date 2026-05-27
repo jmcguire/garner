@@ -4,6 +4,6 @@ prolifically is the adverb corresponding to *prolific*, adj. But some writers mi
 
 ## Language-Change Index
 
-*prolifically* misspelled *\*prolificly*: Stage 1
-Current ratio in print \(*prolifically* vs. \**prolificly*\): 960:1
+ - *prolifically* misspelled *\*prolificly*: Stage 1
+ - Current ratio in print \(*prolifically* vs. \**prolificly*\): 960:1
 

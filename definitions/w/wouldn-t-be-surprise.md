@@ -10,5 +10,5 @@ wouldn't be surprised. Generally, a negative shouldn't appear after this phrase.
 
 ## Language-Change Index
 
-*wouldn't be surprised* followed by a negative: Stage 2
+ - *wouldn't be surprised* followed by a negative: Stage 2
 

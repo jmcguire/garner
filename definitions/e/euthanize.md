@@ -10,5 +10,5 @@ euthanize; **\*euthanatize**. These terms, meaning "to subject to euthanasia," a
 
 See -ize.
 
-Current ratio in print \(*euthanize* vs. \**euthanatize*\): 240:1
+ - Current ratio in print \(*euthanize* vs. \**euthanatize*\): 240:1
 

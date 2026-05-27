@@ -4,6 +4,6 @@ bequest, v.t., is obsolete in place of *bequeath*. Today it amounts to no more t
 
 ## Language-Change Index
 
-*bequest* misused for the verb *bequeath*: Stage 1
-Current ratio in print \(*bequeathed* vs. *\*bequested*\): 689:1
+ - *bequest* misused for the verb *bequeath*: Stage 1
+ - Current ratio in print \(*bequeathed* vs. *\*bequested*\): 689:1
 

@@ -12,6 +12,6 @@ The past-participial *served* is required in this phrase. The first people to co
 
 ## Language-Change Index
 
-*\*first-come, first-serve* for *first-come, first-served*: Stage 3
-Current ratio in print \(*first come first served* vs. *\*first come first serve*\): 2:1
+ - *\*first-come, first-serve* for *first-come, first-served*: Stage 3
+ - Current ratio in print \(*first come first served* vs. *\*first come first serve*\): 2:1
 

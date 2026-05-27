@@ -14,7 +14,7 @@ The past form *\*clefted* is an infrequent solecism—e.g.:
 
 ## Language-Change Index
 
-*\*clefted* misused for *cleft*: Stage 1
+ - *\*clefted* misused for *cleft*: Stage 1
 
-Current ratio in print \(*cleft* vs. *\*clefted*\): 137:1
+ - Current ratio in print \(*cleft* vs. *\*clefted*\): 137:1
 

@@ -12,5 +12,5 @@ Sometimes *comedic* is misused for *comical*—e.g.: "Their first attempts to na
 
 ## Language-Change Index
 
-*comedic* misused for *comical*: Stage 1
+ - *comedic* misused for *comical*: Stage 1
 

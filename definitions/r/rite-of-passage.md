@@ -12,6 +12,6 @@ Cf. **last rites**.
 
 ## Language-Change Index
 
-*right* misused for *rite*: Stage 2
-Current ratio in print \(*rite of passage* vs. *\*right of passage*\): 14:1
+ - *right* misused for *rite*: Stage 2
+ - Current ratio in print \(*rite of passage* vs. *\*right of passage*\): 14:1
 

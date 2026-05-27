@@ -10,6 +10,6 @@ A cognate of *epistle* \(letter\), the word is pronounced /i-**pis**-tә-ler-ee/
 
 ## Language-Change Index
 
-*\*epistolatory* for *epistolary*: Stage 1
-Current ratio in print \(*epistolary* vs. *\*epistolatory*\): 246:1
+ - *\*epistolatory* for *epistolary*: Stage 1
+ - Current ratio in print \(*epistolary* vs. *\*epistolatory*\): 246:1
 

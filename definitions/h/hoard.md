@@ -21,11 +21,11 @@ Finally, through a mistaken association of the two words, the misspelling *\*hoa
 ## Language-Change Index
 
 1. *hoard* misused for the noun *horde*: Stage 2
-Current ratio in print \(*hordes of* vs. *\*hoards of *\): 9:1
+ - Current ratio in print \(*hordes of* vs. *\*hoards of *\): 9:1
 
 2. *horde* misused for the verb *hoard*: Stage 1
-Current ratio in print \(*hoarding* *of* vs. *\*hording of *\): 84:1
+ - Current ratio in print \(*hoarding* *of* vs. *\*hording of *\): 84:1
 
 3. *horde* misspelled *\*hoarde*: Stage 1
-Current ratio in print \(*horde* vs. *\*hoarde*\): 2,080:1
+ - Current ratio in print \(*horde* vs. *\*hoarde*\): 2,080:1
 

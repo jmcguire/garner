@@ -12,8 +12,8 @@ There is, of course, an exception for traditional wordings. For example, in Earl
 
 ## Language-Change Index
 
-*which* wrongly applied to people: Stage 1
-Current ratio in print \(*people who* vs. *people that* vs*. \*people which*\): 130:18:1
+ - *which* wrongly applied to people: Stage 1
+ - Current ratio in print \(*people who* vs. *people that* vs*. \*people which*\): 130:18:1
 
 **C. Beginning Sentences with.** Increasingly in modern prose, *Which* is being used to begin an incomplete sentence. Is this permissible? Yes, the answer must be—primarily in three instances.
 

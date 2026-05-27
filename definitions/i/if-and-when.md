@@ -6,7 +6,7 @@ if and when.
 
 ## Language-Change Index
 
-*if and when* for *if*: Stage 4
+ - *if and when* for *if*: Stage 4
 
 **B. And *when and if*.** Perhaps in an attempt to get out of a rhetorical rut, some writers reverse these words and make it *when and if* with no change in nuance intended. But that construction loses any logical value that the original may have had—*when* the thing is done, there is no further question about *if* it will be done. Some other phrasing is usually advisable—e.g.:
 

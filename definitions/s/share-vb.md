@@ -16,7 +16,7 @@ Dating from the second half of the 20th century, the usage has become all but ub
 
 ## Language-Change Index
 
-*share* in the sense "to convey personal information": Stage 4
+ - *share* in the sense "to convey personal information": Stage 4
 
 **B. Redundant Uses.** This verb appears in various redundant phrases, such as *\*share in common*, *\*share together*, and *\*both share*—e.g.:
 

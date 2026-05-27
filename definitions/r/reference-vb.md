@@ -14,6 +14,6 @@ See functional shift \(d\) & computerese.
 
 ## Language-Change Index
 
-*reference* in the sense "to refer to": Stage 4
-Current ratio in print \(*refer to the fact* vs. *\*reference the fact*\): 24:1
+ - *reference* in the sense "to refer to": Stage 4
+ - Current ratio in print \(*refer to the fact* vs. *\*reference the fact*\): 24:1
 

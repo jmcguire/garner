@@ -18,5 +18,5 @@ Strangely, a misconception is afoot that *dilation of the eyes* means "constrict
 
 The words are pronounced /dī-**lay**-shәn/ and /dil-ә-**tay**-shәn/.
 
-Current ratio in print \(*dilation* vs. *dilatation*\): 1.8:1
+ - Current ratio in print \(*dilation* vs. *dilatation*\): 1.8:1
 

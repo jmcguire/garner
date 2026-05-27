@@ -12,5 +12,5 @@ In this particular use, *deferment* is now a needless variant.
 
 But *deferment* does have one special use, in the sense "an official postponement of military service." This use was common when the military draft was in effect during the Vietnam War, but it has since atrophied.
 
-Current ratio in print \(*deferral* vs. *deferment*\): 4:1
+ - Current ratio in print \(*deferral* vs. *deferment*\): 4:1
 

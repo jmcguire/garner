@@ -19,5 +19,5 @@ For the verb *input*, as with the irregular verb *put*, the usual past-tense for
 2. *input* as a verb: Stage 4
 
 3. *\*inputted* as a past tense: Stage 2
-Current ratio in print \(*been input* vs. *\*been inputted*\): 4:1
+ - Current ratio in print \(*been input* vs. *\*been inputted*\): 4:1
 

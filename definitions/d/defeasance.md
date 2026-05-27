@@ -20,6 +20,6 @@ And with all this use of the nouns, it is hardly surprising that writers have fe
 
 ## Language-Change Index
 
-*\*defeasement* for *defeasance*: Stage 1
-Current ratio in print \(*defeasance* vs. *\*defeasement*\): 55:1
+ - *\*defeasement* for *defeasance*: Stage 1
+ - Current ratio in print \(*defeasance* vs. *\*defeasement*\): 55:1
 

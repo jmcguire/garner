@@ -4,5 +4,5 @@ tempestuous; **tempestive**. *Tempestuous* \(a common word\) = stormy <Jane has 
 
 ## Language-Change Index
 
-*tempestive* misused for *tempestuous*: Stage 1
+ - *tempestive* misused for *tempestuous*: Stage 1
 

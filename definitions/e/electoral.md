@@ -12,6 +12,6 @@ The word is preferably pronounced /i-**lek**-tә-rәl/, not /ee-lek-**tor**-әl/
 
 ## Language-Change Index
 
-*electoral* misspelled *\*electorial*: Stage 1
-Current ratio in print \(*electoral* vs. \**electorial*\): 3,396:1
+ - *electoral* misspelled *\*electorial*: Stage 1
+ - Current ratio in print \(*electoral* vs. \**electorial*\): 3,396:1
 

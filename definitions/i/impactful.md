@@ -12,5 +12,5 @@ Whatever its future may be, *\*impactful* is, for now, a word to be scorned. Amo
 
 ## Language-Change Index
 
-*\*impactful* for *influential* or *powerful*: Stage 2
+ - *\*impactful* for *influential* or *powerful*: Stage 2
 

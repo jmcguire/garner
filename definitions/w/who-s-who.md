@@ -12,6 +12,6 @@ The error sprang up in the early 20th century and spread especially after 1960. 
 
 ## Language-Change Index
 
-*\*who's whom* for *who's who*: Stage 1
-Current ratio in print \(*who is who* vs. *\*who is whom*\): 58:1
+ - *\*who's whom* for *who's who*: Stage 1
+ - Current ratio in print \(*who is who* vs. *\*who is whom*\): 58:1
 

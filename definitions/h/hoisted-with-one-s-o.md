@@ -10,6 +10,6 @@ Third, as illustrated in the quotation just above, there is a question about wha
 
 In sum, almost every contemporary writer who uses this popular phrase misquotes Shakespeare in some way—and it would be pedantic to insist on *hoist with his own petar*. The usual renderings are *hoist with his own petard* and *hoisted by his own petard*. Some preference might be given to the first of those. See literary allusion.
 
-Current ratio in print \(*hoist with his own petard* vs. *hoist with his own petar*\): 25:1
-Current ratio in print \(*hoist with his own petard* vs. *hoisted with his own petard*\): 6:1
+ - Current ratio in print \(*hoist with his own petard* vs. *hoist with his own petar*\): 25:1
+ - Current ratio in print \(*hoist with his own petard* vs. *hoisted with his own petard*\): 6:1
 

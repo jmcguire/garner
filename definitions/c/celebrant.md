@@ -8,7 +8,7 @@ Often, however, *celebrant* appears where *celebrator* would be the better wordâ
 
 ## Language-Change Index
 
-*celebrant* for "a participant in a celebration": Stage 3
+ - *celebrant* for "a participant in a celebration": Stage 3
 
 **B. *Funeral celebrants*.** Although *celebrant* simply means "someone who performs a religious rite" and doesn't necessarily have anything to do with jubilation, its sound association makes it unfit for funeral contexts. Why invite tasteless jokes? That's the effect of saying that this or that religious figure will be the chief *celebrant* at a funeralâ€”e.g.:
 

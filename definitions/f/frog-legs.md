@@ -25,5 +25,5 @@ Those citations don't quite reflect general usage in newspapers and journals. Of
 3. *\*frog's legs*: Stage 3
 
 4. *\*frogs legs*: Stage 1
-Current ratio in print \(*frog legs* vs. *frogs' legs* vs. \**frog's legs* vs. \**frogs legs*\): 15:10:4:1
+ - Current ratio in print \(*frog legs* vs. *frogs' legs* vs. \**frog's legs* vs. \**frogs legs*\): 15:10:4:1
 

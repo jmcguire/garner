@@ -18,5 +18,5 @@ In quasi-figurative phrases <we really sweated over that one\!> <they sweated it
 
  - "The result of this was she wanted to meet my parents. I really *sweated* that one out. I *sweated* out what my parents would say." Clyde A. Weber, *Church in the Wildwood* 68 \(2013\).
 
-Current ratio in print \(*he sweated* vs. *\*he sweat*\): 5:1
+ - Current ratio in print \(*he sweated* vs. *\*he sweat*\): 5:1
 

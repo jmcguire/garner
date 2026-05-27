@@ -51,10 +51,10 @@ Some blame the confusion in part on the children's prayer that begins, "Now I *l
 1. *lay* misused for *lie*: Stage 4
 
 2. *\*lay low* for *lie low* \(as a present-tense form\): Stage 4
-Current ratio in print \(*to lie low* vs. *\*to lay low*\): 1.1:1
+ - Current ratio in print \(*to lie low* vs. *\*to lay low*\): 1.1:1
 
 3. *\*laid low* for *lay low* \(as a past form\): Stage 4
-Current ratio in print \(*they lay low* vs. *\*they laid low*\): 1.9:1
+ - Current ratio in print \(*they lay low* vs. *\*they laid low*\): 1.9:1
 
 **C. *Laid* for Past-Tense *lay*.** The *lay*-for-*lie* error also occurs with the past-tense forms—e.g.:
 
@@ -64,8 +64,8 @@ Current ratio in print \(*they lay low* vs. *\*they laid low*\): 1.9:1
 
 ## Language-Change Index
 
-*laid* misused for past-tense *lay*: Stage 4
-Current ratio in print \(*he lay down on* vs. *\*he laid down on*\): 5:1
+ - *laid* misused for past-tense *lay*: Stage 4
+ - Current ratio in print \(*he lay down on* vs. *\*he laid down on*\): 5:1
 
 **D. *Laid* for *lain*.** Not surprisingly, the same mistake occurs with the past participles as well—e.g.:
 
@@ -77,8 +77,8 @@ Current ratio in print \(*he lay down on* vs. *\*he laid down on*\): 5:1
 
 ## Language-Change Index
 
-*laid* misused for past-participial *lain*: Stage 4
-Current ratio in print \(*had lain idle* vs. *\*had laid idle*\): 36:1
+ - *laid* misused for past-participial *lain*: Stage 4
+ - Current ratio in print \(*had lain idle* vs. *\*had laid idle*\): 36:1
 
 **E. *Lain* for the Past-Participial *laid*.** This is a ghastly example of hypercorrection, that is, choosing the more far-fetched \(and, as it happens, wrong\) term in a contorted attempt to be correct—e.g.:
 
@@ -90,6 +90,6 @@ Current ratio in print \(*had lain idle* vs. *\*had laid idle*\): 36:1
 
 ## Language-Change Index
 
-*lain* for past-participial *laid*: Stage 1
-Current ratio in print \(*had laid the foundation* vs. *\*had lain the foundation*\): 343:1
+ - *lain* for past-participial *laid*: Stage 1
+ - Current ratio in print \(*had laid the foundation* vs. *\*had lain the foundation*\): 343:1
 

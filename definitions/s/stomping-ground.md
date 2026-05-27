@@ -11,8 +11,8 @@ It's perfectly idiomatic to say either *stomping ground* or *stomping grounds*â€
 ## Language-Change Index
 
 1. *stomping ground* for *stamping ground*: Stage 5
-Current ratio in print \(*stomping ground* vs. *stamping ground*\): 1.7:1
+ - Current ratio in print \(*stomping ground* vs. *stamping ground*\): 1.7:1
 
 2. *stomping grounds* for *stomping ground*: Stage 5
-Current ratio in print \(*stomping grounds* vs. *stomping ground*\): 1.7:1
+ - Current ratio in print \(*stomping grounds* vs. *stomping ground*\): 1.7:1
 

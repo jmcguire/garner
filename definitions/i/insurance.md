@@ -10,5 +10,5 @@ In AmE, *assurance* \(which answers to *assure*\) chiefly means "pledge" or "gua
 
 ## Language-Change Index
 
-*insurance* mispronounced /**in**-shәr-әnts/: Stage 2
+ - *insurance* mispronounced /**in**-shәr-әnts/: Stage 2
 

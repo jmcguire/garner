@@ -12,6 +12,6 @@ See mondegreens.
 
 ## Language-Change Index
 
-*\*quick claim* for *quitclaim*: Stage 1
-Current ratio in print \(*quitclaim deed* vs. *\*quick claim deed*\): 134:1
+ - *\*quick claim* for *quitclaim*: Stage 1
+ - Current ratio in print \(*quitclaim deed* vs. *\*quick claim deed*\): 134:1
 

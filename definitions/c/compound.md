@@ -14,5 +14,5 @@ Most American lawyers probably don't understand the phrase *to compound a felony
 
 ## Language-Change Index
 
-*compounding a felony* used in the sense "aggravating a felony": Stage 4
+ - *compounding a felony* used in the sense "aggravating a felony": Stage 4
 

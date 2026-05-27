@@ -24,5 +24,5 @@ On the use of *effectually* for *effectively*, see **effectively**.
 
 ## Language-Change Index
 
-*effectual* misused for *effective*: Stage 3
+ - *effectual* misused for *effective*: Stage 3
 

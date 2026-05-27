@@ -8,5 +8,5 @@ gestalt; ***Gestalt***. Borrowed from German in the mid-1800s, this term denotes
 
 Even those who capitalize the term today don't usually italicize it. It is pronounced /gә-**shtahlt**/ or /gә-**stahlt**/.See italics \(b\) & germanicisms.
 
-Current ratio in print \(*Gestalt* vs. *gestalt*\): 2.2:1
+ - Current ratio in print \(*Gestalt* vs. *gestalt*\): 2.2:1
 

@@ -6,5 +6,5 @@ Still, *bi*- has been used to mean "occurring twice in a \(specified span of tim
 
 ## Language-Change Index
 
-*bimonthly* as a synonym of *semimonthly*: Stage 2
+ - *bimonthly* as a synonym of *semimonthly*: Stage 2
 

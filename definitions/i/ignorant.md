@@ -4,5 +4,5 @@ ignorant; **stupid**. *Stupid* refers to a lack of innate ability, whereas *igno
 
 ## Language-Change Index
 
-*ignorant* for *stupid*: Stage 4
+ - *ignorant* for *stupid*: Stage 4
 

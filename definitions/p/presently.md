@@ -12,5 +12,5 @@ Cf. **momentarily**. See also **at the present time**.
 
 ## Language-Change Index
 
-*presently* for *now* or *currently*: Stage 4
+ - *presently* for *now* or *currently*: Stage 4
 

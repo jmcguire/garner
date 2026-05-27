@@ -42,7 +42,7 @@ If the verb seems desirable after the *as*—because the reader wouldn't automat
 
 ## Language-Change Index
 
-*\*same difference*: Stage 2
+ - *\*same difference*: Stage 2
 
 **D. *\*Same identical*.** See **identical**.
 

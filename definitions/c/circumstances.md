@@ -8,9 +8,9 @@ In 1926, H.W. Fowler wrote that the insistence on *in the circumstances* as the 
 
 ## Language-Change Index
 
-*under the circumstances*: Stage 5
+ - *under the circumstances*: Stage 5
 
-Current ratio in print \(*under the circumstances* vs. *in the circumstances*\): 1.4:1
+ - Current ratio in print \(*under the circumstances* vs. *in the circumstances*\): 1.4:1
 
 **B. *\*Surrounding circumstances*.** This phrase, which is about as common in BrE as it is in AmE, has been stigmatized as a redundancy on etymological grounds. The *OED* confirms this, noting that *circumstance* derives from the Latin *circumstantia* "standing around, surrounding condition." In AmE, it appears most commonly in legal contexts, though not exclusively so. The phrase shows no signs of disappearing—e.g.:
 

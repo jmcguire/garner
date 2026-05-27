@@ -4,5 +4,5 @@ concessive; **concessionary**, adj.; **concessional**. *Concessive* = \(1\) tend
 
 ## Language-Change Index
 
-*\*concessional* for *concessive*: Stage 1
+ - *\*concessional* for *concessive*: Stage 1
 

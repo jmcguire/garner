@@ -4,5 +4,5 @@ far be it from . . .. Because *from* is a preposition, and the next word in the 
 
 ## Language-Change Index
 
-*\*far be it from we* for *far be it from us*: Stage 1
+ - *\*far be it from we* for *far be it from us*: Stage 1
 

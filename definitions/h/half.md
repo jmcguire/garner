@@ -14,7 +14,7 @@ Concededly, in modern print sources the collocation *half of the* has outnumbere
 
 **C. *Half a dozen* and *a half dozen*.** For this noun phrase, either *half a dozen* or *a half dozen* is good form. The predominant form in print sources has always been *half a dozen*. Avoid *\*a half a dozen* and *half of a dozen*. When the phrase is used as an adjective, it becomes a phrasal adjective that should be hyphenated <a half-dozen twirlers with the band>.
 
-Current ratio in print \(*half a dozen* vs. *a half dozen*\): 6:1
+ - Current ratio in print \(*half a dozen* vs. *a half dozen*\): 6:1
 
 **D. *\*Two halves*.** This phrase is often redundant—e.g.:
 
@@ -24,5 +24,5 @@ Current ratio in print \(*half a dozen* vs. *a half dozen*\): 6:1
 
 On the plural *halves*, see plurals \(c\).
 
-Current ratio in print \(*cut into halves* vs. *\*cut into two halves*\): 1.2:1
+ - Current ratio in print \(*cut into halves* vs. *\*cut into two halves*\): 1.2:1
 

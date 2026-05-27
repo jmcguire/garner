@@ -4,6 +4,6 @@ annoyance; **\*annoyment**. The first has always been the standard term in Moder
 
 ## Language-Change Index
 
-*\*annoyment* for *annoyance*: Stage 1
-Current ratio in print \(*annoyance* vs. *\*annoyment*\): 8,191:1
+ - *\*annoyment* for *annoyance*: Stage 1
+ - Current ratio in print \(*annoyance* vs. *\*annoyment*\): 8,191:1
 

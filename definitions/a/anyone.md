@@ -10,7 +10,7 @@ anyone.
 
 ## Language-Change Index
 
-*anyone . . . they*: Stage 4
+ - *anyone . . . they*: Stage 4
 
 **D. *\*Anyone . . . are*.** Although *anyone . . . they* is now widely regarded as acceptable \(see **they \(a\)**), *\*anyone . . . are* isn't—e.g.: "Indeed, *anyone* who thought he or she could solve *their* immigration problems by getting hitched *are* in for a shock." Julie Tilsner, "Guardians of the Green Cards," *N.Y. Times*, 12 Apr. 1997, at 19. \(A possible revision: *Indeed, those who thought they could solve their immigration problems by getting hitched are in for a shock*.\)
 

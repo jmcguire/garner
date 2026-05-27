@@ -10,5 +10,5 @@ Although the inflected form is *marshalled* in BrE, the uninflected form is stil
 
 ## Language-Change Index
 
-*marshal* as verb misspelled *\*marshall*: Stage 1
+ - *marshal* as verb misspelled *\*marshall*: Stage 1
 

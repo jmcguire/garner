@@ -8,6 +8,6 @@ kind of.
 
 ## Language-Change Index
 
-*\*what kind of a . . .* for *what kind of . . .* : Stage 3
-Current ratio in print \(*what kind of person* vs. *\*what kind of a person*\): 11:1
+ - *\*what kind of a . . .* for *what kind of . . .* : Stage 3
+ - Current ratio in print \(*what kind of person* vs. *\*what kind of a person*\): 11:1
 

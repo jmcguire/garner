@@ -4,5 +4,5 @@ ecumenical /ek-yoo-**men**-i-kel/ \(= supporting the idea of greater cooperation
 
 Curious thing about this word: some have tried to extend its reach beyond Christianity to promote better understanding among people of all religious faiths. That certainly reflects the spirit of the word, and yet it may well damage or at least dilute its central meaning.
 
-Current ratio in print \(*ecumenism* vs. *\*ecumenicism*\): 32:1
+ - Current ratio in print \(*ecumenism* vs. *\*ecumenicism*\): 32:1
 

@@ -8,6 +8,6 @@ all told. One archaic meaning of *tell* is "to count." \(It's hidden deep in the
 
 ## Language-Change Index
 
-*\*all tolled* for *all told*: Stage 1
-Current ratio in print \(*all told* vs. *\*all tolled*\): 521:1
+ - *\*all tolled* for *all told*: Stage 1
+ - Current ratio in print \(*all told* vs. *\*all tolled*\): 521:1
 

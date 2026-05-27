@@ -10,5 +10,5 @@ odds. *Odds are* is a familiar locution. But when *odds* is separated from the v
 
 ## Language-Change Index
 
-*\*odds . . . is*: Stage 1
+ - *\*odds . . . is*: Stage 1
 

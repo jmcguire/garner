@@ -10,5 +10,5 @@ The word is pronounced /bi-**kweeth**/, with a soft *th*.
 
 ## Language-Change Index
 
-*bequeath* for *present* or *give*: Stage 2
+ - *bequeath* for *present* or *give*: Stage 2
 

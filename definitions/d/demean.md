@@ -14,5 +14,5 @@ Meanwhile, the word that might have preempted ambiguities—*bemean* \(= to deba
 
 ## Language-Change Index
 
-*demean* for *debase* or *degrade*: Stage 5
+ - *demean* for *debase* or *degrade*: Stage 5
 

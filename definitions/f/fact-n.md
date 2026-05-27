@@ -4,7 +4,7 @@ fact, n.
 
 **A. *Fact of the matter*.** This flotsam phrase occasionally serves well in speech—to fill up space while the speaker thinks of what to say next—but it generally has no justification in writing. And in speech it can become a verbal tic that annoys listeners.
 
-Current ratio in print \(*fact is that* vs. *\*fact of the matter is*\): 6:1
+ - Current ratio in print \(*fact is that* vs. *\*fact of the matter is*\): 6:1
 
 **B. *The fact that*.** It's imprudent to say, as some have, that this phrase should never be used. At times it cannot reasonably be avoided <they ignored the fact that all the elections had gone against them>. One writer has suggested that *because* will usually suffice for *the fact that*. Vigilans \[Eric Partridge\], *Chamber of Horrors* 63 \(1952\). Yet rarely, if ever, is *because* a good substitute for that phrase \(as opposed to the longer phrase *because of the fact that*\)—e.g.: "*The fact that* singer-songwriters like Sarah McLachlan and Jewel have managed to break through the homogenized slop that record companies are distributing does not mean that music or women have been liberated." Letter of Elizabeth Van Rij, "The Gals Take Over," *Time*, 11 Aug. 1997, at 5.
 
@@ -26,6 +26,6 @@ Writers debase the word when they qualify *facts* with an adjective like *true* 
 
 ## Language-Change Index
 
-*\*true facts* for *facts*: Stage 2
-Current ratio in print \(*the facts* vs. *\*the true facts*\): 143:1
+ - *\*true facts* for *facts*: Stage 2
+ - Current ratio in print \(*the facts* vs. *\*the true facts*\): 143:1
 

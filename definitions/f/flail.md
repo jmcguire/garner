@@ -14,6 +14,6 @@ To *flay* is \(1\) to rip the skin or hide off \(something\), or, in AmE, \(2\) 
 
 ## Language-Change Index
 
-*flay* misused for *flail*: Stage 1
-Current ratio in print \(*flailing his arms* vs. *\*flaying his arms*\): 55:1
+ - *flay* misused for *flail*: Stage 1
+ - Current ratio in print \(*flailing his arms* vs. *\*flaying his arms*\): 55:1
 

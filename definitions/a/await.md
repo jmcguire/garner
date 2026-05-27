@@ -20,12 +20,12 @@ If no object is supplied \(or clearly implied\), *wait* is the proper term. That
 
 ## Language-Change Index
 
-*\*awaiting for* for *awaiting* or *waiting for*: Stage 1
-Current ratio in print \(*awaiting her* vs. *\*awaiting for her*\): 298:1
+ - *\*awaiting for* for *awaiting* or *waiting for*: Stage 1
+ - Current ratio in print \(*awaiting her* vs. *\*awaiting for her*\): 298:1
 
 **B. And *wait on*.** A servant *waits on* a monarch, and a waiter *waits on* tables. But a dinner partner does not *wait on* you to arrive. That is the distinction that critics made for more than a century: they objected to *wait on* in the sense of *await* or *wait for*—e.g.: "They *waited on* \[read *waited for*\] the jury's verdict." Even if this is not the best phrasing, however, *wait on* is now so common as a casualism that it can't be labeled incorrect.
 
 ## Language-Change Index
 
-*wait on* in the sense "to wait for": Stage 5
+ - *wait on* in the sense "to wait for": Stage 5
 

@@ -4,6 +4,6 @@ underhanded; **underhand**, adj. The shorter form is much older <underhand deali
 
 ## Language-Change Index
 
-*underhanded* for *underhand*: Stage 5
-Current ratio in print \(*underhanded tactics* vs. *underhand tactics*\): 1.7:1
+ - *underhanded* for *underhand*: Stage 5
+ - Current ratio in print \(*underhanded tactics* vs. *underhand tactics*\): 1.7:1
 

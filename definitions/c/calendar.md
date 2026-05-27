@@ -12,5 +12,5 @@ Yet the ordinary term *calendar* is often misspelled *calender*—e.g.:
 
 ## Language-Change Index
 
-*calendar* misspelled *calender*: Stage 1 Current ratio in print \(*calendar year* vs. *\*calender year*\): 704:1
+ - *calendar* misspelled *calender*: Stage 1 Current ratio in print \(*calendar year* vs. *\*calender year*\): 704:1
 

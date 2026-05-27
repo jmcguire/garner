@@ -16,5 +16,5 @@ The word is sometimes misunderstood in two ways. First, it's sometimes \(by stil
 
 ## Language-Change Index
 
-*stultify* misused to mean *stifle* or *undermine*: Stage 1
+ - *stultify* misused to mean *stifle* or *undermine*: Stage 1
 

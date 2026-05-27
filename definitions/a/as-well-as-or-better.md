@@ -10,5 +10,5 @@ Cf. **as good as or better than** & **as much as or more than**. See cannibalism
 
 ## Language-Change Index
 
-*\*as well or better than* for *as well as or better than*: Stage 3
+ - *\*as well or better than* for *as well as or better than*: Stage 3
 

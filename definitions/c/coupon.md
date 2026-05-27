@@ -4,5 +4,5 @@ coupon is best pronounced /**koo**-pon/, not /**kyoo**-pon/. The second \(chiefl
 
 ## Language-Change Index
 
-*coupon* pronounced /kyoo/ instead of /koo/: Stage 4
+ - *coupon* pronounced /kyoo/ instead of /koo/: Stage 4
 

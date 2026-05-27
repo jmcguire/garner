@@ -4,6 +4,6 @@ pastime is sometimes misspelled *\*pasttime.* The misspelling derives from a mis
 
 ## Language-Change Index
 
-*pastime* misspelled *\*pasttime*: Stage 1
-Current ratio in print \(*pastime* vs. \**pasttime*\): 332:1
+ - *pastime* misspelled *\*pasttime*: Stage 1
+ - Current ratio in print \(*pastime* vs. \**pasttime*\): 332:1
 

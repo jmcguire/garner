@@ -13,8 +13,8 @@ Meanwhile, *\*oxidate* is a needless variant of *oxidize*.
 ## Language-Change Index
 
 1. *\*oxidization* for *oxidation*: Stage 1
-Current ratio in print \(*oxidation* vs. *\*oxidization*\): 155:1
+ - Current ratio in print \(*oxidation* vs. *\*oxidization*\): 155:1
 
 2. *\*oxidate* for *oxidize*: Stage 1
-Current ratio in print \(*oxidize* vs. *\*oxidate*\): 111:1
+ - Current ratio in print \(*oxidize* vs. *\*oxidate*\): 111:1
 

@@ -4,6 +4,6 @@ honeyed \(= \[1\] covered in honey; \[2\] tasting like honey; or \[3\] \[of a st
 
 ## Language-Change Index
 
-*honeyed* misspelled \**honied*: Stage 1
-Current ratio in print \(*honeyed* vs. \**honied*\): 14:1
+ - *honeyed* misspelled \**honied*: Stage 1
+ - Current ratio in print \(*honeyed* vs. \**honied*\): 14:1
 

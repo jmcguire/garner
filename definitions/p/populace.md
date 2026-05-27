@@ -14,6 +14,6 @@ populace.
 
 ## Language-Change Index
 
-*populace* misused for *populous*: Stage 1
-Current ratio in print \(*more populous* vs. *\*more populace*\): 479:1
+ - *populace* misused for *populous*: Stage 1
+ - Current ratio in print \(*more populous* vs. *\*more populace*\): 479:1
 

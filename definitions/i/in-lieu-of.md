@@ -8,5 +8,5 @@ in lieu of.
 
 ## Language-Change Index
 
-*in lieu of* in the sense "in view of": Stage 1
+ - *in lieu of* in the sense "in view of": Stage 1
 

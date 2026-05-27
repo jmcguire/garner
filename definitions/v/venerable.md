@@ -4,5 +4,5 @@ venerable = \(of a person\) worthy of being venerated, revered, or highly respec
 
 ## Language-Change Index
 
-*venerable* as a euphemism for *old*: Stage 4
+ - *venerable* as a euphemism for *old*: Stage 4
 

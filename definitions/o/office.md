@@ -14,5 +14,5 @@ This is a classic example of the issue discussed under functional shift \(a\), \
 
 ## Language-Change Index
 
-*office* as a verb: Stage 3
+ - *office* as a verb: Stage 3
 

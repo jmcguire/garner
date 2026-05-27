@@ -10,5 +10,5 @@ pursuant to \(= in accordance with; under; in carrying out\) is rarely—if ever
 
 Eric Partridge was wrong to call this phrase "officialese for *after*" \(*U&A* at 257\). It may be officialese, but it does not, ordinarily, mean "after."
 
-Current ratio in print \(*under the contract* vs. *pursuant to the contract*\): 45:1
+ - Current ratio in print \(*under the contract* vs. *pursuant to the contract*\): 45:1
 

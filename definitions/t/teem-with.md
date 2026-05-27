@@ -14,6 +14,6 @@ teem with \(= to abound; be in plentiful supply\) should be followed by a count 
 
 ## Language-Change Index
 
-*teaming with* misused for *teeming with*: Stage 1
-Current ratio in print \(*teeming with life* vs. *\*teaming with life*\): 14:1
+ - *teaming with* misused for *teeming with*: Stage 1
+ - Current ratio in print \(*teeming with life* vs. *\*teaming with life*\): 14:1
 

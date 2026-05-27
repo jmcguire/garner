@@ -4,5 +4,5 @@ deconstruction \(= a method of reading by which one finds the subtext beneath th
 
 ## Language-Change Index
 
-*deconstruction* misused for *destruction*: Stage 1
+ - *deconstruction* misused for *destruction*: Stage 1
 

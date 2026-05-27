@@ -4,5 +4,5 @@ already; all ready. *Already* has to do with time <finished already>, *all ready
 
 ## Language-Change Index
 
-*already* misused for *all ready*: Stage 1
+ - *already* misused for *all ready*: Stage 1
 

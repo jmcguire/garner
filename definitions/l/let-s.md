@@ -14,11 +14,11 @@ But what about *let's you and I*? That is, *let us, you and I*. This, too, is un
 
 Nevertheless, for most of the period since 1900, the phrasing *let's you and me* has predominated slightly over *let's you and I*—so take heart if you prefer the more grammatically rigorous phrasing. But the historical advantage appears to be slipping.
 
-Current ratio in print \(*let's you and I* vs. *let's you and me*\): 1.1:1
+ - Current ratio in print \(*let's you and I* vs. *let's you and me*\): 1.1:1
 
 **B. *\*Let's us*.** This phrase is nonstandard for *let's*.
 
-Current ratio in print \(*let's go* vs. \**let's us go*\): 3,228:1
+ - Current ratio in print \(*let's go* vs. \**let's us go*\): 3,228:1
 
 **C. *\*Let's don't*.** This phrase is nonstandard for *let's not*.
 

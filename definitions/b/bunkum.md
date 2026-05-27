@@ -6,5 +6,5 @@ bunkum; **buncombe**. This term refers to political talk that is empty or insinc
 
 The shortened casualism is spelled *bunk* \(= nonsense\) <that's all bunk\!>. A clipped form of *bunkum*, it dates from the early 20th century. Henry Ford immortalized the word when he said, "History is more or less bunk."
 
-Current ratio in print \(*bunkum* vs. *buncombe*\): 3:1
+ - Current ratio in print \(*bunkum* vs. *buncombe*\): 3:1
 

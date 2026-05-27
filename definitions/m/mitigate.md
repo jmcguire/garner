@@ -22,6 +22,6 @@ But *\*militate toward* is unidiomatic.
 
 ## Language-Change Index
 
-*\*mitigate against* for *militate against*: Stage 3
-Current ratio in print \(*militate against* vs. *\*mitigate against*\): 1.9:1
+ - *\*mitigate against* for *militate against*: Stage 3
+ - Current ratio in print \(*militate against* vs. *\*mitigate against*\): 1.9:1
 

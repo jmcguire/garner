@@ -4,5 +4,5 @@ animalculum \(lit., "little animal"\) forms the plural *animalcula*, not *\*anim
 
 ## Language-Change Index
 
-*\*animalculae* for *animalcula*: Stage 3
+ - *\*animalculae* for *animalcula*: Stage 3
 

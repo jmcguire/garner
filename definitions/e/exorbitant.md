@@ -4,6 +4,6 @@ exorbitant \(lit., "having departed or deviated from one's track \[*orbit*\] or 
 
 ## Language-Change Index
 
-*exorbitant* misspelled *\*exhorbitant*: Stage 1
-Current ratio in print \(*exorbitant* vs. \**exhorbitant*\): 164:1
+ - *exorbitant* misspelled *\*exhorbitant*: Stage 1
+ - Current ratio in print \(*exorbitant* vs. \**exhorbitant*\): 164:1
 

@@ -4,5 +4,5 @@ bylaw; **byelaw**. Both the spelling and the sense differ on the two sides of th
 
 The spelling without the *e* is standard in AmE. Though etymologically inferior, *byelaw* \(sometimes hyphenated\) is common in BrE. Increasingly, though, the spelling *bylaw* is appearing in BrE just as commonly as the longer form.
 
-Current ratio in print \(*bylaw* vs. *byelaw* in World Englishes\): 19:1
+ - Current ratio in print \(*bylaw* vs. *byelaw* in World Englishes\): 19:1
 

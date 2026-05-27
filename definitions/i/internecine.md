@@ -16,5 +16,5 @@ The word is pronounced in several ways, the most traditional being /in-tәr-**ne
 
 ## Language-Change Index
 
-*internecine* misused for *internal*: Stage 3
+ - *internecine* misused for *internal*: Stage 3
 

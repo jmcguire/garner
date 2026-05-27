@@ -4,6 +4,6 @@
 
 ## Language-Change Index
 
-*\*had used to be* for *had once been*: Stage 1
-Current ratio in print \(*had once been* vs. *\*had used to be*\): 165:1
+ - *\*had used to be* for *had once been*: Stage 1
+ - Current ratio in print \(*had once been* vs. *\*had used to be*\): 165:1
 

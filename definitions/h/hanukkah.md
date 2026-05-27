@@ -6,5 +6,5 @@ The beginning sound is especially troublesome, being not quite an /h/ sound nor 
 
 That spelling certainly predominates in AmE. It is also becoming more common in BrE, which has traditionally preferred the *Ch-* variant.
 
-Current ratio in print \(*Hanukkah* vs. *Chanukah* vs. *Hanukah*\): 12:3:1
+ - Current ratio in print \(*Hanukkah* vs. *Chanukah* vs. *Hanukah*\): 12:3:1
 

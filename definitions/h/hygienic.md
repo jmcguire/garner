@@ -4,6 +4,6 @@ hygienic \(= \[1\] of, relating to, or involving healthfulness or cleanliness; o
 
 ## Language-Change Index
 
-*hygienic* misspelled *\*hygenic*: Stage 1
-Current ratio in print \(*hygienic* vs. *\*hygenic*\): 202:1
+ - *hygienic* misspelled *\*hygenic*: Stage 1
+ - Current ratio in print \(*hygienic* vs. *\*hygenic*\): 202:1
 

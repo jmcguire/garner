@@ -36,13 +36,13 @@ Finally, even with the strict usage, it's sometimes a close call whether a thing
 
 ## Language-Change Index
 
-*less* for *fewer* before a plural count noun <\*five or less pages>: Stage 3 *less* for *fewer* after a plural count noun <five pages or less>: Stage 5
-Current ratio in print \(*fewer children* vs. \**less children*\): 15:1
-Current ratio in print \(*fewer calories* vs. \**less calories*\): 10:1
-Current ratio in print \(*fewer items* vs. \**less items*\): 9:1
-Current ratio in print \(*fewer problems* vs. \**less problems*\): 6:1
-Current ratio in print \(*fewer people* vs. \**less people*\): 5:1
-Current ratio in print \(*ten pages or less* vs. *ten pages or fewer*\): 3:1
+ - *less* for *fewer* before a plural count noun <\*five or less pages>: Stage 3 *less* for *fewer* after a plural count noun <five pages or less>: Stage 5
+ - Current ratio in print \(*fewer children* vs. \**less children*\): 15:1
+ - Current ratio in print \(*fewer calories* vs. \**less calories*\): 10:1
+ - Current ratio in print \(*fewer items* vs. \**less items*\): 9:1
+ - Current ratio in print \(*fewer problems* vs. \**less problems*\): 6:1
+ - Current ratio in print \(*fewer people* vs. \**less people*\): 5:1
+ - Current ratio in print \(*ten pages or less* vs. *ten pages or fewer*\): 3:1
 
 **B. *One less* or *\*one fewer*?** If, in strict usage, *less* applies to singular nouns and *fewer* to plural nouns, the choice is clear: *one less golfer* on the course, not *\*one fewer golfer*. This is tricky only because *less* is being applied to a singular count noun, whereas it usually applies to a mass noun. Burt Bacharach got it right in "One Less Bell to Answer" \(1970\). Since at least 1700, most published authors have gotten it right. And most contemporary writers get it right—e.g.:
 
@@ -60,7 +60,7 @@ Nearly 10% of the time, however, writers use *\*one fewer*, an awkward and unidi
 
  - "Energy Secretary Spencer Abraham . . . has one *fewer* \[read *less*\] hat than we said the other day." Al Kamen, "Cheney Losing His Voice," *Wash. Post*, 21 Nov. 2001, at A21.
 
-Current ratio in print \(*one less* vs. \**one fewer*\): 12:1
+ - Current ratio in print \(*one less* vs. \**one fewer*\): 12:1
 
 **C. And *lesser*.** *Lesser*, like *less*, refers to quantity, but is confined to use as an adjective before a singular noun and following an article <the lesser crime> or alone before a plural noun <lesser athletes>, thus performing a function no longer idiomatically possible with *less.* Dating from the 1200s, this formal usage allows *lesser* to act as an antonym of *greater.*
 
@@ -72,8 +72,8 @@ Occasionally, *lessor* \(= landlord\) is misused for *lesser*—e.g.:
 
 See **lessor**.
 
-Current ratio in print \(*a lesser extent* vs. \**a less extent*\): 61:1
-Current ratio in print \(*a lesser extent* vs. \**a lessor extent*\): 6,590:1
+ - Current ratio in print \(*a lesser extent* vs. \**a less extent*\): 61:1
+ - Current ratio in print \(*a lesser extent* vs. \**a lessor extent*\): 6,590:1
 
 **D. Adjective for Noun.** As a noun, *less* means "a smaller amount" or "something not as important." Occasionally, writers make it an adjective when it should be a noun—e.g.: "He wants business to make money and everyone to pay *less taxes* \[read *less in taxes*\]." "The New, Improved Powell," *N.Y. Times*, 13 Sept. 1995, at 14.
 

@@ -8,6 +8,6 @@ tinderbox \(= \[1\] a box for holding kindling; or \[2\] a source of incitement,
 
 ## Language-Change Index
 
-*tinderbox* misspelled *\*tenderbox*: Stage 1
-Current ratio in print \(*tinderbox* vs. \**tenderbox*\): 694:1
+ - *tinderbox* misspelled *\*tenderbox*: Stage 1
+ - Current ratio in print \(*tinderbox* vs. \**tenderbox*\): 694:1
 

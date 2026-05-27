@@ -12,6 +12,6 @@ See plurals \(b\).
 
 ## Language-Change Index
 
-*\*premia* for *premiums*: Stage 1
-Current ratio in print \(*premiums* vs. *\*premia*\): 12:1
+ - *\*premia* for *premiums*: Stage 1
+ - Current ratio in print \(*premiums* vs. *\*premia*\): 12:1
 

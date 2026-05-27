@@ -12,5 +12,5 @@ Since a *knot* is a measure of speed and not distance, a redundancy results if y
 
 ## Language-Change Index
 
-*\*knots per hour* for *knots*: Stage 2
+ - *\*knots per hour* for *knots*: Stage 2
 

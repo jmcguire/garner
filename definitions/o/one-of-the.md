@@ -47,8 +47,8 @@ For the traditionalist, perhaps the most sensible course is to prefer the tradit
 ## Language-Change Index
 
 \**one of the few that is* for *one of the few that are*: Stage 4
-Current ratio in print \(*of the few who are* vs. \**of the few who is*\): 3:1
-Current ratio in print \(*one of those who are* vs. \**one of those who is*\): 11:1
-Current ratio in print \(*one of those that are* vs. \**one of those that is*\): 5:1
-Current ratio in print \(*of those people who are* vs. \**of those people who is*\): 5:1
+ - Current ratio in print \(*of the few who are* vs. \**of the few who is*\): 3:1
+ - Current ratio in print \(*one of those who are* vs. \**one of those who is*\): 11:1
+ - Current ratio in print \(*one of those that are* vs. \**one of those that is*\): 5:1
+ - Current ratio in print \(*of those people who are* vs. \**of those people who is*\): 5:1
 

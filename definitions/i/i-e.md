@@ -16,7 +16,7 @@ See **e.g**.
 
 ## Language-Change Index
 
-*i.e.* misused for *e.g.*: Stage 2
+ - *i.e.* misused for *e.g.*: Stage 2
 
 **C. Style and Usage.** As with other familiar abbreviations of Latin phrases such as *etc.*, *et al.*, and *e.g.* \(and despite their appearance here, where they are being discussed as terms\), *i.e.* is not italicized <the state capital, i.e., Jefferson City>. And like the others, *i.e.* is best confined to lists, parenthetical matter, footnotes, and citations rather than used in text, where some substitute such as *namely* is more natural <the state capital, which is Jefferson City>.
 

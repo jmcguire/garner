@@ -8,5 +8,5 @@ compendium \(= a condensation or summary of a larger work\) forms either of two 
 
 See plurals \(b\). For the sense of the word, see **compendious**.
 
-Current ratio in print \(*compendia* vs. *compendiums*\): 3:1
+ - Current ratio in print \(*compendia* vs. *compendiums*\): 3:1
 

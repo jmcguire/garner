@@ -12,5 +12,5 @@ Avoid also the mispronunciation /in-**teg**-rәl/.
 
 ## Language-Change Index
 
-*integral* misspelled *\*intergral*: Stage 1
+ - *integral* misspelled *\*intergral*: Stage 1
 

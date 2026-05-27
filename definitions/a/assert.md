@@ -14,5 +14,5 @@ Yet the modern idiom of *asserting authority* was not set until the 1860s. Befor
 
 ## Language-Change Index
 
-*exert* misused for *assert*: Stage 1
+ - *exert* misused for *assert*: Stage 1
 

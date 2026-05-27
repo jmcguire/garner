@@ -18,8 +18,8 @@ Although *to-ing and fro-ing* is sometimes so written \(with hyphens\), the far 
 
 ## Language-Change Index
 
-*to and fro* written either *\*too and fro* or *\*two and fro*: Stage 1
-Current ratio in print \(*to and fro* vs. *\*two and fro*\): 2,912:1
-Current ratio in print \(*to and fro* vs. *\*too and fro*\): 524:1
-Current ratio in print \(*toing and froing* vs. *to-ing and fro-ing*\): 19:1
+ - *to and fro* written either *\*too and fro* or *\*two and fro*: Stage 1
+ - Current ratio in print \(*to and fro* vs. *\*two and fro*\): 2,912:1
+ - Current ratio in print \(*to and fro* vs. *\*too and fro*\): 524:1
+ - Current ratio in print \(*toing and froing* vs. *to-ing and fro-ing*\): 19:1
 

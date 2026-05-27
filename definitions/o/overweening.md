@@ -11,8 +11,8 @@ The word is sometimes misused for *overwhelming*. Jacques Barzun cites the examp
 ## Language-Change Index
 
 1. *overweening* misspelled *\*overweaning*: Stage 1
-Current ratio in print \(*overweening* vs. *\*overweaning*\): 67:1
+ - Current ratio in print \(*overweening* vs. *\*overweaning*\): 67:1
 
 2. *overweening* misused to mean "overwhelming": Stage 1
-Current ratio in print \(*overwhelming majority* vs. *\*overweening majority*\): 16,702:1
+ - Current ratio in print \(*overwhelming majority* vs. *\*overweening majority*\): 16,702:1
 

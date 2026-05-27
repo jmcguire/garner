@@ -4,7 +4,7 @@ algae; \*algee. The plural word for the mostly aquatic, plantlike organisms capa
 
 The corresponding adjective is *algal* /**al**-gәl/. The \(rare\) singular *alga* is pronounced /**al**-gә/ in AmE and BrE alike. Occasionally this term is pluralized as \**algas*—a rare linguistic event.
 
-Current ratio in print \(*algae* vs. \**algee*\): 10,746:1
+ - Current ratio in print \(*algae* vs. \**algee*\): 10,746:1
 
-Current ratio in print \(*algae* vs. \**algas*\): 579:1
+ - Current ratio in print \(*algae* vs. \**algas*\): 579:1
 

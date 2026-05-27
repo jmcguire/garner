@@ -6,5 +6,5 @@ At other times, though, the phrase is mangled into a mondegreen—e.g.: "\[Tom\]
 
 ## Language-Change Index
 
-*\*caricature assassination* for *character assassination*: Stage 1
+ - *\*caricature assassination* for *character assassination*: Stage 1
 

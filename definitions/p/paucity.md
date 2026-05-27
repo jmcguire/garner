@@ -4,5 +4,5 @@ paucity \(= dearth, scarcity\) indicates a small quantity, not a complete lack o
 
 ## Language-Change Index
 
-*paucity* misused to mean "a complete absence": Stage 1
+ - *paucity* misused to mean "a complete absence": Stage 1
 

@@ -10,6 +10,6 @@ Writers can get it wrong in many ways. And so they do. In the following example,
 
 ## Language-Change Index
 
-*\*beg description* for *beggar description*: Stage 1
-Current ratio in print \(*beggar description* vs. *\*beg description*\): 60:1
+ - *\*beg description* for *beggar description*: Stage 1
+ - Current ratio in print \(*beggar description* vs. *\*beg description*\): 60:1
 

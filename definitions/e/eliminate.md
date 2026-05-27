@@ -8,5 +8,5 @@ eliminate, strictly speaking, means to get rid of something that already exists 
 
 ## Language-Change Index
 
-*eliminate* misused for *prevent*: Stage 2
+ - *eliminate* misused for *prevent*: Stage 2
 

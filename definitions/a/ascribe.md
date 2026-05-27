@@ -12,6 +12,6 @@ Still, *ascribe* is far more commonly used correctly—e.g.: "Van Gogh's acceler
 
 ## Language-Change Index
 
-*ascribe* misused for *subscribe*: Stage 2
-Current ratio in print \(*don't subscribe to that* vs. *\*don't ascribe to that*\): 17:1
+ - *ascribe* misused for *subscribe*: Stage 2
+ - Current ratio in print \(*don't subscribe to that* vs. *\*don't ascribe to that*\): 17:1
 

@@ -12,6 +12,6 @@ Cf. **maximum**. See plurals \(b\).
 
 ## Language-Change Index
 
-*minimums* as a plural: Stage 5
-Current ratio in print \(*minima* vs. *minimums*\): 4:1
+ - *minimums* as a plural: Stage 5
+ - Current ratio in print \(*minima* vs. *minimums*\): 4:1
 

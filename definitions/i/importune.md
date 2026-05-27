@@ -4,6 +4,6 @@ importune is a verb meaning "to beg or beseech; entreat." It is also a needless 
 
 ## Language-Change Index
 
-*importune* misused for *inopportune*: Stage 1
-Current ratio in print \(*inopportune time* vs. *\*importune time*\): 171:1
+ - *importune* misused for *inopportune*: Stage 1
+ - Current ratio in print \(*inopportune time* vs. *\*importune time*\): 171:1
 

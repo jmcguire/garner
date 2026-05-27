@@ -12,5 +12,5 @@ The word is also often a sign of hyperbole, as those examples show. See adjectiv
 
 ## Language-Change Index
 
-*\*almost infinite* for *countless*: Stage 1
+ - *\*almost infinite* for *countless*: Stage 1
 

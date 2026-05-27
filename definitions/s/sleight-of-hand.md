@@ -10,6 +10,6 @@ sleight of hand. This term—meaning "a hand-trick or other display of dexterity
 
 ## Language-Change Index
 
-*\*slight of hand* for *sleight of hand*: Stage 2
-Current ratio in print \(*sleight of hand* vs. *\*slight of hand*\): 28:1
+ - *\*slight of hand* for *sleight of hand*: Stage 2
+ - Current ratio in print \(*sleight of hand* vs. *\*slight of hand*\): 28:1
 

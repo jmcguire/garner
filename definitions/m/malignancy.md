@@ -4,5 +4,5 @@ malignancy; **malignity**. These two are best differentiated. *Malignancy* = a c
 
 \**Malignance* is a needless variant of *malignancy*.
 
-Current ratio in print \(*malignancy* vs. \**malignance*\): 174:1
+ - Current ratio in print \(*malignancy* vs. \**malignance*\): 174:1
 

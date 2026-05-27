@@ -6,5 +6,5 @@ The tendency is to use the unhyphenated form when the adjective is used predicat
 
 Historically there was a variant phrase—\**speck and span*—but it is now obsolete.
 
-Current ratio in print \(*spick and span* vs. *spick-and-span* vs. \**spic and span* vs. \**spic-and-span* vs. \**spic 'n' span*\): 451:212:118:57:1
+ - Current ratio in print \(*spick and span* vs. *spick-and-span* vs. \**spic and span* vs. \**spic-and-span* vs. \**spic 'n' span*\): 451:212:118:57:1
 

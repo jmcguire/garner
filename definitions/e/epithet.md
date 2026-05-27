@@ -6,7 +6,7 @@ epithet.
 
 ## Language-Change Index
 
-*epithet* for *slur* or *term of abuse*: Stage 5
+ - *epithet* for *slur* or *term of abuse*: Stage 5
 
 **B. And *epitaph*.** *Epitaph* \(= a gravestone inscription\) is sometimes misused for *epithet* in the sense "a derogatory name." Today the blooper is irksomely common—e.g.:
 
@@ -20,8 +20,8 @@ In Canada, this error has provoked the ire of a letter-writer: "Art Hanger, the 
 
 ## Language-Change Index
 
-*epitaph* misused for *epithet*: Stage 1
-Current ratio in print \(*contemptuous epithet* vs. *\*contemptuous epitaph*\): 28:1
+ - *epitaph* misused for *epithet*: Stage 1
+ - Current ratio in print \(*contemptuous epithet* vs. *\*contemptuous epitaph*\): 28:1
 
 **C. And *expletive*.** These words overlap somewhat, since a shouted *epithet* is also an *expletive* in the sense of "an exclamation, esp. a profane or scatological exclamation." But *expletive* is also a term in grammar, referring to a word that serves no real purpose in a sentence but merely fills a syntactic space \(most commonly *it* or *there*, as in *it is raining* or *there is something we need to talk about*\). See expletives.
 

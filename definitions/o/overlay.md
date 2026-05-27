@@ -14,6 +14,6 @@ See **lay**.
 
 ## Language-Change Index
 
-*overlay* misused for *overlie*: Stage 3
-Current ratio in print \(*skin overlying the* vs. *\*skin overlaying the* \[muscle, joint, etc.\]\): 93:1
+ - *overlay* misused for *overlie*: Stage 3
+ - Current ratio in print \(*skin overlying the* vs. *\*skin overlaying the* \[muscle, joint, etc.\]\): 93:1
 

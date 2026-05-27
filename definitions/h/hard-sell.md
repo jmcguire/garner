@@ -14,5 +14,5 @@ Though sense 2 has become common, it is shared with the phrase *hard sale* \(the
 
  - "Hurricane Katrina created opportunities for Jindal to push public policy initiatives that might have been a *hard sell* otherwise." Julia O'Donoghue, "After the Storm, a Political Shift," *Times-Picayune* \(New Orleans\), 30 Aug. 2015, at A2.
 
-Current ratio in print \(*a hard sell* vs. *a hard sale*\): 64:1
+ - Current ratio in print \(*a hard sell* vs. *a hard sale*\): 64:1
 

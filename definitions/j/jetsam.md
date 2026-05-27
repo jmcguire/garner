@@ -4,5 +4,5 @@ jetsam \(= a ship's cargo or equipment that, in time of distress, is tossed over
 
 It's almost impossible for anyone to mention *flotsam* without coupling it with the word *jetsam*. \(See irreversible binomials.\) *Flotsam* is literally cargo that floats on the water's surface after a shipwreck or, by extension, unimportant material.
 
-Current ratio in print \(*jetsam* vs. \**jetsom*\): 227:1
+ - Current ratio in print \(*jetsam* vs. \**jetsom*\): 227:1
 

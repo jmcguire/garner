@@ -8,6 +8,6 @@ For the agent noun, *sculptor* is preferred over *\*sculpturer*.
 
 ## Language-Change Index
 
-*sculpt* as a verb: Stage 5
-Current ratio in print \(*sculpted* vs. *sculptured* vs. \**sculped*\): 425:186:1
+ - *sculpt* as a verb: Stage 5
+ - Current ratio in print \(*sculpted* vs. *sculptured* vs. \**sculped*\): 425:186:1
 

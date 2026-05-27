@@ -4,6 +4,6 @@ Pekinese /pee-kә-**neez**/ \(= of, relating to, or involving the small dog havi
 
 In reference to things other than dogs—natives of Beijing or the dialect of Beijing—*Pekingese* is the usual form, not *Pekinese*. And *Beijingese* hardly registers in frequency-of-occurrence searches. See **Beijing**.
 
-Current ratio in print \(*Pekinese dog* vs. *Pekingese dog*\): 1.5:1
-Current ratio in print \(*Pekingese* \(generally\) vs. *Pekinese* vs. *Beijingese*\): 38:27:1
+ - Current ratio in print \(*Pekinese dog* vs. *Pekingese dog*\): 1.5:1
+ - Current ratio in print \(*Pekingese* \(generally\) vs. *Pekinese* vs. *Beijingese*\): 38:27:1
 

@@ -8,5 +8,5 @@ signatory, n.; **\*signatary**; **\*signator**. H.W. Fowler and George P. Krapp 
 
 For those who like plain English, of course, *signer* is always available. It has been fairly common since the 1600s.
 
-Current ratio in print \(*signatories* vs. *signers* vs. \**signators* vs. \**signataries*\): 698:264:1.3:1
+ - Current ratio in print \(*signatories* vs. *signers* vs. \**signators* vs. \**signataries*\): 698:264:1.3:1
 

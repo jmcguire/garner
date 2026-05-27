@@ -4,6 +4,6 @@ stationary; **stationery**. The first is the adjective \(= remaining in one plac
 
 On *stationary* as a nongradable adjective, see adjectives \(b\).
 
-Current ratio in print \(*office stationery* vs. \**office stationary*\): 7:1
-Current ratio in print \(*stationary engines* vs. \**stationery engines*\): 280:1
+ - Current ratio in print \(*office stationery* vs. \**office stationary*\): 7:1
+ - Current ratio in print \(*stationary engines* vs. \**stationery engines*\): 280:1
 

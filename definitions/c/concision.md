@@ -14,5 +14,5 @@ Both words are common today in both BrE and AmE. When *concision* appears, it is
 
 What ruling, then? If any differentiation is now possible, the word *conciseness*—like other *-ness* words—emphasizes a quality, whereas *concision* emphasizes a static condition. This is a fine distinction indeed, and one that not all writers will be able to apply. When the distinction is hard to make, let euphony govern. But it would be a mistake \(and a bootless one\) to brand either word a needless variant.
 
-Current ratio in print \(*conciseness* vs. *concision* in World Englishes\): 1.5:1
+ - Current ratio in print \(*conciseness* vs. *concision* in World Englishes\): 1.5:1
 

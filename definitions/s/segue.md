@@ -8,6 +8,6 @@ segue /**seg**-way/ \(fr. Italian "there follows"\) is both a noun meaning "a se
 
 ## Language-Change Index
 
-*\*segway* for *segue*: Stage 1
-Current ratio in print \(*segue* vs. *\*segway*\): 86:1
+ - *\*segway* for *segue*: Stage 1
+ - Current ratio in print \(*segue* vs. *\*segway*\): 86:1
 

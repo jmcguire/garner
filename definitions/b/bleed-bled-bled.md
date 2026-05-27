@@ -10,5 +10,5 @@ See irregular verbs.
 
 ## Language-Change Index
 
-*\*bleeded* for *bled*: Stage 1
+ - *\*bleeded* for *bled*: Stage 1
 

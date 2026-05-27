@@ -8,5 +8,5 @@ The much rarer word *depravation* denotes the act or process of depraving or cor
 
 ## Language-Change Index
 
-*depravation* misused for *deprivation*: Stage 1
+ - *depravation* misused for *deprivation*: Stage 1
 

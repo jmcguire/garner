@@ -34,5 +34,5 @@ It is odd, however, to see the past-tense form in the set phrase *how dare you*â
 
 ## Language-Change Index
 
-*\*how dare us* \(or *\*how dare him*\) for *how dare we* \(or *how dare he*\): Stage 1
+ - *\*how dare us* \(or *\*how dare him*\) for *how dare we* \(or *how dare he*\): Stage 1
 

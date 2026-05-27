@@ -10,5 +10,5 @@ innately is sometimes misused for *inherently*. What is *innate* is inborn—the
 
 ## Language-Change Index
 
-*innately* misused for *inherently*: Stage 1
+ - *innately* misused for *inherently*: Stage 1
 

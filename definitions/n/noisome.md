@@ -4,5 +4,5 @@ noisome is often misconstrued as meaning "noisy; loud; clamorous." In fact, it m
 
 ## Language-Change Index
 
-*noisome* in the sense "noisy": Stage 3
+ - *noisome* in the sense "noisy": Stage 3
 

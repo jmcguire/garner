@@ -12,6 +12,6 @@ dominant, adj. Just as *predominant* is sometimes ill-advisedly written *predomi
 
 ## Language-Change Index
 
-*dominate* misused as an adjective in place of *dominant*: Stage 1
-Current ratio in print \(*dominant role* vs. *\*dominate role*\): 217:1
+ - *dominate* misused as an adjective in place of *dominant*: Stage 1
+ - Current ratio in print \(*dominant role* vs. *\*dominate role*\): 217:1
 

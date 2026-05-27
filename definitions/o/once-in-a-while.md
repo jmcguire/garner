@@ -13,8 +13,8 @@ For the mistake of writing *\*ever once in a while* for *every once in a while*,
 ## Language-Change Index
 
 1. *\*once and while* for *once in a while*: Stage 1
-Current ratio in print \(*once in a while* vs. \**once and while*\): 999:1
+ - Current ratio in print \(*once in a while* vs. \**once and while*\): 999:1
 
 2. *\*once in while* for *once in a while*: Stage 1
-Current ratio in print \(*once in a while* vs. \**once in while*\): 480:1
+ - Current ratio in print \(*once in a while* vs. \**once in while*\): 480:1
 

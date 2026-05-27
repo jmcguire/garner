@@ -17,7 +17,7 @@ Consider the small challenges that travel writers face: Los Angeles has a suburb
 ## Language-Change Index
 
 1. *\*cyprus tree* for *cypress tree*: Stage 1
-Current ratio in print \(*cypress tree* vs. *\*cyprus tree*\): 228:1
+ - Current ratio in print \(*cypress tree* vs. *\*cyprus tree*\): 228:1
 
 2. *\*Cypress* for *Cyprus*: Stage 1
 

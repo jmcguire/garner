@@ -29,16 +29,16 @@ Finally, *forbade* is often misspelled *\*forebade*, doubtless through an errone
 ## Language-Change Index
 
 1. *forbid* for the past-tense *forbade*: Stage 2
-Current ratio in print \(*he forbade it* vs. *\*he forbid it*\): 4:1
+ - Current ratio in print \(*he forbade it* vs. *\*he forbid it*\): 4:1
 
 2. *forbade* mispronounced /fәr-**bayd**/: Stage 4
 
 3. *forbade* misspelled *\*forebade*: Stage 1
-Current ratio in print \(*forbade* vs. \**forebade*\): 661:1
+ - Current ratio in print \(*forbade* vs. \**forebade*\): 661:1
 
 4. *forbade* misused for *forbidden*: Stage 1
-Current ratio in print \(*had forbidden* vs. *\*had forbade*\): 51:1
-Current ratio in print \(*has forbidden* vs. *\*has forbade*\): 158:1
+ - Current ratio in print \(*had forbidden* vs. *\*had forbade*\): 51:1
+ - Current ratio in print \(*has forbidden* vs. *\*has forbade*\): 158:1
 
 **B. Preposition with.** In formal contexts, *forbid* traditionally takes the preposition *to* or, less formally, *from*. H.W. Fowler stated that *forbid from doing* is unidiomatic \(*FMEU1* at 186\), but it is increasingly common. Yet *forbid to do* and *forbid from doing* appear frequently—e.g.:
 
@@ -52,5 +52,5 @@ Current ratio in print \(*has forbidden* vs. *\*has forbade*\): 158:1
 
 Cf. **prohibit**.
 
-Current ratio in print \(*forbade him to go* vs. *forbade him from going*\): 3:1
+ - Current ratio in print \(*forbade him to go* vs. *forbade him from going*\): 3:1
 

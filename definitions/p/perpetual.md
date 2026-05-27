@@ -4,5 +4,5 @@ perpetual \(= continuing forever; everlasting\) is sometimes misused for *contin
 
 ## Language-Change Index
 
-*perpetual* misused for *continuous*: Stage 3
+ - *perpetual* misused for *continuous*: Stage 3
 

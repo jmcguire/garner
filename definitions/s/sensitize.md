@@ -4,6 +4,6 @@ sensitize; **\*sensitivize**. Although in 1926 H.W. Fowler championed the latter
 
 ## Language-Change Index
 
-*sensitize*: Stage 5
-Current ratio in print \(*sensitize* vs. \**sensitivize*\): 1,945:1
+ - *sensitize*: Stage 5
+ - Current ratio in print \(*sensitize* vs. \**sensitivize*\): 1,945:1
 

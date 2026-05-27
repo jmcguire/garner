@@ -8,5 +8,5 @@ entice; **\*intice**. The latter is an obsolete spelling of *entice* \(= to lure
 
 See en-.
 
-Current ratio in print \(*entice* vs. \**intice*\): 415:1
+ - Current ratio in print \(*entice* vs. \**intice*\): 415:1
 

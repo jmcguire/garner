@@ -4,7 +4,7 @@ surmise.
 
 **A. Spelling.** As noun and verb, the word is so spelled—not *\*surmize*. E.g.: "Other officials even extended their optimism to *surmize* \[read *surmise*\] that ‘a new climate has begun.' " Ana Martinez-Soler, "Madrid Cheers as France Quashes ETA Terrorists," *Christian Science Monitor*, 17 Jan. 1984, at 7.
 
-Current ratio in print \(*surmise* vs. *\*surmize*\): 528:1
+ - Current ratio in print \(*surmise* vs. *\*surmize*\): 528:1
 
 **B. And *\*surmisal*.** The word *\*surmisal* has long been a needless variant of the noun *surmise*—e.g.:
 
@@ -16,6 +16,6 @@ Current ratio in print \(*surmise* vs. *\*surmize*\): 528:1
 
 ## Language-Change Index
 
-*\*surmisal* for *surmise*: Stage 1
-Current ratio in print \(*the surmise* vs. *\*the surmisal*\): 383:1
+ - *\*surmisal* for *surmise*: Stage 1
+ - Current ratio in print \(*the surmise* vs. *\*the surmisal*\): 383:1
 

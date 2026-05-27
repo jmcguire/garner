@@ -6,5 +6,5 @@ Occasionally people misunderstand the phrase and write *\*lip-sing*—e.g.: " 
 
 ## Language-Change Index
 
-*\*lip-sing* for *lip-sync*: Stage 2
+ - *\*lip-sing* for *lip-sync*: Stage 2
 

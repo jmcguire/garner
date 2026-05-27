@@ -12,5 +12,5 @@ jury-rig; **jerry-build**; **\*jerry-rig**; **\*gerry-rig**. The first is an aut
 
 *\*Gerry-rig* is a fairly recent American needless variant of the mistaken *\*jerry-rig*—e.g.: "A 150-ton specialized tank landing craft was *gerry rigged* \[read *jury-rigged*\] to her deck. She weighed anchor and riding low in the water sailed for England." Sgt. Paul Kane, "Ship That Saved Hundreds at Normandy, Still Proudly Sails," Dept. of Defense U.S. Marine Corps news release, 26 Oct. 2006. Unless you're writing a legal brief—where *jury-rigged* might create a felonious miscue—stick with that authentic original.
 
-Current ratio in print \(*jury-rigged* vs. *\*jerry-rigged* vs*. \*gerry-rigged*\): 242:156:1
+ - Current ratio in print \(*jury-rigged* vs. *\*jerry-rigged* vs*. \*gerry-rigged*\): 242:156:1
 

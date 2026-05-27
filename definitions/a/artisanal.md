@@ -4,9 +4,9 @@ artisanal /ahr-**tiz**-ә-nәl/ \(= of, relating to, involving, or produced by s
 
 The word is preferably pronounced as given at the outset of this entry—not /ahr-**tee**-zә-nәl/ or /ahr-ti-**zan**-әl/.
 
-Current ratio in print \(*artisanal cheeses* vs. *artisan cheeses*\): 1.4:1
+ - Current ratio in print \(*artisanal cheeses* vs. *artisan cheeses*\): 1.4:1
 
-Current ratio in print \(*artisanal fisheries* vs. *artisan fisheries*\): 106:1
+ - Current ratio in print \(*artisanal fisheries* vs. *artisan fisheries*\): 106:1
 
-Current ratio in print \(*artisanal production* vs. *artisan production*\): 2.4:1
+ - Current ratio in print \(*artisanal production* vs. *artisan production*\): 2.4:1
 

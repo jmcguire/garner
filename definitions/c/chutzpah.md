@@ -6,5 +6,5 @@ On the other hand \(and perhaps this says something about American culture\), ma
 
 Variant spellings include *\*chutzpa*, *\*hutzpah*, and *\*hutzpa*—all best avoided.
 
-Current ratio in print \(*chutzpah* vs. \**chutzpa* vs. \**hutzpah* vs. \**hutzpa*\): 378:15:8:1
+ - Current ratio in print \(*chutzpah* vs. \**chutzpa* vs. \**hutzpah* vs. \**hutzpa*\): 378:15:8:1
 

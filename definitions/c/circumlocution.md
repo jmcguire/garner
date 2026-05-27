@@ -16,7 +16,7 @@ One of the most famous government departments in all literature is Charles Dicke
 
 ## Language-Change Index
 
-*circumlocution* misused for *circuity*: Stage 1
+ - *circumlocution* misused for *circuity*: Stage 1
 
 **C. Adjectival Forms.** If the noun corresponding to *circuitous* is seldom used, so is the adjective corresponding to *circumlocution*: *circumlocutory*. E.g.: "He's impatient with compliments, *circumlocutory* in his answers and cheerfully forthcoming with amusing stories that, on reflection, tell you almost nothing about him." Ken Ringle, "Fighting Words," *Wash. Post*, 21 Aug. 1996, at D1.
 
@@ -33,8 +33,8 @@ Avoid the synonymous variants *\*circumlocutionary* and *\*circumlocutious*—e.
 ## Language-Change Index
 
 1. *\*circumlocutionary* for *circumlocutory*: Stage 1
-Current ratio in print \(*circumlocutory* vs. *\*circumlocutionary*\): 11:1
+ - Current ratio in print \(*circumlocutory* vs. *\*circumlocutionary*\): 11:1
 
 2. *\*circumlocutious* for *circumlocutory*: Stage 1
-Current ratio in print \(*circumlocutory* vs. *\*circumlocutious*\): 10:1
+ - Current ratio in print \(*circumlocutory* vs. *\*circumlocutious*\): 10:1
 

@@ -6,5 +6,5 @@ Though borrowed from the Italian for "chapel," the phrase has been thoroughly an
 
 ## Language-Change Index
 
-*a cappella* misspelled *\*a capella*: Stage 1 Current ratio in print \(*a cappella* vs. *\*a capella*\): 5:1
+ - *a cappella* misspelled *\*a capella*: Stage 1 Current ratio in print \(*a cappella* vs. *\*a capella*\): 5:1
 

@@ -8,5 +8,5 @@ fish; **fishes**. The Evanses wrote in 1957 that the plural *fish* is of recent 
 
 *Fish* does take the regular *-es* ending to form the plural possessive—e.g.: "A Yozuri Crystal Minnow seems to be the *fishes'* preference." David Sikes, "Island Time," *Corpus Christi Caller-Times*, 4 Aug. 2002, at B14. And the plural form *fishes* persists in idioms such as *The Godfather*'s "Luca Brasi sleeps with the *fishes*," as well as the biblical allusion "loaves and *fishes*."
 
-Current ratio in print \(*the four fish* vs. *the four fishes*\): 7:1
+ - Current ratio in print \(*the four fish* vs. *the four fishes*\): 7:1
 

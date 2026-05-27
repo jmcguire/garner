@@ -22,5 +22,5 @@ Able writers generally have no difficulty getting the number correct—e.g.:
 
 ## Language-Change Index
 
-*dicta* misused as a singular in place of *dictum*: Stage 1
+ - *dicta* misused as a singular in place of *dictum*: Stage 1
 

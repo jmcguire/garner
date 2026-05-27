@@ -8,5 +8,5 @@ intently \(= with rapt concentration or attention, eagerly\) is sometimes misuse
 
 ## Language-Change Index
 
-*intently* misused for *intensely*: Stage 1
+ - *intently* misused for *intensely*: Stage 1
 

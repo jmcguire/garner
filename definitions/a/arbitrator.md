@@ -15,5 +15,5 @@ Hence in the popular phrase *final* or *ultimate arbiter*, the word *arbitrator*
 1. *arbitrator* for *arbiter*: Stage 1
 
 2. *arbiter* misspelled *\*arbitor*: Stage 1
-Current ratio in print \(*arbiter* vs. *\*arbitor*\): 1,309:1
+ - Current ratio in print \(*arbiter* vs. *\*arbitor*\): 1,309:1
 

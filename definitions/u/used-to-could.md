@@ -12,5 +12,5 @@ Dating from the early 1800s in AmE, the phrase had spread to BrE by the late 183
 
 ## Language-Change Index
 
-*\*used to could*: Stage 2
+ - *\*used to could*: Stage 2
 

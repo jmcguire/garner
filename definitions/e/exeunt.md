@@ -14,5 +14,5 @@ In BrE, the singular *exeat* survives to denote a period of leave allowed to boa
 
 ## Language-Change Index
 
-*exeunt* misused for *exit*: Stage 1
+ - *exeunt* misused for *exit*: Stage 1
 

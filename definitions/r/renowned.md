@@ -13,11 +13,11 @@ The adjective is pronounced /ri-**nownd**/.
 ## Language-Change Index
 
 1. *renowned* misspelled *\*reknowned*: Stage 1
-Current ratio in print \(*renowned* vs. \**reknowned*\): 1,183:1
+ - Current ratio in print \(*renowned* vs. \**reknowned*\): 1,183:1
 
 2. *\*reknown* for *renowned*: Stage 1
-Current ratio in print \(*renowned* vs. *\*reknown*\): 960:1
+ - Current ratio in print \(*renowned* vs. *\*reknown*\): 960:1
 
 3. \**reknown* for *renown*, n.: Stage 1
-Current ratio in print \(*of great renown* vs. \**of great reknown*\): 304:1
+ - Current ratio in print \(*of great renown* vs. \**of great reknown*\): 304:1
 

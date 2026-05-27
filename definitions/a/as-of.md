@@ -10,5 +10,5 @@ But *as of now* does not mean "at present"; rather, it means "up to the present 
 
 ## Language-Change Index
 
-*as of now* meaning "up to now": Stage 5
+ - *as of now* meaning "up to now": Stage 5
 

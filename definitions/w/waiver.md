@@ -17,8 +17,8 @@ Finally, *waver* occasionally ousts *waiver* from its rightful position—e.g.: 
 ## Language-Change Index
 
 1. *waiver* misused for *waver*: Stage 1
-Current ratio in print \(*wavered between* vs. *\*waivered between*\): 527:1
+ - Current ratio in print \(*wavered between* vs. *\*waivered between*\): 527:1
 
 2. *waver* misused for *waiver*: Stage 1
-Current ratio in print \(*sign a waiver* vs. *\*sign a waver*\): 316:1
+ - Current ratio in print \(*sign a waiver* vs. *\*sign a waver*\): 316:1
 

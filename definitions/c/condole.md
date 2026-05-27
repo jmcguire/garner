@@ -19,8 +19,8 @@ Occasionally, *condole* is misused for *console*—e.g.: "And as always, country
 ## Language-Change Index
 
 1. *condole* misused for *console*: Stage 1
-Current ratio in print \(*consoling the* vs. \**condoling the*\): 51:1
+ - Current ratio in print \(*consoling the* vs. \**condoling the*\): 51:1
 
 2. *\*console with* for *condole with*: Stage 2
-Current ratio in print \(*condoling with* vs. \**consoling with*\): 17:1
+ - Current ratio in print \(*condoling with* vs. \**consoling with*\): 17:1
 

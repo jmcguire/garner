@@ -4,5 +4,5 @@ balding \(= becoming bald\), having emerged as a neologism in the early 20th cen
 
 ## Language-Change Index
 
-*balding*: Stage 5
+ - *balding*: Stage 5
 

@@ -6,7 +6,7 @@ all.
 
 In two circumstances, though, *all of* is the better choice. The first occurs when a nonpossessive personal pronoun follows <all of them> <all of us>. The second occurs when a possessive noun follows—e.g.: "Beyond *all of* Jones' ego-stroking maneuvers and incessant need for attention, this is what he is talking about." Paul Daugherty, "Cowboys Owner Smarter than Average Bear," *Cincinnati Enquirer*, 8 Sept. 1995, at B1.
 
-Current ratio in print \(*all the* vs. *all of the*\): 9:1
+ - Current ratio in print \(*all the* vs. *all of the*\): 9:1
 
 **B. With Negatives.** *Not all*—as opposed to *\*all . . . not*—is usually the appropriate sequence in negative constructions. E.g.:
 
@@ -24,7 +24,7 @@ See **not \(a\)**. Cf. **\*everyone . . . not**.
 
 ## Language-Change Index
 
-*\*all . . . not* for *not all*: Stage 3 Current ratio in print \(*not all of them are* vs. *\*all of them are not*\): 13:1
+ - *\*all . . . not* for *not all*: Stage 3 Current ratio in print \(*not all of them are* vs. *\*all of them are not*\): 13:1
 
 **C. As Subject.** *All*, as subject, may take either a singular or a plural verb. When a plural noun is implied after *all*, the verb should be plural <all were present>—e.g.: "Until this morning, *all were* official residents of the three Dadaab refugee camps near the Kenya–Somalia border." David Finkel, "African Refugees Start Journey to Homes in Distant U.S.," *Miami Herald*, 25 Aug. 2002, at A16. But when *all* denotes a collective abstraction \(as a mass noun\), it should take a singular verb <all is well>—e.g.: "*All* she wants *is* people to be touched by the gifts she believes God has given her." Johanna D. Wilson, "Back Roads," *Sun-News* \(Myrtle Beach, S.C.\), 19 Aug. 2002, at C1.
 

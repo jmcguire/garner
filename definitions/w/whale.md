@@ -4,5 +4,5 @@ whale, vb. \(= \[1\] to thrash or hit with force; or \[2\] to defeat decisively\
 
 The expression *whaling away* is virtually unknown in BrE.
 
-Current ratio in print \(*whaling away at* vs. \**wailing away at*\): 1.8:1
+ - Current ratio in print \(*whaling away at* vs. \**wailing away at*\): 1.8:1
 

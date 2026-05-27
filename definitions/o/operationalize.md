@@ -12,5 +12,5 @@ See -ize.
 
 ## Language-Change Index
 
-*\*operationalize*: Stage 1
+ - *\*operationalize*: Stage 1
 

@@ -8,5 +8,5 @@ Since the beginning of the 21st century, *concierge* has been widely used as an 
 
 ## Language-Change Index
 
-*concierge* mispronounced /kon-see-**air**/: Stage 3
+ - *concierge* mispronounced /kon-see-**air**/: Stage 3
 

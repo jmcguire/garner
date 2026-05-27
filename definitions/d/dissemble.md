@@ -22,5 +22,5 @@ Unfortunately, some writers use *dissemble* when they mean *disassemble*—e.g.:
 
 ## Language-Change Index
 
-*dissemble* misused for *disassemble*: Stage 2
+ - *dissemble* misused for *disassemble*: Stage 2
 

@@ -4,7 +4,7 @@ stratum. Pl. *strata*, not \**stratums*. \(See plurals \(b\).) Although *strata*
 
 ## Language-Change Index
 
-*strata* for *stratum* as a singular: Stage 2
-Current ratio in print \(*a stratum* vs. *\*a strata*\): 8:1
-Current ratio in print \(*strata* vs. *\*stratums*\): 277:1
+ - *strata* for *stratum* as a singular: Stage 2
+ - Current ratio in print \(*a stratum* vs. *\*a strata*\): 8:1
+ - Current ratio in print \(*strata* vs. *\*stratums*\): 277:1
 

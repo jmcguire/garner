@@ -10,6 +10,6 @@ David Broder, the Washington journalist, pointed out that Greg Gumbel of CBS ble
 
 ## Language-Change Index
 
-*platitude* misused for *plaudit*: Stage 1
-Current ratio in print \(*received plaudits* vs. *\*received platitudes*\): 17:1
+ - *platitude* misused for *plaudit*: Stage 1
+ - Current ratio in print \(*received plaudits* vs. *\*received platitudes*\): 17:1
 

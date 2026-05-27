@@ -14,5 +14,5 @@ Doubtless by false association with *wary* and perhaps with *leery* \(= suspicio
 
 ## Language-Change Index
 
-*weary* misused for *wary*: Stage 1 Current ratio in print \(*wary of the dangers* vs. *\*weary of the dangers*\): 81:1
+ - *weary* misused for *wary*: Stage 1 Current ratio in print \(*wary of the dangers* vs. *\*weary of the dangers*\): 81:1
 

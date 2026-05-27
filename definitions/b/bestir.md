@@ -16,6 +16,6 @@ It has long been regarded as unidiomatic to use *bestir* as an ordinary transiti
 
 ## Language-Change Index
 
-*bestir* used as a transitive verb: Stage 1
-Current ratio in print \(*stirs the* vs. *\*bestirs the*\): 304:1
+ - *bestir* used as a transitive verb: Stage 1
+ - Current ratio in print \(*stirs the* vs. *\*bestirs the*\): 304:1
 

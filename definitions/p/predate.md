@@ -12,5 +12,5 @@ For sense 1, see **antedate**.
 
 ## Language-Change Index
 
-*predate* misused for *prey*, vb.: Stage 1
+ - *predate* misused for *prey*, vb.: Stage 1
 

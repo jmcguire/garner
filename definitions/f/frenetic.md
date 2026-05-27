@@ -9,8 +9,8 @@ frenetic; **\*phrenetic**; **frenzy**; **\*phrenzy**; **\*phrensy**. Although *\
 ## Language-Change Index
 
 1. *\*phrenzy* or *\*phrensy* for *frenzy*: Stage 1
-Current ratio in print \(*frenzy* vs. *\*phrenzy* vs. *\*phrensy*\): 142:1.1:1
+ - Current ratio in print \(*frenzy* vs. *\*phrenzy* vs. *\*phrensy*\): 142:1.1:1
 
 2. *\*phrenetic* for *frenetic*: Stage 1
-Current ratio in print \(*frenetic* vs. *\*phrenetic*\): 157:1
+ - Current ratio in print \(*frenetic* vs. *\*phrenetic*\): 157:1
 

@@ -13,5 +13,5 @@ In a stupendous example of word-swapping, *vivacious* infrequently displaces *vo
 ## Language-Change Index
 
 \**vivacious reader* for *voracious reader:* Stage 1
-Current ratio in print \(*voracious reader* vs. \**vivacious reader*\): 1,417:1
+ - Current ratio in print \(*voracious reader* vs. \**vivacious reader*\): 1,417:1
 

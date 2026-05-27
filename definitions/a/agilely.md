@@ -4,5 +4,5 @@ agilely, adv., is occasionally misspelled *\*agiley*—e.g.: "But it's pointless
 
 ## Language-Change Index
 
-*agilely* misspelled *\*agiley*: Stage 1
+ - *agilely* misspelled *\*agiley*: Stage 1
 

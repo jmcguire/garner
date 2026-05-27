@@ -4,5 +4,5 @@ prudent; **prudential**. "To call an act *prudent*," wrote H.W. Fowler, "is norm
 
 ## Language-Change Index
 
-*prudential* misused for *prudent*: Stage 1
+ - *prudential* misused for *prudent*: Stage 1
 

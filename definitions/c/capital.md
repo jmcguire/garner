@@ -6,7 +6,7 @@ Whether as noun or as adjective, *capital* is more often needed than *capitol*.
 
 *Capitol Hill* is where the U.S. *Capitol* \(the building\) is located in Washington, D.C., the nation's *capital*.
 
-Current ratio in print \(*capitol building* vs. \**capital building* \[case-insensitive search\]\): 6:1
+ - Current ratio in print \(*capitol building* vs. \**capital building* \[case-insensitive search\]\): 6:1
 
-Current ratio in print \(*capital punishment* vs. \**capitol punishment*\): 3,561:1
+ - Current ratio in print \(*capital punishment* vs. \**capitol punishment*\): 3,561:1
 

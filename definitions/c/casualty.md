@@ -10,5 +10,5 @@ casualty; \***casuality**. *\*Casuality* is an obsolete needless variant of *cas
 
 ## Language-Change Index
 
-*\*casuality* for *casualty*: Stage 1
+ - *\*casuality* for *casualty*: Stage 1
 

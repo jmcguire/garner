@@ -10,5 +10,5 @@ boned; **deboned**; **boneless**. *Boned* describes something with bones either 
 
 Today *boneless chicken* is by far the most frequent collocation, followed distantly by *boned chicken* and even more distantly by *deboned chicken*. No bones about it.
 
-Current ratio in print \(*boneless chicken* vs. *boned chicken* vs. *deboned chicken*\): 25:2.5:1
+ - Current ratio in print \(*boneless chicken* vs. *boned chicken* vs. *deboned chicken*\): 25:2.5:1
 

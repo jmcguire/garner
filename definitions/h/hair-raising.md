@@ -6,5 +6,5 @@ To *raze* is either to tear down or to cut close \(as with a razor\). See **raze
 
 ## Language-Change Index
 
-*\*hair-razing* for *hair-raising*: Stage 1
+ - *\*hair-razing* for *hair-raising*: Stage 1
 

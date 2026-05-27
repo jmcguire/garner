@@ -4,5 +4,5 @@ callous; **callus**. The first is the adjective \("hardened, unfeeling"\), the s
 
 The plural of *callus* is *calluses*, preferably not *\*calli*—which, surprisingly enough, predominated until the mid-20th century. See plurals \(b\).
 
-Current ratio in print \(*calluses* vs. *\*calli*\): 4:1
+ - Current ratio in print \(*calluses* vs. *\*calli*\): 4:1
 

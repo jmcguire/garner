@@ -20,5 +20,5 @@ In such contexts, *any* is elliptical for *any one*; the sentence often reads be
 
 ## Language-Change Index
 
-*of any* for *of all*: Stage 3
+ - *of any* for *of all*: Stage 3
 

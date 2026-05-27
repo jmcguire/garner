@@ -12,8 +12,8 @@ Etymologically speaking, *empirical* derives ultimately from the Greek term *emp
 
 The phrase \**imperial evidence*, traceable back to the 1960s, is a blunder for *empirical evidence*. See word-swapping.
 
-Current ratio in print \(*imperial court* vs. \**empirical court*\): 2,722:1
-Current ratio in print \(*imperious tone* vs. \**empirical tone*\): 125:1
-Current ratio in print \(*empirical* vs. *empiric*\): 63:1
-Current ratio in print \(*empirical evidence* vs. \**imperial evidence*\): 3,645:1
+ - Current ratio in print \(*imperial court* vs. \**empirical court*\): 2,722:1
+ - Current ratio in print \(*imperious tone* vs. \**empirical tone*\): 125:1
+ - Current ratio in print \(*empirical* vs. *empiric*\): 63:1
+ - Current ratio in print \(*empirical evidence* vs. \**imperial evidence*\): 3,645:1
 

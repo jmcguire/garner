@@ -14,6 +14,6 @@ It may be a lost cause in Australia, where various sports teams are called the "
 
 ## Language-Change Index
 
-*\*platypi* for *platypuses*: Stage 1
-Current ratio in print \(*platypuses* vs. *\*platypi*\): 18:1
+ - *\*platypi* for *platypuses*: Stage 1
+ - Current ratio in print \(*platypuses* vs. *\*platypi*\): 18:1
 

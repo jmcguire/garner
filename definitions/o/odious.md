@@ -14,5 +14,5 @@ See **odorous**.
 
 ## Language-Change Index
 
-*odious* in olfactory sense: Stage 1
+ - *odious* in olfactory sense: Stage 1
 

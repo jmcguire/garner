@@ -4,5 +4,5 @@ apple cider. Strictly speaking, this phrase is a redundancy because *cider* has 
 
 ## Language-Change Index
 
-*apple cider* for *cider*: Stage 5
+ - *apple cider* for *cider*: Stage 5
 

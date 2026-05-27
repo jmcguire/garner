@@ -9,8 +9,8 @@ In reference to a city or country, *adopted* is the better, more logical, and mu
 ## Language-Change Index
 
 1. *\*adopted mother* for *adoptive mother*: Stage 3
-Current ratio in print \(*adoptive mother* vs. *\*adopted mother*\): 3:1
+ - Current ratio in print \(*adoptive mother* vs. *\*adopted mother*\): 3:1
 
 2. *\*adoptive country* for *adopted country*: Stage 1
-Current ratio in print \(*adopted country* vs. *\*adoptive country*\): 12:1
+ - Current ratio in print \(*adopted country* vs. *\*adoptive country*\): 12:1
 

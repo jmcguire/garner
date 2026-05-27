@@ -10,5 +10,5 @@ In BrE, however, and in a few North American jurisdictions, *garnishee* as well 
 
  - "He said the senators who have yet to reimburse their expenses should either go to arbitration, or see their wages *garnisheed* \[read *garnished*\] \(if they are still sitting\) or face a lawsuit \(if they are retired\)." Daniel Leblanc & Gloria Galloway, "Senate Leaders Say Changes to Rein In Spending Have Already Been Made," *Globe & Mail* \(Toronto\), 10 June 2015, at A1.
 
-Current ratio in print \(*garnished his wages* vs. *\*garnisheed his wages*\): 8:1
+ - Current ratio in print \(*garnished his wages* vs. *\*garnisheed his wages*\): 8:1
 

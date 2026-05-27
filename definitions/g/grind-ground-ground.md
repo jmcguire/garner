@@ -14,6 +14,6 @@ In one context, however, *grinded* is perfectly legitimate \(though lamentable, 
 
 ## Language-Change Index
 
-*grinded* misused as a past tense in a nondancing sense: Stage 1
-Current ratio in print \(*ground his teeth* vs. *\*grinded his teeth*\): 22:1
+ - *grinded* misused as a past tense in a nondancing sense: Stage 1
+ - Current ratio in print \(*ground his teeth* vs. *\*grinded his teeth*\): 22:1
 

@@ -14,5 +14,5 @@ Very occasionally, the phrase *comity of nations* appears in a correct sense \("
 
 ## Language-Change Index
 
-*comity of nations* for *community of nations*: Stage 1
+ - *comity of nations* for *community of nations*: Stage 1
 

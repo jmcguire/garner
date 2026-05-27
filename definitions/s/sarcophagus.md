@@ -4,7 +4,7 @@ sarcophagus.
 
 **A. Plural.** The standard plural is *sarcophagi* /sahr-**kof**-ә-jī/ or /-gī/. The anglicized form *sarcophaguses*, though defensible, rarely appears. See plurals \(b\).
 
-Current ratio in print \(*sarcophagi* vs. *sarcophaguses*\): 60:1
+ - Current ratio in print \(*sarcophagi* vs. *sarcophaguses*\): 60:1
 
 **B. And *sarcophagous*.** *Sarcophagus* is a noun meaning "stone coffin"; *sarcophagous* is an adjective meaning "meat-eating, carnivorous." Interestingly, the two words share their etymology: the Greek *sarkophagos* \(= flesh-eating\) referred to a kind of limestone thought to decompose the flesh of corpses placed in it.
 
@@ -16,5 +16,5 @@ Today, the differentiation is complete: *sarcophagus* is the noun and *sarcophag
 
 ## Language-Change Index
 
-*sarcophagous* misused for the noun *sarcophagus*: Stage 1
+ - *sarcophagous* misused for the noun *sarcophagus*: Stage 1
 

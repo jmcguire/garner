@@ -12,7 +12,7 @@ above.
 
 ## Language-Change Index
 
-*above* meaning "more than": Stage 4
+ - *above* meaning "more than": Stage 4
 
 **B. For *above-mentioned*.** *Above* is an acceptable ellipsis for *above-mentioned*, and it is much less inelegant <the above statements are his last recorded ones>. It was long thought that *above* could not properly act as an adjective. But the word was used in this way throughout the 20th century, even by the best writers. Yet it's much older. *OED2* records it from the 1500s. Essentially, *above* stands attributively, through ellipsis, for *above-said*, *above-written*, *above-mentioned*, or some other phrase.
 

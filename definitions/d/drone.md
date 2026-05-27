@@ -4,5 +4,5 @@ drone; **drudge**. *Drone* = \(1\) a male bee; \(2\) an idler living off others'
 
 ## Language-Change Index
 
-*drone* in the sense "drudge": Stage 2
+ - *drone* in the sense "drudge": Stage 2
 

@@ -23,5 +23,5 @@ When used as a verb, *dialogue* is a particularly grating vogue term that has ri
 1. *dialogue* as a verb, or *\*dialoguing* as a gerund: Stage 2
 
 2. *\*dialog* for *dialogue*: Stage 1
-Current ratio in print \(*dialogues* vs. \**dialogs*\): 18:1
+ - Current ratio in print \(*dialogues* vs. \**dialogs*\): 18:1
 

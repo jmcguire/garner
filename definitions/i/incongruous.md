@@ -10,6 +10,6 @@ The word is preferably accented on the second rather than the third syllable: /i
 
 ## Language-Change Index
 
-*incongruous* misspelled *\*incongrous*: Stage 1
-Current ratio in print \(*incongruous* vs. *\*incongrous*\): 1,168:1
+ - *incongruous* misspelled *\*incongrous*: Stage 1
+ - Current ratio in print \(*incongruous* vs. *\*incongrous*\): 1,168:1
 

@@ -8,6 +8,6 @@ Although some apologists argue that *\*could care less* is meant to be sarcastic
 
 ## Language-Change Index
 
-*\*could care less* for *couldn't care less*: Stage 4
-Current ratio in print \(*couldn't care less* vs. *\*could care less* in World Englishes\): 4:1
+ - *\*could care less* for *couldn't care less*: Stage 4
+ - Current ratio in print \(*couldn't care less* vs. *\*could care less* in World Englishes\): 4:1
 

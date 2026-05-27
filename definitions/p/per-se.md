@@ -26,6 +26,6 @@ That pronunciation may explain the phonetic misspelling that occurs surprisingly
 
 ## Language-Change Index
 
-*\*per say* for *per se*: Stage 1
-Current ratio in print \(*per se* vs. *\*per say*\): 197:1
+ - *\*per say* for *per se*: Stage 1
+ - Current ratio in print \(*per se* vs. *\*per say*\): 197:1
 

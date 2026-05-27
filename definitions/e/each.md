@@ -23,13 +23,13 @@ As for the second question, pronouns having *each* as an antecedent are traditio
 ## Language-Change Index
 
 1. *each* with a plural verb <each have chores to do>: Stage 2
-Current ratio in print \(*each of them is* vs. *\*each of them are*\): 9:1
+ - Current ratio in print \(*each of them is* vs. *\*each of them are*\): 9:1
 
 2. *each* followed by a plural *their* or *they* <each did their share>: Stage 4
 
 3. *they each have*: Stage 5
 
-Current ratio in print \(*they each have* vs. *\*they each has*\): 438:1
+ - Current ratio in print \(*they each have* vs. *\*they each has*\): 438:1
 
 **B. *\*Each . . . apiece*.** This construction is a redundancy—e.g.:
 

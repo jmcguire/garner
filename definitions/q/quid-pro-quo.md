@@ -4,5 +4,5 @@ quid pro quo \(= this for that; tit for tat\) is a useful latinism since the onl
 
 The best plural is *quid pro quos*. *Quids pro quos* is a pedantic \(and exceedingly rare\) alternative. *\*Quids pro quo* is simply incorrect; it's a good example of hypercorrection. See plurals \(b\).
 
-Current ratio in print \(*quid pro quos* vs. \**quids pro quo*\): 52:1
+ - Current ratio in print \(*quid pro quos* vs. \**quids pro quo*\): 52:1
 

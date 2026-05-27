@@ -10,6 +10,6 @@ How did Jodhpur, a town in central India, come to be famously associated with ri
 
 ## Language-Change Index
 
-*jodhpur* misspelled and mispronounced *\*jodphur*: Stage 2
-Current ratio in print \(*jodhpurs* vs. *\*jodphurs*\): 62:1
+ - *jodhpur* misspelled and mispronounced *\*jodphur*: Stage 2
+ - Current ratio in print \(*jodhpurs* vs. *\*jodphurs*\): 62:1
 

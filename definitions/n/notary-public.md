@@ -4,6 +4,6 @@ notary public. Pl. *notaries public*—not *\*notary publics*. E.g.: "County Cle
 
 ## Language-Change Index
 
-*\*notary publics* for *notaries public*: Stage 1
-Current ratio in print \(*notaries public* vs. *\*notary publics*\): 5:1
+ - *\*notary publics* for *notaries public*: Stage 1
+ - Current ratio in print \(*notaries public* vs. *\*notary publics*\): 5:1
 

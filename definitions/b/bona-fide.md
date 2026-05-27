@@ -30,8 +30,8 @@ On the reason for preferring *genuine* in those edits, see \(a).
 
 ## Language-Change Index
 
-*bona fide* misspelled *\*bonified*: Stage 1
-Current ratio in print \(*bona fide* vs. \**bonified*\): 682:1
+ - *bona fide* misspelled *\*bonified*: Stage 1
+ - Current ratio in print \(*bona fide* vs. \**bonified*\): 682:1
 
 **D. Pronunciation.** The phrase is pronounced /**boh**-nә fīd/ or, less often, /**bon**-ә fīd/. The pronunciation /**boh**-nә **fī**-dee/ is pedantic outside the law and precious even in legal contexts.
 

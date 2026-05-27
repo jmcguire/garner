@@ -4,5 +4,5 @@ avocation; **vocation**. Although these words are quite different, many writers 
 
 ## Language-Change Index
 
-*avocation* misused for *vocation*: Stage 1
+ - *avocation* misused for *vocation*: Stage 1
 

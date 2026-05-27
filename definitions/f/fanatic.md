@@ -8,5 +8,5 @@ fanatic; **fanatical**. *Fanatic* is either a noun or an adjective; *fanatical* 
 
  - "If the people who are *fanatic* \[read *fanatical*\] about such things start passing laws and regulations that prevent the rest of us from pursuing our consumer preferences for less chic but also less expensive food, that's quite something else." William Watson, "The $2 Tomato," *Nat'l Post* \(Can.\), 18 Aug. 2015, at 11.
 
-Current ratio in print \(*fanatical devotion* vs. *\*fanatic devotion*\): 7:1
+ - Current ratio in print \(*fanatical devotion* vs. *\*fanatic devotion*\): 7:1
 

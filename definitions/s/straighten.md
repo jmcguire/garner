@@ -10,6 +10,6 @@ straighten; **straiten**. These two verbs have different meanings. *Straighten* 
 
 ## Language-Change Index
 
-*straighten* misused for *straiten*: Stage 2
-Current ratio in print \(*straitened circumstances* vs. *\*straightened circumstances*\): 7:1
+ - *straighten* misused for *straiten*: Stage 2
+ - Current ratio in print \(*straitened circumstances* vs. *\*straightened circumstances*\): 7:1
 

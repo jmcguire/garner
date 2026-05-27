@@ -6,5 +6,5 @@ Otherwise, though, the word itself is a pollutant—e.g.: "Students who don't pa
 
 ## Language-Change Index
 
-*remediate* for *remedy* \(outside-environmental law\): Stage 1
+ - *remediate* for *remedy* \(outside-environmental law\): Stage 1
 

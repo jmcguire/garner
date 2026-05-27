@@ -4,5 +4,5 @@ autonomy \(= self-rule\) is sometimes misused for *authority*—e.g.: "But Dave 
 
 ## Language-Change Index
 
-*autonomy* misused for *authority*: Stage 1
+ - *autonomy* misused for *authority*: Stage 1
 

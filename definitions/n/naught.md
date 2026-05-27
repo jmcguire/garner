@@ -16,6 +16,6 @@ Sometimes *nought* ill-advisedly appears where the conventional word would be *n
 
 ## Language-Change Index
 
-*\*came to nought* for *came to naught*: Stage 1
-Current ratio in print \(*came to naught* vs. *\*came to nought*\): 4:1
+ - *\*came to nought* for *came to naught*: Stage 1
+ - Current ratio in print \(*came to naught* vs. *\*came to nought*\): 4:1
 

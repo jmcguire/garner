@@ -10,7 +10,7 @@ Today, it's unidiomatic to suggest plurality in referring to the United States. 
 
 ## Language-Change Index
 
-*United States* used as a plural: Stage 1
+ - *United States* used as a plural: Stage 1
 
 **B. Possessive.** Like other words that are singular in meaning but formed from a plural, *United States* forms the possessive by adding an apostrophe alone <United States' interests>. See possessives \(a\).
 

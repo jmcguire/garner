@@ -4,5 +4,5 @@ flesh out; **flush out**. To *flesh out* is to put flesh on bare bones—that is
 
 ## Language-Change Index
 
-*flush out* misused for *flesh out*: Stage 2
+ - *flush out* misused for *flesh out*: Stage 2
 

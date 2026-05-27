@@ -10,5 +10,5 @@ winch \(= a cranking device that helps pull or haul\) is sometimes confused with
 
 ## Language-Change Index
 
-*wench* misused for *winch*: Stage 1
+ - *wench* misused for *winch*: Stage 1
 

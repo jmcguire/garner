@@ -10,5 +10,5 @@ enervate; **innervate**. *Enervate* /**en**-әr-vayt/ means "to drain the vigor 
 
 ## Language-Change Index
 
-*enervate* misused for *energize*: Stage 1
+ - *enervate* misused for *energize*: Stage 1
 

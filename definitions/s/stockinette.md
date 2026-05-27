@@ -4,5 +4,5 @@ stockinette \(= \[1\] a soft, stretchable cotton material used esp. in bandages 
 
 In any event, the word is old-fashioned. Today in sense 1, the more usual terms are *spandex* and *elastane*, both of which denote materials containing artificial fibers.
 
-Current ratio in print \(*stockinette* vs. \**stockinet*\): 9:1
+ - Current ratio in print \(*stockinette* vs. \**stockinet*\): 9:1
 

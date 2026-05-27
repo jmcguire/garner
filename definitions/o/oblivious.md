@@ -6,6 +6,6 @@ Although *to* is now the more common mate of *oblivious*, some fastidious speake
 
 ## Language-Change Index
 
-*oblivious to* for *oblivious of*: Stage 5 1934 ratio in print \(*oblivious of* vs. *oblivious to*\): 1.4:1
-Current ratio in print \(*oblivious to* vs. *oblivious of *\): 5:1
+ - *oblivious to* for *oblivious of*: Stage 5 1934 ratio in print \(*oblivious of* vs. *oblivious to*\): 1.4:1
+ - Current ratio in print \(*oblivious to* vs. *oblivious of *\): 5:1
 

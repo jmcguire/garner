@@ -13,8 +13,8 @@ Less common but no less whimsical is the misspelling *\*bellwhether*—e.g.: "In
 ## Language-Change Index
 
 1. *bellwether* misspelled *\*bellweather*: Stage 1
-Current ratio in print \(*bellwether* vs. \**bellweather*\): 50:1
+ - Current ratio in print \(*bellwether* vs. \**bellweather*\): 50:1
 
 2. *bellwether* misspelled *\*bellwhether*: Stage 1
-Current ratio in print \(*bellwether* vs. *\*bellwhether*\): 463:1
+ - Current ratio in print \(*bellwether* vs. *\*bellwhether*\): 463:1
 

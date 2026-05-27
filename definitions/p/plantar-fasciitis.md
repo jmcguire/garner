@@ -8,6 +8,6 @@ Not surprisingly, the phrase is often misspelled. Sometimes *plantar* becomes *p
 
 ## Language-Change Index
 
-*plantar fasciitis* misspelled in various ways: Stage 2
-Current ratio in print \(*plantar fasciitis* vs. *\*plantar fascitis*\): 124:1
+ - *plantar fasciitis* misspelled in various ways: Stage 2
+ - Current ratio in print \(*plantar fasciitis* vs. *\*plantar fascitis*\): 124:1
 

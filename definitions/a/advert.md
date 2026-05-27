@@ -16,5 +16,5 @@ Occasionally, *advert* is misused for *avert*—e.g.: "Although five persons wer
 
 ## Language-Change Index
 
-*advert* misused for *avert*: Stage 1
+ - *advert* misused for *avert*: Stage 1
 

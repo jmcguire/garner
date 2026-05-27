@@ -8,5 +8,5 @@ This inconsistency has been around for a long time. The *OED* quotes A.L. Hench 
 
 In BrE, the singular is uncommon except in the phrase *pant suit* \(AmE *pantsuit*\). But in BrE *pants* can be ambiguous as meaning either \(1\) trousers or \(2\) underwear.
 
-Current ratio in print \(*these pants* vs. *this pant*\): 72:1
+ - Current ratio in print \(*these pants* vs. *this pant*\): 72:1
 

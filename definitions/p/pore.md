@@ -12,6 +12,6 @@ This mistake probably appears primarily because the verb *pore* appears less oft
 
 ## Language-Change Index
 
-*\*pour over books* for *pore over books*: Stage 2
-Current ratio in print \(*pore over books* vs. *\*pour over books*\): 10:1
+ - *\*pour over books* for *pore over books*: Stage 2
+ - Current ratio in print \(*pore over books* vs. *\*pour over books*\): 10:1
 

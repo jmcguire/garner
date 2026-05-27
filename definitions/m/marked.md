@@ -4,5 +4,5 @@ marked is pronounced /markt/, as one syllable. The pronunciation /**mar**-kәd/,
 
 ## Language-Change Index
 
-*marked* mispronounced /**mar**-kәd/ instead of /markt/: Stage 2
+ - *marked* mispronounced /**mar**-kәd/ instead of /markt/: Stage 2
 

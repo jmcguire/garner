@@ -12,5 +12,5 @@ Avoid using *impervious* in the watered-down sense "not affected by"—e.g.: "An
 
 *\*Imperviable* is a needless variant that seldom appears in print.
 
-Current ratio in print \(*impervious* vs. \**imperviable*\): 2,262:1
+ - Current ratio in print \(*impervious* vs. \**imperviable*\): 2,262:1
 

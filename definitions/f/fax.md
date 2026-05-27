@@ -8,5 +8,5 @@ Some writers mistakenly put the word in all capitals, as if it were an acronym. 
 
 ## Language-Change Index
 
-*fax* as n. & vb.: Stage 5
+ - *fax* as n. & vb.: Stage 5
 

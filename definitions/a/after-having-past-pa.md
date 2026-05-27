@@ -10,5 +10,5 @@
 
 ## Language-Change Index
 
-*\*after having been* for *after being*: Stage 3 Current ratio in print \(*after being* vs. *\*after having been*\): 7:1
+ - *\*after having been* for *after being*: Stage 3 Current ratio in print \(*after being* vs. *\*after having been*\): 7:1
 

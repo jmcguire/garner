@@ -4,5 +4,5 @@ pettifog, n., is a needless variant of *pettifogger* \(= \[1\] a petty or disrep
 
 ## Language-Change Index
 
-*pettifog* misused for *pettifogger* as a noun: Stage 1
+ - *pettifog* misused for *pettifogger* as a noun: Stage 1
 

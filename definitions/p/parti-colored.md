@@ -6,7 +6,7 @@ parti-colored \(= many-colored, multihued\) is the correct form. But *\*party-co
 
 ## Language-Change Index
 
-*parti-colored* misspelled *\*party-colored*: Stage 3
-Current ratio in print \(*parti-colored* vs. \**party-colored*\): 4:1
-Current ratio in print \(*parti-colored* vs. *particolored*\): 2:1
+ - *parti-colored* misspelled *\*party-colored*: Stage 3
+ - Current ratio in print \(*parti-colored* vs. \**party-colored*\): 4:1
+ - Current ratio in print \(*parti-colored* vs. *particolored*\): 2:1
 

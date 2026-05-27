@@ -6,9 +6,9 @@ other.
 
 ## Language-Change Index
 
-*\*other . . . other than*: Stage 1
+ - *\*other . . . other than*: Stage 1
 
-Current ratio in print \(*other person than* vs. *\*other person other than*\): 12:1
+ - Current ratio in print \(*other person than* vs. *\*other person other than*\): 12:1
 
 **B. *No other . . . than*.** This phrase often gets mangled into *\*no other . . . except*, which is a piece of illogic. The correction is typically *no . . . other than*—e.g.:
 
@@ -20,8 +20,8 @@ Very occasionally, the *no other . . . except* phrasing is actually correct—e.
 
 ## Language-Change Index
 
-*\*no other . . . except* for *no other . . . than*: Stage 1
-Current ratio in print \(*no other person than* vs. \**no other person except*\): 16:1
+ - *\*no other . . . except* for *no other . . . than*: Stage 1
+ - Current ratio in print \(*no other person than* vs. \**no other person except*\): 16:1
 
 **C. And *otherwise*.** See **otherwise \(a\)**.
 

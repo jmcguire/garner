@@ -12,5 +12,5 @@ As Bill Bryson observes, to be *bereft of* something is not merely to lack it bu
 
 ## Language-Change Index
 
-*bereft of* used without a sense of loss: Stage 3
+ - *bereft of* used without a sense of loss: Stage 3
 

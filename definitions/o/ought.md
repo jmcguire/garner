@@ -20,8 +20,8 @@ Formerly, a bare infinitive \(without *to*\) was used in negative and interrogat
 
 ## Language-Change Index
 
-*\*ought not be* for *ought not to be*: Stage 2
-Current ratio in print \(*ought not to be* vs. \**ought not be*\): 11:1
+ - *\*ought not be* for *ought not to be*: Stage 2
+ - Current ratio in print \(*ought not to be* vs. \**ought not be*\): 11:1
 
 **B. And *should*.** *Ought* should be reserved for expressions of necessity, duty, or obligation; *should*, the slightly weaker but more usual word, especially in speech, expresses appropriateness, suitability, or fittingness.
 
@@ -37,9 +37,9 @@ Current ratio in print \(*ought not to be* vs. \**ought not be*\): 11:1
 
 ## Language-Change Index
 
-*\*had ought* for *ought*: Stage 1
+ - *\*had ought* for *ought*: Stage 1
 
-Current ratio in print \(*you ought* vs. *you had ought*\): 1,479:1
+ - Current ratio in print \(*you ought* vs. *you had ought*\): 1,479:1
 
 **D. *Oughtn't*.** This quaint contraction sometimes appears. The same principles govern its use as those governing *ought.* That is, it should be followed by the full infinitive, not a bare infinitive—e.g.:
 
@@ -51,7 +51,7 @@ Current ratio in print \(*you ought* vs. *you had ought*\): 1,479:1
 
 See \(a). Most writers would use the far more natural word *shouldn't*.
 
-Current ratio in print \(*you oughtn't to be* vs. *\*you oughtn't be*\): 19:1
+ - Current ratio in print \(*you oughtn't to be* vs. *\*you oughtn't be*\): 19:1
 
 **E. \**Ought to could*.** See double modals.
 

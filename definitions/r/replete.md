@@ -4,6 +4,6 @@ replete means not "complete," but "abundantly supplied with; full to overflowing
 
 ## Language-Change Index
 
-*replete* misspelled *\*repleat*: Stage 1
-Current ratio in print \(*replete* vs. \**repleat*\): 1,072:1
+ - *replete* misspelled *\*repleat*: Stage 1
+ - Current ratio in print \(*replete* vs. \**repleat*\): 1,072:1
 

@@ -6,5 +6,5 @@ In the sense "optimistic, confident," *sanguine* is sometimes confounded with *s
 
 ## Language-Change Index
 
-*sanguinary* misused for *sanguine*: Stage 1
+ - *sanguinary* misused for *sanguine*: Stage 1
 

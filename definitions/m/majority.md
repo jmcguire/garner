@@ -12,7 +12,7 @@ majority.
 
 Especially in the phrase *a majority of \(people or things\)*—with the *of*-phrase spelled out—the word *majority* is generally treated as a plural in both AmE and BrE. E.g.: "Since the *majority* of shops that will open tomorrow *were* also open last Sunday, most shoppers will be hard put to notice the difference that the law has made." Tim Jackson, "Open All Hours \(Well, Almost\)," *Independent*, 27 Aug. 1994, at 11. Still, the sentence could be advantageously recast: *Since most shops that will open tomorrow were . . . .*
 
-Current ratio in print \(*a majority of them are* vs. *a majority of them is*\): 14:1
+ - Current ratio in print \(*a majority of them are* vs. *a majority of them is*\): 14:1
 
 **C. And *plurality*.** *Majority* and *plurality* are most often used in reference to elections and other types of surveys. A *majority* \(sometimes termed an *absolute majority*, although there is no distinction\) is either \(1\) a number of votes that is more than half the total <the referendum passed with a 53% majority>, or \(2\) the numerical spread by which the majority won <when Jeffords bolted, the Democrats took control of the Senate with a one-vote majority>. *Majority* is often used as an adjective to designate the bloc with the most votes or members <some committee members dissented from the majority report>.
 

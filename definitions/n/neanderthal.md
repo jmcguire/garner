@@ -4,5 +4,5 @@ Neanderthal \(= \[1\] a hominid that lived some 30,000 to 200,000 years ago; \[2
 
 That pronunciation is also reflected in the variant spelling *Neandertal*, which has long been the German spelling. Since the beginning of the 20th century, some English-speaking scholars have adopted this spelling.
 
-Current ratio in print \(*Neanderthal* vs. *Neandertal*\): 5:1
+ - Current ratio in print \(*Neanderthal* vs. *Neandertal*\): 5:1
 

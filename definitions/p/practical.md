@@ -18,5 +18,5 @@ In both words, the first syllable is stressed: /**prak**-ti-kәl/ and /**prak**-
 
 ## Language-Change Index
 
-*practicable* misused for *practical*: Stage 1
+ - *practicable* misused for *practical*: Stage 1
 

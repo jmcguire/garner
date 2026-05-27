@@ -20,7 +20,7 @@ The best pronunciation is /**dәb**-әl ahn-**tahn**-drә/. The phrase is normal
 
 ## Language-Change Index
 
-*\*double entente* for *double entendre*: Stage 1
-Current ratio in print \(*double entendre* vs. *\*double entente*\): 41:1
-Current ratio in print \(*double entendre* vs. *double-entendre*\): 8:1
+ - *\*double entente* for *double entendre*: Stage 1
+ - Current ratio in print \(*double entendre* vs. *\*double entente*\): 41:1
+ - Current ratio in print \(*double entendre* vs. *double-entendre*\): 8:1
 

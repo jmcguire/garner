@@ -22,8 +22,8 @@ Today this sense is relatively common—e.g.:
 
 ## Language-Change Index
 
-*\*running the gambit* for *running the gamut*: Stage 1
-Current ratio in print \(*running the gamut* vs. *\*running the gambit*\): 32:1
+ - *\*running the gambit* for *running the gamut*: Stage 1
+ - Current ratio in print \(*running the gamut* vs. *\*running the gambit*\): 32:1
 
 **C. In the Sense "opening."** Because the chess *gambit* is most often associated with openings, some criticize *opening gambit* as a redundancy. But strictly speaking, it's not: a *gambit* can come at any point in a chess game.
 

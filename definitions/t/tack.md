@@ -10,6 +10,6 @@ tack; **tact**. In sailing, a *tack* is a change in course made by turning the v
 
 ## Language-Change Index
 
-*tact* misused for *tack*: Stage 1
-Current ratio in print \(*different tack* vs. *\*different tact*\): 17:1
+ - *tact* misused for *tack*: Stage 1
+ - Current ratio in print \(*different tack* vs. *\*different tact*\): 17:1
 

@@ -8,5 +8,5 @@ laissez-faire /les-ay-**fair**/ \(= the idea that the government should allow th
 
 The first word in the phrase is pronounced /les-ay/—not /lah-zay/ or /lay-zay/. See gallicisms.
 
-Current ratio in print \(*laissez-faire* vs. \**laissez faire* vs. \**laisser-faire* vs. \**laisser faire*\): 95:18:1.2:1
+ - Current ratio in print \(*laissez-faire* vs. \**laissez faire* vs. \**laisser-faire* vs. \**laisser faire*\): 95:18:1.2:1
 

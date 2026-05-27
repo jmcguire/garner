@@ -8,5 +8,5 @@ empathic; **empathetic**. *Empathic* \(= of, relating to, displaying, or eliciti
 
 For now, the term *empathic* is standard in print sources. But a terminological shift may be at work.
 
-Current ratio in print \(*empathic* vs. *empathetic*\): 1.2:1
+ - Current ratio in print \(*empathic* vs. *empathetic*\): 1.2:1
 

@@ -12,6 +12,6 @@ The word is sometimes misused for *appropriate*, adj., a mistake often signaled 
 
 ## Language-Change Index
 
-*apropos* misused for *appropriate*: Stage 1
-Current ratio in print \(*it is appropriate that* vs. *\*it is apropos that*\): 328:1
+ - *apropos* misused for *appropriate*: Stage 1
+ - Current ratio in print \(*it is appropriate that* vs. *\*it is apropos that*\): 328:1
 

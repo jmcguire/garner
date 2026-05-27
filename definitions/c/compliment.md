@@ -15,8 +15,8 @@ The reverse error, *complement* for *compliment*, is rare but does occur—e.g.:
 ## Language-Change Index
 
 1. *\*full compliment* for *full complement*: Stage 1
-Current ratio in print \(*full complement* vs. *\*full compliment*\): 52:1
+ - Current ratio in print \(*full complement* vs. *\*full compliment*\): 52:1
 
 2. *complement* misused for the verb *compliment*: Stage 1
-Current ratio in print \(*complimented her on* vs. *\*complemented her on*\): 25:1
+ - Current ratio in print \(*complimented her on* vs. *\*complemented her on*\): 25:1
 

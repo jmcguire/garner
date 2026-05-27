@@ -87,9 +87,9 @@ A similar issue arises with an objective complement, in which the sequence is \[
 
 An elliptical form of this construction appears in the dentists' much-beloved expression, *Open wide* \(= open your mouth wide\).
 
-Current ratio in print \(*chopped fine* vs. *\*chopped finely*\): 3:1
+ - Current ratio in print \(*chopped fine* vs. *\*chopped finely*\): 3:1
 
-Current ratio in print \(*sliced thin* vs. *\*sliced thinly*\): 2.1:1
+ - Current ratio in print \(*sliced thin* vs. *\*sliced thinly*\): 2.1:1
 
 **F. Past-Participial Adjectives.** In certain phrases, there is a decided tendency for past-participial adjectives to lose their participial endings. Hence *iced cream* has become *ice cream*, *creamed cheese* has become *cream cheese*, *high-backed chair* has become *high-back chair*, and *skimmed milk* has become *skim milk*. Yet *iced tea* stubbornly retains the participial inflection in most print sources. Although purists battle this trend, its inevitability seems clear. Purists, of course, are free to continue using the past participles for the phrases in transition, but they may not get what they were expecting if they order "iced cream." See **cream cheese**, **ice cream** & **skim milk**.
 

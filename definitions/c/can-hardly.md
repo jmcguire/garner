@@ -8,5 +8,5 @@ But regardless of whether it's a double negative, *\*can't hardly* is not Standa
 
 ## Language-Change Index
 
-*\*can't hardly* for *can hardly*: Stage 1 Current ratio in print \(*can hardly* vs. *\*cannot hardly*\): 75:1
+ - *\*can't hardly* for *can hardly*: Stage 1 Current ratio in print \(*can hardly* vs. *\*cannot hardly*\): 75:1
 

@@ -8,8 +8,8 @@ Sometimes the correct form is made to establish a more severe, unsympathetic cha
 
 ## Language-Change Index
 
-*\*drownded* as past tense of *drown*: Stage 1
-Current ratio in print \(*drowned* vs. *\*drownded*\): 61:1
+ - *\*drownded* as past tense of *drown*: Stage 1
+ - Current ratio in print \(*drowned* vs. *\*drownded*\): 61:1
 
 **B. *Drowned*; *was drowned*.** In the best usage, if somebody *drowned* it was an accident, but if somebody *was drowned* foul play was involved.
 

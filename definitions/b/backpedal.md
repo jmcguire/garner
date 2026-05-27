@@ -4,5 +4,5 @@ backpedal \(= \[1\] to pedal backward on a bicycle; \[2\] to change one's stated
 
 Why is it a back-formation? Simple: the gerund *backpedaling* \(BrE *backpedalling*\) is known to have antedated the straightforward verb by several years.
 
-Current ratio in print \(*backpedaling* vs. \**backpeddling* in AmE\): 158:1
+ - Current ratio in print \(*backpedaling* vs. \**backpeddling* in AmE\): 158:1
 

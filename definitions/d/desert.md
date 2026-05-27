@@ -4,5 +4,5 @@ desert, vb.; **abandon**, vb. You can either desert or abandon a place or a pers
 
 ## Language-Change Index
 
-*desert* misused for *abandon*: Stage 1
+ - *desert* misused for *abandon*: Stage 1
 

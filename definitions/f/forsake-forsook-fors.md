@@ -15,8 +15,8 @@ The past-participial \**forsooken* is nonstandard AmE and essentially nonexisten
 ## Language-Change Index
 
 1. *\*forsaked* for *forsook*: Stage 1
-Current ratio in print \(*forsook* vs. *\*forsaked*\): 856:1
+ - Current ratio in print \(*forsook* vs. *\*forsaked*\): 856:1
 
 2. *\*foresake* for *forsake*: Stage 1
-Current ratio in print \(*forsake* vs. *\*foresake*\): 756:1
+ - Current ratio in print \(*forsake* vs. *\*foresake*\): 756:1
 

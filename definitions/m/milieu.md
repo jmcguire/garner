@@ -4,7 +4,7 @@ milieu \(/meel-**yʊ**/ or /mil-**yʊ**/ in AmE but /**meel**-yә/ or /**mil**-y
 
 ## Language-Change Index
 
-*milieu* misspelled *\*mileau*: Stage 1
-Current ratio in print \(*milieu* vs. \**mileau*\): 2,573:1
-Current ratio in print \(*milieus* vs. *milieux*\): 2.3:1
+ - *milieu* misspelled *\*mileau*: Stage 1
+ - Current ratio in print \(*milieu* vs. \**mileau*\): 2,573:1
+ - Current ratio in print \(*milieus* vs. *milieux*\): 2.3:1
 

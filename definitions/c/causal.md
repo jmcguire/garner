@@ -21,10 +21,10 @@ The opposite mistake likewise appears—e.g.:
 ## Language-Change Index
 
 1. *causative* misused for *causal*: Stage 1
-Current ratio in print \(*causal link* vs. *\*causative link*\): 28:1
+ - Current ratio in print \(*causal link* vs. *\*causative link*\): 28:1
 
 2. *causal* misused for *causative*: Stage 3
-Current ratio in print \(*causative agent* vs. \**causal agent*\): 2:1
+ - Current ratio in print \(*causative agent* vs. \**causal agent*\): 2:1
 
 **B. And *casual*.** What is *casual* is informal or relaxed <casual dress>, occasional <casual work>, or unstructured <a casual meeting>. The word has nothing to do with causation. It is a common typographical error to transpose the two middle letters in *causal* and *casual*, whichever one is being used—e.g.:
 
@@ -36,5 +36,5 @@ Since the late 1970s, many books have mistakenly referred to *\*causal sex*. Was
 
 ## Language-Change Index
 
-*casual* misused for *causal*: Stage 1 *causal* misused for *casual*: Stage 1
+ - *casual* misused for *causal*: Stage 1 *causal* misused for *casual*: Stage 1
 

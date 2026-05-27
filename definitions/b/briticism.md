@@ -10,5 +10,5 @@ Briticism; **Britishism**. We have long needed a word to denote any custom or qu
 
 Most American desktop dictionaries nevertheless list *Briticism* as the main term. Since about 1980, the two forms have closely vied for predominance in English-language publications. Cf. **Scotticism**.
 
-Current ratio in print \(*Briticism* vs. *Britishism*\): 1.1:1
+ - Current ratio in print \(*Briticism* vs. *Britishism*\): 1.1:1
 

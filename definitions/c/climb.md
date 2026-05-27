@@ -12,13 +12,13 @@ See dialect & irregular verbs \(d\).
 
 ## Language-Change Index
 
-*\*clumb* for *climbed*: Stage 1
+ - *\*clumb* for *climbed*: Stage 1
 
-Current ratio in print \(*climbed down* vs. *\*clumb down* vs. *\*clomb down*\): 9,174:59:1
+ - Current ratio in print \(*climbed down* vs. *\*clumb down* vs. *\*clomb down*\): 9,174:59:1
 
 **B. *Climb down*.** Although some purists have branded this phrasing illogical, in fact it is perfectly idiomatic—and certainly more natural-sounding than *descend*. E.g.: "When he \[Esteban Toledo\] was 8, he used to hide in the trees on the golf course in Mexicali. He would *climb down*, fish golf balls out of a pond with his toes, then clean the balls and sell them back to the golfers at the country club." Thomas Bonk, "Behind the Ball," *L.A. Times*, 7 Dec. 1996, at C1. This phrasing became widespread beginning about 1850.
 
 ## Language-Change Index
 
-*climb down*: Stage 5
+ - *climb down*: Stage 5
 

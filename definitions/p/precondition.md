@@ -6,5 +6,5 @@
 
  - "Certain *preconditions* \[read *conditions*\] are needed for free markets to work magic." Edward Lotterman, "Real World Economics," *St. Paul Pioneer Press*, 21 Mar. 2021, at A10.
 
-Current ratio in print \(*as a condition for* vs. \**as a precondition for*\): 1.6:1
+ - Current ratio in print \(*as a condition for* vs. \**as a precondition for*\): 1.6:1
 

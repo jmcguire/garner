@@ -12,6 +12,6 @@ See irregular verbs.
 
 ## Language-Change Index
 
-*\*spreaded* for past-tense *spread*: Stage 1
-Current ratio in print \(*is spread* vs. *\*is spreaded*\): 2,209:1
+ - *\*spreaded* for past-tense *spread*: Stage 1
+ - Current ratio in print \(*is spread* vs. *\*is spreaded*\): 2,209:1
 

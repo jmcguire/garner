@@ -4,5 +4,5 @@ connivance \(fr. L. *connīvēre* "to wink at"\) is not, as popularly supposed, 
 
 Dating from the late 1500s, the word was often spelled \**connivence* until about 1700, when the now-standard spelling became firmly established. Today \**connivence* can be regarded as a misspelling.
 
-Current ratio in print \(*connivance* vs. \**connivence*\): 94:1
+ - Current ratio in print \(*connivance* vs. \**connivence*\): 94:1
 

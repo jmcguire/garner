@@ -4,5 +4,5 @@ athlete has two syllables /**ath**-leet/, not three /**ath**-ә-leet/. See pronu
 
 ## Language-Change Index
 
-*athlete* pronounced with three syllables: Stage 2
+ - *athlete* pronounced with three syllables: Stage 2
 

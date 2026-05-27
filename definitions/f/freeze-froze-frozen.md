@@ -12,6 +12,6 @@ See irregular verbs. Cf. **deep-freeze**.
 
 ## Language-Change Index
 
-*\*freezed* for *froze*: Stage 1
-Current ratio in print \(*froze* vs. \**freezed*\): 791:1
+ - *\*freezed* for *froze*: Stage 1
+ - Current ratio in print \(*froze* vs. \**freezed*\): 791:1
 

@@ -6,5 +6,5 @@ The word is traditionally pronounced /gә-**roht**/, but /gә-**rot**/ now predo
 
 The word is also a noun meaning "a cord or wire for strangling."
 
-Current ratio in print \(*garroted him* vs. *\*garrotted him* vs. *\*garotted him*\): 14:8:1
+ - Current ratio in print \(*garroted him* vs. *\*garrotted him* vs. *\*garotted him*\): 14:8:1
 

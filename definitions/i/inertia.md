@@ -4,5 +4,5 @@ inertia \(= resistance to movement, change, or effort\) is occasionally confused
 
 ## Language-Change Index
 
-*inertia* misused for *momentum*: Stage 1
+ - *inertia* misused for *momentum*: Stage 1
 

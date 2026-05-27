@@ -6,5 +6,5 @@ The spelling *Aborigine*, with the initial capital, is traditional when referrin
 
 ## Language-Change Index
 
-*aborigine* as a singular: Stage 5
+ - *aborigine* as a singular: Stage 5
 

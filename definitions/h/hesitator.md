@@ -4,5 +4,5 @@ hesitator \(= someone who pauses nervously or unsurely\), an agent noun dating f
 
 1913 ratio in print \(*hesitator* vs. \**hesitater*\): 6:1
 
-Current ratio in print \(*hesitator* vs. \**hesitater*\): 1.7:1
+ - Current ratio in print \(*hesitator* vs. \**hesitater*\): 1.7:1
 

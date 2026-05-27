@@ -26,6 +26,6 @@ If one's property isn't "kept up," and can therefore be said to be *unkept*, it'
 
 ## Language-Change Index
 
-*unkept* misused for *unkempt*: Stage 1
-Current ratio in print \(*unkempt hair* vs. *\*unkept hair*\): 107:1
+ - *unkept* misused for *unkempt*: Stage 1
+ - Current ratio in print \(*unkempt hair* vs. *\*unkept hair*\): 107:1
 

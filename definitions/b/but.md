@@ -97,9 +97,9 @@ Even so, significant variability remains. You might conclude that the most prude
 
 ## Language-Change Index
 
-*No one but me was there*: Stage 5
-Current ratio in print \(*everybody but me was* vs. *everybody but I was*\): 9:1
-Current ratio in print \(*nobody but me was* vs. *nobody but I was*\): 1:1
-Current ratio in print \(*nobody but him would* vs. *nobody but he would*\): 2:1
-Current ratio in print \(*all but he were* vs. *all but him were*\): 2:1
+ - *No one but me was there*: Stage 5
+ - Current ratio in print \(*everybody but me was* vs. *everybody but I was*\): 9:1
+ - Current ratio in print \(*nobody but me was* vs. *nobody but I was*\): 1:1
+ - Current ratio in print \(*nobody but him would* vs. *nobody but he would*\): 2:1
+ - Current ratio in print \(*all but he were* vs. *all but him were*\): 2:1
 

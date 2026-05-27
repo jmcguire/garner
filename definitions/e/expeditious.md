@@ -12,5 +12,5 @@ expeditious; **expedient**, adj.; **\*expediential**. *Expeditious* = quickly ac
 
 ## Language-Change Index
 
-*expedient* misused for *expeditious*: Stage 1
+ - *expedient* misused for *expeditious*: Stage 1
 

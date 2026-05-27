@@ -18,12 +18,12 @@ In AmE and BrE alike, *discomfit* makes the past tense *discomfited*, not *\*dis
 
 ## Language-Change Index
 
-*discomfort* misused for *discomfit*: Stage 2
-Current ratio in print \(*discomfited* vs. *\*discomforted*\): 6:1
+ - *discomfort* misused for *discomfit*: Stage 2
+ - Current ratio in print \(*discomfited* vs. *\*discomforted*\): 6:1
 
 **D. *\*Discomforture*.** *\*Discomforture* is a nonword for either *discomfort* or *discomfiture*—e.g.: "The stubbornness of the owners in repeating their rhetoric in the past made it even harder to believe that they aren't on their way to re-experiencing their *discomfortures in* \[read *discomfort of* or *discomfitures of*\] the past." Murray Kempton, "Schott Tries Patience of the Owners," *Newsday* \(N.Y.\), 15 Sept. 1994, at 8.
 
 ## Language-Change Index
 
-*\*discomforture* for *discomfort* or *discomfiture*: Stage 1
+ - *\*discomforture* for *discomfort* or *discomfiture*: Stage 1
 

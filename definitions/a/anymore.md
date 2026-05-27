@@ -6,8 +6,8 @@ anymore.
 
 ## Language-Change Index
 
-*anymore* misused for *nowadays*: Stage 1
-Current ratio in print \(*Nowadays* vs. *Anymore* as first word in sentence\): 18:1
+ - *anymore* misused for *nowadays*: Stage 1
+ - Current ratio in print \(*Nowadays* vs. *Anymore* as first word in sentence\): 18:1
 
 **B. And *any more*.** AmE has developed this distinction: while the solid *anymore* conveys a temporal sense <they don't eat there anymore>, *any more* conveys a sense of comparing quantities <I don't want any more tea, thank you> or degrees <I don't like it any more than you do>. Sometimes even careful writers muddle this distinction—e.g.:
 

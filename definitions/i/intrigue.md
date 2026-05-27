@@ -4,5 +4,5 @@ intrigue, v.i., has traditionally meant "to carry on a plot or secret love affai
 
 ## Language-Change Index
 
-*intrigue* in the sense "to interest" <this idea intrigues policy-makers>: Stage 4
+ - *intrigue* in the sense "to interest" <this idea intrigues policy-makers>: Stage 4
 

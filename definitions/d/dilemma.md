@@ -6,5 +6,5 @@ The adjective is *dilemmatic*—e.g.: "Naturally, working with an interior desig
 
 ## Language-Change Index
 
-*dilemma* in reference to a problem or predicament that doesn't involve a clear choice between alternative courses of action: Stage 4
+ - *dilemma* in reference to a problem or predicament that doesn't involve a clear choice between alternative courses of action: Stage 4
 

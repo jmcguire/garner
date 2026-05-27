@@ -16,5 +16,5 @@ Since the 1960s, however, *grow* has blossomed as a transitive verb in nonfarmin
 
 ## Language-Change Index
 
-*grow* as a transitive verb in reference to nonliving things <growing the economy>: Stage 3
+ - *grow* as a transitive verb in reference to nonliving things <growing the economy>: Stage 3
 

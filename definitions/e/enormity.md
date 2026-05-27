@@ -40,5 +40,5 @@ Again, is the writer of the following sentence partisan? And if so, is the write
 
 ## Language-Change Index
 
-*enormity* misused for *immensity*: Stage 4
+ - *enormity* misused for *immensity*: Stage 4
 

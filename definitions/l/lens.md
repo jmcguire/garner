@@ -10,6 +10,6 @@ lens. So spelled—not *\*lense*. But the misspelling occurs fairly often, as so
 
 ## Language-Change Index
 
-*lens* misspelled *\*lense*: Stage 1
-Current ratio in print \(*a lens* vs. *\*a lense*\): 656:1
+ - *lens* misspelled *\*lense*: Stage 1
+ - Current ratio in print \(*a lens* vs. *\*a lense*\): 656:1
 

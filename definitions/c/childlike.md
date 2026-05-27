@@ -10,7 +10,7 @@ Sometimes *childish* \(the negative term\) wrongly displaces *childlike* \(the p
 
 ## Language-Change Index
 
-*childish* misused for *childlike*: Stage 2
+ - *childish* misused for *childlike*: Stage 2
 
-Current ratio in print \(*childlike innocence* vs. *\*childish innocence*\): 2.1:1
+ - Current ratio in print \(*childlike innocence* vs. *\*childish innocence*\): 2.1:1
 

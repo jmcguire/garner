@@ -16,5 +16,5 @@ The most common mistake in using these words is substituting *evoke* for sense 1
 
 ## Language-Change Index
 
-*evoke* misused for *invoke*: Stage 2
+ - *evoke* misused for *invoke*: Stage 2
 

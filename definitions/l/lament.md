@@ -10,6 +10,6 @@ lament, v.t., should not be made intransitive by the addition of a prepositionâ€
 
 ## Language-Change Index
 
-*lament* used intransitively <lamented over the loss> instead of transitively <lamented the loss>: Stage 1
-Current ratio in print \(*lamented the* vs. *\*lamented over the*\): 66:1
+ - *lament* used intransitively <lamented over the loss> instead of transitively <lamented the loss>: Stage 1
+ - Current ratio in print \(*lamented the* vs. *\*lamented over the*\): 66:1
 

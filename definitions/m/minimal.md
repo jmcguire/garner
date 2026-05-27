@@ -4,5 +4,5 @@ minimal; **minimum**, adj. Both words are used adjectivally. *Minimal* is always
 
 ## Language-Change Index
 
-*minimal* in reference to a small amount \(e.g., *a minimal amount of salt*\): Stage 5
+ - *minimal* in reference to a small amount \(e.g., *a minimal amount of salt*\): Stage 5
 

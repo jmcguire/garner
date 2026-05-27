@@ -10,6 +10,6 @@ loathsome. So spelled, even though the first syllable sounds like the verb rathe
 
 ## Language-Change Index
 
-*loathsome* misspelled *\*loathesome*: Stage 1
-Current ratio in print \(*loathsome* vs. *\*loathesome*\): 118:1
+ - *loathsome* misspelled *\*loathesome*: Stage 1
+ - Current ratio in print \(*loathsome* vs. *\*loathesome*\): 118:1
 

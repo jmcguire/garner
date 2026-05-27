@@ -24,8 +24,8 @@ In 2015, a man named Bryan Henderson, a 51-year-old software engineer, was repor
 
 ## Language-Change Index
 
-*\*is comprised of* for *comprises*: Stage 4
-Current ratio in print \(*comprises* vs. *\*is comprised of *\): 7:1
+ - *\*is comprised of* for *comprises*: Stage 4
+ - Current ratio in print \(*comprises* vs. *\*is comprised of *\): 7:1
 
 **C. *Comprise* for *make up* or *constitute*.** If the whole comprises the parts, the reverse can't be true—e.g.:
 
@@ -35,7 +35,7 @@ Current ratio in print \(*comprises* vs. *\*is comprised of *\): 7:1
 
 ## Language-Change Index
 
-*comprise* misused for *are comprised in* or *constitute*: Stage 3
+ - *comprise* misused for *are comprised in* or *constitute*: Stage 3
 
 **D. *Comprise* for *are*.** This is an odd error based on a misunderstanding of the meaning of *comprise*. E.g.: "They *comprise* \[read *are*\] three of the top four names in the batting order of the 30 most influential sports people in B.C. for 1997." Mike Beamish, "B.C.'s Top Guns," *Vancouver Sun*, 22 Feb. 1997, at G1.
 
@@ -43,8 +43,8 @@ Current ratio in print \(*comprises* vs. *\*is comprised of *\): 7:1
 
 ## Language-Change Index
 
-*comprise* misspelled *\*comprize*: Stage 1
-Current ratio in print \(*comprised* vs. *\*comprized*\): 850:1
+ - *comprise* misspelled *\*comprize*: Stage 1
+ - Current ratio in print \(*comprised* vs. *\*comprized*\): 850:1
 
 **F. *Compromise* for *comprise*.** See double bobbles.
 

@@ -19,8 +19,8 @@ The same error occurs, though less often, when the subject is the *digestive tra
 ## Language-Change Index
 
 1. *track* misused for *tract*: Stage 1
-Current ratio in print \(*tract of land* vs. *\*track of land*\): 58:1
+ - Current ratio in print \(*tract of land* vs. *\*track of land*\): 58:1
 
 2. *tract* misused for *track*: Stage 1
-Current ratio in print \(*kept track of* vs. *\*kept tract of *\): 860:1
+ - Current ratio in print \(*kept track of* vs. *\*kept tract of *\): 860:1
 

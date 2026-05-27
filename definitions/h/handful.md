@@ -4,7 +4,7 @@ handful.
 
 **A. Plural.** The word is *handfuls*, not *\*handsful*. See plurals \(g\).
 
-Current ratio in print \(*handfuls* vs. \**handsful*\): 125:1
+ - Current ratio in print \(*handfuls* vs. \**handsful*\): 125:1
 
 **B. *Handful is* or *handful are*.** When followed by the preposition *of* plus a plural noun, *handful* typically takes a plural verb—e.g.:
 
@@ -16,5 +16,5 @@ Current ratio in print \(*handfuls* vs. \**handsful*\): 125:1
 
 For the reason, see synesis. In both AmE and BrE, the collocation *a handful are* has predominated over *a handful is* in print sources since about 1950; before that, the two usages were close contenders from about 1890 on.
 
-Current ratio in print \(*a handful of them are* vs. *a handful of them is*\): 12:1
+ - Current ratio in print \(*a handful of them are* vs. *a handful of them is*\): 12:1
 

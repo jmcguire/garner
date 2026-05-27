@@ -12,5 +12,5 @@ For further misuse of *stigmatism*, see **stigma \(b\)**.
 
 ## Language-Change Index
 
-*\*a stigmatism* for *astigmatism*: Stage 1
+ - *\*a stigmatism* for *astigmatism*: Stage 1
 

@@ -18,5 +18,5 @@ perceptive.
 
 ## Language-Change Index
 
-*perceptive* misused for *perceptible*: Stage 1
+ - *perceptive* misused for *perceptible*: Stage 1
 

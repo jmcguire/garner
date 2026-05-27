@@ -4,5 +4,5 @@ arbitrable; **arbitrability**. Although these are the established forms, some wr
 
 ## Language-Change Index
 
-*\*arbitratability* for *arbitrability*: Stage 1
+ - *\*arbitratability* for *arbitrability*: Stage 1
 

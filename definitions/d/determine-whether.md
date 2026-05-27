@@ -12,6 +12,6 @@ For a similar problem with *\*doubt if* for *doubt whether*, see **doubt \(a\)**
 
 ## Language-Change Index
 
-*\*determine if* for *determine whether*: Stage 4
-Current ratio in print \(*determine whether* vs. *\*determine if *\): 2.2:1
+ - *\*determine if* for *determine whether*: Stage 4
+ - Current ratio in print \(*determine whether* vs. *\*determine if *\): 2.2:1
 

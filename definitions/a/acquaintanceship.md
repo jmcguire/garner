@@ -8,5 +8,5 @@
 
 ## Language-Change Index
 
-*\*acquaintanceship* for *acquaintance*: Stage 2 Current ratio in print \(*their acquaintance* vs. *\*their acquaintanceship*\): 34:1
+ - *\*acquaintanceship* for *acquaintance*: Stage 2 Current ratio in print \(*their acquaintance* vs. *\*their acquaintanceship*\): 34:1
 

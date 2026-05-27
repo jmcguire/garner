@@ -6,5 +6,5 @@ Occasionally the noun *rationale* is confused with the adjective *rational*: "â€
 
 ## Language-Change Index
 
-*rational* misused for *rationale*: Stage 1
+ - *rational* misused for *rationale*: Stage 1
 

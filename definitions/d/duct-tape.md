@@ -20,6 +20,6 @@ One company, Henkel Consumer Adhesives, owns the trademark on "Duck Tape," and t
 
 ## Language-Change Index
 
-*\*duck tape* for *duct tape*: Stage 2
-Current ratio in print \(*duct tape* vs. *\*duck tape*\): 99:1
+ - *\*duck tape* for *duct tape*: Stage 2
+ - Current ratio in print \(*duct tape* vs. *\*duck tape*\): 99:1
 

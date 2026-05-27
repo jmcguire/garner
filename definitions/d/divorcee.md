@@ -10,5 +10,5 @@ Both words are pronounced /di-vor-**say**/ or /-**see**/.
 
 ## Language-Change Index
 
-*divorcée* misused for *divorcé*: Stage 2
+ - *divorcée* misused for *divorcé*: Stage 2
 

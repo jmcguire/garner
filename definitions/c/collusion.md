@@ -10,5 +10,5 @@ Is it possible to defraud yourself? No, although writers occasionally try this t
 
 ## Language-Change Index
 
-*collusion* misused for *collaboration*: Stage 1
+ - *collusion* misused for *collaboration*: Stage 1
 

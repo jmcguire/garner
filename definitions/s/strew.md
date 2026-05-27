@@ -14,7 +14,7 @@ See irregular verbs & **strow**.
 
 ## Language-Change Index
 
-*strewed* for past-participial *strewn*: Stage 3
+ - *strewed* for past-participial *strewn*: Stage 3
 
 **B. As a Noun.** *Strew* is uncommon as a noun <a strew of papers on the desk>. *W3* defines it as "a number of things scattered about; a disorderly mess." Because it is so rare, a good replacement might be the better-known, similar-sounding *slew*—e.g.: "Ordinary people could be heard earnestly offering a *strew* \[read *slew*\] of views that, at their most human turning, veered toward the confessional." Francis X. Clines, "At $50 a Pop, Specialists Listen to the Vox Pop," *N.Y. Times*, 2 Mar. 1996, at 8.
 

@@ -4,6 +4,6 @@ cultivable; **\*cultivatable**. The first \(pronounced /**kәl**-tә-vә-bәl/\)
 
 ## Language-Change Index
 
-*\*cultivatable* for *cultivable*: Stage 2
-Current ratio in print \(*cultivable* vs. *\*cultivatable* in World Englishes\): 10:1
+ - *\*cultivatable* for *cultivable*: Stage 2
+ - Current ratio in print \(*cultivable* vs. *\*cultivatable* in World Englishes\): 10:1
 

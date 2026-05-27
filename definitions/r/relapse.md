@@ -4,5 +4,5 @@ relapse; **recur**. The patient relapses; the illness recurs. Let us hope this w
 
 ## Language-Change Index
 
-*relapse* misused for *recur*: Stage 1
+ - *relapse* misused for *recur*: Stage 1
 

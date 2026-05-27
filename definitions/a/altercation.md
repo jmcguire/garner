@@ -22,5 +22,5 @@ Cf. **accost**.
 
 ## Language-Change Index
 
-*altercation* referring to physical violence: Stage 3
+ - *altercation* referring to physical violence: Stage 3
 

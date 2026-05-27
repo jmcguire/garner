@@ -12,5 +12,5 @@ Still, *complete* is a better choice when it will suffice, as in the last exampl
 
 ## Language-Change Index
 
-*finalize*: Stage 5
+ - *finalize*: Stage 5
 

@@ -12,5 +12,5 @@ The *lawsuit* is the whole process; the document \(however many pages long\) is 
 
 ## Language-Change Index
 
-*lawsuit* misused for *complaint* or *petition*: Stage 1
+ - *lawsuit* misused for *complaint* or *petition*: Stage 1
 

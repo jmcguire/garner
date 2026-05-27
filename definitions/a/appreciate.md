@@ -6,5 +6,5 @@ Sense 4 is often part of a wordy construction: "I would *appreciate it if you wo
 
 ## Language-Change Index
 
-*appreciate* in the sense "to be grateful for": Stage 5
+ - *appreciate* in the sense "to be grateful for": Stage 5
 

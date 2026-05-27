@@ -10,5 +10,5 @@ lifelong; **livelong**. *Lifelong* = lasting for all or most of one's life <Seym
 
 ## Language-Change Index
 
-*livelong* misused for *lifelong*: Stage 1
+ - *livelong* misused for *lifelong*: Stage 1
 

@@ -4,6 +4,6 @@ smart aleck \(= a bumptious, annoying person who often makes wisecracks\), an Am
 
 The corresponding adjective is hyphenated *smart-alecky*—not \**smartalecky* or \**smart* *alecky*.
 
-Current ratio in print \(*smart alecks* vs. \**smart alecs* vs. \**smart-alecks* vs. \**smart-alecs* vs. \**smartalecks*\): 39:11:8:3:1
-Current ratio in print \(*smart-alecky* vs. \**smartalecky* vs. \**smart alecky*\): 20:2:1
+ - Current ratio in print \(*smart alecks* vs. \**smart alecs* vs. \**smart-alecks* vs. \**smart-alecs* vs. \**smartalecks*\): 39:11:8:3:1
+ - Current ratio in print \(*smart-alecky* vs. \**smartalecky* vs. \**smart alecky*\): 20:2:1
 

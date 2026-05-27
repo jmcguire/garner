@@ -14,7 +14,7 @@ Still, one occasionally encounters puzzling uses that seem worthy of disapproval
 
 ## Language-Change Index
 
-*ilk* for *type* or *sort*: Stage 5
+ - *ilk* for *type* or *sort*: Stage 5
 
 **B. Connotation.** The word's accepted definition is hardly defamatory. But the word increasingly conveys derogatory connotations \(perhaps from sound association with the expletive *ick*?\)—e.g.: "The book wrestles with the excruciating ethical dilemmas facing America . . . in battling Osama bin Laden and his *ilk*." Jean Bethke Elshtain, Book Rev., "Duty Bound," *Wash. Post*, 6 Apr. 2003, at T4. It has been known to give offense—e.g.: "Larouche wrote her own letter to the editor . . . to attack me and my opinions personally, such as by calling me and my ‘*ilk*' \(whoever they are\) ‘hypocrites in Birkenstocks.' " Letter of Hanna Bordas, *Boston Globe*, 6 Apr. 2003, Mag. §, at 3.
 

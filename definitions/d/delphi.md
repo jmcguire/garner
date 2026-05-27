@@ -6,6 +6,6 @@ Delphi /**del**-fī/ or /**del**-fee/, not *\*Delphos*, is the place name for th
 
 ## Language-Change Index
 
-*\*oracle of Delphos* for *oracle of Delphi*: Stage 1
-Current ratio in print \(*oracle of Delphi* vs. *\*oracle of Delphos*\): 25:1
+ - *\*oracle of Delphos* for *oracle of Delphi*: Stage 1
+ - Current ratio in print \(*oracle of Delphi* vs. *\*oracle of Delphos*\): 25:1
 

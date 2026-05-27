@@ -4,5 +4,5 @@ banister \(= a handrail supported by vertical posts running usu. along a stairwa
 
 In the 1600s and early 1700s, the predominant spelling was \**bannister*. During the 1700s, the two spellings \(*banister* and \**bannister*\) competed. Not until the 1820s did *banister* become the standard spelling across World Englishes.
 
-Current ratio in print \(*banister* vs. \**bannister*\): 5:1
+ - Current ratio in print \(*banister* vs. \**bannister*\): 5:1
 

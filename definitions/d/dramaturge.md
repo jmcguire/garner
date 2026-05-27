@@ -5,5 +5,5 @@ dramaturge; **dramaturg**; **\*dramaturgist**. *Dramaturge* \(= \[1\] a playwrig
 The spelling is that of the French etymon: *dramaturge*. Since about 1980, the *e*-less spelling *dramaturg* \(also, oddly, pronounced /**drah**-mә-tәrj/\) has surged in use. Though for the time being its frequency is greatest, it can't be recommended as the preferred spelling.
 
 1970 ratio in print \(*dramaturge* vs. *dramaturg*\): 1.5:1
-Current ratio in print \(*dramaturge* vs. *dramaturg*\): 1:2.4
+ - Current ratio in print \(*dramaturge* vs. *dramaturg*\): 1:2.4
 

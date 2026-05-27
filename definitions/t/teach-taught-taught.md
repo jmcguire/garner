@@ -12,6 +12,6 @@ See irregular verbs.
 
 ## Language-Change Index
 
-*\*teached* for *taught*: Stage 1
-Current ratio in print \(*taught me* vs. *\*teached me*\): 1,461:1
+ - *\*teached* for *taught*: Stage 1
+ - Current ratio in print \(*taught me* vs. *\*teached me*\): 1,461:1
 

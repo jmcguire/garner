@@ -4,5 +4,5 @@
 
 ## Language-Change Index
 
-*\*ex-felon* in the sense "a felon who has completed a sentence": Stage 3
+ - *\*ex-felon* in the sense "a felon who has completed a sentence": Stage 3
 

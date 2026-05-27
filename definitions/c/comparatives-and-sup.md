@@ -32,7 +32,7 @@ Still, if a word ordinarily takes either the *-er* or the *-est* suffix—and th
 
  - "The Smiths loved to travel around the globe, but they were *most happy* \[read *happiest*\] sailing on board their sloop, Elskov, along the coast of Maine." "Hope Noyes Smith" \(obit.\), *Salem News* \(Mass.\), 20 Sept. 2021.
 
-Current ratio in print \(*simpler method* vs. *more simple method*\): 22:1
+ - Current ratio in print \(*simpler method* vs. *more simple method*\): 22:1
 
 **C. *Be*-Verbs Repeated After Comparatives.** It usually isn't necessary to repeat the verb *to be* before the second element of the comparison—e.g.: "Thus, full-scale intervention is much *less likely than is* \[read *less likely than*\] subversion or other covert activities in such cases." Richard K. Herrmann & Michael P. Fischerkeller, "Beyond the Enemy Image and Spiral Model," *Int'l Organization*, 22 June 1995. And if the *be*-verb is repeated, it usually shouldn't go immediately after *than*. The preceding example, then, might read: *Thus, full-scale intervention is much less likely than subversion or other covert activities are in such cases*. See inversion & **than \(a\)**.
 
@@ -42,7 +42,7 @@ For an example of the double superlative, see **\*least worst**.
 
 ## Language-Change Index
 
-*\*more slower* for *slower*, etc.: Stage 1
+ - *\*more slower* for *slower*, etc.: Stage 1
 
 **E. *Greater of A* *\(or\) \(and\)* *B*.** Logic loses to idiom when deciding whether to use the conjunctive *and* or the disjunctive *or* in phrases such as *the greater of A* \[*and*? *or*?\] *B*. Logic would seem to demand *and* to include all the options in the comparison before one is singled out as being the *lesser*, *biggest*, *oldest*, *latter*, etc. But in fact, since the early 20th century this type of phrasing has tended toward *or*—except in logicians' prose.
 

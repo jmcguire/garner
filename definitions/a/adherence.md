@@ -12,5 +12,5 @@ Occasionally *adhesion* appears wrongly for *adherence*—e.g.:
 
 ## Language-Change Index
 
-*adhesion* misused for *adherence*: Stage 1 Current ratio in print \(*adherence to rules* vs. \**adhesion to rules*\): 359:1
+ - *adhesion* misused for *adherence*: Stage 1 Current ratio in print \(*adherence to rules* vs. \**adhesion to rules*\): 359:1
 

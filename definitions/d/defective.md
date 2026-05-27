@@ -6,5 +6,5 @@ defective; **deficient**; **defectible**. The primary difference to be noted is 
 
 ## Language-Change Index
 
-*deficiency* misused for *defect*: Stage 1
+ - *deficiency* misused for *defect*: Stage 1
 

@@ -4,5 +4,5 @@ glean \(= to gather \[esp. information or, orig., crops left over after a harves
 
 ## Language-Change Index
 
-*gleam* misused for *glean*: Stage 1
+ - *gleam* misused for *glean*: Stage 1
 

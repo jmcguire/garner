@@ -4,5 +4,5 @@ bronco; **bronc**; **broncho**. The standard form is *bronco* \(= a wild, unbrok
 
 Pl. *broncos*. See plurals \(d\).
 
-Current ratio in print \(*bronco* vs. *bronc* vs. *broncho*\): 1.7:1.5:1
+ - Current ratio in print \(*bronco* vs. *bronc* vs. *broncho*\): 1.7:1.5:1
 

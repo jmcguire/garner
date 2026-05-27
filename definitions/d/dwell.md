@@ -8,5 +8,5 @@ dwell has two past-tense forms, *dwelt* and *dwelled*. The former has always app
 
 The two forms may be undergoing differentiation: *dwelled* tends to refer to the physical act, while *dwelt \(upon\)* takes as its object an idea or other abstract concept. See irregular verbs.
 
-Current ratio in print \(*dwelt upon* vs. *dwelled upon*\): 14:1
+ - Current ratio in print \(*dwelt upon* vs. *dwelled upon*\): 14:1
 

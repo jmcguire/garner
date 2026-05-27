@@ -6,5 +6,5 @@ O**; Oh**. Although the distinction isn't always observed, there is one: *O* den
 
 Traditionally, a comma follows when *Oh* begins a sentence <Oh, you braggart\!>. But it's often omitted today <Oh my gosh\!>.
 
-Current ratio in print \(*Oh my\!* vs. *O my\!*\): 6:1
+ - Current ratio in print \(*Oh my\!* vs. *O my\!*\): 6:1
 

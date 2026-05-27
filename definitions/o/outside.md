@@ -12,6 +12,6 @@ In AmE, *outside of* is a casualism equivalent to *apart from* or *aside from*â€
 
 ## Language-Change Index
 
-*outside of* for *outside*: Stage 4
-Current ratio in print \(*outside the* vs. *outside of the*\): 4:1
+ - *outside of* for *outside*: Stage 4
+ - Current ratio in print \(*outside the* vs. *outside of the*\): 4:1
 

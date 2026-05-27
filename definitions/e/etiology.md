@@ -4,5 +4,5 @@ etiology. Outside the field of medicine \(and arguably within it\), *etiology* i
 
 *Aetiology* is a common BrE variant. *\*Aitiology* is a variant spelling to be avoided.
 
-Current ratio in print \(*etiology* vs. *aetiology* vs. *\*aitiology*\): 2,236:509:1
+ - Current ratio in print \(*etiology* vs. *aetiology* vs. *\*aitiology*\): 2,236:509:1
 

@@ -18,7 +18,7 @@ See **sort of**.
 
 ## Language-Change Index
 
-*these* followed by *kind*, *type*, or *sort* in the singular: Stage 2
-Current ratio in print \(*these kinds of* vs. *\*these kind of *\): 11:1
-Current ratio in print \(*these types of* vs. *\*these type of *\): 32:1
+ - *these* followed by *kind*, *type*, or *sort* in the singular: Stage 2
+ - Current ratio in print \(*these kinds of* vs. *\*these kind of *\): 11:1
+ - Current ratio in print \(*these types of* vs. *\*these type of *\): 32:1
 

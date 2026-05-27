@@ -10,7 +10,7 @@ focus.
 
 See plurals \(b\). Even so, *foci* is much more common in print sources than the plural *focuses*.
 
-Current ratio in print \(*many foci* vs. *many focuses*\): 2.5:1
+ - Current ratio in print \(*many foci* vs. *many focuses*\): 2.5:1
 
 **B. As a Verb.** *Focus* makes *focused* and *focusing* in AmE and BrE alike; *focussed* and *focussing* are primarily BrE variants. See spelling \(c\).
 

@@ -14,5 +14,5 @@ Unfortunately, and perhaps because of its sanction in that statute, this new "gr
 
 ## Language-Change Index
 
-*untrammeled* misused for *untrampled* or *unspoiled*: Stage 1
+ - *untrammeled* misused for *untrampled* or *unspoiled*: Stage 1
 

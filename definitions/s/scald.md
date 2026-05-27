@@ -4,5 +4,5 @@ scald \(= \[1\] to burn with hot liquid or steam; or \[2\] to heat \[milk or oth
 
 Occasionally *scald* gets confounded with *scold*, an etymologically unrelated word. Although someone who scolds is likely to be emotionally heated, it's wrong to write \**scolding hot* or similar phrases.
 
-Current ratio in print \(*scalding hot* vs. \**scolding hot*\): 37:1
+ - Current ratio in print \(*scalding hot* vs. \**scolding hot*\): 37:1
 

@@ -12,8 +12,8 @@ worst.
 
 ## Language-Change Index
 
-*\*worst two* for *two worst*: Stage 3
-Current ratio in print \(*two worst* vs. *\*worst two*\): 3:1
+ - *\*worst two* for *two worst*: Stage 3
+ - Current ratio in print \(*two worst* vs. *\*worst two*\): 3:1
 
 **C. *\*Least worst*.** See **\*least worst**.
 

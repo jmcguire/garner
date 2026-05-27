@@ -4,5 +4,5 @@ upstairs, adj., as in *upstairs bedroom*, is sometimes wrongly made either *\*up
 
 ## Language-Change Index
 
-*\*upstair's bedroom* for *upstairs bedroom*: Stage 1
+ - *\*upstair's bedroom* for *upstairs bedroom*: Stage 1
 

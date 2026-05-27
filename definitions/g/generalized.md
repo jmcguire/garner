@@ -4,5 +4,5 @@ generalized \(= made general\) sometimes appears in contexts where *general* wou
 
 ## Language-Change Index
 
-*generalized* misused for *general*: Stage 1
+ - *generalized* misused for *general*: Stage 1
 

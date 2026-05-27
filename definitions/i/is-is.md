@@ -6,5 +6,5 @@ For a detailed linguistic explanation of this sloppy phrasing—or, as the autho
 
 ## Language-Change Index
 
-*is is* for *is*: Stage 2
+ - *is is* for *is*: Stage 2
 

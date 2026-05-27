@@ -6,5 +6,5 @@ In most other uses, *purposive* is a needless variant of *purposeful*—e.g.: "T
 
 ## Language-Change Index
 
-*purposive* misused for *purposeful*: Stage 1
+ - *purposive* misused for *purposeful*: Stage 1
 

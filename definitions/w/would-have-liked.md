@@ -10,6 +10,6 @@ Nor is it correct to say *\*would like to have done*, because the sequence of ev
 
 ## Language-Change Index
 
-*would have liked* followed by perfect infinitive: Stage 4
-Current ratio in print \(*would have liked to see* vs. *\**\[*would*\] *have liked to have seen* vs. *\*would like to have seen*\): 6:3:1
+ - *would have liked* followed by perfect infinitive: Stage 4
+ - Current ratio in print \(*would have liked to see* vs. *\**\[*would*\] *have liked to have seen* vs. *\*would like to have seen*\): 6:3:1
 

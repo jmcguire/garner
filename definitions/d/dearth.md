@@ -12,5 +12,5 @@ The word is commonly misunderstood as meaning a complete absence of something. T
 
 ## Language-Change Index
 
-*\*complete dearth* for *absence* or *lack*: Stage 1
+ - *\*complete dearth* for *absence* or *lack*: Stage 1
 

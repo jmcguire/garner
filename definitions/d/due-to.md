@@ -32,5 +32,5 @@ In the following examples, the phrase is used in the traditionally preferred way
 
 ## Language-Change Index
 
-*due to* misused for *because of* or *owing to*: Stage 4
+ - *due to* misused for *because of* or *owing to*: Stage 4
 

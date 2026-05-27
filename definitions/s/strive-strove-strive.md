@@ -6,7 +6,7 @@ Although *\*had strove* was fairly common in the 1700s, since 1820 or so *had st
 
 ## Language-Change Index
 
-*\*strived* for *strove* or *striven*: Stage 3
-Current ratio in print \(*we strove* vs. *\*we strived*\): 4:1
-Current ratio in print \(*have striven* vs. *\*have strived*\): 3:1
+ - *\*strived* for *strove* or *striven*: Stage 3
+ - Current ratio in print \(*we strove* vs. *\*we strived*\): 4:1
+ - Current ratio in print \(*have striven* vs. *\*have strived*\): 3:1
 

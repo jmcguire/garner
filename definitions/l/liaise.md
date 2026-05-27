@@ -14,5 +14,5 @@ The word is commonly misspelled *\*liase*.
 
 ## Language-Change Index
 
-*liaise* as a word: Stage 5
+ - *liaise* as a word: Stage 5
 

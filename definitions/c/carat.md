@@ -8,5 +8,5 @@ The less common error is to misuse *caret* for the unrelated word *carat* or *ka
 
 ## Language-Change Index
 
-*caret* misused for *karat*: Stage 1 Current ratio in print \(*carat diamond* vs. \**karat diamond* vs. \**caret diamond*\): 87:7:1
+ - *caret* misused for *karat*: Stage 1 Current ratio in print \(*carat diamond* vs. \**karat diamond* vs. \**caret diamond*\): 87:7:1
 

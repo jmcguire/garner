@@ -12,5 +12,5 @@ In any event, the preferred pronunciations start with /flʊr-/.
 
 ## Language-Change Index
 
-*fluorescent* misspelled *\*flourescent*: Stage 1
+ - *fluorescent* misspelled *\*flourescent*: Stage 1
 

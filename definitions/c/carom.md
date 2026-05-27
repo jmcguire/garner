@@ -6,7 +6,7 @@ As a noun \(dating from the late 1700s\), *carom* denotes any of various billiar
 
 For the possible influence of *carom* on the verb *careen*, see the final paragraph of **careen**.
 
-Current ratio in print \(*carom* vs. \**carrom*\): 4:1
+ - Current ratio in print \(*carom* vs. \**carrom*\): 4:1
 
-Current ratio in print \(*caromed* vs. \**carommed*\): 1,179:1
+ - Current ratio in print \(*caromed* vs. \**carommed*\): 1,179:1
 

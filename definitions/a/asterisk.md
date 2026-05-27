@@ -13,7 +13,7 @@ Another misspelling, *\*asterik*, is nearly as common—e.g.: "The most memorabl
 ## Language-Change Index
 
 1. *\*asterick* for *asterisk*: Stage 1
-Current ratio in print \(*asterisk* vs. *\*asterick* vs. *\*asterik*\): 2,049:1.4:1
+ - Current ratio in print \(*asterisk* vs. *\*asterick* vs. *\*asterik*\): 2,049:1.4:1
 
 2. *asterisk* pronounced like *\*asterick*: Stage 2
 

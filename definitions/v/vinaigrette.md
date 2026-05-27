@@ -7,7 +7,7 @@ Similarly, the word is often mispronounced. It should be /vin-ә-**gret**/, not 
 ## Language-Change Index
 
 1. *vinaigrette* misspelled *\*vinegarette*: Stage 1
-Current ratio in print \(*vinaigrette* vs. \**vinegarette*\): 782:1
+ - Current ratio in print \(*vinaigrette* vs. \**vinegarette*\): 782:1
 
 2. *vinaigrette* mispronounced in four syllables: Stage 3
 

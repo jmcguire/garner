@@ -23,10 +23,10 @@ The singular and plural forms are pronounced /noo-voh **reesh**/.
 ## Language-Change Index
 
 1. *\*nouveau rich* for *nouveau riche*: Stage 1
-Current ratio in print \(*nouveau riche* vs. *\*nouveau rich*\): 55:1
+ - Current ratio in print \(*nouveau riche* vs. *\*nouveau rich*\): 55:1
 
 2. *\*nouveau riches* as a plural for *nouveaux riches*: Stage 1
-Current ratio in print \(*nouveaux riches* vs. *\*nouveau riches*\): 15:1
+ - Current ratio in print \(*nouveaux riches* vs. *\*nouveau riches*\): 15:1
 
 3. *nouveau riche* in reference to newfound wealth: Stage 1
 

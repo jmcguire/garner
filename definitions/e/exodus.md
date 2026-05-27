@@ -4,5 +4,5 @@ exodus means "a mass departure or emigration." Hence the common phrase *\*mass e
 
 ## Language-Change Index
 
-*\*mass exodus* for *exodus*: Stage 3
+ - *\*mass exodus* for *exodus*: Stage 3
 

@@ -8,5 +8,5 @@ ingratiate \(= to bring \[oneself\] into favor \[with\]\) should always be refle
 
 ## Language-Change Index
 
-*ingratiate* used nonreflexively: Stage 1
+ - *ingratiate* used nonreflexively: Stage 1
 

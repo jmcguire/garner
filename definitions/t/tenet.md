@@ -10,7 +10,7 @@ tenet \(= a doctrine or basic belief, dogma\) is sometimes confounded with the s
 
 ## Language-Change Index
 
-*tenant* misused for *tenet*: Stage 2
-Current ratio in print \(*fundamental tenet* vs. *\*fundamental tenant*\): 41:1
-Current ratio in print \(*tenets of Christianity* vs. \**tenants of Christianity*\): 46:1
+ - *tenant* misused for *tenet*: Stage 2
+ - Current ratio in print \(*fundamental tenet* vs. *\*fundamental tenant*\): 41:1
+ - Current ratio in print \(*tenets of Christianity* vs. \**tenants of Christianity*\): 46:1
 

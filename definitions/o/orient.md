@@ -14,6 +14,6 @@ Cf. **disorient**.
 
 ## Language-Change Index
 
-*\*orientate* for *orient*: Stage 2
-Current ratio in print \(*oriented* vs. \**orientated*\): 19:1
+ - *\*orientate* for *orient*: Stage 2
+ - Current ratio in print \(*oriented* vs. \**orientated*\): 19:1
 

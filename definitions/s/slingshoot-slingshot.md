@@ -4,5 +4,5 @@ slingshoot > slingshot > slingshot. Although the word is most often a noun, the 
 
 ## Language-Change Index
 
-*\*slingshooted* for past-tense *slingshot*: Stage 1
+ - *\*slingshooted* for past-tense *slingshot*: Stage 1
 

@@ -8,5 +8,5 @@ medley \(= a mixture\) is sometimes confused with—and, through metathesis, pro
 
 ## Language-Change Index
 
-*\*fruit melody* for *fruit medley*: Stage 1
+ - *\*fruit melody* for *fruit medley*: Stage 1
 

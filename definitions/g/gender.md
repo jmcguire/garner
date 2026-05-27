@@ -10,7 +10,7 @@ There are, in short, legitimate reasons for preferring *gender* outside grammati
 
 Although the phrase *sex discrimination* has been predominant since the mid-20th century, the phrase *gender discrimination* caught on in the late 1980s and 1990s and now predominates. See **sex**.
 
-Current ratio in print \(*gender discrimination* vs. *sex discrimination*\): 1.1:1
+ - Current ratio in print \(*gender discrimination* vs. *sex discrimination*\): 1.1:1
 
 **B. *Both genders*; *either gender*; *opposite genders.*** Although these phrases have long been commonplace ways of supposedly denoting all people, they are no longer universally seen as all-encompassing. The view today among medical and psychological experts is that not all people fall into one of two categories. *Nonbinary* or *intersex* people are neither male nor female. Hence it is increasingly seen as insensitive, in some quarters, to use *both genders*, *either gender*, *opposite genders*, or similar phraseology that perpetuates the binary view of humanity. In 2020, the *AP Stylebook* began warning against them—although it did allow occasional uses of *boys and girls*, *males and females*, and *men and women*. It rightly notes that "language around *gender* is evolving." Controversies surrounding this and allied terminology show no sign of subsiding. See **they \(a\)**. Cf. **cisgender** & **transgender**.
 

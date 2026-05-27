@@ -10,5 +10,5 @@ The word is sometimes used as a singular in place of *son*, *daughter*, or *chil
 
 For the insensitive use of *progeny* as a metaphor, see metaphors.
 
-Current ratio in print \(*Their progeny were* vs. *Their progeny was*\): 1.1:1
+ - Current ratio in print \(*Their progeny were* vs. *Their progeny was*\): 1.1:1
 

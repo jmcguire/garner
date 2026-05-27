@@ -12,5 +12,5 @@ See etymology \(a\).
 
 ## Language-Change Index
 
-*homophobe*: Stage 5
+ - *homophobe*: Stage 5
 

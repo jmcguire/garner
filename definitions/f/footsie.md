@@ -4,5 +4,5 @@ footsie \(= \[1\] an under-the-table flirtation in which someone playfully touch
 
 Among the reduplicative synonyms are *footsie-tootsie* and *footsie-wootsie*—both of which excite much merriment between the players.
 
-Current ratio in print \(*play footsie* vs. \**play footsy*\): 10:1
+ - Current ratio in print \(*play footsie* vs. \**play footsy*\): 10:1
 

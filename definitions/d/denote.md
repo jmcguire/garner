@@ -6,5 +6,5 @@ For the difference between *denote* and *connote*, see **connote \(a\)**.
 
 ## Language-Change Index
 
-*denote* misused for *denominate*: Stage 1
+ - *denote* misused for *denominate*: Stage 1
 

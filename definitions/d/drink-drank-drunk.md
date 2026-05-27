@@ -13,8 +13,8 @@ See irregular verbs & dialect.
 ## Language-Change Index
 
 1. *drank* as past participle of *drink*: Stage 2
-Current ratio in print \(*has drunk* vs. *\*has drank*\): 12:1
+ - Current ratio in print \(*has drunk* vs. *\*has drank*\): 12:1
 
 2. *drunk* as simple past of *drink*: Stage 1
-Current ratio in print \(*he drank* vs. *\*he drunk*\): 25:1
+ - Current ratio in print \(*he drank* vs. *\*he drunk*\): 25:1
 

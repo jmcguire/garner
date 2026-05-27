@@ -8,5 +8,5 @@ trompe l'oeil; **\*trompe d'oeil**; **\*tromp d'oeil**; **\*trump l'oeil**. The 
 
 The phrase is pronounced \(in English\) /trawmp **lә**-ee/.
 
-Current ratio in print \(*trompe l'oeil* vs. \**trompe d'oeil* vs. \**tromp d'oeil*\): 349:4:1
+ - Current ratio in print \(*trompe l'oeil* vs. \**trompe d'oeil* vs. \**tromp d'oeil*\): 349:4:1
 

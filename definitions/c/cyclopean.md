@@ -4,5 +4,5 @@ cyclopean; **\*cyclopian**. This word—meaning \(1\) "of or like a cyclops"; or
 
 The word has two acceptable but very different pronunciations: /sī-klә-**pee**-әn/ and /sī-**kloh**-pee-әn/. The former predominates and is preferred. See **cyclops**.
 
-Current ratio in print \(*cyclopean* vs. *\*cyclopian*\): 4:1
+ - Current ratio in print \(*cyclopean* vs. *\*cyclopian*\): 4:1
 

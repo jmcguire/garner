@@ -12,5 +12,5 @@ This error may result from an effort to avoid gender-specific endings. But to a 
 
 ## Language-Change Index
 
-*fiancée* for *fiancé* \(and vice versa\): Stage 2
+ - *fiancée* for *fiancé* \(and vice versa\): Stage 2
 

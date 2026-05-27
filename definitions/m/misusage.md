@@ -4,5 +4,5 @@ misusage \(= \[1\] maltreatment; or \[2\] the incorrect use of language\) is inc
 
 ## Language-Change Index
 
-*misusage* misused for *misuse*: Stage 2
+ - *misusage* misused for *misuse*: Stage 2
 

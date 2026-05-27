@@ -12,5 +12,5 @@ illustrative.
 
 ## Language-Change Index
 
-*illustrative* misused for *illustrious*: Stage 1
+ - *illustrative* misused for *illustrious*: Stage 1
 

@@ -4,9 +4,9 @@ cite, n. **A. As a Casualism for *citation*.** Using *cite* as a noun—in place
 
 ## Language-Change Index
 
-*cite* as a noun in place of *citation*: Stage 3
+ - *cite* as a noun in place of *citation*: Stage 3
 
-Current ratio in print \(*these citations* vs. *these cites*\): 45:1
+ - Current ratio in print \(*these citations* vs. *these cites*\): 45:1
 
 **B. For *site*.** *Cite* shouldn't be confused with *site* \(= a location or place\)—e.g.:
 
@@ -27,8 +27,8 @@ The opposite error—*site* for *cite—*is rarely seen outside legal writing \(
 ## Language-Change Index
 
 1. *cite* misused for *site*: Stage 1
-Current ratio in print \(*building site* vs. *\*building cite*\): 2,677:1
+ - Current ratio in print \(*building site* vs. *\*building cite*\): 2,677:1
 
 2. *site* misused for *cite*: Stage 2
-Current ratio in print \(*citing authority* vs. *\*siting authority*\): 1.6:1
+ - Current ratio in print \(*citing authority* vs. *\*siting authority*\): 1.6:1
 

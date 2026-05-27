@@ -8,7 +8,7 @@ But when the sense is "shared by two or more," then the word is *common*—not *
 
 ## Language-Change Index
 
-*mutual friend* for *friend in common*: Stage 5
+ - *mutual friend* for *friend in common*: Stage 5
 
 **B. In Redundancies.** *Mutual* creates any number of redundancies. E.g.: "The 25-page motion . . . claims that multimillion-dollar misstatements are strewn along a Symington paper trail that consists of a series of *mutually contradictory* \[read *contradictory* or *inconsistent*\] financial statements." Jerry Kammer & Pat Flannery, "Judge Asked to Rule Symington Lied on Financial Statement," *Ariz. Republic*, 22 Mar. 1997, at B5. Some of the more common prolixities with this word are *\*mutual agreement* and *\*mutual cooperation*. Cf. **together**.
 

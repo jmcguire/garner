@@ -4,5 +4,5 @@
 
 ## Language-Change Index
 
-*\*might should have* for *might have* or *should have*: Stage 1
+ - *\*might should have* for *might have* or *should have*: Stage 1
 

@@ -8,5 +8,5 @@ In the U.K., you're more likely to encounter *secondhand bookshop*.
 
 ## Language-Change Index
 
-*used bookstore* for *used-book store*: Stage 2
+ - *used bookstore* for *used-book store*: Stage 2
 

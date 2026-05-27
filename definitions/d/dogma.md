@@ -8,5 +8,5 @@ dogma. Pl. *dogmas* /**dog**-mәz/ or *\*dogmata* /**dog**-mә-tә/. The simple 
 
 See plurals \(b\). As far back as 1816, it was said that the Greek plural was "growing pedantic." *John Walker's Principles of English Pronunciation* 49 \(1816\).
 
-Current ratio in print \(*dogmas* vs. \**dogmata*\): 33:1
+ - Current ratio in print \(*dogmas* vs. \**dogmata*\): 33:1
 

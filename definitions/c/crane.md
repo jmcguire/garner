@@ -10,5 +10,5 @@ This blunder obscures the metaphor in the phrase *to crane one's neck*, as the l
 
 ## Language-Change Index
 
-*\*crain* for *crane*: Stage 1
+ - *\*crain* for *crane*: Stage 1
 

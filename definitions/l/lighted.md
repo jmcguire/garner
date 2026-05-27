@@ -4,5 +4,5 @@ lighted; **lit**. Both are standard past-tense and past-participial forms. The m
 
 Although *he lighted the fire* was the predominant phrase in print sources from 1700 to 1900, *he lit the fire* became predominant beginning about 1915. Let your ear guide you.
 
-Current ratio in print \(*he lit the* vs. *he lighted the*\): 3:1
+ - Current ratio in print \(*he lit the* vs. *he lighted the*\): 3:1
 

@@ -12,5 +12,5 @@ Since an *iteration* repeats a former event, the term can't logically apply to t
 
 ## Language-Change Index
 
-*\*first iteration* for *first version*, etc.: Stage 2
+ - *\*first iteration* for *first version*, etc.: Stage 2
 

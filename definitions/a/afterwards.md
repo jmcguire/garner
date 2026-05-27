@@ -4,5 +4,5 @@ afterwards; **afterword**. *Afterwards* \(= later\) is often changed to *afterwa
 
 For more on *afterward\(s\)*, see directional words \(a\).
 
-Current ratio in print \(*afterwards* vs. *afterward*\): 2.2:1
+ - Current ratio in print \(*afterwards* vs. *afterward*\): 2.2:1
 

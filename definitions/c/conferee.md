@@ -8,5 +8,5 @@ conferee = \(1\) someone who takes part in a conference; or \(2\) one on whom so
 
 *\*Conferree* is a variant best avoided.
 
-Current ratio in print \(*conferee* vs. \**conferree*\): 632:1
+ - Current ratio in print \(*conferee* vs. \**conferree*\): 632:1
 

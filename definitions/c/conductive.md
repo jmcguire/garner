@@ -10,6 +10,6 @@ conductive; **conducive**. *Conductive* describes a thing's ability to conduct e
 
 ## Language-Change Index
 
-*conductive* misused for *conducive*: Stage 1
-Current ratio in print \(*conducive to health* vs. \**conductive to health*\): 170:1
+ - *conductive* misused for *conducive*: Stage 1
+ - Current ratio in print \(*conducive to health* vs. \**conductive to health*\): 170:1
 

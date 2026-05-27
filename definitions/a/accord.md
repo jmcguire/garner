@@ -14,5 +14,5 @@ To be *in accordance* is to be in conformity or compliance. Though sometimes cum
 
 ## Language-Change Index
 
-*in accord with* misused for *in accordance with*: Stage 1
+ - *in accord with* misused for *in accordance with*: Stage 1
 

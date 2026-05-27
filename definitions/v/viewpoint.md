@@ -6,5 +6,5 @@ Yet *viewpoint*, apart from being extremely common, conveniently says in one wor
 
 ## Language-Change Index
 
-*viewpoint* for *point of view*: Stage 5
+ - *viewpoint* for *point of view*: Stage 5
 

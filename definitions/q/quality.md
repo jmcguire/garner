@@ -6,5 +6,5 @@ For a misuse of *quality*, n., for *quantity*, see **unknown quantity**.
 
 ## Language-Change Index
 
-*quality* as an adjective meaning "of high quality": Stage 4
+ - *quality* as an adjective meaning "of high quality": Stage 4
 

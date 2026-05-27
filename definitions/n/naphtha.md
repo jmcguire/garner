@@ -12,8 +12,8 @@ naphtha.
 
 ## Language-Change Index
 
-*naphtha* misspelled and mispronounced *\*naptha*: Stage 1
-Current ratio in print \(*naphtha* vs. \**naptha*\): 29:1
+ - *naphtha* misspelled and mispronounced *\*naptha*: Stage 1
+ - Current ratio in print \(*naphtha* vs. \**naptha*\): 29:1
 
 **B. Long Form: *naphthalene*; *\*naphthaline*; *\*naphthalin*.** The first is the standard spelling in AmE and BrE alike. The others are variants.
 

@@ -14,5 +14,5 @@ Confusing matters still further is that we have the vaguely similar phrase *in t
 
 Although most instances of the phrase *come down the pipe* are indeed malapropisms, some of them are correct literal uses <if the waste will not come down the pipe on its own, plumbing tools may become necessary>. The ratio-in-print figures below must be seen with that caveat.
 
-Current ratio in print \(*to come down the pike* vs. *to come down the pipe*\): 11:1
+ - Current ratio in print \(*to come down the pike* vs. *to come down the pipe*\): 11:1
 

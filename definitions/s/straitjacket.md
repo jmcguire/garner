@@ -10,6 +10,6 @@ As with many other compound nouns, this term has been spelled as two words, as a
 
 ## Language-Change Index
 
-*\*straightjacket* for *straitjacket*: Stage 3
-Current ratio in print \(*straitjacket* vs. *\*straightjacket*\): 3:1
+ - *\*straightjacket* for *straitjacket*: Stage 3
+ - Current ratio in print \(*straitjacket* vs. *\*straightjacket*\): 3:1
 

@@ -10,5 +10,5 @@ Perhaps because the words look and sound a bit similar, *droll* is sometimes mis
 
 ## Language-Change Index
 
-*droll* misused for *dull*: Stage 1
+ - *droll* misused for *dull*: Stage 1
 

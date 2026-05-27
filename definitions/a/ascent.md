@@ -16,5 +16,5 @@ For the difference between *assent* and *consent*, see **assent**.
 
 ## Language-Change Index
 
-*assent* misused for *ascent*: Stage 1
+ - *assent* misused for *ascent*: Stage 1
 

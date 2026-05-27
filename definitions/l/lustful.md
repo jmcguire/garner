@@ -16,5 +16,5 @@ Sometimes writers misuse *lusty* for *lustful*—e.g.: "The affair included 400 
 
 ## Language-Change Index
 
-*lusty* misused for *lustful*: Stage 2
+ - *lusty* misused for *lustful*: Stage 2
 

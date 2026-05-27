@@ -6,6 +6,6 @@ The accentless *resume* for *résumé* causes miscues.
 
 ## Language-Change Index
 
-*resumé* for *résumé*: Stage 2
-Current ratio in print \(*résumé* vs. *resumé*\): 11:1
+ - *resumé* for *résumé*: Stage 2
+ - Current ratio in print \(*résumé* vs. *resumé*\): 11:1
 

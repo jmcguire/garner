@@ -18,5 +18,5 @@ Maybe, then, the best definition today—in AmE, at least—is "insipidly adoles
 
 ## Language-Change Index
 
-*jejune* in the sense "puerile": Stage 3
+ - *jejune* in the sense "puerile": Stage 3
 

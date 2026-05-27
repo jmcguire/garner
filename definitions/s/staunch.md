@@ -16,5 +16,5 @@ Nevertheless, *stanch* still appears in this sense, almost as often as *staunch*
 
 ## Language-Change Index
 
-Current ratio in print \(*staunching the flow* vs. *stanching the flow* in World Englishes\): 1.6:1
+ - Current ratio in print \(*staunching the flow* vs. *stanching the flow* in World Englishes\): 1.6:1
 

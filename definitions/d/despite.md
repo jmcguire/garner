@@ -6,5 +6,5 @@ Even so, *despite* is wordy in the phrase *despite the fact that*, which can usu
 
 In other contexts, however, *despite* doesn't lead to verbosity at all—e.g.: "*Despite* this increasingly constraining regulation, many companies are ready to make great concessions, particularly in terms of censorship, in order to access the Chinese market." Séverine Arsène, "China, Information Technology, and Global Freedom of Expression: A Story of Sovereignty and Global Capitalism," in *Regardless of Frontiers* 246 \(Lee C. Bollinger & Agnès Callamard eds., 2021\).
 
-Current ratio in print \(*despite the fact* vs. *in spite of the fact*\): 5:1
+ - Current ratio in print \(*despite the fact* vs. *in spite of the fact*\): 5:1
 

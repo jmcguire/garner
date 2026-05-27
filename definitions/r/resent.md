@@ -8,7 +8,7 @@ resent.
 
 ## Language-Change Index
 
-*resent* misused for *regret*: Stage 2
+ - *resent* misused for *regret*: Stage 2
 
 **C. And *re-sent*.** See re- pairs.
 

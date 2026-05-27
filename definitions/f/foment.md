@@ -21,8 +21,8 @@ Hence *foment*, as a noun, ought to be considered a needless variant.
 ## Language-Change Index
 
 1. *foment* as a noun for *fomentation*: Stage 3
-Current ratio in print \(*the fomentation of* vs. *\*the foment of*: 1.8:1
+ - Current ratio in print \(*the fomentation of* vs. *\*the foment of*: 1.8:1
 
 2. *foment* for *ferment*: Stage 1
-Current ratio in print \(*political ferment* vs. *\*political foment*\): 18:1
+ - Current ratio in print \(*political ferment* vs. *\*political foment*\): 18:1
 

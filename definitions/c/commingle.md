@@ -8,7 +8,7 @@ Although *mingle* has also been used in reference to combining funds, *commingle
 
 ## Language-Change Index
 
-*\*comingle* for *commingle*: Stage 1
+ - *\*comingle* for *commingle*: Stage 1
 
-Current ratio in print \(*commingle* vs. *\*comingle*\): 3:1
+ - Current ratio in print \(*commingle* vs. *\*comingle*\): 3:1
 

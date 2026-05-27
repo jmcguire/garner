@@ -23,10 +23,10 @@ So which past tense is correct in the phrase *to bid fair* \(= to seem likely\)�
 ## Language-Change Index
 
 1. *bid farewell* misused for the past-tense *bade farewell*: Stage 2
-Current ratio in print \(*he* *bade farewell* vs. *\*he bid farewell*\): 2.2:1
+ - Current ratio in print \(*he* *bade farewell* vs. *\*he bid farewell*\): 2.2:1
 
 2. *bid fair* misused for the past-tense *bade fair*: Stage 3
-Current ratio in print \(*he bade fair to* vs. *\*he bid fair to*\): 2.5:1
+ - Current ratio in print \(*he bade fair to* vs. *\*he bid fair to*\): 2.5:1
 
 **B. *\*Bidded* as a Solecism.** When people aren't sure about the past tense of an irregular verb, they revert to the default *-ed*. Many people are uncertain about the past-tense forms of *bid*—e.g.:
 
@@ -40,9 +40,9 @@ See irregular verbs.
 
 ## Language-Change Index
 
-*\*bidded* for past-tense *bid*: Stage 1
+ - *\*bidded* for past-tense *bid*: Stage 1
 
-Current ratio in print \(*he bid* vs. *\*he bidded*\): 1,766:1
+ - Current ratio in print \(*he bid* vs. *\*he bidded*\): 1,766:1
 
 **C. Past Participle.** In the sense "to make a bid," the past participle is *bid*—e.g.: "NTL and France Telecom are each believed to have *bid* more than pounds 200m." Mathew Horsman, "France Added to BBC Bid List," *Independent*, 29 Oct. 1996, at 17. Otherwise, the past-participial form is usually *bidden*—e.g.: " ‘Good morning, Signor Mach,' one of them said as the fugitive Italian financier ventured from an apartment on the Boulevard St.-Germain in Paris on Sunday to buy the Italian newspapers from a corner kiosk, only to find himself arrested by the Italian plainclothes policeman who had just *bid* \[read *bidden*\] him good day." Alan Cowell, "Rich Italian Fugitive Finally Caught in Paris," *N.Y. Times*, 1 Nov. 1994, at A4. See irregular verbs \(a\).
 
@@ -57,8 +57,8 @@ The simple past *bade* is sometimes misused for *bidden*, a mistake that should 
 ## Language-Change Index
 
 1. *bid* misused for past-participial *bidden*: Stage 3
-Current ratio in print \(*had bidden her* vs. *\*had bid her*\): 3:1
+ - Current ratio in print \(*had bidden her* vs. *\*had bid her*\): 3:1
 
 2. *bade* misused for past-participial *bidden*: Stage 1
-Current ratio in print \(*was bidden* vs. *\*was bade*\): 17:1
+ - Current ratio in print \(*was bidden* vs. *\*was bade*\): 17:1
 

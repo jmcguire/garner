@@ -10,6 +10,6 @@ veteran. Once a veteran, always a veteran. Hence *\*former veteran*, a redundanc
 
 ## Language-Change Index
 
-*\*former veteran* for *veteran*: Stage 2
-Current ratio in print \(*a veteran* vs. *\*a former veteran*\): 1,203:1
+ - *\*former veteran* for *veteran*: Stage 2
+ - Current ratio in print \(*a veteran* vs. *\*a former veteran*\): 1,203:1
 

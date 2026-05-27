@@ -14,12 +14,12 @@ exceptional.
 
 ## Language-Change Index
 
-*exceptionable* misused for *exceptional*: Stage 1
-Current ratio in print \(*exceptional circumstances* vs. *\*exceptionable circumstances*\): 2,229:1
+ - *exceptionable* misused for *exceptional*: Stage 1
+ - Current ratio in print \(*exceptional circumstances* vs. *\*exceptionable circumstances*\): 2,229:1
 
 **B. Meaning "physically or mentally handicapped."** The problem with using the word as a euphemism in this way is that it can result in ambiguity: *exceptional* can mean either "having above-average intelligence" \(i.e., gifted\) or "having below-average intelligence" \(i.e., intellectually disabled\). In passages such as the following, *exceptional* is symptomatic of doublespeak: "The Resource Directory also lists state and federal agencies that can assist parents with *exceptional* children." Patricia Galbreaith, "Hints for the Disabled," *Dallas Morning News*, 1 Aug. 1997, at C10.
 
 ## Language-Change Index
 
-*exceptional* as doublespeak for *handicapped*: Stage 3
+ - *exceptional* as doublespeak for *handicapped*: Stage 3
 

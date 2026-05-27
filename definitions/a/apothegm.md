@@ -4,5 +4,5 @@ apothegm; apophthegm. These are variant synonyms for *aphorism*, *maxim*, or *ep
 
 Silent in the noun, the hard /g/ sound is pronounced in the adjective *apothegmatic* /ap-ә-theg-**mat**-ik/. The word should not be confused with *apothem*, a term in geometry for a line connecting the center of a regular polygon with the center of any of its sides. See pronunciation \(d\).
 
-Current ratio in print \(*apothegm* vs. *apophthegm* in World Englishes\): 2.1:1
+ - Current ratio in print \(*apothegm* vs. *apophthegm* in World Englishes\): 2.1:1
 

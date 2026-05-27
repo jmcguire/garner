@@ -4,5 +4,5 @@ zero. When used as an adjective \(as it rarely is\), *zero* should modify a plur
 
 The plural is *zeros*, not *\*zeroes*—although *zeroes* is the correct verb form. See plurals \(d\).
 
-Current ratio in print \(*two zeros* vs. *\*two zeroes*\): 5:1
+ - Current ratio in print \(*two zeros* vs. *\*two zeroes*\): 5:1
 

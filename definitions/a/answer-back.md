@@ -12,5 +12,5 @@ Some writers have used the sports phrase metaphorically—e.g.: "The last time s
 
 ## Language-Change Index
 
-*answer back* for *answer* \(outside sports\): Stage 3
+ - *answer back* for *answer* \(outside sports\): Stage 3
 

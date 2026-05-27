@@ -10,6 +10,6 @@ Modern writers occasionally mangle the phrase by writing *\*beyond the pail* ins
 
 ## Language-Change Index
 
-*\*beyond the pail* for *beyond the pale*: Stage 1
-Current ratio in print \(*beyond the pale* vs. *\*beyond the pail*\): 367:1
+ - *\*beyond the pail* for *beyond the pale*: Stage 1
+ - Current ratio in print \(*beyond the pale* vs. *\*beyond the pail*\): 367:1
 

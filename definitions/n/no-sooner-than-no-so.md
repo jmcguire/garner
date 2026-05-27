@@ -10,5 +10,5 @@ no sooner . . . than; \*no sooner . . . when. The first phrasing is better becau
 
 ## Language-Change Index
 
-*\*no sooner . . . when* for *no sooner . . . than*: Stage 3
+ - *\*no sooner . . . when* for *no sooner . . . than*: Stage 3
 

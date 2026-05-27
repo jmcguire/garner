@@ -12,8 +12,8 @@ The mass noun *bourgeoisie* takes a singular verb when it functions as subject <
 
 To denote the lower middle class, including shopkeepers, artisans, and low-level office workers, English-language writers adopted the gallicism *petite bourgeoisie* /pә-**teet** boo\[r\]-zhwah-**zee**/ in the late 1800s. The adjective *petite* takes the feminine form here: \**petit bourgeoisie* is a variant in English-language contexts. But for an individual member of that class, the phrase is *petit bourgeois*, not \**petite bourgeois*. Good thing these phrases aren't much used.
 
-Current ratio in print \(*petite bourgeoisie* vs. \**petit bourgeoisie*\): 3:1
-Current ratio in print \(*petit bourgeois* vs. \**petite bourgeois*\): 24:1
-Current ratio in print \(*bourgeois* vs. *\*burgeois*\): 4,242:1
-Current ratio in print \(*bourgeoisie* vs. *\*bourgeousie*\): 6,365:1
+ - Current ratio in print \(*petite bourgeoisie* vs. \**petit bourgeoisie*\): 3:1
+ - Current ratio in print \(*petit bourgeois* vs. \**petite bourgeois*\): 24:1
+ - Current ratio in print \(*bourgeois* vs. *\*burgeois*\): 4,242:1
+ - Current ratio in print \(*bourgeoisie* vs. *\*bourgeousie*\): 6,365:1
 

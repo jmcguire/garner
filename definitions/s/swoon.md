@@ -14,5 +14,5 @@ But *swoon* does not mean "to slump or fade," as some writers think, and the wor
 
 ## Language-Change Index
 
-*swoon* misused for *decline*: Stage 2
+ - *swoon* misused for *decline*: Stage 2
 

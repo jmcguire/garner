@@ -13,5 +13,5 @@ The syncopated form *\*verbage* for *verbiage* is a common error dating from the
 2. *\*excess verbiage* for *verbiage*: Stage 3
 
 3. *verbiage* misspelled *\*verbage*: Stage 1
-Current ratio in print \(*verbiage* vs. *\*verbage*\): 152:1
+ - Current ratio in print \(*verbiage* vs. *\*verbage*\): 152:1
 

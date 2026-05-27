@@ -22,5 +22,5 @@ The plural of the noun *maximum* is either *maximums* or *maxima*, increasingly 
 
 Yet *maxima*, which appears most often in technical contexts, still vastly predominates in AmE and BrE alike. See **minimum** & plurals \(b\).
 
-Current ratio in print \(*maxima* vs. *maximums* in World Englishes\): 10:1
+ - Current ratio in print \(*maxima* vs. *maximums* in World Englishes\): 10:1
 

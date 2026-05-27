@@ -6,7 +6,7 @@ impolitic, adj. \(= not politic; injudicious; imprudent\), preferably forms the 
 
 ## Language-Change Index
 
-*\*impolitically* for *impoliticly*: Stage 1
-Current ratio in print \(*impoliticly* vs. *\*impolitically* in BrE\): 1.2:1
-Current ratio in print \(*impoliticly* vs. *\*impolitically* in World Englishes\): 1:1.1
+ - *\*impolitically* for *impoliticly*: Stage 1
+ - Current ratio in print \(*impoliticly* vs. *\*impolitically* in BrE\): 1.2:1
+ - Current ratio in print \(*impoliticly* vs. *\*impolitically* in World Englishes\): 1:1.1
 

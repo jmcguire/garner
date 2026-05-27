@@ -10,5 +10,5 @@ And if the distinction isn't real, there's simply no reason to hold on to *shall
 
 ## Language-Change Index
 
-*will* for old-school *shall* with first-person nouns: Stage 5
+ - *will* for old-school *shall* with first-person nouns: Stage 5
 

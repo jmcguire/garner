@@ -6,6 +6,6 @@ Sometimes one word gets swapped for the other—e.g.: "William Blake and Walt Wh
 
 ## Language-Change Index
 
-*resource* misused for *recourse*: Stage 1
-Current ratio in print \(*without recourse* vs. *\*without resource*\): 22:1
+ - *resource* misused for *recourse*: Stage 1
+ - Current ratio in print \(*without recourse* vs. *\*without resource*\): 22:1
 

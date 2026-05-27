@@ -6,6 +6,6 @@ grill; **grille**. A *grill* is a cooking device, especially one with a gridiron
 
 ## Language-Change Index
 
-*grille* misused for *grill*: Stage 2
-Current ratio in print \(*charcoal grill* vs. *\*charcoal grille*\): 505:1
+ - *grille* misused for *grill*: Stage 2
+ - Current ratio in print \(*charcoal grill* vs. *\*charcoal grille*\): 505:1
 

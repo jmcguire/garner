@@ -4,6 +4,6 @@ urban; **urbane**. *Urban* = \(1\) of, relating to, or located in a city; or \(2
 
 ## Language-Change Index
 
-*urbane* misused for *urban*: Stage 1
-Current ratio in print \(*urban areas* vs. *\*urbane areas*\): 56,047:1
+ - *urbane* misused for *urban*: Stage 1
+ - Current ratio in print \(*urban areas* vs. *\*urbane areas*\): 56,047:1
 

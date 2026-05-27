@@ -4,5 +4,5 @@ behemoth \(= a huge, powerful animal\) is pronounced /bә-**hee**-mәth/. The wo
 
 ## Language-Change Index
 
-*behemoth* misspelled *\*behometh*: Stage 1
+ - *behemoth* misspelled *\*behometh*: Stage 1
 

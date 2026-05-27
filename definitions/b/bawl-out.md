@@ -10,6 +10,6 @@ bawl out \(= to excoriate\) is the phrase, not *\*ball out*. But because the mis
 
 ## Language-Change Index
 
-*\*ball out* for *bawl out*: Stage 1
-Current ratio in print \(*bawled him out* vs. *\*balled him out*\): 14:1
+ - *\*ball out* for *bawl out*: Stage 1
+ - Current ratio in print \(*bawled him out* vs. *\*balled him out*\): 14:1
 

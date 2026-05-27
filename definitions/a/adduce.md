@@ -8,5 +8,5 @@ To *deduce* is to draw an inference. E.g.: "As it happens, scientists have *dedu
 
 ## Language-Change Index
 
-*educe* misused for *adduce*: Stage 1
+ - *educe* misused for *adduce*: Stage 1
 

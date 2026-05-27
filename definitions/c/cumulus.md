@@ -8,5 +8,5 @@ cumulus. Pl. *cumuli*. \(See plurals \(b\).) Although the corresponding adjectiv
 
 The phrase *cumulous clouds*, though not strictly wrong, is certainly unusual—e.g.: "South of town, puffy white *cumulous* \[read, preferably, *cumulus*\] clouds began to explode upwards." Rob Schneider, "Some Students Do All Their Studies in the Classroom," *Indianapolis Star*, 16 June 1996, at A1.
 
-Current ratio in print \(*cumulus clouds* vs. *cumulous clouds*\): 11:1
+ - Current ratio in print \(*cumulus clouds* vs. *cumulous clouds*\): 11:1
 

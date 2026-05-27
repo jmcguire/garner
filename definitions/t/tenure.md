@@ -10,5 +10,5 @@ tenure; **tender**. *Tenure* \(= \[1\] a holding by right, as of an elected offi
 
 ## Language-Change Index
 
-*tenure* misused for *tender*: Stage 1
+ - *tenure* misused for *tender*: Stage 1
 

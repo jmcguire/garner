@@ -4,5 +4,5 @@ mafioso; **mafiosi**. A *mafioso* is a member of the Mafia, a secret criminal so
 
 Although *Mafia* is predominantly capitalized in modern print sources, *mafioso* traditionally isn't.
 
-Current ratio in print \(*mafiosi* vs. *\*mafiosos*\): 10:1
+ - Current ratio in print \(*mafiosi* vs. *\*mafiosos*\): 10:1
 

@@ -4,6 +4,6 @@
 
 ## Language-Change Index
 
-*\*seldom ever* for *seldom*: Stage 2
-Current ratio in print \(*seldom* vs. *\*seldom ever*\): 640:1
+ - *\*seldom ever* for *seldom*: Stage 2
+ - Current ratio in print \(*seldom* vs. *\*seldom ever*\): 640:1
 

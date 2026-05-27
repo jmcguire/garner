@@ -6,7 +6,7 @@ Magna Carta.
 
 And what about the *Time* editors' argument that *charta* is the Latin word for "paper"? That argument is a blank page: *charta* and *carta* are variants bearing the same meaning in Latin.
 
-Current ratio in print \(*Magna Carta* vs. \**Magna Charta*\): 5:1
+ - Current ratio in print \(*Magna Carta* vs. \**Magna Charta*\): 5:1
 
 **B. Article with.** Traditionally, *Magna Carta* did not take a definite article: one said *Magna Carta*, not *the Magna Carta*. This traditional usage is still followed closely in London and, less rigorously, elsewhere in England—e.g.:
 
@@ -24,5 +24,5 @@ But writers outside England—even elsewhere in the U.K., in Commonwealth countr
 
  - "They believe that the White House is trying to usurp their legislative power of the purse—a power, their staffers point out, that dates to *the Magna Carta*." Michael Grunwald, "Washington's Loudest Voice for Frugality," *Wash. Post*, 20 Jan. 2003, at A1.
 
-Current ratio in print \(*of Magna Carta* vs. *of the Magna Carta*\): 1.8:1
+ - Current ratio in print \(*of Magna Carta* vs. *of the Magna Carta*\): 1.8:1
 

@@ -23,5 +23,5 @@ The phrase *\*as per usual*, which first emerged in the 1860s and became suddenl
 1. *\*as per* for *per* or *in accordance with*: Stage 3
 
 2. *\*as per usual* for *as usual*: Stage 1
-Current ratio in print \(*as usual* vs. *\*as per usual*\): 133:1
+ - Current ratio in print \(*as usual* vs. *\*as per usual*\): 133:1
 

@@ -10,5 +10,5 @@ said, adj., is a lawyers' archaism equivalent to *aforesaid*, *aforementioned*, 
 
 As the edits suggest, you're generally well advised to cut the legalese unless you're being very much tongue-in-cheek—e.g.: "Any regular Joe who isn't the boy toy of a fabulously rich \($800 million\) pickle heiress could have gotten exactly the same consideration from City Hall if *said* Joe Sixpack had asked to have a fire hydrant outside his $2 million Beacon Hill mansion moved." "Pols & Politics," *Boston Herald*, 18 May 1997, at 31. Cf. **same \(a\)** & **such \(a\)**.
 
-Current ratio in print \(*the issue* vs. *\*said issue*\): 8,775:1
+ - Current ratio in print \(*the issue* vs. *\*said issue*\): 8,775:1
 

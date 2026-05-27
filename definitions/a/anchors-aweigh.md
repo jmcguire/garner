@@ -8,5 +8,5 @@ Sometimes *aweigh* is corrupted into *way*, often as part of an ineffectual pun.
 
 For a related blunder—***\*under** weigh* for *underway*—see **underway**.
 
-Current ratio in print \(*anchors aweigh* vs. *anchors away* vs. *anchor's aweigh* vs. *anchor's away* in World Englishes\): 55:31:7:1
+ - Current ratio in print \(*anchors aweigh* vs. *anchors away* vs. *anchor's aweigh* vs. *anchor's away* in World Englishes\): 55:31:7:1
 

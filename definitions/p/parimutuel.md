@@ -10,6 +10,6 @@ parimutuel, n., = a form of gambling in which those who have bet on winning numb
 
 ## Language-Change Index
 
-*parimutuel* misspelled in various ways: Stage 1
-Current ratio in print \(*parimutuel* vs. *\*paramutual* vs. *\*parimutual* vs. *\*paramutuel*\): 89:3:2.1:1
+ - *parimutuel* misspelled in various ways: Stage 1
+ - Current ratio in print \(*parimutuel* vs. *\*paramutual* vs. *\*parimutual* vs. *\*paramutuel*\): 89:3:2.1:1
 

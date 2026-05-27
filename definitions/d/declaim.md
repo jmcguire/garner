@@ -4,5 +4,5 @@ declaim; **disclaim**. To *declaim* is to speak formally in public \(hence the a
 
 ## Language-Change Index
 
-*declaim* misused for *denounce*: Stage 1
+ - *declaim* misused for *denounce*: Stage 1
 

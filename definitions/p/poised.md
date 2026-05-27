@@ -4,6 +4,6 @@ poised, adj. To be *poised* is to behave in a calm and confident way with full c
 
 Occasionally, *posed* gets confounded with *poised*, especially in the idiom *poised to* do something.
 
-Current ratio in print \(*poised to become* vs. \**posed to become*\): 134:1
-Current ratio in print \(*poised to attack* vs. \**posed to attack*\): 76:1
+ - Current ratio in print \(*poised to become* vs. \**posed to become*\): 134:1
+ - Current ratio in print \(*poised to attack* vs. \**posed to attack*\): 76:1
 

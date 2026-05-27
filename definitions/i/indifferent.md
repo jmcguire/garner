@@ -8,5 +8,5 @@ indifferent takes *to*, preferably not *as to*—e.g.:
 
 See **as to**.
 
-Current ratio in print \(*indifferent to* vs. \**indifferent as to*\): 30:1
+ - Current ratio in print \(*indifferent to* vs. \**indifferent as to*\): 30:1
 

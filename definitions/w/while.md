@@ -16,5 +16,5 @@ Further, *while* shouldn't be used merely for *and*—e.g.: "Her father, J. Fran
 
 ## Language-Change Index
 
-*while* used in nontemporal sense: Stage 5
+ - *while* used in nontemporal sense: Stage 5
 

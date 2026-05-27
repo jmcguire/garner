@@ -4,5 +4,5 @@ momentarily. Strictly speaking, this word means "for a moment," not "in a moment
 
 ## Language-Change Index
 
-*momentarily* in the sense "in a moment": Stage 4
+ - *momentarily* in the sense "in a moment": Stage 4
 

@@ -12,7 +12,7 @@ See **\*off of**.
 
 ## Language-Change Index
 
-*\*come off of it* for *come off it*: Stage 2
+ - *\*come off of it* for *come off it*: Stage 2
 
-Current ratio in print \(*come off it* vs. *\*come off of it*\): 32:1
+ - Current ratio in print \(*come off it* vs. *\*come off of it*\): 32:1
 

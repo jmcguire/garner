@@ -12,6 +12,6 @@ Both words, though, can typically be replaced by an ordinary term such as *distr
 
 ## Language-Change Index
 
-*\*distraite* for *distrait*: Stage 2
-Current ratio in print \(*distrait* vs. *\*distraite*\): 6:1
+ - *\*distraite* for *distrait*: Stage 2
+ - Current ratio in print \(*distrait* vs. *\*distraite*\): 6:1
 

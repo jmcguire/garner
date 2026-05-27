@@ -6,6 +6,6 @@ Sometimes, of course, the folksy phrase can be humorous—e.g.: "A number of rea
 
 ## Language-Change Index
 
-*\*eyeball witness* for *eyewitness*: Stage 1
-Current ratio in print \(*eyewitness* vs. *\*eyeball witness*\): 4,882:1
+ - *\*eyeball witness* for *eyewitness*: Stage 1
+ - Current ratio in print \(*eyewitness* vs. *\*eyeball witness*\): 4,882:1
 

@@ -6,6 +6,6 @@ questionnaire; **\*questionary**. *Questionnaire*, the standard term, is occasio
 
 ## Language-Change Index
 
-*questionnaire* misspelled *\*questionaire*: Stage 1
-Current ratio in print \(*questionnaire* vs. \**questionaire*\): 1,202:1
+ - *questionnaire* misspelled *\*questionaire*: Stage 1
+ - Current ratio in print \(*questionnaire* vs. \**questionaire*\): 1,202:1
 

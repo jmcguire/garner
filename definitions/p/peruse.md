@@ -18,5 +18,5 @@ Even worse is the "scan" sense that has nothing to do with reading—e.g.:
 
 ## Language-Change Index
 
-*peruse* for *skim* or *glance over*: Stage 3
+ - *peruse* for *skim* or *glance over*: Stage 3
 

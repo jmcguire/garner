@@ -16,5 +16,5 @@ On *fatal* as a nongradable adjective, see adjectives \(b\).
 
 ## Language-Change Index
 
-*fatal* misused for *fateful*: Stage 1
+ - *fatal* misused for *fateful*: Stage 1
 

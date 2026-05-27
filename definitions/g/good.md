@@ -19,8 +19,8 @@ Of course, *real good* \(a common dialectal phrase\) may also occur in standard 
 ## Language-Change Index
 
 1. *good* for *well* \(as an adverb\) in reference to personal performance \(as in *\*the team played good*\): Stage 2
-Current ratio in print \(*played well* vs. *\*played good*\): 14:1
+ - Current ratio in print \(*played well* vs. *\*played good*\): 14:1
 
 2. *good* for *well* \(as an adverb\) in reference to the functioning of inanimate things \(as in *\*the engine runs good*\): Stage 3
-Current ratio in print \(*runs well* vs. *\*runs good*\): 6:1
+ - Current ratio in print \(*runs well* vs. *\*runs good*\): 6:1
 

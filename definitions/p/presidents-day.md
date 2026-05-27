@@ -4,5 +4,5 @@ Presidents' Day; **\*President's Day**; **\*Presidents Day**. The spelling as a 
 
 The singular possessive—*President's Day*—is clearly wrong but still occasionally appears.
 
-Current ratio in print \(*Presidents' Day* vs. \**President's Day* vs. \**Presidents Day*\): 5:3:1
+ - Current ratio in print \(*Presidents' Day* vs. \**President's Day* vs. \**Presidents Day*\): 5:3:1
 

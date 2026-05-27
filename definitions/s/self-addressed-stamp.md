@@ -6,5 +6,5 @@ How should one pronounce *SASE*? And which indefinite article should it take, *a
 
 In BrE, the usual initialism is *SAE*, representing either *self-addressed envelope* or *stamped addressed envelope*. Both full phrases are sometimes heard.
 
-Current ratio in print \(*a SASE* vs. *an SASE*\): 1.9:1
+ - Current ratio in print \(*a SASE* vs. *an SASE*\): 1.9:1
 

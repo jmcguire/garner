@@ -10,5 +10,5 @@ Many dictionaries, including *OED2* and *W2*, inaccurately list *financer* as ob
 
  - "For years, R.J. Reynolds Co. was the largest private *financer* of tobacco-related research at NCSU." Catherine Clabby, "NCSU to Map Out Tobacco," *News & Observer* \(Raleigh\), 12 Dec. 2002, at A1.
 
-Current ratio in print \(*financier* vs. *financer*\): 27:1
+ - Current ratio in print \(*financier* vs. *financer*\): 27:1
 

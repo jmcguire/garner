@@ -12,6 +12,6 @@ The etymology of *redound* lies in the Latin *und* "wave," and the word implies 
 
 ## Language-Change Index
 
-*rebound* misused for *redound*: Stage 1
-Current ratio in print \(*redound to the benefit* vs. *\*rebound to the benefit*\): 18:1
+ - *rebound* misused for *redound*: Stage 1
+ - Current ratio in print \(*redound to the benefit* vs. *\*rebound to the benefit*\): 18:1
 

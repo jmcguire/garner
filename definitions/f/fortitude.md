@@ -4,5 +4,5 @@ fortitude refers to inner strength, willpower, and courage. Yet writers often se
 
 ## Language-Change Index
 
-*fortitude* in the sense "physical strength": Stage 3
+ - *fortitude* in the sense "physical strength": Stage 3
 

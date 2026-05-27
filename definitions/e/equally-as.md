@@ -18,6 +18,6 @@ Not every use, though, is incorrect: if the words *equally as* simply appear tog
 
 ## Language-Change Index
 
-*equally as* for *equally*: Stage 2
-Current ratio in print \(*equally important* vs. *\*equally as important*\): 24:1
+ - *equally as* for *equally*: Stage 2
+ - Current ratio in print \(*equally important* vs. *\*equally as important*\): 24:1
 

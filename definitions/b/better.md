@@ -15,10 +15,10 @@ Sometimes *best* replaces *better*, as in *We had best be on our way*. This phra
 ## Language-Change Index
 
 1. *better* for *had better*: Stage 3
-Current ratio in print \(*you had better go* vs. *\*you better go*\): 2:1
+ - Current ratio in print \(*you had better go* vs. *\*you better go*\): 2:1
 
 2. *had best* for *had better* in casual use: Stage 5
-Current ratio in print \(*you had better* vs. *you had best*\): 12:1
+ - Current ratio in print \(*you had better* vs. *you had best*\): 12:1
 
 **B. And *bettor*.** See **bettor**.
 

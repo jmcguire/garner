@@ -18,6 +18,6 @@ The adjective *wonted* \(= habitual\), which invariably appears before the noun 
 
 ## Language-Change Index
 
-*want* misused for *wont*: Stage 1
-Current ratio in print \(*as is his wont* vs. \**as is his want*\): 79:1
+ - *want* misused for *wont*: Stage 1
+ - Current ratio in print \(*as is his wont* vs. \**as is his want*\): 79:1
 

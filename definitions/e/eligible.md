@@ -8,5 +8,5 @@ But *eligible to*, though archaic-sounding today, has unimpeachable credentialsâ
 
  - "No judge of any court . . . shall during the term for which he is elected or appointed, be *eligible to* the legislature." Tex. Const. art. III, Â§ 19.
 
-Current ratio in print \(*eligible for the* vs. *eligible to the*\): 11:1
+ - Current ratio in print \(*eligible for the* vs. *eligible to the*\): 11:1
 

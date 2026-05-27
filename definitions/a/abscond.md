@@ -16,5 +16,5 @@ While *abscond* is often followed by *with* to indicate a taking, and especially
 
 ## Language-Change Index
 
-*abscond* misused for *steal*: Stage 1
+ - *abscond* misused for *steal*: Stage 1
 

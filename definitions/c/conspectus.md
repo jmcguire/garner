@@ -4,5 +4,5 @@ conspectus; **prospectus**. These terms are not synonymous. A *conspectus* is a 
 
 Avoid the hypercorrect plural *\*conspecti*—attested from the early 1800s. The etymon is a fourth-declension Latin noun whose plural doesn't change form: *one conspectus, two conspectus*. So *\*conspecti* is false Latin and ridiculous English. Make it *conspectuses*. See plurals \(b\) & hypercorrection.
 
-Current ratio in print \(*conspectuses* vs. \**conspecti*\): 3:1
+ - Current ratio in print \(*conspectuses* vs. \**conspecti*\): 3:1
 

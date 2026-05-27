@@ -8,6 +8,6 @@ mongoose forms the plural *mongooses*, not *\*mongeese*. But the mistaken form i
 
 ## Language-Change Index
 
-*\*mongeese* for *mongooses*: Stage 1
-Current ratio in print \(*mongooses* vs. *\*mongeese*\): 25:1
+ - *\*mongeese* for *mongooses*: Stage 1
+ - Current ratio in print \(*mongooses* vs. *\*mongeese*\): 25:1
 

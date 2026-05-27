@@ -10,5 +10,5 @@ In recent years, some people have said that they feel awkward using *oral* becau
 
 ## Language-Change Index
 
-*verbal* as a synonym for *oral*: Stage 4
+ - *verbal* as a synonym for *oral*: Stage 4
 

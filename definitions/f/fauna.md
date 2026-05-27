@@ -6,5 +6,5 @@ The word most often appears in the phrase *flora and fauna*, roughly equivalent 
 
 ## Language-Change Index
 
-*fauna* misused for *flora*: Stage 1
+ - *fauna* misused for *flora*: Stage 1
 

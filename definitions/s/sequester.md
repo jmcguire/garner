@@ -4,5 +4,5 @@ sequester, v.t.; **\*sequestrate**. Generally, *\*sequestrate* means nothing tha
 
 Apart from arcane legal uses, *\*sequestrate* is a needless variant.
 
-Current ratio in print \(*sequester* vs. \**sequestrate*\): 21:1
+ - Current ratio in print \(*sequester* vs. \**sequestrate*\): 21:1
 

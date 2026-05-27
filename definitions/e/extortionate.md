@@ -8,5 +8,5 @@ extortionate; **\*extortive**; **\*extortionary**; **\*extorsive**. *Extortionat
 
  - "But last Saturday, the first day the museum was open to the public, attendees paid an *extortionary* \[read *extortionate*\] fee for an experience that, for many, was probably not all that different from their first sexual encounter—lots of buildup, and just like that, it's over." Kevin Canfield, "That Empty Feeling After New York's MoSex," *Hartford Courant*, 10 Oct. 2002, at D1.
 
-Current ratio in print \(*extortionate* vs. \**extortive* vs. \**extortionary* vs. \**extorsive*\): 115:4:3:1
+ - Current ratio in print \(*extortionate* vs. \**extortive* vs. \**extortionary* vs. \**extorsive*\): 115:4:3:1
 

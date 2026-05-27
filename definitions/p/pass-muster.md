@@ -21,8 +21,8 @@ Quite apart from that true error, the phrase invites condiment-inspired puns—e
 ## Language-Change Index
 
 1. *\*past muster* for *pass muster*: Stage 1
-Current ratio in print \(*pass muster* vs. *\*past muster*\): 372:1
+ - Current ratio in print \(*pass muster* vs. *\*past muster*\): 372:1
 
 2. *\*pass mustard* for *pass muster*: Stage 1
-Current ratio in print \(*pass muster* vs. *\*pass mustard*\): 515:1
+ - Current ratio in print \(*pass muster* vs. *\*pass mustard*\): 515:1
 

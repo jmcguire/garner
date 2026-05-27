@@ -16,5 +16,5 @@ The criticism of *more importantly* and *most importantly* has always been rathe
 
 ## Language-Change Index
 
-*more importantly* for *\(what is\) more important*: Stage 5
+ - *more importantly* for *\(what is\) more important*: Stage 5
 

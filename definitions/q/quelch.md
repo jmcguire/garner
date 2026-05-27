@@ -18,6 +18,6 @@ What's the principle for deciding between *squelch* and *quell*? *Squelch* is be
 
 ## Language-Change Index
 
-*\*quelch* for *squelch*: Stage 1
-Current ratio in print \(*squelch* vs. *\*quelch*\): 222:1
+ - *\*quelch* for *squelch*: Stage 1
+ - Current ratio in print \(*squelch* vs. *\*quelch*\): 222:1
 

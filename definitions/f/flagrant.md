@@ -12,5 +12,5 @@ For more on the use of *flagrant*, see **blatant**.
 
 ## Language-Change Index
 
-*fragrant* misused for *flagrant*: Stage 1
+ - *fragrant* misused for *flagrant*: Stage 1
 

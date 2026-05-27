@@ -20,5 +20,5 @@ The same error, by implication, crops up in the past-participial adjective <an i
 
 ## Language-Change Index
 
-*discriminate* misused for *discriminate against*: Stage 1
+ - *discriminate* misused for *discriminate against*: Stage 1
 

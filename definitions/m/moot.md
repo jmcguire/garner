@@ -8,7 +8,7 @@ But language changes. From the original sense of *moot* derived the extended sen
 
 ## Language-Change Index
 
-*moot* in the sense "of no significance": Stage 5
+ - *moot* in the sense "of no significance": Stage 5
 
 **B. As a Verb.** Historically, the verb *moot* meant "to raise or bring forward \(a point, question, candidate, etc.\) for discussion" <a much-mooted question>. That sense was formerly common in AmE but today is current mostly in BrE—e.g.:
 
@@ -38,5 +38,5 @@ Even the verb *moot* is susceptible to this confusion—e.g.: "But Gramley belie
 
 ## Language-Change Index
 
-*\*mute point* for *moot point*: Stage 1
+ - *\*mute point* for *moot point*: Stage 1
 

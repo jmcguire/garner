@@ -8,5 +8,5 @@ then.
 
 ## Language-Change Index
 
-*then* misused for *than*: Stage 1
+ - *then* misused for *than*: Stage 1
 

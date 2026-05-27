@@ -16,6 +16,6 @@ In both AmE and BrE, *minuscule* is now pronounced /**min**-ә-skyool/—though 
 
 ## Language-Change Index
 
-*minuscule* misspelled *\*miniscule*: Stage 4
-Current ratio in print \(*minuscule* vs. \**miniscule*\): 1.6:1
+ - *minuscule* misspelled *\*miniscule*: Stage 4
+ - Current ratio in print \(*minuscule* vs. \**miniscule*\): 1.6:1
 

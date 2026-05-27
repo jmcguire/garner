@@ -4,5 +4,5 @@ chartered plane, not *\*charter plane*, is the traditional form. One specially h
 
 ## Language-Change Index
 
-*\*charter plane* for *chartered plane*: Stage 4 Current ratio in print \(*a chartered plane* vs. *\*a charter plane*\): 1.8:1
+ - *\*charter plane* for *chartered plane*: Stage 4 Current ratio in print \(*a chartered plane* vs. *\*a charter plane*\): 1.8:1
 

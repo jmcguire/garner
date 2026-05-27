@@ -2,5 +2,5 @@
 
 innocence; **\*innocency**. The latter is an obsolete variant.
 
-Current ratio in print \(*innocence* vs. \**innocency*\): 100:1
+ - Current ratio in print \(*innocence* vs. \**innocency*\): 100:1
 

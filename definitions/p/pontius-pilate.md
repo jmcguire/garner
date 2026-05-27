@@ -8,5 +8,5 @@ Pontius Pilate is so spelled, but it is sometimes erroneously written *\*Pontius
 
  - "He is no Joan of Arc or Joseph of Arimathea; no Mary Magdalene or *Pontius Pilot* \[read *Pontius Pilate*\]." Kathleen J. Martin, *Indigenous Symbols and Practices in the Catholic Church* xv \(2013\).
 
-Current ratio in print \(*Pontius Pilate* vs. \**Pontius Pilot*\): 158:1
+ - Current ratio in print \(*Pontius Pilate* vs. \**Pontius Pilot*\): 158:1
 

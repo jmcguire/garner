@@ -10,6 +10,6 @@ The analogous error would be *\*menkind* for *mankind*. See **humankind** & sexi
 
 ## Language-Change Index
 
-*\*womenkind* for *womankind*: Stage 1
-Current ratio in print \(*womankind* vs. *\*womenkind*\): 8:1
+ - *\*womenkind* for *womankind*: Stage 1
+ - Current ratio in print \(*womankind* vs. *\*womenkind*\): 8:1
 

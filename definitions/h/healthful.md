@@ -4,6 +4,6 @@ healthful; **healthy**. Strictly speaking, *healthy* refers to a person \(or per
 
 ## Language-Change Index
 
-*healthy* for *healthful*: Stage 5 1940 ratio in print \(*healthful foods* vs. *healthy foods*\): 12:1
-Current ratio in print \(*healthful foods* vs. *healthy foods*\): 1:11
+ - *healthy* for *healthful*: Stage 5 1940 ratio in print \(*healthful foods* vs. *healthy foods*\): 12:1
+ - Current ratio in print \(*healthful foods* vs. *healthy foods*\): 1:11
 

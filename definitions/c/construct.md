@@ -10,5 +10,5 @@ For an argument that this misusage has harmed constitutional theory, see Antonin
 
 ## Language-Change Index
 
-*construct* misused for *construe*: Stage 2
+ - *construct* misused for *construe*: Stage 2
 

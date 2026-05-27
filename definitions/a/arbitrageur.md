@@ -14,5 +14,5 @@ But usage is now firmly set in favor of the gallicism *arbitrageur* \(with the m
 
 *\*Arbitrager* ought to be considered a needless variant.
 
-Current ratio in print \(*arbitrageur* vs. \**arbitrager*\): 14:1
+ - Current ratio in print \(*arbitrageur* vs. \**arbitrager*\): 14:1
 

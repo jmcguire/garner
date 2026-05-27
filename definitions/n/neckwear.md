@@ -10,6 +10,6 @@ neckwear \(= clothing worn about the neck\) is sometimes misspelled *\*neckware*
 
 ## Language-Change Index
 
-*\*neckware* for *neckwear*: Stage 1
-Current ratio in print \(*neckwear* vs. *\*neckware*\): 35:1
+ - *\*neckware* for *neckwear*: Stage 1
+ - Current ratio in print \(*neckwear* vs. *\*neckware*\): 35:1
 

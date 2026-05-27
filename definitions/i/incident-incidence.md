@@ -14,7 +14,7 @@ This error is common in educated speech. Also, beware that *incidents* and *inci
 
 ## Language-Change Index
 
-*incidence* misused for *incident*: Stage 2
+ - *incidence* misused for *incident*: Stage 2
 
 **B. *Incident* Meaning "accident."** See euphemisms.
 

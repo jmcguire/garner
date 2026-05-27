@@ -30,6 +30,6 @@ The opposite error, in which *infect* ousts the proper word *infest*, is rare bu
 
 ## Language-Change Index
 
-*invest* misused for *infest*: Stage 1
-Current ratio in print \(*shark-infested* vs. \**shark-invested*\): 239:1
+ - *invest* misused for *infest*: Stage 1
+ - Current ratio in print \(*shark-infested* vs. \**shark-invested*\): 239:1
 

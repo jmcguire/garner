@@ -6,7 +6,7 @@ causality; **causation**. These words have a fine distinction. *Causality* = the
 
 ## Language-Change Index
 
-*causation* misused for *cause*: Stage 1
+ - *causation* misused for *cause*: Stage 1
 
-Current ratio in print \(*was the cause of* vs. *\*was the causation of *\): 2,515:1
+ - Current ratio in print \(*was the cause of* vs. *\*was the causation of *\): 2,515:1
 

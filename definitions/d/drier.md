@@ -11,8 +11,8 @@ See **dry**.
 ## Language-Change Index
 
 1. *dryer* misused as a comparative adjective \(for *drier*\): Stage 2
-Current ratio in print \(*drier climate* vs. *\*dryer climate*\): 8:1
+ - Current ratio in print \(*drier climate* vs. *\*dryer climate*\): 8:1
 
 2. *drier* misused for the noun *dryer*: Stage 3
-Current ratio in print \(*clothes-dryer* vs. *\*clothes-drier*\): 4:1
+ - Current ratio in print \(*clothes-dryer* vs. *\*clothes-drier*\): 4:1
 

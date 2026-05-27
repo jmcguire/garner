@@ -6,5 +6,5 @@ The variant also occurs in figurative uses, in which the true meaning might be *
 
 ## Language-Change Index
 
-*\*advanced guard* for *advance guard*: Stage 4 Current ratio in print \(*advance guard* vs. *\*advanced guard*\): 2.4:1
+ - *\*advanced guard* for *advance guard*: Stage 4 Current ratio in print \(*advance guard* vs. *\*advanced guard*\): 2.4:1
 

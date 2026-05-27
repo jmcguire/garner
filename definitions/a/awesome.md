@@ -4,5 +4,5 @@ awesome, in the 1980s and 1990s, became a ubiquitous vogue term <that movie was 
 
 ## Language-Change Index
 
-*awesome* for *excellent* or *stupendously good*: Stage 4
+ - *awesome* for *excellent* or *stupendously good*: Stage 4
 

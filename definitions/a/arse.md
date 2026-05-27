@@ -6,5 +6,5 @@ There's a story behind this. Today *ass* means both \(1\) "donkey," and \(2\) "a
 
 ## Language-Change Index
 
-*ass* meaning "derriere" \(for *arse*\): Stage 5
+ - *ass* meaning "derriere" \(for *arse*\): Stage 5
 

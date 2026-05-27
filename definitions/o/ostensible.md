@@ -10,5 +10,5 @@ ostensible; **ostensive**. *Ostensible* \(the usual term\) = seeming; apparent <
 
 ## Language-Change Index
 
-*ostensive* misused for *ostensible*: Stage 1
+ - *ostensive* misused for *ostensible*: Stage 1
 

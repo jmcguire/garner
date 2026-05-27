@@ -10,6 +10,6 @@ Just to confuse matters, though, *orthoscopic* is in fact a word that means "ren
 
 ## Language-Change Index
 
-*orthoscopic* misused for *arthroscopic*: Stage 1
-Current ratio in print \(*arthroscopic surgery* vs. *\*orthoscopic surgery*\): 91:1
+ - *orthoscopic* misused for *arthroscopic*: Stage 1
+ - Current ratio in print \(*arthroscopic surgery* vs. *\*orthoscopic surgery*\): 91:1
 

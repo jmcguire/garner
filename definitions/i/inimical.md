@@ -20,5 +20,5 @@ The illegitimate form becomes a double-bobble when it is confused with the simil
 
 \**inimicable* for *inimical*: Stage 1
 \**inimical* for *inimitable*: Stage 1
-Current ratio in print \(*inimical to* vs. \**inimicable to*\): 198:1
+ - Current ratio in print \(*inimical to* vs. \**inimicable to*\): 198:1
 

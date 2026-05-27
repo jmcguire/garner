@@ -12,8 +12,8 @@ infinitely.
 
 ## Language-Change Index
 
-*infinitely* misused for *eminently*: Stage 1
-Current ratio in print \(*eminently successful* vs. *\*infinitely successful*\): 130:1
+ - *infinitely* misused for *eminently*: Stage 1
+ - Current ratio in print \(*eminently successful* vs. *\*infinitely successful*\): 130:1
 
 **B. And Comparatives.** When *infinitely* modifies a comparative adjective or adverb, the result is almost always either illogical or ineptly hyperbolic—e.g.:
 
@@ -29,5 +29,5 @@ Occasionally, though, the usage is justified when the thing designated could tru
 
 ## Language-Change Index
 
-*infinitely* used with a comparative: Stage 1
+ - *infinitely* used with a comparative: Stage 1
 

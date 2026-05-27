@@ -6,5 +6,5 @@ sulfur; **sulphur**. The first has been standard AmE since about 1940. Although 
 
  - "Potassium bicarbonate or wettable *sulfer* \[read *sulfur*\] may cause damage to some plants. Spray foliage of plants once every one to two weeks after first signs of disease are discovered." Nancy Robitaille & Eugenie Robitaille, *Insects, Pests, and Diseases of the African Violet Family* 175 \(2005\).
 
-Current ratio in print \(*sulfur* vs. *sulphur*\): 2.5:1
+ - Current ratio in print \(*sulfur* vs. *sulphur*\): 2.5:1
 

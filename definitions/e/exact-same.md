@@ -18,6 +18,6 @@ For a similar example involving *exact*, see **just exactly**.
 
 ## Language-Change Index
 
-*the exact same* for *exactly the same*: Stage 2
-Current ratio in print \(*exactly the same* vs. *the exact same*\): 3:1
+ - *the exact same* for *exactly the same*: Stage 2
+ - Current ratio in print \(*exactly the same* vs. *the exact same*\): 3:1
 

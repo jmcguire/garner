@@ -6,6 +6,6 @@ Both in and outside law, the phrase is sometimes misspelled *\*corpus delecti*, 
 
 ## Language-Change Index
 
-*\*corpus delecti* for *corpus delicti*: Stage 1
-Current ratio in print \(*corpus delicti* vs. *\*corpus delecti*\): 14:1
+ - *\*corpus delecti* for *corpus delicti*: Stage 1
+ - Current ratio in print \(*corpus delicti* vs. *\*corpus delecti*\): 14:1
 

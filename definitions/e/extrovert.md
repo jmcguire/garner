@@ -4,5 +4,5 @@ extrovert \(= one whose interests are outwardly directed, often tending toward s
 
 This is unfortunate in a way, because *extrovert* is a morphological deformity, the *o* having come from a misguided attempt at paralleling *introvert*. \(See **introvert**.\) The Latin prefixes are *intro-* and *extra-*. But it's now too late: the forms are set in English.
 
-Current ratio in print \(*extrovert* vs. \**extravert*\): 6:1
+ - Current ratio in print \(*extrovert* vs. \**extravert*\): 6:1
 

@@ -10,7 +10,7 @@ See for-.
 
 ## Language-Change Index
 
-*forebode* misspelled *\*forbode*: Stage 1
-Current ratio in print \(*forebode* vs. \**forbode*\): 3:1
-Current ratio in print \(*forebodes death* vs. \**forbodes death*\): 9:1
+ - *forebode* misspelled *\*forbode*: Stage 1
+ - Current ratio in print \(*forebode* vs. \**forbode*\): 3:1
+ - Current ratio in print \(*forebodes death* vs. \**forbodes death*\): 9:1
 

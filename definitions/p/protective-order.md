@@ -4,6 +4,6 @@ protective order \(= a restraining order or an order preventing some type of con
 
 ## Language-Change Index
 
-*\*protected order* for *protective order*: Stage 1
-Current ratio in print \(*protective order* vs. *\*protected order*\): 509:1
+ - *\*protected order* for *protective order*: Stage 1
+ - Current ratio in print \(*protective order* vs. *\*protected order*\): 509:1
 

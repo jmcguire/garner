@@ -4,7 +4,7 @@ ratchet, n. & vb. So spelled—not *\*rachet*. E.g.: "Kallstrom said security wa
 
 The verb is inflected as *ratcheted* and *ratcheting*—not *\*ratchetted* and *\*ratchetting* \(formerly preferred in BrE\).
 
-Current ratio in print \(*ratcheted* vs. *\*racheted*\): 259:1
-Current ratio in print \(*ratcheting* vs. \**racheting*\): 184:1
-Current ratio in print \(*ratcheting* vs. \**ratchetting*\): 5:1
+ - Current ratio in print \(*ratcheted* vs. *\*racheted*\): 259:1
+ - Current ratio in print \(*ratcheting* vs. \**racheting*\): 184:1
+ - Current ratio in print \(*ratcheting* vs. \**ratchetting*\): 5:1
 

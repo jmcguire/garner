@@ -6,6 +6,6 @@ When pronouncing the word, make it four syllables \(not three\), with stress on 
 
 ## Language-Change Index
 
-*\*mayorality* for *mayoralty*: Stage 1
-Current ratio in print \(*mayoralty* vs. *\*mayorality*\): 80:1
+ - *\*mayorality* for *mayoralty*: Stage 1
+ - Current ratio in print \(*mayoralty* vs. *\*mayorality*\): 80:1
 

@@ -10,5 +10,5 @@ See -cast & irregular verbs.
 
 ## Language-Change Index
 
-*\*cablecasted* for past-tense *cablecast*: Stage 1
+ - *\*cablecasted* for past-tense *cablecast*: Stage 1
 

@@ -17,10 +17,10 @@ Why has the spelling been so much trouble? *Y'all* is the only contraction in En
 ## Language-Change Index
 
 1. *\*ya'll* for *y'all*: Stage 2
-Current ratio in print \(*y'all* vs. *\*ya'll*\): 9:1
+ - Current ratio in print \(*y'all* vs. *\*ya'll*\): 9:1
 
 2. *\*yall* for *y'all*: Stage 1
-Current ratio in print \(*y'all know* vs. *\*yall know*\): 19:1
+ - Current ratio in print \(*y'all know* vs. *\*yall know*\): 19:1
 
 **B. Number.** Although the traditional use of *y'all* is plural, and although many Southerners have stoutly rejected the idea that it's ever used as a singular, there does seem to be strong evidence that it can refer to a single person—for example, *See y'all later* spoken to someone without a companion. One possibility is that the speaker means "you and anyone else who may be with you" or "you and anyone else who comes along." Another possibility is that *y'all* may in fact refer to one person. Getting at the truth depends on understanding the speaker's state of mind. For good summaries of the debates over this point—they have sometimes been heated—see Nancy J. Spencer, "Singular *Y'all*," 50 *Am. Speech* 315 \(1975\); and Marvin K.L. Ching, "Plural *You*/*Y'All* by a Court Judge," 76 *Am. Speech* 115 \(2001\). For an argument that *y'all* can be singular, see Jan Tillery & Guy Bailey, "*Yall* in Oklahoma," 73 *Am. Speech* 257 \(1998\); for an opposing \(and more persuasive\) point of view, see Ronald R. Butters, "Data Concerning Putative Singular *Y'All*," 76 *Am. Speech* 335 \(2001\).
 

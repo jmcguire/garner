@@ -8,5 +8,5 @@ imaginative; **imaginary**. *Imaginative* \(= creative\) is occasionally misused
 
 ## Language-Change Index
 
-*imaginative* misused for *imaginary*: Stage 1
+ - *imaginative* misused for *imaginary*: Stage 1
 

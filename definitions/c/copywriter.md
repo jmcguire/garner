@@ -4,5 +4,5 @@ copywriter; **copyrighter**. A *copywriter* is a person who writes copy, especia
 
 ## Language-Change Index
 
-*copyrighter* misused for *copywriter*: Stage 1
+ - *copyrighter* misused for *copywriter*: Stage 1
 

@@ -24,5 +24,5 @@ Arguably, our modern culture lacks and does not *want* absolutes, in intellectua
 
 ## Language-Change Index
 
-*unique* as a word of degree, as in *\*very unique*: Stage 3
+ - *unique* as a word of degree, as in *\*very unique*: Stage 3
 

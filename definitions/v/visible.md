@@ -12,5 +12,5 @@ Hence the phrase for a blind or nearly blind person is *visually impaired*, not 
 
 ## Language-Change Index
 
-*visibly impaired* misused for *visually impaired*: Stage 1
+ - *visibly impaired* misused for *visually impaired*: Stage 1
 

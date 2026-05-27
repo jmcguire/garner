@@ -14,5 +14,5 @@ Though this sense isn't recorded in many standard dictionaries, it certainly exi
 
 ## Language-Change Index
 
-*nimrod* in the sense "simpleton": Stage 5
+ - *nimrod* in the sense "simpleton": Stage 5
 

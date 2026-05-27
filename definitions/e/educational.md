@@ -4,5 +4,5 @@ educational; **educative**; **\*educatory**. *Educational* = \(1\) having to do 
 
 For a related word, see **educable**.
 
-Current ratio in print \(*educational* vs. *educative* vs. *\*educatory*\): 19,882:239:1
+ - Current ratio in print \(*educational* vs. *educative* vs. *\*educatory*\): 19,882:239:1
 

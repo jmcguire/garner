@@ -15,8 +15,8 @@ Writers fall into the error because they more commonly see the adjectival partic
 ## Language-Change Index
 
 1. *underlie* misspelled *\*underly*: Stage 1
-Current ratio in print \(*underlie the* vs. *\*underly the*\): 77:1
+ - Current ratio in print \(*underlie the* vs. *\*underly the*\): 77:1
 
 2. *underlay* misused for *underlie*: Stage 1
-Current ratio in print \(*the underlying rock* vs. *\*the underlaying rock*\): 410:1
+ - Current ratio in print \(*the underlying rock* vs. *\*the underlaying rock*\): 410:1
 

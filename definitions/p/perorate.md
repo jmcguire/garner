@@ -16,5 +16,5 @@ The noun is *peroration* /pәr-ә-**ray**-shәn/—e.g.: "Even before the *peror
 
 ## Language-Change Index
 
-*perorate* misused for *orate*: Stage 1
+ - *perorate* misused for *orate*: Stage 1
 

@@ -12,7 +12,7 @@ access, n.
 
 ## Language-Change Index
 
-*access* misused for *excess*: Stage 1
+ - *access* misused for *excess*: Stage 1
 
 **B. Meaning "outburst."** This sense, though somewhat archaic, is unimpeachable. Still, the usage is likely to give most readers pause—e.g.:
 

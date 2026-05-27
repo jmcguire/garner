@@ -6,7 +6,7 @@ often.
 
 ## Language-Change Index
 
-*often* pronounced /**of**-tәn/: Stage 4
+ - *often* pronounced /**of**-tәn/: Stage 4
 
 **B. And *oftentimes*; *oft*; *ofttimes*.** In AmE, *oftentimes* is a common synonym of *often*; it often seems to add weight and perhaps quaintness to a pronouncement. The second and third are literary archaisms and needless variants. Substituting *often* is almost always \(not merely often\) better—e.g.:
 
@@ -18,5 +18,5 @@ often.
 
 About the only time *oft* is justified is when it's part of a phrasal adjective <an oft-quoted passage>. Cf. **once** & **then \(a\)**.
 
-Current ratio in print \(*often very* vs. *oftentimes very* vs. *ofttimes very* vs. *oft very*\): 6,304:31:1.05:1
+ - Current ratio in print \(*often very* vs. *oftentimes very* vs. *ofttimes very* vs. *oft very*\): 6,304:31:1.05:1
 

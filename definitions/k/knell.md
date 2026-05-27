@@ -4,5 +4,5 @@ knell \(= \[1\] the sound of a bell being slowly rung to announce or commemorate
 
 Perhaps through false association with either *nail in the coffin* or *dead as a doornail*, the phrase *death knell* is sometimes mistakenly written \**death nail*—a blunder traceable to the 1940s.
 
-Current ratio in print \(*death knell* vs. \**death nail*\): 289:1
+ - Current ratio in print \(*death knell* vs. \**death nail*\): 289:1
 

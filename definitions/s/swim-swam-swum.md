@@ -13,9 +13,9 @@ And *swum* is sometimes misused for *swam*—e.g.: "They *swum* \[read *swam*\] 
 ## Language-Change Index
 
 1. *swam* for past-participial *swum*: Stage 2
-Current ratio in print \(*have swum* vs. *\*have swam*\): 6:1
-Current ratio in print \(*had swum* vs. *\*had swam*\): 8:1
+ - Current ratio in print \(*have swum* vs. *\*have swam*\): 6:1
+ - Current ratio in print \(*had swum* vs. *\*had swam*\): 8:1
 
 2. *swum* for simple-past *swam*: Stage 2
-Current ratio in print \(*they swam in* vs. *\*they swum in*\): 466:1
+ - Current ratio in print \(*they swam in* vs. *\*they swum in*\): 466:1
 

@@ -10,5 +10,5 @@ See **discrete**.
 
 ## Language-Change Index
 
-*indiscrete* misused for *indiscreet*: Stage 1
+ - *indiscrete* misused for *indiscreet*: Stage 1
 

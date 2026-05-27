@@ -12,6 +12,6 @@ Because *forcible* properly refers only to physical force, it shouldn't be used 
 
 ## Language-Change Index
 
-*forcibly* misused for *forcefully*: Stage 3
-Current ratio in print \(*stated forcefully* vs. *\*stated forcibly*\): 16:1
+ - *forcibly* misused for *forcefully*: Stage 3
+ - Current ratio in print \(*stated forcefully* vs. *\*stated forcibly*\): 16:1
 

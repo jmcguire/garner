@@ -10,5 +10,5 @@ gaffe; **gaff**, n. *Gaffe* = \(1\) a blunder in etiquette; faux pas; or \(2\) a
 
 ## Language-Change Index
 
-*gaff* misused for *gaffe*: Stage 1
+ - *gaff* misused for *gaffe*: Stage 1
 

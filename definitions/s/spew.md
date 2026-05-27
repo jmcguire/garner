@@ -4,6 +4,6 @@ spew \(= to gush or vomit\) is sometimes misspelled *\*spue*—e.g.: "The enemy 
 
 ## Language-Change Index
 
-*spew* misspelled *\*spue*: Stage 1
-Current ratio in print \(*spewed out* vs. \**spued out*\): 42:1
+ - *spew* misspelled *\*spue*: Stage 1
+ - Current ratio in print \(*spewed out* vs. \**spued out*\): 42:1
 

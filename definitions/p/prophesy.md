@@ -19,8 +19,8 @@ To complicate matters further, the verb *prophesy* has sometimes been incorrectl
 ## Language-Change Index
 
 1. *prophecy* \(n.\) misspelled *prophesy*: Stage 3
-Current ratio in print \(*a prophecy* vs. *\*a prophesy*\): 34:1
+ - Current ratio in print \(*a prophecy* vs. *\*a prophesy*\): 34:1
 
 2. *\*prophesize* for *prophesy*: Stage 2
-Current ratio in print \(*prophesied* vs. *\*prophesized*\): 27:1
+ - Current ratio in print \(*prophesied* vs. *\*prophesized*\): 27:1
 

@@ -6,7 +6,7 @@ solicit.
 
 ## Language-Change Index
 
-*solicit* misused for *elicit*: Stage 1
+ - *solicit* misused for *elicit*: Stage 1
 
 **B. And *\*solicitate*.** *\*Solicitate*, a needless variant of *solicit*, is an erroneous back-formation from *solicitation*. Though it is old—having originated in the 1500s—it serves no purpose—e.g.:
 
@@ -16,6 +16,6 @@ solicit.
 
 ## Language-Change Index
 
-*\*solicitate* for *solicit*: Stage 1
-Current ratio in print \(*solicited* vs. *\*solicitated*\): 3,195:1
+ - *\*solicitate* for *solicit*: Stage 1
+ - Current ratio in print \(*solicited* vs. *\*solicitated*\): 3,195:1
 

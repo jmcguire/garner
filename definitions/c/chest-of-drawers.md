@@ -6,7 +6,7 @@ In a similar vein, *\*Chip and Dale furniture* can sometimes be found in classif
 
 ## Language-Change Index
 
-*\*chester drawers* for *chest of drawers*: Stage 1
+ - *\*chester drawers* for *chest of drawers*: Stage 1
 
-Current ratio in print \(*chest of drawers* vs. *\*chester drawers*\): 1,461:1
+ - Current ratio in print \(*chest of drawers* vs. *\*chester drawers*\): 1,461:1
 

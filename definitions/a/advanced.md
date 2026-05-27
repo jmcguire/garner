@@ -10,5 +10,5 @@ advanced, adj., = \(1\) having progressed beyond most others <an advanced way of
 
 Although *advance* was the intended word in those examples, it could be deleted as a redundancy. Cf. **advance guard**.
 
-Current ratio in print \(*advance notice* vs. *\*advanced notice*\): 13:1
+ - Current ratio in print \(*advance notice* vs. *\*advanced notice*\): 13:1
 

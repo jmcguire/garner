@@ -10,5 +10,5 @@ For the use of this verb in diametrically opposed senses, see contronyms.
 
 ## Language-Change Index
 
-*dispose* misused for *dispose of*: Stage 1
+ - *dispose* misused for *dispose of*: Stage 1
 

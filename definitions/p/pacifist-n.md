@@ -10,6 +10,6 @@ The term *passivist* \(= one with a passive attitude or way of life\) is usually
 
 ## Language-Change Index
 
-*\*pacificist* for *pacifist*: Stage 1
-Current ratio in print \(*pacifist* vs. *\*pacificist*\): 132:1
+ - *\*pacificist* for *pacifist*: Stage 1
+ - Current ratio in print \(*pacifist* vs. *\*pacificist*\): 132:1
 

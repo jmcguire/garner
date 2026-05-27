@@ -12,5 +12,5 @@ See word-swapping.
 
 ## Language-Change Index
 
-*spade* misused for *spayed* as past form of *spay*: Stage 2
+ - *spade* misused for *spayed* as past form of *spay*: Stage 2
 

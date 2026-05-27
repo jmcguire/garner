@@ -4,5 +4,5 @@ macerate \(= \[1\] to cause to waste or wither away from lack of nourishment; or
 
 The corresponding agent noun is *macerator*, dating from the mid-1800s. \**Macerater* is a variant. See -er \(a\).
 
-Current ratio in print \(*macerator* vs. \**macerater*\): 15:1
+ - Current ratio in print \(*macerator* vs. \**macerater*\): 15:1
 

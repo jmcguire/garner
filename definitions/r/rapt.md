@@ -12,6 +12,6 @@ This error is traceable to 17th-century prose but has appeared infrequently over
 
 ## Language-Change Index
 
-*\*wrapt attention* for *rapt attention*: Stage 1
-Current ratio in print \(*rapt attention* vs. \**wrapt attention* vs. \**rapped attention* vs. \**wrapped attention*\): 1,706:12:1.3:1
+ - *\*wrapt attention* for *rapt attention*: Stage 1
+ - Current ratio in print \(*rapt attention* vs. \**wrapt attention* vs. \**rapped attention* vs. \**wrapped attention*\): 1,706:12:1.3:1
 

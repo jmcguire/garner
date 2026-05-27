@@ -20,5 +20,5 @@ Sometimes, though, the thing being touted is excepted, and then the *other* beco
 
 ## Language-Change Index
 
-*better than any* for *better than any other*: Stage 3
+ - *better than any* for *better than any other*: Stage 3
 

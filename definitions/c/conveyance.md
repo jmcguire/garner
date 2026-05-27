@@ -4,5 +4,5 @@ conveyance, n. **A. Meaning "vehicle."** *Conveyance* is sometimes used as a for
 
 **B. And *\*conveyal*.** *Conveyance* is the standard noun corresponding to the verb *convey*. *\*Conveyal* is a needless variant.
 
-Current ratio in print \(*conveyance* vs. *\*conveyal*\): 2,580:1
+ - Current ratio in print \(*conveyance* vs. *\*conveyal*\): 2,580:1
 

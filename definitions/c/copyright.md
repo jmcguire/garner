@@ -19,8 +19,8 @@ For a similar error, see **playwriting**. For *copyright* as an adjective, see *
 ## Language-Change Index
 
 1. *\*copywrite* for *copyright*: Stage 1
-Current ratio in print \(*copyright* vs. *\*copywrite*\): 6,709:1
+ - Current ratio in print \(*copyright* vs. *\*copywrite*\): 6,709:1
 
 2. *\*copywright* for *copyright*: Stage 1
-Current ratio in print \(*copyright* vs. *\*copywright*\): 30,127:1
+ - Current ratio in print \(*copyright* vs. *\*copywright*\): 30,127:1
 

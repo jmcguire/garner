@@ -12,5 +12,5 @@ At times, especially in legal writing, *connexity* is simply a needless variant 
 
 *Connexity* also had a brief—very brief—life as a label for the intent of the new young generation \(aka Gen Y\) on remaining "wired" at all times. A 1999 study by the ad agency Saatchi & Saatchi tried to coin two new terms, in fact, in the title of its report on "The *Connexity* Generation: America's New Digital *Prosumers*." But in pop language, those who coin phrases often see them fall through the boardwalk.
 
-Current ratio in print \(*connection* vs. *\*connexion*\): 45:1
+ - Current ratio in print \(*connection* vs. *\*connexion*\): 45:1
 

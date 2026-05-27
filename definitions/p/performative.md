@@ -4,5 +4,5 @@ performative \(= of, relating to, or involving an expression or utterance that c
 
 Since about 1990, *performative* has acquired a pejorative sense involving what someone does to improve reputation, image, or profile—with connotations of posturing or insincerity <performative hygiene> <performative politics>.
 
-Current ratio in print \(*performative utterances* vs. *performatory utterances*\): 325:1
+ - Current ratio in print \(*performative utterances* vs. *performatory utterances*\): 325:1
 

@@ -12,7 +12,7 @@ In AmE, *burglarize* appears more often than *burgle*—e.g.:
 
  - "Tercero was convicted of fatally shooting Robert Berger, 38, who was in a Houston dry-cleaners shop in March 1997 when Tercero came in to *burglarize* it." "Texas Court Halts Execution After Defense Says a Witness Lied," *Wash. Post*, 26 Aug. 2015, at A3.
 
-Current ratio in print \(*burglarized* vs. *burgled* in AmE\): 1.3:1
-Current ratio in print \(*burgled* vs. *burglarized* in BrE\): 10:1
-Current ratio in print \(*burgled* vs. *burglarized* in World Englishes\): 1.8:1
+ - Current ratio in print \(*burglarized* vs. *burgled* in AmE\): 1.3:1
+ - Current ratio in print \(*burgled* vs. *burglarized* in BrE\): 10:1
+ - Current ratio in print \(*burgled* vs. *burglarized* in World Englishes\): 1.8:1
 

@@ -8,6 +8,6 @@ bated breath is the phrase from Shakespeare's *Merchant of Venice*: "Or shall I 
 
 ## Language-Change Index
 
-*\*baited breath* for *bated breath*: Stage 2
-Current ratio in print \(*bated breath* vs. *\*baited breath*\): 8:1
+ - *\*baited breath* for *bated breath*: Stage 2
+ - Current ratio in print \(*bated breath* vs. *\*baited breath*\): 8:1
 

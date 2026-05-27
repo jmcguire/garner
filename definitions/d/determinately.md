@@ -10,5 +10,5 @@ Sometimes, of course, *determinately* is just the right word—e.g.: "Did not We
 
 ## Language-Change Index
 
-*determinately* for *determinedly*: Stage 1
+ - *determinately* for *determinedly*: Stage 1
 

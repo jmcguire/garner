@@ -4,5 +4,5 @@ paramount means "superior to all others" or "most important"—not merely "impor
 
 ## Language-Change Index
 
-*paramount* in the sense "important" \(rather than "most important"\): Stage 2
+ - *paramount* in the sense "important" \(rather than "most important"\): Stage 2
 

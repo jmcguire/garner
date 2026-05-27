@@ -8,5 +8,5 @@ The plural is *ignoramuses*. The form *\*ignorami* is a pseudo-learned blunder, 
 
 The word is preferably pronounced /ig-nә-**ray**-mәs/—not /ig-nә-**ram**-әs/. In BrE, it's often /ig-nә-**rah**-mәs/.
 
-Current ratio in print \(*ignoramuses* vs. *\*ignorami*\): 42:1
+ - Current ratio in print \(*ignoramuses* vs. *\*ignorami*\): 42:1
 

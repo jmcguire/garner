@@ -17,7 +17,7 @@ The pronunciation is /**spee**-sheez/ or /**spee**-seez/. Cf. **genus**.
 ## Language-Change Index
 
 1. *specie* as a false singular of *species*: Stage 2
-Current ratio in print \(*endangered species* vs. *\*endangered specie*\): 1,907:1
+ - Current ratio in print \(*endangered species* vs. *\*endangered specie*\): 1,907:1
 
 2. *species* for *sex* in, e.g., "male species": Stage 23. \**specieses* as a mistaken plural: Stage 1 2012 ratio in print \(*several species* vs. \**several specieses*\): 51,045:1
 

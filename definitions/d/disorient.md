@@ -4,6 +4,6 @@ disorient; **\*disorientate**. The longer form is a needless variant of the shor
 
 ## Language-Change Index
 
-*\*disorientate* for *disorient*: Stage 2
-Current ratio in print \(*disorient* vs. \**disorientate*\): 4:1
+ - *\*disorientate* for *disorient*: Stage 2
+ - Current ratio in print \(*disorient* vs. \**disorientate*\): 4:1
 

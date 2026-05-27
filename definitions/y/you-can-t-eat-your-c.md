@@ -18,5 +18,5 @@ Meanwhile, the *eat–have* sequence has steadily declined since the 1940s, so m
 
 ## Language-Change Index
 
-*you can't have your cake and eat it too*: Stage 5 Current ratio in print \(*have your cake and eat* vs. *eat your cake and have*\): 5:1
+ - *you can't have your cake and eat it too*: Stage 5 Current ratio in print \(*have your cake and eat* vs. *eat your cake and have*\): 5:1
 

@@ -8,5 +8,5 @@ probity \(= honesty; integrity\) is sometimes misused for *propriety*—e.g.:
 
 ## Language-Change Index
 
-*probity* misused for *propriety*: Stage 1
+ - *probity* misused for *propriety*: Stage 1
 

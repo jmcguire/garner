@@ -10,5 +10,5 @@ encomium \(= warm praise\) forms the plural *encomiums* or *encomia*. The native
 
 See plurals \(b\).
 
-Current ratio in print \(*encomiums* vs. *encomia*\): 2.3:1
+ - Current ratio in print \(*encomiums* vs. *encomia*\): 2.3:1
 

@@ -4,5 +4,5 @@ early on \(= at an early stage\) isn't the odious locution that some people thin
 
 ## Language-Change Index
 
-*early on* in the sense "at an early stage": Stage 5
+ - *early on* in the sense "at an early stage": Stage 5
 

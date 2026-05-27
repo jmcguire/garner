@@ -8,6 +8,6 @@ fir. The name of the evergreen tree is occasionally misspelled *fur*, creating a
 
 ## Language-Change Index
 
-*\*fur tree* for *fir tree*: Stage 1
-Current ratio in print \(*fir tree* vs. *\*fur tree*\): 231:1
+ - *\*fur tree* for *fir tree*: Stage 1
+ - Current ratio in print \(*fir tree* vs. *\*fur tree*\): 231:1
 

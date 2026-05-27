@@ -4,5 +4,5 @@
 
 ## Language-Change Index
 
-*\*couth* as an antonym of *uncouth*: Stage 4
+ - *\*couth* as an antonym of *uncouth*: Stage 4
 

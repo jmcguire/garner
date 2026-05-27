@@ -10,5 +10,5 @@ When used in the sense "to decide, see fit," the word has fallen victim to slips
 
 ## Language-Change Index
 
-*deign* misused for *decide* or *see fit*: Stage 2
+ - *deign* misused for *decide* or *see fit*: Stage 2
 

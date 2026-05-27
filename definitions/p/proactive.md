@@ -4,5 +4,5 @@ proactive = \(of a person, policy, etc.\) creating or controlling a situation by
 
 ## Language-Change Index
 
-*proactive* as an antonym for *reactive*: Stage 5
+ - *proactive* as an antonym for *reactive*: Stage 5
 

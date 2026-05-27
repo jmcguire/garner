@@ -4,5 +4,5 @@ ingenuity once corresponded to *ingenuous*, and *\*ingeniosity* to *ingenious.* 
 
 ## Language-Change Index
 
-*ingenuity* as the noun corresponding to *ingenious*: Stage 5
+ - *ingenuity* as the noun corresponding to *ingenious*: Stage 5
 

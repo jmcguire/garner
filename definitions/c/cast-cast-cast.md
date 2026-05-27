@@ -16,5 +16,5 @@ There does seem to be a tendency to use *\*casted* when *cast* means "to supply 
 
 ## Language-Change Index
 
-*\*casted* for *cast* as a past-tense form: Stage 1 Current ratio in print \(*had cast* vs. *\*had casted*\): 454:1
+ - *\*casted* for *cast* as a past-tense form: Stage 1 Current ratio in print \(*had cast* vs. *\*had casted*\): 454:1
 

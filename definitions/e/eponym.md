@@ -10,5 +10,5 @@ The simpler constructions *lends its name to*, *is named for*, etc. are far clea
 
 ## Language-Change Index
 
-*eponym* for *namesake*: Stage 2
+ - *eponym* for *namesake*: Stage 2
 

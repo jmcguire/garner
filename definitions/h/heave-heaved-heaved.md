@@ -14,7 +14,7 @@ Some writers incorrectly understand the past-tense *hove* as a special present-t
 
 ## Language-Change Index
 
-*hove* misused for present-tense *heave*: Stage 1
-Current ratio in print \(*heaves* vs. *hoves*\): 110:1
-Current ratio in print \(*hove into view* vs. \**heaved into view*\): 23:1
+ - *hove* misused for present-tense *heave*: Stage 1
+ - Current ratio in print \(*heaves* vs. *hoves*\): 110:1
+ - Current ratio in print \(*hove into view* vs. \**heaved into view*\): 23:1
 

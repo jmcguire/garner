@@ -32,15 +32,15 @@ Of course, when both alternatives are plural, the verb is plural—e.g.: "*Neith
 
 ## Language-Change Index
 
-*neither . . . nor* with singular alternatives erroneously paired with a plural verb: Stage 3
-Current ratio in print \(*neither he nor she was* vs. \**neither he nor she were*\): 1:1.1
-Current ratio in print \(\**neither you nor I are* vs. \**neither you nor I am*\): 18:1
+ - *neither . . . nor* with singular alternatives erroneously paired with a plural verb: Stage 3
+ - Current ratio in print \(*neither he nor she was* vs. \**neither he nor she were*\): 1:1.1
+ - Current ratio in print \(\**neither you nor I are* vs. \**neither you nor I am*\): 18:1
 
 **B. Number of Elements.** These correlative conjunctions best frame only two elements, not more. Though it's possible to find both modern and historical examples of *neither . . . nor* with more than two elements, these are unfastidious constructions. When three or more are involved, it's better not to say *\*They considered neither x, y, nor z.* Instead, say *They didn't consider x, y, or z.* Or it's permissible to use a second *nor* emphatically in framing three elements: *They considered neither x, nor y, nor z.* Cf. **either \(b\)**.
 
 ## Language-Change Index
 
-*neither . . . nor* with more than two elements: Stage 3
+ - *neither . . . nor* with more than two elements: Stage 3
 
 **C. Parallelism.** Not only should there be just two elements, but also those elements should match each other syntactically. \(See parallelism.) E.g.:
 
@@ -60,7 +60,7 @@ Current ratio in print \(\**neither you nor I are* vs. \**neither you nor I am*\
 
 ## Language-Change Index
 
-*\*neither . . . or* for *neither . . . nor*: Stage 2
-Current ratio in print \(*neither this nor* vs. \**neither this or*\): 82:1
-Current ratio in print \(*neither you nor I* vs. \**neither you or I*\): 64:1
+ - *\*neither . . . or* for *neither . . . nor*: Stage 2
+ - Current ratio in print \(*neither this nor* vs. \**neither this or*\): 82:1
+ - Current ratio in print \(*neither you nor I* vs. \**neither you or I*\): 64:1
 

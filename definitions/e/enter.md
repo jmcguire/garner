@@ -6,7 +6,7 @@ enter.
 
 ## Language-Change Index
 
-*\*enter a contract* for *enter into a contract*: Stage 1
+ - *\*enter a contract* for *enter into a contract*: Stage 1
 
 **B. The Phrase *enter in*.** Although to the modern ear this phrase is a redundancy, it occurs frequently in poems, in hymns, and especially in the Bible \(KJV\). It does not belong in mundane passages.
 

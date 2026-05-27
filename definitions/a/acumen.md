@@ -4,5 +4,5 @@ acumen \(= shrewd perception\) is traditionally pronounced /ә-**kyoo**-men/, bu
 
 ## Language-Change Index
 
-*acumen* accented on first syllable: Stage 3
+ - *acumen* accented on first syllable: Stage 3
 

@@ -10,6 +10,6 @@ possess. The phrase *is possessed of* is an old-fashioned phrase meaning "posses
 
 ## Language-Change Index
 
-*is possessed with* misused for *is possessed of*: Stage 2
-Current ratio in print \(*is possessed of* vs. *is possessed with*\): 9:1
+ - *is possessed with* misused for *is possessed of*: Stage 2
+ - Current ratio in print \(*is possessed of* vs. *is possessed with*\): 9:1
 

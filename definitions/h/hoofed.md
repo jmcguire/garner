@@ -4,6 +4,6 @@ hoofed. So spelled—preferably not *\*hooved*. E.g.: "He's seen Powell load ani
 
 ## Language-Change Index
 
-*\*hooved* for *hoofed*: Stage 1
-Current ratio in print \(*hoofed* vs. *\*hooved*\): 4:1
+ - *\*hooved* for *hoofed*: Stage 1
+ - Current ratio in print \(*hoofed* vs. *\*hooved*\): 4:1
 

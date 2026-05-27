@@ -23,8 +23,8 @@ Occasionally writers twist the phrase not just unidiomatically, but illogicallyâ
 ## Language-Change Index
 
 1. *cannot help but* for *cannot but*: Stage 5
-Current ratio in print \(*cannot help but* vs. *cannot but*\): 1.9:1
+ - Current ratio in print \(*cannot help but* vs. *cannot but*\): 1.9:1
 
 2. *cannot help from* for *cannot but*: Stage 1
-Current ratio in print \(*cannot but* vs. *cannot help from*\): 415:1
+ - Current ratio in print \(*cannot but* vs. *cannot help from*\): 415:1
 

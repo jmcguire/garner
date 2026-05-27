@@ -4,5 +4,5 @@ passable; **passible**. *Passable* = \(1\) capable of being passed, open <passab
 
 ## Language-Change Index
 
-*passible* misused for *passable*: Stage 1
+ - *passible* misused for *passable*: Stage 1
 

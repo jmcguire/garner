@@ -6,5 +6,5 @@ genericness; **\*genericalness**; **genericism**. *Genericness*, though odd-look
 
 *Genericism* /jә-**ner**-i-siz-әm/ has also appeared, sometimes in legal contexts and sometimes, well, generically—e.g.: "The Gateway/Dell 200 certainly gives new meaning to the expression ‘PC clone.' But it's only the most blatant symptom of the PC industry's creeping *genericism*." Rob Pegoraro, "Latest from Gateway, Dell: Separated at Birth?," *Wash. Post*, 9 June 2002, at H7. Formerly labeled "rare" in the *OED*, it has been the prevalent term in BrE since the 1970s.
 
-Current ratio in print \(*genericness* vs. *genericism*\): 1.4:1
+ - Current ratio in print \(*genericness* vs. *genericism*\): 1.4:1
 

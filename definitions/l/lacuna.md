@@ -10,5 +10,5 @@ lacuna is a formal word for *gap*, usually referring to a metaphorical as oppose
 
 The word has two plurals, *lacunae* and *lacunas*. Although *lacunas* might be thought preferable as the native-English plural, *lacunae* appears to be well established as a foreign plural. See plurals \(b\).
 
-Current ratio in print \(*lacunae* vs. *lacunas*\): 15:1
+ - Current ratio in print \(*lacunae* vs. *lacunas*\): 15:1
 

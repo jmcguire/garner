@@ -12,5 +12,5 @@ In sense 1, the word is often misapplied to fatalities. What happens is that the
 
 ## Language-Change Index
 
-*\*apparent heart attack*, etc.: Stage 3
+ - *\*apparent heart attack*, etc.: Stage 3
 

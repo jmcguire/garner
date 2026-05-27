@@ -12,5 +12,5 @@ Not surprisingly, these terms are susceptible to word-swapping—e.g.:
 
 ## Language-Change Index
 
-*fleshly* misused for *fleshy*: Stage 1
+ - *fleshly* misused for *fleshy*: Stage 1
 

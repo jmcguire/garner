@@ -6,7 +6,7 @@ paradigm.
 
 **B. Plural.** The preferred plural is *paradigms*, as opposed to *\*paradigmata*. See plurals \(b\).
 
-Current ratio in print \(*paradigms* vs. *\*paradigmata*\): 3,068:1
+ - Current ratio in print \(*paradigms* vs. *\*paradigmata*\): 3,068:1
 
 **C. For *paragon*.** The term *paragon* \(= a model of perfection\) is sometimes displaced by *paradigm*, especially in the phrase *paragon of virtue*—e.g.:
 
@@ -16,11 +16,11 @@ Current ratio in print \(*paradigms* vs. *\*paradigmata*\): 3,068:1
 
  - "Rory McIlroy never claimed to be the *paradigm* \[read *paragon*\] of virtue or the poster boy of perfection that his blue-chip sponsors would love him to be." Brian Keogh, "McIlroy Believes Walkout Was a Blessing in Disguise," *Irish Times*, 7 Mar. 2013, at 18.
 
-Current ratio in print \(*paragon of virtue* vs. *\*paradigm of virtue*\): 21:1
+ - Current ratio in print \(*paragon of virtue* vs. *\*paradigm of virtue*\): 21:1
 
 **D. Pronunciation.** *Paradigm* is pronounced /**pa**-rә-dīm/—though it was /**pa**-rә-dim/ in both AmE and BrE through the early 20th century. The adjective *paradigmatic* is /pa-rә-dig-**mat**-ik/.
 
 ## Language-Change Index
 
-*paradigm* misused for *paragon*: Stage 1
+ - *paradigm* misused for *paragon*: Stage 1
 

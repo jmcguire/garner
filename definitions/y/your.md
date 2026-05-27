@@ -21,8 +21,8 @@ See spelling \(a\).
 ## Language-Change Index
 
 1. *your* misused for *you're*: Stage 1
-Current ratio in print \(*you're better than* vs. *\*your better than*\): 87:1
+ - Current ratio in print \(*you're better than* vs. *\*your better than*\): 87:1
 
 2. *you're* misused for *your*: Stage 1
-Current ratio in print \(*your own* vs. *\*you're own*\): 23,777:1
+ - Current ratio in print \(*your own* vs. *\*you're own*\): 23,777:1
 

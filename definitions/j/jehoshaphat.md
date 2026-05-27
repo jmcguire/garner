@@ -6,6 +6,6 @@ The name is properly pronounced /ji-**hosh**-ә-fat/. The mispronunciation /ji-*
 
 ## Language-Change Index
 
-*Jehoshaphat* misspelled *\*Jehosophat*: Stage 1
-Current ratio in print \(*Jehoshaphat* vs. \**Jehosophat*\): 101:1
+ - *Jehoshaphat* misspelled *\*Jehosophat*: Stage 1
+ - Current ratio in print \(*Jehoshaphat* vs. \**Jehosophat*\): 101:1
 

@@ -6,7 +6,7 @@ Be careful not to confuse *aegis* with leadership in general—e.g.: "*Under Wax
 
 The variant spelling *\*egis* is all but defunct.
 
-Current ratio in print \(*aegis* vs. \**egis*\): 340:1
+ - Current ratio in print \(*aegis* vs. \**egis*\): 340:1
 
-Current ratio in print \(*under the aegis of* vs. *under the \*egis of*\): 956:1
+ - Current ratio in print \(*under the aegis of* vs. *under the \*egis of*\): 956:1
 

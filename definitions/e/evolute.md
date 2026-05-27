@@ -10,6 +10,6 @@ But some writers have tried to make it a verb, as a back-formation from *evoluti
 
 ## Language-Change Index
 
-*evolute* for *evolve*: Stage 1
-Current ratio in print \(*evolving* vs. *\*evoluting*\): 5,940:1
+ - *evolute* for *evolve*: Stage 1
+ - Current ratio in print \(*evolving* vs. *\*evoluting*\): 5,940:1
 

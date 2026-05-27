@@ -10,5 +10,5 @@ intuit, a mid-19th-century back-formation from the noun *intuition*, is often us
 
 ## Language-Change Index
 
-*intuit*: Stage 5
+ - *intuit*: Stage 5
 

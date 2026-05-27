@@ -14,5 +14,5 @@ But occasionally a writer will use *card shark* where the sense is that the play
 
 ## Language-Change Index
 
-*card shark* misused for *cardsharp*: Stage 1
+ - *card shark* misused for *cardsharp*: Stage 1
 

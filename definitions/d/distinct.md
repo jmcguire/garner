@@ -4,5 +4,5 @@ distinct; **distinctive**; **distinguished**. The first means "well defined, dis
 
 ## Language-Change Index
 
-*distinctive* misused for *distinguished*: Stage 1
+ - *distinctive* misused for *distinguished*: Stage 1
 

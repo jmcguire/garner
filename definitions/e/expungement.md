@@ -10,5 +10,5 @@ expungement; **expunction**. The word *expungement*, unrecorded in many dictiona
 
  - "The motion, which seeks *expungement* of his record and restoration of his privileges, said Mr. Nichols refused to stand during the counting of prisoners because he was not being furnished with whole wheat bread." Arnold Hamilton, "Prosecutors' Interview with FBI Scientist in Bombing Case Postponed," *Dallas Morning News*, 13 Sept. 1996, at A28.
 
-Current ratio in print \(*expungement* vs. *expunction*\): 3:1
+ - Current ratio in print \(*expungement* vs. *expunction*\): 3:1
 

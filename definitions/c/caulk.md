@@ -4,5 +4,5 @@ caulk; **calk**. *Caulk* = \(1\) vb., to fill \(cracks or seams\) in order to ma
 
 Though *calk* is sometimes used for *caulk*, the words have undergone differentiation, so that the spellings should be distinguished according to the definitions above.
 
-Current ratio in print \(*caulking the seams* vs. \**calking the seams*\): 1:1.2
+ - Current ratio in print \(*caulking the seams* vs. \**calking the seams*\): 1:1.2
 

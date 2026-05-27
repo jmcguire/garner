@@ -10,5 +10,5 @@ egregious /i-**gree**-jәs/ formerly meant "outstanding," but has been specializ
 
 ## Language-Change Index
 
-*egregious* in the sense "very bad": Stage 5
+ - *egregious* in the sense "very bad": Stage 5
 

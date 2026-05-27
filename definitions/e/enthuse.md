@@ -23,5 +23,5 @@ Although the adjective *\*enthused* is virtually always inferior to *enthusiasti
 1. *\*enthuse* for *gush*: Stage 3
 
 2. *\*enthused* for *enthusiastic*: Stage 4
-Current ratio in print \(*highly enthusiastic* vs. *\*highly enthused*\): 16:1
+ - Current ratio in print \(*highly enthusiastic* vs. *\*highly enthused*\): 16:1
 

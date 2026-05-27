@@ -8,5 +8,5 @@ levy, n.; **levee**. *Levy* may act as a noun in two senses: \(1\) "the impositi
 
 ## Language-Change Index
 
-*levy* misused for *levee*: Stage 1
+ - *levy* misused for *levee*: Stage 1
 

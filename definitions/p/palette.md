@@ -10,5 +10,5 @@ A *pallet* is either \(1\) a large frame for storing or shipping heavy things, o
 
 ## Language-Change Index
 
-*palette* misused for *palate*: Stage 1
+ - *palette* misused for *palate*: Stage 1
 

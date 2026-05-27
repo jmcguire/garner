@@ -12,15 +12,15 @@ Yet there are serious complications. And rather than try to rationalize them, it
 
 ## Language-Change Index
 
-*courtesy* misused for *curtsy*: Stage 1
-Current ratio in print \(*her curtsy* vs. *her curtsey* in AmE\): 1.6:1
-Current ratio in print \(*her curtsey* vs. *her curtsy* in BrE\): 1.2:1
-Current ratio in print \(*deep curtsies* vs. *deep curtseys* in AmE\): 1.9:1
-Current ratio in print \(*deep curtsies* vs. *deep curtseys* in BrE\): 1.1:1
-Current ratio in print \(*she curtsies* vs. *she curtseys* in AmE\): 3:1
-Current ratio in print \(*she curtsies* vs. *she curtseys* in BrE\): 1.5:1
-Current ratio in print \(*curtsied* vs. *curtseyed* in AmE\): 5:1
-Current ratio in print \(*curtsied* vs. *curtseyed* in BrE\): 1.8:1
-Current ratio in print \(*curtsying* vs. *curtseying* in AmE\): 1.7:1
-Current ratio in print \(*curtseying* vs. *curtsying* in BrE\): 1.3:1
+ - *courtesy* misused for *curtsy*: Stage 1
+ - Current ratio in print \(*her curtsy* vs. *her curtsey* in AmE\): 1.6:1
+ - Current ratio in print \(*her curtsey* vs. *her curtsy* in BrE\): 1.2:1
+ - Current ratio in print \(*deep curtsies* vs. *deep curtseys* in AmE\): 1.9:1
+ - Current ratio in print \(*deep curtsies* vs. *deep curtseys* in BrE\): 1.1:1
+ - Current ratio in print \(*she curtsies* vs. *she curtseys* in AmE\): 3:1
+ - Current ratio in print \(*she curtsies* vs. *she curtseys* in BrE\): 1.5:1
+ - Current ratio in print \(*curtsied* vs. *curtseyed* in AmE\): 5:1
+ - Current ratio in print \(*curtsied* vs. *curtseyed* in BrE\): 1.8:1
+ - Current ratio in print \(*curtsying* vs. *curtseying* in AmE\): 1.7:1
+ - Current ratio in print \(*curtseying* vs. *curtsying* in BrE\): 1.3:1
 

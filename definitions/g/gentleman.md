@@ -12,5 +12,5 @@ In BrE, the word formerly referred to a man of independent means not working gai
 
 ## Language-Change Index
 
-*gentleperson* for *gentleman*: Stage 1
+ - *gentleperson* for *gentleman*: Stage 1
 

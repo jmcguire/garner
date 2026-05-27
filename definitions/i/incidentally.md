@@ -20,5 +20,5 @@ Cf. **accidentally**.
 
 ## Language-Change Index
 
-*incidently* misused for *incidentally*: Stage 1
+ - *incidently* misused for *incidentally*: Stage 1
 

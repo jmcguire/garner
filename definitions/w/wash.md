@@ -4,5 +4,5 @@ wash /wahsh/ is frequently mispronounced with an intrusive *r*: /wahrsh/. See pr
 
 ## Language-Change Index
 
-*wash* mispronounced /wahrsh/: Stage 2
+ - *wash* mispronounced /wahrsh/: Stage 2
 

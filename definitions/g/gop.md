@@ -14,5 +14,5 @@ GOP.
 
 ## Language-Change Index
 
-*\*GOP Party* for *GOP*: Stage 2
+ - *\*GOP Party* for *GOP*: Stage 2
 

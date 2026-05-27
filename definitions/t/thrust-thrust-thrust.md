@@ -12,6 +12,6 @@ See irregular verbs.
 
 ## Language-Change Index
 
-*\*thrusted* for past-tense *thrust*: Stage 1
-Current ratio in print \(*were thrust* vs. *\*were thrusted*\): 367:1
+ - *\*thrusted* for past-tense *thrust*: Stage 1
+ - Current ratio in print \(*were thrust* vs. *\*were thrusted*\): 367:1
 

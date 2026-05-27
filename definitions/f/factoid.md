@@ -22,7 +22,7 @@ Today sense 2 is nearly universal and must be accepted as standard—e.g.:
 
 ## Language-Change Index
 
-*factoid* in reference to an interesting fact: Stage 5
+ - *factoid* in reference to an interesting fact: Stage 5
 
 **B. And *factlet*.** The loss of *factoid* in sense 1 is unfortunate in another way, too: there is already a perfectly good term for a piece of trivia—*factlet*. While it is etymologically more correct \(since *-let* is a diminutive suffix\), it is far rarer today than *factoid*. But it does still appear, even \(as the first example shows\) in the source of *factoid*'s sense 2—e.g.:
 
@@ -30,5 +30,5 @@ Today sense 2 is nearly universal and must be accepted as standard—e.g.:
 
  - "The home page of the campaign's Web site, www.whatwouldjesusdrive.org, features a portrait of a prayerful Jesus with a caption that changes each time a visitor logs on with a new *factlet* about our wasteful driving habits." Tom Brazaitis, "Can Any Car Be Anointed a Holy Roller?," *Plain Dealer* \(Cleveland\), 17 Nov. 2002, at H3. \(Does the visitor have to supply a *factlet* in order to log on, or does the website show a random *factlet* when the visitor logs on? See miscues \(b\).\)
 
-Current ratio in print \(*factoids* vs. *factlets*\): 105:1
+ - Current ratio in print \(*factoids* vs. *factlets*\): 105:1
 

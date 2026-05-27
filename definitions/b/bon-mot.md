@@ -12,7 +12,7 @@ But more commonly, the plural actually used is *bon mots*. This anglicized plura
 
  - "The Duchess's *bon mots* festooned each window, serving as an understated backdrop to some rather gaudy frocks and baubles." Tunku Varadarajan, "New York Gasps at Wallis and Edward Show," *Times* \(London\), 11 Aug. 1997, at 5.
 
-Current ratio in print \(*bon mots* vs. *bons mots*\): 1.4:1
+ - Current ratio in print \(*bon mots* vs. *bons mots*\): 1.4:1
 
 See plurals \(b\).
 

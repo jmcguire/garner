@@ -14,6 +14,6 @@ It is pronounced /**soh**-lә **toh**-pee/. *\*Sola topee* is an alternative spe
 
 ## Language-Change Index
 
-*sola topi* misspelled *\*solar topi*: Stage 3
-Current ratio in print \(*sola topi* vs. \**solar topi*\): 1.8:1
+ - *sola topi* misspelled *\*solar topi*: Stage 3
+ - Current ratio in print \(*sola topi* vs. \**solar topi*\): 1.8:1
 

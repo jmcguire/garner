@@ -12,5 +12,5 @@ predominate, vb.; **dominate**. *Predominate* is traditionally an intransitive v
 
 ## Language-Change Index
 
-*predominate* used as a transitive verb: Stage 1
+ - *predominate* used as a transitive verb: Stage 1
 

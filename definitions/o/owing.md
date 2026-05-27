@@ -8,5 +8,5 @@ owing, adj.; **owed**. Although *owing* in the sense of *owed* is an old and est
 
 See passive voice.
 
-Current ratio in print \(*amount owed to* vs. *\*amount owing to*\): 6:1
+ - Current ratio in print \(*amount owed to* vs. *\*amount owing to*\): 6:1
 

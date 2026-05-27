@@ -14,6 +14,6 @@ Cf. **millionaire** & **questionnaire**.
 
 ## Language-Change Index
 
-*doctrinaire* misspelled *\*doctrinnaire*: Stage 1
-Current ratio in print \(*doctrinaire* vs. \**doctrinnaire*\): 729:1
+ - *doctrinaire* misspelled *\*doctrinnaire*: Stage 1
+ - Current ratio in print \(*doctrinaire* vs. \**doctrinnaire*\): 729:1
 

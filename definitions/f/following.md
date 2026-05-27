@@ -12,5 +12,5 @@ But even when *following* doesn't begin the sentence, if it means "after" it can
 
 ## Language-Change Index
 
-*following* for *after*: Stage 4
+ - *following* for *after*: Stage 4
 

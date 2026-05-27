@@ -6,5 +6,5 @@ penumbra. Though some dictionaries list only the plural *penumbrae*, you could h
 
  - "The Constitution divides a pregnancy into three parts. . . . That can be divined by pondering the *penumbras* arising from the document's emanations." Robert Robb, "High Court Hasn't Ended Abortion," *Ariz. Republic*, 17 Sept. 2021, at A13.
 
-Current ratio in print \(*penumbras* vs. *penumbrae*\): 3:1
+ - Current ratio in print \(*penumbras* vs. *penumbrae*\): 3:1
 

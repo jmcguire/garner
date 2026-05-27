@@ -6,5 +6,5 @@ But the two leading desktop dictionaries disagree about which spelling predomina
 
 Finally, a tip for scatologically minded word-lovers: many of the most weirdly cognate and thoroughly obscene, cloacal, and stercoraceous words in the English language appear in unabridged dictionaries between *coppice* and *copse*.
 
-Current ratio in print \(*copse* vs. *coppice*\): 4:1
+ - Current ratio in print \(*copse* vs. *coppice*\): 4:1
 

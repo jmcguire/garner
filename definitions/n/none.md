@@ -14,7 +14,7 @@ Generally speaking, *none is* is the more emphatic way of expressing an idea. Bu
 
 ## Language-Change Index
 
-*none* in the sense "not any," with a plural verb: Stage 5
-Current ratio in print \(*none is* vs. *none are*\): 1.4:1
-Current ratio in print \(*none of them is* vs. *none of them are*\): 1:1.3
+ - *none* in the sense "not any," with a plural verb: Stage 5
+ - Current ratio in print \(*none is* vs. *none are*\): 1.4:1
+ - Current ratio in print \(*none of them is* vs. *none of them are*\): 1:1.3
 

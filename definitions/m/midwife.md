@@ -8,6 +8,6 @@ midwife, v.t.; **\*midwive**. The first is the standard form for the verb as wel
 
 ## Language-Change Index
 
-*\*midwived* for *midwifed*: Stage 1
-Current ratio in print \(*midwifed* vs. *\*midwived*\): 6:1
+ - *\*midwived* for *midwifed*: Stage 1
+ - Current ratio in print \(*midwifed* vs. *\*midwived*\): 6:1
 

@@ -4,5 +4,5 @@ drunk driving; **\*drunken driving**; **drink-driving**. The first is the predom
 
 The phrase *driving drunk* is a convenient and universal equivalent, in which *drunk* functions as an adverb \(in place of whatever adverbial phrase the local statutes use, e.g., *driving while intoxicated* or *driving under the influence*\). When the verb *drive* becomes a gerund <he was arrested for driving drunk> and therefore requires an adjective rather than an adverb, *drunk driving* provides a neat shorthand.
 
-Current ratio in print \(*drunk driving* vs. *drink-driving* vs. \**drunken driving*\): 7:1.2:1
+ - Current ratio in print \(*drunk driving* vs. *drink-driving* vs. \**drunken driving*\): 7:1.2:1
 

@@ -12,6 +12,6 @@ As a verb, *shoo* means "to encourage or force to move in a certain direction" <
 
 ## Language-Change Index
 
-*\*shoe-in* for *shoo-in*: Stage 3
-Current ratio in print \(*shoo-in* vs. *\*shoe-in*\): 4:1
+ - *\*shoe-in* for *shoo-in*: Stage 3
+ - Current ratio in print \(*shoo-in* vs. *\*shoe-in*\): 4:1
 

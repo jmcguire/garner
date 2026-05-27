@@ -12,6 +12,6 @@ In print sources since 1500, the collocation *off the* has been in constant use,
 
 ## Language-Change Index
 
-*\*off of* for *off*: Stage 3
-Current ratio in print \(*off the* vs. \**off of the*\): 47:1
+ - *\*off of* for *off*: Stage 3
+ - Current ratio in print \(*off the* vs. \**off of the*\): 47:1
 

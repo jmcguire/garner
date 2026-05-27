@@ -4,5 +4,5 @@ thorough. This adjective began life in the 1100s as a variant spelling of the pr
 
 The word is pronounced /**thәr**-oh/ in AmE and /**thәr**-ә/ in BrE. British speakers are often surprised at the final syllable as Americans say it.
 
-Current ratio in print \(*thorough* vs. \**thorow* vs. \**thoro*\): 427:1.6:1
+ - Current ratio in print \(*thorough* vs. \**thorow* vs. \**thoro*\): 427:1.6:1
 

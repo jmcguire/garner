@@ -26,7 +26,7 @@ Often simpler words also better express sense 1—e.g.: "Festival-goers *availed
 
 ## Language-Change Index
 
-*\*to be availed* misused for *to make available*: Stage 1
+ - *\*to be availed* misused for *to make available*: Stage 1
 
 **B. As a Noun.** Since the late 1700s, *avail* has frequently been used as a noun having the sense "beneficial effect, advantage," especially in the phrase *to no avail*, meaning "without success"—e.g.:
 

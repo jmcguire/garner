@@ -4,6 +4,6 @@ frijol /free-**hohl**/ \(= a bean used in Mexican cuisine\) forms the plural *fr
 
 ## Language-Change Index
 
-*\*frijole* as a false singular for *frijol*: Stage 3
-Current ratio in print \(*a frijol* vs. *\*a frijole*\): 1.9:1
+ - *\*frijole* as a false singular for *frijol*: Stage 3
+ - Current ratio in print \(*a frijol* vs. *\*a frijole*\): 1.9:1
 

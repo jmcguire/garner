@@ -4,5 +4,5 @@ Burmese; **Bamar**; **Burman**; **Myanmarese**; **Myanmaran**. For any inhabitan
 
 The variant *Myanmarese* appears in BrE sources, especially in Asia. *Myanmaran* is very rare but not unknown. See demonyms.
 
-Current ratio in print \(*The Burmese are* vs. *The Burmans are*\): 5:1
+ - Current ratio in print \(*The Burmese are* vs. *The Burmans are*\): 5:1
 

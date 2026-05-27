@@ -12,5 +12,5 @@ Perhaps the error stems from the idea that a compendium is, at best, a fairly co
 
 ## Language-Change Index
 
-*compendious* misused for *comprehensive*: Stage 3
+ - *compendious* misused for *comprehensive*: Stage 3
 

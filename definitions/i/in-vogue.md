@@ -4,6 +4,6 @@ in vogue is sometimes mistakenly rendered *\*en vogue*, doubtless as an affectat
 
 ## Language-Change Index
 
-*\*en vogue* for *in vogue*: Stage 1
-Current ratio in print \(*in vogue* vs. *\*en vogue*\): 20:1
+ - *\*en vogue* for *in vogue*: Stage 1
+ - Current ratio in print \(*in vogue* vs. *\*en vogue*\): 20:1
 

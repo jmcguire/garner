@@ -10,5 +10,5 @@ breach, more honored in the. Strictly speaking, this phrase refers to a rule or 
 
 ## Language-Change Index
 
-*more honored in the breach* in reference to an often-broken rule: Stage 4
+ - *more honored in the breach* in reference to an often-broken rule: Stage 4
 

@@ -16,5 +16,5 @@ The word still sometimes appears as a noun, but now the verb has become so wides
 
  - "Don't expect the weak-kneed *panderers* to actually solve tough problems or work to make life better for Alabamians." "Alabama Legislators Fail to Reflect Will of the People," *Birmingham News* \(Ala.\), 7 Aug. 2015, at A8.
 
-Current ratio in print \(*the panders of vice* vs. *the panderers of vice*\): 27:1
+ - Current ratio in print \(*the panders of vice* vs. *the panderers of vice*\): 27:1
 

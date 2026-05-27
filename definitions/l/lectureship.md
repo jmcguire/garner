@@ -6,6 +6,6 @@ Those who write *\*lecturership*—and today it is mostly confined to BrE—are 
 
 ## Language-Change Index
 
-*\*lecturership* for *lectureship*: Stage 1
-Current ratio in print \(*lectureship* vs. *\*lecturership*\): 42:1
+ - *\*lecturership* for *lectureship*: Stage 1
+ - Current ratio in print \(*lectureship* vs. *\*lecturership*\): 42:1
 

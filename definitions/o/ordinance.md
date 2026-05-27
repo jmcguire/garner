@@ -19,8 +19,8 @@ The opposite error, *ordinance* for *ordnance*, also occurs—e.g.:
 ## Language-Change Index
 
 1. *ordnance* misused for *ordinance*: Stage 1
-Current ratio in print \(*city ordinance* vs. *\*city ordnance*\): 343:1
+ - Current ratio in print \(*city ordinance* vs. *\*city ordnance*\): 343:1
 
 2. *ordinance* misused for *ordnance*: Stage 1
-Current ratio in print \(*heavy ordnance* vs. *\*heavy ordinance*\): 13:1
+ - Current ratio in print \(*heavy ordnance* vs. *\*heavy ordinance*\): 13:1
 

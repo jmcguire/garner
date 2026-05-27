@@ -16,6 +16,6 @@ The preferred pronunciation today is /sak-ri-**lij**-әs/, which has displaced /
 
 ## Language-Change Index
 
-*sacrilegious* misspelled *\*sacreligious*: Stage 1
-Current ratio in print \(*sacrilegious* vs. \**sacreligious*\): 175:1
+ - *sacrilegious* misspelled *\*sacreligious*: Stage 1
+ - Current ratio in print \(*sacrilegious* vs. \**sacreligious*\): 175:1
 

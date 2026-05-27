@@ -8,6 +8,6 @@ monetize; **\*monetarize**. *Monetize* = \(1\) to put \(coins or currency\) into
 
 ## Language-Change Index
 
-*\*monetarize* for *monetize*: Stage 1
-Current ratio in print \(*monetize* vs. *\*monetarize*\): 123:1
+ - *\*monetarize* for *monetize*: Stage 1
+ - Current ratio in print \(*monetize* vs. *\*monetarize*\): 123:1
 

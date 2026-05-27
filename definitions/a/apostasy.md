@@ -4,6 +4,6 @@ apostasy; **\*apostacy**. The latter spelling is inferior, the original Greek wo
 
 ## Language-Change Index
 
-*apostasy* misspelled *\*apostacy*: Stage 1
-Current ratio in print \(*apostasy* vs. \**apostacy*\): 20:1
+ - *apostasy* misspelled *\*apostacy*: Stage 1
+ - Current ratio in print \(*apostasy* vs. \**apostacy*\): 20:1
 

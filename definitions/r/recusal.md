@@ -4,5 +4,5 @@ recusal; **\*recusation**; **\*recusement**; **recusancy**; **\*recusance**. The
 
 *Recusancy* is a different word, meaning "obstinate refusal to comply." *\*Recusance* is a needless variant of *recusancy*.
 
-Current ratio in print \(*recusal* vs. *\*recusation*\): 26:1
+ - Current ratio in print \(*recusal* vs. *\*recusation*\): 26:1
 

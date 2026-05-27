@@ -14,5 +14,5 @@ See demonyms.
 
 ## Language-Change Index
 
-*Afghani* misused for *Afghan*: Stage 2
+ - *Afghani* misused for *Afghan*: Stage 2
 

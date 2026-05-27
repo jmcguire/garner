@@ -10,6 +10,6 @@ See metathesis.
 
 ## Language-Change Index
 
-*remuneration* misspelled *\*renumeration*: Stage 1
-Current ratio in print \(*remuneration* vs. \**renumeration*\): 273:1
+ - *remuneration* misspelled *\*renumeration*: Stage 1
+ - Current ratio in print \(*remuneration* vs. \**renumeration*\): 273:1
 

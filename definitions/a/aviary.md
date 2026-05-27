@@ -10,5 +10,5 @@ aviary; apiary. An *aviary* is a place for captive birds; an *apiary* is a place
 
 ## Language-Change Index
 
-*aviary* misused for *insectarium*, etc.: Stage 1
+ - *aviary* misused for *insectarium*, etc.: Stage 1
 

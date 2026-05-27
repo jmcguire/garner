@@ -20,7 +20,7 @@ The ranks of the traditionalists are shrinking, and the counterintuitive nature 
 
 ## Language-Change Index
 
-*err* pronounced /air/: Stage 4
+ - *err* pronounced /air/: Stage 4
 
 **B. Wrongly Made *error*.** The *OED* doesn't record any instances of *error* as a verb apart from noting that Noah Webster's unabridged dictionary of 1828 includes *error* as a verb meaning "to determine or decide to be erroneous \(a decision of a court\)." That's the *OED*'s rendering. Webster actually wrote: "ERROR, *v.t.* To determine a judgment of court to be erroneous. \[*The use of this verb is not well authorized*.\]" *An American Dictionary of the English Language*, vol. 1 \(1828\) \(s.v. *error*\). Not only was it not well authorized; it seems unattested as well. It has never been a custom in legal usage to say *\*the court of appeals errored the trial court's judgment*. And Webster's successors soon cut the entry.
 

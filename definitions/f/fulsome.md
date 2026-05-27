@@ -10,5 +10,5 @@ The word might justifiably be treated as a skunked term because the loose sense 
 
 ## Language-Change Index
 
-*fulsome* in a flattering sense: Stage 4
+ - *fulsome* in a flattering sense: Stage 4
 

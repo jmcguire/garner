@@ -4,6 +4,6 @@ disparaging \(= slighting, insulting\) for *disconcerting* or *discouraging* is 
 
 ## Language-Change Index
 
-*disparaging* misused for *disconcerting* or *discouraging*: Stage 1
-Current ratio in print \(*discouraging circumstances* vs. *\*disparaging circumstances*\): 73:1
+ - *disparaging* misused for *disconcerting* or *discouraging*: Stage 1
+ - Current ratio in print \(*discouraging circumstances* vs. *\*disparaging circumstances*\): 73:1
 

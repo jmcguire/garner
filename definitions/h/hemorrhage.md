@@ -4,5 +4,5 @@ hemorrhage; **haemorrhage**. *Hemorrhage* \(= an escape of blood from a ruptured
 
 In AmE and BrE alike, *a* \(not *an*\) precedes the word. See **a \(a\)**.
 
-Current ratio in print \(*hemorrhage* vs. *haemorrhage* in World Englishes\): 4:1
+ - Current ratio in print \(*hemorrhage* vs. *haemorrhage* in World Englishes\): 4:1
 

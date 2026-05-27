@@ -14,7 +14,7 @@ As a noun, *pique* denotes a feeling of being annoyed or upset, especially as a 
 
 ## Language-Change Index
 
-*\*peak one's interest* for *pique one's interest*: Stage 1
-Current ratio in print \(*piqued my interest* vs. *\*peaked my interest*\): 12:1
-Current ratio in print \(*fit of pique* vs. \**fit of peak*\): 659:1
+ - *\*peak one's interest* for *pique one's interest*: Stage 1
+ - Current ratio in print \(*piqued my interest* vs. *\*peaked my interest*\): 12:1
+ - Current ratio in print \(*fit of pique* vs. \**fit of peak*\): 659:1
 

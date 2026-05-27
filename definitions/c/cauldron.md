@@ -8,5 +8,5 @@ cauldron; \***caldron**. The first is the preferred spelling in AmE and BrE alik
 
  - "He remained in that competitive *cauldron* for 11 years." Stephen Seplow & Jonathan Storm, "Brandon Tartikoff, TV Wunderkind, Dead at 48," *Record* \(N.J.\), 28 Aug. 1997, at L9.
 
-Current ratio in print \(*cauldron* vs. \**caldron*\): 7:1
+ - Current ratio in print \(*cauldron* vs. \**caldron*\): 7:1
 

@@ -6,5 +6,5 @@ mendacity; **mendicity**; **mendicancy**. *Mendacity*, the most common of these 
 
 \**Mendicacy*, an erroneous by-form that beggars belief, sprang up in the 1880s and has persisted but remained rare.
 
-Current ratio in print \(*mendicancy* vs. \**mendicacy*\): 546:1
+ - Current ratio in print \(*mendicancy* vs. \**mendicacy*\): 546:1
 

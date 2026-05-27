@@ -4,5 +4,5 @@ catalogue; **catalog**. Though librarians have come to use *catalog* with regula
 
 1900 ratio in print \(*catalogue* vs. *catalog*\): 9:1
 
-Current ratio in print \(*catalogue* vs. *catalog*\): 1.8:1
+ - Current ratio in print \(*catalogue* vs. *catalog*\): 1.8:1
 

@@ -4,5 +4,5 @@ on the whole has been a set phrase since the 1600s. Some writers mistakenly make
 
 ## Language-Change Index
 
-*\*on a whole* for *on the whole*: Stage 1
+ - *\*on a whole* for *on the whole*: Stage 1
 

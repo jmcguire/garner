@@ -8,5 +8,5 @@ Like its sibling *while*, it may be used for *although* or *whereas*. But again,
 
 ## Language-Change Index
 
-*whilst* for *while* in AmE: Stage 3
+ - *whilst* for *while* in AmE: Stage 3
 

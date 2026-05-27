@@ -4,7 +4,7 @@ although; **though**. As conjunctions, the words are virtually interchangeable. 
 
 *\*Altho* and *\*tho* are old-fashioned truncated spellings that were at one time very common, but failed to become standard. They should be avoided.
 
-Current ratio in print \(*although* vs. \**altho*\): 994:1
+ - Current ratio in print \(*although* vs. \**altho*\): 994:1
 
-Current ratio in print \(*though* vs. \**tho*\): 206:1
+ - Current ratio in print \(*though* vs. \**tho*\): 206:1
 

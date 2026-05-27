@@ -4,6 +4,6 @@ coolly. So spelled—not *\*cooly*. E.g.: "It's a nicely restrained, *cooly* \[r
 
 ## Language-Change Index
 
-*coolly* misspelled *\*cooly*: Stage 1
-Current ratio in print \(*coolly* vs. \**cooly*\): 80:1
+ - *coolly* misspelled *\*cooly*: Stage 1
+ - Current ratio in print \(*coolly* vs. \**cooly*\): 80:1
 

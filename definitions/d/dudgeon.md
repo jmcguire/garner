@@ -16,6 +16,6 @@ Although the term appears most often after the adjective *high*, it does sometim
 
 ## Language-Change Index
 
-*\*high dungeon* for *high dudgeon*: Stage 1
-Current ratio in print \(*high dudgeon* vs. *\*high dungeon*\): 54:1
+ - *\*high dungeon* for *high dudgeon*: Stage 1
+ - Current ratio in print \(*high dudgeon* vs. *\*high dungeon*\): 54:1
 

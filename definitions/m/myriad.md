@@ -12,8 +12,8 @@ myriad.
 
 But the mere fact that the adjective is handier than the noun doesn't mean the latter is substandard. The noun \(ca. 1555\) has been with us almost 100 years longer than the adjective \(ca. 1654\), and the choice is a question of style, not correctness. Yet in print sources since 1850, the shorter adjectival use has been more frequent.
 
-Current ratio in print \(*myriad reasons* vs. *a myriad of reasons*\): 1.1:1
-Current ratio in print \(*myriad things* vs. *a myriad of things*\): 6:1
+ - Current ratio in print \(*myriad reasons* vs. *a myriad of reasons*\): 1.1:1
+ - Current ratio in print \(*myriad things* vs. *a myriad of things*\): 6:1
 
 **B. As a Plural Noun.** Literally meaning "ten thousand" in Greek, *myriad* has now lost its literal sense in ordinary English. It's therefore an archaism to refer to *\*the myriads* of entrepreneurs in this country.
 

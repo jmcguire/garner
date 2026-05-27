@@ -4,5 +4,5 @@ painstaking \(= diligently careful and tirelessly attentive\), a compound dating
 
 Since the 1940s, a double bobble has occurred with this adjective: people have reinserted the hyphen, and they've misplaced it—forming \**pain-staking*. This misspelling shows just how misunderstood the metaphor sometimes is.
 
-Current ratio in print \(*painstaking* vs. *pains-taking* vs. \**pain-staking*\): 560:5:1
+ - Current ratio in print \(*painstaking* vs. *pains-taking* vs. \**pain-staking*\): 560:5:1
 

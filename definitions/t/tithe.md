@@ -6,5 +6,5 @@ Given that familiarity, *\*ten-percent tithe* is surely a redundancy—e.g.: "Tw
 
 ## Language-Change Index
 
-*tithe* to mean a donation of other than 10% of income: Stage 3
+ - *tithe* to mean a donation of other than 10% of income: Stage 3
 

@@ -22,5 +22,5 @@ Two final points. First, the word is pronounced /**pleth**-ә-rә/, not /plә-**
 
 ## Language-Change Index
 
-*a plethora of* misused to mean "plenty of": Stage 3
+ - *a plethora of* misused to mean "plenty of": Stage 3
 

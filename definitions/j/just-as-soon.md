@@ -10,5 +10,5 @@ just as soon. This idiom is occasionally mangled into the unintelligible malapro
 
 ## Language-Change Index
 
-*\*just assume* for *just as soon*: Stage 1
+ - *\*just assume* for *just as soon*: Stage 1
 

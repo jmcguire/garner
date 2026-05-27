@@ -10,5 +10,5 @@ In the negative, the proper adjective is *unwed* <unwed mothers>. That has been 
 
 ## Language-Change Index
 
-*wed* as past tense for *wedded*: Stage 4 Current ratio in print \(*has wedded* vs. *\*has wed*\): 1.5:1
+ - *wed* as past tense for *wedded*: Stage 4 Current ratio in print \(*has wedded* vs. *\*has wed*\): 1.5:1
 

@@ -6,5 +6,5 @@ An 1823 English treatise records various announcements to be made by a court bai
 
 Despite the predominence of *oyez* in modern print sources, the only known plural is *oyesses*, not \**oyezes* or \**oyezzes*. This anomaly surfaces in the Merriam-Webster dictionaries, which have a one-line entry for the noun \(as opposed to the verb\): "***oyez*** *n.*, *pl* ***oyesses*** . . . \(15c\): a cry of oyez."
 
-Current ratio in print \(*Oyez\!* vs. *\*Oyes\!*\): 29:1
+ - Current ratio in print \(*Oyez\!* vs. *\*Oyes\!*\): 29:1
 

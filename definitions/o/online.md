@@ -8,5 +8,5 @@ online; **on-line**. Although *on-line* \(with the hyphen\) remains common for r
 
 In jargon, the phrase *on line* \(unhyphenated\) has been extended to mean "into service" <the new power plant will be coming on line in June>, and the corresponding adjective is solid <an online power plant>.
 
-Current ratio in print \(*online* vs. *on-line*\): 47:1
+ - Current ratio in print \(*online* vs. *on-line*\): 47:1
 

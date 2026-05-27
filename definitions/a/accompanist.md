@@ -4,5 +4,5 @@ accompanist /ә-**kәm**-pә-nist/ is the standard form, not *\*accompanyist*—
 
 ## Language-Change Index
 
-*accompanist* misspelled *\*accompanyist*: Stage 1 Current ratio in print \(*accompanist* vs. \**accompanyist*\): 44:1
+ - *accompanist* misspelled *\*accompanyist*: Stage 1 Current ratio in print \(*accompanist* vs. \**accompanyist*\): 44:1
 

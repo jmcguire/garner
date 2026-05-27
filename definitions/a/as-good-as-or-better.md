@@ -6,5 +6,5 @@ Many writers, however, mangle their grammar by omitting the second *as* without 
 
 ## Language-Change Index
 
-*\*as good or better than* for *as good as or better than*: Stage 3
+ - *\*as good or better than* for *as good as or better than*: Stage 3
 

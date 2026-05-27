@@ -4,7 +4,7 @@ deal.
 
 **A. Past Tense and Past Participle.** *Deal* makes *dealt*, not *dealed*, but the erroneous form sometimes occurs—e.g.: "Recently, Salerno *dealed* \[read *dealt*\] in secret to get an arena for the Florida Panthers built in the city just south of Oakland Park Boulevard and the Sawgrass Expressway." Rafael Lorente, "Sunrise Slashes Rates in Trash Contract," *Sun-Sentinel* \(Ft. Lauderdale\), 21 Aug. 1996, at 3. The only context in which *dealed* is standard is in the rhyming irreversible binomial *wheeled and dealed*—e.g.: "Big as a linebacker and sometimes brusque as a bully, he *wheeled and dealed* and wined and dined with a swagger." Bob Secter, "New Lifestyle to Begin for Rostenkowski," *Chicago Trib.*, 22 July 1996, at N1. See irregular verbs \(d\).
 
-Current ratio in print \(*has dealt* vs. *\*has dealed*\): 8,405:1
+ - Current ratio in print \(*has dealt* vs. *\*has dealed*\): 8,405:1
 
 **B. *Deal with*; *deal in*.** People in business *deal in* what they buy and sell <he deals in stocks and bonds>, but they *deal with* other people \(but see below\). *Deal* should not be used transitively where *deal in* is intended.
 

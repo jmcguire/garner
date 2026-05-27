@@ -10,7 +10,7 @@ ascendancy; **ascension**. *Ascendancy* \(= a position of dominant control; supr
 
 See **ascent \(a\)**.
 
-Current ratio in print \(*ascendancy* vs. *\*ascendency* vs. *\*ascendance* vs. *\*ascendence*\): 208:73:48:1
+ - Current ratio in print \(*ascendancy* vs. *\*ascendency* vs. *\*ascendance* vs. *\*ascendence*\): 208:73:48:1
 
-Current ratio in print \(*rapid ascension* vs. \**rapid ascendancy*\): 1.9:1
+ - Current ratio in print \(*rapid ascension* vs. \**rapid ascendancy*\): 1.9:1
 

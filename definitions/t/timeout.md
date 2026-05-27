@@ -4,5 +4,5 @@ timeout \(= \[1\] a short break during a sporting competition; \[2\] an imposed 
 
 The plural is *timeouts*, not *\*timesout*. See plurals \(g\).
 
-Current ratio in print \(*timeouts* vs. *time-outs* vs. *time outs*\): 6:4:1
+ - Current ratio in print \(*timeouts* vs. *time-outs* vs. *time outs*\): 6:4:1
 

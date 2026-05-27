@@ -14,5 +14,5 @@ impressive; **impressible**; **impressionable**. *Impressive* = likely to impres
 
 ## Language-Change Index
 
-*impressibly* misused for *impressively*: Stage 1
+ - *impressibly* misused for *impressively*: Stage 1
 

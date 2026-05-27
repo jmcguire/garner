@@ -34,6 +34,6 @@ Moreover, *revenge* can \(and usually does\) function as a noun, whereas *avenge
 
 ## Language-Change Index
 
-*avenge* in the sense "to get revenge on": Stage 2
-Current ratio in print \(*avenge his* vs. *\*avenge him*\): 3:1
+ - *avenge* in the sense "to get revenge on": Stage 2
+ - Current ratio in print \(*avenge his* vs. *\*avenge him*\): 3:1
 

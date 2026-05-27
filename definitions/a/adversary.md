@@ -4,7 +4,7 @@ adversary, adj.; **adversarial**. *Adversary*, which can act as both noun and ad
 
 Though it has only recently made its way into dictionaries, *adversarial* has become fairly common in place of the adjective *adversary*—e.g.: "Our *adversarial*, court-based system of collecting child support creates hate and misunderstanding." Robin Miller, "Day in Court No Solace for Deadbeat Dad," *Baltimore Sun*, 10 Mar. 1995, at A13. This shift in usage occurred mostly during the 1980s. *Adversarial* often connotes animosity <adversarial conferences>, whereas *adversary* has tended to be more neutral and even clinical.
 
-Current ratio in print \(*adversarial relationship* vs. *adversary relationship*\): 14:1
+ - Current ratio in print \(*adversarial relationship* vs. *adversary relationship*\): 14:1
 
-Current ratio in print \(*adversary system* vs. \**adversarial system*\): 1:1.5
+ - Current ratio in print \(*adversary system* vs. \**adversarial system*\): 1:1.5
 

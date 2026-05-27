@@ -4,5 +4,5 @@ revile \(= to assail with vituperative language\) is occasionally misused for *r
 
 ## Language-Change Index
 
-*revile* misused for *repel* or *repulse*: Stage 1
+ - *revile* misused for *repel* or *repulse*: Stage 1
 

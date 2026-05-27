@@ -4,5 +4,5 @@ brazier /**bray**-zhәr/ \(= \[1\] an artisan who works with brass; or \[2\] a m
 
 For a humorous story involving this word, see **brassiere**.
 
-Current ratio in print \(*brazier* vs. \**brasier*\): 30:1
+ - Current ratio in print \(*brazier* vs. \**brasier*\): 30:1
 

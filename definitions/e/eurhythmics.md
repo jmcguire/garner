@@ -10,5 +10,5 @@ Confusingly enough, *eurhythmy* \(with two *h*s\) was once used both in architec
 
 In sum, you might fairly conclude that these terms seem almost willfully calculated to induce, in lexicographers, heart arrhythmia.
 
-Current ratio in print \(*eurhythmics* vs. *eurythmics*\): 3:1
+ - Current ratio in print \(*eurhythmics* vs. *eurythmics*\): 3:1
 

@@ -15,5 +15,5 @@ Even the sense is sometimes mangled. To make *coup de grâce* cruel, bloody, and
 1. *coup de grâce* mispronounced /koo dә **grah**/: Stage 2
 
 2. *\*coup de gras* for *coup de grâce*: Stage 1
-Current ratio in print \(*coup de grâce* vs. *\*coup de gras*\): 42:1
+ - Current ratio in print \(*coup de grâce* vs. *\*coup de gras*\): 42:1
 

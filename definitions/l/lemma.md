@@ -4,5 +4,5 @@ lemma \(= \[1\] a proposition either assumed or proved in establishing a theorem
 
 The verb *lemmatize* \(BrE *lemmatise*\) is stressed on the first syllable, not the second, across World Englishes.
 
-Current ratio in print \(*lemmas* vs. \**lemmata*\): 6:1
+ - Current ratio in print \(*lemmas* vs. \**lemmata*\): 6:1
 

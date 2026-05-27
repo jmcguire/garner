@@ -12,6 +12,6 @@ The erroneous phrasing results from confusing related idioms: one pleads *to* a 
 
 ## Language-Change Index
 
-*\*plead guilty of* for *plead guilty to*: Stage 1
-Current ratio in print \(*plead guilty to* vs. *\*plead guilty of *\): 30:1
+ - *\*plead guilty of* for *plead guilty to*: Stage 1
+ - Current ratio in print \(*plead guilty to* vs. *\*plead guilty of *\): 30:1
 

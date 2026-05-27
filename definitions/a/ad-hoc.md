@@ -12,5 +12,5 @@ Finally, the misspelling \**ad hock*, dating from the 1970s, is a blunder that s
 
 ## Language-Change Index
 
-*ad hoc* misspelled \**ad hock*: Stage 1 Current ratio in print \(*ad hoc* vs. \**ad hock*\): 5,643:1
+ - *ad hoc* misspelled \**ad hock*: Stage 1 Current ratio in print \(*ad hoc* vs. \**ad hock*\): 5,643:1
 

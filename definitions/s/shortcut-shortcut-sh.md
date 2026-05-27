@@ -4,5 +4,5 @@ shortcut > shortcut > shortcut. So inflected. The erroneous past-tense and past-
 
 ## Language-Change Index
 
-*\*shortcutted* for past-tense *shortcut*: Stage 1
+ - *\*shortcutted* for past-tense *shortcut*: Stage 1
 

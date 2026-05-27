@@ -8,5 +8,5 @@ Why, then, doesn't *malaprop* take an asterisk to show that it's invariably infe
 
 For a full discussion of malapropisms, see the following entry. See also word-swapping.
 
-Current ratio in print \(*malapropisms* vs. *\*malaprops*\): 12:1
+ - Current ratio in print \(*malapropisms* vs. *\*malaprops*\): 12:1
 

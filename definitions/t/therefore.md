@@ -14,13 +14,13 @@ therefore.
 
 **C. And *therefor*.** *Therefore* \(stress on first syllable\), an adverbial conjunction, means "for that reason, consequently." It's the usual word. *Therefor* \(stress on last syllable\), adv., & adj., means "for that" or "for it" <he showed charity and was finally rewarded therefor> <the recognition therefor>. Some writers mistake the two terms, especially in law \(where *therefor* appears most frequently\). As Eric Partridge noted, "many quite good writers do not even know of the existence of *therefor*" \(*U&A* at 332\). Maybe that's because it's legal jargon. If the good writers that Partridge mentions start overusing it, they'll risk no longer being called "good."
 
-Current ratio in print \(*in payment therefor* vs. *\*in payment therefore*\): 11:1
+ - Current ratio in print \(*in payment therefor* vs. *\*in payment therefore*\): 11:1
 
 **D. For *thereby*.** *Therefore* shouldn't be confused, as it sometimes is, with *thereby* \(= by that means; in that way\)—e.g.: "The bank recently completed negotiations to offer a student lending package in conjunction with Columbia University in New York, *therefore* \[read *thereby*\] providing student loans to college students at an expensive school." Marian King, "Banks Given More Incentives to Offer Loans for Students," *Sun-Sentinel* \(Ft. Lauderdale\), 1 Jan. 1997, at 14.
 
 ## Language-Change Index
 
-*therefore* misused for *thereby*: Stage 1
+ - *therefore* misused for *thereby*: Stage 1
 
 **E. *\*So therefore*.** See **so \(d\)**.
 

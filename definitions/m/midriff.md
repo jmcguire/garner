@@ -4,5 +4,5 @@ midriff \(= \[1\] the part of someone's body between the chest and the waist; or
 
 Just as interesting, though, is the tendency to misspell the word \**midrift*—e.g. "Both women, while in camera view, were constantly shifting, pulling on their clothes around the *midrift* \[read *midriff*\], and seemed nervous." *U.S. v. Dale*, 44 F.Supp.2d 818, 819 \(E.D. Tex. 1999\). The misspelling might be influenced by false associations with *drift of time* and the gradual collection, in middle age, of body fat in the midsection.
 
-Current ratio in print \(*midriff* vs. \**midrift*\): 690:1
+ - Current ratio in print \(*midriff* vs. \**midrift*\): 690:1
 

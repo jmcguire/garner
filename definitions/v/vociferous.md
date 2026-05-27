@@ -21,11 +21,11 @@ The opposite error is somewhat less common—e.g.:
 ## Language-Change Index
 
 1. *vociferous* misused for *voracious*: Stage 1
-Current ratio in print \(*voracious reader* vs. *\*vociferous reader*\): 172:1
+ - Current ratio in print \(*voracious reader* vs. *\*vociferous reader*\): 172:1
 
 2. *voracious* misused for *vociferous*: Stage 1
 
 **B. And *\*vociferant*.** *Vociferous* \(in the sense given in \(a)) has always (since the 1700s) been the standard term; *\*vociferant* is a needless variant.
 
-Current ratio in print \(*vociferous* vs. *\*vociferant*\): 752:1
+ - Current ratio in print \(*vociferous* vs. *\*vociferant*\): 752:1
 

@@ -18,6 +18,6 @@ As a matter of distribution, perhaps the best summing-up is that of E. Bagby Atw
 
 ## Language-Change Index
 
-*drug* as past tense and past participle of *drag*: Stage 1
-Current ratio in print \(*dragged it out* vs. *\*drug it out*\): 71:1
+ - *drug* as past tense and past participle of *drag*: Stage 1
+ - Current ratio in print \(*dragged it out* vs. *\*drug it out*\): 71:1
 

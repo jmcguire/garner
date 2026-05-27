@@ -6,5 +6,5 @@ Perhaps because of that ambiguity, *franchisor* is about ten times as common as 
 
 ## Language-Change Index
 
-*franchisor*: Stage 5
+ - *franchisor*: Stage 5
 

@@ -13,7 +13,7 @@ Although *simpatico* is an adjective, some err by wielding it as a noun—e.g.: 
 ## Language-Change Index
 
 1. *simpatico* misspelled *\*sympatico*: Stage 1
-Current ratio in print \(*simpatico* vs. \**sympatico*\): 11:1
+ - Current ratio in print \(*simpatico* vs. \**sympatico*\): 11:1
 
 2. *simpatico* used as a noun \(not as an adjective\): Stage 2
 

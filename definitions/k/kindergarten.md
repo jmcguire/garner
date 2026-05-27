@@ -6,5 +6,5 @@ The word may be pronounced /**kin**-dәr-gahrt'n/ or /-gahrd'n/.
 
 ## Language-Change Index
 
-*kindergarten* misspelled *\*kindergarden*: Stage 1
+ - *kindergarten* misspelled *\*kindergarden*: Stage 1
 

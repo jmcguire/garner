@@ -8,5 +8,5 @@ For a common mispronunciation of *comparable*, see pronunciation \(b\).
 
 ## Language-Change Index
 
-*comparative* misused for *comparable*: Stage 1
+ - *comparative* misused for *comparable*: Stage 1
 

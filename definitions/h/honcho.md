@@ -14,5 +14,5 @@ As in the last example quoted, this verbal use is so vague that one can claim to
 
 ## Language-Change Index
 
-*honcho* as a verb: Stage 2
+ - *honcho* as a verb: Stage 2
 

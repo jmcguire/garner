@@ -12,7 +12,7 @@ In 2003, the lexicographers at Merriam-Webster reversed the positions of *chaper
 
 ## Language-Change Index
 
-*chaperon* spelled as *chaperone*: Stage 5
+ - *chaperon* spelled as *chaperone*: Stage 5
 
-Current ratio in print \(*chaperone* vs. *chaperon*\): 4:1
+ - Current ratio in print \(*chaperone* vs. *chaperon*\): 4:1
 

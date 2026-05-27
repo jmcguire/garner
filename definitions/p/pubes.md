@@ -4,5 +4,5 @@ pubes \(= \[1\] a person's external genitals; or \[2\] pubic hair\) traditionall
 
 ## Language-Change Index
 
-*pubes* /**pyoo**-beez/ mispronounced /pyoobz/: Stage 4
+ - *pubes* /**pyoo**-beez/ mispronounced /pyoobz/: Stage 4
 

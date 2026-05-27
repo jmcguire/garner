@@ -6,5 +6,5 @@ Although the first meanings listed for each term are related to each other, the 
 
 ## Language-Change Index
 
-*mall* misused for *maul*: Stage 1
+ - *mall* misused for *maul*: Stage 1
 

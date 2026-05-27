@@ -25,13 +25,13 @@ Otherwise, the form should be avoided in favor of *media*—e.g.:
 ## Language-Change Index
 
 1. *media* as a mass noun: Stage 5
-Current ratio in print \(*The media is* vs. *The media are*\): 1.4:1
+ - Current ratio in print \(*The media is* vs. *The media are*\): 1.4:1
 
 2. *mediums* in reference to spiritualists: Stage 5
 
 3. *\*medias* as a plural for *media*: Stage 1
-Current ratio in print \(*print media* vs. *\*print medias*\): 3,435:1
+ - Current ratio in print \(*print media* vs. *\*print medias*\): 3,435:1
 
 4. *mediums* misused for *media*: Stage 3
-Current ratio in print \(*print media* vs. *\*print mediums*\): 446:1
+ - Current ratio in print \(*print media* vs. *\*print mediums*\): 446:1
 

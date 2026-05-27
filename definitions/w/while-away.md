@@ -6,6 +6,6 @@ while away; \*wile away. The phrasal verb *while away* \(= to spend \[time\] idl
 
 ## Language-Change Index
 
-*\*wile away* for *while away*: Stage 1
-Current ratio in print \(*whiling away* vs. *\*wiling away*\): 18:1
+ - *\*wile away* for *while away*: Stage 1
+ - Current ratio in print \(*whiling away* vs. *\*wiling away*\): 18:1
 

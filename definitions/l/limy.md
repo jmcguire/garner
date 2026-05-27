@@ -4,5 +4,5 @@ limy \(= \[1\] of, relating to, involving, or consisting of lime or limestone; o
 
 But *Limey* \(often capitalized\) is an Americanism denoting an Englishman. Dating from World War I, this term is a shortening of *lime-juicer*—a reference to the practice of serving lime juice on British ships to prevent scurvy among the crews. But the linguistic evidence of the *OED* suggests that Australians were using the term in reference to English immigrants as far back as the 1880s.
 
-Current ratio in print \(*limy soils* vs. *limey soils*\): 1.6:1
+ - Current ratio in print \(*limy soils* vs. *limey soils*\): 1.6:1
 

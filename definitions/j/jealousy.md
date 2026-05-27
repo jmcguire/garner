@@ -6,5 +6,5 @@ Admittedly, many people apply *jealous* and *jealousy* to situations in which *e
 
 ## Language-Change Index
 
-*jealousy* for *envy* \(of things, not love interests\): Stage 3
+ - *jealousy* for *envy* \(of things, not love interests\): Stage 3
 

@@ -20,5 +20,5 @@ See irregular verbs.
 
 ## Language-Change Index
 
-Current ratio in print \(*besought* vs. *\*beseeched*\): 6:1
+ - Current ratio in print \(*besought* vs. *\*beseeched*\): 6:1
 

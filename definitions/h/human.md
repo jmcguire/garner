@@ -4,6 +4,6 @@ human, n. Purists long objected to *human* as a shortened form of *human being*,
 
 ## Language-Change Index
 
-*human* as a noun equivalent to *human being*: Stage 5
-Current ratio in print \(*humans* vs. *human beings*\): 3:1
+ - *human* as a noun equivalent to *human being*: Stage 5
+ - Current ratio in print \(*humans* vs. *human beings*\): 3:1
 

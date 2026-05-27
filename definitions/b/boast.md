@@ -4,5 +4,5 @@ boast, vb. In the sense "to have \(something desirable\)," this word is objectio
 
 ## Language-Change Index
 
-*boast* as a transitive verb <Albuquerque boasts the largest airport in New Mexico>: Stage 5
+ - *boast* as a transitive verb <Albuquerque boasts the largest airport in New Mexico>: Stage 5
 

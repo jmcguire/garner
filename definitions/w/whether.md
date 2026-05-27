@@ -24,7 +24,7 @@ See **as to \(b\)** & **question whether**.
 
 ## Language-Change Index
 
-*as to whether* for *whether*: Stage 2
+ - *as to whether* for *whether*: Stage 2
 
 **C. *Of whether*.** Most traditionally, *whether* directly follows the noun whose dilemma it denotes: *decision whether*, *issue whether*, *question whether*. \(See **question whether** & **issue \(b\).\)** But *regardless*, as an adverb, has traditionally taken *of*: *regardless of whether*. See **regardless of whether**.
 
@@ -32,9 +32,9 @@ Up to the mid-20th century, the phrasing *issue whether* was more common than *i
 
 ## Language-Change Index
 
-*issue of whether* for *issue whether*: Stage 5 *question of whether* for *question whether*: Stage 5
-Current ratio in print \(*issue of whether* vs. *issue whether*\): 9:1
-Current ratio in print \(*question of whether* vs. *question whether*\): 1.3:1
+ - *issue of whether* for *issue whether*: Stage 5 *question of whether* for *question whether*: Stage 5
+ - Current ratio in print \(*issue of whether* vs. *issue whether*\): 9:1
+ - Current ratio in print \(*question of whether* vs. *question whether*\): 1.3:1
 
 **D. And *if*.** See **if \(a\)**.
 

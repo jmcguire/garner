@@ -12,5 +12,5 @@ The more usual shortened form is sometimes misspelled *\*ad hominum*—e.g.:
 
 ## Language-Change Index
 
-*ad hominem* misspelled *\*ad hominum*: Stage 1 Current ratio in print \(*ad hominem* vs. \**ad hominum*\): 103:1
+ - *ad hominem* misspelled *\*ad hominum*: Stage 1 Current ratio in print \(*ad hominem* vs. \**ad hominum*\): 103:1
 

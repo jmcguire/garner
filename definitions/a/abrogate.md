@@ -22,5 +22,5 @@ See **arrogate**.
 
 ## Language-Change Index
 
-*abrogate* misused for *arrogate*: Stage 1 Current ratio in print \(*arrogate to itself* vs. *\*abrogate to itself*\): 36:1
+ - *abrogate* misused for *arrogate*: Stage 1 Current ratio in print \(*arrogate to itself* vs. *\*abrogate to itself*\): 36:1
 

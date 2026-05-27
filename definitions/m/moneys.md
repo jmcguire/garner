@@ -4,5 +4,5 @@ moneys; **\*monies**. The first is the more logical and the editorially preferre
 
 But why do we need a plural at all? Why doesn't the collective noun *money* suffice? The answer lies in idiom. While *money* generally functions in collective senses <we made a lot of money on that deal>, *moneys* is frequently used, especially in financial and legal contexts, to denote "discrete sums of money" or "funds" <many federal and state moneys were budgeted for the disaster relief>.
 
-Current ratio in print \(*moneys* vs. \**monies*\): 1:2.1
+ - Current ratio in print \(*moneys* vs. \**monies*\): 1:2.1
 

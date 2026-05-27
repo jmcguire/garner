@@ -12,5 +12,5 @@ The word is typically pronounced /**oh**-nәr-әs/ \(like *owner us*\).
 
 ## Language-Change Index
 
-*onerous* misused for *heinous*: Stage 1
+ - *onerous* misused for *heinous*: Stage 1
 

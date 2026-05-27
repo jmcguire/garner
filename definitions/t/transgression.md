@@ -4,5 +4,5 @@ transgression for *transition* is a malapropism—e.g.: "Ms. Ash said the laser 
 
 ## Language-Change Index
 
-*transgression* misused for *transition*: Stage 1
+ - *transgression* misused for *transition*: Stage 1
 

@@ -14,5 +14,5 @@ But when the sense is "one \(no matter which\)," and the noun that follows *must
 
 ## Language-Change Index
 
-*best of any* misused to mean *best of all*: Stage 4
+ - *best of any* misused to mean *best of all*: Stage 4
 

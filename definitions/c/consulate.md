@@ -6,5 +6,5 @@ Because *consulate* most often means "the office or official premises of a consu
 
 ## Language-Change Index
 
-*\*office of the consulate* for *consulate*: Stage 1
+ - *\*office of the consulate* for *consulate*: Stage 1
 

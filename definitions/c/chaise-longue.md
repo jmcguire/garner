@@ -6,7 +6,7 @@ Many people commit the embarrassing error of saying or writing *\*chaise lounge*
 
 ## Language-Change Index
 
-*\*chaise lounge* for *chaise longue*: Stage 3
+ - *\*chaise lounge* for *chaise longue*: Stage 3
 
-Current ratio in print \(*chaise longue* vs. *\*chaise lounge*\): 1.6:1
+ - Current ratio in print \(*chaise longue* vs. *\*chaise lounge*\): 1.6:1
 

@@ -14,5 +14,5 @@ But even when *desirous* is correct, it usually appears in the wordy phrase *\(b
 
 ## Language-Change Index
 
-*desirous* misused for *desirable*: Stage 1
+ - *desirous* misused for *desirable*: Stage 1
 

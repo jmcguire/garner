@@ -4,5 +4,5 @@ lengthy. Throughout the 1800s, many BrE speakers considered this word an ugly Am
 
 ## Language-Change Index
 
-*lengthy* for *long* in senses not referring to distance: Stage 5
+ - *lengthy* for *long* in senses not referring to distance: Stage 5
 

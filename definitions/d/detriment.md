@@ -4,6 +4,6 @@ detriment. The correct idiom is *to the detriment of*. But occasionally it's man
 
 ## Language-Change Index
 
-*\*at the detriment of* for *to the detriment of*: Stage 1
-Current ratio in print \(*to the detriment of* vs. *\*at the detriment of *\): 58:1
+ - *\*at the detriment of* for *to the detriment of*: Stage 1
+ - Current ratio in print \(*to the detriment of* vs. *\*at the detriment of *\): 58:1
 

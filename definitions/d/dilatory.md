@@ -10,5 +10,5 @@ The pronunciation is /**dil**-ә-tor-ee/.
 
 ## Language-Change Index
 
-*dilatory* misused for *deleterious*: Stage 1
+ - *dilatory* misused for *deleterious*: Stage 1
 

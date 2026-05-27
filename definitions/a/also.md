@@ -6,5 +6,5 @@ For more on *also*, see **too \(a\)**.
 
 ## Language-Change Index
 
-*also* as a conjunction: Stage 2
+ - *also* as a conjunction: Stage 2
 

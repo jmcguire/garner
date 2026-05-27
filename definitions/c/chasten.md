@@ -4,5 +4,5 @@ chasten; **chastise**. These words are close in meaning, but distinct. *Chasten*
 
 *Chastise* is so spelled; *\*chastize* is incorrect but not uncommon. See -ize.
 
-Current ratio in print \(*chastise* vs. *\*chastize*\): 134:1
+ - Current ratio in print \(*chastise* vs. *\*chastize*\): 134:1
 

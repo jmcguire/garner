@@ -8,5 +8,5 @@ In 2012, in a public forum, I asked Andrew Card—President George W. Bush's chi
 
 ## Language-Change Index
 
-*nuclear* mispronounced /**noo**-kyә-lәr/: Stage 2
+ - *nuclear* mispronounced /**noo**-kyә-lәr/: Stage 2
 

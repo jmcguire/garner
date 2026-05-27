@@ -4,5 +4,5 @@ nursing one's wounds. Occasionally, by malapropism, the phrase is mangled into *
 
 ## Language-Change Index
 
-*\*nurturing wounds* for *nursing wounds*: Stage 1
+ - *\*nurturing wounds* for *nursing wounds*: Stage 1
 

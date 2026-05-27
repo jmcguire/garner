@@ -4,6 +4,6 @@ blame, v.t. In the best usage, one *blames* a person; one does not, properly, *b
 
 ## Language-Change Index
 
-*blame* \[the act or outcome\] *on* \[the actor or cause\] for *blame* \[the actor or cause\] *for* \[the act or outcome\]: Stage 3
-Current ratio in print \(*blamed him for it* vs. *blamed it on him*\): 4:1
+ - *blame* \[the act or outcome\] *on* \[the actor or cause\] for *blame* \[the actor or cause\] *for* \[the act or outcome\]: Stage 3
+ - Current ratio in print \(*blamed him for it* vs. *blamed it on him*\): 4:1
 

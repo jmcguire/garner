@@ -20,6 +20,6 @@ See plurals \(b\). Cf. **species**.
 
 ## Language-Change Index
 
-*genuses* for *genera*: Stage 3
-Current ratio in print \(*genera* vs. *genuses*\): 401:1
+ - *genuses* for *genera*: Stage 3
+ - Current ratio in print \(*genera* vs. *genuses*\): 401:1
 

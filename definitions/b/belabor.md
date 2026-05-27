@@ -16,7 +16,7 @@ In BrE, of course, the spellings are *labour* and *belabour*.
 
 ## Language-Change Index
 
-*belabor an argument* for *labor an argument*: Stage 5
-Current ratio in print \(*belabor a point* vs. *labor a point*\): 5:1
-Current ratio in print \(*belabored the obvious* vs. *labored the obvious*\): 3:1
+ - *belabor an argument* for *labor an argument*: Stage 5
+ - Current ratio in print \(*belabor a point* vs. *labor a point*\): 5:1
+ - Current ratio in print \(*belabored the obvious* vs. *labored the obvious*\): 3:1
 

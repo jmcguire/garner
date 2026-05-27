@@ -26,6 +26,6 @@ Unfortunately, the form *self-deprecating*—despite its mistaken origins—is n
 
 ## Language-Change Index
 
-*self-deprecating* for *self-depreciating*: Stage 5
-Current ratio in print \(*self-deprecating* vs. *self-depreciating*\): 25:1
+ - *self-deprecating* for *self-depreciating*: Stage 5
+ - Current ratio in print \(*self-deprecating* vs. *self-depreciating*\): 25:1
 

@@ -10,9 +10,9 @@ combustible. So spelled—not *\*combustable*. \(See -able \(a\).) *\*Combustibl
 
 ## Language-Change Index
 
-Current ratio in print \(*combustible* vs. *\*combustable*\): 1,157:1
+ - Current ratio in print \(*combustible* vs. *\*combustable*\): 1,157:1
 
-*\*combustible engine* for *combustion engine*: Stage 1
+ - *\*combustible engine* for *combustion engine*: Stage 1
 
-Current ratio in print \(*combustion engine* vs. *\*combustible engine*\): 335:1
+ - Current ratio in print \(*combustion engine* vs. *\*combustible engine*\): 335:1
 

@@ -4,5 +4,5 @@ gracile /**gras**-әl/ = slender, physically slight <gracile vines> <long, graci
 
 ## Language-Change Index
 
-*gracile* misused for *graceful*: Stage 1
+ - *gracile* misused for *graceful*: Stage 1
 

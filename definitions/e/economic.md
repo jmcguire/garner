@@ -14,5 +14,5 @@ But the phrase *economic ruin* is acceptable when the reference is to a geograph
 
 ## Language-Change Index
 
-*economic* misused for *financial*: Stage 3
+ - *economic* misused for *financial*: Stage 3
 

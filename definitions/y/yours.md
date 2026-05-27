@@ -19,7 +19,7 @@ See possessives \(c\), \(e\).
 ## Language-Change Index
 
 1. *\*your's* for *yours*: Stage 1
-Current ratio in print \(*letter of yours* vs. *\*letter of your's*\): 105:1
+ - Current ratio in print \(*letter of yours* vs. *\*letter of your's*\): 105:1
 
 2. *\*your's* for *your*: Stage 1
 

@@ -4,6 +4,6 @@ constitutionalist; **\*constitutionist**. The standard form of the term is *cons
 
 ## Language-Change Index
 
-*\*constitutionist* for *constitutionalist*: Stage 1
-Current ratio in print \(*constitutionalist* vs. *\*constitutionist*\) 450:1
+ - *\*constitutionist* for *constitutionalist*: Stage 1
+ - Current ratio in print \(*constitutionalist* vs. *\*constitutionist*\) 450:1
 

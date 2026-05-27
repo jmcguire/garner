@@ -12,5 +12,5 @@ Originally, it is true, *coarse* and *course* were the same word. But the differ
 
 ## Language-Change Index
 
-*course* misused for *coarse*: Stage 1
+ - *course* misused for *coarse*: Stage 1
 

@@ -18,5 +18,5 @@ Given the rarity of *insipient*, it's a little surprising to see it used correct
 
 ## Language-Change Index
 
-*insipient* misused for *incipient*: Stage 1
+ - *insipient* misused for *incipient*: Stage 1
 

@@ -6,7 +6,7 @@ cohabit, the verb for *cohabitation*, is analogous to *inhabit*—e.g.: "To coha
 
 ## Language-Change Index
 
-*\*cohabitate* for *cohabit*: Stage 2
+ - *\*cohabitate* for *cohabit*: Stage 2
 
-Current ratio in print \(*cohabiting* vs. *\*cohabitating*\): 6:1
+ - Current ratio in print \(*cohabiting* vs. *\*cohabitating*\): 6:1
 

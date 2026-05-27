@@ -5,7 +5,7 @@ conferencing. Although the *OED* records *conference* as a \(rare\) verb from 18
 ## Language-Change Index
 
 1. *conference* as a verb: Stage 4
-Current ratio in print \(*conferring* vs. *conferencing*\): 2.5:1
+ - Current ratio in print \(*conferring* vs. *conferencing*\): 2.5:1
 
 2. *conference* in the compounds *teleconferencing* and *videoconferencing*: Stage 5
 

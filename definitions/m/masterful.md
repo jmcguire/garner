@@ -8,7 +8,7 @@ Oddly enough, though many today think of *masterly* as an unusual word, it was m
 
 ## Language-Change Index
 
-*masterful* misused for *masterly*: Stage 4 1920 ratio in print \(*masterly performance* vs. *masterful performance*\): 9:1
-Current ratio in print \(*masterly performance* vs. *masterful performance*\): 1:1.8 1930 ratio in print \(*masterly job* vs. *masterful job*\): 1.5:1
-Current ratio in print \(the reverse: *masterful job* vs. *masterly job*\): 15:1
+ - *masterful* misused for *masterly*: Stage 4 1920 ratio in print \(*masterly performance* vs. *masterful performance*\): 9:1
+ - Current ratio in print \(*masterly performance* vs. *masterful performance*\): 1:1.8 1930 ratio in print \(*masterly job* vs. *masterful job*\): 1.5:1
+ - Current ratio in print \(the reverse: *masterful job* vs. *masterly job*\): 15:1
 

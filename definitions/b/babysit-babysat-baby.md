@@ -10,6 +10,6 @@ Cf. **sit**.
 
 ## Language-Change Index
 
-*\*babysitted* for *babysat*: Stage 1
-Current ratio in print \(*babysat* vs. *\*babysitted*\): 268:1
+ - *\*babysitted* for *babysat*: Stage 1
+ - Current ratio in print \(*babysat* vs. *\*babysitted*\): 268:1
 

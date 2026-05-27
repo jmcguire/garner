@@ -6,6 +6,6 @@ The long form *\*delimitate*, a back-formation from the noun *delimitation*, is 
 
 ## Language-Change Index
 
-*\*delimitate* for *delimit*: Stage 1
-Current ratio in print \(*delimit* vs. *\*delimitate*\): 40:1
+ - *\*delimitate* for *delimit*: Stage 1
+ - Current ratio in print \(*delimit* vs. *\*delimitate*\): 40:1
 

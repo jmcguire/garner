@@ -18,6 +18,6 @@ The antonym of *persona non grata* is the less common *persona grata* \(= a pers
 
 ## Language-Change Index
 
-*\*persona non gratis* for *persona non grata*: Stage 1
-Current ratio in print \(*persona non grata* vs. *\*persona non gratis*\): 216:1
+ - *\*persona non gratis* for *persona non grata*: Stage 1
+ - Current ratio in print \(*persona non grata* vs. *\*persona non gratis*\): 216:1
 

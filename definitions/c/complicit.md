@@ -10,5 +10,5 @@ complicit; \***complicitous**. Although both adjectives date from the mid-1800s,
 
 Because *complicit* is at least as well formed as its alternative and has now established itself as the more common form, it should be accepted as standard. *\*Complicitous* should be regarded as a needless variant.
 
-Current ratio in print \(*complicit* vs. \**complicitous*\): 47:1
+ - Current ratio in print \(*complicit* vs. \**complicitous*\): 47:1
 

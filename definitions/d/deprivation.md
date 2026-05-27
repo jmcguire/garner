@@ -8,6 +8,6 @@ For the confusingly similar *depravation*, see **depravity**.
 
 ## Language-Change Index
 
-*\*deprival* for *deprivation*: Stage 1
-Current ratio in print \(*deprivation* vs. *\*deprival*\): 415:1
+ - *\*deprival* for *deprivation*: Stage 1
+ - Current ratio in print \(*deprivation* vs. *\*deprival*\): 415:1
 

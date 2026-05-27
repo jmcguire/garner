@@ -20,6 +20,6 @@ Although most other compound words starting with *under-* are closed, until rece
 
 ## Language-Change Index
 
-*\*under weigh* for *underway*: Stage 2
-Current ratio in print \(*get underway* vs. *\*get under weigh*\): 12:1
+ - *\*under weigh* for *underway*: Stage 2
+ - Current ratio in print \(*get underway* vs. *\*get under weigh*\): 12:1
 

@@ -4,5 +4,5 @@ per diem, a latinism, means "for or by the day" <per diem fee>. Sometimes it mak
 
 As a noun \(an Americanism\), *per diem* has designated a daily stipend, especially for travel and living expenses, since the early 1800s. It is firmly established and well accepted. Cf. **per annum**.
 
-Current ratio in print \(*dollars a day* vs. *dollars per day* vs. *dollars per diem*\): 67:16:1
+ - Current ratio in print \(*dollars a day* vs. *dollars per day* vs. *dollars per diem*\): 67:16:1
 

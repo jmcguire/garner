@@ -4,7 +4,7 @@ children, the plural of *child*, makes the possessive form *children's*. The for
 
 ## Language-Change Index
 
-*\*childrens'* for *children's*: Stage 1
+ - *\*childrens'* for *children's*: Stage 1
 
-Current ratio in print \(*children's* vs. *\*childrens'*\): 439:1
+ - Current ratio in print \(*children's* vs. *\*childrens'*\): 439:1
 

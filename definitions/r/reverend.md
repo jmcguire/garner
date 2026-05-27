@@ -4,5 +4,5 @@ reverend. In denoting a member of the clergy, *reverend* is traditionally consid
 
 ## Language-Change Index
 
-*Reverend Jackson* for *the Reverend Jackson*: Stage 5
+ - *Reverend Jackson* for *the Reverend Jackson*: Stage 5
 

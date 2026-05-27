@@ -8,5 +8,5 @@ suffrage \(= \[1\] the right to vote; or \[2\] a short prayer\) is occasionally 
 
  - "To better oppose the increasingly oppressive apartheid laws, \[Helen\] Suzman and 10 others broke away to form the Progressive Party—though she initially did not support universal, one-man-one-vote *sufferage* \[read *suffrage*\]." Denis Goldberg, "Appraisal: Suzman's Courage Failed Her," *The Forward*, 16 Jan. 2009, at 4.
 
-Current ratio in print \(*suffrage* vs. \**sufferage*\): 2,400:1
+ - Current ratio in print \(*suffrage* vs. \**sufferage*\): 2,400:1
 

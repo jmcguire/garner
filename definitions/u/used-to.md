@@ -10,7 +10,7 @@ used to.
 
 Cf. **supposed to**.
 
-Current ratio in print \(*We used to have* vs. *\*We use to have*\): 149:1
+ - Current ratio in print \(*We used to have* vs. *\*We use to have*\): 149:1
 
 **B. *Didn't used to*; *didn't use to*.** The negative form—whichever you choose—doesn't occur nearly as often as the positive. *Did not use to* has been in constant use throughout the English-speaking world since about 1675. *Did not used to* didn't come into common use till the early 20th century—and didn't surpass the traditional form in AmE till the mid-1970s. In BrE, *did not use to* remains predominant, but the two forms have vied closely since the mid-1970s.
 
@@ -32,8 +32,8 @@ But remember the standard form that can save you headaches: *never used to*. It 
 
 ## Language-Change Index
 
-*didn't used to*: Stage 5
-Current ratio in print \(*didn't used to be* vs. *didn't use to be*\): 2.5:1
+ - *didn't used to*: Stage 5
+ - Current ratio in print \(*didn't used to be* vs. *didn't use to be*\): 2.5:1
 
 **C. Contracted Form of *used not to*.** In Irish speech, the formal phrase *used not to* is sometimes contracted \(rather awkwardly\) to *usen't to* or *\*usedn't to*—e.g.:
 
@@ -45,5 +45,5 @@ Current ratio in print \(*didn't used to be* vs. *didn't use to be*\): 2.5:1
 
 Both forms date from the early 1800s. *Usen't to* has consistently predominated over *\*usedn't to* since the late 1920s.
 
-Current ratio in print \(*usen't to* vs. *\*usedn't to* in BrE\): 4:1
+ - Current ratio in print \(*usen't to* vs. *\*usedn't to* in BrE\): 4:1
 

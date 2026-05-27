@@ -6,5 +6,5 @@ accusatory; **accusatorial; accusative**. *Accusatory* \(= accusing; of the natu
 
 ## Language-Change Index
 
-*accusative* misused for *accusatory*: Stage 1
+ - *accusative* misused for *accusatory*: Stage 1
 

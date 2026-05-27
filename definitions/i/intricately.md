@@ -10,5 +10,5 @@ intricately \(= in a detailed or complicated way\) is sometimes misused for *int
 
 ## Language-Change Index
 
-*intricately* misused for *intimately*: Stage 1
+ - *intricately* misused for *intimately*: Stage 1
 

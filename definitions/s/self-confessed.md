@@ -4,6 +4,6 @@
 
 ## Language-Change Index
 
-*\*self-confessed* for *confessed*: Stage 4
-Current ratio in print \(*a confessed spy* vs. *\*a self-confessed spy*\): 1:1.4
+ - *\*self-confessed* for *confessed*: Stage 4
+ - Current ratio in print \(*a confessed spy* vs. *\*a self-confessed spy*\): 1:1.4
 

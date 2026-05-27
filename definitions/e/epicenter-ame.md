@@ -14,5 +14,5 @@ If the word ever seems wrong, that's probably because no strife or upheaval seem
 
 ## Language-Change Index
 
-*epicenter* used in metaphorical senses to denote the center of devastation: Stage 5 2018 ratio in print \(*epicenter of the pandemic* vs. *center of the pandemic*\): 7:1
+ - *epicenter* used in metaphorical senses to denote the center of devastation: Stage 5 2018 ratio in print \(*epicenter of the pandemic* vs. *center of the pandemic*\): 7:1
 

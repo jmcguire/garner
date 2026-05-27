@@ -10,6 +10,6 @@ See dialect.
 
 ## Language-Change Index
 
-*\*suspicioned* for *suspected*: Stage 1
-Current ratio in print \(*he suspected* vs. *\*he suspicioned*\): 418:1
+ - *\*suspicioned* for *suspected*: Stage 1
+ - Current ratio in print \(*he suspected* vs. *\*he suspicioned*\): 418:1
 

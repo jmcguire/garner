@@ -12,5 +12,5 @@ Typically, when the term is used correctly it will accompany a misleading word o
 
 ## Language-Change Index
 
-*misnomer* misused for *misconception* or *misunderstanding*: Stage 1
+ - *misnomer* misused for *misconception* or *misunderstanding*: Stage 1
 

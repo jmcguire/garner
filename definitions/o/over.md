@@ -12,9 +12,9 @@ In 2014 even the Associated Press came around, finally sanctioning *over* "in al
 
 ## Language-Change Index
 
-*over* in the sense "more than": Stage 5
+ - *over* in the sense "more than": Stage 5
 
-Current ratio in print \(*more than a hundred* vs. *over a hundred*\): 1:1.03
+ - Current ratio in print \(*more than a hundred* vs. *over a hundred*\): 1:1.03
 
 **B. *Over-* as a Combining Form.** See **overly**.
 

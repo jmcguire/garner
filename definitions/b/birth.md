@@ -4,5 +4,5 @@ birth was used with some frequency in the Middle Ages as a verb. It long fell in
 
 ## Language-Change Index
 
-*birth* as a verb: Stage 5
+ - *birth* as a verb: Stage 5
 

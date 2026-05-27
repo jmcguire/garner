@@ -18,6 +18,6 @@ It's wrong, by the way, to make *cyclops* itself into a plural—e.g.: "Other hi
 
 ## Language-Change Index
 
-*cyclops* as a false plural for *cyclopses* or *cyclopes*: Stage 2
-Current ratio in print \(*the cyclopes* vs. *the cyclopses*\): 8:1
+ - *cyclops* as a false plural for *cyclopses* or *cyclopes*: Stage 2
+ - Current ratio in print \(*the cyclopes* vs. *the cyclopses*\): 8:1
 

@@ -10,6 +10,6 @@
 
 ## Language-Change Index
 
-*\*separate between* for *separate from* or *distinguish between*: Stage 1
-Current ratio in print \(*distinguish between* vs. *\*separate between*\): 216:1
+ - *\*separate between* for *separate from* or *distinguish between*: Stage 1
+ - Current ratio in print \(*distinguish between* vs. *\*separate between*\): 216:1
 

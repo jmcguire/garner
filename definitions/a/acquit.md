@@ -4,5 +4,5 @@ acquit. This verb once took either *of* or *from*, but since the early 1700s the
 
 ## Language-Change Index
 
-*\*acquit from* for *acquit of*: Stage 1 Current ratio in print \(*acquitted of* vs. *\*acquitted from*\): 25:1
+ - *\*acquit from* for *acquit of*: Stage 1 Current ratio in print \(*acquitted of* vs. *\*acquitted from*\): 25:1
 

@@ -33,8 +33,8 @@ See irregular verbs \(d\).
 ## Language-Change Index
 
 1. *\*swoll* as a past form of *swell*: Stage 1
-Current ratio in print \(*swelled up* vs. *\*swoll up*\): 202:1
+ - Current ratio in print \(*swelled up* vs. *\*swoll up*\): 202:1
 
 2. *\*swole* as a past form of *swell*: Stage 1
-Current ratio in print \(*swelled up* vs. *\*swole up*\): 48:1
+ - Current ratio in print \(*swelled up* vs. *\*swole up*\): 48:1
 

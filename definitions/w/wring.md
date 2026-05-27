@@ -31,12 +31,12 @@ See irregular verbs.
 ## Language-Change Index
 
 1. *rung* misused for *wrung*: Stage 1
-Current ratio in print \(*wrung its neck* vs. *\*rung its neck*\): 80:1
+ - Current ratio in print \(*wrung its neck* vs. *\*rung its neck*\): 80:1
 
 2. *\*wringed* for *wrung*: Stage 1
 
 3. *\*wrang* for *wrung*: Stage 1
-Current ratio in print \(*wrung his hands* vs. *\*wrang his hands*\): 357:1
+ - Current ratio in print \(*wrung his hands* vs. *\*wrang his hands*\): 357:1
 
 **B. *Hand-wringing*.** This phrase, in common use since the 1960s, is sometimes mangled into *\*hand-ringing*—e.g.:
 
@@ -46,6 +46,6 @@ Current ratio in print \(*wrung his hands* vs. *\*wrang his hands*\): 357:1
 
 ## Language-Change Index
 
-*\*hand-ringing* for *hand-wringing*: Stage 1
-Current ratio in print \(*hand-wringing* vs. *\*hand-ringing*\): 327:1
+ - *\*hand-ringing* for *hand-wringing*: Stage 1
+ - Current ratio in print \(*hand-wringing* vs. *\*hand-ringing*\): 327:1
 

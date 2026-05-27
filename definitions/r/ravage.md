@@ -18,6 +18,6 @@ Still, the word *ravishing* \(= captivating, enchanting\) is generally considere
 
 ## Language-Change Index
 
-*ravish* misused for *ravage*: Stage 1
-Current ratio in print \(*the ravages of* vs. *\*the ravishes of *\): 439:1
+ - *ravish* misused for *ravage*: Stage 1
+ - Current ratio in print \(*the ravages of* vs. *\*the ravishes of *\): 439:1
 

@@ -12,6 +12,6 @@ Although the traditional pronunciation was /in-**kog**-ni-toh/, the standard tod
 
 ## Language-Change Index
 
-*incognito* misused for *incommunicado*: Stage 1
-Current ratio in print \(*held incommunicado* vs. *\*held incognito*\): 54:1
+ - *incognito* misused for *incommunicado*: Stage 1
+ - Current ratio in print \(*held incommunicado* vs. *\*held incognito*\): 54:1
 

@@ -8,6 +8,6 @@ crummy; **crumby**. When the meaning is "worthless" or "inferior," the spelling 
 
 ## Language-Change Index
 
-*crumby* misused for *crummy*: Stage 1
-Current ratio in print \(*crummy apartment* vs. *\*crumby apartment*\): 72:1
+ - *crumby* misused for *crummy*: Stage 1
+ - Current ratio in print \(*crummy apartment* vs. *\*crumby apartment*\): 72:1
 

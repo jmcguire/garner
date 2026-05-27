@@ -35,6 +35,6 @@ Today, *oxymora* looks pedantic—e.g.:
 
 ## Language-Change Index
 
-*oxymorons* as the plural for *oxymoron*: Stage 5
-Current ratio in print \(*oxymorons* vs. *oxymora*\): 2.5:1
+ - *oxymorons* as the plural for *oxymoron*: Stage 5
+ - Current ratio in print \(*oxymorons* vs. *oxymora*\): 2.5:1
 

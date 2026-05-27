@@ -16,5 +16,5 @@ If you're serious about golf and writing, stick to the noun uses of *golf*. That
 
 The *l* is pronounced in this word, preferably: /golf/ or /gawlf/—not /gof/ or /gawf/.
 
-Current ratio in print \(*played golf* vs. *golfed*\): 4:1
+ - Current ratio in print \(*played golf* vs. *golfed*\): 4:1
 

@@ -8,5 +8,5 @@ depart. This is a formal word typical of airlinese and officialese. In tradition
 
  - "Term limits may force them out of the City Council, but not all the members—or their staffs—will be *departing* city government." Frankie Edozien, "Councilors Get New Lease on Political Life," *N.Y. Post*, 20 Dec. 2001, at 20.
 
-Current ratio in print \(*departed from the* vs. *departed the*\): 1.6:1
+ - Current ratio in print \(*departed from the* vs. *departed the*\): 1.6:1
 

@@ -12,5 +12,5 @@ Of course, the gerund *parenting* implies a verb, but that form \(dating from 19
 
 ## Language-Change Index
 
-*parenting* in the sense "child-rearing": Stage 4
+ - *parenting* in the sense "child-rearing": Stage 4
 

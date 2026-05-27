@@ -12,6 +12,6 @@ Some writers, though, misunderstand the phrase and write *\*no-holes-barred*—e
 
 ## Language-Change Index
 
-*\*no holes barred* for *no holds barred*: Stage 1
-Current ratio in print \(*no holds barred* vs. *\*no holes barred*\): 88:1
+ - *\*no holes barred* for *no holds barred*: Stage 1
+ - Current ratio in print \(*no holds barred* vs. *\*no holes barred*\): 88:1
 

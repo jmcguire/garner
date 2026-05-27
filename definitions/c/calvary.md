@@ -20,5 +20,5 @@ Cf. **irrelevant** & **regime**.
 
 ## Language-Change Index
 
-*calvary* misused for *cavalry*: Stage 1 Current ratio in print \(*cavalry charge* vs. \**calvary charge*\): 515:1 Current ratio in print \(*cavalry division* vs. \**calvary division*\): 1,520:1
+ - *calvary* misused for *cavalry*: Stage 1 Current ratio in print \(*cavalry charge* vs. \**calvary charge*\): 515:1 Current ratio in print \(*cavalry division* vs. \**calvary division*\): 1,520:1
 

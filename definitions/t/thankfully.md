@@ -16,5 +16,5 @@ In the mid-1960s, the word came into frequent use in the sense "thank goodness; 
 
 ## Language-Change Index
 
-*thankfully* as a sentence adverb meaning "thank goodness": Stage 5
+ - *thankfully* as a sentence adverb meaning "thank goodness": Stage 5
 

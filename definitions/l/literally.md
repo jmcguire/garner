@@ -30,5 +30,5 @@ Finally, the adverb *literally* is about words, not feelings. It makes no sense 
 
 ## Language-Change Index
 
-*literally* for *figuratively* <we're literally toast>: Stage 3
+ - *literally* for *figuratively* <we're literally toast>: Stage 3
 

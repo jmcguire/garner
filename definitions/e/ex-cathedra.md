@@ -4,5 +4,5 @@ ex cathedra; **ex officio**; **\*ex officiis**. *Ex cathedra* = \(1\) adv., from
 
 *Ex officio* \(= by virtue of one's office\) may likewise be both adjective and adverb <the chairman is an ex officio member of all standing committees> <the chairman became a member ex officio>. A widespread misconception has it that by definition, an ex officio member of a deliberative body may not vote. That isn't necessarily so; nothing forbids a body from allowing an ex officio member to vote. But it is a common parliamentary practice. *Ex officio* should be neither hyphenated nor spelled as one word. The phrase is pronounced /**eks** ә-**fish**-ee-oh/ or \(rarely\) /**eks** ә-**fik**-ee-oh/. *\*Ex officiis* is a needless variant.
 
-Current ratio in print \(*ex officio* vs. *\*ex officiis*\): 1,225:1
+ - Current ratio in print \(*ex officio* vs. *\*ex officiis*\): 1,225:1
 

@@ -4,6 +4,6 @@ diminution; **\*diminishment**. The latter is a needless variant. *Diminution* \
 
 ## Language-Change Index
 
-*diminution* misspelled *\*dimunition*: Stage 1
-Current ratio in print \(*diminution* vs. \**dimunition*\): 362:1
+ - *diminution* misspelled *\*dimunition*: Stage 1
+ - Current ratio in print \(*diminution* vs. \**dimunition*\): 362:1
 

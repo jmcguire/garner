@@ -6,5 +6,5 @@ Sometimes the more pejorative word \(*disinformation*\) is misused for the less 
 
 ## Language-Change Index
 
-*disinformation* misused for *misinformation*: Stage 1
+ - *disinformation* misused for *misinformation*: Stage 1
 

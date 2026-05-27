@@ -4,5 +4,5 @@ pedestal \(= a base or foundation\) is sometimes, in a wild error, misused for *
 
 ## Language-Change Index
 
-*pedestal* misused for *pestle*: Stage 1
+ - *pedestal* misused for *pestle*: Stage 1
 

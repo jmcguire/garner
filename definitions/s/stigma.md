@@ -4,7 +4,7 @@ stigma.
 
 **A. Plural.** *Stigma* /**stig**-mә/ can be pluralized in two ways: *stigmas* and *stigmata* /stig-**mah**-tә/. The English plural \(*-mas*\) is preferable in most contexts. But *stigmata* carries the specialized sense "bodily marks resembling the crucifixion wounds of Jesus Christ." In this sense the word is sometimes pronounced /**stig**-mә-tә/, after the Greek and Latin. See plurals \(b\).
 
-Current ratio in print \(*stigmata* vs. *stigmas*\): 1.04:1
+ - Current ratio in print \(*stigmata* vs. *stigmas*\): 1.04:1
 
 **B. And *stigmatism*.** *Stigmatism* \(= \[1\] the absence of astigmatism; or \[2\] the condition of being afflicted with unhealthy spots on the skin, esp. spots that bleed\) is frequently confounded with *stigma* \(= a mark of disgrace\)—e.g.:
 
@@ -18,6 +18,6 @@ For further misuse of **stigmatism**, see **astigmatism**.
 
 ## Language-Change Index
 
-*stigmatism* misused for *stigma*: Stage 1
-Current ratio in print \(*social stigma* vs. \**social stigmatism*\): 534:1
+ - *stigmatism* misused for *stigma*: Stage 1
+ - Current ratio in print \(*social stigma* vs. \**social stigmatism*\): 534:1
 

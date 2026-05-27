@@ -74,7 +74,7 @@ The same is true of multiplication: both *four times four is sixteen* and *four 
 
  - "Study after study *has* shown that in heterosexual couples, perpetrators are overwhelmingly men and victims are overwhelmingly women." Kathleen Waits, "Domestic Violence," in *The Oxford Companion to American Law* 222 \(2002\).
 
-Current ratio in print \(*Study after study has* vs. \**Study after study have*\): 53:1
+ - Current ratio in print \(*Study after study has* vs. \**Study after study have*\): 53:1
 
 **I. *More than one is*; *\*more than one are*.** The phrase *more than one* generally takes a singular verb, not a plural one <more than one was there>—even though the sense is undeniably plural. If the noun is supplied before the verb, the construction is necessarily singular <more than one woman was there>. But without the noun, the construction becomes a little trickier. H.W. Fowler insisted on the singular \(*FMEU1* at 363\), and most professional writers use it—e.g.:
 
@@ -98,7 +98,7 @@ Apart from that one situation—or when the number given is greater than one <mo
 
  - "Some of the emotional elements affecting a decision may be: What sort of mood is the person in at the time; the relationship between the individuals when more than one *are* \[read *is*\] involved in the decision." David Crook, "Why Do People Buy?," *Glass Age*, 1 May 1997, at 16.
 
-Current ratio in print \(*More than one was* vs. \**More than one were*\): 11:1
+ - Current ratio in print \(*More than one was* vs. \**More than one were*\): 11:1
 
 **J. Plural Subject Intended to Denote Area or Statistic.** Some writers fall into the habit of implicitly prefacing plural nouns with understood words such as *the idea of*, *the field of*, or even *the fact of*. To be sure, some of these wordings are perfectly idiomatic <mathematics is where my talent lies>.
 
@@ -112,7 +112,7 @@ Sometimes a plural noun is intended as a singular statistic, but the grammar is 
 
 **L. Decades.** Decades customarily take plural verbs: *the 1930s were a tough time in America*. The following is unidiomatic: "The 1950s *is* \[read *are*\] remembered more for *its* \[read *their*\] sociology than for *its* \[read *their*\] politics." R.Z. Sheppard, "Golden Oldies," *Time*, 19 July 1993, at 61.
 
-Current ratio in print \(*The 1960s were* vs. \**The 1960s was*\): 1.6:1
+ - Current ratio in print \(*The 1960s were* vs. \**The 1960s was*\): 1.6:1
 
 **M. An Unusual Plural.** By convention—and through the principle of synesis—a singular abstract noun may take a plural verb if it's modified by two or more adjectives referring to different varieties of things denoted by that noun. E.g.:
 

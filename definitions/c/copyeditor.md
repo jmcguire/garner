@@ -10,7 +10,7 @@ copyeditor; **copyediting**; **copyedit**, vb. The one-word form of the verb *co
 
 The usual BrE equivalent of *copyeditor* is *sub-editor* or *subeditor*.
 
-Current ratio in print \(*copyedit* vs. *copy edit* vs. *copy-edit*\): 3:1.4:1
-Current ratio in print \(*copy editor* vs. *copyeditor* vs. *copy-editor*\): 5:3:1
-Current ratio in print \(*sub-editor* vs. *subeditor* in BrE\): 2.2:1
+ - Current ratio in print \(*copyedit* vs. *copy edit* vs. *copy-edit*\): 3:1.4:1
+ - Current ratio in print \(*copy editor* vs. *copyeditor* vs. *copy-editor*\): 5:3:1
+ - Current ratio in print \(*sub-editor* vs. *subeditor* in BrE\): 2.2:1
 

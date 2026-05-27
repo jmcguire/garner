@@ -8,7 +8,7 @@ In the mid-20th century it was commonly held that *so . . . as* is preferable to
 
 ## Language-Change Index
 
-*as . . . as* for *so . . . as* in negative statements: Stage 5
+ - *as . . . as* for *so . . . as* in negative statements: Stage 5
 
 **B. First *as* Omitted.** It is fairly common to see this phrase with the first *as* left off <they were thick as thieves>. The construction is a casualism that is often employed with clichés. It is unobjectionable in informal speech and writing, but avoid it in formal contexts.
 
@@ -18,12 +18,12 @@ In the mid-20th century it was commonly held that *so . . . as* is preferable to
 
 ## Language-Change Index
 
-*\*not as good of a* for *not as good a*: Stage 2
-Current ratio in print \(*not as good a* vs. *\*not as good of a*: 12:1
+ - *\*not as good of a* for *not as good a*: Stage 2
+ - Current ratio in print \(*not as good a* vs. *\*not as good of a*: 12:1
 
 **E. *As . . . than*.** *Than* is sometimes misused for the second *as*—e.g.: "A Roper Starch poll says that 24 percent of consumers—twice *as* many *than* \[read *as*\] in 1987—say they never go to malls." Allison Lucas, "The Fall of the Mall," *Sales & Marketing Mgmt.*, 1 Apr. 1996, at 13. \(But it would be *twice more than*.\) See swapping horses.
 
 ## Language-Change Index
 
-*\*as . . . than* misused for *as . . . as*: Stage 1
+ - *\*as . . . than* misused for *as . . . as*: Stage 1
 

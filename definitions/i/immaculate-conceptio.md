@@ -12,5 +12,5 @@ One writer gamely corrected his error: "I implied that the birth of Jesus was th
 
 ## Language-Change Index
 
-*immaculate conception* in reference to Jesus: Stage 2
+ - *immaculate conception* in reference to Jesus: Stage 2
 

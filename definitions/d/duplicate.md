@@ -12,5 +12,5 @@ Since the late 1800s, American and British legal writers have latched onto the w
 
  - "Attorney Michael McDermott, who is representing Officer Gregory Haffensteiner, contends the official misconduct count in the indictment is *‘duplicitous'* because it lumps the charges against the men together instead of charging the officers individually." Paul Nelson, "Schenectady Cops Seek Dismissal of Charges," *Times Union* \(Albany\), 12 Nov. 2008, at D6.
 
-Current ratio in print \(*duplicative* vs. *\*duplicatory*\): 212:1
+ - Current ratio in print \(*duplicative* vs. *\*duplicatory*\): 212:1
 

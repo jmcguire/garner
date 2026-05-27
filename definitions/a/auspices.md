@@ -12,5 +12,5 @@ See **aegis**.
 
 ## Language-Change Index
 
-*under the auspices of* misused for *in accordance with*: Stage 1
+ - *under the auspices of* misused for *in accordance with*: Stage 1
 

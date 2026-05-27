@@ -10,6 +10,6 @@ thesaurus \(= a book or online resource that supplies synonyms\) has long formed
 
 ## Language-Change Index
 
-*thesauruses*: Stage 5
-Current ratio in print \(*thesauri* vs. *thesauruses*\): 3:1
+ - *thesauruses*: Stage 5
+ - Current ratio in print \(*thesauri* vs. *thesauruses*\): 3:1
 

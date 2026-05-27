@@ -8,5 +8,5 @@ diseased; **deceased**. The first describes a body that is racked with illness, 
 
 ## Language-Change Index
 
-*decease* misused for *disease*: Stage 1
+ - *decease* misused for *disease*: Stage 1
 

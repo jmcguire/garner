@@ -4,5 +4,5 @@ pig in a blanket \(= a small sausage wrapped and cooked in a dough pastry\), an 
 
 But in the 1880s and 1890s, a dish called *little pigs in blankets* was fairly popular in the U.S. It consisted of oysters wrapped in thin slices of fat bacon and fried.
 
-Current ratio in print \(*pigs in a blanket* vs. *pigs in blankets*\): 1.4:1
+ - Current ratio in print \(*pigs in a blanket* vs. *pigs in blankets*\): 1.4:1
 

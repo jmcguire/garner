@@ -27,10 +27,10 @@ Nor, finally, is it right to use that same nonword when *disbursement* is the in
 ## Language-Change Index
 
 1. *disburse* misused for *disperse*: Stage 1
-Current ratio in print \(*disperse the crowd* vs. *\*disburse the crowd*\): 68:1
+ - Current ratio in print \(*disperse the crowd* vs. *\*disburse the crowd*\): 68:1
 
 2. *\*dispersement* for *dispersal*: Stage 1
-Current ratio in print \(*dispersal* vs. *\*dispersement*\): 463:1
+ - Current ratio in print \(*dispersal* vs. *\*dispersement*\): 463:1
 
 3. *\*dispersement* for *disbursement*: Stage 1
 

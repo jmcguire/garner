@@ -6,5 +6,5 @@ The singular and plural forms are pronounced identically: /**fayt** ә-kom-**ple
 
 By the way, since the mid-1960s the misspelling \**fate accompli* has occasionally appeared—a sort of visual malapropism.
 
-Current ratio in print \(*fait accompli* vs. \**fate accompli*\): 876:1
+ - Current ratio in print \(*fait accompli* vs. \**fate accompli*\): 876:1
 

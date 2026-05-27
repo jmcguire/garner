@@ -20,6 +20,6 @@ Yet *disinterested* is frequently used \(or, in traditionalists' eyes, misused\)
 
 ## Language-Change Index
 
-*disinterested* misused for *uninterested*: Stage 4
-Current ratio in print \(*uninterested children* vs. *disinterested children*\): 1:1.2
+ - *disinterested* misused for *uninterested*: Stage 4
+ - Current ratio in print \(*uninterested children* vs. *disinterested children*\): 1:1.2
 

@@ -4,5 +4,5 @@ allegedly /ә-**lej**-id-lee/ does not mean "in an alleged manner," as it would 
 
 ## Language-Change Index
 
-*allegedly*: Stage 5
+ - *allegedly*: Stage 5
 

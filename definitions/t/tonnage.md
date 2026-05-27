@@ -4,5 +4,5 @@ tonnage \(= \[1\] the total number of tons that something weighs; \[2\] the size
 
 In BrE, *ton* is officially spelled *tonne* \(originally a French spelling\) whenever possible to denote a metric ton of 1,000 kilograms. In the U.S., a *ton* is 2,000 pounds; in Great Britain, a *ton* is legally 2,240 pounds. A *tonne* \(or metric ton\) is 2,204.6 pounds.
 
-Current ratio in print \(*tonnage* vs. \**tunnage*\): 245:1
+ - Current ratio in print \(*tonnage* vs. \**tunnage*\): 245:1
 

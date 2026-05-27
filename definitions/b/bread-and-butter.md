@@ -10,5 +10,5 @@ bread and butter. This construction is most commonly considered a collective nou
 
 A plural verb for this phrase \(which appears in print much less often\) tends to seem pedantic—e.g.: "Nation didn't quite throw in the towel on live music . . . , but its *bread and butter are* \[read *is*\] the dance parties that fill the place Wednesday through Saturday." Eric Brace, "Some Things That Went Bump in the Nightwatch," *Wash. Post*, 29 Dec. 2000, at T5. See subject–verb agreement \(d\).
 
-Current ratio in print \(*their bread and butter is* vs. *their bread and butter are*\): 6:1
+ - Current ratio in print \(*their bread and butter is* vs. *their bread and butter are*\): 6:1
 

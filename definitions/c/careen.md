@@ -18,7 +18,7 @@ The new use of *careen* may also have been influenced by the word *carom* \(= to
 
 ## Language-Change Index
 
-*careen* in the sense "to move swervingly or lurchingly": Stage 5
+ - *careen* in the sense "to move swervingly or lurchingly": Stage 5
 
-Current ratio in print \(*careened out of control* vs. *careered out of control*\): 5:1
+ - Current ratio in print \(*careened out of control* vs. *careered out of control*\): 5:1
 

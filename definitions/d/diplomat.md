@@ -8,5 +8,5 @@ diplomat; **\*diplomatist**. Although the longer form predominated in 19th-centu
 
  - "John's widowed mother Hilda—daughter of the *diplomatist* \[read *diplomat*\] Sir Maurice de Bunsen—went on to marry Major General Sir Guy Salisbury-Jones, marshal of the diplomatic corps." "John Yerburgh" \(obit.\), *Daily Telegraph*, 9 July 2014, at 29.
 
-Current ratio in print \(*diplomat* vs. \**diplomatist*\): 10:1
+ - Current ratio in print \(*diplomat* vs. \**diplomatist*\): 10:1
 

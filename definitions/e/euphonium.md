@@ -6,5 +6,5 @@ The word *euphonia*, though not recorded in many dictionaries, refers to a kind 
 
 ## Language-Change Index
 
-*euphonia* used for *euphoniums*: Stage 1
+ - *euphonia* used for *euphoniums*: Stage 1
 

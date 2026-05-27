@@ -10,5 +10,5 @@ viz. is an abbreviation of the Latin word *videlicet* \(fr. *videre* "to see" \+
 
 The abbreviation raises three questions. First, how does one derive *viz.* from *videlicet*? The final *z* in the abbreviation represents the medieval Latin symbol of contraction for *et* or *-et* \(*OED*\). Second, how does one pronounce *viz*.? Preferably by saying "namely." But if you want to say the Latin term, it's /vi-**del**-ә-sit/. Third, how do you punctuate it? As with *e.g.* and *i.e.*, the abbreviation is customarily set off from the rest of the sentence by a pair of commas \(or, when it begins a sentence or a parenthetical expression, by one comma\). See **e.g**. & **i.e**.
 
-Current ratio in print \(*namely* vs. *viz.*\): 9:1
+ - Current ratio in print \(*namely* vs. *viz.*\): 9:1
 

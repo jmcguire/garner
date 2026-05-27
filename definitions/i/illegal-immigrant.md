@@ -14,5 +14,5 @@ So the terminology is shifting. Big data tells us that as of 2008, *illegal alie
 
 By 2019, the landscape had shifted considerably—and *illegal alien* had plummeted in frequency. These political and terminological struggles are yet to be resolved.
 
-Current ratio in print \(*illegal immigrant* vs. *undocumented immigrant* vs. *illegal alien* vs. *undocumented alien*\): 13:10:9:1
+ - Current ratio in print \(*illegal immigrant* vs. *undocumented immigrant* vs. *illegal alien* vs. *undocumented alien*\): 13:10:9:1
 

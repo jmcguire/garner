@@ -4,5 +4,5 @@ maidenhood; **maidenhead**; **\*maidhood**. Although these old-fashioned terms c
 
 In the 1700s, *maidenhead* was the most common of these terms. In the 1800s and 1900s, *maidenhood* grew in frequency and popularity. But by 1950 it had begun to sound quaint, and it dropped in frequency of use. Today, all three sound distinctly old-fashioned.
 
-Current ratio in print \(*maidenhood* vs. *maidenhead* vs. \**maidhood*\): 29:23:1
+ - Current ratio in print \(*maidenhood* vs. *maidenhead* vs. \**maidhood*\): 29:23:1
 

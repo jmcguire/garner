@@ -6,5 +6,5 @@ This may have been one of Nicholson's pet peeves, since no other usage commentat
 
 *All the time* is more polished phrasing than the unidiomatic *\*all of the time*. See **all \(a\)**.
 
-Current ratio in print \(*all the time* vs. *\*all of the time*\): 33:1
+ - Current ratio in print \(*all the time* vs. *\*all of the time*\): 33:1
 

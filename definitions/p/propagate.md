@@ -4,5 +4,5 @@ propagate \(= to reproduce or extend\) is occasionally confused with *promulgate
 
 ## Language-Change Index
 
-*propagate* misused for *promulgate*: Stage 1
+ - *propagate* misused for *promulgate*: Stage 1
 

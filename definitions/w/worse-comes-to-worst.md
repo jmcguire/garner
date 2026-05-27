@@ -12,5 +12,5 @@ Cf. **\*least worst**.
 
 A related idiom, *from worse to worst*, likewise denotes even further deterioration in an already bad situation. You might use it if push comes to shove.
 
-Current ratio in print \(*worse comes to worst* vs. *worst comes to worst* in World Englishes\): 1.1:1
+ - Current ratio in print \(*worse comes to worst* vs. *worst comes to worst* in World Englishes\): 1.1:1
 

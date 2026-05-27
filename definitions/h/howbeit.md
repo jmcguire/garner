@@ -12,5 +12,5 @@ Cf. **albeit**.
 
 ## Language-Change Index
 
-*howbeit* for *though*: Stage 2
+ - *howbeit* for *though*: Stage 2
 

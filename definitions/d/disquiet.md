@@ -4,6 +4,6 @@ disquiet; **\*disquieten**. The standard verb is *disquiet* \(= to bother or dis
 
 ## Language-Change Index
 
-*\*disquieten* for *disquiet*: Stage 1
-Current ratio in print \(*disquieted* vs. *\*disquietened*\): 696:1
+ - *\*disquieten* for *disquiet*: Stage 1
+ - Current ratio in print \(*disquieted* vs. *\*disquietened*\): 696:1
 

@@ -16,7 +16,7 @@ The corresponding noun is *extolment*. A chiefly AmE variant is \**extollment*.
 
 ## Language-Change Index
 
-*extol* misused for *condemn* or *decry*: Stage 1
-Current ratio in print \(*to extol* vs. \**to extoll*\): 14:1
-Current ratio in print \(*extolment* vs. \**extollment*\): 151:1
+ - *extol* misused for *condemn* or *decry*: Stage 1
+ - Current ratio in print \(*to extol* vs. \**to extoll*\): 14:1
+ - Current ratio in print \(*extolment* vs. \**extollment*\): 151:1
 

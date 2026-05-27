@@ -6,5 +6,5 @@ Although the adverbial sense, usual today, is traditionally personal and physica
 
 The pedantic objection that pigs don't willingly carry anything on their backs is the literalism of a tedious prig.
 
-Current ratio in print \(*piggyback* vs. *pick-a-back* vs. *pickaback* vs. *pick-back*\): 4,260:144:80:1
+ - Current ratio in print \(*piggyback* vs. *pick-a-back* vs. *pickaback* vs. *pick-back*\): 4,260:144:80:1
 

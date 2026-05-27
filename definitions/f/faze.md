@@ -13,11 +13,11 @@ The opposite error \(*faze* for *phase*\) also occurs, but more rarely—e.g.: "
 ## Language-Change Index
 
 1. *phase* misused for *faze*: Stage 2
-Current ratio in print \(*didn't faze him* vs. *\*didn't phase him*\): 20:1
+ - Current ratio in print \(*didn't faze him* vs. *\*didn't phase him*\): 20:1
 
 2. *unphased* for *unfazed*: Stage 1
-Current ratio in print \(*unfazed by* vs. *\*unphased by*\): 32:1
+ - Current ratio in print \(*unfazed by* vs. *\*unphased by*\): 32:1
 
 3. *faze* misused for *phase*: Stage 1
-Current ratio in print \(*being phased out* vs. *\*being fazed out*\): 929:1
+ - Current ratio in print \(*being phased out* vs. *\*being fazed out*\): 929:1
 

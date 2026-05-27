@@ -10,7 +10,7 @@ The same confusion exists with *navel-gazing* \(omphaloskepsis\), which since th
 
 ## Language-Change Index
 
-*\*naval orange* for *navel orange*: Stage 1
-Current ratio in print \(*navel orange* vs. *\*naval orange*\): 27:1
-Current ratio in print \(*navel-gazing* vs. *navel gazing* vs. \**naval gazing* vs. \**naval-gazing*\): 34:13:1.2:1
+ - *\*naval orange* for *navel orange*: Stage 1
+ - Current ratio in print \(*navel orange* vs. *\*naval orange*\): 27:1
+ - Current ratio in print \(*navel-gazing* vs. *navel gazing* vs. \**naval gazing* vs. \**naval-gazing*\): 34:13:1.2:1
 

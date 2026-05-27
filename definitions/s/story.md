@@ -4,5 +4,5 @@ story; **storey**. For the floor or level of a building, *story* is AmE and *sto
 
 Across World Englishes, the spelling *story* predominates in this floor-of-a-building sense.
 
-Current ratio in print \(*room on the second story* vs. *room on the second storey*\): 3:1
+ - Current ratio in print \(*room on the second story* vs. *room on the second storey*\): 3:1
 

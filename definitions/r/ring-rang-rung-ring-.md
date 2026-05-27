@@ -25,8 +25,8 @@ But it does appear in American sources—e.g.: "Abdin \(25–2–3\) got up at \
 ## Language-Change Index
 
 1. *rung* misused for simple-past *rang*: Stage 1
-Current ratio in print \(*he rang* vs. *\*he rung*\): 30:1
+ - Current ratio in print \(*he rang* vs. *\*he rung*\): 30:1
 
 2. *rang* misused for past-participial *rung*: Stage 1
-Current ratio in print \(*had rung* vs. *\*had rang*\): 42:1
+ - Current ratio in print \(*had rung* vs. *\*had rang*\): 42:1
 

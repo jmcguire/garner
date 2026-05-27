@@ -12,5 +12,5 @@ See phrasal verbs.
 
 ## Language-Change Index
 
-*\*catch on fire* for *catch fire*: Stage 3 Current ratio in print \(*catch fire* vs. \**catch on fire*\): 6:1
+ - *\*catch on fire* for *catch fire*: Stage 3 Current ratio in print \(*catch fire* vs. \**catch on fire*\): 6:1
 

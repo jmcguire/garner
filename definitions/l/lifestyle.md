@@ -4,5 +4,5 @@ lifestyle. The word is recorded in the modern sense from around 1915 \(though or
 
 ## Language-Change Index
 
-*lifestyle*: Stage 5
+ - *lifestyle*: Stage 5
 

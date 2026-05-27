@@ -6,5 +6,5 @@ In 1965, an academician polled about 100 college students in New York, only a qu
 
 A look at relative frequencies in 2003 suggested that in journalistic sources, the version with the superfluous *to* outnumbered the one without it by a 3:1 ratio. Even *Newsweek* editors had adopted the preposition: "Old-time carpet-bombing *laid waste to* great swaths of territory." John Barry & Evan Thomas, "The Fog of Battle," *Newsweek*, 30 Sept. 2002, at 36. It looked as if the new idiom was laying waste the old one—that is, laying waste *to* the old one. But by 2019 a more extensive linguistic corpus showed that the traditional transitive version remains a close contender.
 
-Current ratio in print \(*laid waste the city* vs. *laid waste to the city*\): 1:1.3
+ - Current ratio in print \(*laid waste the city* vs. *laid waste to the city*\): 1:1.3
 

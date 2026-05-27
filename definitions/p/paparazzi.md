@@ -12,5 +12,5 @@ On 31 August 1997, the day Princess Diana died after a car crash while being cha
 
 ## Language-Change Index
 
-*\*paparazzis* for the plural *paparazzi*: Stage 1
+ - *\*paparazzis* for the plural *paparazzi*: Stage 1
 

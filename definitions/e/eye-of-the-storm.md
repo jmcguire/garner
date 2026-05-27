@@ -6,5 +6,5 @@ But often, the sense is just the opposite, denoting a state of chaos at the cent
 
 ## Language-Change Index
 
-*eye of the storm* misused to mean "center of controversy": Stage 1
+ - *eye of the storm* misused to mean "center of controversy": Stage 1
 

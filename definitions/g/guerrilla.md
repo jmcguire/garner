@@ -4,6 +4,6 @@ guerrilla \(Sp. for "raiding party"\) = a member of a small band of military fig
 
 The malapropism *\*gorilla forces* occasionally surfaces.
 
-Current ratio in print \(*guerrilla* vs *\*guerilla*\): 5:1
-Current ratio in print \(*guerrilla warfare* vs. *\*gorilla warfare*\): 367:1
+ - Current ratio in print \(*guerrilla* vs *\*guerilla*\): 5:1
+ - Current ratio in print \(*guerrilla warfare* vs. *\*gorilla warfare*\): 367:1
 

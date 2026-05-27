@@ -10,6 +10,6 @@ Cf. **bumptious** & **rumbustious**.
 
 ## Language-Change Index
 
-*rambunctious* misspelled *\*rambunctuous*: Stage 1
-Current ratio in print \(*rambunctious* vs. \**rambunctuous*\): 1,178:1
+ - *rambunctious* misspelled *\*rambunctuous*: Stage 1
+ - Current ratio in print \(*rambunctious* vs. \**rambunctuous*\): 1,178:1
 

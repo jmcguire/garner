@@ -4,5 +4,5 @@ inure; **\*enure**. The first is the standard spelling. *Inure* = \(1\) to take 
 
 For the misuse of *inhere* for *inure*, see **inhere \(b\)**.
 
-Current ratio in print \(*inured* vs. *\*enured*\): 54:1
+ - Current ratio in print \(*inured* vs. *\*enured*\): 54:1
 

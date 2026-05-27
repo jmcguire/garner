@@ -8,11 +8,11 @@ But some writers have been misled by their smattering of Latin: perhaps they hav
 
 *\*Recission* and *\*rescision* are common misspellings resulting from combinations of the other forms.
 
-Current ratio in print \(*rescission* vs. \**recision* vs. \**recission* vs. \**rescision*\): 895:45:7:1
+ - Current ratio in print \(*rescission* vs. \**recision* vs. \**recission* vs. \**rescision*\): 895:45:7:1
 
 **B. Pronunciation.** The sound of the *-ss-* in *rescission* is like that in *precision*, not that in *permission*. This is one of very few English words in which the *-ss*- has the sound /zh/ instead of /sh/. Two others are *abscission* and *fission* \(commonly in AmE—but also pronounced /sh/\). See **fission**.
 
 **C. And *\*rescindment*.** This is yet another needless variant of *rescission*. It flourished for a brief period in the late 1700s. See \(a\).
 
-Current ratio in print \(*rescission* vs. \**rescindment*\): 118:1
+ - Current ratio in print \(*rescission* vs. \**rescindment*\): 118:1
 

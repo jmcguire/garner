@@ -10,6 +10,6 @@ indisputably \(= unquestionably\) is the usual word, not *\*indisputedly*, which
 
 ## Language-Change Index
 
-*\*indisputedly* for *indisputably* or *undisputedly*: Stage 1
-Current ratio in print \(*indisputably* vs. *\*indisputedly*\): 548:1
+ - *\*indisputedly* for *indisputably* or *undisputedly*: Stage 1
+ - Current ratio in print \(*indisputably* vs. *\*indisputedly*\): 548:1
 

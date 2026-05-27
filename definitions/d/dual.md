@@ -12,6 +12,6 @@ Of course, *duel* is a noun that originally meant "a formal combat between two p
 
 ## Language-Change Index
 
-*duel* misused for *dual*: Stage 1
-Current ratio in print \(*dual nature* vs. *\*duel nature*\): 424:1
+ - *duel* misused for *dual*: Stage 1
+ - Current ratio in print \(*dual nature* vs. *\*duel nature*\): 424:1
 

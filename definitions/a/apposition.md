@@ -4,5 +4,5 @@ apposition \(= the grammatical relation between two words or phrases that stand 
 
 ## Language-Change Index
 
-*apposition* misused for *opposition*: Stage 1
+ - *apposition* misused for *opposition*: Stage 1
 

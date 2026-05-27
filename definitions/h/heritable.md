@@ -4,6 +4,6 @@ heritable; **inheritable**; **hereditary**. As between the first two—both mean
 
 *Hereditary* = \(1\) descending by inheritance from generation to generation <hereditary privileges customary in European societies>; or \(2\) transmitted genetically from parent to offspring <fat under the eyelids is hereditary>. Although *\*an hereditary* was once common, since the 1930s *a hereditary* has predominated in AmE and BrE alike. See **a \(a\)**.
 
-Current ratio in print \(*a hereditary* vs. *\*an hereditary* in World Englishes\): 3:1
-Current ratio in print \(*a hereditary* vs. *\*an hereditary* in AmE\): 8:1
+ - Current ratio in print \(*a hereditary* vs. *\*an hereditary* in World Englishes\): 3:1
+ - Current ratio in print \(*a hereditary* vs. *\*an hereditary* in AmE\): 8:1
 

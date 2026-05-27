@@ -4,5 +4,5 @@ shovel pass; **\*shuffle pass**. The words *shuffle* and *shovel* cause confusio
 
 ## Language-Change Index
 
-*\*shuffle pass* for *shovel pass*: Stage 1
+ - *\*shuffle pass* for *shovel pass*: Stage 1
 

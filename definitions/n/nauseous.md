@@ -12,7 +12,7 @@ But other writers have spread the peccadillo, especially since the late 20th cen
 
 ## Language-Change Index
 
-*nauseous* misused for *nauseated*: Stage 4 1940 ratio in print \(*felt nauseated* vs. *felt nauseous*\): 16:1
-Current ratio in print \(*felt nauseated* vs. *felt nauseous*\): 1:2
-Current ratio in print \(*I am nauseated* vs. *I am nauseous*\): 2:1
+ - *nauseous* misused for *nauseated*: Stage 4 1940 ratio in print \(*felt nauseated* vs. *felt nauseous*\): 16:1
+ - Current ratio in print \(*felt nauseated* vs. *felt nauseous*\): 1:2
+ - Current ratio in print \(*I am nauseated* vs. *I am nauseous*\): 2:1
 

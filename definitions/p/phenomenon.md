@@ -25,17 +25,17 @@ Surprisingly, the word is often misspelled *\*phenomenum*, especially in BrE—e
 ## Language-Change Index
 
 1. *phenomena* as a singular: Stage 2
-Current ratio in print \(*a rare phenomenon* vs. *\*a rare phenomena*\): 181:1
+ - Current ratio in print \(*a rare phenomenon* vs. *\*a rare phenomena*\): 181:1
 
 2. *phenomenon* misspelled *\*phenomenum*: Stage 1
-Current ratio in print \(*phenomenon* vs. \**phenomenum*\): 31,602:1
+ - Current ratio in print \(*phenomenon* vs. \**phenomenum*\): 31,602:1
 
 **B. As a Plural.** Conversely, the singular *phenomenon* is sometimes mistakenly used as a plural—e.g.: "These irregularities could explain several *phenomenon* \[read *phenomena*\] in the earth including the well-known jerkiness in the planet's rotational rate." George Alexander, "Cat Scans Used to Explore the Earth," *N.Y. Times*, 16 Dec. 1986, at C3. Cf. **criterion** & **media**.
 
 ## Language-Change Index
 
-*phenomenon* as false plural for *phenomena*: Stage 1
-Current ratio in print \(*two phenomena are* vs. *\*two phenomenon are*\): 109:1
+ - *phenomenon* as false plural for *phenomena*: Stage 1
+ - Current ratio in print \(*two phenomena are* vs. *\*two phenomenon are*\): 109:1
 
 **C. And *phenomenons*, *phenom\(s\)*.** Even though *phenomena* is the accepted plural, some people erroneously write *phenomenons*—e.g.:
 

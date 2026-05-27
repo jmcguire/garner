@@ -4,5 +4,5 @@ Halloween, a contracted form of *All Hallow Even*, is so spelled. *\*Hallowe'en*
 
 Since the mid-1940s, the empty-looking misspelling \**Holloween* has occasionally appeared. But it's comparatively rare.
 
-Current ratio in print \(*Halloween* vs. *\*Hallowe'en* vs. \**Holloween*\): 2,414:117:1
+ - Current ratio in print \(*Halloween* vs. *\*Hallowe'en* vs. \**Holloween*\): 2,414:117:1
 

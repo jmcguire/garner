@@ -10,7 +10,7 @@ cinematographic; \***cinemagraphic**. In modern print, *cinematographic*, the tr
 
 ## Language-Change Index
 
-*\*cinemagraphic* for *cinematographic*: Stage 1
+ - *\*cinemagraphic* for *cinematographic*: Stage 1
 
-Current ratio in print \(*cinematographic* vs. *\*cinemagraphic*\): 230:1
+ - Current ratio in print \(*cinematographic* vs. *\*cinemagraphic*\): 230:1
 

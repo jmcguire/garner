@@ -18,5 +18,5 @@ Because *fetch* means "to go get and bring back," the phrase *\*go fetch* is a v
 
 ## Language-Change Index
 
-*\*go fetch* for *fetch*: Stage 1
+ - *\*go fetch* for *fetch*: Stage 1
 

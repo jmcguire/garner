@@ -6,5 +6,5 @@ Just as *affect* is sometimes misused for *effect*, so *affective* sometimes wro
 
 ## Language-Change Index
 
-*affective* misused for *effective*: Stage 1
+ - *affective* misused for *effective*: Stage 1
 

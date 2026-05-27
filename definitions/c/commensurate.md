@@ -14,7 +14,7 @@ commensurate.
 
 ## Language-Change Index
 
-*commiserate* misused for *commensurate*: Stage 1
+ - *commiserate* misused for *commensurate*: Stage 1
 
-Current ratio in print \(*is commensurate with* vs. *\*is commiserate with*\): 379:1
+ - Current ratio in print \(*is commensurate with* vs. *\*is commiserate with*\): 379:1
 

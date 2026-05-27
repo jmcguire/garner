@@ -20,5 +20,5 @@ Often when one word is commonly misused for a second word, part of the blame can
 
 ## Language-Change Index
 
-*aggravate* for *annoy* or *irritate*: Stage 4
+ - *aggravate* for *annoy* or *irritate*: Stage 4
 

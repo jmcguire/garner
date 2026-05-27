@@ -10,6 +10,6 @@ Although *pommel* occasionally appears as a verb, the differentiation outlined a
 
 Of course, in BrE one is *pummelled*, whereas in AmE one is *pummeled*. \(See spelling \(c\).) The bruising effect is the same.
 
-Current ratio in print \(*pummel him* vs. *\*pommel him*\): 21:1
-Current ratio in print \(*pommel horse* vs. \**pummel horse*\): 12:1
+ - Current ratio in print \(*pummel him* vs. *\*pommel him*\): 21:1
+ - Current ratio in print \(*pommel horse* vs. \**pummel horse*\): 12:1
 

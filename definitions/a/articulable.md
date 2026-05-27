@@ -4,6 +4,6 @@ articulable, not *\*articulatable*, is the standard form—e.g.: "The salient co
 
 ## Language-Change Index
 
-*\*articulatable* for *articulable*: Stage 1
-Current ratio in print \(*articulable* vs. *\*articulatable*\): 45:1
+ - *\*articulatable* for *articulable*: Stage 1
+ - Current ratio in print \(*articulable* vs. *\*articulatable*\): 45:1
 

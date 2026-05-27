@@ -4,5 +4,5 @@ inanity; **inanition**. As the noun corresponding to *inane*, *inanity* means "i
 
 ## Language-Change Index
 
-*inanition* misused for *inanity*: Stage 1
+ - *inanition* misused for *inanity*: Stage 1
 

@@ -4,6 +4,6 @@ plane geometry —so written—is sometimes mistakenly made *\*plain geometry*. 
 
 ## Language-Change Index
 
-*\*plain geometry* for *plane geometry*: Stage 1
-Current ratio in print \(*plane geometry* vs. *\*plain geometry*\): 35:1
+ - *\*plain geometry* for *plane geometry*: Stage 1
+ - Current ratio in print \(*plane geometry* vs. *\*plain geometry*\): 35:1
 

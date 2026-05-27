@@ -14,5 +14,5 @@ See **exhibit a tendency**.
 
 ## Language-Change Index
 
-*\*well-tendered garden* for *well-tended garden*: Stage 1
+ - *\*well-tendered garden* for *well-tended garden*: Stage 1
 

@@ -21,7 +21,7 @@ Refight an old fight, if you like, and stick to *interpretative*. But *interpret
 ## Language-Change Index
 
 1. *interpretive* for the traditional *interpretative*: Stage 5
-Current ratio in print \(*interpretive* vs. *interpretative*\): 2.3:1
+ - Current ratio in print \(*interpretive* vs. *interpretative*\): 2.3:1
 
 2. *\*interpretational* for *interpretive*: Stage 1
 

@@ -8,5 +8,5 @@ The remaining words are more easily distinguished. *Commonalty* = \(1\) commoner
 
 ## Language-Change Index
 
-*commonalty* misused for *commonality*: Stage 1
+ - *commonalty* misused for *commonality*: Stage 1
 

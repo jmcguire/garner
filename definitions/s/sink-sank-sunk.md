@@ -17,8 +17,8 @@ The past-participial form *sunken* is used exclusively now as an adjective <sunk
 ## Language-Change Index
 
 1. *sunk* misused for simple past-tense *sank*: Stage 2
-Current ratio in print \(*the boat sank* vs. *\*the boat sunk*\): 9:1
+ - Current ratio in print \(*the boat sank* vs. *\*the boat sunk*\): 9:1
 
 2. *sank* misused for past-participial *sunk*: Stage 1
-Current ratio in print \(*has sunk* vs. \**has sank*\): 214:1
+ - Current ratio in print \(*has sunk* vs. \**has sank*\): 214:1
 

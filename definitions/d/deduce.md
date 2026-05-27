@@ -6,7 +6,7 @@ deduce.
 
 ## Language-Change Index
 
-*deduct* misused for *deduce*: Stage 1
+ - *deduct* misused for *deduce*: Stage 1
 
 **B. And *induce*.** To *deduce* is to reason from a general principle to a specific conclusion. To *induce* is either \(1\) to reason from many specific observations to a general principle or \(2\) to cause \(a result\)—sense 1 being the one at issue in discussions of logic. As it happens, although reasoning by *induction* is as commonly referred to as reasoning by *deduction*, the verb *induce* in this sense is much less common than *deduce*. The following examples, though, show how the two verbs are sometimes contrasted:
 

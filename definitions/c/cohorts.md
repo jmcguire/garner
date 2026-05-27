@@ -12,5 +12,5 @@ Follett's sense 1 is common in phrases such as *birth cohort*, which is defined 
 
 ## Language-Change Index
 
-*cohort* in reference to an individual: Stage 5
+ - *cohort* in reference to an individual: Stage 5
 

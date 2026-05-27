@@ -14,5 +14,5 @@
 
  - **2004:** "*Enclosed please find* sounds pompous and silly." Kelly Cannon, "Lawyers vs. Language," in *Vocabula Bound* 13, 15 \(Robert Hartwell Fiske ed., 2004\).
 
-Current ratio in print \(*Enclosed is* vs. *\*Enclosed please find*\): 3:1
+ - Current ratio in print \(*Enclosed is* vs. *\*Enclosed please find*\): 3:1
 

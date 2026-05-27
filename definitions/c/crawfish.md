@@ -5,8 +5,8 @@ crawfish; **crayfish**. Although *crayfish* has traditionally been considered st
 ## Language-Change Index
 
 1. *crawfish* for *crayfish*: Stage 5
-Current ratio in print \(*crayfish* vs. *crawfish*\): 3:1
+ - Current ratio in print \(*crayfish* vs. *crawfish*\): 3:1
 
 2. *crawdad* for *crayfish*: Stage 2
-Current ratio in print \(*crayfish* vs. *crawdad*\): 44:1
+ - Current ratio in print \(*crayfish* vs. *crawdad*\): 44:1
 

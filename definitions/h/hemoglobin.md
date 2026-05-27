@@ -4,5 +4,5 @@ hemoglobin; **haemoglobin**. *Hemoglobin* \(= the red protein that transports ox
 
 In AmE and BrE alike, *a* \(not *an*\) precedes the word. See **a \(a\)**.
 
-Current ratio in print \(*hemoglobin* vs. *haemoglobin* in World Englishes\): 4:1
+ - Current ratio in print \(*hemoglobin* vs. *haemoglobin* in World Englishes\): 4:1
 

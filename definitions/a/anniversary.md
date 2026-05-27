@@ -8,5 +8,5 @@ anniversary \(= the day of the year on which an event occurred in a previous yea
 
 ## Language-Change Index
 
-*anniversary* denoting any milestone: Stage 2
+ - *anniversary* denoting any milestone: Stage 2
 

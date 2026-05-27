@@ -4,5 +4,5 @@
 
 ## Language-Change Index
 
-*\*pervade throughout* for *pervade*: Stage 1
+ - *\*pervade throughout* for *pervade*: Stage 1
 

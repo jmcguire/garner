@@ -16,7 +16,7 @@ Writers should generally try to be as specific as possible rather than make use 
 
 ## Language-Change Index
 
-*etc.* misused for *et al.*: Stage 3
+ - *etc.* misused for *et al.*: Stage 3
 
 **D. Misspelled and Mispronounced.** When spelled out, the Latin words should be separate <et cetera>. When pronounced, the term should not be shortened to three syllables—so /et **set**-ә-rә/, not /et **set**-rә/. The abbreviation is surprisingly often misspelled *\*ect.*, perhaps because the *t* in the first syllable of *etc.* is often mispronounced as a *k* or *x* \(as if it were *ex cetera*\). See pronunciation \(b\).
 

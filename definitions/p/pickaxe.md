@@ -4,6 +4,6 @@ pickaxe \(= a handheld tool consisting of a curved iron bar with a sharp point o
 
 Given the predominance of *axe* in both AmE and World Englishes, this compound should preferably be spelled *pickaxe*, not \**pickax*. Cf. **axe**, **battle-axe** & **poleaxe**.
 
-Current ratio in print \(*pickaxe* vs. \**pickax* in AmE\): 1.7:1
-Current ratio in print \(*pickaxe* vs. \**pickax* in BrE\): 5:1
+ - Current ratio in print \(*pickaxe* vs. \**pickax* in AmE\): 1.7:1
+ - Current ratio in print \(*pickaxe* vs. \**pickax* in BrE\): 5:1
 

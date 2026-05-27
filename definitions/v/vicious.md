@@ -8,5 +8,5 @@ vicious; **viscous**. *Vicious* \(= brutal\) is sometimes confounded with *visco
 
 ## Language-Change Index
 
-*viscous* misused for *vicious*: Stage 1
+ - *viscous* misused for *vicious*: Stage 1
 

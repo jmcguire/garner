@@ -14,5 +14,5 @@ It's understandable that many people use *migrate* as a safe option.
 
 ## Language-Change Index
 
-*emigrate* misused for *immigrate*: Stage 2
+ - *emigrate* misused for *immigrate*: Stage 2
 

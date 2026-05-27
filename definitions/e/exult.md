@@ -8,5 +8,5 @@ exult makes the noun *exultation*. But there are two needless variants: *\*exult
 
 For the difference between *exult* and *exalt*, see **exalt**.
 
-Current ratio in print \(*exultation* vs. \**exultance* vs. \**exultancy*\): 141:1:1
+ - Current ratio in print \(*exultation* vs. \**exultance* vs. \**exultancy*\): 141:1:1
 

@@ -12,6 +12,6 @@ See irregular verbs.
 
 ## Language-Change Index
 
-*dove* for *dived* as a past tense: Stage 5
-Current ratio in print \(*she dove* vs. *she dived*\): 1.4:1
+ - *dove* for *dived* as a past tense: Stage 5
+ - Current ratio in print \(*she dove* vs. *she dived*\): 1.4:1
 

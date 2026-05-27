@@ -6,11 +6,11 @@ mayhem.
 
 ## Language-Change Index
 
-*mayhem* misused for *ruckus*: Stage 2
+ - *mayhem* misused for *ruckus*: Stage 2
 
 **B. And *maim*, n.** Though etymologically identical, *mayhem* and *maim* have undergone differentiation. In the best usage, *mayhem* refers to the crime \(sense 1 above\) and *maim* to the type of injury required for the crime.
 
 **C. And *\*maihem*.** This spelling amounts to nothing more than a needless variant. It has been so since the 1700s.
 
-Current ratio in print \(*mayhem* vs. *\*maihem*\): 959:1
+ - Current ratio in print \(*mayhem* vs. *\*maihem*\): 959:1
 

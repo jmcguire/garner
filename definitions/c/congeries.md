@@ -26,6 +26,6 @@ The word is pronounced /**kon**-jә-reez/ or /kәn-**jir**-eez/ or /kon-jә-**re
 
 ## Language-Change Index
 
-*\*congery* or *\*congerie* as false singular of *congeries*: Stage 1
-Current ratio in print \(*a congeries* vs. *\*congerie* vs. *\*congery*\): 27:1.5:1
+ - *\*congery* or *\*congerie* as false singular of *congeries*: Stage 1
+ - Current ratio in print \(*a congeries* vs. *\*congerie* vs. *\*congery*\): 27:1.5:1
 

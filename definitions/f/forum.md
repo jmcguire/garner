@@ -10,5 +10,5 @@ forum. The standard plural *forums* has predominated in AmE since the early 1920
 
 But some writers, especially in political science and law, persist in using the Latinate plural. See plurals \(b\).
 
-Current ratio in print \(*forums* vs. *\*fora*\): 4:1
+ - Current ratio in print \(*forums* vs. *\*fora*\): 4:1
 

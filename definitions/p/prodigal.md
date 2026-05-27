@@ -12,5 +12,5 @@ The word is unrelated to *prodigy* and *prodigious*, both of which today general
 
 ## Language-Change Index
 
-*prodigal* in the sense "returning": Stage 3
+ - *prodigal* in the sense "returning": Stage 3
 

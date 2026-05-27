@@ -14,6 +14,6 @@ As you might gather from those instances, *protuberance* is a formal word often 
 
 ## Language-Change Index
 
-*protuberance* misspelled and mispronounced \**protruberance*: Stage 1
-Current ratio in print \(*protuberance* vs. \**protruberance*\): 96:1
+ - *protuberance* misspelled and mispronounced \**protruberance*: Stage 1
+ - Current ratio in print \(*protuberance* vs. \**protruberance*\): 96:1
 

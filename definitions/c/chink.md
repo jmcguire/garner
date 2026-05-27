@@ -12,7 +12,7 @@ But sensitivities understandably run high. On 30 August 2015, *The Wall Street J
 
 ## Language-Change Index
 
-*kink* misused for *chink*: Stage 2
+ - *kink* misused for *chink*: Stage 2
 
-Current ratio in print: \(*chink in the armor* vs. \**kink in the armor* in AmE\): 37:1
+ - Current ratio in print: \(*chink in the armor* vs. \**kink in the armor* in AmE\): 37:1
 

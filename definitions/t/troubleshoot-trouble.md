@@ -12,6 +12,6 @@ See irregular verbs.
 
 ## Language-Change Index
 
-*\*troubleshooted* for *troubleshot*: Stage 1
-Current ratio in print \(*troubleshot* vs. *\*troubleshooted*\): 5:1
+ - *\*troubleshooted* for *troubleshot*: Stage 1
+ - Current ratio in print \(*troubleshot* vs. *\*troubleshooted*\): 5:1
 

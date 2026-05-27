@@ -4,5 +4,5 @@ absentee, used as an adverb, is a useful linguistic development. E.g.: "Almost 9
 
 ## Language-Change Index
 
-*absentee* as an adverb: Stage 5
+ - *absentee* as an adverb: Stage 5
 

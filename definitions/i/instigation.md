@@ -4,5 +4,5 @@ instigation \(= the act of inciting or fomenting\) is sometimes misused for *ini
 
 ## Language-Change Index
 
-*instigation* misused for *initiation*: Stage 1
+ - *instigation* misused for *initiation*: Stage 1
 

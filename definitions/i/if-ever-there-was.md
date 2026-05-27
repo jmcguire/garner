@@ -22,5 +22,5 @@ To change any one of those last three examples to *If ever there has been . . .*
 
 By the way, a variation of the basic phrase without inversion of the usual word order—namely, *if there ever was*—is also quite common and is perfectly good English.
 
-Current ratio in print \(*if ever there was a* vs. *\*if ever there were a* \[case-insensitive search\]\): 10:1
+ - Current ratio in print \(*if ever there was a* vs. *\*if ever there were a* \[case-insensitive search\]\): 10:1
 

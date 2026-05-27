@@ -14,5 +14,5 @@ Stylists are not likely to use the verb, but neither are they likely to be award
 
 ## Language-Change Index
 
-*grieve* meaning "to bring a grievance": Stage 3
+ - *grieve* meaning "to bring a grievance": Stage 3
 

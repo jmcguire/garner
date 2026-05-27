@@ -27,13 +27,13 @@ See irregular verbs.
 ## Language-Change Index
 
 1. *trod* misused for present-tense *tread*: Stage 1
-Current ratio in print \(*treading on* vs. *\*trodding on*\): 319:1
+ - Current ratio in print \(*treading on* vs. *\*trodding on*\): 319:1
 
 2. *\*trodded* for *trod*: Stage 1
-Current ratio in print \(*trod on* vs. *\*trodded on*\): 838:1
+ - Current ratio in print \(*trod on* vs. *\*trodded on*\): 838:1
 
 3. *\*trodded* for *trodden*: Stage 1
 
 4. *treaded* in reference to treading water: Stage 5
-Current ratio in print \(*treaded water* vs. *trod water*\): 1.7:1
+ - Current ratio in print \(*treaded water* vs. *trod water*\): 1.7:1
 

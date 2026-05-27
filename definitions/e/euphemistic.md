@@ -12,5 +12,5 @@ For a similar error, see **euphuism**.
 
 ## Language-Change Index
 
-*euphonious* misused for *euphemistic*: Stage 1
+ - *euphonious* misused for *euphemistic*: Stage 1
 

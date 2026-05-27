@@ -4,5 +4,5 @@ coordinate, adj., n. & vb., a Latin loanword dating in English from the 1600s, w
 
 The same points hold true for the nouns *coordination* and *coordinator*.
 
-Current ratio in print \(*coordinate* vs. \**co-ordinate* vs. \**coördinate*\): 729:32:1
+ - Current ratio in print \(*coordinate* vs. \**co-ordinate* vs. \**coördinate*\): 729:32:1
 

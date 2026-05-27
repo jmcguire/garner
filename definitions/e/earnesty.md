@@ -10,6 +10,6 @@
 
 ## Language-Change Index
 
-*\*earnesty* for *earnestness*: Stage 1
-Current ratio in print \(*earnestness* vs. *\*earnesty*\): 2,020:1
+ - *\*earnesty* for *earnestness*: Stage 1
+ - Current ratio in print \(*earnestness* vs. *\*earnesty*\): 2,020:1
 

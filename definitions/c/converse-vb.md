@@ -14,5 +14,5 @@ In print, this nonword almost always appears in reported speech—e.g.:
 
 Meanwhile, *\*conversationalize* \(along with cognates such as *\*conversationalization*\) is a piece of bureaucratic mumbo jumbo—e.g.: " ‘\[*C*\]*onversationalization*' . . . \[occurs when\] the presenter is constructed as an ordinary bloke talking to ordinary people, sharing with them . . . a commonsense world of ordinary experience." Norman Fairclough, *Media Discourse* 10 \(1995\). No ordinary bloke would use the word. See -ize & bureaucratese.
 
-Current ratio in print \(*converse*, vb., vs. *\*conversate*\): 590:1
+ - Current ratio in print \(*converse*, vb., vs. *\*conversate*\): 590:1
 

@@ -6,6 +6,6 @@ The double plural *\*seraphims* is erroneous—e.g.: "Dolly Epstein, who says sh
 
 ## Language-Change Index
 
-*\*seraphims* for *seraphim* or *seraphs*: Stage 2
-Current ratio in print \(*seraphim* vs. *seraphs* vs. *\*seraphims*\): 15:4:1
+ - *\*seraphims* for *seraphim* or *seraphs*: Stage 2
+ - Current ratio in print \(*seraphim* vs. *seraphs* vs. *\*seraphims*\): 15:4:1
 

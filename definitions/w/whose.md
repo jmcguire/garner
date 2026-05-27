@@ -14,7 +14,7 @@ The other possessive for *which*—namely, *of which*—is typically cumbersome.
 
 ## Language-Change Index
 
-*whose* referring to things: Stage 5
+ - *whose* referring to things: Stage 5
 
 **B. Mistakenly Written *who's*.** Whereas *whose* is the possessive form, *who's* is a contraction for *who is*. But writers often confuse the two—e.g.:
 
@@ -30,7 +30,7 @@ Even a writer as major as Edward Albee \(1928–2016\) was prone to this gaffe�
 
 ## Language-Change Index
 
-*who's* misused for *whose*: Stage 1
-Current ratio in print \(*whose name* vs. \**who's name*\): 372:1
-Current ratio in print \(*whose work* vs. \**who's work*\): 1,624:1
+ - *who's* misused for *whose*: Stage 1
+ - Current ratio in print \(*whose name* vs. \**who's name*\): 372:1
+ - Current ratio in print \(*whose work* vs. \**who's work*\): 1,624:1
 

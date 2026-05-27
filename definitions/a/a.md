@@ -43,10 +43,10 @@ Anyone who sounds the *h* in words of the type here discussed should avoid prete
 ## Language-Change Index
 
 1. *\*an historic\(al\)* for *a historic\(al\)*: Stage 3
-Current ratio in print \(*a historical* vs. *\*an historical*\): 5:1
+ - Current ratio in print \(*a historical* vs. *\*an historical*\): 5:1
 
 2. *\*an habitual* for *a habitual*: Stage 3
-Current ratio in print \(*a habitual* vs. *\*an habitual*\): 2:1
+ - Current ratio in print \(*a habitual* vs. *\*an habitual*\): 2:1
 
 **B. In Distributive Senses.** *A*, in the distributive sense <ten hours a day>, has traditionally been considered preferable to *per*, which originated in commercialese and legalese. But *per* has muscled its way into idiomatic English in phrases such as *60 miles per hour*, *one golf cart per couple*, and *five books per student*. Although *an* could be substituted for *per* in the first of those phrases, *a* wouldn't work well in the second or third.
 

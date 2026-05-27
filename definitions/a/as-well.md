@@ -10,6 +10,6 @@ as well. When used at the beginning of a sentence, this phrase has traditionally
 
 ## Language-Change Index
 
-*as well* as a sentence-starter \(outside Canada\): Stage 2
-Current ratio in print \(capitalized *Also* vs. capitalized *As well*\): 14:1
+ - *as well* as a sentence-starter \(outside Canada\): Stage 2
+ - Current ratio in print \(capitalized *Also* vs. capitalized *As well*\): 14:1
 

@@ -8,5 +8,5 @@ admonition.
 
 **B. And *admonishment*.** Strictly speaking, *admonishment* might be thought of as the act of admonishing, while *admonition* is the warning or reproof itself. In fact, though, *admonition* has always been more common in both senses. Whenever *admonishment* can be replaced with *admonition*, it should be.
 
-Current ratio in print \(*admonition* vs. *admonishment*\): 5:1
+ - Current ratio in print \(*admonition* vs. *admonishment*\): 5:1
 

@@ -4,5 +4,5 @@ jack-in-the-box \(= a child's box-like toy from which a figurine springs when it
 
 As for capitalization, it's true that the phrase derives from the forename *Jack*. It has also had various meanings—many based on personification. In any event, the phrase was once capitalized but became predominantly lowercase in AmE during the 1950s and in BrE during the 1990s.
 
-Current ratio in print \(*jack-in-the-boxes* vs. \**jacks-in-the-box*\): 4:1
+ - Current ratio in print \(*jack-in-the-boxes* vs. \**jacks-in-the-box*\): 4:1
 

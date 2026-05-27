@@ -4,6 +4,6 @@ toffee \(= the sticky brown candy made by boiling water, sugar, and butter toget
 
 *Toffee-nosed*, by the way, is a derogatory Briticism meaning "conceited and snobbish" <toffee-nosed hypocrites>.
 
-Current ratio in print \(*toffee* vs. \**toffy*\): 42:1
-Current ratio in print \(*toffee-nosed* vs. \**toffy-nosed*\): 22:1
+ - Current ratio in print \(*toffee* vs. \**toffy*\): 42:1
+ - Current ratio in print \(*toffee-nosed* vs. \**toffy-nosed*\): 22:1
 

@@ -8,5 +8,5 @@ syllabification; **\*syllabication**. Although these are synonyms \(= the act or
 
  - "Obama is the first five-letter, three-syllable president in history. The last names of John Adams, John Quincy Adams, John Tyler, Ulysses Grant, Rutherford Hayes and Richard Nixon matched his in letter count but not *syllabication* \[read *syllabification*\]." Joe Blundo, " ‘O-ba-ma' Inspires Syllabic Brainteasers," *Columbus Dispatch*, 23 Dec. 2008, at D1.
 
-Current ratio in print \(*syllabification* vs. \**syllabication*\): 6:1
+ - Current ratio in print \(*syllabification* vs. \**syllabication*\): 6:1
 

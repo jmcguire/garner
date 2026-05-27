@@ -4,5 +4,5 @@ forte \(= a person's strong point\) has long been thought to be preferably prono
 
 ## Language-Change Index
 
-*forte* \(= strong point\) as two syllables: Stage 5
+ - *forte* \(= strong point\) as two syllables: Stage 5
 

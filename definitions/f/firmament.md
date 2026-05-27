@@ -12,5 +12,5 @@ Perhaps the misuse is influenced also by confusion with *terra firma* \(= solid 
 
 ## Language-Change Index
 
-*firmament* misused for *ground* or *foundation*: Stage 1
+ - *firmament* misused for *ground* or *foundation*: Stage 1
 

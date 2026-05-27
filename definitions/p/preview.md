@@ -4,5 +4,5 @@ preview \(= \[1\] to get a preliminary view of; or \[2\] to give a preliminary s
 
 The phrase *sneak preview*, by the way, originated in the American cinema of the 1930s.
 
-Current ratio in print \(*the preview* vs. \**the prevue*\): 215:1
+ - Current ratio in print \(*the preview* vs. \**the prevue*\): 215:1
 

@@ -14,5 +14,5 @@ contumacy; **\*contumacity**; **contumely**. Of the two forms of the noun corres
 
  - "But the point to be examined isn't whether Mr. Gingrich suffers the *contumely* of much of the public." William F. Buckley, "GOP Future Needs Aye of Newt," *Cincinnati Enquirer*, 22 Nov. 1996, at A10.
 
-Current ratio in print \(*contumacy* vs. *\*contumacity*\): 45:1
+ - Current ratio in print \(*contumacy* vs. *\*contumacity*\): 45:1
 

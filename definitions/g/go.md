@@ -14,12 +14,12 @@ See irregular verbs.
 
 ## Language-Change Index
 
-*went* misused for *gone*: Stage 1
-Current ratio in print \(*had gone* vs. *\*had went*\): 352:1
+ - *went* misused for *gone*: Stage 1
+ - Current ratio in print \(*had gone* vs. *\*had went*\): 352:1
 
 **B. Meaning "say."** The use of *go* as a synonym for *say* is seemingly part of every American teenager's vocabulary \("So I go, ‘Whattaya mean?' and he goes, ‘Whattaya mean by askin' that?' "\). It occurs in the past tense also: "Then he *went*, like, ‘No way\!' " This is low-level slang. Cf. be-verbs \(c\) & **like \(e\)**.
 
 ## Language-Change Index
 
-*go* in the sense "say": Stage 4
+ - *go* in the sense "say": Stage 4
 

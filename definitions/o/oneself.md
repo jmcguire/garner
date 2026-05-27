@@ -10,5 +10,5 @@ oneself; **\*one's self**. *Oneself* became the predominant spelling of the refl
 
 The two-word construction is correct, however, when referring to one's *self* in a psychological or spiritual sense—e.g.: "The desire to pass on something of *one's self*, whether genetically in offspring, materially in prized possessions or inheritance, or spiritually in writing, art or music, is a near universal human inclination." Philip Chard, "Time Does Its Best to Erase Our Legacies," *Milwaukee J. Sentinel*, 11 Feb. 2003, at F1.
 
-Current ratio in print \(*oneself* vs. \**one's self *\): 8:1
+ - Current ratio in print \(*oneself* vs. \**one's self *\): 8:1
 

@@ -18,7 +18,7 @@ Strictly speaking, *not guilty* and *innocent* aren't quite synonymous. To be *i
 
 ## Language-Change Index
 
-*plead innocent* for *plead not guilty*: Stage 4
+ - *plead innocent* for *plead not guilty*: Stage 4
 
 **B. *\*Not guilty beyond a reasonable doubt*.** This phrasing is ambiguous. The standard by which a jury decides criminal charges is this: a defendant is guilty only if the evidence shows, beyond a reasonable doubt, that he or she committed the crime. Otherwise, the defendant is not guilty. So we say that a defendant was not found *guilty beyond a reasonable doubt*.
 

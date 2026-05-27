@@ -6,5 +6,5 @@ ophthalmologist; **oculist**; **optometrist**; **optician**; **ocularist**. The 
 
 ## Language-Change Index
 
-*ophthalmologist* mispronounced /op-thә\[l\]/ instead of /of-thә\[l\]/: Stage 4
+ - *ophthalmologist* mispronounced /op-thә\[l\]/ instead of /of-thә\[l\]/: Stage 4
 

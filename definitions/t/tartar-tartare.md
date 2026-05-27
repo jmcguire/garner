@@ -8,5 +8,5 @@ The one instance in which *tartare* is standard in AmE is in the phrase *steak t
 
 As a postpositive adjective, *tartare* is pronounced /tahr-**tahr**/. The *SOED* suggests that all pronunciations of that spelling in BrE follow that form, but Briticized as /tah-**tah**/. The pronunciation of *tartar* in AmE is /**tahr**-tәr/, in BrE /**tah**-tә/.
 
-Current ratio in print \(*steak tartare* vs. *\*steak tartar*\): 11:1
+ - Current ratio in print \(*steak tartare* vs. *\*steak tartar*\): 11:1
 

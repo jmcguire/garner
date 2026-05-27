@@ -4,5 +4,5 @@ accommodable. So formed—not *\*accommodatable*, as it is sometimes erroneously
 
 ## Language-Change Index
 
-*\*accommodatable* for *accommodable*: Stage 1 Current ratio in print \(*accommodable* vs. *\*accommodatable*\): 1.04:1
+ - *\*accommodatable* for *accommodable*: Stage 1 Current ratio in print \(*accommodable* vs. *\*accommodatable*\): 1.04:1
 

@@ -12,5 +12,5 @@ See phrasal verbs.
 
 ## Language-Change Index
 
-*\*continue on*: Stage 3
+ - *\*continue on*: Stage 3
 

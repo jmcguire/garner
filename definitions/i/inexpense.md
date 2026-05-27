@@ -12,5 +12,5 @@ See back-formations & neologisms.
 
 ## Language-Change Index
 
-*\*inexpense* for *affordability*: Stage 1
+ - *\*inexpense* for *affordability*: Stage 1
 

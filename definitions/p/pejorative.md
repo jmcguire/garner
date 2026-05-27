@@ -12,6 +12,6 @@ Though once pronounced /**pee**-jәr-ay-tiv/ \(or, in BrE, /**pee**-jәr-ә-tiv/
 
 ## Language-Change Index
 
-*pejorative* misspelled *\*perjorative*: Stage 1
-Current ratio in print \(*pejorative* vs. \**perjorative*\): 170:1
+ - *pejorative* misspelled *\*perjorative*: Stage 1
+ - Current ratio in print \(*pejorative* vs. \**perjorative*\): 170:1
 

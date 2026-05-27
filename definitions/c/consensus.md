@@ -13,14 +13,14 @@ Because a *consensus* is the collective unanimous opinion of several people, the
 ## Language-Change Index
 
 1. *\*general consensus of opinion*: Stage 2
-Current ratio in print \(*consensus was* vs. *\*general consensus of opinion was*\): 129:1
+ - Current ratio in print \(*consensus was* vs. *\*general consensus of opinion was*\): 129:1
 
 2. *\*general consensus*: Stage 4
-Current ratio in print \(*the consensus was* vs. *\*the general consensus was*\): 3:1
+ - Current ratio in print \(*the consensus was* vs. *\*the general consensus was*\): 3:1
 
 3. *\*consensus of opinion*: Stage 4
-Current ratio in print \(*the consensus was* vs. *\*the consensus of opinion was*\): 22:1
+ - Current ratio in print \(*the consensus was* vs. *\*the consensus of opinion was*\): 22:1
 
 4. *consensus* misspelled *\*concensus*: Stage 1
-Current ratio in print \(*consensus* vs. \**concensus*\): 876:1
+ - Current ratio in print \(*consensus* vs. \**concensus*\): 876:1
 

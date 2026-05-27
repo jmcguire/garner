@@ -6,5 +6,5 @@ Occasionally *exceed* is misused for *accede* \(sense 1\)—e.g.: "Eighty potent
 
 ## Language-Change Index
 
-*exceed* misused for *accede*: Stage 1
+ - *exceed* misused for *accede*: Stage 1
 

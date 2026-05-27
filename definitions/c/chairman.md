@@ -13,10 +13,10 @@ From the late 1800s until about 1980, American writers sometimes fretted over wh
 ## Language-Change Index
 
 1. *\*chairperson* as a gender-neutral term: Stage 2
-Current ratio in print \(*chairman* vs. *\*chairperson*\): 11:1
+ - Current ratio in print \(*chairman* vs. *\*chairperson*\): 11:1
 
 2. *chair* as a gender-neutral term: Stage 5
-Current ratio in print \(*chair of the committee* vs. *\*chairperson of the committee*\): 8:1
-Current ratio in print \(*chairing* vs. \**chairmaning* vs. \**chairmanning*\): 165:1.05:1
-Current ratio in print \(*chaired* *by* vs. \**chairmaned by* vs. \**chairmanned by*\): 81,334:9:1
+ - Current ratio in print \(*chair of the committee* vs. *\*chairperson of the committee*\): 8:1
+ - Current ratio in print \(*chairing* vs. \**chairmaning* vs. \**chairmanning*\): 165:1.05:1
+ - Current ratio in print \(*chaired* *by* vs. \**chairmaned by* vs. \**chairmanned by*\): 81,334:9:1
 

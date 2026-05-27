@@ -16,5 +16,5 @@ The exception, however, is in the negative form of the word: *disproportionate* 
 
 *Proportionable* is an archaism that still sometimes occurs—e.g.: "If this is exceeded, then area payments will be *proportionably* \[read *proportionately*\] reduced in the offending countries." "£20m Rise in Cost of Support for Arable Farming Sector," *Exeter Examiner* \(U.K.\), 7 Jan. 1995, at 22. It has no place today. See **pro rata**. Cf. **commensurate**.
 
-Current ratio in print \(*proportional* vs. *proportionate* vs. *proportionable*\): 170:37:1
+ - Current ratio in print \(*proportional* vs. *proportionate* vs. *proportionable*\): 170:37:1
 

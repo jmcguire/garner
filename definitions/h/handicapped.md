@@ -4,5 +4,5 @@ handicapped. The phrases *\*handicapped-accessible* and *\*handicap-accessible* 
 
 Through the vicissitudes of usage, *handicapped* has become nearly taboo in BrE. It is much less so in AmE, in which *handicapped parking* \(so written\) is a well-known example of hypallage.
 
-Current ratio in print \(*handicapped parking* vs. *\*handicap parking*\): 4:1
+ - Current ratio in print \(*handicapped parking* vs. *\*handicap parking*\): 4:1
 

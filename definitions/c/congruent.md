@@ -12,5 +12,5 @@ Oddly enough, the word *congruent* \(/**kong**-groo-әnt/ or /kәn-**groo**-әnt
 
 The corresponding nouns are *congruence* and *congruity*. *\*Congruency* is a needless variant.
 
-Current ratio in print \(*congruence* vs. *congruity* vs. \**congruency*\): 7:1.1:1
+ - Current ratio in print \(*congruence* vs. *congruity* vs. \**congruency*\): 7:1.1:1
 

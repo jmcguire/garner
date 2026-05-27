@@ -20,6 +20,6 @@ Likewise, the city of Port Everglades takes a singular verb—e.g.: "Port Evergl
 
 ## Language-Change Index
 
-*\*Everglades are* for *Everglades is*: Stage 3
-Current ratio in print \(*The Everglades is* vs. *\*The Everglades are*\): 1.9:1
+ - *\*Everglades are* for *Everglades is*: Stage 3
+ - Current ratio in print \(*The Everglades is* vs. *\*The Everglades are*\): 1.9:1
 

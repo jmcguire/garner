@@ -14,5 +14,5 @@ See **cupola**.
 
 ## Language-Change Index
 
-*copula* misused for *cupola*: Stage 1
+ - *copula* misused for *cupola*: Stage 1
 

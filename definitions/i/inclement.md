@@ -12,6 +12,6 @@ In pronouncing the word, stress the second syllable, not the first.
 
 ## Language-Change Index
 
-*\*inclimate weather* for *inclement weather*: Stage 1
-Current ratio in print \(*inclement weather* vs. *\*inclimate weather*\): 733:1
+ - *\*inclimate weather* for *inclement weather*: Stage 1
+ - Current ratio in print \(*inclement weather* vs. *\*inclimate weather*\): 733:1
 

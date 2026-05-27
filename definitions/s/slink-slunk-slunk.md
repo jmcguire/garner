@@ -23,11 +23,11 @@ See irregular verbs.
 ## Language-Change Index
 
 1. *\*slank* for *slunk* as past tense of *slink*: Stage 1
-Current ratio in print \(*slunk away* vs. *\*slank away*\): 243:1
+ - Current ratio in print \(*slunk away* vs. *\*slank away*\): 243:1
 
 2. *\*slinked* for *slunk* as past tense of *slink*: Stage 2
-Current ratio in print \(*slunk off* vs. *\*slinked off *\): 7:1
+ - Current ratio in print \(*slunk off* vs. *\*slinked off *\): 7:1
 
 3. *\*slunked* for *slunk* as past tense of *slink*: Stage 1
-Current ratio in print \(*slunk out* vs. *\*slunked out*\): 688:1
+ - Current ratio in print \(*slunk out* vs. *\*slunked out*\): 688:1
 

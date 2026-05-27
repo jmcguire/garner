@@ -16,5 +16,5 @@ The usual phrase is *knitted brow*, not *\*knit brow*—e.g.:
 
 Cf. **fit**.
 
-Current ratio in print \(*knitted brow* vs. \**knit brow*\): 4:1
+ - Current ratio in print \(*knitted brow* vs. \**knit brow*\): 4:1
 

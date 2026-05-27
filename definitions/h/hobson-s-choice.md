@@ -30,6 +30,6 @@ See double bobbles.
 
 ## Language-Change Index
 
-*\*Hobbesian choice* for *Hobson's choice*: Stage 1
-Current ratio in print \(*Hobson's choice* vs. *\*Hobbesian choice*\): 39:1
+ - *\*Hobbesian choice* for *Hobson's choice*: Stage 1
+ - Current ratio in print \(*Hobson's choice* vs. *\*Hobbesian choice*\): 39:1
 

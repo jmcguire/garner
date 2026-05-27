@@ -12,5 +12,5 @@ Perhaps because *cut in half* is synonymous with *halve*, some writers fall into
 
 ## Language-Change Index
 
-*\*cut in halve* for *cut in half*: Stage 1
+ - *\*cut in halve* for *cut in half*: Stage 1
 

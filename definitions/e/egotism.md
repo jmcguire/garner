@@ -12,5 +12,5 @@ The other three words are closely related. *Egocentrism* and *egocentricity* are
 
 ## Language-Change Index
 
-*egoism* misused for *egotism*: Stage 2
+ - *egoism* misused for *egotism*: Stage 2
 

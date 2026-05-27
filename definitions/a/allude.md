@@ -12,7 +12,7 @@ In the following sentence, the writer creates an oxymoron because an allusion ca
 
 ## Language-Change Index
 
-*allude* used for a specific reference: Stage 3
+ - *allude* used for a specific reference: Stage 3
 
 **B. And *illude* & *elude*.** To *illude* \(a rare verb\) is to deceive with an illusion; to *elude* \(a common verb\) is to avoid or escape. Both words are sometimes misused for *allude*—e.g.:
 
@@ -25,17 +25,17 @@ The reverse error—*allude* for *elude*—is somewhat less common. E.g.: "Glenn
 ## Language-Change Index
 
 1. *illude* misused for *allude*: Stage 1
-Current ratio in print \(*allude to* vs. *\*illude to*\): 37,891:1
+ - Current ratio in print \(*allude to* vs. *\*illude to*\): 37,891:1
 
 2. *elude* misused for *allude*: Stage 1
-Current ratio in print \(*allude to* vs. *\*elude to*\): 419:1
+ - Current ratio in print \(*allude to* vs. *\*elude to*\): 419:1
 
 3. *allude* misused for *elude*: Stage 1
-Current ratio in print \(*eluded him* vs. *\*alluded him*\): 166:1
+ - Current ratio in print \(*eluded him* vs. *\*alluded him*\): 166:1
 
 **C. For *suggest*.** This is an attenuated use of *allude* to be avoided—e.g.: "As Johnson *alluded* \[read *suggested*\], who among us has no sin?" Letter of Karen M. Piet, "Jesus Forgave Sins of Those Who Repented and Told Them to Sin No More," *Rocky Mountain News* \(Denver\), 3 Sept. 1997, at A40.
 
 ## Language-Change Index
 
-*allude* misused for *suggest*: Stage 1
+ - *allude* misused for *suggest*: Stage 1
 

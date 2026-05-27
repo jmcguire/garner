@@ -10,6 +10,6 @@ peace of mind; **piece of \(one's\) mind**. Whereas *peace of mind* is calm assu
 
 ## Language-Change Index
 
-*\*piece of mind* for *peace of mind*: Stage 1
-Current ratio in print \(*for my peace of mind* vs. *\*for my piece of mind*\): 32:1
+ - *\*piece of mind* for *peace of mind*: Stage 1
+ - Current ratio in print \(*for my peace of mind* vs. *\*for my piece of mind*\): 32:1
 

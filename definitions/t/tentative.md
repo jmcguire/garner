@@ -8,5 +8,5 @@ tentative /**ten**-tә-tiv/ is often mispronounced, and therefore mistakenly wri
 
  - "There are *tenative* \[read *tentative*\] plans for him to meet with university officials today." Zach Braziller, "Hurley Sr. May Want RU Job," *N.Y. Post*, 13 Apr. 2013, at 31.
 
-Current ratio in print \(*tentative* vs. \**tenative*\): 3,409:1
+ - Current ratio in print \(*tentative* vs. \**tenative*\): 3,409:1
 

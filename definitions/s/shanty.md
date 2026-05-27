@@ -4,5 +4,5 @@ shanty /**shan**-tee/ \(= a song that sailors sing in rhythm with their heaving 
 
 Of course, the homonym *shanty* is an Americanism denoting a crudely built dwelling. Hence the differentiation in AmE spelling may be desirable, and the recent data may be skewed.
 
-Current ratio in print \(*sea shanty* vs. *sea chantey* vs. \**sea chanty* in World Englishes\): 11:2.4:1
+ - Current ratio in print \(*sea shanty* vs. *sea chantey* vs. \**sea chanty* in World Englishes\): 11:2.4:1
 

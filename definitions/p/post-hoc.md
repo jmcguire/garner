@@ -4,5 +4,5 @@ post hoc \(= \[of, relating to, or involving\] the fallacy of assuming causality
 
 ## Language-Change Index
 
-*post hoc* misused for *ex post facto* or *after-the-fact*: Stage 1
+ - *post hoc* misused for *ex post facto* or *after-the-fact*: Stage 1
 

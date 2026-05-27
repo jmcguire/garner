@@ -6,5 +6,5 @@ Although historically *overlook* bore the meanings of *oversee* and *look over* 
 
 ## Language-Change Index
 
-*overlook* misused for *oversee*: Stage 2
+ - *overlook* misused for *oversee*: Stage 2
 

@@ -4,6 +4,6 @@ measles is sometimes misspelled *\*measels*—e.g.: "Proximity to children also 
 
 ## Language-Change Index
 
-*measles* misspelled *\*measels*: Stage 1
-Current ratio in print \(*measles* vs. \**measels*\): 1,133:1
+ - *measles* misspelled *\*measels*: Stage 1
+ - Current ratio in print \(*measles* vs. \**measels*\): 1,133:1
 

@@ -4,5 +4,5 @@ slake \(= to quench or satisfy\), an Old English word dating from about AD 1000,
 
 In fact, big data will confirm that \**slacked his thirst* has occurred infrequently since the mid-1800s and even less frequently before. The better and far more prevalent usage is *slaked his thirst*.
 
-Current ratio in print \(*slaked his thirst* vs. \**slacked his thirst*\): 108:1
+ - Current ratio in print \(*slaked his thirst* vs. \**slacked his thirst*\): 108:1
 

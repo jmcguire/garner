@@ -6,5 +6,5 @@ Also, *accost* isn't the right verb for what a threatening animal does, no matte
 
 ## Language-Change Index
 
-*accost* used in reference to a physical assault: Stage 3
+ - *accost* used in reference to a physical assault: Stage 3
 

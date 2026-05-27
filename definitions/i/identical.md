@@ -10,6 +10,6 @@ The phrase *\*same identical*—more often heard than seen—is redundant. E.g.:
 
 ## Language-Change Index
 
-*identical to* for *identical with*: Stage 5
-Current ratio in print \(*identical to* vs. *identical with*\): 2.4:1
+ - *identical to* for *identical with*: Stage 5
+ - Current ratio in print \(*identical to* vs. *identical with*\): 2.4:1
 

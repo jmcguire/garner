@@ -6,5 +6,5 @@ And yet the mere-expectation senses are exceedingly common—e.g.: "It is *antic
 
 ## Language-Change Index
 
-*anticipate* for *expect*: Stage 4
+ - *anticipate* for *expect*: Stage 4
 

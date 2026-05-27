@@ -6,9 +6,9 @@ This shift toward *symmetric* probably reflected a yearning for symmetry, since 
 
 The upshot is that *symmetric* and *asymmetric* are now the prevalent antonyms, but the *-al* forms more commonly occur in a few phrases such as *\(a\)symmetrical* *arrangement*, *\(a\)symmetrical relations*, and *\(a\)symmetrical power*. Euphony and prevalent usage with a particular phrase should govern the choice. See -ic/-ical.
 
-Current ratio in print \(*symmetrical arrangement* vs. *symmetric arrangement*\): 5:1
-Current ratio in print \(*symmetric distribution* vs. *symmetrical distribution*\): 1.2:1
-Current ratio in print \(*asymmetric information* vs. *asymmetrical information*\): 21:1
-Current ratio in print \(*asymmetrical power* vs. *asymmetric power*\): 1.9:1
-Current ratio in print \(*asymmetric warfare* vs. *asymmetrical warfare*\): 1.7:1
+ - Current ratio in print \(*symmetrical arrangement* vs. *symmetric arrangement*\): 5:1
+ - Current ratio in print \(*symmetric distribution* vs. *symmetrical distribution*\): 1.2:1
+ - Current ratio in print \(*asymmetric information* vs. *asymmetrical information*\): 21:1
+ - Current ratio in print \(*asymmetrical power* vs. *asymmetric power*\): 1.9:1
+ - Current ratio in print \(*asymmetric warfare* vs. *asymmetrical warfare*\): 1.7:1
 

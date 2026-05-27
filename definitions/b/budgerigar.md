@@ -6,5 +6,5 @@ More familiar to American ears is the shortened form, *budgie*—e.g.: "The Engl
 
 As a transliterated term, the word is susceptible to variants in spelling and pronunciation. *W2*, for example, lists it as *\*budgerygah* and *\*budgereegah*—both with the primary accent on the final syllable. Today, the standard spelling is *budgerigar* and the preferred pronunciation stresses the first syllable: /**bәj**-ә-ree-gahr/.
 
-Current ratio in print \(*budgie* vs. *budgerigar* vs. *\*budgerygah*\): 531:325:1
+ - Current ratio in print \(*budgie* vs. *budgerigar* vs. *\*budgerygah*\): 531:325:1
 

@@ -4,5 +4,5 @@ unknown quantity \(= a person or thing whose characteristics haven't been assess
 
 ## Language-Change Index
 
-*known quality* misused for *known quantity*: Stage 1
+ - *known quality* misused for *known quantity*: Stage 1
 

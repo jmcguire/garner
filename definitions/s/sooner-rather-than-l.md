@@ -10,5 +10,5 @@ The phrase *\*sooner* *rather than later* originated in the late 1800s but wasn'
 
 ## Language-Change Index
 
-*\*sooner rather than later*: Stage 4
+ - *\*sooner rather than later*: Stage 4
 

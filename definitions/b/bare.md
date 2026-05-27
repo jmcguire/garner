@@ -6,6 +6,6 @@ The verb is inflected *bare* > *bared* > *bared*. For the opposite error, see **
 
 ## Language-Change Index
 
-*bear* misused for the verb *bare*: Stage 1
-Current ratio in print \(*bare your soul* vs. *\*bear your soul*\): 18:1
+ - *bear* misused for the verb *bare*: Stage 1
+ - Current ratio in print \(*bare your soul* vs. *\*bear your soul*\): 18:1
 

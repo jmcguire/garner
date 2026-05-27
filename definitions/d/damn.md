@@ -13,8 +13,8 @@ The wretchedly misspelled form *dam*, too, sometimes appears—e.g.: "It seems e
 ## Language-Change Index
 
 1. *damn* for *damned*: Stage 5
-Current ratio in print \(*damn thing* vs. *damned thing*\): 3:1
+ - Current ratio in print \(*damn thing* vs. *damned thing*\): 3:1
 
 2. *dam* for *damned*: Stage 1
-Current ratio in print \(*damned thing* vs. *\*dam thing*\): 90:1
+ - Current ratio in print \(*damned thing* vs. *\*dam thing*\): 90:1
 

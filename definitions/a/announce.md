@@ -8,5 +8,5 @@ announce; **annunciate**; **\*enounce**; **enunciate**. *Announce*, the best-kno
 
 ## Language-Change Index
 
-*\*annunciate* misused for *enunciate*: Stage 1
+ - *\*annunciate* misused for *enunciate*: Stage 1
 

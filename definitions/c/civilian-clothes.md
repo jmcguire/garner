@@ -10,5 +10,5 @@ civilian clothes; **street clothes**. The first should be reserved for military 
 
 ## Language-Change Index
 
-*civilian clothes* used in nonmilitary contexts: Stage 2
+ - *civilian clothes* used in nonmilitary contexts: Stage 2
 

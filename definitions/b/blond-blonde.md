@@ -8,8 +8,8 @@ Sometimes *blonde* is ill-advisedly applied to a man—e.g.: "It looks like thes
 
 When the word describes an inanimate object, the *e* is invariably dropped <blond wooden chairs> <a honey-blond microbrewed beer>.
 
-Current ratio in print \(*ash-blond* vs. *ash-blonde*\): 1.2:1
-Current ratio in print \(*blond hair* vs. *blonde hair*\): 1.6:1
+ - Current ratio in print \(*ash-blond* vs. *ash-blonde*\): 1.2:1
+ - Current ratio in print \(*blond hair* vs. *blonde hair*\): 1.6:1
 
 **B. As a Noun.** Though we may from time to time see *blond men* and *blond women* in print, when we see a reference to *a blonde* \(or *a blond*\) we almost always assume it's a woman. To avoid appearing sexist, it's best to refrain altogether from using this word as a noun. In fact, some readers will find even the adjective to be sexist when it modifies *woman* and not *hair*. Cf. **brunet\(te\)**. See prejudiced and prejudicial terms & sexism \(d\).
 

@@ -14,5 +14,5 @@ gin up /jin әp/.
 
 ## Language-Change Index
 
-*gin out* misused for *gin up*: Stage 1
+ - *gin out* misused for *gin up*: Stage 1
 

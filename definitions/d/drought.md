@@ -6,6 +6,6 @@ Misusing *drought* for *flood* is perhaps just an odd mental glitch triggered by
 
 ## Language-Change Index
 
-*drought* misused for *flooding*: Stage 1
-Current ratio in print \(*drought* vs. *\*drouth* vs. *\*drout*\): 7,886:80:1
+ - *drought* misused for *flooding*: Stage 1
+ - Current ratio in print \(*drought* vs. *\*drouth* vs. *\*drout*\): 7,886:80:1
 

@@ -10,5 +10,5 @@ axel; **axle**. The first is a figure-skating maneuver; the second is a rod or p
 
 ## Language-Change Index
 
-*axle* misused for *axel*: Stage 1
+ - *axle* misused for *axel*: Stage 1
 

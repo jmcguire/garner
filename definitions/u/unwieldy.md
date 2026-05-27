@@ -8,5 +8,5 @@ unwieldy, an adjective meaning "difficult to handle" <unwieldy packages>, often 
 
 See spelling \(a\).
 
-Current ratio in print \(*unwieldy* vs. *\*unwieldly*\): 42:1
+ - Current ratio in print \(*unwieldy* vs. *\*unwieldly*\): 42:1
 

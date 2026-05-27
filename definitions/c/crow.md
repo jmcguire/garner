@@ -10,5 +10,5 @@ But until about 1912, published instances of the collocation *cocks crew* were m
 
 Occasionally today, *crew* pops up in allusion to the King James Version: "And immediately the cock *crew*." Matthew 26:74. Or sometimes the writer needs a rhyme, as in the following title: "When the Cock *Crew*, the Neighbors Started to Sue," *Smithsonian*, Aug. 1988, at 113.
 
-Current ratio in print \(*cocks crowed* vs. *cocks crew*\): 3:1
+ - Current ratio in print \(*cocks crowed* vs. *cocks crew*\): 3:1
 

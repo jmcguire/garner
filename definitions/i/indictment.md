@@ -12,5 +12,5 @@ For more on *indictment*, see **arraignment**.
 
 ## Language-Change Index
 
-*\*indictment against* for *indictment of*: Stage 5
+ - *\*indictment against* for *indictment of*: Stage 5
 

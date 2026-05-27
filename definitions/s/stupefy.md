@@ -12,6 +12,6 @@ See -fy. Cf. **liquefy** & **rarefy**.
 
 ## Language-Change Index
 
-*stupefy* misspelled *\*stupify*: Stage 2
-Current ratio in print \(*stupefy* vs. \**stupify*\): 9:1
+ - *stupefy* misspelled *\*stupify*: Stage 2
+ - Current ratio in print \(*stupefy* vs. \**stupify*\): 9:1
 

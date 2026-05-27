@@ -12,5 +12,5 @@ But as H.W. Fowler pointed out in 1926 \(see *FMEU1* at 343\), writers sometimes
 
 ## Language-Change Index
 
-*\*there are many a person* for *there is many a person*: Stage 1
+ - *\*there are many a person* for *there is many a person*: Stage 1
 

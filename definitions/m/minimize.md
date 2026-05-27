@@ -8,11 +8,11 @@ But the word is also used to mean "to misrepresent \(something\) as less signifi
 
 ## Language-Change Index
 
-*minimize* in the sense "to play down" \(as in *In the news conference, the officials minimized their role in the decision*\): Stage 5
+ - *minimize* in the sense "to play down" \(as in *In the news conference, the officials minimized their role in the decision*\): Stage 5
 
 **B. And *\*minify*.** Both H.W. Fowler and Eric Partridge considered *\*minify* a needless variant of *minimize* \(*FMEU1* at 355–56; *U&A* at 186\). But Theodore Bernstein liked the term as an alternative to *minimize* in the second sense discussed in \(a): "The word is not used as much as it should be, but let us not *minify* it." Bernstein, *The Careful Writer* 278 \(1965\). Too late.
 
-Current ratio in print \(*minimize* vs. \**minify*\): 1,187:1
+ - Current ratio in print \(*minimize* vs. \**minify*\): 1,187:1
 
 **C. And *\*minimalize*.** *\*Minimalize* is a nonword bearing an extra syllable—e.g.:
 
@@ -24,6 +24,6 @@ Current ratio in print \(*minimize* vs. \**minify*\): 1,187:1
 
 ## Language-Change Index
 
-*\*minimalize* for *minimize*: Stage 1
-Current ratio in print \(*minimized* vs. *\*minimalized*\): 212:1
+ - *\*minimalize* for *minimize*: Stage 1
+ - Current ratio in print \(*minimized* vs. *\*minimalized*\): 212:1
 

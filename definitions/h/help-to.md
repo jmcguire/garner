@@ -8,5 +8,5 @@ help to. In most contexts, the better practice is to use a bare infinitive after
 
 The bare-infinitive form after *help* overtook the *to-* form in the late 1960s and remains much more common with various verbs.
 
-Current ratio in print \(*helped move* vs. *helped to move*\): 2.3:1
+ - Current ratio in print \(*helped move* vs. *helped to move*\): 2.3:1
 

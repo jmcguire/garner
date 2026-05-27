@@ -4,5 +4,5 @@ lone; **alone**. *Lone* comes before the noun, *alone* after. Misusing *alone* f
 
 ## Language-Change Index
 
-*alone* misused for *lone*: Stage 1
+ - *alone* misused for *lone*: Stage 1
 

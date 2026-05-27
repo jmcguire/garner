@@ -4,5 +4,5 @@ prejudgment \(= the act of prejudging\) has been predominantly so spelled throug
 
 Apart from the noun sense, the word is used adjectivally in law to describe something that takes place before a judgment has been rendered <prejudgment garnishment of wages> <prejudgment interest>.
 
-Current ratio in print \(*prejudgment* vs. *prejudgement*\): 12:1
+ - Current ratio in print \(*prejudgment* vs. *prejudgement*\): 12:1
 

@@ -4,6 +4,6 @@ imbecile; **imbecilic**. The preferred adjectival form of *imbecile*, n., was on
 
 ## Language-Change Index
 
-*imbecilic*: Stage 5
-Current ratio in print \(*imbecile grin* vs. *imbecilic grin*\): 1.3:1
+ - *imbecilic*: Stage 5
+ - Current ratio in print \(*imbecile grin* vs. *imbecilic grin*\): 1.3:1
 

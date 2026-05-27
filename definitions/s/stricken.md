@@ -6,8 +6,8 @@ stricken.
 
 ## Language-Change Index
 
-*stricken* for past-participial *struck*: Stage 4
-Current ratio in print \(*will be struck* vs. *\*will be stricken*\): 8:1
+ - *stricken* for past-participial *struck*: Stage 4
+ - Current ratio in print \(*will be struck* vs. *\*will be stricken*\): 8:1
 
 **B. *\*Strickened*.** The participial usage has given rise to the mistaken use of *stricken* for *strike*, and therefore to the double bobble *\*strickened* \(attested from the early 1800s on\)—e.g.:
 
@@ -21,6 +21,6 @@ See **strike** & irregular verbs.
 
 ## Language-Change Index
 
-*\*strickened* for *stricken*: Stage 1
-Current ratio in print \(*stricken* vs. *\*strickened*\): 3,514:1
+ - *\*strickened* for *stricken*: Stage 1
+ - Current ratio in print \(*stricken* vs. *\*strickened*\): 3,514:1
 

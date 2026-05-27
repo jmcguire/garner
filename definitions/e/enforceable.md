@@ -4,6 +4,6 @@ enforceable; **\*enforcible**. Since the mid-1800s, *enforceable* has been the p
 
 ## Language-Change Index
 
-*enforceable* misspelled *\*enforcible*: Stage 1
-Current ratio in print \(*enforceable* vs. \**enforcible*\): 767:1
+ - *enforceable* misspelled *\*enforcible*: Stage 1
+ - Current ratio in print \(*enforceable* vs. \**enforcible*\): 767:1
 

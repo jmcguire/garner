@@ -10,6 +10,6 @@ crisis forms the plural *crises* /**krī**-seez/, not the hypersibilantly errone
 
 ## Language-Change Index
 
-*\*crisises* for *crises*: Stage 1
-Current ratio in print \(*crises* vs. *\*crisises*\): 4,984:1
+ - *\*crisises* for *crises*: Stage 1
+ - Current ratio in print \(*crises* vs. *\*crisises*\): 4,984:1
 

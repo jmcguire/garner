@@ -29,13 +29,13 @@ It's awkward to broach this subject, but sometimes a writer seems thoroughly bef
 ## Language-Change Index
 
 1. *breech* for *breach*: Stage 1
-Current ratio in print \(*breach of protocol* vs. *\*breech of protocol*\): 37:1
+ - Current ratio in print \(*breach of protocol* vs. *\*breech of protocol*\): 37:1
 
 2. *\*breach birth* for *breech birth*: Stage 1
-Current ratio in print \(*breech birth* vs. *\*breach birth*\): 13:1
+ - Current ratio in print \(*breech birth* vs. *\*breach birth*\): 13:1
 
 3. *breach* for *broach*: Stage 1
-Current ratio in print \(*broached the subject* vs. *\*breached the subject*\): 177:1
+ - Current ratio in print \(*broached the subject* vs. *\*breached the subject*\): 177:1
 
 **B. As a Transitive Verb.** Despite a rumor that some crotchety law professors have been spreading, one can *breach*—not just *break*—a contract, a promise, or the peace. Using *breach* in figurative senses is a very modest extension of the old literal sense "to make a breach in \(a wall, boundary, etc.\)." Indeed, the *OED*'s first citation for the verb is this one from 1547: "\[Obliviousness\] may come to young men and women when their mind is *breached*" \(spelling updated\). But the old-fashioned view is explainable: from the 1700s through about 1907, *broke the contract* was the predominant phrasing. In print, *breached the contract* surpassed the old phrasing in the early 1900s and remains prevalent.
 
@@ -45,5 +45,5 @@ And the figurative meaning appears routinely in well-edited writing—e.g.:
 
  - "The lawsuit filed in Washington state court claims that US Airways *breached* its contract with Boeing." "Briefly," *L.A. Times*, 13 Sept. 1997, at D2.
 
-Current ratio in print \(*breached the contract* vs. *broke the contract*\): 4:1
+ - Current ratio in print \(*breached the contract* vs. *broke the contract*\): 4:1
 

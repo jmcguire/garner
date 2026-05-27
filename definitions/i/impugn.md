@@ -10,9 +10,9 @@ impugn.
 
 ## Language-Change Index
 
-*impugn* misused for *impute*: Stage 1
+ - *impugn* misused for *impute*: Stage 1
 
 **C. Corresponding Noun.** *Impugnment* is the standard noun corresponding to *impugn*. *\*Impugnation* is an archaic variant. For the mistaken form *\*impugnity* \(for *impunity*\), see **impunity \(b\)**.
 
-Current ratio in print \(*impugnment* vs. *\*impugnation*\): 3:1
+ - Current ratio in print \(*impugnment* vs. *\*impugnation*\): 3:1
 

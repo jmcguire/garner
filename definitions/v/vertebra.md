@@ -4,5 +4,5 @@ vertebra \(= a single bone that, together with similar bones, forms the spinal c
 
 ## Language-Change Index
 
-*vertebrae* misused as a singular for *vertebra*: Stage 1
+ - *vertebrae* misused as a singular for *vertebra*: Stage 1
 

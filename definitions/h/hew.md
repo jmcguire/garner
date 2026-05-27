@@ -12,12 +12,12 @@ For the misuse of *hew* for *hue* in the irreversible binomial *hue and cry*, se
 
 ## Language-Change Index
 
-*hued* misused for *hewed*: Stage 1
-Current ratio in print \(*hewed to* vs. *\*hued to*\): 38:1
+ - *hued* misused for *hewed*: Stage 1
+ - Current ratio in print \(*hewed to* vs. *\*hued to*\): 38:1
 
 **B. Inflections.** In sense 2, the preferred past participle is *hewn* in BrE and *hewed* in AmE. For an American publication, the following example gets the form wrong: "His campaigning this fall shows how closely he has *hewn* \[read, in AmE, *hewed*\] to that strategy." John F. Harris, "Out Loud, Clinton Puts Little Emphasis on His Party," *Wash. Post*, 24 Oct. 1996, at A17.
 
 In sense 1, the exceptional form in AmE is the past-participial adjective *rough-hewn*. See irregular verbs.
 
-Current ratio in print \(*has hewed to* vs. *\*has hewn to*\): 5:1
+ - Current ratio in print \(*has hewed to* vs. *\*has hewn to*\): 5:1
 

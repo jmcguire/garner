@@ -10,6 +10,6 @@ harebrained is the correct form; *\*hairbrained* is the common blunder. The miss
 
 ## Language-Change Index
 
-*\*hairbrained* for *harebrained*: Stage 1
-Current ratio in print \(*harebrained* vs. *\*hairbrained*\): 16:1
+ - *\*hairbrained* for *harebrained*: Stage 1
+ - Current ratio in print \(*harebrained* vs. *\*hairbrained*\): 16:1
 

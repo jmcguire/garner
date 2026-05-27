@@ -16,5 +16,5 @@ inquiry.
 
 ## Language-Change Index
 
-*query* misused for *inquiry*: Stage 1
+ - *query* misused for *inquiry*: Stage 1
 

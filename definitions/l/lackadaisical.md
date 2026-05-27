@@ -11,7 +11,7 @@ In fact, the influence of *lax* is made clear in the misspelling *\*laxadaisical
 ## Language-Change Index
 
 1. *\*lacksadaisical* for *lackadaisical*: Stage 2
-Current ratio in print \(*lackadaisical* vs. *\*lacksadaisical*\): 654:1
+ - Current ratio in print \(*lackadaisical* vs. *\*lacksadaisical*\): 654:1
 
 2. *\*laxadaisical* for *lackadaisical*: Stage 1
 

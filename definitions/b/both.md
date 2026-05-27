@@ -20,7 +20,7 @@ See parallelism.
 
 ## Language-Change Index
 
-*\*both . . . as well as* for *both . . . and*: Stage 2
+ - *\*both . . . as well as* for *both . . . and*: Stage 2
 
 **C. Redundancies with.** Several wordings with *both* cause redundancies. One is *\*both . . . each other*—e.g.:
 
@@ -40,7 +40,7 @@ Another is *\*both alike*—e.g.: "This makes treating *both alike* \[read *the 
 
 The alternative phrasing, *both of the* \(or *both of these*\), is somewhat more common in AmE.
 
-Current ratio in print \(*both the* vs. *both of the*\): 19:1
+ - Current ratio in print \(*both the* vs. *both of the*\): 19:1
 
 **E. *\*Both \(of\) the last*; *\*both \(of\) the last two*.** These phrases, common since the latter half of the 1800s, are unnecessarily wordy for *the last two*—e.g.:
 

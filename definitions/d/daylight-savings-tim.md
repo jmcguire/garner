@@ -10,6 +10,6 @@ Regardless of whether you use the plural or the singular, you can prevent most m
 
 ## Language-Change Index
 
-*daylight-savings time* for *daylight-saving time*: Stage 5
-Current ratio in print \(*daylight-saving time* vs. *daylight-savings time*\): 11:1
+ - *daylight-savings time* for *daylight-saving time*: Stage 5
+ - Current ratio in print \(*daylight-saving time* vs. *daylight-savings time*\): 11:1
 

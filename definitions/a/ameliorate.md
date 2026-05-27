@@ -6,5 +6,5 @@ ameliorate; **\*meliorate**. *Ameliorate* is the standard term meaning "to make 
 
 ## Language-Change Index
 
-*ameliorate* misused for *lessen*: Stage 1
+ - *ameliorate* misused for *lessen*: Stage 1
 

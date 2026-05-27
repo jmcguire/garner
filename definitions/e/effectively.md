@@ -12,5 +12,5 @@ Curiously, the adverb *effectually* was significantly more common than *effectiv
 
 ## Language-Change Index
 
-*effectually* misused for *effectively*: Stage 2
+ - *effectually* misused for *effectively*: Stage 2
 

@@ -18,5 +18,5 @@ But in sports talkâ€”where *nucleus* means "a core of strong players on a team"â
 
 See plurals \(b\).
 
-Current ratio in print \(*nuclei* vs. *nucleuses*\): 767:1
+ - Current ratio in print \(*nuclei* vs. *nucleuses*\): 767:1
 

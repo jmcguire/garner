@@ -6,5 +6,5 @@ lachrymose; **\*lacrimose**. This word, meaning "tearful," is generally spelled 
 
  - "Nestled cozily in chintz couches, surrounded by cuddly stuffed bunnies and kitties and puppies, the confessors sprinkle their *lachrymose* monologues with the same catchphrases and catechismal confessions." Ruth Shalit, "Dysfunction Junction," *New Republic*, 14 Apr. 1997, at 24.
 
-Current ratio in print \(*lachrymose* vs. *\*lacrimose*\): 78:1
+ - Current ratio in print \(*lachrymose* vs. *\*lacrimose*\): 78:1
 

@@ -4,5 +4,5 @@ psych, vb.; **psyche**, n. & vb. *Psych* /sīk/ = \(1\) to analyze psychological
 
 *Psyche* /**sī**-kee/ is best confined to its noun sense: "the human mind or soul."
 
-Current ratio in print \(*to psych out* vs. *\*to psyche out*\): 3:1
+ - Current ratio in print \(*to psych out* vs. *\*to psyche out*\): 3:1
 

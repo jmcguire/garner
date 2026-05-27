@@ -10,5 +10,5 @@ provided that; **providing that**. The phrase *provided that* \(= on condition t
 
 In fact, though, nine times out of ten the word *if* or the phrase *as long as* is a better choice than either *provided that* or *\*providing that*.
 
-Current ratio in print \(*provided that* vs. \**providing that*\): 9:1
+ - Current ratio in print \(*provided that* vs. \**providing that*\): 9:1
 

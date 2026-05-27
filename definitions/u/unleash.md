@@ -12,6 +12,6 @@ unleash. The word is premised on the analogy of letting a threatening or vicious
 
 ## Language-Change Index
 
-*\*unlease* for *unleash*: Stage 1
-Current ratio in print \(*unleashes* vs. *\*unleases*\): 2,883:1
+ - *\*unlease* for *unleash*: Stage 1
+ - Current ratio in print \(*unleashes* vs. *\*unleases*\): 2,883:1
 

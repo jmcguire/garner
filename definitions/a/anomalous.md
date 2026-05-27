@@ -8,5 +8,5 @@ anomalous; **anomalistic**. Something that is an anomaly is *anomalous*. That is
 
 ## Language-Change Index
 
-*anomalistic* misused for *anomalous*: Stage 1
+ - *anomalistic* misused for *anomalous*: Stage 1
 

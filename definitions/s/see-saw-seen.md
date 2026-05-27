@@ -10,6 +10,6 @@ See irregular verbs.
 
 ## Language-Change Index
 
-*seen* as a simple past for *saw*: Stage 1
-Current ratio in print \(*then I saw* vs. \**then I seen*\): 80:1
+ - *seen* as a simple past for *saw*: Stage 1
+ - Current ratio in print \(*then I saw* vs. \**then I seen*\): 80:1
 

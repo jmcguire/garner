@@ -15,5 +15,5 @@ Yet both forms are well established in English as adjectives. And the *cliché* 
 1. *cliché* as an adjective: Stage 5
 
 2. *clichéd* as an adjective: Stage 3
-Current ratio in print \(*clichéd image* vs. *cliché image*\): 4:1
+ - Current ratio in print \(*clichéd image* vs. *cliché image*\): 4:1
 

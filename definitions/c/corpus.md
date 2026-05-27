@@ -10,5 +10,5 @@ corpus \(= body, either literally or figuratively\) traditionally forms the plur
 
 Occasionally the form *\*corpuses* appears. It might be more immediately recognizable to most people, but it's still rare. See plurals \(b\).
 
-Current ratio in print \(*corpora* vs. *\*corpuses*\): 43:1
+ - Current ratio in print \(*corpora* vs. *\*corpuses*\): 43:1
 

@@ -22,5 +22,5 @@ Some writers, however, use a plural verb for the mass-noun sense, probably on gr
 
 See count nouns and mass nouns.
 
-Current ratio in print \(*The feces were* vs. *The feces was*\): 8:1
+ - Current ratio in print \(*The feces were* vs. *The feces was*\): 8:1
 

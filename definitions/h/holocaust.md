@@ -6,5 +6,5 @@ Also, of course, it brings to most modern minds the Nazi campaign to exterminate
 
 ## Language-Change Index
 
-*holocaust* in reference to death brought about by natural causes \(e.g., *the holocaust caused by the African famine*\): Stage 3
+ - *holocaust* in reference to death brought about by natural causes \(e.g., *the holocaust caused by the African famine*\): Stage 3
 

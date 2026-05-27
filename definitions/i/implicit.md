@@ -16,5 +16,5 @@ See **impliedly**.
 
 ## Language-Change Index
 
-*implicit* for *complete*: Stage 4
+ - *implicit* for *complete*: Stage 4
 

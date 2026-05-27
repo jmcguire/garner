@@ -12,5 +12,5 @@ The form *conoscenti*, by contrast, isn't a "misspelling" but a variant Italian 
 
 In a given context, *experts* or *authorities* might suffice, either one being easier to spell—not to mention to pronounce: /kon-yә-**shen**-tee/, /kohn-yә-**shen**-tee/, or /kog-nә-**shent**-ee/.
 
-Current ratio in print \(*cognoscenti* vs. *conoscenti* vs. \**cogniscenti*\): 325:23:1
+ - Current ratio in print \(*cognoscenti* vs. *conoscenti* vs. \**cogniscenti*\): 325:23:1
 

@@ -10,5 +10,5 @@ The two spellings are occasionally confounded, almost always in the direction of
 
 ## Language-Change Index
 
-*carousal* misused for *carousel*: Stage 1
+ - *carousal* misused for *carousel*: Stage 1
 

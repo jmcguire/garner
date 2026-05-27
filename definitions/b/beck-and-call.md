@@ -14,6 +14,6 @@ Sometimes the phrase *beck and call* comes out as a mondegreen: *\*beckon call*.
 
 ## Language-Change Index
 
-*\*beckon call* for *beck and call*: Stage 1
-Current ratio in print \(*beck and call* vs. *\*beckon call*\): 86:1
+ - *\*beckon call* for *beck and call*: Stage 1
+ - Current ratio in print \(*beck and call* vs. *\*beckon call*\): 86:1
 

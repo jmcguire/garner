@@ -8,5 +8,5 @@ operable; **operative**; **operational**. *Operable* is now commonly used in two
 
 ## Language-Change Index
 
-*\*operatable* for *operable*: Stage 1
+ - *\*operatable* for *operable*: Stage 1
 

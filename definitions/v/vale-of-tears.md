@@ -18,6 +18,6 @@ Perhaps a pun was intended in each case, but the phrasing arouses the suspicion 
 
 ## Language-Change Index
 
-*\*veil of tears* for *vale of tears*: Stage 2
-Current ratio in print \(*vale of tears* vs. *\*veil of tears*\): 4:1
+ - *\*veil of tears* for *vale of tears*: Stage 2
+ - Current ratio in print \(*vale of tears* vs. *\*veil of tears*\): 4:1
 

@@ -10,5 +10,5 @@ Although *temblor* originated as a Spanish term naturalized in English in the la
 
 ## Language-Change Index
 
-*trembler* or *\*tremblor* for *temblor*: Stage 1
+ - *trembler* or *\*tremblor* for *temblor*: Stage 1
 

@@ -12,7 +12,7 @@ See irregular verbs.
 
 ## Language-Change Index
 
-*wore* as a past participle for *worn*: Stage 1 Current ratio in print \(*had worn* vs. *\*had wore*\): 236:1
+ - *wore* as a past participle for *worn*: Stage 1 Current ratio in print \(*had worn* vs. *\*had wore*\): 236:1
 
-Current ratio in print \(*am worn out* vs. *\*am wore out*\): 133:1
+ - Current ratio in print \(*am worn out* vs. *\*am wore out*\): 133:1
 

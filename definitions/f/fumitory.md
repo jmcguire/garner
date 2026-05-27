@@ -4,5 +4,5 @@ fumitory \(= a flowering plant of the genus *Fumaria*\) is sometimes misspelled 
 
 ## Language-Change Index
 
-*fumatory* misused for *fumitory*: Stage 1
+ - *fumatory* misused for *fumitory*: Stage 1
 

@@ -10,6 +10,6 @@ The word is pronounced /fak-**toh**-tәm/.
 
 ## Language-Change Index
 
-*\*factota* for *factotums*: Stage 1
-Current ratio in print \(*factotums* vs. *\*factota*\): 25:1
+ - *\*factota* for *factotums*: Stage 1
+ - Current ratio in print \(*factotums* vs. *\*factota*\): 25:1
 

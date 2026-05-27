@@ -10,5 +10,5 @@ Either *convince* or *persuade* may be used with a *that*-clause. Although *pers
 
 ## Language-Change Index
 
-*convince* as an equivalent of *persuade*: Stage 5
+ - *convince* as an equivalent of *persuade*: Stage 5
 

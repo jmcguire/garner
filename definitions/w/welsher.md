@@ -4,5 +4,5 @@ welsher; **welcher**. The former is traditional in the sense "someone who shirks
 
 Many natives of Wales consider the word insulting, though there is no etymological evidence supporting a connection with *Welsh* \(= of, relating to, or hailing from Wales\). Even so, the popular mind makes this connection, and the careful writer must be heedful. Cf. **shanghai**.
 
-Current ratio in print \(*welshed on a bet* vs. *welched on a bet*\): 2.1:1
+ - Current ratio in print \(*welshed on a bet* vs. *welched on a bet*\): 2.1:1
 

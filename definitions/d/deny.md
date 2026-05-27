@@ -4,5 +4,5 @@ deny \(= to declare untrue; repudiate; refuse to recognize or acknowledge\) is s
 
 ## Language-Change Index
 
-*deny* misused for *decline*: Stage 1
+ - *deny* misused for *decline*: Stage 1
 

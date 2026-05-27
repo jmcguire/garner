@@ -4,5 +4,5 @@ no love lost \(now denoting dislike or enmity\), a phrase dating from the 1600s,
 
 Since about 1980, the phrase has sometimes been mistakenly written \**no love loss*, doubtless because it has been misheard. This is a kind of mondegreen.
 
-Current ratio in print \(*no love lost between* vs. \**no love loss between*\): 279:1
+ - Current ratio in print \(*no love lost between* vs. \**no love loss between*\): 279:1
 

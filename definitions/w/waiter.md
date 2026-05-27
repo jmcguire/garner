@@ -4,5 +4,5 @@ waiter. If women can be actors and sculptors, then surely they can be *waiters*.
 
 ## Language-Change Index
 
-*waiter* as a gender-neutral term: Stage 5
+ - *waiter* as a gender-neutral term: Stage 5
 

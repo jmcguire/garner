@@ -10,6 +10,6 @@ But occasionally *15 seconds* is more literal and appropriate than the original 
 
 ## Language-Change Index
 
-*\*15 seconds of fame* for *15 minutes of fame*: Stage 1
-Current ratio in print \(*15 minutes of fame* vs. *\*15 seconds of fame*\): 15:1
+ - *\*15 seconds of fame* for *15 minutes of fame*: Stage 1
+ - Current ratio in print \(*15 minutes of fame* vs. *\*15 seconds of fame*\): 15:1
 

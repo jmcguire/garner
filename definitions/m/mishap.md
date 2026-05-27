@@ -16,5 +16,5 @@ When government agencies use the word for tragic accidents, the reader may suspe
 
 ## Language-Change Index
 
-*mishap* misused in reference to a major accident: Stage 1
+ - *mishap* misused in reference to a major accident: Stage 1
 

@@ -4,5 +4,5 @@ censor, n.; **censer; sensor**. The first of these homophones is someone who sup
 
 ## Language-Change Index
 
-*censor* misused for *censer*: Stage 1 Current ratio in print \(*golden censer* vs. \**golden censor*\): 67:1
+ - *censor* misused for *censer*: Stage 1 Current ratio in print \(*golden censer* vs. \**golden censor*\): 67:1
 

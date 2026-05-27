@@ -12,5 +12,5 @@ See **die \(b\).**
 
 ## Language-Change Index
 
-*dying* misused for *dyeing*: Stage 1
+ - *dying* misused for *dyeing*: Stage 1
 

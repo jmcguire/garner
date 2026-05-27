@@ -4,6 +4,6 @@ grudging \(= reluctant; with grumbling\) is the standard adjective in phrases su
 
 ## Language-Change Index
 
-*\*begrudging* for *grudging*: Stage 2
-Current ratio in print \(*a grudging respect* vs. *\*a begrudging respect*\): 11:1
+ - *\*begrudging* for *grudging*: Stage 2
+ - Current ratio in print \(*a grudging respect* vs. *\*a begrudging respect*\): 11:1
 

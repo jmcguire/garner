@@ -4,6 +4,6 @@ obstinacy, not *\*obstinance*, is the noun corresponding to *obstinate* \(= stub
 
 ## Language-Change Index
 
-*\*obstinance* for *obstinacy*: Stage 1
-Current ratio in print \(*obstinacy* vs. \**obstinance*\): 77:1
+ - *\*obstinance* for *obstinacy*: Stage 1
+ - Current ratio in print \(*obstinacy* vs. \**obstinance*\): 77:1
 

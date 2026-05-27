@@ -8,5 +8,5 @@ But when no sense of uneasiness is attached to the situation, *anxious* isn't th
 
 ## Language-Change Index
 
-*anxious* for *eager*: Stage 4
+ - *anxious* for *eager*: Stage 4
 

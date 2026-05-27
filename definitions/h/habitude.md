@@ -4,6 +4,6 @@
 
 ## Language-Change Index
 
-*\*habitude* for *habit*: Stage 1
-Current ratio in print \(*habit* vs. *\*habitude*\): 268:1
+ - *\*habitude* for *habit*: Stage 1
+ - Current ratio in print \(*habit* vs. *\*habitude*\): 268:1
 

@@ -12,7 +12,7 @@ For the difference between *illusion* and *delusion*, see **illusion**. See mala
 
 ## Language-Change Index
 
-*illusion* misused for *allusion*: Stage 1 Current ratio in print \(*literary allusions* vs. *\*literary illusions*\): 114:1
+ - *illusion* misused for *allusion*: Stage 1 Current ratio in print \(*literary allusions* vs. *\*literary illusions*\): 114:1
 
 **B. And *reference*.** See **allude \(a\)**.
 

@@ -12,5 +12,5 @@ Got that?
 
 ## Language-Change Index
 
-*assassinator* as an equivalent of *assassin*: Stage 1
+ - *assassinator* as an equivalent of *assassin*: Stage 1
 

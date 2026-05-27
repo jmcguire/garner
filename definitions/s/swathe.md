@@ -8,5 +8,5 @@ But in both AmE and BrE, the verb *swathe* means \(1\) to wrap up closely or ful
 
 *Swathe* is pronounced /swayth/ or /swahth/ as both noun and verb. *Swath* is pronounced /swahth/.
 
-Current ratio in print \(*a wide swath* vs. *\*a wide swathe* in World Englishes\): 6:1
+ - Current ratio in print \(*a wide swath* vs. *\*a wide swathe* in World Englishes\): 6:1
 

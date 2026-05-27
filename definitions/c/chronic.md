@@ -14,13 +14,13 @@ At one time, *\*chronical* was the predominant adjective, but it has been in dec
 
 ## Language-Change Index
 
-*chronic* misused for *habitual* or *inveterate*: Stage 3
+ - *chronic* misused for *habitual* or *inveterate*: Stage 3
 
-Current ratio in print \(*habitual drinker* vs. *\*chronic drinker* vs. *inveterate drinker*\): 7:1.8:1
+ - Current ratio in print \(*habitual drinker* vs. *\*chronic drinker* vs. *inveterate drinker*\): 7:1.8:1
 
-Current ratio in print \(*habitual offender* vs. \**chronic offender*\): 4:1
+ - Current ratio in print \(*habitual offender* vs. \**chronic offender*\): 4:1
 
-Current ratio in print \(*chronically* vs. *\*chronicly*\): 6,772:1
+ - Current ratio in print \(*chronically* vs. *\*chronicly*\): 6,772:1
 
-Current ratio in print \(*chronic diseases* vs. *\*chronical diseases*\): 548:1
+ - Current ratio in print \(*chronic diseases* vs. *\*chronical diseases*\): 548:1
 

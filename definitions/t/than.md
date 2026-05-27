@@ -16,7 +16,7 @@ See comparatives and superlatives \(c\).
 
 ## Language-Change Index
 
-*than* misused for *then*: Stage 1
+ - *than* misused for *then*: Stage 1
 
 **C. Case of Pronoun After: *than me* or *than I*?** Traditional grammarians have considered *than* a conjunction, not a preposition—hence *He is taller than I \(am\)*. On this theory, the pronoun after *than* gets its case from its function in the completed second clause of the sentence—though, typically, the completing words of the second clause are merely implied. See understood words.
 
@@ -38,9 +38,9 @@ What about "My mother likes the dog more than me?" vs. "My mother likes the dog 
 
 ## Language-Change Index
 
-*than* with an objective pronoun <he's taller than me>: Stage 4
-Current ratio in print \(*taller than he* vs. *\*taller than him*\): 1.3:1
-Current ratio in print \(*better than I* vs. *\*better than me*\): 4:1
+ - *than* with an objective pronoun <he's taller than me>: Stage 4
+ - Current ratio in print \(*taller than he* vs. *\*taller than him*\): 1.3:1
+ - Current ratio in print \(*better than I* vs. *\*better than me*\): 4:1
 
 **D. *Than whom*.** In the awkward and \(fortunately\) now-rare inverted construction \(e.g., *T.S. Eliot, than whom few critics could be considered better*\), we might expect the nominative *who* to be the preferred pronoun. *Than* is treated as a conjunction in formal usage, not a preposition \(see \(c\)\), so the preferable relative pronoun in formal writing would seem to be the nominative *who* rather than the objective *whom*. But the anomalous phrasing has been traditional since the latter part of the 1500s. The *OED* states that *than whom* "is universally recognized instead of *than who*."
 

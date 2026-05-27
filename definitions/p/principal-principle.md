@@ -14,8 +14,8 @@ But *principal* is sometimes a noun—an elliptical form of *principal official*
 
 ## Language-Change Index
 
-*principal* misused for *principle*: Stage 1
-Current ratio in print \(*fundamental principles* vs. *\*fundamental principals*\): 925:1
+ - *principal* misused for *principle*: Stage 1
+ - Current ratio in print \(*fundamental principles* vs. *\*fundamental principals*\): 925:1
 
 **C. *Principle* misused for *principal*.** This mistake is perhaps even more common—e.g.:
 
@@ -27,8 +27,8 @@ Current ratio in print \(*fundamental principles* vs. *\*fundamental principals*
 
 ## Language-Change Index
 
-*principle* misused for *principal*: Stage 2
-Current ratio in print \(*principal reasons* vs. *\*principle reasons*\): 15:1
+ - *principle* misused for *principal*: Stage 2
+ - Current ratio in print \(*principal reasons* vs. *\*principle reasons*\): 15:1
 
 **D. *Principal* as a Nongradable Adjective.** See adjectives \(b\).
 

@@ -4,8 +4,8 @@ pea. This word has an interesting history. It evolved from *pease*, which in Old
 
 The cognate word denoting a pea pod—namely, *peascod* /**peez**-kahd/ or \**peasecod*, dating from the 1200s \(Middle English\)—has always been predominantly written *peascod* in Modern English.
 
-Current ratio in print \(*pease porridge* vs. \**peas porridge* vs. \**pea porridge*\): 7:1.8:1 1832 ratio in print \(*eat pease* vs. *eat peas*\): 1.2:1
-Current ratio in print \(*eat peas* vs. *eat* *pease*\): 26:1 1767 ratio in print \(*green pease* vs. *green peas*\): 2:1
-Current ratio in print \(*green peas* vs. *green pease*\): 76:1
-Current ratio in print \(*peascod* vs. \**peasecod*\): 8:1
+ - Current ratio in print \(*pease porridge* vs. \**peas porridge* vs. \**pea porridge*\): 7:1.8:1 1832 ratio in print \(*eat pease* vs. *eat peas*\): 1.2:1
+ - Current ratio in print \(*eat peas* vs. *eat* *pease*\): 26:1 1767 ratio in print \(*green pease* vs. *green peas*\): 2:1
+ - Current ratio in print \(*green peas* vs. *green pease*\): 76:1
+ - Current ratio in print \(*peascod* vs. \**peasecod*\): 8:1
 

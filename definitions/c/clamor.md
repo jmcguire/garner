@@ -12,7 +12,7 @@ What's the best way to prevent this error? Whenever you see or hear it, clamber 
 
 ## Language-Change Index
 
-*clamor* misused for *clamber*: Stage 1
+ - *clamor* misused for *clamber*: Stage 1
 
-Current ratio in print \(*clambered up* vs. *\*clamored up*\): 48:1
+ - Current ratio in print \(*clambered up* vs. *\*clamored up*\): 48:1
 

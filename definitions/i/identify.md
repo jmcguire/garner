@@ -16,5 +16,5 @@ Here the cant phrase is inappropriately used in reference to early-19th-century 
 
 ## Language-Change Index
 
-*identify with* \(as in *I could identify with the main character*\): Stage 4
+ - *identify with* \(as in *I could identify with the main character*\): Stage 4
 

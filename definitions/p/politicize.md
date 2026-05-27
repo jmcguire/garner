@@ -4,6 +4,6 @@ politicize; **\*politicalize**. The first is standard. It means \(1\) "to talk a
 
 ## Language-Change Index
 
-*\*politicalize* for *politicize*: Stage 1
-Current ratio in print \(*politicize* vs. *\*politicalize*\): 266:1
+ - *\*politicalize* for *politicize*: Stage 1
+ - Current ratio in print \(*politicize* vs. *\*politicalize*\): 266:1
 

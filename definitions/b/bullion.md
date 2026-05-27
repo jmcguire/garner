@@ -10,7 +10,7 @@ bullion; **bouillon**. The first term, referring to an ingot of precious metal, 
 
 ## Language-Change Index
 
-*bullion* misused for *bouillon*: Stage 1
-Current ratio in print \(*beef bouillon* vs. \**beef bullion*\): 85:1
-Current ratio in print \(*gold bullion* vs. \**gold bouillon*\): 276:1
+ - *bullion* misused for *bouillon*: Stage 1
+ - Current ratio in print \(*beef bouillon* vs. \**beef bullion*\): 85:1
+ - Current ratio in print \(*gold bullion* vs. \**gold bouillon*\): 276:1
 

@@ -12,5 +12,5 @@ Prefer *method* or *methods* whenever you can.
 
 ## Language-Change Index
 
-*methodology* for *method*: Stage 5
+ - *methodology* for *method*: Stage 5
 

@@ -12,5 +12,5 @@ Regardless of its label, this process is quite common, especially in speech. But
 
 ## Language-Change Index
 
-*can't seem*: Stage 5
+ - *can't seem*: Stage 5
 

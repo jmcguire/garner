@@ -10,6 +10,6 @@ See **whether \(c\)**.
 
 ## Language-Change Index
 
-*\*regardless whether* for *regardless of whether*: Stage 2
-Current ratio in print \(*regardless of whether* vs. *\*regardless whether*\): 48:1
+ - *\*regardless whether* for *regardless of whether*: Stage 2
+ - Current ratio in print \(*regardless of whether* vs. *\*regardless whether*\): 48:1
 

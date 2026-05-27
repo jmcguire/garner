@@ -14,5 +14,5 @@ waive.
 
 ## Language-Change Index
 
-*waive* misused for *wave*: Stage 1 Current ratio in print \(*wave aside* vs. *\*waive aside*\): 9:1
+ - *waive* misused for *wave*: Stage 1 Current ratio in print \(*wave aside* vs. *\*waive aside*\): 9:1
 

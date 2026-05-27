@@ -8,5 +8,5 @@ waylay > waylaid > waylaid. So inflected. Occasionally the past tense or past pa
 
  - "Within the first three hours of the 26.2-mile event, hundreds of runners had been *waylayed* \[read *waylaid*\] by the heat, and medical tents were filled with participants requiring treatment for dehydration and heat exhaustion." Michael Tsai, "Honolulu Marathon Feels Chicago's Heat," *Honolulu Advertiser*, 10 Oct. 2007, at D1.
 
-Current ratio in print \(*waylaid* vs. *\*waylayed*\): 730:1
+ - Current ratio in print \(*waylaid* vs. *\*waylayed*\): 730:1
 

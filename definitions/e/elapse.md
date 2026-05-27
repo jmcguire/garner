@@ -10,5 +10,5 @@ elapse once had two uses, as a noun and as a verb. Today, however, the noun is a
 
 ## Language-Change Index
 
-*elapse* used for *lapse*: Stage 1
+ - *elapse* used for *lapse*: Stage 1
 

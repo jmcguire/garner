@@ -12,5 +12,5 @@ But except in that casualism, *liven* alone is really just a needless variant of
 
 ## Language-Change Index
 
-*liven up* meaning "to enliven": Stage 5
+ - *liven up* meaning "to enliven": Stage 5
 

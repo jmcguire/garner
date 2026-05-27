@@ -13,8 +13,8 @@ See irregular verbs.
 ## Language-Change Index
 
 1. *\*stinked* as past tense of *stink*: Stage 1
-Current ratio in print \(*stank* vs. *stunk* vs. *\*stinked*\): 512:138:1
+ - Current ratio in print \(*stank* vs. *stunk* vs. *\*stinked*\): 512:138:1
 
 2. *stunk* for simple-past *stank*: Stage 4
-Current ratio in print \(*they stank* vs. *\*they stunk*\): 4:1
+ - Current ratio in print \(*they stank* vs. *\*they stunk*\): 4:1
 

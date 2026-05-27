@@ -4,6 +4,6 @@ eldritch \(= weird, eerie\) is sometimes misspelled *\*eldrich*—e.g.: "June is
 
 ## Language-Change Index
 
-*eldritch* misspelled *\*eldrich*: Stage 1
-Current ratio in print \(*eldritch* vs. \**eldrich*\): 38:1
+ - *eldritch* misspelled *\*eldrich*: Stage 1
+ - Current ratio in print \(*eldritch* vs. \**eldrich*\): 38:1
 

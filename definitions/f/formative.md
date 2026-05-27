@@ -12,5 +12,5 @@ See **formidable** & word-swapping.
 
 ## Language-Change Index
 
-*formidable* misused for *formative*: Stage 1
+ - *formidable* misused for *formative*: Stage 1
 

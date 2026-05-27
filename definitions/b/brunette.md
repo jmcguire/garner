@@ -12,6 +12,6 @@ brunette; **brunet**. Unlike its counterpart *blond\(e\)*, this word is seldom a
 
 Cf. **blond**. See sexism \(d\).
 
-Current ratio in print \(*brunettes* vs. *brunets*\): 36:1
-Current ratio in print \(*brunette women* vs. *brunet men*\): 20:1
+ - Current ratio in print \(*brunettes* vs. *brunets*\): 36:1
+ - Current ratio in print \(*brunette women* vs. *brunet men*\): 20:1
 

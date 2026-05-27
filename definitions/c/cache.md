@@ -22,5 +22,5 @@ The opposite error—*cachet* misused for *cache*—typically occurs with phrase
 
 ## Language-Change Index
 
-*cache* misused for *cachet*: Stage 1 Current ratio in print \(*social cachet* vs. *\*social cache*\): 13:1 Current ratio in print \(*a lot of cachet* vs. *\*a lot of cache*\): 1.5:1
+ - *cache* misused for *cachet*: Stage 1 Current ratio in print \(*social cachet* vs. *\*social cache*\): 13:1 Current ratio in print \(*a lot of cachet* vs. *\*a lot of cache*\): 1.5:1
 

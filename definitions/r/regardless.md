@@ -10,6 +10,6 @@ Though longer, *regardless of* would also be acceptable in those sentences. See 
 
 ## Language-Change Index
 
-*regardless* \(without *of*\) misused for *despite*: Stage 2
-Current ratio in print \(*regardless of what* vs. \**regardless what*\): 62:1
+ - *regardless* \(without *of*\) misused for *despite*: Stage 2
+ - Current ratio in print \(*regardless of what* vs. \**regardless what*\): 62:1
 

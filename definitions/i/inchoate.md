@@ -4,7 +4,7 @@ inchoate.
 
 **A. Meaning, Pronunciation, and Spelling.** *Inchoate*—pronounced /in-**koh**-it/ in both AmE and BrE, and secondarily /**in**-koh-әt/ in BrE \(always three syllables\)—means "just begun; in the early stages of forming; not fully developed"—e.g.: "American understanding of Islamic terrorism then was still *inchoate*. Al-Qaida was barely on the screen." Terry McDermott et al., "Al-Qaida ‘Engineer' Slips Dragnet," *Newsday* \(N.Y.\), 27 Dec. 2002, at A42. The word is sometimes misspelled *\*incohate*.
 
-Current ratio in print \(*inchoate* vs. *\*incohate*\): 2,051:1
+ - Current ratio in print \(*inchoate* vs. *\*incohate*\): 2,051:1
 
 **B. And *choate*.** The prefix is an intensive *in*-, not a negative or privative *in*-. So the back-formation *choate* \(= complete\)—premised, as it is, on the notion that *inchoate* is a negative—makes little sense. But it's now established in law <choate lien>.
 
@@ -18,7 +18,7 @@ Current ratio in print \(*inchoate* vs. *\*incohate*\): 2,051:1
 
 ## Language-Change Index
 
-*inchoate* misused for *chaotic*: Stage 1
+ - *inchoate* misused for *chaotic*: Stage 1
 
 **D. And *innate*.** Harder to understand is the misuse of *inchoate* to mean "innate" or "inherent"—e.g.:
 
@@ -28,5 +28,5 @@ Current ratio in print \(*inchoate* vs. *\*incohate*\): 2,051:1
 
 ## Language-Change Index
 
-*inchoate* misused for *innate*: Stage 1
+ - *inchoate* misused for *innate*: Stage 1
 

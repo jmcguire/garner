@@ -12,5 +12,5 @@ But sometimes *half-mast* is undoubtedly chosen because of its unsubtle phonic s
 
 ## Language-Change Index
 
-*half-mast* misused for *half-staff*: Stage 2
+ - *half-mast* misused for *half-staff*: Stage 2
 

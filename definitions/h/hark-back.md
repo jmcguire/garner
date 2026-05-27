@@ -10,7 +10,7 @@ hark back.
 
 *\*Harken back* and *\*hearken back* are needless variants that, taken together, are markedly less common than *hark back*.
 
-Current ratio in print \(*harked back* vs. *\*harkened back* vs. *\*hearkened back*\): 5:3:1
+ - Current ratio in print \(*harked back* vs. *\*harkened back* vs. *\*hearkened back*\): 5:3:1
 
 **B. Wrongly Written *\*harp back*.** This odd mistake seems not to have spread beyond BrE—e.g.:
 
@@ -24,6 +24,6 @@ Curiously, most British dictionaries say nothing about this error.
 
 ## Language-Change Index
 
-*\*harp back* for *hark back*: Stage 1
-Current ratio in print \(*harked back* vs. *\*harped back*\): 132:1
+ - *\*harp back* for *hark back*: Stage 1
+ - Current ratio in print \(*harked back* vs. *\*harped back*\): 132:1
 

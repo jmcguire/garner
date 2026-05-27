@@ -4,6 +4,6 @@ plastically is the adverb corresponding to *plastic*, adj. But some writers miss
 
 ## Language-Change Index
 
-*plastically* misspelled *\*plasticly*: Stage 1
-Current ratio in print \(*plastically* vs. \**plasticly*\): 317:1
+ - *plastically* misspelled *\*plasticly*: Stage 1
+ - Current ratio in print \(*plastically* vs. \**plasticly*\): 317:1
 

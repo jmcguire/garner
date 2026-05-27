@@ -4,5 +4,5 @@ advertise. So spelled. Although it's not etymologically an -ize verb, it's occas
 
 ## Language-Change Index
 
-*advertise* misspelled *\*advertize*: Stage 1 Current ratio in print \(*advertise* vs. \**advertize*\): 214:1
+ - *advertise* misspelled *\*advertize*: Stage 1 Current ratio in print \(*advertise* vs. \**advertize*\): 214:1
 

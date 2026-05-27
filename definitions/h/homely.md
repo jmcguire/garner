@@ -4,5 +4,5 @@ homely; **homey**. These two adjectives have undergone differentiation. *Homey* 
 
 As a casualism in AmE, *homey* also has the noun sense "a friend or someone who belongs to your neighborhood or group."
 
-Current ratio in print \(*homey* vs. \**homy*\): 153:1
+ - Current ratio in print \(*homey* vs. \**homy*\): 153:1
 

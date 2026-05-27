@@ -27,10 +27,10 @@ When a directional word appears as an adjective before a geographic proper name,
 
 In all varieties of English, the terms denoting denizens or natives of a particular region are generally capitalized: *Northerner*, *Southerner*, *Easterner*, *Westerner*, *Northeasterner*, *Northwesterner*, *Southeasterner*, *Southwesterner*, *Midwesterner*.
 
-Current ratio in print \(*Northerners* vs. *northerners*\): 1:1
-Current ratio in print \(*Southerners* vs. *southerners*\): 1.2:1
-Current ratio in print \(*Easterners* vs. *easterners*\): 3:1
-Current ratio in print \(*Westerners* vs. *westerners*\): 5:1
+ - Current ratio in print \(*Northerners* vs. *northerners*\): 1:1
+ - Current ratio in print \(*Southerners* vs. *southerners*\): 1.2:1
+ - Current ratio in print \(*Easterners* vs. *easterners*\): 3:1
+ - Current ratio in print \(*Westerners* vs. *westerners*\): 5:1
 
 **C. Verbose Constructions.** To use such words as *easterly* in phrases like *in an easterly direction* is prolix. In fact, the simple word for the direction \(*east*\) usually suffices in place of the word ending in either *-erly* or *-wardly*. E.g.: "In Portsmouth, when you're going north on U.S. 17 on High Street, you're traveling *in a westwardly direction* \[read *west*\]." Ida Kay Jordan, "Hurricane Escape Plan May Lead Some Down the Road to Confusion," *Virginian-Pilot* \(Norfolk\), 5 June 1994, Portsmouth Currents §, at 2.
 
@@ -46,6 +46,6 @@ Though the *-ernly* words are recorded in the *OED*, they're noted as being rare
 
 ## Language-Change Index
 
-*\*northernly*, *\*southernly*, etc. for *northerly*, *southerly*, etc.: Stage 1
-Current ratio in print \(*westerly direction* vs. *\*westernly direction*\): 1,140:1
+ - *\*northernly*, *\*southernly*, etc. for *northerly*, *southerly*, etc.: Stage 1
+ - Current ratio in print \(*westerly direction* vs. *\*westernly direction*\): 1,140:1
 

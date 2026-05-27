@@ -26,5 +26,5 @@ See word-swapping.
 
 ## Language-Change Index
 
-*centripetal* misused for *centrifugal*: Stage 1 *centripetal* misspelled \**centripedal*: Stage 1 Current ratio in print \(*centripetal force* vs. \**centripedal force*\): 767:1
+ - *centripetal* misused for *centrifugal*: Stage 1 *centripetal* misspelled \**centripedal*: Stage 1 Current ratio in print \(*centripetal force* vs. \**centripedal force*\): 767:1
 

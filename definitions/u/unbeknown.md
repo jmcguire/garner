@@ -16,6 +16,6 @@ From 1800 to about 1968, *unbeknown* was the predominant form in AmE print sourc
 
 ## Language-Change Index
 
-*unbeknownst* for *unbeknown*: Stage 4
-Current ratio in print \(*unbeknownst* vs. *unbeknown*\): 3:1
+ - *unbeknownst* for *unbeknown*: Stage 4
+ - Current ratio in print \(*unbeknownst* vs. *unbeknown*\): 3:1
 

@@ -28,5 +28,5 @@ Because *mani*- denotes something related to the hand, and *pedi*- to the foot, 
 
 ## Language-Change Index
 
-*manicure* misused for *pedicure*: Stage 2
+ - *manicure* misused for *pedicure*: Stage 2
 

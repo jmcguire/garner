@@ -10,6 +10,6 @@ The better pronunciationâ€”the only one recognized in most current dictionariesâ
 
 ## Language-Change Index
 
-*\*lava bread* for *laver bread*: Stage 2
-Current ratio in print \(*laver bread* vs. *\*lava bread*\): 3:1
+ - *\*lava bread* for *laver bread*: Stage 2
+ - Current ratio in print \(*laver bread* vs. *\*lava bread*\): 3:1
 

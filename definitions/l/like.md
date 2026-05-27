@@ -23,7 +23,7 @@ As all the parenthetical revisions suggest, the most natural solution is to open
 ## Language-Change Index
 
 Prepositional *like* introducing nominative pronoun: Stage 1
-Current ratio in print \(*like you and me* vs. \**like you and I*\): 3:1
+ - Current ratio in print \(*like you and me* vs. \**like you and I*\): 3:1
 
 **B. As a Conjunction.** In traditional usage, *like* is a preposition that governs nouns and noun phrases, not a conjunction that governs verbs or clauses. Its function is adjectival, not adverbial. Hence one does not write, properly, *\*The story ended like it began*, but *The story ended as it began*. If we change the verbs to nouns, *like* is correct: "The story's ending was like its beginning." Frequently, therefore, *like* needs to be replaced by the proper conjunction *as* \(or *as if*\)—e.g.:
 
@@ -52,16 +52,16 @@ Although this use of *like* can no longer be considered an outright solecism, as
 ## Language-Change Index
 
 1. *like* as a conjunction: Stage 4
-Current ratio in print \(*as they do* vs. *like they do*\): 9:1
+ - Current ratio in print \(*as they do* vs. *like they do*\): 9:1
 
 2. *like* for *as if* or *as though*: Stage 4
-Current ratio in print \(*acts as if he* vs. *acts like he*\): 1:1.3
+ - Current ratio in print \(*acts as if he* vs. *acts like he*\): 1:1.3
 
 **C. *As* for *like*.** This is a form of hypercorrection—trying so hard to avoid error that you end up falling into an opposite error. Ernest Gowers saw the problem: "A fashion seems to be growing, even among some good writers, to prefer *as* to *like* not only, rightly, as a conjunction, but also, ill-advisedly, as a prepositional adjective" \(*FMEU2* at 336\). E.g.: "*As* \[read *Like*\] most people, I have been fortunate to have many mentors in life." John B. Simon, "Seymour F. Simon," *CBA Record*, Oct. 1993, at 14. Cf. **in common with**.
 
 ## Language-Change Index
 
-*as* misused for the preposition *like* <as you, I agree with that>: Stage 2
+ - *as* misused for the preposition *like* <as you, I agree with that>: Stage 2
 
 **D. Overused Generally.** Like any other word, *like* can entangle a sentence if used indiscriminately—e.g.: "I have been buying most of my books from Barnes & Noble, whose two new superstores have come down on my old neighborhood shop *like* the Assyrians who came down *like* the wolf on the fold." Victor Navasky, "Buying Books: Theory vs. Practice," *N.Y. Times*, 20 June 1996, at A13. The two *like* phrases are especially jarring because they come at the end of an already involved sentence.
 
@@ -91,7 +91,7 @@ Since the 1980s, *be like* \(the quotative *like*\) has also been a low casualis
 
 ## Language-Change Index
 
-*like* as a spoken space-filler <I was, like, ready an hour ago>: Stage 2
+ - *like* as a spoken space-filler <I was, like, ready an hour ago>: Stage 2
 
 **F. For *such as*.** As a preposition, *like* often takes on the sense "similar to" or "resembling" <I want something like a Degas print>. This use often verges into the sense "as for example" <I enjoy the work of painters like Degas>. Does a reference like that one—such as that one—exclude or include Degas? Do you enjoy the work of painters who resemble Degas but not that of Degas himself? \(This is the pedantic position.\) Or do you enjoy the work of Degas and others like him? \(This is the more usual relaxed position.\)
 

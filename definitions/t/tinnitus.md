@@ -4,6 +4,6 @@ tinnitus \(= a ringing or other sound in the ears not caused by external stimulu
 
 ## Language-Change Index
 
-*tinnitus* misspelled *\*tinnitis*: Stage 1
-Current ratio in print \(*tinnitus* vs. \**tinnitis*\): 892:1
+ - *tinnitus* misspelled *\*tinnitis*: Stage 1
+ - Current ratio in print \(*tinnitus* vs. \**tinnitis*\): 892:1
 

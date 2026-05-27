@@ -10,5 +10,5 @@ hopeful, n. When used in the sense "a candidate," this word smacks of journalese
 
 ## Language-Change Index
 
-*hopeful* for *candidate*: Stage 4
+ - *hopeful* for *candidate*: Stage 4
 

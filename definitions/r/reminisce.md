@@ -6,5 +6,5 @@ reminisce \(= to think or talk about events in one's past, esp. pleasant ones\) 
 
  - "Each Trojet had a wonderful time *reminiscing their* \[read *reminiscing about the*\] 2013–2014 season." Kennedy Valinevicius, "Trojets Hold Banquet," *JG–TC* \(Mattoon–Charleston, Ill.\), 12 Apr. 2014, at C6. \(On the *each . . . their* issue in that sentence, see **each \(a\)**.)
 
-Current ratio in print \(*reminisce about the past* vs. *\*reminisce the past*\): 19:1
+ - Current ratio in print \(*reminisce about the past* vs. *\*reminisce the past*\): 19:1
 

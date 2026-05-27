@@ -131,7 +131,7 @@ acceptable in speech that is highly stigmatized in print. That's not
 unusual, generally speaking, but it's highly unusual when it concerns a core
 element of English speech, such as first-person and third-person pronouns.
 
-Current ratio in print (*between him and me* vs. **between him and I*): 20:1
+ - Current ratio in print (*between him and me* vs. **between him and I*): 20:1
 
 **C. Number Problems.** Sometimes, in the quest for correctness, writers let
 their sense of grammar override long-established idioms. They may write, for

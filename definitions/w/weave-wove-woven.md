@@ -13,8 +13,8 @@ See irregular verbs.
 ## Language-Change Index
 
 1. *weaved* misused for *wove*: Stage 2
-Current ratio in print \(*wove together* vs. *\*weaved together*\): 4:1
+ - Current ratio in print \(*wove together* vs. *\*weaved together*\): 4:1
 
 2. *weaved* misused for *woven*: Stage 1
-Current ratio in print \(*had woven* vs. *\*had weaved* in most senses\): 13:1
+ - Current ratio in print \(*had woven* vs. *\*had weaved* in most senses\): 13:1
 

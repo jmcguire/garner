@@ -4,5 +4,5 @@ lacrimal \(= of, relating to, or involving tears or tear-producing glands\), a L
 
 What's the difference between *lacrimal* and *lachrymose*? The first is anatomical, the second emotive.
 
-Current ratio in print \(*lacrimal* vs. \**lachrymal*\): 16:1
+ - Current ratio in print \(*lacrimal* vs. \**lachrymal*\): 16:1
 

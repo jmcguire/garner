@@ -8,5 +8,5 @@ narcissus. Since about 1870, the predominant plural has been the Latin *narcissi
 
 Oddly, from 1800 to 1860, the homegrown plural was the more common of the two. See plurals \(b\).
 
-Current ratio in print \(*narcissi* vs. *\*narcissuses*\): 9:1
+ - Current ratio in print \(*narcissi* vs. *\*narcissuses*\): 9:1
 

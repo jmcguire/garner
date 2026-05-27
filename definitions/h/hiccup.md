@@ -4,6 +4,6 @@ hiccup; **\*hiccough**. The first is the standard spelling; the second is a vari
 
 *Hiccup*, vb., traditionally makes *hiccupped* and *hiccupping* in AmE and BrE alike. See spelling \(c\).
 
-Current ratio in print \(*hiccup* vs. \**hiccough*\): 8:1
-Current ratio in print \(*hiccupped* vs. *hiccuped*\): 3:1
+ - Current ratio in print \(*hiccup* vs. \**hiccough*\): 8:1
+ - Current ratio in print \(*hiccupped* vs. *hiccuped*\): 3:1
 

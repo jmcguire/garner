@@ -11,8 +11,8 @@ See **lessor**.
 ## Language-Change Index
 
 1. *\*leasor* for *lessor*: Stage 1
-Current ratio in print \(*lessor* vs. *\*leasor*\): 991:1
+ - Current ratio in print \(*lessor* vs. *\*leasor*\): 991:1
 
 2. *\*leasee* for *lessee*: Stage 1
-Current ratio in print \(*the lessee must* vs. *\*the leasee must*\): 103:1
+ - Current ratio in print \(*the lessee must* vs. *\*the leasee must*\): 103:1
 

@@ -4,6 +4,6 @@ Ku Klux Klan. So spelled. The more thoroughly alliterative misspelling *\*Klu Kl
 
 ## Language-Change Index
 
-*Ku Klux Klan* misspelled *\*Klu Klux Klan*: Stage 1
-Current ratio in print \(*Ku Klux Klan* vs. \**Klu Klux Klan*\): 51:1
+ - *Ku Klux Klan* misspelled *\*Klu Klux Klan*: Stage 1
+ - Current ratio in print \(*Ku Klux Klan* vs. \**Klu Klux Klan*\): 51:1
 

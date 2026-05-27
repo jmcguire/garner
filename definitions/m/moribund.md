@@ -4,5 +4,5 @@ moribund \(= dying\) does not mean "dead." Yet many writers misuse the word in t
 
 ## Language-Change Index
 
-*moribund* used to mean "dead" instead of "dying": Stage 2
+ - *moribund* used to mean "dead" instead of "dying": Stage 2
 

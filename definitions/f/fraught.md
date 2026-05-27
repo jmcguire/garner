@@ -14,7 +14,7 @@ There is a new sense of *fraught*, too—"distressed" or "distressing"—dating 
 
 ## Language-Change Index
 
-*fraught* \(without *with*\): Stage 5
+ - *fraught* \(without *with*\): Stage 5
 
 **B. *Fraught with* and *wrought with*.** *Wrought*, an archaic past participle of *work*, is frequently but erroneously substituted for *fraught* in the idiom *fraught with* \(danger, peril, etc.\)—e.g.:
 
@@ -28,6 +28,6 @@ The confusion may be due in part to the similarity of another idiom, *wrought up
 
 ## Language-Change Index
 
-*wrought with* misused for *fraught with*: Stage 1
-Current ratio in print \(*fraught with problems* vs. *\*wrought with problems*\): 81:1
+ - *wrought with* misused for *fraught with*: Stage 1
+ - Current ratio in print \(*fraught with problems* vs. *\*wrought with problems*\): 81:1
 

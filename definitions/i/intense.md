@@ -28,6 +28,6 @@ In sum, let's forget H.W. Fowler's advice that *intensive* "is the kind of word 
 
 ## Language-Change Index
 
-*intensive* misused for *intense*: Stage 4
-Current ratio in print \(*intensive* vs. *\*intensitive*\): 10,058:1
+ - *intensive* misused for *intense*: Stage 4
+ - Current ratio in print \(*intensive* vs. *\*intensitive*\): 10,058:1
 

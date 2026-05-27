@@ -22,5 +22,5 @@ Careful users of language preserve the age-old fissure between the words.
 
 ## Language-Change Index
 
-*riff* misused for *rift*: Stage 1
+ - *riff* misused for *rift*: Stage 1
 

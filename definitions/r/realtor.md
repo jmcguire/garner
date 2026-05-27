@@ -6,5 +6,5 @@ Some authorities suggest that it should be capitalized and used only in its prop
 
 ## Language-Change Index
 
-*realtor* mispronounced with three syllables: Stage 2
+ - *realtor* mispronounced with three syllables: Stage 2
 

@@ -12,6 +12,6 @@ Some writers change *cramp* to *crimp* \(= to make pinched or bent\), perhaps be
 
 ## Language-Change Index
 
-*\*crimping one's style* for *cramping one's style*: Stage 1
-Current ratio in print \(*cramp your style* vs. *\*crimp your style*\): 69:1
+ - *\*crimping one's style* for *cramping one's style*: Stage 1
+ - Current ratio in print \(*cramp your style* vs. *\*crimp your style*\): 69:1
 

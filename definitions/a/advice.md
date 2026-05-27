@@ -4,5 +4,5 @@ advice; advise. *Advice* /ad-**vīs**/ \(= counsel that one person gives another
 
 ## Language-Change Index
 
-*advise* misused for *advice*: Stage 1 Current ratio in print \(*good advice* vs. *\*good advise*\): 448:1
+ - *advise* misused for *advice*: Stage 1 Current ratio in print \(*good advice* vs. *\*good advise*\): 448:1
 

@@ -16,6 +16,6 @@ If *equal* and *better* are used as verbs, of course, no prepositions are needed
 
 ## Language-Change Index
 
-*\*equal if not better than* for *equal to if not better than*: Stage 4
-Current ratio in print \(*equal to if not better than* vs. *\*equal if not better than*\): 1:1.8
+ - *\*equal if not better than* for *equal to if not better than*: Stage 4
+ - Current ratio in print \(*equal to if not better than* vs. *\*equal if not better than*\): 1:1.8
 

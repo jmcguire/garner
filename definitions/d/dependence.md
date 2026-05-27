@@ -8,5 +8,5 @@ Unfortunately, the distinction is not complete: *dependency* is also the term fo
 
 ## Language-Change Index
 
-*dependency* misused for *dependence*: Stage 2
+ - *dependency* misused for *dependence*: Stage 2
 

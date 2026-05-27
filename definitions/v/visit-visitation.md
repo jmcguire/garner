@@ -14,5 +14,5 @@ Without some suggestion of collectivity, formality, or transcendence, *visitatio
 
 ## Language-Change Index
 
-*visitation* misused for *visit*: Stage 1
+ - *visitation* misused for *visit*: Stage 1
 

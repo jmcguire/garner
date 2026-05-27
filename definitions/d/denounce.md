@@ -20,5 +20,5 @@ Some writers use *denounce* when they plainly mean *renounce*—e.g.:
 
 ## Language-Change Index
 
-*denounce* misused for *renounce*: Stage 2
+ - *denounce* misused for *renounce*: Stage 2
 

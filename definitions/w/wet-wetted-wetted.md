@@ -16,7 +16,7 @@ See irregular verbs. Cf. **fit**.
 
 For the misuse of *wet* for *whet*, see **whet**.
 
-Current ratio in print \(*has wet the* vs. *has wetted the*\): 5:1
+ - Current ratio in print \(*has wet the* vs. *has wetted the*\): 5:1
 
-Current ratio in print \(*he wet his bed* vs. *\*he wetted his bed*\): 24:1
+ - Current ratio in print \(*he wet his bed* vs. *\*he wetted his bed*\): 24:1
 

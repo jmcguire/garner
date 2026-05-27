@@ -20,7 +20,7 @@ fictional; **fictitious**; **fictive**; **\*fictionary**. Although these forms o
 
 ## Language-Change Index
 
-*fictive* misused for *fictitious* or *fictional*: Stage 1
-Current ratio in print \(*fictitious name* vs. *fictional name* vs. *\*fictive name*\): 69:12:1
-Current ratio in print \(*fictional characters* vs. *fictitious characters* vs. *\*fictive characters*\): 68:5:1
+ - *fictive* misused for *fictitious* or *fictional*: Stage 1
+ - Current ratio in print \(*fictitious name* vs. *fictional name* vs. *\*fictive name*\): 69:12:1
+ - Current ratio in print \(*fictional characters* vs. *fictitious characters* vs. *\*fictive characters*\): 68:5:1
 

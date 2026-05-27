@@ -4,5 +4,5 @@ rock and roll; **rock 'n' roll**; **rock-and-roll**; **rock'n'roll**; **rock & r
 
 Fortunately, the editorial puzzle presented by these variations has largely been solved: almost everyone today refers to *rock music* or simply *rock*. Increasingly, *rock 'n' roll* carries overtones of early rock—the 1950s-style music such as "Rock Around the Clock," by Bill Haley and the Comets.
 
-Current ratio in print \(*rock and roll* vs. *rock 'n' roll* vs. *rock-and-roll* vs. *rock'n'roll* vs. *rock & roll*\): 13:13:3:3:1
+ - Current ratio in print \(*rock and roll* vs. *rock 'n' roll* vs. *rock-and-roll* vs. *rock'n'roll* vs. *rock & roll*\): 13:13:3:3:1
 

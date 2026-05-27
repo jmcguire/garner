@@ -18,5 +18,5 @@ The primary meaning has long been "a trial or decision in which the subject matt
 
 ## Language-Change Index
 
-*cause célèbre* misused to mean "famous cause": Stage 1
+ - *cause célèbre* misused to mean "famous cause": Stage 1
 

@@ -4,5 +4,5 @@ sensational; **sensationalistic**. *Sensational* answers to *sensation* \(excite
 
 ## Language-Change Index
 
-*sensational* misused for *sensationalistic*: Stage 1
+ - *sensational* misused for *sensationalistic*: Stage 1
 

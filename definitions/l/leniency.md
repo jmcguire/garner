@@ -4,6 +4,6 @@ leniency; **\*lenience**. The former has been standard since 1800. The latter is
 
 ## Language-Change Index
 
-*\*lenience* for *leniency*: Stage 1
-Current ratio in print \(*leniency* vs. *\*lenience*\): 16:1
+ - *\*lenience* for *leniency*: Stage 1
+ - Current ratio in print \(*leniency* vs. *\*lenience*\): 16:1
 

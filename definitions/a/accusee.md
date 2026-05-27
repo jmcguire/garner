@@ -13,8 +13,8 @@ Occasionally *\*accusee* is erroneously used for *accuser—*e.g.: "If these acc
 ## Language-Change Index
 
 1. *\*accusee* for the attributive noun *accused*: Stage 1
-Current ratio in print \(*the accused* vs. \**the accusee*\): 11,112:1
+ - Current ratio in print \(*the accused* vs. \**the accusee*\): 11,112:1
 
 2. *\*accusee* misused for *accuser*: Stage 1
-Current ratio in print \(*the accuser* vs. \**the accusee*\): 762:1
+ - Current ratio in print \(*the accuser* vs. \**the accusee*\): 762:1
 

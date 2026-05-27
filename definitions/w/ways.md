@@ -4,5 +4,5 @@ way\(s\). In the sense "the length of a course or distance," *way* has long been
 
 ## Language-Change Index
 
-*a ways to go*: Stage 3 Current ratio in print \(*a long way* vs. *a long ways*\): 50:1
+ - *a ways to go*: Stage 3 Current ratio in print \(*a long way* vs. *a long ways*\): 50:1
 

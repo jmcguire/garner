@@ -30,17 +30,17 @@ Rarely is the choice unclear. But it can happen. In the following specimen, is t
 
 ## Language-Change Index
 
-*clinch* misused for *clench*: Stage 1
+ - *clinch* misused for *clench*: Stage 1
 
-Current ratio in print \(*clenched fists* vs. *\*clinched fists*\): 24:1
+ - Current ratio in print \(*clenched fists* vs. *\*clinched fists*\): 24:1
 
-Current ratio in print \(*clinch the deal* vs. *\*clench the deal*\): 68:1
+ - Current ratio in print \(*clinch the deal* vs. *\*clench the deal*\): 68:1
 
 **B. And *cinch*.** The word *cinch* \(= \[1\] to pull \[a belt, strap, etc.\] tightly around something; or \[2\] to make \[something\] certain to happen\), in sense 2, is close in meaning to *clinch* \(= to get \[something\] done after serious effort\). Although the AmE phrase \**cinch the deal* has been in use since the 1940s, the much older phrase *clinch the deal* \(dating from the late 1800s\) is more common. Likewise, *clinch the argument* and *clinch the nomination* are the usual wordings—not *cinch*. The best advice is to stick to sense 1 of *cinch* <cinching your belt>.
 
-Current ratio in print \(*clinch the deal* vs. \**cinch the deal*\): 7:1
+ - Current ratio in print \(*clinch the deal* vs. \**cinch the deal*\): 7:1
 
-Current ratio in print \(*clinch the argument* vs. \**cinch the argument*\): 171:1
+ - Current ratio in print \(*clinch the argument* vs. \**cinch the argument*\): 171:1
 
-Current ratio in print \(*clinch the nomination* vs. \**cinch the nomination*\): 14:1
+ - Current ratio in print \(*clinch the nomination* vs. \**cinch the nomination*\): 14:1
 

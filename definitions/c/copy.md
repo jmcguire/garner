@@ -4,5 +4,5 @@ copy, v.t., in the sense "to send a copy to" <he copied me on the letter>, becam
 
 ## Language-Change Index
 
-*copy* as a verb meaning "to send a copy to": Stage 5
+ - *copy* as a verb meaning "to send a copy to": Stage 5
 

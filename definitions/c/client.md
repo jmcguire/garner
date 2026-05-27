@@ -18,5 +18,5 @@ The bad trend continues—e.g.:
 
 *\*Clientage*, *\*clientelage*, and *\*clientry* are needless variants of *clientele.*
 
-Current ratio in print \(*clients* vs. *clientele* vs. \**clientage* vs. \**clientelage* vs. \**clientry*\): 72,762:3,672:105:1.1:1
+ - Current ratio in print \(*clients* vs. *clientele* vs. \**clientage* vs. \**clientelage* vs. \**clientry*\): 72,762:3,672:105:1.1:1
 

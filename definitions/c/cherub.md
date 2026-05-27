@@ -6,7 +6,7 @@ The double plural *\*cherubims* is erroneous—e.g.: "Among the items inside the
 
 ## Language-Change Index
 
-*\*cherubims* for the plural *cherubim* or *cherubs*: Stage 1
+ - *\*cherubims* for the plural *cherubim* or *cherubs*: Stage 1
 
-Current ratio in print \(*cherubim* vs. *cherubs* vs. *\*cherubims*\): 6:3:1
+ - Current ratio in print \(*cherubim* vs. *cherubs* vs. *\*cherubims*\): 6:3:1
 

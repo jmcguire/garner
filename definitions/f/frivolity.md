@@ -10,5 +10,5 @@ frivolity; **frivolousness**. *Frivolity* \(= \[1\] silliness, light-mindedness;
 
 ## Language-Change Index
 
-*frivolity* misused for *frivolousness*: Stage 1
+ - *frivolity* misused for *frivolousness*: Stage 1
 

@@ -12,5 +12,5 @@ Some misuse the word as a synonym for *simple*—that is, not as a pejorative at
 
 ## Language-Change Index
 
-*simplistic* in the nonpejorative sense "simple": Stage 3
+ - *simplistic* in the nonpejorative sense "simple": Stage 3
 

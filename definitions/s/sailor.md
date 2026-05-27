@@ -6,5 +6,5 @@ It isn't unusual to see *sailer* misused for *sailor*—e.g.: "The current exerc
 
 ## Language-Change Index
 
-*sailor* misspelled *sailer*: Stage 1
+ - *sailor* misspelled *sailer*: Stage 1
 

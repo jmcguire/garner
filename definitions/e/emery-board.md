@@ -4,6 +4,6 @@ emery board \(= a file used as a manicuring implement\) is sometimes misspelled 
 
 ## Language-Change Index
 
-*emery board* misspelled *\*emory board*: Stage 1
-Current ratio in print \(*emery board* vs. \**emory board*\): 52:1
+ - *emery board* misspelled *\*emory board*: Stage 1
+ - Current ratio in print \(*emery board* vs. \**emory board*\): 52:1
 

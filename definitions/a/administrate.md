@@ -10,5 +10,5 @@
 
 ## Language-Change Index
 
-*\*administrate* for *administer*: Stage 1 Current ratio in print \(*administering* vs. *\*administrating*\): 31:1
+ - *\*administrate* for *administer*: Stage 1 Current ratio in print \(*administering* vs. *\*administrating*\): 31:1
 

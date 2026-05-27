@@ -6,6 +6,6 @@ The modern temptation to brace the adjective *native* may come from two sources.
 
 ## Language-Change Index
 
-*\*native-born citizen* for *native citizen*: Stage 4
-Current ratio in print \(*native citizen* vs. *\*native-born citizen*\): 1.1:1
+ - *\*native-born citizen* for *native citizen*: Stage 4
+ - Current ratio in print \(*native citizen* vs. *\*native-born citizen*\): 1.1:1
 

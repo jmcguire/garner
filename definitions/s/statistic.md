@@ -8,5 +8,5 @@ statistic \(= a single term or datum in a statistical compilation\) is a back-fo
 
 ## Language-Change Index
 
-*one statistic*: Stage 5
+ - *one statistic*: Stage 5
 

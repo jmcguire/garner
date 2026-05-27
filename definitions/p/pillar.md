@@ -4,5 +4,5 @@ pillar for *pillory* is a malapropism, as Mr. Rush points out: "Norman Rush, aut
 
 ## Language-Change Index
 
-*pillar* misused for *pillory*: Stage 1
+ - *pillar* misused for *pillory*: Stage 1
 

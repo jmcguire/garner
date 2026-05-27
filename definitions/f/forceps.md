@@ -14,6 +14,6 @@ Cf. **biceps**.
 
 ## Language-Change Index
 
-*\*forcep* for *forceps* as a singular: Stage 2
-Current ratio in print \(*a forceps* vs. *\*a forcep*\): 50:1
+ - *\*forcep* for *forceps* as a singular: Stage 2
+ - Current ratio in print \(*a forceps* vs. *\*a forcep*\): 50:1
 

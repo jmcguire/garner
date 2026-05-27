@@ -66,7 +66,7 @@ It's unusual to have a common English noun that can switch-hit as plural or sing
 
 ## Language-Change Index
 
-*data* as a mass noun: Stage 5 1980 ratio in print \(*The data are* vs. *The data is*\): 6:1
-Current ratio in print \(*The data are* vs. *The data is*\): 1.7:1
-Current ratio in print \(*much data* vs. *many data*\): 1.8:1
+ - *data* as a mass noun: Stage 5 1980 ratio in print \(*The data are* vs. *The data is*\): 6:1
+ - Current ratio in print \(*The data are* vs. *The data is*\): 1.7:1
+ - Current ratio in print \(*much data* vs. *many data*\): 1.8:1
 

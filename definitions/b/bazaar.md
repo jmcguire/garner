@@ -14,6 +14,6 @@ See word-swapping.
 
 ## Language-Change Index
 
-*bizarre* misused for *bazaar*: Stage 1
-Current ratio in print \(*charity bazaar* vs. *charity \*bazar*\): 52:1
+ - *bizarre* misused for *bazaar*: Stage 1
+ - Current ratio in print \(*charity bazaar* vs. *charity \*bazar*\): 52:1
 

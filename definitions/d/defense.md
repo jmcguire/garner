@@ -8,7 +8,7 @@ defense.
 
 ## Language-Change Index
 
-*defense* pronounced with accent on first syllable: Stage 4
+ - *defense* pronounced with accent on first syllable: Stage 4
 
 **C. As a Verb.** In mid-20th-century AmE, *defense* came into use as a sports casualism in the sense "to defend against (a play, etc.) effectively." Because the meaning is sometimes vague and a better word or phrase is available, careful speakers and writers are likely to avoid this usage (which is inarguably more economical and may well become standard)—e.g.:
 
@@ -20,5 +20,5 @@ defense.
 
 ## Language-Change Index
 
-*defense* as a verb: Stage 2
+ - *defense* as a verb: Stage 2
 

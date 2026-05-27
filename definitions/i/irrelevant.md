@@ -12,6 +12,6 @@ The word is also sometimes mispronounced in the same way. Cf. **calvary**.
 
 ## Language-Change Index
 
-*\*irrevelant* for *irrelevant*: Stage 1
-Current ratio in print \(*irrelevant* vs. *\*irrevelant*\): 2,479:1
+ - *\*irrevelant* for *irrelevant*: Stage 1
+ - Current ratio in print \(*irrelevant* vs. *\*irrevelant*\): 2,479:1
 

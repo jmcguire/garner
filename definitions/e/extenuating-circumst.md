@@ -12,5 +12,5 @@ Because the terms sound similar, writers occasionally misuse *attenuating* for *
 
 ## Language-Change Index
 
-*attentuate* misused for *aggravate*: Stage 1
+ - *attentuate* misused for *aggravate*: Stage 1
 

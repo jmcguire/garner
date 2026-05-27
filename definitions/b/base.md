@@ -8,6 +8,6 @@ base, misused for *bass*, is a basic blunder—e.g.:
 
 ## Language-Change Index
 
-*base* misused for *bass*: Stage 1
-Current ratio in print \(*bass guitar* vs. *\*base guitar*\): 95:1
+ - *base* misused for *bass*: Stage 1
+ - Current ratio in print \(*bass guitar* vs. *\*base guitar*\): 95:1
 

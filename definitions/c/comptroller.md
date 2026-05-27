@@ -6,5 +6,5 @@ The strange spelling of *comptroller* originated in the zeal of 15th-century Lat
 
 ## Language-Change Index
 
-*comptroller* mispronounced /**komp**-troh-lәr/: Stage 4
+ - *comptroller* mispronounced /**komp**-troh-lәr/: Stage 4
 
