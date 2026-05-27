@@ -231,11 +231,10 @@ def display(row, rows, verbose, plain):
 
     if row:
         if verbose:
-            print("filename: " + row["filename"])
+            console.print("filename: " + row["filename"])
 
-        console = Console()
         if plain:
-            console.print(Markdown(row["body_plain"]))
+            print(Markdown(row["body_plain"]))
         else:
             console.print(Markdown(row["body_markdown"]))
 
@@ -244,14 +243,13 @@ def display(row, rows, verbose, plain):
             print("\n\n")
         if verbose:
             for row in rows:
-                print(f"{row['headword']} ({row['sort_key']}) @ {row['filename']} {' (essay)' if row['is_essay'] else ''}")
+                console.print(f"{row['headword']} ({row['sort_key']}) @ {row['filename']} {' (essay)' if row['is_essay'] else ''}")
         else:
             for row in rows:
-                print(f"{row['headword']} {' (essay)' if row['is_essay'] else ''}")
+                console.print(f"{row['headword']} {' (essay)' if row['is_essay'] else ''}")
 
     if not row and not rows:
         print(f"No entry found")
-
 
 
 def main():
@@ -304,7 +302,7 @@ def main():
     parser.add_argument(
         "word",
         nargs="*",
-        help="Word to look up",
+        help="Word to look up. If multiple words are passed in, they will be concatenated.",
     )
 
     args = parser.parse_args()
