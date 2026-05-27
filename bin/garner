@@ -62,7 +62,8 @@ def first_heading(markdown):
     match = re.search(r"^#\s+(.+?)\s*$", markdown, flags=re.MULTILINE)
     return match.group(1) if match else None
 
-# db connection
+
+# open and connect to a db
 def connect(db_path):
     db_path.parent.mkdir(parents=True, exist_ok=True)
     conn = sqlite3.connect(db_path)
@@ -72,7 +73,7 @@ def connect(db_path):
 
 # is this entry actually just a forward to another entry? is so return that other entry name
 def get_forwarding(body):
-    pattern = rf"\. See (\w+)\.\Z" 
+    pattern = r"\. See ([\w\s-]+)\.\Z"
     match = re.search(pattern, body, flags=re.DOTALL)
     if match:
         return match.group(1)
@@ -234,7 +235,7 @@ def display(row, rows, verbose, plain):
             console.print("filename: " + row["filename"])
 
         if plain:
-            print(Markdown(row["body_plain"]))
+            console.print(row["body_plain"])
         else:
             console.print(Markdown(row["body_markdown"]))
 
@@ -311,8 +312,9 @@ def main():
         word = " ".join(args.word)
         row = lookup(word, args.db)
         display(row, None, args.verbose, args.plain)
+
         if row and row["forwarding"]:
-            row = lookup(row["forwarding"])
+            row = lookup(row["forwarding"], args.db)
             display(row, None, args.verbose, args.plain)
     
     elif args.build is not None:
