@@ -16,7 +16,7 @@ And sometimes *cord* displaces *chord* in references to music \(literal or metap
 
  - "Though her first song was inspired by poetry that just came to her, Emma said most of the time she's inspired by *cords* \[read *chords*\] or a melody." Linda Murphy, "Westport Junior Composes Original Song for Contest," *Herald News* \(Fall River, Mass.\), 14 Sept. 2014, at D1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *chord* misused for *cord*: Stage 3
 Current ratio in print \(*vocal cords* vs. *\*vocal chords*\): 4:1

@@ -10,7 +10,7 @@ The malapropism of using *exercise* for *exorcise* conjures up an image of devil
 
 It's conceivable in those instances that some confusion arose from the secondary sense of *exercise*, meaning "to vex or make anxious."
 
-Language-Change Index
+## Language-Change Index
 
 *exercise* misused for *exorcise*: Stage 1
 Current ratio in print \(*exorcise the evil* vs. *\*exercise the evil*\): 59:1

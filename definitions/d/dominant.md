@@ -10,7 +10,7 @@ dominant, adj. Just as *predominant* is sometimes ill-advisedly written *predomi
 
 *Dominate* /**dom**-ә-nayt/ is a verb, not an adjective—or at least no dictionaries have yet recorded an adjectival use.
 
-Language-Change Index
+## Language-Change Index
 
 *dominate* misused as an adjective in place of *dominant*: Stage 1
 Current ratio in print \(*dominant role* vs. *\*dominate role*\): 217:1

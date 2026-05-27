@@ -10,7 +10,7 @@ But instances of the mistaken *\*extradict* and *\*extradiction* are legion—e.
 
  - "EU arrest warrants, introduced in 2004, have been used with increasing regularity in a variety of cases and allow for quick *extradiction* \[read *extradition*\] of suspects to their home countries." Toby Helm & Jamie Doward, "Megan Case Sparks Row as Police Warn Cameron on Europe-Wide Crime Fight," *Observer*, 30 Sept. 2012, Home News §, at 3.
 
-Language-Change Index
+## Language-Change Index
 
 *\*extradict* for *extradite*: Stage 1
 Current ratio in print \(*extradited* vs. *\*extradicted*\): 106:1

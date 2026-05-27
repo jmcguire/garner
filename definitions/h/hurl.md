@@ -20,7 +20,7 @@ The opposite error, *hurtle* for *hurdle*, is somewhat less common but does occu
 
 See word-swapping.
 
-Language-Change Index
+## Language-Change Index
 
 1. *hurdle* misused for *hurtle*: Stage 2
 Current ratio in print \(*hurtled down* vs. \**hurdled down*\): 82:1

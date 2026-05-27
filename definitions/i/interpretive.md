@@ -18,7 +18,7 @@ Refight an old fight, if you like, and stick to *interpretative*. But *interpret
 
 *\*Interpretational* is a needless variant—e.g.: "Therein lies the *interpretational* \[read *interpretive*\] logjam, the slippery definitions of ‘tradition' and ‘honor' that wreak the most havoc on open dialogue." Lynell George, "When Mascots Unite," *L.A. Times*, 8 June 1997, at E3.
 
-Language-Change Index
+## Language-Change Index
 
 1. *interpretive* for the traditional *interpretative*: Stage 5
 Current ratio in print \(*interpretive* vs. *interpretative*\): 2.3:1

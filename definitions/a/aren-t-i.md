@@ -10,7 +10,7 @@ In the 1930s, the lexicographer Frank Vizetelly denounced *aren't I* as a "hopel
 
  - **Third-person singular:** " ‘I say,' said Haley, and leaning back in his chair and gesturing impressively, ‘I'll say this now, I al'ays meant to drive my trade so as to make money on't, fust and foremost, as much as any man; but then, trade *an't* everything, and money *an't* everything, 'cause we's all got souls.' " Editorial, "A Bill with the Devil," *St. Louis Post-Dispatch*, 18 Sept. 1998, at B6.
 
-Language-Change Index
+## Language-Change Index
 
 *aren't I?* for *am I not?*: Stage 5
 Current ratio in print \(*aren't I* vs. \**amn't I* vs. \**an't I*\): 83:1:1

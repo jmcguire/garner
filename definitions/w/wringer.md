@@ -4,7 +4,7 @@ wringer; ringer. A *wringer* can be \(1\) an oppressor, \(2\) a machine that squ
 
 In the phrase *put through the wringer*, an Americanism dating from the late 1800s, sense 2 of *wringer* is the applicable one. Since about 1980, the solecism \**put through the ringer* has been much on the rise. The solecism itself should be put through the wringer.
 
-Language-Change Index
+## Language-Change Index
 
 *put through the \*ringer* for *put through the wringer*: Stage 3
 Current ratio in print \(*put through the wringer* vs. \**put through the ringer*\): 3:1

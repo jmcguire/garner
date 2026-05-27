@@ -18,7 +18,7 @@ Fowler's American contemporary, John F. Genung, was more sensible in his approac
 
 More than a century before Genung and Fowler wrote those passages, the rhetorician Hugh Blair summed up the rationale for being careful about placing *only* and similar words. It holds true even today: "The fact is, with respect to such adverbs as *only*, *wholly*, *at least*, and the rest of that tribe, that in common discourse, the tone and emphasis we use in pronouncing them generally serves to show their reference, and to make the meaning clear; and hence, we acquire a habit of throwing them in loosely in the course of a period \[i.e., a sentence\]. But in writing, where a man speaks to the eye, and not to the ear, he ought to be more accurate; and so to connect those adverbs with the words which they qualify, as to put his meaning out of doubt upon the first inspection." Hugh Blair, *Lectures on Rhetoric and Belles Lettres* vol. 1, at 245 \(1783; 11th ed. 1809\).
 
-Language-Change Index
+## Language-Change Index
 
 *only* separated from the word it limits: Stage 4
 

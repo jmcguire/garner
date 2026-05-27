@@ -24,7 +24,7 @@ Unfortunately, the form *self-deprecating*—despite its mistaken origins—is n
 
  - "She arrives in Doc Marten boots and a black playsuit, refreshingly unfiltered, straight-talking and *self-deprecating* from the start. ‘I feel like I've gained new sweat pores. I'm sweating in places I've never sweated before,' she laments." Jane Mulkerrins, "Innocent Abroad," *Daily Telegraph*, 22 Aug. 2015, at 30.
 
-Language-Change Index
+## Language-Change Index
 
 *self-deprecating* for *self-depreciating*: Stage 5
 Current ratio in print \(*self-deprecating* vs. *self-depreciating*\): 25:1

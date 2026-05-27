@@ -18,7 +18,7 @@ The opposite mistake likewise appears—e.g.:
 
  - "That means that underwriters would have to show a *causative* \[read *causal*\] connection between any failure to follow the code and a claimed loss." "Owner-Friendly Terms Herald a Sophisticated Insurance Market," *Bus. Times* \(Singapore\), 20 Nov. 1996, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *causative* misused for *causal*: Stage 1
 Current ratio in print \(*causal link* vs. *\*causative link*\): 28:1
@@ -34,7 +34,7 @@ Current ratio in print \(*causative agent* vs. \**causal agent*\): 2:1
 
 Since the late 1970s, many books have mistakenly referred to *\*causal sex*. Was that a typographical error, or did it cause something \(in which event it should be *causative*\)? See metathesis.
 
-Language-Change Index
+## Language-Change Index
 
 *casual* misused for *causal*: Stage 1 *causal* misused for *casual*: Stage 1
 

@@ -12,7 +12,7 @@ But the opposite error, *dowse* for *douse*, is more common—e.g.:
 
  - "Derry firefighters, assisted by departments from four towns, *dowsed* \[read *doused*\] five or six burning cars with foam last night at the same junkyard where more than 100 vehicles burned five months ago." "Correction: Stacked Cars Burn," *N.H. Sunday News*, 25 Nov. 2001, at A4.
 
-Language-Change Index
+## Language-Change Index
 
 1. *douse* misused for *dowse*: Stage 1
 Current ratio in print \(*dowsing rod* vs. *\*dousing rod*\): 21:1

@@ -10,7 +10,7 @@ predominant; **predominate**, adj. The latter is a needless variant for *predomi
 
 Cf. **preponderant**.
 
-Language-Change Index
+## Language-Change Index
 
 *predominate* misused as an adjective for *predominant*: Stage 1
 Current ratio in print \(*predominant role* vs. *\*predominate role*\): 108:1

@@ -14,7 +14,7 @@ Occasionally *accredit* is loosely used in place of *credit* or *attribute*—e.
 
 Citing examples from 1878 to 2004, the *OED* calls this use originally an Americanism. But it doesn't represent the best in American usage.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*accreditate* for *accredit*: Stage 1
 Current ratio in print \(*accredit* vs. \**accreditate*\): 619:1

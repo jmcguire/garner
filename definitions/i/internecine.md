@@ -14,7 +14,7 @@ Today, these uses are so common that they can no longer be called solecisms. But
 
 The word is pronounced in several ways, the most traditional being /in-tәr-**nee**-sin/ in AmE and /in-tәr-**nee**-sīn/ in BrE. But other pronunciations are acceptable: /in-**tәr**-nә-sin/, /in-**tәr**-nә-seen/, and /in-tәr-**ne**-seen/.
 
-Language-Change Index
+## Language-Change Index
 
 *internecine* misused for *internal*: Stage 3
 

@@ -6,7 +6,7 @@ diseased; **deceased**. The first describes a body that is racked with illness, 
 
  - "But hypocrisy is a contagious *decease* \[read *disease*\], especially in the Clinton White House, and why should Richardson be immune?" Miguel Perez, "Opinion: Clinton's Appointees," *Record* \(N.J.\), 19 June 1998, at L11.
 
-Language-Change Index
+## Language-Change Index
 
 *decease* misused for *disease*: Stage 1
 

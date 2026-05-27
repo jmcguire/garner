@@ -12,7 +12,7 @@ The notion that something *diffused* is softened like filtered light may explain
 
  - "Now the three-person squad has a bomb suit, X-ray systems and other sophisticated tools to *diffuse* \[read *defuse*\] bombs and check suspicious packages." Michelle Sutherlin, "Officer Trains for Bomb Team," *Daily Oklahoman*, 13 June 2002, Norman Today §, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 *diffuse* misused for *defuse*: Stage 1
 Current ratio in print \(*defuse the bomb* vs. \**diffuse the bomb*\): 5:1

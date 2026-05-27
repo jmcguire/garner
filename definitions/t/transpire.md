@@ -10,7 +10,7 @@ Another loose usage occurs \(not *transpires*\) when *transpire* is used for *pa
 
 All in all, *transpire* fits the definition of a skunked term: careful writers should avoid it altogether simply to avoid distracting readers, whether traditionalists \(who dislike the modern usage\) or others \(who may not understand the traditional usage\).
 
-Language-Change Index
+## Language-Change Index
 
 *transpire* for *happen* or *occur*: Stage 4
 Current ratio in print \(*what happened in the past* vs. *\*what transpired in the past*\): 134:1

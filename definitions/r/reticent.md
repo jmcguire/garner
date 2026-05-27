@@ -18,7 +18,7 @@ If you find yourself saying or writing *reticent to*—not *reticent to a fault*
 
 The corresponding noun is *reticence*, not *\*reticency* \(a needless variant\). In the noun as well as the adjective, the difference between taciturnity and reluctance is extremely subtle—e.g.: "Many cases go unreported because of a *reticence* on the part of the victims to publicly accuse close relatives, much like the silence that often cloaks child abuse." Jon Nordheimer, "A New Abuse of Elderly: Theft by Kin and Friends," *N.Y. Times*, 16 Dec. 1991, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 *reticent* in the sense "reluctant": Stage 4
 Current ratio in print \(*reluctant to* vs. *\*reticent to*\): 45:1

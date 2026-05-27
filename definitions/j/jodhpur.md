@@ -8,7 +8,7 @@ By inevitable extension, the misspelling also goes back to the source of the wor
 
 How did Jodhpur, a town in central India, come to be famously associated with riding pants? It seems that Rao Raja Hanut Singh, who represented Jodhpur at Queen Victoria's 60th jubilee in 1897, had designed some comfortable riding trousers that ballooned at the thigh and narrowed at the knee so that they could be tucked into boots. While in London, he had the pants copied by a London tailor, who then began making and selling them. By 1899, the pants were well on their way to international popularity.
 
-Language-Change Index
+## Language-Change Index
 
 *jodhpur* misspelled and mispronounced *\*jodphur*: Stage 2
 Current ratio in print \(*jodhpurs* vs. *\*jodphurs*\): 62:1

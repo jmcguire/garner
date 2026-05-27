@@ -22,7 +22,7 @@ Who can demand responsible use of the language from an ad writer who is reckless
 
 Arguably, our modern culture lacks and does not *want* absolutes, in intellectual life or in language. But stick with the nongradable *unique*, and you may stand out as almost unique. See adjectives \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 *unique* as a word of degree, as in *\*very unique*: Stage 3
 

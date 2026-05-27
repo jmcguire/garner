@@ -10,7 +10,7 @@ And *lede* is a kind of journalistic jargon. Defenders will say it's a term of a
 
 Now for the upshot: use *lede* if you like, but understand that some among the uninitiated become irritated when they encounter it. But there's a countervailing consideration: insiders are known to get irritated when they encounter the more conventional spelling. How's that for burying the lede in this entry?
 
-Language-Change Index
+## Language-Change Index
 
 *bury the lede*: Stage 5
 Current ratio in print \(*bury the lead* vs. *bury the lede* in World Englishes\): 1.05:1

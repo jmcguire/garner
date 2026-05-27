@@ -12,7 +12,7 @@ The pair is in the unenviable position of being susceptible to word-swapping—e
 
  - "The acting head coach . . . boasts an *envious* \[read *enviable*\] record of other achievements." "Coup for Lions as They Land Top Coach," *Evening Gaz.* \(Middlesbrough, U.K.\), 9 May 2020, at 30.
 
-Language-Change Index
+## Language-Change Index
 
 *envious* misused for *enviable*: Stage 1
 Current ratio in print \(*enviable reputation* vs. *\*envious reputation*\): 60:1

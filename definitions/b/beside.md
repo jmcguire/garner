@@ -10,7 +10,7 @@ beside \(= \[1\] alongside; or \[2\] in comparison with\) is surprisingly often 
 
 Likewise, *besides* is sometimes misused for *beside*—e.g.: "Whether or not the city sets an attendance record is somewhat *besides* \[read *beside*\] the point, tournament organizers say." Gargi Chakrabarty & Michael Pointer, "Sales of Tickets Disappointing," *Indianapolis Star*, 28 Aug. 2002, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *beside* misused for *besides*: Stage 1
 Current ratio in print \(*Besides doing* vs. *\*Beside doing*\): 117:1

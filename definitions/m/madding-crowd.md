@@ -8,7 +8,7 @@ But some writers get it wrong—e.g.:
 
  - " ‘Being typecast would bother me if my career weren't flourishing outside of the show,' the 47-year-old Williams says earnestly in a tiny office away from the *maddening crowd* \[read *madding crowd*\]." Joel Reese, "Here's the Story, of a Man Named Williams," *Daily Herald* \(Chicago\), 13 Aug. 2002, Suburban Living §, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*maddening crowd* for *madding crowd*: Stage 2
 Current ratio in print \(*madding crowd* vs. *\*maddening crowd*\): 4:1

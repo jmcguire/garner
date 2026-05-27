@@ -10,7 +10,7 @@ simulcast > simulcast > simulcast. So inflected. *\*Simulcasted* is a frequent e
 
 See -cast, irregular verbs & portmanteau words.
 
-Language-Change Index
+## Language-Change Index
 
 *\*simulcasted* for past-tense *simulcast*: Stage 1
 

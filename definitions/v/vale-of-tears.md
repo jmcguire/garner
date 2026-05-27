@@ -16,7 +16,7 @@ Because *vale* has so commonly been confounded with *veil*, some writers have be
 
 Perhaps a pun was intended in each case, but the phrasing arouses the suspicion that the writer simply doesn't know any better.
 
-Language-Change Index
+## Language-Change Index
 
 *\*veil of tears* for *vale of tears*: Stage 2
 Current ratio in print \(*vale of tears* vs. *\*veil of tears*\): 4:1

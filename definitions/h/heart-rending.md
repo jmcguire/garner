@@ -10,7 +10,7 @@ heart-rending is sometimes wrongly written *\*heart-rendering*—e.g.:
 
 Of course, the verb *rend* \(= to split, tear\) has nothing to do with the verb *render* \(= to make, perform, provide\). The errant phrase is particularly unpleasant because another definition of *render* is "to boil down \(fat\)." See **rend** & malapropisms.
 
-Language-Change Index
+## Language-Change Index
 
 *\*heart-rendering* for *heart-rending*: Stage 1
 Current ratio in print \(*heart-rending* vs. *\*heart-rendering*\): 83:1

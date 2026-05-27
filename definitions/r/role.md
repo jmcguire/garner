@@ -8,7 +8,7 @@ role; **roll**. Like many other homophones, these are subject to word-swapping. 
 
  - " ‘Everyone played their *roll* \[read *role*\].' " Mark Rosner, "UConn Nails Horns 96–86," *Austin Am.-Statesman*, 16 Dec. 1993, at E1, E5 \(quoting B.J. Tyler, a college basketball player, who should not be charged with this error\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *role* misused for *roll* \(= list\): Stage 1
 Current ratio in print \(*roll call* vs. \**role call*\): 113:1

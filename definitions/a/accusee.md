@@ -10,7 +10,7 @@
 
 Occasionally *\*accusee* is erroneously used for *accuser—*e.g.: "If these accusations are grounded on truth, then surely the *accusee* \[read *accuser*\] has a lot less to fear than the accused." Letter of Brody Stewart, "Readers' Views," *St. Cloud Times* \(Minn.\), 12 Mar. 2002, at B5. See -ee.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*accusee* for the attributive noun *accused*: Stage 1
 Current ratio in print \(*the accused* vs. \**the accusee*\): 11,112:1

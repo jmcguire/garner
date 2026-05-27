@@ -10,7 +10,7 @@ The misuse of *laudatory* for *laudable* is lamentably common—e.g.:
 
  - "The New York legislation on self determination at the end of life is *laudatory* \[read *laudable*\] but insufficient." Alan Pfeffer, "Let Patient Decide When It's Time to Die," *Times Union* \(Albany\), 14 July 2015, at D2.
 
-Language-Change Index
+## Language-Change Index
 
 *laudatory* misused for *laudable*: Stage 2
 Current ratio in print \(*laudable goal* vs. *\*laudatory goal*\): 44:1

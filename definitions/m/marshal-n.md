@@ -23,7 +23,7 @@ Current ratio in print \(*martial law* vs. *\*marshal law*\): 265:1
 
 **B. Spelling.** *Marshal* is often misspelled *\*marshall*—e.g.: "Spokane Valley firefighters helped save 30 tons of the hay, but the loss still reached about $12,000, said Kevin Miller, deputy fire *marshall* \[read *marshal*\] for Valley Fire." "Haystack Fire Deemed Suspicious," *Spokesman-Rev.* \(Spokane\), 16 Jan. 2003, at V11. The error is undoubtedly encouraged by the frequency of the proper name *Marshall*.
 
-Language-Change Index
+## Language-Change Index
 
 *marshal* as noun misspelled *\*marshall*: Stage 1
 Current ratio in print \(*fire marshal* vs. *\*fire marshall*\): 33:1

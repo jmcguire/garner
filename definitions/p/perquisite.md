@@ -12,7 +12,7 @@ perquisite; **prerequisite**. *Perquisite* \(often shortened to *perk*\) = a pri
 
 See **prerequisite**.
 
-Language-Change Index
+## Language-Change Index
 
 *prerequisite* misused for *perquisite*: Stage 1
 Current ratio in print \(*salaries and perquisites* vs. *\*salaries and prerequisites*\): 104:1

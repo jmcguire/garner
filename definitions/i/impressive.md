@@ -12,7 +12,7 @@ impressive; **impressible**; **impressionable**. *Impressive* = likely to impres
 
 *Impressible* is the preferred spelling—not *\*impressable*. See -able \(a\).
 
-Language-Change Index
+## Language-Change Index
 
 *impressibly* misused for *impressively*: Stage 1
 

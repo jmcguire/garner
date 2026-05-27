@@ -10,7 +10,7 @@ finalize = \(1\) v.t., to complete; bring to an end; put in final form; or \(2\)
 
 Still, *complete* is a better choice when it will suffice, as in the last example quoted above. See -ize.
 
-Language-Change Index
+## Language-Change Index
 
 *finalize*: Stage 5
 

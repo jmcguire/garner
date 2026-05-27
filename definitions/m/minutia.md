@@ -12,7 +12,7 @@ The phrases should be *lost in the minutiae*, *statistical minutiae*, and *day-t
 
 The plural is often mispronounced as if it were the singular word \(/mi-**n\[y\]oo**-shee-ә/ or, less good, /mi-**n\[y\]oo**-shә/\). But the traditional and most proper pronunciation of *minutiae* is /mi-**n\[y\]oo**-shee-ee/ or /-ī/.
 
-Language-Change Index
+## Language-Change Index
 
 *minutia* for the plural *minutiae*: Stage 2
 Current ratio in print \(*lost in the minutiae* vs. *\*lost in the minutia*\): 3:1

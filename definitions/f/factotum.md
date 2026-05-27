@@ -8,7 +8,7 @@ factotum \(= \[1\] a general servant with myriad duties; or \[2\] a jack-of-all-
 
 The word is pronounced /fak-**toh**-tәm/.
 
-Language-Change Index
+## Language-Change Index
 
 *\*factota* for *factotums*: Stage 1
 Current ratio in print \(*factotums* vs. *\*factota*\): 25:1

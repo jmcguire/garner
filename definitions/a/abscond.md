@@ -14,7 +14,7 @@ While *abscond* is often followed by *with* to indicate a taking, and especially
 
  - "Hackers have *absconded* \[read *stolen*\] some very personal files." Sally Mahan, "Is There Paper in Our Future?," *Kokomo Trib.* \(Ind.\), 30 Oct. 2020, Opinion §.
 
-Language-Change Index
+## Language-Change Index
 
 *abscond* misused for *steal*: Stage 1
 

@@ -6,7 +6,7 @@ The idiom *champing at the bit* evokes the image of an impatient horse, especial
 
 Otherwise, the two verbs have undergone some degree of differentiation. What one *champs* is not actually eaten, but just bitten or gnawed, nervously. But to *chomp* something is to take a bite out of it and usually to consume it: in dialect, *chomp* is colloquially accompanied by the adverb *down* <chompin' down catfish>.
 
-Language-Change Index
+## Language-Change Index
 
 *chomping at the bit* for *champing at the bit*: Stage 5
 

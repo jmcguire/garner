@@ -12,7 +12,7 @@ As a verb, *trek* makes *trekked* and *trekking*. But the misspelling occurs wit
 
  - "On Thursday, while some of his colleagues were *trecking* \[read *trekking*\] north to Hamilton Park, the Carsons were making their first trip to Slimbridge." Tony Stafford, "Success Breeds Success for a Real Winner," *Sunday Telegraph*, 14 Apr. 1996, at 5.
 
-Language-Change Index
+## Language-Change Index
 
 *\*trecking* for *trekking*: Stage 1
 Current ratio in print \(*trekking* vs. *\*trecking*\): 1,466:1

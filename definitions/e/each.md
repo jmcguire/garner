@@ -20,7 +20,7 @@ The exception occurs when *each* acts in apposition to a plural subject but does
 
 As for the second question, pronouns having *each* as an antecedent are traditionally \(and most formally\) singular. E.g.: "Each of them got into *their* \[read *his* or *her*, depending on context\] car and drove off." But the word *they* has come to take on a singular sense in informal constructions of this type, as the generic masculine pronoun continues to decline in use. \(See **they \(a\)** & sexism \(b\).) The better practice, though, is to change the reference to a plural: "*Both of them* got into *their* cars." Or: "*All of them* got into *their* cars."
 
-Language-Change Index
+## Language-Change Index
 
 1. *each* with a plural verb <each have chores to do>: Stage 2
 Current ratio in print \(*each of them is* vs. *\*each of them are*\): 9:1

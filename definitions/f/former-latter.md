@@ -8,7 +8,7 @@ former; latter.
 
 **B. Misapplication.** Sometimes otherwise brilliant writers get confused with *former* and *latter* and then misapply one term or the other—e.g.: "Thus, if for some special reason, X has contracted with Y to go on the *former's* \[read *latter's*\] own land, it is obvious that X has, as regards Y, both the privilege of entering and the duty of entering." Wesley Newcomb Hohfeld, *Fundamental Legal Conceptions* 39 \(1919; repr. 1946\).
 
-Language-Change Index
+## Language-Change Index
 
 *former* misused for *latter*: Stage 1
 

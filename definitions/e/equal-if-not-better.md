@@ -14,7 +14,7 @@ Of course, the mistake is far less frequent than the correct phrasing in edited 
 
 If *equal* and *better* are used as verbs, of course, no prepositions are needed. The usage also becomes less tricky—e.g.: "Banks' investment performance has at least *equaled if not bettered* that of their non-bank competitors." "You Don't Have to Be Big," *ABA Banking J.*, Nov. 1988, at 57.
 
-Language-Change Index
+## Language-Change Index
 
 *\*equal if not better than* for *equal to if not better than*: Stage 4
 Current ratio in print \(*equal to if not better than* vs. *\*equal if not better than*\): 1:1.8

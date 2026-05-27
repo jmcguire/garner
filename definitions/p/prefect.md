@@ -6,7 +6,7 @@ The corresponding adjective *prefectorial* <prefectorial authority>. The term *\
 
 The similarly spelled *prefectural* is in good use as the adjective corresponding to *prefecture* \(= \[1\] an administrative district; or \[2\] the office of a prefect\). Sometimes *prefectural* is wrongly displaced by one of the other terms—e.g.: "The Duke of Kent this morning met Mr. Toshitami Kaihara, Governor of Hyogo *Prefectoral* \[read *Prefectural*\] Government, Kobe." "Court Circular," *Times* \(London\), 25 Nov. 1996, at 26. *\*Prefectual* is a misspelling that appears from time to time—e.g.: "Donations from the seminar will be used toward the construction of the Okinawan *Prefectual* \[read *Prefectural*\] Martial Arts Pavilion, to open in 1997 in Okinawa." James Black, "Karate: Demonstration at Nassau CC," *Newsday* \(N.Y.\), 23 Feb. 1995, at A59.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*praefect* for *prefect*: Stage 1
 Current ratio in print \(*prefect* vs. *\*praefect*\): 21:1

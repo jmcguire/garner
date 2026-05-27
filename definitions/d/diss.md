@@ -18,7 +18,7 @@ By the early 2000s, the term had already come to feel dated by most people who h
 
 One outcome of the *diss* fad is that the transitive verb *disrespect*, which had fallen into disuse, has been called out of retirement—doubtless by writers \(or their editors\) who really wanted to use *diss* but just couldn't bring themselves to do it. E.g.: "Hovan apparently felt *disrespected* by Favre, and their war of words heated up to where Favre was caught on camera giving Hovan a one-finger salute." Rick Braun, "Several May Get Fines for Post-Game Melee," *Milwaukee J. Sentinel*, 12 Dec. 2002, Packer Plus §, at 12.
 
-Language-Change Index
+## Language-Change Index
 
 *diss* as a verb: Stage 4
 Current ratio in print \(*to diss him* vs. *to dis him*\): 1.5:1

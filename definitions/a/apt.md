@@ -12,7 +12,7 @@ The same distinction between *apt* and *likely* applies in the best American usa
 
  - "The kind of people who seek out written arguments are *apt* to bring to the written word a fund of information and opinions." George F. Will, "The Pursuit of Happiness Is Happiness," *Watertown Daily Times* \(N.Y.\), 17 Sept. 2021, at A4.
 
-Language-Change Index
+## Language-Change Index
 
 1. *apt* for "habitually likely": Stage 5
 

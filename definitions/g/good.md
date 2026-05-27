@@ -16,7 +16,7 @@ While the adverbial *good* is rare in edited prose, it has become almost univers
 
 Of course, *real good* \(a common dialectal phrase\) may also occur in standard english if *good* is a noun, as here: " ‘I believe in what we do, especially in civil affairs. No one is in a better position to do real *good*,' \[Sgt. Anna\] Grogan said." Amy Joyner, "A Mission to Heal," *News & Record* \(Greensboro\), 10 Feb. 2003, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *good* for *well* \(as an adverb\) in reference to personal performance \(as in *\*the team played good*\): Stage 2
 Current ratio in print \(*played well* vs. *\*played good*\): 14:1

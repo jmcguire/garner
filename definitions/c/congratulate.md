@@ -18,7 +18,7 @@ This verb is sometimes also the victim of object-shuffling. You're supposed to c
 
 The word should be pronounced /kәn-**grach**-ә-layt/, not /-**graj**-/.
 
-Language-Change Index
+## Language-Change Index
 
 1. *congratulate* construed with a *that*-clause: Stage 3
 

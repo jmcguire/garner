@@ -10,7 +10,7 @@ clamor \(= to cry out loudly; raise an uproar\) is now sometimes, through word-s
 
 What's the best way to prevent this error? Whenever you see or hear it, clamber up on a soapbox and clamor about it. By the way, the two words aren't homophones: *clamber* is pronounced /**klam**-bәr/.
 
-Language-Change Index
+## Language-Change Index
 
 *clamor* misused for *clamber*: Stage 1
 

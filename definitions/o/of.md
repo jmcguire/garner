@@ -39,7 +39,7 @@ Current ratio in print \(*not that difficult a* vs. \**not that difficult of a*\
 
 See **\*had have**.
 
-Language-Change Index
+## Language-Change Index
 
 *of* misused for *have*: Stage 1
 

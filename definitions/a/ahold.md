@@ -12,7 +12,7 @@ Even so, *get hold of* is much more frequent than *get ahold of* \(or *get a hol
 
 The dialectal variant *\*aholt* \(barely known to BrE\) is uncommon even in recorded speech, and is much more provincial-sounding—e.g.: "‘The Lord's going to get *aholt* of people,' she smiles." Bo Emerson, "Joyful Noise," *Atlanta J.-Const.*, 29 June 1997, Dixie Living §, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *ahold* for *hold*: Stage 2
 Current ratio in print \(*get hold* vs. *get ahold*\): 8:1

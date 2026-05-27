@@ -10,7 +10,7 @@ tantamount \(= equivalent\) is sometimes misused for *paramount* \(= supreme, pr
 
 See **paramount**. Cf. **penultimate**.
 
-Language-Change Index
+## Language-Change Index
 
 *tantamount* misused for *paramount*: Stage 1
 Current ratio in print \(*paramount importance* vs. *\*tantamount importance*\): 293:1

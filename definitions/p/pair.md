@@ -4,7 +4,7 @@ pair.
 
 **A. Plural Form.** The preferred plural of *pair* is *pairs—*a choice that became predominant by 1850, when the matter should have been settled. In nonstandard usage, *pair* often appears as a plural—e.g.: "The ASU outburst matched a 9-year-old record set ironically enough by Miami when Greg Ellena and Rusty DeBold hit two apiece in a five-homer game against Stanford in 1985. In addition to Cruz's and Williamson's *pair* \[read *pairs*\], Todd Cady hit a solo shot—his 11th—for the team's first run." Kirk Bohls, "Devils Oust Miami," *Austin Am.-Statesman*, 8 June 1994, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 *pair* as a plural for *pairs*: Stage 3
 Current ratio in print \(*two pairs* vs. \**two pair*\): 9:1

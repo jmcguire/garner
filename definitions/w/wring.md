@@ -28,7 +28,7 @@ Still another erroneous form, always as the past tense and not as a past partici
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 1. *rung* misused for *wrung*: Stage 1
 Current ratio in print \(*wrung its neck* vs. *\*rung its neck*\): 80:1
@@ -44,7 +44,7 @@ Current ratio in print \(*wrung his hands* vs. *\*wrang his hands*\): 357:1
 
  - "Don Wade . . . attended the United States–Greece basketball exhibition in Indianapolis and noted the *hand-ringing* \[read *hand-wringing*\] on the bench." "Cold War Heated Up Olympics," *Ark. Democrat-Gaz.*, 16 July 1996, at C2.
 
-Language-Change Index
+## Language-Change Index
 
 *\*hand-ringing* for *hand-wringing*: Stage 1
 Current ratio in print \(*hand-wringing* vs. *\*hand-ringing*\): 327:1

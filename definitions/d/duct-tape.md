@@ -18,7 +18,7 @@ One writer explains the origin of the misuse: "Duct tape is so seldom used on he
 
 One company, Henkel Consumer Adhesives, owns the trademark on "Duck Tape," and that brand name surely aggravates the confusion. As Safire pointed out, the *Times* article reporting the Homeland Security alert was accompanied by a picture of two rolls of "Duck Tape." The difference is that *duct tape* is the generic name for the material—a common noun that is always lowercase. *Duck Tape* is a mildly fanciful brand name—a proper noun that is always capitalized and properly used only as an adjective, as in "Duck Tape brand duct tape" \(or, more likely, "Duck Tape brand adhesive"\). Keeping the terms distinct is vital to maintaining trademark protection, so even on the company's website one will find the accepted generic spelling: "Tell us your duct tape Real Story\!" <www.ducktapeclub.com>.
 
-Language-Change Index
+## Language-Change Index
 
 *\*duck tape* for *duct tape*: Stage 2
 Current ratio in print \(*duct tape* vs. *\*duck tape*\): 99:1

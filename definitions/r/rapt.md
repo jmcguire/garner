@@ -10,7 +10,7 @@ rapt \(= captivated, enthralled, spellbound\) is sometimes erroneously made *\*w
 
 This error is traceable to 17th-century prose but has appeared infrequently over time in comparison with the standard usage. So have the erroneous forms \**rapped attention* and \**wrapped attention*.
 
-Language-Change Index
+## Language-Change Index
 
 *\*wrapt attention* for *rapt attention*: Stage 1
 Current ratio in print \(*rapt attention* vs. \**wrapt attention* vs. \**rapped attention* vs. \**wrapped attention*\): 1,706:12:1.3:1

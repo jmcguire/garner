@@ -18,7 +18,7 @@ The opposite error also occurs, somewhat less commonly, most often in a quotatio
 
 See spelling \(a\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *your* misused for *you're*: Stage 1
 Current ratio in print \(*you're better than* vs. *\*your better than*\): 87:1

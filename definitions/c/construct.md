@@ -8,7 +8,7 @@ construct \(= to build\) for *construe* \(= to interpret\) is a fairly frequent 
 
 For an argument that this misusage has harmed constitutional theory, see Antonin Scalia & Bryan A. Garner, *Reading Law: The Interpretation of Legal Texts* 14–15 \(2012\).
 
-Language-Change Index
+## Language-Change Index
 
 *construct* misused for *construe*: Stage 2
 

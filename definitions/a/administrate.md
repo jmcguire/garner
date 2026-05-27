@@ -8,7 +8,7 @@
 
  - "This musical comedy features adults playing prepubescent teens and the grownups who *administrate* \[read *administer*\] the contest." "Is It the Weekend Yet?," *Hartford Courant*, 17 Aug. 2015, at B8.
 
-Language-Change Index
+## Language-Change Index
 
 *\*administrate* for *administer*: Stage 1 Current ratio in print \(*administering* vs. *\*administrating*\): 31:1
 

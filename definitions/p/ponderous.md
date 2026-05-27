@@ -4,7 +4,7 @@ ponderous = \(1\) \(of a thing\) heavy, slow, awkward; or \(2\) \(of writing or 
 
 The word is sometimes misspelled without the medial *e*, perhaps on the analogy of *wondrous*—e.g.: "Such a *pondrous* \[read *ponderous*\] thing is only fit to be buried at the bottom of the sea." Paul Edward Parker, "Harpooner's Diary: Two More Whales, Boys, and We'll Go Home," *Providence J.-Bull.*, 25 Sept. 1996, at C2.
 
-Language-Change Index
+## Language-Change Index
 
 1. *ponderous* misused for *contemplative*: Stage 1
 

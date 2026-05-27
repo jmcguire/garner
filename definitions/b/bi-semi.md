@@ -4,7 +4,7 @@
 
 Still, *bi*- has been used to mean "occurring twice in a \(specified span of time\)" so often \(and legitimately, e.g., in *biannual*\) that, for the sake of clarity, you might do well to avoid the prefix altogether when possible. See **biannual**.
 
-Language-Change Index
+## Language-Change Index
 
 *bimonthly* as a synonym of *semimonthly*: Stage 2
 

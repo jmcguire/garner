@@ -8,7 +8,7 @@ womankind; **\*womenkind**. The latter is erroneous, since *-kind* includes all 
 
 The analogous error would be *\*menkind* for *mankind*. See **humankind** & sexism \(c\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*womenkind* for *womankind*: Stage 1
 Current ratio in print \(*womankind* vs. *\*womenkind*\): 8:1

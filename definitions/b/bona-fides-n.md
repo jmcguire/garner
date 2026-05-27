@@ -16,7 +16,7 @@ Sense 2, the product of slipshod extension, is fairly common. It can easily be i
 
 And sense 3 follows hard upon sense 2, extending the slipshod extension further—e.g.: "Having finished a course of study, like a medieval apprentice he would need to produce something that established his *bona fides* \[read *credentials*\] in the craft." "The Drag of Loss, the Flight of Youth," *Portland Press Herald*, 14 Jan. 1996, at E6.
 
-Language-Change Index
+## Language-Change Index
 
 1. *bona fides* in the sense "authenticity": Stage 4
 

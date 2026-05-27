@@ -10,7 +10,7 @@ wear > wore > worn. So inflected—since the mid-1700s. The simple-past *wore* i
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *wore* as a past participle for *worn*: Stage 1 Current ratio in print \(*had worn* vs. *\*had wore*\): 236:1
 

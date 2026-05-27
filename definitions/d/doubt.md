@@ -16,7 +16,7 @@ doubt.
 
 *\*Doubt if* is less sound because it suggests a conditional statement. The phrase *doubt that* will usually replace *\*doubt if*—e.g.: "Dr. Hughes *doubted if* \[read *doubted that*\] it would be used to screen all women as the test was not 100 per cent accurate." Bryan Christie, "Premature Births Targeted by New Test," *Scotsman*, 3 Sept. 1996, at 3. This usage appears most commonly in BrE. Cf. **I'm not sure that** & **determine whether**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*doubt if* for *doubt that*: Stage 3
 Current ratio in print \(*doubt that* vs. *\*doubt if *\): 11:1

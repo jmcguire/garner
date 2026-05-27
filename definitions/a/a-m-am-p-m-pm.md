@@ -22,7 +22,7 @@ Idiom compounds the conundrum because, by convention, *midnight* is considered t
 
 The simple solution for noon and midnight is to shun both *a.m.* and *p.m.* and stick with the unambiguous words *noon* <registration starts at noon> and *midnight* <the deadline for filing taxes is April 15 at midnight>. The numeral 12 is superfluous with either word.
 
-Language-Change Index
+## Language-Change Index
 
 *12 a.m.* or *12* *p.m.* for *noon* or *midnight*: Stage 2
 

@@ -18,7 +18,7 @@ Comparatives and Superlatives .
 
 One idiomatic exception occurs when we put our *best foot* forward, since \(of course\) we have only two.
 
-Language-Change Index
+## Language-Change Index
 
 Superlative with two objects <best of the pair>: Stage 4
 
@@ -40,7 +40,7 @@ Current ratio in print \(*simpler method* vs. *more simple method*\): 22:1
 
 For an example of the double superlative, see **\*least worst**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*more slower* for *slower*, etc.: Stage 1
 

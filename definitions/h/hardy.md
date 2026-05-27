@@ -18,7 +18,7 @@ Sometimes, too, *hearty* is misused for *hardy*. We speak of *hardy* \(not *hear
 
  - "Turnips, which also date back to ancient times, are *hearty* \[read *hardy*\] vegetables, able to survive long, cold winters stored underground." Amy Peterson, "Root Force: Let the Roots That Nourish Plants Nourish You," *Diabetes Forecast*, Aug. 1995, at 32.
 
-Language-Change Index
+## Language-Change Index
 
 1. *hardy* misused for *hearty*: Stage 1
 Current ratio in print \(*hearty laugh* vs. *\*hardy laugh*\): 50:1

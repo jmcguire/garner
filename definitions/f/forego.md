@@ -24,7 +24,7 @@ The opposite mistake—misusing *forgo* for *forego*—is much less common. E.g.
 
 *Forgone* and *foregone* are the past-participial forms. *Foregone* is correct in the phrase *foregone conclusion* because the idea is that the conclusion "went before" the question: everybody knew the answer before the question was posed. Naturally, though, blunders arise, even in the writings of those who should know better—e.g.: "\[I\]t was *forgone* \[read *foregone*\] that *disinterested* would lose its older sense once *uninterested* lost the sense of ‘having a stake in,' which we retain only in the fixed phrase *interested party*." Geoffrey Nunberg, "The Decline of Grammar," *Atlantic Monthly*, Dec. 1983, at 44. \(For more on the usage issue discussed in that sentence, see **disinterest** & **disinterested**.\) Meanwhile, the past participle of *forgo* is *forgone*, without the medial *e*: "I would have given a lot for a few columns about what the Flynn years cost Boston in the way of *foregone* \[read *forgone*\] opportunities." David Warsh, "In Sight of Milton," *Boston Globe*, 26 Oct. 1993, at 37. See for-.
 
-Language-Change Index
+## Language-Change Index
 
 1. *forego* misused for *forgo*: Stage 4
 Current ratio in print \(*forgo the opportunity* vs. *\*forego the opportunity*\): 1.3:1

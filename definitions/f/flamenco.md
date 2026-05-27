@@ -8,7 +8,7 @@ flamenco = \(1\) a type of Spanish music originally characterized by stomping an
 
  - "Performers brought in to provide entertainment will include an Asian Lion dancer, a Celtic dance *troop* \[read *troupe*\], South American dancers and *flamingo* \[read *flamenco*\] dancers." "Hayes Elementary Hosts International Fest," *Houston Chron.*, 31 Jan. 2001, This Week §, at 10. \(On the misuse of *troop* in that sentence, see **troop**.\)
 
-Language-Change Index
+## Language-Change Index
 
 *flamingo* misused for *flamenco*: Stage 1
 

@@ -8,7 +8,7 @@ laver bread \(= a Welsh dish consisting of seaweed that is boiled, dipped in oat
 
 The better pronunciation—the only one recognized in most current dictionaries—is /**lay**-vәr/ in AmE or /**lay**-vә/ in BrE.
 
-Language-Change Index
+## Language-Change Index
 
 *\*lava bread* for *laver bread*: Stage 2
 Current ratio in print \(*laver bread* vs. *\*lava bread*\): 3:1

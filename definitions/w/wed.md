@@ -8,7 +8,7 @@ wed. This verb is traditionally inflected *wed* > *wedded* > *wedded*. As a past
 
 In the negative, the proper adjective is *unwed* <unwed mothers>. That has been so since about 1920. Before that time, *\*unwedded* was the standard term.
 
-Language-Change Index
+## Language-Change Index
 
 *wed* as past tense for *wedded*: Stage 4 Current ratio in print \(*has wedded* vs. *\*has wed*\): 1.5:1
 

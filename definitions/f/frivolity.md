@@ -8,7 +8,7 @@ frivolity; **frivolousness**. *Frivolity* \(= \[1\] silliness, light-mindedness;
 
  - "As no check or witness's name was attached, the court denied the motion, with $50 costs, saying sanctions for *frivolity* \[read *frivolousness*\] should be permitted in small claims cases." "New Trial Is Denied, with $50 Costs," *N.Y.L.J.*, 8 Feb. 1995, at 25.
 
-Language-Change Index
+## Language-Change Index
 
 *frivolity* misused for *frivolousness*: Stage 1
 

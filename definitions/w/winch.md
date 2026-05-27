@@ -8,7 +8,7 @@ winch \(= a cranking device that helps pull or haul\) is sometimes confused with
 
  - "Most drivers made it through the mud pit but some got stuck and had to be helped out with a *wench* \[read *winch*\]." Ryan Severance, "Some 75 Cars and Trucks Bring Rolling Thunder to Race," *Pueblo Chieftain* \(Colo.\), 2 Aug. 2015, Sport §.
 
-Language-Change Index
+## Language-Change Index
 
 *wench* misused for *winch*: Stage 1
 

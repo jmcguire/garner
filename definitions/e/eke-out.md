@@ -18,7 +18,7 @@ Although this usage began by slipshod extension, it is now firmly entrenched as 
 
 Unfortunately, by still further extension, sportswriters have come to use *eke* without its inseparable companion *out*, as if it meant something like *squeak*—e.g.: "Actually, you surely noticed that Northwestern *eked* \[read *squeaked*? *fought*?\] back into the Top 25 to take the last rung on the strength of whipping the mighty Ohio U. Bobcats." Larry Guest, "Why Are the Pollsters Against Northwestern?," *Orlando Sentinel*, 25 Sept. 1996, at D1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *eke out* in the sense "to get by with great difficulty": Stage 5
 

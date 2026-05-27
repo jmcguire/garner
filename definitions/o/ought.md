@@ -18,7 +18,7 @@ Formerly, a bare infinitive \(without *to*\) was used in negative and interrogat
 
  - "The service area's outgoing board *ought not do* \[read *ought not to do* or *shouldn't do*\] anything in its final month to earn even greater opprobrium." "Distrust in Kearns," *Salt Lake Trib.*, 1 Dec. 1997, at A10.
 
-Language-Change Index
+## Language-Change Index
 
 *\*ought not be* for *ought not to be*: Stage 2
 Current ratio in print \(*ought not to be* vs. \**ought not be*\): 11:1
@@ -35,7 +35,7 @@ Current ratio in print \(*ought not to be* vs. \**ought not be*\): 11:1
 
 *\*Didn't ought* is likewise nonstandard. See double modals.
 
-Language-Change Index
+## Language-Change Index
 
 *\*had ought* for *ought*: Stage 1
 

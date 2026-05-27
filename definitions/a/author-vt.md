@@ -18,7 +18,7 @@ Some journalists and lawmakers have taken to using *author* in reference to a po
 
 *Coauthor* has been considered more acceptable as a verb, perhaps because *cowrite* seems deadpan. Yet *cowrite* and *cowriter* are often used in scriptwriting circles. See functional shift \(d\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *author* for *write*: Stage 3
 

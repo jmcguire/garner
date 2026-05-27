@@ -12,7 +12,7 @@ The terms can be almost interchangeable with the help of the right preposition o
 
 It's understandable that many people use *migrate* as a safe option.
 
-Language-Change Index
+## Language-Change Index
 
 *emigrate* misused for *immigrate*: Stage 2
 

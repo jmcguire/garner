@@ -16,7 +16,7 @@ See archaisms & irregular verbs.
 
 Because the past tense *\*begat* is so common in allusion to the Old Testament, writers sometimes misuse it for the present tense—e.g.: "‘Jesse the Body \[Ventura\] *begats* \[read *begets*\] Jerry Springer.'" B. Drummond Ayres Jr., "Political Briefing: A Run for the Senate or a Brawl for It," *N.Y. Times*, 22 July 1999, at A14 \(quoting the Democratic Party chairman of Hamilton County, Ohio\). The speaker has a vague memory of the *\*begat* passage from Genesis, but no sense of how the verb is conjugated.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*begat* for *begot* or *begotten*: Stage 1
 

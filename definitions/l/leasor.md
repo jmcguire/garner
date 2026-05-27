@@ -8,7 +8,7 @@
 
 See **lessor**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*leasor* for *lessor*: Stage 1
 Current ratio in print \(*lessor* vs. *\*leasor*\): 991:1

@@ -10,7 +10,7 @@ Because a *consensus* is the collective unanimous opinion of several people, the
 
 *Consensus* is unrelated to *census*, but that word is nevertheless often misspelled *\*concensus*—e.g.: "The emphasis on developing leadership capacity in all students, he says, is reflected in corporations where *concensus building* \[read *consensus-building*\] and working in teams have replaced the old style of centralized authority." Nina McCain, "Striving to Change the System," *Boston Globe*, 27 Oct. 1996, at B12. See spelling \(a\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*general consensus of opinion*: Stage 2
 Current ratio in print \(*consensus was* vs. *\*general consensus of opinion was*\): 129:1

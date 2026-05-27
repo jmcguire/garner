@@ -6,7 +6,7 @@ The long-term effect of the prevalent spelling may be that it will be mispronoun
 
 On the other hand, one benefit may be avoidance of the misspelling *\*run a muck*: nobody seems tempted to *\*run a mok*.
 
-Language-Change Index
+## Language-Change Index
 
 *amok* for *amuck*: Stage 5
 Current ratio in print \(*amok* vs. *amuck*\): 3:1

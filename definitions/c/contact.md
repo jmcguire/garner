@@ -14,7 +14,7 @@ Although *get in touch with* was the predominant locution from 1900 to the late 
 
 If, however, the meaning is clearly either *call* or *write*, the specific verb is preferable.
 
-Language-Change Index
+## Language-Change Index
 
 *contact* as a verb meaning "to get in touch with": Stage 5
 Current ratio in print \(*contact me* vs. *get in touch with me*\): 7:1

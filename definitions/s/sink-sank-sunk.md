@@ -14,7 +14,7 @@ See irregular verbs.
 
 The past-participial form *sunken* is used exclusively now as an adjective <sunken vessel> <sunken cheeks>.
 
-Language-Change Index
+## Language-Change Index
 
 1. *sunk* misused for simple past-tense *sank*: Stage 2
 Current ratio in print \(*the boat sank* vs. *\*the boat sunk*\): 9:1

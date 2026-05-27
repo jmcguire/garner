@@ -16,7 +16,7 @@ Perhaps because the Latinate suffix *-and* \(meaning "about to be"\) is rather u
 
 If *\*confirmant* were appropriate at all, it would refer to the priest or minister performing the rite \(the celebrant\)—not to the person being confirmed. Cf. **celebrant**.
 
-Language-Change Index
+## Language-Change Index
 
 \**confirmant* for *confirmand*: Stage 1
 Current ratio in print \(*the confirmands* vs. \**the confirmants*\): 33:1

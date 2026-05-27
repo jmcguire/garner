@@ -6,7 +6,7 @@
 
  - "Down on the field, he could see Tampa Bay Coach Jon Gruden snarling as always with his mouth simple to read even from such a *far distance* \[read *distance*\]." Les Carpenter, "In New Orleans, a Reassuring Voice," *Wash. Post*, 25 Sept. 2006, at E11.
 
-Language-Change Index
+## Language-Change Index
 
 *\*far distance* for *long distance*: Stage 2
 Current ratio in print \(*long distance* vs. *\*far distance*\): 4:1

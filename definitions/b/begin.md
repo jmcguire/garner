@@ -16,7 +16,7 @@ begin.
 
 These misuses are nothing new. Vallins noted them in 1951: " ‘He has *began*' is still common in careless speech, and sometimes crops up in even more careless writing." G.H. Vallins, *Good English: How to Write It* 30 \(1951\). See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *began* for past-participial *begun*: Stage 1
 Current ratio in print \(*has begun* vs. \**has began*\): 305:1

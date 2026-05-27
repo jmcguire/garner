@@ -10,7 +10,7 @@ access, n.
 
  - "The following days yield\[ed\] a heatwave which saw weather in *access* \[read *excess*\] of 20C during the first lockdown." Dominic Kureen, "Temperatures Plummet," *Isle of Wight County Press*, 7 Apr. 2021, Weather & Climate §.
 
-Language-Change Index
+## Language-Change Index
 
 *access* misused for *excess*: Stage 1
 

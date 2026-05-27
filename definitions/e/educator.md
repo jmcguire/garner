@@ -14,7 +14,7 @@ In BrE, *educationist* is sometimes used in the sense that *educator* bears in A
 
 *Educationalist* was for many years regarded as a needless variant of *educationist*. And like that term, it has sometimes been used in BrE without negative connotations—e.g.: "Peter Chambers, *educationalist* \[read *educationist* or *educator*\], born November 27, 1933; died September 19, 1996." Martin Wainwright, "Peter Chambers" \(obit.\), *Guardian*, 5 Oct. 1996, at 18. *Educationalist* is somewhat more common in BrE than in AmE—but it has overtaken *educationist* since 2010 in all varieties of English. The same trend is seen in *educationalism* \(= the theory or practice of providing *education*\), which has overtaken *educationism* since 2010.
 
-Language-Change Index
+## Language-Change Index
 
 *educationalist* for *educationist*: Stage 4
 Current ratio in print \(*educator* vs. *educationalist* vs. *educationist*\): 57:1.4:1

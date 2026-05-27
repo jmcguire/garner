@@ -8,7 +8,7 @@ objectionable; **objectional**. *Objectionable* \(= open to objection; unaccepta
 
  - "Stull has drawn attention to many *objectional* \[read *objectionable*\] aspects of the meat and poultry industries." Barb Shelly, "‘Pink Slime' Product of Cheap-Beef Economy," *Tulsa World*, 13 Apr. 2012, at A19.
 
-Language-Change Index
+## Language-Change Index
 
 *objectional* misused for *objectionable*: Stage 1
 Current ratio in print \(*objectionable features* vs. *\*objectional features*\): 327:1

@@ -14,7 +14,7 @@ Is differentiation possible between the two terms in AmE? Yes, it seems that *no
 
 Many usage commentators fought long and hard to resist *normalcy* and to promote *normality* in all contexts. Although we'll probably never see widespread use of the antonym *\*abnormalcy*, the unusually formed *normalcy* seems here to stay. Think of it, if you must, as an accepted abnormality.
 
-Language-Change Index
+## Language-Change Index
 
 *normalcy* for *normality* in nonspecialist contexts: Stage 5
 Current ratio in print \(*return to normalcy* vs. *return to normality* in World Englishes\): 1.3:1

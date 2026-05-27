@@ -8,7 +8,7 @@ Misusing *perspective* for *prospective* amounts to a malapropism—e.g.:
 
  - "A jury questionnaire will help prosecutors and defense lawyers determine if the *perspective* \[read *prospective*\] jurors have predisposed biases in the case." Andy Nelesen, "Hill Trial in Toddler's Death Set for Monday," *Green Bay Press-Gaz.*, 16 Feb. 2003, at B7. \(On the use of *if* in that sentence, see **if \(a\)**.)
 
-Language-Change Index
+## Language-Change Index
 
 *perspective* misused for *prospective*: Stage 1
 Current ratio in print \(*prospective students* vs. \**perspective students*\): 62:1

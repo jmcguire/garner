@@ -10,7 +10,7 @@ compendious traditionally means "abridged, succinct," not "voluminous," as write
 
 Perhaps the error stems from the idea that a compendium is, at best, a fairly comprehensive abridgment. But properly speaking, the emphasis falls on *abridgment*, not on *comprehensive*. And some would say that the word does not at all suggest comprehensiveness: " ‘The Penguin Book of Irish Fiction' doesn't carry a guarantee of mauling you if you read it. But thanks to Colin Toibin, who should have been included \(one understands why he wasn't\) in the anthology as well, we have the best *compendium* of Irish fiction since ‘The Field Day Anthology of Irish Writing,' a *more comprehensive* work published in 1991." Mike Lanagan, "In Toibin's Compendium, the Luck of the Irish," *Buffalo News*, 12 Mar. 2000, at F5.
 
-Language-Change Index
+## Language-Change Index
 
 *compendious* misused for *comprehensive*: Stage 3
 

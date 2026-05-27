@@ -10,7 +10,7 @@ effectively; **effectually**. *Effectively* = \(1\) in an effective manner; well
 
 Curiously, the adverb *effectually* was significantly more common than *effectively* until just after 1900, when the word-frequency poles were suddenly reversed. Why that is so remains a minor linguistic mystery. See **effective**.
 
-Language-Change Index
+## Language-Change Index
 
 *effectually* misused for *effectively*: Stage 2
 

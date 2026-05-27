@@ -18,7 +18,7 @@ In such contexts, *any* is elliptical for *any one*; the sentence often reads be
 
 **C. Illogical Use.** Avoid such ambiguities as this: "She was the best *of any* senior in the class." \(Read: *She was the best senior in the class.* Or: *She was the best of all the seniors in the class.*\) See **all \(d\)** & **best of all**.
 
-Language-Change Index
+## Language-Change Index
 
 *of any* for *of all*: Stage 3
 

@@ -10,7 +10,7 @@ weave > wove > woven. So inflected. *Weaved* is correct only in the sense "moved
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 1. *weaved* misused for *wove*: Stage 2
 Current ratio in print \(*wove together* vs. *\*weaved together*\): 4:1

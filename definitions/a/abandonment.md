@@ -8,7 +8,7 @@ abandonment; abandon, n. In most contexts, *abandonment* \(= the permanent relin
 
  - "You can wield the epithet with complete *abandonment* \[read *abandon*\], and revel in it." Drew Hayden Taylor, "When Is an Indian Not an Indian?," *Globe & Mail* \(Toronto\), 10 Apr. 2021, at 6.
 
-Language-Change Index
+## Language-Change Index
 
 *abandonment* misused for *abandon*: Stage 2 Current ratio in print \(*reckless abandon* vs. *reckless abandonment*\): 11:1 Current ratio in print \(*wild abandon* vs. *wild abandonment*\): 9:1
 

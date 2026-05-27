@@ -6,7 +6,7 @@ Another way of looking at it is to say that *adoptive* is the active form: an ad
 
 In reference to a city or country, *adopted* is the better, more logical, and much more common choice—e.g.: "\[Elton\] John had faith in his *adopted* city, or at least in Agassi and Sampras." Todd Holcomb, "Agassi, Sampras Show Knack for Court Comedy," *Atlanta J.-Const.*, 15 Dec. 2000, at D5. Although *adoptive* sometimes appears in such contexts, it is comparatively uncommon and usually less metaphorically accurate \(since people can typically choose where to live\)—e.g.: "My grandparents . . . were very proud of their native land \[Italy\]. However, their *adoptive* \[read *adopted*\] country was first and foremost in their minds and hearts." James Cimino, "Why Give Cubans Preferential Treatment?," *USA Today*, 10 Apr. 2000, at A26.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*adopted mother* for *adoptive mother*: Stage 3
 Current ratio in print \(*adoptive mother* vs. *\*adopted mother*\): 3:1

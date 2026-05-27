@@ -10,7 +10,7 @@ damn, adj. & adv., for *damned*—as in *that damn cat—*though attested from t
 
 The wretchedly misspelled form *dam*, too, sometimes appears—e.g.: "It seems every year we need a plumber because the house sewer system has an inadequate one-way relay instead of two, and the *dam* \[read *damned*\] thing gets overloaded." Carole Hall, "Multiple Sclerosis: Keeping Your Perspective," 3 *Real Living with Multiple Sclerosis* 6 \(May 1996\). If this is intended as a euphemism, it is a particularly ineffective one. Cf. **goddamned**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *damn* for *damned*: Stage 5
 Current ratio in print \(*damn thing* vs. *damned thing*\): 3:1

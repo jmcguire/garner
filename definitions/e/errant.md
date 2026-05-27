@@ -12,7 +12,7 @@ Generally used in reference to people or their actions, *errant* is not synonymo
 
 Sometimes *errant* is misused for *arrant* where there is no sense of wandering or straying—e.g.: "Applying this logic, my living room may be considered an uplands gateway to the uplands. Such *errant* \[read *arrant*\] nonsense could be extended ad infinitum." Marvin Petal, "Oxnard Needs PVP Plant," *Ventura County Star*, 26 Sept. 2002, at B7. *Arrant nonsense* has been a set phrase since the mid-1700s.
 
-Language-Change Index
+## Language-Change Index
 
 1. *errant* misused for *erroneous*: Stage 2
 

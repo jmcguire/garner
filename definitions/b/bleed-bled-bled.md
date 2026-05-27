@@ -8,7 +8,7 @@ bleed > bled > bled. So inflected, even in figurative baseball uses—e.g.:
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*bleeded* for *bled*: Stage 1
 

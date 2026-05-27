@@ -4,7 +4,7 @@ delimit; **\*delimitate**. *Delimit*, the preferred form, is not merely a fancy 
 
 The long form *\*delimitate*, a back-formation from the noun *delimitation*, is a needless variant. E.g.: "Each of these areas is further *delimitated* \[read *delimited*\] by instructive and informative segments." Paul W. Kittle, "Collision: Theory vs. Reality in Expert Systems," *Library Software Rev.*, Mar. 1991, at 162.
 
-Language-Change Index
+## Language-Change Index
 
 *\*delimitate* for *delimit*: Stage 1
 Current ratio in print \(*delimit* vs. *\*delimitate*\): 40:1

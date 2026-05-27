@@ -4,7 +4,7 @@ parti-colored \(= many-colored, multihued\) is the correct form. But *\*party-co
 
 *\*Parti-color*, adj., is a needless variant.
 
-Language-Change Index
+## Language-Change Index
 
 *parti-colored* misspelled *\*party-colored*: Stage 3
 Current ratio in print \(*parti-colored* vs. \**party-colored*\): 4:1

@@ -34,7 +34,7 @@ But if you change the wording to a prepositive use \(before the noun\) <five or 
 
 Finally, even with the strict usage, it's sometimes a close call whether a thing is a mass noun or a count noun, and hence whether *less* or *fewer* is proper. Take, for example, a percentage: should it be *less than 10% of the homeowners were there* or *fewer than 10% of the homeowners were there*? You could argue that a percentage is something counted \(i.e., 10 out of 100\) and therefore requires *fewer*. You could also argue that a percentage is a collective mass noun \(akin, e.g., to *money*\), and so requires *less*. The latter is the better argument because most percentages aren't whole numbers anyway. Even if it were a toss-up between the two theories, it's sound to choose *less*, which is less formal in tone than *fewer*.
 
-Language-Change Index
+## Language-Change Index
 
 *less* for *fewer* before a plural count noun <\*five or less pages>: Stage 3 *less* for *fewer* after a plural count noun <five pages or less>: Stage 5
 Current ratio in print \(*fewer children* vs. \**less children*\): 15:1

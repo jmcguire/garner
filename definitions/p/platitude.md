@@ -8,7 +8,7 @@ David Broder, the Washington journalist, pointed out that Greg Gumbel of CBS ble
 
  - "He is turned off when all I offer is enthusiastic *platitudes* \[read *plaudits*\] about Emirates. ‘Only criticism is useful to me,' he says." Rupert Steiner, "Emirates Boss Shakes Up His Airline Rivals," *Daily Mail* \(U.K.\), 15 May 2008, at 80.
 
-Language-Change Index
+## Language-Change Index
 
 *platitude* misused for *plaudit*: Stage 1
 Current ratio in print \(*received plaudits* vs. *\*received platitudes*\): 17:1

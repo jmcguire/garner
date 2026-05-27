@@ -8,7 +8,7 @@ tenet \(= a doctrine or basic belief, dogma\) is sometimes confounded with the s
 
  - "\[Robert Blake\] said the church's fundamental *tenant* \[read *tenet*\] is ‘creation of man, fall of man, redemption through Jesus Christ.' " Brian Morelli, "New Nondenominational Christian Church at UI," *Iowa City Press-Citizen*, 24 Aug. 2007, at A3.
 
-Language-Change Index
+## Language-Change Index
 
 *tenant* misused for *tenet*: Stage 2
 Current ratio in print \(*fundamental tenet* vs. *\*fundamental tenant*\): 41:1

@@ -12,7 +12,7 @@ strew.
 
 See irregular verbs & **strow**.
 
-Language-Change Index
+## Language-Change Index
 
 *strewed* for past-participial *strewn*: Stage 3
 

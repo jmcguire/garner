@@ -4,7 +4,7 @@ impolitic, adj. \(= not politic; injudicious; imprudent\), preferably forms the 
 
 *Impoliticly* predominates in BrE only, not in AmE. Yet the longer form is certain to invite miscues. See -ic/-ical. Cf. **politically**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*impolitically* for *impoliticly*: Stage 1
 Current ratio in print \(*impoliticly* vs. *\*impolitically* in BrE\): 1.2:1

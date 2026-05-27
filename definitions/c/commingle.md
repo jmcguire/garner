@@ -6,7 +6,7 @@ There are two diametrical tendencies: \(1\) the growing prevalence of the spelli
 
 Although *mingle* has also been used in reference to combining funds, *commingle* is the more usual term—e.g.: "You do not want to *mingle* \[read *commingle*\] these funds with other IRA accounts." Carla Lazzareschi, "How Co-ops Differ from Condos," *L.A. Times*, 8 May 1994, at D4.
 
-Language-Change Index
+## Language-Change Index
 
 *\*comingle* for *commingle*: Stage 1
 

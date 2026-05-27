@@ -14,7 +14,7 @@ Although the term appears most often after the adjective *high*, it does sometim
 
  - "From the media's spluttering *dudgeon*, an innocent bystander would have thought Blumenthal was the reincarnation of William Allen White." Jeff Jacoby, "Sid Blumenthal, the Reporter's Friend?," *Boston Globe*, 3 Mar. 1998, at A11.
 
-Language-Change Index
+## Language-Change Index
 
 *\*high dungeon* for *high dudgeon*: Stage 1
 Current ratio in print \(*high dudgeon* vs. *\*high dungeon*\): 54:1

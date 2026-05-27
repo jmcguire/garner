@@ -4,7 +4,7 @@
 
 **A. Self-Contradictory Idiom.** Though old, the phrase *\*rarely ever* is literally nonsensical—as many idioms are, of course. But this one is easily corrected to *rarely*, *rarely if ever*, or *rarely or never*—e.g.: "Norv Turner is a conservative, low-key, play-them-one-game-at-a-time coach who *rarely ever* \[read *rarely*\] gushes." Bill Free, "National Spotlight Pumps Up Redskins," *Baltimore Sun*, 13 Oct. 1997, at C7. Since 1800, *rarely if ever* has steadily occurred much more frequently in print. Cf. ***\**seldom ever**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*rarely ever* for *rarely* or *rarely if ever*: Stage 2
 Current ratio in print \(*rarely if ever* vs. *\*rarely ever*\): 1.5:1
@@ -17,7 +17,7 @@ Current ratio in print \(*rarely if ever* vs. *\*rarely ever*\): 1.5:1
 
  - "Scientists *rarely* *or ever* \[read *rarely if ever*\] explain their methods sufficiently to allow replication, and anyway few scientists ever bother to replicate work done elsewhere." William Gaver, "Science and Design," in *Ways of Knowing in HCI* 143, 149 \(Judith S. Olson & Wendy A. Kellogg eds., 2014\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*rarely or ever* for *rarely or never*: Stage 1
 Current ratio in print \(*rarely or never* vs. *\*rarely or ever*\): 55:1

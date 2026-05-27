@@ -12,7 +12,7 @@ Because the *-ary* is unstressed, the misspelling *\*quandry* sometimes appearsâ
 
  - "The arrival of the REITs is putting the titans in a *quandry* \[read *quandary*\]." Peter G. Gosselin, "Investors Muscling In on Realty Titans' Domain," *Boston Globe*, 10 Aug. 1997, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *quandary* misused in the sense "dilemma," "problem," "issue," or the like: Stage 1
 

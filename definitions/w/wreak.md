@@ -18,7 +18,7 @@ wreak.
 
 The phrase *wreak havoc*, by the way, came into vogue only as recently as the 1970s. Before that time, such phrases as *wreak vengeance* and *wreak revenge* \(both still used\) were just as common as *wreak havoc*.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*wreck havoc* for *wreak havoc*: Stage 1
 Current ratio in print \(*wreak havoc* vs. *\*wreck havoc*\): 53:1

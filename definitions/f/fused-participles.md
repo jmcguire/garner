@@ -40,7 +40,7 @@ The lack of apostrophe is more understandable when another possessive is nearbyâ
 
 Trigger warning: the following ratios aren't altogether comforting to traditionalists.
 
-Language-Change Index
+## Language-Change Index
 
 Garden-variety fused participle <I can understand him not wanting to participate>: Stage 3
 Current ratio in print \(*resent their being* vs. *resent them being* in World Englishes\): 1.5:1

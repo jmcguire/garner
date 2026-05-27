@@ -14,7 +14,7 @@ Writers are best advised to use *homogeneous*—and to pronounce all five syllab
 
 The scientific community has moved on from the theft of its four-syllable term, *\*homogenous*—and today uses *homologous* instead.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*homogenous* for the traditional *homogeneous*: Stage 3
 Current ratio in print \(*homogeneous* vs. *\*homogenous*\): 3:1

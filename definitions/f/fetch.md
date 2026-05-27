@@ -16,7 +16,7 @@ Because *fetch* means "to go get and bring back," the phrase *\*go fetch* is a v
 
  - "Presley's manager, Col. Tom Parker, asked Green to *go fetch* \[read *fetch*\] Elvis at the Little Rock airport." Timothy Finn, "Music-Lover Suggestions for All 11th-Hour Santas," *Kansas City Star*, 20 Dec. 1996, at 23.
 
-Language-Change Index
+## Language-Change Index
 
 *\*go fetch* for *fetch*: Stage 1
 

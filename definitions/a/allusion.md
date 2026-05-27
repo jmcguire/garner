@@ -10,7 +10,7 @@ allusion.
 
 For the difference between *illusion* and *delusion*, see **illusion**. See malapropisms. See also literary allusion.
 
-Language-Change Index
+## Language-Change Index
 
 *illusion* misused for *allusion*: Stage 1 Current ratio in print \(*literary allusions* vs. *\*literary illusions*\): 114:1
 

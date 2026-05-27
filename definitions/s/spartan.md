@@ -16,7 +16,7 @@ Undoubtedly through mistaken sound association, people have begun misusing *spar
 
 See word-swapping.
 
-Language-Change Index
+## Language-Change Index
 
 *sparse* misused for *spartan*: Stage 1
 Current ratio in print \(*spartan simplicity* vs. \**sparse simplicity*\): 8:1

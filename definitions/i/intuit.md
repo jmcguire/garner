@@ -8,7 +8,7 @@ intuit, a mid-19th-century back-formation from the noun *intuition*, is often us
 
  - "Abakanowicz makes visible what is usually only *intuited*." Mary Thomas, "Sculptor Treats Art as a Sacred Creation," *Pitt. Post-Gaz.*, 6 June 2001, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 *intuit*: Stage 5
 

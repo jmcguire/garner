@@ -6,7 +6,7 @@ Sometimes the word is misused for *reject*—e.g.: "Two-thirds of people *refute
 
 *Confute* is essentially synonymous with *refute* in the sense "to prove to be false or wrong." It's probably the stronger term, but it's much rarer.
 
-Language-Change Index
+## Language-Change Index
 
 1. *refute* misused for *rebut* or *deny*: Stage 1
 

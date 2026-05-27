@@ -4,7 +4,7 @@ idiosyncrasy. So spelled, though often erroneously rendered *\*idiosyncracy* \(a
 
 For the many words properly ending in *-cracy*, see governmental forms.
 
-Language-Change Index
+## Language-Change Index
 
 *idiosyncrasy* misspelled *\*idiosyncracy*: Stage 2
 Current ratio in print \(*idiosyncrasy* vs. \**idiosyncracy*\): 16:1

@@ -8,7 +8,7 @@ beggar description. To *beggar description* is to be indescribable or beyond des
 
 Writers can get it wrong in many ways. And so they do. In the following example, the correct idiom wouldn't work because it wouldn't match the sense. And although the writer's *\*begs description* approaches the literal sense, his echo of the related idiom seems like a malapropism: "Ask Jim Adkins what is his area of specialty and he simply says he ‘deals with the human figure.' It's an answer that *begs description* \[read *demands elaboration*?\]. See his works and no elaboration is necessary." Mike Boslet, "An Artist's Intentions Bared," *Wash. Post*, 4 July 1996, at M8.
 
-Language-Change Index
+## Language-Change Index
 
 *\*beg description* for *beggar description*: Stage 1
 Current ratio in print \(*beggar description* vs. *\*beg description*\): 60:1

@@ -8,7 +8,7 @@ The phrase is occasionally misrendered *\*hew and cry*—e.g.:
 
  - "All of which makes the *hew and cry* \[read *hue and cry*\] from \[James\] Dobson's pro-life detractors so puzzling." Dan Gilgoff, "Dobson's Bit-by-Bit Strategy Has Worked," *Denver Post*, 10 June 2007, at E3.
 
-Language-Change Index
+## Language-Change Index
 
 *\*hew and cry* for *hue and cry*: Stage 1
 Current ratio in print \(*hue and cry* vs. *\*hew* *and* *cry*\): 294:1

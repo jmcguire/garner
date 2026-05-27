@@ -20,7 +20,7 @@ Still, because *cannot help being* and \(especially\) *cannot but be* are increa
 
 Occasionally writers twist the phrase not just unidiomatically, but illogically—e.g.: "I *cannot help from refraining myself to comment* \[read *cannot refrain from commenting*\] on Ms. Gabor's flagrant disrespect of the law." Letter of Joel Rosen, "Zsa Zsa's Encounter with Police," *L.A. Times*, 24 June 1989, § 2, at 9. If the writer couldn't help refraining, then the letter wouldn't have been written\! On the misuse of *refrain* as a reflexive verb, see **restrain**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *cannot help but* for *cannot but*: Stage 5
 Current ratio in print \(*cannot help but* vs. *cannot but*\): 1.9:1

@@ -8,7 +8,7 @@ hamstring, vb. *Hamstrung* is the settled past-tense and past-participial form. 
 
  - "Wind was just one factor that *hamstringed* \[read *hamstrung*\] city and rural firefighters who teamed up to control and then extinguish the fire around 1:15 p.m." David Diehl, "Blaze Shows State Is at High Fire Risk," *Bismarck Trib.*, 21 May 2002, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*hamstringed* for *hamstrung*: Stage 1
 Current ratio in print \(*hamstrung* vs. *\*hamstringed*\): 129:1

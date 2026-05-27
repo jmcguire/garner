@@ -10,7 +10,7 @@ behest **\(bi-hest\)**, a stronger word than *request*, means \(1\) "a command";
 
 This error is a malapropism. See **bequest**, n.
 
-Language-Change Index
+## Language-Change Index
 
 *bequest* misused for *behest*: Stage 1
 Current ratio in print \(*at his behest* vs. *\*at his bequest*\): 36:1

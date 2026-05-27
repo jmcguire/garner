@@ -20,7 +20,7 @@ Although the *OED* records some pre-1750 uses of *riff* in the obsolete sense "r
 
 Careful users of language preserve the age-old fissure between the words.
 
-Language-Change Index
+## Language-Change Index
 
 *riff* misused for *rift*: Stage 1
 

@@ -12,7 +12,7 @@ populace.
 
  - "And this is how—in part—the body politic will select the governor of the nation's fourth most *populace* \[read *populous*\] state." Daniel Ruth, "Say Hello to the Lieutenant of Obscurity," *Tampa Trib.*, 16 Sept. 2006, Metro §, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 *populace* misused for *populous*: Stage 1
 Current ratio in print \(*more populous* vs. *\*more populace*\): 479:1

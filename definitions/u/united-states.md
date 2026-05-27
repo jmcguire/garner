@@ -8,7 +8,7 @@ The plural use was predominant in AmE till 1880 and in BrE till about 1895. Ever
 
 Today, it's unidiomatic to suggest plurality in referring to the United States. But some BrE writers still use the phrase in this way—e.g.: "It has been shown that under the law of *some of the United States* \[read *some states in the United States* or *some American states*\] there is a legal advantage." Glanville Williams, *The Sanctity of Life and the Criminal Law* 183–84 \(1957; repr. 1972\).
 
-Language-Change Index
+## Language-Change Index
 
 *United States* used as a plural: Stage 1
 

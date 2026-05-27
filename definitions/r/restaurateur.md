@@ -8,7 +8,7 @@ restaurateur. So spelled, as a French loanword from the late 1700s. *\*Restauran
 
 The mispronunciation—resulting, of course, from the spelling of *restaurant*—may also be influenced by *raconteur*. See spelling \(a\).
 
-Language-Change Index
+## Language-Change Index
 
 *restaurateur* misspelled *\*restauranteur*: Stage 2
 Current ratio in print \(*restaurateur* vs. \**restauranteur*\): 14:1

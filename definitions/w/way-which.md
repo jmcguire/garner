@@ -8,7 +8,7 @@ But it's often quite natural and idiomatic to use *that* in place of *in which*,
 
  - "Well, that's the *way* they would do it in Mayberry." Letter of Kathy Heath, *Tampa Trib.*, 12 Sept. 1997, at 6.
 
-Language-Change Index
+## Language-Change Index
 
 *\*way which* for *way in which*: Stage 1
 

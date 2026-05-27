@@ -30,7 +30,7 @@ And in AmE, the more usual past participle is *swelled* in other senses as wellâ
 
 See irregular verbs \(d\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*swoll* as a past form of *swell*: Stage 1
 Current ratio in print \(*swelled up* vs. *\*swoll up*\): 202:1

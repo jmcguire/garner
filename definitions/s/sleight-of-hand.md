@@ -8,7 +8,7 @@ sleight of hand. This term—meaning "a hand-trick or other display of dexterity
 
  - "Budgets were only ‘balanced' with the use of one-time revenues from land sales, diversions of sewer and water funds \(almost $100 million\) and other budget *slights* \[read *sleights*\] of hand." Mary Ball & Scott Barnett, "Solving San Diego's Fiscal Problems," *San Diego Union-Trib.*, 6 May 2001, at G3.
 
-Language-Change Index
+## Language-Change Index
 
 *\*slight of hand* for *sleight of hand*: Stage 2
 Current ratio in print \(*sleight of hand* vs. *\*slight of hand*\): 28:1

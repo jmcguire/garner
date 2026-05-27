@@ -12,7 +12,7 @@ See malapropisms.
 
 Whereas *penal* is pronounced /**pee**-nәl/, *penile* is pronounced /**pee**-nīl/.
 
-Language-Change Index
+## Language-Change Index
 
 *\*penal* misused for *penile*: Stage 1
 Current ratio in print \(*penile erection* vs. *\*penal erection*\): 1,044:1

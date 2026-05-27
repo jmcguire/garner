@@ -10,7 +10,7 @@ fair.
 
  - "The Illini won six of their last eight games, defeated two NCAA Tournament teams in the process and *faired* \[read *fared*\] well in the Big Ten tournament." Patricia Babcock McGraw, "Illini Softball Left Out in the Cold Again," *Daily Herald* \(Chicago\), 18 May 2002, Sports §, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 *fair* misused for *fare*: Stage 1
 Current ratio in print \(*fared well* vs. *\*faired well*\): 81:1

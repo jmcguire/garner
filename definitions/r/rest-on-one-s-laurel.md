@@ -10,7 +10,7 @@ rest on one's laurels. The *laurel* in this phrase refers literally to the leaf 
 
 Of course, people resting on their laurels might also be sitting on their hands.
 
-Language-Change Index
+## Language-Change Index
 
 *\*sitting on laurels* for *resting on laurels*: Stage 1
 Current ratio in print \(*resting on their laurels* vs. *\*sitting on their laurels*\): 12:1

@@ -8,7 +8,7 @@ drier; **dryer**. *Drier* is the adjective meaning "more dry." *Dryer* is the ap
 
 See **dry**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *dryer* misused as a comparative adjective \(for *drier*\): Stage 2
 Current ratio in print \(*drier climate* vs. *\*dryer climate*\): 8:1

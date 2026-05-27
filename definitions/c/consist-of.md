@@ -16,7 +16,7 @@ By traditional standards, *consist of* wrongly displaces *consist in* here: "The
 
 The opposite error—using *consist in* for *consist of*—is rare but does occur: "Typically \[the bill of complaint in equity\] *consisted in* \[read *consisted of*\] three parts: the narrative, the charging, and the interrogative parts." Fleming James, *Civil Procedure* § 2.4, at 64 \(1965\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *consist of* misused for *consist in*: Stage 4
 

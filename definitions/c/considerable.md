@@ -8,7 +8,7 @@ considerable, used adverbially for *considerably*, is labeled "obsolete or diale
 
  - "The deal is *considerable* \[read *considerably*\] less than the original $50,000 asking price." Jocelyn Airth, "Sydney Kings Score New Deal," *Daily Telegraph* \(Sydney, Aus.\), 18 Dec. 2020, at 90.
 
-Language-Change Index
+## Language-Change Index
 
 *considerable* misused adverbially for *considerably*: Stage 1
 Current ratio in print \(*considerably more* vs. *\*considerable more*\): 78:1

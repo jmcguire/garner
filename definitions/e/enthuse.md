@@ -18,7 +18,7 @@ Although the adjective *\*enthused* is virtually always inferior to *enthusiasti
 
  - "The coming project he sounds most *enthused* \[read *enthusiastic*\] about is ‘The Foreigner,' an English-language drama to be directed by Martin Campbell." Julie Makinen, "East Meets West," *Chicago Trib.*, 26 Aug. 2015, Arts & Entertainment §, at 4.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*enthuse* for *gush*: Stage 3
 

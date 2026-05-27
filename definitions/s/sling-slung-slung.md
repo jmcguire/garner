@@ -10,7 +10,7 @@ sling > slung > slung. So inflected in AmE and BrE alike. As a past-tense form, 
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 1. *slang* for *slung* as past tense of *sling*: Stage 1
 Current ratio in print \(*had slung* vs. *\*had slang*\): 110:1

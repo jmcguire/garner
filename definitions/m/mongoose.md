@@ -6,7 +6,7 @@ mongoose forms the plural *mongooses*, not *\*mongeese*. But the mistaken form i
 
  - "\[We visited\] a lavender farm \(just us, monitored by two *mongeese* \[read *mongooses*\], several donkeys, and an old red dog\)." Jane Cornwell, "Far from the Crowd," *Aus. Fin. Rev.*, 3 Aug. 2018, at 30.
 
-Language-Change Index
+## Language-Change Index
 
 *\*mongeese* for *mongooses*: Stage 1
 Current ratio in print \(*mongooses* vs. *\*mongeese*\): 25:1

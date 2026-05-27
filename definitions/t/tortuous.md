@@ -14,7 +14,7 @@ Second, *tortuous* is sometimes misused for *tortious* \(the least common of the
 
 In those examples, it's hard to know who made the error: the quoter or the original writer. But somebody did.
 
-Language-Change Index
+## Language-Change Index
 
 1. *tortuous* misused for *torturous*: Stage 2
 Current ratio in print \(*torturous interrogation* vs. *\*tortuous interrogation*\): 7:1

@@ -16,7 +16,7 @@ In other words, the phrase has been tossed every which way.
 
 Although *to-ing and fro-ing* is sometimes so written \(with hyphens\), the far more usual method is to make the words solid in both AmE and BrE. E.g.: "After some *toing and froing*, it \[Booking.com\] finally agreed \[to\] the refund." Sally Hamilton, "Fighting for Your Money," *Daily Telegraph*, 11 Sept. 2021, at 12.
 
-Language-Change Index
+## Language-Change Index
 
 *to and fro* written either *\*too and fro* or *\*two and fro*: Stage 1
 Current ratio in print \(*to and fro* vs. *\*two and fro*\): 2,912:1

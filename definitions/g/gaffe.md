@@ -8,7 +8,7 @@ gaffe; **gaff**, n. *Gaffe* = \(1\) a blunder in etiquette; faux pas; or \(2\) a
 
  - "The Webster episode is only Pitt's latest ethical *gaff* \[read *gaffe*\]." Steven Syre, "Money Men on Hot Seat," *Boston Globe*, 3 Nov. 2002, at E2.
 
-Language-Change Index
+## Language-Change Index
 
 *gaff* misused for *gaffe*: Stage 1
 

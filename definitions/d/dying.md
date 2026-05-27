@@ -10,7 +10,7 @@ dying; **dyeing**. *Dying* corresponds to the verb *die* \(= to expire\), *dyein
 
 See **die \(b\).**
 
-Language-Change Index
+## Language-Change Index
 
 *dying* misused for *dyeing*: Stage 1
 

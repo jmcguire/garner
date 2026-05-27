@@ -14,7 +14,7 @@ Cf. **\*uncategorically** & **\*unrelentlessly**.
 
 Though it is a syllable longer than *mercilessly*, *unmercifully* also suffices—e.g.: "And still, Stevie Wonder seemed intent on taking his sweet, soulful time, teasing us *unmercifully*, making us sweat for his presence." Patricia Smith, "He's Still a Wonder to Behold," *Boston Globe*, 4 Jan. 1995, at 53.
 
-Language-Change Index
+## Language-Change Index
 
 *\*unmercilessly* for *mercilessly*: Stage 1
 Current ratio in print \(*mercilessly* vs. *\*unmercilessly*\): 1,396:1

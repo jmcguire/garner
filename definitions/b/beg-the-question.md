@@ -12,7 +12,7 @@ In the following sentence, the writer mangled the set phrase *beg the question* 
 
 All that having been said, the use of *beg the question* to mean *raise another question* is so ubiquitous that the new sense has been recognized by most dictionaries and sanctioned by descriptive observers of language. Still, though it is true that the new sense may be understood by most people, some will consider it slipshod. See semantic change \(d\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *beg the question* for *evade the issue*: Stage 3
 

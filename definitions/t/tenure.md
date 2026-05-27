@@ -8,7 +8,7 @@ tenure; **tender**. *Tenure* \(= \[1\] a holding by right, as of an elected offi
 
  - "Jeff Fields, president of the Charlestown Board of Town Commissioners, announced that he was *tenuring* \[read *tendering*\] his resignation." Carl Hamilton, "President of Charlestown Board of Commissioners Resigns," *Cecil Whig* \(Md.\), 15 July 2021, Local News §.
 
-Language-Change Index
+## Language-Change Index
 
 *tenure* misused for *tender*: Stage 1
 

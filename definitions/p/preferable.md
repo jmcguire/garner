@@ -20,7 +20,7 @@ As demonstrated in the immediately preceding example, the word takes *to*, not *
 
 *Preferable* is accented on the first syllable, not the second: /**pref**-әr-ә-bәl/, not /pri-**fәr**-ә-bәl/. See pronunciation \(b\) & class distinctions.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*more preferable* for *preferable* or *much preferable*: Stage 3
 Current ratio in print \(*much preferable to* vs. *\*more preferable than*\): 1.4:1

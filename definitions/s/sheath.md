@@ -10,7 +10,7 @@ Just remember the difference between the analogous terms *breath* \(n.\) and *br
 
 *Sheath* forms the plural *sheaths*, not *sheathes*—e.g.: "Don Davis makes each of the hand-tooled leather *sheathes* \[read *sheaths*\] that come with his knives." "The Cutting Edge," *Denver Post*, 6 Aug. 1997, at F1 \(photo caption\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *sheathe* misused as noun for *sheath*: Stage 1
 Current ratio in print \(*a sheath* vs. *\*a sheathe*\): 221:1

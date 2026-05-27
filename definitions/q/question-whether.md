@@ -4,7 +4,7 @@ question whether; **question of whether**; **\*question as to whether**. The fir
 
 But \**question as to whether* raises a different question. Yes, it's ungainly, but it also features illogic, as Fowler pointed out in 1926: you're trying to say what the question *is*, not what it's *about*. \(*FMEU1* at 479.\) The prepositional *as to* traditionally introduces what something concerns, not its very essence. See **as to \(a\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *question of whether* for *question whether:* Stage 5
 Current ratio in print \(*question of whether* vs. *question whether* vs. \**question as to whether*\): 7:5:1

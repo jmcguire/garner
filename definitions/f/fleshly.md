@@ -10,7 +10,7 @@ Not surprisingly, these terms are susceptible to word-swapping—e.g.:
 
  - "Max Boot . . . does as much as any other writer of recent vintage to bring the *fleshy* \[read *fleshly*\] reality of warfare back into view." Paul McLeary, "Why It's Better to Be Smart than Strong," *Christian Science Monitor*, 23 Jan. 2007, Features §, at 17.
 
-Language-Change Index
+## Language-Change Index
 
 *fleshly* misused for *fleshy*: Stage 1
 

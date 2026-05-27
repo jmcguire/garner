@@ -20,7 +20,7 @@ Phrases such as *\*a whole plethora of* are likewise ill-considered—e.g.: "The
 
 Two final points. First, the word is pronounced /**pleth**-ә-rә/, not /plә-**thor**-ә/. Second, interestingly, from 1730 to 1930 the adjective *plethoric* was in much more frequent use than the mildly verbose phrase *a plethora of*. But the adjective began declining about 1900, and today its uses in print constitute a paucity, not a plethora.
 
-Language-Change Index
+## Language-Change Index
 
 *a plethora of* misused to mean "plenty of": Stage 3
 

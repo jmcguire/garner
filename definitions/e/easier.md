@@ -8,7 +8,7 @@ easier is the comparative form both of the adjective *easy* and of the adverb *e
 
 In modern print sources, the collocation *done more easily* is much more common than *done easier*. See **easy**.
 
-Language-Change Index
+## Language-Change Index
 
 *easier* used adverbially for *more easily*: Stage 4
 Current ratio in print \(*done more easily* vs. *done easier*\): 3:1

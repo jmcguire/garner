@@ -8,7 +8,7 @@ When used in the sense "to decide, see fit," the word has fallen victim to slips
 
  - "The fast food nugget has faced criticism over the years—no one would *deign* \[read *see fit* or *dare*?\] to call them healthy." Lucas Kwan Peterson, "Nugget of Truth on Truth of Nuggets," *L.A. Times*, 22 Aug. 2021, Food §, at 2.
 
-Language-Change Index
+## Language-Change Index
 
 *deign* misused for *decide* or *see fit*: Stage 2
 

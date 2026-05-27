@@ -14,7 +14,7 @@ See dialect.
 
 From 1800 to about 1968, *unbeknown* was the predominant form in AmE print sources, and it was predominant in BrE till about 2000. Since then, *unbeknownst* has grown in frequency of occurrence and surpassed its rival. Though it shows no signs of retreating, it has not yet reached Stage 5 because some worthy opinion-makers still wrinkle their noses.
 
-Language-Change Index
+## Language-Change Index
 
 *unbeknownst* for *unbeknown*: Stage 4
 Current ratio in print \(*unbeknownst* vs. *unbeknown*\): 3:1

@@ -14,7 +14,7 @@ The pronunciation /slow/ is a chiefly BrE variant in the noun senses.
 
 As an AmE slang term, *sluff* means "to be lazy; shirk responsibilities" <Johnny, have you been sluffing again?>. In this sense the phonetic spelling is passable. See Robert L. Chapman, *American Slang* 406 \(1987\). Although Chapman cites *sluff* without *off*, more often the phrasal verb *\*sluff off* is used <Jaynie, have you been sluffing off again?>.
 
-Language-Change Index
+## Language-Change Index
 
 *slough off* \(the phrasal verb\) misspelled *\*sluff off*: Stage 1
 Current ratio in print \(*slough off* vs. \**sluff off *\): 61:1

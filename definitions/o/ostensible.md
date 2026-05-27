@@ -8,7 +8,7 @@ ostensible; **ostensive**. *Ostensible* \(the usual term\) = seeming; apparent <
 
  - "The fun—and there is quite a bit to be had—derives in part from the over-the-top performance by Sizemore and the sometimes painfully ordinary ‘insights' of the *ostensive* \[read *ostensible*\] geniuses, but the film is surprisingly free of cant." Philip Martin, "Review: The Genius Club," *Ark. Democrat-Gaz.*, 1 Feb. 2008, Moviestyle §, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 *ostensive* misused for *ostensible*: Stage 1
 

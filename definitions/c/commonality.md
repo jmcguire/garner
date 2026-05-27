@@ -6,7 +6,7 @@ The remaining words are more easily distinguished. *Commonalty* = \(1\) commoner
 
 *Commonage* = \(1\) the right to pasture animals on common land; \(2\) the condition of land held in common; or \(3\) an estate or property held in common. *\*Commonty*, in its existing uses, is a needless variant of *commonage*.
 
-Language-Change Index
+## Language-Change Index
 
 *commonalty* misused for *commonality*: Stage 1
 

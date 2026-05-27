@@ -6,7 +6,7 @@ as . . . as.
 
 In the mid-20th century it was commonly held that *so . . . as* is preferable to *as . . . as* in negative statements—e.g.: "The Republican governor said he might support future efforts to raise the ballot bar on non-major party candidates, but *not so* high *as* Senate Bill 200 tried to set." Mario F. Cattabiani, "Ridge Vetoes Bill on Ballot Access," *Morning Call* \(Allentown, Pa.\), 26 June 1997, at A1. But *as . . . as* generally serves equally well in such negative statements, and examples abound in good literature.
 
-Language-Change Index
+## Language-Change Index
 
 *as . . . as* for *so . . . as* in negative statements: Stage 5
 
@@ -16,14 +16,14 @@ Language-Change Index
 
 **D. *As* \[\+ adj.\] *a* \[\+ n.\] *as*.** In AmE, writers sometimes err by inserting *of* after the adjective. But good usage rejects this—e.g.: "From the sidelines, Nunez became nearly *as good of a cheerleader* \[read *as good a cheerleader*\] as he was a running back." Jaime Aron, "Westlake's Nunez Leads AP Honor Roll," *Austin Am.-Statesman*, 26 Oct. 1994, at C3. See **of \(b\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*not as good of a* for *not as good a*: Stage 2
 Current ratio in print \(*not as good a* vs. *\*not as good of a*: 12:1
 
 **E. *As . . . than*.** *Than* is sometimes misused for the second *as*—e.g.: "A Roper Starch poll says that 24 percent of consumers—twice *as* many *than* \[read *as*\] in 1987—say they never go to malls." Allison Lucas, "The Fall of the Mall," *Sales & Marketing Mgmt.*, 1 Apr. 1996, at 13. \(But it would be *twice more than*.\) See swapping horses.
 
-Language-Change Index
+## Language-Change Index
 
 *\*as . . . than* misused for *as . . . as*: Stage 1
 

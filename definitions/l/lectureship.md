@@ -4,7 +4,7 @@ lectureship; **\*lecturership**. Even though *\*lecturership* is more logical \(
 
 Those who write *\*lecturership*—and today it is mostly confined to BrE—are likely to be thought pretentious. The following sentence suggests, no doubt unwittingly, that Oxford is a more pretentious place than Liverpool: "After a *lecturership* \[read *lectureship*\] at Merton College, Oxford, and an assistant *lectureship* at Liverpool University, Roberts was elected, aged 26, Professor of History at the Rhodes University College." "Professor Michael Roberts" \(obit.\), *Daily Telegraph*, 25 Jan. 1997, at 13.
 
-Language-Change Index
+## Language-Change Index
 
 *\*lecturership* for *lectureship*: Stage 1
 Current ratio in print \(*lectureship* vs. *\*lecturership*\): 42:1

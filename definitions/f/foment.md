@@ -18,7 +18,7 @@ Hence *foment*, as a noun, ought to be considered a needless variant.
 
 *Foment* is invariably transitive. If it doesn't have an object, choose a different verb—e.g.: "And wherever the expatriates go, instability and civil war *foment* \[read *follow*, *fester*, or the like\]." "Iraqi Refugee Exodus Another Bush Bonus," *Palm Springs Post*, 4 Jan. 2007, at A23.
 
-Language-Change Index
+## Language-Change Index
 
 1. *foment* as a noun for *fomentation*: Stage 3
 Current ratio in print \(*the fomentation of* vs. *\*the foment of*: 1.8:1

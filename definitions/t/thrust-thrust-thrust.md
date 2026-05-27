@@ -10,7 +10,7 @@ thrust > thrust > thrust. So inflected. *\*Thrusted* is a common error—e.g.:
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*thrusted* for past-tense *thrust*: Stage 1
 Current ratio in print \(*were thrust* vs. *\*were thrusted*\): 367:1

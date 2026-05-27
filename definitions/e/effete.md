@@ -24,7 +24,7 @@ Still others use it as a genteelism denoting weakness or \(surely because the wo
 
 As with other skunked terms, the thing to do is simply to avoid using it.
 
-Language-Change Index
+## Language-Change Index
 
 1. *effete* to mean "sophisticated, snobbish": Stage 4
 

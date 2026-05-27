@@ -10,7 +10,7 @@ immaculate conception. Even among Catholics, it's a common misconception that th
 
 One writer gamely corrected his error: "I implied that the birth of Jesus was the result of the *Immaculate Conception*. Uh-uh. The term doesn't refer to Mary conceiving the infant Jesus without sexual intercourse, but to Mary herself having been conceived without original sin in her soul. The friars back at St. Bonaventure must be so bummed with me." Mark McGuire, "Fox News Can Start from Scratch," *Times Union* \(Albany\), 15 Nov. 1999, at C1.
 
-Language-Change Index
+## Language-Change Index
 
 *immaculate conception* in reference to Jesus: Stage 2
 

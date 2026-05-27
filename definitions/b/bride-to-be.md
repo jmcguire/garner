@@ -4,7 +4,7 @@ bride-to-be; **\*bride-elect**. The first form, which greatly outnumbers the sec
 
 In parts of the U.S., especially on the West Coast, the phrase *benedict-elect* became common as a correlative of *\*bride-elect*, usually appearing in wedding announcements. See **Benedick**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*bride-elect* for *bride-to-be*: Stage 2
 Current ratio in print \(*bride-to-be* vs. *\*bride-elect*\): 13:1

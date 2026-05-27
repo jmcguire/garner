@@ -10,7 +10,7 @@ pejorative \(= \[of a word or phrase\] having negative connotations and tending 
 
 Though once pronounced /**pee**-jәr-ay-tiv/ \(or, in BrE, /**pee**-jәr-ә-tiv/\), the predominant \(and fully acceptable\) pronunciation today is /pә-**jor**-ә-tiv/.
 
-Language-Change Index
+## Language-Change Index
 
 *pejorative* misspelled *\*perjorative*: Stage 1
 Current ratio in print \(*pejorative* vs. \**perjorative*\): 170:1

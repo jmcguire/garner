@@ -8,7 +8,7 @@ regardless \(= without regard to\) should not be used for *despite* \(= in spite
 
 Though longer, *regardless of* would also be acceptable in those sentences. See **\*irregardless**.
 
-Language-Change Index
+## Language-Change Index
 
 *regardless* \(without *of*\) misused for *despite*: Stage 2
 Current ratio in print \(*regardless of what* vs. \**regardless what*\): 62:1

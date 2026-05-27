@@ -6,7 +6,7 @@ Occasionally, of course, *awfully* can be ambiguous—e.g.: "He is *awfully* edu
 
 To use *awful* adverbially typifies dialectal usage—e.g.: "He's an *awful* \[read *awfully*\] good fellow." See dialect.
 
-Language-Change Index
+## Language-Change Index
 
 1. *awful* in the sense "very bad" <what an awful performance>, "shocking" <the casualties were just awful>, or "very great" <we did an awful lot of work>: Stage 5
 

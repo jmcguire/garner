@@ -16,7 +16,7 @@ The Latin plural is *personae non gratae* \(/pәr-**soh**-nee non **gray**-tee/,
 
 The antonym of *persona non grata* is the less common *persona grata* \(= a person who is welcome\). While the negative form occurs in both AmE and BrE, the positive form \(infrequent as it is\) appears far more often in BrE than in AmE.
 
-Language-Change Index
+## Language-Change Index
 
 *\*persona non gratis* for *persona non grata*: Stage 1
 Current ratio in print \(*persona non grata* vs. *\*persona non gratis*\): 216:1

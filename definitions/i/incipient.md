@@ -16,7 +16,7 @@ Given the rarity of *insipient*, it's a little surprising to see it used correct
 
  - "Some legislators tried to change the constitution to allow \(and therefore guarantee\) unequal and ineffective public education in Texas. Fortunately, they failed to convince their less *insipient* colleagues and the public of the merits of their ambition." Editorial, "Texas Public School Finance Needs Efficiency Experts," *Houston Chron.*, 8 July 2001, Outlook §, at 2.
 
-Language-Change Index
+## Language-Change Index
 
 *insipient* misused for *incipient*: Stage 1
 

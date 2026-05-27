@@ -8,7 +8,7 @@ seldom. Because this word is an adverb as well as an adjective, the nonword *\*s
 
 It isn't even listed in most dictionaries. For other adverbs ending in a superfluous *-ly*, see adverbs \(d\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*seldomly* for *seldom*: Stage 1
 Current ratio in print \(*seldom* vs. *\*seldomly*\): 718:1

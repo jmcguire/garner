@@ -14,7 +14,7 @@ Still others confuse *shone* with *shown*—e.g.:
 
 Rarely, a writer will slip the other way and spell *shown* as *shone*—e.g.: "Former No. 1 Pick *Shone* \[read *Shown*\] to Sonic Door." Headline, *Seattle Post-Intelligencer*, 1 Nov. 1996, at E6. See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 1. *shined* misused for *shone*: Stage 2
 Current ratio in print \(*sun shone brightly* vs. *\*sun shined brightly*\): 23:1

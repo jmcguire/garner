@@ -18,7 +18,7 @@ As a result of that common mistake, *\*kudoes* \(a mistaken plural\) and *\*kudo
 
 The mistaken plural use, as well as the back-formed singular *\*kudo*, came into vogue in World War II. See Atcheson L. Hench, "Singular ‘Kudos' and Plural ‘Kudos,' " 38 *Am. Speech* 303–04 \(1963\). But the print evidence of the plural use dates back to the 1920s.
 
-Language-Change Index
+## Language-Change Index
 
 1. *kudos* as a false plural <many kudos>: Stage 4
 Current ratio in print \(*kudos is* vs. *\*kudos are*\): 1.7:1

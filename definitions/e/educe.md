@@ -4,7 +4,7 @@ educe, vb. \(= to elicit; evoke\), should be distinguished from the verb *adduce
 
 Sometimes the word appears where *deduce* or *infer* or even *glean* would be better—e.g.: "Hitherto, how he fitted into the screwball reputation of that magazine has had to be *educed* \[read *deduced* or *gleaned*\] from his ‘The Years with Ross' \(1959\)." John McAleer, "The Thurber Spirit," *Chicago Trib.*, 17 Dec. 1995, at C1. See **adduce**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *educe* misused for *elicit*: Stage 1
 

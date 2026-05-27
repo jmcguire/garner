@@ -20,7 +20,7 @@ Able writers generally have no difficulty getting the number correct—e.g.:
 
  - "Ottawa's many *dicta*, some quite possibly unnecessary, *are* . . . harassing thousands of travellers." Douglas Todd, "Travellers Face Chaos over Vax Certificates," *Vancouver Sun*, 28 Aug. 2021, at B3.
 
-Language-Change Index
+## Language-Change Index
 
 *dicta* misused as a singular in place of *dictum*: Stage 1
 

@@ -14,7 +14,7 @@ When *waivered* is not misused for *wavered*, it often displaces the more straig
 
 Finally, *waver* occasionally ousts *waiver* from its rightful position—e.g.: "Out of the school's 575 students, 38 have signed *wavers* \[read *waivers*\] to allow them not to wear the uniform." Brian Hall, "Reaching Out," *Orange County Register*, 1 Feb. 1996, at 3.
 
-Language-Change Index
+## Language-Change Index
 
 1. *waiver* misused for *waver*: Stage 1
 Current ratio in print \(*wavered between* vs. *\*waivered between*\): 527:1

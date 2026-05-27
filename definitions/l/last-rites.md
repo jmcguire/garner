@@ -4,7 +4,7 @@ last rites \(= a sacrament in which a priest blesses and prays for a person who 
 
 A former term for *last rites* is *extreme unction*, but the Roman Catholic Church changed the name in 1972 to shift the focus from dying to healing, spiritually and physically. Today the rite is called, variously, *sacrament of the sick*, *anointing of the sick*, and *sacrament of healing*.
 
-Language-Change Index
+## Language-Change Index
 
 *\*last rights* for *last rites*: Stage 1
 Current ratio in print \(*last rites* vs. *\*last rights*\): 24:1

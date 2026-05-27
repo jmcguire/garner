@@ -18,7 +18,7 @@ Yet *disinterested* is frequently used \(or, in traditionalists' eyes, misused\)
 
  - "Sales at many chains will look good because they were so poor last year because of the unusually hot weather and *disinterested* \[read *uninterested*\] shoppers." "Back-to- School Shopping Gets Good Grades," *Tampa Trib.*, 3 Sept. 1996, Bus. & Fin. §, at 6.
 
-Language-Change Index
+## Language-Change Index
 
 *disinterested* misused for *uninterested*: Stage 4
 Current ratio in print \(*uninterested children* vs. *disinterested children*\): 1:1.2

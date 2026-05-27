@@ -10,7 +10,7 @@ swim > swam > swum. So inflected since the late 1800s in AmE and BrE alike. Yet 
 
 And *swum* is sometimes misused for *swam*—e.g.: "They *swum* \[read *swam*\] on." Carol Benefell, "Dramatic Rescue Near Goat Rock," *Press Democrat* \(Santa Rosa\), 8 Apr. 1996, at B1. See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 1. *swam* for past-participial *swum*: Stage 2
 Current ratio in print \(*have swum* vs. *\*have swam*\): 6:1

@@ -8,7 +8,7 @@ Far less often, it's used to mean unintentionally funny, even ludicrous—e.g.: 
 
 Perhaps because the words look and sound a bit similar, *droll* is sometimes misused as a synonym for *dull*. The result is a startling malapropism given the words' meanings—e.g.: "The local recruiting firm Accounting One created the stand-up comedy contest last year to try to show a lighter side to the profession saddled with a *droll* \[read *dull*\] image." Mike Tierney, "Bottom Line: It's OK to Laugh at Accountants," *Atlanta J.-Const.*, 15 Oct. 2006, Bus. §, at C3.
 
-Language-Change Index
+## Language-Change Index
 
 *droll* misused for *dull*: Stage 1
 

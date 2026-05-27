@@ -10,7 +10,7 @@ Hence in the popular phrase *final* or *ultimate arbiter*, the word *arbitrator*
 
  - "Ever since the 1954 Supreme Court desegregation decision, judges, not legislators, have been the *arbitors* \[read *arbiters*\] of social policy." Paul Craig Roberts, "Victory Trail from the New Majority Corral," *Wash. Times*, 11 Aug. 2000, at A17.
 
-Language-Change Index
+## Language-Change Index
 
 1. *arbitrator* for *arbiter*: Stage 1
 

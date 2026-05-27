@@ -18,7 +18,7 @@ The confusion also occurs between the noun forms—e.g.:
 
 Often when one word is commonly misused for a second word, part of the blame can go to a third word that sounds like the first but means something close to the second. Perhaps *exasperate* contributes to the misuse of *aggravate* \(which sounds a bit like *exasperate*\) in the sense of *irritate* \(which is close in meaning to *exasperate*\). Also, when *aggravate* is used in this sense, it often implies something more intense than merely *irritate*. It is closer in meaning to *exasperate*.
 
-Language-Change Index
+## Language-Change Index
 
 *aggravate* for *annoy* or *irritate*: Stage 4
 

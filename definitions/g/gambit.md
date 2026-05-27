@@ -20,7 +20,7 @@ Today this sense is relatively common—e.g.:
 
  - "So why do we mentor? Faculty motivations run the *gambit* \[read *gamut*\] from sheer altruism to a utilitarian interest in research assistance." W. Brad Johnson, *On Being a Mentor: A Guide for Higher Education Faculty* 17 \(2006\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*running the gambit* for *running the gamut*: Stage 1
 Current ratio in print \(*running the gamut* vs. *\*running the gambit*\): 32:1

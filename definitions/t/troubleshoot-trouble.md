@@ -10,7 +10,7 @@ troubleshoot > troubleshot > troubleshot. So inflected. The erroneous past-tense
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*troubleshooted* for *troubleshot*: Stage 1
 Current ratio in print \(*troubleshot* vs. *\*troubleshooted*\): 5:1

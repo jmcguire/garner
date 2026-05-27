@@ -10,7 +10,7 @@ rid > rid > rid. So inflected. *\*Ridded* is a variant to avoid—e.g.:
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*ridded* for *rid* as past tense and past participle: Stage 1
 Current ratio in print \(*had rid* vs. *\*had ridded*\): 67:1

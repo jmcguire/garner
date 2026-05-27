@@ -16,7 +16,7 @@ The words also function, of course, as verbs: a person may *brake* a car \(apply
 
 Modern technology, here as elsewhere, has complicated usage. Consider this sentence: "It must then pop a parachute and power on retro-rockets to *brake* \[read *break*?\] its fall." Kathy Sawyer, "NASA Goes for a Martian Pole in One," *Wash. Post*, 3 Dec. 1999, at A3. Since the retrorocket is indeed a kind of *brake*, the sentence straddles two idioms.
 
-Language-Change Index
+## Language-Change Index
 
 1. *break* misused for *brake*: Stage 1
 Current ratio in print \(*brake pedal* vs. *\*break pedal*\): 280:1

@@ -10,7 +10,7 @@ incentivize; **\*incent**, vb. Dating from the mid-1970s, these have become vogu
 
 *Incentivize*, an -ize neologism, is much more common than *\*incent*, a back-formation. Many still believe there is no good incentive to use either one.
 
-Language-Change Index
+## Language-Change Index
 
 1. *incentivize*: Stage 5
 

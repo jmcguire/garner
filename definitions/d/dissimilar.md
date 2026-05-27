@@ -6,7 +6,7 @@ dissimilar has always preferably taken the preposition *to*, not *from* on the a
 
  - "On a holiday a few years ago, Alam and family stayed in a house not *dissimilar to* the one in Leave the World Behind." Jason Steger, "Rumaan Alam," *Sydney Morning Herald* \(Aus.\), 14 Aug. 2021, at 10.
 
-Language-Change Index
+## Language-Change Index
 
 *\*dissimilar from* for *dissimilar to*: Stage 2
 Current ratio in print \(*dissimilar to* vs. *\*dissimilar from*\): 3:1

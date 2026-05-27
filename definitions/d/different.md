@@ -22,7 +22,7 @@ When *from* nicely fills the slot of *than*, however, that is the idiom to be pr
 
 *Different to* is common and unobjectionable BrE—e.g.: "The trouble is that attending to the parts is quite *different to* surveying the whole." Rob Cowan, "Classical Review," *Independent*, 5 Dec. 1997, at 22.
 
-Language-Change Index
+## Language-Change Index
 
 *different than* for *different from*: Stage 3
 Current ratio in print \(*different from* vs. *different than*\): 8:1
@@ -41,7 +41,7 @@ When no independent clause immediately follows *differently*, though, *from* wor
 
 In modern print, *differently from* occurs more frequently than *differently than.*
 
-Language-Change Index
+## Language-Change Index
 
 1. *differently than* preceding an independent clause: Stage 5
 Current ratio in print \(*differently than they did* vs. *differently from how they did*\): 15:1

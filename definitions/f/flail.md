@@ -12,7 +12,7 @@ To *flay* is \(1\) to rip the skin or hide off \(something\), or, in AmE, \(2\) 
 
  - " ‘Who knows where he is\!' Trinidad said, *flaying* \[read *flailing*\] her arms into the air." Allistair Scrutton, "For Better or Worse," *Sun-Sentinel* \(Ft. Lauderdale\), 11 Feb. 2001, at A24.
 
-Language-Change Index
+## Language-Change Index
 
 *flay* misused for *flail*: Stage 1
 Current ratio in print \(*flailing his arms* vs. *\*flaying his arms*\): 55:1

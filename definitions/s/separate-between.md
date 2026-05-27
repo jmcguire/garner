@@ -8,7 +8,7 @@
 
  - "Just as Shen Wei does not separate cultural influences in his art, he increasingly does not *separate between the mediums* \[read *distinguish between the media*\] he uses to express himself." Jordan Levin, "Chinese Choreographer Shen Wei to Debut Painting & Dance Show During Art Basel Miami Beach," *Miami Herald*, 26 Nov. 2014, Entertainment §. \(On the change from *mediums* to *media*, see **media**.\)
 
-Language-Change Index
+## Language-Change Index
 
 *\*separate between* for *separate from* or *distinguish between*: Stage 1
 Current ratio in print \(*distinguish between* vs. *\*separate between*\): 216:1

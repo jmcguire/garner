@@ -12,7 +12,7 @@ See plurals \(b\) & hypercorrection \(a\). Since 1925, *octopuses* has greatly p
 
 Occasionally the pedantic *octopodes* appears, but it is relatively rare—e.g.: "The baby octopus salad, made with finger-sized *octopodes*, whole and purplish, were marinated in a tasty, sesame oil dressing and lightly sprinkled with sesame seeds." Rose Kim, "Food Day," *Newsday* \(N.Y.\), 19 Oct. 2001, at B23.
 
-Language-Change Index
+## Language-Change Index
 
 *\*octopi* for *octopuses*: Stage 3
 Current ratio in print \(*octopuses* vs. \**octopi* vs. *octopodes*\): 58:17:1

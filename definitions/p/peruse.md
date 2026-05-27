@@ -16,7 +16,7 @@ Even worse is the "scan" sense that has nothing to do with reading—e.g.:
 
  - "She quickly *perused* \[read *scanned*\] the girl's body for other injuries." Ed Mullins, "Let's Be Real the City Is in Freefall," *Daily Mail* \(U.K.\), 14 May 2021.
 
-Language-Change Index
+## Language-Change Index
 
 *peruse* for *skim* or *glance over*: Stage 3
 

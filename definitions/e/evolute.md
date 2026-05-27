@@ -8,7 +8,7 @@ But some writers have tried to make it a verb, as a back-formation from *evoluti
 
  - "Young, the head of Cigna HealthCare of Mid-America, says this country is *evoluting to* \[read *evolving into*\] ‘an integrated care management system focused on providing high-quality care.' " A.A. Soto, "HMOs Are So Large, They Have to Be Regulated," *St. Louis Post-Dispatch*, 17 Oct. 1998, Editorial §, at 3.
 
-Language-Change Index
+## Language-Change Index
 
 *evolute* for *evolve*: Stage 1
 Current ratio in print \(*evolving* vs. *\*evoluting*\): 5,940:1

@@ -8,7 +8,7 @@ larynx /**lar**-ingks/ is sometimes, through metathesis, mispronounced /**lar**-
 
 Cf. **pharynx**.
 
-Language-Change Index
+## Language-Change Index
 
 *larynx* misspelled and mispronounced *\*larnyx*: Stage 1
 Current ratio in print \(*larynx* vs. *\*larnyx*\): 3,602:1

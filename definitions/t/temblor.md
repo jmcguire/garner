@@ -8,7 +8,7 @@ temblor; **trembler**. A *temblor* /**tem**-blәr/ is an earthquake. A *trembler
 
 Although *temblor* originated as a Spanish term naturalized in English in the late 1800s, the plural was fully anglicized by 1910: *temblors*. The Spanish plural *\*temblores* is listed in some dictionaries as a variant plural. See plurals \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 *trembler* or *\*tremblor* for *temblor*: Stage 1
 

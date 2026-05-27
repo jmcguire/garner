@@ -22,7 +22,7 @@ Sometimes, too, the spelling *baloney* is pressed into service where *bologna* b
 
 In what appears to be an amalgam of the two words, *baloney* is sometimes misspelled *\*boloney*—e.g.: "I got some bad publicity during the trial with Jackie \[Onassis\] in 1972. . . . All this is *boloney* \[read *baloney*\]. I don't jump out of bushes. I hide behind bushes to get pictures." Patricia Sheridan, "Ron Galella," *Pitt. Post-Gaz.*, 24 June 2002, at D2. This error was at its peak in the mid-20th century but has since tapered off.
 
-Language-Change Index
+## Language-Change Index
 
 1. *bologna* misused for *baloney* in reference to nonsense: Stage 1
 Current ratio in print \(*bunch of baloney* vs. *\*bunch of bologna*\): 5:1

@@ -12,7 +12,7 @@ And by the late 20th century, some writers had begun mistaking the phrase by usi
 
 In modern print sources—both AmE and BrE—the collocation *homing in on the ~* predominates over *\*honing in on the ~* by a 2-to-1 margin. For more on these competing phrases, see p. xii.
 
-Language-Change Index
+## Language-Change Index
 
 *\*hone in* for *home in*: Stage 4
 

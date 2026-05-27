@@ -8,7 +8,7 @@
 
  - "NATO *intervented* \[read *intervened*\] the following year and has inherited the issue now that Serb-led Yugoslav forces have left." John Ward Anderson, "A Battle Brews in the Buffer Zone," *Wash. Post*, 14 Mar. 2001, at A18.
 
-Language-Change Index
+## Language-Change Index
 
 *\*intervent* for *intervene*: Stage 1
 Current ratio in print \(*intervened* vs. *\*intervented*\): 14,117:1

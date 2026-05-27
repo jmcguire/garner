@@ -10,7 +10,7 @@ podium = \(1\) a low wall serving as an architectural foundation; \(2\) a raised
 
 The plural is *podiums* or *podia*. Although the latter long predominated in print sources, the native-English plural is now slightly more common. See plurals \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 *podium* misused for *lectern*: Stage 4
 Current ratio in print \(*podiums* vs. *podia*\): 1.2:1

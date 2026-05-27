@@ -8,7 +8,7 @@ egregious /i-**gree**-jәs/ formerly meant "outstanding," but has been specializ
 
  - "The subject fires up people on all sides of liability disputes: the ones who've been harmed; the budget hawks; and the lawmakers who scuffle year after year over special relief bills to get cash for victims of *egregious* acts that left people injured for life." Steve Patterson, "Golf Course Owner Fuming Over Cost to Fix Bulldozer Damage Caused by State," *St. Augustine Record* \(Fla.\), 26 Aug. 2015, News §.
 
-Language-Change Index
+## Language-Change Index
 
 *egregious* in the sense "very bad": Stage 5
 

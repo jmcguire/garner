@@ -10,7 +10,7 @@ But the phrase *at this juncture* isn't equivalent merely to "at this time" or "
 
 Sometimes *junction* gets mistakenly substituted, especially in speech—e.g.: " ‘It would be advisable for the Virginia legislature to reconsider this at this *junction* \[read *juncture*\] . . . ,' she said." "Va. Schools Forge Ahead with National Motto: In God We Trust," *Wash. Post*, 28 July 2002, at B1. The error occurs in writing as well, but much less often—e.g.: "The new contract pointed toward his release at this *junction* \[read *juncture*\] before a roster bonus came due." Don Hammack, "Saints Roster Taking Shape with Moves," *Sun Herald* \(Biloxi, Miss.\), 21 Mar. 2002, at B1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *at this juncture* meaning "now": Stage 3
 

@@ -10,7 +10,7 @@ euphemistic \(= involving the use of polite expressions, esp. indirect ones, to 
 
 For a similar error, see **euphuism**.
 
-Language-Change Index
+## Language-Change Index
 
 *euphonious* misused for *euphemistic*: Stage 1
 

@@ -4,7 +4,7 @@ a cappella \(= \[of singing\] not accompanied by instrumental music\) is sometim
 
 Though borrowed from the Italian for "chapel," the phrase has been thoroughly anglicized and should not be set in italic.
 
-Language-Change Index
+## Language-Change Index
 
 *a cappella* misspelled *\*a capella*: Stage 1 Current ratio in print \(*a cappella* vs. *\*a capella*\): 5:1
 

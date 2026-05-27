@@ -8,7 +8,7 @@ crisis forms the plural *crises* /**krī**-seez/, not the hypersibilantly errone
 
  - "Teens act out because their hormones have gone crazy. I can only wonder if someone is getting big money to discover that the same thing happens to women with PMS, and men having mid-life *crisises* \[read *crises*\]." Linda Stasi, "What Are Those Kids Thinking?," *N.Y. Post*, 30 Jan. 2002, at 63.
 
-Language-Change Index
+## Language-Change Index
 
 *\*crisises* for *crises*: Stage 1
 Current ratio in print \(*crises* vs. *\*crisises*\): 4,984:1

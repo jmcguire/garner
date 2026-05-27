@@ -8,7 +8,7 @@ Professor Gustave O. Arlt of the University of California summed it up well, wri
 
 And if the distinction isn't real, there's simply no reason to hold on to *shall*—unless you want to use it for effect, as by sounding fancy at a dinner party. The word is peripheral in most brands of English.
 
-Language-Change Index
+## Language-Change Index
 
 *will* for old-school *shall* with first-person nouns: Stage 5
 

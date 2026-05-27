@@ -6,7 +6,7 @@ medley \(= a mixture\) is sometimes confused with—and, through metathesis, pro
 
  - "Customers can choose from a variety of favorites including English toffee, fruit *melody* \[read *medley*\], red apple caramels, hand-dipped chocolate covered pretzels in milk chocolate or dark chocolate." Kim Mikus, "Sister Working Hard to Ensure Quality of Chocolate Gift Baskets," *Daily Herald* \(Arlington Heights, Ill.\), 25 Sept. 2001, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*fruit melody* for *fruit medley*: Stage 1
 

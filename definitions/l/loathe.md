@@ -10,7 +10,7 @@ loathe; **loath**; **\*loth**. *Loathe* /lohth/ is the verb meaning "to abhor, d
 
 Cf. **wreath**.
 
-Language-Change Index
+## Language-Change Index
 
 *loathe* for the adjective *loath*: Stage 2
 Current ratio in print \(*am loath to* vs. *\*am loathe to*\): 6:1

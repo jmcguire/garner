@@ -8,7 +8,7 @@ enervate; **innervate**. *Enervate* /**en**-әr-vayt/ means "to drain the vigor 
 
 *Innervate* /i-**nәr**-vayt/ means "to supply with energy" or "to supply \(a muscle\) with nerves." It is most often found in medical writing—e.g.: "The doctor severs a few of the nerves that *innervate* the vocal muscles so they don't keep the cords slammed shut." Dr. Paul Donohue, "Surgery May Be Solution for Vocal Muscles," *Grand Rapids Press*, 30 Mar. 2007, at C7.
 
-Language-Change Index
+## Language-Change Index
 
 *enervate* misused for *energize*: Stage 1
 

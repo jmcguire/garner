@@ -16,7 +16,7 @@ salutary; **\*salutiferous**; **salubrious**. *Salutary* = beneficial; wholesome
 
  - "And stepping into the spa is still a *salubrious* experience, with its soft new age music and ylang-ylang and citrus-scented air." Elizabeth Evans, "A Better Fit for Fit Eaters," *Orange County Register*, 29 Nov. 1996, at F33.
 
-Language-Change Index
+## Language-Change Index
 
 *\*salutory* for *salutary*: Stage 1
 Current ratio in print \(*salutary* vs. *\*salutory*\): 112:1

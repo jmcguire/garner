@@ -10,7 +10,7 @@ Hippocratic Oath. So spelled, after the name of the Greek physician Hippocrates 
 
 For those seeking to denigrate the medical profession, one of the most shopworn bromides is to say something to the effect that *Hippocratic* should be changed to *hypocritical*.
 
-Language-Change Index
+## Language-Change Index
 
 *\*Hypocratic* for *Hippocratic*: Stage 1
 Current ratio in print \(*Hippocratic Oath* vs. *\*Hypocratic Oath*\): 1,171:1

@@ -10,7 +10,7 @@ See dialect.
 
 The weak form *\*swinged* is also an infrequent error—e.g.: "The game *swinged* \[read *swung*\] on an outstanding rebounding charge led by Pete Corzine and Cody Fallace." Suzanne Mapes, "Lakers Use Defense to Propel Offense in Win," *Orange County Register*, 19 Dec. 1996, at 16. Actually, *swinged* /swinjd/ is the correct past-tense form of *swinge* \(= to beat or chastise\). See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*swang* for *swung*: Stage 1
 Current ratio in print \(*swung* vs. *\*swang*\): 723:1

@@ -8,7 +8,7 @@ lose.
 
 *Loose* is sometimes misused for *lose*—e.g.: "The Imperial Irrigation District also stands to *loose* \[read *lose*\] about seven percent of its allotment." Dean E. Murphy, "California Water Users Miss Deadline on Pact for Sharing," *N.Y. Times*, 1 Jan. 2003, at A11.
 
-Language-Change Index
+## Language-Change Index
 
 *lose* misspelled *loose*: Stage 1
 

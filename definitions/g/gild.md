@@ -10,7 +10,7 @@ gild.
 
  - "No one is fooled by *guilding* \[read *gilding*\] the lily." Gene Amole, "A Pox on Shameless Public Radio's Ode to Ploy," *Rocky Mountain News* \(Denver\), 14 Feb. 2002, at A6.
 
-Language-Change Index
+## Language-Change Index
 
 *guild* misused for *gild*: Stage 1
 Current ratio in print \(*gilded* vs. *\*guilded*\): 139:1

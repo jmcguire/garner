@@ -8,7 +8,7 @@ back of; **in back of**. In the sense "behind," these Americanisms strike a casu
 
 *Back of* dates from late-18th-century AmE; it was adopted in BrE by the 1820s. *In back of* didn't become common until the 1930s in AmE and a decade later in BrE.
 
-Language-Change Index
+## Language-Change Index
 
 1. *back of* for *behind:* Stage 5
 

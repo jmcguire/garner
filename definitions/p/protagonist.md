@@ -10,13 +10,13 @@ protagonist.
 
 See **antihero**.
 
-Language-Change Index
+## Language-Change Index
 
 *protagonist* in the sense "any character": Stage 2
 
 **B. And *proponent*.** Perhaps the most objectionable watering-down of the meaning of *protagonist* occurs when it is used as an equivalent of *proponent*—e.g.: "Rep. Henry Gonzalez, the Texas Democrat who chairs the housing subcommittee, is the *protagonist* \[read *proponent*\] of this legislation that also would increase the number of adjustable rate mortgages the FHA may insure." "Senate Panel Action Gives Housing a User-Tax Victory," *San Diego Union-Trib.*, 27 Apr. 1986, at F23.
 
-Language-Change Index
+## Language-Change Index
 
 *protagonist* in the sense "proponent": Stage 2
 
@@ -28,7 +28,7 @@ Language-Change Index
 
  - "The two longtime *protagonists* \[read *antagonists*\], in a plot development that seems too good to be true given their relationship of late, will play together today in the final group in the final round of the Buick Invitational." Steve Elling, "Woods, Mickelson Ready to Rumble," *Orlando Sentinel*, 16 Feb. 2003, at C1.
 
-Language-Change Index
+## Language-Change Index
 
 *protagonist* misused for *antagonist*: Stage 2
 

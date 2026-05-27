@@ -26,7 +26,7 @@ One common mistake with these words is confusing their number, as by using *alum
 
  - "Many team principals are interviewed \(\[John\] Wooden lovers all\), as are entertaining *former alumni* \[delete *former*\] for extra juice." Mike Clark, "New on DVD: The UCLA Dynasty," *USA Today*, 14 Mar. 2008, at E9.
 
-Language-Change Index
+## Language-Change Index
 
 1. *alumni* as a singular: Stage 2
 Current ratio in print \(*an alumnus of* vs. *\*an alumni of *\): 15:1

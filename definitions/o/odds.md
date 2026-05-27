@@ -8,7 +8,7 @@ odds. *Odds are* is a familiar locution. But when *odds* is separated from the v
 
  - "The *odds* of an instrument being contaminated *is* \[read *are*\] slight to begin with." Sandi Doughton, "Clinic Warns of Infection Risk," *Seattle Times*, 27 Aug. 2015, at A1. \(On the failure to use a possessive before the gerund *being* in that example, see fused participles.)
 
-Language-Change Index
+## Language-Change Index
 
 *\*odds . . . is*: Stage 1
 

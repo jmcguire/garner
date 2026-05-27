@@ -10,7 +10,7 @@ Occasionally, the phrase is misspelled *per anum*—an embarrassment because the
 
 Whatever the interest rate a debtor must be charged, it's revolting to think of money being paid that way. Surely it's better to pay in the traditional way: through the nose.
 
-Language-Change Index
+## Language-Change Index
 
 *per anum* misused for *per annum*: Stage 1
 Current ratio in print \(*percent per annum* vs. *\*percent per anum*\): 2,148:1

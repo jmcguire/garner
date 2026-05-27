@@ -8,7 +8,7 @@ heyday.
 
  - "However, the children of those who played in the club's *hayday* \[read *heyday*\] are becoming old enough to play, and are bringing the club back to where it used to be." Mike Allende, "Can-Am Summer 7s Rugby Tournament," *Bellingham Herald* \(Wash.\), 15 July 2001, at D1.
 
-Language-Change Index
+## Language-Change Index
 
 *heyday* misspelled *\*heydey* or *\*hayday*: Stage 1
 Current ratio in print \(*heyday* vs. \**heydey* vs. \**hayday*\): 1,611:4:1
@@ -23,7 +23,7 @@ The error isn't common, but *heyday* does sometimes displace *field day*—e.g.:
 
 The opposite error is quite rare.
 
-Language-Change Index
+## Language-Change Index
 
 *heyday* misused for *field day*: Stage 1
 Current ratio in print \(*had a field day* vs. *\*had a heyday*\): 23:1

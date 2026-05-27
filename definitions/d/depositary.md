@@ -4,7 +4,7 @@ depositary; **depository**; **\*depositee**. Most authorities have agreed throug
 
 *\*Depositee*, a needless variant of *depositary,* was popular for a time in the mid-1800s. E.g.: "Only Murrieta, at 22.7 percent, showed strong growth in bank deposits . . . . Big Bear Lake was the top *depositee* \[read *depositary*\] in San Bernardino County at $23,160." Andy McCue, "Latest Stats Reveal Facts About Region," *Press-Enterprise* \(Riverside, Cal.\), 3 Sept. 2000, Bus. §, at I1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*depositee* for *depositary*: Stage 1
 Current ratio in print \(*depositaries* vs. *\*depositees*\): 104:1

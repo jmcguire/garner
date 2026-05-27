@@ -10,7 +10,7 @@ asterisk /**as**-tә-risk/. The mispronunciation of this word, as if it had no s
 
 Another misspelling, *\*asterik*, is nearly as common—e.g.: "The most memorable score in the 80-year history of the NFL—Chicago 73, Washington 0 in the 1940 championship game—always has deserved an exclamation point. Now it has got an *asterik* \[read *asterisk*\]." Bob Broeg, "59 Years Later, Baugh Casts Doubt on Bears' Rout," *St. Louis Post-Dispatch*, 5 Dec. 1999, at D1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*asterick* for *asterisk*: Stage 1
 Current ratio in print \(*asterisk* vs. *\*asterick* vs. *\*asterik*\): 2,049:1.4:1

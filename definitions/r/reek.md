@@ -26,7 +26,7 @@ See **wreak \(c\)**.
 
 And a double bobble results when the misspelling *\*reak havoc* displaces the correct form, *wreak havoc*—e.g.: "January arrived on the UW-Platteville campus and *reaked* \[read *wreaked*\] havoc with the men's basketball record." Nick Zizzo, "Pioneers Get Back on Track," *Wis. State J.*, 1 Feb. 2001, at E3.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*reek havoc* for *wreak havoc*: Stage 1
 Current ratio in print \(*wreak havoc* vs. *\*reek havoc*\): 410:1

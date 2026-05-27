@@ -10,7 +10,7 @@ futilely, adv., is sometimes misspelled *\*futiley*—e.g.:
 
 Cf. **agilely** & **solely**. See adverbs \(c\).
 
-Language-Change Index
+## Language-Change Index
 
 *futilely* misspelled *\*futiley*: Stage 1
 Current ratio in print \(*futilely* vs. *\*futiley*\): 466:1

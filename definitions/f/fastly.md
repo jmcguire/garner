@@ -10,7 +10,7 @@
 
 Two of these examples involve phrasal adjectives—*fast-changing* and *fast-expanding*—but there is no more need for the *-ly* adverb in those phrases than anywhere else. For other adverbs with a superfluous *-ly*, see adverbs \(d\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*fastly* for *fast*: Stage 1
 Current ratio in print \(*is fast becoming* vs. *\*is fastly becoming*\): 707:1

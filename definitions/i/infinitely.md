@@ -10,7 +10,7 @@ infinitely.
 
  - "But for readers desiring a richly poetic treatment of \[Robert\] Frost in all his splendid contrariety—kindly/surly, selfish/magnanimous, caring/distant, childish/*infinitely* \[read *eminently*\] wise—this is a book to savor." Marjorie Kehe, "When Robert Frost Met Khrushchev," *Christian Science Monitor*, 8 Apr. 2008, Book §, at 13.
 
-Language-Change Index
+## Language-Change Index
 
 *infinitely* misused for *eminently*: Stage 1
 Current ratio in print \(*eminently successful* vs. *\*infinitely successful*\): 130:1
@@ -27,7 +27,7 @@ See adjectives \(b\).
 
 Occasionally, though, the usage is justified when the thing designated could truly be infinite—e.g.: "\[Ornette\] Coleman opened the door to improvisation based on melodic and rhythmic lines. It was a door that opened *infinitely* more doors." Dean Kuipers, "Break the Music Mold," *L.A. Times*, 5 Dec. 2002, Calendar Weekend §, pt. 5, at 2. After all, the number of variations in an improvisational performance really is infinite.
 
-Language-Change Index
+## Language-Change Index
 
 *infinitely* used with a comparative: Stage 1
 

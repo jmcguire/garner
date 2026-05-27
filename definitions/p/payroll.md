@@ -10,7 +10,7 @@ payroll, an English compound dating from the 1700s, is occasionally misspelled *
 
 For the confusion between *role* and *roll*, see **role**.
 
-Language-Change Index
+## Language-Change Index
 
 *payroll* misspelled *\*payrole*: Stage 1
 Current ratio in print \(*payroll* vs. \**payrole*\): 10,989:1

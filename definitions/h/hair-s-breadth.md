@@ -16,7 +16,7 @@ The phrase is sometimes wrongly written *\*hare's breath* or *\*hair's breath*â€
 
  - "You don't come a *hare's breath* \[read *hair's breadth*\] away from making an Olympic team by taking part in a hobby." Bill Ward, "Hasbach Takes His â€˜Hobby' to New Heights," *Tampa Trib.*, 21 Apr. 2001, at 21.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*hare's breath* for *hair's breadth*: Stage 1
 Current ratio in print \(*hair's breadth* vs. *\*hare's breath*\): 282:1

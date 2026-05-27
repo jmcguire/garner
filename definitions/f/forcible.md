@@ -10,7 +10,7 @@ forcible; **forceable**; **forceful**. Oddly, we have the spellings *enforceable
 
 Because *forcible* properly refers only to physical force, it shouldn't be used where *forceful* is needed, the latter carrying figurative as well as literal meanings—e.g.: "A Washington Post–ABC News survey of U.S. voters taken Wednesday night confirmed the doubts *forcibly* \[read *forcefully*\] expressed by a dozen Illinois voters in a two-hour group interview in this Chicago suburb Monday." David S. Broder & Richard Morin, "Clinton, Bush Score Few Points in Sampling of Nation's Voters," *Houston Chron.*, 20 Mar. 1992, at A3.
 
-Language-Change Index
+## Language-Change Index
 
 *forcibly* misused for *forcefully*: Stage 3
 Current ratio in print \(*stated forcefully* vs. *\*stated forcibly*\): 16:1

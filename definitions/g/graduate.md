@@ -20,7 +20,7 @@ In the mid-20th century, usage began to shift further toward an even shorter tra
 
 You may be happy to learn, however, that the collocation *graduated from college* remains much more common in modern print sources than *graduated college*. That ratio is bound to shrink over time.
 
-Language-Change Index
+## Language-Change Index
 
 1. *graduate* as an intransitive verb \(as in *he graduated from college*\): Stage 5
 

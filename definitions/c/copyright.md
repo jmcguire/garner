@@ -16,7 +16,7 @@ Still another mistake is *\*copywright*—e.g.:
 
 For a similar error, see **playwriting**. For *copyright* as an adjective, see **copyrighted**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*copywrite* for *copyright*: Stage 1
 Current ratio in print \(*copyright* vs. *\*copywrite*\): 6,709:1

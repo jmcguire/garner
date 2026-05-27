@@ -12,7 +12,7 @@ adamant \(= unrelenting, unyielding\) has traditionally had no corresponding nou
 
 The two forms vied for predominance through the 1930s and 1940s. By the 1950s, *adamancy* had emerged the clear winner. It seems here to stay.
 
-Language-Change Index
+## Language-Change Index
 
 *adamancy*: Stage 5 Current ratio in print \(*adamancy* vs. *adamance*\): 3:1
 

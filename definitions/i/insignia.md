@@ -10,7 +10,7 @@ Cf. **indicia**.
 
 The corresponding Latin singular *\*insigne* is rarely used. When it does appear, it would be better as *insignia*—e.g.: "Mr. Robb . . . later learned that a red-white-and-blue tie he wore Sept. 5 when he was endorsed by Bobby Scott—the state's only black congressman—was adorned with the *insigne* \[read *insignia*\] of the Confederacy." Laurie Kellman, "Robb Urged to Fight Harder to Keep Seat," *Wash. Times*, 7 Oct. 1994, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*insigne* for *insignia*: Stage 1
 Current ratio in print \(*an insignia* vs. *\*an insigne*\): 49:1

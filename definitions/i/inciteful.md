@@ -12,7 +12,7 @@ The word has two unfortunate qualities. First, it is anomalously formed. Unlike 
 
 *Incitant* is both a noun meaning "an activating agent" and an adjective meaning "activating." But that rare word pertains to physical rather than emotional causation: things that trigger disease or chemical reactions, for example.
 
-Language-Change Index
+## Language-Change Index
 
 *inciteful* misused for *insightful*: Stage 1
 

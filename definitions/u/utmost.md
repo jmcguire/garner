@@ -10,7 +10,7 @@ utmost, adj.; **upmost**, adj. The usual word is *utmost* \(= most extreme; of t
 
 The error occurs also in BrE—e.g.: "Britain is doing its *upmost* \[read *utmost*\], however, to ensure that the group's mandate and role are as limited as possible." Andrew Osborn, "UK Fights Plans for Regulator," *Guardian*, 17 July 2000.
 
-Language-Change Index
+## Language-Change Index
 
 *upmost* misused for *utmost*: Stage 1
 Current ratio in print \(*utmost importance* vs. *\*upmost importance*\): 50:1

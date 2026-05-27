@@ -12,7 +12,7 @@ In print, the collocation *depends on what* is much more common than *\*depends 
 
 The truncated phrase *that depends*, without a complement, is often heard in conversation.
 
-Language-Change Index
+## Language-Change Index
 
 *depend* for *depend on*: Stage 2
 Current ratio in print \(*depends on what* vs. *\*depends what*\): 11:1

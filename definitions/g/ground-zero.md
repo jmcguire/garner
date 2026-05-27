@@ -12,7 +12,7 @@ As in the example just quoted, it is common to hear and read phrases such as *st
 
  - "Baer knew he didn't have to start from *ground zero* \[read *scratch*\]." David Wooks, "Irish Defense Ahead of the Offense," *Indianapolis Star*, 29 Apr. 2002, at C6.
 
-Language-Change Index
+## Language-Change Index
 
 *ground zero* for *square one*: Stage 1
 

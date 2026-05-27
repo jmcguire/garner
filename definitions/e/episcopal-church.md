@@ -6,7 +6,7 @@ Episcopal Church; **\*Episcopalian Church**. Strictly, one refers to the *Episco
 
  - "Chauncey, descended from clergymen \(his father was an *Episcopalian* \[read *Episcopal*\] minister, his ancestors Puritans\), went to church, and afterward he added to the day's diary entry." Nicholas Lemann, "The Structure of Success in America," *Atlantic Monthly*, Aug. 1995, at 41, 42.
 
-Language-Change Index
+## Language-Change Index
 
 *\*Episcopalian Church* for *Episcopal Church*: Stage 1
 Current ratio in print \(*Episcopal Church* vs. *\*Episcopalian Church*\): 57:1

@@ -14,7 +14,7 @@ Sometimes this set phrase, *with impunity*, gets mangled into *\*without impunit
 
 For more on this word, see **immunity**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*without impunity* for *with impunity*: Stage 1
 Current ratio in print \(*with impunity* vs. *\*without impunity*\): 176:1
@@ -25,7 +25,7 @@ Current ratio in print \(*with impunity* vs. *\*without impunity*\): 176:1
 
  - "\[T\]he institutions of punishment and imprisonment have the responsibility to sustain the very lives that enter their domains precisely because they have the power, in the name of ‘ethics,' to damage and destroy lives with *impugnity* \[read *impunity*\]." Judith Butler, *Giving an Account of Oneself: A Critique of Ethical Violence* 37 \(2003\).
 
-Language-Change Index
+## Language-Change Index
 
 *impunity* misspelled *\*impugnity*: Stage 1
 Current ratio in print \(*impunity* vs. \**impugnity*\): 2,898:1

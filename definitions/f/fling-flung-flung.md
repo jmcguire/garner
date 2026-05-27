@@ -10,7 +10,7 @@ fling > flung > flung. So inflected. *\*Flinged* is a blunder—e.g.:
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*flinged* for *flung*: Stage 1
 Current ratio in print \(*flung* vs. *\*flinged*\): 10,371:1

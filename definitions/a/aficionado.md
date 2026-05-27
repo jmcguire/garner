@@ -8,7 +8,7 @@ aficionado, a Spanish loanword dating from the early 1800s, is often misspelled 
 
 Since the word was first introduced into English, the standard plural has always been *aficionados*, not \**aficionadoes*.
 
-Language-Change Index
+## Language-Change Index
 
 *aficionado* misspelled *\*afficionado*: Stage 1
 Current ratio in print \(*aficionado* vs. \**afficionado*\): 91:1

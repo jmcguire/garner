@@ -6,7 +6,7 @@ mutual.
 
 But when the sense is "shared by two or more," then the word is *common*—not *mutual*. *Friend in common* has traditionally been thought preferable to *mutual friend*, although the latter has stuck because of Dickens's novel \(the title to which, it is sometimes observed, comes from a sentence mouthed by an illiterate character\). Some careful writers continue to use *friend in common*. But *mutual friend* has in fact predominated since the 1700s—today by a 35:1 ratio. *Common friend*, of course, would be ambiguous.
 
-Language-Change Index
+## Language-Change Index
 
 *mutual friend* for *friend in common*: Stage 5
 

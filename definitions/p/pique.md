@@ -12,7 +12,7 @@ See ergative verbs.
 
 As a noun, *pique* denotes a feeling of being annoyed or upset, especially as a result of being insulted or \(worse\) ignored. The noun appears most commonly in the phrase *fit of pique*, dating from about 1810. As with the verb, *peak* sometimes mistakenly displaces *pique*.
 
-Language-Change Index
+## Language-Change Index
 
 *\*peak one's interest* for *pique one's interest*: Stage 1
 Current ratio in print \(*piqued my interest* vs. *\*peaked my interest*\): 12:1

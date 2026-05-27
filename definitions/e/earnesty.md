@@ -8,7 +8,7 @@
 
  - "If all Semisonic has going for it is *earnesty* \[read *earnestness*\] and poignancy, well, that's a lot more than most other bands." Malcolm Mayhew, "Semisonic Concert at Deep Ellum Strangely Irresistible," *Ft. Worth Star-Telegram*, 31 Jan. 1999, at 14.
 
-Language-Change Index
+## Language-Change Index
 
 *\*earnesty* for *earnestness*: Stage 1
 Current ratio in print \(*earnestness* vs. *\*earnesty*\): 2,020:1

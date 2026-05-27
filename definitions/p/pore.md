@@ -10,7 +10,7 @@ pore \(= to read intently\) is sometimes misspelled *pour* \(= to make \[a liqui
 
 This mistake probably appears primarily because the verb *pore* appears less often in print than in speech.
 
-Language-Change Index
+## Language-Change Index
 
 *\*pour over books* for *pore over books*: Stage 2
 Current ratio in print \(*pore over books* vs. *\*pour over books*\): 10:1

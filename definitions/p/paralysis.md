@@ -10,7 +10,7 @@ paralysis; **\*paralyzation**. The first is standard. The second is a nonword th
 
 For the similar nonword *\*analyzation*, see **analysis**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*paralyzation* for *paralysis*: Stage 1
 Current ratio in print \(*paralysis* vs. *\*paralyzation*\): 669:1

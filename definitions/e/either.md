@@ -8,7 +8,7 @@ either.
 
 It is understandable that writers would want to be able to say *any of the following* in fewer than seven syllables—and those who like *either* for this purpose may succeed in the long run. But the better practice for the time being is to rely on the disjunctive *or* for a list of many—not *either . . . or*. Cf. **neither**.
 
-Language-Change Index
+## Language-Change Index
 
 *either . . . or* with more than two items: Stage 3
 
@@ -30,7 +30,7 @@ Nouns framed by *either . . . or* take a singular verb when the noun closest to 
 
  - "He gives every sign of not stopping until *either he or they are* thoroughly defeated." Marianne Means, "Investigators Waiting in the Wings," *Rocky Mountain News* \(Denver\), 3 Nov. 1996, at A81.
 
-Language-Change Index
+## Language-Change Index
 
 *either . . . or* construction followed by a verb not agreeing with second member: Stage 3
 Current ratio in print \(*either of them is* vs. \**either of them are*\): 3:1

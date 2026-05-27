@@ -12,7 +12,7 @@ You'll undoubtedly prefer *slowly* in most situations, but occasionally *slow* w
 
 Notice, however, that if the adverb precedes the verb, the decision has been made for you: *we slowly go*; we don't \**slow go*.
 
-Language-Change Index
+## Language-Change Index
 
 *go slow* \(with *slow* in adverbial sense\): Stage 5
 Current ratio in print \(*go slow* vs. *go slowly*\): 1.6:1

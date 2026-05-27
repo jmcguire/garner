@@ -14,7 +14,7 @@ The counterpart—a rarity—is *majuscule*. Today that term is used only in pri
 
 In both AmE and BrE, *minuscule* is now pronounced /**min**-ә-skyool/—though before the 1960s the standard pronunciation stressed the second syllable: /mi-**nәs**-kyool/. Avoid /**min**-yә-skyool/.
 
-Language-Change Index
+## Language-Change Index
 
 *minuscule* misspelled *\*miniscule*: Stage 4
 Current ratio in print \(*minuscule* vs. \**miniscule*\): 1.6:1

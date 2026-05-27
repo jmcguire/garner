@@ -10,7 +10,7 @@ plead guilty to is the correct phrasing, not *\*plead guilty of* \(an unidiomati
 
 The erroneous phrasing results from confusing related idioms: one pleads *to* a charge, but one is guilty *of* a crime. Cf. **not guilty**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*plead guilty of* for *plead guilty to*: Stage 1
 Current ratio in print \(*plead guilty to* vs. *\*plead guilty of *\): 30:1

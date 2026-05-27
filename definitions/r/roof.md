@@ -10,7 +10,7 @@ roof, n. Pl. *roofs*, not *\*rooves*, for as long as the word has been recorded.
 
 Cf. **hoof**. See plurals \(c\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*rooves* for *roofs*: Stage 1
 Current ratio in print \(*roofs* vs. *\*rooves*\): 267:1

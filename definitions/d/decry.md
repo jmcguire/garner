@@ -16,7 +16,7 @@ Occasionally writers misuse *descry* for *decry*—e.g.: "As much as we *descry*
 
  - "Hugh Burns asked rhetorically if Williams' portrayal of Abu-Jamal as a highly intelligent and articulate individual made him less *descrying* \[read *critical*?\] of the death penalty than an average man who committed murder." Samuel B. Fineman, "Abu-Jamal Hearings Conclude," *Legal Intelligencer*, 12 Sept. 1995, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *descry* misused for *decry*: Stage 1
 

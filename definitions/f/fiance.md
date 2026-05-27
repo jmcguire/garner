@@ -10,7 +10,7 @@ fiancé; **fiancée**. A *fiancé* is male, a *fiancée* female. The two are pro
 
 This error may result from an effort to avoid gender-specific endings. But to a traditionalist, this is one context in which a person's sex makes a difference. Calling a man's *fiancée* his *fiancé*, or calling a woman's *fiancé* her *fiancée*, raises a new issue in the reader's mind: is the writer referring to a same-sex marriage?
 
-Language-Change Index
+## Language-Change Index
 
 *fiancée* for *fiancé* \(and vice versa\): Stage 2
 

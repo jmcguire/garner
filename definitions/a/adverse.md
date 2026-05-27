@@ -10,7 +10,7 @@ Each word is occasionally misused for the other—e.g.:
 
  - "People with chronic liver problems can lead normal lives until an *averse* \[read *adverse*\] reaction to something such as a viral infection or a fatty diet pushes them over the edge into liver failure." Linda Marsa, "An Artificial Liver May Bridge a Gap," *L.A. Times*, 20 Jan. 2003, at F3.
 
-Language-Change Index
+## Language-Change Index
 
 1. *adverse* misused for *averse*: Stage 2
 Current ratio in print \(*averse to the idea* vs. \**adverse to the idea*\): 10:1

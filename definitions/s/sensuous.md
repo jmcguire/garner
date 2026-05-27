@@ -4,7 +4,7 @@ sensuous; **sensual**. Although these words derive from the same root \(*sens-*,
 
 *Sensual* = relating to gratification of the senses, esp. sexual; salacious; voluptuous <sensual desires>. This is the word intended by the hack novelists who erroneously believe that *sensuous* carries sexy overtones. *Sensual* is correctly used here: "Lartigue shows a land where a benevolent sun shines on women and water, cars, painted fingernails, tennis champs, swimmers—a *sensual* topography of blonde and brunette." Rosemary Ranck, "Where Sorrow Never Came," *N.Y. Times*, 14 Dec. 1997, § 7, at 23. And it's badly misused here: "There is something special about naked babies, a purely *sensual* \[read *aesthetic*?\] sight devoid of sexuality." Gail Stewart Hand, "Oh, Baby, You Look Great in the Buff," *San Diego Union-Trib.*, 6 Jan. 1997, at E3.
 
-Language-Change Index
+## Language-Change Index
 
 1. *sensuous* misused for *sensual* \(carrying sexual overtones\): Stage 4
 

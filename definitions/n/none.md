@@ -12,7 +12,7 @@ none = \(1\) not one; or \(2\) not any. Hence it may correctly take either a sin
 
 Generally speaking, *none is* is the more emphatic way of expressing an idea. But it's also the less common way, particularly in educated speech, and it therefore sounds somewhat stilted. The problem is exacerbated by the unfortunate fact that some stylists and publications insist that *none* is always singular, even in the most awkward constructions. Cf. **no one**.
 
-Language-Change Index
+## Language-Change Index
 
 *none* in the sense "not any," with a plural verb: Stage 5
 Current ratio in print \(*none is* vs. *none are*\): 1.4:1

@@ -12,7 +12,7 @@ The U.S. Supreme Court has an unblemished record: in 21 uses of *just deserts* s
 
 The opposite error—misusing *deserts* for *desserts*—is so rare as to suggest a typographical error. E.g.: "Fragrant apple butter spice case, like many *deserts* \[read *desserts*\], has extra appeal when served still warm from the oven." Carol Kress, "Roseburg Then and Now," in *Classroom 15* 60 \(Peter Laufer ed., 2021\).
 
-Language-Change Index
+## Language-Change Index
 
 *just deserts* misspelled *just desserts*: Stage 3
 Current ratio in print \(*just deserts* vs. *just desserts*\): 3:1

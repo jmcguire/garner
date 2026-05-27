@@ -4,7 +4,7 @@ irrevocable; **\*unrevokable**; **\*irrevokable**. The first—the preferred for
 
 On *irrevocable* as a nongradable adjective, see adjectives \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 *irrevocable* mispronounced /ir-ә-**voh**-kә-bәl/: Stage 4
 Current ratio in print \(*irrevocable* vs. *\*irrevokable* vs. *\*unrevokable*\): 5,631:1.6:1

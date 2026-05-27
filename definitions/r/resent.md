@@ -6,7 +6,7 @@ resent.
 
 **B. For *regret*.** If it's within your control and you've done it, you *regret* it; if it's foisted on you, you *resent* it. E.g.: " ‘I think that every person I know who likes me, who talked with Gail Sheehy, frankly *resents* \[read *regrets*\] having done so, because she so systematically manipulated and was so totally dishonest in the article.' " Greg Pierce, "Gingrich v. Sheehy," *Wash. Times*, 11 Sept. 1995, at A5 \(quoting Speaker of the House Newt Gingrich\).
 
-Language-Change Index
+## Language-Change Index
 
 *resent* misused for *regret*: Stage 2
 

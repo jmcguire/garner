@@ -6,7 +6,7 @@ tinderbox \(= \[1\] a box for holding kindling; or \[2\] a source of incitement,
 
  - "The number of people whose immune systems were suppressed to support transplanted organs or to fight cancer added to the *tenderbox* \[read *tinderbox*\]. In the 1980s, in areas of Africa devastated by political upheaval and AIDS, the white plague flickered, caught fire and exploded." Jon Franklin, "One Patient at a Time," *News & Observer* \(Raleigh\), 27 Feb. 2000, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 *tinderbox* misspelled *\*tenderbox*: Stage 1
 Current ratio in print \(*tinderbox* vs. \**tenderbox*\): 694:1

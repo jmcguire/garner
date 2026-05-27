@@ -14,7 +14,7 @@ The opposite error—*ado* for *adieu*—is exceedingly rare.
 
 The anglicized plural *adieus* has been standard since the early 1700s. *Adieux* is a much more recent gallicism.
 
-Language-Change Index
+## Language-Change Index
 
 *adieu* misused for *ado*: Stage 1 Current ratio in print \(*without further ado* vs. *\*without further adieu*\): 96:1 Current ratio in print \(*adieus* vs. *adieux*\): 1:1.4
 

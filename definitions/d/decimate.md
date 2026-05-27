@@ -22,7 +22,7 @@ And sometimes the metaphor is simply inappropriate—e.g.: "He said he had watch
 
 In fact, though, the word might justifiably be considered a skunked term. Whether you stick to the original one-in-ten meaning or use the extended sense, the word is infected with ambiguity. And some of your readers will probably be puzzled or bothered.
 
-Language-Change Index
+## Language-Change Index
 
 1. *decimate* for large-scale destruction: Stage 5
 

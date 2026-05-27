@@ -12,7 +12,7 @@ interment; **internment**; **inurnment**. *Interment* = burial <interment will f
 
 *Inurnment*, by contrast, denotes the placing into an urn the ashes of a cremated body—e.g.: "*Inurnment* will be at a later date at Elmwood Cemetery, St. Paul." "Anderson, Allen" \(obit.\), *Grand Island Independent* \(Neb.\), 24 Mar. 2022.
 
-Language-Change Index
+## Language-Change Index
 
 1. *internment* misused for *interment*: Stage 1
 Current ratio in print \(*interment ceremony* vs. *\*internment ceremony*\): 4:1

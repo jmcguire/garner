@@ -4,7 +4,7 @@ passed is sometimes misused for *past*—e.g.: "He said that in addition to the 
 
 The opposite error also occurs—e.g.: "Before you know it, thirty minutes has *past* \[read *passed*\], and you are done." Carter G. Phillips, "Advocacy Before the United States Supreme Court," 15 *T.M. Cooley L. Rev.* 177, 190 \(1988\). See **past**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *passed* misused for *past*: Stage 1
 

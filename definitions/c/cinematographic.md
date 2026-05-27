@@ -8,7 +8,7 @@ cinematographic; \***cinemagraphic**. In modern print, *cinematographic*, the tr
 
 *Cinematographic* is pronounced /sin-ә-mat-ә-**graf**-ik/.
 
-Language-Change Index
+## Language-Change Index
 
 *\*cinemagraphic* for *cinematographic*: Stage 1
 

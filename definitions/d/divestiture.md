@@ -12,7 +12,7 @@ divestiture; **divesture**; **divestment**. The standard noun corresponding to t
 
 *Divestment*, not at all uncommon, might seem to be another needless variant of *divestiture*. Yet it appears in a number of legal phrases, such as *vested interest subject to divestment*. If there is a nascent distinction, it seems to be that a *divestment* is involuntary \(a taking away\), while *divestitures* are often voluntary sales. Cf. **disinvestment**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*divesture* for *divestiture*: Stage 1
 Current ratio in print \(*divestiture* vs. *\*divesture*\): 25:1

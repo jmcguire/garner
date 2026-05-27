@@ -14,7 +14,7 @@ perpetuate \(= to make last indefinitely; prolong\) and *perpetrate* \(= to comm
 
 See malapropisms.
 
-Language-Change Index
+## Language-Change Index
 
 *perpetuate* misused for *perpetrate*: Stage 2
 Current ratio in print \(*perpetrating crimes* vs. *\*perpetuating crimes*\): 14:1

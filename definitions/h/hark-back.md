@@ -22,7 +22,7 @@ Current ratio in print \(*harked back* vs. *\*harkened back* vs. *\*hearkened ba
 
 Curiously, most British dictionaries say nothing about this error.
 
-Language-Change Index
+## Language-Change Index
 
 *\*harp back* for *hark back*: Stage 1
 Current ratio in print \(*harked back* vs. *\*harped back*\): 132:1

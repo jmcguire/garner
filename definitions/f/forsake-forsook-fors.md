@@ -12,7 +12,7 @@ The past-participial \**forsooken* is nonstandard AmE and essentially nonexisten
 
 *Forsake* is sometimes corrupted into *\*foresake*—e.g.: "It *foresakes* \[read *forsakes*\] the rounded look of the previous Camry for a crisper, squarer silhouette." James R. Healey, "Moving Target Toyota Aims at No. 1 Spot," *USA Today*, 25 Sept. 1996, at B1. See for- & irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*forsaked* for *forsook*: Stage 1
 Current ratio in print \(*forsook* vs. *\*forsaked*\): 856:1

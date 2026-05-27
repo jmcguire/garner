@@ -28,7 +28,7 @@ In the nether reaches of these extended uses, *bona fide* becomes an amorphous a
 
 On the reason for preferring *genuine* in those edits, see \(a).
 
-Language-Change Index
+## Language-Change Index
 
 *bona fide* misspelled *\*bonified*: Stage 1
 Current ratio in print \(*bona fide* vs. \**bonified*\): 682:1

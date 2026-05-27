@@ -12,7 +12,7 @@ incident; incidence.
 
 This error is common in educated speech. Also, beware that *incidents* and *incidence* are homophones that may give listeners trouble.
 
-Language-Change Index
+## Language-Change Index
 
 *incidence* misused for *incident*: Stage 2
 

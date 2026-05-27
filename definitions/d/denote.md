@@ -4,7 +4,7 @@ denote \(= to indicate\) for *denominate* \(= to assign a name\) is a common err
 
 For the difference between *denote* and *connote*, see **connote \(a\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *denote* misused for *denominate*: Stage 1
 

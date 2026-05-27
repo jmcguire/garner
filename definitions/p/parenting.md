@@ -10,7 +10,7 @@ Of course, the gerund *parenting* implies a verb, but that form \(dating from 19
 
  - "This legislation is a slap in the face to them and to hundreds like them across Iowa who are *parenting* \[read *raising children*\] and *foster-parenting* \[read *providing foster homes*\], with all of the challenges and little of the recognition that ‘traditional' couples receive." Letter of Heather L. Adams, "No Evidence for Adoption Ban," *Des Moines Register*, 17 Feb. 2003, at A10.
 
-Language-Change Index
+## Language-Change Index
 
 *parenting* in the sense "child-rearing": Stage 4
 

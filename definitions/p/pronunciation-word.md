@@ -8,7 +8,7 @@ pronunciation is sometimes mistakenly said \(and written\) *\*pronounciation*—
 
  - "Collora, who reads stories to a third- and fourth-grader on alternate weeks, also helps them with their *pronounciation* \[read *pronunciation*\] and comprehension." Betty Ommerman, "School Mentors Who Are Doing Their Homework," *Newsday* \(N.Y.\), 29 Oct. 2000, at G24.
 
-Language-Change Index
+## Language-Change Index
 
 *\*pronounciation* for *pronunciation*: Stage 1
 Current ratio in print \(*pronunciation* vs. *\*pronounciation*\): 228:1

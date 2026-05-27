@@ -6,7 +6,7 @@ hyperbolic.
 
 **B. And *hyperbaric*.** *Hyperbolic* is sometimes mistakenly used in place of *hyperbaric* \(= of, relating to, or involving a pressurized chamber used in scientific experiments and medical treatment\)—an odd error: "*Hyperbolic* \[read *Hyperbaric*\] oxygen chambers have been used successfully by several National Hockey League clubs, and that has not gone unnoticed in the National Football League." Vinny DiTrani, "High-Tech Rush for Giants?," *Record* \(N.J.\), 12 June 1995, at S2.
 
-Language-Change Index
+## Language-Change Index
 
 *hyperbolic* misused for *hyperbaric*: Stage 1
 Current ratio in print \(*hyperbaric oxygen* vs. *\*hyperbolic oxygen*\): 526:1

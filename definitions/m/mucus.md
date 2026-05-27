@@ -4,7 +4,7 @@ mucus, n.; **mucous**, adj. These two ought to be kept separate, *mucus* for the
 
 In medical literature, *mucous ball* and *mucus ball* are about equally common. This is a closer case than *mucous membrane*, however, because *mucus ball* is a ball of mucus, and the noun is justifiably used in an attributive sense—e.g.: "Over the ensuing six months, there has been no further problem with *mucus balls*, his level of dyspnea, or edema." Edward M. Harrow et al., "Respiratory Failure and Cor Pulmonale Associated with Tracheal Mucoid Accumulation \[etc.\]," *Chest*, Feb. 1992, at 580. But the best course, outside medical literature, might be to find a euphemism.
 
-Language-Change Index
+## Language-Change Index
 
 *\*mucus membrane* for *mucous membrane*: Stage 1
 Current ratio in print \(*mucous membrane* vs. *\*mucus membrane*\): 27:1

@@ -10,7 +10,7 @@ The noun form is *renown*; there is no verb \(despite the past-participial adjec
 
 The adjective is pronounced /ri-**nownd**/.
 
-Language-Change Index
+## Language-Change Index
 
 1. *renowned* misspelled *\*reknowned*: Stage 1
 Current ratio in print \(*renowned* vs. \**reknowned*\): 1,183:1

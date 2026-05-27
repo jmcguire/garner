@@ -78,7 +78,7 @@ Although linguists have generally been unsympathetic to maintaining the distinct
 
 Some writers defend the restrictive *which* when there's a *that* nearby, as can happen in a wide variety of contexts because the word has so many grammatical functions. At first blush, the position seems eminently plausible. But typically a slight revision obviates the need for the other instance of *that* and therefore for the restrictive *which*—e.g.: "Aficionados of ‘Dune,' Frank Herbert's novel about a planet covered by Sahara-like desert, will be familiar with the idea of animals that swim through the sand. Giant worms *which do just that* \[read *that do just this* or *doing just that*\] are a feature of the book." "Children of Dunes," *Economist*, 5 Oct. 2019, at 73.
 
-Language-Change Index
+## Language-Change Index
 
 *which* used with restrictive clauses: Stage 4
 
@@ -174,7 +174,7 @@ It appears that when a pronoun begins the subordinate clause introduced by an im
 
 **F. For *very* or *so*.** In certain negative constructions, *that* commonly functions adverbially—as a loose equivalent of *very* <I don't like pasta that much> <I was never that good at biology>. Some writers have objected when the degree of comparison is vague \(how much don't you like pasta, and how bad were you at biology?\). Although no reasonable person objects to the adverbial *that* when the point of comparison is explicit <I got three scoops—even though I didn't want that much\!>, usage becomes unmoored when no comparison is intended <I did it, but I didn't even try that hard\!>. Yet this adverbial use is now an established casualism, more characteristic of speech than of writing. For a good discussion that dates the trend toward using *that* for *very* from the mid-20th century, see Richard K. Redfern, "Not That Bad: Comments on the Adverbial ‘That,' " 40 *Am. Speech* 74–76 \(1965\). Cf. **so \(b\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *all that* for *so very* <it's not all that interesting>: Stage 4
 

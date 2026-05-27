@@ -12,7 +12,7 @@ Occasionally, the opposite mistake occurs—e.g.: "The maximum loan-to-value is 
 
 The needless variant *\*apprize* \(rare\) is synonymous with *appraise*, although it is sometimes erroneously used as an equivalent of *apprise*—e.g.: "You, in turn, for a fee, would be *apprized* \[read *apprised*\] of the date the city was notified of the potholes' existence." Bruce Williams, "Cities, States Limit Own Liability for Damage," *Cincinnati Post*, 5 Mar. 2002, at B12.
 
-Language-Change Index
+## Language-Change Index
 
 1. *appraise* misused for *apprise*: Stage 1
 Current ratio in print \(*apprised of* vs. *\*appraised of *\): 13:1

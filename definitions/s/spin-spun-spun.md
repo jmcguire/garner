@@ -10,7 +10,7 @@ spin > spun > spun. This irregular verb is so inflected in AmE and BrE alike. *S
 
  - "Gingerly, I lined up the shot with the camera laid on the ice, trotted into position, *span* \[read *spun*\] round and went flying backwards off an ice ridge." Andrew James, "A Winter's Tale," *Independent*, 23 Dec. 2000, at 5.
 
-Language-Change Index
+## Language-Change Index
 
 *span* as a past tense for *spun*: Stage 1
 

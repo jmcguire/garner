@@ -10,7 +10,7 @@ hale and hearty is an irreversible binomial meaning "strong and healthy." But wr
 
 Cf. **hardy**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*hail and hardy* \(any variation\) for *hale and hearty*: Stage 1
 Current ratio in print \(*hale and hearty* vs. *\*hale and hardy* vs. *\*hail and hearty*\): 151:3:1

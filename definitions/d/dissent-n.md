@@ -6,7 +6,7 @@ dissent, n.; **dissension**; **\*dissention**. *Dissent* refers to a difference 
 
 *\*Dissention* is a mistaken form of *dissension*—e.g.: "Their prime-time speeches . . . could help forge the unity that propels the first black man into the presidency. Or they could highlight the splits and *dissention* \[read *dissension*\] that provide John McCain the opening he needs to win the White House." Christy Hoppe, "On Obama Ticket, Biden Fills In Blanks," *Dallas Morning News*, 24 Aug. 2008, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*dissention* for *dissension*: Stage 1
 Current ratio in print \(*dissension* vs. *\*dissention*\): 9:1

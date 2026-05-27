@@ -10,7 +10,7 @@ Interestingly, the *OED* records *courtesy* as an obsolete form of *curtsy*. Yet
 
 Yet there are serious complications. And rather than try to rationalize them, it might be best simply to bow out and show the current \(dizzying\) statistics. It's enough to make you bow down to the word.
 
-Language-Change Index
+## Language-Change Index
 
 *courtesy* misused for *curtsy*: Stage 1
 Current ratio in print \(*her curtsy* vs. *her curtsey* in AmE\): 1.6:1

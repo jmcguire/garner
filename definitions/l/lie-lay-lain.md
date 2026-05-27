@@ -4,7 +4,7 @@ lie > lay > lain. So inflected \(except when *lie* means "to utter a falsity"—
 
 In the sense of telling an untruth, the verb is inflected *lie* > *lied* > *lied*.
 
-Language-Change Index
+## Language-Change Index
 
 *lay* for past-participial *lain*: Stage 1
 Current ratio in print \(*had lain on* vs. \**had lay on*\): 81:1

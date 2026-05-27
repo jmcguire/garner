@@ -20,7 +20,7 @@ The reverse error is also surprisingly frequent—e.g.:
 
  - "Some of the myriad hassles *afflicted* \[read *inflicted*\] on air travelers come from federal security mandates, among them the much-hated random searches." Editorial, "Get Some Hassles Out of Air Travel," *Herald-Sun* \(Durham, N.C.\), 22 Oct. 2002, at A10.
 
-Language-Change Index
+## Language-Change Index
 
 1. *inflict* misused for *afflict*: Stage 1
 Current ratio in print \(*afflicted with* vs. *\*inflicted with*\): 11:1

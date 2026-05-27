@@ -8,7 +8,7 @@ Perhaps because of its dominant pronunciation, *brooch* is sometimes misspelled 
 
  - "She was wearing an evening gown of pink chiffon joined at one shoulder with a big *broach* \[read *brooch*\] sparkling with diamonds." Charlaine Harris, *All Together Dead* 172 \(2007\).
 
-Language-Change Index
+## Language-Change Index
 
 *broach* misused for *brooch*: Stage 1
 Current ratio in print \(*diamond brooch* vs. *\*diamond broach*\): 18:1

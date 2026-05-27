@@ -8,7 +8,7 @@ highlight > highlighted > highlighted. So inflected. *\*Highlit* is a variant pa
 
  - "It is The Great Metaphysician, a figure some 10 feet tall, female, with elements of architecture and the instruments of architectural drawing, *highlit* \[read *highlighted*\] in gold, pressed into her dress of dark brown bronze." Brian Sewell, "Shadow Cast," *Evening Standard*, 30 Jan. 2014, at 40.
 
-Language-Change Index
+## Language-Change Index
 
 *\*highlit* for *highlighted*: Stage 1
 Current ratio in print \(*highlighted* vs. *\*highlit*\): 8,706:1

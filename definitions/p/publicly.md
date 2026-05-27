@@ -8,7 +8,7 @@ publicly, not *\*publically*, is the adverb—e.g.:
 
 See -ic/-ical.
 
-Language-Change Index
+## Language-Change Index
 
 *publicly* misspelled *\*publically*: Stage 1
 Current ratio in print \(*publicly* vs. \**publically*\): 25:1

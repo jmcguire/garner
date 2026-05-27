@@ -10,7 +10,7 @@ Current ratio in print \(*impotence* vs. *\*impotency*\): 11:1
 
 **C. Pronunciation.** The word *impotence* is pronounced /**im**-pә-tәn\[t\]s/—not /im-**poh**-tәn\[t\]s/. The corresponding adjective is /**im**-pә-tәnt/—not /im-**poh**-tәnt/.
 
-Language-Change Index
+## Language-Change Index
 
 *impotence* misused for *impetus*: Stage 1
 

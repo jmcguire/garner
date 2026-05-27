@@ -6,7 +6,7 @@ Still, an informal survey at hotels in major American cities suggests that more 
 
 Since the beginning of the 21st century, *concierge* has been widely used as an attributive noun that supposedly adds cachet <concierge doctor> <concierge dog groomers> <concierge car wash>. But the real cachet comes when you hear the /zh/ at the end. See pronunciation \(b\) & hypercorrection \(k\). See also gallicisms.
 
-Language-Change Index
+## Language-Change Index
 
 *concierge* mispronounced /kon-see-**air**/: Stage 3
 

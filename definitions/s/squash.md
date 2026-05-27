@@ -12,7 +12,7 @@ Most traditionally, then, laws, motions, subpoenas, etc. are *quashed*, not *squ
 
 Even rebellions are most traditionally *quashed*, not *squashed*. But either way, they go splat.
 
-Language-Change Index
+## Language-Change Index
 
 *squash* misused for *quash*: Stage 3
 Current ratio in print \(*quash the rebellion* vs. *\*squash the rebellion*\): 3:1

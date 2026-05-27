@@ -10,7 +10,7 @@ Some misuse the word as a synonym for *simple*—that is, not as a pejorative at
 
 *\*Too simplistic* is a venial redundancy—e.g.: "Tom Dimmit, principal of Golden High School in the Jefferson County school district, says even that \[proposal\] is *too simplistic* \[read *simplistic*\]." Janet Simons, "The Great Homework Debate," *Rocky Mountain News* \(Denver\), 17 Aug. 1997, at F5.
 
-Language-Change Index
+## Language-Change Index
 
 *simplistic* in the nonpejorative sense "simple": Stage 3
 

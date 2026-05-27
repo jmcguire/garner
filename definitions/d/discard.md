@@ -10,7 +10,7 @@ discard, vb. Although *discard* began as a card-playing term, it now appears mor
 
 The error appears to be as common in British as in American publications—e.g.: "For every new chart-buster, there are bound to be a million half-finished fragments which are *disgarded* \[read *discarded*\] after a few chords." "Root," *Times* \(London\), 10 Oct. 1998, at 4.
 
-Language-Change Index
+## Language-Change Index
 
 *\*disgard* for *discard*: Stage 1
 

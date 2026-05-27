@@ -16,7 +16,7 @@ Indeed, some writers have come to use *chauvinism* as if it were synonymous with
 
 To the linguistic traditionalist, these uses \(or misuses\) are arrant nonsense. But others view the term as a handy, more pejorative alternative to *sexism*.
 
-Language-Change Index
+## Language-Change Index
 
 *chauvinism* for *male chauvinism*: Stage 3
 

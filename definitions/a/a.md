@@ -40,7 +40,7 @@ As Mark Twain once wrote, referring to *humble*, *heroic*, and *historical*: "Co
 
 Anyone who sounds the *h* in words of the type here discussed should avoid pretense and use *a*. *An* humanitarian is, judged even by the most tolerant standards, a pretentious humanitarian. See **herb** & **humble**, adj.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*an historic\(al\)* for *a historic\(al\)*: Stage 3
 Current ratio in print \(*a historical* vs. *\*an historical*\): 5:1

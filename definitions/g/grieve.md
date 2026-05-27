@@ -12,7 +12,7 @@ But recently the verb has taken on a new meaning in AmE: "to bring a grievance f
 
 Stylists are not likely to use the verb, but neither are they likely to be awarded relief.
 
-Language-Change Index
+## Language-Change Index
 
 *grieve* meaning "to bring a grievance": Stage 3
 

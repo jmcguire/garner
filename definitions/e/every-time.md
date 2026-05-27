@@ -8,7 +8,7 @@ every time. Two words. But many writers try to solidify the phrase—e.g.:
 
  - "He may have been one of the most celebrated talents in football's greatest team, but *everytime* \[read *every time*\] he watches a re-run of the Golden Years video that was produced in their honour, he blushes a little." Michael Clifford, "Shooting Stars," *Irish Daily Mail*, 18 Aug. 2015, at 53.
 
-Language-Change Index
+## Language-Change Index
 
 *\*everytime* for *every time*: Stage 1
 Current ratio in print \(*every time* vs. *\*everytime*\): 209:1

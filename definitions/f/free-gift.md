@@ -16,7 +16,7 @@ BrE has the related tautology *\*free gratis* \(or *\*free and gratis*\), which 
 
 A little history may surprise you. *\*Free gift* is much older than you might think. In contexts discussing what is "freely given," the phrase dates back to the early 1500s. In 1684, Henry Abbut wrote a book with an inspired title: *A Free Gift, Freely Given of God to Henry Abbut*. A 1722 polemic pamphlet printed in London was titled *A Free Gift to the Clergy*. A year later, the same polemicist \(Thomas Woolston\) produced *A Second Free-Gift to the Clergy*, and the same year a *Third*. They were all anti-clergy tracts containing allegations against "Ministers of Antichrist." So the phrase is old, even if the modern context in which it appears is much different. You might well be wary of using it freely.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*free gift* for *gift*: Stage 4
 

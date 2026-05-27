@@ -18,7 +18,7 @@ Likewise, *precedence* sometimes ousts *precedent* in the phrase *set a preceden
 
  - "We are in a public health crisis that is without *precedence* \[read *precedent*\] in the *lifetimes* \[read *lifetime*\] of anyone alive today." Sharon Moren, "Enough with the Righteous Anger," *Ottawa Citizen*, 16 Aug. 2021, at A5.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*taking precedent* for *taking precedence*: Stage 1
 Current ratio in print \(*taking precedence* vs. *\*taking precedent*\): 31:1

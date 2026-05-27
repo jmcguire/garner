@@ -8,7 +8,7 @@ authentication, so spelled, is occasionally misrendered *\*authentification*. Tr
 
  - "When it comes to *authentification* \[read *authentication*\] of a high-five, there are two frequently cited sources." Jeff Strickler, "Give Her a Hand," *Star Trib.* \(Minneapolis\), 21 Apr. 2015, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*authentification* for *authentication*: Stage 1
 Current ratio in print \(*authentication* vs. \**authentification*\): 422:1

@@ -10,7 +10,7 @@ regretful; **regrettable**. Errors made are *regrettable*; the people who have m
 
 See adverbs \(f\).
 
-Language-Change Index
+## Language-Change Index
 
 *regretfully* misused for *regrettably*: Stage 4
 Current ratio in print \(*regrettably not* vs. *\*regretfully not*\): 8:1

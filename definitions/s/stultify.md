@@ -14,7 +14,7 @@ Then, by slipshod extension, it took on the sense "to make useless or futile; to
 
 The word is sometimes misunderstood in two ways. First, it's sometimes \(by still further extension\) misused for *squelch* or *stifle*—e.g.: "These labels in all areas of our political life *stultify* \[read *squelch* or *stifle*\] discussion . . . as well as fostering intolerance throughout the political spectrum." Guy Charlton, "Cultures Must Be Respected," *Wis. State J.*, 8 May 1993, at A7. Second, it's sometimes misused for *disgrace* or *dishonor* \(or perhaps *stupefy*\)—e.g.: " ‘Nonconformity' is Algren's last great cry against injustice, a howl against all that would *stultify* \[read *dishonor*?\] the human spirit." Tom Grimes, " ‘Nonconformity' a Last Cry for Society's Injustices," *Austin Am.-Statesman*, 1 Dec. 1996, at E6.
 
-Language-Change Index
+## Language-Change Index
 
 *stultify* misused to mean *stifle* or *undermine*: Stage 1
 

@@ -12,7 +12,7 @@ In late-20th-century slang, though, the word came to mean "a simpleton; dunderhe
 
 Though this sense isn't recorded in many standard dictionaries, it certainly exists and is well known among the generations that grew up watching Bugs Bunny—who used the term snidely in reference to the hunter Elmer Fudd. Soon the word came to denote an inept person. For now, this new usage remains slang. But it surely threatens to kill off the hunter sense. The insulting phrase *You nimrod\!* was not appreciably used in English-language print sources until 1988.
 
-Language-Change Index
+## Language-Change Index
 
 *nimrod* in the sense "simpleton": Stage 5
 

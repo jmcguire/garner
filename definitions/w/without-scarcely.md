@@ -8,7 +8,7 @@
 
 The same can be said of *\*without hardly*. Both phrases have been dialectal since the 1700s.
 
-Language-Change Index
+## Language-Change Index
 
 *\*without scarcely* for *without* or *scarcely*: Stage 1
 

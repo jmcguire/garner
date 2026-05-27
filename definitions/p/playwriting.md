@@ -10,7 +10,7 @@ playwriting; **\*playwrighting**. The second, a corrupt form of the first, is la
 
 See spelling \(a\). For a similar error, see **copyright**.
 
-Language-Change Index
+## Language-Change Index
 
 *playwriting* misspelled *\*playwrighting*: Stage 1
 Current ratio in print \(*playwriting* vs. *\*playwrighting*\): 30:1

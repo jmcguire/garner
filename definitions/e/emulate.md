@@ -8,7 +8,7 @@ This nuance is destroyed when a person is said to emulate not someone else but s
 
  - "Success breeds imitation, and more authoritarian regimes \(plus some backsliding democracies\) across Eurasia, Latin America, the Middle East, and Africa are beginning to *emulate* \[read *adopt*\] these \[antidemocratic\] practices." Alexander Cooley, "The Rise of Global Counternorms," in *Regardless of Frontiers* 310 \(Lee C. Bollinger & Agnès Callamard eds., 2021\).
 
-Language-Change Index
+## Language-Change Index
 
 *emulate* misused for *adopt:* Stage 2
 

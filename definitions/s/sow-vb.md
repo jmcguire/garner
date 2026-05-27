@@ -24,7 +24,7 @@ Also, this is traditionally a male-only metaphor, since only males have the seed
 
  - "Jamie, a salon owner, met him before she was out of her teens, but at 25, she wonders aloud whether she needs to *sow her wild oats*." Joanne Weintraub, "Turning Another Page in Reality TV," *Milwaukee J. Sentinel*, 13 June 2006, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*sew wild oats* for *sow wild oats*: Stage 1
 

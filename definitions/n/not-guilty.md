@@ -16,7 +16,7 @@ Fair enough. But writers who do have enough time for careful proofreading should
 
 Strictly speaking, *not guilty* and *innocent* aren't quite synonymous. To be *innocent* is to be blameless. To be *not guilty* is to have been exonerated by a jury of a crime charged—regardless of actual blame. So in a sentence such as the following one, many can't help thinking that the writer is blurring a distinction—e.g.: "A San Francisco jury found him *innocent* \[read *not guilty*\] of the charge in 1988." Robert Hilburn, "Way Beyond Center Field," *L.A. Times*, 4 May 1997, at 5.
 
-Language-Change Index
+## Language-Change Index
 
 *plead innocent* for *plead not guilty*: Stage 4
 

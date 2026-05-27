@@ -30,7 +30,7 @@ The objections to the word have always been insubstantial. For one reason or ano
 
 In the previous edition of this book, *overly* was pegged at Stage 4 on the Language-Change Index. On the basis of empirical evidence, it has now been upgraded to full acceptability. Some writers and editors, however, may be inclined in a given context to use a prefixed *over-* for reasons of euphony.
 
-Language-Change Index
+## Language-Change Index
 
 *overly* as a premodifier: Stage 5
 Current ratio in print \(*overly cautious* vs. *overcautious*\): 1.9:1

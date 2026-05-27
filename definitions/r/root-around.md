@@ -8,7 +8,7 @@ root around \(= to poke about\) is preferably so spelled—not *\*rout around* o
 
 To *route around* is to establish a route that bypasses something—e.g.: "Meanwhile, doctors began perfecting bypass surgery, in which a blood vessel is grafted into position to *route around* a clogged artery." Eric B. Schoch, "Helping Heal Heartache," *Indianapolis Star*, 2 Feb. 1997, at C1.
 
-Language-Change Index
+## Language-Change Index
 
 *root around* misspelled *\*rout around* or *\*route around*: Stage 1
 Current ratio in print \(*root around* vs. *\*rout around*\): 122:1

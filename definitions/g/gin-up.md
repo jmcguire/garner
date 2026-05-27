@@ -12,7 +12,7 @@ gin up /jin әp/.
 
 **B. And *gin out*.** This related phrase means "to produce, esp. on a routine basis or in a hurry"—e.g.: "We'll call it the Courthouse Diet Plan, and I'll *gin out* a trade paperback so we can stay on the *New York Times* bestseller list for years and years." Tom Alleman, "Why Are Lawyers So Cranky? They Don't Eat Enough Ribs," *Fulton County Daily Rep.* \(Ga.\), 20 Sept. 2002, at 1. Occasionally, though, it loosely replaces *gin up* in sense 1—e.g.: "Those three hard-working, high-tech liters *gin out* \[read *gin up*\] 225 horses, good enough to sling you to 60 mph in 6.4 seconds, BMW tells us." Brooks Peterson, "330i Another BMW Winner," *Corpus Christi Caller-Times*, 25 May 2002, at E4.
 
-Language-Change Index
+## Language-Change Index
 
 *gin out* misused for *gin up*: Stage 1
 

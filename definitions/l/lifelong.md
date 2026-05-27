@@ -8,7 +8,7 @@ lifelong; **livelong**. *Lifelong* = lasting for all or most of one's life <Seym
 
  - "A native and *livelong* \[read *lifelong*\] resident of the Tampa area, he attended Riverview High School." "McGowan, Mitchell Curtis" \(obit.\), *St. Petersburg Times* \(Fla.\), 4 Sept. 2002, at B7.
 
-Language-Change Index
+## Language-Change Index
 
 *livelong* misused for *lifelong*: Stage 1
 

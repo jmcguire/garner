@@ -4,7 +4,7 @@ recourse; **resource**. These words are unrelated. To have *recourse* to somethi
 
 Sometimes one word gets swapped for the other—e.g.: "William Blake and Walt Whitman, whose main source for their renovation of poetry into free verse was the Bible, saw, without *resource* \[read *recourse*\] to the more extensive verse typography found in the revised versions, that the Bible was an endless fountain of poetry." Willis Barnstone, "Three Invisible Poets," *Southwest Rev.*, 22 Mar. 2001, at 412. See word-swapping.
 
-Language-Change Index
+## Language-Change Index
 
 *resource* misused for *recourse*: Stage 1
 Current ratio in print \(*without recourse* vs. *\*without resource*\): 22:1

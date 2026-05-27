@@ -10,7 +10,7 @@ But other writers have spread the peccadillo, especially since the late 20th cen
 
 *Nauseous* is pronounced /**naw**-shәs/ in AmE and either /**naw**-see-әs/ or /**naw**-zee-әs/ in BrE.
 
-Language-Change Index
+## Language-Change Index
 
 *nauseous* misused for *nauseated*: Stage 4 1940 ratio in print \(*felt nauseated* vs. *felt nauseous*\): 16:1
 Current ratio in print \(*felt nauseated* vs. *felt nauseous*\): 1:2

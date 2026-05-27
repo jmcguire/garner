@@ -24,7 +24,7 @@ In fact, although the singular *congeries* is most frequent, the word can also b
 
 The word is pronounced /**kon**-jә-reez/ or /kәn-**jir**-eez/ or /kon-jә-**reez**/ in AmE; and /kәn-**jeer**-eez/ or /kәn-**jeer**-i-eez/ in BrE.
 
-Language-Change Index
+## Language-Change Index
 
 *\*congery* or *\*congerie* as false singular of *congeries*: Stage 1
 Current ratio in print \(*a congeries* vs. *\*congerie* vs. *\*congery*\): 27:1.5:1

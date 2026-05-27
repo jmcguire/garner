@@ -12,7 +12,7 @@ no less.
 
 When the sense is *nothing short of*, that phrase \(or *nothing less than*\) typically improves the sentence—e.g.: "Among the local newspapers, ‘The Hartford Daily Courant' proclaimed that *no less than* \[read *nothing short of*\] an ‘orthographical mania' was afoot in Hartford because a competing spelling bee was scheduled on the same spring night." Joe Duffy, "Twain Floored by ‘Spelling Epidemic,' " *Hartford Courant*, 31 Aug. 1997, at H1.
 
-Language-Change Index
+## Language-Change Index
 
 *no less* for *no fewer* in reference to a count noun: Stage 4
 

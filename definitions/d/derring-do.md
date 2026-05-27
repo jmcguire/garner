@@ -8,7 +8,7 @@ derring-do \(= daring action\) derives, according to the *OED*, from a "chain of
 
  - "They spent hours regaling themselves with their motorized *daring-do* \[read *derring-do*\] while lakefront residents had to close windows and doors." Mark McGarrity, "Driven to Distraction," *Star-Ledger* \(Newark\), 11 Oct. 1998, at 7.
 
-Language-Change Index
+## Language-Change Index
 
 *derring-do* misspelled *\*daring-do*: Stage 1
 Current ratio in print \(*derring-do* vs. \**daring-do*\): 19:1

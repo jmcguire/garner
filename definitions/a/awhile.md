@@ -8,7 +8,7 @@ awhile; **a while**. As a noun element, spell it as two words <he rested for a w
 
 When the choice is between *for a while* and *awhile*, prefer the latter. And don't write \**for awhile*.
 
-Language-Change Index
+## Language-Change Index
 
 1. *a while* used adverbially for *awhile*: Stage 4
 Current ratio in print \(*rested awhile* vs. \**rested a while*\): 1.3:1

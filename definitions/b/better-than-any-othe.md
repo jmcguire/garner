@@ -18,7 +18,7 @@ Sometimes, though, the thing being touted is excepted, and then the *other* beco
 
  - "Marks & Spencer confirmed last night that it sells only German fishfingers, claiming the quality is *better than any* British product." Justin Dunn, "Germans Scupper Captain Birds Eye," *Daily Mirror*, 18 Aug. 1994, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 *better than any* for *better than any other*: Stage 3
 

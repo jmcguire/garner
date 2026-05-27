@@ -14,7 +14,7 @@ Indeed, *born and reared* is now likely to sound affected in AmE—even though i
 
 As a matter of word frequency, *raising children* \(as opposed to *rearing children*\) became the predominant usage in AmE about 1960 and in BrE by 1974. Nevertheless, the established compound *child-rearing* has never been seriously rivaled by \**child-raising*.
 
-Language-Change Index
+## Language-Change Index
 
 *raise* meaning "to bring up \(children\)": Stage 5
 Current ratio in print \(*raise children* vs. *rear children*\): 8:1
@@ -23,7 +23,7 @@ Current ratio in print \(*child-rearing* vs. \**child-raising*\): 16:1
 
 **B. And *rise*.** The straightforward distinction is that *raise* \(raise > raised > raised\) is transitive, while *rise* \(rise > rose > risen\) is intransitive. Here the rule is followed: "For 40 years the farmer has *risen* at 4:00 in the morning to tend to his crops and *raise* his chickens." But the following example incorrectly uses *raise* as an intransitive verb: "Then it \[an alligator\] *raised up* \[read *rose*\] on all four legs and charged." Jeff Klinkenberg, "Boardwalk on the Wild Side," *St. Petersburg Times* \(Fla.\), 26 Dec. 1995, at D1.
 
-Language-Change Index
+## Language-Change Index
 
 *raise* misused for the intransitive *rise*: Stage 2
 

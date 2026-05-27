@@ -12,7 +12,7 @@ See subjunctives.
 
 The phrase is sometimes wrongly morphed into *\*suffice to say*, without the *it*—e.g.: "In a following chapter we shall have much to say about reasoning and inference, but for now *suffice to say* \[read *suffice it to say*\] that it is easier to argue a case after it has been adequately elaborated and illustrated." V.A. Howard & J.H. Barton, *Thinking on Paper* 59 \(1986\). Maybe the writers were concerned with the number of *it*s already in the sentence—a valid concern. But they could have fixed the problem in some other way. \(A possible revision: *Later, we'll have something to say about reasoning and inference. But for now, suffice it to say that you can more easily argue a case after adequately elaborating and illustrating your points*.\)
 
-Language-Change Index
+## Language-Change Index
 
 *\*suffice to say* for *suffice it to say*: Stage 4
 Current ratio in print \(*suffice it to say* vs. *\*suffice to say*\): 1.6:1

@@ -8,7 +8,7 @@
 
  - "Liberal alarmist hype? *Not hardly*. \[Read *Hardly*.\]" Cy Wood, "Indescribably Inane," *Valley Times-News* \(Lanett, Ala.\), 6 Aug. 2015, News §, at 4.
 
-Language-Change Index
+## Language-Change Index
 
 *\*not hardly* for *hardly*: Stage 1
 Current ratio in print \(*can hardly* vs. *\*can't hardly*\): 75:1

@@ -4,7 +4,7 @@ résumé. So spelled, preferably with both accents. The first acute accent is of
 
 The accentless *resume* for *résumé* causes miscues.
 
-Language-Change Index
+## Language-Change Index
 
 *resumé* for *résumé*: Stage 2
 Current ratio in print \(*résumé* vs. *resumé*\): 11:1

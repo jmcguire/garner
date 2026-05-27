@@ -40,7 +40,7 @@ If the verb seems desirable after the *as*—because the reader wouldn't automat
 
 **C. *\*Same difference*.** This phrase is an illogical AmE casualism that is to be avoided not only in writing but in speech as well. "It's all the *same*," "It's the *same* thing," etc. are better. \(See illogic.) But: *Six minus three yields the same difference as seven minus four*.
 
-Language-Change Index
+## Language-Change Index
 
 *\*same difference*: Stage 2
 

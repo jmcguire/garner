@@ -12,7 +12,7 @@ danger.
 
  - "Begin the shot, but it is not until the club is fully drawn that you can set the downward swing to begin. Get any of this wrong and you *run the danger* \[read *run the risk*\] of your shot falling short, heading into a hazard or massively overshooting your target." Cheryl Mullin, "Rory's First Game on Par with Tiger," *Birmingham Mail* \(U.K.\), 18 July 2015, at 10. \(On *shot falling short* for *shot's falling short*, see fused participles.)
 
-Language-Change Index
+## Language-Change Index
 
 *\*run the danger* for *run the risk*: Stage 1
 Current ratio in print \(*run the risk* vs. *\*run the danger*\): 49:1

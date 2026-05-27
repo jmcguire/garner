@@ -18,7 +18,7 @@ But the misuses go both ways. Occasionally *flak* ousts *flack* from its rightfu
 
 During the 1960s, the noun *flack* was made into a verb—as a synonym of *hype*. A person who *flacks* provides publicity. But *flak* has mistakenly appeared in this context, too—not commonly, but often enough to warrant caution. E.g.: "Monday, I was all over Chicago *flakking* \[read *flacking*\] my new book *On the Line* \(Harcourt Brace, $21.95\), about last year's elections." Larry King, "Zipping by the Rest Stops on the Highway of Life," *USA Today*, 22 Nov. 1993, at D2. *Hype* is the correct choice here.
 
-Language-Change Index
+## Language-Change Index
 
 1. *flack* misused for *flak*: Stage 3
 Current ratio in print \(*caught flak* vs. *\*caught flack*\): 1.6:1

@@ -6,7 +6,7 @@ odorous; **odoriferous**; **malodorous**. In practice, *odorous* \(= having a pr
 
 Just as *odious* \(= offensive\) is sometimes misused to describe a foul smell, so *odoriferous* is sometimes misused to mean "corrupt" or at least "suspicious"—e.g.: "There does seem to be something *odoriferous* underfoot." Kathleen Parker, "American Fatwa Coming to a Bookstore Near You," *Orlando Sentinel*, 29 Dec. 2002, at G3. Unfortunately, the use is common enough that at least one dictionary \(*W11*\) lists "morally offensive" as an alternative definition of *odoriferous*. In one sense that's understandable, because corruption and bad smells have always been associated \(the usage passes the sniff test\). But in a larger sense it's unfortunate, since we can't clearly distinguish all the *odor* words we already have—and it just continues the degeneration of the word's connotations. It would be far better to think of this loose extension as an ineffectual metaphor rather than as a definition. See **odious**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*odiferous*: Stage 2
 

@@ -14,7 +14,7 @@ When government agencies use the word for tragic accidents, the reader may suspe
 
  - "NASA also has its own *Mishap* Investigation Team." Carl Hulse, "Critics Seek a Broader Shuttle Panel," *N.Y. Times*, 5 Feb. 2003, at A23.
 
-Language-Change Index
+## Language-Change Index
 
 *mishap* misused in reference to a major accident: Stage 1
 

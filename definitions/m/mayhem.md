@@ -4,7 +4,7 @@ mayhem.
 
 **A. Senses.** *Mayhem* = \(1\) malicious injury to or maiming of a person, orig. so as to impair or destroy the victim's capacity for self-defense; \(2\) violent and damaging action, violent destruction; or \(3\) rowdy confusion, disruption, chaos. Sense 3 is inappropriately attenuated because the word, strictly speaking, should involve some type of serious injury or damage—e.g.: "Dash Rip Rock calls New Orleans home, but band members don't call their root-rock *mayhem* \[read *clamor*? *rumpus*? *ruckus*? *tumult*?\] anything other than rock 'n' roll." Kenn Rodriguez, "Hard-to-Describe Sound of Country, Punk," *Albuquerque J.*, 1 Dec. 1995, Venue §, at F22.
 
-Language-Change Index
+## Language-Change Index
 
 *mayhem* misused for *ruckus*: Stage 2
 

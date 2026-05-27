@@ -8,7 +8,7 @@ canon; **cannon**. *Canon* = \(1\) a corpus of writings <the Western canon>; \(2
 
  - "White's friends say her fledgling campaign for retention is hampered by the judicial *cannon* \[read *canon* or, more likely, *canons*\] of ethics, which *restricts* \[or, with *canons*, *restrict*\] her ability to defend herself." Andy Sher, "Crime Fears, Death Penalty Debate Stirring Furor over Judge Election," *Nashville Banner*, 22 July 1996, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 *cannon* misused for *canon*: Stage 1
 

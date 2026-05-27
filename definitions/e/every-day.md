@@ -6,7 +6,7 @@ every day, adv.; **everyday**, adj. One tries to accomplish something *every day
 
  - "We are confronted *everyday* \[read *every day*\] with having to decide exactly what they cover." Ronald Wardhaugh, *Proper English: Myths and Misunderstandings About Language* 21 \(1999\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *everyday* misused for the two-word adverbial phrase *every day*: Stage 2
 Current ratio in print \(*happens every day* vs. *\*happens everyday*\): 34:1

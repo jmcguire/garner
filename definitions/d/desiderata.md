@@ -16,7 +16,7 @@ Some writers misuse *desiderata* as if it were singular—e.g.: "The British wer
 
 The pronunciation is /dez-i-dә-**rah**-dә/ or /dә-sid-ә-**rah**-tә/.
 
-Language-Change Index
+## Language-Change Index
 
 *desiderata* misused as a singular: Stage 1
 Current ratio in print \(*a desideratum* vs. *\*a desiderata*\): 64:1

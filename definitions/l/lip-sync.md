@@ -4,7 +4,7 @@ lip-sync, vb.; **lip-synch**. To *lip-sync*, of course, is to move one's lips si
 
 Occasionally people misunderstand the phrase and write *\*lip-sing*—e.g.: " ‘This is where freshmen and seniors together do wacky performances and where teachers *lip sing* \[read *lip-sync*\] in front of the students,' Sullivan said." Grace Camacho, "A Golden Birthday," *Orange County Register*, 16 Nov. 2000, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*lip-sing* for *lip-sync*: Stage 2
 

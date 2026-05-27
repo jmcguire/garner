@@ -22,7 +22,7 @@ But the *or not* is necessary when *whether or not* means "regardless of whether
 
 See **as to \(b\)** & **question whether**.
 
-Language-Change Index
+## Language-Change Index
 
 *as to whether* for *whether*: Stage 2
 
@@ -30,7 +30,7 @@ Language-Change Index
 
 Up to the mid-20th century, the phrasing *issue whether* was more common than *issue of whether*. The rationale was essentially the same as with *question whether*: the noun clause that begins with *whether* \(whatever the wording might be\) is in apposition to the noun *question*. But the predominant phrasing changed in the 1940s—much earlier than with *question \(of\) whether*. Today *issue of whether* is much more common than the more traditional *issue whether*. Both are acceptable phrasings: in any given context, euphony should govern the choice.
 
-Language-Change Index
+## Language-Change Index
 
 *issue of whether* for *issue whether*: Stage 5 *question of whether* for *question whether*: Stage 5
 Current ratio in print \(*issue of whether* vs. *issue whether*\): 9:1

@@ -22,7 +22,7 @@ This stretch is all the more understandable because the negative form—*ineffec
 
 On the use of *effectually* for *effectively*, see **effectively**.
 
-Language-Change Index
+## Language-Change Index
 
 *effectual* misused for *effective*: Stage 3
 

@@ -10,7 +10,7 @@ Meanwhile, the word *exasperate* \(traditionally "to irritate thoroughly" but ar
 
  - "Of course our government would insist that they run any such projects, which would further *exasperate* \[read *exacerbate*\] the problem." Letter of Jim McClain, "Crisis Requires Visionary Leader," *Daily Record* \(Morristown, N.J.\), 22 May 2008, at 2.
 
-Language-Change Index
+## Language-Change Index
 
 1. *exacerbate* misused for *irritate*: Stage 1
 Current ratio in print \(*felt irritated* vs. \**felt exacerbated*\): 229:1

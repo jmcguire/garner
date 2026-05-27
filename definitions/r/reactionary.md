@@ -10,7 +10,7 @@ reactionary, adj.; **\*reactionist**; **\*reactionarist**; **reactive**. *Reacti
 
 Cf. **proactive**.
 
-Language-Change Index
+## Language-Change Index
 
 *reactionary* misused for *reactive*: Stage 1
 

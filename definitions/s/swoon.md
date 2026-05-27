@@ -12,7 +12,7 @@ But *swoon* does not mean "to slump or fade," as some writers think, and the wor
 
  - "Nevertheless, Baltimore-area townhouse sales *swooned* \[read *declined*\]." "New-Home Sales in Howard Counter Decline for Area," *Baltimore Sun*, 12 Oct. 1997, at L1.
 
-Language-Change Index
+## Language-Change Index
 
 *swoon* misused for *decline*: Stage 2
 

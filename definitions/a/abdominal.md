@@ -10,7 +10,7 @@ abdominal \(= pertaining to the abdomen or belly\) is so spelled. Perhaps under 
 
 Sometimes the substitution isn't an error but a pun, as in this headline: "Arnaldo Magnani *Abdominable* Snowman: Hefty tenor Luciano Pavarotti packs another white meteorite to hurl at girlfriend Nicoletta Mantovani after Saturday's Elton John AIDS fund-raiser." "A Test of Albright's Domestic Policy," *Daily News* \(N.Y.\), 11 Feb. 1997, Gossip §, at 14.
 
-Language-Change Index
+## Language-Change Index
 
 *\*abdominable* for *abdominal*: Stage 1 Current ratio in print \(*abdominal* vs. *\*abdominable*\): 18,555:1
 

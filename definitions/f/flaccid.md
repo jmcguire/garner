@@ -26,7 +26,7 @@ It's recorded in *Webster's New World Dictionary* \(1994\), all right, but only 
 
 In short, this word is a kind of skunked term: pronounce it in the traditional way, and you'll take some flak for doing so; pronounce it in the new way, and the cognoscenti will probably infer that you couldn't spell or say *cognoscenti*, either. See pronunciation \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 *flaccid* pronounced /**flas**-id/ instead of /**flak**-sid/: Stage 4
 
@@ -38,7 +38,7 @@ Language-Change Index
 
  - "We few, we unhappy few, grimace through the molasses-on-grits Southern accents, shake our heads at the historical revisionism and snort at the static dullness of this endless, *flacid* \[read *flaccid*\] adaptation of another historical novel about America's defining moment." Roger Moore, "This Civil War Epic Is God-Awful and Generally a Waste," *Orlando Sentinel*, 21 Feb. 2003, Cal. §, at 20.
 
-Language-Change Index
+## Language-Change Index
 
 *flaccid* misspelled *\*flacid*: Stage 1
 Current ratio in print \(*flaccid* vs. \**flacid*\): 473:1

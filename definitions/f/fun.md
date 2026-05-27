@@ -22,7 +22,7 @@ The linguist Steven Pinker has been quoted as saying that he "can tell whether p
 
 To traditionalists, the adjectival *fun* and its comparative forms remain blemishes in both writing and speech.
 
-Language-Change Index
+## Language-Change Index
 
 1. *fun* as an adjective <a fun place>: Stage 4
 

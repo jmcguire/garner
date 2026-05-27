@@ -21,7 +21,7 @@ Current ratio in print \(*economic indices* vs. *economic indexes*\): 3:1
 
 Though heard fairly often from television announcers, *\*indice* is seldom seen in print. But it has appeared sporadically since the mid-20th century—e.g.: "Kielholz firmly believes that a younger workforce will be more in tune with the knowledge-worker spirit. However, Kielholz's most important *indice* \[read *index* or, perhaps, *criterion*\] remains IQ." "Employer Meets Burden of Demonstrating Nondiscriminatory Reason for Termination," *N.Y.L.J.*, 17 May 2001, at 17.
 
-Language-Change Index
+## Language-Change Index
 
 *\*indice* for *index*: Stage 1
 

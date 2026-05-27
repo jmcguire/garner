@@ -16,7 +16,7 @@ Occasionally, an even worse past form, *bounded*, appears, especially in reporte
 
 *Bounded* is correct, of course, for the past tense of the verb *bound* <they bounded up the hill>. See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*binded* for past-tense *bound*: Stage 1
 Current ratio in print \(*is bound* vs. *\*is binded*\): 5,068:1

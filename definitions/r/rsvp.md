@@ -10,7 +10,7 @@ Increasingly, AmE and BrE alike are making the initialism a verb meaning either 
 
 See abbreviations \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*please RSVP* for *RSVP*: Stage 3
 Current ratio in print \(*RSVP* vs. *R.S.V.P.* vs. *rsvp* vs. *r.s.v.p.*\): 784:46:12:1

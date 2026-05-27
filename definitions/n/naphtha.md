@@ -10,7 +10,7 @@ naphtha.
 
  - "The fire erupted on the barge carrying *naptha* \[read *naphtha*\]." "Barges Collide; Fire Is Extinguished," *San Antonio Express-News*, 21 July 2015, Metro §, at 7.
 
-Language-Change Index
+## Language-Change Index
 
 *naphtha* misspelled and mispronounced *\*naptha*: Stage 1
 Current ratio in print \(*naphtha* vs. \**naptha*\): 29:1

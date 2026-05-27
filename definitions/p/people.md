@@ -12,7 +12,7 @@ Consider these examples:
 
 To the modern reader or speaker, these sentences seem a little unnatural or strained. By 1871 in BrE and 1883 in AmE, the collocation *some people* was more common in print sources than *some persons*. It's understandable why the Associated Press and *The New York Times* recommend using *people* over *persons* except in quotations and in set phrases \(e.g., *Missing Persons Bureau*, *third persons*\).
 
-Language-Change Index
+## Language-Change Index
 
 *people* for *persons* in reference to small, specific groups: Stage 5
 Current ratio in print \(*three people* vs. *\*three persons*\): 3:1

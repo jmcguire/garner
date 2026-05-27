@@ -10,7 +10,7 @@ fluoride; **fluoridation**; **fluorescent**. So spelled. Probably because of one
 
 In any event, the preferred pronunciations start with /flʊr-/.
 
-Language-Change Index
+## Language-Change Index
 
 *fluorescent* misspelled *\*flourescent*: Stage 1
 

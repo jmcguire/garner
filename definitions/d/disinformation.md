@@ -4,7 +4,7 @@ disinformation; **misinformation**. These words are not synonyms. *Disinformatio
 
 Sometimes the more pejorative word \(*disinformation*\) is misused for the less pejorative—e.g.: "Not surprisingly, the low level of scrutiny she was thought to deserve accounts for a significant amount of *disinformation* \[read *misinformation*\] in reference works." Susan Staves, "Traces of a Lost Woman," *Profession*, 1995, at 36 \(in an article charging not deliberate lies but oversights\).
 
-Language-Change Index
+## Language-Change Index
 
 *disinformation* misused for *misinformation*: Stage 1
 

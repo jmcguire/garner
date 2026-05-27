@@ -8,7 +8,7 @@ accompanied. Since the 1800s, idiom has required *accompanied by*, not *\*accomp
 
 *Accompanied by*, like *together with* and *along with*, does not make a singular subject into a plural one because it merely introduces a prepositional phrase. See subject–verb agreement \(e\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*accompanied with* for *accompanied by*: Stage 2 Current ratio in print \(*accompanied by* vs. *\*accompanied with*\): 20:1
 

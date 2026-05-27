@@ -30,7 +30,7 @@ In modern journalistic sources, *didn't used to* is almost twice as common as *d
 
 But remember the standard form that can save you headaches: *never used to*. It avoids the grammatical problem of *did* \+ \[past tense\]. It keeps *used*. And it doesn't reek of dialect.
 
-Language-Change Index
+## Language-Change Index
 
 *didn't used to*: Stage 5
 Current ratio in print \(*didn't used to be* vs. *didn't use to be*\): 2.5:1

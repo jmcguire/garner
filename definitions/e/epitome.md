@@ -10,7 +10,7 @@ The word does not mean "pinnacle" or "climax"—e.g.:
 
  - "Strained pranks and smutty jokes reach their *epitome* \[read *pinnacle* or, more appropriately here, *low point*\] in the show's big inspiration: having a dog fall in love with Harris's leg." Tom Shales, "Primal-Time Programming," *Wash. Post*, 19 Sept. 1999, at G1.
 
-Language-Change Index
+## Language-Change Index
 
 *epitome* misused for *pinnacle*: Stage 1
 Current ratio in print \(*reach the pinnacle* vs. *\*reach the epitome*\): 83:1

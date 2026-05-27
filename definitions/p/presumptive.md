@@ -20,7 +20,7 @@ See spelling \(a\). Pronounced properly, the word has four syllables: /pri-**zum
 
  - "Former Secretary of State Warren Christopher, a Gore representative, complained yesterday that Bush was being *presumptive* \[read *presumptuous*\] by assuming he's president-elect before the courts have ruled on the issue of hand recounts in Florida." Zachary Coile, "Bush Using Electoral Timeout to Practice Being Presidential," *S.F. Chron*., 4 Dec. 2000, at A5.
 
-Language-Change Index
+## Language-Change Index
 
 1. *presumptuous* misspelled *\*presumptious*: Stage 1
 Current ratio in print \(*presumptuous* vs. \**presumptious*\): 159:1

@@ -44,7 +44,7 @@ The linguist Dwight Bolinger gave up on the traditional usage back in 1980: "I b
 
 For the traditionalist, perhaps the most sensible course is to prefer the traditional usage in your own writing, to adhere to it when editing or correcting others' work, but not to despair unduly as the age-old preference continues eroding.
 
-Language-Change Index
+## Language-Change Index
 
 \**one of the few that is* for *one of the few that are*: Stage 4
 Current ratio in print \(*of the few who are* vs. \**of the few who is*\): 3:1

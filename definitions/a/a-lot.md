@@ -10,7 +10,7 @@ a lot \(= many\) is the standard spelling. *\*Alot* has always been considered n
 
 Cf. **all right \(b\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*alot* for *a lot*: Stage 2
 Current ratio in print \(*a lot* vs. *\*alot*\): 1,022:1

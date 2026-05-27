@@ -16,7 +16,7 @@ Usage writers including Roy H. Copperud, Bergen Evans, and William and Mary Morr
 
 In politics, of course, this type of semantic jockeying is a practice without end, as this columnist well knows: "Talk radio is rewriting the political language. . . . Environmentalists are wackos. The Democratic Party is the *Democrat* Party. Taxation is theft." Tom Teepen, "Talk Radio Isn't Just Talk," *Chattanooga Times/Chattanooga Free Press*, 29 Nov. 2002, at B8. And if *Republic* could somehow be loaded with pejorative connotations, you can be sure the Democrats wouldn't hesitate to do so.
 
-Language-Change Index
+## Language-Change Index
 
 *\*Democrat Party* for *Democratic Party*: Stage 2
 Current ratio in print \(*Democratic Party* vs. *\*Democrat Party*\): 30:1

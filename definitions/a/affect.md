@@ -24,7 +24,7 @@ Likewise, *effect* is sometimes misused for *affect*. See **effect \(b\)**. Cf. 
 
 Although *affect* is almost always a verb, it does have a rare, somewhat vague noun sense in the fields of psychology and psychiatry: "In general, \[*affect*\] is characterized as a state brought about by actions almost wholly devoid of intentional control in accordance with moral and objective viewpoints. The term is also found in the literature as practically synonymous with ‘emotion' in certain senses." 1 *Encyclopedia of Psychology* 28 \(H.J. Eysenck et al. eds., 1972\). Other definitions seem no clearer. One text defines *affect* as "the feeling-tone accompaniment of an idea or mental representation." Leland E. Hinsie & Robert Jean Campbell, *Psychiatric Dictionary* 18 \(4th ed. 1970\). The term certainly doesn't belong outside highly specialized contexts. And it seems questionable whether it justifiably belongs within them.
 
-Language-Change Index
+## Language-Change Index
 
 1. *affect* misused for *effect*, n. & vb.: Stage 1
 Current ratio in print \(*the bad effects* vs. *\*the bad affects*\): 217:1

@@ -4,7 +4,7 @@ eye of the storm. This allusion refers to the center of a tropical storm, which 
 
 But often, the sense is just the opposite, denoting a state of chaos at the center of a raging controversy—e.g.: "Fast forward to the 2000 presidential election, with Harris in the *eye of the storm* \[read *center of the controversy*\]—vilified as a witch, praised as a hero, both of which were undeserved." Thomas Tryon, "Katherine Harris' Own Party Had a Key Role in Her Swift Descent," *Sarasota Herald-Trib.*, 12 Nov. 2006, at F1.
 
-Language-Change Index
+## Language-Change Index
 
 *eye of the storm* misused to mean "center of controversy": Stage 1
 

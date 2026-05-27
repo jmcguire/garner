@@ -14,7 +14,7 @@ Current ratio in print \(*surmise* vs. *\*surmize*\): 528:1
 
  - "Booze and drugs can be determined through blood work, but drivers who fall asleep and die in a crash—an incredibly deadly problem—can only leave *surmisals* \[read *surmises*\] after investigators rule out mechanical problems." Lorraine Sommerfeld, "Don't Mix Social Media with Driving," *Vancouver Province*, 21 Jan. 2016, at A43.
 
-Language-Change Index
+## Language-Change Index
 
 *\*surmisal* for *surmise*: Stage 1
 Current ratio in print \(*the surmise* vs. *\*the surmisal*\): 383:1

@@ -4,7 +4,7 @@ accost \(= to approach and usu. to speak to in an abrupt or challenging manner\)
 
 Also, *accost* isn't the right verb for what a threatening animal does, no matter how noisy it becomes—e.g.: "Two months later, a trio of yelping pit bull puppies *accosted* \[read *attacked*\] Waters in the basement of an apartment building." William Gaines & Laurie Cohen, "Workers' Comp Puts City on Injured List," *Chicago Trib.*, 12 Jan. 1997, at C1.
 
-Language-Change Index
+## Language-Change Index
 
 *accost* used in reference to a physical assault: Stage 3
 

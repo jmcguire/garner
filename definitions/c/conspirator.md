@@ -4,7 +4,7 @@ conspirator; **\*conspiratorialist**; **coconspirator**. *Conspirator* \(= one e
 
 The term *coconspirator* \(unlike *\*copartner*\) is not always redundant. When speaking or writing of conspirator A and referring to conspirator B, it is far easier to use *coconspirator* than, say, *fellow conspirator*.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*conspiratorialist* for *conspirator*: Stage 1
 Current ratio in print \(*conspirator* vs. *\*conspiratorialist*\): 760:1

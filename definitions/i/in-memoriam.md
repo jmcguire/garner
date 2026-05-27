@@ -8,7 +8,7 @@ in memoriam is sometimes misspelled *\*in memorium*—e.g.:
 
 Unfortunately, one unsure about the spelling may have difficulty looking it up in a dictionary. That's because *memoriam* exists in English only in this phrase, which is alphabetized under *I* rather than *M*. The same problem arises with *in situ*.
 
-Language-Change Index
+## Language-Change Index
 
 *in memoriam* misspelled *\*in memorium*: Stage 1
 Current ratio in print \(*in memoriam* vs. \**in memorium*\): 41:1

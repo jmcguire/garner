@@ -8,7 +8,7 @@ with.
 
  - "We separated, *with me carrying* \[read *and I carried*\] a couple thoughts \[read *a couple of thoughts*\] back to the office." Dana Parsons, "Life on the Outside of the American Dream," *L.A. Times*, 14 Nov. 1997, at B1.
 
-Language-Change Index
+## Language-Change Index
 
 *with* as a quasi-conjunction: Stage 3
 

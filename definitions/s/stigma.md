@@ -16,7 +16,7 @@ Current ratio in print \(*stigmata* vs. *stigmas*\): 1.04:1
 
 For further misuse of **stigmatism**, see **astigmatism**.
 
-Language-Change Index
+## Language-Change Index
 
 *stigmatism* misused for *stigma*: Stage 1
 Current ratio in print \(*social stigma* vs. \**social stigmatism*\): 534:1

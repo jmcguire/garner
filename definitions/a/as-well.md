@@ -8,7 +8,7 @@ as well. When used at the beginning of a sentence, this phrase has traditionally
 
  - "*As well,* \[read *And*\] many of today's workers are stashing money in RRSPs, an estimated $6.5 billion this year alone." Mary Janigan, "Making the Middle Class Pay," *Maclean's*, 29 Sept. 1997, at 42.
 
-Language-Change Index
+## Language-Change Index
 
 *as well* as a sentence-starter \(outside Canada\): Stage 2
 Current ratio in print \(capitalized *Also* vs. capitalized *As well*\): 14:1

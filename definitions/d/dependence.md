@@ -6,7 +6,7 @@ Sometimes *dependency* is misused for *dependence*—e.g.: "Citing the Army's *d
 
 Unfortunately, the distinction is not complete: *dependency* is also the term for drug habituation. See **addicted**.
 
-Language-Change Index
+## Language-Change Index
 
 *dependency* misused for *dependence*: Stage 2
 

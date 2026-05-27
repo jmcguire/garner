@@ -14,7 +14,7 @@ See ***lapsus linguae***.
 
 Although *toe the line* is about eight times as common as *toe the mark* in print sources today, the latter idiom has not entirely disappeared—e.g.: "In his latest tape, Osama bin Laden denounced Muslim countries that don't *toe his mark* as ‘tyrannical and apostate regimes, which are enslaved by America.' " Ron Grossman, "Also-Rans Snipe at U.S.," *Chicago Trib.*, 2 Mar. 2003, Perspective §, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*tow the line* for *toe the line*: Stage 2
 Current ratio in print \(*toe the line* vs. *\*tow the line*\): 16:1

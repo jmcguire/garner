@@ -8,7 +8,7 @@ fulsome \(= abundant to excess; offensive to normal tastes or sensibilities\) is
 
 The word might justifiably be treated as a skunked term because the loose sense is so common, especially in the expression *fulsome praise*. Usually the intended sense of that expression is something like "lavish praise," as opposed to repulsive praise—e.g.: "Just before Mobutu was run out of his lair in Kinshasa, National Public Radio played some old audiotapes of the *fulsome* \[read *lavish*\] praise heaped on this corrupt blackguard by Presidents Reagan and Bush." David Nyhan, "Those Buddies of Uncle Sam We Didn't Know Were Soooo Baaad," *Boston Globe*, 25 May 1997, at D4. Cf. **noisome**.
 
-Language-Change Index
+## Language-Change Index
 
 *fulsome* in a flattering sense: Stage 4
 

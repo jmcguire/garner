@@ -12,7 +12,7 @@ doctrinal; **doctrinaire**; **\*doctrinary**. *Doctrinal* \(/**dok**-trә-nәl/ 
 
 Cf. **millionaire** & **questionnaire**.
 
-Language-Change Index
+## Language-Change Index
 
 *doctrinaire* misspelled *\*doctrinnaire*: Stage 1
 Current ratio in print \(*doctrinaire* vs. \**doctrinnaire*\): 729:1

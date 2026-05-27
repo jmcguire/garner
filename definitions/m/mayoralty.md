@@ -4,7 +4,7 @@ mayoralty \(= a mayor's office or term of office\) is sometimes wrongly made *\*
 
 When pronouncing the word, make it four syllables \(not three\), with stress on the first: /**may**-әr-әl-tee/. The corresponding adjective is *mayoral* /**may**-әr-әl/, preferably not /may-**or**-әl/. Cf. **electoral**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*mayorality* for *mayoralty*: Stage 1
 Current ratio in print \(*mayoralty* vs. *\*mayorality*\): 80:1

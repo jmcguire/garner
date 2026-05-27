@@ -8,7 +8,7 @@ trawl, vb.; **troll**, vb. *Trawl* = \(1\) to fish with a large cone-shaped net 
 
 Then again, sense 2 of *trawl* is virtually indistinguishable from sense 4 of *troll*. The usual phrase today is *trolling the internet*, not *trawling*.
 
-Language-Change Index
+## Language-Change Index
 
 1. *trawl* misused for *troll*: Stage 2
 

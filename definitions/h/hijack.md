@@ -8,7 +8,7 @@ The word is often misspelled *\*highjack*—e.g.:
 
  - "The need for such work became clear to Karadja in December 1994, during the *highjacking* \[read *hijacking*\] of an airplane in which her daughter and sister were on board." Scott Peterson, "Amid Algeria's Massacres," *Christian Science Monitor*, 9 Jan. 1998, Int'l §, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*highjack* for *hijack*: Stage 1
 Current ratio in print \(*hijack* vs. *\*highjack*\): 29:1

@@ -10,7 +10,7 @@ hers, an absolute possessive, is sometimes wrongly written *\*her's*—e.g.:
 
 See possessives \(c\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*her's* for *hers*: Stage 1
 Current ratio in print \(*hers* vs. *\*her's*\): 280:1

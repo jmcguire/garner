@@ -32,7 +32,7 @@ It is odd, however, to see the past-tense form in the set phrase *how dare you*�
 
 **F. *How dare*.** This exclamatory construction involves an inversion: *How dare he do that\!* is an idiomatic phrasing of the interrogative *How \(does/did he\) dare \(to\) do that?* The subject–actor \(*he*\) appears after the verb \(*dare*\) and is always in the nominative case—e.g.: "How dare *she* tell taxpayers to take on more responsibility to help neighborhood kids. How dare *she* be right\!" Denise Smith Amos, "It's Up to Us to Ensure Kids Are OK," *Cincinnati Enquirer*, 18 Aug. 2002, at 2. Some people mistakenly think that a pronoun following *dare* must be in the objective case, apparently misconstruing it as an object of the verb *dare*—e.g.: " ‘\[I\]n a state that has predictable and documented needs, how dare *us* \[read *we*\] claim that the responsible public policy was handing out $30 here and $300 there to families that have desperate needs for not the dollars but the services?' " Gwyneth K. Shaw, "Improving Children's Well-Being," *Orlando Sentinel*, 22 May 2001, at A1. On the use of the past-tense *dared* in this phrase, see \(d\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*how dare us* \(or *\*how dare him*\) for *how dare we* \(or *how dare he*\): Stage 1
 

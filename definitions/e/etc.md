@@ -14,7 +14,7 @@ Writers should generally try to be as specific as possible rather than make use 
 
 **C. For *et al.*** The term *etc.* should be reserved for things, not for people; *et al.* serves when people are being mentioned. But liberal ideologues might think the following usage quite appropriate: "The presidential heavyweight hopefuls—Dole, Sen. Phil Gramm, ex-Tennessee Gov. Lamar Alexander, *etc.* \[read *et al.*\]—were present and accounted for at the GOP Midwest leadership conference in Green Bay over the weekend." "Lake Jump," *Chicago Trib.*, 22 May 1995, § 1, at 12. See **et al**.
 
-Language-Change Index
+## Language-Change Index
 
 *etc.* misused for *et al.*: Stage 3
 

@@ -12,7 +12,7 @@ spoliation; **despoliation**; **\*despoilment**. A learned word, *spoliation* /s
 
 Oddly, though, the corresponding verb is *despoil*. Why the discrepancy in spelling? The answer again lies in the vagaries of linguistic history. English borrowed the verb in the 1200s from Old French \(*despoillier*\) but the noun in the 1600s from Latin \(*despoliatio*\). And those two forms—for centuries, at any rate—stuck. The Frenchified noun coined in the early 1800s, *\*despoilment*, never rose above being a needless variant.
 
-Language-Change Index
+## Language-Change Index
 
 1. *spoliation* misspelled *\*spoilation*: Stage 1
 Current ratio in print \(*spoliation* vs. \**spoilation*\): 46:1

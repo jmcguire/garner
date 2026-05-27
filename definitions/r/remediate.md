@@ -4,7 +4,7 @@ remediate, a back-formation from *remediation*, is generally either a needless v
 
 Otherwise, though, the word itself is a pollutant—e.g.: "Students who don't pass will be allowed to take the test again in a couple of weeks, will be *remediated* \[read *tutored*? *coached*?\] until they feel ready to take the test again or will be allowed to retake the course." Tara Tuckwiller, "Putnam Doesn't Act on Pay Raises," *Charleston Gaz.* \(W. Va.\), 24 June 1997, at C3.
 
-Language-Change Index
+## Language-Change Index
 
 *remediate* for *remedy* \(outside-environmental law\): Stage 1
 

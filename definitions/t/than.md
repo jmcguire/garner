@@ -14,7 +14,7 @@ See comparatives and superlatives \(c\).
 
 **B. For *then*.** This error is so elementary that you might fairly wonder whether it is merely a lapse in proofreading. But it occurs with some frequency—e.g.: "Mr. Bennett did wake up several times, hoping to hear good news, if not about himself, *than* \[read *then*\] at least about the two stars of the film, Nigel Hawthorne, nominated for best actor, or Helen Mirren, nominated for best actress." Sarah Lyall, "For Alan Bennett, Home Is Where He's Heartened," *N.Y. Times*, 19 Oct. 1995, at B3. This error is extremely common, perhaps because the two words are almost homophones in some dialects of AmE. In any given instance, though, the error might be typographical. For the opposite error, see **then \(b\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *than* misused for *then*: Stage 1
 
@@ -36,7 +36,7 @@ See pronouns \(b\).
 
 What about "My mother likes the dog more than me?" vs. "My mother likes the dog more than I?" These sentences say different things, even though *than* acts as a conjunction, seemingly, in the first as well as the second. The first means *more than* \(*she likes*\) *me*, the second *more than I* \(*like the dog*\). The Beatles presented this dilemma in their song "If I Fell" \(1964\), in which John Lennon sang: "I must be sure, from the very start, that you would love me more than her." Either this is bad English, or Lennon was envisioning a bisexual lover contemplating same-sex and different-sex lovers. But the latter has never seemed plausible—and the objective case is probably the speaker's maladroit attempt to suggest that two women are vying for his affections. \(Consider: it was the Beatles in the 1960s.\) But even if *than* is taken as a conjunction in *than her*—as short for *than* \(*you love*\) *her*, it represents unexemplary English.
 
-Language-Change Index
+## Language-Change Index
 
 *than* with an objective pronoun <he's taller than me>: Stage 4
 Current ratio in print \(*taller than he* vs. *\*taller than him*\): 1.3:1

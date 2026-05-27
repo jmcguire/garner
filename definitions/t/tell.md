@@ -14,7 +14,7 @@ tell.
 
 Still, it's permissible to say *tell that to your father* and the like—e.g.: "OK, RWD is better for towing, but *tell that to the owner* of a 4-cylinder engine." Jim Mateja, "Sienna Makes Up for Rare Toyota Miscue," *Chicago Trib.*, 21 Sept. 1997, at 1. In this usage, *tell that to* is a set phrase.
 
-Language-Change Index
+## Language-Change Index
 
 *tell* misused for *say*: Stage 1
 Current ratio in print \(*he said that he* vs. *\*he told that he*\): 152:1

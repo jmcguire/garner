@@ -6,7 +6,7 @@ vicious; **viscous**. *Vicious* \(= brutal\) is sometimes confounded with *visco
 
  - "Stealing a page from some old boxer's book, Douglas let Tyson punch himself out through the early rounds and then unleashed a *viscous* \[read *vicious*\] combination of sharp jabs and sharper shots on the champ." "Iron Bites," *Pitt. Post-Gaz.*, 7 June 2002, at B2.
 
-Language-Change Index
+## Language-Change Index
 
 *viscous* misused for *vicious*: Stage 1
 

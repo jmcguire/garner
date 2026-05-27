@@ -30,7 +30,7 @@ In the following examples, the phrase is used in the traditionally preferred way
 
  - "The 49-year-old was *due to marry* his fiancée Hana Chochrunova on March 9 this year." Joanne Sweeney, "The Co Antrim Man Walking 900 Miles in 30 Days in Memory of the Beloved Uncle He Lost to Cancer," *Belfast Telegraph*, 22 Aug. 2015, at 17.
 
-Language-Change Index
+## Language-Change Index
 
 *due to* misused for *because of* or *owing to*: Stage 4
 

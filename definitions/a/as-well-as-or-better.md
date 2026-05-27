@@ -8,7 +8,7 @@ as well as or better than; **\*as well or better than**. Some writers—a slight
 
 Cf. **as good as or better than** & **as much as or more than**. See cannibalism & illogic \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*as well or better than* for *as well as or better than*: Stage 3
 

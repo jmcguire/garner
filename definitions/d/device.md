@@ -6,7 +6,7 @@ Often, though, *devise* is used when *device* is the intended word—e.g.: "Jere
 
 As a legal term, *devise* is sometimes used as a noun meaning "a gift of property by will."
 
-Language-Change Index
+## Language-Change Index
 
 *devise* misused for *device*: Stage 1
 Current ratio in print \(*ingenious device* vs. *\*ingenious devise*\): 640:1

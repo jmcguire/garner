@@ -6,7 +6,7 @@ Not surprisingly, the first two words are the most susceptible to word-swappingâ
 
 The less common error is to misuse *caret* for the unrelated word *carat* or *karat*â€”e.g.: "Boaters often liked to have the names of their yachts painted in *24-caret* \[read *24-karat*\] gold leaf, as well." Shannon Oboye, "James Tribbett, Expert at Gold-Leaf Lettering," *Sun-Sentinel* \(Ft. Lauderdale\), 15 Mar. 2001, at B15.
 
-Language-Change Index
+## Language-Change Index
 
 *caret* misused for *karat*: Stage 1 Current ratio in print \(*carat diamond* vs. \**karat diamond* vs. \**caret diamond*\): 87:7:1
 

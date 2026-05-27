@@ -10,7 +10,7 @@ A perceived difference, however, is that we already have a perfectly good verb \
 
 From *gift* as a verb, it was a natural step to *regift* \(= to give an unwanted gift to someone else, under the pretense that it was selected for that person\)—e.g.: "Their child received an unwanted Webkinz for a recent birthday—and it's already rewrapped for Christmas *regifting*." Daniel McGinn, "Waving 'Bye to Webkinz?," *Newsweek*, 10 Dec. 2007, at 18.
 
-Language-Change Index
+## Language-Change Index
 
 1. *gift* for *give*: Stage 2
 

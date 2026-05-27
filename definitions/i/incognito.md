@@ -10,7 +10,7 @@ incognito \(= \[1\] in disguise; or \[2\] under an assumed name\) is sometimes m
 
 Although the traditional pronunciation was /in-**kog**-ni-toh/, the standard today is /in-kog-**nee**-toh/.
 
-Language-Change Index
+## Language-Change Index
 
 *incognito* misused for *incommunicado*: Stage 1
 Current ratio in print \(*held incommunicado* vs. *\*held incognito*\): 54:1

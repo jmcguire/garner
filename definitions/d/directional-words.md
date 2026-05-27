@@ -44,7 +44,7 @@ The one useful distinctive sense that forms such as *southward* and *southerly* 
 
 Though the *-ernly* words are recorded in the *OED*, they're noted as being rare or obsolete. Cf. **nor'easter**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*northernly*, *\*southernly*, etc. for *northerly*, *southerly*, etc.: Stage 1
 Current ratio in print \(*westerly direction* vs. *\*westernly direction*\): 1,140:1

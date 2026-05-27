@@ -10,7 +10,7 @@ Hence the phrase for a blind or nearly blind person is *visually impaired*, not 
 
 *Visibly impaired*, however, is a phrase that police appropriately use in describing a person noticeably affected by alcohol or drugs.
 
-Language-Change Index
+## Language-Change Index
 
 *visibly impaired* misused for *visually impaired*: Stage 1
 

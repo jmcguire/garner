@@ -24,7 +24,7 @@ Current ratio in print \(*confessed guilt* vs. \**confessed to guilt*\): 4:1
 
  - "Daniel . . . begins his narrative desperately on his knees *confessing* \[read *professing*\] his innocence to his iPhone." John McKeown, Theatre Review, *Irish Independent*, 28 Feb. 2014, at 43.
 
-Language-Change Index
+## Language-Change Index
 
 *\*confess innocence* for *profess innocence*: Stage 1
 

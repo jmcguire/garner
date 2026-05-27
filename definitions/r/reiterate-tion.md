@@ -10,7 +10,7 @@ Since an *iteration* repeats a former event, the term can't logically apply to t
 
  - "Many of the most daring are being commissioned by an emerging online force—such corporate giants as Nestle USA, Pepsi, Coca-Cola and General Motors that sat out the first *iteration* \[read *generation*\] of Web advertising while the rest of the nation went dot-com crazy." Doug Bedell, "On the Web, in Your Face," *Dallas Morning News*, 25 July 2002, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*first iteration* for *first version*, etc.: Stage 2
 

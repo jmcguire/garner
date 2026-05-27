@@ -8,7 +8,7 @@ collusion \(= an agreement between two or more people to trick or defraud anothe
 
 Is it possible to defraud yourself? No, although writers occasionally try this trick—e.g.: "By working until midnight, you enable your boss to give you assignments late without consequences. No one can take advantage of you without your *collusion* \[read *acquiescence*\]." Lynne Curry, "Rein in Chaotic Manager," *Anchorage Daily News*, 16 Sept. 2002, at D1.
 
-Language-Change Index
+## Language-Change Index
 
 *collusion* misused for *collaboration*: Stage 1
 

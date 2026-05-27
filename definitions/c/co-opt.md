@@ -6,7 +6,7 @@ co-opt. This word, from the Latin *cooptare* "to choose or elect," has an obliga
 
 The noun corresponding to *co-opt* is *co-optation* \(still so hyphenated\)—although AmE in the 1970s and 1980s had an extended flirtation with *\*cooptation*. *\*Co-option*, popular in 20th-century BrE, can be regarded as a needless variant.
 
-Language-Change Index
+## Language-Change Index
 
 *co-op* misused for *co-opt*: Stage 1
 Current ratio in print \(*to co-opt the* vs. *\*to coopt the* vs. *\*to co-op the*\): 292:53:1

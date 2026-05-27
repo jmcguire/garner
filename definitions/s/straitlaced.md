@@ -8,7 +8,7 @@ straitlaced \(= rigidly narrow in moral matters; prudish\) referred originally, 
 
 Once hyphenated in AmE, the term has been solid since the late 1970s. In BrE, the term is still predominantly hyphenated <strait-laced>.
 
-Language-Change Index
+## Language-Change Index
 
 *\*straightlaced* for *straitlaced*: Stage 3
 Current ratio in print \(*straitlaced* vs. *\*straightlaced*\): 4:1

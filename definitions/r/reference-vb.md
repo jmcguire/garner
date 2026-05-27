@@ -12,7 +12,7 @@ Since the latter half of the 20th century, the word has become a vogue term, how
 
 See functional shift \(d\) & computerese.
 
-Language-Change Index
+## Language-Change Index
 
 *reference* in the sense "to refer to": Stage 4
 Current ratio in print \(*refer to the fact* vs. *\*reference the fact*\): 24:1

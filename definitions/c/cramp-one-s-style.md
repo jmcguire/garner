@@ -10,7 +10,7 @@ Some writers change *cramp* to *crimp* \(= to make pinched or bent\), perhaps be
 
  - "Wealthy people and business owners aren't going to let a little recession *crimp* \[read *cramp*\] their *style*." James McNair, "Charter Jet Company Flies in Face of Weak Economy," *Cincinnati Enquirer*, 2 Mar. 2003, at D1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*crimping one's style* for *cramping one's style*: Stage 1
 Current ratio in print \(*cramp your style* vs. *\*crimp your style*\): 69:1

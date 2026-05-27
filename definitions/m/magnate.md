@@ -12,7 +12,7 @@ magnate; **magnet**. A *magnate* /**mag**-nayt/ is a tycoon, a person who has gr
 
 Before the Gilded Age of the late 1800s, the terms *magnate* and *tycoon* both referred to prominent people in business and politics. In that era, however, the words were applied to super-rich industrialists such as Andrew Carnegie and John D. Rockefeller; the words suggest massive wealth and are still used more commonly with older industries. Hence it is more common today to read of a *railroad magnate* or an *oil tycoon* than a *software magnate* or a *telecom tycoon*.
 
-Language-Change Index
+## Language-Change Index
 
 *\*shipping magnet* for *shipping magnate*: Stage 1
 Current ratio in print \(*shipping magnate* vs. \**shipping magnet*\): 83:1

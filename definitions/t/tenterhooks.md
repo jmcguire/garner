@@ -10,7 +10,7 @@ tenterhooks. A *tenter* is a frame for stretching cloth to dry, and *tenterhooks
 
 The error first occurred in AmE in the early 1800s and had spread into BrE by 1900. Cf. **tinderbox**.
 
-Language-Change Index
+## Language-Change Index
 
 *tenterhook* misspelled *\*tenderhook*: Stage 1
 Current ratio in print \(*tenterhooks* vs. *\*tenderhooks*\): 176:1

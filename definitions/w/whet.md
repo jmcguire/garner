@@ -12,7 +12,7 @@ The error might occur in part because people tend to salivate when their appetit
 
 The opposite error \(*whet* for *wet*\) also sometimes occurs—e.g.: "To *whet* \[read *wet*\] the whistle, Glazer's of New Orleans provided local libations, including a martini bar, spiced Cajun tea, and ambulance chasers." Tara McLellan, "Hospital Puts On Nighttime Fundraiser," *Times-Picayune* \(New Orleans\), 8 June 2008, Slidell §, at 13.
 
-Language-Change Index
+## Language-Change Index
 
 1. *wet* misused for *whet*: Stage 1
 Current ratio in print \(*whet your appetite* vs. *\*wet your appetite*\): 41:1

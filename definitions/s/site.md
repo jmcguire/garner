@@ -16,7 +16,7 @@ The phrase *set one's sights* is a set phrase with its origins in gunmanship. It
 
 Cf. **sight unseen**. For other errors with *site*, see **cite**, n. \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *sight* misused for *site*: Stage 2
 Current ratio in print \(*sites to visit* vs. *\*sights to visit*\): 6:1

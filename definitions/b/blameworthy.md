@@ -20,7 +20,7 @@ In all phases of Modern English, the Latinate *culpable* has always appeared mor
 
  - " ‘I voted for it. I'm as *blameful* \[read *blameworthy*\] as everyone else,' said Supervisor Roger Quindel." Steve Schultze, "Million Dollar Pensions Attacked," *Milwaukee J. Sentinel*, 6 Jan. 2002, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 *blameful* misused for *blameworthy*: Stage 1
 Current ratio in print \(*blameworthy* vs. *blamable* vs. *blameable*\): 9:1.2:1

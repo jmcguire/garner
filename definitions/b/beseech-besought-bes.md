@@ -18,7 +18,7 @@ The form *besought* will surprise some readers, who might have thought the past 
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 Current ratio in print \(*besought* vs. *\*beseeched*\): 6:1
 

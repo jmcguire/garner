@@ -12,7 +12,7 @@ Cf. **used to**.
 
 In constructions in which *suppose* means "to assume," an infinitive may follow the verb <I suppose this to be your answer>.
 
-Language-Change Index
+## Language-Change Index
 
 *\*is suppose to* for *is supposed to*: Stage 1
 Current ratio in print \(*is supposed to* vs. *\*is suppose to*\): 362:1

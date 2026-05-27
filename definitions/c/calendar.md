@@ -10,7 +10,7 @@ Yet the ordinary term *calendar* is often misspelled *calender*—e.g.:
 
  - "A newcomer to the festival scene has stormed its way into the North East *calender* \[read *calendar*\] announcing that it has completely sold out in only its third year." Hugh MacKnight, "Hardwick Live Hits Right Note with Sell-Out," *Newcastle J.* \(U.K.\), 22 Aug. 2015, News §, at 28.
 
-Language-Change Index
+## Language-Change Index
 
 *calendar* misspelled *calender*: Stage 1 Current ratio in print \(*calendar year* vs. *\*calender year*\): 704:1
 

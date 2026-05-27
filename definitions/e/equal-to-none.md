@@ -6,7 +6,7 @@
 
  - "She had a head for business *equal to none* \[read *second to none*\] and never let her pursuit of Euterpe . . . get in the way of the practical agenda." Hilary Masters, "Harriet Munro: The Untold Story," *Va. Q. Rev.*, 1 Oct. 2001, at 680.
 
-Language-Change Index
+## Language-Change Index
 
 *\*equal to none* for *second to none*: Stage 2
 Current ratio in print \(*second to none* vs. *\*equal to none*\): 128:1

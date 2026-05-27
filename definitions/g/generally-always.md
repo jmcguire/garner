@@ -8,7 +8,7 @@
 
  - "It's always something. And it's *usually always* \[read *usually*\] something silly." C. Jemal Horton, "*Thomas'* \[read *Thomas's*\] Coaching Is Reason Pacers Are Talk of the League," *Indianapolis Star*, 29 Nov. 2002, at C3. \(For more about forming the possessive of *Thomas*, see possessives \(a\).)
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*generally always*: Stage 1
 

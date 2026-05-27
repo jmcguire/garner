@@ -16,7 +16,7 @@ The variant phrase *as equally* is just as \(i.e., equally\) bad—e.g.:
 
 Not every use, though, is incorrect: if the words *equally as* simply appear together but are really parts of other constructions, all may be well <I love you equally as a nephew and as a friend>.
 
-Language-Change Index
+## Language-Change Index
 
 *equally as* for *equally*: Stage 2
 Current ratio in print \(*equally important* vs. *\*equally as important*\): 24:1

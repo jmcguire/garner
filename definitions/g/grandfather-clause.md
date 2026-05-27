@@ -6,7 +6,7 @@ This phrase has given rise to the verb *grandfather*, meaning "to cover \(a pers
 
 A few writers and speakers—sometimes in jest—have resorted to *grandparent clause* to avoid what might be perceived as sexism—e.g.: "Since she was ordained four years before the policy was issued, Spahr was sure a *grandparent clause* \[read *grandfather clause*\] would protect her." Yonat Shimron, "Gay Presbyterians Fight for Ordination," *News & Observer* \(Raleigh\), 30 Mar. 1996, at A1. That neutering skews the historical sense and is likely to strike most readers and listeners as too politically correct or downright jocular. The phrase is appropriate, however, in other contexts, such as some parental-notification laws that let grandparents substitute for parents in giving permission for a minor to have an abortion.
 
-Language-Change Index
+## Language-Change Index
 
 *grandparent clause* for *grandfather clause*: Stage 1
 Current ratio in print \(*grandfather clause* vs. *grandparent clause*\): 165:1

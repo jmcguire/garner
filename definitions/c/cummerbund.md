@@ -10,7 +10,7 @@ cummerbund \(= a wide waistband worn with tuxedos and other formal dress\) is th
 
 The pronunciation is /**kәm**-әr-bәnd/.
 
-Language-Change Index
+## Language-Change Index
 
 *cummerbund* misspelled *\*cummerbun,* *\*cumberbun, or \*cumberbund*: Stage 1
 Current ratio in print \(*cummerbund* vs. *\*kummerbund* vs. *\*cumberbund* vs. *\*cumberbun*\): 393:6:4:1

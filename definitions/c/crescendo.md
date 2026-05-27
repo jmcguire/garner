@@ -4,7 +4,7 @@ crescendo, n., refers to a gradual increase in the volume of sound, not to a bla
 
 The plural is *crescendos*—preferably not the Italianate *\*crescendi*. See plurals \(d\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *crescendo* in reference to a climax or peak: Stage 3
 

@@ -4,7 +4,7 @@ sanguine; **sanguinary**; **sanguineous**; **sanguinolent**. All these words sha
 
 In the sense "optimistic, confident," *sanguine* is sometimes confounded with *sanguinary* \(= \[1\] involving bloodshed; or \[2\] bloodthirsty\)—e.g.: "Unfortunately, not all the members of the administration's environmental team appear to share the *sanguinary* \[read *sanguine*\] views of Hunt and Howes on the future of clean water." "Water Quality Advancing to the Rear," *Herald-Sun* \(Durham, N.C.\), 3 Jan. 1996, at A10.
 
-Language-Change Index
+## Language-Change Index
 
 *sanguinary* misused for *sanguine*: Stage 1
 

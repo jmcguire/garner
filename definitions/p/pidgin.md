@@ -10,7 +10,7 @@ pidgin \(fr. a Chinese pronunciation of the English word *business*\) = a simpli
 
 It's pronounced like *pigeon* /**pij**-әn/.
 
-Language-Change Index
+## Language-Change Index
 
 *\*pigeon English* for *pidgin English*: Stage 2
 Current ratio in print \(*pidgin English* vs. *\*pigeon English*\): 5:1

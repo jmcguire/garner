@@ -4,7 +4,7 @@ demagogue is predominantly a noun meaning "a leader who seeks or maintains power
 
 When the word has been used as a verb, it has historically been intransitive, not transitive. That is, one may *demagogue* \(= play the demagogue\), or one may *demagogue on* an issue, but one doesn't *demagogue* an issue. Some writers try to make the verb transitive—e.g.: "Similarly, Rep. Rod Chandler, the Republican candidate for U.S. Senate, has *demagogued* \[read *demagogued on*\] the issue." "Unsoeld's Sound Approach," *Seattle Times*, 29 Sept. 1992, at A6.
 
-Language-Change Index
+## Language-Change Index
 
 *demagogue* as a transitive verb: Stage 4
 Current ratio in print \(*demagogue* vs. \**demagog*\): 119:1

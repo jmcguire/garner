@@ -12,7 +12,7 @@ Whenever *use* is possible, *usage* shouldn't appear. But *usage* for *use* is n
 
 The opposite error—*use* for *usage*—is quite uncommon but does occur: "This *Concise Dictionary* is primarily a manual for people who aspire to write a clear and forceful American \[English\] in accord with current good *use* \[read *usage*\]." Robert C. Whitford & James R. Foster, *Concise Dictionary of American Grammar and Usage* v \(1955\). Given the title of the book, that sentence also illustrates inelegant variation.
 
-Language-Change Index
+## Language-Change Index
 
 1. *usage* misused for *use*, n.: Stage 3
 

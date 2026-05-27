@@ -20,7 +20,7 @@ See synesis. Even so, the collocation *there has been a series* has predominated
 
  - "Imigin McHenry and Claire Girkin each had 331 *serieses* \[read *series*\] to round out the scoring for Charles City." John Burbridge, "Comet Boy and Girl Bowlers Improve to 6–0," *Charles City Press* \(Iowa\), 18 Jan. 2021, Sports §.
 
-Language-Change Index
+## Language-Change Index
 
 *\*serieses* as plural of *series*: Stage 1
 Current ratio in print \(*several series* vs. \**several serieses*\): 4,966:1

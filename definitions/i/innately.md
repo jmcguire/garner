@@ -8,7 +8,7 @@ innately is sometimes misused for *inherently*. What is *innate* is inborn—the
 
  - "The hushed natural setting fits a genre that's *innately* \[read *inherently*\] human-scale—much more so than, say, full-blown orchestral music." Amy Biancolli, "Ticklish Situation," *Times Union* \(Albany\), 27 Aug. 2015, at V14.
 
-Language-Change Index
+## Language-Change Index
 
 *innately* misused for *inherently*: Stage 1
 

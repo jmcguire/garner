@@ -16,7 +16,7 @@ exuberant.
 
  - "Unlike Washington Park's garden on the Downing Street side, famed for its large flower beds and *exhuberant* \[read *exuberant*\] colors, this garden is meant to be a place of tranquility and serenity." Joanne Ditmer, "Garden Will Honor Public Parks Donors," *Denver Post*, 5 Oct. 1996, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 *exuberant* misspelled *\*exhuberant*: Stage 1
 Current ratio in print \(*exuberant* vs. \**exhuberant*\): 667:1

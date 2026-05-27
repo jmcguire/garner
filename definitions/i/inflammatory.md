@@ -10,7 +10,7 @@ inflammatory; **inflammable**. Surprisingly, *inflammable* \(= combustible\) is 
 
 This confusion provides yet one more reason why *flammable* is to be encouraged over *inflammable*, which should be ignited and consumed. See **flammable**.
 
-Language-Change Index
+## Language-Change Index
 
 *inflammable* misused for *inflammatory*: Stage 1
 Current ratio in print \(*inflammatory words* vs. *\*inflammable words*\): 188:1

@@ -20,7 +20,7 @@ Meanwhile, the erroneous form *\*slunked* sometimes appears as a past-tense verb
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*slank* for *slunk* as past tense of *slink*: Stage 1
 Current ratio in print \(*slunk away* vs. *\*slank away*\): 243:1

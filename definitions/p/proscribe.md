@@ -10,7 +10,7 @@ proscribe; **prescribe**. *Proscribe* = to prohibit. *Prescribe* = to impose aut
 
 Sometimes, but much less often, the opposite error occurs—e.g.: "Most of these rules of grammar have no real justification and there is therefore no serious reason for condemning the ‘errors' they *prescribe* \[read *proscribe*\]." Frank Palmer, *Grammar* 14 \(1971\). Given the ability and reputation of Mr. Palmer, that instance is almost certainly a printer's error.
 
-Language-Change Index
+## Language-Change Index
 
 1. *proscribe* misused for *prescribe*: Stage 1
 Current ratio in print \(*prescribe rules* vs. *\*proscribe rules*\): 313:1

@@ -10,7 +10,7 @@ exceed.
 
  - "What's considered affordable by experts is fluid, but it is typically defined as housing costs that do not *exceed more than* \[read *exceed*\] 30 percent of an individual's monthly income." Kirsten Crow, "City's Need for Housing Grows," *Corpus Christi Caller-Times*, 2 Aug. 2015, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*exceed more than* for *exceed*: Stage 1
 Current ratio in print \(*exceed 10* vs. *\*exceed more than 10*\): 182:1

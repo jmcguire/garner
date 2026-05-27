@@ -10,7 +10,7 @@ faze; **phase**. *Faze* = to disconcert; daunt. *Phase*, vb., = to carry out \(a
 
 The opposite error \(*faze* for *phase*\) also occurs, but more rarely—e.g.: "All that while shooting guard Art Mlotkowski, shadowed all over the court by Northport senior Rob Sanicola, was *fazed* \[read *phased*\] out of the offense." John Valenti, "Northport Beats Copiague," *Newsday* \(N.Y.\), 26 Feb. 1995, at 13.
 
-Language-Change Index
+## Language-Change Index
 
 1. *phase* misused for *faze*: Stage 2
 Current ratio in print \(*didn't faze him* vs. *\*didn't phase him*\): 20:1

@@ -18,7 +18,7 @@ Or as another linguist wryly put it: "One has only to listen to one's pseudo-edu
 
 See **you**.
 
-Language-Change Index
+## Language-Change Index
 
 *one . . . he*: Stage 4
 

@@ -16,7 +16,7 @@ It's understandable why most people aren't comfortable with this verbal usage of
 
 The new use of *careen* may also have been influenced by the word *carom* \(= to rebound after a glancing blow\)—e.g.: "Among those comforted were seven students, ages 10 to 15, who were riding their bicycles Sunday with Dale Tutkowski when two cars collided and one car *caromed* into the teacher." Joe Williams & Lisa Sink, "Pupils Who Saw Teacher Hurt Seek Comfort," *Milwaukee Sentinel*, 18 Oct. 1994, at A1. See **carom**.
 
-Language-Change Index
+## Language-Change Index
 
 *careen* in the sense "to move swervingly or lurchingly": Stage 5
 

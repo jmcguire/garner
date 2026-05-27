@@ -14,7 +14,7 @@ In BrE, *further* is typically both physical and figurative, whereas *farther* i
 
 The superlatives—*farthest* and *furthest*—follow the same patterns. *Furthermost* is a fairly rare equivalent of *farthest* \(not *furthest*\)—e.g.: "The National Park Service administers the monument located about 65 miles northwest of Gillette, in Wyoming's *furthermost* \[better: *farthest*\] corner of Crook County." Christopher Smith, "Tribes Say Devils Tower Is No Name for a Pious Peak," *Salt Lake Trib.*, 4 Sept. 1996, at A1. Sometimes it is used where it shouldn't be—e.g.: "That was the *furthermost* \[read *furthest*\] thing from \[the company's\] mind." Eli Setencich, "Co-op Is Reaping Fruits of Generosity," *Fresno Bee*, 30 Sept. 1996, at B1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *further* for physical distances: Stage 4
 Current ratio in print \(*traveled farther* vs. *traveled further* in AmE\): 2.4:1

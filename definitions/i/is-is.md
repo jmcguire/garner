@@ -4,7 +4,7 @@ is is. As early as the 1980s, a doubled *is* \(called a reduplicative copula\) b
 
 For a detailed linguistic explanation of this sloppy phrasing—or, as the authors of the study chastely put it, its "teleological raison d'être"—see Michael Shapiro & Michael C. Haley, "The Reduplicative Copula *Is Is*," 77 *Am. Speech* 305–12 \(2002\). Although the authors trace this construction back only to the 1990s, it certainly existed in 1984: the minister who performed my wedding service in May of that year used it habitually \(I thought anomalously\).
 
-Language-Change Index
+## Language-Change Index
 
 *is is* for *is*: Stage 2
 

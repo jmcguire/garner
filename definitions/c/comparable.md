@@ -6,7 +6,7 @@ Occasionally *comparative* is used where *comparable* is called for—e.g.: "Thi
 
 For a common mispronunciation of *comparable*, see pronunciation \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 *comparative* misused for *comparable*: Stage 1
 

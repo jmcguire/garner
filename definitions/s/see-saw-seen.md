@@ -8,7 +8,7 @@ see > saw > seen. So inflected. Using the past tense for the past participle, an
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *seen* as a simple past for *saw*: Stage 1
 Current ratio in print \(*then I saw* vs. \**then I seen*\): 80:1

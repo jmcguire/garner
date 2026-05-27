@@ -10,7 +10,7 @@ bellwether \(= a trendsetter; someone or something that provides early indicatio
 
 Less common but no less whimsical is the misspelling *\*bellwhether*—e.g.: "Intel Corp. advanced to $22.08. The semiconductor *bellwhether* \[read *bellwether*\] was raised to ‘buy' from ‘neutral' by Bank of America, which said the stock was likely to climb significantly." "Market Movers," *Chicago Trib.*, 11 Apr. 2008, at C5.
 
-Language-Change Index
+## Language-Change Index
 
 1. *bellwether* misspelled *\*bellweather*: Stage 1
 Current ratio in print \(*bellwether* vs. \**bellweather*\): 50:1

@@ -4,7 +4,7 @@ vinaigrette \(= an oil-and-vinegar salad dressing\), a French loanword dating fr
 
 Similarly, the word is often mispronounced. It should be /vin-ә-**gret**/, not /vin-ә-gә-**ret**/. See pronunciation.
 
-Language-Change Index
+## Language-Change Index
 
 1. *vinaigrette* misspelled *\*vinegarette*: Stage 1
 Current ratio in print \(*vinaigrette* vs. \**vinegarette*\): 782:1

@@ -18,7 +18,7 @@ See dialect.
 
 *Plumb* is also a verb meaning "to measure depth, esp. of water." The confusion with *plum* occasionally persists with this sense as well—e.g.: "Her poetry is insightful in a way you might expect from someone who *plums the depths* \[read *plumbs the depths*\] of emotions and the mind." Paula Wachowiak, "For Masters of Verse, It's All Work and Word Play," *Buffalo News*, 6 Sept. 2000, at D1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*plumb assignment* for *plum assignment*: Stage 1
 Current ratio in print \(*plum assignment* vs. *\*plumb assignment*\): 31:1

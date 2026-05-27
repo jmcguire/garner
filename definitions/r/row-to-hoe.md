@@ -10,7 +10,7 @@ row to hoe is an agricultural or gardening metaphor meaning "a challenging and p
 
 See **lapsus linguae**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*road to hoe* for *row to hoe*: Stage 1
 Current ratio in print \(*row to hoe* vs. *\*road to hoe*\): 15:1

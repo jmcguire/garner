@@ -26,7 +26,7 @@ Yet as a casualism, *busted* has many possible meanings: \(1\) "arrested" <the c
 
 As might be expected with a jocular casualism, *busted* plays a role in some colorful idioms—e.g.: " ‘It takes our graduates six to eight months to land their first real job,' she said. ‘This happens if they *busted* their butts during art school.' " Karen Cotton, "So You Wanna Be an Artist?," *Wyo. Trib.-Eagle*, 4 Oct. 2002, at B1 \(quoting a perky interviewee\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*bursted* for *burst*: Stage 1
 Current ratio in print \(*burst* vs. \**bursted*\): 887:1

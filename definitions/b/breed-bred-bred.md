@@ -12,7 +12,7 @@ breed > bred > bred. So inflected. Yet the ill-bred form *\*breeded* \(common in
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*breeded* for past-tense *bred*: Stage 1
 Current ratio in print \(*bred* vs. *\*breeded*\): 2,126:1

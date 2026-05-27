@@ -24,7 +24,7 @@ This nonstandard variant also commonly appears in sense 2—e.g.:
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*slayed* for *slew*: Stage 1
 Current ratio in print \(*slew* vs. *\*slayed*\): 28:1

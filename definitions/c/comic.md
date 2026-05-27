@@ -10,7 +10,7 @@ comic; **comical; comedic**. These words are confusingly similar. *Comic* and *c
 
 Sometimes *comedic* is misused for *comical*—e.g.: "Their first attempts to navigate the creek were *comedic* \[read *comical*\]—an aquatic, slapstick skit of unintended rammings and beachings." Paul McHugh, "Canoeists Discover Bay Secrets," *S.F. Chron.*, 18 Dec. 1997, at D7.
 
-Language-Change Index
+## Language-Change Index
 
 *comedic* misused for *comical*: Stage 1
 

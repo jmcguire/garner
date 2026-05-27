@@ -8,7 +8,7 @@ crane, v.t., = \(1\) to lift as if by a machine made for the purpose; or \(2\) t
 
 This blunder obscures the metaphor in the phrase *to crane one's neck*, as the long-necked bird does when reaching out.
 
-Language-Change Index
+## Language-Change Index
 
 *\*crain* for *crane*: Stage 1
 

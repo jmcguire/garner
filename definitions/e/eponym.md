@@ -8,7 +8,7 @@ But today, *eponymous* is commonly \(and sloppily\) used with the derived name r
 
 The simpler constructions *lends its name to*, *is named for*, etc. are far clearer.
 
-Language-Change Index
+## Language-Change Index
 
 *eponym* for *namesake*: Stage 2
 

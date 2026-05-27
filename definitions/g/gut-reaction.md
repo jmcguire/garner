@@ -16,7 +16,7 @@ Occasionally, the redundant double bobble *\*guttural instinct* \(for *instinct*
 
 See malapropisms & double bobbles.
 
-Language-Change Index
+## Language-Change Index
 
 \**guttural reaction* for *gut reaction*: Stage 1
 

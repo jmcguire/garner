@@ -42,7 +42,7 @@ For the foreseeable future, many editors will continue to adjust sentences in th
 
 For just the opposite tendency—the intrusive *of*—see **of \(b\)**. Cf. **type of**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*couple things* for *couple of things*: Stage 2
 Current ratio in print \(*couple of things* vs. *\*couple things*\): 5:1

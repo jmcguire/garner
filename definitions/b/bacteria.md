@@ -18,7 +18,7 @@ Yet since the late 1800s, some writers have ignored the plural form and erroneou
 
 The singular usage shows no signs of gaining ground in frequency of use.
 
-Language-Change Index
+## Language-Change Index
 
 *bacteria* as a singular: Stage 2
 Current ratio in print \(*a bacterium was* vs. *\*a bacteria was*\): 5:1

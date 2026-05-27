@@ -10,7 +10,7 @@ Whatever its future may be, *\*impactful* is, for now, a word to be scorned. Amo
 
  - "Elise makes several short but *impactful* \[read *memorable*\] appearances as Laura, the production's assistant stage manager." Christine Dolen, "A ‘Godot' Parody at Thinking Cap Finds the Laughs in Waiting to Go On," *Miami Herald*, 29 Aug. 2015, Entertainment §.
 
-Language-Change Index
+## Language-Change Index
 
 *\*impactful* for *influential* or *powerful*: Stage 2
 

@@ -22,7 +22,7 @@ Remember the old saying: *Spring has sprung*. See irregular verbs.
 
 For a misuse of *sprang* for *sprained*, see **sprain**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *sprung* misused for simple past-tense *sprang*: Stage 4
 Current ratio in print \(*vessel sprang a leak* vs. *\*vessel sprung a leak*\): 1.6:1

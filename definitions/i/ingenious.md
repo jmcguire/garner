@@ -12,7 +12,7 @@ ingenious; **ingenuous**. These words are virtual antonyms, yet *ingenious* \(= 
 
  - "Obfuscating and *ingenuous* \[read *disingenuous*\] comments are often made by guests of all political and social persuasions, including Islamic spokespersons appearing on his show. He is indeed a ‘no-spin doctor' when he forthrightly cuts through the sand-in-your-eyes kind of bull appearing in Omar's opinion piece." Kenneth Yerington, "Hate Is Not as Rampant as Writer Claims It Is," *Iowa City Press-Citizen*, 3 Nov. 2002, at A9.
 
-Language-Change Index
+## Language-Change Index
 
 1. *ingenuous* misused for *ingenious*: Stage 1
 

@@ -20,7 +20,7 @@ Some writers erroneously treat *stride* as a weak verb and use the misbegotten f
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 1. *strode* as a past participle: Stage 5
 Current ratio in print \(*had strode* vs. *\*had stridden*\): 2.5:1

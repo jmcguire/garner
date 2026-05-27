@@ -8,7 +8,7 @@ doctoral. So spelled—not *\*doctorial*. E.g.:
 
 The pronunciation is /**dok**-tә-rәl/, not /dok-**tor**-әl/ or /dok-**tor**-ee-әl/.
 
-Language-Change Index
+## Language-Change Index
 
 *\*doctorial* for *doctoral*: Stage 1
 Current ratio in print \(*doctoral* vs. *\*doctorial*\): 743:1

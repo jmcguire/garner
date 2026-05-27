@@ -34,7 +34,7 @@ Clause-modifying *hopefully* remains a skunked term. You might well decide to av
 
 Even so, the word has been extremely successful worldwide. Today one hears it in British television programs with perhaps even more frequency than in American ones. And nobody wants to say *it is to be hoped that*—six words for one \(or six syllables for three\). Speakers of English like economical phrasing, and *hopefully* fills this need. Note, too, that once a usage reaches Stage 4, Stage 5 is sure to follow. Now, here's a first—a straight-faced use of the word in this very book: hopefully it won't bother you too much. But don't expect a repetition of that. Old biases die hard.
 
-Language-Change Index
+## Language-Change Index
 
 *hopefully* as a sentence adverb: Stage 4
 Current ratio in print \(*I hope it won't* vs. *Hopefully it won't*\): 7:1

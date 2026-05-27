@@ -10,7 +10,7 @@ sweep > swept > swept. So inflected. Yet the weak form *\*sweeped* has erroneous
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*sweeped* for *swept*: Stage 1
 Current ratio in print \(*swept* vs. *\*sweeped*\): 6,499:1

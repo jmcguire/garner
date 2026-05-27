@@ -8,7 +8,7 @@ heterogeneous; **\*heterogenous**. The first is the correct spelling of the term
 
 *\*Heterogenous* is also an obsolete medical term describing foreign tissue. For the antonyms, see **homogeneous**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*heterogenous* for *heterogeneous*: Stage 1
 Current ratio in print \(*heterogeneous* vs. *\*heterogenous*\): 33:1

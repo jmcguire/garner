@@ -6,7 +6,7 @@ circumstances.
 
 In 1926, H.W. Fowler wrote that the insistence on *in the circumstances* as the only right form is "puerile" \(*FMEU1* at 77\). In the mid-20th century, G.H. Vallins agreed: " ‘*Under* the circumstances' has established itself in English idiom; ‘*in* the circumstances' is merely a proud variant of those who remember their ‘grammar' not wisely but too well." G.H. Vallins, *Better English* 61–62 \(4th ed. 1957\). But Theodore M. Bernstein found a perhaps oversubtle differentiation between the two: "*In the circumstances* refers merely to existing conditions, and implies a continuing state of affairs . . . . *Under the circumstances* refers to conditions that impel or inhibit action, and implies a transient situation, long or short." Theodore M. Bernstein, *The Careful Writer* 101 \(1965\).
 
-Language-Change Index
+## Language-Change Index
 
 *under the circumstances*: Stage 5
 

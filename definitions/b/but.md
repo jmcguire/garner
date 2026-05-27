@@ -95,7 +95,7 @@ Today, however, the position is reversed, and *nobody but him would* predominate
 
 Even so, significant variability remains. You might conclude that the most prudent approach is to rewrite any sentence calling for the construction—as by writing *he alone knew* or *only he knew*. Some will view that suggestion as unrealistic because the construction is sometimes needed, and frequently in speech. Hence the best view is that conventional uses outlined in the second paragraph above are eminently defensible, and so is any use treating *but* as prepositional. And what of Fowler? To anyone who says that the rationale given here might make everybody but him happy, that's surely wrong: he'd be persuaded by the empirical approach here taken.
 
-Language-Change Index
+## Language-Change Index
 
 *No one but me was there*: Stage 5
 Current ratio in print \(*everybody but me was* vs. *everybody but I was*\): 9:1

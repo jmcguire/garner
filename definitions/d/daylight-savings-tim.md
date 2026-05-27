@@ -8,7 +8,7 @@ The rise of the plural form \(*daylight-savings time*\) appears to have resulted
 
 Regardless of whether you use the plural or the singular, you can prevent most miscues by hyphenating the phrasal adjective: *daylight-saving time* or *daylight-savings time*.
 
-Language-Change Index
+## Language-Change Index
 
 *daylight-savings time* for *daylight-saving time*: Stage 5
 Current ratio in print \(*daylight-saving time* vs. *daylight-savings time*\): 11:1

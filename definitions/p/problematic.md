@@ -8,7 +8,7 @@ It wasn't until two centuries later that *problem* came to be used in the sense 
 
 So is that trend troublesome? Not really. The word neatly fills a void in the language, and the meaning is intuitively recognizable. It ought to be considered standard.
 
-Language-Change Index
+## Language-Change Index
 
 *problematic* meaning "troublesome": Stage 5
 Current ratio in print \(*problematic* vs. *\*problematical*\): 39:1

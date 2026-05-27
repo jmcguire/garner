@@ -16,7 +16,7 @@ To complicate matters further, the verb *prophesy* has sometimes been incorrectl
 
  - "So we get Masters, by himself, *prophesizing* \[read *prophesying*\] doom from a desert or a hayfield." Jason Zengerle, "Talk Shop," *N.Y. Times Mag.*, 27 Mar. 2022, at 7, 10.
 
-Language-Change Index
+## Language-Change Index
 
 1. *prophecy* \(n.\) misspelled *prophesy*: Stage 3
 Current ratio in print \(*a prophecy* vs. *\*a prophesy*\): 34:1

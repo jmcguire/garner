@@ -4,7 +4,7 @@ seraph /**ser**-әf/, referring to a six-winged angel, has two plurals: a Hebrew
 
 The double plural *\*seraphims* is erroneous—e.g.: "Dolly Epstein, who says she has collected more than 100 angels since 1991, began collecting *seraphims* \[read *seraphim* or *seraphs*\] two years ago." Carmen Duarte, "Customers at Angelic Gift Shop Get Spiritual Lift with Purchases," *Ariz. Daily Star*, 9 Sept. 1998, at E6.
 
-Language-Change Index
+## Language-Change Index
 
 *\*seraphims* for *seraphim* or *seraphs*: Stage 2
 Current ratio in print \(*seraphim* vs. *seraphs* vs. *\*seraphims*\): 15:4:1

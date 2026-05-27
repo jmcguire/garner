@@ -8,7 +8,7 @@ effrontery.
 
  - "The novel carries with it the noble lesson that a premature verdict based on supposition is an *effrontery* \[read *affront*\] to justice if the dignity of even one person is abridged or disregarded." Bruce Simon, "Mob Action Has Tragic Aftermath," *Richmond Times-Dispatch*, 19 Nov. 1995, at G4.
 
-Language-Change Index
+## Language-Change Index
 
 *effrontery* misused for *affront*: Stage 1
 Current ratio in print \(*an affront to* vs. *\*an effrontery to*\): 344:1
@@ -23,7 +23,7 @@ Current ratio in print \(*an affront to* vs. *\*an effrontery to*\): 344:1
 
 The correct form *effrontery* derives from the French *effronté* \(lit., "shameless"\). The erroneous form *\*affrontery* has no real pedigree because it's a nonword: *OED2* called it an obsolete mistake for *effrontery*, and *W3* doesn't even record it. In fact, the error results from confusion with *affront*, which derives from the French *affronter* \(lit., "to confront" or "to strike on the head"\). See nonwords.
 
-Language-Change Index
+## Language-Change Index
 
 *\*affrontery* for *effrontery*: Stage 1
 Current ratio in print \(*effrontery* vs. *\*affrontery*\): 151:1

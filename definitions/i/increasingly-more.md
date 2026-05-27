@@ -6,7 +6,7 @@ The phrase *\*increasingly less* is a jarring oxymoron that would be better rend
 
 On its own, the adverb *increasingly*, which dates from the 1300s, is unobjectionable.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*increasingly more* for *more*: Stage 1
 

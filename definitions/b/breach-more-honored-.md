@@ -8,7 +8,7 @@ breach, more honored in the. Strictly speaking, this phrase refers to a rule or 
 
  - "The 1917 Constitution affirmed labor rights, and those rights, though *more honored in the breach than the observance* \[read *more often breached than observed*\], could be upheld by the state at the expense of capitalists." Colin Danby, "Firms in a Neoliberal Transition: The Case of Mexico 1990–1994," *J. Econ. Issues*, 1 Sept. 2002, at 581.
 
-Language-Change Index
+## Language-Change Index
 
 *more honored in the breach* in reference to an often-broken rule: Stage 4
 

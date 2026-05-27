@@ -22,7 +22,7 @@ Otherwise, the form should be avoided in favor of *media*—e.g.:
 
  - "The message of the Mona Lisa is transmitted through all three *mediums* \[read *media*\]." Sean Hall, *This Means This, This Means That: A User's Guide to Semiotics* 40 \(2d ed. 2012\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *media* as a mass noun: Stage 5
 Current ratio in print \(*The media is* vs. *The media are*\): 1.4:1

@@ -8,7 +8,7 @@ lament, v.t., should not be made intransitive by the addition of a prepositionâ€
 
  - "While Defenbaugh steadfastly defends the work of his task force, others, including conspiracy theorists in a number of books about the bombing, *lament over* \[delete *over*\] leads not followed." Max B. Baker, "America Remembers the OKC Bombing 20 Years Later," *Ft. Worth Star-Telegram*, 17 Apr. 2015, News Â§.
 
-Language-Change Index
+## Language-Change Index
 
 *lament* used intransitively <lamented over the loss> instead of transitively <lamented the loss>: Stage 1
 Current ratio in print \(*lamented the* vs. *\*lamented over the*\): 66:1

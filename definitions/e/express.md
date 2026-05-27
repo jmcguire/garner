@@ -12,7 +12,7 @@ express, adj.; **expressed**. Both words are antonyms of *implied*, but as diffe
 
 As a verb, *expressed* is a past-tense or past-participial form of the verb *express*—e.g.: "Not only did he say good things, but he also said the right things and *expressed* the right concerns." "Valvano's Toughest Challenge," *St. Louis Post-Dispatch*, 29 Jan. 1989, at F3.
 
-Language-Change Index
+## Language-Change Index
 
 *expressed* misused for *express*: Stage 1
 Current ratio in print \(*an express provision* vs. *\*an expressed provision*\): 146:1

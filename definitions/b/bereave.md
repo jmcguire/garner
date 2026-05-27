@@ -10,7 +10,7 @@ As Bill Bryson observes, to be *bereft of* something is not merely to lack it bu
 
  - "At the vegan restaurant Angelica Kitchen, in the East Village, there's a Reuben sandwich *bereft of* \[read *without*\] corned beef and Swiss cheese, which sort of makes you wonder why it doesn't just take a different name, like an Irving or a Bernard." Frank Bruni, "Not Missing the Meat \(Mostly\)," *N.Y. Times*, 15 Oct. 2008, at D10.
 
-Language-Change Index
+## Language-Change Index
 
 *bereft of* used without a sense of loss: Stage 3
 

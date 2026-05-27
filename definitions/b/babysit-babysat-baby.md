@@ -8,7 +8,7 @@ babysit > babysat > babysat. So inflected. The erroneous *\*babysitted* sometime
 
 Cf. **sit**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*babysitted* for *babysat*: Stage 1
 Current ratio in print \(*babysat* vs. *\*babysitted*\): 268:1

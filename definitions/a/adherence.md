@@ -10,7 +10,7 @@ Occasionally *adhesion* appears wrongly for *adherence*—e.g.:
 
  - "Some employers . . . are monitoring their staff's *adhesion* \[read *adherence*\] to the rule." Emma Connors, "Singapore PM Warns Infection Rate Could Rise," *Aus. Fin. Rev.*, 10 Feb. 2020, at 11.
 
-Language-Change Index
+## Language-Change Index
 
 *adhesion* misused for *adherence*: Stage 1 Current ratio in print \(*adherence to rules* vs. \**adhesion to rules*\): 359:1
 

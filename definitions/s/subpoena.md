@@ -12,7 +12,7 @@ Current ratio in print \(*subpoena* vs. *\*subpena*\): 147:1
 
 **C. Plural.** Although *subpoena* is a singular English noun dating from the 1400s, it was never a Latin noun. Rather, the English word *subpoena* derived from the Latin phrase *sub poena*, meaning "under penalty" or "under pain." The plural *subpoenas* appeared in English law as early as 1509 in the title of a statute "for Subpoenas and Privy Seals." That was the only plural until the early 1800s, when *\*subpoenae* first appeared—in a misquotation from Coke's *Institutes* \(Coke actually wrote *sub poena*\). So the false Latin plural *\*subpoenae* is a hypercorrection and, in fact, not a Latin word at all. But because the *-ae-* does show up in the correct past-tense verb form *subpoenaed*, the confusion may have been compounded.
 
-Language-Change Index
+## Language-Change Index
 
 *\*subpoenae* for *subpoenas*: Stage 1
 Current ratio in print \(*subpoenas* vs. *\*subpoenae*\): 278:1

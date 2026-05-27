@@ -10,7 +10,7 @@ minimum, n. The predominant plural is *minima*, but few aside from scientists us
 
 Cf. **maximum**. See plurals \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 *minimums* as a plural: Stage 5
 Current ratio in print \(*minima* vs. *minimums*\): 4:1

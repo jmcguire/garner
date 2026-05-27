@@ -8,7 +8,7 @@ regardless of whether. This is the idiomatic phrasing, not *\*regardless whether
 
 See **whether \(c\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*regardless whether* for *regardless of whether*: Stage 2
 Current ratio in print \(*regardless of whether* vs. *\*regardless whether*\): 48:1

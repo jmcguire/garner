@@ -8,7 +8,7 @@ bequeath = \(1\) to give \(an estate or effect\) to a person by will <she bequea
 
 The word is pronounced /bi-**kweeth**/, with a soft *th*.
 
-Language-Change Index
+## Language-Change Index
 
 *bequeath* for *present* or *give*: Stage 2
 

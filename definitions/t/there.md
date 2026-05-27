@@ -12,7 +12,7 @@ there for *they're* or *their* is an embarrassing confusion of homophones. It's 
 
 See **their**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *there* misused for *they're*: Stage 1
 

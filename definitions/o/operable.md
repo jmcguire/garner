@@ -6,7 +6,7 @@ operable; **operative**; **operational**. *Operable* is now commonly used in two
 
 *Operational* = engaged in operation; able to function; used in operation. E.g.: "The $69 million adult medium-security prison, which would be built on a 120-acre site, would employ more than 200 construction workers and have about 450 full-time employees once it becomes *operational*." Courtney Challos, "Town Sees Prisons as Freedom from Economic Woes," *Chicago Trib.*, 31 Mar. 1997, at N1. Sometimes, though, the word appears in phrases where it probably shouldn't. For example, the idea denoted by *operational costs* is more usually expressed as *operating costs*—e.g.: "But commissioners discussed two possible options that would bring in money for *operational* \[read *operating*\] costs." Angela Cortez, "Facilities' Upkeep a Concern," *Denver Post*, 1 Apr. 1997, at B2.
 
-Language-Change Index
+## Language-Change Index
 
 *\*operatable* for *operable*: Stage 1
 

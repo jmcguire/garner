@@ -18,7 +18,7 @@ Quite apart from that true error, the phrase invites condiment-inspired puns—e
 
  - "Cleanup hitters are judged much more by their run production than their on-base percentage, but Jeff Crawford could *pass mustard* \[read *pass muster*\] on either count." Chris Kennedy, "Crawford Igniting Bombers," *Republican* \(Springfield, Mass.\), 10 June 2008, at C2.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*past muster* for *pass muster*: Stage 1
 Current ratio in print \(*pass muster* vs. *\*past muster*\): 372:1

@@ -8,7 +8,7 @@ would have for *had*, in a conditional statement, is an example of a confused se
 
 *Would have* \[\+ p.pl.\] for *had* \[\+ p.pl.\] is especially common in the Southwest, probably from contamination by *could have* \[\+ p.pl.\]. See tenses \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*if I would have* for *if I had*: Stage 2
 Current ratio in print \(*if I had gone* vs. *\*if I would have gone*\): 23:1

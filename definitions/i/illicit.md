@@ -18,7 +18,7 @@ Second, and perhaps more surprisingly, the word is sometimes misused for *solici
 
 For more on the word, see **illegal**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *illicit* for *elicit*: Stage 1
 Current ratio in print \(*elicited* vs. *\*illicited*\): 6,602:1

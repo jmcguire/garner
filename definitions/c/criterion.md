@@ -18,7 +18,7 @@ But especially since 1950 or so, writers have sometimes wanted to make *criteria
 
 Cf. **media** & **phenomenon**. See plurals \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *criteria* as a false singular for *criterion*: Stage 2
 Current ratio in print \(*a criterion* vs. *\*a criteria*\): 16:1
@@ -32,7 +32,7 @@ Current ratio in print \(*criteria* vs. *\*criterions*\): 668:1
 
  - "State law lists several *criterion* \[read *criteria*\] for what defines residency." Stacie Oulton, "Kane Offers Residency Proof," *Denver Post*, 20 July 1996, at B2.
 
-Language-Change Index
+## Language-Change Index
 
 *criterion* as a false plural for *criteria*: Stage 1
 Current ratio in print \(*several criteria* vs. *\*several criterion*\): 165:1
@@ -51,7 +51,7 @@ Occasionally, writers who aren't cyclists confuse *criterium* with *criterion*â€
 
  - "My sole *criterium* \[read *criterion*\] was this: Did he make a difference?" Rick Ryan, "Wuerffel Whiffs on One Man's Heisman's Ballot," *Charleston Gaz.* \(W. Va.\), 14 Dec. 1996, at C5.
 
-Language-Change Index
+## Language-Change Index
 
 *criterium* misused for *criterion*: Stage 1
 

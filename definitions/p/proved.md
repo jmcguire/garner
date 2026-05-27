@@ -14,7 +14,7 @@ In AmE, *proven*, like *stricken*, is best used only as an adjective—e.g.:
 
 *Proven* has survived as a past participle in legal usage in two phrases: first, in the phrase *innocent until proven guilty*; second, in the verdict *Not proven*, a jury answer no longer widely used except in Scots law. As for *Not proven*, one writer has defined this verdict as meaning, "Not guilty, but don't do it again." William Roughead, *The Art of Murder* 131 \(1943\). See irregular verbs \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 *proven* as a past participle: Stage 4
 Current ratio in print \(*experience has proved* vs. *\*experience has proven*\): 2.4:1

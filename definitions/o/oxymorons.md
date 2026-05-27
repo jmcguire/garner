@@ -33,7 +33,7 @@ Today, *oxymora* looks pedantic—e.g.:
 
  - "Add this to your list of government *oxymora* \[read *oxymorons*\]: Priority Mail." Rick Brooks, "Priority Mail Fails Test of Time," *Times Union* \(Albany\), 30 May 2002, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 *oxymorons* as the plural for *oxymoron*: Stage 5
 Current ratio in print \(*oxymorons* vs. *oxymora*\): 2.5:1

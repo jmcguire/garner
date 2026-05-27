@@ -14,7 +14,7 @@ This error is akin to using *\*could care less* for *couldn't care less*. See **
 
 Sometimes, though, the writer really means *underestimate*—e.g.: "A little subtlety would have greatly enhanced ‘Hamburger Hill's' potential for tragic irony, but the film makers are rigorously dedicated to the proposition that it's impossible to *underestimate* the intelligence of moviegoers." Kevin Thomas, " ‘Hamburger Hill': On the Lean Side," *L.A. Times*, 28 Aug. 1987, § 6, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*impossible to underestimate* for *impossible to overestimate*: Stage 2
 Current ratio in print \(*impossible to overestimate* vs. *\*impossible to underestimate*\): 5:1

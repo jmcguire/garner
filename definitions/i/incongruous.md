@@ -8,7 +8,7 @@ incongruous \(= not having corresponding or appropriate characteristics; out of 
 
 The word is preferably accented on the second rather than the third syllable: /in-**kong**-groo-әs/. For the distinction between *congruous* and *congruent*, see **congruent**.
 
-Language-Change Index
+## Language-Change Index
 
 *incongruous* misspelled *\*incongrous*: Stage 1
 Current ratio in print \(*incongruous* vs. *\*incongrous*\): 1,168:1

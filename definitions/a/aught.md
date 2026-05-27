@@ -14,13 +14,13 @@ aught.
 
 These uses, to the American ear, sound either self-consciously old-fashioned or very British; to the British they just sound old-fashioned. The American way of saying "2006" is not "twenty aught six" but "twenty oh six" or "two thousand six." For more on *nought*, see **naught**.
 
-Language-Change Index
+## Language-Change Index
 
 *aught* in the sense of *nought*: Stage 5
 
 **C. Misused for *ought*.** Occasionally, *aught* displaces *ought* \(= should\)—e.g.: "Maradona and Cantona *aught* \[read *ought*\] to show humility for their failure to live up to superstardom." Rob Hughes, "Maradona's Union," *Int'l Herald Trib.*, 20 Sept. 1995, at 21. See **ought**. Cf. **naught**.
 
-Language-Change Index
+## Language-Change Index
 
 *aught* misused for *ought*: Stage 1
 

@@ -10,7 +10,7 @@ Still, an editor could make a good case for dropping *complexioned* altogether i
 
 But the word *\*complected*—an irregularly formed word, since the noun is *complexion* and not *complection*—still occasionally appears. It should be edited—e.g.: "What is it about this rosy-*complected* \[read *-complexioned* or, better, *-faced*\] man that sends CEOs into rages?" Julie Schmit, "Lerach: Silicon Valley's Nightmare," *USA Today*, 23 Oct. 1996, at B1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*complected* for *complexioned*: Stage 2
 Current ratio in print \(*complexioned* vs. *\*complected*\): 5:1

@@ -12,7 +12,7 @@ fare.
 
 **B. As a Verb.** See **fair \(a\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*food fare* for *fare*: Stage 1
 

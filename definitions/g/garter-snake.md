@@ -8,7 +8,7 @@ garter snake; **\*garden snake**. A *garter snake* is a nonvenomous North Americ
 
  - "In an extraordinary passage in which the boy describes catching and then killing a *garden* \[read *garter*\] snake, he seems to encapsulate all the contradictions of human behavior." Edith Milton, "A Tumult of Experience Through a Child's Eyes," *Boston Globe*, 29 Nov. 1998, at F3.
 
-Language-Change Index
+## Language-Change Index
 
 *\*garden snake* for *garter snake*: Stage 2
 Current ratio in print \(*garter snake* vs. *\*garden snake*\): 5:1

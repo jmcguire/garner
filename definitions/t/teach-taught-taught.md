@@ -10,7 +10,7 @@ teach > taught > taught. So inflected. *\*Teached* is a form that isn't taught a
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*teached* for *taught*: Stage 1
 Current ratio in print \(*taught me* vs. *\*teached me*\): 1,461:1

@@ -16,7 +16,7 @@ Current ratio in print \(*idyll* vs. *\*idyl*\): 11:1
 
 To say that the governor of New York has an *idyllic* \(= pastoral, countrified\) life is preposterous. In fact, the meaning here seems to be "suggestive of a storybook; fairy-tale": "It's hard to say what role, if any, Mr. Spitzer's escalating disappointment in Albany played in his extraordinarily risky, self-destructive behavior, and it remains unclear when his once seemingly *idyllic* \[read *ideal*?\] life went so awry." Danny Hakim & Michael Powell, "A Leader Recalled as Focused but Unable to Bend," *N.Y. Times*, 23 Mar. 2008, at 18.
 
-Language-Change Index
+## Language-Change Index
 
 *idyllic* misused for *ideal*: Stage 3
 

@@ -16,7 +16,7 @@ And because *exactly the same* is a phrase of pinpoint precision, to qualify the
 
 For a similar example involving *exact*, see **just exactly**.
 
-Language-Change Index
+## Language-Change Index
 
 *the exact same* for *exactly the same*: Stage 2
 Current ratio in print \(*exactly the same* vs. *the exact same*\): 3:1

@@ -24,7 +24,7 @@ That pronunciation may explain the phonetic misspelling that occurs surprisingly
 
  - " ‘The limitations aren't going to be the dollars *per say* \[read *per se*\] as to what we can pay a coach.' " Jeff Shelman, "Questions and Answers," *Star Trib.* \(Minneapolis\), 8 Mar. 2007, at C7 \(quoting Joel Maturi, University of Minnesota athletic director\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*per say* for *per se*: Stage 1
 Current ratio in print \(*per se* vs. *\*per say*\): 197:1

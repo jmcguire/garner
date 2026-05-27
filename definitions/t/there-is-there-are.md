@@ -32,7 +32,7 @@ Constructions with *seem to be* and *appear to be* follow the same model: the nu
 
 Especially when followed by a negative, *there* has in many minds come to represent a single situation. It therefore often appears, though wrongly, with a singular verb—e.g.: " ‘There *wasn't* \[read *weren't*\] any other witnesses.' " Rebecca Thatcher, "Girl's Report of Abduction, Sexual Assault Investigated," *Austin Am.-Statesman*, 9 Dec. 1994, at B1 \(quoting the Austin, Texas, police chief\). The person who says "there wasn't . . . \[plural\]" here would never say "they was." See expletives & inversion.
 
-Language-Change Index
+## Language-Change Index
 
 1. *there is* \(or *there's*\) with a plural subject <there's three things>: Stage 2
 Current ratio in print \(*there are three things* vs. *\*there's three things*\): 42:1

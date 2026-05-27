@@ -14,7 +14,7 @@ In each of those sentences, a more conservative writer \(or, in the final exampl
 
 Here the cant phrase is inappropriately used in reference to early-19th-century historical figures: "In the end, the difference was that Jefferson *identified with* Virginia while Marshall *identified with* the United States." J. Wade Gilley, "University's Namesake Was Great for Many Reasons," *Charleston Gaz.* \(W. Va.\), 3 Feb. 1997, at A5. Neither Jefferson nor Marshall would have identified with writing like that. Cf. **relate to**.
 
-Language-Change Index
+## Language-Change Index
 
 *identify with* \(as in *I could identify with the main character*\): Stage 4
 

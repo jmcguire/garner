@@ -10,7 +10,7 @@ oxidize, oddly, forms the noun *oxidation*, not *\*oxidization*. But some writer
 
 Meanwhile, *\*oxidate* is a needless variant of *oxidize*.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*oxidization* for *oxidation*: Stage 1
 Current ratio in print \(*oxidation* vs. *\*oxidization*\): 155:1

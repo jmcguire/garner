@@ -6,7 +6,7 @@ escapee \(= someone who escapes\) should more logically be *escaper* or *escapis
 
 One writer rather fatalistically defines *escapee* as "one who has been caught after escaping, or while preparing to escape." Paul Tempest, *Lag's Lexicon* 75 \(1950\). Perhaps that is how a *lag* \(= a convict sentenced to penal servitude\) understands the term. But most writers and speakers would find nothing amiss in saying, "The *escapees* were never caught," and would object only to their having not been caught.
 
-Language-Change Index
+## Language-Change Index
 
 *escapee* for "one who escapes": Stage 5
 Current ratio in print \(*escapee* vs. *escaper*\): 10:1

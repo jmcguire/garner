@@ -8,7 +8,7 @@ tack; **tact**. In sailing, a *tack* is a change in course made by turning the v
 
  - "He tries to explain, telling her it's the U.S. Open venue. She mistakenly thinks he's playing in the Open. After a deep breath, he tries a different *tact* \[read *tack*\]." Rich Cimini, "Getting Tee Time on Bethpage's Black Doesn't Happen Overnight," *Daily News* \(N.Y.\), 19 May 2002, at 98.
 
-Language-Change Index
+## Language-Change Index
 
 *tact* misused for *tack*: Stage 1
 Current ratio in print \(*different tack* vs. *\*different tact*\): 17:1

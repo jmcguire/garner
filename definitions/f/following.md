@@ -10,7 +10,7 @@ But even when *following* doesn't begin the sentence, if it means "after" it can
 
  - "\[Elon\] Musk also looks down on holidays, having nearly died from malaria *following* \[read *after*\] a trip to Brazil and South Africa in 2000." Jeff Dyer & Hal Gregersen, "Decoding Tesla's Secret Formula," *Forbes*, 7 Sept. 2015, at 40.
 
-Language-Change Index
+## Language-Change Index
 
 *following* for *after*: Stage 4
 

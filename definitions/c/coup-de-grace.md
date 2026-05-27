@@ -10,7 +10,7 @@ coup de grâce /koo dә **grahs**/ means "a blow of mercy," a compassionate act 
 
 Even the sense is sometimes mangled. To make *coup de grâce* cruel, bloody, and painful is to torture the phrase—e.g.: "I saw a fox being torn to pieces by a pack of hounds. It was the final act, *the coup de gras* \[delete erroneous phrase\] in what we call a country sport." Michael Herd, "This Land of No Hope and Gory Pursuit," *Evening Standard*, 30 Dec. 1993, at 46.
 
-Language-Change Index
+## Language-Change Index
 
 1. *coup de grâce* mispronounced /koo dә **grah**/: Stage 2
 

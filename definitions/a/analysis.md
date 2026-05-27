@@ -10,7 +10,7 @@ analysis; **\*analyzation**. The first, of course, is the standard word. *\*Anal
 
 For the similar nonword *\*paralyzation*, see **paralysis**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*analyzation* for *analysis*: Stage 1
 Current ratio in print \(*analysis* vs. \**analyzation*\): 16,572:1

@@ -4,7 +4,7 @@ heinous /**hay**-nәs/—rhyming with "pain us," not "clean us"—is one of our 
 
 For the misuse of *onerous* for *heinous*, see **onerous**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *heinous* mispronounced /**hee**-nәs/ or /**hee**-nee-әs/: Stage 4
 

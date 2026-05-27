@@ -12,7 +12,7 @@ Writers fall into the error because they more commonly see the adjectival partic
 
 *Underlay* is properly the past tense of *underlie*—e.g.: "Atkins gets the doggedness, the country-boy simplicity that *underlay* Dunne's unquestioning devotion to duty, as well as the fey quality of his madness." Marianne Evett, "Irishman's Story a Poignant Tragedy," *Plain Dealer* \(Cleveland\), 11 May 1997, Arts §, at 21. But the word is sometimes used wrongly for *underlie*—e.g.: "As the ground thaws in the spring, the moisture is kept from draining downward by the *underlaying* \[read *underlying*\] ice." "Beleaguered Vermont Endures Rite of Spring," *Providence J.-Bull.*, 6 Apr. 1997, at B2. As with the root verbs *lie* and *lay*, errors with the past tense and past participle are myriad—e.g.: "Under such circumstances, it was almost a natural solution, and the possibility had *underlied* \[read *underlay*\] everyone's thoughts for some time." Kojo Suzuki, *Paradise* 122 \(Tyran Grillo trans., 1st Am. ed. 2006\). See **lie \(a\), \(d\)**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *underlie* misspelled *\*underly*: Stage 1
 Current ratio in print \(*underlie the* vs. *\*underly the*\): 77:1

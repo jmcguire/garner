@@ -14,7 +14,7 @@ The noun corresponding to *perspicacious* is *perspicacity* /pәr-spi-**kas**-ә
 
 Worse yet, through word-swapping people have begun to confuse *perspicacity* with *pertinacity* \(= unyielding persistence, obstinacy\)—e.g.: "It is still possible to beat the bogey of passenger airlines undercutting cargo rates; all it takes is good old persistence and *perspicacity* \[read *pertinacity*\] in finding the right product mix." Brian Johnson-Tomas, "Look to Charters for Competitive Edge," *Air Cargo World*, 1 Mar. 1994, at 17. On 31 August 1997, the day Princess Diana died after a car crash in Paris while being pursued by paparazzi, one television commentator referred to the "dogged perspicacity" of the photographers who hound celebrities. That's a malapropism: he certainly didn't mean to praise those photographers for being intelligent.
 
-Language-Change Index
+## Language-Change Index
 
 1. *perspicuity* for *perspicacity*: Stage 1
 

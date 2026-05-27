@@ -4,7 +4,7 @@ questionnaire; **\*questionary**. *Questionnaire*, the standard term, is occasio
 
 *\*Questionary* is a needless variant.
 
-Language-Change Index
+## Language-Change Index
 
 *questionnaire* misspelled *\*questionaire*: Stage 1
 Current ratio in print \(*questionnaire* vs. \**questionaire*\): 1,202:1

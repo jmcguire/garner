@@ -12,7 +12,7 @@ protuberance \(= something that sticks out; a knob or bump\), dating in English 
 
 As you might gather from those instances, *protuberance* is a formal word often used in polite or mock-polite discussions of awkward subjects.
 
-Language-Change Index
+## Language-Change Index
 
 *protuberance* misspelled and mispronounced \**protruberance*: Stage 1
 Current ratio in print \(*protuberance* vs. \**protruberance*\): 96:1

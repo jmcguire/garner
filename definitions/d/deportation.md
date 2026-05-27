@@ -4,7 +4,7 @@ deportation; **deportment**. Both derive ultimately from L. *deportare* \(= to c
 
 Yet *deportment* is sometimes misused for *deportation*—e.g.: "Thurman supported measures that would . . . \[m\]ake it easier to deport criminal aliens after they serve their sentences and expand the number of crimes for which aliens risk *deportment* \[read *deportation*\]." Jim Ross, "Thurman Kept Contract with Her Constituents," *St. Petersburg Times* \(Fla.\), 10 Apr. 1995, Hernando Times §, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 *deportment* misused for *deportation*: Stage 1
 

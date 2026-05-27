@@ -20,7 +20,7 @@ The same problem afflicts the third-person pronouns—e.g.:
 
 As all the parenthetical revisions suggest, the most natural solution is to open the clause with *like* and keep the subject and verb together \(*Like me, he agrees*\). The awkwardness in the original wordings results from the odd pairing of a nominative and an objective pronoun in what looks like a parallel construction \(*He, like me, agrees*\). See pronouns \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 Prepositional *like* introducing nominative pronoun: Stage 1
 Current ratio in print \(*like you and me* vs. \**like you and I*\): 3:1
@@ -49,7 +49,7 @@ This relatively simple precept is generally observed in writing, but has been in
 
 Although this use of *like* can no longer be considered an outright solecism, as it once was, it hasn't moved far from the borderline of acceptability. It is acceptable casual English; it isn't yet in the category of unimpeachable English.
 
-Language-Change Index
+## Language-Change Index
 
 1. *like* as a conjunction: Stage 4
 Current ratio in print \(*as they do* vs. *like they do*\): 9:1
@@ -59,7 +59,7 @@ Current ratio in print \(*acts as if he* vs. *acts like he*\): 1:1.3
 
 **C. *As* for *like*.** This is a form of hypercorrection—trying so hard to avoid error that you end up falling into an opposite error. Ernest Gowers saw the problem: "A fashion seems to be growing, even among some good writers, to prefer *as* to *like* not only, rightly, as a conjunction, but also, ill-advisedly, as a prepositional adjective" \(*FMEU2* at 336\). E.g.: "*As* \[read *Like*\] most people, I have been fortunate to have many mentors in life." John B. Simon, "Seymour F. Simon," *CBA Record*, Oct. 1993, at 14. Cf. **in common with**.
 
-Language-Change Index
+## Language-Change Index
 
 *as* misused for the preposition *like* <as you, I agree with that>: Stage 2
 
@@ -89,7 +89,7 @@ One is surprised only by the keenness of her first three words—that it sounds 
 
 Since the 1980s, *be like* \(the quotative *like*\) has also been a low casualism equivalent to *said* in relating a conversation, especially among juveniles—e.g.: "And I'm like, ‘Yes, I do.' But he's like, ‘No, you don't.' And so I'm like, ‘If you're just going to contradict me, then . . . .' " In teenagers, this usage is all but ubiquitous. In adults, it might be thought to show arrested development. Cf. be-verbs \(c\) & **go \(b\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *like* as a spoken space-filler <I was, like, ready an hour ago>: Stage 2
 

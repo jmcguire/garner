@@ -8,7 +8,7 @@ knave \(= a rogue\) is sometimes, through the most spectacular word-swapping, co
 
  - "Many institutions chipped in with money and advice—including English Heritage, the diocese, and the Churches Conservation Trust, a charity funded by the state and the Church Commissioners that looks after churches put to other uses \(one has a swimming pool in the *knave* \[read *nave*\]\)." "Saving Churches for Their History—Not Religion," *Guardian*, 3 July 2010, at 29.
 
-Language-Change Index
+## Language-Change Index
 
 *knave* misused for *nave*: Stage 1
 

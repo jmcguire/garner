@@ -32,7 +32,7 @@ Moreover, *revenge* can \(and usually does\) function as a noun, whereas *avenge
 
 **B. *Avenge* for *get revenge*.** Although the *OED* supports the notion that *avenge* may also mean "to take vengeance on \(a wrongdoer\)," this sense is labeled obsolete and the few examples are from the mid-1600s. Today this sense is fairly rare and not at all idiomatic—e.g.: "Not only did they *avenge* \[read *get revenge on*\] the schoolyard bullies and nasty teachers, but they're also famous for it, because they got their faces all over the news." Jack Levin & James Alan Fox, "Making Celebrities of Serial Killers Elevates Threat," *USA Today*, 23 Oct. 2002, at A13.
 
-Language-Change Index
+## Language-Change Index
 
 *avenge* in the sense "to get revenge on": Stage 2
 Current ratio in print \(*avenge his* vs. *\*avenge him*\): 3:1

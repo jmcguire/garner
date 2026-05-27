@@ -12,7 +12,7 @@ These uses of the word would be perfectly acceptable if *impact* were performing
 
 Interestingly, *impact* as a verb might have arisen partly in response to widespread diffidence about the spelling of *affect*. The verb use of *impact* skyrocketed after 1980. See **affect**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *impact* as a transitive verb <this could impact our decision>: Stage 4
 Current ratio in print \(*might affect the* vs. *\*might impact the*\): 7:1

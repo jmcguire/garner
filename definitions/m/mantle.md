@@ -10,7 +10,7 @@ The two are subject to word-swapping, each sometimes being misused for the other
 
  - "That's where he hopes to get that intercepted pass that will finally go on his *mantle* \[read *mantel*\]." Jonathan Jones, "Undrafted Rookie Dean Marlowe Trying to Latch on with Carolina Panthers," *Charlotte Observer*, 30 Aug. 2015, Sports §.
 
-Language-Change Index
+## Language-Change Index
 
 1. *mantle* misused for *mantel*: Stage 1
 Current ratio in print \(*clock on the mantel* vs. \**clock on the mantle*\): 5:1

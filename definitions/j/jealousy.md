@@ -4,7 +4,7 @@ jealousy; **envy**. Careful users of the language tend to distinguish between th
 
 Admittedly, many people apply *jealous* and *jealousy* to situations in which *envious* and *envy* might fit better. These uses might appropriately be considered casualisms as opposed to errors. They're well enough established that we have phrases such as *professional jealousy* \(where *professional envy* isn't quite a plausible choice\)—e.g.: "Much of this criticism was fuelled by the *professional jealousy* of less talented colleagues who resented Grant's success." Neil McKay, "Reluctant Soldier, Failure in Civilian Life, General Who Led Union to Victory," *Belfast News Letter*, 11 Apr. 2022, at 10. In that sentence, *envy* might replace *professional jealousy*, though perhaps with a loss of force.
 
-Language-Change Index
+## Language-Change Index
 
 *jealousy* for *envy* \(of things, not love interests\): Stage 3
 

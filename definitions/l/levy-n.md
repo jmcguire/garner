@@ -6,7 +6,7 @@ levy, n.; **levee**. *Levy* may act as a noun in two senses: \(1\) "the impositi
 
 *Levee* is fairly often misspelled *levy*—e.g.: "The *levy* \[read *levee*\] broke about five blocks away, split like a cheap pair of pants and turned an industrial canal into a raging wall of water." Scott Ostler, "Football in New Orleans," *S.F. Chron.*, 3 Dec. 2006, at C1.
 
-Language-Change Index
+## Language-Change Index
 
 *levy* misused for *levee*: Stage 1
 

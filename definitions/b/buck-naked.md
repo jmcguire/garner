@@ -16,7 +16,7 @@ The form *buck naked* has traditionally been much more common in edited publicat
 
 Outside edited publications, though, the more graphic *\*butt naked* has outranged the standard phrase in popular usage. As in the title of the last-cited example, *butt naked* is more fundamentally evocative.
 
-Language-Change Index
+## Language-Change Index
 
 *\*butt naked* for *buck naked*: Stage 4
 Current ratio in print \(*buck naked* vs. *\*butt naked*\): 1.6:1

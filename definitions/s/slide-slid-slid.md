@@ -12,7 +12,7 @@ The past-tense form *\*slided* is standard only in the AmE compound *slip-slided
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*slided* for *slid*: Stage 1
 Current ratio in print \(*had slid* vs. *\*had slided*\): 181:1

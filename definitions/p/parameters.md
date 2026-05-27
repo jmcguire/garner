@@ -14,7 +14,7 @@ Rarely is the word used in the singular, but it does occur: "How many corporatio
 
 **B. And *perimeter*.** Sometimes *perimeter*, the meaning of which has influenced the senses of *parameter*, is used ostensibly so that the writer can sidestep any criticisms for the use of *parameter*. Although this usage makes literal sense, a clearer expression is available—e.g.: "Some of the nation's foremost experts in medicine, law and politics will discuss the 25th Amendment to the U.S. Constitution, which *sets perimeters for* \[read *establishes procedures in the event of*\] presidential disability and \[determines\] when the president must transfer power to the vice president." "Wake Forest Forum Features Address by President Ford," *News & Record* \(Greensboro\), 10 Nov. 1995, at B2. And in any event, *perimeter* is best left to physical senses <the fort's perimeter>.
 
-Language-Change Index
+## Language-Change Index
 
 1. *parameters* for the idea of limits, guidelines, or characteristics: Stage 4
 

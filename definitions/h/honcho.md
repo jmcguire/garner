@@ -12,7 +12,7 @@ Since the 1960s, journalists have been using the word as a verb, the effect bein
 
 As in the last example quoted, this verbal use is so vague that one can claim to have "honchoed" without ever being accused of claiming too much credit. See functional shift \(d\).
 
-Language-Change Index
+## Language-Change Index
 
 *honcho* as a verb: Stage 2
 

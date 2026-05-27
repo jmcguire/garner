@@ -10,7 +10,7 @@ Since a *knot* is a measure of speed and not distance, a redundancy results if y
 
  - "Ships must negotiate 12 sharp turns in waters that flow anywhere from 3 to 7 *knots per hour* \[read *knots*\]." Louis Meixler, "Oil Tankers Pose Risk on Bosporus," *L.A. Times*, 1 July 2001, at A8.
 
-Language-Change Index
+## Language-Change Index
 
 *\*knots per hour* for *knots*: Stage 2
 

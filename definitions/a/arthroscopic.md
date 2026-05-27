@@ -8,7 +8,7 @@ arthroscopic; **orthoscopic**. *Arthroscopic* \(= of, relating to, or involving 
 
 Just to confuse matters, though, *orthoscopic* is in fact a word that means "rendering a proportionate image" or "giving a flat, undistorted image" <modern TVs give an orthoscopic view>.
 
-Language-Change Index
+## Language-Change Index
 
 *orthoscopic* misused for *arthroscopic*: Stage 1
 Current ratio in print \(*arthroscopic surgery* vs. *\*orthoscopic surgery*\): 91:1

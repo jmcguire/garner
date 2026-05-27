@@ -42,7 +42,7 @@ In print, the standard english expression is in less danger today than it was in
 
 In a 2021 poll taken at a Cosmos Club event in Washington, D.C., 100% of those voting considered \**between you and I* unacceptable.
 
-Language-Change Index
+## Language-Change Index
 
 *\*between you and I* for *between you and me*: Stage 3
 Current ratio in print \(*between you and me* vs. *\*between you and I*\): 16:1
@@ -61,7 +61,7 @@ When you intend to refer to a range of possibilities from a low point to a high 
 
  - *"Between 500 to 1,000* \[read *Between 500 and 1,000*\] students a year are served by the district's Homeless Education Program." Richard Obert, "Homeless to Hopeful," *Ariz. Republic*, 11 Sept. 2015, at C1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *between* \[date 1\] *and* \[date 2\] for *from* \[date 1\] *to* \[date 2\]: Stage 2
 
@@ -89,7 +89,7 @@ Current ratio in print \(*choose between him and X* vs. \**choose between him or
 
  - "The bells were traditionally rung at 6 a.m., noon and 6 p.m. in three groups of three chimes with a pause *in between each group* \[read *in between groups*\], followed by nine consecutive strokes." Marilyn Salzl Brinkman, "Bells Will Toll for St. Joseph Again," *St. Cloud Times* \(Minn.\), 14 June 2008, at C5.
 
-Language-Change Index
+## Language-Change Index
 
 *\*between each period* for *between periods*: Stage 2
 Current ratio in print \(*between periods* vs. *\*between each period*\): 78:1

@@ -8,7 +8,7 @@ consistency; **\*consistence**. The former has been standard since about 1800, b
 
 Cf. **inconsistency**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*consistence* for *consistency*: Stage 1
 Current ratio in print \(*consistency* vs. *\*consistence*\): 74:1

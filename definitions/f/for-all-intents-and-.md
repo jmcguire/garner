@@ -18,7 +18,7 @@ Because some people mishear the phrase, the mondegreen *\*for all intensive purp
 
 See malapropisms.
 
-Language-Change Index
+## Language-Change Index
 
 *\*for all intensive purposes* for *for all intents and purposes*: Stage 1
 Current ratio in print \(*all intents and purposes* vs. *\*all intensive purposes*\): 211:1

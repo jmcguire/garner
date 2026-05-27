@@ -20,7 +20,7 @@ The misspellings *\*opposum* and *\*oppossum* have arisen doubtless from the inf
 
 Because *opossum*, as noted at the outset of this entry, begins with an unaccented schwa sound, the word takes *an*—hence *an opossum*, but *a possum*.
 
-Language-Change Index
+## Language-Change Index
 
 1. *possum* for *opossum*: Stage 5
 Current ratio in print \(*possums* vs. *opossums*\): 1.3:1

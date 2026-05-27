@@ -32,7 +32,7 @@ And here it's a preposition \(a dangler, to be exact):
 
  - "*Based on* a survey of manufacturers' and retailers' orders for shrink-wrapped gift paper rolls, Appert estimates that overall Christmas season retail sales will be relatively flat." Jeffrey Hirsch, "It's Wrapping Up to Be a Poor Season for Gift Paper Services," *L.A. Times*, 22 Dec. 2001, at C1. \[A suggested revision: *A survey . . . led Appert to estimate . . . .*\]
 
-Language-Change Index
+## Language-Change Index
 
 *based on* used adverbially in place of *because* or *because of*: Stage 4
 

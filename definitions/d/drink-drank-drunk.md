@@ -10,7 +10,7 @@ drink > drank > drunk. So inflected. The past participle surprises some people <
 
 See irregular verbs & dialect.
 
-Language-Change Index
+## Language-Change Index
 
 1. *drank* as past participle of *drink*: Stage 2
 Current ratio in print \(*has drunk* vs. *\*has drank*\): 12:1

@@ -14,7 +14,7 @@ The correct spelling can be remembered easily with either of two mnemonic device
 
 The preferred pronunciation today is /sak-ri-**lij**-әs/, which has displaced /sak-ri-**lee**-jәs/. See spelling \(a\).
 
-Language-Change Index
+## Language-Change Index
 
 *sacrilegious* misspelled *\*sacreligious*: Stage 1
 Current ratio in print \(*sacrilegious* vs. \**sacreligious*\): 175:1

@@ -8,7 +8,7 @@
 
 But occasionally *15 seconds* is more literal and appropriate than the original witticism—e.g.: "Between innings, fans were featured on the JumboTron. . . . \[E\]veryone was getting face time. Well, not exactly face. One teenage boy was ready for his *15 seconds of fame* and mooned the in-house camera, his cheeky smile splattered above the scoreboard." Troy E. Renck, "I'm Just Moonstruck by It All," *Denver Post*, 20 Apr. 2008, at CC16.
 
-Language-Change Index
+## Language-Change Index
 
 *\*15 seconds of fame* for *15 minutes of fame*: Stage 1
 Current ratio in print \(*15 minutes of fame* vs. *\*15 seconds of fame*\): 15:1

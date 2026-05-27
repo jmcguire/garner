@@ -22,7 +22,7 @@ Perhaps because the pronunciations are so close, *pneumonic* occasionally displa
 
 An equally strange error is confusing *pneumonic* and *pneumatic* \(= of, relating to, or involving gas, esp. air pressure\)—e.g.: "They purchased casters with eight large *pneumonic* \[read *pneumatic*\] tires. Meyer said the air-filled tires did the trick and made Santa's ride better." Karla Breister, "Club Lends Santa a Hand," *Reporter* \(Fond du Lac, Wis.\), 31 Dec. 2006, at C3.
 
-Language-Change Index
+## Language-Change Index
 
 1. *pneumonic* misused for *mnemonic*: Stage 1
 Current ratio in print \(*mnemonic device* vs. *\*pneumonic device*\): 67:1

@@ -12,7 +12,7 @@ See demonyms.
 
 *Afghan* is also \(1\) an alternative term for the Pashto language, \(2\) a short form of *Afghan hound*, and \(3\) \(not capitalized\) a crocheted or knitted blanket or shawl.
 
-Language-Change Index
+## Language-Change Index
 
 *Afghani* misused for *Afghan*: Stage 2
 

@@ -10,7 +10,7 @@ presently is ambiguous. In Shakespeare's day, it meant "immediately." Soon its m
 
 Cf. **momentarily**. See also **at the present time**.
 
-Language-Change Index
+## Language-Change Index
 
 *presently* for *now* or *currently*: Stage 4
 

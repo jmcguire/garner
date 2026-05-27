@@ -14,7 +14,7 @@ It has long been regarded as unidiomatic to use *bestir* as an ordinary transiti
 
  - " ‘Dr. Arbuthnot, the cliché expert,' created in the 1930s by *The New Yorker*'s Frank Sullivan, would have had a field day with the way red meat is racing through the political commentariat deploring anybody else's severe criticism that *bestirs* \[read *stirs up* or *excites*\] partisan crowds." William Safire, "Hot's Not Cool," *N.Y. Times*, 21 Sept. 2008, Mag. §, at 38.
 
-Language-Change Index
+## Language-Change Index
 
 *bestir* used as a transitive verb: Stage 1
 Current ratio in print \(*stirs the* vs. *\*bestirs the*\): 304:1

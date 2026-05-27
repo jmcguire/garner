@@ -8,7 +8,7 @@ divorcée; **divorcé**. The usual word—*divorcée*—properly refers only to 
 
 Both words are pronounced /di-vor-**say**/ or /-**see**/.
 
-Language-Change Index
+## Language-Change Index
 
 *divorcée* misused for *divorcé*: Stage 2
 

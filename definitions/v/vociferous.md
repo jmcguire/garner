@@ -18,7 +18,7 @@ The opposite error is somewhat less common—e.g.:
 
  - "Ironically, despite Olson's *voracious* \[read *vociferous*\] opposition to federal special prosecutors, one of his oldest, best friends is Kenneth Starr, the Clinton special prosecutor." Chuck Goudie, "Bush Attorney Held Keys to Operation Greylord," *Daily Herald* \(Chicago\), 15 Dec. 2000, at 10.
 
-Language-Change Index
+## Language-Change Index
 
 1. *vociferous* misused for *voracious*: Stage 1
 Current ratio in print \(*voracious reader* vs. *\*vociferous reader*\): 172:1

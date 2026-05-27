@@ -6,7 +6,7 @@ registrable /**rej**-is-trә-bәl/ is so spelled in AmE and BrE alike—e.g.: "T
 
  - "Those under 21 with a *registerable* \[read *registrable*\] blood alcohol level of 0.02 or higher are in violation of the law." Andrew J. Skerritt, "Highway Patrol Investigates Teen's Death," *Herald* \(Rock Hill, S.C.\), 10 Sept. 2002, at B1.
 
-Language-Change Index
+## Language-Change Index
 
 *registrable* misspelled *\*registerable*: Stage 1
 Current ratio in print \(*registrable* vs. \**registerable*\): 12:1

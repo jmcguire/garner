@@ -53,7 +53,7 @@ The double possessive appears in good writing and typically causes no trouble. O
 
 Of course, the double possessive is impossible to avoid in constructions with personal pronouns <a friend of mine> <that attitude of his>.
 
-Language-Change Index
+## Language-Change Index
 
 *a friend of John's*: Stage 5
 Current ratio in print \(*a friend of mine* vs. *a friend of me*\): 152:1

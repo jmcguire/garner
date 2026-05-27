@@ -10,7 +10,7 @@ But in U.S. law, *attenuating circumstance* is used only when the prosecution is
 
 Because the terms sound similar, writers occasionally misuse *attenuating* for *extenuating*. \(See word-swapping.\) Here the problem seems even worse, *attenuating* being misused for *aggravating*: "The *attenuating* \[read *aggravating*\] *circumstances* that contributed to this staggering number of executions don't help soften the shocking fact that we're tops in our country and that we surpass, on a per capita basis, two nations that are notorious for their disregard for human life." Raoul Carubelli, "Notorious Number," *Daily Oklahoman*, 2 Jan. 2002, at A6. See double bobbles.
 
-Language-Change Index
+## Language-Change Index
 
 *attentuate* misused for *aggravate*: Stage 1
 

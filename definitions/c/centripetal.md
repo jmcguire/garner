@@ -24,7 +24,7 @@ Writers sometimes misuse *centripetal* for *centri-fugal*—e.g.:
 
 See word-swapping.
 
-Language-Change Index
+## Language-Change Index
 
 *centripetal* misused for *centrifugal*: Stage 1 *centripetal* misspelled \**centripedal*: Stage 1 Current ratio in print \(*centripetal force* vs. \**centripedal force*\): 767:1
 

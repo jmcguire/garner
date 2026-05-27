@@ -12,7 +12,7 @@ What happened is that in the early 20th century, musicians and musicologists rec
 
 In AmE journalism, *timpani* now preponderates by a significant margin. Perhaps that's because *timpani* is perceived as the direct Italian etymon, whereas *tympani* goes back to a Latin spelling. The singular being *timpano*, musicians and musicologists might have thought the *y* simply wrong—mixing an Italian spelling with a Latinate one, the Latin singular being *tympanum*. Yet *tympani* is the traditional plural for the Latin word in drum senses.
 
-Language-Change Index
+## Language-Change Index
 
 *timpani* spelled *tympani*: Stage 5
 Current ratio in print \(*tympani* vs. *timpani* in World Englishes\): 1.4:1
@@ -27,7 +27,7 @@ Current ratio in print \(*tympani* vs. *timpani* in World Englishes\): 1.4:1
 
 See plurals \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 *timpani* as a singular: Stage 5
 
@@ -39,7 +39,7 @@ Language-Change Index
 
  - "Percussive instruments can also be played in an expressive sustaining fashion, such as a roll on a snare or *timpani drum* \[read *timpani* or *kettledrum*\], where the drum is struck repeatedly." Ethan Winer, *The Audio Expert* 626 \(2012\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*timpani drum* for *timpani* or *kettledrum*: Stage 1
 Current ratio in print \(*timpani* vs. *kettledrum* vs. *\*timpani drum*\): 82:14:1

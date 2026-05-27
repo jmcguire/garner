@@ -8,7 +8,7 @@ no sooner . . . than; \*no sooner . . . when. The first phrasing is better becau
 
  - "*No sooner* had they got back to the room *when* \[read *than*\] someone else knocked on the door." Alan C. Logan, *The Greatest Hoax on Earth* 167 \(2020\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*no sooner . . . when* for *no sooner . . . than*: Stage 3
 

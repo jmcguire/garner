@@ -4,7 +4,7 @@ naive; **\*naïve**; **naif**; **\*naïf**. The standard adjective is *naive* \(
 
 The adjective is pronounced /nī-**eev**/, the noun /nah-**eef**/.
 
-Language-Change Index
+## Language-Change Index
 
 *naive* misused as a noun for *naif*: Stage 1
 

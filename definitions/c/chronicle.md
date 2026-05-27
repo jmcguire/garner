@@ -8,7 +8,7 @@ chronicle, n. & vb., is often misspelled *\*chronical*—e.g.:
 
 In its one near-legitimate use, *\*chronical* is a needless variant of the adjective *chronic*.
 
-Language-Change Index
+## Language-Change Index
 
 *chronicle* misspelled *\*chronical*: Stage 1
 

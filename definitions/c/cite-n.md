@@ -2,7 +2,7 @@
 
 cite, n. **A. As a Casualism for *citation*.** Using *cite* as a noun—in place of *citation*—is a casualism. E.g.: "Check and double-check your *cites*. . . . We are constantly trying to make sense out of erroneous *cites*." Christopher P. Hamilton, "Trial Management," *Mass. Lawyer*, 16 Dec. 1996, at B5. The longer form remains predominant today in print—e.g.: " ‘Women in Archaeology' is professionally produced, with a single bibliography and an index, in distinct contrast to ‘Equity Issues,' which has multiple \(and repetitive\) reference lists, no index, and many typographical errors, misspellings \(Virginia Wolf\!\), and incorrect *citations*." Tracey Cullen, "Equity Issues for Women in Archeology," *Antiquity*, 1 Dec. 1995, at 1042. Cf. **quote**.
 
-Language-Change Index
+## Language-Change Index
 
 *cite* as a noun in place of *citation*: Stage 3
 
@@ -24,7 +24,7 @@ The opposite error—*site* for *cite—*is rarely seen outside legal writing \(
 
  - "Sub-citations and citations in dissenting opinions were omitted from the survey to limit the results to those CAFC cases *sited* \[read *cited*\] for precedential value." Terence P. Stewart & Elizabeth J. Drake, "Reliance on Decisions of the U.S. Court of Appeals for the Federal Circuit in Trade and Customs Litigation", 38 *Geo. J. Int'l L.* 177, 185 n.33 \(2006\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *cite* misused for *site*: Stage 1
 Current ratio in print \(*building site* vs. *\*building cite*\): 2,677:1

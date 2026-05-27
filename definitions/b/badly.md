@@ -10,7 +10,7 @@ badly.
 
 See **feel \(c\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *badly* after a linking verb <\*feel badly> <\*looked badly after the loss>: Stage 2
 Current ratio in print \(*felt bad* vs. *\*felt badly*\): 13:1
@@ -21,7 +21,7 @@ Stick to *badly* \(not *bad*\) in this adverbial sense. You might expect a profe
 
 See adjectives \(e\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *badly* for *very much* <badly in need>: Stage 5
 

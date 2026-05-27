@@ -18,7 +18,7 @@ Unlike its corresponding noun, the adjective *euphuistic* is rarely misused. Her
 
 For a similar error, see **euphemistic**.
 
-Language-Change Index
+## Language-Change Index
 
 *euphuism* misused for *euphemism*: Stage 1
 

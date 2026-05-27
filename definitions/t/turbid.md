@@ -16,7 +16,7 @@ turbid; **turgid**; **turpid**; **torpid**. *Turbid* = \(of water\) muddy, thick
 
  - "Reducing *turbidity*, or water disturbance, makes more oxygen available for fish and other water life." Chris Kelley, "Local Firm, National Leader Team Up on Dredging Plan," *Dallas Morning News*, 11 July 1997, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 *turgid* misused for *turbid*: Stage 1
 Current ratio in print \(*turbid waters* vs. *\*turgid waters*\): 12:1

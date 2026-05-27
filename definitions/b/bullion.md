@@ -8,7 +8,7 @@ bullion; **bouillon**. The first term, referring to an ingot of precious metal, 
 
 *Bullion* is pronounced /**bʊl**-yәn/. *Bouillon* is pronounced /**bʊl**-yәn/, /**bʊl**-yon/, or sometimes /boo-**yaw*n***/.
 
-Language-Change Index
+## Language-Change Index
 
 *bullion* misused for *bouillon*: Stage 1
 Current ratio in print \(*beef bouillon* vs. \**beef bullion*\): 85:1

@@ -14,7 +14,7 @@ But if that usage \(*could have beat*\) is nonstandard, the form *\*beated* is d
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 1. *beat* misused for past-participial *beaten*: Stage 2
 Current ratio in print \(*had beaten* vs. *had beat*\): 7:1

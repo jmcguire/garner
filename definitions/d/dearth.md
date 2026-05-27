@@ -10,7 +10,7 @@ The word is commonly misunderstood as meaning a complete absence of something. T
 
  - "In many parts of the country, there *was a complete dearth of* \[read *were no*\] sales and little construction activity during the downturn." Cynthia M. Fraser, "True Value?," *Nat'l Real Estate Investor*, 1 Nov. 2014, at 44.
 
-Language-Change Index
+## Language-Change Index
 
 *\*complete dearth* for *absence* or *lack*: Stage 1
 

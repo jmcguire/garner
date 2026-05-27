@@ -10,7 +10,7 @@ Also, the word has been subjected to slipshod extension. Some mistakenly think i
 
  - "In an *officious-sounding* \[read *official-sounding*\] voice, he warns victims they've ignored multiple summonses for jury duty." Dan Casey, "‘Jury Duty' Scam Targets Unwary Residents," *Roanoke Times*, 8 Jan. 2015, at B1.
 
-Language-Change Index
+## Language-Change Index
 
 *officious* in the sense "official-looking": Stage 3
 

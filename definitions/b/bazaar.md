@@ -12,7 +12,7 @@ The adjective *bizarre* \(= startlingly odd\) is occasionally misused for *bazaa
 
 See word-swapping.
 
-Language-Change Index
+## Language-Change Index
 
 *bizarre* misused for *bazaar*: Stage 1
 Current ratio in print \(*charity bazaar* vs. *charity \*bazar*\): 52:1

@@ -20,7 +20,7 @@ Swear off using the weak form *\*sweared*, which most often appears in reported 
 
 For a discussion of the redundancy of *sworn affidavit*, see **affidavit**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *swore* as a past participle in place of *sworn*: Stage 1
 Current ratio in print \(*could have sworn* vs. *\*could have swore*\): 300:1

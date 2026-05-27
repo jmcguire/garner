@@ -22,7 +22,7 @@ Surprisingly, the word is often misspelled *\*phenomenum*, especially in BrE—e
 
  - "Housing inflation in recent years has not been a peculiar Kiwi *phenomenum* \[read *phenomenon*\]." Peter Lyons, "Inflation Rate Doesn't Measure Cost of Cheap Loans for Banks," *Wanganui Chron.* \(N.Z.\), 13 June 2018, at A10.
 
-Language-Change Index
+## Language-Change Index
 
 1. *phenomena* as a singular: Stage 2
 Current ratio in print \(*a rare phenomenon* vs. *\*a rare phenomena*\): 181:1
@@ -32,7 +32,7 @@ Current ratio in print \(*phenomenon* vs. \**phenomenum*\): 31,602:1
 
 **B. As a Plural.** Conversely, the singular *phenomenon* is sometimes mistakenly used as a plural—e.g.: "These irregularities could explain several *phenomenon* \[read *phenomena*\] in the earth including the well-known jerkiness in the planet's rotational rate." George Alexander, "Cat Scans Used to Explore the Earth," *N.Y. Times*, 16 Dec. 1986, at C3. Cf. **criterion** & **media**.
 
-Language-Change Index
+## Language-Change Index
 
 *phenomenon* as false plural for *phenomena*: Stage 1
 Current ratio in print \(*two phenomena are* vs. *\*two phenomenon are*\): 109:1
@@ -53,7 +53,7 @@ In this last sense, the word is often replaced in AmE by the casualism *phenom* 
 
  - " ‘Come Away' is now a certifiable *phenom*, an album that caught on with grown-ups, starting with NPR instead of MTV and then moving to younger audiences as the months went by." David Segal, "Yes, Norah\!," *Wash. Post*, 24 Feb. 2003, at C1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *phenomenons* as false plural for *phenomena*: Stage 3
 

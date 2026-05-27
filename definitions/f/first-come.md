@@ -10,7 +10,7 @@ The past-participial *served* is required in this phrase. The first people to co
 
  - "The five members picked to hear a specific case are selected on a *first-come, first-serve* \[read *first-come, first-served*\] basis." Jerry Lauzon, "Lawyer for Athletes Alleges Conflict of Interest," *Portland Press Herald*, 19 Oct. 2002, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*first-come, first-serve* for *first-come, first-served*: Stage 3
 Current ratio in print \(*first come first served* vs. *\*first come first serve*\): 2:1

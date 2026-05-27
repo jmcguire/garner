@@ -4,7 +4,7 @@ purposive; **purposeful**. H.W. Fowler and the original \(Victorian\) *OED* edit
 
 In most other uses, *purposive* is a needless variant of *purposeful*—e.g.: "The raw materials for John Wayne the persona were Wayne's imposing physique and an economical, *purposive* \[read *purposeful*\] body language, which combined with the famous Wayne voice . . . to convey an air of inevitability and control." Michiko Kakutani, "The Making of a Myth Who Rode into the Sunset," *N.Y. Times*, 25 Feb. 1997, at C14.
 
-Language-Change Index
+## Language-Change Index
 
 *purposive* misused for *purposeful*: Stage 1
 

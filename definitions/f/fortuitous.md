@@ -38,7 +38,7 @@ What has befallen this word? In 1987, the Oxford lexicographer Robert W. Burchfi
 
 How do things stand in the 2020s? The erosion of the verbal coastline, if we may change the metaphor, continues. But there has been no massive landslide. Careful writers and speakers will continue to observe the old but fragile differentiation between the terms, perhaps with a sense of nostalgia. Even if the objectionable use will someday be considered, by almost all reasonable people, to be entirely unobjectionable, that day probably won't come during this century. Reaching Stage 5 will take some time.
 
-Language-Change Index
+## Language-Change Index
 
 *fortuitous* misused for *fortunate*: Stage 3
 
@@ -50,7 +50,7 @@ Language-Change Index
 
  - "Without meaning to, I ordered several items twice. It was a *fortuitous accident* \[read *lucky accident*\]; each dish on the tiny menu . . . is worth revisiting." Hanna Goldfield, "Vegan Chinese, Both Innovative and Traditional," *New Yorker*, 22 Mar. 2021, at 9.
 
-Language-Change Index
+## Language-Change Index
 
 \**fortuitous accident* misused for *lucky accident*: Stage 2
 
@@ -70,7 +70,7 @@ Perhaps the more interesting development—maybe it was inevitable—is that *fo
 
 You might argue, surely enough, that in these examples, the writer wanted to emphasize the chancy nature of the occurrence more than the propitiousness of the outcome. But this argument overlooks the very nature of fortune, which always involves chance. Literature is rife with references to the wheel of fortune \(now popularized as a game show\), which betokens the vicissitudes of outcomes. If *fortunately* suggests *bon chance*, why make *fortuitously* suggest the very same thing? We keep returning to that idea.
 
-Language-Change Index
+## Language-Change Index
 
 *fortuitously* misused for *fortunately*: Stage 3
 
@@ -90,7 +90,7 @@ Once again, though, we cheapen *fortuity* if we use it as a mere synonym of *goo
 
 All in all, despite their more and more positive connotations, you might bemoan the fortunes of *fortuitous, fortuitously,* and *fortuity.* Their gain has been the language's loss.
 
-Language-Change Index
+## Language-Change Index
 
 *fortuity* misused for *good fortune*: Stage 2
 Current ratio in print \(*fortuity* vs. *fortuitousness*\): 3:1

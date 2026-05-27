@@ -10,7 +10,7 @@ strike > struck > struck. So inflected. The form *\*striked* is erroneous—e.g.
 
 See irregular verbs & **stricken**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*striked* for *struck*: Stage 1
 Current ratio in print \(*struck* vs. *\*striked*\): 7,241:1

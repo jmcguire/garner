@@ -8,7 +8,7 @@ all of a sudden. This is the idiomatic phrase, not *\*all of the sudden*—e.g.:
 
  - "She came, saw and conquered, and *all of the sudden* \[read *all of a sudden*\], every second A-list pop star wanted a residency on the strip." Brendan Kelly, "‘Crazy' Gamble Pays Off in Vegas," *Edmonton J.*, 29 Aug. 2015, at D1 \(referring to Celine Dion\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*all of the sudden* for *all of a sudden*: Stage 1
 Current ratio in print \(*all of a sudden* vs. *\*all of the sudden*\): 45:1

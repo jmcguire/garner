@@ -12,7 +12,7 @@ supersede.
 
 See spelling \(a\).
 
-Language-Change Index
+## Language-Change Index
 
 *supersede* misspelled *\*supercede*: Stage 2
 Current ratio in print \(*supersede* vs. \**supercede*\): 35:1

@@ -6,7 +6,7 @@ barbed wire \(= strands of twisted wire with sharp projections that impede passa
 
  - "And they patched our pants after we snagged them crawling under a *bob wire* \[read *barbed-wire*\] fence." Guy Friddell, "Readers Share Depression Memories," *Virginian-Pilot & Ledger Star* \(Norfolk\), 12 Mar. 2001, at B1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*bob wire* for *barbed wire*: Stage 1
 Current ratio in print \(*barbed wire* vs. \**barbwire* vs. \**barb wire*\): 85:3:1

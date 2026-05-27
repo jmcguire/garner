@@ -10,7 +10,7 @@ As a metaphor, either phrase will do. Writers usually choose *half-mast*, perhap
 
 But sometimes *half-mast* is undoubtedly chosen because of its unsubtle phonic similarity to *half-assed*—e.g.: "We weren't too crazy about Bill Clinton's ‘don't ask, don't tell' policy \(although we adored Bill, and especially his charming wife Hillary\) but we figured even a *half-mast* policy that would let gay soldiers serve their country was better than just tossing them out on their keisters because of their sexual orientation." Dennis Rogers, "Putting Liberals in a Quandary," *Dallas Morning News*, 16 Feb. 2002, at B1.
 
-Language-Change Index
+## Language-Change Index
 
 *half-mast* misused for *half-staff*: Stage 2
 

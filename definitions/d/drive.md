@@ -22,7 +22,7 @@ More common is the erroneous *\*drived* as a past participle displacing *driven*
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*drived* for the simple-past *drove*: Stage 1
 Current ratio in print \(*drove a* vs. *\*drived a*\): 5,648:1

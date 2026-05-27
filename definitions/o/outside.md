@@ -10,7 +10,7 @@ In modern print sources, the collocation *outside the* occurs much more often th
 
 In AmE, *outside of* is a casualism equivalent to *apart from* or *aside from*—e.g.: "*Outside of* \[or *Apart from* or *Aside from*\] economies of scale in purchasing and merged back-room operations, Pillowtex reaps Fieldcrest's well-known brands in sheets, comforters, \[and\] towels." Jennifer Steinhauer, "Pillowtex to Acquire Fieldcrest for $400 Million," *N.Y. Times*, 12 Sept. 1997, at D6. This usage undoubtedly accounts for much of the linguistic evidence supporting the phrasing *outside of the*.
 
-Language-Change Index
+## Language-Change Index
 
 *outside of* for *outside*: Stage 4
 Current ratio in print \(*outside the* vs. *outside of the*\): 4:1

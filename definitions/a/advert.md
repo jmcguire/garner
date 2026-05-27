@@ -14,7 +14,7 @@ To *avert* is to turn away or avoid, or to ward off—e.g.:
 
 Occasionally, *advert* is misused for *avert*—e.g.: "Although five persons were injured, a real tragedy was *adverted* \[read *averted*\] because of the way firefighters and quick-acting neighbors in the area worked together." Stephen Byrd, "Smoking Blamed in Independence Fire," *Kansas City Star*, 20 May 1996, at B1. See malapropisms.
 
-Language-Change Index
+## Language-Change Index
 
 *advert* misused for *avert*: Stage 1
 

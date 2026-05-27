@@ -16,7 +16,7 @@ The illegitimate form becomes a double-bobble when it is confused with the simil
 
  - "Smith, . . . in his own *inimicable* \[read *inimitable*\] way, would simply shrug his shoulders and ask: ‘Why?' " Steve Matthies, "Wrestling, Bonanza Lose True Hero in Lafe Smith," *Herald & News* \(Klamath Falls, Ore.\), 14 July 2019, at B1.
 
-Language-Change Index
+## Language-Change Index
 
 \**inimicable* for *inimical*: Stage 1
 \**inimical* for *inimitable*: Stage 1

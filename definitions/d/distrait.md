@@ -10,7 +10,7 @@ distrait; **\*distraite**; **distraught**. *Distrait*, a word borrowed from Fren
 
 Both words, though, can typically be replaced by an ordinary term such as *distracted*, *preoccupied*, or *absent-minded*—or, if the anxiety level is high enough, by *distraught*, which means either "deeply agitated" or "severely upset and worried." E.g.: "Lucy had still been all but bedridden when her neighbor died. And she'd been *distraught* when the news was brought to her that he was dead." Kathy Lynn Emerson, *Face Down Under the Wych Elm* 8 \(2000\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*distraite* for *distrait*: Stage 2
 Current ratio in print \(*distrait* vs. *\*distraite*\): 6:1

@@ -8,7 +8,7 @@ Although the inflected form is *marshalled* in BrE, the uninflected form is stil
 
  - "Many in the crowds seemed undeterred—even invigorated—by the steady and seemingly inexorable march toward a possible war, perhaps in a few weeks, as the United States and a few allies *marshall* \[read *marshal*\] troops, naval flotillas and air wings in a rapidly escalating mobilization in the Persian Gulf region." Lynette Clemetson, "Thousands Converge in Capital to Protest Plans for War," *N.Y. Times*, 19 Jan. 2003, § 1, at 12.
 
-Language-Change Index
+## Language-Change Index
 
 *marshal* as verb misspelled *\*marshall*: Stage 1
 

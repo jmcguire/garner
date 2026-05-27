@@ -6,7 +6,7 @@ Sometimes the word is the victim of slipshod extension, when applied to any rule
 
 In one of its senses, *draconic* is a needless variant of *draconian*—e.g.: "Knowing, as he must, of the unforgiving and *draconic* \[read *draconian*\] rules of Islamic law, he still sold this material for publication." "Did Clinton Commit Faux Pas in Meeting with Rushdie?," *San Diego Union-Trib.*, 2 Dec. 1993, at B13. But in another sense, *draconic* means "of, relating to, or like a dragon" <the child protagonist is rescued by a friendly dragon and raised with its own draconic brood>.
 
-Language-Change Index
+## Language-Change Index
 
 1. *draconian* meaning "harsh" but without a sense of cruelty: Stage 3
 

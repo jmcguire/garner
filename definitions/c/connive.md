@@ -18,7 +18,7 @@ Perhaps because of the suffix and the word's unsavory, even criminal connotation
 
  - "Set in Florida, it tells the story of a white developer who tries to *connive* \[read *con*\] the predominantly black beach community of Plantation Island into selling a strip of ocean-front land on which he plans to build condominiums." John Petkovic, "The Characters Are Tasty, but the Plot Isn't Done," *Plain Dealer* \(Cleveland\), 2 Aug. 2002, Friday Mag. §, at 46.
 
-Language-Change Index
+## Language-Change Index
 
 1. *connive* misused for *conspire* or *contrive*: Stage 4
 Current ratio in print \(*conniving at* vs. *conniving against*\): 16:1

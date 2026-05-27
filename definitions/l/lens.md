@@ -8,7 +8,7 @@ lens. So spelled—not *\*lense*. But the misspelling occurs fairly often, as so
 
  - "His \[Alex Rocco's\] most famous role came in 1972's ‘The Godfather,' in which he played the humbled casino owner who meets his fate on a massage table, with a bullet through a thick eyeglass *lense* \[read *lens*\]." "Was Moe Greene in ‘The Godfather'?" *Wash. Post*, 21 July 2015, at B4.
 
-Language-Change Index
+## Language-Change Index
 
 *lens* misspelled *\*lense*: Stage 1
 Current ratio in print \(*a lens* vs. *\*a lense*\): 656:1

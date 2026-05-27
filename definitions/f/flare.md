@@ -12,7 +12,7 @@ This bit of word-swapping has always plagued the phrase *flair for the dramatic*
 
 *Flared* trousers were once a sign of fashion *flair*—a reality that probably fueled the confusion.
 
-Language-Change Index
+## Language-Change Index
 
 *flare* misused for *flair*: Stage 1
 Current ratio in print \(*natural flair* vs. *\*natural flare*\): 13:1

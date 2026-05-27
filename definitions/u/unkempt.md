@@ -24,7 +24,7 @@ Apart from the sonic similarity, it's perfectly possible to retrace how the conf
 
 If one's property isn't "kept up," and can therefore be said to be *unkept*, it's a short leap then to say not that a person's surroundings are *unkept*, but that the person is *unkept*. But this remains a minority usage and doesn't yet seriously threaten the traditional usage of *unkempt*. Careful writers and editors should continue resisting *unkept* in these senses; it looks unkempt.
 
-Language-Change Index
+## Language-Change Index
 
 *unkept* misused for *unkempt*: Stage 1
 Current ratio in print \(*unkempt hair* vs. *\*unkept hair*\): 107:1

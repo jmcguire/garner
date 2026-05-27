@@ -4,7 +4,7 @@ gimme, a golf term shortened from "give me," refers to a short putt that needn't
 
 *Gimme* is also used outside golf contexts as an adjective for various types of free merchandise, especially baseball caps bearing advertising logos and messages <gimme cap>.
 
-Language-Change Index
+## Language-Change Index
 
 *\*gimmies* for *gimmes*: Stage 3
 Current ratio in print \(*gimmes* vs. *\*gimmies*\): 3:1

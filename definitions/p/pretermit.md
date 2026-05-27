@@ -8,7 +8,7 @@ The word doesn't properly mean "to prevent, preclude, or obviate," but some writ
 
  - "To *pretermit* \[read *prevent* or *obviate*\] a reprise of the Bork confirmation ordeal, Mr. Bush blacklisted . . . 10 glittering candidates associated with ideas subversive of fashionable legal orthodoxy." Bruce Fein, "Better to Avoid the Cobwebs?," *Wash. Times*, 28 Aug. 1990, at G3.
 
-Language-Change Index
+## Language-Change Index
 
 *pretermit* misused for *prevent*, *preclude*, or *obviate*: Stage 1
 

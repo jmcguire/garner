@@ -32,7 +32,7 @@ Avoid *spit* as the simple-past form. It has never been the predominant form in 
 
  - "Gilbert and Sullivan must be revolving like *spitted* chickens in their graves." Richard Farr, "Cat-Like Tread: It's Inventive, Theatrical and Shocking," *Seattle Times*, 7 Apr. 1997, at F5.
 
-Language-Change Index
+## Language-Change Index
 
 *spit* as past tense or past participle of *spit*: Stage 4
 Current ratio in print \(*he spat on* vs. \**he spit on*\): 4:1

@@ -16,7 +16,7 @@ A mnemonic device popular among schoolchildren holds that the *c* in *stalactite
 
 In AmE, the accent for both words falls on the second syllable. In BrE, the first syllable is stressed in both words.
 
-Language-Change Index
+## Language-Change Index
 
 1. *stalagmite* misused for *stalactite*: Stage 1
 Current ratio in print \(*stalactites hanging* vs. \**stalagmites hanging*\): 19:1

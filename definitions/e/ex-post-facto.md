@@ -6,7 +6,7 @@ The phrase was formerly spelled *\*ex postfacto* on occasion, but this spelling 
 
 In law, *ex post facto* and *retroactive* are distinguishable. Based on the historical usage of *ex post facto law*, the U.S. Supreme Court interprets the constitutional ban on them as applying specifically to crimes and punishments, not to civil statutes. That is, a person may not be convicted of an act that was not illegal when it was done. Nor may a person be sentenced to a harsher punishment than that which applied when the act was done. In some circumstances, though, a civil statute may apply retroactively.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*ex post* for *ex post facto*: Stage 1
 

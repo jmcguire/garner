@@ -10,7 +10,7 @@ floes \(= sheets of ice on a body of water \[fr. Norw. "flo" = "flat layer"\]\) 
 
 Of course, when ice actually does flow, as in a melting glacier, that movement is a *flow*—e.g.: "Very deep, beautiful lakes . . . may be the product of something rather ugly. They are a regular feature of ice sheets, but it is only in the last few years that scientists have linked them to the fact that ice *flow* within those sheets appears to be accelerating in response to climate change." "Greenland Blues," *New Scientist*, 7 Jan. 2006, at 39.
 
-Language-Change Index
+## Language-Change Index
 
 *flows* misused for *floes*: Stage 2
 Current ratio in print \(*ice floes* vs. *\*ice flows*\): 7:1

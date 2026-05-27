@@ -4,7 +4,7 @@ vitiate /**vish**-ee-ayt/ = \(1\) to impair the quality or reduce the value of \
 
 *Vitiate* is sometimes misused for its near-antonym, *ameliorate*, or for *obviate*. Although you might ameliorate or obviate a problem, you can *vitiate* something only if it's either neutral or good. Some writers even seem to think that *vitiate* means "to lessen"—e.g.: "As important as that development might be, one potential problem looms that could well *vitiate* \[read *lessen*\] the number of people who actually leave welfare rolls." "The Welfare Wagon," *Orange County Register*, 7 Aug. 1997, at B8. Still others think it means "to aggravate, exacerbate"—e.g.: "In India, religious conflict further *vitiates* \[read *aggravates*\] the problem." Joydeep Bhattacharya, "Just Changing the Guard Can't Save India from Asphyxiation," *L.A. Times*, 12 Feb. 1991, at B7. See **obviate** & slipshod extension.
 
-Language-Change Index
+## Language-Change Index
 
 1. *vitiate* misused for *lessen*: Stage 1
 

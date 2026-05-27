@@ -10,7 +10,7 @@ telegraph, vb.; **telegram**, n. To *telegraph* is to send a *telegram*. Althoug
 
 Since 1799—only seven years after the word was first used in English—*telegraph* has been used figuratively to mean "to convey wordlessly or subtly" <her eyes telegraphed her discomfort>.
 
-Language-Change Index
+## Language-Change Index
 
 *telegram* misused for *telegraph*: Stage 2
 Current ratio in print \(*telegraphed* vs. *\*telegrammed*\): 25:1

@@ -8,7 +8,7 @@ mischievous /**mis**-chә-vәs/ is so spelled and pronounced. *\*Mischievious* i
 
 See pronunciation \(b\). Cf. **grievous**.
 
-Language-Change Index
+## Language-Change Index
 
 *mischievous* misspelled or mispronounced *\*mischievious*: Stage 2
 Current ratio in print \(*mischievous* vs. \**mischievious*\): 680:1

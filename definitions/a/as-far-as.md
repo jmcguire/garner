@@ -6,7 +6,7 @@ When the complement is omitted, idiom is violated. This seems to happen most oft
 
 Idiom aside, however, *as far as* usually signals verbosity. So instead of *As far as he is concerned,* it's possible to save half the words by writing *As for him, . . . .* See **insofar as**.
 
-Language-Change Index
+## Language-Change Index
 
 *as far as* without a subject and verb following: Stage 2
 

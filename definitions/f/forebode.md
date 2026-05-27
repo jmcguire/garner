@@ -8,7 +8,7 @@ forebode \(= \[1\] to predict \[usu. something bad\]; foretell; or \[2\] to have
 
 See for-.
 
-Language-Change Index
+## Language-Change Index
 
 *forebode* misspelled *\*forbode*: Stage 1
 Current ratio in print \(*forebode* vs. \**forbode*\): 3:1

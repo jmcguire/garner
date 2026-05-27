@@ -28,7 +28,7 @@ Sometimes this same error is rendered *\*I'd of* \(where *I'd* alone would be co
 
 For more on this type of error, see **of \(d\)**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*had have* or *\*had've* for *had*: Stage 2
 Current ratio in print \(*had been* vs. *\*had have been*\): 31,538:1

@@ -6,7 +6,7 @@ Today the word typically encompasses both worry and anticipation—e.g.: "Creato
 
 But when no sense of uneasiness is attached to the situation, *anxious* isn't the best word. In those instances, it displaces a word that might traditionally have been considered its opposite—namely, *eager*. E.g.: "Three years ago, the Latin music industry was caught up in crossover mania, *anxious* \[read *eager*\] to ride the popularity of singers such as Ricky Martin and Enrique Iglesias by selling their English-language albums to the American mainstream." David Cazares, "Songstresses from Peru, Mexico to Grace Stages," *Sun-Sentinel* \(Ft. Lauderdale\), 13 Sept. 2002, at 30.
 
-Language-Change Index
+## Language-Change Index
 
 *anxious* for *eager*: Stage 4
 

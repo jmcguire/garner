@@ -12,7 +12,7 @@ Each word is sometimes confused with the other. Most commonly, *luxurious* is wr
 
 But the opposite error, *luxuriant* for *luxurious*, also sometimes occurs—e.g.: "The Hostess House has the feeling of a large, *luxuriant* \[read *luxurious*\] home with plush velvet furnishings, an oak dance floor, a large fireplace and enclosed decks and patios." Lori Taff, "Services Abound to Assist Party Planners," *Columbian* \(Vancouver, Wash.\), 30 Apr. 1996, Special §, at 2. \(On the use of *home* and *house*, see **house**.\)
 
-Language-Change Index
+## Language-Change Index
 
 1. *luxurious* misused for *luxuriant*: Stage 2
 Current ratio in print \(*luxuriant vegetation* vs. *\*luxurious vegetation*\): 9:1

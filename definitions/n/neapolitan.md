@@ -10,7 +10,7 @@ The term is misspelled *\*Neopolitan* surprisingly often—e.g.:
 
  - "It was not unlike floating through an enormous block of *Neopolitan* \[read *Neapolitan*\] ice cream." Helen Olsson, "Nebraska, with a Paddle," *N.Y. Times*, 3 Oct. 2008, at F1.
 
-Language-Change Index
+## Language-Change Index
 
 *Neapolitan* misspelled *\*Neopolitan*: Stage 1
 Current ratio in print \(*Neapolitan* vs. \**Neopolitan*\): 45:1

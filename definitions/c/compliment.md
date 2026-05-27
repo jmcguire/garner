@@ -12,7 +12,7 @@ compliment; **complement**. Both as verbs and as nouns, these words are often co
 
 The reverse error, *complement* for *compliment*, is rare but does occur—e.g.: "The letter from Tiger *complemented* \[read *complimented*\] Laddie Boy for sticking by his master despite the hard times and accusations." Stanley Coren, *The Pawprints of History* 269 \(2002\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*full compliment* for *full complement*: Stage 1
 Current ratio in print \(*full complement* vs. *\*full compliment*\): 52:1

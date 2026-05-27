@@ -8,7 +8,7 @@ The verb is conjugated *critiqued* and *critiquing*. Some writers mistakenly wri
 
  - "While lacking any sexually graphic details, Ruth gets downright dirty while describing, and unavoidably *critiqing* \[read *critiquing*\], her meals with Andrews." Braden Keil, "Terminal Gets Some Dim Sum," *N.Y. Post*, 11 Apr. 2001, at 39.
 
-Language-Change Index
+## Language-Change Index
 
 *critique* as a verb: Stage 5
 

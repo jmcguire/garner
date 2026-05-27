@@ -42,7 +42,7 @@ There is still opposition to the word. In a Twitter poll in May 2022, 54% of res
 
 In a humorous 2003 exchange on late-night television, Conan O'Brien was interviewing Jennifer Garner \(no relation\). O'Brien said, "You snuck into the room." Garner then said, "I sneaked into the room. *Snuck* isn't a word, Conan. And you went to Harvard. You should know that." There was uproarious laughter and cheering. Later in the segment, O'Brien read from a dictionary: "*Snuck.* Past and past participle of *sneak*." O'Brien cackled while the audience thundered. Essentially, Garner was calling *snuck* a nonword right on the cusp of its transition into mainstream acceptance. Both Garner and O'Brien had a point, but the latter was on the right side of history.
 
-Language-Change Index
+## Language-Change Index
 
 *snuck* as a past tense*:* Stage 5 \(as a casualism)
 1980 ratio in print \(*sneaked* vs. *snuck* in World Englishes\): 5:1

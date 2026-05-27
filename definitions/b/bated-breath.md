@@ -6,7 +6,7 @@ bated breath is the phrase from Shakespeare's *Merchant of Venice*: "Or shall I 
 
  - "Start by replacing the outfield walls with stalks of corn. Give the corn a little bit of water, sunshine and just enough love to let it grow. Then wait with *baited breath* \[read *bated breath*\] for the ghosts of the Brewers' past to come walking out\!" Peter Kevechich, "Save the Brewers," *Milwaukee J. Sentinel*, 11 June 2002, at C2.
 
-Language-Change Index
+## Language-Change Index
 
 *\*baited breath* for *bated breath*: Stage 2
 Current ratio in print \(*bated breath* vs. *\*baited breath*\): 8:1

@@ -8,7 +8,7 @@ sole \(= the one and only; single\) should not be used with a plural noun, as it
 
 Occasionally the word *sole* and its homophone *soul* get confounded, as in the phrases \**soul heir*, \**soul purpose*, and \**soul source*—which, if they aren't puns, are errors.
 
-Language-Change Index
+## Language-Change Index
 
 *sole* followed by a plural noun: Stage 2
 Current ratio in print \(*sole heir* vs. \**soul heir*\): 702:1

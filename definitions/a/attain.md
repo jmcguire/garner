@@ -6,7 +6,7 @@ attain; obtain. These two—both formal words—are susceptible to word-swapping
 
 Occasionally—as a malapropism—*obtain* is misused for *attain*. E.g.: "The same exception . . . applies if U.S. residency or citizenship is renounced before *obtaining* \[read *attaining*\] age 18." Don W. Llewellyn, "Income and Transfer Tax Planning for Nonresident Aliens Holding or Disposing of U.S. Investment Assets," *Tax Mgmt. Int'l J.*, 11 Oct. 1996, at 643.
 
-Language-Change Index
+## Language-Change Index
 
 *obtain* misused for *attain*: Stage 1
 Current ratio in print \(*attaining the age of* vs. *\*obtaining the age of *\): 79:1

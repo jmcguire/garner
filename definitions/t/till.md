@@ -14,7 +14,7 @@ But the myth of the word's low standing persists. Some writers and editors mista
 
 If a form deserves a *sic*, it's the incorrect *\*'til*: the word has no literary history as a contraction. Not until the 1980s was it widely perceived to be one. Worse yet is the blunder *\*'till*—e.g.: "A month or two remain *'till* \[read *till*\] you grab your dancing shoes, plus a crew of pals or that special date." Francine Parnes, "Primping for the Prom," *Denver Post*, 21 Mar. 1997, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*'til* for *till*: Stage 2
 Current ratio in print \(*till* vs. *\*'til*\): 65:1

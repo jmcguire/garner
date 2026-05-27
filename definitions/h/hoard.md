@@ -18,7 +18,7 @@ Likewise, *horde* \(exclusively a noun\) sometimes displaces the verb *hoard*—
 
 Finally, through a mistaken association of the two words, the misspelling *\*hoarde* sometimes crops up—e.g.: "This has provoked *hoardes* \[read *hordes*\] of ethnic Albanian refugees to return to their homeland before it is safe." "Civilized Nations Should Never Resort to War," *Buffalo News*, 14 July 1999, at B3.
 
-Language-Change Index
+## Language-Change Index
 
 1. *hoard* misused for the noun *horde*: Stage 2
 Current ratio in print \(*hordes of* vs. *\*hoards of *\): 9:1

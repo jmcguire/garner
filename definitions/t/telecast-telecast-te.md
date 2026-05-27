@@ -10,7 +10,7 @@ telecast > telecast > telecast. So inflected. Avoid *\*telecasted*—e.g.:
 
 See -cast & irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*telecasted* for *telecast* as a past tense: Stage 1
 Current ratio in print \(*was telecast* vs. *\*was telecasted*\): 7:1

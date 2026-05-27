@@ -16,7 +16,7 @@ Not surprisingly, some writers confuse the two words. Most commonly, *auger* is 
 
 And the reverse error sometimes occurs, especially with the noun \(*augur* being misused for *auger*\)—e.g.: "Chesapeake Fire Chief R. Stephen Best said most of the barrels recovered were found in one location, near the spot where an *augur* \[read *auger*\] drilled into a buried drum last fall during excavations." Robert McCabe, "Officials Find More Waste on City Land," *Virginian-Pilot* \(Norfolk\), 31 Jan. 2001, at B1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *auger* misused for *augur*: Stage 1
 Current ratio in print \(*augurs well* vs. *\*augers well*\): 9:1
@@ -36,7 +36,7 @@ The word appears much more commonly in BrE than in AmE. But writers commonly mis
 
  - "This time the blood stayed dry, and many interpreted it as an *augur* \[read *augury*\] of misfortune." John L. Allen Jr., "Cardinal's Acquittal Met with Cynicism," *Nat'l Catholic Rptr.*, 5 Jan. 2001, at 28.
 
-Language-Change Index
+## Language-Change Index
 
 *augur* misused for *augury*: Stage 1
 Current ratio in print \(*an augury of the future* vs. *\*an augur of the future*\): 2:1

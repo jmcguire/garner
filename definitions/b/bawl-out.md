@@ -8,7 +8,7 @@ bawl out \(= to excoriate\) is the phrase, not *\*ball out*. But because the mis
 
  - "Ferris didn't have anything against or know Cowan personally, but became incensed when people told her that some commissioners had *‘balled out'* \[read *bawled out*\] a news reporter over an article she had written about possible illegalities in his campaign report." Stephen L. Goldstein, "The Political Soap Opera," *Sun-Sentinel* \(Ft. Lauderdale\), 12 July 2000, at A23.
 
-Language-Change Index
+## Language-Change Index
 
 *\*ball out* for *bawl out*: Stage 1
 Current ratio in print \(*bawled him out* vs. *\*balled him out*\): 14:1

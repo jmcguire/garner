@@ -4,7 +4,7 @@ Delphi /**del**-fī/ or /**del**-fee/, not *\*Delphos*, is the place name for th
 
 *Delphic*, adj., = \(1\) oracular; or \(2\) ambiguous, cryptic.
 
-Language-Change Index
+## Language-Change Index
 
 *\*oracle of Delphos* for *oracle of Delphi*: Stage 1
 Current ratio in print \(*oracle of Delphi* vs. *\*oracle of Delphos*\): 25:1

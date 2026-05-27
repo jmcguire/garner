@@ -8,7 +8,7 @@
 
 Oddly, this expression reached its zenith in frequency of occurrence during the 1920s. It ought not have done so, but at least it has since subsided. See double modals.
 
-Language-Change Index
+## Language-Change Index
 
 *\*didn't ought to* for *shouldn't*: Stage 1
 Current ratio in print \(*shouldn't* vs. *\*didn't ought to*\): 2,851:1

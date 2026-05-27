@@ -10,7 +10,7 @@ on the lam \(= on the run from law-enforcement authorities\) began as American s
 
 Occasionally the phrase is mistakenly made *\*on the lamb*—e.g.: "The owner of a local clothing company was arrested Tuesday and an employee of the company is *on the lamb* \[read *on the lam*\], in the wake of a raid by the state Department of Industrial Relations." Yomi S. Wronge, "Agents Stage Raid on an Unlicensed Garment Producer," *Orange County Register*, 16 Oct. 1997, at 2.
 
-Language-Change Index
+## Language-Change Index
 
 *\*on the lamb* for *on the lam*: Stage 2
 Current ratio in print \(*on the lam* vs. \**on the lamb*\): 5:1

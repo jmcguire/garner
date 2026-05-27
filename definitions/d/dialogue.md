@@ -18,7 +18,7 @@ When used as a verb, *dialogue* is a particularly grating vogue term that has ri
 
  - "Together these aspects of engagement help us to better understand the climate of engagement within which this particular online group *dialogued together about* \[read *discussed*\] their life histories." Mary Ziegler et al., "Creating a Climate of Engagement in a Blended Learning Environment," *J. of Interactive Learning Research*, 22 Sept. 2006, at 295.
 
-Language-Change Index
+## Language-Change Index
 
 1. *dialogue* as a verb, or *\*dialoguing* as a gerund: Stage 2
 

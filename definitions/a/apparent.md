@@ -10,7 +10,7 @@ In sense 1, the word is often misapplied to fatalities. What happens is that the
 
  - "Davenport, who died June 1 of *apparent ‘natural causes,'* was exchanging texts with a convicted prostitute at the time of the crash." Lydia X. McCoy, "Families Sue Over Bush Crash," *Knoxville News-Sentinel*, 21 July 2015, at 5A. \(A possible revision: *Davenport, who died June 1 \(apparently of unrelated natural causes\), was texting with a convicted prostitute when the crash occurred.*\)
 
-Language-Change Index
+## Language-Change Index
 
 *\*apparent heart attack*, etc.: Stage 3
 

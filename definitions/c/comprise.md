@@ -22,7 +22,7 @@ comprise.
 
 In 2015, a man named Bryan Henderson, a 51-year-old software engineer, was reported to have removed 18,000 instances of *\*is comprised of* from Wikipedia entries. He replaced it with *is composed of*. This solo human grammar-checker was praised in some quarters and derided in others. On a massive scale, he was making the very edits suggested in the preceding paragraph. What made it controversial, undoubtedly, is that he was correcting a Stage 4 misusage. If it had been Stage 1 or Stage 2, it might have been unremarkable. For his doggedness in preserving traditional phrasing—and marginally improving the writing in his favorite encyclopedia—Henderson merits praise, not scorn.
 
-Language-Change Index
+## Language-Change Index
 
 *\*is comprised of* for *comprises*: Stage 4
 Current ratio in print \(*comprises* vs. *\*is comprised of *\): 7:1
@@ -33,7 +33,7 @@ Current ratio in print \(*comprises* vs. *\*is comprised of *\): 7:1
 
  - "The 18 countries that *comprise* \[read *constitute* or *make up*\] APEC represent some of the fastest growing economies in the world." "U.S. Ties to Asia: Why Should We Care?," *Daily News* \(L.A.\), 25 Nov. 1997, at B1.
 
-Language-Change Index
+## Language-Change Index
 
 *comprise* misused for *are comprised in* or *constitute*: Stage 3
 
@@ -41,7 +41,7 @@ Language-Change Index
 
 **E. Misspelled *\*comprize*.** This is an infrequent error—e.g.: "Hence, if a sample *were comprized of* \[read *comprised*\] a wide diversity of organizations, drawn from several industries, an accounting firm classified as having an ‘elite' culture in this study may be classified as having a ‘collegial' culture compared to other organizations included in another study." Scott Holmes & Stephen Marsden, "An Exploration of the Espoused Organizational Cultures of Public Accounting Firms," *Accounting Horizons*, Sept. 1996, at 26.
 
-Language-Change Index
+## Language-Change Index
 
 *comprise* misspelled *\*comprize*: Stage 1
 Current ratio in print \(*comprised* vs. *\*comprized*\): 850:1

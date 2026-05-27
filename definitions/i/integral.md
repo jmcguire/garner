@@ -10,7 +10,7 @@ integral; **integrant**. The second is a needless variant of the first as an adj
 
 Avoid also the mispronunciation /in-**teg**-rәl/.
 
-Language-Change Index
+## Language-Change Index
 
 *integral* misspelled *\*intergral*: Stage 1
 

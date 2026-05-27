@@ -8,7 +8,7 @@ possess. The phrase *is possessed of* is an old-fashioned phrase meaning "posses
 
  - "He also is *possessed with* \[read is *possessed of*\] an on/off switch and a tremendous grasp of diplomacy." Steve Buckley, "Love–Hate with Subban," *Boston Herald*, 8 May 2014, at 60.
 
-Language-Change Index
+## Language-Change Index
 
 *is possessed with* misused for *is possessed of*: Stage 2
 Current ratio in print \(*is possessed of* vs. *is possessed with*\): 9:1

@@ -6,7 +6,7 @@ celebrant.
 
 Often, however, *celebrant* appears where *celebrator* would be the better word—e.g.: "Enzo & Lucia's Restaurant . . . will be open Wednesday just in time for New Year's Eve *celebrants* \[read *celebrators*\]." "The Briefs," *Daily Herald* \(Chicago\), 21 Dec. 2001, at 1. Cf. **confirmand**.
 
-Language-Change Index
+## Language-Change Index
 
 *celebrant* for "a participant in a celebration": Stage 3
 

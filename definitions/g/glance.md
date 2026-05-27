@@ -6,7 +6,7 @@ glance; **glimpse**. The traditional idioms are that one *takes* or *gives a gla
 
  - "He shook his head as he *got his first glance at* \[read *got his first glimpse of* or *took his first glance at*\] the stat sheet." Mike DeCourcy, "Tigers Earn Sloppy Win," *Commercial Appeal* \(Memphis\), 3 Dec. 1996, at D1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *glimpse* misused for *glance*: Stage 1
 Current ratio in print \(*glances at* vs. *glimpses at*\): 76:1

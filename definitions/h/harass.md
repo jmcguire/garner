@@ -4,7 +4,7 @@ harass; **harassment**. During the Senate's confirmation hearings on the appoint
 
 The words are often misspelled *-rr-*. See spelling \(a\).
 
-Language-Change Index
+## Language-Change Index
 
 *harass* misspelled *\*harrass*: Stage 1
 Current ratio in print \(*harass* vs. \**harrass*\): 98:1

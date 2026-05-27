@@ -10,7 +10,7 @@ dual \(= double; twofold\) is sometimes misspelled *duel*—e.g.:
 
 Of course, *duel* is a noun that originally meant "a formal combat between two people, fought with weapons, under an accepted code of procedure, and in the presence of witnesses." Today, however, because the practice that it denotes has fallen into disuse, the term *duel* has extended its sense to refer to any contest between two opponents.
 
-Language-Change Index
+## Language-Change Index
 
 *duel* misused for *dual*: Stage 1
 Current ratio in print \(*dual nature* vs. *\*duel nature*\): 424:1

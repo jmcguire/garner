@@ -8,7 +8,7 @@ aviary; apiary. An *aviary* is a place for captive birds; an *apiary* is a place
 
  - "Salopek said the bees would be taken to his house, where he has an *aviary* \[read *apiary*\] he uses for bees." Jorge Milian, "Buzz Quieted in Wellington," *Palm Beach Post*, 22 Aug. 2015, at B1.
 
-Language-Change Index
+## Language-Change Index
 
 *aviary* misused for *insectarium*, etc.: Stage 1
 

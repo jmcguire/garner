@@ -4,7 +4,7 @@ offense; **offence**. The first has been the AmE spelling since about 1910; the 
 
 In BrE, and to a lesser extent in AmE, lawyers commonly distinguish *crimes* \(at common law\) from *offenses* \(created by statute\). It is common in both speech communities to use *offense* for less serious infractions and *crime* for more serious ones. Lawyers would not speak of the "offense" of murder. Nor would they refer to the "crime" of parking a car in the wrong place.
 
-Language-Change Index
+## Language-Change Index
 
 1. *offense* pronounced with accent on first syllable in sports usage: Stage 5
 

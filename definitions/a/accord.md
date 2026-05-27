@@ -12,7 +12,7 @@ To be *in accordance* is to be in conformity or compliance. Though sometimes cum
 
  - "The transaction went down *in* *accord* \[read *in accordance*\] with general plans outlined seven and a half months ago, except shareholders made a little more money than expected." Jeff Sturgeon, "Purchase of Valley Bank Complete," *Roanoke Times*, 2 July 2015, at A6.
 
-Language-Change Index
+## Language-Change Index
 
 *in accord with* misused for *in accordance with*: Stage 1
 

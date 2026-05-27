@@ -6,7 +6,7 @@
 
  - "We eat, pay bills, maneuver through the social pleasantries of an average set of *acquaintanceships* \[read *acquaintances*\], and try to maintain the cock of whatever hat we have chosen to wear through the terrain of an entire life." Edward Hoagland, "Sex and the River Styx," *Harper's Mag.*, Jan. 2003, at 49, 59.
 
-Language-Change Index
+## Language-Change Index
 
 *\*acquaintanceship* for *acquaintance*: Stage 2 Current ratio in print \(*their acquaintance* vs. *\*their acquaintanceship*\): 34:1
 

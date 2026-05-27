@@ -8,7 +8,7 @@ palette; **palate**; **pallet**. *Palette* \(= \[1\] a board used by artists for
 
 A *pallet* is either \(1\) a large frame for storing or shipping heavy things, or \(2\) a straw-filled mattress.
 
-Language-Change Index
+## Language-Change Index
 
 *palette* misused for *palate*: Stage 1
 

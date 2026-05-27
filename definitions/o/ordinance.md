@@ -16,7 +16,7 @@ The opposite error, *ordinance* for *ordnance*, also occurs—e.g.:
 
  - "They are reluctant veterans of detonating unexploded *ordinance* \[read *ordnance*\]." Amy Waldman, "A Nation Challenged," *N.Y. Times*, 23 Nov. 2001, at B4.
 
-Language-Change Index
+## Language-Change Index
 
 1. *ordnance* misused for *ordinance*: Stage 1
 Current ratio in print \(*city ordinance* vs. *\*city ordnance*\): 343:1

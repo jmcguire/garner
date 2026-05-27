@@ -12,7 +12,7 @@ See irregular verbs \(b\).
 
 The adjectival use of *engraved* predominates—e.g.: "An *engraved* silver urn, one of his old prizes, held a dozen felt-tipped pens, one of which he now took in hand." Arthur Miller, "The Bare Manuscript," *New Yorker*, 16 Dec. 2002, at 82, 91.
 
-Language-Change Index
+## Language-Change Index
 
 *engraven* for the past-participial *engraved*: Stage 1
 Current ratio in print \(*had engraved* vs. *\*had engraven*\): 27:1

@@ -6,7 +6,7 @@ There is some debate about *\*can't hardly*, only half of which need be taken se
 
 But regardless of whether it's a double negative, *\*can't hardly* is not Standard English. And the phrase can always be replaced by a more logical and more direct phrase in one of two ways. If a strong negative is intended, use *can't* \(or *cannot*\). If a soft negative is intended, use *can hardly* \(or, more typically, *could hardly*\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*can't hardly* for *can hardly*: Stage 1 Current ratio in print \(*can hardly* vs. *\*cannot hardly*\): 75:1
 

@@ -8,7 +8,7 @@ areola; **aureole; aureola**. *Areola* /a-ree-**oh**-lә/ or /ә-**ree**-ә-lә/
 
  - "She is naked, with one marionette-like arm upraised. Her *aureolas* \[read *areolas*\] are surrounded by concentric circles so that her breasts resemble marksmanship targets." Edward Guthmann, "Still in the Shadows, an Artist in His Own Right," *S.F. Chron.*, 3 Oct. 2006, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 *aureola* misused for *areola*: Stage 2
 Current ratio in print \(*aureole* vs. *aureola*\): 7:1

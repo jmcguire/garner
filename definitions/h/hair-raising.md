@@ -4,7 +4,7 @@ hair-raising, a near-equivalent of the Latin *horribilis* \(= making to stand on
 
 To *raze* is either to tear down or to cut close \(as with a razor\). See **raze**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*hair-razing* for *hair-raising*: Stage 1
 

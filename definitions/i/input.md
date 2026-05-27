@@ -12,7 +12,7 @@ Other possible replacements are *thoughts*, *suggestions*, *opinions*, *response
 
 For the verb *input*, as with the irregular verb *put*, the usual past-tense form is *input*—e.g.: "Some people had middle initials *inputted* \[read *input*\] and others didn't, and some names were misspelled." Peter Beinart, "Doing the Inaugural Hustle," *New Republic*, 3 Feb. 1997, at 22. \(See computerese.\) But the verb use is less well accepted than the noun use.
 
-Language-Change Index
+## Language-Change Index
 
 1. *input* as a noun: Stage 5
 

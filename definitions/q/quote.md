@@ -12,7 +12,7 @@ The problem with *quotation* is that, to the writer who hopes to deliver goods q
 
 The negative form, too, is a casualism—e.g.: "I need to correct several *misquotes* printed in the article by Kristi O'Brien, ‘Crosses Set in Protest of Abortions.' " Letter of Vicki Rice, "Claims Misquoting in Article About Abortions," *State J.-Register* \(Springfield, Ill.\), 23 May 1997, at 8. See **cite**, v.t. Cf. **cite**, n.
 
-Language-Change Index
+## Language-Change Index
 
 *quote* for *quotation*: Stage 4
 Current ratio in print \(*several quotations* vs. *several quotes*\): 1.05:1

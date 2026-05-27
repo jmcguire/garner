@@ -8,7 +8,7 @@ rambunctious is sometimes misspelled *\*rambunctuous*—e.g.:
 
 Cf. **bumptious** & **rumbustious**.
 
-Language-Change Index
+## Language-Change Index
 
 *rambunctious* misspelled *\*rambunctuous*: Stage 1
 Current ratio in print \(*rambunctious* vs. \**rambunctuous*\): 1,178:1

@@ -12,7 +12,7 @@ ever.
 
 In dialectal speech, *everybody* becomes *\*everbody*. So too in some writing, though one suspects that it's often a typographical error: "*Everbody* \[read *Everybody*\] knows what prolonged exposure to transponder rays does to a man." Linwood Barclay, "New Series ‘Highway 407 Patrol' Takes Its Toll," *Toronto Star*, 17 Dec. 2001, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *ever* misused for *every*: Stage 1
 

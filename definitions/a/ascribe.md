@@ -10,7 +10,7 @@ ascribe \(= to attribute to a specified cause\) is sometimes misused for *subscr
 
 Still, *ascribe* is far more commonly used correctly—e.g.: "Van Gogh's accelerating cycles of mental disturbance will probably never be fully diagnosed, but they continue to be variously *ascribed* to epilepsy, manic-depressive illness and alcohol." Jo Ann Lewis, "Trove of Van Goghs to Visit Washington," *Wash. Post*, 13 Jan. 1998, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 *ascribe* misused for *subscribe*: Stage 2
 Current ratio in print \(*don't subscribe to that* vs. *\*don't ascribe to that*\): 17:1

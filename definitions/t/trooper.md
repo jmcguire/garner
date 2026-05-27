@@ -8,7 +8,7 @@ trooper; **trouper**. *Trooper* = \(1\) a cavalry soldier or horse; \(2\) a poli
 
  - "Recently, our beloved 16-year-old cat, Casey, was stricken with cancer. Nevertheless, she was a real *trooper* \[read *trouper*\] until the end." Percy Ross, "Mom Needs Refrigerator," *St. Louis Post-Dispatch*, 20 Aug. 1997, at E6.
 
-Language-Change Index
+## Language-Change Index
 
 *\*real trooper* for *real trouper*: Stage 3
 Current ratio in print \(*real trouper* vs. *\*real trooper* in BrE\): 1.1:1

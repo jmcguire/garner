@@ -22,7 +22,7 @@ Remember: a speaker or writer *implies* something without putting it expressly. 
 
 Don't be swayed by apologetic notes in some dictionaries that sanction the use of *infer* as a substitute for *imply*. Stylists agree that the important distinction between these words deserves to be maintained.
 
-Language-Change Index
+## Language-Change Index
 
 *infer* misused for *imply*: Stage 3
 Current ratio in print \(*clearly implying that* vs. *\*clearly inferring that*\): 35:1

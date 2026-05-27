@@ -8,7 +8,7 @@ The two spellings are occasionally confounded, almost always in the direction of
 
  - "Today they will dismantle the 40 horses, benches and other items that make up the *carousal* \[read *carousel*\]." David Connerty, "Nostalgia Loses," *Portland Press Herald*, 25 Mar. 1997, at B1.
 
-Language-Change Index
+## Language-Change Index
 
 *carousal* misused for *carousel*: Stage 1
 

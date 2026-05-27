@@ -10,7 +10,7 @@ chink \(= a fissure or slit, as in armor\) appears to derive from the Middle Eng
 
 But sensitivities understandably run high. On 30 August 2015, *The Wall Street Journal* tweeted a headline: "A Chink in His Armor? Xi Jinping Looks Vulnerable for the First Time." Within moments it had been untweeted, yet indignant readers had preserved and retweeted it—furiously questioning the *WSJ*'s judgment. People wanted to know whether the writers were clueless or bigoted. Either conclusion would be damning. See prejudiced and prejudicial terms.
 
-Language-Change Index
+## Language-Change Index
 
 *kink* misused for *chink*: Stage 2
 

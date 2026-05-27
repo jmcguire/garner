@@ -12,7 +12,7 @@ infest.
 
 The opposite error, in which *infect* ousts the proper word *infest*, is rare but not entirely exterminated—e.g.: "There were no demons in his past, but night after night demons would *infect* \[read *infest*\] his dreams to the point that he was beginning to question his sanity." A.S. Mott, "In His Head," in *Fireside Ghost Stories* 9, 9 \(2003\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *infest* misused for *infect*: Stage 1
 
@@ -28,7 +28,7 @@ Language-Change Index
 
  - "A *rat-invested* \[read *rat-infested*\] former industrial estate is finally to be pulled down to make way for housing." "*Rat-Invested* \[read *Rat-Infested*\] Industrial Estate to Be Bulldozed," *Braintree & Witham Times* \(U.K.\), 12 Sept. 2019.
 
-Language-Change Index
+## Language-Change Index
 
 *invest* misused for *infest*: Stage 1
 Current ratio in print \(*shark-infested* vs. \**shark-invested*\): 239:1

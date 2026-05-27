@@ -20,7 +20,7 @@ Some writers seem to believe that the phrase refers not to people but to newfoun
 
 The singular and plural forms are pronounced /noo-voh **reesh**/.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*nouveau rich* for *nouveau riche*: Stage 1
 Current ratio in print \(*nouveau riche* vs. *\*nouveau rich*\): 55:1

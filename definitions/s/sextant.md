@@ -8,7 +8,7 @@ sextant; **sexton**. A *sextant* is an old-fashioned instrument used in navigati
 
  - "Mr. Whitehurst was a member of New Saint Mark Baptist Church . . . , where he was a past chairman; member of Deacon Board; past president of the Floral Club; Pastor's Aide; Trustee Board; past treasurer of the church; and *Sextant* \[read *Sexton*\]." "David R. Whitehurst Sr." \(obit.\), *Virginian-Pilot & Ledger Star* \(Norfolk\), 29 Nov. 2001, at B8.
 
-Language-Change Index
+## Language-Change Index
 
 *sextant* misused for *sexton*: Stage 1
 

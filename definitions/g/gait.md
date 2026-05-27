@@ -10,7 +10,7 @@ gait \(= a manner of walking, trotting, etc.\) is sometimes confused with its ho
 
 See word-swapping.
 
-Language-Change Index
+## Language-Change Index
 
 *gate* misused for *gait*: Stage 1
 

@@ -20,7 +20,7 @@ As might be expected—given the prevalence of word-swapping—*cache* is someti
 
 The opposite error—*cachet* misused for *cache*—typically occurs with phrases that would properly be *cache of weapons*, *cache of gold*, *cache of supplies*, etc.—e.g.: "On a voyage back to Asunción, \[John Parrish\] carr\[ied\] a *cachet* \[read *cache*\] of weapons desperately desired by Francia." Eduardo González, *The Monstered Self* 197 \(1992\).
 
-Language-Change Index
+## Language-Change Index
 
 *cache* misused for *cachet*: Stage 1 Current ratio in print \(*social cachet* vs. *\*social cache*\): 13:1 Current ratio in print \(*a lot of cachet* vs. *\*a lot of cache*\): 1.5:1
 

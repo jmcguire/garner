@@ -4,7 +4,7 @@ advance guard \(= a military contingent sent before the main troops\) is sometim
 
 The variant also occurs in figurative uses, in which the true meaning might be *avant garde*—e.g.: "Schwarzkogler, who died in 1969 either after accidentally falling from a window or defenestrating himself, was a young, emotionally fragile member of the controversial Viennese artistic *advanced guard* \[read *avant garde*\] of the 1960s." Robert W. Duffy, "Art as Revelation," *St. Louis Post-Dispatch*, 28 Jan. 1996, Everyday Mag. §, at C4. See **advanced**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*advanced guard* for *advance guard*: Stage 4 Current ratio in print \(*advance guard* vs. *\*advanced guard*\): 2.4:1
 

@@ -18,7 +18,7 @@ By slipshod extension, *nee* is sometimes used to mean "formerly" and applied to
 
  - "If the Bayer \(*nee* \[read *formerly*\] Alcoa\) sign hadn't been on Mount Washington all these years, we would be just as well without it." Editorial, "Lighting Their Ire: Signs on Buildings Bring Out the Art Critic in Everyone," *Pitt. Post-Gaz.*, 22 July 2001, at E3.
 
-Language-Change Index
+## Language-Change Index
 
 1. *née* for *né* in reference to a man: Stage 3
 

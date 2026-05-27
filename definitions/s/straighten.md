@@ -8,7 +8,7 @@ straighten; **straiten**. These two verbs have different meanings. *Straighten* 
 
  - "So it has fallen to Villas-Boas to manage the transition in comparatively *straightened* \[read *straitened*\] circumstances while handling egos that rub against each other like tectonic plates." Oliver Holt, "Lamps Has Put AVB in a Whole New Light," *Mirror* \(U.K.\), 13 Dec. 2011, Sport §, at 56.
 
-Language-Change Index
+## Language-Change Index
 
 *straighten* misused for *straiten*: Stage 2
 Current ratio in print \(*straitened circumstances* vs. *\*straightened circumstances*\): 7:1

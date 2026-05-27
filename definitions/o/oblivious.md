@@ -4,7 +4,7 @@ oblivious has traditionally taken the preposition *of* in its strictest \(an inc
 
 Although *to* is now the more common mate of *oblivious*, some fastidious speakers and writers continue to use *of*, regardless of whether the meaning is "forgetful" or "unaware"—e.g.: "He confesses that he was *oblivious to* \[or *oblivious of*\] his son, and the evidence he supplies is persuasive." Malcolm Jones Jr., "The Man Who Sired a Monster," *Newsweek*, 7 Mar. 1994, at 67. Both prepositions are standard.
 
-Language-Change Index
+## Language-Change Index
 
 *oblivious to* for *oblivious of*: Stage 5 1934 ratio in print \(*oblivious of* vs. *oblivious to*\): 1.4:1
 Current ratio in print \(*oblivious to* vs. *oblivious of *\): 5:1

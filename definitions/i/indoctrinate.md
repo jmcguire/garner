@@ -6,7 +6,7 @@ indoctrinate is sometimes displaced by *\*indoctrine*, an obsolete variant that 
 
  - "African American women often are *indoctrined* \[read *indoctrinated*\] with the belief that there's something wrong, unattractive, about their curvy bodies, broad noses, full lips and kinky hair, the women said." Norma Martin, "Austinites Experience ‘Exhale,' " *Austin Am.-Statesman*, 24 Dec. 1995, at E1, E5.
 
-Language-Change Index
+## Language-Change Index
 
 *\*indoctrine* for *indoctrinate*: Stage 1
 Current ratio in print \(*indoctrinated* vs. *\*indoctrined*\): 878:1

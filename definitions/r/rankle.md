@@ -8,7 +8,7 @@ rankle \(= to irritate or embitter\) is traditionally a transitive verb, not an 
 
  - "I am slightly nervous that the memory of the photographs of our wild dance at Atlantic on the cover of the *Star* and the *Enquirer* might still *rankle with* \[read *rankle*\] her estranged husband, Bruce Willis, who will be attending the premiere that night." Christopher Ciccone, *Life with My Sister Madonna* 257 \(2009\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*rankle with* for *rankle*: Stage 3
 Current ratio in print \(*rankled him* vs. *\*rankled with him*\): 5:1

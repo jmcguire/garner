@@ -20,7 +20,7 @@ Sometimes, too, it's wrongly made *slue* \(= an act of rotating or veering\)—e
 
 For still further confusions between these words, see **slough** & **slue**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *slough* misused for *slew*: Stage 1
 Current ratio in print \(*whole slew* vs. *\*whole slough*\): 150:1

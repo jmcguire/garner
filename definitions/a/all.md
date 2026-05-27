@@ -22,7 +22,7 @@ Current ratio in print \(*all the* vs. *all of the*\): 9:1
 
 See **not \(a\)**. Cf. **\*everyone . . . not**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*all . . . not* for *not all*: Stage 3 Current ratio in print \(*not all of them are* vs. *\*all of them are not*\): 13:1
 

@@ -24,7 +24,7 @@ Other writers seem to want the word to mean "summon"—e.g.:
 
  - "She stood staring at her own ring finger, remembering as if *cozening* \[read *summoning*?\] back a dream . . . ." Nancy Springer, "Mariposa," in *Firebirds* 107, 120 \(Sharyn November ed., 2003\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *cozen* misused for *coddle*: Stage 1
 

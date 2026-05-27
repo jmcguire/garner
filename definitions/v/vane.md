@@ -8,7 +8,7 @@ vane \(the mechanical device for showing wind direction\) is sometimes mistakenl
 
 The word is most common in the compound *weathervane*.
 
-Language-Change Index
+## Language-Change Index
 
 *vain* or *vein* misused for *vane*: Stage 1
 Current ratio in print \(*weather vane* vs. *\*weather vein*\): 288:1

@@ -26,7 +26,7 @@ To *bail a person out* is to procure a detainee's release from jail by monetaril
 
 In the sense of departing, *bail* is the word <she bailed out of the plane> <he bailed on us>. Given the length of this entry, it's time to bail.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*baling water* for *bailing water*: Stage 2
 Current ratio in print \(*bailing water* vs. *\*baling water*\): 11:1

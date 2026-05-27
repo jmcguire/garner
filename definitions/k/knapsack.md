@@ -8,7 +8,7 @@ knapsack \(= a lightweight frameless backpack\) is frequently misspelled *\*naps
 
  - "Thousands of troops returned from Second World War battles with battered copies in their *napsacks* \[read *knapsacks*\]." Ian Hernon, "Author's Words Are Still Relevant Today," *Liverpool Echo*, 26 Jan. 2011, at 10.
 
-Language-Change Index
+## Language-Change Index
 
 *knapsack* misspelled *\*napsack*: Stage 1
 Current ratio in print \(*knapsack* vs. \**napsack*\): 720:1

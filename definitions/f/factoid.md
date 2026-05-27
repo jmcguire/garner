@@ -20,7 +20,7 @@ Today sense 2 is nearly universal and must be accepted as standard—e.g.:
 
  - "*Factoid*: One part per million equates to one second in 11 1/2 days. One part per billion equates to one second in 32 years. And one part per trillion is the same as one second in 32,000 years." *San Diego Union-Trib.*, 13 Dec. 2000, at F2.
 
-Language-Change Index
+## Language-Change Index
 
 *factoid* in reference to an interesting fact: Stage 5
 

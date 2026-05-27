@@ -6,7 +6,7 @@ then.
 
 **B. For *than*.** This is a fairly common error, especially in newsprint—e.g.: "He enjoyed much more autonomy with ‘Face/Off' *then* \[read *than*\] he did with his other movies." Douglas J. Rowe, "Director Woo Puts a New Face on American Family Values," *Salt Lake Trib.*, 4 July 1997, at C8. For the reverse error, see **than \(b\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *then* misused for *than*: Stage 1
 

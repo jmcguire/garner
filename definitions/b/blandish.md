@@ -6,7 +6,7 @@ blandish; **brandish**. *Blandish* = to cajole; to persuade by flattery or coaxi
 
 Misusages occur most often with the corresponding nouns, especially *brandishment* for *blandishment*—e.g.: "Bargaining with the touts was almost as difficult as staying civil with them; but neither was as difficult as resisting their *brandishments* \[read *blandishments*\] toward our sweet little thing." David O. Seal, "Traveling by the Seat of Your Pants," *News Trib.* \(Tacoma\), 16 Feb. 1994, Food/Family §, at 3.
 
-Language-Change Index
+## Language-Change Index
 
 *brandishment* misused for *blandishment*: Stage 1
 

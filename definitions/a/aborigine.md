@@ -4,7 +4,7 @@ aborigine, as a singular noun, is a back-formation from the plural *aborigines* 
 
 The spelling *Aborigine*, with the initial capital, is traditional when referring to the indigenous peoples of Australia. See race-related terms \(l\).
 
-Language-Change Index
+## Language-Change Index
 
 *aborigine* as a singular: Stage 5
 

@@ -18,7 +18,7 @@ The opposite error, though less common, also occurs—e.g.:
 
 See word-swapping.
 
-Language-Change Index
+## Language-Change Index
 
 1. *forbear* misused for *forebear*: Stage 2
 Current ratio in print \(*their forebears* vs. *\*their forbears*\): 7:1

@@ -12,7 +12,7 @@ The word does occasionally crop up in AmE—e.g.: "For 10 to 20 hours during an 
 
 The word is commonly misspelled *\*liase*.
 
-Language-Change Index
+## Language-Change Index
 
 *liaise* as a word: Stage 5
 

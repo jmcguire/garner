@@ -6,7 +6,7 @@ When the word denotes the drug MDMA, the spelling remains the same but the term 
 
 Occasionally the word is also misspelled with an *x* displacing the *c*. Here, the doubly mangled spelling got past the copy desk: "What begins with sitcom-style infighting turns to touchy-feely reconciliation when the family stoner drops a tab of *Extacy* \[read *Ecstasy*\] in patriarch Ira's drink." Peter Debruge, "When Do We Eat?," *Daily Variety*, 13 Apr. 2006, at 20. See spelling \(a\).
 
-Language-Change Index
+## Language-Change Index
 
 *ecstasy* misspelled *\*ecstacy* or *\*extacy*: Stage 1
 Current ratio in print \(*ecstasy* vs. *\*ecstacy* vs. *\*extacy*\): 380:8:1

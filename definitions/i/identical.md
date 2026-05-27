@@ -8,7 +8,7 @@ The phrase *\*same identical*—more often heard than seen—is redundant. E.g.:
 
  - "No one who has not traveled the *same identical* \[read *same*\] road could possibly know the mountains that were climbed, the blood, sweat and tears and the fear like punches in the gut constantly in a barrage that few professional fighters could or would tolerate." Patricia Tedesco, "Utica Community Was There When the Times Were Tough," *Observer-Dispatch* \(Utica, N.Y.\), 6 Aug. 2015, at A7.
 
-Language-Change Index
+## Language-Change Index
 
 *identical to* for *identical with*: Stage 5
 Current ratio in print \(*identical to* vs. *identical with*\): 2.4:1

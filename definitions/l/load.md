@@ -8,7 +8,7 @@ The correct phrase, then, is *mother lode* \(= an abundant supply\), not *\*moth
 
  - "This site is a *mother load* \[read *mother lode*\] of investing and financial planning information." Ted Sickinger, "Web Review," *Kansas City Star*, 6 Apr. 1997, at F23.
 
-Language-Change Index
+## Language-Change Index
 
 *\*mother load* for *mother lode*: Stage 1
 Current ratio in print \(*the mother lode* vs. *\*the mother load*\): 23:1

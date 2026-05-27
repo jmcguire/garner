@@ -10,7 +10,7 @@ worst.
 
 **B. *Two worst*; *\*worst two*.** The first, which is more logical than the second, has always predominated in print. *\*Worst two* is loose phrasing—e.g.: "Their *worst two* \[read *two worst*\] positions for offensive production have been catcher and third base." Phil Rogers, "Help Needed: Where Do Sox Turn?," *Chicago Trib.*, 26 June 1997, Sports §, at 10.
 
-Language-Change Index
+## Language-Change Index
 
 *\*worst two* for *two worst*: Stage 3
 Current ratio in print \(*two worst* vs. *\*worst two*\): 3:1

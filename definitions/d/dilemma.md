@@ -4,7 +4,7 @@ dilemma \(= a choice between two unpleasant or difficult alternatives\) should n
 
 The adjective is *dilemmatic*—e.g.: "Naturally, working with an interior designer can get you off the *dilemmatic* hook—just drop a few buzzwords like ‘palazzo,' ‘knotty pine,' and ‘Regency.' " Victoria Lautman, "Spinning the Style Dial," *Chicago Trib.*, 22 Sept. 1996, Home Design Mag. §, at 8.
 
-Language-Change Index
+## Language-Change Index
 
 *dilemma* in reference to a problem or predicament that doesn't involve a clear choice between alternative courses of action: Stage 4
 

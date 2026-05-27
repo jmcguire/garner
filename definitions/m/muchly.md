@@ -10,7 +10,7 @@
 
 For other adverbs with a superfluous *-ly*, see adverbs \(d\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*muchly* for *much*: Stage 1
 Current ratio in print \(*much appreciated* vs. *\*muchly appreciated*\): 1,504:1

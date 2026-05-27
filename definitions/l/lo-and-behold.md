@@ -12,7 +12,7 @@ Since the 1880s, some have mistakenly written \**low and behold*, a blunder that
 
 Some might assert that these regional newspapers can hardly signal much of anything, but that's wrong. There's a *reason* for including so many far-flung sources in this book: they truly show what's happening in the written language. Besides, it was a mistranscription in *The New York Times* \(in prominent type\) that, in August 2021, alerted me to this error. Lo and behold, it turns out that the error grew much more pronounced in print sources internationally after 2000.
 
-Language-Change Index
+## Language-Change Index
 
 *\*low and behold* for *lo and behold*: Stage 2
 Current ratio in print \(*lo and behold* vs. *\*low and behold*\): 11:1

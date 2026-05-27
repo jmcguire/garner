@@ -10,7 +10,7 @@ In a stupendous example of word-swapping, *vivacious* infrequently displaces *vo
 
  - "As a *vivacious* \[read *voracious*\] reader, she will skim through many novels for inspiration, reading the last page first, until she checks out one or two for home reading." Jeremy Bauer-Wolf, "Carroll Libraries Promoting Creative Writing Programs for Teens," *Advocate Eldersburg & Sykesville* \(Md.\), 19 Nov. 2013.
 
-Language-Change Index
+## Language-Change Index
 
 \**vivacious reader* for *voracious reader:* Stage 1
 Current ratio in print \(*voracious reader* vs. \**vivacious reader*\): 1,417:1

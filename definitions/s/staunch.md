@@ -14,7 +14,7 @@ Nevertheless, *stanch* still appears in this sense, almost as often as *staunch*
 
  - "Russia could be going after Ukrainian railways, roads and bridges more aggressively to try to *stanch* the flow of Western weapons." Anton Troianovski & Julian E. Barnes, "Why Isn't Putin Hitting Harder on Battlefield?," *N.Y. Times*, 4 May 2022, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 Current ratio in print \(*staunching the flow* vs. *stanching the flow* in World Englishes\): 1.6:1
 

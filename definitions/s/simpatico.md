@@ -10,7 +10,7 @@ simpatico. Like *sympathy*, this word derives from the Greek word *sympátheia* 
 
 Although *simpatico* is an adjective, some err by wielding it as a noun—e.g.: "Iowans this Sunday will want to see if there is some ‘*sympatico* \[read, perhaps, *affinity*\], is there a gut feeling about this person. . . . They want to feel his cloth, they want to see just how real this guy is,' \[Sen. Tom\] Harkin said." Lynn Sweet, "Dems ‘Confused,' Obama Writes," *Chicago Sun Times*, 15 Sept. 2006, News §, at 22 \(quoting Senator Tom Harkin on the subject of presidential nominee Barack Obama\). That type of misusage repels sympathy.
 
-Language-Change Index
+## Language-Change Index
 
 1. *simpatico* misspelled *\*sympatico*: Stage 1
 Current ratio in print \(*simpatico* vs. \**sympatico*\): 11:1

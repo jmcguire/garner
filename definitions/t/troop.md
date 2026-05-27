@@ -10,7 +10,7 @@ While some object to the use of *troops* \(always plural\) to refer to individua
 
  - "A writer, director and military scholar, Milius assembled a worthy *troop* \[read *troupe*\] of tough-guy actors for his brawny ‘Rough Riders' miniseries." Lon Grahnke, "Charging Forth into History," *Chicago Sun-Times*, 18 July 1997, at 37.
 
-Language-Change Index
+## Language-Change Index
 
 *troop* misused for *troupe*: Stage 1
 Current ratio in print \(*theater troupe* vs. *\*theater troop*\): 33:1

@@ -10,7 +10,7 @@ mete out, v.t. \(*mete* from an Old English word for "measure"\), is the correct
 
 This phrase is also sometimes incorrectly written *\*meter out*—e.g.: "The coach has *metered out* \[read *meted out*\] discipline with all the predictable consistency of spilled mercury, having no hard-and-fast punishment standards." Nick Horvath Jr., "Don't Turn That Page," *Patriot-News* \(Harrisburg\), 25 Oct. 2000, at C1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*meat out* for *mete out*: Stage 1
 

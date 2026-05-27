@@ -8,7 +8,7 @@ as of.
 
 But *as of now* does not mean "at present"; rather, it means "up to the present time." Wilson Follett also disapproved of the phrase—recommending instead *up to now* or *for the present* \(*MAU* at 76\)—but *as of now* is today unobjectionable in AmE and BrE alike.
 
-Language-Change Index
+## Language-Change Index
 
 *as of now* meaning "up to now": Stage 5
 

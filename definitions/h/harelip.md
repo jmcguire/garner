@@ -10,7 +10,7 @@ harelip \(= a congenital deformity in which the upper lip is cleft, like that of
 
 The term is considered offensive. *Cleft lip* or *cleft palate* has been the preferred term since the 1940s.
 
-Language-Change Index
+## Language-Change Index
 
 *\*hairlip* for *harelip*: Stage 1
 Current ratio in print \(*harelip* vs. *\*hairlip*\): 36:1

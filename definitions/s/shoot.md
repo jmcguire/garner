@@ -8,7 +8,7 @@ shoot, n.; **chute**. The latter means \(1\) "an inclined channel or passage"; \
 
  - "I . . . could only laugh with relief that I was no longer hurtling out of control down an ice *shute* \[read *chute*\]." James Bedding, "Sixty Seconds of Sublime, Stupefying Terror," *Daily Telegraph*, 4 Jan. 1997, at 21.
 
-Language-Change Index
+## Language-Change Index
 
 *\*shute* for *chute*: Stage 1
 Current ratio in print \(*chutes* vs. \**shutes*\): 134:1

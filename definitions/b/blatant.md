@@ -6,7 +6,7 @@ Likewise, *flagrant* is sometimes misused for *blatant*—e.g.: "But all the sin
 
 The phrase *\*blatantly obvious* is a redundancy—e.g.: "That brought to mind—my mind, anyhow—a past convention when network in-house bias was so *blatantly obvious* \[read *blatant*\] that the GOP brass lodged a formal complaint about it." Jim Wright, "Your Humble Swami Does It Again\! \(Applause\)," *Dallas Morning News*, 22 Sept. 1996, at J7. You might try *blindingly obvious* instead.
 
-Language-Change Index
+## Language-Change Index
 
 1. *blatant* for *flagrant*: Stage 2
 Current ratio in print \(*flagrant violation* vs. *blatant violation*\): 2.4:1

@@ -6,7 +6,7 @@ auxiliary. So spelled, this word is best pronounced /awg-**zil**-yә-ree/. Perha
 
  - "She was a member of the Ladies *Auxillary* \[read *Auxiliary*\] of Gerald O'Neill Post \#1683 American Legion." "Helen G. Featherstone" \(obit.\), *Times Union* \(Albany\), 14 Jan. 1997, at B6.
 
-Language-Change Index
+## Language-Change Index
 
 *auxiliary* misspelled *\*auxillary*: Stage 1
 Current ratio in print \(*auxiliary* vs. \**auxillary*\): 498:1

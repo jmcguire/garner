@@ -10,7 +10,7 @@ penultimate \(= next-to-last\) is sometimes misused for *ultimate* or *quintesse
 
 Sometimes, too, the word is misspelled *\*pentultimate* \(perhaps through sound association with *pent-up*\)—e.g.: "When Poole secured a 4–2 in the *pentultimate* \[read *penultimate*\] race the scores were level at 42–42." Nigel Pearson, "Champion Rickardsson Is Great Leveller," *Birmingham Evening Mail* \(U.K.\), 8 Apr. 2003, at 51. Cf. **paramount**, **tantamount** & **ultimately**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *penultimate* misused for *ultimate*: Stage 2
 Current ratio in print \(*the ultimate source* vs. *\*the penultimate source*\): 843:1

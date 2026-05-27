@@ -8,7 +8,7 @@ harebrained is the correct form; *\*hairbrained* is the common blunder. The miss
 
  - "Mocked by its failure to find Osama bin Laden, the Bush Administration . . . exchanged the hard currency of our inherent idealism for the counterfeit coin of a *hair-brained* \[read *harebrained*\] cynicism." Lewis H. Lapham, "Cause for Dissent," *Harper's Mag.*, Apr. 2003, at 39.
 
-Language-Change Index
+## Language-Change Index
 
 *\*hairbrained* for *harebrained*: Stage 1
 Current ratio in print \(*harebrained* vs. *\*hairbrained*\): 16:1

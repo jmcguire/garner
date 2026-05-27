@@ -16,7 +16,7 @@ Of course, it's perfectly acceptable to write *these kinds* or *these types* or 
 
 See **sort of**.
 
-Language-Change Index
+## Language-Change Index
 
 *these* followed by *kind*, *type*, or *sort* in the singular: Stage 2
 Current ratio in print \(*these kinds of* vs. *\*these kind of *\): 11:1

@@ -12,7 +12,7 @@ The *OED* lists *think* as a colloquial noun, with several citations from the 18
 
 The heavy-metal band Judas Priest may share some blame for the widespread acceptance of the variant wording; its most commercially successful song was "You've Got Another Thing Coming," first recorded in 1982.
 
-Language-Change Index
+## Language-Change Index
 
 *\*another thing coming* for *another think coming*: Stage 4
 Current ratio in print \(*another think coming* vs. *\*another thing coming*\): 1.2:1

@@ -16,7 +16,7 @@ The word *ravish*, now literary or archaic, should be avoided in nonfigurative c
 
 Still, the word *ravishing* \(= captivating, enchanting\) is generally considered a perfectly good and complimentary adjective.
 
-Language-Change Index
+## Language-Change Index
 
 *ravish* misused for *ravage*: Stage 1
 Current ratio in print \(*the ravages of* vs. *\*the ravishes of *\): 439:1

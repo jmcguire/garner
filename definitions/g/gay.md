@@ -18,7 +18,7 @@ Readers are likely to believe, at first, that he was homosexual—because of the
 
 The new sense of *gay* is now standard. Trying to reclaim the old sense would be futile. Meanwhile, there's much to be said for gays' having a more or less neutral term to describe themselves—something besides the familiar old dysphemisms. See prejudiced and prejudicial terms.
 
-Language-Change Index
+## Language-Change Index
 
 *gay* meaning "homosexual": Stage 5
 

@@ -8,7 +8,7 @@ Modern writers occasionally mangle the phrase by writing *\*beyond the pail* ins
 
  - "Justice \[William\] Brennan, who authored the opinion in *Roth* that placed obscenity *beyond the pail* \[read *beyond the pale*\] of First Amendment protection, now dissented." John E. Semouche, *Censoring Sex* 45 \(2007\). \(Here, though, *beyond the pale* would also be inappropriate, unless you consider the First Amendment "outside the bounds of civilized behavior."\)
 
-Language-Change Index
+## Language-Change Index
 
 *\*beyond the pail* for *beyond the pale*: Stage 1
 Current ratio in print \(*beyond the pale* vs. *\*beyond the pail*\): 367:1

@@ -18,7 +18,7 @@ And with all this use of the nouns, it is hardly surprising that writers have fe
 
  - "Even better, if the dollar turned around, as the Treasury was saying it would, then the U.S. government could score a profit by ‘*defeasing*' the bonds—a method of calling in the debt." James K. Glassman, "Why Buy High When Lows Are Out There?," *Wash. Post*, 24 Sept. 1995, at H1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*defeasement* for *defeasance*: Stage 1
 Current ratio in print \(*defeasance* vs. *\*defeasement*\): 55:1

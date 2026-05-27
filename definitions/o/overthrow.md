@@ -6,7 +6,7 @@ overthrow, n.; **\*overthrowal**. The latter, a needless variant that cropped up
 
  - "It was just completed at the time of his *overthrowal* \[read *overthrow*\] and death in 1989, and the present Parliament uses it now." Elizabeth Shannon, "Flair, Mystery Fill Romania," *Boston Globe*, 7 Mar. 1999, at M5.
 
-Language-Change Index
+## Language-Change Index
 
 *\*overthrowal* for the noun *overthrow*: Stage 1
 Current ratio in print \(*the overthrow of* vs. *\*the overthrowal of *\): 2,148:1

@@ -6,7 +6,7 @@
 
  - " ‘In principle, we're also opposed to any form of popular culture that *slanderizes* \[read *slanders*\] African American women.' " Elmer Smith, "Shakur's ‘Image' Problem," *Sacramento Bee*, 22 Jan. 1994, at B7 \(quoting Don Rojas, an NAACP representative\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*slanderize* for the verb *slander*: Stage 1
 Current ratio in print \(*slander*, vb. vs. *\*slanderize*\): 954:1

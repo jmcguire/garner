@@ -10,7 +10,7 @@ Because of its etymological association with *anal*, writers often, by false ana
 
 Cf. **cunnilingus**.
 
-Language-Change Index
+## Language-Change Index
 
 *anilingus* misspelled *\*analingus*: Stage 4
 Current ratio in print \(*anilingus* vs. \**analingus* vs. *\*anilinctus*\): 6:4:1

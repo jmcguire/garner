@@ -10,7 +10,7 @@ predate = \(1\) /pree-**dayt**/ to have existed before \(something else\); or \(
 
 For sense 1, see **antedate**.
 
-Language-Change Index
+## Language-Change Index
 
 *predate* misused for *prey*, vb.: Stage 1
 

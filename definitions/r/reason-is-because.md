@@ -16,7 +16,7 @@ Variations such as *\*reason is due to* are no better—e.g.: "It's a challenge 
 
 In 2017, a lead editorial in *The Wall Street Journal* began: "Even Donald Trump might agree that a major *reason* he won the 2016 election *is because* \[read *is that*\] voters couldn't abide Hillary Clinton's legacy of scandal, deception, and stonewalling." "The Trumps and the Truth," *Wall Street J.*, 18 July 2017, at A14.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*reason . . . is because*: Stage 4
 Current ratio in print \(*reason is that* vs. *\*reason is because*\): 18:1

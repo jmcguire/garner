@@ -8,7 +8,7 @@ indisputably \(= unquestionably\) is the usual word, not *\*indisputedly*, which
 
  - "As the composer of one *indisputedly* \[read *indisputably*\] great musical \(‘A Chorus Line'\) . . . , Hamlisch is still reaching for the sustained depth found in the mentors he often cites: Cole Porter, Richard Rodgers, Jerome Kern and so on." Andrew Adler, "Hamlisch Still Seeking the Depth of His Mentors," *Courier-J.* \(Louisville\), 25 Nov. 2001, at D3.
 
-Language-Change Index
+## Language-Change Index
 
 *\*indisputedly* for *indisputably* or *undisputedly*: Stage 1
 Current ratio in print \(*indisputably* vs. *\*indisputedly*\): 548:1

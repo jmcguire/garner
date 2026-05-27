@@ -18,7 +18,7 @@ Although it's sometimes hard to be sure from the context, *tantalize* often seem
 
  - "More sweet than sexy, more tender than *tantalizing* \[read *titillating*?\], the film is one that even a prime time audience could love." Lauren Kern, "Warm\! Fuzzy\! Gay\!," *Houston Press*, 22 May 1997, Arts §.
 
-Language-Change Index
+## Language-Change Index
 
 *tantalize* misused for *titillate*: Stage 1
 

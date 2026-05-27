@@ -18,7 +18,7 @@ But some writers ill-advisedly make it plural—e.g.:
 
 Likewise, the city of Port Everglades takes a singular verb—e.g.: "Port Everglades *is* working on a security plan." Steven Thomma et al., "Six Months After Terrors Struck the United States, Americans Are . . . ," *Miami Herald*, 10 Mar. 2002, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*Everglades are* for *Everglades is*: Stage 3
 Current ratio in print \(*The Everglades is* vs. *\*The Everglades are*\): 1.9:1

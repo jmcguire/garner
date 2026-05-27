@@ -24,7 +24,7 @@ See irregular verbs.
 
  - "Connecticut *treaded* water for the first half of the year before beginning its jobs descent, losing 10,500 jobs in September–November." Kenneth R. Gosselin et al., "Battered and Bruised: The Year in Business," *Hartford Courant*, 1 Jan. 2009, at A12.
 
-Language-Change Index
+## Language-Change Index
 
 1. *trod* misused for present-tense *tread*: Stage 1
 Current ratio in print \(*treading on* vs. *\*trodding on*\): 319:1

@@ -22,7 +22,7 @@ The opposite error—*rang* as a past-participial form in place of *rung*—is m
 
 But it does appear in American sources—e.g.: "Abdin \(25–2–3\) got up at \[the count of\] eight, after the bell had *rang* \[read *rung*\]." "It's a Giant Party in Volunteer Land," *Buffalo News*, 31 Jan. 1999, at D14. See also **wring**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *rung* misused for simple-past *rang*: Stage 1
 Current ratio in print \(*he rang* vs. *\*he rung*\): 30:1

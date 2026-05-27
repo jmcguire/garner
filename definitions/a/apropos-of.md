@@ -10,7 +10,7 @@ As for comparative frequency in print, *apropos of* has predominated over the ri
 
 The word is sometimes misused for *appropriate*, adj., a mistake often signaled by the use of *to*—e.g.: "Just three years ago, Sears, Roebuck and Co.'s finance department built a data warehouse which the retailer, *apropos to* its business, calls a data mall." Leslie Goff, "Beitler Sees the Data Side of Sears," *ComputerWorld*, 15 Sept. 1997, at 79. \(A possible revision: *Just three years ago, Sears, Roebuck and Co.'s finance department built a data warehouse called \(appropriately\) a data mall.*\)
 
-Language-Change Index
+## Language-Change Index
 
 *apropos* misused for *appropriate*: Stage 1
 Current ratio in print \(*it is appropriate that* vs. *\*it is apropos that*\): 328:1

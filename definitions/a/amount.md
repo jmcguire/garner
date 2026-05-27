@@ -10,7 +10,7 @@ amount; **number**. The first is used with mass nouns, the second with count nou
 
 See count nouns and mass nouns.
 
-Language-Change Index
+## Language-Change Index
 
 *amount* misused for *number*: Stage 2
 Current ratio in print \(*number of people* vs. ***\*amount** of people*\): 44:1

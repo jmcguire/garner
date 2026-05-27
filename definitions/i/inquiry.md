@@ -14,7 +14,7 @@ inquiry.
 
  - "Homeland Security special agents \[are engaged in\] an ongoing *query* \[read *inquiry* or *investigation*\] into the sexual abuse of multiple children." Lyda Longa, "Additional Charges Lodged," *Sierra Vista Herald* \(Ariz.\), 14 Apr. 2020, Crime §.
 
-Language-Change Index
+## Language-Change Index
 
 *query* misused for *inquiry*: Stage 1
 

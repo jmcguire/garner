@@ -14,7 +14,7 @@ each other.
 
 Many careful writers and editors will doubtless continue to observe the distinction, but no one else will notice.
 
-Language-Change Index
+## Language-Change Index
 
 *each other* for *one another* \(i.e., for more than two items\): Stage 4
 
@@ -26,7 +26,7 @@ Language-Change Index
 
  - "A 2-year-old program . . . trains space explorers how to stay on *each others'* \[read *each other's*\] good *sides* \[read *side*\]." Elisabeth A. Wright, "NASA Focusing on Personal Space Training," *L.A. Times*, 30 Dec. 2001, at B5.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*each others'* for *each other's*: Stage 1
 Current ratio in print \(*each other's* vs. *\*each others'*\): 34:1

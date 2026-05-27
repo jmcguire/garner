@@ -12,7 +12,7 @@ deviant; deviate.
 
 Although *deviant* is the predominant adjective, it has had to compete—unfortunately—with *deviate*. The latter, in this sense a needless variant of *deviant*, is common in AmE—e.g.: "Nora Mae Roberts is charged with one count of first-degree violation of a minor, involving alleged intercourse or *deviate* \[read *deviant*\] sex with a 17-year-old boy." Mike Rodman, "Ex-Girls' Basketball Coach Pleads Guilty to Sexually Violating 3 Players," *Ark. Democrat-Gaz.*, 15 Feb. 1995, at B1.
 
-Language-Change Index
+## Language-Change Index
 
 *deviate* used as an adjective in place of *deviant*: Stage 1
 Current ratio in print \(*deviant behavior* vs. *\*deviate behavior*\): 341:1

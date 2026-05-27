@@ -16,7 +16,7 @@ Even the *Dictionary of American Regional English* \(1991\), in volume 2, lists 
 
 As a matter of distribution, perhaps the best summing-up is that of E. Bagby Atwood, the Texas linguist, in 1953: "*Dragged* . . . predominates among cultured informants everywhere, but it predominates among the other types only in N.Y., n. Pa., e. Va., S.C., and Ga. Elsewhere in these \[noncultured\] types it is more or less narrowly limited by the competing form *drug*." *Survey of Verb Forms* 9 \(1953\) \(as quoted in the *Dictionary of American Regional English*\). Whether President Bill Clinton would rank as a "cultured informant" might be a disputable point, but when he was debating Bob Dole on 16 Oct. 1996, he said: " ‘Then we took comments as we always do. And there were tens of thousands of comments about how we ought to do it. That's what *drug* \[read *dragged*\] it out.' " "Transcript of Second Televised Debate Between Clinton and Dole," *N.Y. Times*, 17 Oct. 1996, at B10.
 
-Language-Change Index
+## Language-Change Index
 
 *drug* as past tense and past participle of *drag*: Stage 1
 Current ratio in print \(*dragged it out* vs. *\*drug it out*\): 71:1

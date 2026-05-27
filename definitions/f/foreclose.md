@@ -20,7 +20,7 @@ Some writers even use *\*foreclose against*, but *on* is more idiomatic—e.g.: 
 
 See for-.
 
-Language-Change Index
+## Language-Change Index
 
 *foreclose* misspelled *\*forclose*: Stage 1
 Current ratio in print \(*foreclose* vs. \**forclose*\): 744:1

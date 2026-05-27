@@ -12,7 +12,7 @@ But even when *desirous* is correct, it usually appears in the wordy phrase *\(b
 
  - "Obama is gambling that the dynamics of Iranian domestic politics—a young population more *desirous of* \[read *interested in*\] enjoying the fruits of modernity than in pursuing a revolutionary Islamist agenda—will result in Iran choosing ultimately to play a responsible and stabilizing role rather than an irresponsible and destabilizing one." Andrew J. Bacevich, "A Deal to Reboot Mideast Policy?," *L.A. Times*, 7 Aug. 2015, at 15. \(On *Iran choosing* vs. *Iran's choosing*, see fused participles.)
 
-Language-Change Index
+## Language-Change Index
 
 *desirous* misused for *desirable*: Stage 1
 

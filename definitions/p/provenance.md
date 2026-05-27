@@ -14,7 +14,7 @@ Current ratio in print \(*provenance* vs. *provenience*\): 30:1
 
  - "If it thinks about it at all, popular opinion may hold that just intonation—the use of purely consonant tunings based on the overtone series—is the *provenance* \[read *province*\] of math geeks with synthesizers." Kyle Gann, "Overtones of Eternity," *Village Voice*, 4 June 2002, at 117.
 
-Language-Change Index
+## Language-Change Index
 
 *provenance* misused for *province*: Stage 1
 Current ratio in print \(*within the province* *of* vs. \**within the provenance of *\): 72:1

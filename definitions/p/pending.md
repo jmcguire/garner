@@ -10,7 +10,7 @@ Yet it is not uncommon for writers to use *impending* for *pending*, perhaps bec
 
 Occasionally, *pending* is used where the context calls for the more ominous connotations that *impending* provides—e.g.: "A blend of myth, history and contemporary comment, much affected by premonitions of the *pending* \[read *impending*\] World War II, it aptly conveys Orozco's dour, apocalyptic vision of human fate." Grace Glueck, "A Fire Born of Revolution," *N.Y. Times*, 16 Aug. 2002, at E29.
 
-Language-Change Index
+## Language-Change Index
 
 1. *impending* misused for *pending*: Stage 2
 

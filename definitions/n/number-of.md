@@ -42,7 +42,7 @@ But those writers are strongly outnumbered by those who, even with the qualifyin
 
 Few usage critics have ever discussed this particular point. One who did, G.H. Vallins, labeled those who insisted on the singular "purists" \(a derogatory term in his mind\). \(See Vallins, *Good English: How to Write It* 17 \[1951\].\) Better to stick with the plural.
 
-Language-Change Index
+## Language-Change Index
 
 *a number of* with plural noun and plural verb: Stage 5
 Current ratio in print \(*a number of them were* vs. *\*a number of them was*\): 51:1

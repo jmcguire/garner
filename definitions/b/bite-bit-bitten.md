@@ -16,7 +16,7 @@ In most contexts, though, *bitten* is the preferred form—e.g.:
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *bit* misused as a past participle for *bitten*: Stage 2
 Current ratio in print \(*had bitten* vs. *\*had bit*\): 6:1

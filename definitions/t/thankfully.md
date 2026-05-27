@@ -14,7 +14,7 @@ In the mid-1960s, the word came into frequent use in the sense "thank goodness; 
 
 *Thankfully* has become widespread enough in the new use that it almost qualifies as a vogue term. In 1990, the phrase \(in a case-sensitive search\) *Fortunately the rain* outpaced *Thankfully the rain* by a 44:1 ratio. By 2019, that ratio was 1:1.14—an astonishing rise in frequency.
 
-Language-Change Index
+## Language-Change Index
 
 *thankfully* as a sentence adverb meaning "thank goodness": Stage 5
 

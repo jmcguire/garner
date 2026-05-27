@@ -6,7 +6,7 @@ kind of.
 
 **B. *What kind of \(a\)*.** With this phrasing, the *a* is not only unnecessary but also typical of uncultivated speech. Thus *It depends on what kind of vacation you want*, not *\*It depends on what kind of a vacation you want*. See class distinctions.
 
-Language-Change Index
+## Language-Change Index
 
 *\*what kind of a . . .* for *what kind of . . .* : Stage 3
 Current ratio in print \(*what kind of person* vs. *\*what kind of a person*\): 11:1

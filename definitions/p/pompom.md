@@ -12,7 +12,7 @@ Today, the newer form, *pompom*, is sanctioned both by the *AP Stylebook* \(2008
 
 *Pompom* \(with the variant spelling *pompon*\) is also a generic name for flowers with small blossoms that resemble the decorative tufts, such as dahlias and chrysanthemums. About as far from that pleasant mental picture as you can get is another definition for the hyphenated *pom-pom*: an automatic gun or cannon mounted as part of a set \(especially pairs\), as on a battleship.
 
-Language-Change Index
+## Language-Change Index
 
 *pompom* for *pompon*: Stage 5
 Current ratio in print \(*pompoms* vs. *pompons*\): 4:1

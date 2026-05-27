@@ -8,7 +8,7 @@ naval; **navel**. *Naval*, adj., = of, relating to, or involving ships or a navy
 
 The same confusion exists with *navel-gazing* \(omphaloskepsis\), which since the late 1960s has occasionally been mistakenly written \**navel gazing* or \**naval-gazing* \(which suggest periscopes\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*naval orange* for *navel orange*: Stage 1
 Current ratio in print \(*navel orange* vs. *\*naval orange*\): 27:1

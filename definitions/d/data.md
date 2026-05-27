@@ -64,7 +64,7 @@ Yet because *data* isn't countable, it's an easy call that the phrase *much data
 
 It's unusual to have a common English noun that can switch-hit as plural or singular. *Data* is among the select few. See plurals \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 *data* as a mass noun: Stage 5 1980 ratio in print \(*The data are* vs. *The data is*\): 6:1
 Current ratio in print \(*The data are* vs. *The data is*\): 1.7:1

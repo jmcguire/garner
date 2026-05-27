@@ -14,7 +14,7 @@ Sometimes *nought* ill-advisedly appears where the conventional word would be *n
 
  - "But all of Henry's machinations to get a male heir came to *nought* \[read *naught*\]." Peggy Brown, "Heirs to the Crown," *Newsday* \(N.Y.\), 9 Sept. 1997, at A30.
 
-Language-Change Index
+## Language-Change Index
 
 *\*came to nought* for *came to naught*: Stage 1
 Current ratio in print \(*came to naught* vs. *\*came to nought*\): 4:1

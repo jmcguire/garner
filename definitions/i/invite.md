@@ -8,7 +8,7 @@ invite. Use it in the traditional way—as a verb. Avoid it as a noun displacing
 
 The casual use is more at home in conversational writing—e.g.: "An *invite* to the porch is not an *invite* to the house." Garrison Keillor, *Lake Wobegon Days* 131 \(1985\).
 
-Language-Change Index
+## Language-Change Index
 
 *invite* as a noun: Stage 4
 Current ratio in print \(*two invitations* vs. *\*two invites*\): 16:1

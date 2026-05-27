@@ -8,7 +8,7 @@ gracious \(= kind and polite\) is sometimes misused for *grateful* \(= thankful\
 
 President George W. Bush was quoted as making this gaffe in 2001: "I'm so thankful, and so *gracious*—I'm *gracious* \[read *grateful* times two\] that my brother Jeb is concerned about the hemisphere as well." As quoted in "Weather in Florida Can Play Tricks on Your Mind," *Chicago Sun-Times*, 14 June 2001, at 38. See **grateful**.
 
-Language-Change Index
+## Language-Change Index
 
 *gracious* misused for *grateful*: Stage 1
 

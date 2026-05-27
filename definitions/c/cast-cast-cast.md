@@ -14,7 +14,7 @@ There does seem to be a tendency to use *\*casted* when *cast* means "to supply 
 
  - "Klepper recently *casted* \[read *cast*\] the feature film ‘Thinner,' based on Stephen King's book." "Casting Director Holds Workshops at Capital Rep," *Times Union* \(Albany\), 24 Oct. 1996, at B11.
 
-Language-Change Index
+## Language-Change Index
 
 *\*casted* for *cast* as a past-tense form: Stage 1 Current ratio in print \(*had cast* vs. *\*had casted*\): 454:1
 

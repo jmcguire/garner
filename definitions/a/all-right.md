@@ -74,7 +74,7 @@ Yet the tide is turning or may already have turned. In a 2021 Twitter poll, I po
 
 For the time being, there are four groups of people: \(1\) those who solidify without any awareness of the controversy; \(2\) those who solidify while fully aware, thinking that the objections have always been bogus and refusing to be anxious about cavilers; \(3\) those who, while possibly sympathetic with the melders, keep it two words either because that's the way they're accustomed to seeing it or because they wish to avoid criticism; and \(4\) those who dogmatically insist on two words because they once learned that anything else is dead wrong. In time, groups 3 and 4 are sure to dwindle. Your author belongs to group 3.
 
-Language-Change Index
+## Language-Change Index
 
 *alright* for *all right*: Stage 4
 1900 ratio in print \(*all right* vs. *alright*\): 254:1

@@ -12,7 +12,7 @@ Even if the first example was intended to be jocular, the humor would not have b
 
 It may be a lost cause in Australia, where various sports teams are called the "Platypi." Perhaps we can understand that athletes would be reluctant to call themselves the "Platypuses."
 
-Language-Change Index
+## Language-Change Index
 
 *\*platypi* for *platypuses*: Stage 1
 Current ratio in print \(*platypuses* vs. *\*platypi*\): 18:1

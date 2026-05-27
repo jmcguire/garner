@@ -10,7 +10,7 @@ President George H.W. Bush occasionally misused *hypothecate*—e.g.:
 
  - "That, of course, means less time for pointless *hypothecating* \[read *hypothesizing*\] about each twist and turn of constitutional bickering." Brian Wilson, "Permanent Cacophony of Grievance from SNP," *Scotsman*, 31 Mar. 2017, Opinion §.
 
-Language-Change Index
+## Language-Change Index
 
 *hypothecate* misused for *hypothesize*: Stage 1
 Current ratio in print \(*hypothesize that* vs. *\*hypothecate that*\): 2,585:1

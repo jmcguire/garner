@@ -8,7 +8,7 @@ foreseeable is occasionally misspelled *\*forseeable*—e.g.:
 
 See for-.
 
-Language-Change Index
+## Language-Change Index
 
 *foreseeable* misspelled *\*forseeable*: Stage 1
 Current ratio in print \(*foreseeable* vs. \**forseeable*\): 159:1

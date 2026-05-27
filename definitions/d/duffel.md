@@ -8,7 +8,7 @@ From the 1930s \(when the bag first became popular\) to the 1970s, the two spell
 
  - "Officers observed a large *duffle* \[read *duffel*\] bag that, upon being kicked, sounded as though it contained ammunition." "Auburn Fatal Police Shooting," *Portland Press Herald*, 1 Oct. 2021, at B.
 
-Language-Change Index
+## Language-Change Index
 
 *duffel* misspelled *\*duffle*: Stage 3
 Current ratio in print \(*duffel* vs. \**duffle*\): 3:1

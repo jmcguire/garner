@@ -10,7 +10,7 @@ This is a very conservative view of the word, especially given that the sense of
 
 Follett's sense 1 is common in phrases such as *birth cohort*, which is defined as a "group, born in the same year, selected for study as the individuals march through time so that researchers can assess the nature and influence of factors affecting their behavior." Dermot Walsh & Adrian Poole, *A Dictionary of Criminology* 22 \(1983\).
 
-Language-Change Index
+## Language-Change Index
 
 *cohort* in reference to an individual: Stage 5
 

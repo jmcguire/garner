@@ -10,7 +10,7 @@ niche is pronounced /nich/ or /neesh/. The first of these pronunciations, predom
 
 Although the pronunciation /neesh/ is heard among educated speakers, many consider it a pretentious de-anglicization of a word that has been anglicized since the 1700s. See pronunciation \(d\).
 
-Language-Change Index
+## Language-Change Index
 
 *niche* misspelled *\*nitch* or *\*nitche*: Stage 1
 

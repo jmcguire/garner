@@ -8,7 +8,7 @@ corporal; **corporeal**. These terms have undergone differentiation. *Corporal* 
 
  - "The Chapel Hill–Carrboro City Schools is one of about 30 N.C. school systems that have banned *corporeal* \[read *corporal*\] punishment." Merri Petrovits, "Spanking Issue Continues to Generate Heat," *Chapel Hill Herald*, 3 Jan. 1996, at 6.
 
-Language-Change Index
+## Language-Change Index
 
 *\*corporeal punishment* for *corporal punishment*: Stage 1
 Current ratio in print \(*corporal punishment* vs. *\*corporeal punishment*\): 45:1

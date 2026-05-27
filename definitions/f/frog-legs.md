@@ -16,7 +16,7 @@ Those citations don't quite reflect general usage in newspapers and journals. Of
 
  - "The ‘Bites' on the menu alone speak volumes for their culinary bent: garlic, parsley, and . . . crispy *frogs legs* \[read *frog legs* or *frogs' legs*\]." Fiona Duncan, "Hotel Hit Squad," *Sunday Telegraph*, 1 Aug. 2021, at 11.
 
-Language-Change Index
+## Language-Change Index
 
 1. *frog legs*: Stage 5
 

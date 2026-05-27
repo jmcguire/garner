@@ -10,7 +10,7 @@ Not surprisingly, the two are subject to word-swapping—e.g.:
 
  - "People were forced to stand in long *cues* \[read *queues*\] at five emergency water stations in Amagasaki." "Kansai Striving to Recover from Effects of Devastation," *Daily Yomiuri* \(Japan\), 19 Jan. 1995, at 3.
 
-Language-Change Index
+## Language-Change Index
 
 1. *queue* misused for *cue*: Stage 1
 
@@ -33,7 +33,7 @@ To *queue up* is to line up—e.g.:
 
 But of course, some writers get it wrong—e.g.: "The pigtail or *‘cue'* \[read *‘queue'*\]—as cultivated by sailors—was hair twisted or plaited, commonly prettied up by a binding of spun yarn and the whole applied with a dose of Stockholm tar which gave its gravity-defying look." Letter of William Wood, "Tarred Pigtail," *Daily Telegraph*, 9 July 1992, at 16.
 
-Language-Change Index
+## Language-Change Index
 
 *queue* \(= pigtail\) misspelled *cue*: Stage 1
 

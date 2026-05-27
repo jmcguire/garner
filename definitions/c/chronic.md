@@ -12,7 +12,7 @@ The corresponding adverb is *chronically*—not *\*chronicly*.
 
 At one time, *\*chronical* was the predominant adjective, but it has been in decline since the 1760s and is now a needless variant.
 
-Language-Change Index
+## Language-Change Index
 
 *chronic* misused for *habitual* or *inveterate*: Stage 3
 

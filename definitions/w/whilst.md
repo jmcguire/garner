@@ -6,7 +6,7 @@ Since the mid-1990s, the word has enjoyed a resurgence in AmE. \(See americanism
 
 Like its sibling *while*, it may be used for *although* or *whereas*. But again, this isn't entirely good usage in AmE. For *amongst*, see **among \(a\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *whilst* for *while* in AmE: Stage 3
 

@@ -6,7 +6,7 @@ drown.
 
 Sometimes the correct form is made to establish a more severe, unsympathetic character, as here: "The Drownded Uncles, the children called them. ‘Drowned,' Marion corrected. Marion was forever improving anyone who could be improved. ‘The Drownded Uncles of Skipper Sid,' the kids would say anyway. ‘The Drownded Brothers of Skipper Sid,' Marion would correct them again. Drowned, she meant, not drownded. They were mixing her up." Dawn Rae Downton, *Seldom: A Memoir* 132 \(2002\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*drownded* as past tense of *drown*: Stage 1
 Current ratio in print \(*drowned* vs. *\*drownded*\): 61:1

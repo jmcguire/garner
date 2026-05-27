@@ -10,7 +10,7 @@ absent, used as a preposition meaning "in the absence of" or "without," is commo
 
 The *OED* dates this usage from 1888. By the early 20th century, it was commonplace in legal writing—e.g.: "The *Dean* decision is a reminder . . . that fraud in the transferor is enough under 67e, *absent* good faith in and a fair consideration on the part of the transferee." *Richardson v. Germania Bank of New York*, 263 F. 320, 324 \(2d Cir. 1919\). For an interesting discussion of how this American legalism has spread into nonlegal contexts, see two pieces by Alan R. Slotkin, "Absent ‘Without': Adjective, Participle, or Preposition," 60 *Am. Speech* 222 \(1985\); "Prepositional *Absent*: An Afterword," 64 *Am. Speech* 167 \(1989\).
 
-Language-Change Index
+## Language-Change Index
 
 *absent* for *without*: Stage 3
 

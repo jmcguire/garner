@@ -4,7 +4,7 @@ franchisor; **\*franchiser**. *\*Franchiser* was long the preferred form for the
 
 Perhaps because of that ambiguity, *franchisor* is about ten times as common as *\*franchiser* in law, and about 16 times as common in modern print sources. It has won the fight in our fast-food nation—and has won the franchise as the newly preferred spelling.
 
-Language-Change Index
+## Language-Change Index
 
 *franchisor*: Stage 5
 

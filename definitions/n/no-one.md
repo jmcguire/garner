@@ -12,7 +12,7 @@ Fewer readers than ever seem to be bothered by this type of construction. My inf
 
 In BrE it is especially common for *no one* and *nobody* to act as antecedents of indeterminate number—e.g.: "How the Elizabethans reacted is, alas, unknown, since *nobody* thought Shakespeare's plays important enough to bother recording *their* impressions." John Carey, "Stages of Hatred," *Sunday Times* \(London\), 4 Oct. 1992, § 6, at 8.
 
-Language-Change Index
+## Language-Change Index
 
 *no one* or *nobody . . . their*: Stage 5
 Current ratio in print \(*nobody in their right mind* vs. *nobody in his right mind*\): 3:1

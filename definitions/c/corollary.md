@@ -14,7 +14,7 @@ A corollary to the second bulleted example above: there might be a correlation b
 
 *Corollary* is pronounced /**kohr**-ә-lair-ee/ in AmE and /kә-**rol**-ә-ree/ in BrE.
 
-Language-Change Index
+## Language-Change Index
 
 *corollary* misused for *correlation*: Stage 1
 Current ratio in print \(*a correlation between* vs. *\*a corollary between*\): 445:1

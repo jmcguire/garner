@@ -8,7 +8,7 @@ In this latter \(transitive\) sense, one *confers* something *on*, not *in*, ano
 
  - "He said lower interest costs will *confer* benefits *on* all borrowers." Barry Flynn, "Fed Slashes Rates by Hefty Half Point," *Orlando Sentinel*, 7 Nov. 2002, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*confer in* for *confer on*: Stage 1
 

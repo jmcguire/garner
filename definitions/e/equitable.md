@@ -8,7 +8,7 @@ Each word is sometimes misused for the other—e.g.:
 
  - "The objectives include . . . \[establishing\] an *equable* \[read *equitable*\] allocation of district capital funds for facility construction." Eva Jo Goins, "Board Sets Objectives for Fixing Schools," *Santa Fe New Mexican*, 18 Oct. 2000, at P1.
 
-Language-Change Index
+## Language-Change Index
 
 *equable* misused for *equitable*: Stage 1
 Current ratio in print \(*equitable distribution* vs. *\*equable distribution*\): 79:1

@@ -14,7 +14,7 @@ The word is misused when the situation does not involve serious pain or difficul
 
  - "The couple looked *in the throes of love* \[read, perhaps, *passionate*\] as they leant in for the farewell kiss." Connie Rusk, "Matt Bellamy Packs on the PDA with His Wife Elle," *Daily Mail Online* \(U.K.\), 22 July 2021. \(On the inflected form of *lean* in that sentence, see **lean**.\)
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*in the throws* for *in the throes*: Stage 1
 Current ratio in print \(*in the throes of* vs. *\*in the throws of *\): 77:1

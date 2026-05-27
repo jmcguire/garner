@@ -10,7 +10,7 @@ firmament. The *firmament* is the sky, the canopy of stars \(as people once envi
 
 Perhaps the misuse is influenced also by confusion with *terra firma* \(= solid ground\).
 
-Language-Change Index
+## Language-Change Index
 
 *firmament* misused for *ground* or *foundation*: Stage 1
 

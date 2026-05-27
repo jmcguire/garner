@@ -8,7 +8,7 @@ taken aback. This phrase \(meaning "shocked or stunned, usu. by something someon
 
  - " ‘Nothing to do with me?' She was completely *taken back* \[read *taken aback*\]. ‘I can't just stand by and see Sarah being cheated on.' " Isobel Stewart, "What Jenny Saw," *Good Housekeeping*, Aug. 1996, at 137.
 
-Language-Change Index
+## Language-Change Index
 
 *\*taken back* misused for *taken aback*: Stage 2
 Current ratio in print \(*somewhat taken aback* vs. *\*somewhat taken back*\): 27:1

@@ -10,7 +10,7 @@ Although the error is less common in edited text, it does surface—e.g.:
 
 Typically, when the term is used correctly it will accompany a misleading word or title, often in quotation marks—e.g.: "Old countries are sometimes world-weary and cynical, urging a ‘realism' that is sometimes a *misnomer* for the moral corruption they know so very well." Richard Cohen, "Nobel Winners and Losers," *Wash. Post*, 15 Oct. 2002, at A19.
 
-Language-Change Index
+## Language-Change Index
 
 *misnomer* misused for *misconception* or *misunderstanding*: Stage 1
 

@@ -10,7 +10,7 @@ The idiom has become such a catchphrase that today it's once again used in the l
 
 In AmE and BrE print sources, instances of the query *\*Where is it at?* are extremely rare in comparison with *Where is it?*—and have always been so. The *at* was added in dialectal AmE in the 1860s and gradually spread. But to one degree or another, it has always been stigmatized as nonstandard.
 
-Language-Change Index
+## Language-Change Index
 
 *\*where it's at* for *where it is*: Stage 3
 Current ratio in print \(*Where is it?* vs. *\*Where is it at?*\): 298:1

@@ -16,7 +16,7 @@ Since the early 1800s, the false adverb *\*unequivocably* has occurred with even
 
 *Unequivocal* is pronounced /әn-i-**kwiv**-i-kәl/. Cf. *\*inimicable* \(discussed at **inimical**\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*unequivocable* for *unequivocal*: Stage 1
 Current ratio in print \(*unequivocal* vs. *\*unequivocable*\): 703:1

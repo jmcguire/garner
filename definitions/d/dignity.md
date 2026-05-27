@@ -8,7 +8,7 @@ dignity. *Dignity* is traditionally thought to be a quality one possesses. It is
 
 The undignified phrase is spreading in American print sources.
 
-Language-Change Index
+## Language-Change Index
 
 *\*treat with dignity* for *treat with respect*: Stage 1
 Current ratio in print \(*treat with respect* vs. *\*treat with dignity*\): 7:1

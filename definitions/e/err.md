@@ -18,7 +18,7 @@ At least one language commentator did an about-face in the mid-20th century. In 
 
 The ranks of the traditionalists are shrinking, and the counterintuitive nature of the old pronunciation \(given the sound of *error* and *errant*\) seems to have doomed it. But those who care about our linguistic heritage and use the language with flair avoid the snare of /air/ and boldly say /әr/.
 
-Language-Change Index
+## Language-Change Index
 
 *err* pronounced /air/: Stage 4
 

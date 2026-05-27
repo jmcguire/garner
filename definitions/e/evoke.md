@@ -14,7 +14,7 @@ The most common mistake in using these words is substituting *evoke* for sense 1
 
  - **Sense 2:** "As his fellow Democratic candidates have done across the country, Mr. Yates *evoked* \[read *invoked*\] the name of the Republican Speaker of the House, Newt Gingrich, to hang around his opponent's neck like a millstone." Don Terry, "Illinois Lawmaker Proves a Tough Target for G.O.P.," *N.Y. Times*, 24 Oct. 1996, at A10.
 
-Language-Change Index
+## Language-Change Index
 
 *evoke* misused for *invoke*: Stage 2
 

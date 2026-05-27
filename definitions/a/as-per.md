@@ -18,7 +18,7 @@ Originating in 18th-century commercialese, *\*as per* is redundant for *per*. Ye
 
 The phrase *\*as per usual*, which first emerged in the 1860s and became suddenly popular early in this century, is an embarrassing barbarism.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*as per* for *per* or *in accordance with*: Stage 3
 

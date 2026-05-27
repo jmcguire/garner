@@ -10,7 +10,7 @@ In truth, there are few things that etymologists like less than being called *en
 
 *Entomology* is sometimes, in its spelling, confusingly influenced by the spelling of *etymology*—e.g.: "It is no accident that Musil was trained as an engineer, that Ernst Jünger and Nabokov should be serious *entymologists* \[read *entomologists*\], that Broch and Canetti are writers schooled in the exact and mathematical sciences." George Steiner, *In Bluebeard's Castle* 130 \(1971\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *etymology* misused for *entomology*: Stage 1
 

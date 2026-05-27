@@ -10,7 +10,7 @@ For the opposite error, see **bare**.
 
 The past-participial form of *bear out* is *borne out*. For *borne* vs. *born*, see **born**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*bare out* for *bear out*: Stage 1
 Current ratio in print \(*bear out* vs. *\*bare out*\): 121:1

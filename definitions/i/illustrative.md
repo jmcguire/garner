@@ -10,7 +10,7 @@ illustrative.
 
  - "Both Howard and Eugene Odum continued basic research on the relation of energy to ecosystem structure and function into the new millennia in astonishingly long and *illustrative* \[read *illustrious*\] careers." 2 *Encyclopedia of Energy* 144 \(Cutler J. Cleveland & Robert U. Ayers eds., 2004\).
 
-Language-Change Index
+## Language-Change Index
 
 *illustrative* misused for *illustrious*: Stage 1
 

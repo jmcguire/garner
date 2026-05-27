@@ -8,7 +8,7 @@ delineate \(= \[1\] to sketch out or describe with some degree of specificity or
 
  - "In Burlington's testimony on Monday, he said he only brought up that comment to *delineate* \[read *differentiate*\] between the N-word being targeted at someone and the word being discussed in a ‘journalistic context.' " Dan Spinelli, "N-Word Lawsuit Intensifies as Colleague Testifies," *Phil. Daily News*, 10 June 2015, Local §, at 3.
 
-Language-Change Index
+## Language-Change Index
 
 *delineate* misused for *differentiate* in the phrase \**delineate between*: Stage 3
 

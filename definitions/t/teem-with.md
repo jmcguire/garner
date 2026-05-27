@@ -12,7 +12,7 @@ teem with \(= to abound; be in plentiful supply\) should be followed by a count 
 
  - "Gerber, with the help of other scouts, cut a swath through brush and a swampy area *teaming* \[read *teeming*\] with mosquitoes." Judy Hartling, "Troop at Church Adds Three Eagle Scouts," *Hartford Courant*, 8 Aug. 1996, Manchester Extra §, at 5.
 
-Language-Change Index
+## Language-Change Index
 
 *teaming with* misused for *teeming with*: Stage 1
 Current ratio in print \(*teeming with life* vs. *\*teaming with life*\): 14:1

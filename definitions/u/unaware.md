@@ -6,7 +6,7 @@ unaware; **unawares**. Properly, *unaware* is the adjective <I am unaware of tha
 
  - "Reportedly, he has had the ailments for months but the Flyers were caught *unaware* \[read *unawares*\]." Nancy L. Marrapese, "Burning Ambition," *Boston Globe*, 28 Sept. 1997, at E13.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*taken unaware* for *taken unawares*: Stage 2
 Current ratio in print \(*taken unawares* vs. *\*taken unaware*\): 8:1

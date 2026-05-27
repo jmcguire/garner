@@ -8,7 +8,7 @@ civilian clothes; **street clothes**. The first should be reserved for military 
 
  - "Village police Chief Hugh Flanigan told The Star-Beacon in nearby Ashtabula that the unarmed man in *civilian clothes* \[read *street clothes*\] repeatedly tried to convince the Youngstown officer that he was a real lawman, but eventually drove away." "Fake Officer Tries to Pull Over Policeman," *Charleston Gaz.* \(W. Va.\), 5 Aug. 2015, at A6.
 
-Language-Change Index
+## Language-Change Index
 
 *civilian clothes* used in nonmilitary contexts: Stage 2
 

@@ -8,7 +8,7 @@ bombastic is sometimes misconstrued to mean "strident" or "violent." Properly, *
 
  - "But the idea that the only legitimate response to that terrible day is to become as blind, bloodthirsty and *bombastic* \[read *strident* or *violent*\] as the terrorists themselves—the essence of Keith's song—is insulting." Julia Keller, "Toby Keith Out of Tune with Reality," *Chicago Trib.*, 21 July 2002, Arts & Entertainment §, at 2.
 
-Language-Change Index
+## Language-Change Index
 
 *bombastic* misused in a violent sense: Stage 2
 

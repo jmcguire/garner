@@ -12,7 +12,7 @@ expatiate; **expatriate**; **\*expatriot**. *Expatiate* /ek-**spay**-shee-ayt/ m
 
 Meanwhile, *expiate* \(= to make amends or atone for\) is a wholly unrelated word that mustn't be confounded with the others.
 
-Language-Change Index
+## Language-Change Index
 
 *expatriate* misspelled *\*expatriot*: Stage 1
 Current ratio in print \(*expatriate* vs. \**expatriot*\): 463:1

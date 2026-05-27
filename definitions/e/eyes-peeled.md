@@ -8,7 +8,7 @@ eyes peeled. The phrase is so spelled, though some erroneously make it *\*eyes p
 
  - "They will keep your *eyes pealed* \[read *peeled* or, better, *glued*\] to the sky as they perform their formation flying routine." "Radio Control Flying Circus to Land at Butler County Airport," *Cincinnati Enquirer*, 2 July 2015, at S6.
 
-Language-Change Index
+## Language-Change Index
 
 *\*eyes pealed* for *eyes peeled*: Stage 1
 Current ratio in print \(*eyes peeled* vs. *\*eyes pealed*\): 261:1

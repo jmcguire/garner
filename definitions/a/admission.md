@@ -14,7 +14,7 @@ Sometimes *admittance* is misused for *admission*, as when the subject is being 
 
  - "BYU's long-awaited *admittance* \[read *admission*\] into the Big 12 Conference . . . is the result of a lot of hard work by a lot of people." "Difference Maker," *Deseret News* \(Salt Lake City\), 1 Oct. 2021.
 
-Language-Change Index
+## Language-Change Index
 
 *admittance* misused for *admission*: Stage 2
 

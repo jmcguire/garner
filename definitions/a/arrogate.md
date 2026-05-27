@@ -12,7 +12,7 @@ Without the edits, those sentences illustrate the vice described at object-shuff
 
 For the distinction between *arrogate* and *abrogate*, see **abrogate**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*arrogate oneself* for *arrogate to oneself*: Stage 1
 Current ratio in print \(*arrogated to himself* vs. *\*arrogated himself *\): 73:1

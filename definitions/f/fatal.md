@@ -14,7 +14,7 @@ In some circumstances a writer using *fatal* must be careful not to create an ab
 
 On *fatal* as a nongradable adjective, see adjectives \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 *fatal* misused for *fateful*: Stage 1
 

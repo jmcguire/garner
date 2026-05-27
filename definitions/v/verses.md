@@ -10,7 +10,7 @@ verses; **versus**. *Verses* /**vәr**-siz/ are lines of a poem or song, section
 
 For more on *versus*, see **v**.
 
-Language-Change Index
+## Language-Change Index
 
 *verses* misused for *versus*: Stage 1
 

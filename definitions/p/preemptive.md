@@ -24,7 +24,7 @@ And it's also occasionally misused for *peremptory*, especially in reports of le
 
 See word-swapping.
 
-Language-Change Index
+## Language-Change Index
 
 1. *preemptory* misused for *preemptive*: Stage 1
 Current ratio in print \(*preemptive strike* vs. *\*preemptory strike*\): 174:1

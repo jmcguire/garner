@@ -12,7 +12,7 @@ take.
 
 Though unusual, the form *\*tooken* isn't new: it first appeared in print in the 1700s and has persisted as nonstandard. See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*tooken*: Stage 1
 Current ratio in print \(*taken* vs. *\*tooken*\): 19,725:1

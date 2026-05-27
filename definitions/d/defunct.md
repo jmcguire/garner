@@ -8,6 +8,6 @@ defunct /di-**fәngt**/ \(= no longer existing or functioning\), a Latin loanwor
 
  - "The lion's share of the budget: $930,000 will go toward accelerating business and industry recruitment . . . and not for the development of the *defunk* \[read *defunct*\] Commerce Center project." "Business Roundup: Destination Rutherford Not Old Plan," *Daily News J.* \(Murfreesboro, Tenn.\), 2 Mar. 2003, at 10.
 
-Language-Change Index \**defunked* for *defunct*: Stage 1
+## Language-Change Index \**defunked* for *defunct*: Stage 1
 Current ratio in print \(*defunct* vs. \**defunked*\): 4,028:1
 

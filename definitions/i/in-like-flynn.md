@@ -20,7 +20,7 @@ Although *\*in like Flint* occasionally appears in tongue-in-cheek references to
 
 Errol Flynn is reported to have resented the phrase, but it will always be linked etymologically to him. See James Ross Moore, "Errol Flynn," 8 *Am. Nat'l Biography* 155, 156 \(1999\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*in like Flint* for *in like Flynn*: Stage 2
 Current ratio in print \(*in like Flynn* vs. *\*in like Flint*\): 12:1

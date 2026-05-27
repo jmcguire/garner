@@ -26,7 +26,7 @@ The corresponding phrase is *pick up the gauntlet* \(= accept a challenge\)—e.
 
 Occasionally the phrase invites a confused metaphor—e.g.: " ‘It probably just took a person who was willing to *pick up the gauntlet* and run with it,' Burk said about Earle's leadership." Dean Geroulis, "High Schools Mark 100 Years of Progress," *Chicago Trib.* \(Park Ridge ed.\), 18 Sept. 2002, at 26 \(Eddon Burk praising C.A. Earle\).
 
-Language-Change Index
+## Language-Change Index
 
 *gauntlet* for *gantlet*: Stage 5
 Current ratio in print \(*running the gauntlet* vs. *running the gantlet*\): 16:1

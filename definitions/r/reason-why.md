@@ -18,7 +18,7 @@ It is true, however, that *why* might have been omitted in all but the King and 
 
 The phrasing *reason that* is often a poor substitute for *reason why*—as in any of the examples just quoted—just as *time that* and *place that* are poor substitutes when adverbials of time and place are called for. Cf. the indefensible redundancy **\*reason is because**.
 
-Language-Change Index
+## Language-Change Index
 
 *reason why*: Stage 5
 Current ratio in print \(*reason why* vs. *reason that*\): 1.7:1

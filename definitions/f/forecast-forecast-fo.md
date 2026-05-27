@@ -10,7 +10,7 @@ forecast > forecast > forecast. So inflected. *\*Forecasted* is a solecism that 
 
 See -cast & irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*forecasted* for past-tense *forecast*: Stage 2
 Current ratio in print \(*forecast that* vs. *\*forecasted that*\): 6:1

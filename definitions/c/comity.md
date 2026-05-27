@@ -12,7 +12,7 @@ Since the early 1800s, *comity* has often \(especially in BrE\) been mistaken as
 
 Very occasionally, the phrase *comity of nations* appears in a correct sense \("courtesy afforded by countries to one another's political entities"\)—e.g.: "Furthermore, he said, under the concept of *comity of nations*, or a mutual respect for other countries' laws, a successful overseas liability claim could be subsequently brought against the company in a U.S. court." Judy Greenwald, "Exports Create Unique Exposures," *Bus. Ins.*, 2 Dec. 1996, at 2.
 
-Language-Change Index
+## Language-Change Index
 
 *comity of nations* for *community of nations*: Stage 1
 

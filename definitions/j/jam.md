@@ -6,7 +6,7 @@ jam \(= \[1\] a fruit jelly; or \[2\] a congested or otherwise difficult situati
 
  - "The deputy found a .380 semiautomatic pistol on the floorboard and a marijuana cigar on the driver's *door* *jam* \[read *doorjamb*\]." Paul Purpura, "Mental Exam Ordered After Carjack," *Times-Picayune* \(New Orleans\), 12 Feb. 2015, at A10.
 
-Language-Change Index
+## Language-Change Index
 
 *\*doorjam* for *doorjamb*: Stage 1
 Current ratio in print \(*doorjamb* vs. *\*doorjam*\): 277:1

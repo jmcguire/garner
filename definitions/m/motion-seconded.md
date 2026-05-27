@@ -10,7 +10,7 @@ motion seconded. This parliamentary idiom has recently become mangled, through s
 
 No doubt part of the blame goes to Smokey Robinson and the Miracles for the 1967 hit "I Second That Emotion."
 
-Language-Change Index
+## Language-Change Index
 
 *\*notion seconded* for *notion confirmed*: Stage 1
 Current ratio in print \(*notion confirmed* vs. *\*notion seconded*\): 3:1

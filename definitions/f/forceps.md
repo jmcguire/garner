@@ -12,7 +12,7 @@ Since the early 1800s, the back-formation *\*forcep* has occasionally appearedâ€
 
 Cf. **biceps**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*forcep* for *forceps* as a singular: Stage 2
 Current ratio in print \(*a forceps* vs. *\*a forcep*\): 50:1

@@ -8,7 +8,7 @@ diminish \(= to reduce in size, importance, etc.\) may be either transitive or i
 
  - "For the past two weeks, amid the NBA free-agency frenzy, the Heat mostly have been on mute. But that doesn't *diminish from* \[read *diminish* or *detract from*\] the reality of again being a team back in the mix." Ira Winderman, "A Quiet Summer, but Loud Expectations for Retooling Heat," *Naples Daily News* \(Fla.\), 12 July 2015, at C3.
 
-Language-Change Index
+## Language-Change Index
 
 *\*diminish from* for *detract from*: Stage 1
 

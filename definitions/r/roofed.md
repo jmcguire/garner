@@ -10,7 +10,7 @@ roofed, not *\*rooved*, has been the standard form since the 1600s—e.g.:
 
 Cf. **hoofed**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*rooved* for *roofed*: Stage 1
 Current ratio in print \(*roofed* vs. *\*rooved*\): 1,206:1

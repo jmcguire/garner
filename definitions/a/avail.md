@@ -24,7 +24,7 @@ Often this verb, when used transitively \(sense 2\), could be replaced by a simp
 
 Often simpler words also better express sense 1—e.g.: "Festival-goers *availed* \[read *helped*\] themselves to a buffet and a bellyful of ragtime, jazz standards and vaudeville classics." Michael Kuelker, "Ragtime Fest Opens with 6-Hour Session," *St. Louis Post-Dispatch*, 2 Sept. 1995, at D7. In that sentence, *avail* was also mistakenly matched with *to* rather than *of*.
 
-Language-Change Index
+## Language-Change Index
 
 *\*to be availed* misused for *to make available*: Stage 1
 

@@ -14,7 +14,7 @@ remorselessly.
 
 The error is more common in BrE than in AmE.
 
-Language-Change Index
+## Language-Change Index
 
 *\*remorsely* for *remorselessly*: Stage 1
 Current ratio in print \(*remorselessly* vs. *\*remorsely*\): 107:1

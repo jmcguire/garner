@@ -18,7 +18,7 @@ Although most other compound words starting with *under-* are closed, until rece
 
  - "A reckoning is *underway*, as prosecutors and congressional investigators seek to understand how a political rally devolved into an assault on the citadel of American democracy." Dan Barry et al., "90 Seconds of Rage on the Capitol Steps," *N.Y. Times*, 17 Oct. 2021, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*under weigh* for *underway*: Stage 2
 Current ratio in print \(*get underway* vs. *\*get under weigh*\): 12:1

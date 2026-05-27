@@ -6,7 +6,7 @@ intently \(= with rapt concentration or attention, eagerly\) is sometimes misuse
 
  - "Each artist has *intently* \[read *intensely*\] personal shows." "Six MU Artists Team Up," *Herald-Dispatch* \(Huntington, W. Va.\), 15 Apr. 2016, Art §.
 
-Language-Change Index
+## Language-Change Index
 
 *intently* misused for *intensely*: Stage 1
 

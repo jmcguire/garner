@@ -8,7 +8,7 @@ epicurean. So spelled—preferably not *\*epicurian*. E.g.:
 
 The same recipe spoils other cognates of *epicure* as well—e.g.: "One would end up no doubt oscillating madly between *epicurianism* \[read *epicureanism*\] and stoicism." Joseph Brodsky, *On Grief and Reason* 331 \(1995\).
 
-Language-Change Index
+## Language-Change Index
 
 *epicurean* misspelled *\*epicurian*: Stage 1
 Current ratio in print \(*epicurean* vs. \**epicurian*\): 104:1

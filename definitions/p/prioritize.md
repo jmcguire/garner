@@ -12,7 +12,7 @@ Much less common than *prioritize* is the illogically formed *\*priorize*, a fai
 
 See -ize & bureaucratese.
 
-Language-Change Index
+## Language-Change Index
 
 1. *prioritize*: Stage 5
 

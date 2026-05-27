@@ -14,7 +14,7 @@ ceremonial; **ceremonious**. The differentiation between these words lies more i
 
 The word is more often seen in its negative adverbial form, *unceremoniously*, where it means "without fanfare"—e.g.: "He has always been a fan favorite and has *unceremoniously* given plenty back to the community." David Dupree, " ‘Glove' Fits Better Now than Ever," *USA Today*, 5 Apr. 2002, at C3. It typically connotes abruptness and disrespect—e.g.: "That's how he learned he'd been *unceremoniously* cut from the preseason roster of a team with one of the strangest nicknames he'd ever heard—the Piranhas." Carlton Stowers, "Desperate Measures," *Dallas Observer*, 4 Apr. 2002, at 21.
 
-Language-Change Index
+## Language-Change Index
 
 *ceremonious* misused for *ceremonial*: Stage 1
 

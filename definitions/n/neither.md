@@ -20,7 +20,7 @@ But often it's not that simple. In the first example below, the plural *themselv
 
  - "Defense attorneys said *neither* of the women had acknowledged *their* \[read *her*\] pregnancy to *themselves* \[read *herself*\] or anyone else and said both were distraught and irrational facing the moment of birth." Pat Wiedenkeller, "Pregnancy, Denial, Tragedy," *Newsday* \(N.Y.\), 21 Nov. 1996, at A27.
 
-Language-Change Index
+## Language-Change Index
 
 *neither* as a pronoun erroneously construed with a plural verb: Stage 3
 Current ratio in print \(*Neither of them is* vs. *\*Neither of them are*\): 2:1

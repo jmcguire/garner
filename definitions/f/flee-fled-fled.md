@@ -12,7 +12,7 @@ See irregular verbs.
 
 Readers may occasionally encounter *\*fleed* as an obsolete past participle not of *flee* but of *flay*—e.g.: "She *fleed* at him, and, to cut a long story short, he owned to having carried off five sack altogether, upon her promising not to persecute him." Thomas Hardy, *Far from the Madding Crowd* 76 \(1905\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*fleed* for *fled*: Stage 1
 Current ratio in print \(*he fled* vs. *\*he fleed*\): 17,290:1

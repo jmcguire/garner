@@ -12,7 +12,7 @@ With this pair, word-swapping is fairly common. Sometimes *yolk* is misused for 
 
 The reverse error, though uncommon, does occur—e.g.: "I was stunned by the mix of aquamarine, luscious tans, dusty reds, yellow of egg *yoke* \[read *yolk*\], the turquoise as mute as a lizard." Sean Connolly, "One Nation, Cool and Damp," *Pitt. Post-Gaz.*, 30 Aug. 1997, at A9.
 
-Language-Change Index
+## Language-Change Index
 
 1. *yolk* misused for *yoke*: Stage 1
 Current ratio in print \(*yoked together* vs. *\*yolked together*\): 398:1

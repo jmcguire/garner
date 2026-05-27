@@ -8,7 +8,7 @@ hopeful, n. When used in the sense "a candidate," this word smacks of journalese
 
  - "When Fox turned over the very same Friday 10 p.m. hour to presidential *hopefuls* \[read *candidates*\] Al Gore and George W. Bush in October, only 2.9 million watched." Lisa de Moraes, "For NBC, Julie Andrews Brings the Sound of Memory," *Wash. Post*, 20 Dec. 2000, at C7.
 
-Language-Change Index
+## Language-Change Index
 
 *hopeful* for *candidate*: Stage 4
 

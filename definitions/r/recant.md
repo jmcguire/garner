@@ -20,7 +20,7 @@ The *OED* does give "recount" as one sense of *recant* but labels it rare.
 
 *Recant* may be transitive \(as in the first use in the following example\) or intransitive \(as in the second\): "Police have a follow-up interview scheduled with Olowokandi's former girlfriend, Suzanne Ketcham, who says she plans to *recant* her original statements to them and a representative of the district attorney's special victims unit. \[¶\] ‘It's not unusual for victims of domestic abuse to *recant*,' Nilsson said." Elliott Teaford, "Olowokandi Case Will Go to D.A.," *L.A. Times*, 7 Dec. 2001, Sports §, at 5.
 
-Language-Change Index
+## Language-Change Index
 
 1. *recant* misused for *recount*: Stage 1
 

@@ -10,7 +10,7 @@ lavish, vb. As a transitive verb, *lavish* takes a direct object, but it is trad
 
 Despite those edits, the nontraditional usage does seem to give the language more versatility when the thing being lavished takes many words to express—e.g.: "She had *lavished him* with the adoration and protectiveness of a childless woman who has borrowed a precious gift, especially a gift from God." Sharon Rab, "The Red Dress," *Dayton Daily News*, 6 Aug. 2000, at C3. That sentence is particularly challenging to try to rewrite using the traditional idiom. One solution would be to make it the idiomatic *lavished on him the adoration . . . .* Another would be to replace *lavished* with another verb, such as *showered*: *She had showered him with the adoration and protectiveness of a childless woman who* . . . . A third would be to allow this extension in the use of *lavish*. Linguistic conservatives would prefer the first two solutions; linguistic progressives, who tend to take a synchronic rather than a diachronic approach, would be perfectly happy with the third. After all, the pendulum has swung: in 1970 *lavished gifts on her* was five times as common as \**lavished her with gifts*; by 2019, the latter phrasing was three times as common as the former.
 
-Language-Change Index
+## Language-Change Index
 
 *\*lavishing someone with gifts* for *lavishing gifts on someone*: Stage 4
 Current ratio in print \(*lavished gifts on him* vs. *\*lavished him with gifts*\): 1:3

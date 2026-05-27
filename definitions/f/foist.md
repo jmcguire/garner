@@ -8,7 +8,7 @@ When the phrase is as unidiomatic as *\*foist with*, a different verb is in orde
 
 *\*Foist off on* is awkward and wordy \(perhaps influenced by *fob off on*—see \(b\)\). The *OED* quotes Charlotte Brontë as having written *\*foist off on* but calls the phrase "rare." It is still fairly rare today, but it ought to be rarer—e.g.: "We always seem ready to *foist off on* \[read *foist on*\] young people those things that we don't wish to do ourselves." Karen Love, "What's the Role of Prayer in Public Life?," *Denver Post*, 4 May 1996, at B7.
 
-Language-Change Index
+## Language-Change Index
 
 *\*foist off on* for *foist on*: Stage 1
 Current ratio in print \(*foisted on* vs. *\*foisted off on*\): 23:1

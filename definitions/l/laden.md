@@ -14,7 +14,7 @@ Current ratio in print \(*laden* vs. *\*ladened*\): 379:1
 
 **B. For *ridden*.** *Ridden* is the more general term, meaning "infested with," "full of," or "dominated, harassed, or obsessed by." *Laden* has not shed its strong connotation of "loaded down." Hence a place might be *laden* with things if they had been stacked there; or, more plausibly, a truck or barge might be *laden* with goods. But figuratively, *laden* fails as an effective adjective if the original suggestion of loading is ignored. E.g.: "This winter she's going to teach herself how to use the GIS computerized mapping system so she can map out *mosquito-laden* \[read *mosquito-ridden*\] areas and make it easier on the workers." Pam Starr, "The Bug Lady: No One Knows Insects Like Dreda McCreary," *Virginian-Pilot* \(Norfolk\), 15 Oct. 1997, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 *-laden* for *-ridden* \(in the sense "infested with"\): Stage 2
 

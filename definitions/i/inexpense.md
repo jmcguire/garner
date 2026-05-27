@@ -10,7 +10,7 @@
 
 See back-formations & neologisms.
 
-Language-Change Index
+## Language-Change Index
 
 *\*inexpense* for *affordability*: Stage 1
 

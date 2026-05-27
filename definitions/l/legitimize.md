@@ -28,7 +28,7 @@ This differentiation between *legitimate* and *legitimize* has become fairly wel
 
 Today, however, *\*legitimatize* occurs quite rarely. It is a needless variant.
 
-Language-Change Index
+## Language-Change Index
 
 1. *legitimize*: Stage 5
 

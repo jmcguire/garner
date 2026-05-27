@@ -8,7 +8,7 @@ alternate; alternative.
 
 *Alternate* = \(1\) something that proceeds by turns with another; or \(2\) one that substitutes for another.
 
-Language-Change Index
+## Language-Change Index
 
 three or more *alternatives*: Stage 5
 
@@ -18,7 +18,7 @@ three or more *alternatives*: Stage 5
 
 *Alternate* is often misused for *alternative*, an understandable mistake given how close sense 2 of *alternate* is—e.g.: "Patton responded to the Atlanta Preservation Center's proposal for an *alternate* \[read *alternative*\] site for the classroom building." Christina Cheakalos, "Building a Better GSU in Six Years," *Atlanta J.-Const.*, 7 Sept. 1997, at G5.
 
-Language-Change Index
+## Language-Change Index
 
 *alternate* misused for the adjective *alternative*: Stage 2
 Current ratio in print \(*alternative solution* vs. *\*alternate solution*\): 9:1

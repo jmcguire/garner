@@ -6,7 +6,7 @@ Although the *OED* favors *wistaria*, American dictionaries list it as a variant
 
 The newer spelling with the medial *e* took a while to catch on: it became predominant in AmE print sources in the 1940s and in BrE print sources in the 1970s.
 
-Language-Change Index
+## Language-Change Index
 
 *wisteria* so spelled: Stage 5
 Current ratio in print \(*wisteria* vs. *wistaria*\): 6:1

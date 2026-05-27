@@ -10,7 +10,7 @@ One caveat: if we adopt a term such as *chair*, it must be used in reference to 
 
 From the late 1800s until about 1980, American writers sometimes fretted over whether to inflect the verb *chairman* as \**chairmaned* and \**chairmaning* or \**chairmanned* and \**chairmanning*. By 1921, however, *chair* had come into use as a verb meaning "preside as head of \(a committee, a meeting, etc.\)." And by 1940, *chaired* and *chairing* had become predominant over the -*man*- forms. See spelling \(c\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*chairperson* as a gender-neutral term: Stage 2
 Current ratio in print \(*chairman* vs. *\*chairperson*\): 11:1

@@ -8,7 +8,7 @@ bathetic, not *\*bathotic*, is the adjective corresponding to *bathos*. \(See **
 
  - "This set of variations for cello and orchestra is not the typical overblown *bathotic* \[read *bathetic*\] Tchaikovsky work, but one full of grace and lightness." Robert C. Fuller, "Young Cellist's Symphony Performance Is Stunning," *Des Moines Register*, 22 Nov. 2005, at E3.
 
-Language-Change Index
+## Language-Change Index
 
 *\*bathotic* for *bathetic*: Stage 1
 Current ratio in print \(*bathetic* vs. *\*bathotic*\): 43:1

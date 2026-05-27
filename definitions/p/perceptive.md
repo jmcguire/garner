@@ -16,7 +16,7 @@ perceptive.
 
  - "A material alteration is broadly defined as a palpable or *perceptive* \[read *perceptible*\] change in the use, appearance, or function of a common element." Steven J. Adamczyk, "Can Contracts Be Delayed Due to the Pandemic?," Stuart News \(Fla.\), 9 Aug. 2020, at G2.
 
-Language-Change Index
+## Language-Change Index
 
 *perceptive* misused for *perceptible*: Stage 1
 

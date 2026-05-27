@@ -24,7 +24,7 @@ Sometimes, the verb *effect* displaces the simpler *make*—e.g.: "Digitization 
 
 It could be that the widespread misuse of *impact* is partly an attempt to sidestep the problem of how to spell *affect*. See **affect** & **impact**.
 
-Language-Change Index
+## Language-Change Index
 
 *effect* misused for *affect*: Stage 2
 

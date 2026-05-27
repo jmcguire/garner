@@ -8,7 +8,7 @@ mourning dove; **mourning warbler**. The *mourning dove*, a grayish-brown medium
 
  - "He's constantly revising his routines, and is quite proud of his white *morning* \[read *mourning*\] doves \(part of a classic appearing-disappearing trick that has become a staple in his show\)." Miriam Di Nunzio, "Berwyn Teen Makes TV Magic," *Chicago Sun-Times*, 16 Mar. 2001, Weekend Plus §, at 10.
 
-Language-Change Index
+## Language-Change Index
 
 *\*morning dove* for *mourning dove*: Stage 1
 Current ratio in print \(*mourning dove* vs. *\*morning dove*\): 12:1

@@ -18,7 +18,7 @@ fictional; **fictitious**; **fictive**; **\*fictionary**. Although these forms o
 
 *\*Fictionary* is an unusual needless variant of *fictional*—e.g.: "A man who will occasionally paint other persons—even *fictionary* \[read *fictional*\] persons—as worse than they really are may not unnaturally be expected to depict himself as somewhat better than he is." Grant M. Overton, *Why Authors Go Wrong and Other Explanations* 2 \(1919\).
 
-Language-Change Index
+## Language-Change Index
 
 *fictive* misused for *fictitious* or *fictional*: Stage 1
 Current ratio in print \(*fictitious name* vs. *fictional name* vs. *\*fictive name*\): 69:12:1

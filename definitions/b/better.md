@@ -12,7 +12,7 @@ standard english still requires *you had better*, *I had better*, *she had bette
 
 Sometimes *best* replaces *better*, as in *We had best be on our way*. This phrasing—*had best* rather than *had better*—is quite casual, but not low.
 
-Language-Change Index
+## Language-Change Index
 
 1. *better* for *had better*: Stage 3
 Current ratio in print \(*you had better go* vs. *\*you better go*\): 2:1

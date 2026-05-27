@@ -10,7 +10,7 @@ lend > lent > lent. So inflected. *\*Lended* is an error that has occasionally a
 
 See irregular verbs & **loan**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*lended* for *lent*: Stage 1
 Current ratio in print \(*lent him* vs. *\*lended him*\): 1,107:1

@@ -14,7 +14,7 @@ In the following sentences, *refrain* would have been the better choice—e.g.:
 
 *Refrain* is sometimes misused for *restrain*, as a reflexive verb—e.g.: "I had to *refrain myself* \[read *restrain myself* or *refrain*\] from snapping that I wasn't quite ready to date." Miriam Sagan, "How to Talk to a Widow," *Albuquerque J.*, 2 Mar. 1997, at 14.
 
-Language-Change Index
+## Language-Change Index
 
 1. *restrain* misused for *refrain*: Stage 2
 

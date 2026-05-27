@@ -10,7 +10,7 @@ myself is best used either reflexively <I have decided to exclude myself from co
 
 See pronouns \(e\) & first person. Cf. **I personally**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *myself* for *me* <he was an avid golfer like myself>: Stage 3
 

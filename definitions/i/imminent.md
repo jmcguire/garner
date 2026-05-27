@@ -18,7 +18,7 @@ Finally, *immanent* \(= inherent\) sometimes appears where *imminent* belongs—
 
  - "HB 2850 allows a driver to delay reporting an automobile accident involving over $500 damage if such driver is in fear of ‘*immanent* \[read *imminent*\] danger of bodily injury' by other individuals involved in the accident." Jan Pauls, "1994 Legislative Update: Transportation and Utilities," *J. Kansas Bar Ass'n*, Aug. 1994, at 40.
 
-Language-Change Index
+## Language-Change Index
 
 1. *imminent* for *eminent*: Stage 1
 Current ratio in print \(*eminent domain* vs. *\*imminent domain*\): 238:1

@@ -6,7 +6,7 @@ defense.
 
 **B. Pronunciation.** The standard pronunciation has long been with the accent on the second syllable: /di-**fen\[t\]s**/. But primarily as a result of sports talk, some have shifted the accent to the first syllable: /**dee**-fen\[t\]s/. If you want to sound like a general or a lawyer, use the first of these pronunciations; if you want to sound like a sports announcer or a cheerleader, use the second. Cf. **offense**.
 
-Language-Change Index
+## Language-Change Index
 
 *defense* pronounced with accent on first syllable: Stage 4
 
@@ -18,7 +18,7 @@ Language-Change Index
 
  - "He totaled 63 tackles, seven sacks, three passes *defensed* \[read *deflected*\], four forced fumbles and one interception." Mary Kay Cabot, "LB, DB Added to Aid Hamstrung Roster," *Plain Dealer* \(Cleveland\), 17 Aug. 2015, at B2.
 
-Language-Change Index
+## Language-Change Index
 
 *defense* as a verb: Stage 2
 

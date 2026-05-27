@@ -10,7 +10,7 @@ catch fire; \***catch on fire**. The phrase *catch fire*, dating back to the Mid
 
 See phrasal verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*catch on fire* for *catch fire*: Stage 3 Current ratio in print \(*catch fire* vs. \**catch on fire*\): 6:1
 

@@ -8,7 +8,7 @@ anyone.
 
 **C. *Anyone . . . they*.** In all types of writing, sentences like this one are on the rise: "If *anyone* thought Diana would be chastened, *they* were wrong." Jerry Adler & Daniel Pedersen, "Diana's Battle Royal," *Newsweek*, 11 Mar. 1996, at 20. Americans who care about good writing tend to disapprove. But the tide against them is great, primarily because the construction is ubiquitous \(and so handy\) in speech. For more on this subject, see concord \(b\), sexism \(b\), pronouns \(d\) & **they \(a\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *anyone . . . they*: Stage 4
 

@@ -6,7 +6,7 @@ announce; **annunciate**; **\*enounce**; **enunciate**. *Announce*, the best-kno
 
 *Enunciate* = \(1\) to formulate systematically; \(2\) to announce, proclaim; or \(3\) to articulate clearly. *\*Enounce* is a needless variant in sense 1 of *enunciate*. Sometimes writers misuse *\*annunciate* for *enunciate* \(sense 3\)—e.g.: "While her voice was clear and solid, she *annunciated* \[read *enunciated*\] just a little too much." Maureen Johnson, " ‘Grease\!' Rocks, Despite a Few Slips," *Charleston Daily Mail* \(W. Va.\), 12 May 1997, at A10.
 
-Language-Change Index
+## Language-Change Index
 
 *\*annunciate* misused for *enunciate*: Stage 1
 

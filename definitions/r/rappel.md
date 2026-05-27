@@ -12,7 +12,7 @@ This mistake began appearing in print in the late 1970s.
 
 Because the verb is accented on the second syllable \(/ra-**pel**/ or /rә-**pel**/\), its inflected forms have a double *l* in AmE and BrE alike: *rappelled*, *rappelling*. See spelling \(c\).
 
-Language-Change Index
+## Language-Change Index
 
 *repel* misused for *rappel*: Stage 1
 Current ratio in print \(*rappelling down* vs. \**rapelling down*\): 92:1

@@ -10,7 +10,7 @@ sing > sang > sung. So inflected. Although the past-participial *sung* was often
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 1. *sung* misused for simple past-tense *sang*: Stage 1
 Current ratio in print \(*she sang* vs. *\*she sung*\): 23:1

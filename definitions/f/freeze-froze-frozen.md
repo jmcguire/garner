@@ -10,7 +10,7 @@ freeze > froze > frozen. So inflected. Yet the barbarous *\*freezed* isn't uncom
 
 See irregular verbs. Cf. **deep-freeze**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*freezed* for *froze*: Stage 1
 Current ratio in print \(*froze* vs. \**freezed*\): 791:1

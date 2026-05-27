@@ -8,7 +8,7 @@ berth \(= a spot or position\) is occasionally misspelled *birth*, sometimes \(a
 
  - "The Tigers clinched an Empire 8 playoff *birth* \[read *berth*\], while improving their record 6–2, 6–1." "Andres, Vegy Help Spark MCC Shutout," *Rochester Democrat & Chron.*, 24 Sept. 2008, at D5.
 
-Language-Change Index
+## Language-Change Index
 
 *birth* misused for *berth*: Stage 1
 Current ratio in print \(*secure a berth* vs. *\*secure a birth*\): 15:1

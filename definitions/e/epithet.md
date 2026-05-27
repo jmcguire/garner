@@ -4,7 +4,7 @@ epithet.
 
 **A. Meanings.** *Epithet* = \(1\) an esp. apt description or label, whether the quality denoted is favorable or unfavorable; or \(2\) a slur or an abusive term. Sense 2 is quickly driving out sense 1.
 
-Language-Change Index
+## Language-Change Index
 
 *epithet* for *slur* or *term of abuse*: Stage 5
 
@@ -18,7 +18,7 @@ Language-Change Index
 
 In Canada, this error has provoked the ire of a letter-writer: "Art Hanger, the Calgary Reform MP, last week accused Liberal Mary Clancy of ‘hurling epitaphs' when she attacked Reform immigration policy. \[¶\] Clancy replied mockingly that ‘marble epitaphs' are rather too heavy to hurl, and chided Hanger for his misuse of language. \[¶\] Actually, they're both wrong—but who expects politicians to understand English? \[¶\] An epitaph is not a headstone: it's a funeral oration or a memorial inscription written on a tomb." Sydney Sharpe, "Calgary Schools Benefit from Companies' Castoffs," *Calgary Herald*, 22 Jan. 1995, at A2.
 
-Language-Change Index
+## Language-Change Index
 
 *epitaph* misused for *epithet*: Stage 1
 Current ratio in print \(*contemptuous epithet* vs. *\*contemptuous epitaph*\): 28:1

@@ -10,7 +10,7 @@ egotism; **egoism**; **egocentrism**; **egocentricity**; **egomania**. *Egotism*
 
 The other three words are closely related. *Egocentrism* and *egocentricity* are synonymous, with perhaps a slight degree of difference. *Egocentrism* = the quality of being self-centered and selfish; looking only to one's own feelings and needs. *Egocentricity* = the quality of being egocentric, individualistic, or self-centered. *Egomania* is extreme *egocentrism*.
 
-Language-Change Index
+## Language-Change Index
 
 *egoism* misused for *egotism*: Stage 2
 

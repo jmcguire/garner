@@ -16,7 +16,7 @@ At other times, *quell* or some other word seems to fill in better—e.g.:
 
 What's the principle for deciding between *squelch* and *quell*? *Squelch* is better for the idea of stifling talk, emotions, thoughts, and the like. *Quell* is better for the idea of stifling a violent uprising or competitive bid.
 
-Language-Change Index
+## Language-Change Index
 
 *\*quelch* for *squelch*: Stage 1
 Current ratio in print \(*squelch* vs. *\*quelch*\): 222:1

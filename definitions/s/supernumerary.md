@@ -8,7 +8,7 @@ The same error occurs in the noun use, in which *supernumerary* means "an extra 
 
  - "The good burghers of Cannes . . . don't like to be treated as *supernumeries* \[read *supernumeraries*\]." Derek Malcolm, "Cannes 96," *Guardian*, 8 May 1996, at T6.
 
-Language-Change Index
+## Language-Change Index
 
 *supernumerary* misspelled *\*supernumery*: Stage 1
 Current ratio in print \(*supernumerary* vs. \**supernumery*\): 283:1

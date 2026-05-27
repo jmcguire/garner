@@ -8,7 +8,7 @@ overflow > overflowed > overflowed. So inflected. Some writers mistakenly use *o
 
 See irregular verbs \(d\). For a short, interesting study of this term, see Ann Eljenholm Nichols, "The Past Participle of ‘Overflow': ‘Overflowed' or ‘Overflown,' " 41 *Am. Speech* 52 \(Feb. 1966\).
 
-Language-Change Index
+## Language-Change Index
 
 *overflown* misused for *overflowed* as past participle of *overflow*: Stage 1
 Current ratio in print \(*overflowed its banks* vs. \**overflown its banks*\): 55:1

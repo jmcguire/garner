@@ -8,7 +8,7 @@
 
  - "Being arrogantly *self-complacent* \[read *complacent*\] or self-satisfied, to use the dictionary definition of the word, does not go down well with voters." Peter MacMahon, "A Big Mistake to Underestimate the Lib Dems' Electoral Appeal," *Scotsman*, 7 Apr. 2007, at 33.
 
-Language-Change Index
+## Language-Change Index
 
 *\*self-complacent* for *complacent*: Stage 1
 Current ratio in print \(*a complacent* vs. *\*a self-complacent*\): 34:1

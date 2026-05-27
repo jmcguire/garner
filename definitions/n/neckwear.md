@@ -8,7 +8,7 @@ neckwear \(= clothing worn about the neck\) is sometimes misspelled *\*neckware*
 
  - "After her stellar performance Sunday in the women's slopestyle competition, she has a new piece of *neckware* \[read *neckwear*\]: an Olympic gold medal." Rick Maese, "Anderson Rides ‘Good Vibes' to Snowboarding Gold," *Wash. Post*, 10 Feb. 2014, at D7.
 
-Language-Change Index
+## Language-Change Index
 
 *\*neckware* for *neckwear*: Stage 1
 Current ratio in print \(*neckwear* vs. *\*neckware*\): 35:1

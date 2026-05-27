@@ -12,7 +12,7 @@ ilk.
 
 Still, one occasionally encounters puzzling uses that seem worthy of disapproval—e.g.: "It is also maddening to know there exists the human *ilk* that would, for whatever twisted motive, drag our young over the line." Gil Griffin, "Essayist Takes Race Relations Personally," *San Diego Union-Trib.*, 24 Nov. 1997, at E1. The sentence would surely be improved by changing *there exists the human ilk that* to *there exist people who*.
 
-Language-Change Index
+## Language-Change Index
 
 *ilk* for *type* or *sort*: Stage 5
 

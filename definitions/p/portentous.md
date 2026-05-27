@@ -10,7 +10,7 @@ portentous \(= \[1\] ominous, prophetic; \[2\] wondrous; \[3\] solemn; or \[4\] 
 
 Dwight Bolinger explains the origin of the error: "*Portentous* sounds like *pretentious*, there is a vague association of meaning, and the suffix *-tious* is more substantial and possibly more frequent than simple *-ous*, so we begin to get *portentious*." *Language: The Loaded Weapon* 42 \(1980\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *portentous* misspelled *\*portentious*: Stage 1
 Current ratio in print \(*portentous* vs. \**portentious*\): 156:1

@@ -14,7 +14,7 @@ In the late 1900s, some writers began spelling the term without an apostrophe: *
 
 Why has the spelling been so much trouble? *Y'all* is the only contraction in English in which a stressed form is contracted to an unstressed one. See Michael B. Montgomery, "A Note on *Ya'll*," 64 *Am. Speech* 273, 274 \(1989\). See also 5 *DARE* at 1132–34.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*ya'll* for *y'all*: Stage 2
 Current ratio in print \(*y'all* vs. *\*ya'll*\): 9:1

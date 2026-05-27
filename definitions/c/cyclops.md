@@ -16,7 +16,7 @@ See plurals \(a\).
 
 It's wrong, by the way, to make *cyclops* itself into a plural—e.g.: "Other highlights I remember: Sinbad battling a baby croc and its gigantic mother, several *cyclops* \[read *cyclopses* or *cyclopes*\] and a fire-breathing dragon." Jim Bawden, "Movie Previews," *Toronto Star*, 3 Mar. 1997, Starweek §, at 8.
 
-Language-Change Index
+## Language-Change Index
 
 *cyclops* as a false plural for *cyclopses* or *cyclopes*: Stage 2
 Current ratio in print \(*the cyclopes* vs. *the cyclopses*\): 8:1

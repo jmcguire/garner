@@ -10,7 +10,7 @@ somewhat. The phrasing *\*somewhat of a* has traditionally been considered a gra
 
 The collocation *something of a* has a greatly predominated over \**somewhat of a* since the 1600s in print sources. The disparity became most pronounced during the 1900s. See **of \(b\)** & weasel words.
 
-Language-Change Index
+## Language-Change Index
 
 *\*somewhat of an expert* for *something of an expert*: Stage 3
 Current ratio in print \(*something of an expert* vs. *\*somewhat of an expert*\): 4:1

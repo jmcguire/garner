@@ -8,7 +8,7 @@ epistolary \(= of, relating to, or based on letters\) is sometimes wrongly made 
 
 A cognate of *epistle* \(letter\), the word is pronounced /i-**pis**-tә-ler-ee/.
 
-Language-Change Index
+## Language-Change Index
 
 *\*epistolatory* for *epistolary*: Stage 1
 Current ratio in print \(*epistolary* vs. *\*epistolatory*\): 246:1

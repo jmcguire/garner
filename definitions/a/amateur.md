@@ -8,7 +8,7 @@ In recent years, it has come to be used as a synonym for *beginner*. A good alte
 
 The word is sometimes misspelled *\*amature*—e.g.: "Thanks to travel sites, Web cams and the ego of *amature* \[read *amateur*\] photographers, you can get your fill of colorful leaves by letting your fingers do the peeping." Stephanie Schorow, "Net Life," *Boston Herald*, 4 Oct. 2000, at 59.
 
-Language-Change Index
+## Language-Change Index
 
 *amateur* misspelled *\*amature*: Stage 1
 Current ratio in print \(*amateur* vs. \**amature*\): 1,554:1

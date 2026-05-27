@@ -10,7 +10,7 @@ quitclaim \(= the formal release of a potential right, esp. of any claim to owne
 
 See mondegreens.
 
-Language-Change Index
+## Language-Change Index
 
 *\*quick claim* for *quitclaim*: Stage 1
 Current ratio in print \(*quitclaim deed* vs. *\*quick claim deed*\): 134:1

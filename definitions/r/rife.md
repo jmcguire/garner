@@ -8,7 +8,7 @@ rife; **ripe**. While a tree may be *rife* \(= abundant\) with fruit, and that f
 
  - "Exotic yet wholly approachable and *ripe* \[read *rife*\] with top-notch musicianship and infectious energy, this ‘Revolution de Amor' is hard to resist." Scott D. Lewis, "CD of the Week," *Oregonian* \(Portland\), 30 Sept. 2002, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 *ripe* misused for *rife*: Stage 2
 Current ratio in print \(*rife with* vs. *\*ripe with*\): 4:1

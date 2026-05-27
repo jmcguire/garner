@@ -10,7 +10,7 @@ For similar mistakes, see **contractual** & **pretextual**. For more on the intr
 
 But *contextural* is a bona fide adjective formed from *contexture* \(a close synonym of *texture* meaning "a weaving together of elements into a whole"\). It's pretty rare, but it does sometimes occur—e.g.: "As for the rating, the ensemble concept, the *contextural* solos, and the subtle variety add a star." Owen Cordle, "Blue Motion: Sound Recording Reviews," *DownBeat*, June 1994, at 38.
 
-Language-Change Index
+## Language-Change Index
 
 *contextual* misspelled *contextural*: Stage 1
 Current ratio in print \(*contextual information* vs. *\*contextural information*\): 10,269:1

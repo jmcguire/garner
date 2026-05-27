@@ -12,7 +12,7 @@ waive.
 
  - "\[Bobby\] Cox thought it was better than borderline, and he let home plate umpire Chris Guccione know it with a waist-high *waive* \[read *wave*\] of his hand as he went to the mound to pull \[Ron\] Mahay for Tyler Yates." Vic Feuerherd, "Late Revival Meeting," *Wis. State J.*, 22 Sept. 2007, at C3.
 
-Language-Change Index
+## Language-Change Index
 
 *waive* misused for *wave*: Stage 1 Current ratio in print \(*wave aside* vs. *\*waive aside*\): 9:1
 

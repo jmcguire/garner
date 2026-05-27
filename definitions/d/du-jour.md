@@ -28,7 +28,7 @@ The phrase is often mistakenly written *\*de jour*—e.g.:
 
 In French, by the way, *du* is a sort of contraction for *de le* in the same way that *au* is for *à le*. *Du* and *au* are used only with masculine nouns such as *jour*. So although it's possible that the mistaken *\*de jour* results from rusty knowledge of French grammar, more likely it results from Americans' general ignorance of foreign tongues.
 
-Language-Change Index
+## Language-Change Index
 
 *du jour* misspelled *\*de jour*: Stage 2
 Current ratio in print \(*du jour* vs. \**de jour*\): 8:1

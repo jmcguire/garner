@@ -8,7 +8,7 @@ espresso \(= a specialty coffee prepared with pressurized hot water\) is so spel
 
 For the proper and common mispronunciations, see pronunciation \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 *espresso* misspelled *\*expresso*: Stage 1
 Current ratio in print \(*espresso* vs. \**expresso*\): 56:1

@@ -22,7 +22,7 @@ The most common mistake is to write *\*prostrate gland* instead of *prostate gla
 
  - "During emission, the capsule of the *prostrate* \[read *prostate*\] gland contracts simultaneously with the contractions of the vas deferens so that the thin, milky fluid of the *prostrate* \[read *prostate*\] glands adds further to the bulk of the semen." Ritu Jain, *Secrets of Homoeopathy* 167 \(2007\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*prostrate gland* for *prostate gland*: Stage 1
 Current ratio in print \(*prostate gland* vs. *\*prostrate gland*\): 218:1

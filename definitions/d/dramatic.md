@@ -18,7 +18,7 @@ dramatic; **drastic**. Each word is sometimes misused for the other. *Dramatic* 
 
 See word-swapping.
 
-Language-Change Index
+## Language-Change Index
 
 1. *dramatic* misused for *drastic*: Stage 1
 Current ratio in print \(*drastic measures* vs. *\*dramatic measures*\): 35:1

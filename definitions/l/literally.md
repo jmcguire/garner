@@ -28,7 +28,7 @@ Sometimes the term appears in the pairing *literally and figuratively* \(or with
 
 Finally, the adverb *literally* is about words, not feelings. It makes no sense to say, as many have, \**This literally feels awesome*. Or *\*This literally changed the trajectory of my life*. Or \**This literally seems unreal.* In uses such as these, the word has essentially become meaningless. Literally meaningless.
 
-Language-Change Index
+## Language-Change Index
 
 *literally* for *figuratively* <we're literally toast>: Stage 3
 

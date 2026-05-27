@@ -4,7 +4,7 @@ affected, adj.; **affective; affectional; affectionate**. *Affected*, adj., = ar
 
 Just as *affect* is sometimes misused for *effect*, so *affective* sometimes wrongly displaces *effective*—e.g.: "Physicians are also finding some non-opiate medications used to treat disease are *affective* \[read *effective*\] in controlling pain, Lingam said." Candace L. Preston, "Doctors Offer Balm of Nepenthe," *Bus. First* \(Columbus\), 27 June 1997, at 15. See **affect**.
 
-Language-Change Index
+## Language-Change Index
 
 *affective* misused for *effective*: Stage 1
 

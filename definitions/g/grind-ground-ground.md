@@ -12,7 +12,7 @@ See irregular verbs.
 
 In one context, however, *grinded* is perfectly legitimate \(though lamentable, in the eyes of high-school chaperons everywhere\): a style of dancing known as *grinding*, involving a female's pressing her buttocks against her partner's groin \(through clothing\), or sometimes a direct rubbing of groins or of her breasts, often with vigorous perfrication. \(Call it part of the coarsening of our culture.\) Someone who has engaged in such dancing would say that he or she *grinded*, not *ground*. *O tempora*\! *O mores*\!
 
-Language-Change Index
+## Language-Change Index
 
 *grinded* misused as a past tense in a nondancing sense: Stage 1
 Current ratio in print \(*ground his teeth* vs. *\*grinded his teeth*\): 22:1

@@ -8,7 +8,7 @@
 
 The phrase *\*sooner* *rather than later* originated in the late 1800s but wasn't widely used until the late 1900s.
 
-Language-Change Index
+## Language-Change Index
 
 *\*sooner rather than later*: Stage 4
 

@@ -12,7 +12,7 @@ apparatus has the plural forms *apparatus* \(the Latin form\) and *apparatuses* 
 
 Cf. **nexus** & **prospectus**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*apparati* for *apparatuses*: Stage 1
 Current ratio in print \(*apparatuses* vs. *\*apparati*\): 29:1

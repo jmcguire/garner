@@ -14,7 +14,7 @@ forswear.
 
 If *\*foreswear* were a proper word, it might mean "to swear before," since the prefix *fore-* denotes a previous time. See for-. Cf. **forego**.
 
-Language-Change Index
+## Language-Change Index
 
 *forswear* misspelled *\*foreswear*: Stage 2
 Current ratio in print \(*forswear* vs. \**foreswear*\): 7:1

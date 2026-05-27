@@ -28,7 +28,7 @@ Moreover, only words and other symbols can *connote*, not acts. *Connote* isn't 
 
 See back-formations.
 
-Language-Change Index
+## Language-Change Index
 
 *\*connotate* for *connote*: Stage 1
 Current ratio in print \(*connoting* vs. \**connotating*\): 136:1

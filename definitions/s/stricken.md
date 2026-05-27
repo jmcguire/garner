@@ -4,7 +4,7 @@ stricken.
 
 **A. Generally.** Though *stricken* often appears as a past participle, grammatical authorities have long considered it inferior to *struck*, which in any event has always been the predominant past participle. It's an archaism except when used as an adjective <a stricken community>. The past-participial use is ill-advised—e.g.: "A noncompete agreement that bans a person from ever setting up a competing company in the same geographical location will be *stricken* \[read *struck*\] down by the courts as too restrictive." Joseph T. Leone, "Family Businesses Need to Play It Safe," *Wis. State J.*, 16 Feb. 1997, at E4. Cf. **proved** & **shrink**.
 
-Language-Change Index
+## Language-Change Index
 
 *stricken* for past-participial *struck*: Stage 4
 Current ratio in print \(*will be struck* vs. *\*will be stricken*\): 8:1
@@ -19,7 +19,7 @@ Current ratio in print \(*will be struck* vs. *\*will be stricken*\): 8:1
 
 See **strike** & irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*strickened* for *stricken*: Stage 1
 Current ratio in print \(*stricken* vs. *\*strickened*\): 3,514:1

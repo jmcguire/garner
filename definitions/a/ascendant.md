@@ -14,7 +14,7 @@ Current ratio in print \(*ascendant* vs. \**ascendent*\): 37:1
 
 Avoid the variant spelling *\*ascendent*.
 
-Language-Change Index
+## Language-Change Index
 
 *\*in the ascendancy* for *in the ascendant*: Stage 2
 Current ratio in print \(*in the ascendant* vs. *\*in the ascendancy*\): 3:1

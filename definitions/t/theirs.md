@@ -10,7 +10,7 @@ theirs, an absolute possessive that takes no apostrophe, is sometimes wrongly wr
 
 See possessives \(c\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*their's* for *theirs*: Stage 1
 Current ratio in print \(*theirs* vs. *\*their's*\): 252:1

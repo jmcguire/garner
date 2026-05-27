@@ -20,7 +20,7 @@ In any event, it's wrong to make *confidante* refer to a male—e.g.:
 
  - "He becomes a *confidante* \[read *confidant*\] and occasional babysitter for his boss \(Anne Hathaway\)." "At the Movies," *Edmonton J.*, 2 Oct. 2015, at C7.
 
-Language-Change Index
+## Language-Change Index
 
 1. *confidant* for either sex: Stage 5
 

@@ -6,7 +6,7 @@ The much rarer word *depravation* denotes the act or process of depraving or cor
 
 *Depravation* is fairly often misused where *deprivation* \(= want; destitution\) was intended—e.g.: "The painter, fond of all sorts of geometric shapes, used ladders repeatedly to represent hope and escape from social injustice and economic *depravation* \[read *deprivation*\]." Ann Hicks, "Over the Line," *Greenville News* \(S.C.\), 11 Aug. 2002, at E1. Both words denote hardships, but of a different sort.
 
-Language-Change Index
+## Language-Change Index
 
 *depravation* misused for *deprivation*: Stage 1
 

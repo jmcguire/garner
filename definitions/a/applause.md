@@ -12,7 +12,7 @@ Yet because the end of the word sounds much like a plural ending in *s*, some wr
 
  - "Talley . . . falls just once and is back on his feet before his family's teasing *applause die* \[read *applause dies*\] out." Nora K. Froeschle Jenks, "Speed Skater Qualifies for Winter Games in Alaska," *Tulsa World*, 13 Dec. 2000, at 4.
 
-Language-Change Index
+## Language-Change Index
 
 *applause* misused as a plural: Stage 2
 Current ratio in print \(*the applause was* vs. *\*the applause were*\): 84:1

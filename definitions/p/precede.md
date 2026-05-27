@@ -6,7 +6,7 @@ precede; **proceed**. word-swapping can befall these words even when used by oth
 
 The same is true of the misuse of *proceed* for *precede*—e.g.: "Representative Charles B. Rangel of New York, the senior Democrat on the Ways and Means Committee, and one of the leading liberals in Congress, *proceeded* \[read *preceded*\] Mr. Archer to the microphone." Jerry Gray, "Bills to Balance the Budget and Cut Taxes Pass the Senate," *N.Y. Times*, 1 Aug. 1997, at A12.
 
-Language-Change Index
+## Language-Change Index
 
 1. *precede* misspelled *\*preceed*: Stage 1
 Current ratio in print \(*the preceding section* vs. \**the preceeding section*\): 317:1

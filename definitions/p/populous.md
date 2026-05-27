@@ -12,7 +12,7 @@ populous; **populist**. *Populous* \(= thickly populated\) for *populist* \(= of
 
 For a similar mistake—*populace* for *populous*—see **populace \(b\)**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *populace* misused for *populist*: Stage 1
 

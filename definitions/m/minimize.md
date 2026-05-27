@@ -6,7 +6,7 @@ minimize.
 
 But the word is also used to mean "to misrepresent \(something\) as less significant than it really is; to belittle or degrade"—e.g.: "Mr. Kelly sought to *minimize* differences between Mr. Roh and the administration on North Korea and other issues, suggesting that those differences might have been unfairly magnified during the heat of the campaign." Howard W. French, "Seoul May Loosen Its Ties to U.S.," *N.Y. Times*, 20 Dec. 2002, at A1. Some authorities have criticized the use of *minimize* in this latter sense. Among them is Theodore Bernstein, who was an assistant managing editor of *The New York Times*. But as this citation from the same newspaper suggests, the new sense is thoroughly ingrained in our usage today. It has become standard.
 
-Language-Change Index
+## Language-Change Index
 
 *minimize* in the sense "to play down" \(as in *In the news conference, the officials minimized their role in the decision*\): Stage 5
 
@@ -22,7 +22,7 @@ Current ratio in print \(*minimize* vs. \**minify*\): 1,187:1
 
  - "Insufficient technology and bandwidth shuts down teacher/student computer access and *minimalizes* \[read *minimizes*\] the education during excessive testing." Cindi Andrews, "Common Core Test Flaws Are Obvious," *Cincinnati Enquirer*, 8 Mar. 2015, at F4.
 
-Language-Change Index
+## Language-Change Index
 
 *\*minimalize* for *minimize*: Stage 1
 Current ratio in print \(*minimized* vs. *\*minimalized*\): 212:1

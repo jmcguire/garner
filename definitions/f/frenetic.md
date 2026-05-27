@@ -6,7 +6,7 @@ frenetic; **\*phrenetic**; **frenzy**; **\*phrenzy**; **\*phrensy**. Although *\
 
  - "And he understood . . . that the Senate was uniquely insulated against the *phrensy* \[read *frenzy*\] of public opinion." Robert A. Caro, *The Years of Lyndon Johnson: Master of the Senate* 373 \(2002\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*phrenzy* or *\*phrensy* for *frenzy*: Stage 1
 Current ratio in print \(*frenzy* vs. *\*phrenzy* vs. *\*phrensy*\): 142:1.1:1

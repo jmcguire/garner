@@ -4,7 +4,7 @@
 
 Both in and outside law, the phrase is sometimes misspelled *\*corpus delecti*, a sort of macabre etymological double entendre \(Latin *delecto* means "to delight"\). E.g.: "The medical examiner will no longer examine the *corpus delecti* \[read *corpus delicti*\]." Dominic J. Baranello, "E Pluribus Unum? \(Or Something\)," *N.Y. Times*, 15 Sept. 1996, Long Island §, at 19.
 
-Language-Change Index
+## Language-Change Index
 
 *\*corpus delecti* for *corpus delicti*: Stage 1
 Current ratio in print \(*corpus delicti* vs. *\*corpus delecti*\): 14:1

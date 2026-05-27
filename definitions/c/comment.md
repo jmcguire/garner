@@ -4,7 +4,7 @@ comment; **commentate**. *Comment* \(= to express an opinion\) is a Latin loanwo
 
 Both verbs are traditionally intransitive <she commented favorably on the book> <he commentated for ABC Sports during the U.S. Open>. *Commentate* is now sometimes used as a transitive verb <he commentated the U.S. Open>, but the newfangled usage is not recommended.
 
-Language-Change Index
+## Language-Change Index
 
 1. *commentate* as a verb: Stage 5
 

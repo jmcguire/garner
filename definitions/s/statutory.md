@@ -16,7 +16,7 @@ The adverb *statutorily* is sometimes wrongly written *\*statutorially* or *\*st
 
  - "Nothing compels him, *statutorally* \[read *statutorily*\] or ethically, to give up on the job." "Tobacco: Unregulated Remarks," *Virginian-Pilot* \(Norfolk\), 6 Mar. 1997, at B10.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*statutorial* for *statutory*: Stage 1
 Current ratio in print \(*statutory* vs. *\*statutorial*\): 15,675:1

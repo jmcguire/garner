@@ -10,7 +10,7 @@ bequest, n.; **\*bequeathal**; **\*bequeathment**. *Bequest* = \(1\) the act of 
 
  - "Last updated in 1993, before the U.S. political lexicon had acquired ‘soccer moms' \(1996\), ‘fuzzy math' \(2000\) and ‘Swift Boat spot' \(2004\), the book's newest version includes rich linguistic *bequeathals* \[read *bequests*\] from both the Clinton and second Bush White Houses." Katie Baker, "How to Sound Presidential," *Newsweek*, 24 Mar. 2008, at 17.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*bequeathment* for *bequest*: Stage 1
 Current ratio in print \(*bequest* vs. *\*bequeathment*\): 205:1

@@ -10,7 +10,7 @@ free rein is the correct spelling of this phrase—not *\*free reign*. The allus
 
 *Full rein* is a synonymous but less common expression. See **rein**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*free reign* for *free rein*: Stage 3
 Current ratio in print \(*free rein* vs. *\*free reign*\): 4:1

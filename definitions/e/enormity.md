@@ -38,7 +38,7 @@ Some sentences teeter on an ambiguity. Is the word used correctly \(and somethin
 
 Again, is the writer of the following sentence partisan? And if so, is the writer a Republican or a Democrat? "Pick a superlative, any superlative. Chances are it doesn't come close to portraying the *enormity* of the Republican victory Tuesday." "Big Win," *Amarillo Globe-Times*, 10 Nov. 1994, at A4.
 
-Language-Change Index
+## Language-Change Index
 
 *enormity* misused for *immensity*: Stage 4
 

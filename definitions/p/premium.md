@@ -10,7 +10,7 @@ premium. The standard plural has been *premiums* since the 1700s. The form *\*pr
 
 See plurals \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*premia* for *premiums*: Stage 1
 Current ratio in print \(*premiums* vs. *\*premia*\): 12:1

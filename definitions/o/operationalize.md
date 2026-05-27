@@ -10,7 +10,7 @@
 
 See -ize.
 
-Language-Change Index
+## Language-Change Index
 
 *\*operationalize*: Stage 1
 

@@ -48,7 +48,7 @@ The spelling *\*plead* as a past tense \(for *\*pled*\) appeared in the 1700s, a
 
 See irregular verbs \(d\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*pled* as a past tense for *pleaded*: Stage 3
 Current ratio in print \(*he pleaded guilty* vs. *\*he pled guilty*\): 3:1

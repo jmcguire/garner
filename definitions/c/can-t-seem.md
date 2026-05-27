@@ -10,7 +10,7 @@ Regardless of its label, this process is quite common, especially in speech. But
 
  - "The notional premise of this latest foray into meta-comedy is that the outwardly earnest duo *can't seem* to write a skit they like." Mark Monahan, "Comedy," *Daily Telegraph*, 22 Aug. 2015, at 19.
 
-Language-Change Index
+## Language-Change Index
 
 *can't seem*: Stage 5
 

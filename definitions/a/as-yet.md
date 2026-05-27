@@ -10,7 +10,7 @@
 
 *\*As of yet* is a vulgarism. Cf. **as of \(b\)** & **\*but yet**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*as yet* for *yet*: Stage 3
 Current ratio in print \(*not yet* vs. *\*not as yet*\): 48:1

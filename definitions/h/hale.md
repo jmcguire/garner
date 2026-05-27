@@ -6,7 +6,7 @@ hale, vb. \(= to compel to go\), is said in the *OED* to be characteristic of Am
 
  - "Although the court eventually recognized that the three officials were just doing their job, these agents and others similarly situated may, in the future, be less willing to do that job in the most effective manner, based on a reasonable fear that they could be *hailed* \[read *haled*\] into court and potentially subjected to personal civil liability as a result." Michelle Visser, "Sovereign Immunity and Informant Defectors: The United States' Refusal to Protect Its Protectors," 58 *Stanford L. Rev.* 663, 692 \(2005\).
 
-Language-Change Index
+## Language-Change Index
 
 *hail* misused for *hale*: Stage 2
 Current ratio in print \(*haled into court* vs. *\*hailed into court*\): 9:1

@@ -32,7 +32,7 @@ If we add into the analysis the empirical fact that *centering on* is much more 
 
 The recommendation here is to understand that although *centering around* may one day be standard, that day hasn't arrived. If you're an editor, you're justified in wanting to change it to *centering on*. But to call it an outright error is to exaggerate. It is common in everyday speech but not yet unimpeachable in what purports to be polished writing. The criticisms haven't worn off.
 
-Language-Change Index
+## Language-Change Index
 
 *center around* for *center on* or *revolve around*: Stage 3
 

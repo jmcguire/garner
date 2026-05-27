@@ -26,7 +26,7 @@ The weak form \(*\*shaked*\) is perhaps justifiable in the facetious reduplicati
 
 But *\*shaked* is probably pointless when it appears alongside other weak verbs, the verb here falling victim to false analogy—e.g.: "He jumped. He skipped. He pointed. He shimmied. He *shaked* \[read *shook*\]." "Around the NFL," *Cincinnati Enquirer*, 9 Sept. 1996, at D5. See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 1. *shook* misused for *shaken* \(past participle of *shake*\): Stage 1
 Current ratio in print \(*had shaken* vs. *\*had shook*\): 40:1

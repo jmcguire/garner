@@ -4,7 +4,7 @@ bare, v.t. \(= to uncover\), is sometimes confused with *bear* \(= \[1\] to carr
 
 The verb is inflected *bare* > *bared* > *bared*. For the opposite error, see **bear out**.
 
-Language-Change Index
+## Language-Change Index
 
 *bear* misused for the verb *bare*: Stage 1
 Current ratio in print \(*bare your soul* vs. *\*bear your soul*\): 18:1

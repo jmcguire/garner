@@ -6,7 +6,7 @@ Strictly speaking, the phrase *\*excess verbiage* is a redundancy, given the pre
 
 The syncopated form *\*verbage* for *verbiage* is a common error dating from the 1800s. Perhaps it was spawned by the analogy of *herbage*. E.g.: "But too often, investors need a magnifying glass and a law degree to get through the document's turgid, lengthy *verbage* \[read *verbiage*\]." David Lieberman, "Disney Overcomes Shareholder Protest," *USA Today*, 26 Feb. 1997, at B3. This error might result partly from the common mispronunciation: /**vәr**-bij/, rather than the correct /**vәr**-bee-ij/. Also, endings in *-iage* are less common in English than those in *-age*.
 
-Language-Change Index
+## Language-Change Index
 
 1. *verbiage* misused for *verbal expression* \(with neutral connotation\): Stage 4
 

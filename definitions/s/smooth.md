@@ -4,7 +4,7 @@ smooth, vb.; **\*smoothen**. The latter is a needless variant—e.g.: "But event
 
 The verb is often misspelled *\*smoothe*, doubtless on the analogy of *sheathe*, *soothe*, and *teethe*—e.g.: "They are also using a polishing process that *smoothes* \[read *smooths*\] the metal that sits above the circuitry." Benjamin Fulford, "Another Dimension," *Forbes*, 22 July 2002, at 173. This misspelling may also be influenced by the past-tense form: *smoothed*.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*smoothe* for the verb *smooth*: Stage 1
 Current ratio in print \(*to smooth* vs. *\*to smoothe*\): 252:1

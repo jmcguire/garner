@@ -8,7 +8,7 @@ rarefaction /rair-ә-**fak**-shәn/ = \(1\) the act or process of making less de
 
  - "The solution consists of the high pressure gas expanding into the low pressure gas, sending a shock wave ahead and a *rarifaction* \[read *rarefaction*\] wave in the other direction." Pijush K. Kundu et al., *Fluid Mechanics* 278 \(6th ed. 2015\).
 
-Language-Change Index
+## Language-Change Index
 
 *rarefaction* misspelled *\*rarefication*, *\*rarification*, or *\*rarifaction*: Stage 1
 Current ratio in print \(*rarefaction* vs. *\*rarefication* vs. *\*rarification* vs. *\*rarifaction*\): 547:16:5:1

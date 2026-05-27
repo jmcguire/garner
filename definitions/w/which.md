@@ -10,7 +10,7 @@ For a full explanation of *which* vs. *that*, see **that \(a\)**. Suffice it to 
 
 There is, of course, an exception for traditional wordings. For example, in Early Modern English, it was possible to cast the original version of the Lord's Prayer with a personal *which* <Our Father, which art in Heaven>.
 
-Language-Change Index
+## Language-Change Index
 
 *which* wrongly applied to people: Stage 1
 Current ratio in print \(*people who* vs. *people that* vs*. \*people which*\): 130:18:1

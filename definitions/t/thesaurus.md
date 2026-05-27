@@ -8,7 +8,7 @@ thesaurus \(= a book or online resource that supplies synonyms\) has long formed
 
  - "How many can say they've written dictionaries or *thesauruses* for a language that was all but lost?" Ben Waldman, "The Mother Tongue," *Winnipeg Free Press*, 30 Sept. 2021, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 *thesauruses*: Stage 5
 Current ratio in print \(*thesauri* vs. *thesauruses*\): 3:1

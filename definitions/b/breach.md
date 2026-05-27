@@ -26,7 +26,7 @@ The meanings of *breach* and *broach* are similar only in reference to dikes or 
 
 It's awkward to broach this subject, but sometimes a writer seems thoroughly befuddled. After a well-publicized tiger escape, a journalist led his account with this sentence: "The San Francisco Zoo was closed to visitors Wednesday as investigators tried to figure out how Tatiana *broached* 20-foot-high walls and a 15-foot-wide moat and attacked three men before being shot and killed by police." Dan Chapman, "Eye on the Tiger," *Atlanta J.-Const.*, 27 Dec. 2007, at D1. Tatiana got out, to be sure, but not by making a hole in the wall. And how does one "broach a moat"? Tatiana seems to have scaled the wall and crossed the moat.
 
-Language-Change Index
+## Language-Change Index
 
 1. *breech* for *breach*: Stage 1
 Current ratio in print \(*breach of protocol* vs. *\*breech of protocol*\): 37:1

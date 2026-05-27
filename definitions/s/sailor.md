@@ -4,7 +4,7 @@ sailor; **sailer**. A *sailor* is someone who sails—always in reference to a p
 
 It isn't unusual to see *sailer* misused for *sailor*—e.g.: "The current exercises involve about 15,000 *sailers* \[read *sailors*\] and Marines, and include cruisers and destroyers, with nonexplosive bombs dropped from the air, according to the Associated Press." Mark Skertic & Lynn Sweet, "Ordeal Awaited Gutierrez After Vieques Arrest," *Chicago Sun-Times*, 30 Apr. 2001, at 3.
 
-Language-Change Index
+## Language-Change Index
 
 *sailor* misspelled *sailer*: Stage 1
 

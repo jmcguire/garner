@@ -16,7 +16,7 @@ To *console* is to comfort \(another\), especially in grief or depression. E.g.:
 
 Occasionally, *condole* is misused for *console*—e.g.: "And as always, countrymen everywhere can continue *condoling* \[read *consoling*\] the forlorn Cubs, from sea to shining sea." Thomas Stinson, "Baseball '94: It's a Brand New Ballgame\!," *Atlanta J.-Const.*, 1 Apr. 1994, at E21.
 
-Language-Change Index
+## Language-Change Index
 
 1. *condole* misused for *console*: Stage 1
 Current ratio in print \(*consoling the* vs. \**condoling the*\): 51:1

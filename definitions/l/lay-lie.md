@@ -46,7 +46,7 @@ Another common mistake is *laying in wait* for *lying in wait*—e.g.:
 
 Some blame the confusion in part on the children's prayer that begins, "Now I *lay* me down to sleep." But there, *lay* is properly transitive \(*me*, meaning "myself," being its object\). It is grammatically equivalent to "Now I *lie* down to sleep," though metrically speaking the latter doesn't have a prayer.
 
-Language-Change Index
+## Language-Change Index
 
 1. *lay* misused for *lie*: Stage 4
 
@@ -62,7 +62,7 @@ Current ratio in print \(*they lay low* vs. *\*they laid low*\): 1.9:1
 
  - "She was arrested . . . during a demonstration in Washington—a ‘die-in'—in which protesters *laid* \[read *lay*\] down in front of the White House to represent the Vietnamese who were dying." Richard Sandomir, "Connie Hogarth, 95, Tireless Activist," *N.Y. Times*, 4 Mar. 2022, at B12.
 
-Language-Change Index
+## Language-Change Index
 
 *laid* misused for past-tense *lay*: Stage 4
 Current ratio in print \(*he lay down on* vs. *\*he laid down on*\): 5:1
@@ -75,7 +75,7 @@ Current ratio in print \(*he lay down on* vs. *\*he laid down on*\): 5:1
 
  - "Foes have lashed out with claims that the plan was hastily worked out over the past few weeks after the deregulation idea had *laid* \[read *lain*\] dormant for two years." Dave Sheingold, "Landline Oversight Fading," *Record* \(N.J.\), 20 May 2015, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 *laid* misused for past-participial *lain*: Stage 4
 Current ratio in print \(*had lain idle* vs. *\*had laid idle*\): 36:1
@@ -88,7 +88,7 @@ Current ratio in print \(*had lain idle* vs. *\*had laid idle*\): 36:1
 
  - "The goal of the bill is to both avoid the pattern of attempted murder charges being pleaded down to misdemeanor offenses and to make sure the severity of the act is *lain* \[read *laid*\] out plainly." Abigail Goldman, "Metro Keeps Close Tabs on Fury in the Home," *Las Vegas Sun*, 18 Mar. 2009, Metro §, at 1.
 
-Language-Change Index
+## Language-Change Index
 
 *lain* for past-participial *laid*: Stage 1
 Current ratio in print \(*had laid the foundation* vs. *\*had lain the foundation*\): 343:1

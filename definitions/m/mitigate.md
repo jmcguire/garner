@@ -20,7 +20,7 @@ Today, *mitigate* is almost invariably transitive, a synonym of *alleviate*. \(T
 
 But *\*militate toward* is unidiomatic.
 
-Language-Change Index
+## Language-Change Index
 
 *\*mitigate against* for *militate against*: Stage 3
 Current ratio in print \(*militate against* vs. *\*mitigate against*\): 1.9:1

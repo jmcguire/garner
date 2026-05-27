@@ -24,7 +24,7 @@ When *the fact that* can easily be avoided, it should be—e.g.: "Aniston, who s
 
 Writers debase the word when they qualify *facts* with an adjective like *true* or *incorrect*. We ought to be able to rely on facts as being facts, instead of having to wonder whether the writer failed to describe what kind of facts they are. \(Cf. \(c\) above.\) Yet we must also recognize that the phrase *fake facts* and what it denotes are gaining ground these days.
 
-Language-Change Index
+## Language-Change Index
 
 *\*true facts* for *facts*: Stage 2
 Current ratio in print \(*the facts* vs. *\*the true facts*\): 143:1

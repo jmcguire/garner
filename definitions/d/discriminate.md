@@ -18,7 +18,7 @@ The same error, by implication, crops up in the past-participial adjective <an i
 
  - "Mr. Say was born in Japan of a father who was Korean, a much *discriminated minority* \[read *oppressed minority*\] in the country, and a Japanese mother who was born in San Francisco." James Sterngold, "No Place Like Home, Sometimes," *N.Y. Times*, 22 Nov. 2000, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 *discriminate* misused for *discriminate against*: Stage 1
 

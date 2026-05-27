@@ -6,7 +6,7 @@ grisly; **grizzly**; **gristly**; **grizzled**. *Grisly* = ghastly, horrible <gr
 
 *Grizzled* is a synonym for *grizzly* in the sense of "grayish," most often describing hair streaked with gray—e.g.: "Jennet turned her attention to Davy Ingram, deep in conversation with Zachary Alday, a middle-aged man whose most distinguishing feature was a mole on one cheek. Ingram, younger but more *grizzled*, showed no outward trappings of newfound wealth." Kathy Lynn Emerson, *Face Down Across the Western Sea* 47 \(2002\). Because gray hair and beards are associated with old men, *grizzled* has also come, by extension, to describe any old-timer. In fact, this is its most common use today—e.g.: "Those, as *grizzled* fans here say while sipping a Hudepohl, were the days." Todd Jones, "Good Old Days Gone for Good for the Reds in Cincinnati?," *Columbus Dispatch*, 23 July 2002, at D1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *grisly* misused for *grizzly*: Stage 1
 Current ratio in print \(*grizzly bear* vs. *\*grisly bear*\): 86:1

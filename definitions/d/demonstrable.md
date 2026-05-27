@@ -10,7 +10,7 @@ demonstrable /di-**mon**-strә-bәl/ is the word, not *\*demonstratable*, a need
 
 See -able \(d\) & -atable.
 
-Language-Change Index
+## Language-Change Index
 
 *\*demonstratable* for *demonstrable*: Stage 1
 Current ratio in print \(*demonstrable* vs. *\*demonstratable*\): 528:1

@@ -32,7 +32,7 @@ It's worth asking why so many people, yesterday and today, want to insert the ad
 
 Although the ferocity of more modern usage commentators has diminished, the stance hasn't changed: they prefer *preventive*. A long list might be added here, but enough is enough. All in all, the situation remains much as it was in the 1700s: if you want to be authoritative, say and write *preventive*.
 
-Language-Change Index
+## Language-Change Index
 
 *\*preventative* for *preventive*: Stage 3
 Current ratio in print \(*preventive* vs. *\*preventative*\): 4:1

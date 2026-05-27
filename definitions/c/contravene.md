@@ -22,7 +22,7 @@ In AmE, a simpler, more direct writing style favors *violate* over *contravene*.
 
 **C. And *\*controvene.*** This error, dating from the late 1800s, appears to have resulted from confusion of *contravene* with *controvert*. E.g.: "The State's use of a jailhouse informant to elicit inculpatory information from Wilson *controvened* \[read *contravened*\] his right to counsel." *Wilson v. Henderson*, 742 F.2d 741, 748 \(2d Cir. 1984\). The same problem occurs in the noun form: "The Long Island Bank is seeking a court order declaring that the Comptroller acted ‘in *controvention* \[read *contravention*\] of the law' and that his approval is ‘null and void.' " "Citibank Branch Target of Suit," *Am. Banker*, 6 July 1979, at 3.
 
-Language-Change Index
+## Language-Change Index
 
 *contravene* misspelled *\*controvene*: Stage 1
 Current ratio in print \(*contravene* vs. \**controvene*\): 4,572:1
@@ -33,7 +33,7 @@ Current ratio in print \(*contravene* vs. \**controvene*\): 4,572:1
 
  - "\[The\] decision appears to *contravent* \[read *contravene*\] the clear legislative intent of IEEPA." Jules Lobel, "Emergency Power and the Decline of Liberalism," 98 *Yale L.J.* 1385, 1417 n.175 \(1989\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*contravent* for *contravene*: Stage 1
 Current ratio in print \(*contravene* vs. *\*contravent*\): 1,589:1

@@ -16,7 +16,7 @@ Examples of *historic* used incorrectly for *historical* could easily run for se
 
 The far less common mistake is misusing *historical* for *historic*—e.g.: "Gary Pinkel didn't know what to expect after Toledo and Nevada found themselves going into a *historical* \[read *historic*\] overtime in the Las Vegas Bowl." "Vegas Bowl Passes OT Test," *Austin Am.-Statesman*, 16 Dec. 1995, at E5. See -ic/-ical.
 
-Language-Change Index
+## Language-Change Index
 
 1. *historic* for *historical*: Stage 3
 Current ratio in print \(*the historical development* vs. *\*the historic development*\): 29:1

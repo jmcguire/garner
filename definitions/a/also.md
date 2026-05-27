@@ -4,7 +4,7 @@ also. This word is a close synonym of *too* \(= as well\), but its syntactic fle
 
 For more on *also*, see **too \(a\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *also* as a conjunction: Stage 2
 

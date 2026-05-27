@@ -12,7 +12,7 @@ The word has been sloppily extended because "nonlawyers have misapprehended the 
 
 Most American lawyers probably don't understand the phrase *to compound a felony* when they see it in older lawbooks. It is not quite true, then—at least in the U.S.—that "to write ‘he *compounded* the offence' \(when what is meant is that he did something to aggravate the offence\) is to vex every lawyer who reads the sentence, and to provoke numbers of them to litigious correspondence in defence of their jargon." Howard, *New Words for Old* at 20.
 
-Language-Change Index
+## Language-Change Index
 
 *compounding a felony* used in the sense "aggravating a felony": Stage 4
 

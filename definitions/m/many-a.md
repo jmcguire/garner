@@ -10,7 +10,7 @@ But as H.W. Fowler pointed out in 1926 \(see *FMEU1* at 343\), writers sometimes
 
  - "There *have* \[read *has*\] been *many a* night on the Naples Naval Support Activity base that postal clerk chief John Mowry just can't sleep." Marc J. Spears, "Military Personnel Abroad Try to Keep Score," *Denver Post*, 21 May 2002, at D1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*there are many a person* for *there is many a person*: Stage 1
 

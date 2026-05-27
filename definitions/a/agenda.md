@@ -4,7 +4,7 @@ agenda is \(1\) the plural form of *agendum*, which means "something to be done"
 
 In fact, sense 1 of *agenda* is archaic today and sounds pedantic—e.g.: "Place your notes, thoughts, quotations, queries, and *lists of agenda* \[read *agenda items*\], divided according to topics, in envelopes." Lester S. King, *Why Not Say It Clearly* 74 \(1978\).
 
-Language-Change Index
+## Language-Change Index
 
 *agenda* as a singular noun: Stage 5 Current ratio in print \(*agenda is* vs. *agenda are*\): 10:1
 

@@ -6,7 +6,7 @@ die, v.i.
 
 Even so, *die with* *AIDS* is not uncommon. One doesn't die of AIDS; it weakens the immune system so much that you die of something else. Yet *died of AIDS* is far more common in print than *died with AIDS.*
 
-Language-Change Index
+## Language-Change Index
 
 *die with* misused for *die of*: Stage 2
 Current ratio in print \(*died of* vs. *died with*\): 6:1
@@ -21,7 +21,7 @@ Current ratio in print \(*died of* vs. *died with*\): 6:1
 
 See **dying**.
 
-Language-Change Index
+## Language-Change Index
 
 *die* misused for *dye*: Stage 1
 

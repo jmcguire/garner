@@ -12,7 +12,7 @@ Sometimes the phrase *beck and call* comes out as a mondegreen: *\*beckon call*.
 
 *\*Beckon call* is an understandable guess at the phrase, since one would naturally call out to *beckon* someone. And *beckon* \(= to summon\) is a more familiar term than its shorter sibling *beck*. But *beck and call* is the historical and still the greatly predominant phrase.
 
-Language-Change Index
+## Language-Change Index
 
 *\*beckon call* for *beck and call*: Stage 1
 Current ratio in print \(*beck and call* vs. *\*beckon call*\): 86:1

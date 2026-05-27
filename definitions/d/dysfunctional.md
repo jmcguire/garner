@@ -6,7 +6,7 @@ dysfunctional \(= functioning abnormally\) is occasionally misspelled \(or *dyss
 
  - "Part and parcel of the Marine Fisheries Commission was the *disfunctional* \[read *dysfunctional*\] law enforcement agency known as the Florida Marine Patrol." Zach Zacharias, "Red Snapper Open Season Is Too Short," *Sarasota Herald-Trib.* \(Fla.\), 7 May 2015, at C6.
 
-Language-Change Index
+## Language-Change Index
 
 *dysfunctional* misspelled *\*disfunctional*: Stage 1
 Current ratio in print \(*dysfunctional* vs. \**disfunctional*\): 576:1

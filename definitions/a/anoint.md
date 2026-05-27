@@ -6,7 +6,7 @@ anoint is sometimes misspelled *\*annoint*—e.g.:
 
  - "A few hundred years ago, doctors treating a wound with ointment also made sure to *annoint* \[read *anoint*\] the weapon that inflicted it." Scott McLemee, "Better Living Through Science," *Newsday* \(N.Y.\), 12 May 2002, at D33.
 
-Language-Change Index
+## Language-Change Index
 
 *anoint* misspelled *\*annoint*: Stage 1
 Current ratio in print \(*anoint* vs. \**annoint*\): 201:1

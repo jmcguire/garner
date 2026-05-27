@@ -12,7 +12,7 @@ But outside computing and electronic contexts, using *access* as a verb still ja
 
  - "*Accessing* \[read *Using*\] phones without a passcode is difficult." Jim Rossman, "You Need a Secure Digital Emergency Kit," *Wichita Eagle* \(Kan.\), 12 Feb. 2020, at 4DW.
 
-Language-Change Index
+## Language-Change Index
 
 *access* as a verb outside computing contexts <accessing the books>: Stage 4
 
@@ -22,7 +22,7 @@ Language-Change Index
 
  - "Like all the affected businesses, we are still *accessing* \[read *assessing*\] what impact this will have on the business." Michael D. Pitman & Rick McCrabb, "Miami Valley Gaming Changes Daily Hours Due to Statewide Curfew," *Dayton Daily News*, 19 Nov. 2020, News §.
 
-Language-Change Index
+## Language-Change Index
 
 *access* misused for *assess*: Stage 1
 

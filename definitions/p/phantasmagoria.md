@@ -4,7 +4,7 @@ phantasmagoria \(= a constantly shifting scene that is colorful or bizarre\) is 
 
 The misspelling *\*fantasmagoria*, though uncommon, occasionally surfaces.
 
-Language-Change Index
+## Language-Change Index
 
 *phantasmagoria* misused as a plural: Stage 1
 Current ratio in print \(*phantasmagoria* vs. *\*fantasmagoria*\): 138:1

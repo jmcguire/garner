@@ -10,7 +10,7 @@ hanged; **hung**. Coats and pictures are *hung*, and sometimes so are juries. Bu
 
 But the mere fact that a person is suspended doesn't mean that *hanged*—which implies an attempted killing or self-killing—is always the right word. If a person is suspended for amusement or through malice, and death isn't intended or likely, then *hung* is the proper word—e.g.: "He charges that authorities did little or nothing after he complained at various times of being attacked by dogs, shot at, beaten with a rake and tortured while being *hanged* \[read *hung*\] upside down." Jeffrey A. Roberts, "Despite Suit, Gilpin Retains Racial Epithet," *Denver Post*, 3 Jan. 1997, at B1. In Italy in 1944, Benito Mussolini and his mistress were executed and then their bodies *hung* upside down, but press reports often say incorrectly that they were *hanged*—e.g.: "Hitler decided to do so after hearing that Partisans had captured and shot Italian dictator Benito Mussolini, and *hanged him* \[read *hung his body*\] upside down in Milan plaza." "A Time of Remembrance," *Plain Dealer* \(Cleveland\), 8 May 1995, at B8. See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *hung* for *hanged* in reference to an execution: Stage 3
 Current ratio in print \(*hanged by the neck* vs. *\*hung by the neck*\): 3:1

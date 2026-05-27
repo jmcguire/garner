@@ -8,7 +8,7 @@ loathsome. So spelled, even though the first syllable sounds like the verb rathe
 
  - "The characters we first meet in ‘Nurse Betty' are terminally dim, risible or *loathesome* \[read *loathsome*\]." James Verniere, "Zellweger Is a Reason to Love ‘Nurse Betty,' " *Boston Herald*, 8 Sept. 2000, at S21.
 
-Language-Change Index
+## Language-Change Index
 
 *loathsome* misspelled *\*loathesome*: Stage 1
 Current ratio in print \(*loathsome* vs. *\*loathesome*\): 118:1

@@ -8,7 +8,7 @@ anemone /ә-**nem**-ә-nee/ \(= \[1\] a flower of the buttercup family; or \[2\]
 
 The phrase *any money* can be a helpful mnemonic device for spelling, *an M on E* for pronunciation. See metathesis.
 
-Language-Change Index
+## Language-Change Index
 
 *anemone* misspelled *\*anenome*: Stage 1
 Current ratio in print \(*anemone* vs. \**anenome*\): 303:1

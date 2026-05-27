@@ -12,7 +12,7 @@ Unfortunately, and perhaps because of its sanction in that statute, this new "gr
 
  - "The two senior Vauxes live on an idyllic spread at Lloyd's Neck, surrounded by *untrammeled* \[read *untrampled*? *unspoiled*?\] countryside." Ariella Budick, "Their Home Is Where the Art Is," *Newsday* \(N.Y.\), 20 June 2007, at B6.
 
-Language-Change Index
+## Language-Change Index
 
 *untrammeled* misused for *untrampled* or *unspoiled*: Stage 1
 

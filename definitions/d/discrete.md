@@ -20,7 +20,7 @@ Sometimes, though, the opposite blunder appears—e.g.:
 
 See **indiscreet**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *discreet* misused for *discrete*: Stage 1
 Current ratio in print \(*discrete units* vs. *\*discreet units*\): 44:1

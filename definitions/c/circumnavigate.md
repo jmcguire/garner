@@ -8,7 +8,7 @@ circumnavigate; **circumvent**. *Circumnavigate* \(= to go completely around \[s
 
 *Circumnavigate* implies active travel. When no act is involved, *circumvent* \(in sense 2\) is the better choice—e.g.: "Twenty billion \[bottles\] . . . . If all of them were laid end to end, they would *circumvent* the Earth's equator 76 times." Michele Jacklin, "Add Bottled Water to the List of Redeemables," *Hartford Courant*, 23 Mar. 2005, at A9. Both words involve a way to get around an obstacle. But the obstacle one *circumnavigates* is always physical, while the obstacle one *circumvents* is usually legal or social. See **circumvent**.
 
-Language-Change Index
+## Language-Change Index
 
 *circumvent* misused for *circumnavigate*: Stage 1
 

@@ -10,7 +10,7 @@ cut in half is the idiom except in cooking, where *cut into halves* emphasizes t
 
 Perhaps because *cut in half* is synonymous with *halve*, some writers fall into the error of writing *\*cut in halve*—e.g.: "If a recipe calls for seeded tomatoes, *cut them in halve* \[read *halve them* or *cut them in half*\] crosswise and squeeze each tomato half gently to force out the seeds." Martha Stewart, "Vine-Ripened Tomatoes Beg for Picking, Devouring," *Dayton Daily News*, 8 Aug. 1996, at 8. \(Stewart was not victimized by a local editor; the syndicated piece appeared throughout the nation in this form.\)
 
-Language-Change Index
+## Language-Change Index
 
 *\*cut in halve* for *cut in half*: Stage 1
 

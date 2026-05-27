@@ -10,7 +10,7 @@ Before 1920, the collocation *let him alone* \(or *let her alone*\) appeared far
 
 *Let alone* is also used to mean "not to mention" or "much less" <he no longer drinks beer or wine, let alone bourbon or tequila>.
 
-Language-Change Index
+## Language-Change Index
 
 *leave alone* in nonliteral sense: Stage 5
 Current ratio in print \(*Leave me alone\!* vs. *Let me alone\!*\): 6:1

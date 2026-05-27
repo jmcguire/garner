@@ -10,7 +10,7 @@ above.
 
  - "The data shows the vast majority of users in Wales were men with *above* nine out of ten users being men in nearly every town." "Almost 3,000 Joined Adultery Website," *S. Wales Evening Post*, 24 Aug. 2015, at 2. \(A possible revision: *The data show that over 90% of Welsh users were men.*\)
 
-Language-Change Index
+## Language-Change Index
 
 *above* meaning "more than": Stage 4
 
@@ -20,7 +20,7 @@ Some critics have suggested that *above* in this sense should refer only to some
 
 Less common than the adjectival *above* is the noun use <the above is entirely accurate>. Pooley's assessment still stands: "Any writer may feel free at any time to use ‘the *above* statement,' and with only slightly less assurance, ‘the *above* will prove.' In either case, he has the authority of scholars and standard literature." Robert C. Pooley, *Teaching English Usage* 130 \(1946\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *above* as an adjective \(as in *the above data*\): Stage 5
 

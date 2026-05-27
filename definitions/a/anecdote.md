@@ -26,7 +26,7 @@ The opposite error is less common, but it does occur—e.g.:
 
 See word-swapping.
 
-Language-Change Index
+## Language-Change Index
 
 1. *anecdote* misused for *antidote*: Stage 1
 

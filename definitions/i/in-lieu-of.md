@@ -6,7 +6,7 @@ in lieu of.
 
 **B. For *in view of* or *in \(the\) light of*.** The day after President Clinton announced his healthcare plan in the fall of 1993, a radio host, broadcasting from the White House lawn, said to his listeners: "This morning we're going to discuss what state health care means *in lieu of* the President's new federal plan." This mistake—which is spreading—results from a confusion of *in lieu of* with *in view of* or *in light of* \(BrE *in the light of *\), either of which would have sufficed in that sentence. As it is, *in lieu of* is a malapropism when used for either of the other phrases.
 
-Language-Change Index
+## Language-Change Index
 
 *in lieu of* in the sense "in view of": Stage 1
 

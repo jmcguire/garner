@@ -26,7 +26,7 @@ With this usage, *intense* may have come into its own as a vogue term.
 
 In sum, let's forget H.W. Fowler's advice that *intensive* "is the kind of word that we ordinary mortals do well to leave alone." \(*FMEU1* at 279.\) If you're at the ICU checking on a friend, and someone within earshot is complaining that *intensive* really shouldn't be used in reference to this kind of ward, you're well justified in thinking this pedant just a touch too intense \(sense 4\).
 
-Language-Change Index
+## Language-Change Index
 
 *intensive* misused for *intense*: Stage 4
 Current ratio in print \(*intensive* vs. *\*intensitive*\): 10,058:1

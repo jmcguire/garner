@@ -12,7 +12,7 @@ Sometimes, however, *final result* or a similar phrase is needed to contrast som
 
 Like its cousins, *final upshot* is a minor redundancy, since the word *upshot* implies finality—e.g.: "Just what the *final upshot* \[read *upshot*\] of the postgame outburst will be remains to be seen." "Rose Shoves Ump Again in Brawl," *San Diego Union-Trib.*, 16 Aug. 1989, at D2.
 
-Language-Change Index
+## Language-Change Index
 
 1. *final outcome* for *outcome*: Stage 2
 

@@ -14,7 +14,7 @@ In each of the following examples, the illogical phrase—most often it's a spok
 
 Cf. **worse comes to worst**. See comparatives and superlatives & illogic.
 
-Language-Change Index
+## Language-Change Index
 
 *\*least worst* or *\*least worse* for *least bad*: Stage 3
 Current ratio in print \(*least bad* vs. *\*least worst* vs. *\*least worse*\): 15:6:1

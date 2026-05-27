@@ -20,7 +20,7 @@ But the phrase is often considered anglicized enough to use the English plural *
 
 See plurals \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 *bon vivants* as a plural: Stage 5
 Current ratio in print \(*bon vivants* vs. *bons vivants*\): 3:1

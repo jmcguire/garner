@@ -8,7 +8,7 @@ It's perfectly idiomatic to say either *stomping ground* or *stomping grounds*â€
 
  - "Smith, 51, just completed four consecutive nights at CBGB, her old *stomping ground* and the birthplace of New York punk." Jim Sullivan, "Patti Smith Finds â€˜Peace' Outside Rock," *Boston Globe*, 2 Dec. 1997, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *stomping ground* for *stamping ground*: Stage 5
 Current ratio in print \(*stomping ground* vs. *stamping ground*\): 1.7:1

@@ -10,7 +10,7 @@ mislead > misled > misled. So inflected. As with the verb *lead*, the past forms
 
 Cf. **lead**.
 
-Language-Change Index
+## Language-Change Index
 
 *mislead* misused for the past-tense *misled*: Stage 1
 Current ratio in print \(*were misled by* vs. *\*were mislead by*\): 86:1

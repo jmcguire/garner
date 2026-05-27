@@ -10,7 +10,7 @@ In French, *cliché* is participial in form \(analogous to *distingué*, *outré
 
 Yet both forms are well established in English as adjectives. And the *cliché* spelling is becoming more popular all the time.
 
-Language-Change Index
+## Language-Change Index
 
 1. *cliché* as an adjective: Stage 5
 

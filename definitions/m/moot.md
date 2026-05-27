@@ -6,7 +6,7 @@ moot.
 
 But language changes. From the original sense of *moot* derived the extended sense "of no real-world importance; hypothetical; merely academic." This shift in meaning occurred about 1830 <because the question has already become moot, we need not decide it>. Today, in AmE, that is the predominant sense of *moot*. Theodore M. Bernstein and other writers have called this sense of the word incorrect, but it is now a fait accompli, especially in the set phrase *moot point*. To use *moot* in the sense "open to argument" in modern AmE is to create an ambiguity and to confuse readers. In BrE, the transformation in sense has been slower, and *moot* in its older sense retains vitality.
 
-Language-Change Index
+## Language-Change Index
 
 *moot* in the sense "of no significance": Stage 5
 
@@ -36,7 +36,7 @@ But in many other instances, no pun is in sight. It's simply a malapropism that 
 
 Even the verb *moot* is susceptible to this confusion—e.g.: "But Gramley believes such a range would *mute* \[read *moot*\] the point of having a numerical target." "Congress May Redefine Fed's Job to New Focus on ‘Price Stability,' " *Investor's Bus. Daily*, 22 Sept. 1995, at B1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*mute point* for *moot point*: Stage 1
 

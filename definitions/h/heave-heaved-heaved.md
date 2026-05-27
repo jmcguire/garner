@@ -12,7 +12,7 @@ Some writers incorrectly understand the past-tense *hove* as a special present-t
 
  - "Not long after, the O2 Arena—completing the trinity of London's major tennis venues—*hoves* \[read *heaves*\] into view." Andy Murray & Mike Dickson, "I've Got to Make the Most of This Because It Won't Last Forever," *Daily Mail* \(U.K.\), 27 June 2015, at 108.
 
-Language-Change Index
+## Language-Change Index
 
 *hove* misused for present-tense *heave*: Stage 1
 Current ratio in print \(*heaves* vs. *hoves*\): 110:1

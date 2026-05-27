@@ -14,7 +14,7 @@ lustful; **lusty**. *Lustful* is the narrower word, meaning "driven or excited b
 
 Sometimes writers misuse *lusty* for *lustful*—e.g.: "The affair included 400 e-mail communications, cyber sex and, finally, long and *lusty* \[read *lustful*\] phone calls." Kathleen Kernicky, "Caught in the Net," *Sun-Sentinel* \(Ft. Lauderdale\), 3 Nov. 1996, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 *lusty* misused for *lustful*: Stage 2
 

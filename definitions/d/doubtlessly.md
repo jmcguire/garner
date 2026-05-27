@@ -10,7 +10,7 @@
 
 Cf. **clearly**. For other adverbs with a superfluous *-ly*, see adverbs \(d\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*doubtlessly* for *doubtless*: Stage 1
 Current ratio in print \(*doubtless* vs. *\*doubtlessly*\): 30:1

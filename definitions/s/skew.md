@@ -12,7 +12,7 @@ A *skewed view* is an incorrect one usually resulting from incomplete knowledge 
 
 As a noun in sense 2, *skewer* is used correctly here: " ‘What was he doing in that bathroom with that girl at five in the morning, drunk?' Bucher asked. ‘Alcohol is the number one *skewer* of reality.' " Sandy Nelesen, "Tight End Emotional as Verdict Delivered," *Green Bay Press-Gaz.*, 4 Feb. 2001, at A1 \(quoting Waukesha County District Attorney Paul Bucher\).
 
-Language-Change Index
+## Language-Change Index
 
 *skewer* misused for *skew*: Stage 1
 Current ratio in print \(*skewed view* vs. \**skewered view*\): 98:1

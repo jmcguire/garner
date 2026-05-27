@@ -8,7 +8,7 @@ dwarf. Pl. *dwarfs*. The form *\*dwarves*, a variant, occasionally appears—e.g
 
 When he released his famous movie in 1938, Walt Disney got it right: *Snow White and the Seven Dwarfs*. See plurals \(c\). Cf. **wharf**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*dwarves* for *dwarfs*: Stage 3
 Current ratio in print \(*dwarfs* vs. *\*dwarves*\): 1.3:1

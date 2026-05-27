@@ -6,7 +6,7 @@ all told. One archaic meaning of *tell* is "to count." \(It's hidden deep in the
 
  - "In 1999–2000, each of the eight Ivy League colleges received at least 10,000 applications; *all tolled* \[read *all told*\], the Ivy League colleges received 121,948 applications that year and admitted only 23,532, fewer than one in five." Christopher Avery, Andrew Fairbanks & Richard Zeckhauser, *The Early Admissions Game: Joining the Elite* 7 \(2003\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*all tolled* for *all told*: Stage 1
 Current ratio in print \(*all told* vs. *\*all tolled*\): 521:1

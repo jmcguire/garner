@@ -12,7 +12,7 @@ The longer variant \(a back-formation from *orientation*\) is more common in BrE
 
 Cf. **disorient**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*orientate* for *orient*: Stage 2
 Current ratio in print \(*oriented* vs. \**orientated*\): 19:1

@@ -12,7 +12,7 @@ In either sense, this verb is transitive <the last witness corroborated the test
 
 The opposite error \(*collaborate* for *corroborate*\) is also all too frequent—e.g.: "\[Suicide expert Frank\] Campbell said it was insulting that the board discounted the woman's testimony that was *collaborated* \[read *corroborated*\] by an outside licensed professional counselor." Amy Wold, "Suicide Agency Official Appeals Decision on Violations," *Advocate* \(Baton Rouge\), 31 Aug. 2001, at A14.
 
-Language-Change Index
+## Language-Change Index
 
 1. *corroborate* misused for *collaborate*: Stage 1
 Current ratio in print \(*collaborated on* vs. *\*corroborated on*\): 76:1

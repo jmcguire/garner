@@ -10,7 +10,7 @@
 
  - "During the sequence, Gibson threatens to go the ‘Tootsie' route, applying and trying on *various of the* \[read *various*\] female products, from mascara to panty hose." Dan Craft, "What Audiences Want from Mel," *Pantagraph* \(Bloomington, Ill.\), 21 Dec. 2000, at G2.
 
-Language-Change Index
+## Language-Change Index
 
 *various* used as a pronoun <various of my colleagues agree>: Stage 2
 

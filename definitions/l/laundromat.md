@@ -12,7 +12,7 @@ laundromat is sometimes misspelled *\*laundry mat*—e.g.:
 
 Although *laundromat* appears to be a portmanteau word, perhaps derived from *laundry* and *automat*, it is actually a servicemark for a brand of washing machines, and, briefly, a chain of do-it-yourself laundries.
 
-Language-Change Index
+## Language-Change Index
 
 *\*laundry mat* for *laundromat*: Stage 1
 Current ratio in print \(*laundromat* vs. *\*laundry mat*\): 22:1

@@ -14,7 +14,7 @@ Yet as one linguist has observed in reference to similar phrases, "what one gene
 
 Sometimes it's not clear whether the phrase is a pun or simply a blunder—e.g.: "She is landed gentry, so to speak; *to the manor born*, some would say." Lynne Duke, "On the Inside Looking Out," *Wash. Post*, 23 Apr. 2001, at C1. And sometimes it's a strained pun at best—e.g.: "As befits a privy *to the manor born*, Berman's stucco outhouse has a louvered cupola and plaster walls." Marty Crisp, "Privy Preview," *Lancaster New Era*, 1 Apr. 2001, at B1. In the last example just quoted, the phrase *to the manner born* wouldn't really work, since the reference is obviously to real estate \(in fact, a toilet\)—not to human behavior or experience.
 
-Language-Change Index
+## Language-Change Index
 
 *\*to the manor born* for *to the manner born*: Stage 1
 Current ratio in print \(*to the manner born* vs. \**to the manor born*\): 2.5:1

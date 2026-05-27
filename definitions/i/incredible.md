@@ -18,7 +18,7 @@ Although early writers, in the late 1500s and early 1600s, used *incredulous* as
 
 This distinction was firm even in the early to mid-1900s, when Wodehouse wrote the following: " ‘It contained an offer to swap the cow-creamer for Anatole, and Tom is seriously considering it\!' \[¶\] "I stared at her. ‘What? *Incredulous*\!' \[¶\] " ‘*Incredible*, sir.' \[¶\] " ‘Thank you, Jeeves. *Incredible*\! I don't believe it. Uncle Tom would never contemplate such a thing for an instant.' " P.G. Wodehouse, *The Code of the Woosters* 91–92 \(1938; repr. 1976\). See **credible**.
 
-Language-Change Index
+## Language-Change Index
 
 *incredulous* misused for *incredible*: Stage 1
 Current ratio in print \(*it is incredible* vs. *\*it is incredulous*\): 104:1

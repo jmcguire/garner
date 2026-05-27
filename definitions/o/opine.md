@@ -30,7 +30,7 @@ Since the word sometimes implies authoritativeness, sometimes disingenuousness, 
 
  - "One poster helpfully linked to the Dec. 9 Dallas Morning News, in which columnist Rod Dreher *opinioned* \[read *opined* or *wrote*\] that ‘Alberto Gonzales, the bumblefutz U.S. attorney general who defenestrated himself from the Department of Justice . . . , is surely the Texan of the Year.' " Linda P. Campbell, "Objection\! Objection\! Law," *Ft. Worth Star-Telegram*, 27 Dec. 2007, at B13.
 
-Language-Change Index
+## Language-Change Index
 
 *\*opinioned* for *opined*: Stage 1
 

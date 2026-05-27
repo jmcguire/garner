@@ -4,7 +4,7 @@ accusatory; **accusatorial; accusative**. *Accusatory* \(= accusing; of the natu
 
 *Accusative* should be restricted to its grammatical sense, i.e., the case that marks the direct object of a verb or the object of certain prepositions. But it's sometimes used incorrectly in place of *accusatory*—e.g.: "Adopting an *accusative* \[read *accusatory*\] tabloid-TV style, the ad shows the Washington apartment of a lobbying firm where Kerry stayed intermittently over a period of months in 1989." Frank Phillips, "Weld Calls a Truce on Attack Ads," *Boston Globe*, 26 Oct. 1996, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 *accusative* misused for *accusatory*: Stage 1
 

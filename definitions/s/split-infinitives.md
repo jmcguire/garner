@@ -24,7 +24,7 @@ In a 2021 vote at a Cosmos Club event in Washington, D.C., 79% of those polled c
 
 For still more authorities on this point, see superstitions \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 split infinitives where they are natural and logically correct: Stage 5
 

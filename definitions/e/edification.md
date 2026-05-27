@@ -10,7 +10,7 @@ edification. In the phrase *for your edification* \(= for your moral or intellec
 
  - "Does \[NFL Commissioner Roger\] Goodell plan to have owners, team presidents and head coaches sign an annual noncheating pledge at the league meeting every March? One suspects that the real purpose of even committing such ideas to paper is simply theater for the *edification* \[read *appeasement*?\] of the public." Bill Ordine, "Spy Reply," *Baltimore Sun*, 8 Mar. 2008, Sports §, at 15.
 
-Language-Change Index
+## Language-Change Index
 
 *edification* misused in the sense of "thrill, titillation": Stage 1
 

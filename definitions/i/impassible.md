@@ -8,7 +8,7 @@ Occasionally, *impassible* wrongly displaces *impassable*—e.g.:
 
  - "Interstate 35 has often seemed like an *impassible* \[read *impassable*\] barrier for promoters of African-American shows, gospel and otherwise." Michael Point, "Lift Every Voice and Sing," *Austin Am.-Statesman*, 31 Jan. 1997, at F1.
 
-Language-Change Index
+## Language-Change Index
 
 *impassible* misused for *impassable*: Stage 1
 Current ratio in print \(*impassable barrier* vs. *\*impassible barrier*\): 20:1

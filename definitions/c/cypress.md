@@ -14,7 +14,7 @@ And the errors go both ways—e.g.:
 
 Consider the small challenges that travel writers face: Los Angeles has a suburb named *Cypress*, and *cypress* trees grow both there and on *Cyprus*.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*cyprus tree* for *cypress tree*: Stage 1
 Current ratio in print \(*cypress tree* vs. *\*cyprus tree*\): 228:1

@@ -12,7 +12,7 @@ In those examples, there's almost an elliptical *what happened* after *unlike*, 
 
 As a matter of frequency in print sources, the phrase first appeared in the late 1700s, spread throughout the 1800s \(especially in AmE\), declined in the mid-1900s, and has undergone a resurgence since about 1970. It may yet lose any stigma attaching to it.
 
-Language-Change Index
+## Language-Change Index
 
 *unlike in*: Stage 4
 

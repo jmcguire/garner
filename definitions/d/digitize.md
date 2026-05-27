@@ -10,7 +10,7 @@ digitize; **digitalize**. *Digitize* has led two lives. In its first, it meant "
 
 There are two problems with having the two words bear the same meaning. First, because *digitalize* has a distinct \(if specialized\) sense of its own, keeping the words separate serves differentiation. Second, *digitize* is used much more often as *digitalize* in the binary-code sense, making the latter a needless variant.
 
-Language-Change Index
+## Language-Change Index
 
 *digitalize* misused for *digitize*: Stage 1
 Current ratio in print \(*digitized data* vs. *\*digitalized data*\): 8:1

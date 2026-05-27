@@ -10,7 +10,7 @@ uncharted \(= unmapped\), as in *uncharted territory*, is often wrongly written 
 
 An airplane might be *unchartered* if it had no scheduled flights. But unknown territory is *uncharted*, not *unchartered*, because it has not been described in charts or maps. Cf. **chartered plane**.
 
-Language-Change Index
+## Language-Change Index
 
 *unchartered* misused for *uncharted*: Stage 1
 Current ratio in print \(*uncharted waters* vs. *\*unchartered waters*\): 6:1

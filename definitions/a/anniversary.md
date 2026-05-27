@@ -6,7 +6,7 @@ anniversary \(= the day of the year on which an event occurred in a previous yea
 
  - "The only other week in 2002 when terrorism was the top evening news story came during the six-month *anniversary* \[read *remembrance*\] of the New York and Washington attacks." Mark Jurkowitz, "News Media Try to Give Public Fair Warnings," *Boston Globe*, 30 May 2002, at D6.
 
-Language-Change Index
+## Language-Change Index
 
 *anniversary* denoting any milestone: Stage 2
 

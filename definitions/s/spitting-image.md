@@ -18,7 +18,7 @@ A contrarian view comes from *WNWCD*, which records only *spit and image*. It's 
 
  - "Bobby Mauch, who played the pauper \(or was it the prince?\) in the rambunctious 1937 film of Mark Twain's *Prince and the Pauper* opposite his *spit-and-image* twin brother, Billy, who portrayed the prince \(or was it the other way around?\), died Oct. 15 near his home in Santa Rosa, Calif." "Bobby Mauch" \(obit.\), *Dallas Morning News*, 29 Oct. 2007, at B5.
 
-Language-Change Index
+## Language-Change Index
 
 *spitting image*: Stage 5
 Current ratio in print \(*spitting image* vs. *spit and image*\): 38:1
@@ -31,7 +31,7 @@ Current ratio in print \(*spitting image* vs. *spit and image*\): 38:1
 
  - "The 2004 Titan full-size pickup has brought along its older brother for the ride: A revamped 2005 Nissan Frontier is the *splitting image* \[read *spitting image*\] of the company's Mississippi-made truck." Josee Valcourt, "Redesigns Lead the Way," *Clarion-Ledger* \(Jackson, Miss.\), 6 Jan. 2004, at C1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*splitting image* for *spitting image*: Stage 1
 Current ratio in print \(*spitting image* vs. *\*splitting image*\): 38:1

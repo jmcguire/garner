@@ -12,7 +12,7 @@ buy.
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*boughten*: Stage 1
 Current ratio in print \(*bought* vs. *\*boughten*\): 3,624:1

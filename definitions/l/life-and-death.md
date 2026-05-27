@@ -6,7 +6,7 @@ life-and-death; **\*life-or-death**. Though the sense is "relating to a matter o
 
  - "It's a *life-and-death* issue, with the potential to affect any Canadian adults." "Make Euthanasia an Election Issue," *Alberni Valley Times* \(Can.\), 1 Sept. 2015, at A4.
 
-Language-Change Index
+## Language-Change Index
 
 *\*life-or-death* for *life-and-death*: Stage 3
 Current ratio in print \(*life-and-death* vs. *\*life-or-death*\): 1.7:1

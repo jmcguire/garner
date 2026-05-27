@@ -28,7 +28,7 @@ In a sense, this usage isn't much of a slipshod extension. After all, the choice
 
 See double bobbles.
 
-Language-Change Index
+## Language-Change Index
 
 *\*Hobbesian choice* for *Hobson's choice*: Stage 1
 Current ratio in print \(*Hobson's choice* vs. *\*Hobbesian choice*\): 39:1

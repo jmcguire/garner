@@ -8,7 +8,7 @@ directorial \(in five syllables\), not *\*directoral*, is the adjective correspo
 
  - "It is his first *directoral* \[read *directorial*\] effort since his Oscar-winning debut with 1989's ‘Dances with Wolves.' " Frank Rizzo, "Dances with Mail," *Hartford Courant*, 1 Sept. 1996, at G9.
 
-Language-Change Index
+## Language-Change Index
 
 *\*directoral* for *directorial*: Stage 1
 Current ratio in print \(*directorial* vs. *\*directoral*\): 55:1

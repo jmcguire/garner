@@ -18,7 +18,7 @@ Since 1975 Raleigh, North Carolina, has been home to an award-winning vegetarian
 
 The widely scorned term seems unlikely to move into standard english. Careful speakers and writers avoid it.
 
-Language-Change Index
+## Language-Change Index
 
 *\*irregardless* for *regardless* or *irrespective*: Stage 2
 Current ratio in print \(*regardless* vs. *\*irregardless*\): 1,180:1

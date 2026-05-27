@@ -10,7 +10,7 @@ chaperon \(= a person, esp. an elder, who accompanies others, esp. youngsters, t
 
 In 2003, the lexicographers at Merriam-Webster reversed the positions of *chaperon* and *chaperone*, for the first time giving the variant primacy in their *W11*. The editors of *NOAD* soon followed suit. And so what had once been a misspelling became the established norm, aided and abetted by the not entirely somnifacient Broadway musical *The Drowsy Chaperone* \(2001\).
 
-Language-Change Index
+## Language-Change Index
 
 *chaperon* spelled as *chaperone*: Stage 5
 

@@ -28,7 +28,7 @@ Having now clinched the basic distinctions—which shouldn't cause you to clench
 
 Rarely is the choice unclear. But it can happen. In the following specimen, is the context more suggestive of clenched fists or of clinching boxers? "After their speeches, Mr. Bentsen and Mr. Clinton *clinched* hands together with Gov. Ann Richards on the stage of the party's state convention as ‘Deep in the Heart of Texas' played over the loudspeakers." Sam Attlesey & Wayne Slater, "Bentsen Strongly Endorses Clinton," *Dallas Morning News*, 6 June 1992, at A1. There is more than one participant, after all. But given that Clinton and Bentsen and Richards were allies, not adversaries, an emendation to *clenched* might be called for. Yet on reflection, one hesitates.
 
-Language-Change Index
+## Language-Change Index
 
 *clinch* misused for *clench*: Stage 1
 

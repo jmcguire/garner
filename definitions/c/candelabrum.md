@@ -18,7 +18,7 @@ Third, and least seriously, some writers stick to the native-English plural even
 
 The word may be pronounced /kan-dә-**lah**-brәm/ or /kan-dә-**lay**-brәm/.
 
-Language-Change Index
+## Language-Change Index
 
 1. *candelabra* for *candelabrum* as a singular: Stage 4
 Current ratio in print \(*a candelabrum* vs. *\*a candelabra*\): 1:1.5

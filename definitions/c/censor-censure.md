@@ -20,7 +20,7 @@ The word *censure* was widely mispronounced like *censor* in Congress during the
 
 Sometimes the writer's intent becomes unclear—e.g.: "A production about her Bavarian adventure was so scandalous that the Lord Chamberlain, who *censured* \[read *censored*, probably\] plays, banned it." Michael Alpert, *London 1849: A Victorian Murder Story* 36 \(2004\). The reader can't be certain whether the lord routinely banned or panned plays.
 
-Language-Change Index
+## Language-Change Index
 
 *censor* misused for *censure*: Stage 2
 

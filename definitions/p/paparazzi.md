@@ -10,7 +10,7 @@ paparazzi \(= photographers who follow celebrities, often aggressively, in hopes
 
 On 31 August 1997, the day Princess Diana died after a car crash while being chased by paparazzi, many television commentators used the incorrect form—no doubt spreading the mistake among millions of viewers. See spelling \(a\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*paparazzis* for the plural *paparazzi*: Stage 1
 

@@ -8,7 +8,7 @@ holistic \(= \[1\] of, relating to, or involving holism, i.e., the theory \[esp.
 
  - "Barker is still highly motivated to lead her team to victories, but Barker has developed a much more *wholistic* \[read *holistic*\] approach to dealing with her players." Bob Buttitta, "Coaching Calling," *Ventura County Star*, 11 Feb. 2015, at C3.
 
-Language-Change Index
+## Language-Change Index
 
 *holistic* misspelled *\*wholistic*: Stage 1
 Current ratio in print \(*holistic* vs. \**wholistic*\): 132:1

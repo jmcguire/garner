@@ -12,7 +12,7 @@ But because *gladiolus* is sometimes wrongly taken to be a plural, especially in
 
 You might be tempted to say that in a phrase such as \**bouquet of gladiolus*, the term *gladiolus* is being used less as a plural than as a collective or mass noun. But the argument doesn't go far. Nobody would refer to a \**bouquet of sunflower* or \**bouquet of tulip*—even though a *bouquet of lavender* is possible \(*lavender* not generally being thought of as each flower on its own stalk\). The phrase \**bouquet of gladiolus* is neither idiomatic nor logical.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*gladiola* for *gladiolus* as a singular: Stage 2
 Current ratio in print \(*gladiolus* vs. *\*gladiola*\): 9:1

@@ -30,7 +30,7 @@ As we have already seen, errors frequently occur—e.g.: "Neither you nor I *is*
 
 Of course, when both alternatives are plural, the verb is plural—e.g.: "*Neither those goals* nor *the overall themes* of the conference *fit* the extremist image conjured up by some critics of the gathering, like Senators Bob Dole and Phil Gramm." "A China Agenda for Mrs. Clinton," *N.Y. Times*, 30 Aug. 1995, at A14.
 
-Language-Change Index
+## Language-Change Index
 
 *neither . . . nor* with singular alternatives erroneously paired with a plural verb: Stage 3
 Current ratio in print \(*neither he nor she was* vs. \**neither he nor she were*\): 1:1.1
@@ -38,7 +38,7 @@ Current ratio in print \(\**neither you nor I are* vs. \**neither you nor I am*\
 
 **B. Number of Elements.** These correlative conjunctions best frame only two elements, not more. Though it's possible to find both modern and historical examples of *neither . . . nor* with more than two elements, these are unfastidious constructions. When three or more are involved, it's better not to say *\*They considered neither x, y, nor z.* Instead, say *They didn't consider x, y, or z.* Or it's permissible to use a second *nor* emphatically in framing three elements: *They considered neither x, nor y, nor z.* Cf. **either \(b\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *neither . . . nor* with more than two elements: Stage 3
 
@@ -58,7 +58,7 @@ Language-Change Index
 
  - "*Neither* lineups of movies *or* \[read *nor*\] celebrity guests are announced until one day before the festival begins." Steve Persall, "Almost Heaven: Telluride Film Festival," *Tampa Bay Times*, 3 Sept. 2015, at W15.
 
-Language-Change Index
+## Language-Change Index
 
 *\*neither . . . or* for *neither . . . nor*: Stage 2
 Current ratio in print \(*neither this nor* vs. \**neither this or*\): 82:1

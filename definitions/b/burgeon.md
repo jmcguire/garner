@@ -4,7 +4,7 @@ burgeon literally means "to put forth buds; sprout." Although some usage experts
 
 A variant spelling is \**bourgeon*, which was fairly common until the 1880s.
 
-Language-Change Index
+## Language-Change Index
 
 *burgeon* in the sense "to mushroom": Stage 4
 Current ratio in print \(*burgeon* vs. \**bourgeon*\): 10:1

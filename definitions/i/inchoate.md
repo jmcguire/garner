@@ -16,7 +16,7 @@ Current ratio in print \(*inchoate* vs. *\*incohate*\): 2,051:1
 
  - "But when Thursday night came, Satre found the words, talking about how it is possible to fall in love with institutions—Stanford, in his case—and ‘even something as *inchoate* \[read *chaotic*?\] as a company,' Harrah's." Thomas J. Walsh, "Phil Satre Stepping into Elder Statesman's Role," *Reno Gaz.-J.*, 12 Jan. 2003, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 *inchoate* misused for *chaotic*: Stage 1
 
@@ -26,7 +26,7 @@ Language-Change Index
 
  - "Music Man is not one of the most wise or even coherent products of American musical theater. . . . But, like Oklahoma, it can be mesmerizing in all its energy, optimism and certainty about the *inchoate* \[read *inherent*?\] goodness of the American character." David Zurawik, "Forecast: Warm Glow Moves In from River City, Iowa," *Baltimore Sun*, 16 Feb. 2003, at F14.
 
-Language-Change Index
+## Language-Change Index
 
 *inchoate* misused for *innate*: Stage 1
 

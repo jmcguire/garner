@@ -8,7 +8,7 @@ The term *passivist* \(= one with a passive attitude or way of life\) is usually
 
  - "McCain also seems stunningly unaware that the justices he simplistically lauds as ‘judicial *passivists*' are nothing of the sort." Geoffrey R. Stone, "McCain's Justice: Conservative Activism Gone Wild," *Chicago Trib.*, 7 May 2008, at C23.
 
-Language-Change Index
+## Language-Change Index
 
 *\*pacificist* for *pacifist*: Stage 1
 Current ratio in print \(*pacifist* vs. *\*pacificist*\): 132:1

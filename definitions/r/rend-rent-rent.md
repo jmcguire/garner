@@ -12,7 +12,7 @@ See irregular verbs. Whenever the past-participial *rent* might be confusing, tr
 
 For the malapropism of misusing *render* for *rend*, see **heart-rending**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*rended* for past-tense *rent*: Stage 1
 Current ratio in print \(*have rent* vs. *\*have rended*\): 87:1

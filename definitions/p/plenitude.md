@@ -10,7 +10,7 @@ plenitude. So spelled. The word is derived from the Latin *plenus* "full"—the 
 
 Of course, the phrase *a plenitude of* can very often be shortened to a simple *much* or *many*.
 
-Language-Change Index
+## Language-Change Index
 
 *plenitude* misspelled *\*plentitude*: Stage 1
 Current ratio in print \(*plenitude* vs. \**plentitude*\): 9:1

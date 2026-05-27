@@ -10,7 +10,7 @@ restive = \(1\) intractable, stubborn, unmanageable; or \(2\) restless, nervous,
 
 The more serious problem is that *restive* is sometimes misused for *restful*—e.g.: "*Restive* \[read *Restful*\] moment. Lori takes a time out from sports to relax in her living room." "Armed with Attitude," *Fresno Bee*, 4 Sept. 1997, at E6 \(photo caption\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *restive* in the sense "nervous": Stage 5
 

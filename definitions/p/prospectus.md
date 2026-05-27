@@ -8,7 +8,7 @@ prospectus. The correct English plural is *prospectuses*—and it is the only fo
 
 See **conspectus** & plurals \(b\). Cf. **apparatus** & **nexus**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*prospecti* for the plural *prospectuses*: Stage 1
 Current ratio in print \(*prospectuses* vs. *\*prospecti*\): 204:1

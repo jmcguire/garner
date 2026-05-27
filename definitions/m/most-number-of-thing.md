@@ -10,7 +10,7 @@
 
 Grammatically, *most* does not properly modify a singular count noun such as *number*. In fact, the incorrectness of the phrasing is highlighted when the comparative is substituted for the superlative: you can't say *\*more number of things*, etc.
 
-Language-Change Index
+## Language-Change Index
 
 *\*most number of* for *greatest number of*: Stage 1
 Current ratio in print \(*greatest number of* vs. *\*most number of *\): 12:1

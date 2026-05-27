@@ -20,7 +20,7 @@ For the reasons for avoiding *layperson*, like all other words ending with the s
 
 In comparison with *layperson*, the gender-balancing term *laywoman* \(somewhat surprisingly\) is almost unknown.
 
-Language-Change Index
+## Language-Change Index
 
 *layperson* for *layman*: Stage 4
 Current ratio in print \(*layman* vs. *layperson*\): 3:1

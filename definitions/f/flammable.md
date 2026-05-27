@@ -4,7 +4,7 @@ flammable; **inflammable**. The first is now accepted as standard in AmE and BrE
 
 Even staunch descriptivists endorsed the prescriptive shift from *inflammable* to *flammable*—e.g.: "A word is bad if it is ambiguous to such a degree that it leads to misunderstanding. For me, the perfect example of such a word is *inflammable*, if it is applied to substances. As most dictionaries now recognize, *inflammable* can be confused with *non-combustible*, and so lead to accidents." Archibald A. Hill, "Bad Words, Good Words, Misused Words," in *Studies in English Linguistics for Randolph Quirk* 250, 252 \(1983\). Cf. **inflammatory**.
 
-Language-Change Index
+## Language-Change Index
 
 *flammable* \(= combustible\): Stage 5
 Current ratio in print \(*flammable* vs. *inflammable*\): 4:1

@@ -14,7 +14,7 @@ In the 1930s, the Moral Rearmament movement began the practice of using *share* 
 
 Dating from the second half of the 20th century, the usage has become all but ubiquitous. The phrase *share your story* was almost unknown in 1960, coming into vogue by 1990, and all the rage by 2020. Few object to this vogue term today, but it retains a faint whiff of educationese or sociologese.
 
-Language-Change Index
+## Language-Change Index
 
 *share* in the sense "to convey personal information": Stage 4
 

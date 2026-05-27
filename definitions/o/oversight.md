@@ -14,7 +14,7 @@ oversight.
 
 See jargon & **overlook**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*oversighting* for *overseeing*: Stage 1
 

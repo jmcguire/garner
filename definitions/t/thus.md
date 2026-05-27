@@ -14,7 +14,7 @@ thus.
 
 For other adverbs ending in a superfluous *-ly*, see adverbs \(d\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*thusly* for the adverb *thus*: Stage 1
 Current ratio in print \(*thus* vs. *\*thusly*\): 769:1

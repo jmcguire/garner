@@ -8,7 +8,7 @@ casualty; \***casuality**. *\*Casuality* is an obsolete needless variant of *cas
 
  - "Howard Griffith is the latest *casuality* \[read *casualty*\], as he's out with a knee injury." Dan Caesar, "Rams Report," *St. Louis Post-Dispatch*, 15 Oct. 2000, at C8.
 
-Language-Change Index
+## Language-Change Index
 
 *\*casuality* for *casualty*: Stage 1
 

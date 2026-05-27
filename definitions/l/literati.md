@@ -14,7 +14,7 @@ See **litterateur**.
 
 Some writers ill-advisedly use *literati* as a mass noun and match it with a singular verb, as if it were equivalent to a word like *bourgeoisie* <the literati holds these ideas dear>.
 
-Language-Change Index
+## Language-Change Index
 
 1. *literati* misused to refer to a single person: Stage 1
 

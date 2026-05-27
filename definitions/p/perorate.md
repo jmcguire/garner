@@ -14,7 +14,7 @@ But the word is sometimes misused for *orate*—e.g.:
 
 The noun is *peroration* /pәr-ә-**ray**-shәn/—e.g.: "Even before the *peroration*—‘Fellow Americans, fellow Democrats, I offer you for the Presidency of the United States, that son of the Texas hills, that tested and effective servant of the people: Lyndon B. Johnson'—the big Texas delegation had begun to roar." Robert A. Caro, *The Years of Lyndon Johnson: Master of the Senate* 821 \(2002\).
 
-Language-Change Index
+## Language-Change Index
 
 *perorate* misused for *orate*: Stage 1
 

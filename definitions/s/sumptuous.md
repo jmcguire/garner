@@ -8,7 +8,7 @@ sumptuous; **sumptuary**. These words have almost opposite senses. *Sumptuous* =
 
  - "Last Wednesday the chief executive of Heron International hosted a *sumptious* \[read *sumptuous* or, depending on meaning, *scrumptious*\] lunch at the Savoy." Doug Morrison, "Ronson Reunited," *Daily Telegraph*, 2 Mar. 1997, at 7.
 
-Language-Change Index
+## Language-Change Index
 
 *sumptuous* misspelled *\*sumptious*: Stage 1
 Current ratio in print \(*sumptuous* vs. \**sumptious*\): 817:1

@@ -26,7 +26,7 @@ As further evidence of Murphy's Law at work, the opposite error \(*rein* for *re
 
  - "Confusion *reined* \[read *reigned*\] when everyone within a five-mile radius was asked to evacuate." Cheryl Jane Kountze, "May 1976's Deadly Fog," *Houston Chron.*, 4 Jan. 2003, at 35.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*reign in* for *rein in*: Stage 2
 Current ratio in print \(*had to be reined in* vs. \**had to be reigned in*\): 20:1

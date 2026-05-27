@@ -12,7 +12,7 @@ But *dialectical* is often misused for *dialectal*—e.g.:
 
 *Dialectic*—a noun denoting the art of rigorously logical argumentation—is, when used as an adjective, a needless variant of *dialectical*.
 
-Language-Change Index
+## Language-Change Index
 
 *dialectical* misused for *dialectal*: Stage 1
 Current ratio in print \(*dialectal speech* vs. \**dialectical speech*\): 3:1

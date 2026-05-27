@@ -12,7 +12,7 @@ As with *lay* and *lie*, the most common error is to use *overlay* when the prop
 
 See **lay**.
 
-Language-Change Index
+## Language-Change Index
 
 *overlay* misused for *overlie*: Stage 3
 Current ratio in print \(*skin overlying the* vs. *\*skin overlaying the* \[muscle, joint, etc.\]\): 93:1

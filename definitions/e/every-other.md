@@ -20,7 +20,7 @@ A similar problem often arises with the phrasing *every other . . . except*—e.
 
 For those sentences to make any sense, Wake Forest must be one of its own opponents, and Cuba must be a country with claims in Cuba.
 
-Language-Change Index
+## Language-Change Index
 
 *every other* misused for *all other*: Stage 3
 

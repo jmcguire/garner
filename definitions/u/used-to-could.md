@@ -10,7 +10,7 @@
 
 Dating from the early 1800s in AmE, the phrase had spread to BrE by the late 1830s. It has never been standard english. See dialect & double modals.
 
-Language-Change Index
+## Language-Change Index
 
 *\*used to could*: Stage 2
 

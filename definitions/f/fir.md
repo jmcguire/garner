@@ -6,7 +6,7 @@ fir. The name of the evergreen tree is occasionally misspelled *fur*, creating a
 
  - "Eileen Meert plants a canaan *fur* \[read *fir*\] tree Saturday as Josh Hickman, center, digs a hole and Domien Meert fertilizes the hole at Meert Tree Farm in Festus." "A Growing Knowledge of Trees," *St. Louis Post-Dispatch*, 12 Apr. 2006, Bus. §, at A12 \(photo caption\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*fur tree* for *fir tree*: Stage 1
 Current ratio in print \(*fir tree* vs. *\*fur tree*\): 231:1

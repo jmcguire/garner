@@ -8,7 +8,7 @@ diploma; **degree**. The traditional distinction is worth preserving. Secondary 
 
  - "Evidence of the dramatic link between education and income is seen in the 75 percent gap between the average wages of college graduates and high school graduates and the 42 percent gap between those with high school *degrees* \[read *diplomas*\] and those without them, he said." Patrice Hill, "Bernanke Suggests Job Skills to Combat Inequality," *Wash. Times*, 7 Feb. 2007, Bus. §, at C8.
 
-Language-Change Index
+## Language-Change Index
 
 *degree* misused for *diploma*: Stage 3
 

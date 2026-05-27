@@ -8,7 +8,7 @@ sortie \(= \[1\] a raid, esp. an unexpected attack from a besieged position; \[2
 
 Might people confuse or associate this word with *soirée*?
 
-Language-Change Index
+## Language-Change Index
 
 *sortie* misspelled *\*sortee*: Stage 1
 Current ratio in print \(*sortie* vs. \**sortee*\): 1,260:1

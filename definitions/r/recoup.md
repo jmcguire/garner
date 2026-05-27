@@ -20,7 +20,7 @@ The *OED* records several examples of "recuperating" losses—from 1865 to recen
 
  - "The mayors of Montreal and Laval have pledged to do everything in their power to *recuperate* \[read *recoup*\] money stolen from taxpayers over the past two decades." Monique Muise, "Montreal Won't Take Action Against Former Employees," *Montreal Gaz.*, 6 Aug. 2014, at A6.
 
-Language-Change Index
+## Language-Change Index
 
 1. *recoup* misused for *recuperate*: Stage 3
 

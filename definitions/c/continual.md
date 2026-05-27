@@ -16,7 +16,7 @@ The phrase *\*almost continuous* indicates that *continual* is the right word—
 
 A related mistake is to use *continuous* for something that happens at regular \(e.g., annual\) intervals—e.g.: "The White House tree-lighting ceremony has been held *continuously* \[read *annually*\] since 1923." "Lighting the National Christmas Tree," *Herald-Sun* \(Durham, N.C.\), 6 Dec. 1996, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 *continuous* misused for *continual*: Stage 3
 Current ratio in print \(*continually urging* vs. *\*continuously urging*\): 11:1

@@ -4,7 +4,7 @@ shambles. This word has borne several meanings since it was first used in Old En
 
 In terms of English usage, the principal question today is whether the phrase is preferably *in a shambles* or *in shambles*. All four illustrative quotations in the *OED* reflect *in a shambles*. Yet since 1980, the indefinite article has predominantly been dropped, doubtless because of the anomaly involved in using a singular determiner before a noun seemingly plural in form. The situation today is that highly literate people are likely to say *in a shambles* and all others to say *in shambles*—and the literary usage is in decline. Both must be accepted as standard, which is not to say that the word's modern senses or uses are at all in a shambles.
 
-Language-Change Index
+## Language-Change Index
 
 *in a shambles* in the sense of great disarray: Stage 5 *in shambles* for *in a shambles*: Stage 5
 Current ratio in print \(*in shambles* vs. *in a shambles*\): 6:1

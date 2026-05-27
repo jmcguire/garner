@@ -14,7 +14,7 @@ one in \[number\] is; **\*one in \[number\] are**. In this construction, a singu
 
 The same holds true when the construction is *one of five*, etc. See subject–verb agreement \(k\).
 
-Language-Change Index
+## Language-Change Index
 
 *\*one in three believe* for *one in three believes*: Stage 2
 Current ratio in print \(*one in five is* vs. \**one in five are*\): 1.3:1

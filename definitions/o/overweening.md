@@ -8,7 +8,7 @@ overweening \(= presumptuous, arrogant, or immoderate\) is so spelled—but the 
 
 The word is sometimes misused for *overwhelming*. Jacques Barzun cites the example of a suggestion "greeted with *overweening* \[read *overwhelming*\] disapproval." *Simple and Direct* 30 \(1975\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *overweening* misspelled *\*overweaning*: Stage 1
 Current ratio in print \(*overweening* vs. *\*overweaning*\): 67:1

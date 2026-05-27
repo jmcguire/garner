@@ -10,7 +10,7 @@ camaraderie is routinely misspelled *\*camraderie*, *\*comraderie*, and even *\*
 
 Although the words *camaraderie* and *comrade* are etymologically related—both derive from the French *camarade*—the English spellings are well enough established that each of the variant spellings is an error. Of course, careful speakers probably won't misspell *camaraderie*—it has five syllables: /kah-mә-**rah**-dә-ree/.
 
-Language-Change Index
+## Language-Change Index
 
 *camaraderie* misspelled *\*comraderie,* *\*camraderie*, or *\*comradery*: Stage 1 Current ratio in print \(*camaraderie* vs. *\*comradery* vs. *\*comraderie* vs. *\*camraderie*\): 1,852:102:6:1
 

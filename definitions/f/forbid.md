@@ -26,7 +26,7 @@ Meanwhile, the laughable form *\*forbidded* occasionally appears—e.g.: "Gramol
 
 Finally, *forbade* is often misspelled *\*forebade*, doubtless through an erroneous sense of etymology. In fact, the *for-* here means "against"; it has nothing to do with *fore-*, meaning "before." E.g.: "To make matters worse, experts said, PG&E and Edison couldn't protect themselves from the high prices by entering into long-term contracts because regulations set during deregulation *forebade* \[read *forbade*\] them." Mary Fricker, "Experts: Surge in Energy Cost Not Predictable," *Press Democrat* \(Santa Rosa\), 18 Jan. 2001, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *forbid* for the past-tense *forbade*: Stage 2
 Current ratio in print \(*he forbade it* vs. *\*he forbid it*\): 4:1

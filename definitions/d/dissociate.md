@@ -8,7 +8,7 @@ dissociate; **\*disassociate**. *Dissociate* has long been the standard term; *\
 
  - "Climate and the economy cannot be *dissociated* from one another." Martine St-Victor, "This City Has Influence, So Let's Use It," *Montreal Gaz.*, 19 Aug. 2021, at A7.
 
-Language-Change Index
+## Language-Change Index
 
 *\*disassociate* for *dissociate*: Stage 3
 Current ratio in print \(*dissociate* vs. \**disassociate*\): 3:1

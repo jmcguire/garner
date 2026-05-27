@@ -10,7 +10,7 @@ These uses are so well ensconced in culinary talk that there seems little hope o
 
 To make matters worse, the phrase is typically pronounced /oh **zhoos**/ or even /oh **joos**/ instead of the more nearly correct /oh **zhoo**/. Oh, gosh\!
 
-Language-Change Index
+## Language-Change Index
 
 1. *au jus* as a noun: Stage 4
 

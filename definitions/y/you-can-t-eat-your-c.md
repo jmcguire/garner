@@ -16,7 +16,7 @@ Yet the *have–eat* sequence has been the dominant one since about 1940—e.g.:
 
 Meanwhile, the *eat–have* sequence has steadily declined since the 1940s, so much so that many speakers of English have never encountered it.
 
-Language-Change Index
+## Language-Change Index
 
 *you can't have your cake and eat it too*: Stage 5 Current ratio in print \(*have your cake and eat* vs. *eat your cake and have*\): 5:1
 

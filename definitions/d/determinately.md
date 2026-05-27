@@ -8,7 +8,7 @@ determinately; **determinedly**. *Determinately* \(= con-clusively, definitively
 
 Sometimes, of course, *determinately* is just the right word—e.g.: "Did not Werner Heisenberg in 1927 convincingly argue that the physical universe cannot be measured *determinately* and thus may just be chaotic and without structure?" Simon Oswitch, "Digging Cage," *L.A. Times*, 29 Mar. 1987, Calendar §, at 95.
 
-Language-Change Index
+## Language-Change Index
 
 *determinately* for *determinedly*: Stage 1
 

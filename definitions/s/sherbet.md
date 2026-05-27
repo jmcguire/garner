@@ -2,7 +2,7 @@
 
 sherbet /**shәr**-bәt/ is commonly mispronounced with an intrusive *r*: /**shәr**-bәrt/. Because of this mispronunciation, the word is sometimes wrongly spelled *\*sherbert*. See pronunciation \(b\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *sherbet* mispronounced /**shәr**-bәrt/: Stage 3
 

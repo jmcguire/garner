@@ -20,7 +20,7 @@ Although word-swapping is rare with these verbs, it does occur—e.g.:
 
  - "How can we possibly be so deluded as to think such negotiations this time will not produce results akin to those of previous efforts to *parlay* \[read *parley*\] with other totalitarians: confirming their contempt for Western interlocutors, reinforcing the despots' sense of inevitable victory and encouraging more aggressive behavior by the latter to achieve that outcome on an accelerated basis?" Frank J. Gaffney Jr., "What Were They Thinking?," *Wash. Times*, 10 July 2007, at A14.
 
-Language-Change Index
+## Language-Change Index
 
 1. *parley* misused for *parlay*: Stage 1
 

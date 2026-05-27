@@ -10,7 +10,7 @@ lawsuit. Journalists often misuse *lawsuit* \(one word in both AmE and BrE\) for
 
 The *lawsuit* is the whole process; the document \(however many pages long\) is only an instrumental part of it. See **case \(d\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *lawsuit* misused for *complaint* or *petition*: Stage 1
 

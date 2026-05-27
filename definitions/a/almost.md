@@ -14,7 +14,7 @@ almost.
 
 Oddly, however, this phrasing wasn't uncommon in the 1600s and 1700s. It trailed off in the 1800s and was stigmatized in the 1900s. See **quite**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*almost quite*: Stage 1
 

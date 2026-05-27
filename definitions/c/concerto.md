@@ -4,7 +4,7 @@ concerto \(= a musical composition for orchestra and a solo instrument\) has two
 
 Occasionally the incorrect form *\*concertoes* appears—e.g.: "When I work on Mozart *concertoes* \[read *concertos*\], for example, there has to be a minimum of time expended—long periods." Jeff Simon, "Keith Jarrett: A Rare Interview," *Buffalo News*, 25 Aug. 1996, at F1 \(attributing the statement to Keith Jarrett\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *concertos* as a plural \(as opposed to *concerti*\): Stage 5
 Current ratio in print \(*concertos* vs. *concerti*\): 9:1

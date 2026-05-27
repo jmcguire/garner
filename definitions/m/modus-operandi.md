@@ -8,7 +8,7 @@ The phrase is sometimes misrendered *\*mode of operandi*—e.g.:
 
  - "Marshall \(1–2\) gets that chance and what is becoming a regular *mode of operandi* \[read *modus operandi*\], so will numerous other MAC teams." "Herd Eye Kansas St.," *Lancaster Eagle-Gaz.* \(Ohio\), 17 Sept. 2003, at B1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*mode of operandi* for *modus operandi*: Stage 1
 

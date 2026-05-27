@@ -10,7 +10,7 @@ In AmE, the phrase is fairly common in sportswriting in the sense "to equal an o
 
 Some writers have used the sports phrase metaphorically—e.g.: "The last time somebody tried to impose prohibition on Chicago, the city *answered back* with Al Capone." Peter Annin, "Prohibition Revisited?," *Newsweek*, 7 Dec. 1998, at 68. Despite the currency of this usage, *answer* alone can carry the load.
 
-Language-Change Index
+## Language-Change Index
 
 *answer back* for *answer* \(outside sports\): Stage 3
 

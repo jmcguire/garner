@@ -10,7 +10,7 @@ anthropocentric; homocentric. Both words may denote a philosophy or worldview th
 
 *Homocentric* is inferior for another reason: to many people today the *homo-* prefix suggests primarily sexual orientation, not the species. And *homocentric* is now sometimes used in a homosexual sense—e.g.: "The introduction by the late Martin Taylor is a model of explication that discusses the strong homoerotic element of much of the poetry without ever becoming a tedious, *homocentric* \[read *gay-pride*?\] rant." Scott Eyman, "Soldiers' Letters Give Civil War a Human Face," *Palm Beach Post*, 10 Nov. 2002, at J4.
 
-Language-Change Index
+## Language-Change Index
 
 1. *homocentric* for *anthropocentric*: Stage 1
 Current ratio in print \(*anthropocentric view* vs. *homocentric view*\): 71:1

@@ -10,7 +10,7 @@ In BrE, the word formerly referred to a man of independent means not working gai
 
 **C. And *gentleperson*.** This word is occasionally used as a neutral term in salutations, especially in the plural, but it has never lost its look of jocularity. *The Second Barnhart Dictionary of New English* \(1980\) says this of *gentleperson*: "often used humorously or ironically." E.g.: "*Gentlepeople* don't read other *gentlepeople's* e-mail." James Coates, "Computer Privacy? It's Not a Given," *Chicago Trib.*, 23 May 1993, at C1. Jocularity aside, the plural is *gentlepersons*, not *\*gentlepeople*.
 
-Language-Change Index
+## Language-Change Index
 
 *gentleperson* for *gentleman*: Stage 1
 

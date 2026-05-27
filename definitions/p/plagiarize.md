@@ -8,7 +8,7 @@ plagiarize is often misspelled *\*plagarize* or *\*plagerize*. E.g.:
 
  - "Corelli's style was easier to *plagarize* \[read *plagiarize*\] than Haydn's; Haydn's contemporaries and successors were more taken with being original than being imitators." John H. Baron, *Chamber Music* 1507 \(2010\).
 
-Language-Change Index
+## Language-Change Index
 
 *plagiarize* misspelled *\*plagarize* or *\*plagerize*: Stage 1
 Current ratio in print \(*plagiarize* vs. *\*plagarize*\): 305:1

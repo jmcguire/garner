@@ -24,7 +24,7 @@ Not surprisingly, therefore, the phrase *court-martial* is now often mistakenly 
 
 See **marshal**, n. **\(a\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*court marshal* for *court-martial*: Stage 1
 Current ratio in print \(*court-martialed* vs. *\*court-marshalled* vs. *\*court-marshaled*\): 70:1.1:1

@@ -18,7 +18,7 @@ Some writers use *denounce* when they plainly mean *renounce*—e.g.:
 
  - "They have *denounced* \[read *renounced*\] their U.S. citizenship and set up their own racist, sexist, frontier society." Deborah Mathis, "We Deserve Freedom from Montana Freeman," *Houston Chron.*, 12 May 1996, Outlook §, at 6.
 
-Language-Change Index
+## Language-Change Index
 
 *denounce* misused for *renounce*: Stage 2
 

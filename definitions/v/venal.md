@@ -12,7 +12,7 @@ Predictably enough, writers sometimes misuse *venal* for *venial*, a recurrent e
 
  - "At the left middle ground of the print Dürer shows the nude saint crawling on all fours as penance for his *venal* \[read *venial*\] sin while the woman's nudity might be understood as showing why the ascetic saint weakened before her beauty." Lisa Rosenthal, *Gender, Politics, and Allegory in the Art of Rubens* 51 \(2005\).
 
-Language-Change Index
+## Language-Change Index
 
 1. *venal* misused for *venial*: Stage 1
 Current ratio in print \(*venial sin* vs. *\*venal sin*\): 53:1

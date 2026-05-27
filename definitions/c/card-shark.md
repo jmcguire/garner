@@ -12,7 +12,7 @@ But occasionally a writer will use *card shark* where the sense is that the play
 
  - "Supposedly based on the teachings of *card shark* \[read *cardsharp*\] ‘Dickie Richard,' the book offers genuine tips for cheating along with a humorously amoral philosophy." Will Pfeifer, "Know When to Hold 'Em," *Rockford Register Star* \(Ill.\), 23 Jan. 2006, at C1.
 
-Language-Change Index
+## Language-Change Index
 
 *card shark* misused for *cardsharp*: Stage 1
 

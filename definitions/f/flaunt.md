@@ -24,7 +24,7 @@ But the word is also often incorrectly used for *flout*, perhaps because it is m
 
 A federal judge who misused *flaunt* for *flout* in a published opinion—only to be *sic*'d and corrected by judges who later quoted him—appealed to *W3* and its editors, who of course recorded any usage that could be documented with any frequency. The judge then attempted to justify his error and pledged to persist in it. See William Safire, *I Stand Corrected* 158–59 \(1984\). Seeking refuge in such a dictionary, however, merely ignores the all-important distinction between Stage 3 misuses and impeccable English. Judges should strive for the latter, not descend to the former.
 
-Language-Change Index
+## Language-Change Index
 
 *flaunt* misused for *flout*: Stage 3
 Current ratio in print \(*flouting the rules* vs. *\*flaunting the rules*\): 6:1

@@ -8,7 +8,7 @@ As with many other compound nouns, this term has been spelled as two words, as a
 
  - "Skip the wrap shirt, an invention that feels more like a *straight jacket* \[read *straitjacket*\] than a garment of leisure." Jill Radsken, "Dive In to End-of-Season Sales Racks," *Boston Herald*, 12 July 2001, at 50.
 
-Language-Change Index
+## Language-Change Index
 
 *\*straightjacket* for *straitjacket*: Stage 3
 Current ratio in print \(*straitjacket* vs. *\*straightjacket*\): 3:1

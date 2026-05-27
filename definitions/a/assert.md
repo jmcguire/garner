@@ -12,7 +12,7 @@ When it comes to asserting authority or asserting a right—that is, sense 2 of 
 
 Yet the modern idiom of *asserting authority* was not set until the 1860s. Before that time, *exerting authority* was predominant in English prose.
 
-Language-Change Index
+## Language-Change Index
 
 *exert* misused for *assert*: Stage 1
 

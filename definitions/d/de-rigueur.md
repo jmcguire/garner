@@ -8,7 +8,7 @@
 
 The phrase is pronounced /dә ri-**gәr**/.
 
-Language-Change Index
+## Language-Change Index
 
 *de rigueur* misspelled *\*de rigeur* or *\*de riguer*: Stage 2
 Current ratio in print \(*de rigueur* vs. *\*de rigeur*\): 9:1

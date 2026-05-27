@@ -8,7 +8,7 @@ soundtrack is so written \(or sometimes *sound track*\)—not *\*sound tract*. T
 
 For other misuses, see **track**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*sound tract* for *soundtrack*: Stage 1
 Current ratio in print \(*soundtrack* vs. *\*sound tract*\): 6,626:1

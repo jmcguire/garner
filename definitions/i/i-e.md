@@ -14,7 +14,7 @@ i.e.
 
 See **e.g**.
 
-Language-Change Index
+## Language-Change Index
 
 *i.e.* misused for *e.g.*: Stage 2
 

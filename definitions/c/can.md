@@ -6,7 +6,7 @@ can.
 
 But three caveats are necessary. First, educated people typically say *can't I* as opposed to the stilted forms *mayn't I* and *may I not*. The same is true of other pronouns <why can't she go?> <can't you wait until Saturday?>. Second, *you can't* and *you cannot* are much more common denials of permission than *you may not* <no, you can't play with any more than 14 clubs in your bag>. Third, because *may* is a more polite way of asking for permission, a fussy insistence on using it can give the writing a prissy tone.
 
-Language-Change Index
+## Language-Change Index
 
 *can* for *may*: Stage 4
 

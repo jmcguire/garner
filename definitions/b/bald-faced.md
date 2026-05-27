@@ -16,7 +16,7 @@ The general sense of both *bald-faced* and *barefaced* is that something is sham
 
 Because of the "shameful" connotation of *bald-faced*, it is occasionally used to describe a shameful truth, leading to a twist on the expression *bald-faced lie*—e.g.: "It is a *bald-faced* truth that men are attached to their hair, physically and emotionally." Dick Feagler, "Hair Today," *Plain Dealer* \(Cleveland\), 4 Aug. 2002, at B1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*boldface lie* or *\*boldfaced lie* for *bald-faced lie*: Stage 1
 Current ratio in print \(*bald-faced lie* vs. *\*boldfaced lie* vs. *\*boldface lie*\): 24:2.4:1

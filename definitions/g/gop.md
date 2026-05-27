@@ -12,7 +12,7 @@ GOP.
 
  - "The *GOP party* \[read *GOP*\] leaders . . . then learned how to apply for a job in the prospective Bush administration." Tyler Whitley, "Republicans Cheer Halt in Fla. Recount," *Richmond Times-Dispatch*, 10 Dec. 2000, at C1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*GOP Party* for *GOP*: Stage 2
 

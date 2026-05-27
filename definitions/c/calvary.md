@@ -18,7 +18,7 @@ Civilians seem to have to relearn this every time a new war breaks out—e.g.:
 
 Cf. **irrelevant** & **regime**.
 
-Language-Change Index
+## Language-Change Index
 
 *calvary* misused for *cavalry*: Stage 1 Current ratio in print \(*cavalry charge* vs. \**calvary charge*\): 515:1 Current ratio in print \(*cavalry division* vs. \**calvary division*\): 1,520:1
 

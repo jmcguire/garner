@@ -10,7 +10,7 @@ stink > stank > stunk. So inflected. *\*Stinked* is a dialectal past tense and p
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 1. *\*stinked* as past tense of *stink*: Stage 1
 Current ratio in print \(*stank* vs. *stunk* vs. *\*stinked*\): 512:138:1

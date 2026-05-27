@@ -12,7 +12,7 @@ But *principal* is sometimes a noun—an elliptical form of *principal official*
 
  - "The three repeatedly pointed to their own steadfast adherence to *principals* \[read *principles*\], trying to draw contrast between themselves and Mr. Dole." "Ignoring G.O.P. Rivals, Dole Says He Can ‘Smell Victory,' " *N.Y. Times*, 10 Mar. 1996, at 11.
 
-Language-Change Index
+## Language-Change Index
 
 *principal* misused for *principle*: Stage 1
 Current ratio in print \(*fundamental principles* vs. *\*fundamental principals*\): 925:1
@@ -25,7 +25,7 @@ Current ratio in print \(*fundamental principles* vs. *\*fundamental principals*
 
  - "Bowers was a *principle* \[read *principal*\] figure in one of college basketball's nastiest scandals in recent years after she made allegations of NCAA violations by the Baylor men's team in memos to university officials." Randy Riggs, "Calm on the Court," *Austin Am.-Statesman*, 21 Jan. 1995, at C1.
 
-Language-Change Index
+## Language-Change Index
 
 *principle* misused for *principal*: Stage 2
 Current ratio in print \(*principal reasons* vs. *\*principle reasons*\): 15:1

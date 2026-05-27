@@ -8,7 +8,7 @@ axel; **axle**. The first is a figure-skating maneuver; the second is a rod or p
 
  - "She was grudgingly admired as a superb sportswoman and the first skater in America, and the second woman ever, to achieve a *triple axle* \[read *triple-axel*\] jump." Barbara McMahon, "The Ice Princess and Me," *People* \(U.K.\), 19 Jan. 2014, at 26.
 
-Language-Change Index
+## Language-Change Index
 
 *axle* misused for *axel*: Stage 1
 

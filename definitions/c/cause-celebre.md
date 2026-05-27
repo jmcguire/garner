@@ -16,7 +16,7 @@ The primary meaning has long been "a trial or decision in which the subject matt
 
  - "A few years ago, it would have been unimaginable that a shaken-baby case involving a British teenager, a family none of us had heard of before, and murky medical evidence would have become an international *cause* *célèbre*." Eric Black, "The Gigastory and Its Lack of Greater Meaning," *Star Trib.* \(Minneapolis\), 13 Nov. 1997, at A24.
 
-Language-Change Index
+## Language-Change Index
 
 *cause célèbre* misused to mean "famous cause": Stage 1
 

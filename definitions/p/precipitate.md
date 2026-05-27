@@ -10,7 +10,7 @@ precipitate, adj.; **precipitous**; **\*precipitant**. Since about 1980, the fir
 
 *\*Precipitant*, adj., is a needless variant for *precipitate*—e.g.: "Easley's lawyer . . . \[contended\] that the forged document caused Easley's *precipitant* \[read *precipitate*\] decline in academic and community standing." Ted Gup, "University ‘Prank' Ruined Life, Student's Suit Charges," *Wash. Post*, 21 Sept. 1978, at A1. But *precipitant* is a useful noun meaning "a cause or stimulus"—e.g.: "Sleep deprivation is another *precipitant* of somnambulism." Pat Guiteras, "Parent Worries Sleepwalker Will Go Too Far," *Chapel Hill Herald*, 5 Apr. 1995, at 6.
 
-Language-Change Index
+## Language-Change Index
 
 *precipitous* misused for *precipitate*: Stage 4
 Current ratio in print \(*a precipitate retreat* vs. \**a precipitous retreat*\): 16:1

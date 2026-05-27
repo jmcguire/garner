@@ -24,7 +24,7 @@ See irregular verbs. Cf. **proved** & **stricken \(a\)**.
 
 For *shirk* misused for *shrink*, see **shirk**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *shrunk* for simple past: Stage 3
 Current ratio in print \(*she shrank* vs. *\*she shrunk*\): 6:1

@@ -4,7 +4,7 @@
 
 Even by then, the illogically formed nonword had already made its way into print—e.g.: " ‘I adore Rourke,' Jean-Pierre Wagneur says *uncategorically* \[read *categorically*\]." Alessandra Stanley, "Can 50 Million Frenchmen Be Wrong?," *N.Y. Times*, 21 Oct. 1990, § 6, at 41. Cf. **\*unmercilessly** & **\*unrelentlessly**.
 
-Language-Change Index
+## Language-Change Index
 
 *\*uncategorically*: Stage 1
 Current ratio in print \(*categorically* vs. *\*uncategorically*\): 604:1

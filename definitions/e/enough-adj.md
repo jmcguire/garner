@@ -12,7 +12,7 @@ There are, of course, exceptions to the general rule: *sufficient* \(or more oft
 
 For more on *sufficient*, see **adequate \(a\)**.
 
-Language-Change Index
+## Language-Change Index
 
 *sufficient* used with a count noun: Stage 3
 

@@ -12,7 +12,7 @@ But the phrase *economic ruin* is acceptable when the reference is to a geograph
 
  - "The American exit threatened his town with *economic ruin*, and his family, a long-standing local dynasty, with the loss of its power base." "How to Convert a Military Power Base—Filipino Style," *Sacramento Bee*, 15 Oct. 1995, at F3.
 
-Language-Change Index
+## Language-Change Index
 
 *economic* misused for *financial*: Stage 3
 

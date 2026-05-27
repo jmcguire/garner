@@ -4,7 +4,7 @@ if and when.
 
 **A. Generally.** *If and when* first appeared in the 1700s, lay dormant for more than 150 years, and suddenly spread rapidly during the 1900s, reaching the height of its popularity in the 1940s. The single word *when* typically conveys everything this three-word phrase does. Although the full idiom does emphasize both conditionality and temporality, if a thing is done at a certain time it is ipso facto done. Still, the phrase helpfully sets up two conditions: \(1\) I won't perform my duty unless you perform yours, and \(2\) don't expect me to go first. As a popular idiom, *if and when* is not likely to disappear just for the sake of brevity.
 
-Language-Change Index
+## Language-Change Index
 
 *if and when* for *if*: Stage 4
 

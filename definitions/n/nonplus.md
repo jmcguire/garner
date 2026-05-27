@@ -10,7 +10,7 @@ nonplus, the verb meaning "to baffle or confound unexpectedly," preferably makes
 
 Since the 1990s there has arisen a mystifying notion that *nonplussed* is essentially synonymous with its near-antonym *unfazed*. That is a nonplussing misperception.
 
-Language-Change Index
+## Language-Change Index
 
 1. *nonplussed* misspelled *\*nonplused*: Stage 1
 Current ratio in print \(*nonplussed* vs. \**nonplused*\): 17:1

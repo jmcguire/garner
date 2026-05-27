@@ -10,7 +10,7 @@ imbue \(= \[1\] to inspire \[a person, group of people, etc.\] with; or \[2\] to
 
 See **impart** & **instill**.
 
-Language-Change Index
+## Language-Change Index
 
 *imbue* misused for *instill*: Stage 1
 Current ratio in print \(*instilling in them* vs. *\*imbuing in them*\): 68:1

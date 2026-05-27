@@ -10,7 +10,7 @@ coarse, adj. The word *coarse* \(= \[1\] inferior in quality; or \[2\] unrefined
 
 Originally, it is true, *coarse* and *course* were the same word. But the difference in spelling and in meaning emerged in the 1700s, and the words have long since gone their separate ways.
 
-Language-Change Index
+## Language-Change Index
 
 *course* misused for *coarse*: Stage 1
 

@@ -12,7 +12,7 @@ But *opportunistic* is now sometimes misused to mean *opportune*—e.g.:
 
  - "Some of Stuckey's more exciting plays couldn't have come at more *opportunistic* \[read *opportune*\] times." Chris Hughes, "Stuckey Will Leave Large Legacy at Northside," *Macon Telegraph*, 14 June 2002, at C1.
 
-Language-Change Index
+## Language-Change Index
 
 *opportunistic* misused for *opportune*: Stage 1
 

@@ -8,7 +8,7 @@ Although Eric Partridge said that *quadra-* is "always wrong" \(*U&A* at 257\), 
 
 But in one word especially—*quadriplegia*—the medial *i* is sometimes wrongly made *a*. About 10% of the time in newspaper journalism, the misspelling *\*quadraplegia* appears—e.g.: "The sudden bending of the neck . . . can lead to spinal cord injury and permanent paralysis of both arms and legs \(known as *quadraplegia* \[read *quadriplegia*\]\)." G. Timothy Johnson, "So Long, Readers—The Doctor Is Out," *Chicago Trib.*, 22 Aug. 1986, at C2.
 
-Language-Change Index
+## Language-Change Index
 
 *quadriplegia* misspelled *\*quadraplegia*: Stage 1
 Current ratio in print \(*quadriplegia* vs. \**quadraplegia*\): 187:1

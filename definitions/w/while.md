@@ -14,7 +14,7 @@ Though the use is quite proper, writers must be on guard for the occasional ambi
 
 Further, *while* shouldn't be used merely for *and*—e.g.: "Her father, J. Frank McKenna III, is a lawyer, *while* \[read *and*\] her mother, Colleen O'Shaughnessy McKenna, is the author of 17 children's books, many of which are set in Catholic schools." Mary Lee Gannon, "Catholic Has Service on Mind," *Pitt. Post-Gaz.*, 12 June 1996, at N9.
 
-Language-Change Index
+## Language-Change Index
 
 *while* used in nontemporal sense: Stage 5
 

@@ -8,7 +8,7 @@ suspicion, as a verb, is dialectal for *suspect*. This usage emerged in the earl
 
 See dialect.
 
-Language-Change Index
+## Language-Change Index
 
 *\*suspicioned* for *suspected*: Stage 1
 Current ratio in print \(*he suspected* vs. *\*he suspicioned*\): 418:1

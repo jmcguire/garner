@@ -4,7 +4,7 @@ euphonium \(= a brass instrument similar to a baritone horn, being somewhat smal
 
 The word *euphonia*, though not recorded in many dictionaries, refers to a kind of bird found in North and South America \(the plural being either *euphonias* or *euphonia*\)—e.g.: "Rare hummingbirds, honeycreepers and singing *euphonia* . . . are endangered and seen only sporadically in Florida during annual migrations." Julie Kay, "Jewels of the Sky," *Miami Herald*, 30 Sept. 1995, at B2.
 
-Language-Change Index
+## Language-Change Index
 
 *euphonia* used for *euphoniums*: Stage 1
 

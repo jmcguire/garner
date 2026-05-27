@@ -10,7 +10,7 @@ But some writers misuse the word for the verb *hew*—e.g.: "Mr. Major *hued* \[
 
 For the misuse of *hew* for *hue* in the irreversible binomial *hue and cry*, see **hue and cry**.
 
-Language-Change Index
+## Language-Change Index
 
 *hued* misused for *hewed*: Stage 1
 Current ratio in print \(*hewed to* vs. *\*hued to*\): 38:1

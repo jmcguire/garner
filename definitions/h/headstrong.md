@@ -10,7 +10,7 @@ headstrong, adj.; **headlong**, adv. *Headstrong* \(= stubborn, obstinate\) is s
 
 Sometimes the senses truly seem to merge, as *headstrong* takes on an adverbial quality more evocative than *headlong*—e.g.: "Creationists have run *headstrong* into teachers and scientists who have effectively lobbied their state and local school boards." Michael Janofsky, "New Mexico Rules Out Teaching Creationism," *Times-Picayune* \(New Orleans\), 10 Oct. 1999, at A13.
 
-Language-Change Index
+## Language-Change Index
 
 *headstrong* misused for *headlong*: Stage 1
 

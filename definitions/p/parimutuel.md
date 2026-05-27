@@ -8,7 +8,7 @@ parimutuel, n., = a form of gambling in which those who have bet on winning numb
 
  - "Alamo Downs: Originally a well-known horse-racing track that turned to motor sports when Texas outlawed *paramutuel* \[read *parimutuel*\] wagering." Bruce Mabrito, "S.A.-Area Motor Sports," *San Antonio Express-News*, 7 July 2015, Metro §, at 4.
 
-Language-Change Index
+## Language-Change Index
 
 *parimutuel* misspelled in various ways: Stage 1
 Current ratio in print \(*parimutuel* vs. *\*paramutual* vs. *\*parimutual* vs. *\*paramutuel*\): 89:3:2.1:1

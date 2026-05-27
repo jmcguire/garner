@@ -6,7 +6,7 @@ segue /**seg**-way/ \(fr. Italian "there follows"\) is both a noun meaning "a se
 
  - "For almost 30 years, Larry Monroe has been spinning records and CDs on KUT-FM radio . . . . Monroe's signature is the *‘segway'* \[read *segue*\]. He takes pride in piecing together creative set lists in which the songs are united by theme, a condition of heart or climate, or an artist's affinity for a single word in a refrain." Brad Buchholz, "Sharing the Language of Dylan," *Austin Am.-Statesman*, 13 Sept. 2007, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*segway* for *segue*: Stage 1
 Current ratio in print \(*segue* vs. *\*segway*\): 86:1

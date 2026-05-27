@@ -8,7 +8,7 @@ cablecast > cablecast > cablecast. Dating from the mid-1960s, this verb is so in
 
 See -cast & irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*cablecasted* for past-tense *cablecast*: Stage 1
 

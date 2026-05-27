@@ -8,7 +8,7 @@ The slippage is especially acute when *verbal* is opposed to *written*—e.g.: "
 
 In recent years, some people have said that they feel awkward using *oral* because of prurient connotations; that is, the word seems most often to appear in reference to oral sex. Why this should be so is hard to fathom, since we have *oral surgery* and *oral reports*, not to speak of *oral commitments* and *oral communication*. If you think of *oral* in a narrow sexual sense, you should wash your mouth out with soap. Otherwise, we may be in danger of losing a perfectly good word.
 
-Language-Change Index
+## Language-Change Index
 
 *verbal* as a synonym for *oral*: Stage 4
 

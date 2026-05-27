@@ -10,7 +10,7 @@ The more usual shortened form is sometimes misspelled *\*ad hominum*—e.g.:
 
  - "I think most Americans are getting a bellyful of *ad-hominum* \[read *ad hominem*\] attacks and character assassinations." "A Character of Conservation," *Wash. Times*, 4 Mar. 2001, at B5.
 
-Language-Change Index
+## Language-Change Index
 
 *ad hominem* misspelled *\*ad hominum*: Stage 1 Current ratio in print \(*ad hominem* vs. \**ad hominum*\): 103:1
 

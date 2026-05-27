@@ -12,7 +12,7 @@ inculcate \(into\).
 
 H.W. Fowler noted this aberration and called it "a curious mistake" \(*FMEU1* at 266\). No longer is it curious, but it is still a mistake. See object-shuffling. For more on *indoctrinate*, see **indoctrinate**.
 
-Language-Change Index
+## Language-Change Index
 
 *inculcate* misused for *indoctrinate*: Stage 3
 Current ratio in print \(*inculcated into him* vs. *\*inculcated him with*\): 3:1

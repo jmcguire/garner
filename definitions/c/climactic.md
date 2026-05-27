@@ -24,7 +24,7 @@ Occasionally, though, *climatic* becomes a malapropism for *climactic.* This err
 
 See **anticlimactic**.
 
-Language-Change Index
+## Language-Change Index
 
 1. *climactic* as an equivalent of *climacteric*: Stage 5
 

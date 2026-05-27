@@ -4,7 +4,7 @@ deduce.
 
 **A. And *deduct*.** The former means "to infer," the latter "to subtract." *Deduct* is sometimes misused for *deduce*—e.g.: "Ideal methods in thought and research, logically observed and *deducted* \[read *deduced*\] for possible changes in light of different circumstances were foreign to him." Letter of George E. Hayney, "What's Ahead for the U.S. Supreme Court?," *St. Petersburg Times* \(Fla.\), 14 July 1991, at D3. See **adduce** & **deducible**.
 
-Language-Change Index
+## Language-Change Index
 
 *deduct* misused for *deduce*: Stage 1
 

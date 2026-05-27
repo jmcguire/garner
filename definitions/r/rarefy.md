@@ -10,7 +10,7 @@ rarefy /**rair**-ә-fī/ = \(1\) to make or become less dense or solid; or \(2\)
 
 See -fy. See also spelling \(a\). Cf. **liquefy** & **stupefy**.
 
-Language-Change Index
+## Language-Change Index
 
 *rarefy* misspelled *\*rarify*: Stage 4
 Current ratio in print \(*rarefy* vs. \**rarify*\): 2.3:1

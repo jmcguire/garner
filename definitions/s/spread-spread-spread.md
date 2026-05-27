@@ -10,7 +10,7 @@ spread > spread > spread. So inflected. The weak form of the verb \(*\*spreaded*
 
 See irregular verbs.
 
-Language-Change Index
+## Language-Change Index
 
 *\*spreaded* for past-tense *spread*: Stage 1
 Current ratio in print \(*is spread* vs. *\*is spreaded*\): 2,209:1

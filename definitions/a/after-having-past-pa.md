@@ -8,7 +8,7 @@
 
  - "He held the title \[world champion\] from 1886 to 1894, *after having dominated* \[read *after dominating*\] the chess scene for decades before." Mato Jelic, "Chess," *Advertiser* \(Aus.\), 9 Oct. 2021, at 22.
 
-Language-Change Index
+## Language-Change Index
 
 *\*after having been* for *after being*: Stage 3 Current ratio in print \(*after being* vs. *\*after having been*\): 7:1
 

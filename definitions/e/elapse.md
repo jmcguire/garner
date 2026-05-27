@@ -8,7 +8,7 @@ elapse once had two uses, as a noun and as a verb. Today, however, the noun is a
 
  - "Many of the faces repeat with *an elapse* \[read *a lapse*\] of years, turning giggly, sparrowlike girls in middy blouses into graceful young women or pensive boys into jocular young adults." Carolyn Jack, "Prints from Glass Plates Depict Life of River Town," *Plain Dealer* \(Cleveland\), 29 Mar. 2002, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 *elapse* used for *lapse*: Stage 1
 

@@ -10,7 +10,7 @@
 
 See dialect.
 
-Language-Change Index
+## Language-Change Index
 
 *\*furtherest* for *furthest*: Stage 1
 

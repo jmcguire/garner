@@ -6,7 +6,7 @@ alter; **altar**. *Alter* \(= to change\) is a verb; *altar* \(= the table or st
 
  - "We are learning that privacy and truth have been sacrificed on the *alter* \[read *altar*\] of greed, power, safety and security." H. Roy Kaplan, "Striking a Balance of Freedom, Control," *Tampa Bay Times*, 4 July 2013, at A9.
 
-Language-Change Index
+## Language-Change Index
 
 *alter* misused for *altar*: Stage 1
 Current ratio in print \(*at the altar* vs. *\*at the alter*\): 82:1

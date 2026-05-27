@@ -12,7 +12,7 @@ The mistake occurs much more frequently in BrE than in AmE—e.g.:
 
  - "Psychological therapy is such a fundamentally difficult activity that all of us sometimes think that if only we had one more theory or technique up our sleeves we would finally have it all *sown* \[read *sewn*\] up." Frank Wills & Diana Sanders, *Cognitive Behaviour Therapy* vi \(3d ed. 2012\).
 
-Language-Change Index
+## Language-Change Index
 
 *sown* misused for *sewn*: Stage 1
 Current ratio in print \(*sewn up* vs. *\*sown up*\): 29:1

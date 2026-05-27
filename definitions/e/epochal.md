@@ -10,7 +10,7 @@ Current ratio in print \(*epic poem* vs. *\*epical poem*\): 913:1
 
 **B. And *epoch-making*.** The phrase *epoch-making*—a near-equivalent of *epochal*—is sometimes mistakenly written *\*epic-making*. E.g.: "We are at the end of only the second decade of the revolutions in microelectronics and telecommunications, and the lesson of other *epic-making* \[read *epoch-making*\] innovations, such as electricity, is that productivity gains . . . will likely continue." Peter Morici, "Export Our Way to Prosperity," *Foreign Policy*, 22 Dec. 1995, at 3.
 
-Language-Change Index
+## Language-Change Index
 
 *\*epic-making* for *epoch-making*: Stage 1
 Current ratio in print \(*epoch-making* vs. *\*epic-making*\): 239:1

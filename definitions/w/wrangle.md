@@ -10,7 +10,7 @@ wrangle; wangle. The two are occasionally confounded. *Wrangle* = to argue noisi
 
 This confusion was all but unknown before the mid-1950s, but it has become common since 2000.
 
-Language-Change Index
+## Language-Change Index
 
 *wrangle* misused for *wangle*: Stage 4
 Current ratio in print \(*wangle an invitation* vs. *\*wrangle an invitation*\): 1:1.02

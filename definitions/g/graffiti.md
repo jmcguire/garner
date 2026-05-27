@@ -12,7 +12,7 @@ Sometimes one sees *graffito* when the sense is undeniably singular and the mass
 
 See count nouns and mass nouns.
 
-Language-Change Index
+## Language-Change Index
 
 *graffiti* as a singular mass noun: Stage 5
 Current ratio in print \(*the graffiti was* vs. *the graffiti were*\): 3:1

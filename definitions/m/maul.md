@@ -4,7 +4,7 @@ maul, n. & vb.; **mall**, n. *Maul* = \(n.\) a heavy mallet or hammer <they nail
 
 Although the first meanings listed for each term are related to each other, the two words have grown in radically different directions. Today the primary confusion—an outright mistake—is to use *mall* where the verb *maul* is intended. The error occurs especially in figurative uses—e.g.: "In girls Division 4, Ashley Harrison, Nichelle McRorie and Lacey Erickson scored as the Stingers *malled* \[read *mauled*\] the Tustin Cheetahs, 3–1." Jason Thornbury, "Hat Trick Not Enough for United Sweetness," *Orange County Register*, 19 Sept. 1996, Community §, at 14.
 
-Language-Change Index
+## Language-Change Index
 
 *mall* misused for *maul*: Stage 1
 

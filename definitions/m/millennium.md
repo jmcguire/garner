@@ -14,7 +14,7 @@ The spelling of the word shouldn't be any mystery: "*Millennium* has been spelle
 
 The word is especially often deprived of one *n* and misspelled *\*millenium*—e.g.: "Does anybody really think a new TSU athletic director will be selected and in place before the next *millenium* \[read *millennium*\]?" David Climer, "Molasses Moves Faster than TSU," *Tennessean*, 3 Sept. 1997, at C1. In fact, this misspelling has even found its way into proper names, such as the hotel that \(until 11 Sept. 2001\) was across the street from the World Trade Center in New York City, and also the car manufactured by Mazda \(both spelled "Millenium"\). Perhaps that should be called not a proper name but an improper name. See spelling \(a\).
 
-Language-Change Index
+## Language-Change Index
 
 *millennium* misspelled *\*millenium*: Stage 1
 Current ratio in print \(*millennium* vs. \**millenium*\): 69:1

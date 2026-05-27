@@ -8,7 +8,7 @@ fall through the cracks. The *cracks* in this idiom are the openings between sla
 
  - "You look at this picture and wonder. How could someone so squared away *fall between* \[read *through*\] *the cracks*?" Peter Rowe, "Police, Family Search for Answer as Man Vanishes During Routine Walk," *San Diego Union-Trib.*, 14 July 2002, at E1.
 
-Language-Change Index
+## Language-Change Index
 
 *\*fall between the cracks* for *fall through the cracks*: Stage 3
 Current ratio in print \(*fall through the cracks* vs. *\*fall between the cracks*\): 4:1

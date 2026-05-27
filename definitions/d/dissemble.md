@@ -20,7 +20,7 @@ Unfortunately, some writers use *dissemble* when they mean *disassemble*—e.g.:
 
  - "In the Sikorsky case, the 148-Mbyte assembly was *dissembled* \[read *disassembled*\] into its 250 component files, which were translated independently and then reassembled." "Comanche Helicopter Blends CAD Models from 14 Suppliers," *Design News*, 3 Sept. 2001, at 31.
 
-Language-Change Index
+## Language-Change Index
 
 *dissemble* misused for *disassemble*: Stage 2
 

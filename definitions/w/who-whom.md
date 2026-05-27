@@ -36,7 +36,7 @@ In the examples just listed, *who* is defensible as a casualism. But the objecti
 
  - "Parents proudly whooped it up for the players, not *one of who* \[read *one of whom*\] wore shoulder pads." Skip Wood, "San Diego Is Lukewarm to Hype of NFL Title Game," *USA Today*, 27 Jan. 2003, at C7.
 
-Language-Change Index
+## Language-Change Index
 
 1. *who* as an object not following a preposition: Stage 4
 Current ratio in print \(*whom he had known* vs. *\*who he had known*\): 27:1
@@ -76,7 +76,7 @@ But one commentator, Steven Pinker, calls Safire's suggestion an "unacceptable p
 
 Perhaps the most sensible approach was the one taken by Robert C. Pooley in 1974: "Considering the importance some people place on mastery of \[the textbook rules for *whom*\], the schoolbooks may be justified in distinguishing the case forms for the relative pronouns for literary usage. But to insist that these literary and formal distinctions be made in informal writing and speech as necessary to achieve ‘correctness' is to do violence to the readily observed facts of current usage." *The Teaching of English Usage* 72 \(2d ed. 1974\).
 
-Language-Change Index
+## Language-Change Index
 
 *whom* misused as a subject: Stage 1
 
@@ -92,7 +92,7 @@ Language-Change Index
 
 But animals with names most naturally take *who* <Lassie, who starred in a TV series> <Snoopy, who has a rich inner life>.
 
-Language-Change Index
+## Language-Change Index
 
 *who* in reference to nonhumans: Stage 2
 Current ratio in print \(*companies that* vs. *\*companies who*\): 8:1

@@ -4,7 +4,7 @@ imprimatur; **\*imprimatura**; **\*imprimature**. The normal form for ordinary p
 
 *\*Imprimature* \(= a print, impression\) is an obsolete term sometimes wrongly used for *imprimatur*—e.g.: "He produced the special under the *imprimature* \[read *imprimatur*\] of his Daddy's Krazee production company." Allan Johnson, "Standup Guy," *Chicago Trib.*, 26 Dec. 1991, at C15.
 
-Language-Change Index
+## Language-Change Index
 
 *\*imprimature* for *imprimatur*: Stage 1
 Current ratio in print \(*imprimatur* vs. \**imprimatura* vs. \**imprimature*\): 597:9:1

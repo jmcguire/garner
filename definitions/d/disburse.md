@@ -24,7 +24,7 @@ Nor, finally, is it right to use that same nonword when *disbursement* is the in
 
  - "\[Jay\] Goldstone pointed out that the impact on the city's general fund was negligible, because the single *dispersement* \[read *disbursement*\]—$914,000 in police and firefighter overtime—was largely reimbursed." Eleanor Yang Su & Brent Schrotenboer, "Counting the Cost of Staging U.S. Open," *San Diego Union-Trib.*, 24 Nov. 2008, at A1.
 
-Language-Change Index
+## Language-Change Index
 
 1. *disburse* misused for *disperse*: Stage 1
 Current ratio in print \(*disperse the crowd* vs. *\*disburse the crowd*\): 68:1
