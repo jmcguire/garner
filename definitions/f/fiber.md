@@ -1,4 +1,4 @@
 # fiber
 
-fiber is the AmE spelling; *fibre* is BrE. See -er \(b\).
+fiber is the AmE spelling; *fibre* is BrE. See -er (b).
 

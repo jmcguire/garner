@@ -1,4 +1,4 @@
 # Sr
 
-Sr. See names \(b\).
+Sr. See names (b).
 

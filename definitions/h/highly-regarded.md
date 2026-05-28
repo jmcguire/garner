@@ -1,4 +1,4 @@
 # highly regarded
 
-highly regarded. See **regard \(b\)**.
+highly regarded. See **regard (b)**.
 

@@ -11,5 +11,5 @@ See -ic/-ical.
 ## Language-Change Index
 
  - *publicly* misspelled *\*publically*: Stage 1
- - Current ratio in print \(*publicly* vs. \**publically*\): 25:1
+ - Current ratio in print (*publicly* vs. \**publically*): 25:1
 

@@ -1,4 +1,4 @@
 # \*without impunity
 
-\*without impunity. See **impunity \(a\)**.
+\*without impunity. See **impunity (a)**.
 

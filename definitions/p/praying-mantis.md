@@ -5,5 +5,5 @@ praying mantis is the correct spelling, not *\*preying mantis*. Even though this
 ## Language-Change Index
 
  - *praying mantis* misspelled *\*preying mantis*: Stage 1
- - Current ratio in print \(*praying mantis* vs. \**preying mantis*\): 43:1
+ - Current ratio in print (*praying mantis* vs. \**preying mantis*): 43:1
 

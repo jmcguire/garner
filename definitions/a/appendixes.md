@@ -6,5 +6,5 @@ appendixes; **appendices**. Both are correct plural forms for *appendix*, but *a
 
  - "The book's three *appendixes* . . . will be helpful to newcomers to church traditions." "Beyond Smells and Bells: The Wonder and Power of Christian Liturgy," *Publishers Weekly Reviews*, 11 Feb. 2008, at 66.
 
-Nevertheless, the nonnative plural is more frequent by a 5-to-1 margin. See plurals \(b\). Cf. **index \(a\)**.
+Nevertheless, the nonnative plural is more frequent by a 5-to-1 margin. See plurals (b). Cf. **index (a)**.
 

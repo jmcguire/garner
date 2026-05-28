@@ -11,5 +11,5 @@ retch, v.i. This verb, meaning "to vomit or try to vomit," is amazingly often mi
 ## Language-Change Index
 
  - *wretch* misused for the verb *retch*: Stage 1
- - Current ratio in print \(*retching* vs. *\*wretching*\): 175:1
+ - Current ratio in print (*retching* vs. *\*wretching*): 175:1
 

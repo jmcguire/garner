@@ -6,10 +6,10 @@ womankind; \***womenkind**. The latter is erroneous, since *-kind* includes all 
 
  - "In the Neil Labute film, . . . two angry white men decide to avenge every wrong they think *womenkind* \[read *womankind*\] has inflicted on them by dating the same woman with the intent of emotionally traumatizing her." Duane Dudek, "Movie Stars Also Fight for Equality," *Milwaukee J. Sentinel*, 14 May 1997, at 8.
 
-The analogous error would be *\*menkind* for *mankind*. See **humankind** & sexism \(c\).
+The analogous error would be *\*menkind* for *mankind*. See **humankind** & sexism (c).
 
 ## Language-Change Index
 
  - *\*womenkind* for *womankind*: Stage 1
- - Current ratio in print \(*womankind* vs. *\*womenkind*\): 8:1
+ - Current ratio in print (*womankind* vs. *\*womenkind*): 8:1
 

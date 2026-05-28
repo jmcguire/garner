@@ -1,4 +1,4 @@
 # commiserate
 
-commiserate. See **commensurate \(b\)**.
+commiserate. See **commensurate (b)**.
 

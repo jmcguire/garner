@@ -12,5 +12,5 @@ Second, it sometimes refers to a company, firm, or business <going concern>. In 
 
  - "Two years after Franco suffered a stroke, Markin sold the *concern* \[read *business*\] to multi-restaurateur Umberto Menghi." Malcolm Parry, "Cavernous New Space Suits Equinox," *Vancouver Sun*, 2 Feb. 2012, at D2.
 
-The word is more defensible when it refers to more than just businesses, as in this example where the *concerns* might also include interests such as land or mineral rights that are leased to the businesses: "Of West Virginia's 34 senators, . . . \[4\] have interests in oil, gas and timber *concerns*." Scott Finn, "Legislators' Conflicts Can Cut Both Ways," *Sunday Gaz. Mail* \(Charleston, W. Va.\), 28 May 2000, at A1.
+The word is more defensible when it refers to more than just businesses, as in this example where the *concerns* might also include interests such as land or mineral rights that are leased to the businesses: "Of West Virginia's 34 senators, . . . \[4\] have interests in oil, gas and timber *concerns*." Scott Finn, "Legislators' Conflicts Can Cut Both Ways," *Sunday Gaz. Mail* (Charleston, W. Va.), 28 May 2000, at A1.
 

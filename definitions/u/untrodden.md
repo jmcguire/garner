@@ -1,4 +1,4 @@
-# untrod\(den\)
+# untrod(den)
 
-untrod\(den\). See **tread**.
+untrod(den). See **tread**.
 

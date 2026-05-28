@@ -1,4 +1,4 @@
 # Lambdacism
 
-Lambdacism. See pronunciation \(e\).
+Lambdacism. See pronunciation (e).
 

@@ -1,4 +1,4 @@
 # continuity
 
-continuity. See **continuance \(b\)**.
+continuity. See **continuance (b)**.
 

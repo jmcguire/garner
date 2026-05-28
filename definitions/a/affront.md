@@ -1,4 +1,4 @@
 # affront
 
-affront. See **effrontery \(a\)**.
+affront. See **effrontery (a)**.
 

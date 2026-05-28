@@ -1,4 +1,4 @@
 # at about
 
-at about. See **about \(d\)**.
+at about. See **about (d)**.
 

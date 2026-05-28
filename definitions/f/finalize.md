@@ -1,6 +1,6 @@
 # finalize
 
-finalize = \(1\) v.t., to complete; bring to an end; put in final form; or \(2\) v.i., to conclude. Coined in the mid-1800s, *finalize* flourished as a vogue term in the late 1900s, a favorite of jargonmongers. For that reason alone, many writers avoided it. But the word's advantage is that it has the compactness of a single word, as opposed to most of its equivalents: *make final*, *put into final form*, and *bring to an end*. Today few people object to it, and it is all but ubiquitous—e.g.:
+finalize = (1) v.t., to complete; bring to an end; put in final form; or (2) v.i., to conclude. Coined in the mid-1800s, *finalize* flourished as a vogue term in the late 1900s, a favorite of jargonmongers. For that reason alone, many writers avoided it. But the word's advantage is that it has the compactness of a single word, as opposed to most of its equivalents: *make final*, *put into final form*, and *bring to an end*. Today few people object to it, and it is all but ubiquitous—e.g.:
 
  - "The show was taped for future broadcast, but theater officials have yet to *finalize* an air date and network contract." Victoria Dawson, "First Lady of Ford's," *Wash. Post*, 22 June 1987, at B1.
 

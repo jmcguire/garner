@@ -1,8 +1,8 @@
 # heiress
 
-heiress is pronounced /**er**-iss/ in AmE and BrE and sometimes /er-**ess**/ in BrE. Despite the feminine ending \(see sexism \(d\)), this word shows no signs of obsolescence in denoting a woman who has inherited wealth—e.g.:
+heiress is pronounced /**er**-iss/ in AmE and BrE and sometimes /er-**ess**/ in BrE. Despite the feminine ending (see sexism (d)), this word shows no signs of obsolescence in denoting a woman who has inherited wealth—e.g.:
 
- - "So far five young women have claimed to be the missing *heiress*." Mary Evertz, "Romance Writer Takes a Turn at Mystery and Intrigue," *St. Petersburg Times* \(Fla.\), 23 July 1995, at D7.
+ - "So far five young women have claimed to be the missing *heiress*." Mary Evertz, "Romance Writer Takes a Turn at Mystery and Intrigue," *St. Petersburg Times* (Fla.), 23 July 1995, at D7.
 
  - "Like so many of the repressed characters in the novels of Henry James, Isabel Archer, a young American *heiress* who has the notion that she will find happiness abroad, is a psychosexual tuning fork." Tom Gliatto et al., "Screen," *People*, 27 Jan. 1997, at 21.
 

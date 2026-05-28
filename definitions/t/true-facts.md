@@ -1,4 +1,4 @@
 # \*true facts
 
-\*true facts. See **fact**, n. **\(e\)**.
+\*true facts. See **fact**, n. **(e)**.
 

@@ -1,4 +1,4 @@
 # strangely
 
-strangely. See adverbs \(f\).
+strangely. See adverbs (f).
 

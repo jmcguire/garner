@@ -1,4 +1,4 @@
 # in arrears
 
-in arrears. See **arrear\(s\)**.
+in arrears. See **arrear(s)**.
 

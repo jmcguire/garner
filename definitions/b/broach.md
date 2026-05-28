@@ -1,4 +1,4 @@
 # broach
 
-broach. See **breach \(a\)** & **brooch**.
+broach. See **breach (a)** & **brooch**.
 

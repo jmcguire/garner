@@ -1,4 +1,4 @@
 # period-dots
 
-period-dots. See punctuation \(f\).
+period-dots. See punctuation (f).
 

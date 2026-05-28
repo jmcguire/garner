@@ -1,4 +1,4 @@
 # proponent
 
-proponent. See **protagonist \(b\)**.
+proponent. See **protagonist (b)**.
 

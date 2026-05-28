@@ -4,7 +4,7 @@ auto-da-fé /aw-toh-dә-**fay**/, a Portuguese loanword dating in English from t
 
 Sometimes the Spanish spelling appears in English: *auto-de-fé*. But the Portuguese *da* is standard. Either way, the acute accent is normally retained over the final *e*.
 
- - Current ratio in print \(*auto-da-fé* vs. *auto-de-fé*\): 17:1
+ - Current ratio in print (*auto-da-fé* vs. *auto-de-fé*): 17:1
 
- - Current ratio in print \(*autos-da-fé* vs. *auto-da-fés*\): 5:1
+ - Current ratio in print (*autos-da-fé* vs. *auto-da-fés*): 5:1
 

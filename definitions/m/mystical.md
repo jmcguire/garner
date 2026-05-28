@@ -1,6 +1,6 @@
 # mystical
 
-mystical; **mystic**, adj. These words, about equally common, have long been regarded as more or less interchangeable. Margaret Nicholson suggested that "*mystical*, not *mystic*, is now used in reference to theological mysticism" \(*DAEU* at 356\). But that doesn't appear to be true: in 1992, for example, David S. Ariel published a book entitled *The Mystic Quest: An Introduction to Jewish Mysticism*. Further, *mystical* appears predominantly in nontheological contexts.
+mystical; **mystic**, adj. These words, about equally common, have long been regarded as more or less interchangeable. Margaret Nicholson suggested that "*mystical*, not *mystic*, is now used in reference to theological mysticism" (*DAEU* at 356). But that doesn't appear to be true: in 1992, for example, David S. Ariel published a book entitled *The Mystic Quest: An Introduction to Jewish Mysticism*. Further, *mystical* appears predominantly in nontheological contexts.
 
 Perhaps the best thing that might be said is that euphony should govern the choice of term—e.g.:
 
@@ -12,7 +12,7 @@ Perhaps the best thing that might be said is that euphony should govern the choi
 
  - "Her recent poetry is more political, but also more *mystical*, and less interested in women's issues." Sarah Berry, "Medbh McGuckian's Ex-Centric Obscurity," *Irish Literary Supp.*, Fall 2015, at 19.
 
-Since 1600 or so, *mystical* has prevailed over *mystic* in frequency of use in English-language print sources— with the exception of the period from 1870 to 1930 \(a mystic period\).
+Since 1600 or so, *mystical* has prevailed over *mystic* in frequency of use in English-language print sources— with the exception of the period from 1870 to 1930 (a mystic period).
 
- - Current ratio in print \(*mystical* vs. *mystic*\): 2:1
+ - Current ratio in print (*mystical* vs. *mystic*): 2:1
 

@@ -8,5 +8,5 @@ Most of us, when speaking naturally, get THUH distinction between THEE and THUH 
 
 Charles Harrington Elster, *BBBM* at 465.
 
-**B. Capitalization in Names.** On the question whether to capitalize the definite article when it begins a name, see capitalization \(c\).
+**B. Capitalization in Names.** On the question whether to capitalize the definite article when it begins a name, see capitalization (c).
 

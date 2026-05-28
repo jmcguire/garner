@@ -8,5 +8,5 @@ perchance, now an archaism for *perhaps*, enjoyed its heyday in the 1600s. Today
 
  - "People didn't know those shops were there but peeked in the window and wandered in, *perchance* to buy." Charles Andrew, "Closure Doesn't Solve Problems," *Santa Monica Daily Press*, 11 Aug. 2021, at 6.
 
-See archaisms; **maybe \(b\)**.
+See archaisms; **maybe (b)**.
 

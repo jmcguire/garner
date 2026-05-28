@@ -1,4 +1,4 @@
 # typo
 
-typo \(= a typographical error\) forms the plural *typos*.
+typo (= a typographical error) forms the plural *typos*.
 

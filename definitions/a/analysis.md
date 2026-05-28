@@ -13,5 +13,5 @@ For the similar nonword *\*paralyzation*, see **paralysis**.
 ## Language-Change Index
 
  - *\*analyzation* for *analysis*: Stage 1
- - Current ratio in print \(*analysis* vs. \**analyzation*\): 16,572:1
+ - Current ratio in print (*analysis* vs. \**analyzation*): 16,572:1
 

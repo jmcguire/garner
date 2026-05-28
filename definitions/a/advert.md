@@ -2,9 +2,9 @@
 
 advert; **avert**. To *advert* to something is to refer to it, to bring it up in speech or writing, or to turn attention to it. In AmE the word is best reserved for formal contexts, especially legal writing—e.g.:
 
- - "Brandeis frequently *adverted* to ‘manhood' and ‘manliness' in rallying his supporters in reform ventures." Clyde Spillenger, "Elusive Advocate," 105 *Yale L.J.* 1445, 1453 n.23 \(1996\). See **allude \(a\)**.
+ - "Brandeis frequently *adverted* to ‘manhood' and ‘manliness' in rallying his supporters in reform ventures." Clyde Spillenger, "Elusive Advocate," 105 *Yale L.J.* 1445, 1453 n.23 (1996). See **allude (a)**.
 
- - "He sometimes *adverted* to that distinction and thought that it was an obstacle to his being appreciated by English readers such as Ruskin." Denis Donoghue, "Of ‘Song of Myself,'" *Hudson Rev.*, 1 July 2012, at 247 \(referring to Walt Whitman\).
+ - "He sometimes *adverted* to that distinction and thought that it was an obstacle to his being appreciated by English readers such as Ruskin." Denis Donoghue, "Of ‘Song of Myself,'" *Hudson Rev.*, 1 July 2012, at 247 (referring to Walt Whitman).
 
 To *avert* is to turn away or avoid, or to ward off—e.g.:
 

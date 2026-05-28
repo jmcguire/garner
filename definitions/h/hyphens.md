@@ -1,4 +1,4 @@
 # Hyphens
 
-Hyphens. See punctuation \(j\) & phrasal adjectives.
+Hyphens. See punctuation (j) & phrasal adjectives.
 

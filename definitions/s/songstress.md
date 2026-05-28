@@ -1,4 +1,4 @@
 # songstress
 
-songstress. See sexism \(d\).
+songstress. See sexism (d).
 

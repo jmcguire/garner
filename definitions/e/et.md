@@ -1,4 +1,4 @@
 # -et
 
--et. See diminutives \(f\).
+-et. See diminutives (f).
 

@@ -1,4 +1,4 @@
 # first name
 
-first name. See names \(d\).
+first name. See names (d).
 

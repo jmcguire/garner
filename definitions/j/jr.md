@@ -1,4 +1,4 @@
 # Jr
 
-Jr.; **Sr**. See names \(b\).
+Jr.; **Sr**. See names (b).
 

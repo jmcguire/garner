@@ -1,4 +1,4 @@
 # folio
 
-folio. Pl. *folios*. See plurals \(d\).
+folio. Pl. *folios*. See plurals (d).
 

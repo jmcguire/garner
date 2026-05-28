@@ -6,13 +6,13 @@ role; **roll**. Like many other homophones, these are subject to word-swapping. 
 
  - " ‘What *roll* \[read *role*\] will the faculty have in deciding on the curriculum?' Durbin asked." "New Division," *Daily Texan*, 7 Oct. 1992, at 8, 9.
 
- - " ‘Everyone played their *roll* \[read *role*\].' " Mark Rosner, "UConn Nails Horns 96–86," *Austin Am.-Statesman*, 16 Dec. 1993, at E1, E5 \(quoting B.J. Tyler, a college basketball player, who should not be charged with this error\).
+ - " ‘Everyone played their *roll* \[read *role*\].' " Mark Rosner, "UConn Nails Horns 96–86," *Austin Am.-Statesman*, 16 Dec. 1993, at E1, E5 (quoting B.J. Tyler, a college basketball player, who should not be charged with this error).
 
 ## Language-Change Index
 
-1. *role* misused for *roll* \(= list\): Stage 1
- - Current ratio in print \(*roll call* vs. \**role call*\): 113:1
+1. *role* misused for *roll* (= list): Stage 1
+ - Current ratio in print (*roll call* vs. \**role call*): 113:1
 
 2. *roll* misused for *role*: Stage 1
- - Current ratio in print \(*fill the role of* vs. \**fill the roll of *\): 234:1
+ - Current ratio in print (*fill the role of* vs. \**fill the roll of *): 234:1
 

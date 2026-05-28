@@ -1,4 +1,4 @@
 # causative
 
-causative. See **causal \(a\)**.
+causative. See **causal (a)**.
 

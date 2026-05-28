@@ -1,4 +1,4 @@
 # Endnotes
 
-Endnotes. See footnotes \(b\).
+Endnotes. See footnotes (b).
 

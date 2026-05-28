@@ -2,7 +2,7 @@
 
 meaningful has followed the way of its semantic cousin, *significant*, and become a vogue term bearing the sense "serious, important, or useful"—e.g.:
 
- - "To a significant extent, a *meaningful* childhood requires *meaningful* time with parents and other caring adults." "Childhood Cherished," *Christian Science Monitor*, 21 Dec. 2000, at 10. \(Notice the *significant* that opens this sentence.\)
+ - "To a significant extent, a *meaningful* childhood requires *meaningful* time with parents and other caring adults." "Childhood Cherished," *Christian Science Monitor*, 21 Dec. 2000, at 10. (Notice the *significant* that opens this sentence.)
 
  - "We make little effort to conserve or save energy, and we still fail to produce *meaningful* amounts of solar, wind and geothermal energy." Jonathan Marshall, "Sun Power," *Ariz. Republic*, 30 Mar. 2001, at 2.
 

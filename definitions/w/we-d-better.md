@@ -1,4 +1,4 @@
 # we'd better
 
-we'd better; \*we better. See **better \(a\)**.
+we'd better; \*we better. See **better (a)**.
 

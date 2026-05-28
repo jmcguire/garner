@@ -1,6 +1,6 @@
 # recompense
 
-recompense —both a noun \("payment in return for something"\) and a transitive verb \("to repay, compensate"\)—is a formal word equivalent to but more learned than *compensation* or *compensate*. In BrE, the noun was formerly sometimes spelled *recompence*. *Recompense* is more frequently a noun than a verb—e.g.:
+recompense —both a noun ("payment in return for something") and a transitive verb ("to repay, compensate")—is a formal word equivalent to but more learned than *compensation* or *compensate*. In BrE, the noun was formerly sometimes spelled *recompence*. *Recompense* is more frequently a noun than a verb—e.g.:
 
  - "Serving both interests would be fitting *recompense* for the government's role in grossly polluting Chattanooga Creek." Letter of Harry Austin, "The Right Cleanup Decision," *Chattanooga Times*, 26 June 1995, at A6.
 
@@ -8,5 +8,5 @@ recompense —both a noun \("payment in return for something"\) and a transitive
 
  - "The blogger then published her own version of events, saying she deserved suitable *recompense* for writing a post she claimed would take eight hours." Emma Lunn, "When Bloggers Are Expecting a Meal Ticket, Why Should We Trust Their Reviews?," *Independent*, 22 Aug. 2015, at 52.
 
-See **compensate \(b\)**.
+See **compensate (b)**.
 

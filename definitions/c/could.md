@@ -1,4 +1,4 @@
 # could
 
-could. See **can \(b\)**.
+could. See **can (b)**.
 

@@ -1,8 +1,8 @@
 # ascribe
 
-ascribe \(= to attribute to a specified cause\) is sometimes misused for *subscribe* in the sense "to think of favorably." Although the mistake was once thought to be found only among the semiliterate, today it appears in print with some frequency. Perhaps there is some influence from *aspire*, as the first and second examples suggest—e.g.:
+ascribe (= to attribute to a specified cause) is sometimes misused for *subscribe* in the sense "to think of favorably." Although the mistake was once thought to be found only among the semiliterate, today it appears in print with some frequency. Perhaps there is some influence from *aspire*, as the first and second examples suggest—e.g.:
 
- - "Within the field of family and couple counseling, models are not generally *ascribing* \[read *subscribing*\] to the view of normality as process." Ray Woolfe & Windy Dryden, *Handbook of Counseling Psychology* 424 \(1996\).
+ - "Within the field of family and couple counseling, models are not generally *ascribing* \[read *subscribing*\] to the view of normality as process." Ray Woolfe & Windy Dryden, *Handbook of Counseling Psychology* 424 (1996).
 
  - "Maybe there are enough readers in the publishing industry who *ascribe* \[read *subscribe*\] to Oscar Wilde's aphorism—‘There is only one thing in the world worse than being talked about, and that is not being talked about.' " Janice D'Arcy, " ‘Happiness' Sadly Weak as Satire," *Hartford Courant*, 23 June 2002, at G3.
 
@@ -13,5 +13,5 @@ Still, *ascribe* is far more commonly used correctly—e.g.: "Van Gogh's acceler
 ## Language-Change Index
 
  - *ascribe* misused for *subscribe*: Stage 2
- - Current ratio in print \(*don't subscribe to that* vs. *\*don't ascribe to that*\): 17:1
+ - Current ratio in print (*don't subscribe to that* vs. *\*don't ascribe to that*): 17:1
 

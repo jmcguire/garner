@@ -1,4 +1,4 @@
 # lesbian
 
-lesbian. See **gay \(b\)**.
+lesbian. See **gay (b)**.
 

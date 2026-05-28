@@ -1,4 +1,4 @@
 # subject
 
-subject, n. See **citizen \(b\)**.
+subject, n. See **citizen (b)**.
 

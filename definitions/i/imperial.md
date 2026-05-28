@@ -1,4 +1,4 @@
 # imperial
 
-imperial. See **imperious \(a\)**.
+imperial. See **imperious (a)**.
 

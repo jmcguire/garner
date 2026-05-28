@@ -1,4 +1,4 @@
 # wrung
 
-wrung. See **wring \(a\)**.
+wrung. See **wring (a)**.
 

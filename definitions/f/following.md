@@ -1,6 +1,6 @@
 # following
 
-following \(= after\), when used to begin a sentence or clause, often results in a misplaced modifier and a miscue—e.g.: "*Following* \[read *After*\] lunch, the students came back to the high school and the art students took over." Sharon Henson Pope, "Teachers Urge Students to Try Art, Creativity," *St. Louis Post-Dispatch*, 12 Dec. 1994, at 1. The problem, of course, is that some readers might envision a line of hungry students trailing a caterer's truck.
+following (= after), when used to begin a sentence or clause, often results in a misplaced modifier and a miscue—e.g.: "*Following* \[read *After*\] lunch, the students came back to the high school and the art students took over." Sharon Henson Pope, "Teachers Urge Students to Try Art, Creativity," *St. Louis Post-Dispatch*, 12 Dec. 1994, at 1. The problem, of course, is that some readers might envision a line of hungry students trailing a caterer's truck.
 
 But even when *following* doesn't begin the sentence, if it means "after" it can almost always be simplified—e.g.:
 

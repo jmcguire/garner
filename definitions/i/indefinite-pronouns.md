@@ -1,4 +1,4 @@
 # Indefinite Pronouns
 
-Indefinite Pronouns. See pronouns \(d\).
+Indefinite Pronouns. See pronouns (d).
 

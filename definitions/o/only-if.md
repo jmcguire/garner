@@ -1,4 +1,4 @@
 # only if
 
-only if. See **if \(b\)**.
+only if. See **if (b)**.
 

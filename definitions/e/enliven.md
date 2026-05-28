@@ -6,7 +6,7 @@ enliven; **liven**; **liven up**. *Enliven* has long been considered preferable 
 
  - "Voight *livens up* the proceedings with a performance that out-hams even the porcine star of ‘Babe.' " Russell Evansen, "Voight Puts Slithery ‘Anaconda' over the Top," *Wis. State J.*, 16 Apr. 1997, at C3.
 
- - "Traci also thought a blueberry drizzle or sauce would have *livened up* the dish." Ed Balint, "Another Broken Egg Jazzes Up French Toast," *Independent* \(Massillon, Ohio\), 15 Sept. 2021, at A7.
+ - "Traci also thought a blueberry drizzle or sauce would have *livened up* the dish." Ed Balint, "Another Broken Egg Jazzes Up French Toast," *Independent* (Massillon, Ohio), 15 Sept. 2021, at A7.
 
 But except in that casualism, *liven* alone is really just a needless variant of *enliven*—e.g.: "The Rockets essentially gutted their team to bring in forward Charles Barkley, whose presence should *liven* \[read *enliven*\] and inspire the Rockets to make one more run at an NBA title." George Diaz, "Rockets Coming of Age," *Orlando Sentinel*, 1 Nov. 1996, at G21.
 

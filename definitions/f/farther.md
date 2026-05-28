@@ -12,13 +12,13 @@ farther; **further**. Both are comparative degrees of *far*. *Further* is much m
 
 In BrE, *further* is typically both physical and figurative, whereas *farther* is generally physical only. But some writers fail to observe the point—e.g.: "In a move which goes *farther* \[read *further*\] than anything the Conservatives have proposed, a Labour government will set up a new, independent watchdog, the General Teaching Council." Charles Reiss & Howard Smith, "Labour Will Sack the Bad Teachers Says Blair," *Evening Standard*, 26 July 1994, at 17.
 
-The superlatives—*farthest* and *furthest*—follow the same patterns. *Furthermost* is a fairly rare equivalent of *farthest* \(not *furthest*\)—e.g.: "The National Park Service administers the monument located about 65 miles northwest of Gillette, in Wyoming's *furthermost* \[better: *farthest*\] corner of Crook County." Christopher Smith, "Tribes Say Devils Tower Is No Name for a Pious Peak," *Salt Lake Trib.*, 4 Sept. 1996, at A1. Sometimes it is used where it shouldn't be—e.g.: "That was the *furthermost* \[read *furthest*\] thing from \[the company's\] mind." Eli Setencich, "Co-op Is Reaping Fruits of Generosity," *Fresno Bee*, 30 Sept. 1996, at B1.
+The superlatives—*farthest* and *furthest*—follow the same patterns. *Furthermost* is a fairly rare equivalent of *farthest* (not *furthest*)—e.g.: "The National Park Service administers the monument located about 65 miles northwest of Gillette, in Wyoming's *furthermost* \[better: *farthest*\] corner of Crook County." Christopher Smith, "Tribes Say Devils Tower Is No Name for a Pious Peak," *Salt Lake Trib.*, 4 Sept. 1996, at A1. Sometimes it is used where it shouldn't be—e.g.: "That was the *furthermost* \[read *furthest*\] thing from \[the company's\] mind." Eli Setencich, "Co-op Is Reaping Fruits of Generosity," *Fresno Bee*, 30 Sept. 1996, at B1.
 
 ## Language-Change Index
 
 1. *further* for physical distances: Stage 4
- - Current ratio in print \(*traveled farther* vs. *traveled further* in AmE\): 2.4:1
+ - Current ratio in print (*traveled farther* vs. *traveled further* in AmE): 2.4:1
 
 2. *farther* for figurative distances: Stage 2
- - Current ratio in print \(*read further* vs. *\*read farther*\): 27:1
+ - Current ratio in print (*read further* vs. *\*read farther*): 27:1
 

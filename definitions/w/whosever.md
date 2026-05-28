@@ -1,4 +1,4 @@
 # whosever
 
-whosever. See **whoever \(b\)**.
+whosever. See **whoever (b)**.
 

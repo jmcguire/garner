@@ -1,4 +1,4 @@
 # African American
 
-African American. See race-related terms \(b\).
+African American. See race-related terms (b).
 

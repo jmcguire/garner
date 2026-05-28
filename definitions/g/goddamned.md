@@ -12,5 +12,5 @@ goddamned; **goddamn**, adj.; **goddam**. Strictly speaking, the first form is t
 
 See **damn**.
 
- - Current ratio in print \(*goddamn thing* vs. *goddamned thing* vs. *goddam thing*\): 8:3:1
+ - Current ratio in print (*goddamn thing* vs. *goddamned thing* vs. *goddam thing*): 8:3:1
 

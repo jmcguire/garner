@@ -1,4 +1,4 @@
 # mercifully
 
-mercifully. See adverbs \(f\).
+mercifully. See adverbs (f).
 

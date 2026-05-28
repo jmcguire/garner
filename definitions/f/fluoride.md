@@ -1,6 +1,6 @@
 # fluoride
 
-fluoride; **fluoridation**; **fluorescent**. So spelled. Probably because of one pronunciation of the first syllable \(/flohr/\), these words are often misspelled with *-ou-* instead of *-uo-* in the first syllable—e.g.:
+fluoride; **fluoridation**; **fluorescent**. So spelled. Probably because of one pronunciation of the first syllable (/flohr/), these words are often misspelled with *-ou-* instead of *-uo-* in the first syllable—e.g.:
 
  - "*Flouride* \[read *Fluoride*\] has been added to the town's water for the last few years." Eun Lee Koh, "Manganese Levels Will Be Examined," *Boston Globe*, 18 Nov. 2001, Globe West §, at 1.
 

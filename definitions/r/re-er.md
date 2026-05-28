@@ -1,4 +1,4 @@
 # -re/-er
 
--re/-er. See -er \(b\).
+-re/-er. See -er (b).
 

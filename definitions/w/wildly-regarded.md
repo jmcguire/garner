@@ -1,4 +1,4 @@
 # \*wildly regarded
 
-\*wildly regarded. See **regard \(b\)**.
+\*wildly regarded. See **regard (b)**.
 

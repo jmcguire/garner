@@ -1,4 +1,4 @@
 # unintentional murder
 
-unintentional murder. See **murder \(b\)**.
+unintentional murder. See **murder (b)**.
 

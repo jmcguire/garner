@@ -1,6 +1,6 @@
 # feature
 
-feature. The classic book popularly known as "Strunk & White" cautioned against using this word, citing the following example: "A *feature* of the entertainment especially worthy of mention was the singing of Miss A." William Strunk Jr. & E.B. White, *The Elements of Style* 47 \(3d ed. 1979\). The authors advise: "Better use the same number of words to tell what Miss A. sang and how she sang it." This sound advice is disparaged in *MWDEU*, which states:
+feature. The classic book popularly known as "Strunk & White" cautioned against using this word, citing the following example: "A *feature* of the entertainment especially worthy of mention was the singing of Miss A." William Strunk Jr. & E.B. White, *The Elements of Style* 47 (3d ed. 1979). The authors advise: "Better use the same number of words to tell what Miss A. sang and how she sang it." This sound advice is disparaged in *MWDEU*, which states:
 
 This advice \[in Strunk & White\] seems a bit naive; it is distinctly possible that the example is a minor masterpiece of tact. If Miss A. happens to have more friends than talent, it may be better not to tell what she sang and how she sang it. We may have the same politic avoidance of judgment in this example:
 

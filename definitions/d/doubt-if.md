@@ -1,4 +1,4 @@
 # \*doubt if
 
-\*doubt if. See **doubt \(a\)**.
+\*doubt if. See **doubt (a)**.
 

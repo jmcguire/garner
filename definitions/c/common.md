@@ -1,4 +1,4 @@
 # common
 
-common. See **mutual \(a\).**
+common. See **mutual (a).**
 

@@ -1,6 +1,6 @@
 # credulity
 
-credulity \(= gullibility\) should not be confused with *credibility* \(= believability\). Although *credulity* originally meant "belief," that sense has long been obsolete.
+credulity (= gullibility) should not be confused with *credibility* (= believability). Although *credulity* originally meant "belief," that sense has long been obsolete.
 
 The phrase *to strain credulity* raises an interesting question: Is it a misuse? It has been more common than *to strain credibility* since the 1800s. *To strain credulity* may suggest that even the most gullible wouldn't believe whatever is under consideration. So if that's the idea—not mere believability—then *credulity* is your word. E.g.:
 

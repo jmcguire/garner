@@ -1,4 +1,4 @@
 # fresco
 
-fresco. Pl. *frescoes*. See plurals \(d\).
+fresco. Pl. *frescoes*. See plurals (d).
 

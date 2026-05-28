@@ -1,4 +1,4 @@
 # de Tocqueville
 
-de Tocqueville. See names \(d\).
+de Tocqueville. See names (d).
 

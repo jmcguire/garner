@@ -11,5 +11,5 @@ See for-.
 ## Language-Change Index
 
  - *foreseeable* misspelled *\*forseeable*: Stage 1
- - Current ratio in print \(*foreseeable* vs. \**forseeable*\): 159:1
+ - Current ratio in print (*foreseeable* vs. \**forseeable*): 159:1
 

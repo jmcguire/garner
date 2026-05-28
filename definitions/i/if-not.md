@@ -1,6 +1,6 @@
 # if not
 
-if not is often an ambiguous phrase to be avoided. It may mean either \(1\) "but not; though not"; or \(2\) "maybe even." Sense 2 is exemplified in the following sentences, but in each one it's possible to misread the phrase as bearing sense 1:
+if not is often an ambiguous phrase to be avoided. It may mean either (1) "but not; though not"; or (2) "maybe even." Sense 2 is exemplified in the following sentences, but in each one it's possible to misread the phrase as bearing sense 1:
 
  - "If all this is true, the President \[Reagan\] should go down in history as one of the greatest, *if not* the greatest." William L. Jones, "The President, Iran, and the Boland Amendment," *San Diego Union-Trib.*, 20 Dec. 1986, at B11.
 

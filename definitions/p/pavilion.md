@@ -1,4 +1,4 @@
 # pavilion
 
-pavilion. See spelling \(a\).
+pavilion. See spelling (a).
 

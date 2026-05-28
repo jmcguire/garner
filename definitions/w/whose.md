@@ -20,17 +20,17 @@ The other possessive for *which*—namely, *of which*—is typically cumbersome.
 
  - "Lee—*who's* \[read *whose*\] first hit recording was 1959's ‘Ain't It So'—was only 16 in 1956." Richard Jinman, "Rock and Roll Down Under Hits the Big 40," *Weekend Australian*, 20–21 Jan. 1996, at 1.
 
- - "Veteran comedian Richard Pryor was one of many *who's* \[read *whose*\] humor was considered rapid, rude, crude, and political." Charles Reeves, "The Changing Face of Comedy," *Phil. Trib.* \(Mag.\), 30 Apr. 1996, at 12.
+ - "Veteran comedian Richard Pryor was one of many *who's* \[read *whose*\] humor was considered rapid, rude, crude, and political." Charles Reeves, "The Changing Face of Comedy," *Phil. Trib.* (Mag.), 30 Apr. 1996, at 12.
 
  - "*Who's* \[read *Whose*\] fault is this? That depends on whom you ask." Ellen Neuborne, "RSI Workers in Pain," *USA Today*, 9 Jan. 1997, at B1.
 
  - "To learn nothing from the second half of the first Cleveland game—and that is certainly evident after being outscored, 55–13, in the past six quarters—points to a failure in preparation. Either that, or the players aren't very good, and *who's* \[read *whose*\] fault is that?" Gerry Dulac, "Report Card," *Pitt. Post-Gaz.*, 14 Oct. 2014, at E3.
 
-Even a writer as major as Edward Albee \(1928–2016\) was prone to this gaffe—in this sentence three times: "I wonder if I turn *who's* \[read *whose*\] eyes will meet *who's* \[read *whose*\] eyes, who will be looking through *who's* \[read *whose*\] eyes to whom." Edward Albee, "EEBLALBEE," in *Who's Writing This? Notations on the Authorial I with Self-Portraits* 11 \(Daniel Halpern ed., 1995\).
+Even a writer as major as Edward Albee (1928–2016) was prone to this gaffe—in this sentence three times: "I wonder if I turn *who's* \[read *whose*\] eyes will meet *who's* \[read *whose*\] eyes, who will be looking through *who's* \[read *whose*\] eyes to whom." Edward Albee, "EEBLALBEE," in *Who's Writing This? Notations on the Authorial I with Self-Portraits* 11 (Daniel Halpern ed., 1995).
 
 ## Language-Change Index
 
  - *who's* misused for *whose*: Stage 1
- - Current ratio in print \(*whose name* vs. \**who's name*\): 372:1
- - Current ratio in print \(*whose work* vs. \**who's work*\): 1,624:1
+ - Current ratio in print (*whose name* vs. \**who's name*): 372:1
+ - Current ratio in print (*whose work* vs. \**who's work*): 1,624:1
 

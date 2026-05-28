@@ -1,4 +1,4 @@
 # artisan
 
-artisan, n. See **artist \(b\).**
+artisan, n. See **artist (b).**
 

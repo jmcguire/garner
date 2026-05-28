@@ -2,9 +2,9 @@
 
 Second Person .
 
-**A. Generally.** See pronouns \(a\), tenses \(a\), **person** (p. 1230) & **you**.
+**A. Generally.** See pronouns (a), tenses (a), **person** (p. 1230) & **you**.
 
-**B. In Archaisms \(*thou goest*, etc.\).** See archaisms \(b\).
+**B. In Archaisms (*thou goest*, etc.).** See archaisms (b).
 
 **C. With *shall* and *will*.** See **shall**.
 

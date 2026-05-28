@@ -1,6 +1,6 @@
 # swoon
 
-swoon, vb., means either \(1\) "to faint" or \(2\) "to be overjoyed or enraptured"—e.g.:
+swoon, vb., means either (1) "to faint" or (2) "to be overjoyed or enraptured"—e.g.:
 
  - "Like a latter-day St. Theresa *swooning* in ecstasy, her visage is simultaneously lost in a spiritual trance and abandoned in carnal reverie." Christopher Knight, "Branching Out: Victor Estrada's Work at Santa Monica Museum Is Both Inventive, Grim," *L.A. Times*, 28 Oct. 1995, at F1.
 

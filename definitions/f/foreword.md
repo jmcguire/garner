@@ -1,6 +1,6 @@
 # foreword
 
-foreword \(= a book's introduction, esp. one written by someone other than the author\) is often misspelled like its homophone, *forward*—e.g.:
+foreword (= a book's introduction, esp. one written by someone other than the author) is often misspelled like its homophone, *forward*—e.g.:
 
  - "In his *forward* \[read *foreword*\] to Delgado's book, Andrew Hacker defends the storytelling movement." Jeffrey Rosen, "The Bloods and the Crits," *New Republic*, 9 Dec. 1996, at 27.
 
@@ -13,5 +13,5 @@ Still another misspelling is the nonword \**foreward*. See for-. Cf. **preface**
 ## Language-Change Index
 
  - *forward* misused for *foreword*: Stage 2
- - Current ratio in print \(*foreword to the book* vs. \**forward to the book* vs. \**foreward to the book*\): 298:58:1
+ - Current ratio in print (*foreword to the book* vs. \**forward to the book* vs. \**foreward to the book*): 298:58:1
 

@@ -8,12 +8,12 @@ engrave > engraved > engraved. So inflected. The past-participial form *\*engrav
 
  - "My own role was to accompany him now and then to the village cenotaph, no doubt to see if the names *engraven* \[read *engraved*\] thereon had changed." Paul West, "My Father Weightless: Reflections on the Gravity of War," *Harper's Bazaar*, Dec. 2002, at 67.
 
-See irregular verbs \(b\).
+See irregular verbs (b).
 
 The adjectival use of *engraved* predominates—e.g.: "An *engraved* silver urn, one of his old prizes, held a dozen felt-tipped pens, one of which he now took in hand." Arthur Miller, "The Bare Manuscript," *New Yorker*, 16 Dec. 2002, at 82, 91.
 
 ## Language-Change Index
 
  - *engraven* for the past-participial *engraved*: Stage 1
- - Current ratio in print \(*had engraved* vs. *\*had engraven*\): 27:1
+ - Current ratio in print (*had engraved* vs. *\*had engraven*): 27:1
 

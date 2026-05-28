@@ -1,4 +1,4 @@
 # contentious
 
-contentious. See **tendentious \(c\)**.
+contentious. See **tendentious (c)**.
 

@@ -4,5 +4,5 @@ otolaryngology; **otorhinolaryngology**. These are essentially synonymous words 
 
 The words are pronounced as follows: *otolaryngology* /**oh**-toh-ler-in-**gol**-ә-jee/; *otorhinolaryngology* /**oh**-toh-**rī**-noh-ler-in-**gol**-ә-jee/.
 
- - Current ratio in print \(*otolaryngology* vs. *otorhinolaryngology*\): 5:1
+ - Current ratio in print (*otolaryngology* vs. *otorhinolaryngology*): 5:1
 

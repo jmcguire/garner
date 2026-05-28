@@ -1,4 +1,4 @@
 # \*sharable
 
-\*sharable. See **shareable** & spelling \(d\).
+\*sharable. See **shareable** & spelling (d).
 

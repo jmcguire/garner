@@ -1,6 +1,6 @@
 # soundtrack
 
-soundtrack is so written \(or sometimes *sound track*\)—not *\*sound tract*. The *track* in the phrase denotes the segment in a motion picture or videotape where sound, as opposed to visual camera work, is reproduced. But some writers mistakenly use *tract*—e.g.:
+soundtrack is so written (or sometimes *sound track*)—not *\*sound tract*. The *track* in the phrase denotes the segment in a motion picture or videotape where sound, as opposed to visual camera work, is reproduced. But some writers mistakenly use *tract*—e.g.:
 
  - "Some of the *sound tracts* \[read *soundtracks*\] may have to be ‘bleeped.' " Bob Brister, "Sporting Clays All in Family Now," *Houston Chron.*, 16 June 1992, Sports §, at 7.
 
@@ -11,5 +11,5 @@ For other misuses, see **track**.
 ## Language-Change Index
 
  - *\*sound tract* for *soundtrack*: Stage 1
- - Current ratio in print \(*soundtrack* vs. *\*sound tract*\): 6,626:1
+ - Current ratio in print (*soundtrack* vs. *\*sound tract*): 6,626:1
 

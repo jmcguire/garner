@@ -1,4 +1,4 @@
 # state, n
 
-state, n. See **people \(b\)**.
+state, n. See **people (b)**.
 

@@ -1,6 +1,6 @@
 # inclement
 
-inclement \(= unmerciful, stormy\) is increasingly replaced by the malapropism and nonword *\*inclimate*. Because *inclement weather* is such a common phrase—a set phrase, really—many have come to hear it as a redundant comment on the *climate* as well as the *weather*. Hence the erroneous *\*inclimate weather*—e.g.:
+inclement (= unmerciful, stormy) is increasingly replaced by the malapropism and nonword *\*inclimate*. Because *inclement weather* is such a common phrase—a set phrase, really—many have come to hear it as a redundant comment on the *climate* as well as the *weather*. Hence the erroneous *\*inclimate weather*—e.g.:
 
  - "Because of the soggy turf and *inclimate* \[read *inclement*\] weather Thursday, the Bears practiced at South Park instead of behind their traditional Halas Hall facility." Fred Mitchell, "Bits & Pieces on Chicago's Teams," *Chicago Trib.*, 20 Oct. 1989, at C11.
 
@@ -13,5 +13,5 @@ In pronouncing the word, stress the second syllable, not the first.
 ## Language-Change Index
 
  - *\*inclimate weather* for *inclement weather*: Stage 1
- - Current ratio in print \(*inclement weather* vs. *\*inclimate weather*\): 733:1
+ - Current ratio in print (*inclement weather* vs. *\*inclimate weather*): 733:1
 

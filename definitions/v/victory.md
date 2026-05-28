@@ -6,7 +6,7 @@ victory. The phrase *\*win a victory* is a common but venial redundancy—e.g.:
 
  - "Female athletes *won a victory* \[read *won* or *were victorious* or *saw victory*\] Monday in the Supreme Court." Woody Anderson, "Top Court Upholds Sex-Parity Rule for College Sports," *Hartford Courant*, 22 Apr. 1997, at A1.
 
- - "Christianity had once *won a victory* \[read *been victorious*\] over the Romans." Harvey C. Mansfield, *Machiavelli's New Modes and Orders* 258–59 \(2001\).
+ - "Christianity had once *won a victory* \[read *been victorious*\] over the Romans." Harvey C. Mansfield, *Machiavelli's New Modes and Orders* 258–59 (2001).
 
 A simple solution is to use *score* or *gain* instead of *win*.
 

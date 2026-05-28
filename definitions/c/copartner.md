@@ -5,5 +5,5 @@
 ## Language-Change Index
 
  - *\*copartner* for *partner*: Stage 1
- - Current ratio in print \(*partner* vs. *\*copartner*\): 3,604:1
+ - Current ratio in print (*partner* vs. *\*copartner*): 3,604:1
 

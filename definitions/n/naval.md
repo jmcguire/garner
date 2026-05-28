@@ -6,11 +6,11 @@ naval; **navel**. *Naval*, adj., = of, relating to, or involving ships or a navy
 
  - "Sun Pacific, the largest *naval orange* \[read *navel-orange*\] grower in California and largest kiwi grower in the United States, is exporting half the oranges it normally ships because of the port impasse." Peter Fimrite, "Hard-Hit Citrus Growers Crushed by Port Dispute," *S.F. Chron.*, 14 Feb. 2015, at A1.
 
-The same confusion exists with *navel-gazing* \(omphaloskepsis\), which since the late 1960s has occasionally been mistakenly written \**navel gazing* or \**naval-gazing* \(which suggest periscopes\).
+The same confusion exists with *navel-gazing* (omphaloskepsis), which since the late 1960s has occasionally been mistakenly written \**navel gazing* or \**naval-gazing* (which suggest periscopes).
 
 ## Language-Change Index
 
  - *\*naval orange* for *navel orange*: Stage 1
- - Current ratio in print \(*navel orange* vs. *\*naval orange*\): 27:1
- - Current ratio in print \(*navel-gazing* vs. *navel gazing* vs. \**naval gazing* vs. \**naval-gazing*\): 34:13:1.2:1
+ - Current ratio in print (*navel orange* vs. *\*naval orange*): 27:1
+ - Current ratio in print (*navel-gazing* vs. *navel gazing* vs. \**naval gazing* vs. \**naval-gazing*): 34:13:1.2:1
 

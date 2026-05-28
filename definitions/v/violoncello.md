@@ -13,5 +13,5 @@ Of course, the safest approach is to use the simpler and much more recognizable 
 ## Language-Change Index
 
  - *violoncello* misspelled *\*violincello*: Stage 1
- - Current ratio in print \(*violoncello* vs. \**violincello*\): 33:1
+ - Current ratio in print (*violoncello* vs. \**violincello*): 33:1
 

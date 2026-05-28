@@ -12,15 +12,15 @@ Still another mistake is *\*copywright*—e.g.:
 
  - "Barsky is a partner in Sonnenschein Nath & Rosenthal, where he practices and specializes in intellectual property, trademark and *copywright* \[read *copyright*\] matters." Jerry Berger, "Shaping Up at City Hall Won't Be by Jenny Craig," *St. Louis Post-Dispatch*, 8 May 1996, at E1.
 
- - "Raptors forward Walt \(The Wizard\) Williams was asked if he had the foresight to *copywright* \[read *copyright*\] the moniker." Bill Harris, "Raptors Watch," *Toronto Sun*, 8 Dec. 1996, Sports §, at 14.
+ - "Raptors forward Walt (The Wizard) Williams was asked if he had the foresight to *copywright* \[read *copyright*\] the moniker." Bill Harris, "Raptors Watch," *Toronto Sun*, 8 Dec. 1996, Sports §, at 14.
 
 For a similar error, see **playwriting**. For *copyright* as an adjective, see **copyrighted**.
 
 ## Language-Change Index
 
 1. *\*copywrite* for *copyright*: Stage 1
- - Current ratio in print \(*copyright* vs. *\*copywrite*\): 6,709:1
+ - Current ratio in print (*copyright* vs. *\*copywrite*): 6,709:1
 
 2. *\*copywright* for *copyright*: Stage 1
- - Current ratio in print \(*copyright* vs. *\*copywright*\): 30,127:1
+ - Current ratio in print (*copyright* vs. *\*copywright*): 30,127:1
 

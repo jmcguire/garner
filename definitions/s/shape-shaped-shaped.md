@@ -6,5 +6,5 @@ shape > shaped > shaped. So inflected. The archaic past participle *shapen* exis
 
  - "He gave to every worthy cause and outstretched palm that found its way to his corner office in *ill-shapen*, yellow-bricked Cleveland Municipal Stadium." Jon Morgan, "Life of a Salesman," *Baltimore Sun*, 19 Apr. 1997, at D1.
 
-See irregular verbs \(b\).
+See irregular verbs (b).
 

@@ -1,4 +1,4 @@
 # \*affrontery
 
-\*affrontery. See **effrontery \(b\)**.
+\*affrontery. See **effrontery (b)**.
 

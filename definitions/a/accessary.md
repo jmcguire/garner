@@ -1,4 +1,4 @@
 # \*accessary
 
-\*accessary. See **accessory \(a\)**.
+\*accessary. See **accessory (a)**.
 

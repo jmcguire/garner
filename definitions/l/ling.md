@@ -1,4 +1,4 @@
 # -ling
 
--ling. See diminutives \(k\).
+-ling. See diminutives (k).
 

@@ -1,4 +1,4 @@
 # pardon
 
-pardon, v.t. See **commute \(b\)**.
+pardon, v.t. See **commute (b)**.
 

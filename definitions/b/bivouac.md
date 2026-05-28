@@ -10,7 +10,7 @@ bivouac.
 
 Phrases such as *temporary bivouac*, *bivouac camp*, and the like create redundancies. See redundancy.
 
-And *bivouac* is misused when the context suggests a long-term settlement—e.g.: "A president who believes government is the answer to everything quite naturally looks to government for a solution to the Michigan Militia, the Montana Maniacs, the Kansas Kooks, the Idaho Idiots and whatever other nut cases might be out there on permanent fantasy *bivouacs* \[read *maneuvers*\]." Kevin O'Brien, "Anti-Terrorism Laws to Solve the Wrong Problems," *Plain Dealer* \(Cleveland\), 30 Apr. 1995, at C1.
+And *bivouac* is misused when the context suggests a long-term settlement—e.g.: "A president who believes government is the answer to everything quite naturally looks to government for a solution to the Michigan Militia, the Montana Maniacs, the Kansas Kooks, the Idaho Idiots and whatever other nut cases might be out there on permanent fantasy *bivouacs* \[read *maneuvers*\]." Kevin O'Brien, "Anti-Terrorism Laws to Solve the Wrong Problems," *Plain Dealer* (Cleveland), 30 Apr. 1995, at C1.
 
 **B. As a Verb.** As a verb meaning "to temporarily make camp or take shelter" or "to provide with temporary shelter," *bivouac* makes the past tense *bivouacked* and the present participle *bivouacking*. See -c-.
 

@@ -1,6 +1,6 @@
 # bathetic
 
-bathetic, not *\*bathotic*, is the adjective corresponding to *bathos*. \(See **bathos**.) The analogy is to *pathos* and *pathetic*. But some writers ill-advisedly write *\*bathotic*, which isn't recognized in modern dictionaries—e.g.:
+bathetic, not *\*bathotic*, is the adjective corresponding to *bathos*. (See **bathos**.) The analogy is to *pathos* and *pathetic*. But some writers ill-advisedly write *\*bathotic*, which isn't recognized in modern dictionaries—e.g.:
 
  - "Puffin's latest religious offering, *The Young Puffin Book of Bible Stories*, is so desperate to make these millennia-old stories ‘relevant' that it frequently descends into *bathotic* \[read *bathetic*\] purple prose, often missing the point in the process." Nicola Tyrer, "The Day Noah Dropped the Olive Branch," *Daily Telegraph*, 29 Mar. 1989, at 17.
 
@@ -11,5 +11,5 @@ bathetic, not *\*bathotic*, is the adjective corresponding to *bathos*. \(See **
 ## Language-Change Index
 
  - *\*bathotic* for *bathetic*: Stage 1
- - Current ratio in print \(*bathetic* vs. *\*bathotic*\): 43:1
+ - Current ratio in print (*bathetic* vs. *\*bathotic*): 43:1
 

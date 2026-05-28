@@ -1,4 +1,4 @@
 # got
 
-got, p.pl.; **gotten**. See **get \(b\)**.
+got, p.pl.; **gotten**. See **get (b)**.
 

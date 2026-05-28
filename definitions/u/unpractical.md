@@ -1,4 +1,4 @@
 # unpractical
 
-unpractical. See **impractical \(b\)**.
+unpractical. See **impractical (b)**.
 

@@ -1,4 +1,4 @@
 # epitaph
 
-epitaph. See **epithet \(b\)**.
+epitaph. See **epithet (b)**.
 

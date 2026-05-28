@@ -1,4 +1,4 @@
 # peradventure
 
-peradventure. See **maybe \(b\)**.
+peradventure. See **maybe (b)**.
 

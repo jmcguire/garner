@@ -1,4 +1,4 @@
 # \*boughten
 
-\*boughten. See **buy \(a\)**.
+\*boughten. See **buy (a)**.
 

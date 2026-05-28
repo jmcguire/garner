@@ -1,4 +1,4 @@
 # auger
 
-auger. See **augur \(a\)**.
+auger. See **augur (a)**.
 

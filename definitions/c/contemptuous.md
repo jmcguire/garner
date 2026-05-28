@@ -2,7 +2,7 @@
 
 contemptuous.
 
-**A. And *contemptible*.** *Contemptuous* = expressing contempt. *Contemptible* = worthy of contempt or scorn. See -able \(a\).
+**A. And *contemptible*.** *Contemptuous* = expressing contempt. *Contemptible* = worthy of contempt or scorn. See -able (a).
 
 **B. And *contumacious*.** These words are often interchangeable, but while *contumacious* may connote scorn, it strictly denotes only willful disobedience. *Contemptuous* is much more common in print—e.g.: "Mr. Milosevic appears *contemptuous* of the judges and prosecutors, reserving his interest and civility for those senior politicians, diplomats and generals from the West who have testified. To them he sometimes even seems ingratiating." Marise Simons, "Reviving Memories of Yet Another Evil," *N.Y. Times*, 22 Sept. 2002, § 4, at 3.
 

@@ -1,6 +1,6 @@
 # recreate
 
-recreate; **re-create**. An old distinction is fading. *Recreate* = \(1\) to amuse oneself by indulging in recreation; or \(2\) \(of a pastime\) to agreeably occupy. *Re-create* = to create anew. Classically, the hyphen makes a great difference—e.g.:
+recreate; **re-create**. An old distinction is fading. *Recreate* = (1) to amuse oneself by indulging in recreation; or (2) (of a pastime) to agreeably occupy. *Re-create* = to create anew. Classically, the hyphen makes a great difference—e.g.:
 
  - "Her days are divided between frolicking in the sand and *recreating* in a resort hotel." A. Scott Walton, "Peach Buzz," *Atlanta J.-Const.*, 19 Mar. 1995, at E2.
 

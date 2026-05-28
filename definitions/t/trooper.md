@@ -1,6 +1,6 @@
 # trooper
 
-trooper; **trouper**. *Trooper* = \(1\) a cavalry soldier or horse; \(2\) a police officer mounted on horseback; or \(3\) a state police officer. *Trouper* = \(1\) a member of an acting troupe; \(2\) someone who handles adversity well; or \(3\) a loyal, dependable person. The proper expression, traditionally, is *real trouper* \(sense 2\), not *\*real trooper*. Yet while the correct form remains more common in BrE, the incorrect form has been gaining ground since 1970, especially in AmE—e.g.:
+trooper; **trouper**. *Trooper* = (1) a cavalry soldier or horse; (2) a police officer mounted on horseback; or (3) a state police officer. *Trouper* = (1) a member of an acting troupe; (2) someone who handles adversity well; or (3) a loyal, dependable person. The proper expression, traditionally, is *real trouper* (sense 2), not *\*real trooper*. Yet while the correct form remains more common in BrE, the incorrect form has been gaining ground since 1970, especially in AmE—e.g.:
 
  - "Quite the *trooper* \[read *trouper*\], Rees; he never once complained about the heat or the jellyfish or anything." Doug Pike, "By Jove, English Chap Is a Real *Trooper* \[read *Trouper*\]," *Houston Chron.*, 17 Oct. 1993, Sports §, at 27.
 
@@ -11,6 +11,6 @@ trooper; **trouper**. *Trooper* = \(1\) a cavalry soldier or horse; \(2\) a poli
 ## Language-Change Index
 
  - *\*real trooper* for *real trouper*: Stage 3
- - Current ratio in print \(*real trouper* vs. *\*real trooper* in BrE\): 1.1:1
- - Current ratio in print \(*real trouper* vs. \**real trooper* in AmE\): 1:3
+ - Current ratio in print (*real trouper* vs. *\*real trooper* in BrE): 1.1:1
+ - Current ratio in print (*real trouper* vs. \**real trooper* in AmE): 1:3
 

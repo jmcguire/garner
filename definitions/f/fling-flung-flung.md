@@ -6,12 +6,12 @@ fling > flung > flung. So inflected. *\*Flinged* is a blunder—e.g.:
 
  - "Then, he snapped. He had a lackey fetch his diamond-encrusted G-Unit chain, a relic from his time in 50 Cent's posse. Then Game *flinged* \[read *flung*\] it out to the 50-yard line, where it fell into the hands of a fan." Dan Aquilante, "Game for a Fight," *N.Y. Post*, 7 June 2005, at 48.
 
- - "\[T\]he sophomore *flinged* \[read *flung*\] the ball toward the basket and it climbed over the rim as the buzzer sounded." Robert Burns, "Lincoln Finishes Fourth, Glenwood Sixth at Collinsville," *State J.-Register* \(Springfield, Ill.\), 31 Dec. 2005, Sports §, at 9.
+ - "\[T\]he sophomore *flinged* \[read *flung*\] the ball toward the basket and it climbed over the rim as the buzzer sounded." Robert Burns, "Lincoln Finishes Fourth, Glenwood Sixth at Collinsville," *State J.-Register* (Springfield, Ill.), 31 Dec. 2005, Sports §, at 9.
 
 See irregular verbs.
 
 ## Language-Change Index
 
  - *\*flinged* for *flung*: Stage 1
- - Current ratio in print \(*flung* vs. *\*flinged*\): 10,371:1
+ - Current ratio in print (*flung* vs. *\*flinged*): 10,371:1
 

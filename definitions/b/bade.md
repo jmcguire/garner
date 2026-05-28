@@ -1,4 +1,4 @@
 # bade
 
-bade. See **bid \(a\)**.
+bade. See **bid (a)**.
 

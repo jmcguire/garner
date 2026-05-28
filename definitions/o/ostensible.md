@@ -1,6 +1,6 @@
 # ostensible
 
-ostensible; **ostensive**. *Ostensible* \(the usual term\) = seeming; apparent <her ostensible opinion isn't supported by her actions>. *Ostensive* = clearly displaying; directly demonstrative <his behavior was ostensive of his debased character>. Though some dictionaries sanction the usage, it's an error to use *ostensive* synonymously with *ostensible*—e.g.:
+ostensible; **ostensive**. *Ostensible* (the usual term) = seeming; apparent <her ostensible opinion isn't supported by her actions>. *Ostensive* = clearly displaying; directly demonstrative <his behavior was ostensive of his debased character>. Though some dictionaries sanction the usage, it's an error to use *ostensive* synonymously with *ostensible*—e.g.:
 
  - "His main effort, and the *ostensive* \[read *ostensible*\] purpose of this book, is a description of a tour of Vietnam he took in 1993." "Jill Ker Conway Recalls ‘Future of a Woman Alone in the 1950s,' " *Roanoke Times*, 26 Feb. 1995, Book §, at 6.
 

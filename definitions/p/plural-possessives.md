@@ -1,4 +1,4 @@
 # Plural Possessives
 
-Plural Possessives. See possessives \(b\).
+Plural Possessives. See possessives (b).
 

@@ -1,4 +1,4 @@
 # surlily
 
-surlily. See adverbs \(c\).
+surlily. See adverbs (c).
 

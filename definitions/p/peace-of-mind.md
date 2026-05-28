@@ -1,6 +1,6 @@
 # peace of mind
 
-peace of mind; **piece of \(one's\) mind**. Whereas *peace of mind* is calm assurance, a *piece of one's mind* is something a person says in a fit of pique. But the two are surprisingly often confounded—e.g.:
+peace of mind; **piece of (one's) mind**. Whereas *peace of mind* is calm assurance, a *piece of one's mind* is something a person says in a fit of pique. But the two are surprisingly often confounded—e.g.:
 
  - "After experimenting with this, the thought of regaining control of your destiny and *piece* \[read *peace*\] of mind will be comforting." Greg Brozovich, "Ditch Work for Great Front Range Snow," *Denver Post*, 14 Dec. 1995, at D10.
 
@@ -11,5 +11,5 @@ peace of mind; **piece of \(one's\) mind**. Whereas *peace of mind* is calm assu
 ## Language-Change Index
 
  - *\*piece of mind* for *peace of mind*: Stage 1
- - Current ratio in print \(*for my peace of mind* vs. *\*for my piece of mind*\): 32:1
+ - Current ratio in print (*for my peace of mind* vs. *\*for my piece of mind*): 32:1
 

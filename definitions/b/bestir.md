@@ -1,6 +1,6 @@
 # bestir
 
-bestir \(= to stir \[oneself\] to action\), in the modern idiom, is preferably confined to reflexive uses—e.g.:
+bestir (= to stir \[oneself\] to action), in the modern idiom, is preferably confined to reflexive uses—e.g.:
 
  - "This page agrees that the Dole tax-cut plan is misguided, but even we have to admit that it is possible to make a better argument for it than Mr. Dole could *bestir* himself to offer on Sunday." "The Missing Sermon on Taxes," *N.Y. Times*, 8 Oct. 1996, at A24.
 
@@ -17,5 +17,5 @@ It has long been regarded as unidiomatic to use *bestir* as an ordinary transiti
 ## Language-Change Index
 
  - *bestir* used as a transitive verb: Stage 1
- - Current ratio in print \(*stirs the* vs. *\*bestirs the*\): 304:1
+ - Current ratio in print (*stirs the* vs. *\*bestirs the*): 304:1
 

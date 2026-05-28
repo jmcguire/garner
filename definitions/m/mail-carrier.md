@@ -1,4 +1,4 @@
 # mail carrier
 
-mail carrier. See sexism \(c\).
+mail carrier. See sexism (c).
 

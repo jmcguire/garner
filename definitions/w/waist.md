@@ -1,6 +1,6 @@
 # waist
 
-waist; waste. Substituting *waste* for *waist* is most often a pun—e.g.: "County Is *Waste-Deep* in Reduction/Recycling Assistance" \(headline\), *Tampa Trib.*, 9 Nov. 2008, Local News §, at 3. But not always—e.g.:
+waist; waste. Substituting *waste* for *waist* is most often a pun—e.g.: "County Is *Waste-Deep* in Reduction/Recycling Assistance" (headline), *Tampa Trib.*, 9 Nov. 2008, Local News §, at 3. But not always—e.g.:
 
  - "Johnny Campbell, 22, tied a tow chain around his *waste* \[read *waist*\] and waded through *waste-deep* \[read *waist-deep*\] water to Guerrero's car, but as he touched her hand, a rush of water pushed the car out of his reach." Alex Branch & Scott Streater, "Flood Kills Mother, Child," *Ft. Worth Star-Telegram*, 2 May 2004, at A1, A23.
 

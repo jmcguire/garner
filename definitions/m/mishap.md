@@ -6,7 +6,7 @@ mishap should refer to a minor accident, not one in which people are killed. Yet
 
  - "On a single Sunday afternoon last August, three people died as a result of Jet Ski *mishaps* \[read *accidents*\] in Southampton, N.Y." Alexandra Alger, "Here They Come Again," *Forbes*, 3 June 1996, at 182.
 
- - "Miscellaneous *mishaps* \[read *incidents*\]—such as motorcycle accidents, falls and drownings—account for a handful of deaths each year." Bob von Sternberg, "Every Other Day, an American Cop Dies in the Line of Duty," *Star Trib.* \(Minneapolis\), 4 Aug. 2002, at A1.
+ - "Miscellaneous *mishaps* \[read *incidents*\]—such as motorcycle accidents, falls and drownings—account for a handful of deaths each year." Bob von Sternberg, "Every Other Day, an American Cop Dies in the Line of Duty," *Star Trib.* (Minneapolis), 4 Aug. 2002, at A1.
 
 When government agencies use the word for tragic accidents, the reader may suspect a deliberate attempt to soften the impact by euphemizing—e.g.:
 

@@ -8,7 +8,7 @@ discard, vb. Although *discard* began as a card-playing term, it now appears mor
 
  - "If you're wondering what became of El Guapo's *disgarded* \[read *discarded*\], tent-like duds, be advised they have all been put to good use. Harrison took the bags to the nearest Goodwill Industries outlet." Steve Buckley, "Red Sox Hurler Rich Garces Has Been Growing Along Nicely," *Boston Herald*, 3 Mar. 2002, at B20.
 
-The error appears to be as common in British as in American publications—e.g.: "For every new chart-buster, there are bound to be a million half-finished fragments which are *disgarded* \[read *discarded*\] after a few chords." "Root," *Times* \(London\), 10 Oct. 1998, at 4.
+The error appears to be as common in British as in American publications—e.g.: "For every new chart-buster, there are bound to be a million half-finished fragments which are *disgarded* \[read *discarded*\] after a few chords." "Root," *Times* (London), 10 Oct. 1998, at 4.
 
 ## Language-Change Index
 

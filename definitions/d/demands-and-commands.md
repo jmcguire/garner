@@ -2,7 +2,7 @@
 
 *Demands and commands:*
 
- - "Britain's farmers are worried that consumers and more supermarkets are going to start demanding that all British beef *comes* \[read *come*\] from herds free from confirmed cases of BSE." R. Palmer & I. Birrell, "Vets Question the Safety of UK Sausages," *Sunday Times* \(London\), 10 June 1990, § 1, at 3.
+ - "Britain's farmers are worried that consumers and more supermarkets are going to start demanding that all British beef *comes* \[read *come*\] from herds free from confirmed cases of BSE." R. Palmer & I. Birrell, "Vets Question the Safety of UK Sausages," *Sunday Times* (London), 10 June 1990, § 1, at 3.
 
  - "Ike directed that every effort *be* made to do so." Frank Whitsitt, "They Also Served Who Bark and Sniff," *Wall Street J.*, 20 May 1996, at A18.
 

@@ -1,4 +1,4 @@
 # wit, to
 
-wit, to. See **to\(-\)wit**.
+wit, to. See **to(-)wit**.
 

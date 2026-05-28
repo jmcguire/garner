@@ -1,6 +1,6 @@
 # while
 
-while for *although* or *whereas* is permissible and often all but necessary, despite what purists sometimes say about the word's inherent element of time. \(See **although** & **whereas**.) *While* is a more relaxed and conversational term than *although* or *whereas*, and it works nicely when introducing a contrast—e.g.:
+while for *although* or *whereas* is permissible and often all but necessary, despite what purists sometimes say about the word's inherent element of time. (See **although** & **whereas**.) *While* is a more relaxed and conversational term than *although* or *whereas*, and it works nicely when introducing a contrast—e.g.:
 
  - "But *while* vertical malls like Manhattan Mall and nearby Herald Center have struggled, multi-story shops are becoming de rigueur for many big-name retailers from Barnes & Noble to Banana Republic." Amy Feldman, "Manhattan Mall on Sale Now," *Crain's N.Y. Bus.*, 17 Feb. 1997, at 1.
 
@@ -8,7 +8,7 @@ while for *although* or *whereas* is permissible and often all but necessary, de
 
  - "Five of the nine Dallas school board members are white, *while* only 11 percent of Dallas' schoolchildren are white." Chris Newton, "Turmoil Continues in Dallas Schools," *Pitt. Post-Gaz.*, 18 Sept. 1997, at A9.
 
-The *OED* traces this use back to Shakespeare in 1588 \(*Love's Labour's Lost*\).
+The *OED* traces this use back to Shakespeare in 1588 (*Love's Labour's Lost*).
 
 Though the use is quite proper, writers must be on guard for the occasional ambiguity. For instance, does it denote time or contrast in the following sentence? "\[The\] former spokeswoman . . . claim\[s\] she was fired in April because she is white, *while* the hospital's management was seeking to build bridges to Tampa's black community." "Cigar Maker From Spain to Purchase Havatampa," *Tampa Bay Bus. J.*, 19 Sept. 1997, at 4. The sense is surely a contrasting one, but the sentence undesirably causes the reader to hesitate.
 

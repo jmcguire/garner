@@ -1,6 +1,6 @@
 # dilatory
 
-dilatory \(= \[1\] tending to delay; or \[2\] tending to cause dilation\) is now occasionally misused for *deleterious* \(= harmful\)—e.g.:
+dilatory (= \[1\] tending to delay; or \[2\] tending to cause dilation) is now occasionally misused for *deleterious* (= harmful)—e.g.:
 
  - "Anti-takeover measures often have a *dilatory* \[read *deleterious*\] effect on a company's stock." Heather Harreld, "Stock Dips, Takeover Guard on Deck," *Triangle Bus. J.*, 21 Apr. 1995, at 1.
 

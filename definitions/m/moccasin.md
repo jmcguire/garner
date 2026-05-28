@@ -1,4 +1,4 @@
 # moccasin
 
-moccasin. So spelled. See spelling \(a\).
+moccasin. So spelled. See spelling (a).
 

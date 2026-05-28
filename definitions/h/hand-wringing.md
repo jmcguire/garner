@@ -1,4 +1,4 @@
 # hand-wringing
 
-hand-wringing. See **wring \(b\)**.
+hand-wringing. See **wring (b)**.
 

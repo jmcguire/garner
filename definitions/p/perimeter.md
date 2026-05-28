@@ -1,4 +1,4 @@
 # perimeter
 
-perimeter. See **parameters \(b\)**.
+perimeter. See **parameters (b)**.
 

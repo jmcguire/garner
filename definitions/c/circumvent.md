@@ -1,6 +1,6 @@
 # circumvent
 
-circumvent; **undermine**. *Circumvent* = \(1\) to get around or escape from \(a requirement\) through means that are unusual but defensible; or \(2\) to hem in; circumscribe. Today sense 1 is more common—e.g.:
+circumvent; **undermine**. *Circumvent* = (1) to get around or escape from (a requirement) through means that are unusual but defensible; or (2) to hem in; circumscribe. Today sense 1 is more common—e.g.:
 
  - "By calling them sober houses they *circumvent* zoning regulations." Carole Paquette, "Reining in Rentals of ‘Sober Houses,' " *N.Y. Times*, 8 Dec. 1996, Long Island §, at 1.
 

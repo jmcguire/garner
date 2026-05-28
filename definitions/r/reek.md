@@ -16,11 +16,11 @@ Also, *wreak* for *reek* is a surprisingly common slip-up—e.g.:
 
  - "Nate Newton has leaked a little information in response to reports that the Cowboys' dorm rooms at St. Edward's University *wreaked* \[read *reeked*\] of urine and were otherwise in a mess upon the team's checkout from training camp last week." Tim Price, "Newton Says Dorm Free of Any Pee," *San Antonio Express-News*, 21 Aug. 1997, at C1.
 
-See **wreak \(c\)**.
+See **wreak (c)**.
 
 *\*Reak* is a common misspelling of *reek*—e.g.:
 
- - "The oil company subsequently hired a firm to clean the oil, but after six weeks of work and a declaration the house was inhabitable, the house still ‘*reaked* \[read *reeked*\] of oil,' Hansen said." MaryAnn Spoto, "Suit Seeks Damages for Oil Spill Nightmare," *Star-Ledger* \(Newark\), 26 Sept. 1997, at 51.
+ - "The oil company subsequently hired a firm to clean the oil, but after six weeks of work and a declaration the house was inhabitable, the house still ‘*reaked* \[read *reeked*\] of oil,' Hansen said." MaryAnn Spoto, "Suit Seeks Damages for Oil Spill Nightmare," *Star-Ledger* (Newark), 26 Sept. 1997, at 51.
 
  - "Those who have briefly been able to visit the residential buildings have reported finding them filled with ash and *reaking* \[read *reeking*\] of rotting food." David Usborne, "America's Own Refugees: People Who Can't Go Home," *Independent*, 19 Sept. 2001, at 11.
 
@@ -29,10 +29,10 @@ And a double bobble results when the misspelling *\*reak havoc* displaces the co
 ## Language-Change Index
 
 1. *\*reek havoc* for *wreak havoc*: Stage 1
- - Current ratio in print \(*wreak havoc* vs. *\*reek havoc*\): 410:1
+ - Current ratio in print (*wreak havoc* vs. *\*reek havoc*): 410:1
 
 2. *wreak* misused for *reek*: Stage 1
- - Current ratio in print \(*reek of* vs. *\*wreak of *\): 166:1
+ - Current ratio in print (*reek of* vs. *\*wreak of *): 166:1
 
 3. *\*reak* as a misspelling of *wreak* or *reek*: Stage 1
 

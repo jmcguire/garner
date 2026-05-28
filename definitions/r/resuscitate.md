@@ -1,4 +1,4 @@
 # resuscitate
 
-resuscitate. So spelled. See spelling \(a\).
+resuscitate. So spelled. See spelling (a).
 

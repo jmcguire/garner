@@ -1,4 +1,4 @@
 # indigenous Australian
 
-indigenous Australian. See race-related terms \(l\).
+indigenous Australian. See race-related terms (l).
 

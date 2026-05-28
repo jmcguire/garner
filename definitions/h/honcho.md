@@ -1,6 +1,6 @@
 # honcho
 
-honcho \(= leader, chief, boss\) is a slang term derived from the Japanese word *hancho* \(lit., "squad leader"\). The word typically appears in the set phrase *head honcho*; although some consider that phrase redundant, it is thoroughly established.
+honcho (= leader, chief, boss) is a slang term derived from the Japanese word *hancho* (lit., "squad leader"). The word typically appears in the set phrase *head honcho*; although some consider that phrase redundant, it is thoroughly established.
 
 Since the 1960s, journalists have been using the word as a verb, the effect being breezy and voguish-sounding—e.g.:
 
@@ -10,7 +10,7 @@ Since the 1960s, journalists have been using the word as a verb, the effect bein
 
  - "He *honchoed* \[read *directed*\] state probes that led to jailing Jerry Sandusky and dozens of state lawmakers and aides caught up in public corruption." John Baer, "The Philly Sting That Stung No One," *Phil. Daily News*, 17 Mar. 2014, at 4.
 
-As in the last example quoted, this verbal use is so vague that one can claim to have "honchoed" without ever being accused of claiming too much credit. See functional shift \(d\).
+As in the last example quoted, this verbal use is so vague that one can claim to have "honchoed" without ever being accused of claiming too much credit. See functional shift (d).
 
 ## Language-Change Index
 

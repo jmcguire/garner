@@ -1,4 +1,4 @@
 # Dashes
 
-Dashes. See punctuation \(g\), \(h\).
+Dashes. See punctuation (g), (h).
 

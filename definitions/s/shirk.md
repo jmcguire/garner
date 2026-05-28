@@ -13,5 +13,5 @@ For more on *shrink*, see **shrink**.
 ## Language-Change Index
 
  - *shirk* misused for *shrink*: Stage 1
- - Current ratio in print \(*shrink from* vs. *\*shirk from*\): 28:1
+ - Current ratio in print (*shrink from* vs. *\*shirk from*): 28:1
 

@@ -4,5 +4,5 @@ deplane. This verb, like *enplane* and *reinplane*, is characteristic of airline
 
 ## Language-Change Index
 
- - *deplane* for *get off* \(an airplane\): Stage 4
+ - *deplane* for *get off* (an airplane): Stage 4
 

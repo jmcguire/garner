@@ -5,5 +5,5 @@ compute; \***computate**. The first is standard. The second is a back-formed nee
 ## Language-Change Index
 
  - *\*computate* for *compute*: Stage 1
- - Current ratio in print \(*compute* vs. *\*computate*\): 12,790:1
+ - Current ratio in print (*compute* vs. *\*computate*): 12,790:1
 

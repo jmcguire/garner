@@ -1,4 +1,4 @@
 # flotsam
 
-flotsam. See \(of course\) **jetsam**.
+flotsam. See (of course) **jetsam**.
 

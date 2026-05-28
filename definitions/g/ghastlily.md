@@ -1,4 +1,4 @@
 # ghastlily
 
-ghastlily. See adverbs \(c\).
+ghastlily. See adverbs (c).
 

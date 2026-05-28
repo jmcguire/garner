@@ -1,6 +1,6 @@
 # routinize
 
-routinize \(= to develop into a regular schedule\) is pronounced either /**roo**-tә-nīz/ or /roo-**tee**-nīz/. Although this word \(dating from the early 1840s\) sometimes smacks of gobbledygook, it's also difficult to replace—e.g.:
+routinize (= to develop into a regular schedule) is pronounced either /**roo**-tә-nīz/ or /roo-**tee**-nīz/. Although this word (dating from the early 1840s) sometimes smacks of gobbledygook, it's also difficult to replace—e.g.:
 
  - "The raunchiness that some, at least, admired in the earlier book has been replaced by *routinized* descriptions of the hydraulics of moderately unroutine sex." K. Anthony Appiah, "Identity Crisis," *N.Y. Times*, 17 Sept. 1995, § 7, at 42.
 

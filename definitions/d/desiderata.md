@@ -1,6 +1,6 @@
 # desiderata
 
-desiderata \(= things wanted or needed\) is the standard plural form of *desideratum*—e.g.:
+desiderata (= things wanted or needed) is the standard plural form of *desideratum*—e.g.:
 
  - " ‘Honesty,' ‘sensitivity,' ‘a sense of humor' are among the current *desiderata*." Merle Rubin, " ‘Evelina' Gives Enlightening Look at 18th Century," *Wash. Times*, 9 Apr. 1995, at B7.
 
@@ -19,6 +19,6 @@ The pronunciation is /dez-i-dә-**rah**-dә/ or /dә-sid-ә-**rah**-tә/.
 ## Language-Change Index
 
  - *desiderata* misused as a singular: Stage 1
- - Current ratio in print \(*a desideratum* vs. *\*a desiderata*\): 64:1
- - Current ratio in print \(*desiderata* vs. \**desideratums*\): 1,560:1
+ - Current ratio in print (*a desideratum* vs. *\*a desiderata*): 64:1
+ - Current ratio in print (*desiderata* vs. \**desideratums*): 1,560:1
 

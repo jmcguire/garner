@@ -12,11 +12,11 @@ Some journalists and lawmakers have taken to using *author* in reference to a po
 
  - "Abzug co-founded the National Women's Political Caucus in 1971, and *authored* \[read *sponsored*\] numerous bills intended to prevent sex discrimination." Stephanie Balzer, "Days of Speaking Softly Past, Says Abzug," *Bus. J.—Phoenix*, 28 Feb. 1997.
 
- - "He also *authored* \[read *sponsored*\] the state's adoption law." Tracy Jordan, "Politician Will End His 17-Year Hiatus," *Morning Call* \(Allentown, Pa.\), 11 Mar. 1997, at B1.
+ - "He also *authored* \[read *sponsored*\] the state's adoption law." Tracy Jordan, "Politician Will End His 17-Year Hiatus," *Morning Call* (Allentown, Pa.), 11 Mar. 1997, at B1.
 
  - "The resolution was *authored* \[read *sponsored*\] by John Warner, a Republican." Steve Kornacki, "Republican Senators Deepen a Hole for 2008," *N.Y. Observer*, 12 Feb. 2007, Opinions §, at 5.
 
-*Coauthor* has been considered more acceptable as a verb, perhaps because *cowrite* seems deadpan. Yet *cowrite* and *cowriter* are often used in scriptwriting circles. See functional shift \(d\).
+*Coauthor* has been considered more acceptable as a verb, perhaps because *cowrite* seems deadpan. Yet *cowrite* and *cowriter* are often used in scriptwriting circles. See functional shift (d).
 
 ## Language-Change Index
 
@@ -24,5 +24,5 @@ Some journalists and lawmakers have taken to using *author* in reference to a po
 
 2. *coauthor* for *cowrite*: Stage 5
 
-**B. Origin.** H.L. Mencken explained the origin of the modern usage in this way: "*To author* . . . arose on the movie lots to designate the preparation of a script. To say that a given author *writes* a given script may be inaccurate, for a great deal goes into it besides the mere writing of its text, and sometimes the text is the least part of it. So *to author* was born—and now, as new verbs have a way of doing, it has begun to displace *to write* in situations where *to write* would be quite as accurate and a great deal less slobbergomptious." H.L. Mencken, "The Birth of New Verbs," in *Aspects of American English* 92, 96 \(Elizabeth M. Kerr & Ralph M. Aderman eds., 1963\). The *OED*'s treatment of the verb suggests that this account is accurate. It is true, however, that there was an earlier period \(ca. 1575–1650\) when the verb was used in the sense "to cause" or "to declare."
+**B. Origin.** H.L. Mencken explained the origin of the modern usage in this way: "*To author* . . . arose on the movie lots to designate the preparation of a script. To say that a given author *writes* a given script may be inaccurate, for a great deal goes into it besides the mere writing of its text, and sometimes the text is the least part of it. So *to author* was born—and now, as new verbs have a way of doing, it has begun to displace *to write* in situations where *to write* would be quite as accurate and a great deal less slobbergomptious." H.L. Mencken, "The Birth of New Verbs," in *Aspects of American English* 92, 96 (Elizabeth M. Kerr & Ralph M. Aderman eds., 1963). The *OED*'s treatment of the verb suggests that this account is accurate. It is true, however, that there was an earlier period (ca. 1575–1650) when the verb was used in the sense "to cause" or "to declare."
 

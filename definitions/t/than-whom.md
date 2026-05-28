@@ -1,4 +1,4 @@
 # than whom
 
-than whom. See **than \(d\)**.
+than whom. See **than (d)**.
 

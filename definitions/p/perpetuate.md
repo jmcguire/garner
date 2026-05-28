@@ -1,6 +1,6 @@
 # perpetuate
 
-perpetuate \(= to make last indefinitely; prolong\) and *perpetrate* \(= to commit or carry out\) are surprisingly often confounded. Although *MWDEU* says that "actual examples of mistaken use are in extremely short supply," the following list could easily be multiplied:
+perpetuate (= to make last indefinitely; prolong) and *perpetrate* (= to commit or carry out) are surprisingly often confounded. Although *MWDEU* says that "actual examples of mistaken use are in extremely short supply," the following list could easily be multiplied:
 
  - "But Maxwell could not single-handedly have *perpetuated* \[read *perpetrated*\] his frauds." Tom Bower, "Cost of Cap'n Bob's Shilling," *Guardian*, 4 May 1992, Features §, at 21.
 
@@ -10,12 +10,12 @@ perpetuate \(= to make last indefinitely; prolong\) and *perpetrate* \(= to comm
 
  - "Of course, a good detective may have a clear idea of who has *perpetuated* \[read *perpetrated*\] the crime." Terence A. Hockenhull, "Getting the Edge in Professional Selling: Doing It Like a Private Eye," *BusinessWorld*, 11 Mar. 1997, at 6.
 
- - "Mr. Cuomo's Albany milieu remained an almost perfect setup for *perpetuating* \[read *perpetrating*\] and hiding misconduct." Jodi Kantor & Arya Sundaram, "Cuomo Used a Movement for His Gain," *N.Y. Times*, 8 Aug. 2021, at 1, 20. \(This sentence almost certainly refers to committing misconduct, not lengthening it.\)
+ - "Mr. Cuomo's Albany milieu remained an almost perfect setup for *perpetuating* \[read *perpetrating*\] and hiding misconduct." Jodi Kantor & Arya Sundaram, "Cuomo Used a Movement for His Gain," *N.Y. Times*, 8 Aug. 2021, at 1, 20. (This sentence almost certainly refers to committing misconduct, not lengthening it.)
 
 See malapropisms.
 
 ## Language-Change Index
 
  - *perpetuate* misused for *perpetrate*: Stage 2
- - Current ratio in print \(*perpetrating crimes* vs. *\*perpetuating crimes*\): 14:1
+ - Current ratio in print (*perpetrating crimes* vs. *\*perpetuating crimes*): 14:1
 

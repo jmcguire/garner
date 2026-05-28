@@ -12,7 +12,7 @@ Since the 1960s, however, *grow* has blossomed as a transitive verb in nonfarmin
 
  - "To this common mix Quantum has added a clever way to keep the teams' collective vision focused on how to *grow* \[read *expand* or *develop*\] the business rather than just on how to cooperate inside." Thomas A. Stewart, "Another Fad Worth Killing," *Fortune*, 3 Feb. 1997, at 119.
 
- - "Whether you are an existing landlord looking to *grow* \[read *expand* or *build up*\] your portfolio or looking to become a first-time landlord, my thoughts are take advice from as many people as possible." "Are Homeowners Warming to the Idea of Renting?," *Canterbury Times* \(U.K.\), 19 Aug. 2015, at 33.
+ - "Whether you are an existing landlord looking to *grow* \[read *expand* or *build up*\] your portfolio or looking to become a first-time landlord, my thoughts are take advice from as many people as possible." "Are Homeowners Warming to the Idea of Renting?," *Canterbury Times* (U.K.), 19 Aug. 2015, at 33.
 
 ## Language-Change Index
 

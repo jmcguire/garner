@@ -1,6 +1,6 @@
 # objectionable
 
-objectionable; **objectional**. *Objectionable* \(= open to objection; unacceptable; offensive\) is the ordinary word. *Objectional* \(= of, relating to, or like an objection\), a rare word, is sometimes misused for *objectionable*—e.g.:
+objectionable; **objectional**. *Objectionable* (= open to objection; unacceptable; offensive) is the ordinary word. *Objectional* (= of, relating to, or like an objection), a rare word, is sometimes misused for *objectionable*—e.g.:
 
  - "Two Vista High School students . . . were suspended for publishing an underground newspaper that school officials said was *objectional* \[read *objectionable*\] and contained sexually explicit material." "Student Paper Suit," *San Diego Union-Trib.*, 20 Feb. 1985, at B2.
 
@@ -11,5 +11,5 @@ objectionable; **objectional**. *Objectionable* \(= open to objection; unaccepta
 ## Language-Change Index
 
  - *objectional* misused for *objectionable*: Stage 1
- - Current ratio in print \(*objectionable features* vs. *\*objectional features*\): 327:1
+ - Current ratio in print (*objectionable features* vs. *\*objectional features*): 327:1
 

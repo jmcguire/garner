@@ -12,5 +12,5 @@ Although the words *camaraderie* and *comrade* are etymologically related—both
 
 ## Language-Change Index
 
- - *camaraderie* misspelled *\*comraderie,* *\*camraderie*, or *\*comradery*: Stage 1 Current ratio in print \(*camaraderie* vs. *\*comradery* vs. *\*comraderie* vs. *\*camraderie*\): 1,852:102:6:1
+ - *camaraderie* misspelled *\*comraderie,* *\*camraderie*, or *\*comradery*: Stage 1 Current ratio in print (*camaraderie* vs. *\*comradery* vs. *\*comraderie* vs. *\*camraderie*): 1,852:102:6:1
 

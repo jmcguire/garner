@@ -1,4 +1,4 @@
 # not every
 
-not every. See **not \(a\)**.
+not every. See **not (a)**.
 

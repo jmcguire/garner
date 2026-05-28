@@ -1,4 +1,4 @@
 # two worst
 
-two worst. See **worst \(b\)**.
+two worst. See **worst (b)**.
 

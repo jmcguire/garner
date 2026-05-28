@@ -5,5 +5,5 @@
 ## Language-Change Index
 
  - *\*repay back* for *repay* or *pay back*: Stage 1
- - Current ratio in print \(*pay back* vs. *\*repay back*\): 375:1
+ - Current ratio in print (*pay back* vs. *\*repay back*): 375:1
 

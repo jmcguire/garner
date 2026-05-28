@@ -10,5 +10,5 @@ Otherwise, the two verbs have undergone some degree of differentiation. What one
 
  - *chomping at the bit* for *champing at the bit*: Stage 5
 
- - Current ratio in print \(*chomping at the bit* vs. *champing at the bit*\): 1.6:1
+ - Current ratio in print (*chomping at the bit* vs. *champing at the bit*): 1.6:1
 

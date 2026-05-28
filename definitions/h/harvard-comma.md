@@ -1,4 +1,4 @@
 # Harvard Comma
 
-Harvard Comma. See punctuation \(d\).
+Harvard Comma. See punctuation (d).
 

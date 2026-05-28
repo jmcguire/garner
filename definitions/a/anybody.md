@@ -1,4 +1,4 @@
 # anybody
 
-anybody. See **anyone \(b\)** & pronouns \(d\).
+anybody. See **anyone (b)** & pronouns (d).
 

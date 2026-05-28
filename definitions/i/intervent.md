@@ -11,5 +11,5 @@
 ## Language-Change Index
 
  - *\*intervent* for *intervene*: Stage 1
- - Current ratio in print \(*intervened* vs. *\*intervented*\): 14,117:1
+ - Current ratio in print (*intervened* vs. *\*intervented*): 14,117:1
 

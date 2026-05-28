@@ -6,13 +6,13 @@ regretful; **regrettable**. Errors made are *regrettable*; the people who have m
 
  - "*Regretfully* \[read *Regrettably*\], the articles reflect a failure of contemporary liberalism and progressive politics." Mark H. Hornung, "Don't Argue with GOP, U. of C. Success," *Chicago Sun-Times*, 10 Nov. 1993, at 49.
 
- - "But realistically and *regretfully* \[read *regrettably*\], we can't pick and choose." "The Postal Code," *Globe & Mail* \(Toronto\), 11 Aug. 2015, at A10.
+ - "But realistically and *regretfully* \[read *regrettably*\], we can't pick and choose." "The Postal Code," *Globe & Mail* (Toronto), 11 Aug. 2015, at A10.
 
-See adverbs \(f\).
+See adverbs (f).
 
 ## Language-Change Index
 
  - *regretfully* misused for *regrettably*: Stage 4
- - Current ratio in print \(*regrettably not* vs. *\*regretfully not*\): 8:1
- - Current ratio in print \(*it is regrettable that* vs. \**it is regretful that*\): 31:1
+ - Current ratio in print (*regrettably not* vs. *\*regretfully not*): 8:1
+ - Current ratio in print (*it is regrettable that* vs. \**it is regretful that*): 31:1
 

@@ -1,4 +1,4 @@
 # logically
 
-logically. See adverbs \(f\).
+logically. See adverbs (f).
 

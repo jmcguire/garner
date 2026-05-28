@@ -1,4 +1,4 @@
 # oppugn
 
-oppugn. See **impugn \(a\)**.
+oppugn. See **impugn (a)**.
 

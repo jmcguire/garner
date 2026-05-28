@@ -2,7 +2,7 @@
 
 censor; censure.
 
-**A. As Verbs.** To *censor* /**sen**-sәr/ is to scrutinize and revise, to suppress or edit selectively. E.g.: "The news is severely *censored* by the Pentagon and the Arab information agency." Lucille Povero, "Local Newspaper Is the Best Hope of Getting the Truth," *St. Petersburg Times* \(Fla.\), 11 Jan. 1991, City Times §, at 2.
+**A. As Verbs.** To *censor* /**sen**-sәr/ is to scrutinize and revise, to suppress or edit selectively. E.g.: "The news is severely *censored* by the Pentagon and the Arab information agency." Lucille Povero, "Local Newspaper Is the Best Hope of Getting the Truth," *St. Petersburg Times* (Fla.), 11 Jan. 1991, City Times §, at 2.
 
 To *censure* /**sen**-shәr/ is to criticize severely, to castigate. E.g.:
 
@@ -12,13 +12,13 @@ To *censure* /**sen**-shәr/ is to criticize severely, to castigate. E.g.:
 
  - "Among the tenured professor's supporters is the American Association of University Professors, a Washington-based academic group that has threatened to *censure* the university if Al-Adrian is dismissed." Courtenay Edelhart, "Prof Defends Expression of His Beliefs," *Indianapolis Star*, 12 Sept. 2002, at A34.
 
-The word *censure* was widely mispronounced like *censor* in Congress during the impeachment proceedings against President Clinton \(Dec. 1998–Jan. 1999\), when *censure* was much discussed as a lesser measure against the President. The resulting misuse in print, common especially in the verb form, merits censure—e.g.:
+The word *censure* was widely mispronounced like *censor* in Congress during the impeachment proceedings against President Clinton (Dec. 1998–Jan. 1999), when *censure* was much discussed as a lesser measure against the President. The resulting misuse in print, common especially in the verb form, merits censure—e.g.:
 
  - "House Ethics Chairman Jim Hansen . . . used his senior standing to nudge colleagues further toward impeachment and away from *censoring* \[read *censuring*\] the president." John Heilprin, "Utah Delegation Backs Airstrikes, Questions Timing," *Salt Lake Trib.*, 17 Dec. 1998, at A1.
 
- - "Meanwhile, House Republicans may pay dearly for their magnificent obsession with William Jefferson Clinton. Once *censored* \[read *censured*\] or exonerated by the Senate, the president may extend an olive branch to the House." "We Can Wait," *News & Observer* \(Raleigh\), 29 Dec. 1998, at A10.
+ - "Meanwhile, House Republicans may pay dearly for their magnificent obsession with William Jefferson Clinton. Once *censored* \[read *censured*\] or exonerated by the Senate, the president may extend an olive branch to the House." "We Can Wait," *News & Observer* (Raleigh), 29 Dec. 1998, at A10.
 
-Sometimes the writer's intent becomes unclear—e.g.: "A production about her Bavarian adventure was so scandalous that the Lord Chamberlain, who *censured* \[read *censored*, probably\] plays, banned it." Michael Alpert, *London 1849: A Victorian Murder Story* 36 \(2004\). The reader can't be certain whether the lord routinely banned or panned plays.
+Sometimes the writer's intent becomes unclear—e.g.: "A production about her Bavarian adventure was so scandalous that the Lord Chamberlain, who *censured* \[read *censored*, probably\] plays, banned it." Michael Alpert, *London 1849: A Victorian Murder Story* 36 (2004). The reader can't be certain whether the lord routinely banned or panned plays.
 
 ## Language-Change Index
 
@@ -32,5 +32,5 @@ Sometimes the writer's intent becomes unclear—e.g.: "A production about her Ba
 
  - "Pentagon *censors* scrub TroopTube videos of sensitive footage, profanity, and other content that would be ‘inappropriate for families,' \[Lt. Col. Les\] Melnyk says." Dan Ephron, "A Few Good Viral Videos," *Newsweek*, 24 Nov. 2008, at 10.
 
-*Censure*, n., = \(1\) a judgment of condemnation; or \(2\) a serious reprimand. Sense 1: "There have long been calls to deny new livers to alcoholics as a form of moral *censure*." Froma Harrop, "Organ Transplants Raise the Issue of Medical Rationing," *Sacramento Bee*, 21 Nov. 1996, at B9. Sense 2: "Mack and O'Dell voted against *censure*, which Tobolski said applies to the one incident and can be repeated if legislators do not like Mack's comments." Donna Snyder, "Legislator Censured for Calling Leadership Corrupt," *Buffalo News*, 9 Jan. 1997, at C5.
+*Censure*, n., = (1) a judgment of condemnation; or (2) a serious reprimand. Sense 1: "There have long been calls to deny new livers to alcoholics as a form of moral *censure*." Froma Harrop, "Organ Transplants Raise the Issue of Medical Rationing," *Sacramento Bee*, 21 Nov. 1996, at B9. Sense 2: "Mack and O'Dell voted against *censure*, which Tobolski said applies to the one incident and can be repeated if legislators do not like Mack's comments." Donna Snyder, "Legislator Censured for Calling Leadership Corrupt," *Buffalo News*, 9 Jan. 1997, at C5.
 

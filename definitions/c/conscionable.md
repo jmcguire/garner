@@ -4,7 +4,7 @@ conscionable is not a mere needless variant of *conscientious* in its sense of "
 
  - "Otherwise *conscionable* \[read *conscientious*\] members of a different party hint that ethics and morality have little, if any, bearing on one's appropriateness and aptitude for elected leadership." Donna Madden, "People, Not Parties, Define Values," *Chicago Trib.*, 31 Oct. 1996, at 26.
 
- - "Few *conscionable* \[read *conscientious*\] people actually believe such drivel." James F. Lawrence, "Working Class, Low-Income Earners Under Attack from GOP," *Gainesville Guardian* \(Fla.\), 27 May 2021, at A4.
+ - "Few *conscionable* \[read *conscientious*\] people actually believe such drivel." James F. Lawrence, "Working Class, Low-Income Earners Under Attack from GOP," *Gainesville Guardian* (Fla.), 27 May 2021, at A4.
 
 As the antonym of *unconscionable*, the word *conscionable* means "agreeable to a good conscience; just and reasonable" and refers to things as opposed to people <a conscionable bargain>. E.g.:
 

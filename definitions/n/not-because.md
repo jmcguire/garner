@@ -1,4 +1,4 @@
 # not . . . because
 
-not . . . because. See **because \(c\)**.
+not . . . because. See **because (c)**.
 

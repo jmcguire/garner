@@ -4,9 +4,9 @@ comprise.
 
 **A. And *compose*.** Correct use of these words is simple, but increasingly rare. The parts *compose* the whole; the whole *comprises* the parts. The whole is *composed* of the parts; the parts are *comprised* in the whole. *Comprise*, the more troublesome word in this pair, means "to contain; to consist of"—e.g.:
 
- - "It will be seen that this little book *comprises* three sections not unusual in a college handbook." John Crowe Ransom, *A College Primer of Writing* iii \(1943\).
+ - "It will be seen that this little book *comprises* three sections not unusual in a college handbook." John Crowe Ransom, *A College Primer of Writing* iii (1943).
 
- - "In 1989 the second edition of the *OED* *comprised* twenty large volumes." Anthony Burgess, *A Mouthful of Air* 343 \(1992\).
+ - "In 1989 the second edition of the *OED* *comprised* twenty large volumes." Anthony Burgess, *A Mouthful of Air* 343 (1992).
 
  - "Summit Hall Farm *comprises* several hundred acres on the exterior portion of the original settlement of the Gaither family." Lana White Austin, "History and High Tech in Montgomery," *Wash. Times*, 30 May 1997, at F41.
 
@@ -16,22 +16,22 @@ comprise.
 
  - "The Rhode Island Wind Ensemble *is comprised of* \[read *comprises* or *has*\] 50 professional and amateur musicians, ranging in age from 15 to 82." "At the Colleges: Brown University," *Providence J.-Bull.*, 14 Sept. 1997, at H3.
 
- - "Moreover, the crowd in the mysterious room *was comprised of* \[read *comprised* or *was composed of*\] adults, and Harry knew there were not nearly that many teachers at Hogwarts." J.K. Rowling, *Harry Potter and the Goblet of Fire* 584 \(2000\).
+ - "Moreover, the crowd in the mysterious room *was comprised of* \[read *comprised* or *was composed of*\] adults, and Harry knew there were not nearly that many teachers at Hogwarts." J.K. Rowling, *Harry Potter and the Goblet of Fire* 584 (2000).
 
- - "The group *was comprised of* \[read *comprised*\] two married couples." Tom Bryant, "Here We Go Again," *Daily Record* \(Glasgow\), 3 Sept. 2021, at 12.
+ - "The group *was comprised of* \[read *comprised*\] two married couples." Tom Bryant, "Here We Go Again," *Daily Record* (Glasgow), 3 Sept. 2021, at 12.
 
 In 2015, a man named Bryan Henderson, a 51-year-old software engineer, was reported to have removed 18,000 instances of *\*is comprised of* from Wikipedia entries. He replaced it with *is composed of*. This solo human grammar-checker was praised in some quarters and derided in others. On a massive scale, he was making the very edits suggested in the preceding paragraph. What made it controversial, undoubtedly, is that he was correcting a Stage 4 misusage. If it had been Stage 1 or Stage 2, it might have been unremarkable. For his doggedness in preserving traditional phrasing—and marginally improving the writing in his favorite encyclopedia—Henderson merits praise, not scorn.
 
 ## Language-Change Index
 
  - *\*is comprised of* for *comprises*: Stage 4
- - Current ratio in print \(*comprises* vs. *\*is comprised of *\): 7:1
+ - Current ratio in print (*comprises* vs. *\*is comprised of *): 7:1
 
 **C. *Comprise* for *make up* or *constitute*.** If the whole comprises the parts, the reverse can't be true—e.g.:
 
  - "Of the 50 stocks that *comprise* \[read *make up*\] the index, 40 had gains, 8 had losses and 2 were unchanged." "Market Finishes Monster Week," *Fla. Today*, 15 June 1997, at E2.
 
- - "The 18 countries that *comprise* \[read *constitute* or *make up*\] APEC represent some of the fastest growing economies in the world." "U.S. Ties to Asia: Why Should We Care?," *Daily News* \(L.A.\), 25 Nov. 1997, at B1.
+ - "The 18 countries that *comprise* \[read *constitute* or *make up*\] APEC represent some of the fastest growing economies in the world." "U.S. Ties to Asia: Why Should We Care?," *Daily News* (L.A.), 25 Nov. 1997, at B1.
 
 ## Language-Change Index
 
@@ -44,7 +44,7 @@ In 2015, a man named Bryan Henderson, a 51-year-old software engineer, was repor
 ## Language-Change Index
 
  - *comprise* misspelled *\*comprize*: Stage 1
- - Current ratio in print \(*comprised* vs. *\*comprized*\): 850:1
+ - Current ratio in print (*comprised* vs. *\*comprized*): 850:1
 
 **F. *Compromise* for *comprise*.** See double bobbles.
 

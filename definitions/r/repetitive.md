@@ -4,5 +4,5 @@ repetitive; **repetitious**; \***repetitional**; **\*repetitionary**. The first 
 
 *\*Repetitional* and *\*repetitionary* are needless variants of *repetitive*.
 
- - Current ratio in print \(*repetitive* vs. *repetitious* vs. \**repetitional* vs. \**repetitionary*\): 12,332:791:7:1
+ - Current ratio in print (*repetitive* vs. *repetitious* vs. \**repetitional* vs. \**repetitionary*): 12,332:791:7:1
 

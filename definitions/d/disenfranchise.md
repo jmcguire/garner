@@ -5,5 +5,5 @@ disenfranchise; **disfranchise**. Though *disfranchise* was long favored—from 
 ## Language-Change Index
 
  - *disenfranchise* for *disfranchise*: Stage 5
- - Current ratio in print \(*disenfranchised* vs. *disfranchised*\): 7:1
+ - Current ratio in print (*disenfranchised* vs. *disfranchised*): 7:1
 

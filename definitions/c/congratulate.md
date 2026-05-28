@@ -12,7 +12,7 @@ This verb is sometimes also the victim of object-shuffling. You're supposed to c
 
  - "As one who was in the Forum when the bomb arrived, he *congratulated the vigilance of staff* \[read *congratulated the staff for their vigilance*\]." Gerry Moriarty, "Army Defuses ‘Crude but Viable' Parcel Bomb Sent to UK Unionist Party Leader," *Irish Times*, 25 July 1997, at 6.
 
- - "People grasped him by the hand, *congratulated his courage* \[read *congratulated him for his courage*\], skill and foresight." Sue Denham, "The Things People Will Do for a Union Card," *Sunday Times* \(London\), 21 Mar. 1999, at 21.
+ - "People grasped him by the hand, *congratulated his courage* \[read *congratulated him for his courage*\], skill and foresight." Sue Denham, "The Things People Will Do for a Union Card," *Sunday Times* (London), 21 Mar. 1999, at 21.
 
  - "The MP for Monmouth, David Davies, *congratulated pupils' successes* \[read *congratulated pupils for their successes*\]." Ian Craig, "Celebrations Across Monmouthshire," *South Wales Argus*, 15 Aug. 2019.
 

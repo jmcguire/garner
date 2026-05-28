@@ -1,4 +1,4 @@
 # houseful
 
-houseful. Pl. *housefuls*. See plurals \(g\).
+houseful. Pl. *housefuls*. See plurals (g).
 

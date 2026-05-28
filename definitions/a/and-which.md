@@ -1,4 +1,4 @@
 # and which
 
-and which. See **which \(d\)**.
+and which. See **which (d)**.
 

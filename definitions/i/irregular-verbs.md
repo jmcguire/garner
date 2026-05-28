@@ -2,11 +2,11 @@
 
 Irregular Verbs .
 
-**A. Inflected Forms.** There are two types of verbs—regular \(or "weak"\) and irregular \(or "strong"\). Irregular verbs form the past tense or past participle in apparently unpredictable ways, usually by changing the vowel of the present-tense form, without the addition of an ending \(e.g., *begin*, *began*; *rise*, *rose*; *wring*, *wrung*\). Regular verbs, by contrast, form the past tense by adding *-ed*, *-d*, or *-t* to the present tense.
+**A. Inflected Forms.** There are two types of verbs—regular (or "weak") and irregular (or "strong"). Irregular verbs form the past tense or past participle in apparently unpredictable ways, usually by changing the vowel of the present-tense form, without the addition of an ending (e.g., *begin*, *began*; *rise*, *rose*; *wring*, *wrung*). Regular verbs, by contrast, form the past tense by adding *-ed*, *-d*, or *-t* to the present tense.
 
-Irregular verbs are sometimes called "strong" verbs because they seem to form the past tense from their own resources, without calling an ending to their assistance. The regular verbs are sometimes called "weak" verbs because they cannot form the past tense without the aid of the ending \(most often *-ed*\).
+Irregular verbs are sometimes called "strong" verbs because they seem to form the past tense from their own resources, without calling an ending to their assistance. The regular verbs are sometimes called "weak" verbs because they cannot form the past tense without the aid of the ending (most often *-ed*).
 
-All told, English now has fewer than 270 live irregular verbs. The trend is against the irregular forms: "For many centuries there has been a steady loss in favor of the weak class." George O. Curme, *English Grammar* § 42.B.2, at 73 \(1947\). Here are the most common irregular forms:
+All told, English now has fewer than 270 live irregular verbs. The trend is against the irregular forms: "For many centuries there has been a steady loss in favor of the weak class." George O. Curme, *English Grammar* § 42.B.2, at 73 (1947). Here are the most common irregular forms:
 
 |*Present Tense* | ***Past Tense*** | ***Past Participle*** |
 |---|---|---|
@@ -23,8 +23,8 @@ All told, English now has fewer than 270 live irregular verbs. The trend is agai
 | beseech | besought | besought | 
 | beset | beset | beset | 
 | bet | bet | bet | 
-| bid | \(express\) | bade | bidden | 
-| bid | \(offer\) | bid | bid | 
+| bid | (express) | bade | bidden | 
+| bid | (offer) | bid | bid | 
 | bind | bound | bound | 
 | bite | bit | bitten | 
 | bleed | bled | bled | 
@@ -39,7 +39,7 @@ All told, English now has fewer than 270 live irregular verbs. The trend is agai
 | cast | cast | cast | 
 | catch | caught | caught | 
 | choose | chose | chosen | 
-| cleave | \(= | to | split\) | cleft | cleft | 
+| cleave | (= | to | split) | cleft | cleft | 
 | cling | clung | clung | 
 | come | came | come | 
 | cost | cost | cost | 
@@ -47,7 +47,7 @@ All told, English now has fewer than 270 live irregular verbs. The trend is agai
 | cut | cut | cut | 
 | deal | dealt | dealt | 
 | dig | dug | dug | 
-| dive | dove | \(AmE\), | dived | \(BrE\) | dived | 
+| dive | dove | (AmE), | dived | (BrE) | dived | 
 | do | did | done | 
 | draw | drew | drawn | 
 | drink | drank | drunk | 
@@ -71,12 +71,12 @@ All told, English now has fewer than 270 live irregular verbs. The trend is agai
 | forsake | forsook | forsaken | 
 | forswear | forswore | forsworn | 
 | freeze | froze | frozen | 
-| get | got | gotten | \(AmE\), | got | \(BrE\) | 
+| get | got | gotten | (AmE), | got | (BrE) | 
 | give | gave | given | 
 | go | went | gone | 
 | grind | ground | ground | 
 | grow | grew | grown | 
-| hang | \(a | picture\) | hung | hung | 
+| hang | (a | picture) | hung | hung | 
 | have | had | had | 
 | hear | heard | heard | 
 | hide | hid | hidden | 
@@ -87,13 +87,13 @@ All told, English now has fewer than 270 live irregular verbs. The trend is agai
 | kneel | knelt | knelt | 
 | know | knew | known | 
 | lade | laded | laden | 
-| lay | \(= | to | place\) | laid | laid | 
+| lay | (= | to | place) | laid | laid | 
 | lead | led | led | 
 | leap | leaped, | leapt | leaped, | leapt | 
 | leave | left | left | 
 | lend | lent | lent | 
 | let | let | let | 
-| lie | \(= | to | rest\) | lay | lain | 
+| lie | (= | to | rest) | lay | lain | 
 | light | lit | lit | 
 | lose | lost | lost | 
 | make | made | made | 
@@ -174,7 +174,7 @@ All told, English now has fewer than 270 live irregular verbs. The trend is agai
 | undo | undid | undone | 
 | uphold | upheld | upheld | 
 | upset | upset | upset | 
-| wake | woke | woken | \(or | waked\) | 
+| wake | woke | woken | (or | waked) | 
 | wear | wore | worn | 
 | weave | wove | woven | 
 | weep | wept | wept | 
@@ -186,21 +186,21 @@ All told, English now has fewer than 270 live irregular verbs. The trend is agai
 | wring | wrung | wrung | 
 | write | wrote | written | 
 
-**B. Past-Participial Adjectives No Longer Used as Verb Forms.** Many past participles no longer exist as verbs in good usage, but continue as adjectives. For examples discussed in entries throughout this book, see **behold** \(the adjective being *beholden*\), **cleave** \(*cloven*\), **laden, melt** (*molten*\), **mow** \(*mown*\), **proved** \(*proven*\), **saw** \(*sawn*\), **shape** \(*misshapen*, *well-shapen*\), **shave** \(*shaven*\), **stricken** & **swell** (*swollen*\). Some adjectives of this type persist only as archaisms; see **engrave** \(*engraven*\) & **gnaw** \(*gnawn*\).
+**B. Past-Participial Adjectives No Longer Used as Verb Forms.** Many past participles no longer exist as verbs in good usage, but continue as adjectives. For examples discussed in entries throughout this book, see **behold** (the adjective being *beholden*), **cleave** (*cloven*), **laden, melt** (*molten*), **mow** (*mown*), **proved** (*proven*), **saw** (*sawn*), **shape** (*misshapen*, *well-shapen*), **shave** (*shaven*), **stricken** & **swell** (*swollen*). Some adjectives of this type persist only as archaisms; see **engrave** (*engraven*) & **gnaw** (*gnawn*).
 
-**C. AmE vs. BrE.** Sometimes the choice between two past-tense or \(more commonly\) past-participial forms depends on which major strain of English one is working in. AmE prefers *gotten*, BrE *got*. \(See **get \(b\).\)** A similar pair is *hewed* \(AmE\) and *hewn* \(BrE\).
+**C. AmE vs. BrE.** Sometimes the choice between two past-tense or (more commonly) past-participial forms depends on which major strain of English one is working in. AmE prefers *gotten*, BrE *got*. (See **get (b).)** A similar pair is *hewed* (AmE) and *hewn* (BrE).
 
-**D. Dialectal Forms.** One characteristic of dialect is the use of past participles in place of past-tense verbs—e.g., *\*it begun a moment ago*, *\*he swum*, *\*the shirt shrunk*, *\*the grass sprung up*, *\*she sung loudly*, *\*the ship sunk*. For examples discussed in various entries, see **drink** \(*\*I drunk it all*\), **sink** \(*\*he sunk*\) & **swim** \(*\*she swum*\).
+**D. Dialectal Forms.** One characteristic of dialect is the use of past participles in place of past-tense verbs—e.g., *\*it begun a moment ago*, *\*he swum*, *\*the shirt shrunk*, *\*the grass sprung up*, *\*she sung loudly*, *\*the ship sunk*. For examples discussed in various entries, see **drink** (*\*I drunk it all*), **sink** (*\*he sunk*) & **swim** (*\*she swum*).
 
-Another dialectal trait is the use of past-tense verbs for past participles—e.g., *\*she had began piano lessons*, *\*he's been bit by a snake*. See **begin \(c\)** (*\*had began*\), **bite** \(*\*had bit*\), **drink** \(*\*had drank*\) & **shake** \(*\*was shook*\).
+Another dialectal trait is the use of past-tense verbs for past participles—e.g., *\*she had began piano lessons*, *\*he's been bit by a snake*. See **begin (c)** (*\*had began*), **bite** (*\*had bit*), **drink** (*\*had drank*) & **shake** (*\*was shook*).
 
-Still another characteristic of dialect is the use of regular past forms for irregular verbs—e.g., *\*the shirt shrinked*, *\*the bee stinged me*, *\*he sweared he'd never let it happen*, *\*he swinged at the ball*. For examples discussed in various entries, see **bet** \(*\*betted*\), **cast** \(*\*casted*\), **deal** (*\*dealed*\), **drive** (*\*drived*\), **shrink** \(*\*shrinked*\) & **strew** (*\*strewed*\).
+Still another characteristic of dialect is the use of regular past forms for irregular verbs—e.g., *\*the shirt shrinked*, *\*the bee stinged me*, *\*he sweared he'd never let it happen*, *\*he swinged at the ball*. For examples discussed in various entries, see **bet** (*\*betted*), **cast** (*\*casted*), **deal** (*\*dealed*), **drive** (*\*drived*), **shrink** (*\*shrinked*) & **strew** (*\*strewed*).
 
-Finally, dialects have many irregular past forms differing from those of standard english. See **bring \(a\)** (*\*brung*\), **buy \(a\)** (*\*boughten*\), **chide** \(*\*chid*, *\*chidden*\), **climb \(a\)** (*\*clomb* and *\*clumb*\), **drag** \(*drug*\), **drown \(a\)** (*\*drownded*\), **overflow** \(*\*overflown*\), **pleaded** \(*\*pled*\), **ride** \(*rid*\), **sling** \(*slang*\) & **swell** (*\*swoll*, *\*swole*\). Over time an irregular form might become standard; for examples, see **fit** & **snuck**.
+Finally, dialects have many irregular past forms differing from those of standard english. See **bring (a)** (*\*brung*), **buy (a)** (*\*boughten*), **chide** (*\*chid*, *\*chidden*), **climb (a)** (*\*clomb* and *\*clumb*), **drag** (*drug*), **drown (a)** (*\*drownded*), **overflow** (*\*overflown*), **pleaded** (*\*pled*), **ride** (*rid*), **sling** (*slang*) & **swell** (*\*swoll*, *\*swole*). Over time an irregular form might become standard; for examples, see **fit** & **snuck**.
 
 For the related issue of phrases such as *\*might should have*, see double modals.
 
-**E. Derived Nouns Used as Verbs.** Often, when an irregular verb forms a noun \(especially a compound noun\) and that noun is then used as a verb, the inflection is regular rather than irregular. For example, in baseball a ball that is hit into the air is a *fly ball*, often shortened to a *fly*. When a batter hits one, we say that he *flied* \(not *flew*\) out to left field. \(See **fly**.\) When the ball makes a beeline to an outfielder without touching the ground, we say that the batter *line-drived* \(not *line-drove*\) it. \(See **drive**.) When someone gets the cold-shoulder treatment from associates, we may even say, colloquially, that the person has been *\*deep-freezed*, though in this particular instance most fastidious editors would prefer *deep-frozen*. \(See **deep-freeze**.\) Essentially the root verb is removed from its native grammatical form when it is made into a noun \(*fly*, *line-drive*, *deep-freeze*\), and when the noun is then used as a verb, it demands regular inflections in order to maintain a close association with the derived noun. Otherwise, the reader is distracted by a miscue, such as seeing the batter actually flying or driving.
+**E. Derived Nouns Used as Verbs.** Often, when an irregular verb forms a noun (especially a compound noun) and that noun is then used as a verb, the inflection is regular rather than irregular. For example, in baseball a ball that is hit into the air is a *fly ball*, often shortened to a *fly*. When a batter hits one, we say that he *flied* (not *flew*) out to left field. (See **fly**.) When the ball makes a beeline to an outfielder without touching the ground, we say that the batter *line-drived* (not *line-drove*) it. (See **drive**.) When someone gets the cold-shoulder treatment from associates, we may even say, colloquially, that the person has been *\*deep-freezed*, though in this particular instance most fastidious editors would prefer *deep-frozen*. (See **deep-freeze**.) Essentially the root verb is removed from its native grammatical form when it is made into a noun (*fly*, *line-drive*, *deep-freeze*), and when the noun is then used as a verb, it demands regular inflections in order to maintain a close association with the derived noun. Otherwise, the reader is distracted by a miscue, such as seeing the batter actually flying or driving.
 
 **F. Choice Between *-ed* and *-'d*.** See -ed.
 

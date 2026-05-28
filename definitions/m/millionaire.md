@@ -5,5 +5,5 @@ millionaire is so spelled—not, like *questionnaire*, with *-nn-*. But writers 
 ## Language-Change Index
 
  - *millionaire* misspelled *\*millionnaire*: Stage 1
- - Current ratio in print \(*millionaire* vs. \**millionnaire*\): 60:1
+ - Current ratio in print (*millionaire* vs. \**millionnaire*): 60:1
 

@@ -19,11 +19,11 @@ Oxymorons .
  - standard deviation
  - sure bet
 
-Among language aficionados, collecting and inventing cynical oxymorons is a parlor game; they enjoy phrases that seem to imply contradictions, such as *military intelligence*, *legal brief*, and *greater Cleveland* \(this last being quite unfair to a great city\).
+Among language aficionados, collecting and inventing cynical oxymorons is a parlor game; they enjoy phrases that seem to imply contradictions, such as *military intelligence*, *legal brief*, and *greater Cleveland* (this last being quite unfair to a great city).
 
 Writers sometimes use oxymorons to good effect—e.g.: "And there was, moreover, an irresponsibly giddy antigovernment fervor among the more *sophomoric House freshmen*." Joe Klein, "The Unabomber and the Left," *Newsweek*, 22 Apr. 1996, at 39. The main thing to avoid is seemingly unconscious incongruity such as *\*increasingly less* or *\*advancing backwards*.
 
-**B. Plural.** Although most dictionaries list only the Greek plural *oxymora*, Margaret Nicholson listed *oxymorons* first in 1957 \(*DAEU* at 403\). In fact, *oxymorons* is now over twice as common as *oxymora* in print sources, and it ought to be accepted as standard—e.g.: "*Oxymorons*, like beauty, seem to be in the eye of the beholder." Mary Newton Bruder, *The Grammar Lady* 166 \(2000\). See plurals \(b\).
+**B. Plural.** Although most dictionaries list only the Greek plural *oxymora*, Margaret Nicholson listed *oxymorons* first in 1957 (*DAEU* at 403). In fact, *oxymorons* is now over twice as common as *oxymora* in print sources, and it ought to be accepted as standard—e.g.: "*Oxymorons*, like beauty, seem to be in the eye of the beholder." Mary Newton Bruder, *The Grammar Lady* 166 (2000). See plurals (b).
 
 Today, *oxymora* looks pedantic—e.g.:
 
@@ -31,10 +31,10 @@ Today, *oxymora* looks pedantic—e.g.:
 
  - "During a fall month of a Major League Baseball season, former catcher/manager Yogi Berra, the king of *oxymora* \[read *oxymorons*\], once noted that it was getting ‘later earlier.' " "July Was 2nd Driest on Record," *Indianapolis Star*, 6 Aug. 1997, at B4.
 
- - "Add this to your list of government *oxymora* \[read *oxymorons*\]: Priority Mail." Rick Brooks, "Priority Mail Fails Test of Time," *Times Union* \(Albany\), 30 May 2002, at A1.
+ - "Add this to your list of government *oxymora* \[read *oxymorons*\]: Priority Mail." Rick Brooks, "Priority Mail Fails Test of Time," *Times Union* (Albany), 30 May 2002, at A1.
 
 ## Language-Change Index
 
  - *oxymorons* as the plural for *oxymoron*: Stage 5
- - Current ratio in print \(*oxymorons* vs. *oxymora*\): 2.5:1
+ - Current ratio in print (*oxymorons* vs. *oxymora*): 2.5:1
 

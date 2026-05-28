@@ -2,7 +2,7 @@
 
 lay; lie.
 
-**A. The Distinction.** Very simply, *lie* \(= to recline, be situated\) is intransitive—it can't take a direct object <he lies on his bed>. But *lay* \(= to put down, arrange\) is always transitive—it needs a direct object <please lay the book on my desk>. The verbs are inflected as follows:
+**A. The Distinction.** Very simply, *lie* (= to recline, be situated) is intransitive—it can't take a direct object <he lies on his bed>. But *lay* (= to put down, arrange) is always transitive—it needs a direct object <please lay the book on my desk>. The verbs are inflected as follows:
 
 Because *lie* is intransitive, it has only an active voice <lie down for a while>. And because *lay* is transitive, it may be either active <he laid the blanket over her> or passive <the blanket was laid over her>. See passive voice.
 
@@ -14,7 +14,7 @@ The most unusual of these inflected forms, of course, is *lain*, but most writer
 
  - "Prosecutors later claimed the witness had *lain* down next to two of the murder victims, expecting to die." Tom Jackman, "Witness in Three Murder Cases Pleads Guilty to Conspiracy," *Kansas City Star*, 28 June 1994, at B1.
 
- - "Massive seed banks that have *lain* dormant for decades are expected to re-emerge from freshly exposed muck." James F. McCarty, "Project Set to Restore Mentor Marsh," *Plain Dealer* \(Cleveland\), 31 Aug. 2015, at A6.
+ - "Massive seed banks that have *lain* dormant for decades are expected to re-emerge from freshly exposed muck." James F. McCarty, "Project Set to Restore Mentor Marsh," *Plain Dealer* (Cleveland), 31 Aug. 2015, at A6.
 
 The proper form of this past participle admittedly sounds archaic. See **lie** & irregular verbs.
 
@@ -24,17 +24,17 @@ The proper form of this past participle admittedly sounds archaic. See **lie** &
 
  - "The girls were ordered to *lay* \[read *lie*\] face down on the floor and were told they would have their throats slit if they yelled." "Girls' Final Hours Detailed in Court," *Amarillo Sunday News-Globe*, 15 May 1994, at A17.
 
- - "If you've got an extra $79,800 *laying* \[read *lying*\] around you could become the proud owner of two vacant buildings on the southeast corner of the Canyon square." Bill Rogers, "Buildings Priced at $79,800," *Canyon News* \(Tex.\), 30 Oct. 1994, at 1.
+ - "If you've got an extra $79,800 *laying* \[read *lying*\] around you could become the proud owner of two vacant buildings on the southeast corner of the Canyon square." Bill Rogers, "Buildings Priced at $79,800," *Canyon News* (Tex.), 30 Oct. 1994, at 1.
 
  - "This Christmas give a gift that's been *laying* \[read *lying*\] around for twelve years." Advertisement for Glenlivet Scotch Whisky, *Atlantic Monthly*, Dec. 1994, at 13.
 
- - "He described the SS doctor in the hospital at Dachau who forced sick inmates, many close to death, to *lay* \[read *lie*\] with their hands rigidly at their sides." David Chrisinger, "A Secret Diary Chronicled the ‘Satanic World' That Was Dachau," *N.Y. Times* \(special supp. on World War II\), 6 Sept. 2020.
+ - "He described the SS doctor in the hospital at Dachau who forced sick inmates, many close to death, to *lay* \[read *lie*\] with their hands rigidly at their sides." David Chrisinger, "A Secret Diary Chronicled the ‘Satanic World' That Was Dachau," *N.Y. Times* (special supp. on World War II), 6 Sept. 2020.
 
 Similarly, although a sickness can *lay you low*, if you're in that position you're *lying low*—e.g.: "Back when James A. Baker 3d was *lying low* over at the White House, the first invisible chief of staff, cynics in the West Wing said he was trying to avoid being tied too closely to a Presidential campaign that seemed headed for the political dump." "Baker Takes New Role, Leading ‘Winnable' Bid," *N.Y. Times*, 31 Oct. 1992, at 8. But American journalists get it wrong as often as they get it right—e.g.:
 
  - "Another reason I *laid low* \[read *lay low*\] was to be in a position to help a friend back out of what he now must know to be a dead end." William Safire, "Buchanan's Campaign," *N.Y. Times*, 16 Dec. 1991, at A15.
 
- - "A wan-sounding D'Amato said he has been *laying low* \[read *lying low*\], nursing a bad cold at home on Long Island, since Giuliani announced his endorsement of Cuomo." Bob Liff & Charles V. Zehren, "D'Amato Tries to Hide from Spotlight," *Newsday* \(N.Y.\), 27 Oct. 1994, at A25.
+ - "A wan-sounding D'Amato said he has been *laying low* \[read *lying low*\], nursing a bad cold at home on Long Island, since Giuliani announced his endorsement of Cuomo." Bob Liff & Charles V. Zehren, "D'Amato Tries to Hide from Spotlight," *Newsday* (N.Y.), 27 Oct. 1994, at A25.
 
  - "Lately allegedly told a killer to *lay low* \[read *lie low*\] after a homicide and tried to thwart a police investigation into the crime." George Hunter & Holly Fournier, "Bond Lowered for Detroit Cop Facing Charges in Murder Plot," *Detroit News*, 27 Aug. 2015, at A6.
 
@@ -44,17 +44,17 @@ Another common mistake is *laying in wait* for *lying in wait*—e.g.:
 
  - "Dunlap has been accused of *laying* \[read *lying*\] in wait until closing time at the Chuck E Cheese restaurant, then systematically shooting the five employees still on duty." Ginny McKibben, "Ex-Friend Links Dunlap to Burger King Robbery," *Denver Post*, 1 Apr. 1995, at B4.
 
-Some blame the confusion in part on the children's prayer that begins, "Now I *lay* me down to sleep." But there, *lay* is properly transitive \(*me*, meaning "myself," being its object\). It is grammatically equivalent to "Now I *lie* down to sleep," though metrically speaking the latter doesn't have a prayer.
+Some blame the confusion in part on the children's prayer that begins, "Now I *lay* me down to sleep." But there, *lay* is properly transitive (*me*, meaning "myself," being its object). It is grammatically equivalent to "Now I *lie* down to sleep," though metrically speaking the latter doesn't have a prayer.
 
 ## Language-Change Index
 
 1. *lay* misused for *lie*: Stage 4
 
-2. *\*lay low* for *lie low* \(as a present-tense form\): Stage 4
- - Current ratio in print \(*to lie low* vs. *\*to lay low*\): 1.1:1
+2. *\*lay low* for *lie low* (as a present-tense form): Stage 4
+ - Current ratio in print (*to lie low* vs. *\*to lay low*): 1.1:1
 
-3. *\*laid low* for *lay low* \(as a past form\): Stage 4
- - Current ratio in print \(*they lay low* vs. *\*they laid low*\): 1.9:1
+3. *\*laid low* for *lay low* (as a past form): Stage 4
+ - Current ratio in print (*they lay low* vs. *\*they laid low*): 1.9:1
 
 **C. *Laid* for Past-Tense *lay*.** The *lay*-for-*lie* error also occurs with the past-tense forms—e.g.:
 
@@ -65,7 +65,7 @@ Some blame the confusion in part on the children's prayer that begins, "Now I *l
 ## Language-Change Index
 
  - *laid* misused for past-tense *lay*: Stage 4
- - Current ratio in print \(*he lay down on* vs. *\*he laid down on*\): 5:1
+ - Current ratio in print (*he lay down on* vs. *\*he laid down on*): 5:1
 
 **D. *Laid* for *lain*.** Not surprisingly, the same mistake occurs with the past participles as well—e.g.:
 
@@ -73,14 +73,14 @@ Some blame the confusion in part on the children's prayer that begins, "Now I *l
 
  - "Or the epilepsy might have *laid* \[read *lain*\] dormant, triggered by the ball's blow, she says." Susan H. Thompson, "Boy Loses Chunk of Brain, Regains His Life," *Tampa Trib.*, 16 Sept. 1996, Baylife §, at 1.
 
- - "Foes have lashed out with claims that the plan was hastily worked out over the past few weeks after the deregulation idea had *laid* \[read *lain*\] dormant for two years." Dave Sheingold, "Landline Oversight Fading," *Record* \(N.J.\), 20 May 2015, at A1.
+ - "Foes have lashed out with claims that the plan was hastily worked out over the past few weeks after the deregulation idea had *laid* \[read *lain*\] dormant for two years." Dave Sheingold, "Landline Oversight Fading," *Record* (N.J.), 20 May 2015, at A1.
 
 ## Language-Change Index
 
  - *laid* misused for past-participial *lain*: Stage 4
- - Current ratio in print \(*had lain idle* vs. *\*had laid idle*\): 36:1
+ - Current ratio in print (*had lain idle* vs. *\*had laid idle*): 36:1
 
-**E. *Lain* for the Past-Participial *laid*.** This is a ghastly example of hypercorrection, that is, choosing the more far-fetched \(and, as it happens, wrong\) term in a contorted attempt to be correct—e.g.:
+**E. *Lain* for the Past-Participial *laid*.** This is a ghastly example of hypercorrection, that is, choosing the more far-fetched (and, as it happens, wrong) term in a contorted attempt to be correct—e.g.:
 
  - "Earlier in the day, several people had *‘lain hands'* \[read *'laid hands'*\] on Zachary and prayed for him. This is common at the crusades, as many people seem to think that God has anointed them." Mike Thomas, "The Power and the Glory," *Orlando Sentinel*, 24 Nov. 1991, at 9.
 
@@ -91,5 +91,5 @@ Some blame the confusion in part on the children's prayer that begins, "Now I *l
 ## Language-Change Index
 
  - *lain* for past-participial *laid*: Stage 1
- - Current ratio in print \(*had laid the foundation* vs. *\*had lain the foundation*\): 343:1
+ - Current ratio in print (*had laid the foundation* vs. *\*had lain the foundation*): 343:1
 

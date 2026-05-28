@@ -1,4 +1,4 @@
 # \*very unique
 
-\*very unique. See adjectives \(b\) & **unique**.
+\*very unique. See adjectives (b) & **unique**.
 

@@ -1,4 +1,4 @@
 # on the contrary
 
-on the contrary. See **contrary \(b\)**.
+on the contrary. See **contrary (b)**.
 

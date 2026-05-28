@@ -1,4 +1,4 @@
 # Square Brackets
 
-Square Brackets. See punctuation \(p\).
+Square Brackets. See punctuation (p).
 

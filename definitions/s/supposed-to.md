@@ -1,6 +1,6 @@
 # supposed to
 
-supposed to \(= expected to\) wrongly made *\*suppose to* has been a fairly common error since the 1940s—e.g.:
+supposed to (= expected to) wrongly made *\*suppose to* has been a fairly common error since the 1940s—e.g.:
 
  - "We're *suppose* \[read *supposed*\] to feel her greatest humiliation in this scene." Avis L. Weathersbee, "Judging TV's Black Images," *Chicago Sun-Times*, 8 Apr. 2001, Showcase §, at 1.
 
@@ -15,5 +15,5 @@ In constructions in which *suppose* means "to assume," an infinitive may follow 
 ## Language-Change Index
 
  - *\*is suppose to* for *is supposed to*: Stage 1
- - Current ratio in print \(*is supposed to* vs. *\*is suppose to*\): 362:1
+ - Current ratio in print (*is supposed to* vs. *\*is suppose to*): 362:1
 

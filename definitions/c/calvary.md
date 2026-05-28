@@ -1,12 +1,12 @@
 # calvary
 
-calvary; **cavalry**. Though having wholly unrelated meanings, these words are often subjected to word-swapping \(the first taking the place of the second\). *Calvary* = \(1\) \(cap.\) the place near Jerusalem where Jesus was crucified; \(2\) \(sometimes cap.\) a depiction or representation of Jesus' crucifixion; or \(3\) \(l.c.\) an experience of intense suffering; an ordeal. *Cavalry* = \(1\) a military unit mounted on horseback; or \(2\) a motorized military unit.
+calvary; **cavalry**. Though having wholly unrelated meanings, these words are often subjected to word-swapping (the first taking the place of the second). *Calvary* = (1) (cap.) the place near Jerusalem where Jesus was crucified; (2) (sometimes cap.) a depiction or representation of Jesus' crucifixion; or (3) (l.c.) an experience of intense suffering; an ordeal. *Cavalry* = (1) a military unit mounted on horseback; or (2) a motorized military unit.
 
-The reason for the confusion, of course, is the similarity in sound and spelling—the two words contain the same seven letters. When spoken, the sounds in the word *cavalry* /**ka**-vәl-ree/ are sometimes transposed \(a process known as metathesis\), resulting in a mispronunciation of the word as /**kal**-vә-ree/. And because it is misspoken, it is also misused in print—e.g.:
+The reason for the confusion, of course, is the similarity in sound and spelling—the two words contain the same seven letters. When spoken, the sounds in the word *cavalry* /**ka**-vәl-ree/ are sometimes transposed (a process known as metathesis), resulting in a mispronunciation of the word as /**kal**-vә-ree/. And because it is misspoken, it is also misused in print—e.g.:
 
  - "Raina feeds him chocolate and when he feels safe enough to talk, he calls the Bulgarian leader of the *calvary* \[read *cavalry*\] charge ‘an operatic tenor.' " Anne Marie Welsh, "A Wry, Wise Look at the Classics," *San Diego Union-Trib.*, 8 June 1996, at E5.
 
- - "The third annual Civil War encampment of the Lafayette Artillery Company served up field demonstrations of infantry marches and *calvary* \[read *cavalry*\] charges, complete with an unexpected horse fall." Paul Clifton-Waite, "Slice of Civil Strife," *Union Leader* \(Manchester, N.H.\), 25 Aug. 1996, at B1.
+ - "The third annual Civil War encampment of the Lafayette Artillery Company served up field demonstrations of infantry marches and *calvary* \[read *cavalry*\] charges, complete with an unexpected horse fall." Paul Clifton-Waite, "Slice of Civil Strife," *Union Leader* (Manchester, N.H.), 25 Aug. 1996, at B1.
 
  - "After the second mile into the race, the Franklin Park environ resembled a *calvary* \[read *cavalry*\] charge with 40 runners near the front." John Connolly, "In the Long Run, Villanova Too Tough," *Boston Herald*, 17 Nov. 1996, at B17.
 
@@ -20,5 +20,5 @@ Cf. **irrelevant** & **regime**.
 
 ## Language-Change Index
 
- - *calvary* misused for *cavalry*: Stage 1 Current ratio in print \(*cavalry charge* vs. \**calvary charge*\): 515:1 Current ratio in print \(*cavalry division* vs. \**calvary division*\): 1,520:1
+ - *calvary* misused for *cavalry*: Stage 1 Current ratio in print (*cavalry charge* vs. \**calvary charge*): 515:1 Current ratio in print (*cavalry division* vs. \**calvary division*): 1,520:1
 

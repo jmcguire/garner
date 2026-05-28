@@ -1,4 +1,4 @@
 # parvenu
 
-parvenu. See **nouveau riche \(b\)**.
+parvenu. See **nouveau riche (b)**.
 

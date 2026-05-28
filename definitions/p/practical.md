@@ -12,7 +12,7 @@ practical; **practicable**. Though similar, these words should be distinguished.
 
 For a mistake related to this word, see **impracticability**. For comments on the negative forms, see **impractical**.
 
-Occasionally *practicable* is misused for *practical*—e.g.: "The articles in The Syracuse Newspapers and comments by the Syracuse SkyChiefs Board of Directors were very interesting and extremely *practicable* \[read *practical*\]." Letter of John Anthony, "There's Already Doubt About '98 SkyChiefs," *Post-Standard* \(Syracuse\), 11 Sept. 1997, at D2. See **possible \(a\)**.
+Occasionally *practicable* is misused for *practical*—e.g.: "The articles in The Syracuse Newspapers and comments by the Syracuse SkyChiefs Board of Directors were very interesting and extremely *practicable* \[read *practical*\]." Letter of John Anthony, "There's Already Doubt About '98 SkyChiefs," *Post-Standard* (Syracuse), 11 Sept. 1997, at D2. See **possible (a)**.
 
 In both words, the first syllable is stressed: /**prak**-ti-kәl/ and /**prak**-ti-kә-bәl/.
 

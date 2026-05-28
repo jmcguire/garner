@@ -1,4 +1,4 @@
 # \*more unique
 
-\*more unique. See adjectives \(b\).
+\*more unique. See adjectives (b).
 

@@ -9,5 +9,5 @@
 ## Language-Change Index
 
  - *\*far distance* for *long distance*: Stage 2
- - Current ratio in print \(*long distance* vs. *\*far distance*\): 4:1
+ - Current ratio in print (*long distance* vs. *\*far distance*): 4:1
 

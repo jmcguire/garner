@@ -5,5 +5,5 @@ radius. The Latin plural *radii*, traditionally the preferred form, greatly outn
 ## Language-Change Index
 
  - *radiuses* for *radii*: Stage 2
- - Current ratio in print \(*radii* vs. *radiuses*\): 53:1
+ - Current ratio in print (*radii* vs. *radiuses*): 53:1
 

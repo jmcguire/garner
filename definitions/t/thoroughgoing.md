@@ -1,6 +1,6 @@
 # thoroughgoing
 
-thoroughgoing \(a solid word\) means "thorough," but it connotes zeal or ardor. It is not, therefore, merely a needless variant of *thorough*—e.g.:
+thoroughgoing (a solid word) means "thorough," but it connotes zeal or ardor. It is not, therefore, merely a needless variant of *thorough*—e.g.:
 
  - "There is no question the charter needs a *thoroughgoing* review and rewrite." "L.A. City Elections," *L.A. Times*, 16 Mar. 1997, at M4.
 

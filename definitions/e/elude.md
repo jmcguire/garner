@@ -1,4 +1,4 @@
 # elude
 
-elude. See **allude \(b\)**.
+elude. See **allude (b)**.
 

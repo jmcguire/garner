@@ -2,7 +2,7 @@
 
 infinitely.
 
-**A. And *eminently*.** *Infinitely* \(= endlessly, limitlessly\) for *eminently* \(= to a high degree\) is either gross overstatement or a malapropism. It's a surprising error even in our hyperbole-ridden culture—e.g.:
+**A. And *eminently*.** *Infinitely* (= endlessly, limitlessly) for *eminently* (= to a high degree) is either gross overstatement or a malapropism. It's a surprising error even in our hyperbole-ridden culture—e.g.:
 
  - "The voice is quite pleasant, really. Low, well-modulated and *infinitely* \[read *eminently*\] reasonable, it is the voice of a good person." Karla Peterson, "Sandra Bernhard: Shocking Ms. B. Has Her Warm and Comfy Side," *San Diego Union-Trib.*, 23 June 1994, Entertainment §, at 11.
 
@@ -13,7 +13,7 @@ infinitely.
 ## Language-Change Index
 
  - *infinitely* misused for *eminently*: Stage 1
- - Current ratio in print \(*eminently successful* vs. *\*infinitely successful*\): 130:1
+ - Current ratio in print (*eminently successful* vs. *\*infinitely successful*): 130:1
 
 **B. And Comparatives.** When *infinitely* modifies a comparative adjective or adverb, the result is almost always either illogical or ineptly hyperbolic—e.g.:
 
@@ -23,7 +23,7 @@ infinitely.
 
  - "Self-acceptance is *infinitely* \[read *far* or *so much*\] sexier and more appealing than the relentless racing after eternal youth." Joy Rothke, "50 May Not Be So Fabulous, but at Least She's Still Here," *Chicago Trib.*, 4 Dec. 2002, Woman News §, at 6.
 
-See adjectives \(b\).
+See adjectives (b).
 
 Occasionally, though, the usage is justified when the thing designated could truly be infinite—e.g.: "\[Ornette\] Coleman opened the door to improvisation based on melodic and rhythmic lines. It was a door that opened *infinitely* more doors." Dean Kuipers, "Break the Music Mold," *L.A. Times*, 5 Dec. 2002, Calendar Weekend §, pt. 5, at 2. After all, the number of variations in an improvisational performance really is infinite.
 

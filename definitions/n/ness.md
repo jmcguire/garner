@@ -1,4 +1,4 @@
 # -ness
 
--ness. See noun suffixes \(e\).
+-ness. See noun suffixes (e).
 

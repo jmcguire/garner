@@ -5,5 +5,5 @@
 ## Language-Change Index
 
  - *\*noplace* for *nowhere*: Stage 2
- - Current ratio in print \(*nowhere* vs. \**noplace*\): 2,429:1
+ - Current ratio in print (*nowhere* vs. \**noplace*): 2,429:1
 

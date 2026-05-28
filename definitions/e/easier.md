@@ -11,5 +11,5 @@ In modern print sources, the collocation *done more easily* is much more common 
 ## Language-Change Index
 
  - *easier* used adverbially for *more easily*: Stage 4
- - Current ratio in print \(*done more easily* vs. *done easier*\): 3:1
+ - Current ratio in print (*done more easily* vs. *done easier*): 3:1
 

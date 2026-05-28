@@ -1,4 +1,4 @@
 # -os
 
--os. See plurals \(d\).
+-os. See plurals (d).
 

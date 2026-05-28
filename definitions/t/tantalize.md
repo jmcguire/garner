@@ -1,6 +1,6 @@
 # tantalize
 
-tantalize \(= to torment by sight or promise of a desired thing kept just out of reach\) is derived from the Greek myth about Tantalus, the son of Zeus and the nymph Pluto. After becoming the king of Lydia, he offended the gods by divulging their secrets to mortals. Because the father of Tantalus was divine, Tantalus \(though not a god\) was himself immortal and so could not be executed for his crime. Instead, as an eternal punishment, he was plunged into a lake of Hades, up to his chin, while overhead boughs of delectable fruit hung temptingly near. Whenever he dipped to drink, the water receded; whenever he stretched to eat, a wind blew the laden boughs out of reach.
+tantalize (= to torment by sight or promise of a desired thing kept just out of reach) is derived from the Greek myth about Tantalus, the son of Zeus and the nymph Pluto. After becoming the king of Lydia, he offended the gods by divulging their secrets to mortals. Because the father of Tantalus was divine, Tantalus (though not a god) was himself immortal and so could not be executed for his crime. Instead, as an eternal punishment, he was plunged into a lake of Hades, up to his chin, while overhead boughs of delectable fruit hung temptingly near. Whenever he dipped to drink, the water receded; whenever he stretched to eat, a wind blew the laden boughs out of reach.
 
 Through slipshod extension, *tantalize* is now gradually being stretched to mean "to stimulate desire or the senses"—e.g.:
 
@@ -12,9 +12,9 @@ Through slipshod extension, *tantalize* is now gradually being stretched to mean
 
 For the time being, careful writers will probably resist this extension—but it may inevitably become a legitimate sense.
 
-Although it's sometimes hard to be sure from the context, *tantalize* often seems to be misused for *titillate* \(= to excite sensually\)—e.g.:
+Although it's sometimes hard to be sure from the context, *tantalize* often seems to be misused for *titillate* (= to excite sensually)—e.g.:
 
- - "Kama Sutra tells the truth about eros: that no matter how *tantalizing* \[read *titillating*?\] sex can be, without love, it is unruly, destructive and lonesome-making." Rod Dreher, "Lush ‘Kama Sutra' Sensual, Not Sexy," *Sun-Sentinel* \(Ft. Lauderdale\), 7 Mar. 1997, Showtime §, at 6.
+ - "Kama Sutra tells the truth about eros: that no matter how *tantalizing* \[read *titillating*?\] sex can be, without love, it is unruly, destructive and lonesome-making." Rod Dreher, "Lush ‘Kama Sutra' Sensual, Not Sexy," *Sun-Sentinel* (Ft. Lauderdale), 7 Mar. 1997, Showtime §, at 6.
 
  - "More sweet than sexy, more tender than *tantalizing* \[read *titillating*?\], the film is one that even a prime time audience could love." Lauren Kern, "Warm\! Fuzzy\! Gay\!," *Houston Press*, 22 May 1997, Arts §.
 

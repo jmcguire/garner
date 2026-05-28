@@ -8,7 +8,7 @@ having said that. This phrase, which hedges a previous assertion, is a frequent 
 
  - "*Having said that*, some clubs are going to be more aggressive and growth-oriented." Hank Ezell, "Investment Club Strategy," *Atlanta J.-Const.*, 3 July 1999, at 32.
 
- - "*Having said that*, there is no excuse ever for violence at a concert." Letter of Ed Levine, "Promoter Michael Lang Owes Region an Apology," *Post-Standard* \(Syracuse\), 12 Aug. 1999, at 20.
+ - "*Having said that*, there is no excuse ever for violence at a concert." Letter of Ed Levine, "Promoter Michael Lang Owes Region an Apology," *Post-Standard* (Syracuse), 12 Aug. 1999, at 20.
 
 An easy solution is simply to delete the phrase, which doesn't say much anyway.
 

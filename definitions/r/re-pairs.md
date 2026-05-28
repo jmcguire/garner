@@ -2,53 +2,53 @@
 
 re- Pairs. Many English words beginning with the prefix *re-* take on different meanings depending on whether the word is hyphenated or closed. Some of these words, whose two different senses with and without the hyphen should be self-explanatory, are:
 
-re\(-\)bound
+re(-)bound
 
-re\(-\)call
+re(-)call
 
-re\(-\)claim
+re(-)claim
 
-re\(-\)collect
+re(-)collect
 
-re\(-\)count
+re(-)count
 
-re\(-\)cover
+re(-)cover
 
-re\(-\)create
+re(-)create
 
-re\(-\)dress
+re(-)dress
 
-re\(-\)form
+re(-)form
 
-re\(-\)fund
+re(-)fund
 
-re\(-\)join
+re(-)join
 
-re\(-\)lay
+re(-)lay
 
-re\(-\)lease
+re(-)lease
 
-re\(-\)mark
+re(-)mark
 
-re\(-\)move
+re(-)move
 
-re\(-\)place
+re(-)place
 
-re\(-\)present
+re(-)present
 
-re\(-\)prove
+re(-)prove
 
-re\(-\)search
+re(-)search
 
-re\(-\)sent
+re(-)sent
 
-re\(-\)serve
+re(-)serve
 
-re\(-\)sign
+re(-)sign
 
-re\(-\)sound
+re(-)sound
 
-re\(-\)store
+re(-)store
 
-re\(-\)treat
+re(-)treat
 

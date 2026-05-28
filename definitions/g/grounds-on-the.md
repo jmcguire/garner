@@ -1,4 +1,4 @@
 # grounds, on the
 
-grounds, on the. See **because \(d\)**.
+grounds, on the. See **because (d)**.
 

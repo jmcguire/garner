@@ -1,4 +1,4 @@
 # kaleidoscope
 
-kaleidoscope. So spelled. See spelling \(a\).
+kaleidoscope. So spelled. See spelling (a).
 

@@ -1,4 +1,4 @@
 # sophic
 
-sophic; **sophical**. See **sophistic\(al\)**.
+sophic; **sophical**. See **sophistic(al)**.
 

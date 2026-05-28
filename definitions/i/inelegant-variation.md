@@ -19,9 +19,9 @@ Perhaps the most famous example is *elongated yellow fruit* as the second refere
  - songbird = avian songster
  - truck = rubber-tired mastodon of the highway
 
-Morton, "The Elongated Yellow Fruit," in *A Slight Sense of Outrage* 99, 99–102 \(1955\). As Morton explains, this sin "lies somewhere between the cliché and the ‘fine writing' so dreaded by teachers of English Composition. . . . It does bespeak an author who wishes to seem witty, knowledgeable, and versatile . . . . It can also bespeak an author who is merely pompous." *Ibid.* at 100. Other commentators have been less charitable—e.g.: "The attempt to ring the changes on a word is often positively vicious." Paul M. Fulcher, "These But the Trappings . . . ," in *Foundations of English Style* 189, 204 \(Paul M. Fulcher ed., 1927\).
+Morton, "The Elongated Yellow Fruit," in *A Slight Sense of Outrage* 99, 99–102 (1955). As Morton explains, this sin "lies somewhere between the cliché and the ‘fine writing' so dreaded by teachers of English Composition. . . . It does bespeak an author who wishes to seem witty, knowledgeable, and versatile . . . . It can also bespeak an author who is merely pompous." *Ibid.* at 100. Other commentators have been less charitable—e.g.: "The attempt to ring the changes on a word is often positively vicious." Paul M. Fulcher, "These But the Trappings . . . ," in *Foundations of English Style* 189, 204 (Paul M. Fulcher ed., 1927).
 
-There is even a book full of these things, in which a minister is "an old pulpit pounder," a prizefighter is "a braggart of the squared circle," and a vegetarian is "a confirmed spinach-addict." See J.I. Rodale, *The Sophisticated Synonym Book* \(1938\).
+There is even a book full of these things, in which a minister is "an old pulpit pounder," a prizefighter is "a braggart of the squared circle," and a vegetarian is "a confirmed spinach-addict." See J.I. Rodale, *The Sophisticated Synonym Book* (1938).
 
 The basic type of variation found objectionable by Fowler is the simple change from the straightforward term to some slightly more fanciful or formal synonym, as here:
 
@@ -45,5 +45,5 @@ Certain pairs may lend themselves to this snare: *arbiter* and *arbitrator*, *ad
 
 Sometimes the variation leads to real confusion. For example, in the following headline, the reader must wonder at first whether *victim* and *loved one* refer to the same person: "Victim's Family Can Witness Death of Loved One's Killer," *Austin Am.-Statesman*, 17 Nov. 1995, at A11. The solution there would be to delete *Victim's*.
 
-"The point to be observed," wrote H.W. Fowler, "is that, even if the words meant exactly the same, it would be better to keep the first selected on duty than to change guard" \(*FMEU1* at 132\).
+"The point to be observed," wrote H.W. Fowler, "is that, even if the words meant exactly the same, it would be better to keep the first selected on duty than to change guard" (*FMEU1* at 132).
 

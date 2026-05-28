@@ -1,4 +1,4 @@
 # all the
 
-all the; **all these**. See **all \(a\)**.
+all the; **all these**. See **all (a)**.
 

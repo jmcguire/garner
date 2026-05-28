@@ -1,6 +1,6 @@
 # tobacco
 
-tobacco. Pl. *tobaccos*—not \**tobaccoes*. See plurals \(d\).
+tobacco. Pl. *tobaccos*—not \**tobaccoes*. See plurals (d).
 
- - Current ratio in print \(*tobaccos* vs. \**tobaccoes*\): 12:1
+ - Current ratio in print (*tobaccos* vs. \**tobaccoes*): 12:1
 

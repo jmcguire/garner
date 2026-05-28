@@ -8,7 +8,7 @@ strew.
 
  - "It's been 13 years since her \[Georgia O'Keeffe's\] ashes were *strewed* \[read *strewn*\] over the glorious New Mexico landscape by her assistant and principal heir." Jo Ann Lewis, "The Ghosts of Abiquiu," *Wash. Post*, 10 Jan. 1999, at G1.
 
- - "There were shelves and there were storage areas. Both were *strewed* \[read *strewn*\] with a jungle of junk through which Shier would attempt to navigate on his way to fill the requisitions." Skip Vogel, *Constant Bearing—Decreasing Range 2006: A Makeover for Sailor Sam* 41 \(2006\).
+ - "There were shelves and there were storage areas. Both were *strewed* \[read *strewn*\] with a jungle of junk through which Shier would attempt to navigate on his way to fill the requisitions." Skip Vogel, *Constant Bearing—Decreasing Range 2006: A Makeover for Sailor Sam* 41 (2006).
 
 See irregular verbs & **strow**.
 

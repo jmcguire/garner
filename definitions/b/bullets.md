@@ -1,4 +1,4 @@
 # Bullets
 
- Bullets . See punctuation \(b\).
+ Bullets . See punctuation (b).
 

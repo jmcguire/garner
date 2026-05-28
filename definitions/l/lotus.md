@@ -1,4 +1,4 @@
 # lotus
 
-lotus. Pl. *lotuses*. See plurals \(a\).
+lotus. Pl. *lotuses*. See plurals (a).
 

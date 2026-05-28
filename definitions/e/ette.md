@@ -1,4 +1,4 @@
 # -ette
 
--ette. See diminutives \(f\) & sexism \(d\).
+-ette. See diminutives (f) & sexism (d).
 

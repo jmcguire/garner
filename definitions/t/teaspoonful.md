@@ -1,4 +1,4 @@
 # teaspoonful
 
-teaspoonful. Pl. *teaspoonfuls*. See plurals \(g\).
+teaspoonful. Pl. *teaspoonfuls*. See plurals (g).
 

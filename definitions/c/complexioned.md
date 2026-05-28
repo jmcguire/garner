@@ -13,5 +13,5 @@ But the word *\*complected*—an irregularly formed word, since the noun is *com
 ## Language-Change Index
 
  - *\*complected* for *complexioned*: Stage 2
- - Current ratio in print \(*complexioned* vs. *\*complected*\): 5:1
+ - Current ratio in print (*complexioned* vs. *\*complected*): 5:1
 

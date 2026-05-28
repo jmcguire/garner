@@ -6,5 +6,5 @@ eventuality is a needless pomposity for several everyday words, each of which is
 
  - "This is the way the world ends—with humans evolving into billions of electronic navel-gazers? Without navels, even? Ironically, the film cumulatively argues against such *an eventuality* \[read *an outcome* or *a possibility*\]." Arthur Salm, "Aaack\! to the Future," *San Diego Union-Trib.*, 13 Sept. 1996, at E11.
 
-The phrase *\*in the eventuality* is especially pretentious. E.g.: "Some speculate that building so close to the base—against the Air Force's recommendations—would threaten the base *in the eventuality of* \[read *in the event of* or *if there are*\] future military closures." Sybil Fix, "Air Crash Rift Widens over Mall," *Post & Courier* \(Charleston, S.C.\), 6 Aug. 1995, at A1. See **event**.
+The phrase *\*in the eventuality* is especially pretentious. E.g.: "Some speculate that building so close to the base—against the Air Force's recommendations—would threaten the base *in the eventuality of* \[read *in the event of* or *if there are*\] future military closures." Sybil Fix, "Air Crash Rift Widens over Mall," *Post & Courier* (Charleston, S.C.), 6 Aug. 1995, at A1. See **event**.
 

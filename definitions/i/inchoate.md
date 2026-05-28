@@ -2,11 +2,11 @@
 
 inchoate.
 
-**A. Meaning, Pronunciation, and Spelling.** *Inchoate*—pronounced /in-**koh**-it/ in both AmE and BrE, and secondarily /**in**-koh-әt/ in BrE \(always three syllables\)—means "just begun; in the early stages of forming; not fully developed"—e.g.: "American understanding of Islamic terrorism then was still *inchoate*. Al-Qaida was barely on the screen." Terry McDermott et al., "Al-Qaida ‘Engineer' Slips Dragnet," *Newsday* \(N.Y.\), 27 Dec. 2002, at A42. The word is sometimes misspelled *\*incohate*.
+**A. Meaning, Pronunciation, and Spelling.** *Inchoate*—pronounced /in-**koh**-it/ in both AmE and BrE, and secondarily /**in**-koh-әt/ in BrE (always three syllables)—means "just begun; in the early stages of forming; not fully developed"—e.g.: "American understanding of Islamic terrorism then was still *inchoate*. Al-Qaida was barely on the screen." Terry McDermott et al., "Al-Qaida ‘Engineer' Slips Dragnet," *Newsday* (N.Y.), 27 Dec. 2002, at A42. The word is sometimes misspelled *\*incohate*.
 
- - Current ratio in print \(*inchoate* vs. *\*incohate*\): 2,051:1
+ - Current ratio in print (*inchoate* vs. *\*incohate*): 2,051:1
 
-**B. And *choate*.** The prefix is an intensive *in*-, not a negative or privative *in*-. So the back-formation *choate* \(= complete\)—premised, as it is, on the notion that *inchoate* is a negative—makes little sense. But it's now established in law <choate lien>.
+**B. And *choate*.** The prefix is an intensive *in*-, not a negative or privative *in*-. So the back-formation *choate* (= complete)—premised, as it is, on the notion that *inchoate* is a negative—makes little sense. But it's now established in law <choate lien>.
 
 **C. And *chaotic*.** Because what is undeveloped is usually also confused and incoherent, the context in which *inchoate* is used often suggests those errant senses. The resemblance of *-choate* to *chaotic* probably reinforces this misunderstanding. For whatever reason, *inchoate* is often misused to mean something more like *chaotic* than *aborning*—e.g.:
 
@@ -22,7 +22,7 @@ inchoate.
 
 **D. And *innate*.** Harder to understand is the misuse of *inchoate* to mean "innate" or "inherent"—e.g.:
 
- - "A bored and sophisticated American couple, Port and Kit Moresby, travel to North Africa, where the heat and light and estranging landscape, the incomprehensible languages and customs and *inchoate* \[read *innate*?\] sensuality unmoor them psychologically and emotionally." Fredric Koeppel, "Library of America Adds Staunch Exile to List," *Commercial Appeal* \(Memphis\), 2 Feb. 2003, at F1.
+ - "A bored and sophisticated American couple, Port and Kit Moresby, travel to North Africa, where the heat and light and estranging landscape, the incomprehensible languages and customs and *inchoate* \[read *innate*?\] sensuality unmoor them psychologically and emotionally." Fredric Koeppel, "Library of America Adds Staunch Exile to List," *Commercial Appeal* (Memphis), 2 Feb. 2003, at F1.
 
  - "Music Man is not one of the most wise or even coherent products of American musical theater. . . . But, like Oklahoma, it can be mesmerizing in all its energy, optimism and certainty about the *inchoate* \[read *inherent*?\] goodness of the American character." David Zurawik, "Forecast: Warm Glow Moves In from River City, Iowa," *Baltimore Sun*, 16 Feb. 2003, at F14.
 

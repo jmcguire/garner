@@ -4,7 +4,7 @@ concierge /kon-see-**airzh**/, a loanword used in English since the late 1700s, 
 
 Still, an informal survey at hotels in major American cities suggests that more than half of all hotel employees use the incorrect pronunciation. At American Airlines, which offers a "concierge key" service for frequent flyers, some 90% of the announcements by gate agents feature the mispronunciation.
 
-Since the beginning of the 21st century, *concierge* has been widely used as an attributive noun that supposedly adds cachet <concierge doctor> <concierge dog groomers> <concierge car wash>. But the real cachet comes when you hear the /zh/ at the end. See pronunciation \(b\) & hypercorrection \(k\). See also gallicisms.
+Since the beginning of the 21st century, *concierge* has been widely used as an attributive noun that supposedly adds cachet <concierge doctor> <concierge dog groomers> <concierge car wash>. But the real cachet comes when you hear the /zh/ at the end. See pronunciation (b) & hypercorrection (k). See also gallicisms.
 
 ## Language-Change Index
 

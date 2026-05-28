@@ -1,6 +1,6 @@
 # supernumerary
 
-supernumerary is a fancy adjective meaning \(1\) "extra"; \(2\) \(of an employee\) "engaged only in case of special need"; or \(3\) "superfluous." The word is sometimes wrongly written *\*supernumery*—e.g.: "He was . . . a former *supernumery* \[read *supernumerary*\] police officer in East Windsor and had also served with the U.S. Navy." "John F. Corbett" \(obit.\), *Hartford Courant*, 7 May 1997, at B10.
+supernumerary is a fancy adjective meaning (1) "extra"; (2) (of an employee) "engaged only in case of special need"; or (3) "superfluous." The word is sometimes wrongly written *\*supernumery*—e.g.: "He was . . . a former *supernumery* \[read *supernumerary*\] police officer in East Windsor and had also served with the U.S. Navy." "John F. Corbett" (obit.), *Hartford Courant*, 7 May 1997, at B10.
 
 The same error occurs in the noun use, in which *supernumerary* means "an extra person or thing"—e.g.:
 
@@ -11,5 +11,5 @@ The same error occurs in the noun use, in which *supernumerary* means "an extra 
 ## Language-Change Index
 
  - *supernumerary* misspelled *\*supernumery*: Stage 1
- - Current ratio in print \(*supernumerary* vs. \**supernumery*\): 283:1
+ - Current ratio in print (*supernumerary* vs. \**supernumery*): 283:1
 

@@ -9,5 +9,5 @@ For a misuse of *illusion* for *allusion*, see **allusion**.
 ## Language-Change Index
 
  - *delusion* misused for *illusion*: Stage 1
- - Current ratio in print \(*no illusions about* vs. *\*no delusions about*\): 15:1
+ - Current ratio in print (*no illusions about* vs. *\*no delusions about*): 15:1
 

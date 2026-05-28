@@ -1,4 +1,4 @@
 # antidote
 
-antidote. See **anecdote \(b\)**.
+antidote. See **anecdote (b)**.
 

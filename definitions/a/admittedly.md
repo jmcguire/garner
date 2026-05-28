@@ -1,4 +1,4 @@
 # admittedly
 
-admittedly. See adverbs \(f\).
+admittedly. See adverbs (f).
 

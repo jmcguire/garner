@@ -1,4 +1,4 @@
 # Masculine and Feminine Pronouns
 
-Masculine and Feminine Pronouns. See sexism \(b\).
+Masculine and Feminine Pronouns. See sexism (b).
 

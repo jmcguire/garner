@@ -1,4 +1,4 @@
 # innovate
 
-innovate. So spelled. See spelling \(a\).
+innovate. So spelled. See spelling (a).
 

@@ -1,4 +1,4 @@
 # palomino
 
-palomino. So spelled. See spelling \(a\).
+palomino. So spelled. See spelling (a).
 

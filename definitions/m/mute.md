@@ -1,4 +1,4 @@
 # mute
 
-mute. See **moot \(c\)**.
+mute. See **moot (c)**.
 

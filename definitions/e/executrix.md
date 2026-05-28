@@ -1,4 +1,4 @@
 # executrix
 
-executrix. See sexism \(d\).
+executrix. See sexism (d).
 

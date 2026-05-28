@@ -2,11 +2,11 @@
 
 access, n.
 
-**A. Confused with *excess*.** *Access*, n., most commonly means \(1\) "the right or ability to enter or get near," \(2\) "a means of approaching," or \(3\) "retrievability of electronic information by computer." *Excess* = \(1\) an overabundance, superfluity; or \(2\) the amount by which one thing exceeds another. Sometimes *access* is misused for *excess*—e.g.:
+**A. Confused with *excess*.** *Access*, n., most commonly means (1) "the right or ability to enter or get near," (2) "a means of approaching," or (3) "retrievability of electronic information by computer." *Excess* = (1) an overabundance, superfluity; or (2) the amount by which one thing exceeds another. Sometimes *access* is misused for *excess*—e.g.:
 
- - "\[I\]t has been noted that samples of this kind may be difficult to amplify with primers that give a product in *access* \[read *excess*\] of 400–500 bp." Finbarr E. Cotter, *Molecular Diagnosis of Cancer* 117 \(1996\).
+ - "\[I\]t has been noted that samples of this kind may be difficult to amplify with primers that give a product in *access* \[read *excess*\] of 400–500 bp." Finbarr E. Cotter, *Molecular Diagnosis of Cancer* 117 (1996).
 
- - "The event starts at 6:15 p.m., and carries a record purse in *access* \[read *excess*\] of $2.5 million." Will Parrish, "May Month of Speed and Money," *Herald* \(Rock Hill, S.C.\), 27 Apr. 1999, at B3.
+ - "The event starts at 6:15 p.m., and carries a record purse in *access* \[read *excess*\] of $2.5 million." Will Parrish, "May Month of Speed and Money," *Herald* (Rock Hill, S.C.), 27 Apr. 1999, at B3.
 
  - "The following days yield\[ed\] a heatwave which saw weather in *access* \[read *excess*\] of 20C during the first lockdown." Dominic Kureen, "Temperatures Plummet," *Isle of Wight County Press*, 7 Apr. 2021, Weather & Climate §.
 

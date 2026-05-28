@@ -1,4 +1,4 @@
 # \*maihem
 
-\*maihem. See **mayhem \(c\)**.
+\*maihem. See **mayhem (c)**.
 

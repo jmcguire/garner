@@ -1,4 +1,4 @@
 # chagrin
 
-chagrin, vb. See spelling \(c\).
+chagrin, vb. See spelling (c).
 

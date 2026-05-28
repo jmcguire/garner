@@ -1,4 +1,4 @@
 # abbreviable
 
-abbreviable. So formed—not *\*abbreviatable*. See -able \(d\) & -atable.
+abbreviable. So formed—not *\*abbreviatable*. See -able (d) & -atable.
 

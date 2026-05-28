@@ -1,4 +1,4 @@
 # oddly
 
-oddly. See adverbs \(f\).
+oddly. See adverbs (f).
 

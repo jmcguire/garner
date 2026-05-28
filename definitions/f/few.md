@@ -1,4 +1,4 @@
 # few
 
-few. See **couple \(b\)**.
+few. See **couple (b)**.
 

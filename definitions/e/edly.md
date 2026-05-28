@@ -23,9 +23,9 @@ See **allegedly** & **confessedly**.
 
 Even so, any new or unusual form ending in *-edly* ought to be avoided if a ready substitute exists, whether or not the *in an X manner* formula works—e.g.:
 
- - "There is a certain appearance of arrogance in the readiness of men to stand up in front of others and preach a sermon or deliver an address, as though their thoughts were *recognizedly* superior to those of the audience." Edward N. Teall, *Putting Words to Work* 11 \(1940\). \(Here the thoughtful reader is likely to pause and wonder why the writer didn't use the more recognizable word: *recognizably*. If there's a real nuance here, it probably isn't worth achieving.\)
+ - "There is a certain appearance of arrogance in the readiness of men to stand up in front of others and preach a sermon or deliver an address, as though their thoughts were *recognizedly* superior to those of the audience." Edward N. Teall, *Putting Words to Work* 11 (1940). (Here the thoughtful reader is likely to pause and wonder why the writer didn't use the more recognizable word: *recognizably*. If there's a real nuance here, it probably isn't worth achieving.)
 
- - " ‘I'm as awkward an interviewee as you're likely to get,' he says, laughing *embarrassedly*." Clive Anderson, "Mr. Funny: Peculiar Interview," *Sunday Telegraph*, 29 Sept. 1996, Features §, at 3. \(Here the more natural wording would be to replace *embarrassedly* with the phrase *with embarrassment*.\)
+ - " ‘I'm as awkward an interviewee as you're likely to get,' he says, laughing *embarrassedly*." Clive Anderson, "Mr. Funny: Peculiar Interview," *Sunday Telegraph*, 29 Sept. 1996, Features §, at 3. (Here the more natural wording would be to replace *embarrassedly* with the phrase *with embarrassment*.)
 
 See **qualifiedly**.
 

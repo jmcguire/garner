@@ -1,4 +1,4 @@
 # excuse
 
-excuse, n. See **alibi \(a\)**.
+excuse, n. See **alibi (a)**.
 

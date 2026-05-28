@@ -1,4 +1,4 @@
 # admittance
 
-admittance. See **admission \(a\)**.
+admittance. See **admission (a)**.
 

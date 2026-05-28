@@ -1,6 +1,6 @@
 # assimilable
 
-assimilable. So spelled—not *\*assimilatable*. See -able \(d\) & -atable.
+assimilable. So spelled—not *\*assimilatable*. See -able (d) & -atable.
 
- - Current ratio in print \(*assimilable* vs. \**assimilatable*\): 78:1
+ - Current ratio in print (*assimilable* vs. \**assimilatable*): 78:1
 

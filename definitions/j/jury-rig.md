@@ -1,6 +1,6 @@
 # jury-rig
 
-jury-rig; **jerry-build**; \***jerry-rig**; **\*gerry-rig**. The first is an authentic nautical phrase, dating from the early 1600s. Derived from *jury-mast* \(= a temporary replacement for a ship's broken mast\), the *jury* part here has nothing to do with 12 peers deciding someone's fate. Instead, according to Barnhart's *Dictionary of Etymology*, it probably derives from the Old French word *ajurie* \(= help\). The second is something of a portmanteau word combining *jury-rig* with a 19th-century BrE casualism, *jerry-built* \(= shoddy; poorly made to last a short time\).
+jury-rig; **jerry-build**; \***jerry-rig**; **\*gerry-rig**. The first is an authentic nautical phrase, dating from the early 1600s. Derived from *jury-mast* (= a temporary replacement for a ship's broken mast), the *jury* part here has nothing to do with 12 peers deciding someone's fate. Instead, according to Barnhart's *Dictionary of Etymology*, it probably derives from the Old French word *ajurie* (= help). The second is something of a portmanteau word combining *jury-rig* with a 19th-century BrE casualism, *jerry-built* (= shoddy; poorly made to last a short time).
 
 *Jerry-build* is sometimes used transitively to refer to something assembled from bits and pieces of other things. E.g.:
 
@@ -12,5 +12,5 @@ jury-rig; **jerry-build**; \***jerry-rig**; **\*gerry-rig**. The first is an aut
 
 *\*Gerry-rig* is a fairly recent American needless variant of the mistaken *\*jerry-rig*—e.g.: "A 150-ton specialized tank landing craft was *gerry rigged* \[read *jury-rigged*\] to her deck. She weighed anchor and riding low in the water sailed for England." Sgt. Paul Kane, "Ship That Saved Hundreds at Normandy, Still Proudly Sails," Dept. of Defense U.S. Marine Corps news release, 26 Oct. 2006. Unless you're writing a legal brief—where *jury-rigged* might create a felonious miscue—stick with that authentic original.
 
- - Current ratio in print \(*jury-rigged* vs. *\*jerry-rigged* vs*. \*gerry-rigged*\): 242:156:1
+ - Current ratio in print (*jury-rigged* vs. *\*jerry-rigged* vs*. \*gerry-rigged*): 242:156:1
 

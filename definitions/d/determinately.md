@@ -1,6 +1,6 @@
 # determinately
 
-determinately; **determinedly**. *Determinately* \(= con-clusively, definitively\) is sometimes misused for *determinedly* \(= with firm resolve or strong will-power\)—e.g.:
+determinately; **determinedly**. *Determinately* (= con-clusively, definitively) is sometimes misused for *determinedly* (= with firm resolve or strong will-power)—e.g.:
 
  - "Amid the bloody civil war, with Luanda beleaguered by the Popular Movement's enemies to the north and the south, Neto *determinately* \[read *determinedly*\] took the oath of office as president of the first independent government of Angola in a stuffy second-floor room of Luanda's city hall." Caryle Murphy, "Rebel Poet-Doctor," *Wash. Post*, 12 Sept. 1979, at A22.
 

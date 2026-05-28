@@ -11,5 +11,5 @@ See -ic/-ical.
 ## Language-Change Index
 
  - *frantically* misspelled *\*franticly*: Stage 1
- - Current ratio in print \(*frantically* vs. \**franticly*\): 112:1
+ - Current ratio in print (*frantically* vs. \**franticly*): 112:1
 

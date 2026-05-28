@@ -1,4 +1,4 @@
 # weird
 
-weird. So spelled. See spelling \(a\).
+weird. So spelled. See spelling (a).
 

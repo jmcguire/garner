@@ -9,5 +9,5 @@ registrate, a verb dating from the 1500s, is an old Scotticism—as well as a mu
 ## Language-Change Index
 
  - *registrate* misused for *register*: Stage 1
- - Current ratio in print \(*registered* vs. *registrated*\): 11,452:1
+ - Current ratio in print (*registered* vs. *registrated*): 11,452:1
 

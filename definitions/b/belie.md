@@ -1,6 +1,6 @@
 # belie
 
-belie = \(1\) to disguise, give a false idea of; \(2\) to contradict or prove the falsity of; or \(3\) to leave unfulfilled. Senses 1 and 2 are the most common—e.g.:
+belie = (1) to disguise, give a false idea of; (2) to contradict or prove the falsity of; or (3) to leave unfulfilled. Senses 1 and 2 are the most common—e.g.:
 
  - "One of the newspaper articles boldly suggested that Rodman's popularity had possibly eclipsed Jordan's among the local citizenry—a wholly preposterous thought that was *belied* \[i.e., proved false\] by the cheers from the sellout crowd of 24,394 the moment Jordan was introduced before the contest." Anthony Cotton, "Bulls Get Jump on Knicks, 91–84," *Wash. Post*, 6 May 1996, at C8.
 

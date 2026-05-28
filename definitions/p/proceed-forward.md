@@ -6,5 +6,5 @@
 
  - "*Proceed forward* \[read *Proceed*\] from the intersection where the road takes on a new identity as Glacier Drive." Tom Vanden Brook, "Seasonal Colors to Fall For," *Milwaukee J. Sentinel*, 10 Oct. 1997, Ozaukee Wash. §, at 1.
 
- - "When you work repeatedly with people who are familiar, then repetition will always remain the basis from which to *proceed forward* \[read *proceed*\]." Graham Firth & Mark Barber, *Using Intensive Interaction with a Person with Social or Communicative Impairment* 71 \(2011\).
+ - "When you work repeatedly with people who are familiar, then repetition will always remain the basis from which to *proceed forward* \[read *proceed*\]." Graham Firth & Mark Barber, *Using Intensive Interaction with a Person with Social or Communicative Impairment* 71 (2011).
 

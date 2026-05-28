@@ -1,4 +1,4 @@
 # cacophony
 
-cacophony. So spelled. See spelling \(a\).
+cacophony. So spelled. See spelling (a).
 

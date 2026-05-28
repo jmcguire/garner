@@ -1,4 +1,4 @@
 # \*minimalize
 
-\*minimalize. See **minimize \(c\)**.
+\*minimalize. See **minimize (c)**.
 

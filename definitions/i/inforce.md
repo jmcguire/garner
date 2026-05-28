@@ -1,4 +1,4 @@
 # \*inforce
 
-\*inforce. See **enforce \(a\)**.
+\*inforce. See **enforce (a)**.
 

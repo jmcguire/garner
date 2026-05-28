@@ -1,4 +1,4 @@
 # bakeable
 
-bakeable. See spelling \(d\).
+bakeable. See spelling (d).
 

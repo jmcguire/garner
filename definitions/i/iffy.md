@@ -1,6 +1,6 @@
 # iffy
 
-iffy \(= uncertain\) is a casualism dating from the mid-20th century—e.g.:
+iffy (= uncertain) is a casualism dating from the mid-20th century—e.g.:
 
  - "Hair growth? It's *iffy*. Some say yes; others no. You would think that female hormones in the birth-control pills would reduce facial hair growth." Paul Donohue, "Immune System's Been in the News a Lot Lately," *St. Louis Post-Dispatch*, 15 Nov. 1996, Everyday Mag. §, at E2.
 

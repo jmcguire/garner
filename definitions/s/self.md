@@ -1,4 +1,4 @@
 # self
 
-self. Pl. *selves*. See plurals \(c\).
+self. Pl. *selves*. See plurals (c).
 

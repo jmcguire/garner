@@ -1,4 +1,4 @@
 # taunt
 
-taunt, n. & v.t. See **taut \(b\)**.
+taunt, n. & v.t. See **taut (b)**.
 

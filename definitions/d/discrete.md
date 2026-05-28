@@ -16,15 +16,15 @@ Sometimes, though, the opposite blunder appears—e.g.:
 
  - "The selections are tasteful with visceral mayhem, profanity, and sex almost nonexistent, or *discretely* \[read *discreetly*\] handled." Jim Bencivenga, "Tales That Sift Fact from Fable," *Christian Science Monitor*, 25 July 1996, at 21.
 
- - "Although Ashley Madison promised users that their information would be ‘*100% discrete*' \[read *100% discreet*\] if they canceled their accounts, they had to pay an additional $19 to remove all their information from the website." Daniel J. Solove & Woodrow Hartzog, *Breached\!* 146 \(2022\).
+ - "Although Ashley Madison promised users that their information would be ‘*100% discrete*' \[read *100% discreet*\] if they canceled their accounts, they had to pay an additional $19 to remove all their information from the website." Daniel J. Solove & Woodrow Hartzog, *Breached\!* 146 (2022).
 
 See **indiscreet**.
 
 ## Language-Change Index
 
 1. *discreet* misused for *discrete*: Stage 1
- - Current ratio in print \(*discrete units* vs. *\*discreet units*\): 44:1
+ - Current ratio in print (*discrete units* vs. *\*discreet units*): 44:1
 
 2. *discrete* misused for *discreet*: Stage 2
- - Current ratio in print \(*discreet distance* vs. *\*discrete distance*\): 10:1
+ - Current ratio in print (*discreet distance* vs. *\*discrete distance*): 10:1
 

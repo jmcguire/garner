@@ -1,6 +1,6 @@
 # *ipse dixit*
 
-*ipse dixit*  \(lit., "he himself said it"\) = something said but not proved; a dogmatic statement. E.g.:
+*ipse dixit*  (lit., "he himself said it") = something said but not proved; a dogmatic statement. E.g.:
 
  - "Cogent legal reasoning was subordinated to *ipse dixit*." "Benchmarks of the Administration," *Wash. Times*, 11 Jan. 1994, at A14.
 

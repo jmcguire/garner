@@ -2,7 +2,7 @@
 
 -ee .
 
-**A. General Principles.** This suffix \(from the French past-participial *é*\) originally denoted "someone who is acted upon"; the sense is inherently passive. It's an especially productive suffix; that is, people are continually creating neologisms with it. Some of these look fairly ridiculous \(e.g., *civilizee*\), but some readily become quite familiar \(e.g., *honoree*, an Americanism dating from the 1890s\). Although there are exceptions \(e.g., *biographee*\), words ending in *-ee* are almost always made from verbs in the passive voice—e.g.:
+**A. General Principles.** This suffix (from the French past-participial *é*) originally denoted "someone who is acted upon"; the sense is inherently passive. It's an especially productive suffix; that is, people are continually creating neologisms with it. Some of these look fairly ridiculous (e.g., *civilizee*), but some readily become quite familiar (e.g., *honoree*, an Americanism dating from the 1890s). Although there are exceptions (e.g., *biographee*), words ending in *-ee* are almost always made from verbs in the passive voice—e.g.:
 
 *acquittee* = one who is acquitted
 
@@ -12,7 +12,7 @@
 
 *detainee* = one who is detained
 
-*educatee* = one who is educated \(by an educator\)
+*educatee* = one who is educated (by an educator)
 
 *expellee* = one who is expelled
 
@@ -58,13 +58,13 @@ The suffix also has a dative sense, in which it acts as the passive agent noun f
 
 *vendee* = one to whom something is sold
 
-At least one word ending in *-ee* has both a normal passive sense and a dative sense. *Appointee* = \(1\) one who is appointed; or \(2\) one to whom an estate is appointed. Sense 2, of course, is primarily legal.
+At least one word ending in *-ee* has both a normal passive sense and a dative sense. *Appointee* = (1) one who is appointed; or (2) one to whom an estate is appointed. Sense 2, of course, is primarily legal.
 
-The suffix *-ee*, then, is correlative to *-or*, the active agent-noun suffix: some words ending in *-ee* are formed as passive analogues to *-or* agent nouns, and not from any verb stem: *indemnitee* \(= one who is indemnified; analogue to *indemnitor*\); *preceptee* \(= student; analogue to *preceptor*\).
+The suffix *-ee*, then, is correlative to *-or*, the active agent-noun suffix: some words ending in *-ee* are formed as passive analogues to *-or* agent nouns, and not from any verb stem: *indemnitee* (= one who is indemnified; analogue to *indemnitor*); *preceptee* (= student; analogue to *preceptor*).
 
-These are the traditional uses of the suffix. There is a tendency today, however, to make *-ee* a general agent-noun suffix without regard to its passive sense or the limitations within which it may take on passive senses. Hence the suffix has been extended to phrasal verbs, even though only the first word in the phrase appears in the *-ee* word. So *discriminatee* \(= one who is discriminated against\) and *tippee* \(= one who is tipped off\). Then other prepositional phrases have gradually come into the wide embrace of *-ee*: *abortee* \(= a woman upon whom an abortion is performed\); *confiscatee* \(= one from whom goods have been confiscated\).
+These are the traditional uses of the suffix. There is a tendency today, however, to make *-ee* a general agent-noun suffix without regard to its passive sense or the limitations within which it may take on passive senses. Hence the suffix has been extended to phrasal verbs, even though only the first word in the phrase appears in the *-ee* word. So *discriminatee* (= one who is discriminated against) and *tippee* (= one who is tipped off). Then other prepositional phrases have gradually come into the wide embrace of *-ee*: *abortee* (= a woman upon whom an abortion is performed); *confiscatee* (= one from whom goods have been confiscated).
 
-Some *-ee* words contain implicit possessives: *amputee* \(= one whose limb has been removed\); *breachee* \(= one whose contract is breached\); *condemnee* \(= one whose property has been condemned\). In still other words, *-ee* does not even have its primary passive sense—e.g.:
+Some *-ee* words contain implicit possessives: *amputee* (= one whose limb has been removed); *breachee* (= one whose contract is breached); *condemnee* (= one whose property has been condemned). In still other words, *-ee* does not even have its primary passive sense—e.g.:
 
 *arrivee* = one who arrives
 
@@ -72,7 +72,7 @@ Some *-ee* words contain implicit possessives: *amputee* \(= one whose limb has 
 
 *\*attendee* = one who attends
 
-*benefitee* = one who benefits \(or, possibly, "is benefited"\)
+*benefitee* = one who benefits (or, possibly, "is benefited")
 
 *escapee* = one who escapes
 
@@ -80,11 +80,11 @@ Some *-ee* words contain implicit possessives: *amputee* \(= one whose limb has 
 
 *\*standee* = one who stands
 
-Finally, the suffix is sometimes used to coin jocular words such as *cheatee* \(= one who is cheated\).
+Finally, the suffix is sometimes used to coin jocular words such as *cheatee* (= one who is cheated).
 
-The upshot of this discussion is that *-ee* is subject to abuse and that writers must be careful about the forms they use. For active senses we have *-er*, *-or*, and *-ist* at our service; we should be wary of adopting any new active forms ending in *-ee* and do our best to see that *\*attendee* and *\*standee*—or *signee* in an active sense \(see **signee**\)—together with similar forms, come to an eternal rest. Otherwise, we risk wasting any sense to be found in this suffix. For example, "the unskilled workers used to ‘dilute' skilled workers in time of war should have been called *diluters* instead of *dilutees*; the skilled were the dilutees" \(*FMEU2* at 146\).
+The upshot of this discussion is that *-ee* is subject to abuse and that writers must be careful about the forms they use. For active senses we have *-er*, *-or*, and *-ist* at our service; we should be wary of adopting any new active forms ending in *-ee* and do our best to see that *\*attendee* and *\*standee*—or *signee* in an active sense (see **signee**)—together with similar forms, come to an eternal rest. Otherwise, we risk wasting any sense to be found in this suffix. For example, "the unskilled workers used to ‘dilute' skilled workers in time of war should have been called *diluters* instead of *dilutees*; the skilled were the dilutees" (*FMEU2* at 146).
 
-**B. Word Formation.** The principles applying to words ending in -atable apply also to agent nouns ending in *-ee.* Thus we have *inauguree*, not *\*inauguratee*; *subrogee*, not *\*subrogatee* \(though the latter is infrequently used mistakenly for the former\).
+**B. Word Formation.** The principles applying to words ending in -atable apply also to agent nouns ending in *-ee.* Thus we have *inauguree*, not *\*inauguratee*; *subrogee*, not *\*subrogatee* (though the latter is infrequently used mistakenly for the former).
 
 For two anomalous words without corresponding verbs, see **biographee** & **mentee**.
 

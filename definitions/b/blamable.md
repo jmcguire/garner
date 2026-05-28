@@ -1,4 +1,4 @@
 # blamable
 
-blamable. See **blameworthy \(b\)**.
+blamable. See **blameworthy (b)**.
 

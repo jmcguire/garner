@@ -8,16 +8,16 @@ cyclops. Pl. *cyclopes* /sī-**kloh**-peez/ or *cyclopses* /**sī**-klop-sәz/. 
 
 Although most dictionaries don't list the plural *cyclopses*, it is becoming common. Indeed, *cyclopses* ought to be fully accepted as standard—e.g.:
 
- - "We are bombarded with vainglorious descriptions and fantastic illustrations of dragons, giants, *cyclopses*, griffins \(lashed to a flying machine\), the anthropophagi and men whose heads grow beneath their shoulders." "Still Questing for the Holy Grail," *Fin. Times*, 20 July 1996, at 16.
+ - "We are bombarded with vainglorious descriptions and fantastic illustrations of dragons, giants, *cyclopses*, griffins (lashed to a flying machine), the anthropophagi and men whose heads grow beneath their shoulders." "Still Questing for the Holy Grail," *Fin. Times*, 20 July 1996, at 16.
 
- - "Meanwhile, soldiers with unpronounceable names challenge creatures that look like *cyclopses*, furry whatchamacallits \(dubbed furballs\) or crosses between vultures and alligators." Charan Levitan, "Cool Fights with a Scummy Sorcerer," *Sun-Sentinel* \(Ft. Lauderdale\), 1 Nov. 1996, Showtime §, at 12.
+ - "Meanwhile, soldiers with unpronounceable names challenge creatures that look like *cyclopses*, furry whatchamacallits (dubbed furballs) or crosses between vultures and alligators." Charan Levitan, "Cool Fights with a Scummy Sorcerer," *Sun-Sentinel* (Ft. Lauderdale), 1 Nov. 1996, Showtime §, at 12.
 
-See plurals \(a\).
+See plurals (a).
 
 It's wrong, by the way, to make *cyclops* itself into a plural—e.g.: "Other highlights I remember: Sinbad battling a baby croc and its gigantic mother, several *cyclops* \[read *cyclopses* or *cyclopes*\] and a fire-breathing dragon." Jim Bawden, "Movie Previews," *Toronto Star*, 3 Mar. 1997, Starweek §, at 8.
 
 ## Language-Change Index
 
  - *cyclops* as a false plural for *cyclopses* or *cyclopes*: Stage 2
- - Current ratio in print \(*the cyclopes* vs. *the cyclopses*\): 8:1
+ - Current ratio in print (*the cyclopes* vs. *the cyclopses*): 8:1
 

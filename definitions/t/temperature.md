@@ -15,5 +15,5 @@ Of course, it's acceptable to say that someone is *running a temperature of 104*
 ## Language-Change Index
 
  - *temperature* misused for *fever*: Stage 3
- - Current ratio in print \(*running a fever* vs. *running a temperature*\): 3:1
+ - Current ratio in print (*running a fever* vs. *running a temperature*): 3:1
 

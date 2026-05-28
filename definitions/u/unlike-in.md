@@ -10,7 +10,7 @@ unlike in. Though some critics have called the phrase a "gaucherie" and worse, *
 
 In those examples, there's almost an elliptical *what happened* after *unlike*, so that the full phrase is *unlike what happened in the primary*, *in the U.S.*, or *in the days after the election*. This rationale may ultimately justify the phrasing. But careful writers will avoid it because some percentage of informed readers consider it a mistake: they believe that *unlike* should be followed by a noun element.
 
-As a matter of frequency in print sources, the phrase first appeared in the late 1700s, spread throughout the 1800s \(especially in AmE\), declined in the mid-1900s, and has undergone a resurgence since about 1970. It may yet lose any stigma attaching to it.
+As a matter of frequency in print sources, the phrase first appeared in the late 1700s, spread throughout the 1800s (especially in AmE), declined in the mid-1900s, and has undergone a resurgence since about 1970. It may yet lose any stigma attaching to it.
 
 ## Language-Change Index
 

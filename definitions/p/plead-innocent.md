@@ -1,4 +1,4 @@
 # plead innocent
 
-plead innocent. See **not guilty \(a\)**.
+plead innocent. See **not guilty (a)**.
 

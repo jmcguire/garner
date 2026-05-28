@@ -10,9 +10,9 @@ prostate.
 
 In fact, though, the phrase *prostate cancer* is much more common in print now than the more technical-sounding version. For example, in his 1996 book, Michael Korda used the title *Man to Man: Surviving Prostate Cancer*. That's the form that reflects common usage. The other is something of an affectation best left confined to the medical dictionaries.
 
- - Current ratio in print \(*prostate cancer* vs. *prostatic cancer*\): 75:1
+ - Current ratio in print (*prostate cancer* vs. *prostatic cancer*): 75:1
 
-**B. And *prostrate*.** These very different words are subject to word-swapping. In the verb sense, to *prostrate* oneself is to kneel down in humility or adoration. As an adjective, *prostrate* means either "lying facedown" or "emotionally overcome." \(See **prone**.) The noun *prostate*, by contrast, refers to the gland found in male mammals, surrounding the urethra at the base of the bladder.
+**B. And *prostrate*.** These very different words are subject to word-swapping. In the verb sense, to *prostrate* oneself is to kneel down in humility or adoration. As an adjective, *prostrate* means either "lying facedown" or "emotionally overcome." (See **prone**.) The noun *prostate*, by contrast, refers to the gland found in male mammals, surrounding the urethra at the base of the bladder.
 
 The most common mistake is to write *\*prostrate gland* instead of *prostate gland*—e.g.:
 
@@ -20,13 +20,13 @@ The most common mistake is to write *\*prostrate gland* instead of *prostate gla
 
  - "Brans are popular, as are palmetto products, which are said to help prevent the *prostrate* \[read *prostate*\] gland from becoming enlarged." Ronda Robinson, "Be Healthy," *Knoxville News-Sentinel*, 3 Dec. 1995, at E12.
 
- - "During emission, the capsule of the *prostrate* \[read *prostate*\] gland contracts simultaneously with the contractions of the vas deferens so that the thin, milky fluid of the *prostrate* \[read *prostate*\] glands adds further to the bulk of the semen." Ritu Jain, *Secrets of Homoeopathy* 167 \(2007\).
+ - "During emission, the capsule of the *prostrate* \[read *prostate*\] gland contracts simultaneously with the contractions of the vas deferens so that the thin, milky fluid of the *prostrate* \[read *prostate*\] glands adds further to the bulk of the semen." Ritu Jain, *Secrets of Homoeopathy* 167 (2007).
 
 ## Language-Change Index
 
 1. *\*prostrate gland* for *prostate gland*: Stage 1
- - Current ratio in print \(*prostate gland* vs. *\*prostrate gland*\): 218:1
+ - Current ratio in print (*prostate gland* vs. *\*prostrate gland*): 218:1
 
 2. *prostate* misused for *prostrate*: Stage 1
- - Current ratio in print \(*lying prostrate* vs. \**lying prostate*\): 83:1
+ - Current ratio in print (*lying prostrate* vs. \**lying prostate*): 83:1
 

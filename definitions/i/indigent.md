@@ -1,4 +1,4 @@
 # indigent
 
-indigent, n. See functional shift \(c\).
+indigent, n. See functional shift (c).
 

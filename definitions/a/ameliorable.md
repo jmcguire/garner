@@ -1,4 +1,4 @@
 # ameliorable
 
-ameliorable. So formed—not *\*amelioratable*. See -able \(d\) & -atable.
+ameliorable. So formed—not *\*amelioratable*. See -able (d) & -atable.
 

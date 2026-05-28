@@ -1,8 +1,8 @@
 # nonplus
 
-nonplus, the verb meaning "to baffle or confound unexpectedly," preferably makes *nonplussed* and *nonplussing* in AmE and BrE alike, because the second syllable is stressed. \(See spelling \(c\).) But the variant *\*nonplused* also appears in some American writing—e.g.:
+nonplus, the verb meaning "to baffle or confound unexpectedly," preferably makes *nonplussed* and *nonplussing* in AmE and BrE alike, because the second syllable is stressed. (See spelling (c).) But the variant *\*nonplused* also appears in some American writing—e.g.:
 
- - "Betancourt looks *nonplused* \[read *nonplussed*\]." Barbara Peters Smith, "Legislating, Up Close," *Ledger* \(Lakeland, Fla.\), 19 Apr. 1995, at A7.
+ - "Betancourt looks *nonplused* \[read *nonplussed*\]." Barbara Peters Smith, "Legislating, Up Close," *Ledger* (Lakeland, Fla.), 19 Apr. 1995, at A7.
 
  - "Almost daily, we were *nonplused* \[read *nonplussed*\] by the breaking revelations during the testimony." "The Wonder of Welfare Fraud," *L.A. Times*, 13 Apr. 1997, at B7.
 
@@ -13,7 +13,7 @@ Since the 1990s there has arisen a mystifying notion that *nonplussed* is essent
 ## Language-Change Index
 
 1. *nonplussed* misspelled *\*nonplused*: Stage 1
- - Current ratio in print \(*nonplussed* vs. \**nonplused*\): 17:1
+ - Current ratio in print (*nonplussed* vs. \**nonplused*): 17:1
 
 2. *nonplussed* as meaning "unfazed": Stage 2
 

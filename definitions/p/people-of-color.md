@@ -1,4 +1,4 @@
 # people of color
 
-people of color. See race-related terms \(b\).
+people of color. See race-related terms (b).
 

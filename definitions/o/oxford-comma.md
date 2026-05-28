@@ -1,4 +1,4 @@
 # Oxford Comma
 
-Oxford Comma. See punctuation \(d\).
+Oxford Comma. See punctuation (d).
 

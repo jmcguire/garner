@@ -2,7 +2,7 @@
 
 motion seconded. This parliamentary idiom has recently become mangled, through sound association, into the phrase *\*notion seconded*. Perhaps the phrase needed is *notion confirmed*—e.g.:
 
- - "Common Cause asked the House ethics committee to investigate Rostenkowski. A *New York Times* editorial *seconded that notion* \[read *approved that idea*?\] and urged House Democrats to ‘call on Mr. Rostenkowski to step aside as chairman.' " Peter Carlson, "Dan Rostenkowski Goes Down in History," *Wash. Post* \(Mag.\), 17 Oct. 1993, at 35.
+ - "Common Cause asked the House ethics committee to investigate Rostenkowski. A *New York Times* editorial *seconded that notion* \[read *approved that idea*?\] and urged House Democrats to ‘call on Mr. Rostenkowski to step aside as chairman.' " Peter Carlson, "Dan Rostenkowski Goes Down in History," *Wash. Post* (Mag.), 17 Oct. 1993, at 35.
 
  - "Hamister says he believes in fan-friendly ownership, that he'll be out and about, attentive and accountable. Berman, who has the majority financial stake, *seconded the notion* \[read *agreed*\]." Todd Berman, "Sabres Deal Brings Out Kid in Berman," *Buffalo News*, 22 Nov. 2002, at B1.
 
@@ -13,5 +13,5 @@ No doubt part of the blame goes to Smokey Robinson and the Miracles for the 1967
 ## Language-Change Index
 
  - *\*notion seconded* for *notion confirmed*: Stage 1
- - Current ratio in print \(*notion confirmed* vs. *\*notion seconded*\): 3:1
+ - Current ratio in print (*notion confirmed* vs. *\*notion seconded*): 3:1
 

@@ -1,4 +1,4 @@
 # unbroken
 
-unbroken. See adjectives \(b\).
+unbroken. See adjectives (b).
 

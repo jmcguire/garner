@@ -1,4 +1,4 @@
 # loose
 
-loose, v.t.; **loosen**. See **lose \(b\)**.
+loose, v.t.; **loosen**. See **lose (b)**.
 

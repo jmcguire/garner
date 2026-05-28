@@ -1,4 +1,4 @@
 # inevitable
 
-inevitable. See adjectives \(b\).
+inevitable. See adjectives (b).
 

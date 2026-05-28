@@ -1,4 +1,4 @@
 # \*handsful
 
-\*handsful. See **handful \(a\)**.
+\*handsful. See **handful (a)**.
 

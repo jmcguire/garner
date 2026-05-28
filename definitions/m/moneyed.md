@@ -8,5 +8,5 @@ moneyed; \***monied**. The first has been standard in all varieties of English s
 
 Cf. **honeyed**.
 
- - Current ratio in print \(*moneyed* vs. \**monied*\): 3:1
+ - Current ratio in print (*moneyed* vs. \**monied*): 3:1
 

@@ -6,9 +6,9 @@ conversant in; **conversant with**. Although at times these phrasings have been 
 
  - "Sophisticated, savvy and stylish, fluent in French and *conversant in* history, Jacqueline Kennedy may not have been the greatest first lady—a title historians tend to bestow on Eleanor Roosevelt." Lisa Anderson, "Museum Exhibit Explores Jackie Kennedy's Impact," *Seattle Times*, 24 Apr. 2001, at A9.
 
- - "The cosmopolitan Negroponte—London-born, Greek American, Yale-educated, *conversant in* five languages—should placate U.N. members who sense a rise in American jingoism." Jay Branegan, "With Friends Like These Can a New Envoy Bring the U.S. and U.N. Together?," *Time* \(Int'l ed.\), 21 May 2001, at 25.
+ - "The cosmopolitan Negroponte—London-born, Greek American, Yale-educated, *conversant in* five languages—should placate U.N. members who sense a rise in American jingoism." Jay Branegan, "With Friends Like These Can a New Envoy Bring the U.S. and U.N. Together?," *Time* (Int'l ed.), 21 May 2001, at 25.
 
-*Conversant with* \(since 1800 the more usual phrasing\) suggests less expertise—that is, a general familiarity. E.g.:
+*Conversant with* (since 1800 the more usual phrasing) suggests less expertise—that is, a general familiarity. E.g.:
 
  - "From an early age he \[John Adams\] read and relished Greek and Latin, was *conversant with* Thucydides and Tacitus, as avaricious a bookman as his immortal correspondent Thomas Jefferson." Edwin M. Yoder Jr., "The Amiable Classicist," *Wash. Post*, 27 May 2001, Book World §, at T3.
 

@@ -1,4 +1,4 @@
 # echo
 
-echo. Pl. *echoes*—not *\*echos*. See plurals \(d\).
+echo. Pl. *echoes*—not *\*echos*. See plurals (d).
 

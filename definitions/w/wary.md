@@ -4,7 +4,7 @@ wary; **weary**. To be *wary* of something is to be on one's guard against it: c
 
 To be *weary* is to be physically fatigued or, by extension, "sick and tired" of something and ready for it to end. E.g.: "Maryland players are apparently growing *weary* about being asked questions about Duke guard Jason Williams." Michael Murphy, "Final Four Summary," *Houston Chron.*, 31 Mar. 2001, at 8.
 
-Doubtless by false association with *wary* and perhaps with *leery* \(= suspicious and careful\), writers sometimes misuse *weary*—e.g.:
+Doubtless by false association with *wary* and perhaps with *leery* (= suspicious and careful), writers sometimes misuse *weary*—e.g.:
 
  - "As a general principle, Congress should be *weary* \[read *wary*\] of trading tax cuts for expensive new entitlements." "A Deal Republicans Must Refuse," *Wash. Times*, 29 June 2000, at A22.
 
@@ -14,5 +14,5 @@ Doubtless by false association with *wary* and perhaps with *leery* \(= suspicio
 
 ## Language-Change Index
 
- - *weary* misused for *wary*: Stage 1 Current ratio in print \(*wary of the dangers* vs. *\*weary of the dangers*\): 81:1
+ - *weary* misused for *wary*: Stage 1 Current ratio in print (*wary of the dangers* vs. *\*weary of the dangers*): 81:1
 

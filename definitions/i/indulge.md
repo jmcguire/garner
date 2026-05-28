@@ -4,7 +4,7 @@ indulge. When the target of the indulgence is a habit, custom, or form of gratif
 
 When the target of the indulgence is the person seeking that gratification, the verb is transitive and the person is the verb's direct object—e.g.:
 
- - "*Indulge* your inner Sue Ellen with this Ciner Torsade necklace with freshwater pearls, crystal, onyx and jet beads, $495, at Saks." Jan Tyler & Susan Abrams, "Blast from the Past," *Newsday* \(N.Y.\), 5 Dec. 2002, Home & Gardens §, at B31.
+ - "*Indulge* your inner Sue Ellen with this Ciner Torsade necklace with freshwater pearls, crystal, onyx and jet beads, $495, at Saks." Jan Tyler & Susan Abrams, "Blast from the Past," *Newsday* (N.Y.), 5 Dec. 2002, Home & Gardens §, at B31.
 
  - "While they *indulge themselves* in adult interaction, their little ones are in nearby rooms being tended to by professional preschool teachers." Kathy Barberich, "Helping Moms, Helping Kids," *Fresno Bee*, 26 Jan. 2003, at H1.
 

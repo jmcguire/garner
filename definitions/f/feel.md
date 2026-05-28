@@ -16,22 +16,22 @@ feel.
 
 Not to excuse these errors, but they may result from the misplaced fear that *feel bad* somehow suggests wickedness or personal evil.
 
-But the same error crops up even with adjectives other than *bad*. Here it's *miserable*: "Every couple of years, the American Bar Association's monthly magazine publishes an article detailing how *miserably* \[read *miserable*\] many lawyers feel." Judson Hand, "Writer Judson Hand Signs Off from Column," *Asbury Park Press* \(Neptune, N.J.\), 27 Nov. 1997, at A33. See adjectives \(e\) & hypercorrection. Cf. **badly \(a\)**.
+But the same error crops up even with adjectives other than *bad*. Here it's *miserable*: "Every couple of years, the American Bar Association's monthly magazine publishes an article detailing how *miserably* \[read *miserable*\] many lawyers feel." Judson Hand, "Writer Judson Hand Signs Off from Column," *Asbury Park Press* (Neptune, N.J.), 27 Nov. 1997, at A33. See adjectives (e) & hypercorrection. Cf. **badly (a)**.
 
 In a 2021 poll at a Cosmos Club event in Washington, D.C., only 15% of those voting considered \**feel badly* to be standard english. The other voters rejected it.
 
 ## Language-Change Index
 
  - *\*feel badly* for *feel bad*: Stage 2
- - Current ratio in print \(*feel bad* vs. *\*feel badly*\): 16:1
+ - Current ratio in print (*feel bad* vs. *\*feel badly*): 16:1
 
 **D. *Feel like*.** To avoid using *like* as a conjunction, writers usually need to change this phrase to *feel as if*. E.g.:
 
  - "But on a combined income of $60,000, McDonald and his wife Cindy, who have five children, *feel like* \[read *feel as if*\] they're just scraping by." Marc Levinson, "Living on the Edge," *Newsweek*, 4 Nov. 1991, at 23.
 
- - "At this point, it *felt like* \[read *felt as if*\] Amy and I were on solid footing in the relationship." Jason B. Rosenthal, *My Wife Said You May Want to Marry Me* 13 \(2018\).
+ - "At this point, it *felt like* \[read *felt as if*\] Amy and I were on solid footing in the relationship." Jason B. Rosenthal, *My Wife Said You May Want to Marry Me* 13 (2018).
 
-See **like \(c\)**.
+See **like (c)**.
 
-On the other hand, the familiar casualism expressing a preference is perfectly grammatical <I feel like pizza tonight>. The object of the preposition *like* in this example is the understood gerund *eating* \(which functions as a noun\), and the object of that gerund is the noun *pizza*. So the expression, while a casualism, is not at all substandard.
+On the other hand, the familiar casualism expressing a preference is perfectly grammatical <I feel like pizza tonight>. The object of the preposition *like* in this example is the understood gerund *eating* (which functions as a noun), and the object of that gerund is the noun *pizza*. So the expression, while a casualism, is not at all substandard.
 

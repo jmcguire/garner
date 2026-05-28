@@ -10,11 +10,11 @@ incipient; **insipient**. The former means "beginning, in an initial stage"; the
 
 Given the rarity of *insipient*, it's a little surprising to see it used correctly—e.g.:
 
- - "But spare us the inevitable flood of self-satisfied, self-congratulatory interviews that will follow this *insipient* actor's \[i.e., Michael Caine's\] resurrection, rendering indigestible our morning coffee." Letter of Richard Harris, "A Sharp Kick from a Man Called Horse," *Sunday Times* \(London\), 6 Aug. 1995, § 3, at 8.
+ - "But spare us the inevitable flood of self-satisfied, self-congratulatory interviews that will follow this *insipient* actor's \[i.e., Michael Caine's\] resurrection, rendering indigestible our morning coffee." Letter of Richard Harris, "A Sharp Kick from a Man Called Horse," *Sunday Times* (London), 6 Aug. 1995, § 3, at 8.
 
  - "*Insipient* proposals to create and raise taxes are hardly what D.C. officials had in mind when they established the commission in 1996." Editorial, "Kill the Lawyers' Tax," *Wash. Times*, 4 May 1998, at A16.
 
- - "Some legislators tried to change the constitution to allow \(and therefore guarantee\) unequal and ineffective public education in Texas. Fortunately, they failed to convince their less *insipient* colleagues and the public of the merits of their ambition." Editorial, "Texas Public School Finance Needs Efficiency Experts," *Houston Chron.*, 8 July 2001, Outlook §, at 2.
+ - "Some legislators tried to change the constitution to allow (and therefore guarantee) unequal and ineffective public education in Texas. Fortunately, they failed to convince their less *insipient* colleagues and the public of the merits of their ambition." Editorial, "Texas Public School Finance Needs Efficiency Experts," *Houston Chron.*, 8 July 2001, Outlook §, at 2.
 
 ## Language-Change Index
 

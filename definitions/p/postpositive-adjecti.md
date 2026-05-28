@@ -1,6 +1,6 @@
 # Postpositive Adjectives, Essay
 
-Postpositive Adjectives follow the nouns they modify, generally because they follow Romance rather than Germanic \(or English\) syntax. They exist in English largely as a remnant of the Norman French influence during the Middle Ages, and especially in the century following the Norman Conquest. The French influence was most pronounced in the language of law, politics, religion, and heraldry.
+Postpositive Adjectives follow the nouns they modify, generally because they follow Romance rather than Germanic (or English) syntax. They exist in English largely as a remnant of the Norman French influence during the Middle Ages, and especially in the century following the Norman Conquest. The French influence was most pronounced in the language of law, politics, religion, and heraldry.
 
 In fields in which French phrases were adopted wholesale—syntax and all—they often passed into the English language unchanged, even though in English, adjectives otherwise almost invariably precede the nouns they modify. Following is a list of frequently used phrases with postpositive adjectives:
 
@@ -25,7 +25,7 @@ In fields in which French phrases were adopted wholesale—syntax and all—they
  - sergeant major
  - steak tartare
 
-On the troublesome issue of pluralizing the nouns in phrases such as these, see plurals \(g\).
+On the troublesome issue of pluralizing the nouns in phrases such as these, see plurals (g).
 
 At least two common English nouns, *matters* and *things*, often take postpositive adjectives that are ordinarily prepositive. Hence we say that someone is interested in *matters philological* or *things philosophical.*
 

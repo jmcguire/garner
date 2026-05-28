@@ -1,4 +1,4 @@
 # -elle/-ella
 
--elle/-ella. See diminutives \(d\).
+-elle/-ella. See diminutives (d).
 

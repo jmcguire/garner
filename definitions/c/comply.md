@@ -14,7 +14,7 @@ comply.
 
  - *\*comply to* for *comply with*: Stage 1
 
- - Current ratio in print \(*comply with* vs. *\*comply to*\): 168:1
+ - Current ratio in print (*comply with* vs. *\*comply to*): 168:1
 
 **B. For *follow*.** *Comply* suggests a hierarchy of authority: an inferior *complies with* an order from a superior. That's certainly not the case when the Arizona Supreme Court decides not to follow a recommendation of the Arizona Commission on Judicial Conduct: "In its 23-year history, the commission has only once recommended that a judge be removed from office. The Supreme Court did not *comply with* \[read *follow*\] that recommendation." Joe Salkowski, "Jett Shouldn't Be Removed, Panel Is Told," *Ariz. Daily Star*, 15 Jan. 1994, at A1, A2.
 

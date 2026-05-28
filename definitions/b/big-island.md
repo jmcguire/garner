@@ -1,4 +1,4 @@
 # Big Island
 
-Big Island. See **Hawaii \(a\)**.
+Big Island. See **Hawaii (a)**.
 

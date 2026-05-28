@@ -5,5 +5,5 @@ maelstrom, originally a Dutch word referring to a grinding or turning stream, is
 ## Language-Change Index
 
  - *maelstrom* misspelled *\*maelstorm*: Stage 1
- - Current ratio in print \(*maelstrom* vs. \**maelstorm*\): 1,346:1
+ - Current ratio in print (*maelstrom* vs. \**maelstorm*): 1,346:1
 

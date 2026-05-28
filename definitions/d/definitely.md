@@ -1,4 +1,4 @@
 # definitely
 
-definitely. So spelled. See spelling \(a\).
+definitely. So spelled. See spelling (a).
 

@@ -1,4 +1,4 @@
 # martial
 
-martial, adj. See **marshal**, n. **\(a\)**.
+martial, adj. See **marshal**, n. **(a)**.
 

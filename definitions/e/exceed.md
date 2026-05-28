@@ -13,7 +13,7 @@ exceed.
 ## Language-Change Index
 
  - *\*exceed more than* for *exceed*: Stage 1
- - Current ratio in print \(*exceed 10* vs. *\*exceed more than 10*\): 182:1
+ - Current ratio in print (*exceed 10* vs. *\*exceed more than 10*): 182:1
 
 **B. And *accede*.** See **accede**.
 

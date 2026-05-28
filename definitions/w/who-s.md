@@ -1,4 +1,4 @@
 # who's
 
-who's; **whose**. See **whose \(b\)**.
+who's; **whose**. See **whose (b)**.
 

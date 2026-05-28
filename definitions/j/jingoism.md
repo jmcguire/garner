@@ -1,4 +1,4 @@
 # jingoism
 
-jingoism. See **chauvinism \(b\)** & **jingoist**.
+jingoism. See **chauvinism (b)** & **jingoist**.
 

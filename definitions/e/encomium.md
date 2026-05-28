@@ -1,6 +1,6 @@
 # encomium
 
-encomium \(= warm praise\) forms the plural *encomiums* or *encomia*. The native-English plural has been predominant since the 1700s and is still standard—e.g.:
+encomium (= warm praise) forms the plural *encomiums* or *encomia*. The native-English plural has been predominant since the 1700s and is still standard—e.g.:
 
  - "Even worse is Ms. Noonan's sunny valentine to Ronald Reagan, which is less an essay than a toastmaster's collection of *encomiums*." Michiko Kakutani, "Looking to Presidents for Signs of Character," *N.Y. Times*, 9 Apr. 1996, at C18.
 
@@ -8,7 +8,7 @@ encomium \(= warm praise\) forms the plural *encomiums* or *encomia*. The native
 
  - "The eulogies and *encomiums* have centred exclusively upon the departing Tom Watson." Oliver Brown, "Thomson Endorsement Inspires Scott to Purge His Open Nightmares," *Sunday Telegraph*, 19 July 2015, Sport §, at 3.
 
-See plurals \(b\).
+See plurals (b).
 
- - Current ratio in print \(*encomiums* vs. *encomia*\): 2.3:1
+ - Current ratio in print (*encomiums* vs. *encomia*): 2.3:1
 

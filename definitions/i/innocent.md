@@ -1,4 +1,4 @@
 # innocent
 
-innocent. See **not guilty \(a\)**.
+innocent. See **not guilty (a)**.
 

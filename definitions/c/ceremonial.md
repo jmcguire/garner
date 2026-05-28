@@ -8,7 +8,7 @@ ceremonial; **ceremonious**. The differentiation between these words lies more i
 
 *Ceremonious*, a less common and mildly disparaging word, suggests an overdone formality. It is used in reference both to people and to things—e.g.:
 
- - "Walking the plank would have been too *ceremonious* for the real pirates, who much preferred slicing their victims up in redblooded swordplay." Donna Marchetti, "Real Pirates Were Not Swashbuckling," *Plain Dealer* \(Cleveland\), 27 Oct. 1996, at I11.
+ - "Walking the plank would have been too *ceremonious* for the real pirates, who much preferred slicing their victims up in redblooded swordplay." Donna Marchetti, "Real Pirates Were Not Swashbuckling," *Plain Dealer* (Cleveland), 27 Oct. 1996, at I11.
 
  - "For a mall whose opening day in 1973 was so *ceremonious*, the DeSoto Square Mall had a quiet death." Laura Finaldi, "DeSoto Square Mall, Once the Center of Everything, Dies Quietly," *Sarasota Herald-Trib.*, 4 May 2021, at A8.
 
@@ -18,5 +18,5 @@ The word is more often seen in its negative adverbial form, *unceremoniously*, w
 
  - *ceremonious* misused for *ceremonial*: Stage 1
 
- - Current ratio in print \(*ceremonial observances* vs. \**ceremonious observances*\): 7:1
+ - Current ratio in print (*ceremonial observances* vs. \**ceremonious observances*): 7:1
 

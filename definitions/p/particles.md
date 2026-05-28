@@ -6,13 +6,13 @@ Particles .
 
 **B. In Phrasal Verbs.** See phrasal verbs.
 
-**C. At End of Sentence.** See prepositions \(b\).
+**C. At End of Sentence.** See prepositions (b).
 
-**D. Capitalizing in Headings.** See capitalization \(d\).
+**D. Capitalizing in Headings.** See capitalization (d).
 
-**E. Prepositions as.** See functional shift \(g\).
+**E. Prepositions as.** See functional shift (g).
 
-**F. In Names.** See names \(d\).
+**F. In Names.** See names (d).
 
-**G. In Particular Phrasings.** See **catch fire**; **conjure**; **equally as**; **out \(a\)**; **pay \(b\)**.
+**G. In Particular Phrasings.** See **catch fire**; **conjure**; **equally as**; **out (a)**; **pay (b)**.
 

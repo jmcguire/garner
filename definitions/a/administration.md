@@ -1,4 +1,4 @@
 # administration
 
-administration. See **government \(b\)**.
+administration. See **government (b)**.
 

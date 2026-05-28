@@ -1,6 +1,6 @@
 # evolute
 
-evolute, as a noun, bears a highly technical meaning in mathematics \(denoting a type of curvature\); and as an adjective, it bears a fairly technical meaning in botany \("turned back; unfolded"\).
+evolute, as a noun, bears a highly technical meaning in mathematics (denoting a type of curvature); and as an adjective, it bears a fairly technical meaning in botany ("turned back; unfolded").
 
 But some writers have tried to make it a verb, as a back-formation from *evolution*, thereby concocting a needless variant—a jarring one—for *evolve.* E.g.:
 
@@ -11,5 +11,5 @@ But some writers have tried to make it a verb, as a back-formation from *evoluti
 ## Language-Change Index
 
  - *evolute* for *evolve*: Stage 1
- - Current ratio in print \(*evolving* vs. *\*evoluting*\): 5,940:1
+ - Current ratio in print (*evolving* vs. *\*evoluting*): 5,940:1
 

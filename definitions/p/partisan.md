@@ -4,5 +4,5 @@ partisan; \***partizan**. The first is the standard spelling in both AmE and BrE
 
 *Partisan* is pronounced /**pahr**-ti-zәn/ in AmE and /pah-ti-**zan**/ in BrE.
 
- - Current ratio in print \(*partisan* vs. \**partizan*\): 134:1
+ - Current ratio in print (*partisan* vs. \**partizan*): 134:1
 

@@ -8,7 +8,7 @@ reckless. So spelled. In a fairly gross error traceable to the early 1800s, the 
 
  - "Ohio Wesleyan played aggressively—often *wrecklessly* \[read *recklessly*\]—in the first quarter in building its lead." Gene Wang, "Hobart Wins 13th NCAA Title," *Wash. Post*, 31 May 1993, at C9.
 
- - "But while Clinton is in Portland this week, the hope here is that he'll reconsider his administration's *wreckless* \[read *reckless*\] course." "To: The President, II," *Oregonian* \(Portland\), 26 June 1995, at B6.
+ - "But while Clinton is in Portland this week, the hope here is that he'll reconsider his administration's *wreckless* \[read *reckless*\] course." "To: The President, II," *Oregonian* (Portland), 26 June 1995, at B6.
 
  - "Raabe faces several charges, including third-degree assault and *wreckless* \[read *reckless*\] driving." "2 Denver Traffic Cops Hit, Injured by a Car," *Denver Post*, 7 Dec. 2001, at B3.
 
@@ -17,5 +17,5 @@ The second and fifth examples are particularly ironic misspellings, given the co
 ## Language-Change Index
 
  - *reckless* misspelled *\*wreckless*: Stage 1
- - Current ratio in print \(*reckless* vs. \**wreckless*\): 1,375:1
+ - Current ratio in print (*reckless* vs. \**wreckless*): 1,375:1
 

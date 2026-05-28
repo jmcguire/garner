@@ -1,4 +1,4 @@
 # ordinal numbers
 
-ordinal numbers. See **cardinal numbers** & numerals \(f\).
+ordinal numbers. See **cardinal numbers** & numerals (f).
 

@@ -1,4 +1,4 @@
 # misappropriate
 
-misappropriate. See **appropriate \(a\)**.
+misappropriate. See **appropriate (a)**.
 

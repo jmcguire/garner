@@ -1,4 +1,4 @@
 # fever
 
-fever. See **temperature \(b\)**.
+fever. See **temperature (b)**.
 

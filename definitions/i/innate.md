@@ -1,4 +1,4 @@
 # innate
 
-innate. See **inchoate \(d\)**.
+innate. See **inchoate (d)**.
 

@@ -6,5 +6,5 @@ While for some, the folksy pronunciation might evoke images of a Yankee seafarer
 
 The style guides at *The New York Times* and *The Boston Globe* ban the contracted form, preferring instead *northeaster*. That was the predominant form in print sources from the 1830s through the 1990s. By 1999, *nor'easter* had gained preeminence. It is now established.
 
- - Current ratio in print \(*nor'easter* vs. *northeaster*\): 1.9:1
+ - Current ratio in print (*nor'easter* vs. *northeaster*): 1.9:1
 

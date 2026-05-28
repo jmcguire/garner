@@ -1,4 +1,4 @@
 # lovelily
 
-lovelily. See adverbs \(c\).
+lovelily. See adverbs (c).
 

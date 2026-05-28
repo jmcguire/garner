@@ -1,4 +1,4 @@
 # not that
 
-not that \[adj.\] **\(of\) a**. See **of \(b\)**.
+not that \[adj.\] **(of) a**. See **of (b)**.
 

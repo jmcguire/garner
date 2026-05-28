@@ -1,4 +1,4 @@
 # lungful
 
-lungful. Pl. *lungfuls*. See plurals \(g\).
+lungful. Pl. *lungfuls*. See plurals (g).
 

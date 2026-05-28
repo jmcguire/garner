@@ -13,5 +13,5 @@ See irregular verbs & **loan**.
 ## Language-Change Index
 
  - *\*lended* for *lent*: Stage 1
- - Current ratio in print \(*lent him* vs. *\*lended him*\): 1,107:1
+ - Current ratio in print (*lent him* vs. *\*lended him*): 1,107:1
 

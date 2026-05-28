@@ -1,4 +1,4 @@
 # Double Adverbs
 
-Double Adverbs. See adverbs \(d\).
+Double Adverbs. See adverbs (d).
 

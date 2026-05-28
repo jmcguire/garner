@@ -1,6 +1,6 @@
 # vicious
 
-vicious; **viscous**. *Vicious* \(= brutal\) is sometimes confounded with *viscous* \(= gummy\)—e.g.:
+vicious; **viscous**. *Vicious* (= brutal) is sometimes confounded with *viscous* (= gummy)—e.g.:
 
  - "Crouching just behind the service line, Agassi ran around his backhand to take a *viscous* \[read *vicious*\] rip at a return off Ferrero's timid serve." Selena Roberts, "Agassi Out as Ferrero Capitalizes on a Break," *N.Y. Times*, 7 June 2002, at D2.
 

@@ -1,4 +1,4 @@
 # category
 
-category. So spelled. See spelling \(a\).
+category. So spelled. See spelling (a).
 

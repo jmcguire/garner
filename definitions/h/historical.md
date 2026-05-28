@@ -8,7 +8,7 @@ A documented fact, event, or development—perhaps having no great importance in
 
 Examples of *historic* used incorrectly for *historical* could easily run for several pages—e.g.:
 
- - "The Sunday Trading Act, which formally became law yesterday, removes *historic* \[read *historical*\] anomalies of the kind that allowed shopkeepers to sell pornographic magazines but not Bibles on the Sabbath, and instant but not ground coffee." Marianne Curphey, "M&S Gives Up Fight to Keep Stores Shut on Sundays," *Times* \(London\), 27 Aug. 1994, at 5.
+ - "The Sunday Trading Act, which formally became law yesterday, removes *historic* \[read *historical*\] anomalies of the kind that allowed shopkeepers to sell pornographic magazines but not Bibles on the Sabbath, and instant but not ground coffee." Marianne Curphey, "M&S Gives Up Fight to Keep Stores Shut on Sundays," *Times* (London), 27 Aug. 1994, at 5.
 
  - "The odds are now on a further easing of monetary policy and there is a good *historic* \[read *historical*\] correlation between falling interest rates and a rising stock market." "Indian Summer," *Fin. Times*, 13 June 1996, at 12.
 
@@ -19,10 +19,10 @@ The far less common mistake is misusing *historical* for *historic*—e.g.: "Gar
 ## Language-Change Index
 
 1. *historic* for *historical*: Stage 3
- - Current ratio in print \(*the historical development* vs. *\*the historic development*\): 29:1
+ - Current ratio in print (*the historical development* vs. *\*the historic development*): 29:1
 
 2. *historical* for *historic*: Stage 3
- - Current ratio in print \(*historic occasion* vs. *\*historical occasion*\): 3:1
+ - Current ratio in print (*historic occasion* vs. *\*historical occasion*): 3:1
 
-**B. *A historic\(al\)*; *\*an historic\(al\)*.** On the question whether to write *a* or *an historic\(al\)*, see **a \(a\)**.
+**B. *A historic(al)*; *\*an historic(al)*.** On the question whether to write *a* or *an historic(al)*, see **a (a)**.
 

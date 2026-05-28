@@ -1,4 +1,4 @@
-# one and one \(is\) \(are\)
+# one and one (is) (are)
 
-one and one \(is\) \(are\). See subject–verb agreement \(g\).
+one and one (is) (are). See subject–verb agreement (g).
 

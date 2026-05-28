@@ -1,6 +1,6 @@
 # problematize
 
-problematize \(= to question the premises on which an argument is based\), a term actually coined by the playwright Ben Jonson in the 1630s, took root and became fashionable in the 1970s. It has unfortunately become common in academic jargon, especially in cultural studies, social science, and literary theory—e.g.:
+problematize (= to question the premises on which an argument is based), a term actually coined by the playwright Ben Jonson in the 1630s, took root and became fashionable in the 1970s. It has unfortunately become common in academic jargon, especially in cultural studies, social science, and literary theory—e.g.:
 
  - "War and work, bedrocks of masculinity, were now *problematized* by changes in dominant cultural narratives." Kenneth Rufo, "Stiffed: The Betrayal of the American Man," 66 *So. Communication J.*, 1 Oct. 2000, at 97.
 

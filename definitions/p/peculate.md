@@ -1,4 +1,4 @@
 # peculate
 
-peculate. See **defalcate \(a\)**.
+peculate. See **defalcate (a)**.
 

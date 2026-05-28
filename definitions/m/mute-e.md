@@ -1,4 +1,4 @@
 # Mute E, Essay
 
-Mute E. See spelling \(d\).
+Mute E. See spelling (d).
 

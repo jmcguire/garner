@@ -1,4 +1,4 @@
 # -ess
 
--ess. See sexism \(d\).
+-ess. See sexism (d).
 

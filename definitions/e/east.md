@@ -1,4 +1,4 @@
 # east
 
-east; **easterly**; **eastward\(s\)**. See directional words.
+east; **easterly**; **eastward(s)**. See directional words.
 

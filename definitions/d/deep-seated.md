@@ -1,6 +1,6 @@
 # deep-seated
 
-deep-seated. So spelled. *\*Deep-seeded* is a misbegotten metaphor, a malapropism, especially because something truly *\*deep-seeded* probably wouldn't grow. The oldest uses \(from the 1700s\) derive from medicine, depicting diseases "seated" deep within the body <a deep-seated abscess>, not from agriculture—e.g.:
+deep-seated. So spelled. *\*Deep-seeded* is a misbegotten metaphor, a malapropism, especially because something truly *\*deep-seeded* probably wouldn't grow. The oldest uses (from the 1700s) derive from medicine, depicting diseases "seated" deep within the body <a deep-seated abscess>, not from agriculture—e.g.:
 
  - "The small-town tradition has built a fierce sense of community and a *deep-seeded* \[read *deep-seated*\] suspicion of outsiders, social historians say." Marcelino Rodriguez, "Vigilante Justice on Rise in Mexican State," *Dallas Morning News*, 5 July 1994, at A5.
 
@@ -11,5 +11,5 @@ deep-seated. So spelled. *\*Deep-seeded* is a misbegotten metaphor, a malapropis
 ## Language-Change Index
 
  - *\*deep-seeded* for *deep-seated*: Stage 1
- - Current ratio in print \(*deep-seated* vs. *\*deep-seeded*\): 104:1
+ - Current ratio in print (*deep-seated* vs. *\*deep-seeded*): 104:1
 

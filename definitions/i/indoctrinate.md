@@ -9,5 +9,5 @@ indoctrinate is sometimes displaced by *\*indoctrine*, an obsolete variant that 
 ## Language-Change Index
 
  - *\*indoctrine* for *indoctrinate*: Stage 1
- - Current ratio in print \(*indoctrinated* vs. *\*indoctrined*\): 878:1
+ - Current ratio in print (*indoctrinated* vs. *\*indoctrined*): 878:1
 

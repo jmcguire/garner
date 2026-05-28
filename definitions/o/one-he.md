@@ -1,4 +1,4 @@
 # one . . . he
 
-one . . . he. See **one \(b\)**.
+one . . . he. See **one (b)**.
 

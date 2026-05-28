@@ -4,5 +4,5 @@ retributive; **retributory**; \***retributional**; **\*retributionary**. *Retrib
 
 *\*Retributional* and *\*retributionary* are needless variants sometimes used but omitted from the major dictionaries.
 
- - Current ratio in print \(*retributive* vs. *retributory* vs. \**retributional* vs. \**retributionary*\): 1,127:15:5:1
+ - Current ratio in print (*retributive* vs. *retributory* vs. \**retributional* vs. \**retributionary*): 1,127:15:5:1
 

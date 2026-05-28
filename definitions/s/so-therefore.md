@@ -1,4 +1,4 @@
 # \*so therefore
 
-\*so therefore. See **so \(c\)**.
+\*so therefore. See **so (c)**.
 

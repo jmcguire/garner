@@ -1,4 +1,4 @@
 # Double Possessives
 
-Double Possessives. See possessives \(d\).
+Double Possessives. See possessives (d).
 

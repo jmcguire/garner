@@ -6,5 +6,5 @@ aloud; **out loud**. The latter is colloquial when used in place of the former i
 
  - "Oprah loves writing that begs to be read *out loud* \[read *aloud*\]." Marilyn Johnson, "Oprah Winfrey: A Life in Books," *Life*, Sept. 1997, at 44.
 
- - Current ratio in print \(*read aloud* vs. *read out loud*\): 8:1
+ - Current ratio in print (*read aloud* vs. *read out loud*): 8:1
 

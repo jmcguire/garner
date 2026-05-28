@@ -11,5 +11,5 @@ So is that trend troublesome? Not really. The word neatly fills a void in the la
 ## Language-Change Index
 
  - *problematic* meaning "troublesome": Stage 5
- - Current ratio in print \(*problematic* vs. *\*problematical*\): 39:1
+ - Current ratio in print (*problematic* vs. *\*problematical*): 39:1
 

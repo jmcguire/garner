@@ -6,9 +6,9 @@ climactic; **climacteric; climatic**. Until the mid-20th century, *climactic* /k
 
  - "A chase in a multi-storey car park where one of the cars is steered by an eight-year-old girl is well handled, as is a *climactic* and inevitable shootout." Matthew Bond, "Hotshot Girls Miss the Target," *Mail on Sunday*, 19 Sept. 2021, at 71.
 
-Having fallen into disuse as a needless variant of *climactic*, *climacteric* is now to be avoided in this sense. It lives on as a rare scientific term: a *climacteric* fruit is one that can be picked unripe and then induced to ripen in the presence of a hormone-bearing ethylene gas that the fruit itself produces. Apples are *climacteric* fruits and can be forced to ripen \(or even spoil\) in a paper bag.
+Having fallen into disuse as a needless variant of *climactic*, *climacteric* is now to be avoided in this sense. It lives on as a rare scientific term: a *climacteric* fruit is one that can be picked unripe and then induced to ripen in the presence of a hormone-bearing ethylene gas that the fruit itself produces. Apples are *climacteric* fruits and can be forced to ripen (or even spoil) in a paper bag.
 
-But *climacteric* also has legitimate uses as a noun: \(1\) "an epochal event or critical turning point"; \(2\) "menopause, or the male phase corresponding to menopause"; or \(3\) "years of human life marked by multiplying by 7 the odd numbers 3, 5, 7, and 9, the resulting periods occurring at ages 21, 35, 49, 63—some add 81." In sense 3, the ages 63 and 81 are both called the *grand climacteric*.
+But *climacteric* also has legitimate uses as a noun: (1) "an epochal event or critical turning point"; (2) "menopause, or the male phase corresponding to menopause"; or (3) "years of human life marked by multiplying by 7 the odd numbers 3, 5, 7, and 9, the resulting periods occurring at ages 21, 35, 49, 63—some add 81." In sense 3, the ages 63 and 81 are both called the *grand climacteric*.
 
 *Climatic* /klī-**mat**-ik/ is the adjective corresponding to *climate*—e.g.: "Long-term weather forecasts, which have been feeding the corn price frenzy, are seen by some as ominous because they include certain *climatic* events associated with droughts in the recent past." John Schnittker, "Thought for Food," *Wash. Post*, 1 May 1996, at A19.
 
@@ -29,9 +29,9 @@ See **anticlimactic**.
 1. *climactic* as an equivalent of *climacteric*: Stage 5
 
 2. *climatic* misused for *climactic*: Stage 1
- - Current ratio in print \(*anticlimactic* vs. *\*anticlimatic*\): 54:1
- - Current ratio in print \(*climactic moment* vs. \**climatic moment*\): 22:1
+ - Current ratio in print (*anticlimactic* vs. *\*anticlimatic*): 54:1
+ - Current ratio in print (*climactic moment* vs. \**climatic moment*): 22:1
 
 3. *climactic* misused for *climatic*: Stage 1
- - Current ratio in print \(*climatic conditions* vs. *\*climactic conditions*\): 84:1
+ - Current ratio in print (*climatic conditions* vs. *\*climactic conditions*): 84:1
 

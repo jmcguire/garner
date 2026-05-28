@@ -10,9 +10,9 @@ decry; **descry**. *Decry* = to denounce or disparage <decrying the despicable p
 
  - "So anxious are boomers about their careers that some experts *descry* a whole new genre of midlife crisis." Ronald Henkoff, "So, You Want to Change Your Job," *Fortune*, 15 Jan. 1996, at 52.
 
-Occasionally writers misuse *descry* for *decry*—e.g.: "As much as we *descry* \[read *decry* or *condemn*\] such acts, we should come to grips with some fundamental truths." Terry Plumb, "What Did He Look Like?," *Herald* \(Rock Hill, S.C.\), 12 Feb. 2006, at E1. And in some sentences, the word *descry* is barely intelligible, a fancy trinket dragged in to dress up the sentence—e.g.:
+Occasionally writers misuse *descry* for *decry*—e.g.: "As much as we *descry* \[read *decry* or *condemn*\] such acts, we should come to grips with some fundamental truths." Terry Plumb, "What Did He Look Like?," *Herald* (Rock Hill, S.C.), 12 Feb. 2006, at E1. And in some sentences, the word *descry* is barely intelligible, a fancy trinket dragged in to dress up the sentence—e.g.:
 
- - "On Friday, she sported a sign *descrying* \[read *proclaiming*?\] ‘Fur Is Dead' along with her mistress, whose sandwich board carried a gruesome message." John Ure, " ‘Fur Free Friday' Brings 100 to Protest at Two S.L. Malls," *Salt Lake Trib.*, 26 Nov. 1994, at B2. \(See the obsolete sense II in the *OED*: "to announce, proclaim, declare."\)
+ - "On Friday, she sported a sign *descrying* \[read *proclaiming*?\] ‘Fur Is Dead' along with her mistress, whose sandwich board carried a gruesome message." John Ure, " ‘Fur Free Friday' Brings 100 to Protest at Two S.L. Malls," *Salt Lake Trib.*, 26 Nov. 1994, at B2. (See the obsolete sense II in the *OED*: "to announce, proclaim, declare.")
 
  - "Hugh Burns asked rhetorically if Williams' portrayal of Abu-Jamal as a highly intelligent and articulate individual made him less *descrying* \[read *critical*?\] of the death penalty than an average man who committed murder." Samuel B. Fineman, "Abu-Jamal Hearings Conclude," *Legal Intelligencer*, 12 Sept. 1995, at 1.
 

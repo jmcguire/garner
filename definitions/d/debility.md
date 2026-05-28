@@ -5,5 +5,5 @@ debility; **debilitation**. *Debility* = weakness; feebleness. *Debilitation* = 
 ## Language-Change Index
 
  - *debilitation* misused for *debility*: Stage 1
- - Current ratio in print \(*physical debilities* vs. \**physical debilitations*\): 3:1
+ - Current ratio in print (*physical debilities* vs. \**physical debilitations*): 3:1
 

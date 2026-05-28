@@ -14,7 +14,7 @@ Passaic—my oldest sister worked at the Citizens Bank there last year.
 
  Note that if the foregrounded noun phrase represents a locative—the "place where"—then its position is held by *there*, just as the persons are represented by pronouns. If we are dealing with a time element, it can be foregrounded without replacement in any dialect: *Last year, my oldest sister worked at the Citizens Bank in Passaic*.
 
-William Labov, "The Study of Nonstandard English," in *Language: Introductory Readings* 543, 547–48 \(Virginia P. Clark et al. eds., 4th ed. 1985\).
+William Labov, "The Study of Nonstandard English," in *Language: Introductory Readings* 543, 547–48 (Virginia P. Clark et al. eds., 4th ed. 1985).
 
 Labov's final examples—with the "foregrounding"—are quite informal, even if they are standard. Some journalists habitually use that type of sentence.
 

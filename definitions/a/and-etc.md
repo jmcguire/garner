@@ -1,4 +1,4 @@
 # \*and etc
 
-\*and etc. See **etc. \(b\)**.
+\*and etc. See **etc. (b)**.
 

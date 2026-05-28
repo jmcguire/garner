@@ -6,12 +6,12 @@ transpire. The traditionally correct meaning of this word is "to pass through a 
 
  - "Satisfied that something unusual was indeed *transpiring* \[read *happening*\], the team then arranged for a visit to the house." David Lazarus, "Ghostbuster Snares Clients on Net," *S.F. Chron.*, 13 Oct. 2002, at G1.
 
-Another loose usage occurs \(not *transpires*\) when *transpire* is used for *pass* or *elapse*—e.g.: "Three days *transpired* \[read *passed*\] between the call and discovery of the dead child." Steven K. Paulson, "911 Call Was Made from Mansion Before Body Found," *Times Union* \(Albany\), 10 Jan. 1997, at A3.
+Another loose usage occurs (not *transpires*) when *transpire* is used for *pass* or *elapse*—e.g.: "Three days *transpired* \[read *passed*\] between the call and discovery of the dead child." Steven K. Paulson, "911 Call Was Made from Mansion Before Body Found," *Times Union* (Albany), 10 Jan. 1997, at A3.
 
-All in all, *transpire* fits the definition of a skunked term: careful writers should avoid it altogether simply to avoid distracting readers, whether traditionalists \(who dislike the modern usage\) or others \(who may not understand the traditional usage\).
+All in all, *transpire* fits the definition of a skunked term: careful writers should avoid it altogether simply to avoid distracting readers, whether traditionalists (who dislike the modern usage) or others (who may not understand the traditional usage).
 
 ## Language-Change Index
 
  - *transpire* for *happen* or *occur*: Stage 4
- - Current ratio in print \(*what happened in the past* vs. *\*what transpired in the past*\): 134:1
+ - Current ratio in print (*what happened in the past* vs. *\*what transpired in the past*): 134:1
 

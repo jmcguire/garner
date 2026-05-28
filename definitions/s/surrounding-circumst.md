@@ -1,4 +1,4 @@
 # \*surrounding circumstances
 
-\*surrounding circumstances. See **circumstances \(b\)**.
+\*surrounding circumstances. See **circumstances (b)**.
 

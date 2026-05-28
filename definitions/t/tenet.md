@@ -1,6 +1,6 @@
 # tenet
 
-tenet \(= a doctrine or basic belief, dogma\) is sometimes confounded with the similar-sounding *tenant* \(= \[1\] someone who has a leasehold, a lessee; or \[2\] an inhabitant, dweller\). The result is linguistically untenable—e.g.:
+tenet (= a doctrine or basic belief, dogma) is sometimes confounded with the similar-sounding *tenant* (= \[1\] someone who has a leasehold, a lessee; or \[2\] an inhabitant, dweller). The result is linguistically untenable—e.g.:
 
  - "The Clinton legislation, which embraces many of the *tenants* \[read *tenets*\] supported in education legislation passed in the Bush Administration, calls for the reconfiguration of American public schools." William Celis III, "Annenberg to Give Education $500 Million over Five Years," *N.Y. Times*, 17 Dec. 1993, at A1, A15.
 
@@ -11,6 +11,6 @@ tenet \(= a doctrine or basic belief, dogma\) is sometimes confounded with the s
 ## Language-Change Index
 
  - *tenant* misused for *tenet*: Stage 2
- - Current ratio in print \(*fundamental tenet* vs. *\*fundamental tenant*\): 41:1
- - Current ratio in print \(*tenets of Christianity* vs. \**tenants of Christianity*\): 46:1
+ - Current ratio in print (*fundamental tenet* vs. *\*fundamental tenant*): 41:1
+ - Current ratio in print (*tenets of Christianity* vs. \**tenants of Christianity*): 46:1
 

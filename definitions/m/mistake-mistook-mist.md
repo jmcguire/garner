@@ -5,5 +5,5 @@ mistake > mistook > mistaken. So inflected. Mercifully, the correct forms are se
 ## Language-Change Index
 
  - *\*mistaked* for *mistook*: Stage 1
- - Current ratio in print \(*mistook* vs. *\*mistaked*\): 1,828:1
+ - Current ratio in print (*mistook* vs. *\*mistaked*): 1,828:1
 

@@ -1,6 +1,6 @@
 # disinterest
 
-disinterest; **uninterest**. *Disinterest* = \(1\) impartiality or freedom from bias or from chance of financial benefit <the judge showed disinterest in the way that every judge should>; or \(2\) lack of concern or attention <the team members suffered from the disinterest of their traditional supporters>. Leading writers and editors almost unanimously reject sense 2, in which *uninterest* \(recorded fr. 1890\) is the better term because it is unambiguous—e.g.:
+disinterest; **uninterest**. *Disinterest* = (1) impartiality or freedom from bias or from chance of financial benefit <the judge showed disinterest in the way that every judge should>; or (2) lack of concern or attention <the team members suffered from the disinterest of their traditional supporters>. Leading writers and editors almost unanimously reject sense 2, in which *uninterest* (recorded fr. 1890) is the better term because it is unambiguous—e.g.:
 
  - "He may empathize with modern American theater, but his *uninterest* in American opera is resounding." Ned Rorem, "Of Zeffirelli and Carmen: Memories and Reacquaintances," *N.Y. Times*, 8 Sept. 1996, § 2, at 61.
 

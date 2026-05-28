@@ -1,4 +1,4 @@
 # croupier
 
-croupier. So spelled. See spelling \(a\).
+croupier. So spelled. See spelling (a).
 

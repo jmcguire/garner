@@ -1,4 +1,4 @@
 # clench
 
-clench. See **clinch \(a\)**.
+clench. See **clinch (a)**.
 

@@ -1,8 +1,8 @@
 # diffuse
 
-diffuse; **defuse**, vb. To *diffuse* something is to disperse it from a single source. To *defuse* is to make safe something that was threatening, especially a bomb \(by deactivating it\) or, by extension, a dangerous situation.
+diffuse; **defuse**, vb. To *diffuse* something is to disperse it from a single source. To *defuse* is to make safe something that was threatening, especially a bomb (by deactivating it) or, by extension, a dangerous situation.
 
-*Diffuse* can have very different connotations, depending on its context, because of how dispersal can work. When dye is dropped into water, as it *diffuses* it both increases \(in apparent size\) and decreases \(in concentration\). Similarly, light that is *diffused*, as through a window shade, is made softer. But when the thing being *diffused* is not diminished by being spread—literacy or religion, for example—it grows in both size and strength. So we find a connotation of building rather than weakening in the Carnegie Foundation's mission of promoting "the advancement and *diffusion* of knowledge and understanding."
+*Diffuse* can have very different connotations, depending on its context, because of how dispersal can work. When dye is dropped into water, as it *diffuses* it both increases (in apparent size) and decreases (in concentration). Similarly, light that is *diffused*, as through a window shade, is made softer. But when the thing being *diffused* is not diminished by being spread—literacy or religion, for example—it grows in both size and strength. So we find a connotation of building rather than weakening in the Carnegie Foundation's mission of promoting "the advancement and *diffusion* of knowledge and understanding."
 
 The notion that something *diffused* is softened like filtered light may explain why some writers misuse *diffuse* for the similar-sounding *defuse*—e.g.:
 
@@ -15,5 +15,5 @@ The notion that something *diffused* is softened like filtered light may explain
 ## Language-Change Index
 
  - *diffuse* misused for *defuse*: Stage 1
- - Current ratio in print \(*defuse the bomb* vs. \**diffuse the bomb*\): 5:1
+ - Current ratio in print (*defuse the bomb* vs. \**diffuse the bomb*): 5:1
 

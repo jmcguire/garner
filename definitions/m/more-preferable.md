@@ -1,4 +1,4 @@
 # \*more preferable
 
-\*more preferable. See adjectives \(b\) & **preferable**.
+\*more preferable. See adjectives (b) & **preferable**.
 

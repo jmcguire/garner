@@ -1,4 +1,4 @@
 # breech
 
-breech. See **breach \(a\)**.
+breech. See **breach (a)**.
 

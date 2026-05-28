@@ -1,4 +1,4 @@
 # \*hayday
 
-\*hayday. See **heyday \(a\)**.
+\*hayday. See **heyday (a)**.
 

@@ -12,17 +12,17 @@ But some writers, engaging in a recent misusage, have apparently misinterpreted 
 
  - "These plants will acquire strength and size until they are ready to be sent into the fields to continue their new life. They will be *cozened* \[read *coddled* or *nurtured*?\] just as a new child in the family would be flattered and protected." Ward Sinclair, "Mighty Hope from Little Seedlings Grows," *Wash. Post*, 22 Feb. 1989, at E1.
 
- - "Today's car is designed to soothe and placate victims of road angst; it is a place where naked id is cuddled, coddled and *cozened* \[read *cosseted*\]." Bob Wiemer, "Dump Car Phones, but Keep the Fuzzy Dice," *Newsday* \(N.Y.\), 12 Feb. 1996, at A26.
+ - "Today's car is designed to soothe and placate victims of road angst; it is a place where naked id is cuddled, coddled and *cozened* \[read *cosseted*\]." Bob Wiemer, "Dump Car Phones, but Keep the Fuzzy Dice," *Newsday* (N.Y.), 12 Feb. 1996, at A26.
 
- - "Strictly for women, it *hearkens* \[read *harks*\] back to the days when very rich, very *cozened* \[read *pampered*?\] women arrived by chauffeured limo with Louis Vuitton trunks stuffed with cocktail dresses for dinner." Cynthia Robbins, "Guilty Pleasures," *S.F. Examiner* \(Mag.\), 14 July 1996, at M15. \(For the reason for changing *\*hearkens* in that sentence, see **hark back \(a\)**.)
+ - "Strictly for women, it *hearkens* \[read *harks*\] back to the days when very rich, very *cozened* \[read *pampered*?\] women arrived by chauffeured limo with Louis Vuitton trunks stuffed with cocktail dresses for dinner." Cynthia Robbins, "Guilty Pleasures," *S.F. Examiner* (Mag.), 14 July 1996, at M15. (For the reason for changing *\*hearkens* in that sentence, see **hark back (a)**.)
 
  - "Coupled with Matamoros' gift for stillness, it all creates a *cozening* \[read *comfortable* or *cozy*?\] bed of sound in which memories blossom and occasionally burst into flame in ways we've rarely seen before." John Coulbourn, "A New Moon Rising," *Toronto Sun*, 1 Nov. 1996, at 7.
 
 Other writers seem to want the word to mean "summon"—e.g.:
 
- - "Barkers *cozened* \[read *hailed*?\] her as she passed—‘Step right up\! Step right up and have a go\!' " Annette Curtis Klause, "The Hoppins," in *Short Circuits* 183, 186 \(Donald R. Gallo ed., 1992\).
+ - "Barkers *cozened* \[read *hailed*?\] her as she passed—‘Step right up\! Step right up and have a go\!' " Annette Curtis Klause, "The Hoppins," in *Short Circuits* 183, 186 (Donald R. Gallo ed., 1992).
 
- - "She stood staring at her own ring finger, remembering as if *cozening* \[read *summoning*?\] back a dream . . . ." Nancy Springer, "Mariposa," in *Firebirds* 107, 120 \(Sharyn November ed., 2003\).
+ - "She stood staring at her own ring finger, remembering as if *cozening* \[read *summoning*?\] back a dream . . . ." Nancy Springer, "Mariposa," in *Firebirds* 107, 120 (Sharyn November ed., 2003).
 
 ## Language-Change Index
 

@@ -1,4 +1,4 @@
 # the likes of
 
-the likes of. See **like \(g\)**.
+the likes of. See **like (g)**.
 

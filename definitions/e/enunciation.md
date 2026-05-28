@@ -1,4 +1,4 @@
 # enunciation
 
-enunciation. See pronunciation \(h\).
+enunciation. See pronunciation (h).
 

@@ -1,4 +1,4 @@
 # geminate
 
-geminate. So spelled. See spelling \(a\).
+geminate. So spelled. See spelling (a).
 

@@ -1,4 +1,4 @@
-# liven \(up\)
+# liven (up)
 
-liven \(up\). See **enliven** & phrasal verbs.
+liven (up). See **enliven** & phrasal verbs.
 

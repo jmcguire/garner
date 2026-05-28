@@ -6,10 +6,10 @@ stadium. Although dictionaries traditionally gave priority to *\*stadia* as the 
 
  - "The other 25 percent of the money would go for ‘regional attractions' like baseball and football *stadiums* in Pittsburgh." Tom Barnes, "New Tax Bill Gives Counties More Backers," *Pitt. Post-Gaz.*, 30 May 1997, at A1.
 
-See plurals \(b\).
+See plurals (b).
 
 ## Language-Change Index
 
  - *stadiums*: Stage 5
- - Current ratio in print \(*stadiums* vs. \**stadia*\): 1.8:1
+ - Current ratio in print (*stadiums* vs. \**stadia*): 1.8:1
 

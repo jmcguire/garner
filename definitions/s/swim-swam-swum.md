@@ -8,14 +8,14 @@ swim > swam > swum. So inflected since the late 1800s in AmE and BrE alike. Yet 
 
  - "Within three hours of arriving at his new home, Keiko was reported to be vocalizing with a dolphin that had *swam* \[read *swum*\] between the pen and the shore." " ‘Free Willy' Star Returns to Atlantic," *Chicago Trib.*, 11 Sept. 1998, at 4.
 
-And *swum* is sometimes misused for *swam*—e.g.: "They *swum* \[read *swam*\] on." Carol Benefell, "Dramatic Rescue Near Goat Rock," *Press Democrat* \(Santa Rosa\), 8 Apr. 1996, at B1. See irregular verbs.
+And *swum* is sometimes misused for *swam*—e.g.: "They *swum* \[read *swam*\] on." Carol Benefell, "Dramatic Rescue Near Goat Rock," *Press Democrat* (Santa Rosa), 8 Apr. 1996, at B1. See irregular verbs.
 
 ## Language-Change Index
 
 1. *swam* for past-participial *swum*: Stage 2
- - Current ratio in print \(*have swum* vs. *\*have swam*\): 6:1
- - Current ratio in print \(*had swum* vs. *\*had swam*\): 8:1
+ - Current ratio in print (*have swum* vs. *\*have swam*): 6:1
+ - Current ratio in print (*had swum* vs. *\*had swam*): 8:1
 
 2. *swum* for simple-past *swam*: Stage 2
- - Current ratio in print \(*they swam in* vs. *\*they swum in*\): 466:1
+ - Current ratio in print (*they swam in* vs. *\*they swum in*): 466:1
 

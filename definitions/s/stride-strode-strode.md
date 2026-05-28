@@ -1,10 +1,10 @@
 # stride > strode > strode
 
-stride > strode > strode. So inflected. The variant past participle *\*stridden*, an archaism (attested in the *OED* from 1576 to 1970\), rarely appears today. Another past-participial form, *\*strid*, was current before 1800 but is now obsolete.
+stride > strode > strode. So inflected. The variant past participle *\*stridden*, an archaism (attested in the *OED* from 1576 to 1970), rarely appears today. Another past-participial form, *\*strid*, was current before 1800 but is now obsolete.
 
 The form *strode* serves as both the simple past and the past participle. Hence there is no full correspondence with the seemingly analogous *ride* > *rode* > *ridden*. E.g.:
 
- - "It was 12:15, a mere 15 minutes after McQueen had *strode* into the chamber." Jim Adams, "The Death Penalty in Kentucky," *Courier-J.* \(Louisville\), 2 July 1997, at A1.
+ - "It was 12:15, a mere 15 minutes after McQueen had *strode* into the chamber." Jim Adams, "The Death Penalty in Kentucky," *Courier-J.* (Louisville), 2 July 1997, at A1.
 
  - "My father had *strode* in and told me to stop." Elisa Seagrave, "Mother, I Hardly Knew You," *Independent*, 28 July 1998, at 9.
 
@@ -23,8 +23,8 @@ See irregular verbs.
 ## Language-Change Index
 
 1. *strode* as a past participle: Stage 5
- - Current ratio in print \(*had strode* vs. *\*had stridden*\): 2.5:1
+ - Current ratio in print (*had strode* vs. *\*had stridden*): 2.5:1
 
 2. *\*strided* for *strode*: Stage 1
- - Current ratio in print \(*strode* vs. *\*strided*\): 456:1
+ - Current ratio in print (*strode* vs. *\*strided*): 456:1
 

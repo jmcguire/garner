@@ -1,14 +1,14 @@
 # defeasance
 
-defeasance; \***defeasement**. *Defeasance* \(= an annulment or abrogation\), the standard form, is much more common in print than *\*defeasement*. E.g.:
+defeasance; \***defeasement**. *Defeasance* (= an annulment or abrogation), the standard form, is much more common in print than *\*defeasement*. E.g.:
 
  - "He said he intended to negotiate a restructuring of FFr3bn in loans from banks to support its FFr13bn off-balance sheet ‘*defeasance*' of non-performing loans hived off as part of a restructuring earlier this year." Andrew Jack, "GAN to Prepare for Sell-Off with FFr9bn Sale," *Fin. Times*, 15 Dec. 1995, at 22.
 
  - "The county is working with bond counsel, Hassenbalg said, to determine what their options and obligations are with respect to that debt and its possible *defeasance*." Katherine M. Reynolds, "N.J. County Debates Bid to Sell Hospital," *Bond Buyer*, 18 Dec. 1995, at 6.
 
- - "To sell the facilities, the city would first have to put $1.3 million into a bond *defeasance* escrow account to repay those who purchased the tax-free revenue bonds issued seven years ago to finance arena improvements." Judith Davidoff, "Panel Urges Sale of Two Ice Arenas," *Capital Times* \(Madison\), 27 Aug. 2002, at A3.
+ - "To sell the facilities, the city would first have to put $1.3 million into a bond *defeasance* escrow account to repay those who purchased the tax-free revenue bonds issued seven years ago to finance arena improvements." Judith Davidoff, "Panel Urges Sale of Two Ice Arenas," *Capital Times* (Madison), 27 Aug. 2002, at A3.
 
-Yet the needless variant *\*defeasement* also appears occasionally—e.g.: " ‘Defeasing' bonds is a highly technical financial maneuver, Puig said, which is necessary in this case because the bonds have a provision that prohibits prepayment for 10 years. In a *defeasement* \[read *defeasance*\], the county would put the sale money in a special fund that would eventually pay off the bonds." "Keep Knick, Coyne Writes," *Times Union* \(Albany\), 7 June 1995, at B1.
+Yet the needless variant *\*defeasement* also appears occasionally—e.g.: " ‘Defeasing' bonds is a highly technical financial maneuver, Puig said, which is necessary in this case because the bonds have a provision that prohibits prepayment for 10 years. In a *defeasement* \[read *defeasance*\], the county would put the sale money in a special fund that would eventually pay off the bonds." "Keep Knick, Coyne Writes," *Times Union* (Albany), 7 June 1995, at B1.
 
 And with all this use of the nouns, it is hardly surprising that writers have felt the need for a corresponding verb: *defease*. It's a 19th-century back-formation from *defeasance*—e.g.:
 
@@ -21,5 +21,5 @@ And with all this use of the nouns, it is hardly surprising that writers have fe
 ## Language-Change Index
 
  - *\*defeasement* for *defeasance*: Stage 1
- - Current ratio in print \(*defeasance* vs. *\*defeasement*\): 55:1
+ - Current ratio in print (*defeasance* vs. *\*defeasement*): 55:1
 

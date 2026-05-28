@@ -1,4 +1,4 @@
 # \*swoll
 
-\*swoll; \***swole**. See **swell \(b\)**.
+\*swoll; \***swole**. See **swell (b)**.
 

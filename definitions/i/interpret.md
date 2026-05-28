@@ -5,5 +5,5 @@ interpret; \***interpretate**. The latter is an obsolete back-formation and a ne
 ## Language-Change Index
 
  - *\*interpretate* for *interpret*: Stage 1
- - Current ratio in print \(*interpreting* vs. *\*interpretating*\): 2,205:1
+ - Current ratio in print (*interpreting* vs. *\*interpretating*): 2,205:1
 

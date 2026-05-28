@@ -1,4 +1,4 @@
 # ointment
 
-ointment. See **word aversion** \(p. 1248\).
+ointment. See **word aversion** (p. 1248).
 

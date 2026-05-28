@@ -1,4 +1,4 @@
 # judgement
 
-judgement. See **judgment \(a\)**.
+judgement. See **judgment (a)**.
 

@@ -1,4 +1,4 @@
 # make up
 
-make up. See **comprise \(c\)**.
+make up. See **comprise (c)**.
 

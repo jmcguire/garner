@@ -1,6 +1,6 @@
 # antiterrorism
 
-antiterrorism; counterterrorism. The military distinguishes between these terms. *Antiterrorism* is defensive, involving measures to protect against vulnerability to a terrorist attack. It is also sometimes called "hardening the target." *Counterterrorism*, the more frequent term, "includes the full range of offensive measures to prevent, deter, and respond to terrorism." *U.S. Army Field Manual* FM-78 \(1992\).
+antiterrorism; counterterrorism. The military distinguishes between these terms. *Antiterrorism* is defensive, involving measures to protect against vulnerability to a terrorist attack. It is also sometimes called "hardening the target." *Counterterrorism*, the more frequent term, "includes the full range of offensive measures to prevent, deter, and respond to terrorism." *U.S. Army Field Manual* FM-78 (1992).
 
 But the distinction is lost outside the military, where the words are used interchangeably. In each of the following examples, they illustrate the vice of inelegant variation:
 

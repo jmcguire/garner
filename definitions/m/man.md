@@ -1,4 +1,4 @@
 # man
 
-man. See sexism \(c\).
+man. See sexism (c).
 

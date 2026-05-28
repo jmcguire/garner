@@ -1,10 +1,10 @@
 # effective
 
-effective; **efficacious**; **efficient**; **effectual**. All these words mean generally "having effect," but they have distinctive applications. *Effective* = \(1\) having a high degree of effect \(used of a thing done or of the doer\) <more effective study habits>; or \(2\) coming into effect <effective June 3, 1994>. *Efficacious* = certain to have the desired effect \(used of things\) <efficacious drugs>. *Efficient* = competent to perform a task; capable of bringing about a desired effect \(used of agents or their actions or instruments\) <an efficient organization>. *Efficient* increasingly has economic connotations.
+effective; **efficacious**; **efficient**; **effectual**. All these words mean generally "having effect," but they have distinctive applications. *Effective* = (1) having a high degree of effect (used of a thing done or of the doer) <more effective study habits>; or (2) coming into effect <effective June 3, 1994>. *Efficacious* = certain to have the desired effect (used of things) <efficacious drugs>. *Efficient* = competent to perform a task; capable of bringing about a desired effect (used of agents or their actions or instruments) <an efficient organization>. *Efficient* increasingly has economic connotations.
 
 *Effectual*, the most uncommon and perhaps most troublesome of these words, means "achieving the overall effect aimed at"—e.g.:
 
- - "The power over the purse may in fact be regarded as the most complete and *effectual* weapon with which any Constitution can arm the immediate representatives of the people." Letter of William Hall, "Gingrich and Founding Fathers," *Advocate* \(Baton Rouge\), 22 Jan. 1996, at B6 \(paraphrasing *The Federalist* No. 58\).
+ - "The power over the purse may in fact be regarded as the most complete and *effectual* weapon with which any Constitution can arm the immediate representatives of the people." Letter of William Hall, "Gingrich and Founding Fathers," *Advocate* (Baton Rouge), 22 Jan. 1996, at B6 (paraphrasing *The Federalist* No. 58).
 
  - "The rabies vaccine \[is\] completely *effectual* for dogs and cats." Ann L. Huntington, "Vaccine Has Not Eliminated Rabies Threat," *Hartford Courant*, 26 Mar. 1996, at E5.
 

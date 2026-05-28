@@ -1,6 +1,6 @@
 # conduce to
 
-conduce to, though slightly bookish, is often a better and always a shorter way of saying *be conducive to* \(something desirable\)—e.g.: " ‘Writing,' Mamet says in his book, ‘is a magnificently solitary occupation. One works by oneself all day long, wondering, dreaming, supposing. All attitudes to which Vermont *conduces*.' " Tim Rutten, "National Geographic Travels on Literary Paths," *L.A. Times* \(Home ed.\), 19 July 2002, Living §, at 1. See be-verbs \(b\).
+conduce to, though slightly bookish, is often a better and always a shorter way of saying *be conducive to* (something desirable)—e.g.: " ‘Writing,' Mamet says in his book, ‘is a magnificently solitary occupation. One works by oneself all day long, wondering, dreaming, supposing. All attitudes to which Vermont *conduces*.' " Tim Rutten, "National Geographic Travels on Literary Paths," *L.A. Times* (Home ed.), 19 July 2002, Living §, at 1. See be-verbs (b).
 
 When the result referred to is undesirable, *lead* or *contribute* is typically a better word choice—e.g.:
 

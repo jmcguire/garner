@@ -1,4 +1,4 @@
 # final
 
-final, adj. See adjectives \(b\).
+final, adj. See adjectives (b).
 

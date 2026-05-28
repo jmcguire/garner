@@ -1,6 +1,6 @@
 # *soi-disant*
 
-*soi-disant*  \(= self-proclaimed\) is a French affectation popular during the 1800s—less so today. It is inferior both to the translation just given and to *self-styled*. E.g.:
+*soi-disant*  (= self-proclaimed) is a French affectation popular during the 1800s—less so today. It is inferior both to the translation just given and to *self-styled*. E.g.:
 
  - "What it may need instead is an establishment with the nerve to tell the *soi-disant* \[read *self-proclaimed*\] victims: Stop kvetching." Michael S. Greve, "Remote Control Tuning for Speech," *Wash. Times*, 9 Nov. 1996, at D3.
 

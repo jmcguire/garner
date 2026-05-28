@@ -5,5 +5,5 @@ humanness. So spelledâ€”not *\*humaness*. But the misspelling is fairly commonâ€
 ## Language-Change Index
 
  - *humanness* misspelled *\*humaness*: Stage 1
- - Current ratio in print \(*humanness* vs. \**humaness*\): 564:1
+ - Current ratio in print (*humanness* vs. \**humaness*): 564:1
 

@@ -1,6 +1,6 @@
 # that which
 
-that which. When this stiff-sounding noun phrase can be replaced with *what*, it generally should be—e.g.: "Why continue to weep for *that which* \[read *what*\] is lost?" "NFL Poll: Luv 'Em and Leave 'Em," *Houston Chron.*, 28 Aug. 1997, at 2. Sometimes the word that's needed is *whatever*—e.g.: "*That which* \[read *Whatever*\] was subversive was perceived as liberating." Rachel Campbell-Johnston, "The Way We Look Now," *Nat'l Rev.*, 13 Oct. 1997, at 41. \(Another possible revision: *Anything subversive was perceived as liberating.*\)
+that which. When this stiff-sounding noun phrase can be replaced with *what*, it generally should be—e.g.: "Why continue to weep for *that which* \[read *what*\] is lost?" "NFL Poll: Luv 'Em and Leave 'Em," *Houston Chron.*, 28 Aug. 1997, at 2. Sometimes the word that's needed is *whatever*—e.g.: "*That which* \[read *Whatever*\] was subversive was perceived as liberating." Rachel Campbell-Johnston, "The Way We Look Now," *Nat'l Rev.*, 13 Oct. 1997, at 41. (Another possible revision: *Anything subversive was perceived as liberating.*)
 
 But when *that* has an antecedent, *that which* is needed—e.g.: "The best financial advice is *that which* makes you the most money, not *that which* calls market tops or bottoms." Laszlo Birinyi Jr., "The Relative-Performance Trap," *Forbes*, 13 Oct. 1997, at 426.
 

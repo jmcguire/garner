@@ -1,4 +1,4 @@
 # solo
 
-solo. Pl. *solos*—preferably not *\*soli*. See plurals \(b\).
+solo. Pl. *solos*—preferably not *\*soli*. See plurals (b).
 

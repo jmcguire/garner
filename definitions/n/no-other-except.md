@@ -1,4 +1,4 @@
 # \*no other . . . except
 
-\*no other . . . except. See **other \(b\)**.
+\*no other . . . except. See **other (b)**.
 

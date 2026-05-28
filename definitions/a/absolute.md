@@ -1,4 +1,4 @@
 # absolute
 
-absolute. See adjectives \(b\).
+absolute. See adjectives (b).
 

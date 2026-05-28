@@ -12,7 +12,7 @@ Sometimes *admittance* is misused for *admission*, as when the subject is being 
 
  - "To the extent that some private colleges may not require B averages to gain *admittance* \[read *admission*\], it could be tougher to win a state scholarship." "All Students Receiving Aid Should Have a B Average," *Atlanta J.-Const.*, 20 Jan. 1995, at A10.
 
- - "BYU's long-awaited *admittance* \[read *admission*\] into the Big 12 Conference . . . is the result of a lot of hard work by a lot of people." "Difference Maker," *Deseret News* \(Salt Lake City\), 1 Oct. 2021.
+ - "BYU's long-awaited *admittance* \[read *admission*\] into the Big 12 Conference . . . is the result of a lot of hard work by a lot of people." "Difference Maker," *Deseret News* (Salt Lake City), 1 Oct. 2021.
 
 ## Language-Change Index
 

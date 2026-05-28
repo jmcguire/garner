@@ -1,4 +1,4 @@
 # \*former alumnus, etc
 
-\*former alumnus, etc. See **alumnus \(b\)**.
+\*former alumnus, etc. See **alumnus (b)**.
 

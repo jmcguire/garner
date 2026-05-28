@@ -11,5 +11,5 @@ highlight > highlighted > highlighted. So inflected. *\*Highlit* is a variant pa
 ## Language-Change Index
 
  - *\*highlit* for *highlighted*: Stage 1
- - Current ratio in print \(*highlighted* vs. *\*highlit*\): 8,706:1
+ - Current ratio in print (*highlighted* vs. *\*highlit*): 8,706:1
 

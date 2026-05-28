@@ -18,15 +18,15 @@ The opposite error—*rang* as a past-participial form in place of *rung*—is m
 
  - "He said the phone had *rang* \[read *rung*\] all day with messages from well-wishers—‘even complete strangers.' " Michael Howie, "Home at Last to Hug from Mum and Dad," *Aberdeen Press & J.*, 22 July 2000, at 1.
 
- - "She got a message that Alice had *rang* \[read *rung*\]." Peter Allen, "I Fled the Flames Crying I'm Alive," *Daily Mail* \(U.K.\), 27 July 2000, at 10.
+ - "She got a message that Alice had *rang* \[read *rung*\]." Peter Allen, "I Fled the Flames Crying I'm Alive," *Daily Mail* (U.K.), 27 July 2000, at 10.
 
-But it does appear in American sources—e.g.: "Abdin \(25–2–3\) got up at \[the count of\] eight, after the bell had *rang* \[read *rung*\]." "It's a Giant Party in Volunteer Land," *Buffalo News*, 31 Jan. 1999, at D14. See also **wring**.
+But it does appear in American sources—e.g.: "Abdin (25–2–3) got up at \[the count of\] eight, after the bell had *rang* \[read *rung*\]." "It's a Giant Party in Volunteer Land," *Buffalo News*, 31 Jan. 1999, at D14. See also **wring**.
 
 ## Language-Change Index
 
 1. *rung* misused for simple-past *rang*: Stage 1
- - Current ratio in print \(*he rang* vs. *\*he rung*\): 30:1
+ - Current ratio in print (*he rang* vs. *\*he rung*): 30:1
 
 2. *rang* misused for past-participial *rung*: Stage 1
- - Current ratio in print \(*had rung* vs. *\*had rang*\): 42:1
+ - Current ratio in print (*had rung* vs. *\*had rang*): 42:1
 

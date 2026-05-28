@@ -1,4 +1,4 @@
 # Coordinate Adjectives
 
-Coordinate Adjectives. See adjectives \(c\).
+Coordinate Adjectives. See adjectives (c).
 

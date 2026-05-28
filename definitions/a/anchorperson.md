@@ -1,4 +1,4 @@
 # \*anchorperson
 
-\*anchorperson. See sexism \(c\).
+\*anchorperson. See sexism (c).
 

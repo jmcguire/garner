@@ -1,4 +1,4 @@
 # manslaughter
 
-manslaughter. See **murder \(a\)**.
+manslaughter. See **murder (a)**.
 

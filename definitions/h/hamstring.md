@@ -1,6 +1,6 @@
 # hamstring
 
-hamstring, vb. *Hamstrung* is the settled past-tense and past-participial form. Although this form has no etymological basis—that is, the verb comes from the noun *hamstring* and not from any form of the verb *string* \(we don't "string the ham"\)—the past tense *\*hamstringed* hardly exists today and strikes most readers as pedantic. E.g.:
+hamstring, vb. *Hamstrung* is the settled past-tense and past-participial form. Although this form has no etymological basis—that is, the verb comes from the noun *hamstring* and not from any form of the verb *string* (we don't "string the ham")—the past tense *\*hamstringed* hardly exists today and strikes most readers as pedantic. E.g.:
 
  - "Anderson was in fine physical form, still striking all the characteristic moves of a *hamstringed* \[read *hamstrung*\], drunken marionette." Tom Phalen, " ‘Jolly Jethros' Keep Crowd Involved," *Seattle Times*, 23 Oct. 1992, at 8.
 
@@ -11,5 +11,5 @@ hamstring, vb. *Hamstrung* is the settled past-tense and past-participial form. 
 ## Language-Change Index
 
  - *\*hamstringed* for *hamstrung*: Stage 1
- - Current ratio in print \(*hamstrung* vs. *\*hamstringed*\): 129:1
+ - Current ratio in print (*hamstrung* vs. *\*hamstringed*): 129:1
 

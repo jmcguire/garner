@@ -1,4 +1,4 @@
 # have got
 
-have got. See **get \(c\)**.
+have got. See **get (c)**.
 

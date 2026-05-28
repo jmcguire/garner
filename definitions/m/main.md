@@ -1,4 +1,4 @@
 # main
 
-main, adj. See adjectives \(b\).
+main, adj. See adjectives (b).
 

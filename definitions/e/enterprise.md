@@ -5,5 +5,5 @@ enterprise is often misspelled *\*enterprize*—e.g.: "The study is part of an e
 ## Language-Change Index
 
  - *enterprise* misspelled *\*enterprize*: Stage 1
- - Current ratio in print \(*enterprise* vs. \**enterprize*\): 324:1
+ - Current ratio in print (*enterprise* vs. \**enterprize*): 324:1
 

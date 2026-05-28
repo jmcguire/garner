@@ -8,13 +8,13 @@
 
  - "There are no plans *as yet* \[read *yet*\] to develop major Java products." Richard Evans, "Going Soft?," *Barron's*, 15 Sept. 1997, at 33.
 
-*\*As of yet* is a vulgarism. Cf. **as of \(b\)** & \***but yet**.
+*\*As of yet* is a vulgarism. Cf. **as of (b)** & \***but yet**.
 
 ## Language-Change Index
 
 1. *\*as yet* for *yet*: Stage 3
- - Current ratio in print \(*not yet* vs. *\*not as yet*\): 48:1
+ - Current ratio in print (*not yet* vs. *\*not as yet*): 48:1
 
 2. *\*as of yet* for *yet*: Stage 2
- - Current ratio in print \(*not yet* vs. *\*not as of yet*\): 4,853:1
+ - Current ratio in print (*not yet* vs. *\*not as of yet*): 4,853:1
 

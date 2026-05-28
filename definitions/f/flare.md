@@ -1,6 +1,6 @@
 # flare
 
-flare; **flair**. *Flare* = a sudden outburst of flame; an unsteady light. *Flair* = \(1\) outstanding skill or ability in some field; or \(2\) originality, stylishness. By far the most common confusion occurs when *flare* displaces *flair*—e.g.:
+flare; **flair**. *Flare* = a sudden outburst of flame; an unsteady light. *Flair* = (1) outstanding skill or ability in some field; or (2) originality, stylishness. By far the most common confusion occurs when *flare* displaces *flair*—e.g.:
 
  - "Today also is National Handwriting Day in honor of the birth of John Hancock. Hancock had a real *flare* \[read *flair*\] for writing—especially those insurance policies." Kathy Borlik, "Worth Waking Up For," *South Bend Trib.*, 12 Jan. 2002, at A2.
 
@@ -15,6 +15,6 @@ This bit of word-swapping has always plagued the phrase *flair for the dramatic*
 ## Language-Change Index
 
  - *flare* misused for *flair*: Stage 1
- - Current ratio in print \(*natural flair* vs. *\*natural flare*\): 13:1
- - Current ratio in print \(*flair for the dramatic* vs. \**flare for the dramatic*\): 7:1
+ - Current ratio in print (*natural flair* vs. *\*natural flare*): 13:1
+ - Current ratio in print (*flair for the dramatic* vs. \**flare for the dramatic*): 7:1
 

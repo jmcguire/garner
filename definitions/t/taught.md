@@ -1,4 +1,4 @@
 # taught
 
-taught. See **taut \(a\)**.
+taught. See **taut (a)**.
 

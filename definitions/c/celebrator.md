@@ -1,4 +1,4 @@
 # celebrator
 
-celebrator. See **celebrant \(a\)**.
+celebrator. See **celebrant (a)**.
 

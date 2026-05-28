@@ -6,9 +6,9 @@ condole, v.i.; **console**, v.t. To *condole* is to express sympathy; one *condo
 
  - "Thompson, though *condoling* with Ned on his father's death, hopes that Ned might be persuaded to host a reception for the organisation." "Guinness Peer Wants to Ban Bomb," *Evening Standard*, 22 June 1992, at 8.
 
- - "They . . . *condoled* with us over the suffering our people had to endure across the border." Lindiwe Mazibuko, "It's Time We Did for Eswatini What Was Done for Us," *Sunday Times* \(S. Africa\), 11 July 2021, at 15.
+ - "They . . . *condoled* with us over the suffering our people had to endure across the border." Lindiwe Mazibuko, "It's Time We Did for Eswatini What Was Done for Us," *Sunday Times* (S. Africa), 11 July 2021, at 15.
 
-To *console* is to comfort \(another\), especially in grief or depression. E.g.:
+To *console* is to comfort (another), especially in grief or depression. E.g.:
 
  - "Clinton—who *consoled* victims' families earlier in the day—ordered that more baggage be screened or hand-searched and that aircraft making international flights be fully inspected." "Experts Key In on Brief Noise in Cockpit Voice Recorder," *Detroit News*, 26 July 1996, at A1.
 
@@ -19,8 +19,8 @@ Occasionally, *condole* is misused for *console*—e.g.: "And as always, country
 ## Language-Change Index
 
 1. *condole* misused for *console*: Stage 1
- - Current ratio in print \(*consoling the* vs. \**condoling the*\): 51:1
+ - Current ratio in print (*consoling the* vs. \**condoling the*): 51:1
 
 2. *\*console with* for *condole with*: Stage 2
- - Current ratio in print \(*condoling with* vs. \**consoling with*\): 17:1
+ - Current ratio in print (*condoling with* vs. \**consoling with*): 17:1
 

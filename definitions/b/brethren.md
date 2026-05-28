@@ -1,12 +1,12 @@
 # brethren
 
-brethren. The plural form *brethren* \(= brothers\) has survived most prominently in contexts involving religious, legal, and fraternal organizations—almost always in reference to people who aren't brothers by birth.
+brethren. The plural form *brethren* (= brothers) has survived most prominently in contexts involving religious, legal, and fraternal organizations—almost always in reference to people who aren't brothers by birth.
 
 Sometimes, though, *brethren* is used literally or figuratively in the context of tribes, allies, and even colleagues—e.g.:
 
  - "He just wishes more Public League schools would mimic their suburban *brethren* by prominently displaying their trophies the way those institutions do." Barry Temkin, "New Lift for Old Rivalry," *Chicago Trib.*, 6 Sept. 1996, Sports §, at 12.
 
- - "They saw their Tutsi *brethren* massacred by the hundreds of thousands in Rwanda in 1994." "World & Nation Briefs," *Columbian* \(Vancouver, Wash.\), 25 Oct. 1996, at A4.
+ - "They saw their Tutsi *brethren* massacred by the hundreds of thousands in Rwanda in 1994." "World & Nation Briefs," *Columbian* (Vancouver, Wash.), 25 Oct. 1996, at A4.
 
  - "The warlord's superior military might is the main reason the Taliban is prepared to negotiate with him, despite the supposedly intolerable support he almost certainly receives from Russia and his *brethren* in Uzbekistan." Alex Spillius, "An Opponent the Taliban Would Love to Subdue," *Daily Telegraph*, 25 Oct. 1996, at 20.
 

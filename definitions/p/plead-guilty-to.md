@@ -1,6 +1,6 @@
 # plead guilty to
 
-plead guilty to is the correct phrasing, not *\*plead guilty of* \(an unidiomatic phrasing that arose in the 1800s\)—e.g.:
+plead guilty to is the correct phrasing, not *\*plead guilty of* (an unidiomatic phrasing that arose in the 1800s)—e.g.:
 
  - "Mr. Krikava's wife, Carol, and son, Kevin, pleaded guilty *of* \[read *to*\] perjury and received only probation, since the guidelines allow leniency for defendants who plead guilty." Dirk Johnson, "A Farmer, 70, Saw No Choice; Nor Did the Sentencing Judge," *N.Y. Times*, 20 July 1994, at A1, A9.
 
@@ -13,5 +13,5 @@ The erroneous phrasing results from confusing related idioms: one pleads *to* a 
 ## Language-Change Index
 
  - *\*plead guilty of* for *plead guilty to*: Stage 1
- - Current ratio in print \(*plead guilty to* vs. *\*plead guilty of *\): 30:1
+ - Current ratio in print (*plead guilty to* vs. *\*plead guilty of *): 30:1
 

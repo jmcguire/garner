@@ -1,4 +1,4 @@
 # alum
 
-alum. See **alumnus \(a\)**.
+alum. See **alumnus (a)**.
 

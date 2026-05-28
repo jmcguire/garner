@@ -1,4 +1,4 @@
 # Interjections
 
-Interjections. See functional shift \(i\).
+Interjections. See functional shift (i).
 

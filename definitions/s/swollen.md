@@ -1,4 +1,4 @@
 # swollen
 
-swollen. See **swell \(a\)**.
+swollen. See **swell (a)**.
 

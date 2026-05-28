@@ -1,4 +1,4 @@
 # circuitous
 
-circuitous; **circuity**. See **circumlocution \(b\)**.
+circuitous; **circuity**. See **circumlocution (b)**.
 

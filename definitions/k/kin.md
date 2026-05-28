@@ -1,4 +1,4 @@
 # -kin
 
--kin. See diminutives \(i\).
+-kin. See diminutives (i).
 

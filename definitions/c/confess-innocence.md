@@ -1,4 +1,4 @@
 # \*confess innocence
 
-\*confess innocence. See **confess \(b\)**.
+\*confess innocence. See **confess (b)**.
 

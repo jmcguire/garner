@@ -1,4 +1,4 @@
 # Specialization in Word Meanings
 
-Specialization in Word Meanings. See semantic change \(b\).
+Specialization in Word Meanings. See semantic change (b).
 

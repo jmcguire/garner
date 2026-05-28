@@ -1,4 +1,4 @@
 # \*two halves
 
-\*two halves. See **half \(d\)**.
+\*two halves. See **half (d)**.
 

@@ -4,7 +4,7 @@ adverse; **averse**. To be *adverse to* something is to be turned in opposition 
 
 Each word is occasionally misused for the other—e.g.:
 
- - "Alistair Boyle's narrator Gil Yates is certainly not *adverse* \[read *averse*\] to a money-making scheme, however dubious." Jeremy C. Shea, "Everyone's a Con," *St. Louis Post-Dispatch* \(Everyday Mag.\), 4 May 1996, at D4.
+ - "Alistair Boyle's narrator Gil Yates is certainly not *adverse* \[read *averse*\] to a money-making scheme, however dubious." Jeremy C. Shea, "Everyone's a Con," *St. Louis Post-Dispatch* (Everyday Mag.), 4 May 1996, at D4.
 
  - "He and Kasner say many investors are *adverse* \[read *averse*\] to risk and unlikely to substitute risky company shares for conservative muni bond investments." John G. Edwards, "Cost of Interest Could Increase," *Las Vegas Rev.-J.*, 9 Jan. 2003, at D1.
 
@@ -13,8 +13,8 @@ Each word is occasionally misused for the other—e.g.:
 ## Language-Change Index
 
 1. *adverse* misused for *averse*: Stage 2
- - Current ratio in print \(*averse to the idea* vs. \**adverse to the idea*\): 10:1
+ - Current ratio in print (*averse to the idea* vs. \**adverse to the idea*): 10:1
 
 2. *averse* misused for *adverse*: Stage 1
- - Current ratio in print \(*adverse effects* vs. \**averse effects*\): 20,875:1
+ - Current ratio in print (*adverse effects* vs. \**averse effects*): 20,875:1
 

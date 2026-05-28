@@ -1,4 +1,4 @@
 # police officer
 
-police officer. See sexism \(c\).
+police officer. See sexism (c).
 

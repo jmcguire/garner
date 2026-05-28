@@ -6,5 +6,5 @@ purport, vb., = to be intended to seem <the bill purported to be a $100 bill>. B
 
  - "The paperback also included a cassette tape containing what *was purported* \[read *purported*\] to be a phone call from the supposedly dead Elvis." Joel Selvin, "Flipping Through the Pages of a Unique Life," *S.F. Chron.*, 3 Aug. 1997, at 33.
 
- - "Even the Canadian trial, which *was* *purported* \[read *purported*\] to be designed to evaluate women between the ages of 40 and 49 separately, was actually too small to evaluate women in this age group." Daniel B. Kopans, *Breast Imaging* 163 \(2007\).
+ - "Even the Canadian trial, which *was* *purported* \[read *purported*\] to be designed to evaluate women between the ages of 40 and 49 separately, was actually too small to evaluate women in this age group." Daniel B. Kopans, *Breast Imaging* 163 (2007).
 

@@ -4,7 +4,7 @@
 
 Where particulars of a partnership are disclosed to the Executive Council the remuneration of the individual partner for superannuation purposes will be deemed to be such proportion of the total remuneration of such practitioners as the proportion of his share in partnership profits bears to the total proportion of the shares of such practitioner in those profits.
 
- Quoted in Ernest Gowers, *The Complete Plain Words* 2 \(Sidney Greenbaum & Janet Whitcut eds., 3d ed. 1988\).
+ Quoted in Ernest Gowers, *The Complete Plain Words* 2 (Sidney Greenbaum & Janet Whitcut eds., 3d ed. 1988).
 
 Cf. obscurity & officialese.
 

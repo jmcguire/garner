@@ -1,4 +1,4 @@
 # arbitrage
 
-arbitrage. See **arbitration \(a\)**.
+arbitrage. See **arbitration (a)**.
 

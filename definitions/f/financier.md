@@ -8,7 +8,7 @@ Many dictionaries, including *OED2* and *W2*, inaccurately list *financer* as ob
 
  - "The e-commerce company moved closer to its Austin *financers* and then closed last year as the demand for Internet services plummeted during the dot-com crash." "Knoxville Entrepreneur Tries New Austin-Based Business," *Knoxville News-Sentinel*, 9 Dec. 2002, at C1.
 
- - "For years, R.J. Reynolds Co. was the largest private *financer* of tobacco-related research at NCSU." Catherine Clabby, "NCSU to Map Out Tobacco," *News & Observer* \(Raleigh\), 12 Dec. 2002, at A1.
+ - "For years, R.J. Reynolds Co. was the largest private *financer* of tobacco-related research at NCSU." Catherine Clabby, "NCSU to Map Out Tobacco," *News & Observer* (Raleigh), 12 Dec. 2002, at A1.
 
- - Current ratio in print \(*financier* vs. *financer*\): 27:1
+ - Current ratio in print (*financier* vs. *financer*): 27:1
 

@@ -4,7 +4,7 @@ barbaric; **barbarous**. These words share the basic sense "primitive, unciviliz
 
  - "The *barbaric* American tradition of splitting the check is still unknown here." Scott Baldauf, "Dim Sum: A Celebration in Itself," *Christian Science Monitor*, 15 Feb. 1996, Food §, at 14.
 
- - "The stories must have sounded *barbaric* to the teenager sitting wide-eyed among adults at the breakfast table. Thirty-three swats with a wooden paddle for violating the dress code by wearing cuffed pants \(a possible hiding place for cigarettes\) in junior high school." Sandy Banks, "Ban of the Paddle Left a Void in Discipline," *L.A. Times*, 3 Sept. 2002, So. Cal. Living §, pt. 5, at 1.
+ - "The stories must have sounded *barbaric* to the teenager sitting wide-eyed among adults at the breakfast table. Thirty-three swats with a wooden paddle for violating the dress code by wearing cuffed pants (a possible hiding place for cigarettes) in junior high school." Sandy Banks, "Ban of the Paddle Left a Void in Discipline," *L.A. Times*, 3 Sept. 2002, So. Cal. Living §, pt. 5, at 1.
 
  - "That changed, Adewale remembers, once they heard he could earn a college scholarship. America's *barbaric* sport then became something to stomach right up to the time he tore up his left knee during his senior season at Indiana." Dave Hyde, "Ogunleye a Royal Find for Dolphins," *Orlando Sentinel*, 4 Sept. 2002, at D8.
 

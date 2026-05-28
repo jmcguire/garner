@@ -6,5 +6,5 @@
 
  - *\*carven* for *carved*: Stage 1
 
- - Current ratio in print \(*carved image* vs. \**carven image*\): 12:1
+ - Current ratio in print (*carved image* vs. \**carven image*): 12:1
 

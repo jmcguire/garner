@@ -6,12 +6,12 @@ digitize; **digitalize**. *Digitize* has led two lives. In its first, it meant "
 
  - "\[Mayor Michael Bloomberg\] said the high-tech scheme, which would *digitalize* \[read *digitize*\] patient records, would save ‘hundreds of millions of dollars.' " Stephanie Gaskell & Carl Campanile, "Mike Has $100M Rx for Healthcare," *N.Y. Post*, 25 Oct. 2005, at 24.
 
- - "The upgrade also included a project to *digitalize* \[read *digitize*\] the station's archives and uploading broadcast town meetings to the Internet for on-demand viewer access." Derrick Perkins, "Salem Community TV Director Outlines Future Upgrades," *Union Leader* \(Manchester, N.H.\), 24 June 2008, at B2. \(In that sentence, *uploading* should be *to upload* for reasons of parallelism.)
+ - "The upgrade also included a project to *digitalize* \[read *digitize*\] the station's archives and uploading broadcast town meetings to the Internet for on-demand viewer access." Derrick Perkins, "Salem Community TV Director Outlines Future Upgrades," *Union Leader* (Manchester, N.H.), 24 June 2008, at B2. (In that sentence, *uploading* should be *to upload* for reasons of parallelism.)
 
-There are two problems with having the two words bear the same meaning. First, because *digitalize* has a distinct \(if specialized\) sense of its own, keeping the words separate serves differentiation. Second, *digitize* is used much more often as *digitalize* in the binary-code sense, making the latter a needless variant.
+There are two problems with having the two words bear the same meaning. First, because *digitalize* has a distinct (if specialized) sense of its own, keeping the words separate serves differentiation. Second, *digitize* is used much more often as *digitalize* in the binary-code sense, making the latter a needless variant.
 
 ## Language-Change Index
 
  - *digitalize* misused for *digitize*: Stage 1
- - Current ratio in print \(*digitized data* vs. *\*digitalized data*\): 8:1
+ - Current ratio in print (*digitized data* vs. *\*digitalized data*): 8:1
 

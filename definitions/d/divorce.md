@@ -6,5 +6,5 @@ divorce.
 
 **B. And *dissolution of marriage*.** In the 1970s, the word *divorce* was struck from many statutes and replaced by the euphemism *dissolution of marriage*.
 
-**C. And *legal separation*.** A *legal separation* is "an arrangement whereby a husband and wife live apart from each other while remaining married, either by mutual consent \(often in a written agreement\) or by judicial decree" \(*Black's Law Dictionary* 1639 \[11th ed. 2019\]\).
+**C. And *legal separation*.** A *legal separation* is "an arrangement whereby a husband and wife live apart from each other while remaining married, either by mutual consent (often in a written agreement) or by judicial decree" (*Black's Law Dictionary* 1639 \[11th ed. 2019\]).
 

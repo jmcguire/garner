@@ -1,4 +1,4 @@
 # albino
 
-albino. Pl. *albinos*. See plurals \(d\).
+albino. Pl. *albinos*. See plurals (d).
 

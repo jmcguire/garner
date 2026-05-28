@@ -1,6 +1,6 @@
 # incognito
 
-incognito \(= \[1\] in disguise; or \[2\] under an assumed name\) is sometimes misused for *incommunicado* \(= unable, unwilling, or forbidden to communicate with others\)—e.g.:
+incognito (= \[1\] in disguise; or \[2\] under an assumed name) is sometimes misused for *incommunicado* (= unable, unwilling, or forbidden to communicate with others)—e.g.:
 
  - "The crackdown, which began almost two weeks ago, has included the arrest and imprisonment of activists, some of whom are apparently being held *incognito* \[read *incommunicado*\] in Cuban jails." "Over Cuba: Castro Shows Again That He's Not to Be Trusted," *Houston Chron.*, 27 Feb. 1996, at A18.
 
@@ -13,5 +13,5 @@ Although the traditional pronunciation was /in-**kog**-ni-toh/, the standard tod
 ## Language-Change Index
 
  - *incognito* misused for *incommunicado*: Stage 1
- - Current ratio in print \(*held incommunicado* vs. *\*held incognito*\): 54:1
+ - Current ratio in print (*held incommunicado* vs. *\*held incognito*): 54:1
 

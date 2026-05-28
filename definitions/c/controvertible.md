@@ -1,6 +1,6 @@
 # controvertible
 
-controvertible. So spelled—not *\*controvertable*. See -able \(a\).
+controvertible. So spelled—not *\*controvertable*. See -able (a).
 
- - Current ratio in print \(*controvertible* vs. \**controvertable*\): 293:1
+ - Current ratio in print (*controvertible* vs. \**controvertable*): 293:1
 

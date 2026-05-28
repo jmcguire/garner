@@ -1,4 +1,4 @@
 # cohabitation
 
-cohabitation. See **adultery \(a\)**.
+cohabitation. See **adultery (a)**.
 

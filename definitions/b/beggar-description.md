@@ -1,6 +1,6 @@
 # beggar description
 
-beggar description. To *beggar description* is to be indescribable or beyond description. The phrase originated in Shakespeare's reference to Cleopatra: "For her own person, / It beggar'd all description" \(*Antony and Cleopatra*, 2.2.197–98\). What the phrase says, in essence, is that something is so incredible as to make a beggar of anyone's powers of description—e.g.:
+beggar description. To *beggar description* is to be indescribable or beyond description. The phrase originated in Shakespeare's reference to Cleopatra: "For her own person, / It beggar'd all description" (*Antony and Cleopatra*, 2.2.197–98). What the phrase says, in essence, is that something is so incredible as to make a beggar of anyone's powers of description—e.g.:
 
  - "Recently, New Yorkers have been up in arms over something so grievous, so blasphemous, that it *beggars description*. I'll give it a shot, though. Mayor Bill de Blasio was caught eating pizza with a knife and fork." Jim Sullivan, "‘Pizzagate' in Big Apple," *Boston Herald*, 15 Jan. 2014, at 17.
 
@@ -11,5 +11,5 @@ Writers can get it wrong in many ways. And so they do. In the following example,
 ## Language-Change Index
 
  - *\*beg description* for *beggar description*: Stage 1
- - Current ratio in print \(*beggar description* vs. *\*beg description*\): 60:1
+ - Current ratio in print (*beggar description* vs. *\*beg description*): 60:1
 

@@ -1,4 +1,4 @@
 # liability
 
-liability. See **disability \(a\)**.
+liability. See **disability (a)**.
 

@@ -1,4 +1,4 @@
 # impresario
 
-impresario. So spelled. See spelling \(a\).
+impresario. So spelled. See spelling (a).
 

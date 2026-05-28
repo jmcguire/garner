@@ -1,4 +1,4 @@
 # wild oats, sowing
 
-wild oats, sowing. See **sow \(b\)**.
+wild oats, sowing. See **sow (b)**.
 

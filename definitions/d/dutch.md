@@ -1,4 +1,4 @@
 # Dutch
 
-Dutch. See **Netherlands \(a\)**.
+Dutch. See **Netherlands (a)**.
 

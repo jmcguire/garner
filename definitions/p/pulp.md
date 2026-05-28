@@ -1,4 +1,4 @@
 # pulp
 
-pulp. See **word aversion** \(p. 1248\).
+pulp. See **word aversion** (p. 1248).
 

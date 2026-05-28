@@ -8,7 +8,7 @@ underestimate is often misused for *overestimate* when writers intend the phrase
 
  - " ‘It is impossible to *underestimate* \[read *overestimate*\] the amount of damage the health care bill did in shaping the image of President Clinton as a big-government proponent,' Mr. From said at a news conference." Richard L. Berke, "Centrist Democrats' Poll Warns Clinton of Unrest," *N.Y. Times*, 18 Nov. 1994, at A10.
 
- - "If we venture beyond the belief that war is determined by structural factors outside human control, it is impossible to *underestimate* \[read *overestimate*\] the importance of political norms for handling conflict." Susan G. Sample, "Military Buildups: Arming and War," in *What Do We Know About War?* 165, 191 \(John A. Vasquez ed., 2000\).
+ - "If we venture beyond the belief that war is determined by structural factors outside human control, it is impossible to *underestimate* \[read *overestimate*\] the importance of political norms for handling conflict." Susan G. Sample, "Military Buildups: Arming and War," in *What Do We Know About War?* 165, 191 (John A. Vasquez ed., 2000).
 
 This error is akin to using *\*could care less* for *couldn't care less*. See **couldn't care less** & illogic.
 
@@ -17,5 +17,5 @@ Sometimes, though, the writer really means *underestimate*—e.g.: "A little sub
 ## Language-Change Index
 
  - *\*impossible to underestimate* for *impossible to overestimate*: Stage 2
- - Current ratio in print \(*impossible to overestimate* vs. *\*impossible to underestimate*\): 5:1
+ - Current ratio in print (*impossible to overestimate* vs. *\*impossible to underestimate*): 5:1
 

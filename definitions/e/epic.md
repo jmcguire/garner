@@ -1,4 +1,4 @@
 # epic
 
-epic, adj.; \***epical**. See **epochal \(a\)**.
+epic, adj.; \***epical**. See **epochal (a)**.
 

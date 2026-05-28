@@ -1,6 +1,6 @@
 # \*enthuse
 
-\*enthuse, vb., has long been criticized as a back-formation avoided by careful writers and speakers. The verb can be either transitive or intransitive. \(See ergative verbs.) As a transitive verb, it was originally confined to passive-voice uses <I am enthused by the game>, but by the mid-1990s the word had taken on active uses <she enthused me about the game>. E.g.:
+\*enthuse, vb., has long been criticized as a back-formation avoided by careful writers and speakers. The verb can be either transitive or intransitive. (See ergative verbs.) As a transitive verb, it was originally confined to passive-voice uses <I am enthused by the game>, but by the mid-1990s the word had taken on active uses <she enthused me about the game>. E.g.:
 
  - **Transitive:** "They *enthused* \[read *inspired*\] student volunteers with their ideas." "The First Glint of a New Japan," *Economist*, 24 July 1993, at 33.
 
@@ -8,7 +8,7 @@
 
  - **Intransitive:** "Avon Editor in Chief Bob Mecoy *enthuses* \[read *raves* or *rhapsodizes*\] about the graphic-novel form." Peter Plagens, "Drawing on the Dark Side," *Newsweek*, 5 Sept. 1994, at 70.
 
- - **Intransitive:** "Pasquale goes for a flight in an aerobatic plane, while Calman *enthuses* \[read *exclaims*\] over a model village: ‘This is one of the best days I've had in a long time.' " "Grand Tour Has Little Ambition," *Lancashire Evening Post* \(U.K.\), 3 July 2021, at 13.
+ - **Intransitive:** "Pasquale goes for a flight in an aerobatic plane, while Calman *enthuses* \[read *exclaims*\] over a model village: ‘This is one of the best days I've had in a long time.' " "Grand Tour Has Little Ambition," *Lancashire Evening Post* (U.K.), 3 July 2021, at 13.
 
 Although the adjective *\*enthused* is virtually always inferior to *enthusiastic*, it is increasingly common—e.g.:
 
@@ -23,5 +23,5 @@ Although the adjective *\*enthused* is virtually always inferior to *enthusiasti
 1. *\*enthuse* for *gush*: Stage 3
 
 2. *\*enthused* for *enthusiastic*: Stage 4
- - Current ratio in print \(*highly enthusiastic* vs. *\*highly enthused*\): 16:1
+ - Current ratio in print (*highly enthusiastic* vs. *\*highly enthused*): 16:1
 

@@ -1,4 +1,4 @@
 # imperative
 
-imperative. See **imperious \(b\)**.
+imperative. See **imperious (b)**.
 

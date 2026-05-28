@@ -1,6 +1,6 @@
 # byproduct
 
-byproduct usually appears as a single word in modern publications, many of which follow the Associated Press and *New York Times* styles. But it often appears in its hyphenated form \(*by-product*\), sometimes even in the same publication on the same day—e.g.:
+byproduct usually appears as a single word in modern publications, many of which follow the Associated Press and *New York Times* styles. But it often appears in its hyphenated form (*by-product*), sometimes even in the same publication on the same day—e.g.:
 
  - "The growing distaste for cheap eateries is a *byproduct* of a larger shift in habits." Noel C. Paul, "As Tastes Shift, Fast-Food Giants Swallow Hard," *Christian Science Monitor*, 2 Oct. 2002, at 1.
 

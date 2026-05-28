@@ -2,11 +2,11 @@
 
 contemporary; **contemporaneous**. Both refer to coinciding periods of time. *Contemporaneous* usually refers to either actions or things, *contemporary* to people. But *contemporary* also commonly refers to things in the sense "current"—a sense to be avoided in contexts referring to past times, lest the word give rise to a miscue or outright ambiguity—e.g.:
 
- - "He believes Italy is the best place to sample the major styles of Western architecture, from ancient Greek and Roman temples to medieval, Renaissance and *contemporary* \[read *current*\] styles." Thomas W. Gerdel, "Relationships with His Clients Inspire Architect's Designs," *Plain Dealer* \(Cleveland\), 13 June 1995, at C4. \(*Contemporary* could be momentarily misread as referring to styles flourishing in medieval and Renaissance times.\)
+ - "He believes Italy is the best place to sample the major styles of Western architecture, from ancient Greek and Roman temples to medieval, Renaissance and *contemporary* \[read *current*\] styles." Thomas W. Gerdel, "Relationships with His Clients Inspire Architect's Designs," *Plain Dealer* (Cleveland), 13 June 1995, at C4. (*Contemporary* could be momentarily misread as referring to styles flourishing in medieval and Renaissance times.)
 
- - "Fantasy fiction . . . is medieval in atmosphere, 19th-century in its concerns, *contemporary* \[read *current*\] in its manners." Edward Rothstein, "Flaming Swords and Wizards' Orbs," *N.Y. Times*, 8 Dec. 1996, § 7, at 60. \(*Contemporary* might be read as referring to the 19th century.\)
+ - "Fantasy fiction . . . is medieval in atmosphere, 19th-century in its concerns, *contemporary* \[read *current*\] in its manners." Edward Rothstein, "Flaming Swords and Wizards' Orbs," *N.Y. Times*, 8 Dec. 1996, § 7, at 60. (*Contemporary* might be read as referring to the 19th century.)
 
- - "Italian art, too, has enjoyed a renaissance—in appreciation for the old masters and for *contemporary* \[read *today's*\] artists." Helen Forsberg, "It's Italian," *Salt Lake Trib.*, 8 Dec. 1996, at J8. \(*Contemporary* might be read as referring to lesser artists working at the same time as the old masters.\)
+ - "Italian art, too, has enjoyed a renaissance—in appreciation for the old masters and for *contemporary* \[read *today's*\] artists." Helen Forsberg, "It's Italian," *Salt Lake Trib.*, 8 Dec. 1996, at J8. (*Contemporary* might be read as referring to lesser artists working at the same time as the old masters.)
 
 When no other time frame is mentioned, then we may infer "contemporary with us" to denote current rather than historical contexts.
 

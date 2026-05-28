@@ -4,5 +4,5 @@ paramountcy is the noun corresponding to the adjective *paramount*. It's not oft
 
 A more familiar word, such as *supremacy* or *preeminence*, will almost always be a better choice.
 
- - Current ratio in print \(*paramountcy* vs. *\*paramouncy*\): 102:1
+ - Current ratio in print (*paramountcy* vs. *\*paramouncy*): 102:1
 

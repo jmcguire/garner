@@ -1,6 +1,6 @@
 # dialogue
 
-dialogue; **dialog**; **duologue**. *Dialogue* = \(1\) a conversation between two or more people; or \(2\) the exchange of ideas. Despite a common misunderstanding, the prefix is *dia-* \(across\), not *di-* \(two\), so the number of participants is irrelevant. The longer spelling \(with -*ue* at the end\) is vastly predominant. For a comment on the potential decline of the *-ue* form, see -agog\(ue\). Cf. **catalogue**.
+dialogue; **dialog**; **duologue**. *Dialogue* = (1) a conversation between two or more people; or (2) the exchange of ideas. Despite a common misunderstanding, the prefix is *dia-* (across), not *di-* (two), so the number of participants is irrelevant. The longer spelling (with -*ue* at the end) is vastly predominant. For a comment on the potential decline of the *-ue* form, see -agog(ue). Cf. **catalogue**.
 
 *Duologue*, most commonly a theatrical term, means "a conversation between two people only." It is often contrasted with *monologue*—e.g.:
 
@@ -23,5 +23,5 @@ When used as a verb, *dialogue* is a particularly grating vogue term that has ri
 1. *dialogue* as a verb, or *\*dialoguing* as a gerund: Stage 2
 
 2. *\*dialog* for *dialogue*: Stage 1
- - Current ratio in print \(*dialogues* vs. \**dialogs*\): 18:1
+ - Current ratio in print (*dialogues* vs. \**dialogs*): 18:1
 

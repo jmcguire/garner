@@ -4,7 +4,7 @@ cinematographic; \***cinemagraphic**. In modern print, *cinematographic*, the tr
 
  - "But ‘Dragonheart' is a beautiful piece of *cinemagraphic* \[read *cinematographic*\] work." Joseph Szadkowski, "Big Talent, Miniature Art," *Wash. Times*, 8 June 1996, at B4.
 
- - "In fact, it \[the violence\] seemed *cinemagraphic* \[read *cinematographic*\]—not just inspired by film but performed for it." Andrew Bolt, "My Holiday in Hell," *Daily Telegraph* \(Sydney, Aus.\), 5 Feb. 2018, at 19.
+ - "In fact, it \[the violence\] seemed *cinemagraphic* \[read *cinematographic*\]—not just inspired by film but performed for it." Andrew Bolt, "My Holiday in Hell," *Daily Telegraph* (Sydney, Aus.), 5 Feb. 2018, at 19.
 
 *Cinematographic* is pronounced /sin-ә-mat-ә-**graf**-ik/.
 
@@ -12,5 +12,5 @@ cinematographic; \***cinemagraphic**. In modern print, *cinematographic*, the tr
 
  - *\*cinemagraphic* for *cinematographic*: Stage 1
 
- - Current ratio in print \(*cinematographic* vs. *\*cinemagraphic*\): 230:1
+ - Current ratio in print (*cinematographic* vs. *\*cinemagraphic*): 230:1
 

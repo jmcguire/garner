@@ -1,4 +1,4 @@
 # quite the contrary
 
-quite the contrary. See **contrary \(b\)**.
+quite the contrary. See **contrary (b)**.
 

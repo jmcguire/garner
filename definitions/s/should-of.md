@@ -1,4 +1,4 @@
 # \*should of
 
-\*should of. See **of \(d\)**.
+\*should of. See **of (d)**.
 

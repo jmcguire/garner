@@ -1,4 +1,4 @@
 # explanatorily
 
-explanatorily. See adverbs \(f\).
+explanatorily. See adverbs (f).
 

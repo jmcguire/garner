@@ -1,4 +1,4 @@
 # Romani
 
-Romani; **Roma**. See race-related terms \(m\).
+Romani; **Roma**. See race-related terms (m).
 

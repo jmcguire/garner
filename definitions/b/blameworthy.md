@@ -10,9 +10,9 @@ blameworthy.
 
 In all phases of Modern English, the Latinate *culpable* has always appeared more frequently than the Anglo-Saxon *blameworthy*. See **culpable**.
 
-**B. And *blamable*; *blameful*.** *Blameworthy* is the usual word meaning "deserving blame." *Blamable* \(so spelled in AmE, but *blameable* in BrE\) is a needless variant.
+**B. And *blamable*; *blameful*.** *Blameworthy* is the usual word meaning "deserving blame." *Blamable* (so spelled in AmE, but *blameable* in BrE) is a needless variant.
 
-*Blameful* \(= imputing blame; blaming\) is almost self-explanatory. E.g.: "The Sacramento City Teachers Association points a *blameful* finger at the district." Deborah Anderluh, "City District, Teachers Still at Loggerheads," *Sacramento Bee*, 8 Mar. 1996, at B1. The word is occasionally misused for *blameworthy*—e.g.:
+*Blameful* (= imputing blame; blaming) is almost self-explanatory. E.g.: "The Sacramento City Teachers Association points a *blameful* finger at the district." Deborah Anderluh, "City District, Teachers Still at Loggerheads," *Sacramento Bee*, 8 Mar. 1996, at B1. The word is occasionally misused for *blameworthy*—e.g.:
 
  - "Gambling is not in itself a *blameful* \[read *blameworthy*\] activity." David Spanier, "Poker," *Independent*, 28 Oct. 1994, at 24.
 
@@ -23,5 +23,5 @@ In all phases of Modern English, the Latinate *culpable* has always appeared mor
 ## Language-Change Index
 
  - *blameful* misused for *blameworthy*: Stage 1
- - Current ratio in print \(*blameworthy* vs. *blamable* vs. *blameable*\): 9:1.2:1
+ - Current ratio in print (*blameworthy* vs. *blamable* vs. *blameable*): 9:1.2:1
 

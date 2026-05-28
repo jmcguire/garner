@@ -1,6 +1,6 @@
 # billion
 
-billion. In most English-speaking countries, *billion* denotes a thousand millions \(a 1 followed by nine 0's\). In most of continental Europe and other German-, French-, and Spanish-speaking countries, it means a million millions \(a 1 followed by twelve 0's\)—a thousand millions being dubbed a *milliard*. Today, the two large-number systems are called the *short scale* and the *long scale*.
+billion. In most English-speaking countries, *billion* denotes a thousand millions (a 1 followed by nine 0's). In most of continental Europe and other German-, French-, and Spanish-speaking countries, it means a million millions (a 1 followed by twelve 0's)—a thousand millions being dubbed a *milliard*. Today, the two large-number systems are called the *short scale* and the *long scale*.
 
 In the not-so-distant past, the scales were referred to as the American and British systems. But in 1974, by statute, the U.K. adopted the short scale.
 

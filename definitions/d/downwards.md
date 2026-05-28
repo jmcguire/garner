@@ -1,4 +1,4 @@
-# downward\(s\)
+# downward(s)
 
-downward\(s\). See directional words \(a\).
+downward(s). See directional words (a).
 

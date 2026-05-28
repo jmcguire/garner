@@ -1,4 +1,4 @@
 # Narrowing of Word Meanings
 
-Narrowing of Word Meanings. See semantic change \(b\).
+Narrowing of Word Meanings. See semantic change (b).
 

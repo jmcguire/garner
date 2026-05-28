@@ -1,4 +1,4 @@
-# leftward\(s\)
+# leftward(s)
 
-leftward\(s\). See directional words \(a\).
+leftward(s). See directional words (a).
 

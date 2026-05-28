@@ -1,4 +1,4 @@
 # midnight
 
-midnight. See **a.m. \(c\)**.
+midnight. See **a.m. (c)**.
 

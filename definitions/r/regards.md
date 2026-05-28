@@ -1,4 +1,4 @@
 # regards
 
-regards. See **regard \(a\)** & **as regards**.
+regards. See **regard (a)** & **as regards**.
 

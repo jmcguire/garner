@@ -4,5 +4,5 @@ assumption; **presumption**. The connotative distinction between these words is 
 
 *Assumptive* is pretentious for either *assumed* <assumptive beliefs> or *assuming* or *presumptuous* <an assumptive character>.
 
-As for adverbs, always use the common forms derived from *presume*—that is, *presumably* \(= I presume, it is to be presumed\) or *presumptively* \(= there is a presumption that\). Stay away from *\*assumedly* and *\*assumptively*.
+As for adverbs, always use the common forms derived from *presume*—that is, *presumably* (= I presume, it is to be presumed) or *presumptively* (= there is a presumption that). Stay away from *\*assumedly* and *\*assumptively*.
 

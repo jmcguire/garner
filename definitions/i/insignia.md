@@ -1,6 +1,6 @@
 # insignia
 
-insignia; \***insigne**. Today *insignia* \(technically a plural form\) is regarded as the singular, *insignias* as its plural. E.g.:
+insignia; \***insigne**. Today *insignia* (technically a plural form) is regarded as the singular, *insignias* as its plural. E.g.:
 
  - "Roses bearing this *insignia* have undergone two years of comparison with other new varieties." Diane Relf, "Rose Blooms, Rose Facts," *Roanoke Times*, 20 June 1996, at 9.
 
@@ -13,5 +13,5 @@ The corresponding Latin singular *\*insigne* is rarely used. When it does appear
 ## Language-Change Index
 
  - *\*insigne* for *insignia*: Stage 1
- - Current ratio in print \(*an insignia* vs. *\*an insigne*\): 49:1
+ - Current ratio in print (*an insignia* vs. *\*an insigne*): 49:1
 

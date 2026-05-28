@@ -1,4 +1,4 @@
 # -eth
 
--eth. See archaisms \(b\).
+-eth. See archaisms (b).
 

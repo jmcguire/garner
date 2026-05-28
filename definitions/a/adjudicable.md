@@ -1,4 +1,4 @@
 # adjudicable
 
-adjudicable. So formed—not *\*adjudicatable*. See -able \(d\) & -atable.
+adjudicable. So formed—not *\*adjudicatable*. See -able (d) & -atable.
 

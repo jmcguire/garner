@@ -1,4 +1,4 @@
 # suggest
 
-suggest. See **allude \(c\)**.
+suggest. See **allude (c)**.
 

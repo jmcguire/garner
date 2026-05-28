@@ -1,4 +1,4 @@
 # \*could of
 
-\*could of. See **of \(d\)**.
+\*could of. See **of (d)**.
 

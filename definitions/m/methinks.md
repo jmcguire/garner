@@ -1,6 +1,6 @@
 # methinks
 
-methinks \(= it seems to me\) is an ever-popular archaism, thanks to Shakespeare: "The lady doth protest too much, methinks" \(*Hamlet* 3.2.230\). Note, however, that Shakespeare put *methinks* at the end of the line, not at the beginning. The following, then, is something of a misquotation—and there are countless others like it: "*Methinks* Scott Hicks protests too much about the ‘Shine' backlash." Paul Willistein, "Oscars Declare Their ‘Independents,' " *Morning Call* \(Allentown, Pa.\), 23 Mar. 1997, at F1.
+methinks (= it seems to me) is an ever-popular archaism, thanks to Shakespeare: "The lady doth protest too much, methinks" (*Hamlet* 3.2.230). Note, however, that Shakespeare put *methinks* at the end of the line, not at the beginning. The following, then, is something of a misquotation—and there are countless others like it: "*Methinks* Scott Hicks protests too much about the ‘Shine' backlash." Paul Willistein, "Oscars Declare Their ‘Independents,' " *Morning Call* (Allentown, Pa.), 23 Mar. 1997, at F1.
 
 *Methinks* also appears frequently without the accompanying "protest too much" language—e.g.:
 

@@ -1,4 +1,4 @@
 # \*brung
 
-\*brung. See **bring \(a\)**.
+\*brung. See **bring (a)**.
 

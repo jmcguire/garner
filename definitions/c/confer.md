@@ -1,8 +1,8 @@
 # confer
 
-confer. In Latin, *confer* means "to compare," whence the present English meaning of the abbreviated form of *compare*, namely, *cf.* The unabbreviated form *confer* no longer has this meaning; today it means \(intransitively\) "to come together to take counsel and exchange views" or \(transitively\) "to bestow, usu. from a position of authority."
+confer. In Latin, *confer* means "to compare," whence the present English meaning of the abbreviated form of *compare*, namely, *cf.* The unabbreviated form *confer* no longer has this meaning; today it means (intransitively) "to come together to take counsel and exchange views" or (transitively) "to bestow, usu. from a position of authority."
 
-In this latter \(transitive\) sense, one *confers* something *on*, not *in*, another. E.g.:
+In this latter (transitive) sense, one *confers* something *on*, not *in*, another. E.g.:
 
  - "Web-surfing most likely will not *confer* jurisdiction *in* \[read *on*\] that service's home state." Dale M. Cendali & James D. Arbogast, " ‘Net Use Raises Issues of Jurisdiction," *Nat'l L.J.*, 28 Oct. 1996, at C7.
 

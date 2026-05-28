@@ -1,4 +1,4 @@
 # phenomena
 
-phenomena. See **phenomenon \(a\)**.
+phenomena. See **phenomenon (a)**.
 

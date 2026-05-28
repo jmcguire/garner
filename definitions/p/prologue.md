@@ -2,5 +2,5 @@
 
 prologue. So spelled—not *\*prolog*.
 
- - Current ratio in print \(*prologue* vs. *\*prolog*\): 62:1
+ - Current ratio in print (*prologue* vs. *\*prolog*): 62:1
 

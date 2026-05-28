@@ -1,6 +1,6 @@
 # empirical
 
-empirical; **empiric**. *Empirical* \(= based not merely on speculation but on scientific testing and practical experience\), a Latin loanword dating in English from the 1500s, is predominantly so written. Although *empiric* might easily be labeled a needless variant, medical writers, surprisingly enough, often use *empiric*—e.g.:
+empirical; **empiric**. *Empirical* (= based not merely on speculation but on scientific testing and practical experience), a Latin loanword dating in English from the 1500s, is predominantly so written. Although *empiric* might easily be labeled a needless variant, medical writers, surprisingly enough, often use *empiric*—e.g.:
 
  - "We recognize that there was more *empiric* therapy used in nonclinic patients by the primary care physicians without recourse to bronchoscopy." R. Andrew McIvor et al., "An Effectiveness Community-Based Clinical Trial of Respirgard II \[etc.\]," 110 *Chest*, July 1996, at 141.
 
@@ -12,8 +12,8 @@ Etymologically speaking, *empirical* derives ultimately from the Greek term *emp
 
 The phrase \**imperial evidence*, traceable back to the 1960s, is a blunder for *empirical evidence*. See word-swapping.
 
- - Current ratio in print \(*imperial court* vs. \**empirical court*\): 2,722:1
- - Current ratio in print \(*imperious tone* vs. \**empirical tone*\): 125:1
- - Current ratio in print \(*empirical* vs. *empiric*\): 63:1
- - Current ratio in print \(*empirical evidence* vs. \**imperial evidence*\): 3,645:1
+ - Current ratio in print (*imperial court* vs. \**empirical court*): 2,722:1
+ - Current ratio in print (*imperious tone* vs. \**empirical tone*): 125:1
+ - Current ratio in print (*empirical* vs. *empiric*): 63:1
+ - Current ratio in print (*empirical evidence* vs. \**imperial evidence*): 3,645:1
 

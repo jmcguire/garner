@@ -1,4 +1,4 @@
 # more
 
-more; **most**. See comparatives and superlatives & **all \(c\)**.
+more; **most**. See comparatives and superlatives & **all (c)**.
 

@@ -5,5 +5,5 @@ infectious is sometimes erroneously rendered *\*infectuous*—e.g.: "A note of c
 ## Language-Change Index
 
  - *infectious* misspelled *\*infectuous*: Stage 1
- - Current ratio in print \(*infectious* vs. \**infectuous*\): 10,977:1
+ - Current ratio in print (*infectious* vs. \**infectuous*): 10,977:1
 

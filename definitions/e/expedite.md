@@ -1,4 +1,4 @@
 # expedite
 
-expedite. See spelling \(a\).
+expedite. See spelling (a).
 

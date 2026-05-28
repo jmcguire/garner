@@ -1,4 +1,4 @@
 # do, as
 
-do, as. See **like** & anticipatory reference \(a\).
+do, as. See **like** & anticipatory reference (a).
 

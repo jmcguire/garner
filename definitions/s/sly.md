@@ -1,6 +1,6 @@
 # sly
 
-sly \(= wily, cunning, sneaky\) preferably makes *slyer*, *slyest*, and *slyly*—whether in AmE or BrE. Some writers misguidedly use the variant spellings *\*slier*, *\*sliest*, and *\*slily*—e.g.:
+sly (= wily, cunning, sneaky) preferably makes *slyer*, *slyest*, and *slyly*—whether in AmE or BrE. Some writers misguidedly use the variant spellings *\*slier*, *\*sliest*, and *\*slily*—e.g.:
 
  - "The land has been creeping *slily* \[read *slyly*\] out to sea for the last twenty centuries or so." Steven Moore, "The Beast in the Vatican," *Wash. Post*, 15 Sept. 1996, Book World §, at 4.
 
@@ -10,7 +10,7 @@ sly \(= wily, cunning, sneaky\) preferably makes *slyer*, *slyest*, and *slyly*�
 
 Cf. **shy** & **spry**.
 
- - Current ratio in print \(*slyer* vs. \**slier*\): 6:1
- - Current ratio in print \(*slyest* vs. *\*sliest*\): 7:1
- - Current ratio in print \(*slyly* vs. *\*slily*\): 15:1
+ - Current ratio in print (*slyer* vs. \**slier*): 6:1
+ - Current ratio in print (*slyest* vs. *\*sliest*): 7:1
+ - Current ratio in print (*slyly* vs. *\*slily*): 15:1
 

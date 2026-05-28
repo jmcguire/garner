@@ -1,6 +1,6 @@
 # empathic
 
-empathic; **empathetic**. *Empathic* \(= of, relating to, displaying, or eliciting empathy\) has long been the usual form. But *empathetic* is frequently encountered, doubtless because of the close analogy to *sympathetic*—e.g.:
+empathic; **empathetic**. *Empathic* (= of, relating to, displaying, or eliciting empathy) has long been the usual form. But *empathetic* is frequently encountered, doubtless because of the close analogy to *sympathetic*—e.g.:
 
  - "Five years ago, Harvard psychologist Carol Gilligan published ‘Meeting at the Crossroads,' a luminously *empathetic* study of adolescents at an all-girls private school in Cleveland." Susie Linfield, "Desperately Seeking Perfection," *L.A. Times*, 7 Sept. 1997, Book Rev. §, at 8.
 
@@ -8,5 +8,5 @@ empathic; **empathetic**. *Empathic* \(= of, relating to, displaying, or eliciti
 
 For now, the term *empathic* is standard in print sources. But a terminological shift may be at work.
 
- - Current ratio in print \(*empathic* vs. *empathetic*\): 1.2:1
+ - Current ratio in print (*empathic* vs. *empathetic*): 1.2:1
 

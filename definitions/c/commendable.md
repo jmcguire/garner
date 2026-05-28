@@ -12,5 +12,5 @@ commendable; **commendatory**. The first means "praiseworthy, laudable" <a comme
 
  - *commendatory* misused for *commendable*: Stage 1
 
- - Current ratio in print \(*commendable* vs. *commendatory*\): 12:1
+ - Current ratio in print (*commendable* vs. *commendatory*): 12:1
 

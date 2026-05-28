@@ -1,4 +1,4 @@
 # -culus
 
--culus. See diminutives \(b\).
+-culus. See diminutives (b).
 

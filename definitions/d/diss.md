@@ -1,6 +1,6 @@
 # diss
 
-diss, v.t.; **dis**. *Diss*—also spelled *dis*—is a clipped form of *disrespect*, vb. \(or, less likely, *dismiss* or *disparage*\). This slang term came into existence in the early 1980s and into vogue in the early 1990s—e.g.:
+diss, v.t.; **dis**. *Diss*—also spelled *dis*—is a clipped form of *disrespect*, vb. (or, less likely, *dismiss* or *disparage*). This slang term came into existence in the early 1980s and into vogue in the early 1990s—e.g.:
 
  - "In the ‘other body,' where four GOP members are running for president, Gingrich would like senators to ponder the theoretical possibility of a President Newt before they *dis* the bills he sends them." Howard Fineman, "President Newt?," *Newsweek*, 19 June 1995, at 34.
 
@@ -16,10 +16,10 @@ Of course, the inflected forms are *dissed* and *dissing*—e.g.:
 
 By the early 2000s, the term had already come to feel dated by most people who had earlier used it enthusiastically.
 
-One outcome of the *diss* fad is that the transitive verb *disrespect*, which had fallen into disuse, has been called out of retirement—doubtless by writers \(or their editors\) who really wanted to use *diss* but just couldn't bring themselves to do it. E.g.: "Hovan apparently felt *disrespected* by Favre, and their war of words heated up to where Favre was caught on camera giving Hovan a one-finger salute." Rick Braun, "Several May Get Fines for Post-Game Melee," *Milwaukee J. Sentinel*, 12 Dec. 2002, Packer Plus §, at 12.
+One outcome of the *diss* fad is that the transitive verb *disrespect*, which had fallen into disuse, has been called out of retirement—doubtless by writers (or their editors) who really wanted to use *diss* but just couldn't bring themselves to do it. E.g.: "Hovan apparently felt *disrespected* by Favre, and their war of words heated up to where Favre was caught on camera giving Hovan a one-finger salute." Rick Braun, "Several May Get Fines for Post-Game Melee," *Milwaukee J. Sentinel*, 12 Dec. 2002, Packer Plus §, at 12.
 
 ## Language-Change Index
 
  - *diss* as a verb: Stage 4
- - Current ratio in print \(*to diss him* vs. *to dis him*\): 1.5:1
+ - Current ratio in print (*to diss him* vs. *to dis him*): 1.5:1
 

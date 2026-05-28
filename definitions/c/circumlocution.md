@@ -6,11 +6,11 @@ circumlocution.
 
  - "It's really grown tiresome, hearing so many versions of the same excuse, so many *circumlocutions* around the truth." Anita Creamer, " ‘Experimenting' with the Truth," *Sacramento Bee*, 19 Aug. 1996, at C1.
 
- - "Perhaps that's because the Prime Minister, with his weird *circumlocutions*—‘a not inconsiderable degree of'—does not come across as a silver-tongued smoothie." Ann Leslie, "Why Women Find This Man So Smarmy," *Daily Mail* \(U.K.\), 11 Oct. 1996, at 8.
+ - "Perhaps that's because the Prime Minister, with his weird *circumlocutions*—‘a not inconsiderable degree of'—does not come across as a silver-tongued smoothie." Ann Leslie, "Why Women Find This Man So Smarmy," *Daily Mail* (U.K.), 11 Oct. 1996, at 8.
 
- - "Pundits at least laid partial blame on his palpable uneasiness toward homosexuality—his unwillingness to march at Pride, his strained *circumlocutions* when discussing gay marriage." Spencer Morrison, "Preaching to the Choir," *Globe & Mail* \(Toronto\), 22 Feb. 2020, at R10.
+ - "Pundits at least laid partial blame on his palpable uneasiness toward homosexuality—his unwillingness to march at Pride, his strained *circumlocutions* when discussing gay marriage." Spencer Morrison, "Preaching to the Choir," *Globe & Mail* (Toronto), 22 Feb. 2020, at R10.
 
-One of the most famous government departments in all literature is Charles Dickens's "Circumlocution Office" in *Little Dorrit* \(1857–1858\).
+One of the most famous government departments in all literature is Charles Dickens's "Circumlocution Office" in *Little Dorrit* (1857–1858).
 
 **B. And *circuity*.** *Circumlocution* is not the noun form corresponding to *circuitous*, which means "winding, tortuous, anfractuous"—the noun for *circuitous* being *circuity*. E.g.: "I bring this up because only now do I recognize the vast *circumlocution* \[read *circuity*\] of the route which I've been cheerfully driving for the past year, a path which was anything but a straight line, horizontally or vertically." Jay Bailey, "Riding on the Disneyland Bypass Road," *Jerusalem Post*, 6 Sept. 1996, at 10.
 
@@ -33,8 +33,8 @@ Avoid the synonymous variants *\*circumlocutionary* and *\*circumlocutious*—e.
 ## Language-Change Index
 
 1. *\*circumlocutionary* for *circumlocutory*: Stage 1
- - Current ratio in print \(*circumlocutory* vs. *\*circumlocutionary*\): 11:1
+ - Current ratio in print (*circumlocutory* vs. *\*circumlocutionary*): 11:1
 
 2. *\*circumlocutious* for *circumlocutory*: Stage 1
- - Current ratio in print \(*circumlocutory* vs. *\*circumlocutious*\): 10:1
+ - Current ratio in print (*circumlocutory* vs. *\*circumlocutious*): 10:1
 

@@ -1,8 +1,8 @@
 # curtail
 
-curtail means "to cut back," not "to stop completely." Therefore, the phrases *\*completely curtailed*, *\*totally curtailed*, and similar others \(all dating from the mid-20th century\) are misuses—e.g.:
+curtail means "to cut back," not "to stop completely." Therefore, the phrases *\*completely curtailed*, *\*totally curtailed*, and similar others (all dating from the mid-20th century) are misuses—e.g.:
 
- - "Their halcyon days of wine and roses, if not *totally curtailed* \[read, perhaps, *totally over*\], certainly would be cramped beyond recognition." "Commission Needs More Catalysts to Change," *St. Petersburg Times* \(Fla.\), 22 Aug. 1990, at 2.
+ - "Their halcyon days of wine and roses, if not *totally curtailed* \[read, perhaps, *totally over*\], certainly would be cramped beyond recognition." "Commission Needs More Catalysts to Change," *St. Petersburg Times* (Fla.), 22 Aug. 1990, at 2.
 
  - "But fans will be glad to hear he hasn't *completely curtailed* \[read *completely stopped*\] performing." Beth Wood, "His Tendinitis Is Nothing to Fret About," *San Diego Union-Trib.*, 28 Dec. 1995, Night & Day §, at 12.
 

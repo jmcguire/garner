@@ -1,4 +1,4 @@
 # \*Gipsy
 
-\*Gipsy. See race-related terms \(m\).
+\*Gipsy. See race-related terms (m).
 

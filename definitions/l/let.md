@@ -1,4 +1,4 @@
 # -let
 
--let. See diminutives \(j\).
+-let. See diminutives (j).
 

@@ -12,14 +12,14 @@ Because some people mishear the phrase, the mondegreen *\*for all intensive purp
 
  - "The basic numbers given above will not have changed much—bankers say that imports could be depressed a bit further—and with reserves that are *for all* *intensive purposes* \[read *for all intents and purposes*\] negligible there will be a clear payments lump." Terry Povey, "A Rosier Tint to the Financial Horizon," *Fin. Times*, 15 Oct. 1984, § III, at v.
 
- - "*For all intensive purposes* \[read *For all intents and purposes*\], the electrically powered automobile is dead—and they are considered dinosaurs of the past." Arthus Abrom, "The Forgotten Art of Electric-Powered Automobiles," in *The Tesla Papers* 89 \(David Hatcher Childress ed., 2000\).
+ - "*For all intensive purposes* \[read *For all intents and purposes*\], the electrically powered automobile is dead—and they are considered dinosaurs of the past." Arthus Abrom, "The Forgotten Art of Electric-Powered Automobiles," in *The Tesla Papers* 89 (David Hatcher Childress ed., 2000).
 
- - "*For all intensive purposes* \[read *For all intents and purposes*\], the Titans' Super Bowl dreams ended right there." Aaron Wilson, " ‘Determined' Mitchell Broke Titan Hearts with Return," *Leaf-Chron.* \(Clarksville, Tenn.\), 8 Jan. 2001, at C4.
+ - "*For all intensive purposes* \[read *For all intents and purposes*\], the Titans' Super Bowl dreams ended right there." Aaron Wilson, " ‘Determined' Mitchell Broke Titan Hearts with Return," *Leaf-Chron.* (Clarksville, Tenn.), 8 Jan. 2001, at C4.
 
 See malapropisms.
 
 ## Language-Change Index
 
  - *\*for all intensive purposes* for *for all intents and purposes*: Stage 1
- - Current ratio in print \(*all intents and purposes* vs. *\*all intensive purposes*\): 211:1
+ - Current ratio in print (*all intents and purposes* vs. *\*all intensive purposes*): 211:1
 

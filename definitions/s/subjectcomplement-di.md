@@ -1,4 +1,4 @@
 # Subject–Complement Disagreement
 
-Subject–Complement Disagreement. See concord \(c\).
+Subject–Complement Disagreement. See concord (c).
 

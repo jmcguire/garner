@@ -1,4 +1,4 @@
 # lapful
 
-lapful. Pl. *lapfuls*. See plurals \(g\).
+lapful. Pl. *lapfuls*. See plurals (g).
 

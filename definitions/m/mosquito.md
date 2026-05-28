@@ -1,6 +1,6 @@
 # mosquito
 
-mosquito. Pl. *mosquitoes*. See plurals \(d\).
+mosquito. Pl. *mosquitoes*. See plurals (d).
 
- - Current ratio in print \(*mosquitoes* vs. *\*mosquitos*\): 9:1
+ - Current ratio in print (*mosquitoes* vs. *\*mosquitos*): 9:1
 

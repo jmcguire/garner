@@ -8,7 +8,7 @@ The word is now routinely used in extended but milder senses, with the suggestio
 
  - "If handled right, *internecine* \[read *internal*\] struggle can pay off for winners and losers alike." Bill Walsh, "Managing the Monster," *Executive Excellence*, Nov. 1996, at 19.
 
- - "It is in the nature of bureaucrats to fight for turf and for money. The goal of winning these fights becomes more important than the formal goals of an agency, because winning the *internecine* \[read *interagency*\] battles for money and turf is seen as a matter of survival." Andrew Greeley, "Merger Making Homeland Insecure," *Times-Union* \(Albany\), 30 Nov. 2002, at A11.
+ - "It is in the nature of bureaucrats to fight for turf and for money. The goal of winning these fights becomes more important than the formal goals of an agency, because winning the *internecine* \[read *interagency*\] battles for money and turf is seen as a matter of survival." Andrew Greeley, "Merger Making Homeland Insecure," *Times-Union* (Albany), 30 Nov. 2002, at A11.
 
 Today, these uses are so common that they can no longer be called solecisms. But careful writers will respect the word's traditional roots in belligerency and find other words to describe petty internal squabbles.
 

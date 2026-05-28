@@ -4,5 +4,5 @@ tercentenary; \***tricentennial**; **\*tercentennial**; **\*tricentenary**. Sinc
 
 *Tercentenary* is pronounced /tәr-sәn-**ten**-ә-ree/ or /tәr-**sen**-tә-ner-ee/.
 
- - Current ratio in print \(*tercentenary* vs. \**tricentennial* vs. \**tercentennial* vs. \**tricentenary*\): 26:4:3:1
+ - Current ratio in print (*tercentenary* vs. \**tricentennial* vs. \**tercentennial* vs. \**tricentenary*): 26:4:3:1
 

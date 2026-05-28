@@ -1,4 +1,4 @@
-# \*nitch\(e\)
+# \*nitch(e)
 
-\*nitch\(e\). See **niche**.
+\*nitch(e). See **niche**.
 

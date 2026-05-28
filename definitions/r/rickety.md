@@ -1,4 +1,4 @@
 # rickety
 
-rickety. So spelled. See spelling \(a\).
+rickety. So spelled. See spelling (a).
 

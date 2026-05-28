@@ -2,13 +2,13 @@
 
 cannot help but; **cannot help ——ing; cannot but**. In formal contexts, the last two phrases have traditionally been preferred—e.g.:
 
- - "Engaged in these activities, the critic *cannot but* formulate value judgments." John Simon, *The Sheep from the Goats* xix \(1989\).
+ - "Engaged in these activities, the critic *cannot but* formulate value judgments." John Simon, *The Sheep from the Goats* xix (1989).
 
  - "When I put this on the list, I *can't help feeling* a little puffed up." V. Diane Woodbrown, "Why Women Need to Speak Up Against Gender Imbalance," *S.F. Examiner*,8 Jan. 1997, at A15.
 
  - "I *can't help wondering* if Kennedy omitted the essay out of a worry." John McWhorter, "The Uncompromising Moderate," *N.Y. Times Book Rev.*, 26 Sept. 2021, at 13.
 
-Still, because *cannot help being* and \(especially\) *cannot but be* are increasingly rare in AmE and BrE alike, they strike many readers as stilted.
+Still, because *cannot help being* and (especially) *cannot but be* are increasingly rare in AmE and BrE alike, they strike many readers as stilted.
 
 *Cannot help but*, which took root during the late 1800s, is becoming an accepted idiom <I cannot help but think you did that on purpose>. A less awkward construction is *cannot help ——ing* <I cannot help thinking you did that on purpose>. But the first construction should no longer be stigmatized on either side of the Atlantic—e.g.:
 
@@ -23,8 +23,8 @@ Occasionally writers twist the phrase not just unidiomatically, but illogically�
 ## Language-Change Index
 
 1. *cannot help but* for *cannot but*: Stage 5
- - Current ratio in print \(*cannot help but* vs. *cannot but*\): 1.9:1
+ - Current ratio in print (*cannot help but* vs. *cannot but*): 1.9:1
 
 2. *cannot help from* for *cannot but*: Stage 1
- - Current ratio in print \(*cannot but* vs. *cannot help from*\): 415:1
+ - Current ratio in print (*cannot but* vs. *cannot help from*): 415:1
 

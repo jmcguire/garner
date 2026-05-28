@@ -1,6 +1,6 @@
 # sans
 
-sans is an archaic literary gallicism to be avoided, unless a tongue-in-cheek or archaic effect is intended. *Without* is virtually always preferable to *sans* \(as long as one is using the English language\)—e.g.:
+sans is an archaic literary gallicism to be avoided, unless a tongue-in-cheek or archaic effect is intended. *Without* is virtually always preferable to *sans* (as long as one is using the English language)—e.g.:
 
  - "The same curatorial team, *sans* \[read *without* or *minus*\] Moore, organized a small show at Gracie Mansion's semiprivate gallery." Bill Arning, "Days with Art," *Village Voice*, 10 Dec. 1996, at 95.
 

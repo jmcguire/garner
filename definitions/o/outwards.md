@@ -1,4 +1,4 @@
-# outward\(s\)
+# outward(s)
 
-outward\(s\). See directional words \(a\).
+outward(s). See directional words (a).
 

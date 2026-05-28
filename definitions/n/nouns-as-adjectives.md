@@ -1,4 +1,4 @@
 # Nouns as Adjectives
 
-Nouns as Adjectives. See functional shift \(b\).
+Nouns as Adjectives. See functional shift (b).
 

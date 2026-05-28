@@ -1,4 +1,4 @@
 # hue
 
-hue. See **hew \(a\)**.
+hue. See **hew (a)**.
 

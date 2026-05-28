@@ -1,4 +1,4 @@
 # casual
 
-casual. See **causal \(b\)**.
+casual. See **causal (b)**.
 

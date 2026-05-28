@@ -1,4 +1,4 @@
 # \*is comprised of
 
-\*is comprised of. See **comprise \(b\)**.
+\*is comprised of. See **comprise (b)**.
 

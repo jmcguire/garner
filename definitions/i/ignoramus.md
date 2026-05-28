@@ -4,9 +4,9 @@ ignoramus. Until 1934, if a grand jury in England considered the evidence of an 
 
 The modern nonlegal meaning appears most frequently—e.g.: "There's no surprise—or challenge—in watching a sycophantic, misogynistic *ignoramus* like Burdette win out over the self-effacing, truth-loving Hutchinson." Lawrence Bommer, " ‘Lip Service' Subtle as a Sledgehammer," *Chicago Trib.*, 5 Aug. 1997, at 2.
 
-The plural is *ignoramuses*. The form *\*ignorami* is a pseudo-learned blunder, since in Latin *ignoramus* is a verb and not one of the Latin nouns ending in *-us*. This erroneous form reached the peak of its popularity in print \(often in jocular contexts\) in the 1920s; today it is relatively infrequent. See plurals \(b\) & hypercorrection \(a\).
+The plural is *ignoramuses*. The form *\*ignorami* is a pseudo-learned blunder, since in Latin *ignoramus* is a verb and not one of the Latin nouns ending in *-us*. This erroneous form reached the peak of its popularity in print (often in jocular contexts) in the 1920s; today it is relatively infrequent. See plurals (b) & hypercorrection (a).
 
 The word is preferably pronounced /ig-nә-**ray**-mәs/—not /ig-nә-**ram**-әs/. In BrE, it's often /ig-nә-**rah**-mәs/.
 
- - Current ratio in print \(*ignoramuses* vs. *\*ignorami*\): 42:1
+ - Current ratio in print (*ignoramuses* vs. *\*ignorami*): 42:1
 

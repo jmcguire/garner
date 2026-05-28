@@ -1,4 +1,4 @@
 # lieu
 
-lieu /loo/. See spelling \(a\).
+lieu /loo/. See spelling (a).
 

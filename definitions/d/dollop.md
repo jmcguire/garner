@@ -1,4 +1,4 @@
 # dollop
 
-dollop. See **word aversion** \(p. 1248\).
+dollop. See **word aversion** (p. 1248).
 

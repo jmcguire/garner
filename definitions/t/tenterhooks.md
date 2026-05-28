@@ -13,5 +13,5 @@ The error first occurred in AmE in the early 1800s and had spread into BrE by 19
 ## Language-Change Index
 
  - *tenterhook* misspelled *\*tenderhook*: Stage 1
- - Current ratio in print \(*tenterhooks* vs. *\*tenderhooks*\): 176:1
+ - Current ratio in print (*tenterhooks* vs. *\*tenderhooks*): 176:1
 

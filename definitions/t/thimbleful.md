@@ -1,6 +1,6 @@
 # thimbleful
 
-thimbleful. Pl. *thimblefuls*, not *\*thimblesful*. See plurals \(g\).
+thimbleful. Pl. *thimblefuls*, not *\*thimblesful*. See plurals (g).
 
- - Current ratio in print \(*thimblefuls* vs. \**thimblesful*\): 77:1
+ - Current ratio in print (*thimblefuls* vs. \**thimblesful*): 77:1
 

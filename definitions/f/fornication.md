@@ -1,4 +1,4 @@
 # fornication
 
-fornication. See **adultery \(a\)**.
+fornication. See **adultery (a)**.
 

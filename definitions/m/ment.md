@@ -1,4 +1,4 @@
 # -ment
 
--ment. See noun suffixes \(d\).
+-ment. See noun suffixes (d).
 

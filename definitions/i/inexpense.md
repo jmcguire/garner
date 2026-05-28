@@ -1,6 +1,6 @@
 # \*inexpense
 
-\*inexpense is a nonword that first appeared \(wraith-like\) in the late 1800s and has been spotted from time to time since. It's not listed in any major unabridged dictionary, and it doesn't really fill a need in the language—e.g.:
+\*inexpense is a nonword that first appeared (wraith-like) in the late 1800s and has been spotted from time to time since. It's not listed in any major unabridged dictionary, and it doesn't really fill a need in the language—e.g.:
 
  - "The *relative inexpense* \[read *relatively low price*\] of much of \[Kurt\] Strobach's work doesn't make him less worthy of recognition than artists and craftsmen who sell their work for much more money." Steve Stanek, "A Cut Above," *Chicago Trib.*, 3 Nov. 1991, Tempo Northwest §, at 1.
 

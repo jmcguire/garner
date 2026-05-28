@@ -1,4 +1,4 @@
 # in-, negative
 
-in-. See en- & negatives \(a\).
+in-. See en- & negatives (a).
 

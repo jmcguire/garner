@@ -1,4 +1,4 @@
 # -person
 
--person. See sexism \(c\).
+-person. See sexism (c).
 

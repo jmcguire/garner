@@ -1,6 +1,6 @@
 # confirmation
 
-confirmation; **conformation**. *Confirmation* \(= verification\) is occasionally displaced by *conformation* \(= \[1\] correspondence with norms; or \[2\] compliance with regulations\)—e.g.:
+confirmation; **conformation**. *Confirmation* (= verification) is occasionally displaced by *conformation* (= \[1\] correspondence with norms; or \[2\] compliance with regulations)—e.g.:
 
  - "For multiple orders, indicate the name of each recipient, telephone number and include a stamped, self-addressed envelope for *conformation* \[read *confirmation*\] ticket and number." "My Communities," *Honolulu Advertiser*, 8 Dec. 2008, at B3.
 

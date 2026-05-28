@@ -1,4 +1,4 @@
 # weatherman
 
-weatherman. See **meteorologist** & sexism \(c\).
+weatherman. See **meteorologist** & sexism (c).
 

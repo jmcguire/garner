@@ -10,11 +10,11 @@ estimable; **estimatable**. These terms have undergone differentiation. *Estimab
 
  - "They prefer programs that offer a projected rate of return for an *estimatable* degree of risk." Arthur R. Carlson, "How to Find and Work with Outside Investors," *Oil & Gas J.*, 27 Oct. 1986, at 56.
 
- - "John Eisele of Deloitte & Touche said accounting rules require a company to set aside reserves when losses are ‘probable and *estimatable*.' " David Phelps & Tony Kennedy, "Citi Equity Group Placed in Involuntary Bankruptcy," *Star Trib.* \(Minneapolis\), 19 May 1994, at D1.
+ - "John Eisele of Deloitte & Touche said accounting rules require a company to set aside reserves when losses are ‘probable and *estimatable*.' " David Phelps & Tony Kennedy, "Citi Equity Group Placed in Involuntary Bankruptcy," *Star Trib.* (Minneapolis), 19 May 1994, at D1.
 
  - "Mr. Kelly said a judgment or a settlement would have to be ‘likely and *estimatable*' to take a reserve for any litigation." Matt Ackerman, "BNY Mellon CEO: Cycle's Still Building," *Am. Banker*, 23 June 2008, at 1.
 
 See -atable.
 
-Oddly, *inestimable* \(= \[1\] priceless; \[2\] incalculable\) has not undergone the differentiation of *estimable*.
+Oddly, *inestimable* (= \[1\] priceless; \[2\] incalculable) has not undergone the differentiation of *estimable*.
 

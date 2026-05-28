@@ -1,4 +1,4 @@
 # no fewer
 
-no fewer. See **no less \(a\)**.
+no fewer. See **no less (a)**.
 

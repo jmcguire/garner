@@ -1,6 +1,6 @@
 # vermilion
 
-vermilion \(= a bright red color\) is preferably so spelled—not *\*vermillion*. See spelling \(a\).
+vermilion (= a bright red color) is preferably so spelled—not *\*vermillion*. See spelling (a).
 
- - Current ratio in print \(*vermilion* vs. *\*vermillion*\): 3:1
+ - Current ratio in print (*vermilion* vs. *\*vermillion*): 3:1
 

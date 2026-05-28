@@ -1,4 +1,4 @@
 # phenom
 
-phenom. See **phenomenon \(c\)**.
+phenom. See **phenomenon (c)**.
 

@@ -8,9 +8,9 @@ office, vb., has become a commonplace expression in the American business world,
 
  - "A few months ago, Tali Blumrosen and Chris Pierini formed a new PR firm, B&P, *officing* out of their homes." Maxine Mesinger, "Life's a Party for Birthday Trio," *Houston Chron.*, 25 Sept. 1996, Houston §, at 1.
 
- - "*Officed* at the corporate location today, she began her career across the street in bookkeeping using a crank adding machine." Rosemary Horvath, "Business Milestone," *Sentinel-Standard* \(Ionia, Mich.\), 29 Nov. 2014, Mich. News §, at 1.
+ - "*Officed* at the corporate location today, she began her career across the street in bookkeeping using a crank adding machine." Rosemary Horvath, "Business Milestone," *Sentinel-Standard* (Ionia, Mich.), 29 Nov. 2014, Mich. News §, at 1.
 
-This is a classic example of the issue discussed under functional shift \(a\), \(d\).
+This is a classic example of the issue discussed under functional shift (a), (d).
 
 ## Language-Change Index
 

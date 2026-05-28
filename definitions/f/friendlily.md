@@ -1,4 +1,4 @@
 # friendlily
 
-friendlily. See adverbs \(c\).
+friendlily. See adverbs (c).
 

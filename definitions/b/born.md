@@ -14,14 +14,14 @@ This misuse provides evidence of the great difficulty that modern writers have w
 
  - "Human service agencies that have seen their funding stop have *born* \[read *borne*\] the brunt of the standoff thus far." Karen Langley & Kate Giammarise, "Plan to Override Budget Fails," *Pitt. Post-Gaz.*, 26 Aug. 2015, at A1.
 
-Yet *borne* misused for *born* is certainly attested, especially in the metaphorical usage *born of* <a feeling born of long experience>—e.g.: "The resulting ethos . . . affirm\[ed\] racist policing while demanding rigid geopolitical borders and thickening those *borne of* \[read *born of*\] ideological difference." Christopher Carter, *The Corruption of Ethos in Fortress America* 15 \(2020\).
+Yet *borne* misused for *born* is certainly attested, especially in the metaphorical usage *born of* <a feeling born of long experience>—e.g.: "The resulting ethos . . . affirm\[ed\] racist policing while demanding rigid geopolitical borders and thickening those *borne of* \[read *born of*\] ideological difference." Christopher Carter, *The Corruption of Ethos in Fortress America* 15 (2020).
 
 ## Language-Change Index
 
 1. *born* misused for *borne*: Stage 1
- - Current ratio in print \(*borne in mind* vs. *\*born in mind*\): 40:1
- - Current ratio in print \(*borne by him* vs. *\*born by him*\): 24:1
+ - Current ratio in print (*borne in mind* vs. *\*born in mind*): 40:1
+ - Current ratio in print (*borne by him* vs. *\*born by him*): 24:1
 
 2. *borne* misused for *born*: Stage 1
- - Current ratio in print \(*born of a desire* vs. *\*borne of a desire*\): 7:1
+ - Current ratio in print (*born of a desire* vs. *\*borne of a desire*): 7:1
 

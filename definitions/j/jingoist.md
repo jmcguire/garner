@@ -2,7 +2,7 @@
 
 jingoist; **jingo**. The former has come to displace the latter as the agent noun corresponding to *jingoism*. A *jingoist* is a belligerent patriot and nationalist, especially one who favors an aggressive foreign policy. The word almost always carries pejorative connotations—e.g.:
 
- - "The Duma's *jingoists* seem to care little that the obligations of START-2 are finely balanced." "Russia's Surly Answer to NATO," *Economist* \(U.S. ed.\), 1 Feb. 1997, at 47.
+ - "The Duma's *jingoists* seem to care little that the obligations of START-2 are finely balanced." "Russia's Surly Answer to NATO," *Economist* (U.S. ed.), 1 Feb. 1997, at 47.
 
  - "Many Serbs . . . escaped the war of the *jingoists* by fleeing or deserting." Peter Schneider, "The Writer Takes a Hike," *New Republic*, 3 Mar. 1997, at 34.
 

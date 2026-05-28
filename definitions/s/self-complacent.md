@@ -11,5 +11,5 @@
 ## Language-Change Index
 
  - *\*self-complacent* for *complacent*: Stage 1
- - Current ratio in print \(*a complacent* vs. *\*a self-complacent*\): 34:1
+ - Current ratio in print (*a complacent* vs. *\*a self-complacent*): 34:1
 

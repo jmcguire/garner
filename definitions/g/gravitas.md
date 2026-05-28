@@ -6,5 +6,5 @@ gravitas. Not many latinisms spring into popular use. This one arose in English 
 
  - "It is the biggest question of the primary season whether Mr. Bush will be rejected by the voters, on the grounds that he is lacking in such *gravitas* as is evident in John McCain and Steve Forbes." William F. Buckley Jr., "The Party Spoiler . . . and the Thug," *Wash. Times*, 10 Sept. 1999, at A18.
 
- - " ‘He has to show his *gravitas*,' said a top Bush aide, ‘and he can't make any mistakes. If he pulls that off, he's probably unstoppable.' " Thomas M. DeFrank, "Bush Score in Debate a Primary Concern," *Daily News* \(N.Y.\), 2 Dec. 1999, News §, at 4.
+ - " ‘He has to show his *gravitas*,' said a top Bush aide, ‘and he can't make any mistakes. If he pulls that off, he's probably unstoppable.' " Thomas M. DeFrank, "Bush Score in Debate a Primary Concern," *Daily News* (N.Y.), 2 Dec. 1999, News §, at 4.
 

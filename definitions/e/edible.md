@@ -10,9 +10,9 @@ What is *eatable* is at least minimally enjoyable or palatable <the food at that
 
 *Eatable* has been used as an attributive noun since the early 1700s, usually in the plural—e.g.:
 
- - "These people produce *eatables* most of us enjoy." Letter of Robert E. Smith Jr., "Hog Producers Get Bad Rap," *Morning Star* \(Wilmington, N.C.\), 10 June 1996, at A6.
+ - "These people produce *eatables* most of us enjoy." Letter of Robert E. Smith Jr., "Hog Producers Get Bad Rap," *Morning Star* (Wilmington, N.C.), 10 June 1996, at A6.
 
- - "We can assume that such concentrations of rich *eatables* made them natural synonyms, as time went on, for something politically desirable." George Hebert, "Real Pork in Real Barrels," *Virginian-Pilot* \(Norfolk\), 15 July 1996, at A7.
+ - "We can assume that such concentrations of rich *eatables* made them natural synonyms, as time went on, for something politically desirable." George Hebert, "Real Pork in Real Barrels," *Virginian-Pilot* (Norfolk), 15 July 1996, at A7.
 
  - "One of those vehicles tows a trailer personally designed by the Duke of Edinburgh—full of drawers, recesses, cubby-holes and compartments from which in short order all *eatables*, dishes and utensils are retrieved." John MacLeod, "A Picnic in Scotland?," *Scottish Daily Mail*, 18 June 2015, at 17.
 

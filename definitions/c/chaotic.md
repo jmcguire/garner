@@ -1,4 +1,4 @@
 # chaotic
 
-chaotic. See **inchoate \(c\)**.
+chaotic. See **inchoate (c)**.
 

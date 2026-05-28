@@ -1,4 +1,4 @@
 # paragon
 
-paragon. See **paradigm \(c\)**.
+paragon. See **paradigm (c)**.
 

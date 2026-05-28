@@ -1,4 +1,4 @@
 # shelf
 
-shelf. Pl. *shelves*, not *\*shelfs*. See plurals \(c\).
+shelf. Pl. *shelves*, not *\*shelfs*. See plurals (c).
 

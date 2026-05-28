@@ -1,4 +1,4 @@
 # impartially
 
-impartially. See **partially \(b\)**.
+impartially. See **partially (b)**.
 

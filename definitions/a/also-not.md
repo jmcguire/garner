@@ -8,11 +8,11 @@ also not. This phrasing, which ordinarily follows a negative statement, is usual
 
  - "*Tosco is also not* \[read *Nor is Tosco*\] afraid to duke it out with the unions." Arthur Goldgaber, "Tosco's Gusher," *Fin. World*, 18 Mar. 1997, at 38.
 
-See **nor \(a\)**.
+See **nor (a)**.
 
 But when a contraction precedes the phrase and the tone is intentionally conversational, *also not* seems the more natural wording—e.g.:
 
  - "They're *also not* as dangerous as other animals around the compound." Chris Vaughn, "Teen Goes Whole Hog for Hobby," *Ft. Worth Star-Telegram*, 27 Jan. 1997, at 4.
 
- - Current ratio in print \(*nor is he* vs. *he is also not*\): 15:1
+ - Current ratio in print (*nor is he* vs. *he is also not*): 15:1
 

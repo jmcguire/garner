@@ -1,4 +1,4 @@
 # Ellipses
 
-Ellipses. See punctuation \(f\) & quotations \(e\).
+Ellipses. See punctuation (f) & quotations (e).
 

@@ -6,7 +6,7 @@ diplomat; \***diplomatist**. Although the longer form predominated in 19th-centu
 
  - "While Kennan needs no introduction to foreign-policy thinkers, *diplomatists* \[read *diplomats*\] and historians . . . , he is less well known to the public." S.J. Hamrick, Book Rev., *Chicago Trib.*, 14 Apr. 1996, at C6.
 
- - "John's widowed mother Hilda—daughter of the *diplomatist* \[read *diplomat*\] Sir Maurice de Bunsen—went on to marry Major General Sir Guy Salisbury-Jones, marshal of the diplomatic corps." "John Yerburgh" \(obit.\), *Daily Telegraph*, 9 July 2014, at 29.
+ - "John's widowed mother Hilda—daughter of the *diplomatist* \[read *diplomat*\] Sir Maurice de Bunsen—went on to marry Major General Sir Guy Salisbury-Jones, marshal of the diplomatic corps." "John Yerburgh" (obit.), *Daily Telegraph*, 9 July 2014, at 29.
 
- - Current ratio in print \(*diplomat* vs. \**diplomatist*\): 10:1
+ - Current ratio in print (*diplomat* vs. \**diplomatist*): 10:1
 

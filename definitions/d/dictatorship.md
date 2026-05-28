@@ -1,4 +1,4 @@
 # dictatorship
 
-dictatorship. See **government \(b\)**.
+dictatorship. See **government (b)**.
 

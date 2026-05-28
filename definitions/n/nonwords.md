@@ -4,37 +4,37 @@ Nonwords. H.W. Fowler's formidable American precursor, Richard Grant White, wrot
 
 \[A\]s there are books that are not books, so there are words that are not words. Most of them are usurpers, interlopers, or vulgar pretenders; some are deformed creatures, with only half a life in them; but some of them are legitimate enough in their pretensions, although oppressive, intolerable, useless. Words that are not words sometimes die spontaneously; but many linger, living a precarious life on the outskirts of society, uncertain of their position, and cause great discomfort to all right-thinking, straightforward people.
 
-*Words and Their Uses* 184 \(rev. ed. 1899\).
+*Words and Their Uses* 184 (rev. ed. 1899).
 
 White's polemical tone and hyperbole were characteristic and purposeful.
 
 Among the words that he labeled nonwords are three that might still be considered so: *\*enthused*, *\*experimentalize*, *\*preventative*. But with most of the others he mentioned, he proved anything but prophetic—they're now standard: *accountable*, *answerable*, *controversialist*, *conversationalist*, *donate*, *exponential*, *jeopardize*, *practitioner*, *presidential*, *reliable*, *tangential*. The lesson is that in any age, stigmatizing words is a tough business—no matter how good the arguments against them might be.
 
-This book contains entries on dozens of terms that might be considered nonwords by White's standards. Among the more prominent ones are the following \(each of which is treated separately in this book\). The date shows the year from which the term first appeared with appreciable frequency.
+This book contains entries on dozens of terms that might be considered nonwords by White's standards. Among the more prominent ones are the following (each of which is treated separately in this book). The date shows the year from which the term first appeared with appreciable frequency.
 
-\*affrontery \[1790\] \(see **effrontery \(b\)**)
+\*affrontery \[1790\] (see **effrontery (b)**)
 
-\*analyzation \[1761\] \(see **analysis**\)
+\*analyzation \[1761\] (see **analysis**)
 
-\*annoyment \[1881\] \(see **annoyance**\)
+\*annoyment \[1881\] (see **annoyance**)
 
-\*discomforture \[1790\] \(see **discomfit \(d\)**)
+\*discomforture \[1790\] (see **discomfit (d)**)
 
-\*dispersement \[1839\] \(see **disburse**\)
+\*dispersement \[1839\] (see **disburse**)
 
 \*doubtlessly \[1767\]
 
 \*fastly \[1695\]
 
-\*forebearance \[1782\] \(see **forbearance**\)
+\*forebearance \[1782\] (see **forbearance**)
 
 \*furtherest \[1802\]
 
-\*illy \[1845\] \(see **ill**\)
+\*illy \[1845\] (see **ill**)
 
 \*improprietous \[1938\]
 
-\*inclimate \[1939\] \(see **inclement**\)
+\*inclimate \[1939\] (see **inclement**)
 
 \*inexpense \[1953\]
 
@@ -56,9 +56,9 @@ This book contains entries on dozens of terms that might be considered nonwords 
 
 \*quelch \[1860\]
 
-\*seldomly \[1820\] \(see **seldom**\)
+\*seldomly \[1820\] (see **seldom**)
 
-\*thusly \[1859\] \(see **thus \(b\)**)
+\*thusly \[1859\] (see **thus (b)**)
 
 \*uncategorically \[1919\]
 

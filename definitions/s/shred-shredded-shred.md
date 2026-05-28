@@ -5,5 +5,5 @@ shred > shredded > shredded. So inflected. Some people erroneously believe that 
 ## Language-Change Index
 
  - *shred* misused for past-tense *shredded*: Stage 1
- - Current ratio in print \(*had shredded* vs. *\*had shred*\): 84:1
+ - Current ratio in print (*had shredded* vs. *\*had shred*): 84:1
 

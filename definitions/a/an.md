@@ -1,4 +1,4 @@
 # an
 
-an. See **a \(a\)**.
+an. See **a (a)**.
 

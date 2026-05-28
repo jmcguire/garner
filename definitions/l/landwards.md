@@ -1,4 +1,4 @@
-# landward\(s\)
+# landward(s)
 
-landward\(s\). See directional words \(a\).
+landward(s). See directional words (a).
 

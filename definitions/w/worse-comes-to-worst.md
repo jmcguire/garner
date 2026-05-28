@@ -1,6 +1,6 @@
 # worse comes to worst
 
-worse comes to worst; **worst comes to worst**. The traditional idiom, dating from the 1500s, is *worst comes to \(the\) worst* \(= \[if\] things turn out as badly as possible\). But the more modern and \(to modern ears\) more logical idiom, *worse comes to worst*—with its progression from comparative to superlative—became predominant in the 1970s and has remained so. Except in BrE where both forms are frequent, *worse comes to worst* now outnumbers the traditional phrase in print sources—e.g.:
+worse comes to worst; **worst comes to worst**. The traditional idiom, dating from the 1500s, is *worst comes to (the) worst* (= \[if\] things turn out as badly as possible). But the more modern and (to modern ears) more logical idiom, *worse comes to worst*—with its progression from comparative to superlative—became predominant in the 1970s and has remained so. Except in BrE where both forms are frequent, *worse comes to worst* now outnumbers the traditional phrase in print sources—e.g.:
 
  - "Why not just move . . . all the way? Another place where, if *worse comes to worst*, you can just blow up the bridge." Howie Carr, "Gang of Pirates Tries to Hack Through Cape," *Boston Herald*, 12 Aug. 1994, at 4.
 
@@ -12,5 +12,5 @@ Cf. \***least worst**.
 
 A related idiom, *from worse to worst*, likewise denotes even further deterioration in an already bad situation. You might use it if push comes to shove.
 
- - Current ratio in print \(*worse comes to worst* vs. *worst comes to worst* in World Englishes\): 1.1:1
+ - Current ratio in print (*worse comes to worst* vs. *worst comes to worst* in World Englishes): 1.1:1
 

@@ -2,7 +2,7 @@
 
 up to now is a comfortably idiomatic equivalent of *heretofore* and *hitherto*—e.g.:
 
- - "So why did Gaffney, *up to now* a staunch supporter of the deal and a close ally of the governor, create what is likely to be three months of political pandemonium?" Rick Brand, "Gaffney's Move Creates Fallout for Pataki," *Newsday* \(N.Y.\), 21 Aug. 1997, at A38.
+ - "So why did Gaffney, *up to now* a staunch supporter of the deal and a close ally of the governor, create what is likely to be three months of political pandemonium?" Rick Brand, "Gaffney's Move Creates Fallout for Pataki," *Newsday* (N.Y.), 21 Aug. 1997, at A38.
 
  - "*Up to now*, Alps printers have been somewhat pricey." Dan Littman, "Alps' Challenger to the Ink Jet," *PC World*, 1 Oct. 1997, at 108.
 

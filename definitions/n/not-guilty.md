@@ -10,7 +10,7 @@ The lesson is simply this: Before you dismiss others' workmanship, do understand
 
 Robert Sack, "Hearing Myself Think: Some Thoughts on Legal Prose,"
 
-4 *Scribes J. Legal Writing* 93, 98–99 \(1993\).
+4 *Scribes J. Legal Writing* 93, 98–99 (1993).
 
 Fair enough. But writers who do have enough time for careful proofreading shouldn't sacrifice accuracy in this way.
 
@@ -22,9 +22,9 @@ Strictly speaking, *not guilty* and *innocent* aren't quite synonymous. To be *i
 
 **B. *\*Not guilty beyond a reasonable doubt*.** This phrasing is ambiguous. The standard by which a jury decides criminal charges is this: a defendant is guilty only if the evidence shows, beyond a reasonable doubt, that he or she committed the crime. Otherwise, the defendant is not guilty. So we say that a defendant was not found *guilty beyond a reasonable doubt*.
 
-But it doesn't follow that we should also say that a defendant was found *\*not guilty beyond a reasonable doubt*. Is that *not guilty \(beyond a reasonable doubt\)* or *not guilty-beyond-a-reasonable-doubt*? The latter idea makes more sense—e.g.: "The question is whether a judge can reach a contrary conclusion on the second charge—deciding that though a defendant was *not guilty beyond a reasonable doubt*, he nonetheless probably committed the crime." "High Court's Highhanded Decision," *Chicago Trib.*, 26 Jan. 1997, at 20.
+But it doesn't follow that we should also say that a defendant was found *\*not guilty beyond a reasonable doubt*. Is that *not guilty (beyond a reasonable doubt)* or *not guilty-beyond-a-reasonable-doubt*? The latter idea makes more sense—e.g.: "The question is whether a judge can reach a contrary conclusion on the second charge—deciding that though a defendant was *not guilty beyond a reasonable doubt*, he nonetheless probably committed the crime." "High Court's Highhanded Decision," *Chicago Trib.*, 26 Jan. 1997, at 20.
 
-Yet many readers will misconstrue the phrase. Regardless of the writer's intention, some will think of *\*not guilty beyond a reasonable doubt* as a strong vindication—rather than as the slight vindication it is \(we, the jury, had the slightest bit of reasonable doubt, so we had to find the defendant not guilty\). The writer might have gotten it right in the following sentence, but nonlawyers are likely to be misled: "When you know all the facts \[of the O.J. Simpson case\], you'll see that the prosecutors failed to meet their burden of proof, and how, contrary to the court of public opinion, the jury arrived at their verdict of ‘not guilty beyond a reasonable doubt.' " Patricia A. Jones, "Uncensored: Authors Answer Questions Left with Simpson Verdict," *Tulsa World*, 1 Dec. 1996, at G5.
+Yet many readers will misconstrue the phrase. Regardless of the writer's intention, some will think of *\*not guilty beyond a reasonable doubt* as a strong vindication—rather than as the slight vindication it is (we, the jury, had the slightest bit of reasonable doubt, so we had to find the defendant not guilty). The writer might have gotten it right in the following sentence, but nonlawyers are likely to be misled: "When you know all the facts \[of the O.J. Simpson case\], you'll see that the prosecutors failed to meet their burden of proof, and how, contrary to the court of public opinion, the jury arrived at their verdict of ‘not guilty beyond a reasonable doubt.' " Patricia A. Jones, "Uncensored: Authors Answer Questions Left with Simpson Verdict," *Tulsa World*, 1 Dec. 1996, at G5.
 
-If somebody is found not guilty, say *not guilty*. Omit the standard \(*beyond a reasonable doubt*\) to prevent a miscue. There is no such finding as "innocent beyond a reasonable doubt."
+If somebody is found not guilty, say *not guilty*. Omit the standard (*beyond a reasonable doubt*) to prevent a miscue. There is no such finding as "innocent beyond a reasonable doubt."
 

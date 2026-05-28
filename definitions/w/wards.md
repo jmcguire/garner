@@ -1,4 +1,4 @@
-# -ward\(s\)
+# -ward(s)
 
- -ward\(s\) . See directional words \(a\) & **toward** **\(a\).**
+ -ward(s) . See directional words (a) & **toward** **(a).**
 

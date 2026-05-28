@@ -1,4 +1,4 @@
 # Solidus
 
-Solidus. See punctuation \(q\).
+Solidus. See punctuation (q).
 

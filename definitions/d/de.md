@@ -1,4 +1,4 @@
 # de
 
-de. See names \(d\).
+de. See names (d).
 

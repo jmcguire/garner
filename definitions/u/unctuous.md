@@ -5,5 +5,5 @@ unctuous /**әngk**-choo-әs/ is so spelled. *\*Unctious* /**әng**-shәs/ is a 
 ## Language-Change Index
 
  - *unctuous* misspelled *\*unctious*: Stage 1
- - Current ratio in print \(*unctuous* vs. \**unctious*\): 111:1
+ - Current ratio in print (*unctuous* vs. \**unctious*): 111:1
 

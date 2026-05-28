@@ -1,4 +1,4 @@
 # induce
 
-induce. See **deduce \(b\)**.
+induce. See **deduce (b)**.
 

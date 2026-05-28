@@ -1,6 +1,6 @@
-# epicenter \(AmE\)
+# epicenter (AmE)
 
-epicenter \(AmE\); **epicentre \(BrE\)**. This scientific term, first used in English in the early 1880s, literally means "the point on the surface of the earth just above the underground focal point of an earthquake." In retrospect, it seems almost inevitable that the word would take on metaphorical uses relating to points of upheaval or agitation. And so it did, beginning in the mid-20th century. There was an anomalous early appearance in 1908, but the metaphorical senses didn't really make a seismic difference until it became a vogue term in the late 20th century. At first, scientists objected. One of William Safire's correspondents, a geophysicist, attributed the extended sense to "spurious erudition on the part of writers combined with scientific illiteracy on the part of copy editors." \(As quoted in Safire, "On Language," *N.Y. Times*, 6 May 2001, § 6, at 22.\)
+epicenter (AmE); **epicentre (BrE)**. This scientific term, first used in English in the early 1880s, literally means "the point on the surface of the earth just above the underground focal point of an earthquake." In retrospect, it seems almost inevitable that the word would take on metaphorical uses relating to points of upheaval or agitation. And so it did, beginning in the mid-20th century. There was an anomalous early appearance in 1908, but the metaphorical senses didn't really make a seismic difference until it became a vogue term in the late 20th century. At first, scientists objected. One of William Safire's correspondents, a geophysicist, attributed the extended sense to "spurious erudition on the part of writers combined with scientific illiteracy on the part of copy editors." (As quoted in Safire, "On Language," *N.Y. Times*, 6 May 2001, § 6, at 22.)
 
 Objectors thought that *epicenter* was being misused for *center* <the epicenter of the skirmishing>. All the while, though, English speakers found the word useful. It did in fact fill a need: it carried connotations of turbulence missing from its unprefixed sibling. E.g.:
 
@@ -14,5 +14,5 @@ If the word ever seems wrong, that's probably because no strife or upheaval seem
 
 ## Language-Change Index
 
- - *epicenter* used in metaphorical senses to denote the center of devastation: Stage 5 2018 ratio in print \(*epicenter of the pandemic* vs. *center of the pandemic*\): 7:1
+ - *epicenter* used in metaphorical senses to denote the center of devastation: Stage 5 2018 ratio in print (*epicenter of the pandemic* vs. *center of the pandemic*): 7:1
 

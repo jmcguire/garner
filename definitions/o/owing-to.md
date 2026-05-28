@@ -1,6 +1,6 @@
 # owing to
 
-owing to \(= because of\) has been an acceptable dangling modifier since the 1700s. \(See danglers \(e\).) It is especially characteristic of BrE—e.g.: "Prolonged rain in the West Country has caused today's meeting at Newton Abbot to be abandoned *owing to* waterlogging." "Racing: Newton Abbot Off Due to Waterlogging," *Independent*, 2 Dec. 1997, at 29.
+owing to (= because of) has been an acceptable dangling modifier since the 1700s. (See danglers (e).) It is especially characteristic of BrE—e.g.: "Prolonged rain in the West Country has caused today's meeting at Newton Abbot to be abandoned *owing to* waterlogging." "Racing: Newton Abbot Off Due to Waterlogging," *Independent*, 2 Dec. 1997, at 29.
 
 Yet it occurs in AmE as well—e.g.:
 

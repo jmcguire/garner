@@ -1,4 +1,4 @@
 # everybody else's
 
-everybody else's. See **else's** & possessives \(i\).
+everybody else's. See **else's** & possessives (i).
 

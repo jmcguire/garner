@@ -5,5 +5,5 @@
 ## Language-Change Index
 
  - *\*various different* for *several different*: Stage 1
- - Current ratio in print \(*several different* vs. *\*various different*\): 10:1
+ - Current ratio in print (*several different* vs. *\*various different*): 10:1
 

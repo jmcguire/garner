@@ -2,9 +2,9 @@
 
 Third Person .
 
-**A. Generally.** See pronouns \(a\), tenses \(a\) & **person** (p. 1230\).
+**A. Generally.** See pronouns (a), tenses (a) & **person** (p. 1230).
 
-**B. In Archaisms \(*he goeth*, etc.\).** See archaisms \(b\).
+**B. In Archaisms (*he goeth*, etc.).** See archaisms (b).
 
 **C. With *shall* and *will*.** See **shall**.
 
@@ -16,9 +16,9 @@ Third Person .
 
 **G. *Should/would*.** See **should**.
 
-**H. Reference to Oneself in Third Person.** See **illeism** \(pp. 1215–16\).
+**H. Reference to Oneself in Third Person.** See **illeism** (pp. 1215–16).
 
-**I. Command Directed to a Third Person.** See **jussive** \(p. 1218\).
+**I. Command Directed to a Third Person.** See **jussive** (p. 1218).
 
-**J. Epicene Pronoun.** See **they \(a\)**.
+**J. Epicene Pronoun.** See **they (a)**.
 

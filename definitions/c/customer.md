@@ -1,4 +1,4 @@
 # customer
 
-customer. See **client \(a\)**.
+customer. See **client (a)**.
 

@@ -1,4 +1,4 @@
 # curio
 
-curio. Pl. *curios*. See plurals \(d\).
+curio. Pl. *curios*. See plurals (d).
 

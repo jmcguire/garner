@@ -1,4 +1,4 @@
 # noon
 
-noon. See **a.m. \(c\)**.
+noon. See **a.m. (c)**.
 

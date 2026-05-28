@@ -4,7 +4,7 @@ prenuptial; **antenuptial**. From 1800 to about 1993, *antenuptial* was the pred
 
 *Prenuptial* is pronounced /pree-**nәp**-shәl/ or /pree-**nәp**-chәl/. But some speakers wrongly add an extra syllable: /pree-**nәp**-chә-wәl/. This mispronunciation sometimes occurs with *nuptial* as well. See **nuptial**.
 
-Since the late 1980s, a *prenuptial agreement* has commonly if informally been called a *prenup*. See casualisms \(c\).
+Since the late 1980s, a *prenuptial agreement* has commonly if informally been called a *prenup*. See casualisms (c).
 
- - Current ratio in print \(*prenuptial* vs. *antenuptial*\): 6:1
+ - Current ratio in print (*prenuptial* vs. *antenuptial*): 6:1
 

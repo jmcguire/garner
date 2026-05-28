@@ -1,6 +1,6 @@
 # rap
 
-rap \(= a negative allegation or reputation\) typically appears in the phrase *bad rap* or *bum rap*. An Americanism in this sense, it's occasionally confused with the word *wrap* \(= a material for covering something\)—e.g.:
+rap (= a negative allegation or reputation) typically appears in the phrase *bad rap* or *bum rap*. An Americanism in this sense, it's occasionally confused with the word *wrap* (= a material for covering something)—e.g.:
 
  - "Aldermen Terry Cavanagh and Allan Bolstad feel their failing grades are a bum *wrap* \[read *rap*\]." Jim Farrell, "Phair Tops Council in Arts Body Rating," *Edmonton J.*, 17 Aug. 1995, at B3.
 
@@ -9,5 +9,5 @@ rap \(= a negative allegation or reputation\) typically appears in the phrase *b
 ## Language-Change Index
 
  - *\*bum wrap* for *bum rap*: Stage 1
- - Current ratio in print \(*bum rap* vs. *\*bum wrap*\): 36:1
+ - Current ratio in print (*bum rap* vs. *\*bum wrap*): 36:1
 

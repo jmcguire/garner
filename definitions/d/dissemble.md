@@ -2,11 +2,11 @@
 
 dissemble; **disassemble**. *Dissemble*, meaning "to present a false appearance; to conceal the truth," was a fairly common word until about 1900. It has since become rare, but it does still appear—e.g.:
 
- - "The boy answered \[my questions\] simply, directly and honestly, unlike most adults, who *dissemble*, ramble or tell you everything but the answer to the question." Judith S. Johnessee, "The Day a Boy Lost His Cat and Became a Man," *Plain Dealer* \(Cleveland\), 15 Dec. 1994, at E9.
+ - "The boy answered \[my questions\] simply, directly and honestly, unlike most adults, who *dissemble*, ramble or tell you everything but the answer to the question." Judith S. Johnessee, "The Day a Boy Lost His Cat and Became a Man," *Plain Dealer* (Cleveland), 15 Dec. 1994, at E9.
 
  - "The problem is that the Pentagon's credibility is shot. And as it has *dissembled*, it has only increased the confusion and suffering for those who fought the war." "As Vets Suffer, Pentagon Blows Gulf Investigation," *USA Today*, 13 Dec. 1996, at A14.
 
-By contrast, the word *disassemble* \(= to take apart\) didn't flourish until the mid-20th century. Yet it is now the more frequent word—e.g.:
+By contrast, the word *disassemble* (= to take apart) didn't flourish until the mid-20th century. Yet it is now the more frequent word—e.g.:
 
  - "The Edgewood trainees . . . \[learn\] along the way how to assemble, *disassemble* and repair \[the computers\]." Neal R. Peirce, "Cyberspace Experiments—in the 'Hood," *Baltimore Sun*, 24 July 1995, at A9.
 

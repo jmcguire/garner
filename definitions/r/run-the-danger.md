@@ -1,4 +1,4 @@
 # \*run the danger
 
-\*run the danger. See **danger \(b\)**.
+\*run the danger. See **danger (b)**.
 

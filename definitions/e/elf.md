@@ -1,4 +1,4 @@
 # elf
 
-elf. Pl. *elves*. See plurals \(c\).
+elf. Pl. *elves*. See plurals (c).
 

@@ -1,4 +1,4 @@
 # not in-
 
-not in-. See negatives \(b\).
+not in-. See negatives (b).
 

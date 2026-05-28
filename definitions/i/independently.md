@@ -1,6 +1,6 @@
-# independent\(ly\)
+# independent(ly)
 
-independent\(ly\).
+independent(ly).
 
 **A. Preposition with.** *Independent* should take the preposition *of*, not *from*—e.g.: "The International Criminal Court, which is *independent from* \[read *independent of*\] the United Nations, would have no mandate to try Mr. \[Charles G.\] Taylor." Lydia Polgreen & Marlise Simons, "Sierra Leone Asks to Move Liberian's Trial," *N.Y. Times*, 31 Mar. 2006, at A7.
 

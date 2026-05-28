@@ -7,5 +7,5 @@ The phrasal adjective *safe-deposit* always requires a hyphen in this term.
 ## Language-Change Index
 
  - *\*safety-deposit box* for *safe-deposit box*: Stage 2
- - Current ratio in print \(*safe-deposit box* vs. *\*safety-deposit box*\): 6:1
+ - Current ratio in print (*safe-deposit box* vs. *\*safety-deposit box*): 6:1
 

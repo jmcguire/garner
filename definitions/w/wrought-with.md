@@ -1,4 +1,4 @@
 # wrought with ——
 
-wrought with ——. See **fraught \(b\)**.
+wrought with ——. See **fraught (b)**.
 

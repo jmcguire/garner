@@ -1,4 +1,4 @@
 # resident
 
-resident. See **citizen \(a\)**.
+resident. See **citizen (a)**.
 

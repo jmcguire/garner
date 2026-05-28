@@ -1,6 +1,6 @@
 # plateful
 
-plateful. Pl. *platefuls*, not *\*platesful*. See plurals \(g\).
+plateful. Pl. *platefuls*, not *\*platesful*. See plurals (g).
 
- - Current ratio in print \(*platefuls* vs. *\*platesful*\): 72:1
+ - Current ratio in print (*platefuls* vs. *\*platesful*): 72:1
 

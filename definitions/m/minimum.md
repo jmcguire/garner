@@ -8,10 +8,10 @@ minimum, n. The predominant plural is *minima*, but few aside from scientists us
 
  - "Although credit card companies might scream loudest for their money, they can wait—although paying the *minimums* on the cards is far preferable to not paying at all." Gregory Karp, "How to Survive Job Loss," *Chicago Trib.*, 31 Aug. 2015, Bus. §, at 1.
 
-Cf. **maximum**. See plurals \(b\).
+Cf. **maximum**. See plurals (b).
 
 ## Language-Change Index
 
  - *minimums* as a plural: Stage 5
- - Current ratio in print \(*minima* vs. *minimums*\): 4:1
+ - Current ratio in print (*minima* vs. *minimums*): 4:1
 

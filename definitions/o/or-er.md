@@ -1,4 +1,4 @@
 # -or/-er
 
--or/-er. See -er \(a\).
+-or/-er. See -er (a).
 

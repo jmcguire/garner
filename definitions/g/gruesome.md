@@ -5,5 +5,5 @@ gruesome is so spelled—not *\*grewsome*. E.g.: "Hughes's innkeeper obligingly 
 ## Language-Change Index
 
  - *gruesome* misspelled *\*grewsome*: Stage 1
- - Current ratio in print \(*gruesome sight* vs. *\*grewsome sight*\): 26:1
+ - Current ratio in print (*gruesome sight* vs. *\*grewsome sight*): 26:1
 

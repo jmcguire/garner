@@ -9,8 +9,8 @@ unaware; **unawares**. Properly, *unaware* is the adjective <I am unaware of tha
 ## Language-Change Index
 
 1. *\*taken unaware* for *taken unawares*: Stage 2
- - Current ratio in print \(*taken unawares* vs. *\*taken unaware*\): 8:1
+ - Current ratio in print (*taken unawares* vs. *\*taken unaware*): 8:1
 
 2. *\*caught unaware* for *caught unawares*: Stage 4
- - Current ratio in print \(*caught unawares* vs. *\*caught unaware*\): 2.2:1
+ - Current ratio in print (*caught unawares* vs. *\*caught unaware*): 2.2:1
 

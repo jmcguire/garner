@@ -6,7 +6,7 @@ as well as or better than; \***as well or better than**. Some writers—a slight
 
  - "The second worry is whether Tennes can do *as well or better than* \[read *as well as or better than*\] the model." Robert Barker, "A New Fund Rides the Big Mo," *BusinessWeek*, 1 July 2002, at 134.
 
-Cf. **as good as or better than** & **as much as or more than**. See cannibalism & illogic \(b\).
+Cf. **as good as or better than** & **as much as or more than**. See cannibalism & illogic (b).
 
 ## Language-Change Index
 

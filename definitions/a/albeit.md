@@ -1,6 +1,6 @@
 # albeit
 
-albeit. Though Eric Partridge pronounced this conjunction an archaism (*U&A* at 41\), it thrives in written AmE. Labeled "literary" in the *COD*, the word *albeit* means "though." The predominant modern use for *albeit* is to introduce concessive phrases—e.g.:
+albeit. Though Eric Partridge pronounced this conjunction an archaism (*U&A* at 41), it thrives in written AmE. Labeled "literary" in the *COD*, the word *albeit* means "though." The predominant modern use for *albeit* is to introduce concessive phrases—e.g.:
 
  - "How did one of the most respected engineering schools in the country, *albeit* the smallest, reach such a low point?" Gord Henderson & Ted Shaw, "Controversy Turns Dreams to Turmoil," *Windsor Star*, 26 Oct. 1996, at A1.
 

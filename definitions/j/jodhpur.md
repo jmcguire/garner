@@ -1,6 +1,6 @@
 # jodhpur
 
-jodhpur /**jod**-pәr/ is an eponym for the city of Jodhpur, India. The word \(almost invariably used in the plural\) refers to a type of flared-at-the-thigh pants used in English horse-riding. Through a kind of visual metathesis, the word is often mispronounced /**jod**-fәr/. And believe it or not, this error became pervasive in the horse-riding industry in the mid-20th century.
+jodhpur /**jod**-pәr/ is an eponym for the city of Jodhpur, India. The word (almost invariably used in the plural) refers to a type of flared-at-the-thigh pants used in English horse-riding. Through a kind of visual metathesis, the word is often mispronounced /**jod**-fәr/. And believe it or not, this error became pervasive in the horse-riding industry in the mid-20th century.
 
 The mispronunciation sometimes results in the obvious misspelling—e.g.: "Wealthy suburbanites clad in fancy *jodphurs* \[read *jodhpurs*\] and riding boots will replace overall-clad cowboys like Mizer." Meghan Meyer, "Old Feed Store Fading into the Sunset," *Palm Beach Post*, 14 July 2002, at B1.
 
@@ -11,5 +11,5 @@ How did Jodhpur, a town in central India, come to be famously associated with ri
 ## Language-Change Index
 
  - *jodhpur* misspelled and mispronounced *\*jodphur*: Stage 2
- - Current ratio in print \(*jodhpurs* vs. *\*jodphurs*\): 62:1
+ - Current ratio in print (*jodhpurs* vs. *\*jodphurs*): 62:1
 

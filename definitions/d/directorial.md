@@ -1,6 +1,6 @@
 # directorial
 
-directorial \(in five syllables\), not *\*directoral*, is the adjective corresponding to *director*—e.g.:
+directorial (in five syllables), not *\*directoral*, is the adjective corresponding to *director*—e.g.:
 
  - "Mr. Wuhl makes his *directoral* \[read *directorial*\] debut in the film, which opens on Friday." Michaelin McDermott, "Channel Surfing," *N.Y. Times*, 5 May 1996, § 2, at 26.
 
@@ -11,5 +11,5 @@ directorial \(in five syllables\), not *\*directoral*, is the adjective correspo
 ## Language-Change Index
 
  - *\*directoral* for *directorial*: Stage 1
- - Current ratio in print \(*directorial* vs. *\*directoral*\): 55:1
+ - Current ratio in print (*directorial* vs. *\*directoral*): 55:1
 

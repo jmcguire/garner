@@ -1,4 +1,4 @@
-# wove\(n\)
+# wove(n)
 
-wove\(n\). See **weave**.
+wove(n). See **weave**.
 

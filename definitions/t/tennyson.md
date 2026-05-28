@@ -1,6 +1,6 @@
 # Tennyson
 
-Tennyson. The formal name of the 19th-century poet laureate is Alfred, Lord Tennyson. But writers often mistakenly write *\*Lord Alfred Tennyson* \(and have done so since the late 1800s\)—e.g.:
+Tennyson. The formal name of the 19th-century poet laureate is Alfred, Lord Tennyson. But writers often mistakenly write *\*Lord Alfred Tennyson* (and have done so since the late 1800s)—e.g.:
 
  - "Harrogate had become the culture capital of Northern England, attracting such celebrities as Charles Dickens, *Lord Alfred Tennyson* \[read *Alfred, Lord Tennyson*\], George Bernard Shaw and Sir Edward Elgar, as well as most of Europe's royalty." David Yeadon, "Hear, Hear, Harrogate\!," *Wash. Post*, 16 July 1995, at E1.
 

@@ -1,4 +1,4 @@
 # parasol
 
-parasol. So spelled. See spelling \(a\).
+parasol. So spelled. See spelling (a).
 

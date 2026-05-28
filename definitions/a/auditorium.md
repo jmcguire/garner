@@ -1,6 +1,6 @@
 # auditorium
 
-auditorium. Pl. *auditoriums*—preferably not *\*auditoria*. See plurals \(b\).
+auditorium. Pl. *auditoriums*—preferably not *\*auditoria*. See plurals (b).
 
- - Current ratio in print \(*auditoriums* vs. \**auditoria*\): 3:1
+ - Current ratio in print (*auditoriums* vs. \**auditoria*): 3:1
 

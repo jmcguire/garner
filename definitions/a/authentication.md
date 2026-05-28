@@ -6,10 +6,10 @@ authentication, so spelled, is occasionally misrendered *\*authentification*. Tr
 
  - "Open Market software allows businesses to process Internet orders made with credit cards, conduct on-line customer service, order management, *authentification* \[read *authentication*\] and record keeping." Jon Auerbach, "Open Market Reportedly Wins Pack with AT&T," *Boston Globe*, 5 Oct. 1996, at F1.
 
- - "When it comes to *authentification* \[read *authentication*\] of a high-five, there are two frequently cited sources." Jeff Strickler, "Give Her a Hand," *Star Trib.* \(Minneapolis\), 21 Apr. 2015, at E1.
+ - "When it comes to *authentification* \[read *authentication*\] of a high-five, there are two frequently cited sources." Jeff Strickler, "Give Her a Hand," *Star Trib.* (Minneapolis), 21 Apr. 2015, at E1.
 
 ## Language-Change Index
 
  - *\*authentification* for *authentication*: Stage 1
- - Current ratio in print \(*authentication* vs. \**authentification*\): 422:1
+ - Current ratio in print (*authentication* vs. \**authentification*): 422:1
 

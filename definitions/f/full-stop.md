@@ -1,4 +1,4 @@
 # Full Stop
 
-Full Stop. See punctuation \(l\).
+Full Stop. See punctuation (l).
 

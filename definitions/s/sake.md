@@ -1,4 +1,4 @@
 # sake
 
-sake. See possessives \(n\).
+sake. See possessives (n).
 

@@ -6,5 +6,5 @@ most —in the sense "quite, very"—is an established casualism. Today it is st
 
  - "The shredded lamb, encased in a flaky crust, was seasoned deliciously and was *most* enjoyable." Pat Bruno, "A Field Day," *Chicago Sun-Times*, 21 Nov. 1997, at 32.
 
-See **very \(a\)**. See also comparatives and superlatives & **all \(c\)**.
+See **very (a)**. See also comparatives and superlatives & **all (c)**.
 

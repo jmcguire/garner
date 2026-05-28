@@ -1,4 +1,4 @@
 # Parentheses
 
-Parentheses. See **parenthesis** & punctuation \(k\).
+Parentheses. See **parenthesis** & punctuation (k).
 

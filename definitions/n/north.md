@@ -1,4 +1,4 @@
 # north
 
-north; **northward\(s\)**; **northerly**. See directional words.
+north; **northward(s)**; **northerly**. See directional words.
 

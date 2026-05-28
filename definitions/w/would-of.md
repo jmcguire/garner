@@ -1,4 +1,4 @@
 # \*would of
 
-\*would of. See **of \(d\)**.
+\*would of. See **of (d)**.
 

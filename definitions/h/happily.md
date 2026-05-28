@@ -6,5 +6,5 @@ happily means "fortunately," not "in a happy manner," when used as here:
 
  - "*Happily*, some things never change." Craig Smith, "Music Hall Madness Will Reign Again," *Santa Fe New Mexican*, 30 Nov. 1996, Feliz Navidad §, at 10.
 
-See adverbs \(f\). Cf. **hopefully**.
+See adverbs (f). Cf. **hopefully**.
 

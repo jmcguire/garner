@@ -1,6 +1,6 @@
 # verbal
 
-verbal; **oral**. *Verbal* = \(1\) of, relating to, or expressed in words, whether written or oral; or \(2\) of, relating to, or expressed through the spoken word. *Oral* = \(1\) of, relating to, or involving the mouth; or \(2\) of, relating to, or expressed through the spoken word.
+verbal; **oral**. *Verbal* = (1) of, relating to, or expressed in words, whether written or oral; or (2) of, relating to, or expressed through the spoken word. *Oral* = (1) of, relating to, or involving the mouth; or (2) of, relating to, or expressed through the spoken word.
 
 Many regard sense 2 as the exclusive province of *oral*, preferring that *verbal* not be used in this way. It's a matter, they might say, of slipshod extension. In fact, given the primary sense of *verbal*, the movie producer Samuel Goldwyn wasn't really very ironic when he remarked, "A *verbal* contract isn't worth the paper it's written on." After all, a written contract *is* verbal. The phrase requires *oral*.
 

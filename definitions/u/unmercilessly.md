@@ -17,5 +17,5 @@ Though it is a syllable longer than *mercilessly*, *unmercifully* also sufficesâ
 ## Language-Change Index
 
  - *\*unmercilessly* for *mercilessly*: Stage 1
- - Current ratio in print \(*mercilessly* vs. *\*unmercilessly*\): 1,396:1
+ - Current ratio in print (*mercilessly* vs. *\*unmercilessly*): 1,396:1
 

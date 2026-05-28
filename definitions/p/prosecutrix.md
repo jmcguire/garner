@@ -1,4 +1,4 @@
 # prosecutrix
 
-prosecutrix. See sexism \(d\).
+prosecutrix. See sexism (d).
 

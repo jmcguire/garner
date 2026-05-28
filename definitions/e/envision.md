@@ -6,14 +6,14 @@ Both words mean "to visualize," but there is perhaps an incipient differentiatio
 
 In fact, though, American speakers and writers tend to use *envision* in both ways, to the exclusion of *envisage*—e.g.:
 
- - "Wilk said she could even *envision* someone turning the house into a bed-and-breakfast with a horror theme." "Killer Deal: ‘The Silence of the Lambs' House Up for Sale," *Daily Telegram* \(Adrian, Mich.\), 20 Aug. 2015, at B5.
+ - "Wilk said she could even *envision* someone turning the house into a bed-and-breakfast with a horror theme." "Killer Deal: ‘The Silence of the Lambs' House Up for Sale," *Daily Telegram* (Adrian, Mich.), 20 Aug. 2015, at B5.
 
  - "Champions of the coming age of autonomous vehicles *envision* a time when car accidents do indeed become a regrettable horror of the past, in the same league as smallpox and bloodletting." Kristine Owram, "What Will Insurers Do Without Drivers?," *Edmonton J.*, 22 Aug. 2015, at C8.
 
- - "National Public Radio editorial director Nancy Barnes . . . said she *envisioned* adding more than one thousand local-news jobs, maybe double that." Margaret Sullivan, *Ghosting the News* 46 \(2020\).
+ - "National Public Radio editorial director Nancy Barnes . . . said she *envisioned* adding more than one thousand local-news jobs, maybe double that." Margaret Sullivan, *Ghosting the News* 46 (2020).
 
 Still, *envisage* is hardly unknown in AmE—e.g.: "President Clinton's advisers . . . earnestly hope that the fragile arrangement *envisaged* in the Dayton peace plan will somehow hang together." Mike O'Connor, "Stray Cable from Bosnia Creates Stir in Capital," *N.Y. Times*, 10 Oct. 1996, at 29.
 
- - Current ratio in print \(*envision* vs. *envisage* in AmE\): 5:1
- - Current ratio in print \(*envisage* vs. *envision* in BrE\): 1.2:1
+ - Current ratio in print (*envision* vs. *envisage* in AmE): 5:1
+ - Current ratio in print (*envisage* vs. *envision* in BrE): 1.2:1
 

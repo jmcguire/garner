@@ -5,5 +5,5 @@
 ## Language-Change Index
 
  - *\*proprietous* for *proper*: Stage 1
- - Current ratio in print \(*proper* vs. *\*proprietous*\): 96,302:1
+ - Current ratio in print (*proper* vs. *\*proprietous*): 96,302:1
 

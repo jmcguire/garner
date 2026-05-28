@@ -5,5 +5,5 @@ inundate. So spelled, though it is often misspelled *\*innundate*—e.g.: "The w
 ## Language-Change Index
 
  - *inundate* misspelled *\*innundate*: Stage 1
- - Current ratio in print \(*inundated* vs. *\*innundated*\): 1,233:1
+ - Current ratio in print (*inundated* vs. *\*innundated*): 1,233:1
 

@@ -1,4 +1,4 @@
 # Em-Dashes
 
-Em-Dashes. See punctuation \(g\).
+Em-Dashes. See punctuation (g).
 

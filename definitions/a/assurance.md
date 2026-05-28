@@ -1,4 +1,4 @@
 # assurance
 
-assurance. See **insurance \(a\)**.
+assurance. See **insurance (a)**.
 

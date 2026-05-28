@@ -6,7 +6,7 @@ tuna fish. Strictly speaking, *tuna fish* is redundant because *tuna* is invaria
 
  - "Although grammatically correct, *tuna fish* is redundant. You wouldn't say trout fish, salmon fish or perch fish." Marlene Parrish, "Kick the Can," *Pitt. Post-Gaz.*, 16 Apr. 1995, at J9.
 
- - "*Tuna fish* is redundant. It's tuna." Clint O'Connor, "Retired Printer Promotes Proper Use of Words," *Plain Dealer* \(Cleveland\), 3 Dec. 1996, at E9.
+ - "*Tuna fish* is redundant. It's tuna." Clint O'Connor, "Retired Printer Promotes Proper Use of Words," *Plain Dealer* (Cleveland), 3 Dec. 1996, at E9.
 
-In fact, though, the phrase \(dating from the early 20th century\) denotes a useful nuance: *tuna fish* is the type of processed, canned fish that is commonly served in sandwiches, whereas *tuna* typically refers to fresher types such as those found in seafood restaurants and sushi bars. Cf. **apple cider**.
+In fact, though, the phrase (dating from the early 20th century) denotes a useful nuance: *tuna fish* is the type of processed, canned fish that is commonly served in sandwiches, whereas *tuna* typically refers to fresher types such as those found in seafood restaurants and sushi bars. Cf. **apple cider**.
 

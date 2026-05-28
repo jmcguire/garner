@@ -1,4 +1,4 @@
 # Breton
 
-Breton. See **Briton \(b\)**.
+Breton. See **Briton (b)**.
 

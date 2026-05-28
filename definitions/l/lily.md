@@ -1,4 +1,4 @@
 # -lily
 
--lily. See adverbs \(c\).
+-lily. See adverbs (c).
 

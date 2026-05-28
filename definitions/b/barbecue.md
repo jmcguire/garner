@@ -4,5 +4,5 @@ barbecue; \***barbeque**; **\*bar-b-cue**; **\*bar-b-que**; **\*BBQ**. The first
 
 ## Language-Change Index
 
- - Current ratio in print \(*barbecue* vs. all six variants combined\): 2.3:1
+ - Current ratio in print (*barbecue* vs. all six variants combined): 2.3:1
 

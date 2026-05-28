@@ -1,4 +1,4 @@
-# awake\(n\)
+# awake(n)
 
-awake\(n\). See **wake**.
+awake(n). See **wake**.
 

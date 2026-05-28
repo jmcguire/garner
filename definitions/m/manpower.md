@@ -1,4 +1,4 @@
 # manpower
 
-manpower. See sexism \(c\).
+manpower. See sexism (c).
 

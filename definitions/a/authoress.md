@@ -1,4 +1,4 @@
 # authoress
 
-authoress. See sexism \(d\).
+authoress. See sexism (d).
 

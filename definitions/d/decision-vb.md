@@ -2,9 +2,9 @@
 
 decision, vb.
 
-**A. In Combat Sports.** The *OED* records this verb as a boxing term from 1914, noting that it can be used also in other combat sports to mean "to beat \(an opponent\) by a decision." *RH2*'s definition is somewhat more explicit: "to win a victory over \(one's opponent\) by a point score rather than a knockout." The word gained prominence in the latter half of the 20th century. Sportswriters are much enamored of the word—e.g.:
+**A. In Combat Sports.** The *OED* records this verb as a boxing term from 1914, noting that it can be used also in other combat sports to mean "to beat (an opponent) by a decision." *RH2*'s definition is somewhat more explicit: "to win a victory over (one's opponent) by a point score rather than a knockout." The word gained prominence in the latter half of the 20th century. Sportswriters are much enamored of the word—e.g.:
 
- - "David Diaz \(139\) became an Olympian by *decisioning* Zabdiel Judah." Michael Holley, "Mesi Win a Stunner: Hartford's Clay-Bey Upset at US Boxoffs," *Boston Globe*, 20 Apr. 1996, at 82.
+ - "David Diaz (139) became an Olympian by *decisioning* Zabdiel Judah." Michael Holley, "Mesi Win a Stunner: Hartford's Clay-Bey Upset at US Boxoffs," *Boston Globe*, 20 Apr. 1996, at 82.
 
  - "Hector Camacho looked so bad in *decisioning* Arturo Nina the other night, it makes it a lock that Sugar Ray Leonard will come back." Barry Horn, "From Overstated Media Guides to Overweight Boxers," *Dallas Morning News*, 24 Aug. 1996, at B2.
 
@@ -16,7 +16,7 @@ Sports usage becomes questionable when writers use *decision* as a mere synonym 
 
  - Baseball: "Houston completed one of the best first months in its 27-year major-league baseball history, *decisioning* \[read *defeating*\] Montreal at the Astrodome." "Road Trip, Injuries Take Their Toll in Losses," *Houston Chron.*, 8 May 1988, Sports §, at 6.
 
- - Tennis: "Ali Rapps and Annie Turpin of Geneseo *decisioned* \[read *defeated*\] Goffrier and Gustaitis 6–0, 6–1." Mindy Carls, "Boilermakers Take Game to Sectionals," *Star-Courier* \(Kewanee, Ill.\), 20 Oct. 2021, at B1.
+ - Tennis: "Ali Rapps and Annie Turpin of Geneseo *decisioned* \[read *defeated*\] Goffrier and Gustaitis 6–0, 6–1." Mindy Carls, "Boilermakers Take Game to Sectionals," *Star-Courier* (Kewanee, Ill.), 20 Oct. 2021, at B1.
 
 **B. In Banking.** In banking, *decisioning* is the term for a lender's deciding whether to extend credits or grants. Although most dictionaries don't record this sense, it's well established—e.g.:
 

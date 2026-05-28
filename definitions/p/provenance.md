@@ -2,11 +2,11 @@
 
 provenance.
 
-**A. And *provenience*.** Both are formal words for *origin* or *source*. *Provenance* \(/**prov**-ә-nints/ or /-nәnts/\) is the more usual word throughout the English-speaking world, usually in reference to art, antiques, artifacts, and other fields in which proof of authenticity is an issue. \(Pronouncing it as a gallicism, with a nasally stressed ending, can justifiably be called pretentious.\) *Provenience* /prә-**vee**-nyәn\[t\]s/ is a chiefly AmE variant \(rarely used\).
+**A. And *provenience*.** Both are formal words for *origin* or *source*. *Provenance* (/**prov**-ә-nints/ or /-nәnts/) is the more usual word throughout the English-speaking world, usually in reference to art, antiques, artifacts, and other fields in which proof of authenticity is an issue. (Pronouncing it as a gallicism, with a nasally stressed ending, can justifiably be called pretentious.) *Provenience* /prә-**vee**-nyәn\[t\]s/ is a chiefly AmE variant (rarely used).
 
- - Current ratio in print \(*provenance* vs. *provenience*\): 30:1
+ - Current ratio in print (*provenance* vs. *provenience*): 30:1
 
-**B. Misused for *province*.** *Provenance* is sometimes misused for *province* \(= domain\), a malapropism—e.g.:
+**B. Misused for *province*.** *Provenance* is sometimes misused for *province* (= domain), a malapropism—e.g.:
 
  - "Where ‘The Full Monty' makes something akin to a political gesture is in drawing attention to the nude male body, a subject more typically the *provenance* \[read *province*\] of avant-garde artists and photographers than of big Broadway musicals." Reed Johnson, "Bare Truths of Character," *L.A. Times*, 21 Apr. 2002, § 6, at 8.
 
@@ -17,5 +17,5 @@ provenance.
 ## Language-Change Index
 
  - *provenance* misused for *province*: Stage 1
- - Current ratio in print \(*within the province* *of* vs. \**within the provenance of *\): 72:1
+ - Current ratio in print (*within the province* *of* vs. \**within the provenance of *): 72:1
 

@@ -1,4 +1,4 @@
 # mankilling
 
-mankilling. See **murder \(a\)**.
+mankilling. See **murder (a)**.
 

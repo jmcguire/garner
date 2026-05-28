@@ -10,11 +10,11 @@ Some writers incorrectly understand the past-tense *hove* as a special present-t
 
  - "But along with empathy there is wry humour too, particularly when England's cricket supremo, Ray Illingworth, *hoves* \[read *heaves*\] into view." Harry Pearson, "All Over Bar the Shouting," *Independent*, 9 Nov. 1996, Books §, at 8.
 
- - "Not long after, the O2 Arena—completing the trinity of London's major tennis venues—*hoves* \[read *heaves*\] into view." Andy Murray & Mike Dickson, "I've Got to Make the Most of This Because It Won't Last Forever," *Daily Mail* \(U.K.\), 27 June 2015, at 108.
+ - "Not long after, the O2 Arena—completing the trinity of London's major tennis venues—*hoves* \[read *heaves*\] into view." Andy Murray & Mike Dickson, "I've Got to Make the Most of This Because It Won't Last Forever," *Daily Mail* (U.K.), 27 June 2015, at 108.
 
 ## Language-Change Index
 
  - *hove* misused for present-tense *heave*: Stage 1
- - Current ratio in print \(*heaves* vs. *hoves*\): 110:1
- - Current ratio in print \(*hove into view* vs. \**heaved into view*\): 23:1
+ - Current ratio in print (*heaves* vs. *hoves*): 110:1
+ - Current ratio in print (*hove into view* vs. \**heaved into view*): 23:1
 

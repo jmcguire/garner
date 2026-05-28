@@ -6,7 +6,7 @@ Everglades, a place name thought to have been coined in 1823 from *glyde* or *gl
 
  - "The *Everglades is* a great place for canoeists and kayakers." Mark Chapman, "Beauty and the Beasts," *Boston Herald*, 21 Feb. 2002, at 44.
 
- - "The historic *Everglades is* a 16-county region." Chad Gillis, "Urea Caused Bloom Conditions," *Banner* \(Bonita Springs, Fla.\), 3 July 2021, at A4.
+ - "The historic *Everglades is* a 16-county region." Chad Gillis, "Urea Caused Bloom Conditions," *Banner* (Bonita Springs, Fla.), 3 July 2021, at A4.
 
 But some writers ill-advisedly make it plural—e.g.:
 
@@ -21,5 +21,5 @@ Likewise, the city of Port Everglades takes a singular verb—e.g.: "Port Evergl
 ## Language-Change Index
 
  - *\*Everglades are* for *Everglades is*: Stage 3
- - Current ratio in print \(*The Everglades is* vs. *\*The Everglades are*\): 1.9:1
+ - Current ratio in print (*The Everglades is* vs. *\*The Everglades are*): 1.9:1
 

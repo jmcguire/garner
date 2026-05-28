@@ -1,6 +1,6 @@
 # root around
 
-root around \(= to poke about\) is preferably so spelled—not *\*rout around* or *route around*. But the illogical slips are fairly common—e.g.:
+root around (= to poke about) is preferably so spelled—not *\*rout around* or *route around*. But the illogical slips are fairly common—e.g.:
 
  - "Maybe he should *rout* \[read *root*\] around in the attic for that pirate flag." "The Fall of an American Icon," *BusinessWeek*, 5 Feb. 1996, at 34.
 
@@ -11,5 +11,5 @@ To *route around* is to establish a route that bypasses something—e.g.: "Meanw
 ## Language-Change Index
 
  - *root around* misspelled *\*rout around* or *\*route around*: Stage 1
- - Current ratio in print \(*root around* vs. *\*rout around*\): 122:1
+ - Current ratio in print (*root around* vs. *\*rout around*): 122:1
 

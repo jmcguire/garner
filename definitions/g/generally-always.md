@@ -6,7 +6,7 @@
 
  - "We *generally always* \[read *generally*\] know who is in the running for the largest companies." Matt Krantz, "Federal Signal Puts Being Tops at Top of List," *Investor's Bus. Daily*, 10 Dec. 1996, at A4.
 
- - "It's always something. And it's *usually always* \[read *usually*\] something silly." C. Jemal Horton, "*Thomas'* \[read *Thomas's*\] Coaching Is Reason Pacers Are Talk of the League," *Indianapolis Star*, 29 Nov. 2002, at C3. \(For more about forming the possessive of *Thomas*, see possessives \(a\).)
+ - "It's always something. And it's *usually always* \[read *usually*\] something silly." C. Jemal Horton, "*Thomas'* \[read *Thomas's*\] Coaching Is Reason Pacers Are Talk of the League," *Indianapolis Star*, 29 Nov. 2002, at C3. (For more about forming the possessive of *Thomas*, see possessives (a).)
 
 ## Language-Change Index
 

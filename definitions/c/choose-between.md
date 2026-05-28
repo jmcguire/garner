@@ -1,4 +1,4 @@
 # choose between
 
-choose between. See **between \(d\)**.
+choose between. See **between (d)**.
 

@@ -1,6 +1,6 @@
 # marshal
 
-marshal, v.t. \(= to arrange in order\), makes the past-tense and participial forms *marshaled* and *marshaling* in AmE, *marshalled* and *marshalling* in BrE. \(See spelling \(c\).) But misspellings with the doubled *l* frequently occur in AmE—e.g.: "The picture did feature an intelligently *marshalled* \[read *marshaled*\] series of '50s, '60s and '70s decor." Henry Sheehan, "The ‘Other' Awards," *Orange County Register*, 26 Mar. 1995, at F14.
+marshal, v.t. (= to arrange in order), makes the past-tense and participial forms *marshaled* and *marshaling* in AmE, *marshalled* and *marshalling* in BrE. (See spelling (c).) But misspellings with the doubled *l* frequently occur in AmE—e.g.: "The picture did feature an intelligently *marshalled* \[read *marshaled*\] series of '50s, '60s and '70s decor." Henry Sheehan, "The ‘Other' Awards," *Orange County Register*, 26 Mar. 1995, at F14.
 
 Although the inflected form is *marshalled* in BrE, the uninflected form is still *marshal*, as in AmE. But like the noun, the verb *marshal* is often misspelled *\*marshall*—e.g.:
 

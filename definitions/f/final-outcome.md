@@ -16,7 +16,7 @@ Like its cousins, *final upshot* is a minor redundancy, since the word *upshot* 
 
 1. *final outcome* for *outcome*: Stage 2
 
-2. *final results* for *results* \(when not contrasted with preliminary results\): Stage 2
+2. *final results* for *results* (when not contrasted with preliminary results): Stage 2
 
 3. *final upshot* for *upshot*: Stage 1
 

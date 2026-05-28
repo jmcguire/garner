@@ -1,6 +1,6 @@
 # athlete
 
-athlete has two syllables /**ath**-leet/, not three /**ath**-ә-leet/. See pronunciation \(b\). Cf. -athlon.
+athlete has two syllables /**ath**-leet/, not three /**ath**-ә-leet/. See pronunciation (b). Cf. -athlon.
 
 ## Language-Change Index
 

@@ -1,6 +1,6 @@
-# better than any \(other\)
+# better than any (other)
 
-better than any \(other\). Ordinarily, *better than any other* is more logical than *better than any*, because the thing being proclaimed best is also one of the things being considered—e.g.: "Hooley, 63, knows this landscape and its residents *better than any other* elected official." Editorial, "Return Hooley to Congress," *Oregonian* \(Portland\), 4 Oct. 2002, at C6.
+better than any (other). Ordinarily, *better than any other* is more logical than *better than any*, because the thing being proclaimed best is also one of the things being considered—e.g.: "Hooley, 63, knows this landscape and its residents *better than any other* elected official." Editorial, "Return Hooley to Congress," *Oregonian* (Portland), 4 Oct. 2002, at C6.
 
 Writers who omit the word *other* fall into logical lapses—e.g.:
 
@@ -10,11 +10,11 @@ Writers who omit the word *other* fall into logical lapses—e.g.:
 
  - "Fitzgerald's defense played freer and faster, tackling *better than any* \[read *better than any other*\] Northwestern team in memory." David Haugh, "School's in Session for Turner," *Chicago Trib.*, 8 Sept. 2015, Sports §, at 1.
 
-Cf. **best of all** & illogic \(b\).
+Cf. **best of all** & illogic (b).
 
 Sometimes, though, the thing being touted is excepted, and then the *other* becomes unnecessary. For example, two different types of things are often compared, such as the two sexes in the first example or German versus British products in the second:
 
- - "Her jump was not only tops for her division, but it was also *better than any* boy's jump in the same division." Joni Averill, "Capehart Is Part of New Generation," *Bangor Daily News*, 18 Aug. 1994, at PDA. \(On the lack of parallelism in that sentence, see **not only . . . but also**.\)
+ - "Her jump was not only tops for her division, but it was also *better than any* boy's jump in the same division." Joni Averill, "Capehart Is Part of New Generation," *Bangor Daily News*, 18 Aug. 1994, at PDA. (On the lack of parallelism in that sentence, see **not only . . . but also**.)
 
  - "Marks & Spencer confirmed last night that it sells only German fishfingers, claiming the quality is *better than any* British product." Justin Dunn, "Germans Scupper Captain Birds Eye," *Daily Mirror*, 18 Aug. 1994, at 1.
 

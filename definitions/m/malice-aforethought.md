@@ -4,5 +4,5 @@ malice aforethought. This phrase, denoting evil intent or extreme recklessness i
 
 Because *aforethought* is such an unusual word—almost never appearing outside the phrase *malice aforethought*—some writers have erred with it. Since the mid-1800s, writers have occasionally written \**malice and forethought* or \**malice of forethought*. These are essentially mondegreens.
 
- - Current ratio in print \(*malice aforethought* vs. \**malice and forethought* vs. \**malice of forethought*\): 79:1:1
+ - Current ratio in print (*malice aforethought* vs. \**malice and forethought* vs. \**malice of forethought*): 79:1:1
 

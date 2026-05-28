@@ -1,4 +1,4 @@
 # -ing Words
 
--ing Words. See gerunds, fused participles & danglers \(b\), \(d\).
+-ing Words. See gerunds, fused participles & danglers (b), (d).
 

@@ -1,4 +1,4 @@
 # False Comparison
 
-False Comparison. See illogic \(b\).
+False Comparison. See illogic (b).
 

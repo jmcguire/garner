@@ -8,5 +8,5 @@ consider, when used alone, most often means "to think of as being" <she consider
 
  - "The drug Depo Provera inhibits the sex drive and has been *considered as* \[read *considered*\] a kind of ‘chemical castration' for chronic offenders." M.W. Guzy, "Can We Isolate Sexual Predators?," *St. Louis Post-Dispatch*, 27 Mar. 1998, at B7.
 
- - "The coronavirus pandemic made it impossible to hold elections, as gathering to cast a vote was *considered as* \[read *considered*\] a risk to spreading the infection." David Lynch, "Elections 2021," *Oxford Mail* \(U.K.\), 18 Jan. 2021.
+ - "The coronavirus pandemic made it impossible to hold elections, as gathering to cast a vote was *considered as* \[read *considered*\] a risk to spreading the infection." David Lynch, "Elections 2021," *Oxford Mail* (U.K.), 18 Jan. 2021.
 

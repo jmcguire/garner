@@ -1,4 +1,4 @@
 # deduction
 
-deduction; **induction**. See **deduce \(b\)**.
+deduction; **induction**. See **deduce (b)**.
 

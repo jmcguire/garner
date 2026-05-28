@@ -1,6 +1,6 @@
 # nary a
 
-nary a \(= not a; not one; no\) was long considered dialectal AmE dating from the 1700s. In fact, though, it appears today in highly literate writing—e.g.:
+nary a (= not a; not one; no) was long considered dialectal AmE dating from the 1700s. In fact, though, it appears today in highly literate writing—e.g.:
 
  - "There's *nary* *a* decorated interior these days that isn't testimony to a flurry of veneer-stripping, sanding and hand-rubbing." Stephanie Gutmann, "Rusticated," *New Republic*, 3 Apr. 1995, at 14.
 

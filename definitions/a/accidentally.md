@@ -4,5 +4,5 @@ accidentally. So spelled. *\*Accidently* is a solecism—e.g.: "Big mistake—I 
 
 ## Language-Change Index
 
- - *accidentally* misspelled *\*accidently*: Stage 1 Current ratio in print \(*accidentally* vs. \**accidently*\): 14:1
+ - *accidentally* misspelled *\*accidently*: Stage 1 Current ratio in print (*accidentally* vs. \**accidently*): 14:1
 

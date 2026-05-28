@@ -1,4 +1,4 @@
 # database
 
-database. One word. See spelling \(f\).
+database. One word. See spelling (f).
 

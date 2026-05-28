@@ -1,4 +1,4 @@
 # constitute
 
-constitute. See **comprise \(c\)**.
+constitute. See **comprise (c)**.
 

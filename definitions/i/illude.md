@@ -1,4 +1,4 @@
 # illude
 
-illude. See **allude \(b\)**.
+illude. See **allude (b)**.
 

@@ -1,4 +1,4 @@
 # Apostrophes
 
- Apostrophes . See punctuation \(a\).
+ Apostrophes . See punctuation (a).
 

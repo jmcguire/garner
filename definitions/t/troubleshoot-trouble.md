@@ -6,12 +6,12 @@ troubleshoot > troubleshot > troubleshot. So inflected. The erroneous past-tense
 
  - "She's budgeted, run elections outside the city, helped prepare tax bills, maintained vital records, taken County Board minutes, *troubleshooted* \[read *troubleshot*\] disputes, etc." "Peoria County Clerk: JoAnn Thomas," *Peoria J. Star*, 24 Oct. 1998, at A4.
 
- - "The approach to troubleshooting will vary slightly depending on whether it is a new system being commissioned or an old system being *troubleshooted* \[read *troubleshot*\]." Deon Reynders et al., *Practical Industrial Data Communications* 405 \(2005\).
+ - "The approach to troubleshooting will vary slightly depending on whether it is a new system being commissioned or an old system being *troubleshooted* \[read *troubleshot*\]." Deon Reynders et al., *Practical Industrial Data Communications* 405 (2005).
 
 See irregular verbs.
 
 ## Language-Change Index
 
  - *\*troubleshooted* for *troubleshot*: Stage 1
- - Current ratio in print \(*troubleshot* vs. *\*troubleshooted*\): 5:1
+ - Current ratio in print (*troubleshot* vs. *\*troubleshooted*): 5:1
 

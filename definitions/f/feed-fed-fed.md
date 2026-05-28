@@ -5,5 +5,5 @@ feed > fed > fed. So inflected. *\*Feeded* is a solecism—e.g.: "It was a frien
 ## Language-Change Index
 
  - *\*feeded* as a past-tense form: Stage 1
- - Current ratio in print \(*fed the* vs. *\*feeded the*\): 11,250:1
+ - Current ratio in print (*fed the* vs. *\*feeded the*): 11,250:1
 

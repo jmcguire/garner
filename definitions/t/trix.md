@@ -1,4 +1,4 @@
 # -trix
 
--trix. See sexism \(d\).
+-trix. See sexism (d).
 

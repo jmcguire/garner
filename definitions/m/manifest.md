@@ -1,4 +1,4 @@
 # manifest
 
-manifest, adj. See adjectives \(b\).
+manifest, adj. See adjectives (b).
 

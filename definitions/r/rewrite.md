@@ -6,5 +6,5 @@ rewrite. Although *write* cannot be a noun, *rewrite* has functioned as a noun a
 
  - "A good *rewrite* of the Endangered Species Act would balance the costs and benefits of preserving each and every species and subspecies." "Endangered Species," *San Diego Union-Trib.*, 18 Mar. 1995, at B6.
 
- - "It was Mr. Kenney who took over the *rewrite* of the rules." John Ibbitson & Campbell Clark, "Immigration Minister ‘Flat-Footed' on Crisis," *Globe & Mail* \(Toronto\), 4 Sept. 2015, at A3.
+ - "It was Mr. Kenney who took over the *rewrite* of the rules." John Ibbitson & Campbell Clark, "Immigration Minister ‘Flat-Footed' on Crisis," *Globe & Mail* (Toronto), 4 Sept. 2015, at A3.
 

@@ -8,5 +8,5 @@ respect. The phrases *with respect to* and *in respect of* are usually best repl
 
  - "Dublin's Philip McMahon and Mayo's Cillian O'Connor will not face any further action *in* *respect of* \[read *for*\] other incidents." Sean Moran, "Proposed Ban Likely to Rule Connolly Out," *Irish Times*, 1 Sept. 2015, Sport §, at 14.
 
-Cf. **regard \(a\)**.
+Cf. **regard (a)**.
 

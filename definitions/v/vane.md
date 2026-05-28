@@ -1,6 +1,6 @@
 # vane
 
-vane \(the mechanical device for showing wind direction\) is sometimes mistakenly made *vain* or *vein*—e.g.:
+vane (the mechanical device for showing wind direction) is sometimes mistakenly made *vain* or *vein*—e.g.:
 
  - "The SPM buoy's top deck is designed to swivel, allowing a tanker to act like a weather *vain* \[read *vane*\] and remain head-on in the wind." L.R. Aalund, "Hawaii Offers Challenge and Opportunity to Refiner," *Oil & Gas J.*, 30 May 1994, at 43.
 
@@ -11,5 +11,5 @@ The word is most common in the compound *weathervane*.
 ## Language-Change Index
 
  - *vain* or *vein* misused for *vane*: Stage 1
- - Current ratio in print \(*weather vane* vs. *\*weather vein*\): 288:1
+ - Current ratio in print (*weather vane* vs. *\*weather vein*): 288:1
 

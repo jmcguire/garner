@@ -1,4 +1,4 @@
 # in the ascendant
 
-in the ascendant. See **ascendant \(b\)**.
+in the ascendant. See **ascendant (b)**.
 

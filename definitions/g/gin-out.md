@@ -1,4 +1,4 @@
 # gin out
 
-gin out. See **gin up \(b\)**.
+gin out. See **gin up (b)**.
 

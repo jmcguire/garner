@@ -1,4 +1,4 @@
 # fob off
 
-fob off. See **foist \(b\)**.
+fob off. See **foist (b)**.
 

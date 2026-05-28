@@ -1,4 +1,4 @@
 # \*themself
 
-\*themself. See sexism \(b\).
+\*themself. See sexism (b).
 

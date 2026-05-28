@@ -1,6 +1,6 @@
 # forcible
 
-forcible; **forceable**; **forceful**. Oddly, we have the spellings *enforceable* but *forcible*. \(See **enforceable**.\) The usual form, *forcible* means "effected by force against resistance"—e.g.:
+forcible; **forceable**; **forceful**. Oddly, we have the spellings *enforceable* but *forcible*. (See **enforceable**.) The usual form, *forcible* means "effected by force against resistance"—e.g.:
 
  - "Driving the 4% dip in violent crime through June were drops in homicide, 2%; *forcible* rape, 6%." Robert Davis, "Random Killings Hit a High," *USA Today*, 5 Dec. 1994, at A1.
 
@@ -13,5 +13,5 @@ Because *forcible* properly refers only to physical force, it shouldn't be used 
 ## Language-Change Index
 
  - *forcibly* misused for *forcefully*: Stage 3
- - Current ratio in print \(*stated forcefully* vs. *\*stated forcibly*\): 16:1
+ - Current ratio in print (*stated forcefully* vs. *\*stated forcibly*): 16:1
 

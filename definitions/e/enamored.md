@@ -9,5 +9,5 @@ enamored takes the preposition *of*, not *with* or *by*—e.g.:
 ## Language-Change Index
 
  - *\*enamored with* for *enamored of*: Stage 4
- - Current ratio in print \(*enamored* *of* vs. *enamored with* vs. *enamored by*\): 5:5:1
+ - Current ratio in print (*enamored* *of* vs. *enamored with* vs. *enamored by*): 5:5:1
 

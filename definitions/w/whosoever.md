@@ -1,4 +1,4 @@
 # whosoever
 
-whosoever; **whomsoever**. See **whoever \(c\)**.
+whosoever; **whomsoever**. See **whoever (c)**.
 

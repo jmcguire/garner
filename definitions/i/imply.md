@@ -1,4 +1,4 @@
 # imply
 
-imply. See **infer \(b\)**.
+imply. See **infer (b)**.
 

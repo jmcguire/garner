@@ -1,4 +1,4 @@
 # Ms, sexism
 
-Ms. See sexism \(e\) & **Mr**.
+Ms. See sexism (e) & **Mr**.
 

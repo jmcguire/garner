@@ -6,7 +6,7 @@ Writers occasionally use *shined* where *shone* is the word they want—e.g.: "A
 
 Still others confuse *shone* with *shown*—e.g.:
 
- - "As March turns into April, there are houses here where it has been weeks since the sun has *shown* \[read *shone*\] through the windows, so high are the snowbanks." Lorna Colquhoun, "Winter Just Won't Quit," *Union Leader* \(Manchester, N.H.\), 31 Mar. 1997, at A1.
+ - "As March turns into April, there are houses here where it has been weeks since the sun has *shown* \[read *shone*\] through the windows, so high are the snowbanks." Lorna Colquhoun, "Winter Just Won't Quit," *Union Leader* (Manchester, N.H.), 31 Mar. 1997, at A1.
 
  - "The lights *shown* \[read *shone*\] bright and sparkly blue in the picture window." John Przybys, "Christmas Memories," *Las Vegas Rev.-J.*, 24 Dec. 2000, at J1.
 
@@ -17,8 +17,8 @@ Rarely, a writer will slip the other way and spell *shown* as *shone*—e.g.: "F
 ## Language-Change Index
 
 1. *shined* misused for *shone*: Stage 2
- - Current ratio in print \(*sun shone brightly* vs. *\*sun shined brightly*\): 23:1
+ - Current ratio in print (*sun shone brightly* vs. *\*sun shined brightly*): 23:1
 
 2. *shown* misused for *shone*: Stage 1
- - Current ratio in print \(*light shone down* vs. *\*light shown down*\): 30:1
+ - Current ratio in print (*light shone down* vs. *\*light shown down*): 30:1
 

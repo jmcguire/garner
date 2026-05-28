@@ -1,4 +1,4 @@
 # juvenilely
 
-juvenilely. See adverbs \(c\).
+juvenilely. See adverbs (c).
 

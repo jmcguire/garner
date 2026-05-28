@@ -1,4 +1,4 @@
 # start
 
-start. See **begin \(b\)** & **commence**.
+start. See **begin (b)** & **commence**.
 

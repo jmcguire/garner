@@ -1,4 +1,4 @@
 # interestingly
 
-interestingly. See adverbs \(f\).
+interestingly. See adverbs (f).
 

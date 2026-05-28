@@ -1,10 +1,10 @@
 # Judaism
 
-Judaism \(the monotheistic Jewish religion based on the Hebrew Scriptures and the Talmud\) is preferably pronounced in four syllables: /**joo**-dee-iz-әm/, /**joo**-day-iz-әm/, or /**joo**-dә-iz-әm/—not /**joo**-diz-әm/. The cognate terms are pronounced as follows:
+Judaism (the monotheistic Jewish religion based on the Hebrew Scriptures and the Talmud) is preferably pronounced in four syllables: /**joo**-dee-iz-әm/, /**joo**-day-iz-әm/, or /**joo**-dә-iz-әm/—not /**joo**-diz-әm/. The cognate terms are pronounced as follows:
 
-*Judea* \(or *Judaea*\): /joo-**dee**-ә/ or /joo-**day**-ә/
+*Judea* (or *Judaea*): /joo-**dee**-ә/ or /joo-**day**-ә/
 
-*Judean* \(or *Judaean*\): /joo-**dee**-әn/ or /joo-**day**-әn/
+*Judean* (or *Judaean*): /joo-**dee**-әn/ or /joo-**day**-әn/
 
 *Judaic*: /joo-**day**-ik/
 

@@ -1,6 +1,6 @@
 # Germanicisms, Essay
 
-Germanicisms. Although the English language is known as a Germanic language \(having evolved from old Germanic dialects into Anglo-Saxon\) and retains a basic Germanic syntax, it has not borrowed as heavily from the modern German vocabulary as it has from the Romance languages Latin and French. Even so, the German contribution has been significant. Among the more frequent Germanicisms in English are these, all of which can be found even in abridged English dictionaries:
+Germanicisms. Although the English language is known as a Germanic language (having evolved from old Germanic dialects into Anglo-Saxon) and retains a basic Germanic syntax, it has not borrowed as heavily from the modern German vocabulary as it has from the Romance languages Latin and French. Even so, the German contribution has been significant. Among the more frequent Germanicisms in English are these, all of which can be found even in abridged English dictionaries:
 
  - allergen
  - angst

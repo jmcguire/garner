@@ -1,4 +1,4 @@
 # un-
 
-un-. See negatives \(a\).
+un-. See negatives (a).
 

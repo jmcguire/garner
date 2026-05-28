@@ -4,7 +4,7 @@ Demonyms. What do you call someone from ——? Often that's not an easy questio
 
 Sometimes the authorities can't agree about a single locale. Beginning in the 1950s, a person from Michigan was known by statute as a *Michiganian*—but the originally jocular, occasionally pejorative term *Michigander*, coined in the early 1800s, had decades earlier become the preference of *Michiganders* themselves. Almost no one wanted to be called a \**Michiganite*, but that's what the U.S. Government Printing Office's style manual specified. It took until 2018 for Michigan law to catch up to local preference and shift to *Michigander*; the *USGPO*, ever a step behind, upgraded to *Michiganian*. Best for *Michiganders* and others to follow the law or local preference—not what some stylesheet writer in Washington says.
 
-Loose guidelines exist for naming denizens. George R. Stewart, a historian and onomastician, developed six main guidelines—what H.L. Mencken called "Stewart's Laws of Municipal Onomastics"—that are cited in the best up-to-date work on this subject, Paul Dickson's *Labels for Locals* \(1997\). Here they are: \(1\) If the place name ends in *-a* or *-ia*, add *-n* <Alaska, Alaskan> <California, Californian>. \(2\) If the name ends in *-i*, *-o*, or a sounded *-e*, add *-an* <Hawaii, Hawaiian> <Chicago, Chicagoan> <Albuquerque, Albuquerquean>. \(3\) If the name ends in *-on*, add *-ian* <Oregon, Oregonian>. \(4\) If the name ends in *-y*, change the *-y* to an *-i* and add *-an* <Albany, Albanian>. \(5\) If the name ends in a consonant or a silent *-e*, add either *-ite* or *-er*, depending on euphony <Maine, Mainer> <New Hampshire, New Hampshirite>. \(6\) If the name ends in *-polis*, change that to *-politan* <Minneapolis, Minneapolitan>.
+Loose guidelines exist for naming denizens. George R. Stewart, a historian and onomastician, developed six main guidelines—what H.L. Mencken called "Stewart's Laws of Municipal Onomastics"—that are cited in the best up-to-date work on this subject, Paul Dickson's *Labels for Locals* (1997). Here they are: (1) If the place name ends in *-a* or *-ia*, add *-n* <Alaska, Alaskan> <California, Californian>. (2) If the name ends in *-i*, *-o*, or a sounded *-e*, add *-an* <Hawaii, Hawaiian> <Chicago, Chicagoan> <Albuquerque, Albuquerquean>. (3) If the name ends in *-on*, add *-ian* <Oregon, Oregonian>. (4) If the name ends in *-y*, change the *-y* to an *-i* and add *-an* <Albany, Albanian>. (5) If the name ends in a consonant or a silent *-e*, add either *-ite* or *-er*, depending on euphony <Maine, Mainer> <New Hampshire, New Hampshirite>. (6) If the name ends in *-polis*, change that to *-politan* <Minneapolis, Minneapolitan>.
 
 What follows is a selection of demonyms, also known as "denizen labels," including some that override Dickson's preferences.
 
@@ -16,13 +16,13 @@ What follows is a selection of demonyms, also known as "denizen labels," includi
  - Arkansas Arkansan, Arkie, \*Arkansawyer
  - California Californian
  - Colorado Coloradan, Coloradoan
- - Connecticut Nutmegger, Connecticuter \(*USGPO*\)
+ - Connecticut Nutmegger, Connecticuter (*USGPO*)
  - Delaware Delawarean
  - Florida Floridian
  - Georgia Georgian
  - Hawaii Hawaiian
  - Idaho Idahoan
- - Illinois Illinoisan /il-ә-**noy**-әn/ \(pref. not \**Illinoisian*\)
+ - Illinois Illinoisan /il-ә-**noy**-әn/ (pref. not \**Illinoisian*)
  - Indiana Hoosier, Indianan, \*Indianian
  - Iowa Iowan, \*Iowegian
  - Kansas Kansan
@@ -30,8 +30,8 @@ What follows is a selection of demonyms, also known as "denizen labels," includi
  - Louisiana Louisianian, \*Louisianan
  - Maine Mainer, Mainiac
  - Maryland Marylander
- - Massachusetts Bay Stater \(by state law\), Massachusettsan \(*USGPO*\)
- - Michigan Michigander \(by popular consensus\), Michiganian \(official\), \*Michiganite \(rare, but recommended by *USGPO*\)
+ - Massachusetts Bay Stater (by state law), Massachusettsan (*USGPO*)
+ - Michigan Michigander (by popular consensus), Michiganian (official), \*Michiganite (rare, but recommended by *USGPO*)
  - Minnesota Minnesotan
  - Mississippi Mississippian
  - Missouri Missourian
@@ -39,7 +39,7 @@ What follows is a selection of demonyms, also known as "denizen labels," includi
  - Nebraska Nebraskan
  - Nevada Nevadan
  - New Hampshire New Hampshirite
- - New Jersey New Jerseyan, New Jerseyite \(*USGPO*\)
+ - New Jersey New Jerseyan, New Jerseyite (*USGPO*)
  - New Mexico New Mexican
  - New York New Yorker
  - North Carolina North Carolinian, Tarheel
@@ -53,7 +53,7 @@ What follows is a selection of demonyms, also known as "denizen labels," includi
  - South Dakota South Dakotan
  - Tennessee Tennessean, \*Tennesseean
  - Texas Texan
- - Utah Utahn \(preferred\), Utahan
+ - Utah Utahn (preferred), Utahan
  - Vermont Vermonter
  - Virginia Virginian
  - Washington Washingtonian
@@ -78,8 +78,8 @@ What follows is a selection of demonyms, also known as "denizen labels," includi
  - Chicago Chicagoan
  - Cincinnati Cincinnatian
  - Cleveland Clevelander
- - Columbus \(Ga., Ind., Neb., Ohio\) Columbusite
- - Columbus \(Miss.\) Columbian
+ - Columbus (Ga., Ind., Neb., Ohio) Columbusite
+ - Columbus (Miss.) Columbian
  - Corpus Christi Corpus Christian /**kris**-tee-әn/
  - Dallas Dallasite
  - Detroit Detroiter
@@ -108,7 +108,7 @@ What follows is a selection of demonyms, also known as "denizen labels," includi
  - Los Angeles Angeleno, \*Los Angelean
  - Louisville Louisvillian
  - Madison Madisonian
- - Manhattan \(N.Y. or Kan.\) Manhattanite
+ - Manhattan (N.Y. or Kan.) Manhattanite
  - Maui Mauian
  - Memphis Memphian
  - Miami Miamian
@@ -126,7 +126,7 @@ What follows is a selection of demonyms, also known as "denizen labels," includi
  - Phoenix Phoenician
  - Pittsburgh Pittsburgher, \*Pittsburger
  - Pontiac Pontiacker
- - Portland \(Maine, Ore.\) Portlander
+ - Portland (Maine, Ore.) Portlander
  - Princeton Princetonian
  - Providence Providentian
  - Sacramento Sacramentan
@@ -139,7 +139,7 @@ What follows is a selection of demonyms, also known as "denizen labels," includi
  - San Marino San Marinan, \*San Marinoite
  - Santa Fe Santa Fean
  - Saratoga Springs Saratogian
- - Saugus \(Mass.\) Saugonian
+ - Saugus (Mass.) Saugonian
  - Sault Sainte Marie Sooite
  - Savannah Savannahian
  - Schenectady Schenectadian
@@ -155,7 +155,7 @@ What follows is a selection of demonyms, also known as "denizen labels," includi
  - Tucson Tucsonan, \*Tucsonian, \*Tucsonite
  - Twin Cities Twin Citian
  - Wilkes-Barre Wilkes-Barrean
- - Williamsport \(Pa.\) Williamsporter
+ - Williamsport (Pa.) Williamsporter
 
 ## Countries and Territories
 
@@ -266,7 +266,7 @@ What follows is a selection of demonyms, also known as "denizen labels," includi
  - Trinidad Trinidadian
  - Tunisia Tunisian
  - Turkey Turk
- - Turkmenistan Turkmen \(pl. Turkmens\)
+ - Turkmenistan Turkmen (pl. Turkmens)
  - Uganda Ugandan
  - Ukraine Ukrainian
  - United States American
@@ -287,7 +287,7 @@ What follows is a selection of demonyms, also known as "denizen labels," includi
  - Athens, Greece Athenian
  - Baghdad, Iraq Baghdadi
  - Bangkok, Thailand Bangkokian
- - Béarn, France Béarnais \(not *Béarnaise*\)
+ - Béarn, France Béarnais (not *Béarnaise*)
  - Beijing, China Beijinger
  - Belgrade, Yugoslavia Belgrader
  - Berlin, Germany Berliner
@@ -366,7 +366,7 @@ What follows is a selection of demonyms, also known as "denizen labels," includi
  - Perth, Australia Perthite
  - Prague, Czech Republic Praguer
  - Prince Edward Island, Canada Prince Edward Islander
- - Quebec, Canada Quebecer \(AmE\), Quebecker \(BrE\)
+ - Quebec, Canada Quebecer (AmE), Quebecker (BrE)
  - Quito, Ecuador Quiteño
  - Rio de Janeiro, Brazil Carioca
  - Rome, Italy Roman
@@ -374,7 +374,7 @@ What follows is a selection of demonyms, also known as "denizen labels," includi
  - Salzburg, Austria Salzburger
  - San Juan, Puerto Rico San Juanero
  - Santiago, Chile Santiaguino
- - Sao Paulo, Brazil Paulista \(state\), Paulistano \(city\), Paulistana \(city\)
+ - Sao Paulo, Brazil Paulista (state), Paulistano (city), Paulistana (city)
  - Saskatchewan, Canada Saskatchewanian
  - Shanghai, China Shanghailanese
  - Shropshire, England Salopian

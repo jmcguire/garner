@@ -1,4 +1,4 @@
 # Double Genitives
 
-Double Genitives. See possessives \(d\).
+Double Genitives. See possessives (d).
 

@@ -6,7 +6,7 @@ ecology. When it originated in the late 1800s, this word referred to the biologi
 
  - "Winning scant mention during Saturday's ceremonies was the concern that foreign organisms that attached to the bottom of the new dry dock during its journey from China could damage Maine's coastal *ecology* \[read *environment*\]." Ted Cohen, "BIW Unveils Its New, $240 Million Dry Dock," *Maine Sunday Telegram*, 6 May 2001, at B1.
 
-*Ecology* was formerly spelled with a digraph: *œcology* \(so listed in the first edition of the *OED*\).
+*Ecology* was formerly spelled with a digraph: *œcology* (so listed in the first edition of the *OED*).
 
 ## Language-Change Index
 

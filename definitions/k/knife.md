@@ -1,4 +1,4 @@
 # knife
 
-knife. Pl. *knives*. See plurals \(c\).
+knife. Pl. *knives*. See plurals (c).
 

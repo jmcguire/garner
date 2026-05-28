@@ -4,7 +4,7 @@ expense, v.t. In general use, this is an overblown substitute for *spend* and ou
 
  - "If these products go into production, revenues could go off the chart because, unlike Hollywood, characters and concepts were *expensed* at the time of their creation and not amortized over time." Stephen Pounds, "Big Entertainment's Big Plans," *Palm Beach Post*, 30 June 1996, at E1.
 
- - "Goodwill is an intangible or artificial asset that can be written off or *expensed* over a number of years." David Shook, "High Court Ruling on Thrifts May Cost Taxpayers $20 Billion," *Patriot Ledger* \(Quincy, Mass.\), 2 July 1996, at 30.
+ - "Goodwill is an intangible or artificial asset that can be written off or *expensed* over a number of years." David Shook, "High Court Ruling on Thrifts May Cost Taxpayers $20 Billion," *Patriot Ledger* (Quincy, Mass.), 2 July 1996, at 30.
 
  - "The company has now *expensed* $625 million to cover the cost of the Ignition Compensation Fund, which has found 124 deaths caused by the defect." Greg Gardner, "Color GM Greener, UAW More Hopeful," *Detroit Free Press*, 24 July 2015, at A1.
 

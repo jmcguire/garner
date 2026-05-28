@@ -1,4 +1,4 @@
 # annexable
 
-annexable. So spelled—not *\*annexible*. See -able \(a\).
+annexable. So spelled—not *\*annexible*. See -able (a).
 

@@ -8,10 +8,10 @@
 
  - "But he doubted the Fleming Island hatchery would remain that for long, being a ‘very prime' piece of real estate, he said, in a *fastly developing* \[read *fast-developing*\] area." Christopher Calnan & Gregory Richards, "1,000 Tyson, Humana Jobs Cut," *Fla. Times-Union*, 6 Dec. 2002, at A1.
 
-Two of these examples involve phrasal adjectives—*fast-changing* and *fast-expanding*—but there is no more need for the *-ly* adverb in those phrases than anywhere else. For other adverbs with a superfluous *-ly*, see adverbs \(d\).
+Two of these examples involve phrasal adjectives—*fast-changing* and *fast-expanding*—but there is no more need for the *-ly* adverb in those phrases than anywhere else. For other adverbs with a superfluous *-ly*, see adverbs (d).
 
 ## Language-Change Index
 
  - *\*fastly* for *fast*: Stage 1
- - Current ratio in print \(*is fast becoming* vs. *\*is fastly becoming*\): 707:1
+ - Current ratio in print (*is fast becoming* vs. *\*is fastly becoming*): 707:1
 

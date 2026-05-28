@@ -18,9 +18,9 @@ Who can demand responsible use of the language from an ad writer who is reckless
 
  - "Turns out the University of Wisconsin football team is in the process of doing something *quite unique*." "1-Point Wins Set UW Apart," *Wis. State J.*, 27 Oct. 1997, at D1.
 
- - "It is *extremely unique* with its combination of Japanese and English dialogue as well as its combination of its own script and that of the uber popular classic ‘Fargo.'" Patrick Dougas, "‘Kumiko, The Treasure Hunter,' Unique," *Great Falls Trib.* \(Mont.\), 26 June 2015, at H11.
+ - "It is *extremely unique* with its combination of Japanese and English dialogue as well as its combination of its own script and that of the uber popular classic ‘Fargo.'" Patrick Dougas, "‘Kumiko, The Treasure Hunter,' Unique," *Great Falls Trib.* (Mont.), 26 June 2015, at H11.
 
-Arguably, our modern culture lacks and does not *want* absolutes, in intellectual life or in language. But stick with the nongradable *unique*, and you may stand out as almost unique. See adjectives \(b\).
+Arguably, our modern culture lacks and does not *want* absolutes, in intellectual life or in language. But stick with the nongradable *unique*, and you may stand out as almost unique. See adjectives (b).
 
 ## Language-Change Index
 

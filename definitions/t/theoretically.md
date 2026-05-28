@@ -1,4 +1,4 @@
 # theoretically
 
-theoretically. See adverbs \(f\).
+theoretically. See adverbs (f).
 

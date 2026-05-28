@@ -1,4 +1,4 @@
 # how dare
 
-how dare. See **dare \(f\)**.
+how dare. See **dare (f)**.
 

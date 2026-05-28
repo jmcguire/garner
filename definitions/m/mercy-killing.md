@@ -1,4 +1,4 @@
 # mercy killing
 
-mercy killing. See **euthanasia \(a\)**.
+mercy killing. See **euthanasia (a)**.
 

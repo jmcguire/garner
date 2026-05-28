@@ -1,4 +1,4 @@
 # \*food fare
 
-\*food fare. See **fare \(a\)**.
+\*food fare. See **fare (a)**.
 

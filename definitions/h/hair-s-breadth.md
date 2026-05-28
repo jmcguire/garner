@@ -12,15 +12,15 @@ The phrase is sometimes wrongly written *\*hare's breath* or *\*hair's breath*â€
 
  - "CBS won by a *hare's breath* \[read *hair's breadth*\], followed by ABC and NBC, in a close race." Kinney Littlefield, "Cable Viewers Get Their Kicks from Football," *Orange County Register*, 5 Dec. 1993, at F11.
 
- - "The Harvest Moon Inn, a *hair's breath* \[read *hair's breadth*\] away from achieving four-star status in the mere months of its existence, is clearly on the rise." "Discover Rising Food Star at the Harvest Moon Inn," *Asbury Park Press* \(Neptune, N.J.\), 31 Mar. 1996, at D5.
+ - "The Harvest Moon Inn, a *hair's breath* \[read *hair's breadth*\] away from achieving four-star status in the mere months of its existence, is clearly on the rise." "Discover Rising Food Star at the Harvest Moon Inn," *Asbury Park Press* (Neptune, N.J.), 31 Mar. 1996, at D5.
 
  - "You don't come a *hare's breath* \[read *hair's breadth*\] away from making an Olympic team by taking part in a hobby." Bill Ward, "Hasbach Takes His â€˜Hobby' to New Heights," *Tampa Trib.*, 21 Apr. 2001, at 21.
 
 ## Language-Change Index
 
 1. *\*hare's breath* for *hair's breadth*: Stage 1
- - Current ratio in print \(*hair's breadth* vs. *\*hare's breath*\): 282:1
+ - Current ratio in print (*hair's breadth* vs. *\*hare's breath*): 282:1
 
 2. *\*hair's breath* for *hair's breadth*: Stage 1
- - Current ratio in print \(*hair's breadth* vs. *\*hair's breath*\): 44:1
+ - Current ratio in print (*hair's breadth* vs. *\*hair's breath*): 44:1
 

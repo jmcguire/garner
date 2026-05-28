@@ -1,4 +1,4 @@
 # whole
 
-whole, adj. See adjectives \(b\).
+whole, adj. See adjectives (b).
 

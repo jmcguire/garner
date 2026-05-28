@@ -1,4 +1,4 @@
 # apart from
 
-apart from. See **aside \(b\)**.
+apart from. See **aside (b)**.
 

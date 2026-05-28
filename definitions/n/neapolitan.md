@@ -1,6 +1,6 @@
 # Neapolitan
 
-Neapolitan. As a noun, *Neapolitan* denotes an inhabitant of Naples, Italy. \(See demonyms.\) As an adjective, it identifies the noun it goes with as being from or connected with Naples. *Neapolitan* ice cream, with layers of different flavors \(commonly chocolate, vanilla, and strawberry\), originated in the 1800s, supposedly in Naples. The word is pronounced /nee-ә-**pol**-i-tәn/, not /nee-ah-/ or /nee-oh-/.
+Neapolitan. As a noun, *Neapolitan* denotes an inhabitant of Naples, Italy. (See demonyms.) As an adjective, it identifies the noun it goes with as being from or connected with Naples. *Neapolitan* ice cream, with layers of different flavors (commonly chocolate, vanilla, and strawberry), originated in the 1800s, supposedly in Naples. The word is pronounced /nee-ә-**pol**-i-tәn/, not /nee-ah-/ or /nee-oh-/.
 
 The term is misspelled *\*Neopolitan* surprisingly often—e.g.:
 
@@ -13,5 +13,5 @@ The term is misspelled *\*Neopolitan* surprisingly often—e.g.:
 ## Language-Change Index
 
  - *Neapolitan* misspelled *\*Neopolitan*: Stage 1
- - Current ratio in print \(*Neapolitan* vs. \**Neopolitan*\): 45:1
+ - Current ratio in print (*Neapolitan* vs. \**Neopolitan*): 45:1
 

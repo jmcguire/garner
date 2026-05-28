@@ -1,4 +1,4 @@
 # whose else
 
-whose else. See **else's** & possessives \(i\).
+whose else. See **else's** & possessives (i).
 

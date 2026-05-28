@@ -1,4 +1,4 @@
 # Periods
 
-Periods. See punctuation \(l\).
+Periods. See punctuation (l).
 

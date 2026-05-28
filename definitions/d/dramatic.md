@@ -1,6 +1,6 @@
 # dramatic
 
-dramatic; **drastic**. Each word is sometimes misused for the other. *Dramatic* = \(1\) of or like a drama; or \(2\) filled with action or emotion. *Drastic* = extreme in effect; severe; harsh. Sense 2 of *dramatic*, of course, is allied with the sense of *drastic*, but the two words work idiomatically with different types of subjects. Measures that a person takes—or things that a person does to remedy a serious problem—are *drastic*. If those measures work, and especially if they work well, the results may indeed be *dramatic*—or not.
+dramatic; **drastic**. Each word is sometimes misused for the other. *Dramatic* = (1) of or like a drama; or (2) filled with action or emotion. *Drastic* = extreme in effect; severe; harsh. Sense 2 of *dramatic*, of course, is allied with the sense of *drastic*, but the two words work idiomatically with different types of subjects. Measures that a person takes—or things that a person does to remedy a serious problem—are *drastic*. If those measures work, and especially if they work well, the results may indeed be *dramatic*—or not.
 
 *Dramatic* sometimes displaces *drastic*, especially in reference to a person's doing something dramatic to correct a bad situation—e.g.:
 
@@ -14,15 +14,15 @@ dramatic; **drastic**. Each word is sometimes misused for the other. *Dramatic* 
 
  - "Each of those scenarios has been played out in California, with sometimes *drastic* \[read *dramatic*\] results." Douglas P. Shuit, "Federal Health Care Fight to Have Major Impact on State," *L.A. Times*, 11 Dec. 1995, at A1.
 
- - "Educating people, especially those more at risk of infection of both viruses, can also have *drastic* \[read *dramatic*\] results." Ema Sasic, "HIV/AIDS 40 Years Later," *Desert Sun* \(Palm Springs\), 11 Oct. 2021, at A1.
+ - "Educating people, especially those more at risk of infection of both viruses, can also have *drastic* \[read *dramatic*\] results." Ema Sasic, "HIV/AIDS 40 Years Later," *Desert Sun* (Palm Springs), 11 Oct. 2021, at A1.
 
 See word-swapping.
 
 ## Language-Change Index
 
 1. *dramatic* misused for *drastic*: Stage 1
- - Current ratio in print \(*drastic measures* vs. *\*dramatic measures*\): 35:1
+ - Current ratio in print (*drastic measures* vs. *\*dramatic measures*): 35:1
 
 2. *drastic* misused for *dramatic*: Stage 1
- - Current ratio in print \(*dramatic improvement* vs. *\*drastic improvement*\): 7:1
+ - Current ratio in print (*dramatic improvement* vs. *\*drastic improvement*): 7:1
 

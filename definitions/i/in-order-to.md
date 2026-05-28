@@ -6,7 +6,7 @@ in order to; **in order for**; **in order that**. The phrase *in order to* is of
 
 Finally, *in order that—*a phrase that often needs no reduction—begins a subordinate clause expressing purpose. It is usually followed by *may* or *might*. E.g.:
 
- - "They are glad that the big guy closed down the shop for three days this week *in order that* the lads *might* grab some holiday cheer." Steve Buckley, "Tuna Talk Drills in Fun," *Boston Herald*, 28 Dec. 1996, Sports §, at 43. \(Here, *so* would be an improvement over *in order*.\)
+ - "They are glad that the big guy closed down the shop for three days this week *in order that* the lads *might* grab some holiday cheer." Steve Buckley, "Tuna Talk Drills in Fun," *Boston Herald*, 28 Dec. 1996, Sports §, at 43. (Here, *so* would be an improvement over *in order*.)
 
  - "*In order that* the child reader *may* emulate the generous whale, the first three books in the series . . . all come with a peel-off sticker on the back cover." Valerie Cruice, "Heartening Lessons of Winslow Whale," *N.Y. Times*, 16 Feb. 1997, Conn. §, at 10.
 

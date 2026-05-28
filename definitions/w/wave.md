@@ -1,4 +1,4 @@
 # wave
 
-wave. See **waive \(b\)**.
+wave. See **waive (b)**.
 

@@ -1,4 +1,4 @@
 # factlet
 
-factlet. See **factoid \(b\)**.
+factlet. See **factoid (b)**.
 

@@ -1,10 +1,10 @@
 # Synesis, Essay
 
-Synesis. In some contexts, meaning—as opposed to the strict requirements of grammar or syntax—governs subject–verb agreement. Henry Sweet, the 19th-century English grammarian, used the term "antigrammatical constructions" for these triumphs of logic over grammar. \(Expressions in which grammar triumphs over logic are termed "antilogical."\) Modern grammarians call the principle underlying these antigrammatical constructions "synesis" \(/**sin**-ә-sis/\).
+Synesis. In some contexts, meaning—as opposed to the strict requirements of grammar or syntax—governs subject–verb agreement. Henry Sweet, the 19th-century English grammarian, used the term "antigrammatical constructions" for these triumphs of logic over grammar. (Expressions in which grammar triumphs over logic are termed "antilogical.") Modern grammarians call the principle underlying these antigrammatical constructions "synesis" (/**sin**-ә-sis/).
 
-The classic example of an antigrammatical construction is the phrase *a number of* \(= several, many\). It is routinely followed by a plural verb, even though technically the singular noun *number* is the subject <a number of people were there>. \(See **number of**.) Another example occurs when a unit of measure has a collective sense. It can be plural in form but singular in sense—e.g.: "*Three-fourths is* a smaller quantity than we had expected." / "*Two pounds* of shrimp *is* all I need."
+The classic example of an antigrammatical construction is the phrase *a number of* (= several, many). It is routinely followed by a plural verb, even though technically the singular noun *number* is the subject <a number of people were there>. (See **number of**.) Another example occurs when a unit of measure has a collective sense. It can be plural in form but singular in sense—e.g.: "*Three-fourths is* a smaller quantity than we had expected." / "*Two pounds* of shrimp *is* all I need."
 
-If these constructions are grammatically safe, similar constructions involving collective nouns are somewhat more precarious. The rule consistently announced in 20th-century grammars is as follows: "Collective nouns take sometimes a singular and sometimes a plural verb. When the persons or things denoted are thought of as individuals, the plural should be used. When the collection is regarded as a unit, the singular should be used." George L. Kittredge & Frank E. Farley, *An Advanced English Grammar* 101 \(1913\). Generally, then, with nouns of multitude, one can justifiably use a plural verb.
+If these constructions are grammatically safe, similar constructions involving collective nouns are somewhat more precarious. The rule consistently announced in 20th-century grammars is as follows: "Collective nouns take sometimes a singular and sometimes a plural verb. When the persons or things denoted are thought of as individuals, the plural should be used. When the collection is regarded as a unit, the singular should be used." George L. Kittredge & Frank E. Farley, *An Advanced English Grammar* 101 (1913). Generally, then, with nouns of multitude, one can justifiably use a plural verb.
 
 Among the common nouns of multitude are *bulk*, *bunch*, *cadre*, *flood*, *handful*, *host*, *majority*, *mass*, *minority*, *multitude*, *percentage*, *proportion*, and *variety*. Each of these is frequently followed by *of* \[\+ plural noun\] \[\+ plural verb\]—e.g.:
 
@@ -12,11 +12,11 @@ Among the common nouns of multitude are *bulk*, *bunch*, *cadre*, *flood*, *hand
 
  - "Republicans in California see Boxer as a vulnerable target, and a *host* of them *are* actively considering the race." Cathleen Decker, "New Welfare Law Should Be Amended, Boxer Says," *L.A. Times*, 16 Jan. 1997, at A3.
 
- - "Of these 3,000, however, just a small *proportion are* enrolled in courses such as Foundations of Health or Human Sexuality." Richard A. Kaye & Theodore Markus, "AIDS Teaching Should Not Be Limited to the Young," *USA Today* \(Mag.\), 1 Sept. 1997, at 50.
+ - "Of these 3,000, however, just a small *proportion are* enrolled in courses such as Foundations of Health or Human Sexuality." Richard A. Kaye & Theodore Markus, "AIDS Teaching Should Not Be Limited to the Young," *USA Today* (Mag.), 1 Sept. 1997, at 50.
 
- - "A *handful* of them *are* world-class operations." Linda DuVal, "World-Class Spas Let Visitors Indulge Themselves and Relax," *Gaz. Telegraph* \(Colo. Springs\), 26 Oct. 1997, at T&B4.
+ - "A *handful* of them *are* world-class operations." Linda DuVal, "World-Class Spas Let Visitors Indulge Themselves and Relax," *Gaz. Telegraph* (Colo. Springs), 26 Oct. 1997, at T&B4.
 
- - "The *majority* of them *were* brought over by the autocratic tyrant, led astray, divided, slandered and finally violently suppressed." " ‘The Democratic Banner Cannot Be Obscured,' " *Wall Street J.*, 18 Nov. 1997, at A22. \(Perhaps delete *autocratic* there as a redundancy when coupled with *tyrant*.\)
+ - "The *majority* of them *were* brought over by the autocratic tyrant, led astray, divided, slandered and finally violently suppressed." " ‘The Democratic Banner Cannot Be Obscured,' " *Wall Street J.*, 18 Nov. 1997, at A22. (Perhaps delete *autocratic* there as a redundancy when coupled with *tyrant*.)
 
  - "Only a small *percentage are* chosen as All-America Selections." Ted Fisher, "Four Award-Winning Plants Offer Beauty, Reliability," *Austin Am.-Statesman*, 6 Dec. 1997, at C7.
 

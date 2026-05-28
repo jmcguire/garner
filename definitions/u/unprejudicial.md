@@ -1,4 +1,4 @@
 # unprejudicial
 
-unprejudicial. See **prejudicial \(a\)**.
+unprejudicial. See **prejudicial (a)**.
 

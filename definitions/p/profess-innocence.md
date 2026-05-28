@@ -1,4 +1,4 @@
 # profess innocence
 
-profess innocence. See **confess \(b\)**.
+profess innocence. See **confess (b)**.
 

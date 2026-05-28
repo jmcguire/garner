@@ -1,4 +1,4 @@
 # receive
 
-receive. See spelling \(a\).
+receive. See spelling (a).
 

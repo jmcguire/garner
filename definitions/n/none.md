@@ -1,6 +1,6 @@
 # none
 
-none = \(1\) not one; or \(2\) not any. Hence it may correctly take either a singular or a plural verb. To decide which to use, substitute the phrases to see which fits the meaning of the sentence: *not one is* or *not any are*. E.g.:
+none = (1) not one; or (2) not any. Hence it may correctly take either a singular or a plural verb. To decide which to use, substitute the phrases to see which fits the meaning of the sentence: *not one is* or *not any are*. E.g.:
 
  - "Sexton stressed—several times—that all the meats are farm-raised and USDA-approved and *none are* endangered." Bob Walter, "Buffalo Bob's Food Business Takes Walk on the Wild Side," *Sacramento Bee*, 1 Sept. 1997, at B4.
 
@@ -15,6 +15,6 @@ Generally speaking, *none is* is the more emphatic way of expressing an idea. Bu
 ## Language-Change Index
 
  - *none* in the sense "not any," with a plural verb: Stage 5
- - Current ratio in print \(*none is* vs. *none are*\): 1.4:1
- - Current ratio in print \(*none of them is* vs. *none of them are*\): 1:1.3
+ - Current ratio in print (*none is* vs. *none are*): 1.4:1
+ - Current ratio in print (*none of them is* vs. *none of them are*): 1:1.3
 

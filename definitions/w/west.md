@@ -1,4 +1,4 @@
 # west
 
-west; westward\(ly\); westerly. See directional words.
+west; westward(ly); westerly. See directional words.
 

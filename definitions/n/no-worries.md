@@ -2,7 +2,7 @@
 
 no worries. This Australianism, meaning "no problem" or "don't worry," appeared first in the mid-1960s. The *OED* records a singular use from Sydney in 1965: "*No worry* . . . it's amazing what a few schooners of jolly does for a bloke." The *Australian National Dictionary* and the *OED* record the plural *no worries* in a 1967 book by J. Hibberd entitled *White with Wire Wheels*: " ‘Well. How was she?' . . . ‘Who, Sue? No worries.' " Other uses are attested from the late 1960s to the mid-1980s.
 
-The actor and writer Paul Hogan popularized the phrase outside Australia in his Crocodile Dundee movies \(the memorable one of 1986, the less memorable sequel of 1988, and the wholly forgettable second sequel of 2001\). Hogan's catchphrase was *No worries, mate*. The wide appeal of those movies made the phrase something of a vogue expression, sometimes with and sometimes without *mate* tacked on the end. In many examples, American and British writers make clear that the phrase is an Australianism—e.g.:
+The actor and writer Paul Hogan popularized the phrase outside Australia in his Crocodile Dundee movies (the memorable one of 1986, the less memorable sequel of 1988, and the wholly forgettable second sequel of 2001). Hogan's catchphrase was *No worries, mate*. The wide appeal of those movies made the phrase something of a vogue expression, sometimes with and sometimes without *mate* tacked on the end. In many examples, American and British writers make clear that the phrase is an Australianism—e.g.:
 
  - "Not since John McEnroe was thrown out five years ago had the laid-back, *no-worries-mate* Australian Open rocked the way it did Monday." "Australian Fans Rock, but Agassi Still Rolls," *Wash. Post*, 24 Jan. 1995, at C7.
 
@@ -10,7 +10,7 @@ The actor and writer Paul Hogan popularized the phrase outside Australia in his 
 
  - " ‘*No worries*,' said Lonie, an Australian who was the only non-Californian signed by Tedford." Jay Heater, "Cal Didn't Venture Far in Finding Strong Recruiting Class," *San Jose Mercury News*, 5 Feb. 2004, Sports §, at 3.
 
-But beginning about the year 2000, the expression had spread into mainstream AmE without any hint of its foreignness. The phrase now commonly appears without any reference to Australia at all, as in the title of Chris Tomasson's March 2004 article: "No Ball? No Basket? *No Worries,*" *Rocky Mountain News* \(Denver\), 19 Mar. 2004, at C7. Sometimes the phrase is part of the syntax <they had no worries about the weather that afternoon>, but often it's a catchphrase used as an incomplete sentence (and this is the quintessential Australianism)—e.g.:
+But beginning about the year 2000, the expression had spread into mainstream AmE without any hint of its foreignness. The phrase now commonly appears without any reference to Australia at all, as in the title of Chris Tomasson's March 2004 article: "No Ball? No Basket? *No Worries,*" *Rocky Mountain News* (Denver), 19 Mar. 2004, at C7. Sometimes the phrase is part of the syntax <they had no worries about the weather that afternoon>, but often it's a catchphrase used as an incomplete sentence (and this is the quintessential Australianism)—e.g.:
 
  - "Rachel McQuillan joined the million-dollar club more than four years ago, an elite group mostly occupied by players known by their first names. And she owns an Olympic bronze medal in doubles from Barcelona in 1992. *No worries*, right?" Lisa Dillman, "First Round Is All Good for Lucky Loser Tennis," *L.A. Times*, 9 Mar. 2001, at D9.
 

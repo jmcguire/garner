@@ -8,5 +8,5 @@ stymie; \***stymy**. This term, a Scotticism from golf, is best spelled *stymie*
 
 The verb is inflected *stymie* > *stymied* > *stymieing*.
 
- - Current ratio in print \(*stymie* vs. *\*stymy*\): 27:1
+ - Current ratio in print (*stymie* vs. *\*stymy*): 27:1
 

@@ -1,4 +1,4 @@
-# eastward\(s\)
+# eastward(s)
 
-eastward\(s\). See directional words.
+eastward(s). See directional words.
 

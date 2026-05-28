@@ -8,9 +8,9 @@ best of all \[\+ pl. n.\] is more logical than *best of any* \[\+ sing. n.\]. Wh
 
  - "That help was rewarded this year—labor unions fared *the best of any special interest group* \[read *the best of all special-interest groups* or *better than any other special-interest group*\]." Mark Martin, "Davis Signs Bills with Eye on Votes," *S.F. Chron.*, 2 Oct. 2002, at A4.
 
-Cf. **better than any \(other\)** & illogic \(b\).
+Cf. **better than any (other)** & illogic (b).
 
-But when the sense is "one \(no matter which\)," and the noun that follows *must* be singular, the word *any* fills the bill—e.g.: "The *best* part of *any* Rush show isn't hearing the new songs done live, but experiencing the onstage chemistry." J.D. Considine, "It's a Rush," *Baltimore Sun*, 7 Nov. 1996, Md. Live §, at 8. See **any \(a\)**.
+But when the sense is "one (no matter which)," and the noun that follows *must* be singular, the word *any* fills the bill—e.g.: "The *best* part of *any* Rush show isn't hearing the new songs done live, but experiencing the onstage chemistry." J.D. Considine, "It's a Rush," *Baltimore Sun*, 7 Nov. 1996, Md. Live §, at 8. See **any (a)**.
 
 ## Language-Change Index
 

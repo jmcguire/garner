@@ -4,5 +4,5 @@ reparable; **repairable**. Although the latter has traditionally been something 
 
 In frequency of occurrence in print sources, *repairable* overcame *reparable* in BrE in the 1870s, and in AmE nearly a century later, in the 1960s. But both remain in fairly common use.
 
-*Reparable* is pronounced /**rep**-ә-rә-bәl/. \(Cf. **irreparable**.\) *Repairable* is pronounced /ri-**pair**-ә-bәl/.
+*Reparable* is pronounced /**rep**-ә-rә-bәl/. (Cf. **irreparable**.) *Repairable* is pronounced /ri-**pair**-ә-bәl/.
 

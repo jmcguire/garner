@@ -6,7 +6,7 @@ axel; **axle**. The first is a figure-skating maneuver; the second is a rod or p
 
  - "Gale Tanger has just completed the triple *axle* \[read *axel*\], triple toe jump of figure skating judging." Gary Rummler, "Figure Skating Judge Worked Years to Reach Her Goal," *Milwaukee J. Sentinel*, 26 Sept. 1996, Neighbors §, at 5.
 
- - "She was grudgingly admired as a superb sportswoman and the first skater in America, and the second woman ever, to achieve a *triple axle* \[read *triple-axel*\] jump." Barbara McMahon, "The Ice Princess and Me," *People* \(U.K.\), 19 Jan. 2014, at 26.
+ - "She was grudgingly admired as a superb sportswoman and the first skater in America, and the second woman ever, to achieve a *triple axle* \[read *triple-axel*\] jump." Barbara McMahon, "The Ice Princess and Me," *People* (U.K.), 19 Jan. 2014, at 26.
 
 ## Language-Change Index
 

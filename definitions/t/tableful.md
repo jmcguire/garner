@@ -1,4 +1,4 @@
 # tableful
 
-tableful. Pl. *tablefuls*. See plurals \(g\).
+tableful. Pl. *tablefuls*. See plurals (g).
 

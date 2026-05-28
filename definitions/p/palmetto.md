@@ -1,6 +1,6 @@
 # palmetto
 
-palmetto. Pl. *palmettos*—not *\*palmettoes*. See plurals \(d\).
+palmetto. Pl. *palmettos*—not *\*palmettoes*. See plurals (d).
 
- - Current ratio in print \(*palmettos* vs. \**palmettoes*\): 5:1
+ - Current ratio in print (*palmettos* vs. \**palmettoes*): 5:1
 

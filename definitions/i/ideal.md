@@ -1,4 +1,4 @@
 # ideal
 
-ideal. See adjectives \(b\) & **idyll \(b\)**.
+ideal. See adjectives (b) & **idyll (b)**.
 

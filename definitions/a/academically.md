@@ -4,5 +4,5 @@ academically. So spelled—not *\*academicly*. E.g.: "The goal of the strategic 
 
 ## Language-Change Index
 
- - *academically* misspelled *\*academicly*: Stage 1 Current ratio in print \(*academically* vs. \**academicly*\): 12,287:1
+ - *academically* misspelled *\*academicly*: Stage 1 Current ratio in print (*academically* vs. \**academicly*): 12,287:1
 

@@ -1,4 +1,4 @@
 # abrogable
 
-abrogable. So formed—not *\*abrogatable*. See -able \(d\) & -atable.
+abrogable. So formed—not *\*abrogatable*. See -able (d) & -atable.
 

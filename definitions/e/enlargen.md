@@ -6,12 +6,12 @@
 
  - "He started stealing his wife's birth control pills in an attempt to *enlargen* \[*enlarge*\] his breasts, had plastic surgery on his face and underwent his own procedures to remove body hair." Dave Wedge, "Deadly Docs," *Boston Herald*, 23 July 2000, at 1.
 
- - "A long, *liver-enlargening* \[read *liver-enlarging*\] cocktail bar \[is\] down the far side." Grace Dent, "Grace Dent Is Wowed," *Evening Standard* \(online\), 27 Sept. 2013.
+ - "A long, *liver-enlargening* \[read *liver-enlarging*\] cocktail bar \[is\] down the far side." Grace Dent, "Grace Dent Is Wowed," *Evening Standard* (online), 27 Sept. 2013.
 
 Cf. **embiggen**.
 
 ## Language-Change Index
 
  - *\*enlargen* for the verb *enlarge*: Stage 1
- - Current ratio in print \(*enlarge* vs. *\*enlargen*\): 1,826:1
+ - Current ratio in print (*enlarge* vs. *\*enlargen*): 1,826:1
 

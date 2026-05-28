@@ -1,4 +1,4 @@
 # universal
 
-universal. See adjectives \(b\).
+universal. See adjectives (b).
 

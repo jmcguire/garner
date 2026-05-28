@@ -1,6 +1,6 @@
 # stiletto
 
-stiletto. Pl. *stilettos*, not \**stilettoes*. See plurals \(d\).
+stiletto. Pl. *stilettos*, not \**stilettoes*. See plurals (d).
 
- - Current ratio in print \(*stilettos* vs. \**stilettoes*\): 17:1
+ - Current ratio in print (*stilettos* vs. \**stilettoes*): 17:1
 

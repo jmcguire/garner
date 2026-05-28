@@ -1,4 +1,4 @@
 # extemporize
 
-extemporize. See **temporize \(b\)**.
+extemporize. See **temporize (b)**.
 

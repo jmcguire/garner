@@ -5,5 +5,5 @@ controversy is pronounced /**kon**-trә-vәr-see/ in AmE and BrE, but often also
 ## Language-Change Index
 
  - *controversy* misspelled *\*controversary*: Stage 1
- - Current ratio in print \(*controversy* vs. \**controversary*\): 17,809:1
+ - Current ratio in print (*controversy* vs. \**controversary*): 17,809:1
 

@@ -1,4 +1,4 @@
 # elicit
 
-elicit. See **educe, illicit** & **solicit \(a\)**.
+elicit. See **educe, illicit** & **solicit (a)**.
 

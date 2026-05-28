@@ -1,4 +1,4 @@
 # Brackets
 
- Brackets . See punctuation \(p\).
+ Brackets . See punctuation (p).
 

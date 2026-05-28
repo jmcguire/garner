@@ -1,4 +1,4 @@
 # assisted suicide
 
-assisted suicide. See **euthanasia \(b\)**.
+assisted suicide. See **euthanasia (b)**.
 

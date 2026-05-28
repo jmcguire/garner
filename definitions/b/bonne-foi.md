@@ -1,4 +1,4 @@
 # *bonne foi*
 
- *bonne foi* . See ***bona fides***, n. **\(a\)**.
+ *bonne foi* . See ***bona fides***, n. **(a)**.
 

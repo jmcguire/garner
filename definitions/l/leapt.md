@@ -8,10 +8,10 @@ leapt; **leaped**. Both are acceptable past-tense and past-participial forms for
 
  - "Sharon Kelly . . . *lept* \[read *leapt*\] to her feet in joy when the award was announced." Julie Irwin, "Five City Schools Share $25,000 for Excellence," *Cincinnati Enquirer*, 30 Oct. 1997, at C2.
 
-*Leapt*, which used to be the more common form in 20th-century BrE \(but not in the 1800s\), is steadily being displaced by *leaped*. In frequency of use, the two forms are neck-and-neck in modern BrE print sources, but *leaped* has been predominant in AmE since the 1700s. See irregular verbs.
+*Leapt*, which used to be the more common form in 20th-century BrE (but not in the 1800s), is steadily being displaced by *leaped*. In frequency of use, the two forms are neck-and-neck in modern BrE print sources, but *leaped* has been predominant in AmE since the 1700s. See irregular verbs.
 
 ## Language-Change Index
 
  - *leapt* misspelled *\*lept*: Stage 1
- - Current ratio in print \(*leaped* vs. *leapt*\): 1.2:1
+ - Current ratio in print (*leaped* vs. *leapt*): 1.2:1
 

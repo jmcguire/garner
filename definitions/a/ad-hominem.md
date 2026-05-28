@@ -1,6 +1,6 @@
 # ad hominem
 
-ad hominem \(= \[of an argument\] directed to an adversary's character rather than to the substance of the adversary's argument\), dating in English from the 1500s, is a latinism literally meaning "to the person." The full phrase in Latin is *argumentum ad hominem*, denoting an argument so directed. Occasionally the full phrase appears—e.g.: " ‘But supposing it had come to something?' demanded Miss Barton, pinning the *argumentum ad hominem* with a kind of relish." Dorothy L. Sayers, *Gaudy Night* 371 \(1936\).
+ad hominem (= \[of an argument\] directed to an adversary's character rather than to the substance of the adversary's argument), dating in English from the 1500s, is a latinism literally meaning "to the person." The full phrase in Latin is *argumentum ad hominem*, denoting an argument so directed. Occasionally the full phrase appears—e.g.: " ‘But supposing it had come to something?' demanded Miss Barton, pinning the *argumentum ad hominem* with a kind of relish." Dorothy L. Sayers, *Gaudy Night* 371 (1936).
 
 The more usual shortened form is sometimes misspelled *\*ad hominum*—e.g.:
 
@@ -12,5 +12,5 @@ The more usual shortened form is sometimes misspelled *\*ad hominum*—e.g.:
 
 ## Language-Change Index
 
- - *ad hominem* misspelled *\*ad hominum*: Stage 1 Current ratio in print \(*ad hominem* vs. \**ad hominum*\): 103:1
+ - *ad hominem* misspelled *\*ad hominum*: Stage 1 Current ratio in print (*ad hominem* vs. \**ad hominum*): 103:1
 

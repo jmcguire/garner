@@ -1,6 +1,6 @@
 # epitome
 
-epitome /i-**pit**-ә-mee/ or, in AmE, /ee-**pit**-ә-mee/ = \(1\) an ideal representation of a class of things; or \(2\) a summary, abstract. E.g. \(sense 1\): "In short, he is the *epitome* of all that many liberals find evil in the boardrooms of America." Ted Bunker, "No Place for Liberals at This CEO's Table," *Boston Herald*, 7 Oct. 1996, at 26.
+epitome /i-**pit**-ә-mee/ or, in AmE, /ee-**pit**-ә-mee/ = (1) an ideal representation of a class of things; or (2) a summary, abstract. E.g. (sense 1): "In short, he is the *epitome* of all that many liberals find evil in the boardrooms of America." Ted Bunker, "No Place for Liberals at This CEO's Table," *Boston Herald*, 7 Oct. 1996, at 26.
 
 The word does not mean "pinnacle" or "climax"—e.g.:
 
@@ -13,5 +13,5 @@ The word does not mean "pinnacle" or "climax"—e.g.:
 ## Language-Change Index
 
  - *epitome* misused for *pinnacle*: Stage 1
- - Current ratio in print \(*reach the pinnacle* vs. *\*reach the epitome*\): 83:1
+ - Current ratio in print (*reach the pinnacle* vs. *\*reach the epitome*): 83:1
 

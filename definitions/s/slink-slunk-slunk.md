@@ -2,7 +2,7 @@
 
 slink > slunk > slunk. So inflected. *\*Slank* and *\*slinked* are nonstandard variants in the past tense and past participle—e.g.:
 
- - "The advent of the riders bruited by scurvid curs that howled woundedly and *slank* \[read *slunk*\] among the crumbling walls." Cormac McCarthy, *Blood Meridian, Or, The Evening Redness in the West* 97 \(1992\). \(On the fragmentary nature of that sentence, see incomplete sentences.)
+ - "The advent of the riders bruited by scurvid curs that howled woundedly and *slank* \[read *slunk*\] among the crumbling walls." Cormac McCarthy, *Blood Meridian, Or, The Evening Redness in the West* 97 (1992). (On the fragmentary nature of that sentence, see incomplete sentences.)
 
  - "As the minutes ticked away and it dawned on him that he wouldn't be getting any money, he *slinked* \[read *slunk*\] toward the door and—well—stole away." Robert Kilborn & Lance Carden, "Money in the Bank," *Christian Science Monitor*, 18 Nov. 1998, at 20.
 
@@ -23,11 +23,11 @@ See irregular verbs.
 ## Language-Change Index
 
 1. *\*slank* for *slunk* as past tense of *slink*: Stage 1
- - Current ratio in print \(*slunk away* vs. *\*slank away*\): 243:1
+ - Current ratio in print (*slunk away* vs. *\*slank away*): 243:1
 
 2. *\*slinked* for *slunk* as past tense of *slink*: Stage 2
- - Current ratio in print \(*slunk off* vs. *\*slinked off *\): 7:1
+ - Current ratio in print (*slunk off* vs. *\*slinked off *): 7:1
 
 3. *\*slunked* for *slunk* as past tense of *slink*: Stage 1
- - Current ratio in print \(*slunk out* vs. *\*slunked out*\): 688:1
+ - Current ratio in print (*slunk out* vs. *\*slunked out*): 688:1
 

@@ -5,5 +5,5 @@ deity /**dee**-i-tee/ or /**day**-i-tee/ is sometimes misspelled *\*diety*—e.g
 ## Language-Change Index
 
  - *deity* misspelled *\*diety*: Stage 1
- - Current ratio in print \(*deity* vs. \**diety*\): 458:1
+ - Current ratio in print (*deity* vs. \**diety*): 458:1
 

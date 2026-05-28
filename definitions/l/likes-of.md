@@ -1,4 +1,4 @@
 # likes of
 
-likes of. See **like \(g\)**.
+likes of. See **like (g)**.
 

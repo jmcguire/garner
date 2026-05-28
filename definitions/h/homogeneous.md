@@ -8,7 +8,7 @@ Yet the two spellings appear in print with remarkable homogeneity: a March 2003 
 
  - "The $425 million foundation . . . has financed such plans in Oregon and South Dakota, in communities that are smaller and more *homogenous* \[read *homogeneous*\]." Stephanie Strom, "A Withdrawn Aid Offer Leaves Yakima Bruised," *N.Y. Times*, 6 Mar. 2003, at A20.
 
- - " ‘Beyond the Melting Pot' . . . scoffed at ‘the notion that the intense and unprecedented mixture of ethnic and religious groups in American life was soon to be blended into a *homogeneous* end product.' " Adam Clymer, "Daniel Patrick Moynihan Is Dead," *N.Y. Times*, 27 Mar. 2003, at A1 \(quoting Moynihan\).
+ - " ‘Beyond the Melting Pot' . . . scoffed at ‘the notion that the intense and unprecedented mixture of ethnic and religious groups in American life was soon to be blended into a *homogeneous* end product.' " Adam Clymer, "Daniel Patrick Moynihan Is Dead," *N.Y. Times*, 27 Mar. 2003, at A1 (quoting Moynihan).
 
 Writers are best advised to use *homogeneous*—and to pronounce all five syllables. It corresponds nicely to its antonym, *heterogeneous*. See **heterogeneous**.
 
@@ -17,7 +17,7 @@ The scientific community has moved on from the theft of its four-syllable term, 
 ## Language-Change Index
 
 1. *\*homogenous* for the traditional *homogeneous*: Stage 3
- - Current ratio in print \(*homogeneous* vs. *\*homogenous*\): 3:1
+ - Current ratio in print (*homogeneous* vs. *\*homogenous*): 3:1
 
 2. *homogeneous* pronounced nontraditionally with four syllables: Stage 4
 

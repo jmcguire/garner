@@ -1,4 +1,4 @@
 # testimony
 
-testimony. See **evidence**, n. **\(a\)**.
+testimony. See **evidence**, n. **(a)**.
 

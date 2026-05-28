@@ -1,4 +1,4 @@
 # contumacious
 
-contumacious. See **contemptuous \(b\)**.
+contumacious. See **contemptuous (b)**.
 

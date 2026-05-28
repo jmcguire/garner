@@ -1,4 +1,4 @@
 # averment
 
-averment; \***averral**. See **aver \(b\)**.
+averment; \***averral**. See **aver (b)**.
 

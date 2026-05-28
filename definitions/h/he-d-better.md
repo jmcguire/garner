@@ -1,4 +1,4 @@
 # he'd better
 
-he'd better; **he better**. See **better \(a\)**.
+he'd better; **he better**. See **better (a)**.
 

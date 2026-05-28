@@ -1,6 +1,6 @@
 # confinable
 
-confinable. So spelled—not *\*confineable*. See spelling \(d\).
+confinable. So spelled—not *\*confineable*. See spelling (d).
 
- - Current ratio in print \(*confinable* vs. \**confineable*\): 10:1
+ - Current ratio in print (*confinable* vs. \**confineable*): 10:1
 

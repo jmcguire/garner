@@ -1,4 +1,4 @@
 # infect
 
-infect. See **infest \(a\)**.
+infect. See **infest (a)**.
 

@@ -1,4 +1,4 @@
 # Quotation Marks
 
-Quotation Marks. See punctuation \(n\).
+Quotation Marks. See punctuation (n).
 

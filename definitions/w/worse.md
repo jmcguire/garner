@@ -6,5 +6,5 @@ worse; **worst; \*worser**. Writers seldom have trouble with the adjectives *bad
 
  - "The Giants got a little worse. The Dodgers got worse than that. The Rockies got even *worser*." Ray Ratto, "Don't Expect a Comeback, Not Even, ‘Oh Yeah?' " *S.F. Examiner*, 16 Sept. 1998, at D1.
 
- - "I was so terrified at this prospect that I went straight home, washed down the better \(or *worser*\) part of a quart of gin, and cried myself to sleep." Jonathan Yardley, "High Anxiety in the Space Age," *Wash. Post*, 2 Nov. 1998, at E2.
+ - "I was so terrified at this prospect that I went straight home, washed down the better (or *worser*) part of a quart of gin, and cried myself to sleep." Jonathan Yardley, "High Anxiety in the Space Age," *Wash. Post*, 2 Nov. 1998, at E2.
 

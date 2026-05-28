@@ -1,4 +1,4 @@
 # all of
 
-all of. See **all \(a\)**.
+all of. See **all (a)**.
 

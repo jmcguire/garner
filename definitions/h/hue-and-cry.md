@@ -1,6 +1,6 @@
 # hue and cry
 
-hue and cry = \(1\) formerly, a general call to citizens to chase down and capture a suspected criminal; or \(2\) commonly, a general clamor or uproar. *Hue* here is used in a sense \(= an outcry\) that is now obsolete except in this irreversible binomial. Since 1900, the clearly predominant wording is with the indefinite article: *raise a hue and cry*, not *raise the hue and cry*.
+hue and cry = (1) formerly, a general call to citizens to chase down and capture a suspected criminal; or (2) commonly, a general clamor or uproar. *Hue* here is used in a sense (= an outcry) that is now obsolete except in this irreversible binomial. Since 1900, the clearly predominant wording is with the indefinite article: *raise a hue and cry*, not *raise the hue and cry*.
 
 The phrase is occasionally misrendered *\*hew and cry*—e.g.:
 
@@ -11,6 +11,6 @@ The phrase is occasionally misrendered *\*hew and cry*—e.g.:
 ## Language-Change Index
 
  - *\*hew and cry* for *hue and cry*: Stage 1
- - Current ratio in print \(*hue and cry* vs. *\*hew* *and* *cry*\): 294:1
- - Current ratio in print \(*raise a hue and cry* vs. *raise the hue and cry*\): 1.7:1
+ - Current ratio in print (*hue and cry* vs. *\*hew* *and* *cry*): 294:1
+ - Current ratio in print (*raise a hue and cry* vs. *raise the hue and cry*): 1.7:1
 

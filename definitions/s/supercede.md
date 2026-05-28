@@ -1,4 +1,4 @@
 # \*supercede
 
-\*supercede. See **supersede \(a\)**.
+\*supercede. See **supersede (a)**.
 

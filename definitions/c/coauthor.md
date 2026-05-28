@@ -1,4 +1,4 @@
 # coauthor
 
-coauthor, vb. See **author**, v.t. **\(a\).**
+coauthor, vb. See **author**, v.t. **(a).**
 

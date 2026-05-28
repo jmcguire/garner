@@ -2,7 +2,7 @@
 
 hauteur /hoh-**tʊr**/ is a gallicism denoting haughtiness in manner—e.g.:
 
- - "This gives her dancing a folkish, down-home, countrified cast, a bit of humor or even a moment of toughness in the midst of her conventional flamenco *hauteur*." Judith Green, "La Tania, Marin Move Past Gypsy Roots of Flamenco," *S.F. Examiner*, 12 Oct. 1996, at C1. \(On the use of *Gypsy* there, see race-related terms \(m\).)
+ - "This gives her dancing a folkish, down-home, countrified cast, a bit of humor or even a moment of toughness in the midst of her conventional flamenco *hauteur*." Judith Green, "La Tania, Marin Move Past Gypsy Roots of Flamenco," *S.F. Examiner*, 12 Oct. 1996, at C1. (On the use of *Gypsy* there, see race-related terms (m).)
 
  - "Robinson goes for a dry *hauteur* as Jacqueline, which she often achieves, anchoring the play in a certain feigned reality." Jan Herman, "French Farce," *L.A. Times*, 14 Jan. 1997, at F4.
 

@@ -1,4 +1,4 @@
 # \*sluff off
 
-\*sluff off. See **slough \(b\)**.
+\*sluff off. See **slough (b)**.
 

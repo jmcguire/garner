@@ -1,4 +1,4 @@
 # \*hisself
 
-\*hisself. See pronouns \(e\).
+\*hisself. See pronouns (e).
 

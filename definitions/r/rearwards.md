@@ -1,4 +1,4 @@
-# rearward\(s\)
+# rearward(s)
 
-rearward\(s\). See directional words \(a\).
+rearward(s). See directional words (a).
 

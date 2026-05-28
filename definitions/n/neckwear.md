@@ -1,6 +1,6 @@
 # neckwear
 
-neckwear \(= clothing worn about the neck\) is sometimes misspelled *\*neckware*, on the false analogy of *hardware* or *software*—e.g.:
+neckwear (= clothing worn about the neck) is sometimes misspelled *\*neckware*, on the false analogy of *hardware* or *software*—e.g.:
 
  - "Ms. Keys, 31, had been a *neckware* \[read *neckwear*\] designer, concentrating on women's scarves, when someone gave her husband a fancy-looking Italian tie." James Barron, "Oh, to Be Sneaky and Well Dressed," *N.Y. Times*, 1 Sept. 1996, § 1, at 47.
 
@@ -11,5 +11,5 @@ neckwear \(= clothing worn about the neck\) is sometimes misspelled *\*neckware*
 ## Language-Change Index
 
  - *\*neckware* for *neckwear*: Stage 1
- - Current ratio in print \(*neckwear* vs. *\*neckware*\): 35:1
+ - Current ratio in print (*neckwear* vs. *\*neckware*): 35:1
 

@@ -1,4 +1,4 @@
 # presiding juror
 
-presiding juror. See **foreman \(b\)**.
+presiding juror. See **foreman (b)**.
 

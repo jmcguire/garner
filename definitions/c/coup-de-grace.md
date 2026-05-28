@@ -1,6 +1,6 @@
 # coup de grâce
 
-coup de grâce /koo dә **grahs**/ means "a blow of mercy," a compassionate act that puts a mortally wounded person or animal out of misery—used by extension to describe any decisive finishing act. The phrase is sometimes mispronounced /koo dә **grah**/, as if the last word were spelled *gras* \(as in *pâté de foie gras*\). But worse than that, the phrase is sometimes mistakenly written *\*coup de gras* \(which seems like the action of a lawnmower\)—e.g.:
+coup de grâce /koo dә **grahs**/ means "a blow of mercy," a compassionate act that puts a mortally wounded person or animal out of misery—used by extension to describe any decisive finishing act. The phrase is sometimes mispronounced /koo dә **grah**/, as if the last word were spelled *gras* (as in *pâté de foie gras*). But worse than that, the phrase is sometimes mistakenly written *\*coup de gras* (which seems like the action of a lawnmower)—e.g.:
 
  - "Lady Thatcher may not be indestructible, but her memoirs show that anyone seeking to apply the *coup de gras* \[read *coup de grâce*\] will have to pay highly for the privilege." Philip Ziegler, "Thatcher Memoirs," *Daily Telegraph*, 18 Oct. 1993, at 4.
 
@@ -15,5 +15,5 @@ Even the sense is sometimes mangled. To make *coup de grâce* cruel, bloody, and
 1. *coup de grâce* mispronounced /koo dә **grah**/: Stage 2
 
 2. *\*coup de gras* for *coup de grâce*: Stage 1
- - Current ratio in print \(*coup de grâce* vs. *\*coup de gras*\): 42:1
+ - Current ratio in print (*coup de grâce* vs. *\*coup de gras*): 42:1
 

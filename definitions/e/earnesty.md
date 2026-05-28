@@ -4,12 +4,12 @@
 
  - "Born three years after the civil war, he carries an image of the new post-Franco generation, of youthful *earnesty* \[read *earnestness*\], of modernness tempered with mature moderation." Ana Martinez-Soler, "Spain and Socialism," *Christian Science Monitor*, 21 Oct. 1982, at 12.
 
- - "She spoke often and extemporaneously about winning, losing, overcoming, focusing and so forth with a matter-of-fact *earnesty* \[read *earnestness*\] that suggested she believed it all fervently." Sara Corbett, *Venus to the Hoop* 52 \(1997\).
+ - "She spoke often and extemporaneously about winning, losing, overcoming, focusing and so forth with a matter-of-fact *earnesty* \[read *earnestness*\] that suggested she believed it all fervently." Sara Corbett, *Venus to the Hoop* 52 (1997).
 
  - "If all Semisonic has going for it is *earnesty* \[read *earnestness*\] and poignancy, well, that's a lot more than most other bands." Malcolm Mayhew, "Semisonic Concert at Deep Ellum Strangely Irresistible," *Ft. Worth Star-Telegram*, 31 Jan. 1999, at 14.
 
 ## Language-Change Index
 
  - *\*earnesty* for *earnestness*: Stage 1
- - Current ratio in print \(*earnestness* vs. *\*earnesty*\): 2,020:1
+ - Current ratio in print (*earnestness* vs. *\*earnesty*): 2,020:1
 

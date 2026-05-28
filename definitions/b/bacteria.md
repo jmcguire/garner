@@ -4,9 +4,9 @@ bacteria, the plural form of *bacterium*, takes a plural verb. From the mid-1800
 
  - "Scientists reported today a sharp increase in antibiotic-resistant strains of the *bacteria* that *cause* \[not *causes*\] pneumonia, meningitis and other diseases." "Sharp Rise Found in Resistance of Pneumonia Bacteria to Drugs," *N.Y. Times*, 25 Aug. 1995, at A18.
 
- - "Some *bacteria* are pathogenic \(disease causing\) but many are beneficial, even essential to our health." Richard T. Bosshardt, "If Yogurt Doesn't Help, Probiotics May Be Solution," *Orlando Sentinel*, 1 Sept. 2002, Lake §, at K12.
+ - "Some *bacteria* are pathogenic (disease causing) but many are beneficial, even essential to our health." Richard T. Bosshardt, "If Yogurt Doesn't Help, Probiotics May Be Solution," *Orlando Sentinel*, 1 Sept. 2002, Lake §, at K12.
 
-See plurals \(b\).
+See plurals (b).
 
 Yet since the late 1800s, some writers have ignored the plural form and erroneously treated *bacteria* as singular—e.g.:
 
@@ -21,6 +21,6 @@ The singular usage shows no signs of gaining ground in frequency of use.
 ## Language-Change Index
 
  - *bacteria* as a singular: Stage 2
- - Current ratio in print \(*a bacterium was* vs. *\*a bacteria was*\): 5:1
- - Current ratio in print \(*bacteria* vs. *\*bacteriums*\): 24,680:1
+ - Current ratio in print (*a bacterium was* vs. *\*a bacteria was*): 5:1
+ - Current ratio in print (*bacteria* vs. *\*bacteriums*): 24,680:1
 

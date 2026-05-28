@@ -1,4 +1,4 @@
 # south
 
-south; **southward\(s\)**; **southerly**. See directional words.
+south; **southward(s)**; **southerly**. See directional words.
 

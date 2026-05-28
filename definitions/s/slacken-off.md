@@ -1,4 +1,4 @@
-# slacken \(off\)
+# slacken (off)
 
-slacken \(off\). See phrasal verbs.
+slacken (off). See phrasal verbs.
 

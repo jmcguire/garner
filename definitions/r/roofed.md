@@ -13,5 +13,5 @@ Cf. **hoofed**.
 ## Language-Change Index
 
  - *\*rooved* for *roofed*: Stage 1
- - Current ratio in print \(*roofed* vs. *\*rooved*\): 1,206:1
+ - Current ratio in print (*roofed* vs. *\*rooved*): 1,206:1
 

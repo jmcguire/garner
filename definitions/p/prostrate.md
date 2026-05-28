@@ -1,4 +1,4 @@
 # prostrate
 
-prostrate. See **prone** & **prostate \(b\)**.
+prostrate. See **prone** & **prostate (b)**.
 

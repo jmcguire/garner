@@ -1,6 +1,6 @@
 # citable
 
-citable. So spelled—not *\*citeable*. See spelling \(d\).
+citable. So spelled—not *\*citeable*. See spelling (d).
 
- - Current ratio in print \(*citable* vs. \**citeable*\): 32:1
+ - Current ratio in print (*citable* vs. \**citeable*): 32:1
 

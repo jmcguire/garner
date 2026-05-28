@@ -5,5 +5,5 @@ qualitative; \***qualitive**. The first is standard in AmE and BrE alike. The se
 ## Language-Change Index
 
  - *\*qualitive* for *qualitative*: Stage 1
- - Current ratio in print \(*qualitative* vs. *\*qualitive*\): 5,653:1
+ - Current ratio in print (*qualitative* vs. *\*qualitive*): 5,653:1
 

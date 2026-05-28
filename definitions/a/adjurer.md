@@ -1,6 +1,6 @@
 # adjurer
 
-adjurer; \***adjuror**. The *-er* spelling is standard. See -er \(a\).
+adjurer; \***adjuror**. The *-er* spelling is standard. See -er (a).
 
- - Current ratio in print \(*adjurer* vs. \**adjuror*\): 1.3:1
+ - Current ratio in print (*adjurer* vs. \**adjuror*): 1.3:1
 

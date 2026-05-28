@@ -1,6 +1,6 @@
 # as well
 
-as well. When used at the beginning of a sentence, this phrase has traditionally been considered poor usage. But in Canada it's standard as an equivalent of *Also, . . .* or *In addition, . . .* —or more likely the sentence-starting *And*. \(See **and \(a\)**.) Each of the following examples comes from a Canadian publication. In AmE they would be edited as shown in the brackets:
+as well. When used at the beginning of a sentence, this phrase has traditionally been considered poor usage. But in Canada it's standard as an equivalent of *Also, . . .* or *In addition, . . .* —or more likely the sentence-starting *And*. (See **and (a)**.) Each of the following examples comes from a Canadian publication. In AmE they would be edited as shown in the brackets:
 
  - "*As well,* \[read *And*\] people would have to work longer to qualify for UI \[unemployment insurance\]." Derek Ferguson, "‘Attack' on Jobless Riles Labor Chief," *Toronto Star*, 16 Apr. 1996, at A5.
 
@@ -10,6 +10,6 @@ as well. When used at the beginning of a sentence, this phrase has traditionally
 
 ## Language-Change Index
 
- - *as well* as a sentence-starter \(outside Canada\): Stage 2
- - Current ratio in print \(capitalized *Also* vs. capitalized *As well*\): 14:1
+ - *as well* as a sentence-starter (outside Canada): Stage 2
+ - Current ratio in print (capitalized *Also* vs. capitalized *As well*): 14:1
 

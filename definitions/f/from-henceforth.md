@@ -1,4 +1,4 @@
 # \*from henceforth
 
-\*from henceforth. See **henceforth \(b\)**.
+\*from henceforth. See **henceforth (b)**.
 

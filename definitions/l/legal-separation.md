@@ -1,4 +1,4 @@
 # legal separation
 
-legal separation. See **divorce \(c\)**.
+legal separation. See **divorce (c)**.
 

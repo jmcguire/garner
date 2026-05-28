@@ -1,6 +1,6 @@
 # confessedly
 
-confessedly \(= admittedly; by acknowledgment or confession\) was once controversial. In 1966, Wilson Follett too narrowly declared that "the test of legitimacy for an adverb made from an adjective is that it fit the formula *in \[x\] manner*" \(*MAU* at 279\)—a formula that *confessedly* does not fit. Follett's primary objection was to *reportedly*, the earliest recorded use of which was in 1850. *Confessedly* has been used since at least 1640, however, and is undeniably \(or perhaps confessedly\) useful. Still, adverbs ending in *-edly* can assuredly be overworked.
+confessedly (= admittedly; by acknowledgment or confession) was once controversial. In 1966, Wilson Follett too narrowly declared that "the test of legitimacy for an adverb made from an adjective is that it fit the formula *in \[x\] manner*" (*MAU* at 279)—a formula that *confessedly* does not fit. Follett's primary objection was to *reportedly*, the earliest recorded use of which was in 1850. *Confessedly* has been used since at least 1640, however, and is undeniably (or perhaps confessedly) useful. Still, adverbs ending in *-edly* can assuredly be overworked.
 
 Following are three typical—and unobjectionable—uses of *confessedly*:
 

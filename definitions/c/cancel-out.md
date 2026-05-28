@@ -1,4 +1,4 @@
-# cancel \(out\)
+# cancel (out)
 
-cancel \(out\). See phrasal verbs.
+cancel (out). See phrasal verbs.
 

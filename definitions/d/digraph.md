@@ -1,4 +1,4 @@
 # digraph
 
-digraph. See **diphthong \(b\)**.
+digraph. See **diphthong (b)**.
 

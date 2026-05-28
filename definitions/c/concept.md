@@ -1,6 +1,6 @@
 # concept
 
-concept; **conception**. Both may mean "an abstract idea." *Conception* also means "the act of forming abstract ideas." H.W. Fowler wrote that *conception* is the ordinary term, *concept* the philosophical term \(*FMEU1* at 88\). But the words have undergone a reversal since he was writing in 1926, and today *concept* is the ordinary term.
+concept; **conception**. Both may mean "an abstract idea." *Conception* also means "the act of forming abstract ideas." H.W. Fowler wrote that *conception* is the ordinary term, *concept* the philosophical term (*FMEU1* at 88). But the words have undergone a reversal since he was writing in 1926, and today *concept* is the ordinary term.
 
 True, *concept* is sometimes just a high-flown equivalent of *design*, *program*, *thought*, or *idea*—e.g.:
 
@@ -10,7 +10,7 @@ True, *concept* is sometimes just a high-flown equivalent of *design*, *program*
 
 But the word is becoming so commonplace that it has lost most of the original distinction.
 
-When the purpose is to denote a cluster of design elements making up a unified theme, *concept* fills the bill <the company owns eight locations of six restaurant concepts>. Durable television shows that have spin-offs and reboots are often called concepts—e.g.: "Like everyone else familiar with ‘Star Trek,' Frakes has his own thoughts about the longevity of the *concept*, which debuted on television 30 years ago this fall." Ron Weiskind, "Frakes to Helm Next ‘Trek' Film—Behind the Camera," *Chicago Sun-Times*, 12 Apr. 1996, Weekend Plus §, at 58. \(On using *helm* as a verb, see **helm**.\) And the word is often used attributively in allied senses, as in the phrases *concept album* \(rock music\) and *concept car* \(automotive engineering\).
+When the purpose is to denote a cluster of design elements making up a unified theme, *concept* fills the bill <the company owns eight locations of six restaurant concepts>. Durable television shows that have spin-offs and reboots are often called concepts—e.g.: "Like everyone else familiar with ‘Star Trek,' Frakes has his own thoughts about the longevity of the *concept*, which debuted on television 30 years ago this fall." Ron Weiskind, "Frakes to Helm Next ‘Trek' Film—Behind the Camera," *Chicago Sun-Times*, 12 Apr. 1996, Weekend Plus §, at 58. (On using *helm* as a verb, see **helm**.) And the word is often used attributively in allied senses, as in the phrases *concept album* (rock music) and *concept car* (automotive engineering).
 
 When the reference is to a way of conceiving or a manner of thought, as opposed to some straightforward idea, *conception* is the right word—e.g.:
 

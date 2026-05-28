@@ -1,4 +1,4 @@
 # ridden
 
-ridden. See **laden \(b\)** & **ride**.
+ridden. See **laden (b)** & **ride**.
 

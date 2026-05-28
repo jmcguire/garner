@@ -1,4 +1,4 @@
 # imbroglio
 
-imbroglio. Pl. *imbroglios*. See plurals \(d\).
+imbroglio. Pl. *imbroglios*. See plurals (d).
 

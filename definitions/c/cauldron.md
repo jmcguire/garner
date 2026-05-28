@@ -6,7 +6,7 @@ cauldron; \***caldron**. The first is the preferred spelling in AmE and BrE alik
 
  - "Chefs have been working for days, preparing *cauldrons* of a new dish called ‘Boliche Suey,' to mark the occasion." Steve Otto, "Big Guava Taken by China\!," *Tampa Trib.*, 1 July 1997, Metro §, at 1.
 
- - "He remained in that competitive *cauldron* for 11 years." Stephen Seplow & Jonathan Storm, "Brandon Tartikoff, TV Wunderkind, Dead at 48," *Record* \(N.J.\), 28 Aug. 1997, at L9.
+ - "He remained in that competitive *cauldron* for 11 years." Stephen Seplow & Jonathan Storm, "Brandon Tartikoff, TV Wunderkind, Dead at 48," *Record* (N.J.), 28 Aug. 1997, at L9.
 
- - Current ratio in print \(*cauldron* vs. \**caldron*\): 7:1
+ - Current ratio in print (*cauldron* vs. \**caldron*): 7:1
 
