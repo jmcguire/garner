@@ -31,6 +31,8 @@
  - the search isn't correctly searching for essays, e.g. "Hypercorrection (essay)"
  - forwarding check is too broad, see the very end of "phrasal verbs (essay)", which forwards.
  - Language Change index is sometimes not at the end of an entry, but just at the end of a lettered section. Just make it bold instead of a subheading? (e.g. often)
+ - "spelling (essay)" ends with "no entry found"
+ - --plain is getting an unformatted pile of text, when really we need to start with markdown and strip the colors (but keep the things like tables with correct spacing)
 
 # usage
 
@@ -73,4 +75,11 @@ find . -type file -print | xargs perl -ne'print "$ARGV: $1\n" if /(See ([^.]+)\.
 
 # find good candidates for tables
 find . -type file -print | xargs perl -ne'print "$ARGV: $_\n" if /^\*+[\w\s]+\*+ \*+[\w\s]+\*+/'
+```
+
+```
+# and in vi
+
+:'a,.g/\S/s/^/ - /
+:'a .g/^\s*$/d
 ```
