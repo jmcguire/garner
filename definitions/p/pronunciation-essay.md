@@ -140,133 +140,73 @@ There are many words with traditionally silent consonants, some better known tha
 
 It's not surprising that some names—especially place names—would give people trouble. Many suffixes, in particular, are often compressed in traditional speech:
 
-*borough*, *burgh* /bәrә/hence *Sedburgh* /**sed**-bәr \(or even seb-әr\!\)/
-
-*cester* /stәr/hence *Worcester* /**w**ʊ**s**-tәr/
-
-*ford* /fәrd/hence *Hereford* /**hәr**-fәrd/
-
-*ham* /әm/hence *Birmingham* /**bәr**-ming-әm/
-
--*mouth* /mәth/hence *Portsmouth* /**ports**-mәth/
-
--*shire* /shәr/hence *Hampshire* /**ham**-shәr/
+ - *borough*, *burgh* /bәrә/hence *Sedburgh* /**sed**-bәr \(or even seb-әr\!\)/
+ - *cester* /stәr/hence *Worcester* /**w**ʊ**s**-tәr/
+ - *ford* /fәrd/hence *Hereford* /**hәr**-fәrd/
+ - *ham* /әm/hence *Birmingham* /**bәr**-ming-әm/
+ - -*mouth* /mәth/hence *Portsmouth* /**ports**-mәth/
+ - -*shire* /shәr/hence *Hampshire* /**ham**-shәr/
 
 To say these as they're spelled is to overpronounce them.
 
 Some have suggested that every county and town have local pronunciations just for the purpose of immediately detecting nonlocals. Following is just a sampling of the unexpected pronunciations to be found in the English-speaking world:
 
-*Avoch* \(Scotland\) /okh/
-
-*Beaucoup* \(Ill.\) /buk-**әp**/
-
-*Beaulieu* \(England\) /**byoo**-lee/
-
-*Belvoir* \(England\) /**bee**-vәr/
-
-*Bexar* \(County, Tex.\) /bair/
-
-*Biloxi* \(Miss.\) /bi-**lәk**-see/
-
-*Boise* \(Idaho\) /**boy**-zee/
-
-*Boonton* \(N.J.\) /**boot**-n/
-
-*Brewood* \(England\) /brood/
-
-*Buena* \(N.J.\) /**byoo**-nә/ \(same for *Buena Vista, Col.*\)
-
-*Champoeg* \(Or.\) /sham-**poo**-ee/
-
-*Featherstonhaugh* \(England\) /**fan**-shaw/
-
-*Forked River* \(N.J.\) /**for**-kid/
-
-*Cheesequake* \(N.J.\) /**chess**-kwik/
-
-*Cherryville* \(N.C.\) /**chәr**-vәl/
-
-*Cholmondeley* \(England\) /**chәm**-lee/
-
-*Closter* \(N.J.\) /**kloh**-stәr/
-
-*Des Moines* \(Iowa\) /dә **moyn**/
-
-*Du Bois* \(Ill.\) /**doo** boyz/
-
-*Dun Laoghaire* \(Ireland\) /dәn **leer**-ee/
-
-*Etobicoke* \(Canada\) /e-**toh**-bi-koh/
-
-*Gallipolis* \(Ohio\) /gal-i-pә-**lees**/
-
-*Gloucester* \(England, Mass., etc.\) /**glos**-tәr/
-
-*Gratiot* \(Avenue, Detroit\) /**grash**-it/
-
-*Greenwich* \(England, Connecticut, etc.\) /**gren**-ich/but /**green**-wich/ in Ohio
-
-*Happisburgh* \(England\) /**hayz**-b\[ә\]rә/
-
-*Havre* \(Mont.\) /**hav**-әr/
-
-*Kearny* \(N.J.\) /**kahr**-nee/
-
-*Kirkaldy* \(Scotland\) /kәr-**kaw**-dee/
-
-*Leicester* \(England\) /**les**-tәr/
-
-*Leominster* \(Mass.\) /**lem**-in-stәr/
-
-*Lodz* \(Poland\) /wʊdz/
-
-*Loughbrough* \(England\) /**lәf**-brә/
-
-*Mackinac* \(Mich.\) /**mak**-i-naw/
-
-*Mantua* \(Utah\) /**man**-tә-way/
-
-*Mexia* \(Tex.\) /mә-**hay**-ә/
-
-*Milngavie* \(Scotland\) /mʊl-**gī**/
-
-*Mousehole* \(England\) /**mow**-zәl/
-
-*Nacogdoches* \(Tex.\) /nak-ә-**dohch**-әs/
-
-*Natchitoches* \(La.\) /**nak**-i-tish/
-
-*Pedernales* \(Tex.\) /pәr-dә-**nal**-әz/
-
-*Puyallap* \(Wa.\) /pyoo-**wal**-әp/ or /-**wahl**-әp/
-
-*Quitaque* \(Tex.\) /**kit**-ә-kway/
-
-*Rio Grande* \(Ohio\) /**rī**-oh grand/
-
-*Sault Ste. Marie* \(Mich.\) /**soo** saynt mә-**ree**/
-
-*Schuylkill* \(Pa.\) /**skoo**-kl/
-
-*Sequim* \(Wa.\) /skwim/
-
-*Southwark* \(England\) /**sәth**-әrk/
-
-*Spokane* \(Wa.\) /spoh-**kan**/
-
-*Talliaferro* \(County, Ga.\) /**tol**-i-vәr/
-
-*Tooele* \(Utah\) /too-**wil**-ә/
-
-*Tuolumne* \(Cal.\) /**twol**-ә-mee/ or /too-**awl**-ә-mee/
-
-*Ulgham* \(England\) /**uff**-m/
-
-*Wayzata* \(Minn.\) /wī-**zaht**-ә/
-
-*Woolfardisworthy* \(England\) /**wʊlz**-ree/
-
-*Yachats* \(Or.\) /**yah**-hahts/
+ - *Avoch* \(Scotland\) /okh/
+ - *Beaucoup* \(Ill.\) /buk-**әp**/
+ - *Beaulieu* \(England\) /**byoo**-lee/
+ - *Belvoir* \(England\) /**bee**-vәr/
+ - *Bexar* \(County, Tex.\) /bair/
+ - *Biloxi* \(Miss.\) /bi-**lәk**-see/
+ - *Boise* \(Idaho\) /**boy**-zee/
+ - *Boonton* \(N.J.\) /**boot**-n/
+ - *Brewood* \(England\) /brood/
+ - *Buena* \(N.J.\) /**byoo**-nә/ \(same for *Buena Vista, Col.*\)
+ - *Champoeg* \(Or.\) /sham-**poo**-ee/
+ - *Featherstonhaugh* \(England\) /**fan**-shaw/
+ - *Forked River* \(N.J.\) /**for**-kid/
+ - *Cheesequake* \(N.J.\) /**chess**-kwik/
+ - *Cherryville* \(N.C.\) /**chәr**-vәl/
+ - *Cholmondeley* \(England\) /**chәm**-lee/
+ - *Closter* \(N.J.\) /**kloh**-stәr/
+ - *Des Moines* \(Iowa\) /dә **moyn**/
+ - *Du Bois* \(Ill.\) /**doo** boyz/
+ - *Dun Laoghaire* \(Ireland\) /dәn **leer**-ee/
+ - *Etobicoke* \(Canada\) /e-**toh**-bi-koh/
+ - *Gallipolis* \(Ohio\) /gal-i-pә-**lees**/
+ - *Gloucester* \(England, Mass., etc.\) /**glos**-tәr/
+ - *Gratiot* \(Avenue, Detroit\) /**grash**-it/
+ - *Greenwich* \(England, Connecticut, etc.\) /**gren**-ich/but /**green**-wich/ in Ohio
+ - *Happisburgh* \(England\) /**hayz**-b\[ә\]rә/
+ - *Havre* \(Mont.\) /**hav**-әr/
+ - *Kearny* \(N.J.\) /**kahr**-nee/
+ - *Kirkaldy* \(Scotland\) /kәr-**kaw**-dee/
+ - *Leicester* \(England\) /**les**-tәr/
+ - *Leominster* \(Mass.\) /**lem**-in-stәr/
+ - *Lodz* \(Poland\) /wʊdz/
+ - *Loughbrough* \(England\) /**lәf**-brә/
+ - *Mackinac* \(Mich.\) /**mak**-i-naw/
+ - *Mantua* \(Utah\) /**man**-tә-way/
+ - *Mexia* \(Tex.\) /mә-**hay**-ә/
+ - *Milngavie* \(Scotland\) /mʊl-**gī**/
+ - *Mousehole* \(England\) /**mow**-zәl/
+ - *Nacogdoches* \(Tex.\) /nak-ә-**dohch**-әs/
+ - *Natchitoches* \(La.\) /**nak**-i-tish/
+ - *Pedernales* \(Tex.\) /pәr-dә-**nal**-әz/
+ - *Puyallap* \(Wa.\) /pyoo-**wal**-әp/ or /-**wahl**-әp/
+ - *Quitaque* \(Tex.\) /**kit**-ә-kway/
+ - *Rio Grande* \(Ohio\) /**rī**-oh grand/
+ - *Sault Ste. Marie* \(Mich.\) /**soo** saynt mә-**ree**/
+ - *Schuylkill* \(Pa.\) /**skoo**-kl/
+ - *Sequim* \(Wa.\) /skwim/
+ - *Southwark* \(England\) /**sәth**-әrk/
+ - *Spokane* \(Wa.\) /spoh-**kan**/
+ - *Talliaferro* \(County, Ga.\) /**tol**-i-vәr/
+ - *Tooele* \(Utah\) /too-**wil**-ә/
+ - *Tuolumne* \(Cal.\) /**twol**-ә-mee/ or /too-**awl**-ә-mee/
+ - *Ulgham* \(England\) /**uff**-m/
+ - *Wayzata* \(Minn.\) /wī-**zaht**-ә/
+ - *Woolfardisworthy* \(England\) /**wʊlz**-ree/
+ - *Yachats* \(Or.\) /**yah**-hahts/
 
 Over the years, countless people—from Benjamin Franklin to George Bernard Shaw—have wanted to reform English orthography because of the variances between speech and its written representation. None of the proposed reforms have taken hold—not even a little. As things stand, speakers and readers of English must simply cope with the divergences and oddities as best they can. See spelling.
 
@@ -276,7 +216,7 @@ Over the years, countless people—from Benjamin Franklin to George Bernard Shaw
 
 For an example of a *-ph-* that has simply dropped out of a word, see **apothegm**. Cf. **jodhpur**.
 
-**I. Names.** See names \(c\).
+**I. Names.** See names (c).
 
 **J. *Pronunciation* and *enunciation*.** *Enunciation* = \(1\) clear articulation of words, sentences, and thoughts; or \(2\) a formal announcement, proclamation, or statement. In sense 1, *enunciation* includes correct *pronunciation* of words, but it is a much broader term. When *enunciation* is used without a modifier of quality, the understood connotation is positive <the speaker is known for her enunciation>; *pronunciation*, on the other hand, is connotatively neutral <the president is known for his pronunciation>.
 

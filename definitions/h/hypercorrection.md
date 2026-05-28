@@ -6,18 +6,18 @@ This foible can have several causes. Often, it results from an attempt to avoid 
 
 **A. False Latin Plurals.** One with a smattering of Latin learns that, in that language, most nouns ending in *-us* have a plural ending in *-i*: *genius* forms *genii*, *nimbus* forms *nimbi*, *syllabus* forms *syllabi*, *terminus* forms *termini*, and so on. The trouble is that not all of them do end in *-i*, so traps abound for those trying to show off their sketchy knowledge of Latin:
 
-*Hypercorrect Plural* *Latin Plural* *English Plural*
-
- - apparati apparatus apparatuses
- - fori fora forums
- - ignorami [A vb. in L.] ignoramuses
- - isthmi [Gk. sing. n.: isthmos] isthmuses
- - mandami [A vb. in L.] mandamuses
- - mittimi [A vb. in L.] mittimuses
- - nexi nexus nexuses
- - octopi [Gk. pl. octopodes] octopuses
- - prospecti prospectus prospectuses
- - stati status statuses
+| Hypercorrect Plural | Latin Plural | English Plural |
+|---|---|---|
+| apparati | apparatus | apparatuses |
+| fori | fora | forums |
+| ignorami | [A vb. in L.] | ignoramuses
+| isthmi | [Gk. sing. n.: isthmos] | isthmuses |
+| mandami | [A vb. in L.] | mandamuses |
+| mittimi | [A vb. in L.] | mittimuses |
+| nexi | nexus | nexuses |
+| octopi | [Gk. pl. octopodes] | octopuses |
+| prospecti | prospectus | prospectuses |
+| stati | status | statuses |
 
 **B. Pronoun Troubles.** Replacements of *me* with a hypercorrect
 *I*—instances of word-swapping with pronouns—are nothing new. They may be

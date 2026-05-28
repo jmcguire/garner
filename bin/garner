@@ -314,6 +314,7 @@ def main():
         display(row, None, args.verbose, args.plain)
 
         if row and row["forwarding"]:
+            print("\n")
             row = lookup(row["forwarding"], args.db)
             display(row, None, args.verbose, args.plain)
     

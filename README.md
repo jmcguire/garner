@@ -6,11 +6,12 @@
  - an incorrect usage example inside a paragraph is preceded by an asterisk, \*, but these need to be encoded with a slash \\. i need something like `s/(\*\*[\w\s]+?\*(?!\*))/\\$1/`.
  - turn those bolded and lettered subsections into second-level headings?
  - what to do with the lists that should be tables?
+ - get rid of the headword if it's the first thing in the first paragraph with just a period after it.
 
 ## easy features:
 
  - help should explain "current ratio" and "language change index". also the point of this project. what a usage dictionary is.
- - look for internal links, like "(see blah blah)", and wrap them in a markdown link so they "look" appropriate on a screen, even if they can't be clicked
+ - look for internal links, like "See blah blah.", and wrap them in a markdown link so they "look" appropriate on a screen, even if they can't be clicked
  - need a way to look for those endings, like -ality, these are suffixes. they're currently marked as essays. a separate tag for prefixes or suffixes?
  - if a lookup on a word isn't found, search instead?
 
@@ -18,13 +19,14 @@
 
  - how to package this up as an app. maybe a separate "compiled" thing?
  - what if it's part of word that matches, show a likely list? then let the the user either type the correct word, or a number, like `garner 2`, as a shortcut to an item in the last list shown. (which would require state.)
- - for long entries, give "page x/y" in the paging
  - tab-completion?
+ - right now i'm gaining all the information by parsing a regular entry straight from the book. this is getting clever and all, but at some point i might just need a proper metadata block for each entry.
 
 ## bugs:
 
  - the search isn't getting unique entries
  - the search isn't correctly searching for essays, e.g. "Hypercorrection (essay)"
+ - forwarding check is too broad, see the very end of "phrasal verbs (essay)", which forwards.
 
 # usage
 
@@ -54,3 +56,4 @@ Or search for words like:
 garner -s <word>
 ```
 
+If you want a paged result, pipe it through `less`.
