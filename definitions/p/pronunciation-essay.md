@@ -12,63 +12,63 @@ For a misspelling of *pronunciation*, see **pronunciation**.
 
 **B. Commonly Mispronounced Words.** Many troublesome words are listed throughout this book, with the correct pronunciation noted. Here are some of the most frequently mispronounced words in AmE:
 
-***Correct*** ***Incorrect***
-
- - affluent **af**-loo-әnt ә-**floo**-әnt
- - album **al**-bәm **al**-blәm
- - almond **ah**-mәnd **al**-mәnd
- - arctic **ahrk**-tik **ahr**-tik
- - asked askt ast, aksd
- - asterisk **as**-tә-risk **as**-tә-rik
- - athlete **ath**-leet **ath**-ә-leet
- - cement sә-**ment** **see**-mint
- - comparable **kom**-pә-rә-bәl kәm-**pair**-ә-bәl
- - comptroller kәn-**troh**-lәr **komp**-troh-lәr
- - concierge kon-see-**airzh** kon-see-**air**
- - coupon **koo**-pon **kyoo**-pon
- - descent di-**sent** **dee**-sent
- - Detroit di-**troyt** **dee**-troyt
- - ebullient i-**bʊl**-yәnt **eb**-yә-lәnt
- - ecstatic ek-**stad**-ik e-**stad**-ik
- - escape es-**kayp** ek-**skayp**
- - espresso es-**pres**-oh ek-**spres**-oh
- - et cetera et **set**-ә-rә ek **set**-ә-rә
- - extraordinary ek-**stror**-di-ner-ee ek-strә-**or**-di-ner-ee
- - fifth fifth fith
- - flaccid **flak**-sid **fla**s-әd
- - grocery **grohs**-\[ә\]-ree **groh**-shree
- - height hīt hītth
- - heinous **hay**-nәs **hee**-nәs, **hee**-nee-is
- - hindrance **hin**-drin\[t\]s **hin**-dә-rin\[t\]s
- - hundred **hәn**-drәd **hәn**-әrd, **hәn**-drit
- - hypnotize **hip**-nә-tīz **hip**-mә-tīz
- - Illinois il-ә-**noy** il-ә-**noyz**
- - influence **in**-floo-әnts in-**floo**-әnts
- - insurance in-**shʊr**-әnts **in**-shәr-әnts
- - interesting **in**-trә-sting **in**-ә-res-ting
- - intravenous in-trә-**vee**-nәs in-trә-**vee**-nee-әs
- - irrevocable i-**rev**-ә-kә-bәl ir-ә-**voh**-kә-bәl
- - liaison **lee**-ә-zon, lee-**ay**-zon **lay**-ә-zon
- - library **lī**-brer-ee **lī**-ber-ee
- - literature **lit**-әr-ә-chʊr **lit**-әr-ә-tyoor, **lit**-әr-chәr
- - mirror **mir**-әr \(AmE\) **mir**-ә, meer, mәr
- - mischievous **mis**-chә-vәs mis-**chee**-vee-әs
- - nuclear **noo**-klee-әr **noo**-kyә-lәr
- - often **of**-әn **of**-tәn
- - pamphlet **pam**-flәt **pam**-plәt
- - persevere pәr-sә-**veer** pәr-sәr-**veer**
- - police pә-**lees** **poh**-lees
- - preferable **pref**-әr-ә-bәl pri-**fәr**-ә-bәl
- - probably **pro**-bә-blee **prob**-lee, **pro**-lee
- - pronunciation proh-nәn-see-**ay**-shәn pron-**nown**-see-ay-shәn
- - realtor **reel**-tәr **reel**-ә-tәr
- - schism **siz**-әm **skiz**-әm, **shiz**-әm
- - secretary **sek**-rә-ter-ee **sek**-ә-ter-ee
- - sherbet **shәr**-bәt **shәr**-bәrt
- - specifically spi-**sif**-i-klee pә-**sif**-i-klee
- - substantive **sәb**-stәn-tiv **sәb**-stә-nә-tiv, sәb-**stan**-tiv
- - wash wahsh wahrsh
- - zoology zoh-**ol**-ә-jee zoo-**ol**-ә-jee
+| ***Correct*** | ***Incorrect*** |
+|---|---|
+| affluent **af**-loo-әnt | ә-**floo**-әnt |
+| album **al**-bәm | **al**-blәm |
+| almond **ah**-mәnd | **al**-mәnd |
+| arctic **ahrk**-tik | **ahr**-tik |
+| asked | askt ast, aksd |
+| asterisk **as**-tә-risk | **as**-tә-rik |
+| athlete **ath**-leet | **ath**-ә-leet |
+| cement sә-**ment** | **see**-mint |
+| comparable **kom**-pә-rә-bәl | kәm-**pair**-ә-bәl |
+| comptroller kәn-**troh**-lәr | **komp**-troh-lәr |
+| concierge kon-see-**airzh** | kon-see-**air** |
+| coupon **koo**-pon | **kyoo**-pon |
+| descent di-**sent** | **dee**-sent |
+| Detroit di-**troyt** | **dee**-troyt |
+| ebullient i-**bʊl**-yәnt | **eb**-yә-lәnt |
+| ecstatic ek-**stad**-ik | e-**stad**-ik |
+| escape es-**kayp** | ek-**skayp** |
+| espresso es-**pres**-oh | ek-**spres**-oh |
+| et cetera et **set**-ә-rә | ek **set**-ә-rә |
+| extraordinary ek-**stror**-di-ner-ee | ek-strә-**or**-di-ner-ee |
+| fifth fifth | fith |
+| flaccid **flak**-sid | **fla**s-әd |
+| grocery **grohs**-\[ә\]-ree | **groh**-shree |
+| height hīt | hītth |
+| heinous **hay**-nәs | **hee**-nәs, **hee**-nee-is |
+| hindrance **hin**-drin\[t\]s | **hin**-dә-rin\[t\]s |
+| hundred **hәn**-drәd | **hәn**-әrd, **hәn**-drit |
+| hypnotize **hip**-nә-tīz | **hip**-mә-tīz |
+| Illinois il-ә-**noy** | il-ә-**noyz** |
+| influence **in**-floo-әnts | in-**floo**-әnts |
+| insurance in-**shʊr**-әnts | **in**-shәr-әnts |
+| interesting **in**-trә-sting | **in**-ә-res-ting |
+| intravenous in-trә-**vee**-nәs | in-trә-**vee**-nee-әs |
+| irrevocable i-**rev**-ә-kә-bәl | ir-ә-**voh**-kә-bәl |
+| liaison **lee**-ә-zon, lee-**ay**-zon | **lay**-ә-zon |
+| library **lī**-brer-ee | **lī**-ber-ee |
+| literature **lit**-әr-ә-chʊr | **lit**-әr-ә-tyoor, **lit**-әr-chәr |
+| mirror **mir**-әr \(AmE\) | **mir**-ә, meer, mәr |
+| mischievous **mis**-chә-vәs | mis-**chee**-vee-әs |
+| nuclear **noo**-klee-әr | **noo**-kyә-lәr |
+| often **of**-әn | **of**-tәn |
+| pamphlet **pam**-flәt | **pam**-plәt |
+| persevere pәr-sә-**veer** | pәr-sәr-**veer** |
+| police pә-**lees** | **poh**-lees |
+| preferable **pref**-әr-ә-bәl | pri-**fәr**-ә-bәl |
+| probably **pro**-bә-blee | **prob**-lee, **pro**-lee |
+| pronunciation proh-nәn-see-**ay**-shәn | pron-**nown**-see-ay-shәn |
+| realtor **reel**-tәr | **reel**-ә-tәr |
+| schism **siz**-әm | **skiz**-әm, **shiz**-әm |
+| secretary **sek**-rә-ter-ee | **sek**-ә-ter-ee |
+| sherbet **shәr**-bәt | **shәr**-bәrt |
+| specifically spi-**sif**-i-klee | pә-**sif**-i-klee |
+| substantive **sәb**-stәn-tiv | **sәb**-stә-nә-tiv, sәb-**stan**-tiv |
+| wash wahsh | wahrsh |
+| zoology zoh-**ol**-ә-jee | zoo-**ol**-ә-jee |
 
 Some contractions are also commonly mispronounced. For example, *couldn't*, *didn't*, and *wouldn't* are sometimes mouthed as if the *d* were part of the unemphasized second syllable: /**kʊ**-dәnt/, rather than the correct /**kʊd**-әnt/, etc. Sometimes, too, careless speakers syncopate contractions into such sounds as /kʊnt/ and /wʊnt/.
 
@@ -76,53 +76,53 @@ On pronunciations as class indicators, see class distinctions.
 
 **C. Recessive and Progressive Stresses.** In English pronunciation, two forces seem to be constantly at work: pushing back the accent in certain words \(recessive stress\) and pushing it forward in others \(progressive stress\). Hence pronunciations shift very gradually. Recessive stress—usually by which the accent gets moved from the first to the second syllable—sometimes yields what have come to be seen as accepted pronunciations, but many of the recessive stresses here listed typify unrefined speech \(Stages 1 to 3 of the Language-Change Index\). Most of the terms listed here are more fully discussed in entries at their alphabetical places in this book.
 
-*Traditional Stress* ***Recessive Stress***
-
- - **ad**mirable ad**mir**able \(LCI Stage 1\)
- - **aff**luent af**flu**ent \(LCI Stage 2\)
- - **am**icable a**mic**able \(LCI Stage 1\)
- - **app**licable ap**plic**able \(LCI Stage 5\)
- - **arm**istice ar**mis**tice \(LCI Stage 1\)
- - **clit**oris cli**tor**is \(LCI Stage 2\)
- - **com**parable com**par**able \(LCI Stage 2\)
- - **con**gruent con**gru**ent \(LCI Stage 4\)
- - **des**picable de**spic**able \(LCI Stage 5\)
- - **dis**parate dis**par**ate \(LCI Stage 1\)
- - **ex**plicable ex**plic**able \(LCI Stage 5\)
- - **ex**quisite ex**quis**ite \(LCI Stage 5\)
- - **for**midable for**mid**able \(LCI Stage 3\)
- - **gon**dola gon**dol**a \(LCI Stage 1\)
- - **hos**pitable ho**spit**able \(LCI Stage 4\)
- - **in**fluence in**flu**ence \(LCI Stage 2\)
- - **in**tegral in**teg**ral \(LCI Stage 1\)
- - **lam**entable la**ment**able \(LCI Stage 4\)
- - **may**oral ma**yor**al \(LCI Stage 3\)
- - **pas**toral pas**tor**al \(LCI Stage 2\)
- - **pref**erable pre**fer**able \(LCI Stage 2\)
- - **rev**ocable re**voc**able \(LCI Stage 3\)
- - **ve**hement ve**he**ment \(LCI Stage 1\)
+| *Traditional Stress* | ***Recessive Stress*** |
+|---|---|
+| **ad**mirable | ad**mir**able \(LCI Stage 1\) |
+| **aff**luent | af**flu**ent \(LCI Stage 2\) |
+| **am**icable | a**mic**able \(LCI Stage 1\) |
+| **app**licable | ap**plic**able \(LCI Stage 5\) |
+| **arm**istice | ar**mis**tice \(LCI Stage 1\) |
+| **clit**oris | cli**tor**is \(LCI Stage 2\) |
+| **com**parable | com**par**able \(LCI Stage 2\) |
+| **con**gruent | con**gru**ent \(LCI Stage 4\) |
+| **des**picable | de**spic**able \(LCI Stage 5\) |
+| **dis**parate | dis**par**ate \(LCI Stage 1\) |
+| **ex**plicable | ex**plic**able \(LCI Stage 5\) |
+| **ex**quisite | ex**quis**ite \(LCI Stage 5\) |
+| **for**midable | for**mid**able \(LCI Stage 3\) |
+| **gon**dola | gon**dol**a \(LCI Stage 1\) |
+| **hos**pitable | ho**spit**able \(LCI Stage 4\) |
+| **in**fluence | in**flu**ence \(LCI Stage 2\) |
+| **in**tegral | in**teg**ral \(LCI Stage 1\) |
+| **lam**entable | la**ment**able \(LCI Stage 4\) |
+| **may**oral | ma**yor**al \(LCI Stage 3\) |
+| **pas**toral | pas**tor**al \(LCI Stage 2\) |
+| **pref**erable | pre**fer**able \(LCI Stage 2\) |
+| **rev**ocable | re**voc**able \(LCI Stage 3\) |
+| **ve**hement | ve**he**ment \(LCI Stage 1\) |
 
 With other terms, though, the force of change is in the opposite direction, from second syllable to first. Again the shift from the traditional pronunciation to the new stress sometimes typifies unrefined speech. But note that many more of the progressively stressed words have reached Stage 5 of the Language-Change Index—meaning full acceptability in standard english.
 
-*Traditional Stress* ***Progressive Stress***
-
- - ac**cli**mate **ac**climate \(LCI Stage 5\)
- - a**cu**men **ac**umen \(LCI Stage 3\)
- - ce**ment** **ce**ment \(LCI Stage 3\)
- - con**fis**cate **con**fiscate \(LCI Stage 5\)
- - con**trary** **con**trary \(LCI Stage 5\)
- - de**bac**le **deb**acle \(LCI Stage 2\)
- - de**scent** **de**scent \(LCI Stage 2\)
- - De**troit** **De**troit \(LCI Stage 1\)
- - il**lus**trative **ill**ustrative \(LCI Stage 2\)
- - in**cul**cate **in**culcate \(LCI Stage 5\)
- - in**sur**ance **in**surance \(LCI Stage 2\)
- - mi**nus**cule **min**uscule \(LCI Stage 5\)
- - ob**fus**cate **ob**fuscate \(LCI Stage 5\)
- - po**lice** **po**lice \(LCI Stage 1\)
- - pre**ced**ence **prec**edence \(LCI Stage 5\)
- - so**nor**ous **son**orous \(LCI Stage 4\)
- - va**gar**ies **va**garies \(LCI Stage 5\)
+| *Traditional Stress* | ***Progressive Stress*** |
+|---|---|
+| ac**cli**mate | **ac**climate \(LCI Stage 5\) |
+| a**cu**men | **ac**umen \(LCI Stage 3\) |
+| ce**ment** | **ce**ment \(LCI Stage 3\) |
+| con**fis**cate | **con**fiscate \(LCI Stage 5\) |
+| con**trary** | **con**trary \(LCI Stage 5\) |
+| de**bac**le | **deb**acle \(LCI Stage 2\) |
+| de**scent** | **de**scent \(LCI Stage 2\) |
+| De**troit** | **De**troit \(LCI Stage 1\) |
+| il**lus**trative | **ill**ustrative \(LCI Stage 2\) |
+| in**cul**cate | **in**culcate \(LCI Stage 5\) |
+| in**sur**ance | **in**surance \(LCI Stage 2\) |
+| mi**nus**cule | **min**uscule \(LCI Stage 5\) |
+| ob**fus**cate | **ob**fuscate \(LCI Stage 5\) |
+| po**lice** | **po**lice \(LCI Stage 1\) |
+| pre**ced**ence | **prec**edence \(LCI Stage 5\) |
+| so**nor**ous | **son**orous \(LCI Stage 4\) |
+| va**gar**ies | **va**garies \(LCI Stage 5\) |
 
 Much depends on what one linguist calls the "dynamics of utterance." Dwight L. Bolinger, "Stress and Information," 33 *Am. Speech* 5–20 \(1958\). Stress shifts in certain words are an indication of dialect and of regional preferences. They may also be affected by the presence or absence of stress in neighboring words. See Arthur J. Bronstein, *The Pronunciation of American English* 256 \(1960\).
 

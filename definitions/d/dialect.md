@@ -20,69 +20,69 @@ Although some people regret the demise of dialects with the spread of Standard E
 
 **C. Dialect Exemplified.** Every educated American will have heard plenty of dialect, whether in ordinary life or in films and TV shows. We could not attempt an exhaustive guide to the wide variety of nonstandard English dialects here. Many dialects are not strictly limited by geography within the U.S.; to determine geographic dispersion, you might consult any of the many linguistic atlases that pinpoint the distribution of different forms. Here we merely want to give a few examples of the ways in which nonstandard dialects differ from Standard English, noting that they are not random or accidental departures from correctness; they are systematic. Perhaps the most noticeable kind of dialectal difference is the use of words that Standard English doesn't have:
 
-*Dialect* ***Standard***
-
- - We're fixin' to mosey over yonder. We're getting ready to go over there.
+| *Dialect* | ***Standard*** |
+|---|---|
+| We're fixin' to mosey over yonder. | We're getting ready to go over there. |
 
 In grammar, nonstandard dialects often have different \(nearly always simpler\) inflected forms for irregular verbs, and some have different reflexive pronouns:
 
-*Dialect* ***Standard***
-
- - I don't like it and she don't either, but it don't make no never mind. I don't like it and she doesn't either, but it doesn't matter.
- - They was broke, so we drug 'em outside. They were broken, so we dragged them outside.
- - He coulda hurt hisself. He could have hurt himself.
+| *Dialect* | ***Standard*** |
+|---|---| |
+| I don't like it and she don't either, but it don't make no never mind. | I don't like it and she doesn't either, but it doesn't matter. |
+| They was broke, so we drug 'em outside. | They were broken, so we dragged them outside. |
+| He coulda hurt hisself. | He could have hurt himself. |
 
 Dialects show many differences in the use of auxiliary verb combinations:
 
-*Dialect* ***Standard***
-
- - We ain't seen hide nor hair of him since then. We haven't seen him since then.
- - If I'd'a bin there, I'd'a done sumpin about it. If I had been there, I would have done something about it.
+| *Dialect* | ***Standard*** |
+|---|---|
+| We ain't seen hide nor hair of him since then. | We haven't seen him since then. |
+| If I'd'a bin there, I'd'a done sumpin about it. | If I had been there, I would have done something about it. |
 
 The negative auxiliary verb *ain't* is notoriously and stereotypically nonstandard; it can correspond to Standard English *am not*, *are not*, *is not*, *have not*, or *has not*. See **ain't**.
 
 Apart from auxiliary-verb sequences, there are relatively few genuinely syntactic differences between English dialects. The ones we do find are relatively minor, such as the pleonastic *at* with *where* questions, accusative pronouns in subject coordinations, and bare passive verbs with *need*:
 
-*Dialect* ***Standard***
-
- - Where's the restrooms at? Where are the restrooms?
- - Him and me are friends. He and I are friends.
- - This rug needs washed. This rug needs to be washed.
+| *Dialect* | ***Standard*** |
+|---|---|
+| Where's the restrooms at? | Where are the restrooms? |
+| Him and me are friends. | He and I are friends. |
+| This rug needs washed. | This rug needs to be washed. |
 
 The most salient syntactic difference is that nonstandard dialects nearly all have what linguists call either negative concord or multiple negation. In these dialects, negative words beginning *no-* are used in negative clauses wherever Standard English would use words beginning with *any-* or *some-*:
 
-*Dialect* ***Standard***
-
- - I ain't never did nothin' bad. I haven't ever done anything wrong.
- - We ain't got no gas and there ain't no way to get none. We haven't got any gas and there isn't any way to get any.
+| *Dialect* | ***Standard*** |
+|---|---|
+| I ain't never did nothin' bad. | I haven't ever done anything wrong. |
+| We ain't got no gas and there ain't no way to get none. | We haven't got any gas and there isn't any way to get any. |
 
 The most clearly divergent dialects of English are the varieties of African-American Vernacular English \(AAVE\) spoken in many African-American communities. These show interesting syntactic features: not only negative concord, but also initial auxiliaries in negative clauses, absence of the *'s* possessive suffix, and omission of the copular verb *be* in certain present-tense contexts:
 
-*AAVE* ***Standard***
-
- - Ain't nobody gonna try that on me. Nobody is going to try that on me.
- - A junkie shoes either fallin' apart or they brand new. A junkie's shoes are either falling apart or brand new.
+| *AAVE* | ***Standard*** |
+|---|---|
+| Ain't nobody gonna try that on me. | Nobody is going to try that on me. |
+| A junkie shoes either fallin' apart or they brand new. | A junkie's shoes are either falling apart or brand new. |
 
 The immediately preceding example is from dialogue in Walter Mosley's novel *The Right Mistake* \(2008\). See **African-American English**.
 
 One of the most salient and noticeable features of nonstandard dialects relates to pronunciation, which is perhaps the most readily identifiable signal of regional dialects. A single word is often enough for AmE speakers to conclude what region a person comes from. The following list shows a small yet diverse sample of standard pronunciations and the various dialectal pronunciations that would be judged nonstandard:
 
-***Standard*** ***Dialect***
-
- - asked /askt/ /ast/ or /akst/
- - can't /kant/ /kaynt/ or /kent/
- - car /kahr/ /kah/
- - cement /sә-**ment**/ /**see**-mint/
- - Detroit /di-**troyt**/ /**dee**-troyt/
- - entire /en-**tīr**/ /**in**-tīr/
- - I /ī/ /ah/
- - there /thehr/ /thahr/
- - these /theez/ /deez/
- - umbrella /әm-**brel**-ә/ /**әm**-brel-ә/
- - wash /wahsh/ /wahrsh/
- - window /**win**-doh/ /**win**-dәr/
- - wrestling /**res**-ling/ /**ras**-lin/
- - yellow /**yel**-oh/ /**yel**-ә/ or /**yel**-әr/
+| ***Standard*** | ***Dialect*** |
+|---|---|
+| asked /askt/ | /ast/ or /akst/ |
+| can't /kant/ | /kaynt/ or /kent/ |
+| car /kahr/ | /kah/ |
+| cement /sә-**ment**/ | /**see**-mint/ |
+| Detroit /di-**troyt**/ | /**dee**-troyt/ |
+| entire /en-**tīr**/ | /**in**-tīr/ |
+| I /ī/ | /ah/ |
+| there /thehr/ | /thahr/ |
+| these /theez/ | /deez/ |
+| umbrella /әm-**brel**-ә/ | /**әm**-brel-ә/ |
+| wash /wahsh/ | /wahrsh/ |
+| window /**win**-doh/ | /**win**-dәr/ |
+| wrestling /**res**-ling/ | /**ras**-lin/ |
+| yellow /**yel**-oh/ | /**yel**-ә/ or /**yel**-әr/ |
 
 The *Longman Pronunciation Dictionary* by J.C. Wells \(3d ed. 2008\) is a thorough and reliable guide to English pronunciation using the International Phonetic Alphabet. It gives the BrE pronunciation first and the Standard American English pronunciation second.
 

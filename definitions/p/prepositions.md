@@ -14,13 +14,13 @@ The witticism attributed \(incorrectly\) to Winston Churchill about the absurdit
 
 Perfectly natural-sounding sentences end with prepositions, particularly when a verb with a preposition-particle appears at the end \(as in *follow up* or *ask for*\). E.g.: "The act had no causal connection with the injury complained *of.*" When one decides against such formal \(sometimes downright stilted\) constructions as *of which*, *on which*, and *for which*—and instead chooses the relative *that*—the preposition is necessarily sent to the end of the sentence: "This is a point on which I must insist" becomes far more natural as "This is a point that I must insist on." And consider the following examples:
 
-*Correct and Natural* ***Correct and Stuffy***
-
- - people worth talking to-- people to whom it is worth talking
- - What are you thinking about?--About what are you thinking?
- - the man you were listening to--the man to whom you were listening
- - a person I have great respect--for a person for whom I have great respect
- - a habit I want to stick to--a habit to which I want to stick
+| *Correct and Natural* | ***Correct and Stuffy*** |
+|---|---|
+| people worth talking to | people to whom it is worth talking |
+| What are you thinking about? | About what are you thinking? |
+| the man you were listening to | the man to whom you were listening |
+| a person I have great respect | for a person for whom I have great respect |
+| a habit I want to stick to | a habit to which I want to stick |
 
 In 1947, a scholar summed up the point: "Those who insist that final prepositions are inelegant are taking from the English language one of its greatest assets—its flexibility—an advantage realized and practiced by all our greatest writers except a few who, like Dryden and Gibbon, tried to fashion the English language after the Latin." Margaret M. Bryant, "The End Preposition," 8 *College English* 204 \(Jan. 1947\). Is more authority needed? Here it is:
 

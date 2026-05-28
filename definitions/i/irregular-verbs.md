@@ -8,183 +8,183 @@ Irregular verbs are sometimes called "strong" verbs because they seem to form th
 
 All told, English now has fewer than 270 live irregular verbs. The trend is against the irregular forms: "For many centuries there has been a steady loss in favor of the weak class." George O. Curme, *English Grammar* § 42.B.2, at 73 \(1947\). Here are the most common irregular forms:
 
-*Present Tense* ***Past Tense*** ***Past Participle***
-
- - abide abode abode
- - arise arose arisen
- - be was been
- - bear bore borne
- - beat beat beaten
- - become became become
- - beget begot begotten
- - begin began begun
- - behold beheld beheld
- - bend bent bent
- - beseech besought besought
- - beset beset beset
- - bet bet bet
- - bid \(express\) bade bidden
- - bid \(offer\) bid bid
- - bind bound bound
- - bite bit bitten
- - bleed bled bled
- - blow blew blown
- - break broke broken
- - breed bred bred
- - bring brought brought
- - broadcast broadcast broadcast
- - build built built
- - burst burst burst
- - buy bought bought
- - cast cast cast
- - catch caught caught
- - choose chose chosen
- - cleave \(= to split\) cleft cleft
- - cling clung clung
- - come came come
- - cost cost cost
- - creep crept crept
- - cut cut cut
- - deal dealt dealt
- - dig dug dug
- - dive dove \(AmE\), dived \(BrE\) dived
- - do did done
- - draw drew drawn
- - drink drank drunk
- - drive drove driven
- - dwell dwelt dwelt
- - eat ate eaten
- - fall fell fallen
- - feed fed fed
- - feel felt felt
- - fight fought fought
- - find found found
- - fit fit fit
- - flee fled fled
- - fling flung flung
- - fly flew flown
- - forbear forbore forborne
- - forbid forbade forbidden
- - forecast forecast forecast
- - forget forgot forgotten
- - forgive forgave forgiven
- - forsake forsook forsaken
- - forswear forswore forsworn
- - freeze froze frozen
- - get got gotten \(AmE\), got \(BrE\)
- - give gave given
- - go went gone
- - grind ground ground
- - grow grew grown
- - hang \(a picture\) hung hung
- - have had had
- - hear heard heard
- - hide hid hidden
- - hit hit hit
- - hold held held
- - hurt hurt hurt
- - keep kept kept
- - kneel knelt knelt
- - know knew known
- - lade laded laden
- - lay \(= to place\) laid laid
- - lead led led
- - leap leaped, leapt leaped, leapt
- - leave left left
- - lend lent lent
- - let let let
- - lie \(= to rest\) lay lain
- - light lit lit
- - lose lost lost
- - make made made
- - mean meant meant
- - meet met met
- - mistake mistook mistaken
- - overcome overcame overcome
- - overtake overtook overtaken
- - pay paid paid
- - put put put
- - quit quit quit
- - read read read
- - rend rent rent
- - rid rid rid
- - ride rode ridden
- - ring rang rung
- - rise rose risen
- - rive rove riven
- - run ran run
- - say said said
- - see saw seen
- - seek sought sought
- - sell sold sold
- - send sent sent
- - set set set
- - sew sewed sewn
- - shake shook shaken
- - shed shed shed
- - shine shone shone
- - shoot shot shot
- - show showed shown
- - shrink shrank shrunk
- - shut shut shut
- - sing sang sung
- - sink sank sunk
- - sit sat sat
- - slay slew slain
- - sleep slept slept
- - slide slid slid
- - sling slung slung
- - slink slunk slunk
- - slit slit slit
- - smite smote smitten
- - sow sowed sown
- - speak spoke spoken
- - speed sped sped
- - spend spent spent
- - spin spun spun
- - spit spat spat
- - split split split
- - spread spread spread
- - spring sprang sprung
- - stand stood stood
- - steal stole stolen
- - stick stuck stuck
- - sting stung stung
- - stink stank stunk
- - strew strewed strewn
- - stride strode strode
- - strike struck struck
- - string strung strung
- - strive strove striven
- - swear swore sworn
- - sweep swept swept
- - swim swam swum
- - swing swung swung
- - take took taken
- - teach taught taught
- - tear tore torn
- - tell told told
- - think thought thought
- - throw threw thrown
- - thrust thrust thrust
- - tread trod trodden
- - undergo underwent undergone
- - understand understood understood
- - undertake undertook undertaken
- - undo undid undone
- - uphold upheld upheld
- - upset upset upset
- - wake woke woken \(or waked\)
- - wear wore worn
- - weave wove woven
- - weep wept wept
- - win won won
- - wind wound wound
- - withdraw withdrew withdrawn
- - withhold withheld withheld
- - withstand withstood withstood
- - wring wrung wrung
- - write wrote written
+|*Present Tense* | ***Past Tense*** | ***Past Participle*** |
+|---|---|---|
+| abide | abode | abode | 
+| arise | arose | arisen | 
+| be | was | been | 
+| bear | bore | borne | 
+| beat | beat | beaten | 
+| become | became | become | 
+| beget | begot | begotten | 
+| begin | began | begun | 
+| behold | beheld | beheld | 
+| bend | bent | bent | 
+| beseech | besought | besought | 
+| beset | beset | beset | 
+| bet | bet | bet | 
+| bid | \(express\) | bade | bidden | 
+| bid | \(offer\) | bid | bid | 
+| bind | bound | bound | 
+| bite | bit | bitten | 
+| bleed | bled | bled | 
+| blow | blew | blown | 
+| break | broke | broken | 
+| breed | bred | bred | 
+| bring | brought | brought | 
+| broadcast | broadcast | broadcast | 
+| build | built | built | 
+| burst | burst | burst | 
+| buy | bought | bought | 
+| cast | cast | cast | 
+| catch | caught | caught | 
+| choose | chose | chosen | 
+| cleave | \(= | to | split\) | cleft | cleft | 
+| cling | clung | clung | 
+| come | came | come | 
+| cost | cost | cost | 
+| creep | crept | crept | 
+| cut | cut | cut | 
+| deal | dealt | dealt | 
+| dig | dug | dug | 
+| dive | dove | \(AmE\), | dived | \(BrE\) | dived | 
+| do | did | done | 
+| draw | drew | drawn | 
+| drink | drank | drunk | 
+| drive | drove | driven | 
+| dwell | dwelt | dwelt | 
+| eat | ate | eaten | 
+| fall | fell | fallen | 
+| feed | fed | fed | 
+| feel | felt | felt | 
+| fight | fought | fought | 
+| find | found | found | 
+| fit | fit | fit | 
+| flee | fled | fled | 
+| fling | flung | flung | 
+| fly | flew | flown | 
+| forbear | forbore | forborne | 
+| forbid | forbade | forbidden | 
+| forecast | forecast | forecast | 
+| forget | forgot | forgotten | 
+| forgive | forgave | forgiven | 
+| forsake | forsook | forsaken | 
+| forswear | forswore | forsworn | 
+| freeze | froze | frozen | 
+| get | got | gotten | \(AmE\), | got | \(BrE\) | 
+| give | gave | given | 
+| go | went | gone | 
+| grind | ground | ground | 
+| grow | grew | grown | 
+| hang | \(a | picture\) | hung | hung | 
+| have | had | had | 
+| hear | heard | heard | 
+| hide | hid | hidden | 
+| hit | hit | hit | 
+| hold | held | held | 
+| hurt | hurt | hurt | 
+| keep | kept | kept | 
+| kneel | knelt | knelt | 
+| know | knew | known | 
+| lade | laded | laden | 
+| lay | \(= | to | place\) | laid | laid | 
+| lead | led | led | 
+| leap | leaped, | leapt | leaped, | leapt | 
+| leave | left | left | 
+| lend | lent | lent | 
+| let | let | let | 
+| lie | \(= | to | rest\) | lay | lain | 
+| light | lit | lit | 
+| lose | lost | lost | 
+| make | made | made | 
+| mean | meant | meant | 
+| meet | met | met | 
+| mistake | mistook | mistaken | 
+| overcome | overcame | overcome | 
+| overtake | overtook | overtaken | 
+| pay | paid | paid | 
+| put | put | put | 
+| quit | quit | quit | 
+| read | read | read | 
+| rend | rent | rent | 
+| rid | rid | rid | 
+| ride | rode | ridden | 
+| ring | rang | rung | 
+| rise | rose | risen | 
+| rive | rove | riven | 
+| run | ran | run | 
+| say | said | said | 
+| see | saw | seen | 
+| seek | sought | sought | 
+| sell | sold | sold | 
+| send | sent | sent | 
+| set | set | set | 
+| sew | sewed | sewn | 
+| shake | shook | shaken | 
+| shed | shed | shed | 
+| shine | shone | shone | 
+| shoot | shot | shot | 
+| show | showed | shown | 
+| shrink | shrank | shrunk | 
+| shut | shut | shut | 
+| sing | sang | sung | 
+| sink | sank | sunk | 
+| sit | sat | sat | 
+| slay | slew | slain | 
+| sleep | slept | slept | 
+| slide | slid | slid | 
+| sling | slung | slung | 
+| slink | slunk | slunk | 
+| slit | slit | slit | 
+| smite | smote | smitten | 
+| sow | sowed | sown | 
+| speak | spoke | spoken | 
+| speed | sped | sped | 
+| spend | spent | spent | 
+| spin | spun | spun | 
+| spit | spat | spat | 
+| split | split | split | 
+| spread | spread | spread | 
+| spring | sprang | sprung | 
+| stand | stood | stood | 
+| steal | stole | stolen | 
+| stick | stuck | stuck | 
+| sting | stung | stung | 
+| stink | stank | stunk | 
+| strew | strewed | strewn | 
+| stride | strode | strode | 
+| strike | struck | struck | 
+| string | strung | strung | 
+| strive | strove | striven | 
+| swear | swore | sworn | 
+| sweep | swept | swept | 
+| swim | swam | swum | 
+| swing | swung | swung | 
+| take | took | taken | 
+| teach | taught | taught | 
+| tear | tore | torn | 
+| tell | told | told | 
+| think | thought | thought | 
+| throw | threw | thrown | 
+| thrust | thrust | thrust | 
+| tread | trod | trodden | 
+| undergo | underwent | undergone | 
+| understand | understood | understood | 
+| undertake | undertook | undertaken | 
+| undo | undid | undone | 
+| uphold | upheld | upheld | 
+| upset | upset | upset | 
+| wake | woke | woken | \(or | waked\) | 
+| wear | wore | worn | 
+| weave | wove | woven | 
+| weep | wept | wept | 
+| win | won | won | 
+| wind | wound | wound | 
+| withdraw | withdrew | withdrawn | 
+| withhold | withheld | withheld | 
+| withstand | withstood | withstood | 
+| wring | wrung | wrung | 
+| write | wrote | written | 
 
 **B. Past-Participial Adjectives No Longer Used as Verb Forms.** Many past participles no longer exist as verbs in good usage, but continue as adjectives. For examples discussed in entries throughout this book, see **behold** \(the adjective being *beholden*\), **cleave** \(*cloven*\), **laden, melt** (*molten*\), **mow** \(*mown*\), **proved** \(*proven*\), **saw** \(*sawn*\), **shape** \(*misshapen*, *well-shapen*\), **shave** \(*shaven*\), **stricken** & **swell** (*swollen*\). Some adjectives of this type persist only as archaisms; see **engrave** \(*engraven*\) & **gnaw** \(*gnawn*\).
 

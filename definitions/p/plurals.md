@@ -228,23 +228,23 @@ Writers err especially by treating words in the first category as if they belong
 
 **F. Proper Names.** Although few books on grammar mention the point, proper names often cause problems as plurals. The rule is simple: most take a simple *s*, while those ending in *-s*, *-x*, or *-z*, or in a sibilant *-ch* or *-sh*, take *-es*. Thus:
 
-*Singular Form* ***Plural Form***
-
- - Adam Adams
- - Adams Adamses
- - Bush Bushes
- - Church Churches
- - Cox Coxes
- - Flowers Flowerses
- - Jones Joneses
- - Levy Levys
- - Lipschutz Lipschutzes
- - Mary Marys
- - Powers Powerses
- - Rabiej Rabiejs \(the *j* is silent\)
- - Shapiro Shapiros
- - Sinz Sinzes
- - Thomas Thomases
+| *Singular Form* | ***Plural Form*** |
+|---|---|
+| Adam | Adams |
+| Adams | Adamses |
+| Bush | Bushes |
+| Church | Churches |
+| Cox | Coxes |
+| Flowers | Flowerses |
+| Jones | Joneses |
+| Levy | Levys |
+| Lipschutz | Lipschutzes |
+| Mary | Marys |
+| Powers | Powerses |
+| Rabiej | Rabiejs \(the *j* is silent\) |
+| Shapiro | Shapiros |
+| Sinz | Sinzes |
+| Thomas | Thomases |
 
 Plurals such as these are often erroneously formed by calling, say, Mr. and Mrs. Sinz *\*the Sinz*, *\*the Sinz'*, or *\*the Sinz's*. The last two forms, with apostrophes, merely result from confusion with possessives—and not even good possessives: the correct possessive is *Sinz's* in the singular and *Sinzes'* in the plural. See punctuation \(a\) & possessives \(b\).
 
@@ -252,49 +252,28 @@ Otherwise well-schooled people have a hard time with names that end in *s*. The 
 
 **G. Compound Nouns.** Certain compound nouns and hyphenated terms make their plurals by adding *s* to the main word—e.g.:
 
-aides-de-camp
-
-attorneys general
-
-battles royal
-
-brothers-in-law
-
-commanders-in-chief
-
-consuls general
-
-courts-martial
-
-editors in chief
-
-fathers-in-law
-
-hangers-on
-
-heirs presumptive
-
-holes in one
-
-knights-errant
-
-maids of honor
-
-men-of-war
-
-mothers-in-law
-
-notaries public
-
-poets laureate
-
-postmasters general
-
-rights-of-way
-
-sergeants-at-arms
-
-sisters-in-law
+ - aides-de-camp
+ - attorneys general
+ - battles royal
+ - brothers-in-law
+ - commanders-in-chief
+ - consuls general
+ - courts-martial
+ - editors in chief
+ - fathers-in-law
+ - hangers-on
+ - heirs presumptive
+ - holes in one
+ - knights-errant
+ - maids of honor
+ - men-of-war
+ - mothers-in-law
+ - notaries public
+ - poets laureate
+ - postmasters general
+ - rights-of-way
+ - sergeants-at-arms
+ - sisters-in-law
 
 The American and British practices differ on the method of pluralizing *attorney general*. See **attorney general**. See also postpositive adjectives. For an anomalous exception to the rule, see **sergeant major**.
 
