@@ -1,6 +1,6 @@
-# teach > taught > taught
+# teach \> taught \> taught
 
-teach > taught > taught. So inflected. *\*Teached* is a form that isn't taught anywhere and is no part of standard english. But it sometimes appears in print—e.g.:
+teach \> taught \> taught. So inflected. *\*Teached* is a form that isn't taught anywhere and is no part of standard english. But it sometimes appears in print—e.g.:
 
  - "Bert John Berghorst worked with the Hope Summer Repertory Theatre and formerly *teached* \[read *taught*\] at the West Ottawa schools." "Teacher, Theater Figure Discovered Dead in Home," *Grand Rapids Press*, 26 Sept. 1995, at A10 (story deck).
 

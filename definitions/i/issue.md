@@ -2,7 +2,7 @@
 
 issue.
 
-**A. *At issue*; *in issue*.** *At issue* = (1) (of people) in controversy; taking opposite sides of a case or contrary views of a matter; at variance <his views are at issue with mine>; or (2) (of matters or questions) being in dispute or under discussion; in question <the allegations at issue>. The phrase *in issue*, which shares sense 2 of *at issue*, has always been infrequent. Having originated in mid-19th-century legal contexts, *in issue* is common in law but uncommon elsewhere. *At issue* is the ordinary idiomatic phrase.
+**A. *At issue*; *in issue*.** *At issue* = (1) (of people) in controversy; taking opposite sides of a case or contrary views of a matter; at variance \<his views are at issue with mine\>; or (2) (of matters or questions) being in dispute or under discussion; in question \<the allegations at issue\>. The phrase *in issue*, which shares sense 2 of *at issue*, has always been infrequent. Having originated in mid-19th-century legal contexts, *in issue* is common in law but uncommon elsewhere. *At issue* is the ordinary idiomatic phrase.
 
 **B. *Issue as to whether*.** This phrasing is illogical and ungainly in place of *issue whether* or *issue of whether*. The phrasal preposition *as to* ordinarily denotes what something concerns, not what it is. Hence *as to* is best deleted—e.g.: "Selden acknowledged that, for the moment, it is *‘an open issue'* *as to whether* \[read *‘an open issue' whether*\] disregarding an employer's rule would be misconduct." Howard Fischer, "Firing over Vax, Masks May Affect Jobless Benefits," *Ariz. Daily Star*, 6 Sept. 2021, at B1. Cf. **question whether**. See **as to (b)** & **whether (b)**.
 

@@ -1,4 +1,4 @@
-# spend > spent > spent
+# spend \> spent \> spent
 
-spend > spent > spent. So inflected. See irregular verbs.
+spend \> spent \> spent. So inflected. See irregular verbs.
 

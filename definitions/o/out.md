@@ -8,5 +8,5 @@ But sometimes *out* is quite necessary—e.g.: "At the time of the crash, the FA
 
 Similarly, *working out* in a gym is very different from working in a gym.
 
-**B. As a Noun.** This usage <she was looking for an out> is a casualism.
+**B. As a Noun.** This usage \<she was looking for an out\> is a casualism.
 

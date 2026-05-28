@@ -12,7 +12,7 @@ In sense 2, it cannot properly be used transitively—e.g.:
 
  - "Some believe even that the only one being *discriminated* \[read *discriminated against*\] today is the white male, and that a return to ‘equality' (i.e. status quo) is in order." "Race Relations Solutions Offered," *Press-Enterprise* (Riverside, Cal.), 2 Sept. 1996, at B6.
 
-The same error, by implication, crops up in the past-participial adjective <an illegally discriminated employee>. In this loose usage, which dates from the mid-20th century, *discriminated* is equivalent to *downtrodden*, *oppressed*, or *persecuted*—e.g.:
+The same error, by implication, crops up in the past-participial adjective \<an illegally discriminated employee\>. In this loose usage, which dates from the mid-20th century, *discriminated* is equivalent to *downtrodden*, *oppressed*, or *persecuted*—e.g.:
 
  - "Long after they have left their status as *discriminated minority* \[read *oppressed minority*\], Jews alone among American immigrant groups retain a loyalty to political liberalism, to governments of compassion and justice." Marlene A. Marks, "Government Need Not Be the Enemy," *Sun-Sentinel* (Ft. Lauderdale), 7 Feb. 1995, at A16.
 

@@ -1,6 +1,6 @@
 # Diminutives, Essay
 
-Diminutives. Many English words have suffixes (such as *-elle*, *-ette*, and *-let*) showing that the words connote small, petty, or inferior things. Often these things are smaller or younger than the referents of unsuffixed words: a *piglet*, for example, is a young *pig*. So-called diminutive suffixes sometimes lead double lives. For example, *-ette* may denote a feminine form <bachelorette> or show that something is an imitation <leatherette>. And a diminutive suffix may appear in a word that is not a diminutive of anything (e.g., a *jerkin* is a sleeveless jacket, not a small *jerk*). The most common diminutive suffixes are discussed below.
+Diminutives. Many English words have suffixes (such as *-elle*, *-ette*, and *-let*) showing that the words connote small, petty, or inferior things. Often these things are smaller or younger than the referents of unsuffixed words: a *piglet*, for example, is a young *pig*. So-called diminutive suffixes sometimes lead double lives. For example, *-ette* may denote a feminine form \<bachelorette\> or show that something is an imitation \<leatherette\>. And a diminutive suffix may appear in a word that is not a diminutive of anything (e.g., a *jerkin* is a sleeveless jacket, not a small *jerk*). The most common diminutive suffixes are discussed below.
 
 **A. -*aster*.** In Latin and Romance languages, this rather literary suffix expresses a resemblance. In English it is usually—though not always—used pejoratively to connote that something is inferior or petty. It first appeared in this sense in the late 1500s and became common in the 1600s. It is relatively rare today.
 
@@ -74,7 +74,7 @@ novella (= a short novel)
 
 vaccinella (= a secondary eruption after vaccination)
 
-**E. -*en*.** This Saxon ending became part of the English language before the Norman Conquest. Attached to nouns it connotes either "made of" <wooden> or, especially with a living thing, youth.
+**E. -*en*.** This Saxon ending became part of the English language before the Norman Conquest. Attached to nouns it connotes either "made of" \<wooden\> or, especially with a living thing, youth.
 
 chicken (= the offspring of fowl)
 
@@ -150,7 +150,7 @@ lambkin (= lit., a small or young lamb; used affectionately of young children)
 
 manikin (= a very small person or a human figure used by an artist)
 
-**J. -*let*.** This suffix, borrowed from the French *-elet*, may denote a diminutive when appended to an ordinary noun <booklet, ringlet>. But when it is appended to the name of a body part, it may refer to an ornament <armlet, bracelet, necklet>. Yet in the oldest English words ending in *-let* (e.g., *chaplet*, *gauntlet*, *hamlet*), the suffix is neither a diminutive nor an ornament. Although a few diminutives with *-let* appeared in the 1500s, *-let* wasn't used much until the 1700s and 1800s. Today it is the most commonly used diminutive suffix for nonce-words.
+**J. -*let*.** This suffix, borrowed from the French *-elet*, may denote a diminutive when appended to an ordinary noun \<booklet, ringlet\>. But when it is appended to the name of a body part, it may refer to an ornament \<armlet, bracelet, necklet\>. Yet in the oldest English words ending in *-let* (e.g., *chaplet*, *gauntlet*, *hamlet*), the suffix is neither a diminutive nor an ornament. Although a few diminutives with *-let* appeared in the 1500s, *-let* wasn't used much until the 1700s and 1800s. Today it is the most commonly used diminutive suffix for nonce-words.
 
 bomblet (= a small bomb)
 
@@ -168,7 +168,7 @@ roundlet (= a small circle or circular thing)
 
 streamlet (= a narrow river)
 
-**K. -*ling*.** Derived from Norse, *-ling* is relatively rare as a diminutive suffix in modern use. When attached to a noun, it may connote (1) ownership by or affiliation with something, usu. a superior thing or person <hireling, underling>, (2) youth <codling, duckling>, or (3) contempt <princeling, godling, moonling>. Apart from sense 2, *-ling* has rarely been used to connote physical smallness.
+**K. -*ling*.** Derived from Norse, *-ling* is relatively rare as a diminutive suffix in modern use. When attached to a noun, it may connote (1) ownership by or affiliation with something, usu. a superior thing or person \<hireling, underling\>, (2) youth \<codling, duckling\>, or (3) contempt \<princeling, godling, moonling\>. Apart from sense 2, *-ling* has rarely been used to connote physical smallness.
 
 atheling (= a prince; the eldest son of a Saxon king)
 

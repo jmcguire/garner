@@ -2,7 +2,7 @@
 
 laden.
 
-**A. As a Past Participle Equivalent to *loaded*.** *Laden* survives today both as a participial adjective <a heavily laden barge> and as a past participle. (See irregular verbs (b).) To use *laden* as a part of the verb phrase is to be guilty of archaism, although it is still used in shipping contexts <the ship was laden by union workers>. But sometimes, in literary contexts, *laden* is simply the right word <with rue my heart is laden>. See **lade**.
+**A. As a Past Participle Equivalent to *loaded*.** *Laden* survives today both as a participial adjective \<a heavily laden barge\> and as a past participle. (See irregular verbs (b).) To use *laden* as a part of the verb phrase is to be guilty of archaism, although it is still used in shipping contexts \<the ship was laden by union workers\>. But sometimes, in literary contexts, *laden* is simply the right word \<with rue my heart is laden\>. See **lade**.
 
 Although *\*ladened* is permissible in Scottish English—since *laden* is the Scottish equivalent of *lade*, v.t. & v.i.—it is a solecism elsewhere. E.g.:
 

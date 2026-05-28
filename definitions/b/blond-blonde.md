@@ -6,7 +6,7 @@ blond; blonde.
 
 Sometimes *blonde* is ill-advisedly applied to a man—e.g.: "It looks like these beautiful people are going to ride off into Madison Avenue bliss. But wait. The *blonde man* is kissing someone else. And that someone else is another man." Cristina Rouvalis, "Ad Fanatics Will Revel in Best-of-Fest Commercials," *Pitt. Post-Gaz.*, 27 June 1996, at D4.
 
-When the word describes an inanimate object, the *e* is invariably dropped <blond wooden chairs> <a honey-blond microbrewed beer>.
+When the word describes an inanimate object, the *e* is invariably dropped \<blond wooden chairs\> \<a honey-blond microbrewed beer\>.
 
  - Current ratio in print (*ash-blond* vs. *ash-blonde*): 1.2:1
  - Current ratio in print (*blond hair* vs. *blonde hair*): 1.6:1

@@ -1,6 +1,6 @@
-# engrave > engraved > engraved
+# engrave \> engraved \> engraved
 
-engrave > engraved > engraved. So inflected. The past-participial form *\*engraven* is an archaism—e.g.:
+engrave \> engraved \> engraved. So inflected. The past-participial form *\*engraven* is an archaism—e.g.:
 
  - "Despite the computerisation and increased sophistication of the Treasury model, it still seems to have *engraven* \[read *engraved*\] in its heart: ‘Improvement means disaster.' " Samuel Brittan, "A New Look at Productivity," *Fin. Times*, 25 Feb. 1982, § I, at 21.
 

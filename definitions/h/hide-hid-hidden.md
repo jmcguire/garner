@@ -1,4 +1,4 @@
-# hide > hid > hidden
+# hide \> hid \> hidden
 
-hide > hid > hidden. So inflected. See irregular verbs.
+hide \> hid \> hidden. So inflected. See irregular verbs.
 

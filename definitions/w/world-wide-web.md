@@ -1,6 +1,6 @@
 # World Wide Web
 
-World Wide Web is a proper noun, capitalized when written out in full and when shortened to *the Web*. When combined into compound form, though, it is usually lowercase <website>. Cf. **webpage** & **website**.
+World Wide Web is a proper noun, capitalized when written out in full and when shortened to *the Web*. When combined into compound form, though, it is usually lowercase \<website\>. Cf. **webpage** & **website**.
 
 Because *the Web* is just one protocol (way of exchanging information) on the internet—separate from mail and news protocols, for example—the terms *Web* and *internet* are not interchangeable—e.g.:
 

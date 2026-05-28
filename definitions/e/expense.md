@@ -10,5 +10,5 @@ expense, v.t. In general use, this is an overblown substitute for *spend* and ou
 
 The word in this sense should be confined to accounting contexts—not used as a pretentious synonym for *spend*. Cf. \***inexpense**.
 
-The effect of the words is quite different for noun uses: *expense* is usual <reasonable expenses>, and *spend* is bizspeak <that's a big spend>.
+The effect of the words is quite different for noun uses: *expense* is usual \<reasonable expenses\>, and *spend* is bizspeak \<that's a big spend\>.
 

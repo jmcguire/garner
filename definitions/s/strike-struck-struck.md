@@ -1,6 +1,6 @@
-# strike > struck > struck
+# strike \> struck \> struck
 
-strike > struck > struck. So inflected. The form *\*striked* is erroneous—e.g.:
+strike \> struck \> struck. So inflected. The form *\*striked* is erroneous—e.g.:
 
  - "The No. 8 Hillbillies *striked* \[read *struck*\] next when Jack McDaniels returned an interception 97 yards to knot the score at 7." "N. Marion Breezes over Huntington," *Charleston Gaz.* (W. Va.), 22 Nov. 1997, at B4.
 

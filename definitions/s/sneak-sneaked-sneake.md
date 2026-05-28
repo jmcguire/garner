@@ -1,4 +1,4 @@
-# sneak > sneaked > sneaked
+# sneak \> sneaked \> sneaked
 
-sneak > sneaked > sneaked. Conventionally so inflected. But see **snuck**.
+sneak \> sneaked \> sneaked. Conventionally so inflected. But see **snuck**.
 

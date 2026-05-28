@@ -1,6 +1,6 @@
-# weave > wove > woven
+# weave \> wove \> woven
 
-weave > wove > woven. So inflected. *Weaved* is correct only in the sense "moved in a winding or zigzag way"—e.g.: "Like scores of Saturday shoppers, Potter found himself in the middle of a 40-minute foot chase that began near the Capitol, *weaved* in and out of State Street buildings, and ended with the arrest of Shantell Washington, 19." Gwen Carleton, "Foot Chase on State St.," *Wis. State J.*, 30 Dec. 1996, at A3. Otherwise, the past tense is *wove*, and the past participle *woven*—e.g.:
+weave \> wove \> woven. So inflected. *Weaved* is correct only in the sense "moved in a winding or zigzag way"—e.g.: "Like scores of Saturday shoppers, Potter found himself in the middle of a 40-minute foot chase that began near the Capitol, *weaved* in and out of State Street buildings, and ended with the arrest of Shantell Washington, 19." Gwen Carleton, "Foot Chase on State St.," *Wis. State J.*, 30 Dec. 1996, at A3. Otherwise, the past tense is *wove*, and the past participle *woven*—e.g.:
 
  - "That's art. So is the yarn he *weaved* \[read *wove*\] on a cardboard loom." Rochelle Carter, "Brushing Off False Ideas About Art," *Atlanta J.-Const.*, 14 July 1997, Gwinnett Extra §, at 1.
 

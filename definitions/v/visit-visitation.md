@@ -2,7 +2,7 @@
 
 visit, n.; **visitation**. Dictionaries have long labeled these words synonyms, and for the most part their senses overlap. *Visitation*, for example, may denote simply the act or an instance of visiting—e.g.: "*Visitation* is seasonal; few guests come in winter." Jay Clarke, "Up Close with Six Florida Islands," *Chicago Trib.*, 21 Jan. 2007, Travel §, at 10.
 
-But often, the words' connotations suggest a distinction. A *visit* is, in general, a casual or recreational meeting <a social visit>. *Visitation* connotes (1) the number of visits collectively; (2) a visit with a formal purpose or authorization, or (3) a supernatural or divine appearance. E.g.:
+But often, the words' connotations suggest a distinction. A *visit* is, in general, a casual or recreational meeting \<a social visit\>. *Visitation* connotes (1) the number of visits collectively; (2) a visit with a formal purpose or authorization, or (3) a supernatural or divine appearance. E.g.:
 
  - **Sense 1:** "Daily temperatures can exceed the century mark in the summer months, when *visitation* is lowest." Tom Uhlenbrock, "Desert Park an Eco-tourist Playground," *Star-Ledger* (Newark), 29 Apr. 2007, Travel §, at 9.
 

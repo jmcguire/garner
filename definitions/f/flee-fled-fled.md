@@ -1,6 +1,6 @@
-# flee > fled > fled
+# flee \> fled \> fled
 
-flee > fled > fled. So inflected. *\*Fleed* is a solecism—e.g.:
+flee \> fled \> fled. So inflected. *\*Fleed* is a solecism—e.g.:
 
  - "Lexington police say Wallace Charles Lanford *fleed* \[read *fled*\] the prison camp about 8 p.m." "Man Convicted of Murder Escapes from Davidson Jail," *News & Record* (Greensboro), 15 Nov. 1995, at BH2.
 

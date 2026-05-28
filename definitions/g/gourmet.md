@@ -10,5 +10,5 @@ M. des Ombiaux, as quoted in Donald Moffat, "Gourmet or Gourmand?," *Atlantic Mo
 
 But the gourmand is no longer such a celebrated figure. The "ridiculous snobs" of the mid-1800s held sway, the curious result being that *gourmand* no longer corresponds to *gourmandise*. (*\*Gormand* is a variant spelling formerly common.) See estranged siblings.
 
-The word *gourmet* is also used—and perhaps overused—as an adjective meaning "of, involving, or serving fine or exotic food" <a trendy gourmet restaurant>. With *gourmet chocolates on the pillow* and *gourmet pasta and sauce sets*, the word has been devalued to the point that it merely describes food with pretensions.
+The word *gourmet* is also used—and perhaps overused—as an adjective meaning "of, involving, or serving fine or exotic food" \<a trendy gourmet restaurant\>. With *gourmet chocolates on the pillow* and *gourmet pasta and sauce sets*, the word has been devalued to the point that it merely describes food with pretensions.
 

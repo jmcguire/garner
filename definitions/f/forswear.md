@@ -2,7 +2,7 @@
 
 forswear.
 
-**A. Inflected Forms: *forswear* > *forswore* > *forsworn*.** See irregular verbs.
+**A. Inflected Forms: *forswear* \> *forswore* \> *forsworn*.** See irregular verbs.
 
 **B. Spelling and Sense.** *Forswear* (= to renounce; pledge to give up) is sometimes misspelled *\*foreswear*—e.g.:
 

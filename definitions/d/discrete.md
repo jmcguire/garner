@@ -1,6 +1,6 @@
 # discrete
 
-discrete; **discreet**. Although the two words ultimately have the same Latin origin, the spelling *discreet* came into English through French. Today the two spellings are treated as wholly different words. *Discrete* means "separate, distinct" <three discrete land masses>; *discreet* means "cautious, judicious" <a discreet confidant>. *Discreet* is most commonly used in reference to behavior, especially speaking or writing. Until about 1950, *discreet* was the more common word, but today instances of *discrete* outnumber those of *discreet* by a 4-to-1 margin.
+discrete; **discreet**. Although the two words ultimately have the same Latin origin, the spelling *discreet* came into English through French. Today the two spellings are treated as wholly different words. *Discrete* means "separate, distinct" \<three discrete land masses\>; *discreet* means "cautious, judicious" \<a discreet confidant\>. *Discreet* is most commonly used in reference to behavior, especially speaking or writing. Until about 1950, *discreet* was the more common word, but today instances of *discrete* outnumber those of *discreet* by a 4-to-1 margin.
 
 The usual error is to misuse *discreet* for *discrete*—e.g.:
 

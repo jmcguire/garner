@@ -1,6 +1,6 @@
 # chivalrous
 
-chivalrous; **chivalric**. *Chivalrous*, always the more popular term, best applies to a person <chivalrous men> <chivalrous character>, *chivalric* to a quality or thing <chivalric romances> <chivalric code>.
+chivalrous; **chivalric**. *Chivalrous*, always the more popular term, best applies to a person \<chivalrous men\> \<chivalrous character\>, *chivalric* to a quality or thing \<chivalric romances\> \<chivalric code\>.
 
 A French loanword dating in English from the 1300s, *chivalrous* is the older term. It describes a valiant knight or, later, a gracious man—e.g.: "At least Kutcher is a *chivalrous* hiking partner. He carries the tape recorder. He offers to carry my bag." Rachel Abramowitz, "A Career Buff-Up," *L.A. Times*, 24 Sept. 2006, Cal. §, at E1.
 

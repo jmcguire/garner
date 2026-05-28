@@ -1,6 +1,6 @@
 # perquisite
 
-perquisite; **prerequisite**. *Perquisite* (often shortened to *perk*) = a privilege or benefit given in addition to one's salary or regular wages <executive perquisites such as club memberships>. *Prerequisite* = a previous condition or requirement <applicants must satisfy all five prerequisites before being interviewed>. Although *MWDEU* says there is "almost no evidence of the words' being interchanged," the confusion certainly does occur—e.g.:
+perquisite; **prerequisite**. *Perquisite* (often shortened to *perk*) = a privilege or benefit given in addition to one's salary or regular wages \<executive perquisites such as club memberships\>. *Prerequisite* = a previous condition or requirement \<applicants must satisfy all five prerequisites before being interviewed\>. Although *MWDEU* says there is "almost no evidence of the words' being interchanged," the confusion certainly does occur—e.g.:
 
  - "Have executive salaries, bonuses and other corporate *prerequisites* \[read *perquisites*\] been cut, or will the proposed rate increase maintain them?" "Sorry, Wrong Numbers," *Wash. Post*, 11 July 1993, at C8.
 

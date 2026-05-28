@@ -8,7 +8,7 @@ For a full explanation of *which* vs. *that*, see **that (a)**. Suffice it to sa
 
 **B. Wrongly Applied to People.** Unlike *that*—which can apply to either things or people—*which* applies only to things. If people are referred to, the nonrestrictive relative pronoun is *who*—e.g.: "Rights advocates and officials in Zaire protested the treatment of the illegal immigrants, some of *which* \[read *whom*\] were reportedly bound with tape." Youssef M. Ibrahim, "A Wary France Cracks Down on Its Muslims," *N.Y. Times*, 7 Sept. 1995, at A3. See **that (b)**. Cf. **who (d)**.
 
-There is, of course, an exception for traditional wordings. For example, in Early Modern English, it was possible to cast the original version of the Lord's Prayer with a personal *which* <Our Father, which art in Heaven>.
+There is, of course, an exception for traditional wordings. For example, in Early Modern English, it was possible to cast the original version of the Lord's Prayer with a personal *which* \<Our Father, which art in Heaven\>.
 
 ## Language-Change Index
 

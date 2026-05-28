@@ -10,5 +10,5 @@ The *OED* contains two illustrative examples of *enjoinder*, but *injunction* st
 
 Yet *enjoinder* has become more common than it was in the Fowlers' day in the sense "a command, esp. one that prohibits." E.g.: "Never go to bed mad. For generations, wise old long-marrieds have offered this advice to spatting couples—an *enjoinder* endorsed by many of their modern professional congeners, marriage counselors." Michael Segell, "Make Love and War," *Esquire*, Aug. 1997, at 128.
 
-*Enjoinment*, missing from *W2* and labeled archaic in *W3*, is recorded in the *OED* from the 1600s in the sense "the action of enjoining." Today this word is fairly common in legal contexts <the court's enjoinment of their picketing was fully warranted>. It has been fairly steadily used in print sources from the early 1800s to the present day.
+*Enjoinment*, missing from *W2* and labeled archaic in *W3*, is recorded in the *OED* from the 1600s in the sense "the action of enjoining." Today this word is fairly common in legal contexts \<the court's enjoinment of their picketing was fully warranted\>. It has been fairly steadily used in print sources from the early 1800s to the present day.
 

@@ -4,13 +4,13 @@ moot.
 
 **A. As an Adjective.** The *OED* once listed only the sense "that can be argued; debatable; not decided, doubtful." Hence a *moot point* was classically seen as one that is arguable. A *moot case* was a hypothetical case proposed for discussion in a "moot" of law students (i.e., the word was once a noun). In U.S. law schools, students practice arguing hypothetical cases before appellate courts in *moot court.*
 
-But language changes. From the original sense of *moot* derived the extended sense "of no real-world importance; hypothetical; merely academic." This shift in meaning occurred about 1830 <because the question has already become moot, we need not decide it>. Today, in AmE, that is the predominant sense of *moot*. Theodore M. Bernstein and other writers have called this sense of the word incorrect, but it is now a fait accompli, especially in the set phrase *moot point*. To use *moot* in the sense "open to argument" in modern AmE is to create an ambiguity and to confuse readers. In BrE, the transformation in sense has been slower, and *moot* in its older sense retains vitality.
+But language changes. From the original sense of *moot* derived the extended sense "of no real-world importance; hypothetical; merely academic." This shift in meaning occurred about 1830 \<because the question has already become moot, we need not decide it\>. Today, in AmE, that is the predominant sense of *moot*. Theodore M. Bernstein and other writers have called this sense of the word incorrect, but it is now a fait accompli, especially in the set phrase *moot point*. To use *moot* in the sense "open to argument" in modern AmE is to create an ambiguity and to confuse readers. In BrE, the transformation in sense has been slower, and *moot* in its older sense retains vitality.
 
 ## Language-Change Index
 
  - *moot* in the sense "of no significance": Stage 5
 
-**B. As a Verb.** Historically, the verb *moot* meant "to raise or bring forward (a point, question, candidate, etc.) for discussion" <a much-mooted question>. That sense was formerly common in AmE but today is current mostly in BrE—e.g.:
+**B. As a Verb.** Historically, the verb *moot* meant "to raise or bring forward (a point, question, candidate, etc.) for discussion" \<a much-mooted question\>. That sense was formerly common in AmE but today is current mostly in BrE—e.g.:
 
  - "Air New Zealand and Brierley Investments, a significant shareholder in Air NZ, have been *mooted* as potential buyers." Nikki Tait, "News Chief Plans Talks on Future of Ansett," *Fin. Times*, 5 Apr. 1995, at 33.
 

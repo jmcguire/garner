@@ -1,6 +1,6 @@
 # forbear
 
-forbear /fohr-**bair**/, v.t.; **forebear** /**fohr**-bair/, n. Though unrelated, these words are confused in every conceivable way. *Forbear*—the verb meaning "to refrain from objecting to; to tolerate"—is inflected *forbear* > *forbore* > *forborne*. But because the inflected forms appear only infrequently, writers sometimes fall into error—e.g.: "A borrower who lives in the home five years after doing the work may have the loan *forebeared* \[read *forborne*\]." Gary Mayk, "Grants and Loans Available to Buyers," *Morning Call* (Allentown, Pa.), 28 May 1995, at G1. (See irregular verbs.)
+forbear /fohr-**bair**/, v.t.; **forebear** /**fohr**-bair/, n. Though unrelated, these words are confused in every conceivable way. *Forbear*—the verb meaning "to refrain from objecting to; to tolerate"—is inflected *forbear* \> *forbore* \> *forborne*. But because the inflected forms appear only infrequently, writers sometimes fall into error—e.g.: "A borrower who lives in the home five years after doing the work may have the loan *forebeared* \[read *forborne*\]." Gary Mayk, "Grants and Loans Available to Buyers," *Morning Call* (Allentown, Pa.), 28 May 1995, at G1. (See irregular verbs.)
 
 *Forebear*—always a noun—means "ancestor" (usually used in the plural). *\*Forebearer* is an incorrect form of this noun—e.g.: "Like his *forebearers* \[read *forebears*\], Joe is community minded and committed to public service." Marta Adams, "Barrett Has a Commitment to Cheyenne and Wyo.," *Wyo. Trib.-Eagle* (Cheyenne), 23 July 2002, at A8.
 

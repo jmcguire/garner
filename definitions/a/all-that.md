@@ -1,6 +1,6 @@
 # all that
 
-all that. In negative statements, conditions, and questions, *all that* frequently means "to the expected degree"—essentially as an equivalent of *so very* <not all that exciting>. The expression is a casualism dating back to the 1600s. E.g.:
+all that. In negative statements, conditions, and questions, *all that* frequently means "to the expected degree"—essentially as an equivalent of *so very* \<not all that exciting\>. The expression is a casualism dating back to the 1600s. E.g.:
 
  - **Negative statement:** "Sure, we may smile ruefully at the memories of these past missteps, but they'll never really be *all that* funny." Ken Potts, "Remembering Mistakes Helps You Learn from Them," *Daily Herald* (Chicago), 13 Jan. 2001, at 4.
 

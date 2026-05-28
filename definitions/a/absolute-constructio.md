@@ -14,7 +14,7 @@ One does encounter more modern examples—e.g.:
 
 Yet as nominative absolutes become rarer, fewer and fewer writers understand how to handle them. Three problems arise.
 
-First, many writers insert *with* at the beginning of the phrase (making it something like an "objective absolute") <with Jacobson being absent, the party was a bore>. E.g.:
+First, many writers insert *with* at the beginning of the phrase (making it something like an "objective absolute") \<with Jacobson being absent, the party was a bore\>. E.g.:
 
  - "In other local elections in France, the results were mixed, *with* \[delete *with*\] the right doing a bit better than expected." "Balkan Dangers," *Economist*, 24 Mar. 2001, at 33.
 

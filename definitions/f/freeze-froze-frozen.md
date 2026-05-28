@@ -1,6 +1,6 @@
-# freeze > froze > frozen
+# freeze \> froze \> frozen
 
-freeze > froze > frozen. So inflected. Yet the barbarous *\*freezed* isn't uncommon—e.g.:
+freeze \> froze \> frozen. So inflected. Yet the barbarous *\*freezed* isn't uncommon—e.g.:
 
  - "When they say they *freezed* \[read *froze*\] taxes for three years, what they are really saying is, ‘We have frozen your overtaxation for three years.' " John Springer, "Tax Rate Is an Issue in Bristol," *Hartford Courant*, 26 Oct. 1997, at B1.
 

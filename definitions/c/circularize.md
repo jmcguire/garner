@@ -1,6 +1,6 @@
 # circularize
 
-circularize began as a mid-19th-century neologism meaning "to send circulars to" <all the local business owners were circularized>. By extension, it came to mean "to publicize" <the play's premiere was circularized throughout the city>. In these senses, the word is still considered jargonistic. See -ize.
+circularize began as a mid-19th-century neologism meaning "to send circulars to" \<all the local business owners were circularized\>. By extension, it came to mean "to publicize" \<the play's premiere was circularized throughout the city\>. In these senses, the word is still considered jargonistic. See -ize.
 
 In the late 20th century, however, the word took on a new meaning in space-flight contexts—a meaning closer to what the word parts suggest: "to make circular." This sense—though absent from most dictionaries—is clearly useful. E.g.:
 

@@ -1,6 +1,6 @@
-# sling > slung > slung
+# sling \> slung \> slung
 
-sling > slung > slung. So inflected in AmE and BrE alike. As a past-tense form, *slang* is dialectal (see dialect). As a past participle meaning "placed in a sling," *slinged* can be convenient, but it can also be startlingly ambiguous—e.g.: "Pediatric experts such as Dr. William Sears claim *slinged* babies are more alert." Sue Gleiter, "Baby on Board: Sling Allows Moms to Enjoy Hands-Off Freedom," *Post-Standard* (Syracuse), 9 Sept. 2007, at I4. Outside that limited sense, the nonword *\*slinged* is an infrequent error—e.g.:
+sling \> slung \> slung. So inflected in AmE and BrE alike. As a past-tense form, *slang* is dialectal (see dialect). As a past participle meaning "placed in a sling," *slinged* can be convenient, but it can also be startlingly ambiguous—e.g.: "Pediatric experts such as Dr. William Sears claim *slinged* babies are more alert." Sue Gleiter, "Baby on Board: Sling Allows Moms to Enjoy Hands-Off Freedom," *Post-Standard* (Syracuse), 9 Sept. 2007, at I4. Outside that limited sense, the nonword *\*slinged* is an infrequent error—e.g.:
 
  - "Now before you make the Irish-restaurant-is-an-oxymoron joke, Wilcox says his partner, Robert Lionette—who formerly *slinged* \[read *slung*\] haute hash at the tony Oyster Bar in Oak Bluffs—is going to update some of the old recipes from Old Sod." Gayle Fee & Laura Raposa, "Inside Track," *Boston Herald*, 29 Apr. 1996, at 8.
 

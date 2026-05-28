@@ -10,7 +10,7 @@ Technically, *lawyer* is the general term, referring to one who practices law. *
 
 From the fact that an *attorney* is really an agent, Bernstein deduces that "a *lawyer* is an *attorney* only when he has a client. It may be that the desire of *lawyers* to appear to be making a go of their profession has accounted for their leaning toward the designation *attorney*." Theodore M. Bernstein, *The Careful Writer* 60 (1965). Yet this distinction between *lawyer* and *attorney* is rarely, if ever, observed in practice.
 
-In AmE, *counsel* and *counselor* are both, in one sense, general terms meaning "one who gives (legal) advice," the latter being the more formal term. *Counsel* may refer to but one lawyer <opposing counsel says> or, as a plural, to more than one lawyer <opposing counsel say>. See **counsel (b)**.
+In AmE, *counsel* and *counselor* are both, in one sense, general terms meaning "one who gives (legal) advice," the latter being the more formal term. *Counsel* may refer to but one lawyer \<opposing counsel says\> or, as a plural, to more than one lawyer \<opposing counsel say\>. See **counsel (b)**.
 
 **B. Pronunciation.** The standard AmE pronunciation is /**loi**-әr/. But /**law**-yәr/ predominates in the southern U.S. from Texas to North Carolina (Florida excepted).
 

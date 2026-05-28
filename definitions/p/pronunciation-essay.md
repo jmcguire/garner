@@ -218,7 +218,7 @@ For an example of a *-ph-* that has simply dropped out of a word, see **apothegm
 
 **I. Names.** See names (c).
 
-**J. *Pronunciation* and *enunciation*.** *Enunciation* = (1) clear articulation of words, sentences, and thoughts; or (2) a formal announcement, proclamation, or statement. In sense 1, *enunciation* includes correct *pronunciation* of words, but it is a much broader term. When *enunciation* is used without a modifier of quality, the understood connotation is positive <the speaker is known for her enunciation>; *pronunciation*, on the other hand, is connotatively neutral <the president is known for his pronunciation>.
+**J. *Pronunciation* and *enunciation*.** *Enunciation* = (1) clear articulation of words, sentences, and thoughts; or (2) a formal announcement, proclamation, or statement. In sense 1, *enunciation* includes correct *pronunciation* of words, but it is a much broader term. When *enunciation* is used without a modifier of quality, the understood connotation is positive \<the speaker is known for her enunciation\>; *pronunciation*, on the other hand, is connotatively neutral \<the president is known for his pronunciation\>.
 
 **K. Bibliography.** For the best guidance on pronouncing the most troublesome words, see Charles Harrington Elster, *The Big Book of Beastly Mispronunciations* (2d ed. 2005). For an excellent guide to proper nouns, see John K. Bollard, *Pronouncing Dictionary of Proper Names* (2d ed. 1998). For still other references, see the Select Bibliography at the end of this book.
 

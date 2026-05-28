@@ -2,7 +2,7 @@
 
 Subject–Verb Agreement .
 
-**A. General Rule.** The simple rule is to use a plural verb with a plural subject, a singular verb with a singular subject. But there are complications. If a sentence has two or more singular subjects connected by *and*, use a plural verb. Yet if the subjects really amount to a single person or thing, use a singular verb <the apple of his eye and the source of his inspiration is Heather>. And if the sentence has two singular subjects connected by *or*, *either . . . or*, or *neither . . . nor*, use a singular verb <let me know if you or your client has any questions>. See concord (a). See also **either (d)** & **neither . . . nor (b)**.
+**A. General Rule.** The simple rule is to use a plural verb with a plural subject, a singular verb with a singular subject. But there are complications. If a sentence has two or more singular subjects connected by *and*, use a plural verb. Yet if the subjects really amount to a single person or thing, use a singular verb \<the apple of his eye and the source of his inspiration is Heather\>. And if the sentence has two singular subjects connected by *or*, *either . . . or*, or *neither . . . nor*, use a singular verb \<let me know if you or your client has any questions\>. See concord (a). See also **either (d)** & **neither . . . nor (b)**.
 
 Errors in subject–verb agreement can occur in surprising places—thrice here in a single book review appearing in a major newspaper: "Ms. Stockwell's careful structure and clear, driving prose *builds* \[read *build*\] suspense and *connects* \[read *connect*\] the Revolution to the 1790s. . . . Wayne's combination of boldness and skill *were* \[read *was*\] required in the current crisis." Kathleen DuVal, "He Opened the Way West," *Wall Street J.*, 16 May 2018, at A15 (reviewing Mary Stockwell's *Unlikely General*).
 
@@ -34,7 +34,7 @@ The reverse error, plural to singular, also occurs—e.g.: "While the types of i
 
  - "Few golfers appreciate the time, money and technical know-how that *goes* \[read *go*\] into making a golf product." John Steinbreder, "Perfection Takes Time for Clubs, Balls," *Golfweek*, 25 Jan. 2003, at 36. (*Time*, *money*, and *know-how* are different things.)
 
-But sometimes the two subjects joined by *and* express a single idea, and hence should take a singular verb <their confusion and uncertainty is understandable>. This is the case with *spaghetti and meatballs*, which denotes a single dish and therefore takes a singular verb. The third writer below recognized this, but the other two didn't:
+But sometimes the two subjects joined by *and* express a single idea, and hence should take a singular verb \<their confusion and uncertainty is understandable\>. This is the case with *spaghetti and meatballs*, which denotes a single dish and therefore takes a singular verb. The third writer below recognized this, but the other two didn't:
 
  - "Spaghetti and meatballs *are* \[read *is*\] on the menu." David Polochanin, "Prime Time Today," *Providence J.-Bull.*, 23 Jan. 1997, at C1.
 
@@ -76,7 +76,7 @@ The same is true of multiplication: both *four times four is sixteen* and *four 
 
  - Current ratio in print (*Study after study has* vs. \**Study after study have*): 53:1
 
-**I. *More than one is*; *\*more than one are*.** The phrase *more than one* generally takes a singular verb, not a plural one <more than one was there>—even though the sense is undeniably plural. If the noun is supplied before the verb, the construction is necessarily singular <more than one woman was there>. But without the noun, the construction becomes a little trickier. H.W. Fowler insisted on the singular (*FMEU1* at 363), and most professional writers use it—e.g.:
+**I. *More than one is*; *\*more than one are*.** The phrase *more than one* generally takes a singular verb, not a plural one \<more than one was there\>—even though the sense is undeniably plural. If the noun is supplied before the verb, the construction is necessarily singular \<more than one woman was there\>. But without the noun, the construction becomes a little trickier. H.W. Fowler insisted on the singular (*FMEU1* at 363), and most professional writers use it—e.g.:
 
  - "Each ticket costs 50 cents and more than one *is* usually necessary." Tom Bayles, "Seafood Fest Rolls Four Events into One," *Sarasota Herald-Trib.*, 11 Apr. 1999, at B1.
 
@@ -90,7 +90,7 @@ The only exception is a narrow one: it occurs in a more or less pedagogical cont
 
  - "Remember that one animal is an animal, but more than one *are* animaux, ending in *aux*." Vince Passaro, "Unlikely Stories," *Harper's Mag.*, 1 Aug. 1999, at 80.
 
-Apart from that one situation—or when the number given is greater than one <more than four golfers were in the group>—a plural verb should not follow. To say *\*more than one are present* is unidiomatic at best—e.g.:
+Apart from that one situation—or when the number given is greater than one \<more than four golfers were in the group\>—a plural verb should not follow. To say *\*more than one are present* is unidiomatic at best—e.g.:
 
  - "This column looks at the job description of the personal representative or representatives if more than one *are* \[read *is*\] named." Julie Tripp, "How to Administer an Estate," *Oregonian* (Portland), 27 Jan. 1997, at B12.
 
@@ -100,7 +100,7 @@ Apart from that one situation—or when the number given is greater than one <mo
 
  - Current ratio in print (*More than one was* vs. \**More than one were*): 11:1
 
-**J. Plural Subject Intended to Denote Area or Statistic.** Some writers fall into the habit of implicitly prefacing plural nouns with understood words such as *the idea of*, *the field of*, or even *the fact of*. To be sure, some of these wordings are perfectly idiomatic <mathematics is where my talent lies>.
+**J. Plural Subject Intended to Denote Area or Statistic.** Some writers fall into the habit of implicitly prefacing plural nouns with understood words such as *the idea of*, *the field of*, or even *the fact of*. To be sure, some of these wordings are perfectly idiomatic \<mathematics is where my talent lies\>.
 
 But the habit should not extend beyond the reach of idiomatic comfort. Consider the following title, over an article by Ray and Tom Magliozzi: "Duplicate Cars Means Customer Pays More for Name," *Amarillo Daily News*, 21 Aug. 1993, at B5. In that title, there is an implied subject—something like *the fact of having . . . means*. But the phrasing looks sloppy.
 

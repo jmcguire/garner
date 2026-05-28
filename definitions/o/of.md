@@ -25,7 +25,7 @@ As the statistics below show, the language has seen a major shift toward the int
 
 **C. Superfluous in Dates.** *December of* *1987* should be *December* *1987**.* See dates (b).
 
-**D. For *have*.** Because the spoken *have* (especially in a contraction) is often identical in sound with *of* <I should've done it>, semiliterate writers have taken to writing *\*should of*, *\*could of*, and *\*would of* (aka *\*shoulda*, *\*coulda*, and *\*woulda*). But the word is *have*, or a contraction ending in *'ve*, and it should be written so. This error has typified uneducated usage since about the time of World War I. Instances of it are legion—e.g.:
+**D. For *have*.** Because the spoken *have* (especially in a contraction) is often identical in sound with *of* \<I should've done it\>, semiliterate writers have taken to writing *\*should of*, *\*could of*, and *\*would of* (aka *\*shoulda*, *\*coulda*, and *\*woulda*). But the word is *have*, or a contraction ending in *'ve*, and it should be written so. This error has typified uneducated usage since about the time of World War I. Instances of it are legion—e.g.:
 
  - " ‘He may *of* \[read *have*\] been otherwise occupied by his other legal troubles,' Lanza said. ‘Other than that, I don't know.' " Jack Sherzer, "Spotz Suit Against Officers Dismissed," *Harrisburg Patriot*, 1 Aug. 1996, at B4 (quoting David J. Lanza, who can't be faulted for the mistranscription).
 

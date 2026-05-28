@@ -1,4 +1,4 @@
-# overcome > overcame > overcome
+# overcome \> overcame \> overcome
 
-overcome > overcame > overcome. So inflected. See irregular verbs.
+overcome \> overcame \> overcome. So inflected. See irregular verbs.
 

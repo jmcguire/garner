@@ -1,6 +1,6 @@
 # amateur
 
-amateur. In best usage, an amateur (/**am**-ә-chәr/ or /**am**-ә-tәr/) is a hobbyist, one who engages in an activity out of love and enthusiasm rather than for profit. This is still the meaning in phrases such as *amateur astronomer* and *amateur golfer*. In some uses it has long had a negative connotation of undeveloped skills <rank amateur> <an amateurish job>.
+amateur. In best usage, an amateur (/**am**-ә-chәr/ or /**am**-ә-tәr/) is a hobbyist, one who engages in an activity out of love and enthusiasm rather than for profit. This is still the meaning in phrases such as *amateur astronomer* and *amateur golfer*. In some uses it has long had a negative connotation of undeveloped skills \<rank amateur\> \<an amateurish job\>.
 
 In recent years, it has come to be used as a synonym for *beginner*. A good alternative would be *novice* or *neophyte* (both usually neutral in connotation) or even *tyro* (with connotations of a bumbler).
 

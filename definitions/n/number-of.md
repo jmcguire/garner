@@ -14,7 +14,7 @@ But *a number of* is quite correctly paired with a plural noun and a plural verb
 
 This construction is correct because of the linguistic principle known as synesis, which allows some constructions to control properties such as number according to their meaning rather than strict syntactical rules. Since the meaning of *a number of things* is *many things* (or *several things*), and since *some things* is plural, the verb must be plural.
 
-But when an adjective precedes *number*, the question becomes a close one <a significant number of them \[is\] \[are\]>. Because the adjective emphasizes *number* as a noun, some writers make the verb singular—e.g.:
+But when an adjective precedes *number*, the question becomes a close one \<a significant number of them \[is\] \[are\]\>. Because the adjective emphasizes *number* as a noun, some writers make the verb singular—e.g.:
 
  - "What matters more than this . . . is that there *is* abroad in the world these days *a substantial number of* groups and individuals whose varied labors make inevitable a deepening sense of self." Wendell Johnson, *Verbal Man: The Enchantment of Words* 123 (1956; repr. 1965).
 
@@ -47,7 +47,7 @@ Few usage critics have ever discussed this particular point. One who did, G.H. V
  - *a number of* with plural noun and plural verb: Stage 5
  - Current ratio in print (*a number of them were* vs. *\*a number of them was*): 51:1
 
-**B. *The number of*.** When the phrase is used with the definite article *the*, everything changes. Now, instead of talking about the multiple things, we're talking about the number itself, which is singular <the number of students planning to attend college is steadily rising>. E.g.: "While the number of cases *are* \[read *is*\] still relatively low compared with the United States and elsewhere, these new outbreaks . . . are showcasing the limitations of China's zero-tolerance approach to Covid." Sui-Lee Wee & Elsie Chen, "Delta Outbreak in China Tests a Success Story," *N.Y. Times*, 5 Aug. 2021, at A1, A10.
+**B. *The number of*.** When the phrase is used with the definite article *the*, everything changes. Now, instead of talking about the multiple things, we're talking about the number itself, which is singular \<the number of students planning to attend college is steadily rising\>. E.g.: "While the number of cases *are* \[read *is*\] still relatively low compared with the United States and elsewhere, these new outbreaks . . . are showcasing the limitations of China's zero-tolerance approach to Covid." Sui-Lee Wee & Elsie Chen, "Delta Outbreak in China Tests a Success Story," *N.Y. Times*, 5 Aug. 2021, at A1, A10.
 
  - Current ratio in print (*the number of people was* vs. \**the number of people were*): 6:1
 

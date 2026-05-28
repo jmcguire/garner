@@ -1,6 +1,6 @@
 # to and fro
 
-to and fro. This phrase, dating in English from the 1300s, usually functions either adverbially ("in one direction and then back again in the other" or "with alternating movements in opposite directions") <jostling to and fro> or as a noun phrase ("a continual movement of people or things from one place to another") <the to and fro of close rivalry>. But it can also be used prepositionally <lawyers rushing to and fro the courts>, adjectivally <to-and-fro rhythms>, and verbally <the teams were toing and froing all day>. The hyphens are usual in the adjective uses.
+to and fro. This phrase, dating in English from the 1300s, usually functions either adverbially ("in one direction and then back again in the other" or "with alternating movements in opposite directions") \<jostling to and fro\> or as a noun phrase ("a continual movement of people or things from one place to another") \<the to and fro of close rivalry\>. But it can also be used prepositionally \<lawyers rushing to and fro the courts\>, adjectivally \<to-and-fro rhythms\>, and verbally \<the teams were toing and froing all day\>. The hyphens are usual in the adjective uses.
 
 One invariable aspect of the correct use of the phrase today is its spelling: the words are *to* and *fro*. But sometimes *to* is mistakenly changed to one of its homophones—*too* or *two*. E.g.:
 

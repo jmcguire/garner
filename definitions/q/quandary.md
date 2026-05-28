@@ -1,6 +1,6 @@
 # quandary
 
-quandary (/**kwon**-dә-ree/ or /**kwon**-dree/) = a state of befuddlement or pervasive doubt <now that he's been told the truth, he's in a quandary about his next step>. The word best describes a state of mind and should not be detached from mental processes. That is, it shouldn't be used as a synonym of *problem*, *challenge*, *issue*, *dilemma*, or *quagmire*—e.g.:
+quandary (/**kwon**-dә-ree/ or /**kwon**-dree/) = a state of befuddlement or pervasive doubt \<now that he's been told the truth, he's in a quandary about his next step\>. The word best describes a state of mind and should not be detached from mental processes. That is, it shouldn't be used as a synonym of *problem*, *challenge*, *issue*, *dilemma*, or *quagmire*—e.g.:
 
  - "One of the most difficult *quandaries* *about* \[read *issues* *with*\] assisted suicide stems from the uncertainty of medicine." "The Courts and Assisted Suicide," *Tampa Trib.*, 5 Feb. 1997, at 10.
 

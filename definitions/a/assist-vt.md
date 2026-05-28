@@ -1,6 +1,6 @@
 # assist, vt
 
-assist, v.t., is genuinely useful in a few phrases in which *help* simply wouldn't do <assisted reproductive technology> <physician-assisted suicide>. But when *help* suffices, it's the better choice—e.g.:
+assist, v.t., is genuinely useful in a few phrases in which *help* simply wouldn't do \<assisted reproductive technology\> \<physician-assisted suicide\>. But when *help* suffices, it's the better choice—e.g.:
 
  - "The Trumbull officer . . . could have stopped the chase and *assisted* \[read *helped*\] the innocent victims of the crash, he said." Michael Remez, "Police Chases," *Hartford Courant*, 9 Dec. 1997, at A1.
 

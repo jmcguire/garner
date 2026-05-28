@@ -1,6 +1,6 @@
 # redound
 
-redound, now used most commonly in the verbose expressions *to redound to the benefit of* (= to benefit) and *to redound to one's credit*, may also be used in negative senses <to redound against or to the shame of>. E.g.: "If I leave before the new villa is complete, I will have more questions to answer than I would care to deal with, and I would leave behind speculation that could *redound* to you." Chelsea Quinn Yarbro, *Communion Blood* 304 (1999).
+redound, now used most commonly in the verbose expressions *to redound to the benefit of* (= to benefit) and *to redound to one's credit*, may also be used in negative senses \<to redound against or to the shame of\>. E.g.: "If I leave before the new villa is complete, I will have more questions to answer than I would care to deal with, and I would leave behind speculation that could *redound* to you." Chelsea Quinn Yarbro, *Communion Blood* 304 (1999).
 
 Unfortunately, some writers confuse this word with *rebound*—e.g.:
 

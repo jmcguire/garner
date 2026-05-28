@@ -1,8 +1,8 @@
 # decry
 
-decry; **descry**. *Decry* = to denounce or disparage <decrying the despicable practice>. E.g.: "Party fund-raisers, while *decrying* the amounts spent this year, say both parties are caught in a financial version of an arms race." Leslie Wayne, "Campaigns Exploiting Financial Loopholes," *Austin Am.-Statesman*, 8 Sept. 1996, at A1.
+decry; **descry**. *Decry* = to denounce or disparage \<decrying the despicable practice\>. E.g.: "Party fund-raisers, while *decrying* the amounts spent this year, say both parties are caught in a financial version of an arms race." Leslie Wayne, "Campaigns Exploiting Financial Loopholes," *Austin Am.-Statesman*, 8 Sept. 1996, at A1.
 
-*Descry* = to see in the distance; discern with the eye <we could descry the distant steeple>. Today it is most often used figuratively—e.g.:
+*Descry* = to see in the distance; discern with the eye \<we could descry the distant steeple\>. Today it is most often used figuratively—e.g.:
 
  - "From the nine peaks of this series, we can *descry* and yearn to climb other pinnacles." David Elliott, " ‘Middleman' Delivers the Diamond," *San Diego Union-Trib.*, 4 Apr. 1994, Night & Day §, at 24.
 

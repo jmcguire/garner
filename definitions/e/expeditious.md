@@ -1,6 +1,6 @@
 # expeditious
 
-expeditious; **expedient**, adj.; \***expediential**. *Expeditious* = quickly accomplished, prompt <an expeditious decision>. *Expedient* = (1) desirable, advantageous <a surprisingly expedient device for controlling a difficult problem>; or (2) conveniently effective but perhaps morally questionable <the regent's decision was politically expedient>. *\*Expediential* is a needless variant.
+expeditious; **expedient**, adj.; \***expediential**. *Expeditious* = quickly accomplished, prompt \<an expeditious decision\>. *Expedient* = (1) desirable, advantageous \<a surprisingly expedient device for controlling a difficult problem\>; or (2) conveniently effective but perhaps morally questionable \<the regent's decision was politically expedient\>. *\*Expediential* is a needless variant.
 
 *Expedient* as a synonym for *expeditious* has long been considered obsolete. Oddly, though, it persists where *expeditious* would be better, probably in part because of the sound of *speed* in the middle of *expedient*. In the following examples, notice that the pejorative associations of *expedient* convey something rather different from *expeditious* (= prompt):
 

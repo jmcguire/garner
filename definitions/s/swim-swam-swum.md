@@ -1,6 +1,6 @@
-# swim > swam > swum
+# swim \> swam \> swum
 
-swim > swam > swum. So inflected since the late 1800s in AmE and BrE alike. Yet *swam* often appears erroneously as a past participle—e.g.:
+swim \> swam \> swum. So inflected since the late 1800s in AmE and BrE alike. Yet *swam* often appears erroneously as a past participle—e.g.:
 
  - "The Red Devils have *swam* \[read *swum*\] at the current site since 1952." Mary Jo Monnin, "Noteworthy," *Buffalo News*, 4 Feb. 1997, at D4.
 

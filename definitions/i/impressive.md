@@ -1,6 +1,6 @@
 # impressive
 
-impressive; **impressible**; **impressionable**. *Impressive* = likely to impress people <an impressive array of trophies>. *Impressible* (a fairly rare word) = easily impressed <if that doesn't impress you, you're not impressible>. *Impressionable* = easily influenced <impressionable children>.
+impressive; **impressible**; **impressionable**. *Impressive* = likely to impress people \<an impressive array of trophies\>. *Impressible* (a fairly rare word) = easily impressed \<if that doesn't impress you, you're not impressible\>. *Impressionable* = easily influenced \<impressionable children\>.
 
 *Impressible* is misused for *impressive* especially in the adverbial form—e.g.:
 

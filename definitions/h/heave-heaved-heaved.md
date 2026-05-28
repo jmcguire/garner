@@ -1,6 +1,6 @@
-# heave > heaved > heaved
+# heave \> heaved \> heaved
 
-heave > heaved > heaved. So inflected. The past-tense *hove* is archaic in all uses except the nautical phrases *heave into view* and *heave into sight*, both meaning "to become visible"—e.g.:
+heave \> heaved \> heaved. So inflected. The past-tense *hove* is archaic in all uses except the nautical phrases *heave into view* and *heave into sight*, both meaning "to become visible"—e.g.:
 
  - "We were waiting for a table when Jerry Simpson *hove* into view, at the helm of a 23-foot fiberglass boat." Peter Rowe, "How Hot Is It?," *San Diego Union-Trib.*, 14 Nov. 1996, at E1.
 

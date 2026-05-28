@@ -10,7 +10,7 @@ supposed to (= expected to) wrongly made *\*suppose to* has been a fairly common
 
 Cf. **used to**.
 
-In constructions in which *suppose* means "to assume," an infinitive may follow the verb <I suppose this to be your answer>.
+In constructions in which *suppose* means "to assume," an infinitive may follow the verb \<I suppose this to be your answer\>.
 
 ## Language-Change Index
 

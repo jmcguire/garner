@@ -2,7 +2,7 @@
 
 envision; **envisage**. Although *envisage* is more than a century older—having been used since the early 1800s—*envision* is now much more common in AmE. Today, *envisage* is a literary word in AmE, but the ordinary word in BrE. Not until the 1960s, however, did *envision* supplant *envisage* as the more usual term in AmE.
 
-Both words mean "to visualize," but there is perhaps an incipient differentiation underway—one that might be encouraged. As suggested by *W11*, *envision* means "to picture to oneself" <I don't envision winning the tournament>, while *envisage* means "to contemplate or view in a certain way" <she envisages the building as being in a state of severe decline>.
+Both words mean "to visualize," but there is perhaps an incipient differentiation underway—one that might be encouraged. As suggested by *W11*, *envision* means "to picture to oneself" \<I don't envision winning the tournament\>, while *envisage* means "to contemplate or view in a certain way" \<she envisages the building as being in a state of severe decline\>.
 
 In fact, though, American speakers and writers tend to use *envision* in both ways, to the exclusion of *envisage*—e.g.:
 

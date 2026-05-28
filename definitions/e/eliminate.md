@@ -1,6 +1,6 @@
 # eliminate
 
-eliminate, strictly speaking, means to get rid of something that already exists <we downsized to eliminate several layers of bureaucracy that had built up>. The verb should not be misused for *prevent* or *avoid*; that is, it shouldn't refer to something that doesn't yet exist. E.g.:
+eliminate, strictly speaking, means to get rid of something that already exists \<we downsized to eliminate several layers of bureaucracy that had built up\>. The verb should not be misused for *prevent* or *avoid*; that is, it shouldn't refer to something that doesn't yet exist. E.g.:
 
  - "Two readers who experienced debilitating crashes with Power Mac 8500 systems were able to *eliminate* \[read *prevent*\] crashes by moving dram dimms away from the vicinity of the cache." Ric Ford, "Coming Clean: Apple Has a New Set of PCI Updates," *MacWEEK*, 4 Dec. 1995, at 52.
 

@@ -1,8 +1,8 @@
-# stride > strode > strode
+# stride \> strode \> strode
 
-stride > strode > strode. So inflected. The variant past participle *\*stridden*, an archaism (attested in the *OED* from 1576 to 1970), rarely appears today. Another past-participial form, *\*strid*, was current before 1800 but is now obsolete.
+stride \> strode \> strode. So inflected. The variant past participle *\*stridden*, an archaism (attested in the *OED* from 1576 to 1970), rarely appears today. Another past-participial form, *\*strid*, was current before 1800 but is now obsolete.
 
-The form *strode* serves as both the simple past and the past participle. Hence there is no full correspondence with the seemingly analogous *ride* > *rode* > *ridden*. E.g.:
+The form *strode* serves as both the simple past and the past participle. Hence there is no full correspondence with the seemingly analogous *ride* \> *rode* \> *ridden*. E.g.:
 
  - "It was 12:15, a mere 15 minutes after McQueen had *strode* into the chamber." Jim Adams, "The Death Penalty in Kentucky," *Courier-J.* (Louisville), 2 July 1997, at A1.
 

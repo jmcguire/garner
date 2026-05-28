@@ -2,7 +2,7 @@
 
 because.
 
-**A. Senses.** The conjunction *because* ordinarily begins a dependent clause that expresses reason, cause, or motive for whatever idea appears in the main clause. It has a well-known sense ("for the reason that" or "by reason of") and, in expressions that amount to casualisms, some senses that most dictionaries don't traditionally record. The most common of the seldom-recorded meanings is "and the evidence is that" <it must be snowing in Chicago because the airport has been shut down for "weather-related reasons">. This usage contains an ellipsis: "(I deduce) p because q." E.g.:
+**A. Senses.** The conjunction *because* ordinarily begins a dependent clause that expresses reason, cause, or motive for whatever idea appears in the main clause. It has a well-known sense ("for the reason that" or "by reason of") and, in expressions that amount to casualisms, some senses that most dictionaries don't traditionally record. The most common of the seldom-recorded meanings is "and the evidence is that" \<it must be snowing in Chicago because the airport has been shut down for "weather-related reasons"\>. This usage contains an ellipsis: "(I deduce) p because q." E.g.:
 
  - "It must be genetic *because* it takes a certain amount of determination to want to take on the rigours of coaching the Canadian junior hockey team for a second year in a row." Donna Spencer, "Junior Coach Inspired by Daughter," *Globe & Mail* (Toronto), 20 Dec. 2001, at S5.
 
@@ -10,7 +10,7 @@ because.
 
  - "The people who go to Times Square must be out-of-towners, *because* I never met a New Yorker who wanted to be anywhere near there when the clock struck midnight." Steve Lopez, "Doing Fine Without MSNBC or NFL," *L.A. Times*, 28 Dec. 2001, at B1.
 
-Sometimes *because* occurs in a question in the sense "given the fact that" or "in view of the fact that" <why are you wearing an overcoat, because it's 85 degrees out here\!>. Here the ellipsis is "(I'm asking) p because q."
+Sometimes *because* occurs in a question in the sense "given the fact that" or "in view of the fact that" \<why are you wearing an overcoat, because it's 85 degrees out here\!\>. Here the ellipsis is "(I'm asking) p because q."
 
 **B. Punctuation with.** The word *because* usually doesn't and shouldn't follow a comma: when a dependent clause (the *because*-clause) follows the main independent clause of the sentence, no break is needed between the two. E.g.:
 

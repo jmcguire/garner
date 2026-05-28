@@ -2,7 +2,7 @@
 
 swell.
 
-**A. Inflected Forms: *swell* > *swelled* > *swelled*.** So inflected in AmE. The form *swollen*—quite correct as an adjective <swollen ankles>—is a variant past participle in AmE. But in BrE *swollen* is the normal past participle <her ankles had swollen to twice their ordinary size>.
+**A. Inflected Forms: *swell* \> *swelled* \> *swelled*.** So inflected in AmE. The form *swollen*—quite correct as an adjective \<swollen ankles\>—is a variant past participle in AmE. But in BrE *swollen* is the normal past participle \<her ankles had swollen to twice their ordinary size\>.
 
 In 1936, two British usage critics (preferring *swollen*) said that " ‘*swelled* head' is the only phrase which has the weak form of the participle." H.A. Treble & G.H. Vallins, *An A.B.C. of English Usage* 173 (1936). E.g.: "After two Oscar wins, several nominations and many blockbuster hits, beloved actor Tom Hanks has developed a *swelled* head." Jennie Punter, "Apollo 13," *Globe & Mail* (Toronto), 21 Sept. 2002, at R19 (referring comically to computer enlargement). In fact, we've developed the slang noun *swellhead* to denote an egotist. *Swollen head* (a fine distinction in AmE) tends to refer to a diseased or injured one.
 

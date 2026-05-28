@@ -1,6 +1,6 @@
-# swear > swore > sworn
+# swear \> swore \> sworn
 
-swear > swore > sworn. So inflected. In nonstandard English, the simple-past *swore* often displaces the past-participial *sworn*—e.g.:
+swear \> swore \> sworn. So inflected. In nonstandard English, the simple-past *swore* often displaces the past-participial *sworn*—e.g.:
 
  - "The soup also had carrot, cabbage, big wedges of yucca—which I could have *swore* \[read *sworn*\] were potatoes." Ryan DuVall, "Salvadoran Spot Shines with Flavor," *Ft. Wayne J.-Gaz.*, 27 Jan. 2013, at D1.
 

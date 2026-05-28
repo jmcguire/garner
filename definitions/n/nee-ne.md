@@ -1,6 +1,6 @@
 # née; né
 
-née; né. This gallicism (meaning "born") denotes a person's original name. The feminine form, *née*, often precedes a married woman's maiden name <Mrs. Susan Smith (*née* Jones)>. Either form (*né* is masculine) may also follow a changed name, such as a pen name <Mark Twain (*né* Samuel Clemens)> or a screen name <Marilyn Monroe (*née* Norma Jean Baker)>.
+née; né. This gallicism (meaning "born") denotes a person's original name. The feminine form, *née*, often precedes a married woman's maiden name \<Mrs. Susan Smith (*née* Jones)\>. Either form (*né* is masculine) may also follow a changed name, such as a pen name \<Mark Twain (*né* Samuel Clemens)\> or a screen name \<Marilyn Monroe (*née* Norma Jean Baker)\>.
 
 The two forms are pronounced the same: /nay/.
 

@@ -1,6 +1,6 @@
 # Correlative Conjunctions, Essay
 
-Correlative Conjunctions, or conjunctions used in pairs, should join structurally identical sentence elements, sometimes called "matching parts." Simple nouns never cause problems <neither fish nor fowl>. When we use constructions with phrases and clauses, however, parallelism may become a problem. Following are examples with some of the more common correlative conjunctions:
+Correlative Conjunctions, or conjunctions used in pairs, should join structurally identical sentence elements, sometimes called "matching parts." Simple nouns never cause problems \<neither fish nor fowl\>. When we use constructions with phrases and clauses, however, parallelism may become a problem. Following are examples with some of the more common correlative conjunctions:
 
  - ***Both . . . and*:** "As with the 1983 news coverage, it is through this sort of presentation that horror video watching becomes *both symptomatic* \[read *a symptom*\] of sickness *and* the precursor of despicable forms of behavior." Peter Fraser, "Nasty . . . But Naughty," *Guardian*, 9 May 1992, at 26. See **both (a)**.
 

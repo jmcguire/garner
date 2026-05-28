@@ -1,6 +1,6 @@
-# stick > stuck > stuck
+# stick \> stuck \> stuck
 
-stick > stuck > stuck. So inflected. The exception occurs in ice hockey and other sports, in which *sticked* (= \[1\] hit with a stick; or \[2\] having used a stick) is ubiquitous—e.g.:
+stick \> stuck \> stuck. So inflected. The exception occurs in ice hockey and other sports, in which *sticked* (= \[1\] hit with a stick; or \[2\] having used a stick) is ubiquitous—e.g.:
 
  - "No one has *pogo-sticked* farther." John Walters, "The Question Is Why?," *Sports Illustrated*, 2 Nov. 1998, at 16.
 

@@ -16,5 +16,5 @@ When the sense is *nothing short of*, that phrase (or *nothing less than*) typic
 
  - *no less* for *no fewer* in reference to a count noun: Stage 4
 
-**B. And *not less*.** *No less* subtly connotes surprise <he weighs no less than 300 pounds>. The phrasing in the example expresses astonishment that he weighs so much. *Not less* is more clinical and dispassionate <he weighs not less than 300 pounds>. That example states matter-of-factly that he weighs at least that much and maybe more.
+**B. And *not less*.** *No less* subtly connotes surprise \<he weighs no less than 300 pounds\>. The phrasing in the example expresses astonishment that he weighs so much. *Not less* is more clinical and dispassionate \<he weighs not less than 300 pounds\>. That example states matter-of-factly that he weighs at least that much and maybe more.
 

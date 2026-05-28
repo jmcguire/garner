@@ -1,6 +1,6 @@
 # plum
 
-plum; **plumb**. As well as being the name of a fruit and of the reddish-purple color of that fruit, *plum* is used figuratively as an adjective meaning "desirable," especially to describe a job <a plum ambassadorship>. *Plumb* as an adjective describes something that is truly vertical <plumb line>. Writers sometimes blunder by misusing *plumb* for *plum*—e.g.:
+plum; **plumb**. As well as being the name of a fruit and of the reddish-purple color of that fruit, *plum* is used figuratively as an adjective meaning "desirable," especially to describe a job \<a plum ambassadorship\>. *Plumb* as an adjective describes something that is truly vertical \<plumb line\>. Writers sometimes blunder by misusing *plumb* for *plum*—e.g.:
 
  - "Mark Golin, the one-time editor of *Maxim* and *Details*, is said to be a top contender to land the *plumb* \[read *plum*\] job of editing *Rolling Stone*." Keith J. Kelly, "Golin Is Strong Candidate to Run New Rolling Stone," *N.Y. Post*, 30 Apr. 2002, at 29.
 
@@ -8,7 +8,7 @@ plum; **plumb**. As well as being the name of a fruit and of the reddish-purple 
 
 The opposite error also occurs, though less frequently—e.g.: "Accompanying the boats are scores of suspended plaster *plum bobs* \[read *plumb bobs*\] that look like huge rain drops frozen in flight . . . . *Plum bobs* \[read *Plumb bobs*\] symbolize security because they stay level, even as a boat tosses in the waves." Doug McCash, "3 Shows Venture Out of the Gallery Mainstream," *Times-Picayune* (New Orleans), 1 June 2001, Lagniappe §, at 36.
 
-The adjective *plumb*, "perfectly straight, vertical," by dialectal extension of the "perfectly straight" sense, has come to mean "entirely, wholly" <I'm plumb tired>. But some writers confuse the spelling by associating it somehow with fruit—e.g.:
+The adjective *plumb*, "perfectly straight, vertical," by dialectal extension of the "perfectly straight" sense, has come to mean "entirely, wholly" \<I'm plumb tired\>. But some writers confuse the spelling by associating it somehow with fruit—e.g.:
 
  - "Shelley, a 13-week-old springer spaniel, looks *plum-tired* \[read *plumb tired*\] during an obedience class at Temple Terrace Recreation Center on Tuesday night." "Inside," *St. Petersburg Times* (Fla.), 16 Jan. 1993, Community Times §, at 1 (photo caption).
 

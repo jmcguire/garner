@@ -1,6 +1,6 @@
-# forsake > forsook > forsaken
+# forsake \> forsook \> forsaken
 
-forsake > forsook > forsaken. So inflected. *\*Forsaked* is a solecism that has never had currency—e.g.:
+forsake \> forsook \> forsaken. So inflected. *\*Forsaked* is a solecism that has never had currency—e.g.:
 
  - "Lawrence . . . *forsaked* \[read *forsook*\] his love of classical piano for the wild blue yonder." James Hill, "1st Black Astronaut Added to Space Hero Roster," *Chicago Trib.*, 27 Oct. 1997, at 1.
 

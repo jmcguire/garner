@@ -1,6 +1,6 @@
 # precede
 
-precede; **proceed**. word-swapping can befall these words even when used by otherwise literate people. Both may mean "to go ahead," but in different senses. *Precede* = to go ahead of; to come before <the husband preceded his wife by ten steps>. *Proceed* = to go ahead; to continue <they proceeded into the hall>.
+precede; **proceed**. word-swapping can befall these words even when used by otherwise literate people. Both may mean "to go ahead," but in different senses. *Precede* = to go ahead of; to come before \<the husband preceded his wife by ten steps\>. *Proceed* = to go ahead; to continue \<they proceeded into the hall\>.
 
 *\*Preceed*, a misspelling that surely won't succeed, confuses the two words. It occurs in print surprisingly often—e.g.: "He asked the audience to vote for politicians who solve problems, instead of focusing on the storms that *preceed* \[read *precede*\] the solutions." Anne Michaud, "Solving Problems Stressed for County," *Cincinnati Enquirer*, 18 Apr. 1997, at C1.
 

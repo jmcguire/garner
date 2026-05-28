@@ -79,7 +79,7 @@ All this enthusiasm for the construction, though, must be tempered with this cau
 
 **D. Preposition or Conjunction?** The use of *but* in a negative sense after a pronoun (such as *everybody* or *nobody*) has long caused confusion: is it *Nobody but her* or *Nobody but she*? If *but* is regarded as a preposition (equivalent to *except*), the objective *her* or *him* would follow. But if *but* is regarded as a conjunction, the nominative *she* or *he* would follow.
 
-The conventional explanation is that *but* is taken as a preposition needing an objective pronoun if the verb precedes the *but*-phrase <everyone had a ticket but him>; yet it's taken as a conjunction requiring a nominative pronoun if the verb follows the *but*-phrase <everyone but he had a ticket>. E.g.:
+The conventional explanation is that *but* is taken as a preposition needing an objective pronoun if the verb precedes the *but*-phrase \<everyone had a ticket but him\>; yet it's taken as a conjunction requiring a nominative pronoun if the verb follows the *but*-phrase \<everyone but he had a ticket\>. E.g.:
 
  - "Nobody but *we* of the craft can untwist the diction." Thomas Jefferson, "Plan for Elementary Schools" (letter of 9 Sept. 1817), in 4 *The Writings of Thomas Jefferson* 490 (1854).
 

@@ -1,8 +1,8 @@
 # cleave
 
-cleave, v.t., = (1) to divide or separate, split; or (2) to adhere to firmly. In other words, it has opposite meanings. (See contronyms.) In sense 1, *cleave* yields the past tense *cleft* (or, less good, *clove*) and the past participle *cleft* (or, again less good, *cleaved*). The past-participial adjective is *cloven.* Hence: "He cleft the Devil's cloven hoof with a cleaver." In sense 2, the verb is inflected *cleave* > *cleaved* > *cleaved*. Hence: "Antoinette's tongue *cleaved* to the roof of her mouth, and she said nothing." Wayne Thomas Batson, *The Final Storm* 279 (2006).
+cleave, v.t., = (1) to divide or separate, split; or (2) to adhere to firmly. In other words, it has opposite meanings. (See contronyms.) In sense 1, *cleave* yields the past tense *cleft* (or, less good, *clove*) and the past participle *cleft* (or, again less good, *cleaved*). The past-participial adjective is *cloven.* Hence: "He cleft the Devil's cloven hoof with a cleaver." In sense 2, the verb is inflected *cleave* \> *cleaved* \> *cleaved*. Hence: "Antoinette's tongue *cleaved* to the roof of her mouth, and she said nothing." Wayne Thomas Batson, *The Final Storm* 279 (2006).
 
-The *COD* sanctions, for BrE usage, *cleave* > *clove* > *cloven* for all senses, though *cleft* is used adjectivally in set phrases such as *cleft palate* and *cleft stick*. Luckily, the term is literary, so that generally only literary scholars must trouble themselves with these inflections. See irregular verbs.
+The *COD* sanctions, for BrE usage, *cleave* \> *clove* \> *cloven* for all senses, though *cleft* is used adjectivally in set phrases such as *cleft palate* and *cleft stick*. Luckily, the term is literary, so that generally only literary scholars must trouble themselves with these inflections. See irregular verbs.
 
 The past form *\*clefted* is an infrequent solecism—e.g.:
 

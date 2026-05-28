@@ -38,7 +38,7 @@ What about "My mother likes the dog more than me?" vs. "My mother likes the dog 
 
 ## Language-Change Index
 
- - *than* with an objective pronoun <he's taller than me>: Stage 4
+ - *than* with an objective pronoun \<he's taller than me\>: Stage 4
  - Current ratio in print (*taller than he* vs. *\*taller than him*): 1.3:1
  - Current ratio in print (*better than I* vs. *\*better than me*): 4:1
 

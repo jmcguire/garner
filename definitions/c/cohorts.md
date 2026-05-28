@@ -1,6 +1,6 @@
 # cohort(s)
 
-cohort(s). Most traditionally, *cohort* has been a mass noun denoting "a band of warriors." It was extended to nonmilitary uses <the baby-boom cohort>. Some critics, such as Wilson Follett, can accept that extension but regard anything further as a slipshod extension:
+cohort(s). Most traditionally, *cohort* has been a mass noun denoting "a band of warriors." It was extended to nonmilitary uses \<the baby-boom cohort\>. Some critics, such as Wilson Follett, can accept that extension but regard anything further as a slipshod extension:
 
 \[I\]f the word is to retain its force it should observe two requirements: (1) it should designate members, too numerous to be conveniently counted, of some sort of united group, and (2) it should imply some sort of struggle or contest. *No one of the candidates succeeded in completely marshaling his cohorts before the first ballot* / *To the legion of the lost ones, to the cohort of the damned*—in such uses the sense of the word is preserved.
 

@@ -2,7 +2,7 @@
 
 with.
 
-**A. As a Quasi-Conjunction.** *With* is increasingly being used as a quasi-conjunction to introduce a tag-on idea at the end of a sentence. The sense is close to *and* <John went to Houston and Sarah went to Minneapolis, with me going to Chicago>. Avoid this sloppy construction—e.g.:
+**A. As a Quasi-Conjunction.** *With* is increasingly being used as a quasi-conjunction to introduce a tag-on idea at the end of a sentence. The sense is close to *and* \<John went to Houston and Sarah went to Minneapolis, with me going to Chicago\>. Avoid this sloppy construction—e.g.:
 
  - "Labor also has an edge on unemployment and welfare and social issues, *with* the Coalition considered better able to handle the environment, interest rates and taxation." Michael Gordon, "Voters Swing Back to ALP on Issues," *Weekend Australian*, 20–21 Jan. 1996, at 1. (A possible revision: *Labor also has an edge on unemployment and welfare and social issues; the Coalition is considered better able to handle the environment, interest rates, and taxation.*)
 

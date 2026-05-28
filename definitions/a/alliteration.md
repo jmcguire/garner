@@ -2,7 +2,7 @@
 
 Alliteration .
 
-**A. Pleasant Examples.** How language affects the ear should be a critical concern of writers, who can use sound (even in the mind's ear) for any of several effects. When they repeat sounds in nearby words, the result is called *alliteration* (which has two subsets: *assonance* for vowels <reverie in poetry>, *consonance* for consonants <put pen to paper>).
+**A. Pleasant Examples.** How language affects the ear should be a critical concern of writers, who can use sound (even in the mind's ear) for any of several effects. When they repeat sounds in nearby words, the result is called *alliteration* (which has two subsets: *assonance* for vowels \<reverie in poetry\>, *consonance* for consonants \<put pen to paper\>).
 
 Sometimes alliteration reinforces sarcasm, as when Vice President Spiro Agnew referred to the *nattering nabobs of negativism* or when Fred Rodell, a Yale professor, referred to due process as *that lovely limpid legalism*. Rodell, in fact, relished sarcastic alliteration, once referring to "the *tweedledum-tweedledee twaddle* of much that passes for *learned legal* argument." Fred Rodell, *Nine Men* 331 (1955).
 

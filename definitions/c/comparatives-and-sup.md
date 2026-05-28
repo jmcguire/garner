@@ -2,7 +2,7 @@
 
 Comparatives and Superlatives .
 
-**A. Choice Between Comparative and Superlative.** When two items are being compared, a comparative adjective is needed <the greater of the two>; when more than two are being compared, the superlative is needed <the greatest of the three>. The blunder of using the superlative adjective when only two items are being compared is increasingly common, especially in AmE—e.g.:
+**A. Choice Between Comparative and Superlative.** When two items are being compared, a comparative adjective is needed \<the greater of the two\>; when more than two are being compared, the superlative is needed \<the greatest of the three\>. The blunder of using the superlative adjective when only two items are being compared is increasingly common, especially in AmE—e.g.:
 
  - "The *tallest* \[read *taller*\] of the two pyramids is nearly 500 feet." Alan Byrd, "Pyramids? Not in My Backyard, Foes Say," *Orlando Bus. J.*, 30 Sept. 1994, at 1.
 
@@ -20,9 +20,9 @@ One idiomatic exception occurs when we put our *best foot* forward, since (of co
 
 ## Language-Change Index
 
-Superlative with two objects <best of the pair>: Stage 4
+Superlative with two objects \<best of the pair\>: Stage 4
 
-**B. Which to Use—Suffixes or *more* and *most*?** Apart from irregular forms such as *good* > *better* > *best*, comparatives and superlatives are formed by either (1) adding the suffixes *-er* and *-est* (e.g., *broader, broadest*), typically when the adjective is one or two syllables; or (2) using the additional words *more* and *most* (e.g., *more critical, most critical*), a form required with words having three or more syllables and typical with two-syllable words. It was once possible to write *interestinger* and *honestest*, but no longer. Several words have a choice of forms (e.g., *commoner, -est* or *more, most common*; *tranquil(l)er, -est* or *more, most tranquil*; *stupider, -est* or *more, most stupid*; *naiver, -est* or *more, most naive*). The terminational forms are usually older, and some of them are becoming obsolete.
+**B. Which to Use—Suffixes or *more* and *most*?** Apart from irregular forms such as *good* \> *better* \> *best*, comparatives and superlatives are formed by either (1) adding the suffixes *-er* and *-est* (e.g., *broader, broadest*), typically when the adjective is one or two syllables; or (2) using the additional words *more* and *most* (e.g., *more critical, most critical*), a form required with words having three or more syllables and typical with two-syllable words. It was once possible to write *interestinger* and *honestest*, but no longer. Several words have a choice of forms (e.g., *commoner, -est* or *more, most common*; *tranquil(l)er, -est* or *more, most tranquil*; *stupider, -est* or *more, most stupid*; *naiver, -est* or *more, most naive*). The terminational forms are usually older, and some of them are becoming obsolete.
 
 Still, if a word ordinarily takes either the *-er* or the *-est* suffix—and that formation sounds more natural—it's poor style to use the two-word form with *more* or *most*. E.g.:
 

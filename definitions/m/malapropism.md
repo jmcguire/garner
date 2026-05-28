@@ -4,7 +4,7 @@ malapropism; **malaprop**. To denote an amusing mistake in language when someone
 
 So *malapropism* can be either a mass noun (humorous misuse) or a count noun (an instance of such a humorous misuse). Idiomatically speaking, someone can be either prone to malapropism (mass) or prone to malapropisms (count). The latter, more concrete sense predominates.
 
-Why, then, doesn't *malaprop* take an asterisk to show that it's invariably inferior in word choice? The answer is that *malaprop* serves as the usual adjective <malaprop picturesqueness>. *Malapropistic* and \**malaproprian* are much less common.
+Why, then, doesn't *malaprop* take an asterisk to show that it's invariably inferior in word choice? The answer is that *malaprop* serves as the usual adjective \<malaprop picturesqueness\>. *Malapropistic* and \**malaproprian* are much less common.
 
 For a full discussion of malapropisms, see the following entry. See also word-swapping.
 

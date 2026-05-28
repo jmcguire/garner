@@ -1,6 +1,6 @@
 # duplicate
 
-duplicate, adj.; **duplicative**; \***duplicatory**; **duplicitous**. *Duplicate* = (1) being identical to another <duplicate copies>; or (2) existing in identical or corresponding parts or versions <duplicate receipts>. *Duplicative* = unnecessarily doubled or repeated. (*\*Duplicatory* is a needless variant of *duplicative*.) *Duplicitous* (= marked by duplicity) is a late-19th-century coinage generally understood to denote the two-faced taking of inconsistent positions, and therefore carries the meaning "deceitful."
+duplicate, adj.; **duplicative**; \***duplicatory**; **duplicitous**. *Duplicate* = (1) being identical to another \<duplicate copies\>; or (2) existing in identical or corresponding parts or versions \<duplicate receipts\>. *Duplicative* = unnecessarily doubled or repeated. (*\*Duplicatory* is a needless variant of *duplicative*.) *Duplicitous* (= marked by duplicity) is a late-19th-century coinage generally understood to denote the two-faced taking of inconsistent positions, and therefore carries the meaning "deceitful."
 
 Since the late 1800s, American and British legal writers have latched onto the word *duplicitous* in the sense of doubleness, from the old legal meaning of *duplicity* (= double pleading). A nonlawyer might be confused by the following uses of the word—as suggested, in the last two examples, by quotation marks around *duplicitous* (mistranslated in the next-to-last example):
 

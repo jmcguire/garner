@@ -1,6 +1,6 @@
-# stink > stank > stunk
+# stink \> stank \> stunk
 
-stink > stank > stunk. So inflected. *\*Stinked* is a dialectal past tense and past participle (see dialect). *Stunk* often appears erroneously as a simple-past form, especially in figurative uses—e.g.:
+stink \> stank \> stunk. So inflected. *\*Stinked* is a dialectal past tense and past participle (see dialect). *Stunk* often appears erroneously as a simple-past form, especially in figurative uses—e.g.:
 
  - "When I coached, the calls *stunk* \[read *stank*\] then and the calls stink now." Howard Manly, "Patriots, Ch. 4 Winners," *Boston Globe*, 8 Dec. 1998, at E5.
 

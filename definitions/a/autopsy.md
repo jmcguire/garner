@@ -1,6 +1,6 @@
 # autopsy
 
-autopsy; **postmortem**. These equivalents are each current in AmE and BrE. *Autopsy* is slightly more common in both AmE and BrE. *Postmortem* now tends to be used figuratively <let's do a postmortem on our performance>.
+autopsy; **postmortem**. These equivalents are each current in AmE and BrE. *Autopsy* is slightly more common in both AmE and BrE. *Postmortem* now tends to be used figuratively \<let's do a postmortem on our performance\>.
 
 As a verb, *autopsy* dates back to the late 1800s but wasn't recorded in the dictionaries until much later. It means "to perform a postmortem examination on." E.g.:
 

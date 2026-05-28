@@ -18,7 +18,7 @@ In the nether reaches of these extended uses, *bona fide* becomes an amorphous a
 
  - "As a *bona fide* Jersey Girl . . . I'm here to say that New Jersey has it going on, and then some." Trish Boppert, "Hey New Jerseyans, Did You Hear the One About . . . ," *Record* (N.J.), 6 Oct. 2002, at O5.
 
-**B. Adjective or Adverb.** *Bona fide* was originally adverbial, meaning "in good faith" <the suit was brought bona fide>. Today it is more commonly used as an adjective <it was a bona fide lawsuit>. The phrase is sometimes hyphenated when functioning as a phrasal adjective, but it shouldn't be.
+**B. Adjective or Adverb.** *Bona fide* was originally adverbial, meaning "in good faith" \<the suit was brought bona fide\>. Today it is more commonly used as an adjective \<it was a bona fide lawsuit\>. The phrase is sometimes hyphenated when functioning as a phrasal adjective, but it shouldn't be.
 
 **C. Misspelled *\*bonified*.** During the late 20th century, the spurious form *\*bonified* emerged—e.g.:
 

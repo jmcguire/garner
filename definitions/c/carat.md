@@ -1,6 +1,6 @@
 # carat
 
-carat; **karat; caret**. These homophones have distinct meanings. *Carat* = a unit of weight for gemstones, equal to 200 milligrams <a 2-carat diamond>. *Karat* = a unit of fineness for gold <a 24-karat gold bracelet>. *Caret* = a typographic mark (^) used to indicate an insertion <a heavily edited page filled with cross-outs and carets>.
+carat; **karat; caret**. These homophones have distinct meanings. *Carat* = a unit of weight for gemstones, equal to 200 milligrams \<a 2-carat diamond\>. *Karat* = a unit of fineness for gold \<a 24-karat gold bracelet\>. *Caret* = a typographic mark (^) used to indicate an insertion \<a heavily edited page filled with cross-outs and carets\>.
 
 Not surprisingly, the first two words are the most susceptible to word-swapping—so much so that dictionaries list *carat* as a variant spelling of *karat* (in addition to defining *carat*'s ordinary sense). But the differentiation ought to be encouraged.
 

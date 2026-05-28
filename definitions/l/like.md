@@ -61,7 +61,7 @@ Although this use of *like* can no longer be considered an outright solecism, as
 
 ## Language-Change Index
 
- - *as* misused for the preposition *like* <as you, I agree with that>: Stage 2
+ - *as* misused for the preposition *like* \<as you, I agree with that\>: Stage 2
 
 **D. Overused Generally.** Like any other word, *like* can entangle a sentence if used indiscriminately—e.g.: "I have been buying most of my books from Barnes & Noble, whose two new superstores have come down on my old neighborhood shop *like* the Assyrians who came down *like* the wolf on the fold." Victor Navasky, "Buying Books: Theory vs. Practice," *N.Y. Times*, 20 June 1996, at A13. The two *like* phrases are especially jarring because they come at the end of an already involved sentence.
 
@@ -91,9 +91,9 @@ Since the 1980s, *be like* (the quotative *like*) has also been a low casualism 
 
 ## Language-Change Index
 
- - *like* as a spoken space-filler <I was, like, ready an hour ago>: Stage 2
+ - *like* as a spoken space-filler \<I was, like, ready an hour ago\>: Stage 2
 
-**F. For *such as*.** As a preposition, *like* often takes on the sense "similar to" or "resembling" <I want something like a Degas print>. This use often verges into the sense "as for example" <I enjoy the work of painters like Degas>. Does a reference like that one—such as that one—exclude or include Degas? Do you enjoy the work of painters who resemble Degas but not that of Degas himself? (This is the pedantic position.) Or do you enjoy the work of Degas and others like him? (This is the more usual relaxed position.)
+**F. For *such as*.** As a preposition, *like* often takes on the sense "similar to" or "resembling" \<I want something like a Degas print\>. This use often verges into the sense "as for example" \<I enjoy the work of painters like Degas\>. Does a reference like that one—such as that one—exclude or include Degas? Do you enjoy the work of painters who resemble Degas but not that of Degas himself? (This is the pedantic position.) Or do you enjoy the work of Degas and others like him? (This is the more usual relaxed position.)
 
 **G. *The likes of*.** Is *the likes of* (= people or things of the same type as) disparaging? The linguist Dwight Bolinger calls the phrase, which didn't become widespread till the 1800s, "dysphemistic" (*Language: The Loaded Weapon* 122 \[1980\]). Sometimes it's disparaging, but not always. In fact, it's more commonly positive than negative:
 

@@ -1,6 +1,6 @@
-# spring > sprang > sprung
+# spring \> sprang \> sprung
 
-spring > sprang > sprung. So inflected. But *springed* is correct when the sense is "equipped with springs" <a springed mattress> <springed hinges> or "to spend the season of spring" <they springed in Europe>. (The latter usage will strike many readers as more than a little odd.)
+spring \> sprang \> sprung. So inflected. But *springed* is correct when the sense is "equipped with springs" \<a springed mattress\> \<springed hinges\> or "to spend the season of spring" \<they springed in Europe\>. (The latter usage will strike many readers as more than a little odd.)
 
 The real challenge with these words is to get the past-tense and past-participial forms in their proper places. Some writers spring an erroneous *sprung* on their readers—e.g.:
 

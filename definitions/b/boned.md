@@ -1,6 +1,6 @@
 # boned
 
-boned; **deboned**; **boneless**. *Boned* describes something with bones either in <big-boned> or out <boned chicken>. In another sense, it is synonymous with *deboned* (which looks deceptively like an antonym) and *boneless*. Any one of these three terms might suffice in each of these sentences:
+boned; **deboned**; **boneless**. *Boned* describes something with bones either in \<big-boned\> or out \<boned chicken\>. In another sense, it is synonymous with *deboned* (which looks deceptively like an antonym) and *boneless*. Any one of these three terms might suffice in each of these sentences:
 
  - "Do your *boneless* chicken breasts come out dry on the grill?" Dale Curry, "What's New in BBQ?," *Times-Picayune* (New Orleans), 28 June 2001, Food §, at 1.
 

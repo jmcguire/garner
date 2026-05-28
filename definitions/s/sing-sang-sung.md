@@ -1,6 +1,6 @@
-# sing > sang > sung
+# sing \> sang \> sung
 
-sing > sang > sung. So inflected. Although the past-participial *sung* was often used as a simple past-tense verb through the mid-1800s, today the usage should be regarded as an error—e.g.:
+sing \> sang \> sung. So inflected. Although the past-participial *sung* was often used as a simple past-tense verb through the mid-1800s, today the usage should be regarded as an error—e.g.:
 
  - "She *sung* \[read *sang*\] the title track." Timothy Finn, "Williams Rocks, Sways Through Raw, Earnest Concert," *Kansas City Star*, 13 Dec. 1998, at B8.
 

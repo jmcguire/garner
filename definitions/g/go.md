@@ -2,7 +2,7 @@
 
 go.
 
-**A. Inflected Forms: *go* > *went* > *gone*.** To use *went* as a straight-faced past participle is to engage in low dialect that isn't appropriate even for the sports pages—e.g.:
+**A. Inflected Forms: *go* \> *went* \> *gone*.** To use *went* as a straight-faced past participle is to engage in low dialect that isn't appropriate even for the sports pages—e.g.:
 
  - "Larry Jackson has *went* \[read *gone*\] beyond expectations." Jerry Reigle, "Feature Winners' List Longer This Season," *Harrisburg Patriot*, 4 Apr. 1996, at D5.
 

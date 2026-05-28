@@ -1,4 +1,4 @@
-# withstand > withstood > withstood
+# withstand \> withstood \> withstood
 
-withstand > withstood > withstood. So inflected. See irregular verbs.
+withstand \> withstood \> withstood. So inflected. See irregular verbs.
 

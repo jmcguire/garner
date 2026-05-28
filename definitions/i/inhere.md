@@ -6,7 +6,7 @@ inhere.
 
  - Current ratio in print (*inhere in* vs. *\*inhere within*): 21:1
 
-**B. For *inure*.** *Inure* means either "to become accustomed" <inured to the honking horns> or, at law, "to take effect to (someone's) advantage" <inured to the heir's benefit>. Using *inhere* in place of *inure* is a stunning malapropism—e.g.: "Plaintiff alleges that such strategy *inhered* \[read *inured*\] to the financial benefit of defendant Carter when Carter subsequently sold the mortgage loans to other financial institutions." Steven P. Bann, "Case Digests: Banks—Mortgages," *N.J.L.J.*, 19 Dec. 1994, at 60. See **inure**.
+**B. For *inure*.** *Inure* means either "to become accustomed" \<inured to the honking horns\> or, at law, "to take effect to (someone's) advantage" \<inured to the heir's benefit\>. Using *inhere* in place of *inure* is a stunning malapropism—e.g.: "Plaintiff alleges that such strategy *inhered* \[read *inured*\] to the financial benefit of defendant Carter when Carter subsequently sold the mortgage loans to other financial institutions." Steven P. Bann, "Case Digests: Banks—Mortgages," *N.J.L.J.*, 19 Dec. 1994, at 60. See **inure**.
 
 ## Language-Change Index
 

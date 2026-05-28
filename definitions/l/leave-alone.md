@@ -8,7 +8,7 @@ leave alone; **let alone**. Traditionally, there has been a distinction: *leave 
 
 Before 1920, the collocation *let him alone* (or *let her alone*) appeared far more frequently in print. But that trend was reversed by about 1915 in BrE and 1930 in AmE.
 
-*Let alone* is also used to mean "not to mention" or "much less" <he no longer drinks beer or wine, let alone bourbon or tequila>.
+*Let alone* is also used to mean "not to mention" or "much less" \<he no longer drinks beer or wine, let alone bourbon or tequila\>.
 
 ## Language-Change Index
 

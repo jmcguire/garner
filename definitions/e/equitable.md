@@ -1,6 +1,6 @@
 # equitable
 
-equitable; **equable**. *Equitable* /**ek**-wi-tә-bәl/, deriving from *equity*, has associations of justice and fairness, or that which can be sustained in a court of equity. To nonlawyers it generally means "fair," whereas to lawyers it may also mean "fair" but just as often means "in equity" <equitable jurisdiction> <equitable remedies>. *Equable* /**ek**-wә-bәl/ = even; tranquil; level.
+equitable; **equable**. *Equitable* /**ek**-wi-tә-bәl/, deriving from *equity*, has associations of justice and fairness, or that which can be sustained in a court of equity. To nonlawyers it generally means "fair," whereas to lawyers it may also mean "fair" but just as often means "in equity" \<equitable jurisdiction\> \<equitable remedies\>. *Equable* /**ek**-wә-bәl/ = even; tranquil; level.
 
 Each word is sometimes misused for the other—e.g.:
 

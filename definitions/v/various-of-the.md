@@ -12,5 +12,5 @@
 
 ## Language-Change Index
 
- - *various* used as a pronoun <various of my colleagues agree>: Stage 2
+ - *various* used as a pronoun \<various of my colleagues agree\>: Stage 2
 

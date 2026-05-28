@@ -2,7 +2,7 @@
 
 Synesis. In some contexts, meaning—as opposed to the strict requirements of grammar or syntax—governs subject–verb agreement. Henry Sweet, the 19th-century English grammarian, used the term "antigrammatical constructions" for these triumphs of logic over grammar. (Expressions in which grammar triumphs over logic are termed "antilogical.") Modern grammarians call the principle underlying these antigrammatical constructions "synesis" (/**sin**-ә-sis/).
 
-The classic example of an antigrammatical construction is the phrase *a number of* (= several, many). It is routinely followed by a plural verb, even though technically the singular noun *number* is the subject <a number of people were there>. (See **number of**.) Another example occurs when a unit of measure has a collective sense. It can be plural in form but singular in sense—e.g.: "*Three-fourths is* a smaller quantity than we had expected." / "*Two pounds* of shrimp *is* all I need."
+The classic example of an antigrammatical construction is the phrase *a number of* (= several, many). It is routinely followed by a plural verb, even though technically the singular noun *number* is the subject \<a number of people were there\>. (See **number of**.) Another example occurs when a unit of measure has a collective sense. It can be plural in form but singular in sense—e.g.: "*Three-fourths is* a smaller quantity than we had expected." / "*Two pounds* of shrimp *is* all I need."
 
 If these constructions are grammatically safe, similar constructions involving collective nouns are somewhat more precarious. The rule consistently announced in 20th-century grammars is as follows: "Collective nouns take sometimes a singular and sometimes a plural verb. When the persons or things denoted are thought of as individuals, the plural should be used. When the collection is regarded as a unit, the singular should be used." George L. Kittredge & Frank E. Farley, *An Advanced English Grammar* 101 (1913). Generally, then, with nouns of multitude, one can justifiably use a plural verb.
 
@@ -20,7 +20,7 @@ Among the common nouns of multitude are *bulk*, *bunch*, *cadre*, *flood*, *hand
 
  - "Only a small *percentage are* chosen as All-America Selections." Ted Fisher, "Four Award-Winning Plants Offer Beauty, Reliability," *Austin Am.-Statesman*, 6 Dec. 1997, at C7.
 
-These nouns of multitude are preferably treated as plural when they're followed by *of* and a plural noun. Perhaps the best-known example is *a lot*, which no one today thinks of as having a singular force <a lot of people were there>. See **a lot**.
+These nouns of multitude are preferably treated as plural when they're followed by *of* and a plural noun. Perhaps the best-known example is *a lot*, which no one today thinks of as having a singular force \<a lot of people were there\>. See **a lot**.
 
 Occasionally an ambiguity arises—e.g.: "*There is* now *a variety of* antidepressant drugs that can help lift these people out of their black moods." If the sense of *a variety of* is "several," then *are* is the appropriate verb; if the sense of the phrase is "a type of," then *is* is the appropriate verb. Either way, though, a writer would be wise to reword a sentence like that one.
 

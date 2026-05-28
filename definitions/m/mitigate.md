@@ -1,6 +1,6 @@
 # mitigate
 
-mitigate; **militate**. *Mitigate* = to make less severe or intense <the new drug mitigates the patient's discomfort>. *Militate* = to exert a strong influence <Harry's conflicting schedule militates against an October 17 meeting>.
+mitigate; **militate**. *Mitigate* = to make less severe or intense \<the new drug mitigates the patient's discomfort\>. *Militate* = to exert a strong influence \<Harry's conflicting schedule militates against an October 17 meeting\>.
 
 *\*Mitigate against* for *militate against* is an error that emerged in the early 1800s but didn't really catch on until about 1950. Edmund Wilson called it "William Faulkner's favorite error." *The Bit Between My Teeth* 570 (1965). Faulkner's failings aside, the error is surprisingly common—e.g.:
 

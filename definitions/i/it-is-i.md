@@ -1,6 +1,6 @@
 # it is I
 
-it is I; **it is me**. Generally, of course, the nominative pronoun (here *I*) is the complement of a linking verb <this is she> <it was he>. But *it is me* and *it's me* are fully acceptable, especially in informal contexts: "both forms, ‘It is I' and ‘It is me,' are correct—one by virtue of grammatical rule, the other by virtue of common educated usage." Norman Lewis, *Better English* 186–87 (rev. ed. 1961).
+it is I; **it is me**. Generally, of course, the nominative pronoun (here *I*) is the complement of a linking verb \<this is she\> \<it was he\>. But *it is me* and *it's me* are fully acceptable, especially in informal contexts: "both forms, ‘It is I' and ‘It is me,' are correct—one by virtue of grammatical rule, the other by virtue of common educated usage." Norman Lewis, *Better English* 186–87 (rev. ed. 1961).
 
 The phrasing has elicited a great deal of comment over the years, mostly in its defense—e.g.:
 

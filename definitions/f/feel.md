@@ -2,7 +2,7 @@
 
 feel.
 
-**A. Inflected Forms: *feel* > *felt* > *felt*.** See irregular verbs.
+**A. Inflected Forms: *feel* \> *felt* \> *felt*.** See irregular verbs.
 
 **B. For *think*.** *Feel* is a weak and informal substitute for *think*, *believe*, *maintain*, or *submit*. E.g.: "We *feel* \[read *believe*\] that the plan should be summarized in considerable detail." When the idea is phrased on an emotional rather than a cognitive level, the resulting sentence seems to minimize the amount of thought being reported—e.g.: "She *feels* \[read *thinks* or *believes*\] that crime prevention must start with helping small children find their way out of poverty and neglect, and that society's resources should go toward better education and housing, not more jails." Bob Cohn & Eleanor Clift, "The Contrary Voice of Janet Reno," *Newsweek*, 11 Oct. 1993, at 30.
 
@@ -33,5 +33,5 @@ In a 2021 poll at a Cosmos Club event in Washington, D.C., only 15% of those vot
 
 See **like (c)**.
 
-On the other hand, the familiar casualism expressing a preference is perfectly grammatical <I feel like pizza tonight>. The object of the preposition *like* in this example is the understood gerund *eating* (which functions as a noun), and the object of that gerund is the noun *pizza*. So the expression, while a casualism, is not at all substandard.
+On the other hand, the familiar casualism expressing a preference is perfectly grammatical \<I feel like pizza tonight\>. The object of the preposition *like* in this example is the understood gerund *eating* (which functions as a noun), and the object of that gerund is the noun *pizza*. So the expression, while a casualism, is not at all substandard.
 

@@ -1,6 +1,6 @@
 # no holds barred
 
-no holds barred. The metaphor comes from wrestling: in some matches, no wrestling holds are illegal. When used as a phrasal adjective, of course, it is hyphenated <a no-holds-barred matchup>.
+no holds barred. The metaphor comes from wrestling: in some matches, no wrestling holds are illegal. When used as a phrasal adjective, of course, it is hyphenated \<a no-holds-barred matchup\>.
 
 Some writers, though, misunderstand the phrase and write *\*no-holes-barred*—e.g.:
 

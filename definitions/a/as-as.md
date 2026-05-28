@@ -10,7 +10,7 @@ In the mid-20th century it was commonly held that *so . . . as* is preferable to
 
  - *as . . . as* for *so . . . as* in negative statements: Stage 5
 
-**B. First *as* Omitted.** It is fairly common to see this phrase with the first *as* left off <they were thick as thieves>. The construction is a casualism that is often employed with clichés. It is unobjectionable in informal speech and writing, but avoid it in formal contexts.
+**B. First *as* Omitted.** It is fairly common to see this phrase with the first *as* left off \<they were thick as thieves\>. The construction is a casualism that is often employed with clichés. It is unobjectionable in informal speech and writing, but avoid it in formal contexts.
 
 **C. Repetition of Verb After.** Often, when the second *as* in this construction is far removed from the first *as*—or when there's otherwise an opportunity for ambiguity—the verb is repeated for clarity. E.g.: "Owner Ray Haynie—tall, slim and baritone-voiced—is *as* likely to be cleaning tables *as is* any employee." Ruth Fantasia, "Not Just Any Port in a Storm Sting," *Richmond Times-Dispatch*, 3 Dec. 1995, at H5. (If we deleted the *is*, employees might bring sexual-harassment claims against Ray.) But if the second verb isn't needed, omit it—e.g.: "Montreal is *as* likely to survive *as is* \[read *as*\] common civility." Mike Celizic, "Baseball Players Making Nice," *Record* (N.J.), 9 Apr. 1995, Sports §, at 3.
 

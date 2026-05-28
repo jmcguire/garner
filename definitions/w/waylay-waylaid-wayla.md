@@ -1,6 +1,6 @@
-# waylay > waylaid > waylaid
+# waylay \> waylaid \> waylaid
 
-waylay > waylaid > waylaid. So inflected. Occasionally the past tense or past participle is misspelled *\*waylayed*—e.g.:
+waylay \> waylaid \> waylaid. So inflected. Occasionally the past tense or past participle is misspelled *\*waylayed*—e.g.:
 
  - "Keggi's career was *waylayed* \[read *waylaid*\] in 1993 when she drank some bad water and was stricken with lingering symptoms from E-Coli bacteria." Paul Harber, "They're Going the Distance," *Boston Globe*, 24 Apr. 1997, at C10.
 

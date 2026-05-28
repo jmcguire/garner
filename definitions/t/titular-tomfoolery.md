@@ -10,5 +10,5 @@ This trend resulted from an understandable desire for economy in both words and 
 
  - "*Frequent contributor Michael Kaplan* \[read *Michael Kaplan, a frequent contributor,*\] taps in to this energy in the interview gracing our cover, ‘On the Record' . . . . *Frequent contributor Ken McAlpine* \[read *Ken McAlpine, another frequent contributor,*\] does some hip-hop and flip-flop of his own as he checks out the guys who wear the striped shirts and whistles for the National Football League." John H. Ostdick, "The Joint Is Jumping," *Am. Way*, 15 Oct. 1995, at 16.
 
-A true title of authority, such as *general* or *mayor*, is properly capitalized before a person's name <General Tommy Franks> <Mayor Willie Brown>. Job descriptions are not <flutist Ian Anderson>. Just where to draw the line can be an exercise in frustration. But even titles of authority are not capitalized when used as appositives following the name <Kathy Hochul, governor of New York>.
+A true title of authority, such as *general* or *mayor*, is properly capitalized before a person's name \<General Tommy Franks\> \<Mayor Willie Brown\>. Job descriptions are not \<flutist Ian Anderson\>. Just where to draw the line can be an exercise in frustration. But even titles of authority are not capitalized when used as appositives following the name \<Kathy Hochul, governor of New York\>.
 

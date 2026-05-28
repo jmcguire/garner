@@ -1,6 +1,6 @@
 # ad hoc
 
-ad hoc, adv. & adj., is a widespread and useful term meaning "for this specific purpose." Some have questioned its justification in English (e.g., Vigilans \[Eric Partridge\], *Chamber of Horrors* 26 \[1952\]). But it is firmly established and serves the language well when used correctly <ad hoc committee>.
+ad hoc, adv. & adj., is a widespread and useful term meaning "for this specific purpose." Some have questioned its justification in English (e.g., Vigilans \[Eric Partridge\], *Chamber of Horrors* 26 \[1952\]). But it is firmly established and serves the language well when used correctly \<ad hoc committee\>.
 
 By extension—some would say slipshod extension—the term has come to mean "without any underlying principle that can be consistently applied"—e.g.: "The D.C. Council, for example, undermines the work of the commission by approving tax changes *on an ad hoc basis* \[read *haphazardly*\] in response to the whims of business groups." Rudolph A. Pyatt Jr., "One Bold Plan Deserves Another," *Wash. Post*, 16 Jan. 1997, at E3.
 

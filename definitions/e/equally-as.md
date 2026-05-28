@@ -14,7 +14,7 @@ The variant phrase *as equally* is just as (i.e., equally) bad—e.g.:
 
  - "Grayhawk placed both of its courses on the top 25 list, but the clubhouse is *as equally* \[read *equally*\] impressive." "Public Courses: The Top 25," *Ariz. Republic*, 9 Jan. 1998, at 10.
 
-Not every use, though, is incorrect: if the words *equally as* simply appear together but are really parts of other constructions, all may be well <I love you equally as a nephew and as a friend>.
+Not every use, though, is incorrect: if the words *equally as* simply appear together but are really parts of other constructions, all may be well \<I love you equally as a nephew and as a friend\>.
 
 ## Language-Change Index
 

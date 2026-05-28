@@ -4,7 +4,7 @@ who; whom.
 
 **A. Generally.** Edward Sapir, the philosopher of language, prophesied that "within a couple of hundred years from to-day not even the most learned jurist will be saying ‘Whom did you see?' By that time the *whom* will be as delightfully archaic as the Elizabethan *his* for *its*. No logical or historical argument will avail to save this hapless *whom*." *Language* 156–57 (1921; repr. 1949). A safer bet might be that no one will be spelling *to-day* with a hyphen. In any event, writers in the 21st century ought to understand how the words *who* and *whom* are correctly used.
 
-*Who*, the nominative pronoun, is used (1) as the subject of a verb <it was Kate who rescued the dog>; and (2) as the complement of a linking verb, i.e., as a predicate nominative <they know who you are>. *Whom*, the objective pronoun, is used (1) as the object of a verb <whom did you see?>; and (2) as the object of a preposition <the person to whom we're indebted>.
+*Who*, the nominative pronoun, is used (1) as the subject of a verb \<it was Kate who rescued the dog\>; and (2) as the complement of a linking verb, i.e., as a predicate nominative \<they know who you are\>. *Whom*, the objective pronoun, is used (1) as the object of a verb \<whom did you see?\>; and (2) as the object of a preposition \<the person to whom we're indebted\>.
 
 It's true that in certain contexts, *whom* is stilted. That has long been so: "Every sensible English speaker on both sides of the Atlantic says *Who were you talking to*? \[—not *Whom*—\] and the sooner we begin to write it the better." J.Y.T. Greig, *Breaking Priscian's Head* 23 (\[n.d.—ca. 1930\]). But there are other constructions in which *whom* remains strong—and more so in AmE than in BrE. Although writers have announced the demise of *whom*, it persists in AmE—e.g.:
 
@@ -90,7 +90,7 @@ Perhaps the most sensible approach was the one taken by Robert C. Pooley in 1974
 
  - "Perhaps the greatest mystery is how young birds *who* \[read *that*\] hatch over the spring and summer are able to find their wintering grounds." Celeste Silling, "Nature Notes," *Victoria Advocate* (Tex.), 14 Oct. 2021, Local §.
 
-But animals with names most naturally take *who* <Lassie, who starred in a TV series> <Snoopy, who has a rich inner life>.
+But animals with names most naturally take *who* \<Lassie, who starred in a TV series\> \<Snoopy, who has a rich inner life\>.
 
 ## Language-Change Index
 

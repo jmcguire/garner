@@ -1,6 +1,6 @@
 # connection
 
-connection; \***connexion; connexity**. The spelling *-tion* is standard in AmE; *-xion* is an almost obsolete spelling formerly preferred in BrE. Up to 1967, the Oxford dictionaries used the spelling *\*connexion*, with an *x*; in that year, the switch was made to *connection*. (This despite the predominance of *connection* in BrE by 1850\!) The word means (1) "the act of connecting" <the connection of loose ends>; (2) "the state of being connected" <the connection of these events>; or (3) "a connecting part" <the bridge's connection with the land>.
+connection; \***connexion; connexity**. The spelling *-tion* is standard in AmE; *-xion* is an almost obsolete spelling formerly preferred in BrE. Up to 1967, the Oxford dictionaries used the spelling *\*connexion*, with an *x*; in that year, the switch was made to *connection*. (This despite the predominance of *connection* in BrE by 1850\!) The word means (1) "the act of connecting" \<the connection of loose ends\>; (2) "the state of being connected" \<the connection of these events\>; or (3) "a connecting part" \<the bridge's connection with the land\>.
 
 Some writers use *connexity* in a distinct way, synonymously with *connectedness* (= the quality of being connected). E.g.: "John's storytelling has the virtues of economy, *connexity*, and depth." Thomas D'Evelyn, "Looking at the Bible as Literature," *Christian Science Monitor*, 21 Oct. 1987, at 19. British writers use it somewhat more often than American writers—e.g.:
 

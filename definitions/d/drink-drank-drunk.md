@@ -1,6 +1,6 @@
-# drink > drank > drunk
+# drink \> drank \> drunk
 
-drink > drank > drunk. So inflected. The past participle surprises some people <have you drunk your milk?> because they associate *drunk* with "inebriated." And for this reason, no doubt, *drank* has encroached on the past-participial *drunk*—e.g.:
+drink \> drank \> drunk. So inflected. The past participle surprises some people \<have you drunk your milk?\> because they associate *drunk* with "inebriated." And for this reason, no doubt, *drank* has encroached on the past-participial *drunk*—e.g.:
 
  - "Jabil Circuit offered free cab rides home to any of its employees who might have *drank* \[read *drunk*\] too many toasts." Teresa Burney, "Spoils of the Holiday Season," *St. Petersburg Times* (Fla.), 21 Dec. 1997, at H1.
 

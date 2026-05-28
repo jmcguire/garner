@@ -2,7 +2,7 @@
 
 aged.
 
-**A. Pronunciation.** As an adjective, the word may be either one syllable /ayjd/ <aged cheese> or two /**ay**-jәd/ <an aged mentor>, depending on its sense. In the first of those uses, the word means "having been allowed to age"; in the second, it means "elderly." As an attributive noun similar to *elderly* <the sick, the weak, and the aged>, the word has two syllables /**ay**-jәd/.
+**A. Pronunciation.** As an adjective, the word may be either one syllable /ayjd/ \<aged cheese\> or two /**ay**-jәd/ \<an aged mentor\>, depending on its sense. In the first of those uses, the word means "having been allowed to age"; in the second, it means "elderly." As an attributive noun similar to *elderly* \<the sick, the weak, and the aged\>, the word has two syllables /**ay**-jәd/.
 
 **B. Used Adverbially in BrE.** British publications have adopted a shorthand adverbial used of *aged*, found most commonly in obituaries. Essentially, BrE uses *aged* where AmE would use the phrase *at the age of*—e.g.:
 

@@ -12,5 +12,5 @@ having said that. This phrase, which hedges a previous assertion, is a frequent 
 
 An easy solution is simply to delete the phrase, which doesn't say much anyway.
 
-The variant *that said* does not create the same problems: it's an elliptical nominative absolute standing for *that having been said* <that said, some clubs are going to be more aggressive>. See absolute constructions.
+The variant *that said* does not create the same problems: it's an elliptical nominative absolute standing for *that having been said* \<that said, some clubs are going to be more aggressive\>. See absolute constructions.
 

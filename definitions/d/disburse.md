@@ -1,6 +1,6 @@
 # disburse
 
-disburse; **disperse**. *Disburse*, from the Latin *bursa* ("purse")*,* is used chiefly in reference to distribution of money <the directors disbursed dividends to the stockholders>. *Disperse* is used in reference to distribution of all other things, such as crowds or leaflets. In cultivated speech, these words are not homophones. The failure to distinguish them in common speech may have contributed to their confusion in print. *Disburse* sometimes appears erroneously in place of *disperse*—e.g.:
+disburse; **disperse**. *Disburse*, from the Latin *bursa* ("purse")*,* is used chiefly in reference to distribution of money \<the directors disbursed dividends to the stockholders\>. *Disperse* is used in reference to distribution of all other things, such as crowds or leaflets. In cultivated speech, these words are not homophones. The failure to distinguish them in common speech may have contributed to their confusion in print. *Disburse* sometimes appears erroneously in place of *disperse*—e.g.:
 
  - "A crowd on the campus of Kent State University in Kent, Ohio, is *disbursed* \[read *dispersed*\] with tear gas on May 4, 1970." "Fraternity Reunion Offers Insight into Kent State," *Dallas Morning News*, 13 Nov. 1994, at A12 (photo caption).
 

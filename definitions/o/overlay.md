@@ -1,6 +1,6 @@
 # overlay
 
-overlay; **overlie**. To *overlay* is to spread (something) on top of; to overspread <she intended to overlay the culture plates with bacteria>. To *overlie* is either to lie right above <the preserve overlies vast oil deposits> or to smother by lying on <ash from an eruption would overlie valuable winery fields>.
+overlay; **overlie**. To *overlay* is to spread (something) on top of; to overspread \<she intended to overlay the culture plates with bacteria\>. To *overlie* is either to lie right above \<the preserve overlies vast oil deposits\> or to smother by lying on \<ash from an eruption would overlie valuable winery fields\>.
 
 As with *lay* and *lie*, the most common error is to use *overlay* when the proper word is *overlie*. One signal of the misuse is putting the present participle *overlaying* at the beginning of the sentence—e.g.:
 

@@ -1,6 +1,6 @@
-# spread > spread > spread
+# spread \> spread \> spread
 
-spread > spread > spread. So inflected. The weak form of the verb (*\*spreaded*) is erroneous—e.g.:
+spread \> spread \> spread. So inflected. The weak form of the verb (*\*spreaded*) is erroneous—e.g.:
 
  - "According to Ms. Lucas, Deborah Isabelle's character and ‘motivation' *spreaded* \[read *spread*\] to other students." Antonio R. Harvey, "Bright Futures," *Sacramento Observer*, 21 June 1995, at A9.
 

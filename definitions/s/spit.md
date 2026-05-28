@@ -2,11 +2,11 @@
 
 spit (= to force out the contents of one's mouth) is inflected in three possible ways:
 
-spit > spat > spat
+spit \> spat \> spat
 
-spit > spat > spit
+spit \> spat \> spit
 
-spit > spit > spit
+spit \> spit \> spit
 
 Good authority can be found for the first two; the third finds less enthusiastic support. The recommendation here is to follow the first—e.g.:
 

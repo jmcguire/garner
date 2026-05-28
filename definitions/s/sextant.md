@@ -1,6 +1,6 @@
 # sextant
 
-sextant; **sexton**. A *sextant* is an old-fashioned instrument used in navigation <pocket sextant>. A *sexton* is an officer who handles day-to-day affairs at a church or synagogue, with varying responsibilities depending on the religious institution <sexton of the parish>. The two words are occasionally confounded, especially in obituaries—e.g.:
+sextant; **sexton**. A *sextant* is an old-fashioned instrument used in navigation \<pocket sextant\>. A *sexton* is an officer who handles day-to-day affairs at a church or synagogue, with varying responsibilities depending on the religious institution \<sexton of the parish\>. The two words are occasionally confounded, especially in obituaries—e.g.:
 
  - "He was a parishioner of Holy Ghost Church, where he served as a *sextant* \[read *sexton*\]." "Obituaries," *Providence J.-Bull.*, 17 Oct. 2000, at C3.
 

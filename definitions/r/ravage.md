@@ -8,7 +8,7 @@ ravage; **ravish**. *Ravage* (= destruction or devastation, usu. through repeate
 
  - "Marcus was about to ask how the mechanism had withstood the *ravishes* \[read *ravages*\] of time, but David merely said he had no idea." Johan Minto, *The Heliopolis Scrolls* 216 (2009).
 
-As in those examples, the word *ravage* typically occurs in a plural construction <the ravages of time>. *Ravage* is also occasionally used as a verb meaning "to ruin, destroy" <tornadoes ravaged the area>.
+As in those examples, the word *ravage* typically occurs in a plural construction \<the ravages of time\>. *Ravage* is also occasionally used as a verb meaning "to ruin, destroy" \<tornadoes ravaged the area\>.
 
 The opposite error (*ravage* for *ravish*) is rare, but it does occur—e.g.: "If necessary, I would claim that I went to visit my friend Mariana and that he attempted to *ravage* \[read *ravish*\] me, but I doubted it would come to that." Peter Robinson, "The Duke's Wife," in *Much Ado About Murder* 284, 292 (2002).
 

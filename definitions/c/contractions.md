@@ -26,7 +26,7 @@ But why shouldn't writers use them in all other types of writing? Some excellent
 
 The common fear is that using contractions can make writing seem breezy. For most of us, though, that risk is nil. What you gain should be a relaxed sincerity—not breeziness.
 
-Contractions can be plotted on a slope from least informal to most. (1) The *-n't* contractions are most usual in published prose—and not particularly informal <can't> <don't> <haven't> <isn't>. (2) More informal are the subject–verb contractions <he'd> <I've> <she's> <we'd>. (3) More informal still are verb–verb contractions <should've> <could've> <would've>. (4) Most informal of all are contractions that combine type 3 with either type 1 or type 2 <can't've> <shouldn't've> <she'd've> <we'd've>.
+Contractions can be plotted on a slope from least informal to most. (1) The *-n't* contractions are most usual in published prose—and not particularly informal \<can't\> \<don't\> \<haven't\> \<isn't\>. (2) More informal are the subject–verb contractions \<he'd\> \<I've\> \<she's\> \<we'd\>. (3) More informal still are verb–verb contractions \<should've\> \<could've\> \<would've\>. (4) Most informal of all are contractions that combine type 3 with either type 1 or type 2 \<can't've\> \<shouldn't've\> \<she'd've\> \<we'd've\>.
 
 For wise guidance on when to use contractions—and words dispelling the idea that you should never use them—see superstitions (j).
 

@@ -2,7 +2,7 @@
 
 squash; **quash**, vb. In some of their uses, these verbs have merged in their meaning. Literally, to *squash* is to flatten or soften something by forceful crushing or squeezing—a sense dating from the 1500s. By the late 1700s, the verb was taking on a metaphorical sense: "to suppress or put down, esp. through power or authority; to undo completely." In this sense, the word is often regarded as a casualism.
 
-To *quash*, meanwhile, is most conventionally to crush or completely suppress <to quash a religious movement> or else, in a legal sense, to annul or make legally void <quash a law> <quash an election>. The physical sense of *quash* ("to break into pieces") is relatively uncommon.
+To *quash*, meanwhile, is most conventionally to crush or completely suppress \<to quash a religious movement\> or else, in a legal sense, to annul or make legally void \<quash a law\> \<quash an election\>. The physical sense of *quash* ("to break into pieces") is relatively uncommon.
 
 Most traditionally, then, laws, motions, subpoenas, etc. are *quashed*, not *squashed*. Many writers use the more vivid *squash* in contexts that would conventionally call for *quash*—e.g.:
 

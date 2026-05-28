@@ -1,4 +1,4 @@
-# give > gave > given
+# give \> gave \> given
 
-give > gave > given. So inflected. See irregular verbs.
+give \> gave \> given. So inflected. See irregular verbs.
 

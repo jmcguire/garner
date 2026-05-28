@@ -1,6 +1,6 @@
 # thankfully
 
-thankfully (= in a manner expressing thanks; gratefully) goes back to Old English (before 1099) in its traditional uses <after being saved so unexpectedly, they thankfully said goodbye>. E.g.: "Obligations are *thankfully* acknowledged to a long line of etymologists, lexicographers, and philologists, whom it would be mere pedantry to call by name." James Bradstreet Greenough & George Lyman Kittredge, *Words and Their Ways in English Speech* v (1901).
+thankfully (= in a manner expressing thanks; gratefully) goes back to Old English (before 1099) in its traditional uses \<after being saved so unexpectedly, they thankfully said goodbye\>. E.g.: "Obligations are *thankfully* acknowledged to a long line of etymologists, lexicographers, and philologists, whom it would be mere pedantry to call by name." James Bradstreet Greenough & George Lyman Kittredge, *Words and Their Ways in English Speech* v (1901).
 
 In the mid-1960s, the word came into frequent use in the sense "thank goodness; I am (or we are) thankful that"—that is, as a sentence adverb analogous to *hopefully*. (See **hopefully** & adverbs (f).) It occurred first in BrE and then spread to AmE, especially after 1980. *Thankfully* never drew the ire that *hopefully* did, and it is generally considered unobjectionable—e.g.:
 

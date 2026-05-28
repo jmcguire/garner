@@ -1,6 +1,6 @@
 # wrathful
 
-wrathful; **wroth**. Both these literary adjectives mean "extremely angry," but *wroth* can be used predicatively only <waxed wroth> <he was wroth>. It would be wrong to speak of a *\*wroth man*, though *wrathful man* is perfectly acceptable. The words are pronounced /**rath**-fәl/ and /roth/. *Wrathful* is somewhat the more common of the two terms in print sources. It is sometimes mistakenly written *\*wrothful*.
+wrathful; **wroth**. Both these literary adjectives mean "extremely angry," but *wroth* can be used predicatively only \<waxed wroth\> \<he was wroth\>. It would be wrong to speak of a *\*wroth man*, though *wrathful man* is perfectly acceptable. The words are pronounced /**rath**-fәl/ and /roth/. *Wrathful* is somewhat the more common of the two terms in print sources. It is sometimes mistakenly written *\*wrothful*.
 
 Both *wrathful* and *wroth* are formal words, and the latter in particular smacks of archaism—e.g.:
 

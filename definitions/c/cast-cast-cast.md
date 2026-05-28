@@ -1,6 +1,6 @@
-# cast > cast > cast
+# cast \> cast \> cast
 
-cast > cast > cast. So inflected. *\*Casted* is incorrect as a past-tense or past-participial form—e.g.:
+cast \> cast \> cast. So inflected. *\*Casted* is incorrect as a past-tense or past-participial form—e.g.:
 
  - "For a week, the three men swapped fish tales, told ghost stories, baited hooks, *casted* \[read *cast*\] both fishing and song lines." John Harper, "Top Talent Creates ‘Songs and Legends' Recording," *Virginian-Pilot* (Norfolk), 2 June 1996, Carolina Coast §, at 22.
 

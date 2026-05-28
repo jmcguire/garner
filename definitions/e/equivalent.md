@@ -2,7 +2,7 @@
 
 equivalent.
 
-**A. Prepositions with.** As an adjective, *equivalent* preferably takes the preposition *to*, not *with*—e.g.: "The $20 million is more than any other NFL coach will receive and approximately *equivalent with* \[read *equivalent to*\] the $3 million a year that Pat Riley and John Calipari earn in the NBA." "Sports Digest: Jets," *Baltimore Sun*, 8 Feb. 1997, at C2. As a noun, it almost always takes the preposition *of* <this Australian wine is an equivalent of a good, robust Burgundy>.
+**A. Prepositions with.** As an adjective, *equivalent* preferably takes the preposition *to*, not *with*—e.g.: "The $20 million is more than any other NFL coach will receive and approximately *equivalent with* \[read *equivalent to*\] the $3 million a year that Pat Riley and John Calipari earn in the NBA." "Sports Digest: Jets," *Baltimore Sun*, 8 Feb. 1997, at C2. As a noun, it almost always takes the preposition *of* \<this Australian wine is an equivalent of a good, robust Burgundy\>.
 
 ## Language-Change Index
 

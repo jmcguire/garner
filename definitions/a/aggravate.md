@@ -1,6 +1,6 @@
 # aggravate
 
-aggravate; **aggravation**. Though documented as existing since the late 1500s and today an engrained casualism, *aggravate* for *annoy* or *irritate* has never gained the approval of stylists and should be avoided in formal writing. Strictly speaking, *aggravate* means "to make worse; exacerbate" <writing a second apology might just aggravate the problem>.
+aggravate; **aggravation**. Though documented as existing since the late 1500s and today an engrained casualism, *aggravate* for *annoy* or *irritate* has never gained the approval of stylists and should be avoided in formal writing. Strictly speaking, *aggravate* means "to make worse; exacerbate" \<writing a second apology might just aggravate the problem\>.
 
 Even Oliver Wendell Holmes Jr. nodded once, using *aggravate* for *irritate* in one of his letters to Sir Frederick Pollock in 1895: "Our two countries *aggravate* each other from time to time." 1 *Holmes–Pollock Letters* 66 (1941). The lapse is common in modern writing—e.g.:
 

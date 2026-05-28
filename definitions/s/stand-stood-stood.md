@@ -1,4 +1,4 @@
-# stand > stood > stood
+# stand \> stood \> stood
 
-stand > stood > stood. So inflected. See irregular verbs.
+stand \> stood \> stood. So inflected. See irregular verbs.
 

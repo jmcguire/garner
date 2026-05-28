@@ -1,6 +1,6 @@
 # errant
 
-errant; **arrant**. *Errant* = (1) traveling; itinerant <knight errant>; or (2) fallible, straying from what is proper. Except in the phrase *knight errant*, sense 2 overwhelmingly predominates—e.g.:
+errant; **arrant**. *Errant* = (1) traveling; itinerant \<knight errant\>; or (2) fallible, straying from what is proper. Except in the phrase *knight errant*, sense 2 overwhelmingly predominates—e.g.:
 
  - "On other holes, strategically placed bunkers keep *errant* shots from going too far astray." Chris Dortch, "Challenges Fly Wild at New Eagle Bluff Course," *Chattanooga Times*, 26 Oct. 1995, at C6.
 

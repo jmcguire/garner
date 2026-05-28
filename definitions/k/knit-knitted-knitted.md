@@ -1,6 +1,6 @@
-# knit > knitted > knitted
+# knit \> knitted \> knitted
 
-knit > knitted > knitted. So inflected. The usual past tense is *knitted*, except in the phrase *close-knit family*. E.g.:
+knit \> knitted \> knitted. So inflected. The usual past tense is *knitted*, except in the phrase *close-knit family*. E.g.:
 
  - "Or has Andy MacPhail, without Ed Lynch mucking things up, simply *knitted* together an amazing patchwork quilt?" Jay Mariotti, "Cubs Are for Real," *Chicago Sun-Times*, 7 May 2001, at 91.
 

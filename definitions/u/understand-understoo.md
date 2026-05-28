@@ -1,4 +1,4 @@
-# understand > understood > understood
+# understand \> understood \> understood
 
-understand > understood > understood. So inflected. See irregular verbs.
+understand \> understood \> understood. So inflected. See irregular verbs.
 

@@ -1,6 +1,6 @@
 # condemn
 
-condemn; **contemn**. To *condemn*, in one sense, is to render judgment against (a person or thing) <the court condemned the accused to life in prison>. The word has passed from legal into general usage mostly in the figurative sense "to disapprove forcefully; to declare reprehensible"—e.g.: "Spiritual rites and modern development clashed when members of a Native American tribe *condemned* the way the Irvine Co. on Wednesday reburied ancient artifacts unearthed in 1994 during the building of a Newport Beach housing development." Tina Nguyen, "Chief Unhappy with Reburial of Tribal Artifacts," *L.A. Times*, 28 Nov. 1996, at B1.
+condemn; **contemn**. To *condemn*, in one sense, is to render judgment against (a person or thing) \<the court condemned the accused to life in prison\>. The word has passed from legal into general usage mostly in the figurative sense "to disapprove forcefully; to declare reprehensible"—e.g.: "Spiritual rites and modern development clashed when members of a Native American tribe *condemned* the way the Irvine Co. on Wednesday reburied ancient artifacts unearthed in 1994 during the building of a Newport Beach housing development." Tina Nguyen, "Chief Unhappy with Reburial of Tribal Artifacts," *L.A. Times*, 28 Nov. 1996, at B1.
 
 In AmE, *condemn* has the additional legal sense "to pronounce judicially (land, etc.) as converted or convertible to public use, subject to reasonable compensation." E.g.:
 

@@ -1,4 +1,4 @@
-# rive > rove > riven
+# rive \> rove \> riven
 
-rive > rove > riven. So inflected. See irregular verbs.
+rive \> rove \> riven. So inflected. See irregular verbs.
 

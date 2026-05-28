@@ -8,7 +8,7 @@ telegraph, vb.; **telegram**, n. To *telegraph* is to send a *telegram*. Althoug
 
  - "Rockne *telegrammed* \[read *telegraphed*\] Iris Trippeer: ‘George some improved. Still critical. Wishes to see you today.' " John U. Bacon, "This Is the Real Story of . . . : The Gipper, Part 1," *Detroit News*, 5 Jan. 1997, at D1.
 
-Since 1799—only seven years after the word was first used in English—*telegraph* has been used figuratively to mean "to convey wordlessly or subtly" <her eyes telegraphed her discomfort>.
+Since 1799—only seven years after the word was first used in English—*telegraph* has been used figuratively to mean "to convey wordlessly or subtly" \<her eyes telegraphed her discomfort\>.
 
 ## Language-Change Index
 

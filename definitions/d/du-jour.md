@@ -1,6 +1,6 @@
 # du jour
 
-du jour (= of the day) is a gallicism that has been used with menu items since the late 1960s <plat du jour> <soup du jour>. Since the 1990s it has become voguish in the sense "voguish." It is the phrase du jour—e.g.:
+du jour (= of the day) is a gallicism that has been used with menu items since the late 1960s \<plat du jour\> \<soup du jour\>. Since the 1990s it has become voguish in the sense "voguish." It is the phrase du jour—e.g.:
 
  - "Into this category fall the other *stories du jour* \[read *trendy stories*\] that command our attention and disdain simultaneously, and in equal measure: Paula Jones, Kelly Flynn, Whitewater, campaign finance and, as ever, anything about the Kennedys." Asta Bowen, "As Consumers of Information, We'd Rather Be Titillated than Satisfied," *Seattle Post-Intelligencer*, 17 July 1997, at A13.
 

@@ -1,6 +1,6 @@
-# rend > rent > rent
+# rend \> rent \> rent
 
-rend > rent > rent. So inflected. But *\*rended* has long been a variant past-tense and past-participial form, perhaps for fear that *rent* might cause a miscue. A misreading seems more likely in the first sentence that follows than in most others, but it's probably better to use the traditional form—e.g.:
+rend \> rent \> rent. So inflected. But *\*rended* has long been a variant past-tense and past-participial form, perhaps for fear that *rent* might cause a miscue. A misreading seems more likely in the first sentence that follows than in most others, but it's probably better to use the traditional form—e.g.:
 
  - "Unlike ‘Uncle Tom's Cabin,' Ms. Seaquist's work, thus far, assumes that we all not only understand the issues that have *rended* \[read *rent*\] Bosnia and led to the horror, but that the issues allow only one legitimate position." Joel Henning, "Bosnia: A Phone Call to Action," *Wall Street J.*, 18 Dec. 1996, at A18. (On the ungrammatical lack of parallelism in that sentence, see **not only . . . but also**.)
 

@@ -1,6 +1,6 @@
 # reek
 
-reek; **wreak**. These homophones are occasionally confused. *Reek*, vb., = to give off an odor or vapor <the house reeked of gas>. *Reek*, n., = an odorous vapor <the reek of garlic spoiled our conversation>. *Wreak* = to inflict, bring about <to wreak havoc>.
+reek; **wreak**. These homophones are occasionally confused. *Reek*, vb., = to give off an odor or vapor \<the house reeked of gas\>. *Reek*, n., = an odorous vapor \<the reek of garlic spoiled our conversation\>. *Wreak* = to inflict, bring about \<to wreak havoc\>.
 
 The misspelling *\*reek havoc* has been a frequent blunder since the 1980s, but only in AmE—e.g.:
 

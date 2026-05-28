@@ -4,7 +4,7 @@ concern, n., merits editorial attention when used in either of two ways.
 
 First, in the broad sense denoting something of importance, the word sometimes contributes nothing to a sentence—e.g.: "This has become one of the most troubling aspects of the Clinton tenure, its across-the-board willingness to subvert national agencies charged with law enforcement and security *concerns* \[delete *concerns*\]." "Integrity of the Institutions," *Wall Street J*., 20 Mar. 1997, at A16, A20.
 
-Second, it sometimes refers to a company, firm, or business <going concern>. In this use, the word often smacks of old-fashioned bureaucratese and should usually yield to a more precise word—e.g.:
+Second, it sometimes refers to a company, firm, or business \<going concern\>. In this use, the word often smacks of old-fashioned bureaucratese and should usually yield to a more precise word—e.g.:
 
  - "He \[Erskine Boyce Bowles\] has long been the President's first choice to succeed Mr. Panetta, but he had to be persuaded, having just last January started a merchant banking *concern* \[read *firm*\] that specializes in buying mid-sized companies on behalf of investors." Todd S. Purdum, "After the Election: The Players," *N.Y. Times*, 9 Nov. 1996, § 1, at 1.
 

@@ -1,6 +1,6 @@
 # palpable
 
-palpable (lit., "touchable") = tangible; apparent. There is nothing wrong with using this word in figurative senses <palpable weaknesses in the argument>, as it has been used since at least the 1400s.
+palpable (lit., "touchable") = tangible; apparent. There is nothing wrong with using this word in figurative senses \<palpable weaknesses in the argument\>, as it has been used since at least the 1400s.
 
 What is nonsensical, however, is to say that the *level* of frustration, tension, etc. is palpable—e.g.:
 

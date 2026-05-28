@@ -18,7 +18,7 @@ In November 2017, an outbreak of protests about *so*-as-filler-and-not-as-illati
 
 As a linguistic matter, the prefatory *so* is often a speech act equivalent to "if I understand you correctly" or "given what we know." Even then, however, it should follow from some antecedent basis—some comment or observation that has gone before. To be defensible in this way, it must have at least a quasi-illative sense. So there you have it.
 
-**B. For *very*.** In traditional usage, *so* is a comparative adverb <so cold I could die> <so cumbersome that I don't want it> <he's not so tall as she is>. Gradually, speakers and writers began dropping the final part of the comparison <he's so tall\!> <she's so smart> <it's so cold>. Essentially, *so* became an intensifier without any necessary sense of comparison—much as *that* is now doing. (See **that (f)**.) This use of *so* for *very* remains a casualism.
+**B. For *very*.** In traditional usage, *so* is a comparative adverb \<so cold I could die\> \<so cumbersome that I don't want it\> \<he's not so tall as she is\>. Gradually, speakers and writers began dropping the final part of the comparison \<he's so tall\!\> \<she's so smart\> \<it's so cold\>. Essentially, *so* became an intensifier without any necessary sense of comparison—much as *that* is now doing. (See **that (f)**.) This use of *so* for *very* remains a casualism.
 
 **C. *\*So therefore*.** Coupling *so* with *therefore* typically results in a redundancy—e.g.:
 

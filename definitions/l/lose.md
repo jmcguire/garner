@@ -2,9 +2,9 @@
 
 lose.
 
-**A. Inflected Forms: *lose* > *lost* > *lost*.** See irregular verbs.
+**A. Inflected Forms: *lose* \> *lost* \> *lost*.** See irregular verbs.
 
-**B. And *loose*, v.t.; *loosen*.** *Lose*, v.t., = to suffer the deprivation of; to part with. *Loose* is both an adjective meaning "unfastened" and a verb meaning "to release; unfasten." *Loosen* bears a similar meaning, but whereas *loose* generally refers to a complete release <loosing criminals on the community>, *loosen* generally refers to a partial release <loosening one's belt>. Additionally, *loosen* is figurative more often than *loose* is.
+**B. And *loose*, v.t.; *loosen*.** *Lose*, v.t., = to suffer the deprivation of; to part with. *Loose* is both an adjective meaning "unfastened" and a verb meaning "to release; unfasten." *Loosen* bears a similar meaning, but whereas *loose* generally refers to a complete release \<loosing criminals on the community\>, *loosen* generally refers to a partial release \<loosening one's belt\>. Additionally, *loosen* is figurative more often than *loose* is.
 
 *Loose* is sometimes misused for *lose*—e.g.: "The Imperial Irrigation District also stands to *loose* \[read *lose*\] about seven percent of its allotment." Dean E. Murphy, "California Water Users Miss Deadline on Pact for Sharing," *N.Y. Times*, 1 Jan. 2003, at A11.
 

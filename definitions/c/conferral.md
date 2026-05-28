@@ -6,5 +6,5 @@ Dictionaries suggest that *conferral* is a needless variant of *conferment* and 
 
 In the popular press, likewise, *conferral* appears today nearly twice as often as *conferment*, which predominated for most of the 20th century.
 
-If a distinction between the terms is possible, it is that *conferral* refers to the awarding of an honor or title <the evening concluded with the conferral of an honorary degree on the graduation speaker>, while *conferment* refers to the event where a *conferral* takes place <the annual conferment dinner will be held on June 16>. This differentiation seems worth encouraging.
+If a distinction between the terms is possible, it is that *conferral* refers to the awarding of an honor or title \<the evening concluded with the conferral of an honorary degree on the graduation speaker\>, while *conferment* refers to the event where a *conferral* takes place \<the annual conferment dinner will be held on June 16\>. This differentiation seems worth encouraging.
 

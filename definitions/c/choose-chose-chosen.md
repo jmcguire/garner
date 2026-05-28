@@ -1,4 +1,4 @@
-# choose > chose > chosen
+# choose \> chose \> chosen
 
-choose > chose > chosen. So inflected. See irregular verbs.
+choose \> chose \> chosen. So inflected. See irregular verbs.
 

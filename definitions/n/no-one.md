@@ -1,6 +1,6 @@
 # no one
 
-no one; **nobody**. *No one* is more common than *nobody*. In AmE, both terms are most traditionally treated as singular nouns and therefore as singular antecedents <no one in his right mind would care>. But today, as indefinite pronouns, they're often treated as plural to avoid sexism—e.g.:
+no one; **nobody**. *No one* is more common than *nobody*. In AmE, both terms are most traditionally treated as singular nouns and therefore as singular antecedents \<no one in his right mind would care\>. But today, as indefinite pronouns, they're often treated as plural to avoid sexism—e.g.:
 
  - "Yes, Germany was ringed by enemies, but this was just the right time for a bold move, the fuhrer figured. *No one* in *their* right mind would expect it." James Kindall, "The Battle of the Bulge," *Newsday* (N.Y.), 15 Dec. 1994, at B3.
 

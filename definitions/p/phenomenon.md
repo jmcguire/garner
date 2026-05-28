@@ -45,7 +45,7 @@ Surprisingly, the word is often misspelled *\*phenomenum*, especially in BrE—e
 
  - "These *phenomenons* \[read *phenomena*\] change sign for time-reversed magnetic domains." Hans Schmid, "Magnetoelectric Effects in Insulating Magnetic Materials," in *Introduction to Complex Mediums for Optics and Electromagnetics* 167, 182 (Werner S. Weiglhofer & Akhlesh Lakhtakia eds., 2003).
 
-But in the popular sense "a talented person who is achieving remarkable success and popularity," *phenomenon* does make the plural *phenomenons* <Garth Brooks and Clint Black, two great phenomenons of country music, were present>. E.g.: "*Phenomenons* need not be phenomenal every week, especially when they fulfill so many agendas—youth and commercial, color and culture." Bud Shaw, "All Types of Fans Just Talkin' Tiger," *Plain Dealer* (Cleveland), 23 Aug. 1997, at D1.
+But in the popular sense "a talented person who is achieving remarkable success and popularity," *phenomenon* does make the plural *phenomenons* \<Garth Brooks and Clint Black, two great phenomenons of country music, were present\>. E.g.: "*Phenomenons* need not be phenomenal every week, especially when they fulfill so many agendas—youth and commercial, color and culture." Bud Shaw, "All Types of Fans Just Talkin' Tiger," *Plain Dealer* (Cleveland), 23 Aug. 1997, at D1.
 
 In this last sense, the word is often replaced in AmE by the casualism *phenom* (the result of **apocope** \[see p. 1194\])—e.g.:
 
@@ -57,5 +57,5 @@ In this last sense, the word is often replaced in AmE by the casualism *phenom* 
 
 1. *phenomenons* as false plural for *phenomena*: Stage 3
 
-2. *phenomenons* in reference to notable people <the popularity of Peyton Manning and Jordan Spieth makes them true sports phenomenons>: Stage 4
+2. *phenomenons* in reference to notable people \<the popularity of Peyton Manning and Jordan Spieth makes them true sports phenomenons\>: Stage 4
 

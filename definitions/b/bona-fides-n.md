@@ -4,7 +4,7 @@
 
 **A. And *good faith*; *bonne foi*.** Though the adjective *bona fide* has been fully anglicized, the noun phrase *bona fides* has lost much ground—especially in AmE—to *good faith*. The trend should be encouraged. Perhaps the comparative infrequency of *bona fides* results from its pronunciation /**boh**-nә **fī**-deez/, which sounds foreign and bombastic in comparison with *good faith*. The gallicism *bonne foi*, a variant, sounds still more so; fortunately, it is rare.
 
-**B. Meanings.** The term *bona fides* has essentially three meanings: (1) "good faith" <he proved his *bona fides* through long dedication>; (2) "authenticity; the fact of actually being what one claims or seems to be" <the diploma proved her *bona fides* as a graduate of Princeton>; and (3) "proof of authenticity; credentials" <she could produce no *bona fides* showing that she was a graduate of the university>.
+**B. Meanings.** The term *bona fides* has essentially three meanings: (1) "good faith" \<he proved his *bona fides* through long dedication\>; (2) "authenticity; the fact of actually being what one claims or seems to be" \<the diploma proved her *bona fides* as a graduate of Princeton\>; and (3) "proof of authenticity; credentials" \<she could produce no *bona fides* showing that she was a graduate of the university\>.
 
 Sense 1, the traditional use, is now rare.
 

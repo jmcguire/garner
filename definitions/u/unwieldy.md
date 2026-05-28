@@ -1,6 +1,6 @@
 # unwieldy
 
-unwieldy, an adjective meaning "difficult to handle" <unwieldy packages>, often seems to be mistaken for an adverb ending in *-ly*—e.g.:
+unwieldy, an adjective meaning "difficult to handle" \<unwieldy packages\>, often seems to be mistaken for an adverb ending in *-ly*—e.g.:
 
  - "And it doesn't require an *unwieldly* \[read *unwieldy*\], lengthy tournament to improve the situation." Mark Kiszla, "Nittany Lions Left with Whine, Roses," *Denver Post*, 3 Jan. 1995, at C1.
 

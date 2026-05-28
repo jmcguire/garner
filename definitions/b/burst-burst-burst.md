@@ -1,6 +1,6 @@
-# burst > burst > burst
+# burst \> burst \> burst
 
-burst > burst > burst. So inflected. As a past-tense or past-participial form, *\*bursted* is a mistake—e.g.:
+burst \> burst \> burst. So inflected. As a past-tense or past-participial form, *\*bursted* is a mistake—e.g.:
 
  - "Among emergencies that agencies and managers name are such things as a *bursted* \[read *burst*\] water pipe." Betty Lonngren, "Rental Rapport," *Chicago Trib.*, 13 Oct. 1995, at D28.
 
@@ -10,7 +10,7 @@ See irregular verbs.
 
 As an equivalent of *burst*, the dialectal form *busted* carries an air of jocularity. In standard english, the word is *burst*—e.g.: "McCarthy's interception was negated by a roughing-the-passer penalty and nine plays later Mark O'Brien *busted* \[read *burst*\] in from 2 yards." Cory Nightingale, "Warriors Thwart Upset Bid," *Boston Globe*, 28 Nov. 1997, at D16.
 
-Yet as a casualism, *busted* has many possible meanings: (1) "arrested" <the cops busted him>; (2) "caught" (and usu. punished) <busted for cheating on an exam>; (3) "broken" <a busted arm>; (4) "rendered insolvent" <busted by rising expenses>; (5) "demoted" <busted to private>; and (6) "physically struck" <busted in the face>. Examples of each sense follow:
+Yet as a casualism, *busted* has many possible meanings: (1) "arrested" \<the cops busted him\>; (2) "caught" (and usu. punished) \<busted for cheating on an exam\>; (3) "broken" \<a busted arm\>; (4) "rendered insolvent" \<busted by rising expenses\>; (5) "demoted" \<busted to private\>; and (6) "physically struck" \<busted in the face\>. Examples of each sense follow:
 
  - **Sense 1:** "The feds *busted* 11 Bonanno crime-family members and associates yesterday, including the reputed acting underboss, Richard Cantarella." Denise Buffa, "Bonanno No-No's," *N.Y. Post*, 3 Oct. 2002, at 29.
 

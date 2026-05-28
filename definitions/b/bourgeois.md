@@ -1,8 +1,8 @@
 # bourgeois
 
-bourgeois, n. & adj.; \***burgeois**, n. & adj.; **bourgeoisie**, n. The noun *bourgeois*, pronounced /boor-**zhwah**/, means "a member of the middle class" (which is called, collectively, *bourgeoisie* /boo\[r\]-zhwah-**zee**/). The first spelling (with the *-ou-*) is standard; the second is a variant. Often the term, which is almost always disparaging, is used attributively as an adjective <a philistine petty bourgeois existence>. See also **bougie**.
+bourgeois, n. & adj.; \***burgeois**, n. & adj.; **bourgeoisie**, n. The noun *bourgeois*, pronounced /boor-**zhwah**/, means "a member of the middle class" (which is called, collectively, *bourgeoisie* /boo\[r\]-zhwah-**zee**/). The first spelling (with the *-ou-*) is standard; the second is a variant. Often the term, which is almost always disparaging, is used attributively as an adjective \<a philistine petty bourgeois existence\>. See also **bougie**.
 
-The mass noun *bourgeoisie* takes a singular verb when it functions as subject <the bourgeoisie is disillusioned>. A loanword from French, *bourgeoisie* (= citizenry) expanded in meaning after the Industrial Revolution to refer to either (1) the middle class or (2) in Marxian theory, the economically supreme class that owns capital, property, and the means of production. The erroneous spelling *\*bourgeousie* is surprisingly common:
+The mass noun *bourgeoisie* takes a singular verb when it functions as subject \<the bourgeoisie is disillusioned\>. A loanword from French, *bourgeoisie* (= citizenry) expanded in meaning after the Industrial Revolution to refer to either (1) the middle class or (2) in Marxian theory, the economically supreme class that owns capital, property, and the means of production. The erroneous spelling *\*bourgeousie* is surprisingly common:
 
  - "Her examples, drawn from mid-twentieth century Britain, include some of the very, very rich (allowed to spend excessively, have flamboyant divorces, look down on the *bourgeousie* \[read *bourgeoisie*\]." Sara Meadows, *The Child as Social Person* (2009).
 

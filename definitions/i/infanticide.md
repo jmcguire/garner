@@ -1,6 +1,6 @@
 # infanticide
 
-infanticide = (1) the killing of a baby; or (2) a parent who kills a baby, or someone who kills a baby esp. with a parent's consent. Sense 2 invariably takes an article <a merciless infanticide>, whereas sense 1 only sometimes takes an article <the infanticide committed by a deranged father> <infanticide committed by a mother with postpartum depression>.
+infanticide = (1) the killing of a baby; or (2) a parent who kills a baby, or someone who kills a baby esp. with a parent's consent. Sense 2 invariably takes an article \<a merciless infanticide\>, whereas sense 1 only sometimes takes an article \<the infanticide committed by a deranged father\> \<infanticide committed by a mother with postpartum depression\>.
 
 In law, strictly speaking, not every killer of a baby has committed infanticide. The killing of another person's child is simple murder or manslaughter. Infanticide, by definition, must be by or on behalf of a parent. See Glanville Williams, *The Sanctity of Life and the Criminal Law* 13 (1957).
 

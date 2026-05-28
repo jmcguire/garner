@@ -1,4 +1,4 @@
-# meet > met > met
+# meet \> met \> met
 
-meet > met > met. So inflected. See irregular verbs.
+meet \> met \> met. So inflected. See irregular verbs.
 

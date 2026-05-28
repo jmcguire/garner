@@ -2,7 +2,7 @@
 
 incident; incidence.
 
-**A. Meanings.** Although these words overlap, their primary senses are distinguishable. An *incident* is an occurrence or happening <several unfortunate incidents led to the curfew>. Though *incidence* sometimes bears this sense, it more often means "the rate of occurrence" <a high incidence of truancy>. In fact, whenever *incidence* appears where *incident* would fit, a switch is probably in order—e.g.:
+**A. Meanings.** Although these words overlap, their primary senses are distinguishable. An *incident* is an occurrence or happening \<several unfortunate incidents led to the curfew\>. Though *incidence* sometimes bears this sense, it more often means "the rate of occurrence" \<a high incidence of truancy\>. In fact, whenever *incidence* appears where *incident* would fit, a switch is probably in order—e.g.:
 
  - "In the last couple of years there have been several *incidences* \[read *incidents*\] of applause in the middle of movements." Richard Dyer, "No Encore of This Audience, Please," *Boston Globe*, 9 Oct. 1998, at D15.
 

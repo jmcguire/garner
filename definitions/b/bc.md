@@ -2,7 +2,7 @@
 
 BC; AD; BCE; CE. The abbreviation *BC* (= before Christ) is preferably so printed—in all caps, no periods. But the older style of small caps with periods is still an accepted style as well. See capitalization (f).
 
-By convention, *BC* follows the year <Julius Caesar died in 44 BC>. But *AD* (= *Anno Domini* "in the year of our Lord") properly precedes the year <Hadrian's wall was completed in AD 126>, unless the abbreviation is paired with a time frame expressed in words <the second century AD>.
+By convention, *BC* follows the year \<Julius Caesar died in 44 BC\>. But *AD* (= *Anno Domini* "in the year of our Lord") properly precedes the year \<Hadrian's wall was completed in AD 126\>, unless the abbreviation is paired with a time frame expressed in words \<the second century AD\>.
 
 Some scholars condemn *BC* and *AD* as undesirably sectarian. What about non-Christians? they ask. Why should non-Christians have to measure their calendar from the birth of Christ? A trend has therefore emerged to use *BCE* (= before the Common Era) and *CE* (= Common Era)—the traditional Jewish designations—in place of the Christian labels. Unlike *AD*, the abbreviation *BCE* or *CE* never precedes the year. E.g.:
 

@@ -8,7 +8,7 @@ viable originally meant "capable of living; fit to live," a sense that still app
 
  - "They now have a *viable* \[read *plausible*\] successor to the Speaker in New York Congressman Bill Paxon." Sandy Hume, "Deja Coup II," *New Republic*, 29 Sept. 1997, at 10.
 
-The word has lately been the victim of slipshod extension, when used in the sense "feasible, practicable" <a viable plan>. One writer has noted that "dictionaries now give \[as definitions for *viable*\] *real*, *workable*, *vivid*, *practicable*, *important*, newer definitions that seem only to confirm the critics' complaints that the word has had the edge hopelessly ground off it." Roy Copperud, *American Usage and Style* 405 (1980).
+The word has lately been the victim of slipshod extension, when used in the sense "feasible, practicable" \<a viable plan\>. One writer has noted that "dictionaries now give \[as definitions for *viable*\] *real*, *workable*, *vivid*, *practicable*, *important*, newer definitions that seem only to confirm the critics' complaints that the word has had the edge hopelessly ground off it." Roy Copperud, *American Usage and Style* 405 (1980).
 
 Hence it is sometimes hard even to know what a writer means with *viable*—e.g.:
 

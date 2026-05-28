@@ -1,4 +1,4 @@
-# build > built > built
+# build \> built \> built
 
-build > built > built. So inflected. See irregular verbs.
+build \> built \> built. So inflected. See irregular verbs.
 

@@ -2,7 +2,7 @@
 
 incredible; **incredulous**. *Incredible* (= unbelievable) has become a vogue term to describe something that astounds, especially in a pleasing way—e.g.: "Moore combined this with meditations on the *incredible* \[read *rare*? *priceless*?\] paintings she found in a warehouse several months after Sargent's death in 1978." Susy Schultz, "Troubled Life Leads to Poetic Justice," *Chicago Sun-Times*, 2 June 1996, at 16.
 
-*Incredulous* has long meant "disbelieving, doubting, skeptical" <she was incredulous when listening to the story>. E.g.:
+*Incredulous* has long meant "disbelieving, doubting, skeptical" \<she was incredulous when listening to the story\>. E.g.:
 
  - "It took Shoup about 10 minutes to convince George that he wasn't joking. Then he had to convince \[George's\] wife, who was equally *incredulous*." Susan A. Cantonwine, "Money Will Not Change Lotto Winner," *Dayton Daily News*, 23 July 1997, at Z41.
 

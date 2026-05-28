@@ -1,6 +1,6 @@
-# shape > shaped > shaped
+# shape \> shaped \> shaped
 
-shape > shaped > shaped. So inflected. The archaic past participle *shapen* exists only in the forms *misshapen*, *ill-shapen*, and *well-shapen*. The latter two, though much less common than *misshapen*, still occur—e.g.:
+shape \> shaped \> shaped. So inflected. The archaic past participle *shapen* exists only in the forms *misshapen*, *ill-shapen*, and *well-shapen*. The latter two, though much less common than *misshapen*, still occur—e.g.:
 
  - "At the back of the restaurant, the Pinup Lounge pays homage to Vargas Girls, those idealized images of *well-shapen* women painted by Alberto Vargas during and after World War II and for years afterwards." Matt Kelley, "Runza Pioneer Sitting Back in the Saddle," *Omaha World-Herald*, 28 May 1995, Bus. §, at 1.
 

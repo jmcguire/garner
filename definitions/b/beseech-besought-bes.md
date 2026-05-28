@@ -1,6 +1,6 @@
-# beseech > besought > besought
+# beseech \> besought \> besought
 
-beseech > besought > besought; **beseech > *\**beseeched > \*beseeched**. The traditional past tense and past participle is *besought*. The simple past is the more common usage—e.g.:
+beseech \> besought \> besought; **beseech \> *\**beseeched \> \*beseeched**. The traditional past tense and past participle is *besought*. The simple past is the more common usage—e.g.:
 
  - "She tried to comfort me, *besought* me to come to breakfast." Lincoln Steffens, "Even Santa Claus Can't Put a Pony into a Stocking," *Star Trib.* (Minneapolis), 25 Dec. 1997, at E1.
 

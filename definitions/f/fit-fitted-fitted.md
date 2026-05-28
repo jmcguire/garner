@@ -1,6 +1,6 @@
-# fit > fitted > fitted
+# fit \> fitted \> fitted
 
-fit > fitted > fitted (traditionally); **fit > fit > fit** (more modernly in AmE). Just since the mid-20th century, AmE has witnessed a shift in the past tense and past participle from *fitted* to *fit*. Traditionally, *fit* would have been considered incorrect, but it began appearing in journalism and even scholarly writing as early as the 1950s. David S. Berkeley, "The Past Tense of ‘Fit,' " 30 *Am. Speech* 311 (1955).
+fit \> fitted \> fitted (traditionally); **fit \> fit \> fit** (more modernly in AmE). Just since the mid-20th century, AmE has witnessed a shift in the past tense and past participle from *fitted* to *fit*. Traditionally, *fit* would have been considered incorrect, but it began appearing in journalism and even scholarly writing as early as the 1950s. David S. Berkeley, "The Past Tense of ‘Fit,' " 30 *Am. Speech* 311 (1955).
 
 This casualism now appears even in what is generally considered well-edited American journalism, especially where the *fit* is not a physical attachment but a match—e.g.:
 
@@ -28,7 +28,7 @@ Yet where the fit is a physical coupling, *fitted* remains the natural choice in
 
  - "Don't rent ski boots. Buy a good midpriced pair . . . . If they're properly *fitted*, you'll always be comfortable." Anne Z. Cooke & Steve Haggerty, "Strategies for Best Results on the Slopes," *St. Petersburg Times* (Fla.), 30 Jan. 2007, SSP §, at 6.
 
-The traditional form also persists with prefixed derivatives (e.g., *outfitted*, *retrofitted*). Although *fitted* may one day be extinct as a verb form, it will undoubtedly endure as an adjective <fitted sheets>.
+The traditional form also persists with prefixed derivatives (e.g., *outfitted*, *retrofitted*). Although *fitted* may one day be extinct as a verb form, it will undoubtedly endure as an adjective \<fitted sheets\>.
 
 ## Language-Change Index
 

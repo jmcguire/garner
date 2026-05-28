@@ -24,7 +24,7 @@ In a related sense, of course, *bale* is also a noun: the product of *baling hay
 
 To *bail a person out* is to procure a detainee's release from jail by monetarily guaranteeing that person's return or, more generally, to help someone out of trouble, especially of a financial nature. In this sense, *bail out* predominates over \**bale out* by a very great margin (see ratio below).
 
-In the sense of departing, *bail* is the word <she bailed out of the plane> <he bailed on us>. Given the length of this entry, it's time to bail.
+In the sense of departing, *bail* is the word \<she bailed out of the plane\> \<he bailed on us\>. Given the length of this entry, it's time to bail.
 
 ## Language-Change Index
 

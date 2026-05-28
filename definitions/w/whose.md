@@ -2,7 +2,7 @@
 
 whose.
 
-**A. Meaning "of which.**" *Whose* may usefully refer to things <an idea whose time has come>. This use of *whose*, formerly decried by some 19th-century grammarians and their predecessors, is often an inescapable way of avoiding clumsiness—e.g.:
+**A. Meaning "of which.**" *Whose* may usefully refer to things \<an idea whose time has come\>. This use of *whose*, formerly decried by some 19th-century grammarians and their predecessors, is often an inescapable way of avoiding clumsiness—e.g.:
 
  - "A book *whose* humor could have seemed tediously affected turns out to be entertaining and utterly useful." "Ready to Surf Web? Go Buy the Book," *Atlanta J.-Const.*, 24 Dec. 1995, at H4.
 

@@ -1,6 +1,6 @@
 # ambivalent
 
-ambivalent (= having contradictory or mixed feelings about something or someone), a psychological term dating only from the early 20th century, is an adjective that describes a person's mind, attitudes, sentiments, etc. It should be reserved for contexts involving mental conflict <the couple was ambivalent about having a child>. It shouldn't be used in reference to other uncertainties or disagreements, where *ambiguous* or *uncertain* might be the more appropriate word—e.g.:
+ambivalent (= having contradictory or mixed feelings about something or someone), a psychological term dating only from the early 20th century, is an adjective that describes a person's mind, attitudes, sentiments, etc. It should be reserved for contexts involving mental conflict \<the couple was ambivalent about having a child\>. It shouldn't be used in reference to other uncertainties or disagreements, where *ambiguous* or *uncertain* might be the more appropriate word—e.g.:
 
  - "When a young soldier in Iraq died in *ambivalent* \[read *uncertain*\] circumstances, he was declared a hero." Phillip Adams, "No Pride in Feeling No Shame," *Australian*, 4 Dec. 2007, at 12.
 

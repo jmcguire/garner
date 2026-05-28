@@ -1,6 +1,6 @@
 # quit
 
-quit = (1) to stop; or (2) to leave. For sense 1, the past tense is *quit* <he finally quit snoring>. (See irregular verbs.) For sense 2, which is more common in BrE than in AmE, the past tense is *quitted*—e.g.:
+quit = (1) to stop; or (2) to leave. For sense 1, the past tense is *quit* \<he finally quit snoring\>. (See irregular verbs.) For sense 2, which is more common in BrE than in AmE, the past tense is *quitted*—e.g.:
 
  - "By page 290 Robin has long *quitted* the suburbs, met a nice girl at Oxford, done his war service, \[etc.\]." David Hughes, "You Can't Do Both," *Mail on Sunday*, 11 Sept. 1994, at 36.
 

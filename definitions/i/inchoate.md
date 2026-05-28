@@ -6,7 +6,7 @@ inchoate.
 
  - Current ratio in print (*inchoate* vs. *\*incohate*): 2,051:1
 
-**B. And *choate*.** The prefix is an intensive *in*-, not a negative or privative *in*-. So the back-formation *choate* (= complete)—premised, as it is, on the notion that *inchoate* is a negative—makes little sense. But it's now established in law <choate lien>.
+**B. And *choate*.** The prefix is an intensive *in*-, not a negative or privative *in*-. So the back-formation *choate* (= complete)—premised, as it is, on the notion that *inchoate* is a negative—makes little sense. But it's now established in law \<choate lien\>.
 
 **C. And *chaotic*.** Because what is undeveloped is usually also confused and incoherent, the context in which *inchoate* is used often suggests those errant senses. The resemblance of *-choate* to *chaotic* probably reinforces this misunderstanding. For whatever reason, *inchoate* is often misused to mean something more like *chaotic* than *aborning*—e.g.:
 

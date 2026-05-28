@@ -1,6 +1,6 @@
 # \*doubtlessly
 
-\*doubtlessly is a nonword for *doubtless* (a mild expression of certainty), *no doubt* (a stronger expression of certainty), or *undoubtedly* (the strongest of these three expressions of certainty). The word *doubtless* is itself an adverb <the Framers doubtless feared the executive's assertion of an independent military authority unchecked by the people>. The form *\*doubtlessly* is therefore unnecessary—e.g.:
+\*doubtlessly is a nonword for *doubtless* (a mild expression of certainty), *no doubt* (a stronger expression of certainty), or *undoubtedly* (the strongest of these three expressions of certainty). The word *doubtless* is itself an adverb \<the Framers doubtless feared the executive's assertion of an independent military authority unchecked by the people\>. The form *\*doubtlessly* is therefore unnecessary—e.g.:
 
  - "Lebed, who has made no secret of his longing to be Russia's defense minister, *doubtlessly will* \[read *will doubtless*\] take great personal satisfaction *from* \[read *in*\] being courted by Yeltsin." James P. Gallagher, "Russians Lift Yeltsin into Runoff," *Chicago Trib.*, 17 June 1996, at N1. (On the position of the adverb within the verb phrase, see adverbs (b).)
 

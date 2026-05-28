@@ -1,6 +1,6 @@
-# overflow > overflowed > overflowed
+# overflow \> overflowed \> overflowed
 
-overflow > overflowed > overflowed. So inflected. Some writers mistakenly use *overflown* as the past participle of *overflow*—e.g.:
+overflow \> overflowed \> overflowed. So inflected. Some writers mistakenly use *overflown* as the past participle of *overflow*—e.g.:
 
  - "But water has *overflown* \[read *overflowed*\] the levee at least four times since it was built." Missy Baxter, "Levee Project Halted After Flood Proves New Wall Would Have Failed," *Courier-J.* (Louisville), 14 Apr. 1997, at B2.
 

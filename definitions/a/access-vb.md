@@ -14,7 +14,7 @@ But outside computing and electronic contexts, using *access* as a verb still ja
 
 ## Language-Change Index
 
- - *access* as a verb outside computing contexts <accessing the books>: Stage 4
+ - *access* as a verb outside computing contexts \<accessing the books\>: Stage 4
 
 **B. For *assess*.** Sometimes *access* is misused for *assess* (= to evaluate)—e.g.:
 

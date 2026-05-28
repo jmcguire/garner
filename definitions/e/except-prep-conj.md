@@ -2,7 +2,7 @@
 
 except, prep. & conj.
 
-**A. As Preposition and Conjunction.** When *except* begins a phrase (with no finite verb) rather than a clause, it is a simple preposition not followed by the relative pronoun *that* <all people except farmers owning more than 500 acres> <no one must leave the room except with permission>. But when *except* as a conjunction introduces a clause (with a finite verb), it should be followed by *that* <all vice presidents are to receive a 10% bonus in compensation, except that no bonus is allowed on previous bonuses>.
+**A. As Preposition and Conjunction.** When *except* begins a phrase (with no finite verb) rather than a clause, it is a simple preposition not followed by the relative pronoun *that* \<all people except farmers owning more than 500 acres\> \<no one must leave the room except with permission\>. But when *except* as a conjunction introduces a clause (with a finite verb), it should be followed by *that* \<all vice presidents are to receive a 10% bonus in compensation, except that no bonus is allowed on previous bonuses\>.
 
 If a pronoun follows a prepositional *except*, the pronoun should be in the objective case, not the nominative—e.g.: "Everyone has been accounted for except *he* \[read *him*\]." If a pronoun follows a conjunctive *except* and serves as the subject of the clause's verb, it should be in the nominative case—e.g.: "He's generally easygoing, except that *he* doesn't tolerate laziness." See pronouns (a), (b).
 

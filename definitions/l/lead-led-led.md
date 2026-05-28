@@ -1,6 +1,6 @@
-# lead > led > led
+# lead \> led \> led
 
-lead > led > led. So inflected. The past tense of the verb *lead* /leed/—meaning "to guide or direct"—is *led*. But as a noun, *lead* (pronounced /led/) refers either to a metallic element or to a thin stick of marking substance in or for a pencil (though the graphite in pencils has not contained the metal lead for many years). Writers often mistake the past-tense spellings, as if this verb were analogous to *read–read*—e.g.:
+lead \> led \> led. So inflected. The past tense of the verb *lead* /leed/—meaning "to guide or direct"—is *led*. But as a noun, *lead* (pronounced /led/) refers either to a metallic element or to a thin stick of marking substance in or for a pencil (though the graphite in pencils has not contained the metal lead for many years). Writers often mistake the past-tense spellings, as if this verb were analogous to *read–read*—e.g.:
 
  - "Dr. Stewart, a co-author of the study, established her reputation in the field of radiation and health with her findings, published in 1956, that prenatal X-rays had *lead* \[read *led*\] to an increase in cancer deaths among children in Britain." Matthew L. Wald, "Pioneer in Radiation Sees Risk Even in Small Doses," *N.Y. Times*, 8 Dec. 1992, at A2.
 

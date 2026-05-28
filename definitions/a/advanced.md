@@ -1,6 +1,6 @@
 # advanced
 
-advanced, adj., = (1) having progressed beyond most others <an advanced way of thinking>; (2) being beyond an elementary level <advanced studies> <advanced students>; (3) sophisticated <advanced weaponry>; or (4) toward the end of a span of time or distance <people who are advanced in age>. Though it has these several meanings, *advanced* does not mean "in advance"—a meaning for which *advance*, adj., suffices. Yet writers often misuse *advanced* for this sense—e.g.:
+advanced, adj., = (1) having progressed beyond most others \<an advanced way of thinking\>; (2) being beyond an elementary level \<advanced studies\> \<advanced students\>; (3) sophisticated \<advanced weaponry\>; or (4) toward the end of a span of time or distance \<people who are advanced in age\>. Though it has these several meanings, *advanced* does not mean "in advance"—a meaning for which *advance*, adj., suffices. Yet writers often misuse *advanced* for this sense—e.g.:
 
  - "With this law, your landlord must give you two days' *advanced* \[read *advance*\] warning before entering your apartment." Ed Sacks, "New Tenant Wants to Get Out of Nightmarish Apartment," *Chicago Sun-Times*, 19 Jan. 1997, Housing §, at 7.
 

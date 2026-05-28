@@ -1,6 +1,6 @@
 # \*enthuse
 
-\*enthuse, vb., has long been criticized as a back-formation avoided by careful writers and speakers. The verb can be either transitive or intransitive. (See ergative verbs.) As a transitive verb, it was originally confined to passive-voice uses <I am enthused by the game>, but by the mid-1990s the word had taken on active uses <she enthused me about the game>. E.g.:
+\*enthuse, vb., has long been criticized as a back-formation avoided by careful writers and speakers. The verb can be either transitive or intransitive. (See ergative verbs.) As a transitive verb, it was originally confined to passive-voice uses \<I am enthused by the game\>, but by the mid-1990s the word had taken on active uses \<she enthused me about the game\>. E.g.:
 
  - **Transitive:** "They *enthused* \[read *inspired*\] student volunteers with their ideas." "The First Glint of a New Japan," *Economist*, 24 July 1993, at 33.
 

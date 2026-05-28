@@ -8,7 +8,7 @@ Be-Verbs .
 
  - "If the Western film offer were found \[*to be*\] different from the musical film offer, then it might be more appealing."
 
-**B. Circumlocutions with *Be*-Verbs.** Verb phrases containing *be*-verbs are often merely roundabout ways of saying something better said with a simple verb. Thus *be determinative of* for *determine* is verbose. But *be determinative* is all right without an object <this factor may be determinative in a given situation>.
+**B. Circumlocutions with *Be*-Verbs.** Verb phrases containing *be*-verbs are often merely roundabout ways of saying something better said with a simple verb. Thus *be determinative of* for *determine* is verbose. But *be determinative* is all right without an object \<this factor may be determinative in a given situation\>.
 
 The following circumlocutory uses of *be*-verbs are common in stuffy writing. The simple verb is usually better:
 

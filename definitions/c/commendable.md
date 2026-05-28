@@ -1,6 +1,6 @@
 # commendable
 
-commendable; **commendatory**. The first means "praiseworthy, laudable" <a commendable achievement>, and the second means "expressing commendation, laudatory" <a commendatory letter of appreciation>. Like other differentiated pairs ending in *-able* and *-atory*, these words are subject to word-swapping. Most commonly, *commendatory* erroneously displaces *commendable*—e.g.:
+commendable; **commendatory**. The first means "praiseworthy, laudable" \<a commendable achievement\>, and the second means "expressing commendation, laudatory" \<a commendatory letter of appreciation\>. Like other differentiated pairs ending in *-able* and *-atory*, these words are subject to word-swapping. Most commonly, *commendatory* erroneously displaces *commendable*—e.g.:
 
  - "It is reprehensible . . . to write a brief primarily to express an uncomplimentary opinion of one's adversary; it is *commendatory* \[read *commendable*\] to write a brief for the purpose of advising the court; it is neither reprehensible nor *commendatory* \[read *commendable*\] to write a brief because the client insists—merely good business." Mortimer Levitan, "Confidential Chat on the Art of Briefing," 1957 *Wis. L. Rev.* 59, 60.
 

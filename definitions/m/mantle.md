@@ -1,6 +1,6 @@
 # mantle
 
-mantle; **mantel**. *Mantle* means, among other things, "a loose robe." It is frequently used in figurative senses <mantle of leadership> <mantle of greatness>. E.g.: "The tributes flowing in suggest a *mantle* of modern sainthood falling upon her." Polly Toynbee, "Will Diana's Ghost Haunt the Monarchy?," *San Diego Union-Trib.*, 7 Sept. 1997, at G6. The word frequently appears in the phrase *take on the mantle of* or *take up the mantle of* (a predecessor, etc.). You can also just *take the mantle*, but the phrasal verbs *take on* and *take up* are more traditional.
+mantle; **mantel**. *Mantle* means, among other things, "a loose robe." It is frequently used in figurative senses \<mantle of leadership\> \<mantle of greatness\>. E.g.: "The tributes flowing in suggest a *mantle* of modern sainthood falling upon her." Polly Toynbee, "Will Diana's Ghost Haunt the Monarchy?," *San Diego Union-Trib.*, 7 Sept. 1997, at G6. The word frequently appears in the phrase *take on the mantle of* or *take up the mantle of* (a predecessor, etc.). You can also just *take the mantle*, but the phrasal verbs *take on* and *take up* are more traditional.
 
 *Mantel* is a very different word, meaning "a structure of wood or marble above or around a fireplace; a shelf." E.g.: "Display some of your prized possessions on a shelf or on top of a *mantel* or windowsill." Chris Casson Madden, "Wake Up a Drowsy Bedroom," *San Diego Union-Trib.*, 7 Sept. 1997, at H19.
 

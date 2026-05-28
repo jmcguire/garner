@@ -1,6 +1,6 @@
 # inimical
 
-inimical /i-**nim**-i-kәl/ (= hostile, injurious, adverse), dating in English from the 1600s, is an emphatically negative word <conditions inimical to health>. Beginning in the early 1800s, some writers began using the nonword \**inimicable*, doubtless influenced by the seeming antonym *amicable* (= friendly, favorable). Yet \**inimicable* should be regarded as an erroneous form—e.g.:
+inimical /i-**nim**-i-kәl/ (= hostile, injurious, adverse), dating in English from the 1600s, is an emphatically negative word \<conditions inimical to health\>. Beginning in the early 1800s, some writers began using the nonword \**inimicable*, doubtless influenced by the seeming antonym *amicable* (= friendly, favorable). Yet \**inimicable* should be regarded as an erroneous form—e.g.:
 
  - "An international treaty that imposes new concepts of guaranteed rights and benefits is *inimicable* \[read *inimical*\] to a sovereign nation and a free society." Edwin Meese III & Andrew J. Cowin, "Domestic Policy Courtesy of the U.N.," *San Diego Union-Trib.*, 19 Nov. 1993, at B7.
 

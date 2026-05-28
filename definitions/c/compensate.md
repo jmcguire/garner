@@ -8,5 +8,5 @@ compensate.
 
  - "The Army Corps does address mitigation, but not all wetland and wildlife losses can be *compensated*." "Isle of Wight Coal Storage," *Virginian-Pilot* (Norfolk), 24 Nov. 1994, Suffolk Sun §, at 6.
 
-**B. And *recompense*.** These verbs are almost precisely synonymous <to recompense a victim for injuries>, but *recompense* is a formal word less commonly used. Until about 1750, though, the two were about equal in frequency of use. See **recompense**.
+**B. And *recompense*.** These verbs are almost precisely synonymous \<to recompense a victim for injuries\>, but *recompense* is a formal word less commonly used. Until about 1750, though, the two were about equal in frequency of use. See **recompense**.
 

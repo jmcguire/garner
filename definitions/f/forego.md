@@ -16,7 +16,7 @@ The opposite mistake—misusing *forgo* for *forego*—is much less common. E.g.
 
  - "All of the *forgoing* \[read *foregoing*\] are contributing factors to \[Detroit Rescue Mission Ministries'\] current shortfall." Donald F. DeVos, "Mission Downsizes as Donations Fall Off," *Detroit News*, 10 Apr. 2002, at S6.
 
-*Forwent* and *forewent* are the past-tense forms. While *forewent* is hopelessly archaic <they forewent us to the theater>, *forwent* is occasionally useful—e.g.:
+*Forwent* and *forewent* are the past-tense forms. While *forewent* is hopelessly archaic \<they forewent us to the theater\>, *forwent* is occasionally useful—e.g.:
 
  - " ‘I'm not going to say never to anything,' said Moulton Patterson, who *forwent* a bid for reelection." Debra Cano, "Moulton Patterson May Seek Council Seat," *L.A. Times*, 14 Dec. 1994, at B2.
 

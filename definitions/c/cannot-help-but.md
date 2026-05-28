@@ -10,7 +10,7 @@ cannot help but; **cannot help ——ing; cannot but**. In formal contexts, the 
 
 Still, because *cannot help being* and (especially) *cannot but be* are increasingly rare in AmE and BrE alike, they strike many readers as stilted.
 
-*Cannot help but*, which took root during the late 1800s, is becoming an accepted idiom <I cannot help but think you did that on purpose>. A less awkward construction is *cannot help ——ing* <I cannot help thinking you did that on purpose>. But the first construction should no longer be stigmatized on either side of the Atlantic—e.g.:
+*Cannot help but*, which took root during the late 1800s, is becoming an accepted idiom \<I cannot help but think you did that on purpose\>. A less awkward construction is *cannot help ——ing* \<I cannot help thinking you did that on purpose\>. But the first construction should no longer be stigmatized on either side of the Atlantic—e.g.:
 
  - "Experts say Thomas' court performance *cannot help but* be affected by the traumatic Senate confirmation hearings." Aaron Epstein, "Thomas Survives Controversy, Wins Senate Confirmation, 52–48," *Phil. Inquirer*, 16 Oct. 1991, at A1.
 

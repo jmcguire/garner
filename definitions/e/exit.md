@@ -1,6 +1,6 @@
 # exit
 
-exit has been an acceptable verb since the early 1600s <they exited from the building about 3:00 a.m.>. Those who object to it on grounds that one does not "entrance" a building have a misplaced prejudice.
+exit has been an acceptable verb since the early 1600s \<they exited from the building about 3:00 a.m.\>. Those who object to it on grounds that one does not "entrance" a building have a misplaced prejudice.
 
 But when used transitively, as opposed to intransitively with the preposition *from*, the verb typifies police talk—e.g.:
 

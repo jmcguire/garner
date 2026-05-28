@@ -1,4 +1,4 @@
-# humble< adj
+# humble\< adj
 
 humble, adj., is now preferably pronounced with the *h* sounded: /**hәm**-bәl/. But the pronunciation without an aspirated *h* has long been common. In fact, *humble* was recognized as having a silent *h* as early as the 1600s: "In *Latin* \[letters\] are to be pronounced as often as they are written: and in particular the letter *h*, as in *haeres*, *homo*, *humilis*, though it be not sounded in the English words, as in *heir*, *honour*, *humble*." Elisha Coles, *Syncrisis* 2 (1677).
 

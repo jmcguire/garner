@@ -1,6 +1,6 @@
 # sumptuous
 
-sumptuous; **sumptuary**. These words have almost opposite senses. *Sumptuous* = excessively luxurious; made or produced at great cost <a sumptuous feast>. *Sumptuary* = relating to or designed to regulate expenditures <sumptuary regulations>.
+sumptuous; **sumptuary**. These words have almost opposite senses. *Sumptuous* = excessively luxurious; made or produced at great cost \<a sumptuous feast\>. *Sumptuary* = relating to or designed to regulate expenditures \<sumptuary regulations\>.
 
 *Sumptuous* is sometimes misspelled *\*sumptious*, perhaps under the influence of *scrumptious*—e.g.:
 

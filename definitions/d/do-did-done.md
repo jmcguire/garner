@@ -1,4 +1,4 @@
-# do > did > done
+# do \> did \> done
 
-do > did > done. So inflected. See irregular verbs.
+do \> did \> done. So inflected. See irregular verbs.
 

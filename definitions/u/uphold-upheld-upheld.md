@@ -1,4 +1,4 @@
-# uphold > upheld > upheld
+# uphold \> upheld \> upheld
 
-uphold > upheld > upheld. So inflected. See irregular verbs.
+uphold \> upheld \> upheld. So inflected. See irregular verbs.
 

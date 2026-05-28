@@ -12,7 +12,7 @@ As for the first question, *each* traditionally takes a singular verb, and the b
 
  - "*Each* of the finalists *have* \[read *has*\] already been guaranteed $5,000 for the nonprofit of their choice." Linda Charlton, "There's a Lot Going on at B B Brown's Gardens," *Daily Commercial* (Leesburg, Fla.), 27 Aug. 2015, at N23. (On the use of *their* in that sentence, see concord (b).)
 
-The exception occurs when *each* acts in apposition to a plural subject but does not constitute the subject itself <they each have a dollar>. When that is so, *each* functions adverbially and the verb should be plural—e.g.:
+The exception occurs when *each* acts in apposition to a plural subject but does not constitute the subject itself \<they each have a dollar\>. When that is so, *each* functions adverbially and the verb should be plural—e.g.:
 
  - "JR's four Tokyo commuter lines *each has* its own color." Peter McGill, *The American Express Pocket Guide to Tokyo* 13 (1988). (Two possible revisions: \[1\] *JR's four Tokyo commuter lines each have their own color.* \[2\] *Each of JR's four Tokyo commuter lines has its own color.*)
 
@@ -22,10 +22,10 @@ As for the second question, pronouns having *each* as an antecedent are traditio
 
 ## Language-Change Index
 
-1. *each* with a plural verb <each have chores to do>: Stage 2
+1. *each* with a plural verb \<each have chores to do\>: Stage 2
  - Current ratio in print (*each of them is* vs. *\*each of them are*): 9:1
 
-2. *each* followed by a plural *their* or *they* <each did their share>: Stage 4
+2. *each* followed by a plural *their* or *they* \<each did their share\>: Stage 4
 
 3. *they each have*: Stage 5
 

@@ -1,6 +1,6 @@
 # liaise
 
-liaise, v.i., a back-formation from *liaison*, means "to establish liaison" or "to act as a liaison officer" <diplomats who liaise with Soviet officials>. First used in the 1920s, this word is still stigmatized in some quarters as being cant or jargon. It is pronounced /lee-**ayz**/. The word is more common in BrE than in AmE—e.g.:
+liaise, v.i., a back-formation from *liaison*, means "to establish liaison" or "to act as a liaison officer" \<diplomats who liaise with Soviet officials\>. First used in the 1920s, this word is still stigmatized in some quarters as being cant or jargon. It is pronounced /lee-**ayz**/. The word is more common in BrE than in AmE—e.g.:
 
  - "The FA's marketing and media team are here in force, *liaising* with sponsors such as Nationwide and Umbro." Richard Williams, "Team England Thriving on an Army of Helpers," *Guardian*, 14 June 2002, at 6.
 

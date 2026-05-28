@@ -1,6 +1,6 @@
-# simulcast > simulcast > simulcast
+# simulcast \> simulcast \> simulcast
 
-simulcast > simulcast > simulcast. So inflected. *\*Simulcasted* is a frequent error—e.g.:
+simulcast \> simulcast \> simulcast. So inflected. *\*Simulcasted* is a frequent error—e.g.:
 
  - "TNT . . . actually produced the game broadcast that Channel 56 *simulcasted* \[read *simulcast*\]." Howard Manly, "Ratings Points, Few for Style," *Boston Globe*, 16 Sept. 1997, at C7.
 

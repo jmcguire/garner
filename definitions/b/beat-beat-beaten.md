@@ -1,6 +1,6 @@
-# beat > beat > beaten
+# beat \> beat \> beaten
 
-beat > beat > beaten. So inflected. The archaic past participle *beat* persists only in the casualisms *I'm beat* (= I'm exhausted) and *can't be beat* (= is superb), and (vestigially) in the word *deadbeat*.
+beat \> beat \> beaten. So inflected. The archaic past participle *beat* persists only in the casualisms *I'm beat* (= I'm exhausted) and *can't be beat* (= is superb), and (vestigially) in the word *deadbeat*.
 
 In dialect, *beat* is a frequent past participle, and it sometimes creeps into otherwise highbrow prose as a casualism—e.g.: "He gives other reasons for questioning the idea that Kennedy could have *beat* \[read *beaten*\] Richard Nixon in 1968." Garry Wills, "Waiting for Bobby," *N.Y. Rev. of Books*, 10 Feb. 2000, at 18.
 

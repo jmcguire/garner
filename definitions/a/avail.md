@@ -2,7 +2,7 @@
 
 avail.
 
-**A. As a Verb.** *Avail* = (1) to get the benefit of, make use of <to avail oneself of the opportunity>; or (2) to be of advantage or utility <the attempts to rectify the problem availed no one>.
+**A. As a Verb.** *Avail* = (1) to get the benefit of, make use of \<to avail oneself of the opportunity\>; or (2) to be of advantage or utility \<the attempts to rectify the problem availed no one\>.
 
 In sense 1, which is always reflexive, it's an error to use the passive voice—e.g.: "Where the special lump-sum averaging rule *is availed of*, there is no $20,000 exclusion allowed." Marshall L. Fineman, "New York State and City Income Tax Consequences of IRA and Pension Distributions," *CPA J.*, 1 June 1995, at 72. (A possible revision: *If the taxpayer uses the lump-sum averaging rule, no $20,000 exclusion is allowed*.)
 

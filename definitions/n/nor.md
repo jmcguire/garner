@@ -2,7 +2,7 @@
 
 nor.
 
-**A. Beginning a Sentence.** *Nor*, like *neither*, may begin a sentence. It must follow either an express negative or an idea that is negative in sense <This is not economical. Nor is it entirely satisfactory . . . >. E.g.:
+**A. Beginning a Sentence.** *Nor*, like *neither*, may begin a sentence. It must follow either an express negative or an idea that is negative in sense \<This is not economical. Nor is it entirely satisfactory . . . \>. E.g.:
 
  - "The uttering of a word is not a consequence of the uttering of a noise, whether physical or otherwise. *Nor* is the uttering of words with a certain meaning a consequence of uttering the words." J.L. Austin, *How to Do Things with Words* 114 (1965).
 

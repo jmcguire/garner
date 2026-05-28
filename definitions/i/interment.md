@@ -1,6 +1,6 @@
 # interment
 
-interment; **internment**; **inurnment**. *Interment* = burial <interment will follow the funeral service>. *Internment* = detention, esp. of aliens in wartime <the internment of Japanese Americans during World War II>.
+interment; **internment**; **inurnment**. *Interment* = burial \<interment will follow the funeral service\>. *Internment* = detention, esp. of aliens in wartime \<the internment of Japanese Americans during World War II\>.
 
 *Interment* is sometimes, especially in obituaries, confounded with *internment*—e.g.:
 

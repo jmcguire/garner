@@ -1,6 +1,6 @@
 # inciteful
 
-inciteful; \***incitive**; **\*incitative**; **\*incitatory**; **incitant**. What is the adjective meaning "tending to incite"? Most American dictionaries don't list one, and the *OED* merely records sparse and ancient examples of *\*incitive*, *\*incitative*, and *\*incitatory*—all of which should today be considered needless variants of *inciteful*. This word is a legal neologism that first appeared in mid-20th-century AmE <inciteful speech>. Today it is fairly common even outside law—e.g.:
+inciteful; \***incitive**; **\*incitative**; **\*incitatory**; **incitant**. What is the adjective meaning "tending to incite"? Most American dictionaries don't list one, and the *OED* merely records sparse and ancient examples of *\*incitive*, *\*incitative*, and *\*incitatory*—all of which should today be considered needless variants of *inciteful*. This word is a legal neologism that first appeared in mid-20th-century AmE \<inciteful speech\>. Today it is fairly common even outside law—e.g.:
 
  - "He is not going to be dragged into any warfare with Reggie Miller, the undisputed king of the *inciteful* comment. But just because Latrell Sprewell won't engage in verbal jousting does not mean he will in any way back down." Paul Schwartz, "Spree–Reggie War Brewing," *N.Y. Post*, 25 May 2000, at 92.
 

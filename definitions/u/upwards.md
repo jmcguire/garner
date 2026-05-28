@@ -8,5 +8,5 @@ upward(s). Although *upward* has been the predominant adverb and adjective in Am
 
 See directional words (a).
 
-In BrE, *upwards* is normally the adverb <he painted upwards> and *upward* the adjective <an upward trend in prices>.
+In BrE, *upwards* is normally the adverb \<he painted upwards\> and *upward* the adjective \<an upward trend in prices\>.
 

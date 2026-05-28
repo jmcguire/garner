@@ -8,7 +8,7 @@ shoo-in (= a candidate or competitor who is sure to win), a casualism deriving f
 
  - "This move leaves James Hoffa, son of the late You-Know-Who, as a *shoe-in* \[read *shoo-in*\] for the upcoming vote." "The Week That Was," *Post-Standard* (Syracuse), 22 Nov. 1997, at A6.
 
-As a verb, *shoo* means "to encourage or force to move in a certain direction" <to shoo the children away> <to shoo the cattle into the hold>.
+As a verb, *shoo* means "to encourage or force to move in a certain direction" \<to shoo the children away\> \<to shoo the cattle into the hold\>.
 
 ## Language-Change Index
 

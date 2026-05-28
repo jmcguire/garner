@@ -2,7 +2,7 @@
 
 Estranged Siblings. The English language has several sets of cognate noun–adjective pairs that have diverged radically in meaning. Words in this category don't simply fall under the rubric of differentiation, which involves two or three terms in the same part of speech. The estranged-sibling category typically involves a corresponding noun–adjective pair that, despite their etymological relationship in Modern English, have gone separate semantic ways. Their predominant meanings are thought of as dissimilar:
 
- - *atrocity* (= a horrific crime) vs. *atrocious* (= really bad, esp. as a matter of taste) <an atrocious pun>.
+ - *atrocity* (= a horrific crime) vs. *atrocious* (= really bad, esp. as a matter of taste) \<an atrocious pun\>.
 
  - *awe* (= a feeling of great respect) vs. *awful* (= very bad or unpleasant).
 

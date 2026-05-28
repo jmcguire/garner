@@ -1,6 +1,6 @@
-# shake > shook > shaken
+# shake \> shook \> shaken
 
-shake > shook > shaken. So inflected. Occasionally *shook* appears erroneously as the past-participial form—e.g.:
+shake \> shook \> shaken. So inflected. Occasionally *shook* appears erroneously as the past-participial form—e.g.:
 
  - "Exercise rider Kelly Rycroft was *shook* \[read *shaken*\] up Wednesday morning when a horse he was pulling up was struck from behind by a bolting horse." Dennis Feser & Jan Alta, "Astro Force Renew Rivalry in Richmond Stakes," *Vancouver Sun*, 26 Apr. 1996, at D3.
 
@@ -8,7 +8,7 @@ shake > shook > shaken. So inflected. Occasionally *shook* appears erroneously a
 
  - "The culture was *shook* \[read *shaken*\] at 200 rpm overnight at 37°C and was very turbid the next morning." Joshua Hampton Hunter, *Biochemical Analysis of the Mycobacterium Tuberculosis Thymidylate Synthases* 127 (2008).
 
-Concededly, though, *shook* is slang for "shocked, scared, or embarrassed" <I was shook by his post>. This usage isn't used with *up*.
+Concededly, though, *shook* is slang for "shocked, scared, or embarrassed" \<I was shook by his post\>. This usage isn't used with *up*.
 
 *\*Shaked* is sometimes misused as a past tense (rarely as a past participle)—e.g.:
 

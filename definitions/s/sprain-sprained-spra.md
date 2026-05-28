@@ -1,6 +1,6 @@
-# sprain > sprained > sprained
+# sprain \> sprained \> sprained
 
-sprain > sprained > sprained. So inflected. An erroneous *sprang* sometimes springs up—e.g.:
+sprain \> sprained \> sprained. So inflected. An erroneous *sprang* sometimes springs up—e.g.:
 
  - "A Web site has been created on the Internet for people to send quick get-well wishes to Kerri Strug, who *sprang* \[read *sprained*\] her ankle Tuesday night." *Times-Picayune* (New Orleans), 25 July 1996, at A1 (photo caption).
 

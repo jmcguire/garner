@@ -12,7 +12,7 @@ Whoever misuses *literati* as a singular is indisputably not a *litterateur*—e
 
 See **litterateur**.
 
-Some writers ill-advisedly use *literati* as a mass noun and match it with a singular verb, as if it were equivalent to a word like *bourgeoisie* <the literati holds these ideas dear>.
+Some writers ill-advisedly use *literati* as a mass noun and match it with a singular verb, as if it were equivalent to a word like *bourgeoisie* \<the literati holds these ideas dear\>.
 
 ## Language-Change Index
 

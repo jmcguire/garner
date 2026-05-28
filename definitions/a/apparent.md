@@ -1,6 +1,6 @@
 # apparent
 
-apparent = (1) seeming <the apparent motion of the planets>; or (2) obvious <the problems are quite apparent>. Sense 2 is usual after a be-verb.
+apparent = (1) seeming \<the apparent motion of the planets\>; or (2) obvious \<the problems are quite apparent\>. Sense 2 is usual after a be-verb.
 
 In sense 1, the word is often misapplied to fatalities. What happens is that the adverb *apparently* gets morphed into an adjective and paired with the wrong word (a noun) when logically it should modify a verb. For example, a person may die "*apparently* of a heart attack," but one doesn't die "of an *apparent* heart attack." Yet variations on this illogic are legion—e.g.:
 

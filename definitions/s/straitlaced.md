@@ -6,7 +6,7 @@ straitlaced (= rigidly narrow in moral matters; prudish) referred originally, in
 
  - "Perhaps this city is just too *straightlaced* \[read *straitlaced*\] to learn how bikes and cars can coexist." Philip Lerman, "Get It in Gear, Washington\!," *Wash. Post*, 3 Aug. 1997, at C1.
 
-Once hyphenated in AmE, the term has been solid since the late 1970s. In BrE, the term is still predominantly hyphenated <strait-laced>.
+Once hyphenated in AmE, the term has been solid since the late 1970s. In BrE, the term is still predominantly hyphenated \<strait-laced\>.
 
 ## Language-Change Index
 

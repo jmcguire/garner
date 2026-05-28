@@ -1,6 +1,6 @@
 # douse
 
-douse; **dowse**. These words are best kept separate. To *douse* /dows/ is to soak with liquid, as by immersing or drenching <she immediately doused the flame with water>. To *dowse* /dowz/ is to try to find something underground by "divining" for it, as with a divining rod that is supposed to help in locating water, oil, or buried treasure <with nothing more than a twig, they went dowsing for gold>.
+douse; **dowse**. These words are best kept separate. To *douse* /dows/ is to soak with liquid, as by immersing or drenching \<she immediately doused the flame with water\>. To *dowse* /dowz/ is to try to find something underground by "divining" for it, as with a divining rod that is supposed to help in locating water, oil, or buried treasure \<with nothing more than a twig, they went dowsing for gold\>.
 
 *Douse* is sometimes misused for *dowse*—e.g.: "She walks over to a tree that stands at the edge of one circle of stones, picks up a stick that lies nearby, holds it out toward the circle like a *dousing* \[read *dowsing*\] rod." Rick Wilber, "Scotland's Ancient Stones Teach Students," *Tampa Trib.*, 17 Mar. 1996, Travel §, at 1.
 

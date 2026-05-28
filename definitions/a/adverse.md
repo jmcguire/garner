@@ -1,6 +1,6 @@
 # adverse
 
-adverse; **averse**. To be *adverse to* something is to be turned in opposition against it <Thailand was adverse to Japan during most of World War II>; the phrase usually refers to things, not people. To be *averse to* something is to have feelings against it <averse to risk>; the more common of the two phrases, *averse to* usually describes a person's attitude. Both words may take the preposition *to*, but *averse* also takes *from*.
+adverse; **averse**. To be *adverse to* something is to be turned in opposition against it \<Thailand was adverse to Japan during most of World War II\>; the phrase usually refers to things, not people. To be *averse to* something is to have feelings against it \<averse to risk\>; the more common of the two phrases, *averse to* usually describes a person's attitude. Both words may take the preposition *to*, but *averse* also takes *from*.
 
 Each word is occasionally misused for the other—e.g.:
 

@@ -2,7 +2,7 @@
 
 die, v.i.
 
-**A. Preposition with.** *Die of* (= to die as a result of \[a disease or ailment\]) is the standard idiom. *Die from* is also common, especially when the death results from physical trauma <died from injuries received in a traffic accident>. *Die with* is nonstandard—e.g.: "And I felt them two years ago, holding me up and keeping me strong at the memorial service after his dad *died with* \[read *died of*\] cancer." Sharon Randall, "Memories," *Topeka Capital-J.*, 19 Sept. 2000, at C1.
+**A. Preposition with.** *Die of* (= to die as a result of \[a disease or ailment\]) is the standard idiom. *Die from* is also common, especially when the death results from physical trauma \<died from injuries received in a traffic accident\>. *Die with* is nonstandard—e.g.: "And I felt them two years ago, holding me up and keeping me strong at the memorial service after his dad *died with* \[read *died of*\] cancer." Sharon Randall, "Memories," *Topeka Capital-J.*, 19 Sept. 2000, at C1.
 
 Even so, *die with* *AIDS* is not uncommon. One doesn't die of AIDS; it weakens the immune system so much that you die of something else. Yet *died of AIDS* is far more common in print than *died with AIDS.*
 

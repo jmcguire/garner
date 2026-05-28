@@ -48,9 +48,9 @@ Anyone who sounds the *h* in words of the type here discussed should avoid prete
 2. *\*an habitual* for *a habitual*: Stage 3
  - Current ratio in print (*a habitual* vs. *\*an habitual*): 2:1
 
-**B. In Distributive Senses.** *A*, in the distributive sense <ten hours a day>, has traditionally been considered preferable to *per*, which originated in commercialese and legalese. But *per* has muscled its way into idiomatic English in phrases such as *60 miles per hour*, *one golf cart per couple*, and *five books per student*. Although *an* could be substituted for *per* in the first of those phrases, *a* wouldn't work well in the second or third.
+**B. In Distributive Senses.** *A*, in the distributive sense \<ten hours a day\>, has traditionally been considered preferable to *per*, which originated in commercialese and legalese. But *per* has muscled its way into idiomatic English in phrases such as *60 miles per hour*, *one golf cart per couple*, and *five books per student*. Although *an* could be substituted for *per* in the first of those phrases, *a* wouldn't work well in the second or third.
 
 When the construction requires a phrasal adjective, *per* is the only idiomatic word—e.g.: "Our *per-unit* cost is less than $1,000."/"The *$50-per-parent* fee seems unreasonably high."
 
-**C. Pronunciation.** The indefinite article is ordinarily pronounced /ә/—not /ay/. The latter pronunciation is appropriate only in cases of emphasis <I didn't say "clubs"; I said "*a* club"> and for the name of the letter. But /ay/ is nearly ubiquitous among broadcasters, "who have been taught—and for good reason—to avoid filling pauses in their speech with *uh* or *um*. Thus, if they happen to pause on the article *a* when pronouncing it UH, they will appear to have committed this cardinal sin." *BBBM* at 2.
+**C. Pronunciation.** The indefinite article is ordinarily pronounced /ә/—not /ay/. The latter pronunciation is appropriate only in cases of emphasis \<I didn't say "clubs"; I said "*a* club"\> and for the name of the letter. But /ay/ is nearly ubiquitous among broadcasters, "who have been taught—and for good reason—to avoid filling pauses in their speech with *uh* or *um*. Thus, if they happen to pause on the article *a* when pronouncing it UH, they will appear to have committed this cardinal sin." *BBBM* at 2.
 

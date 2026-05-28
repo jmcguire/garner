@@ -1,6 +1,6 @@
 # \*impactful
 
-\*impactful, adj., originated as jargon dating from the mid-1960s. Unlike other adjectives ending in *-ful*, it cannot be idiomatically rendered in the phrase *full of* \[\+ quality\], as in *beautiful* (= full of beauty), *regretful* (= full of regret), *scornful* (= full of scorn), and *spiteful* (= full of spite). If *impact* truly denotes a quality, it does so primarily through association with its newfangled uses as a verb <it impacts us all> and as an adjective <the mechanic's tool known as an impact driver>.
+\*impactful, adj., originated as jargon dating from the mid-1960s. Unlike other adjectives ending in *-ful*, it cannot be idiomatically rendered in the phrase *full of* \[\+ quality\], as in *beautiful* (= full of beauty), *regretful* (= full of regret), *scornful* (= full of scorn), and *spiteful* (= full of spite). If *impact* truly denotes a quality, it does so primarily through association with its newfangled uses as a verb \<it impacts us all\> and as an adjective \<the mechanic's tool known as an impact driver\>.
 
 Whatever its future may be, *\*impactful* is, for now, a word to be scorned. Among its established replacements are *effective*, *influential*, and *powerful*—e.g.:
 

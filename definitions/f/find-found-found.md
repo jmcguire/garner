@@ -1,4 +1,4 @@
-# find > found > found
+# find \> found \> found
 
-find > found > found. So inflected. See irregular verbs.
+find \> found \> found. So inflected. See irregular verbs.
 

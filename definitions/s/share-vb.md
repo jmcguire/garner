@@ -2,7 +2,7 @@
 
 share, vb.
 
-**A. Generally.** As a verb, *share* (= \[1\] to divide into parts for the purpose of giving one or more parts to others <to share a pie>; \[2\] to receive, possess, or occupy with others <to share a home>; or \[3\] to have in common with; to experience along with others <to share adventures along the way>) has traditionally borne the meanings just given.
+**A. Generally.** As a verb, *share* (= \[1\] to divide into parts for the purpose of giving one or more parts to others \<to share a pie\>; \[2\] to receive, possess, or occupy with others \<to share a home\>; or \[3\] to have in common with; to experience along with others \<to share adventures along the way\>) has traditionally borne the meanings just given.
 
 In the 1930s, the Moral Rearmament movement began the practice of using *share* in the sense "to confess one's sins openly" or "to tell others about one's spiritual experiences." Although the *OED* doesn't record any extension beyond this one, the verb has in fact come to be used, especially in AmE, as an equivalent of *tell* or *say* or *relate*. By the late 20th century, it was coming to the attention of lexicographers and usage commentators—e.g.:
 

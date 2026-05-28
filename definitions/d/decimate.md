@@ -28,7 +28,7 @@ In fact, though, the word might justifiably be considered a skunked term. Whethe
 
 2. *decimate* for complete destruction: Stage 3
 
-3. *decimate* for the figurative destruction of a single thing or person <she was decimated by the news>: Stage 4
+3. *decimate* for the figurative destruction of a single thing or person \<she was decimated by the news\>: Stage 4
 
 4. *decimate* for *hamper* or *plague*: Stage 3
 

@@ -8,7 +8,7 @@ predominate, vb.; **dominate**. *Predominate* is traditionally an intransitive v
 
  - "Today, trucks, boots, cowboy leather jackets and Mexican rock *predominate the scene* \[read *predominate*\] on a Saturday night at the *zocalo* (main plaza), ‘machismo' vibrates in the air, stories of flashy money mingle with drug trafficking." Kirsten Appendini, " ‘From Where Have All the Flowers Come?' " in *Women Working the NAFTA Food Chain* 128, 135 (Deborah Barndt ed., 2004).
 
-*Dominate*, by contrast, can be either transitive <the challenger dominated the champ from the opening bell> or intransitive <athletes dominate over scholars in the school's social hierarchy>.
+*Dominate*, by contrast, can be either transitive \<the challenger dominated the champ from the opening bell\> or intransitive \<athletes dominate over scholars in the school's social hierarchy\>.
 
 ## Language-Change Index
 

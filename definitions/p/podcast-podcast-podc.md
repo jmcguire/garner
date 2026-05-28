@@ -1,4 +1,4 @@
-# podcast > podcast > podcast
+# podcast \> podcast \> podcast
 
-podcast > podcast > podcast. So inflected. Avoid *\*podcasted*. See -cast.
+podcast \> podcast \> podcast. So inflected. Avoid *\*podcasted*. See -cast.
 

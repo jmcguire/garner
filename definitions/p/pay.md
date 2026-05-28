@@ -2,7 +2,7 @@
 
 pay.
 
-**A. Inflected Forms: *pay* > *paid* > *paid*.** *\*Payed* is a startling error for *paid*—e.g.:
+**A. Inflected Forms: *pay* \> *paid* \> *paid*.** *\*Payed* is a startling error for *paid*—e.g.:
 
  - "He got charged with harassment after a supermarket fistfight, a violation, and *payed* \[read *paid*\] a $250 fine." Al Baker, "Bounty Hunter Tom Evangelista Comes Armed with a Big Gun, Lots of Patience, and a Plan to Get His Man," *Newsday* (N.Y.), 9 Nov. 1997, at G8.
 

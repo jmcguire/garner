@@ -4,7 +4,7 @@ champ; **chomp**. The original term for what horses do to their bits is *champ*.
 
 The idiom *champing at the bit* evokes the image of an impatient horse, especially one eager for a race to start. In contemporary print, *champing at the bit* predominates only in BrE. Metaphorically, either phrase must suggest a kind of friskiness that is absent in this literal specimen: "Visitors tie their horses and the animals peacefully *champ* \[read *chew*?\] their bits." "Forging a Career Around Horses," *Tulsa World*, 30 May 1999, Bus. §, at 1.
 
-Otherwise, the two verbs have undergone some degree of differentiation. What one *champs* is not actually eaten, but just bitten or gnawed, nervously. But to *chomp* something is to take a bite out of it and usually to consume it: in dialect, *chomp* is colloquially accompanied by the adverb *down* <chompin' down catfish>.
+Otherwise, the two verbs have undergone some degree of differentiation. What one *champs* is not actually eaten, but just bitten or gnawed, nervously. But to *chomp* something is to take a bite out of it and usually to consume it: in dialect, *chomp* is colloquially accompanied by the adverb *down* \<chompin' down catfish\>.
 
 ## Language-Change Index
 

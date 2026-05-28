@@ -2,7 +2,7 @@
 
 economic.
 
-**A. And *economical.*** *Economical* means "thrifty" or, in the current jargon, "cost-effective" <it's not economical to have so many workers with duplicative responsibilities>. *Economic* should be used for every other meaning possible for the words, almost always in reference to the study of economics <economic growth>. Hence we have *economic studies* and *economic interest* but *economical shopping*. See -ic/-ical. Cf. **uneconomical**.
+**A. And *economical.*** *Economical* means "thrifty" or, in the current jargon, "cost-effective" \<it's not economical to have so many workers with duplicative responsibilities\>. *Economic* should be used for every other meaning possible for the words, almost always in reference to the study of economics \<economic growth\>. Hence we have *economic studies* and *economic interest* but *economical shopping*. See -ic/-ical. Cf. **uneconomical**.
 
 **B. And *financial*.** *Economic* is increasingly often misused for *financial*. When the reference is to pecuniary affairs of a household or business, the word should be *financial*, not *economic* (which refers to larger-scale finances). There is an irony in this usage, since *economic* comes from a Greek word meaning "management of the household." E.g.: "The firm financed a string of big-budget movies that perpetually left it on the brink of *economic* \[read *financial*\] ruin but managed to come up with a big hit often enough to stay afloat." Steve Pond, "Beating the Financial Terminator?," *Wash. Post*, 17 Oct. 1995, at C7.
 

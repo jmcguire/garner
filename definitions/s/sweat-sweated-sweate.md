@@ -1,6 +1,6 @@
-# sweat > sweated > sweated
+# sweat \> sweated \> sweated
 
-sweat > sweated > sweated. So inflected. Although *sweat* is a variant past tense and past participle, *sweated* has been the standard form since the early 20th century in AmE and BrE alike—e.g.:
+sweat \> sweated \> sweated. So inflected. Although *sweat* is a variant past tense and past participle, *sweated* has been the standard form since the early 20th century in AmE and BrE alike—e.g.:
 
  - "He was dressed in white cowboy hat and boots, and a pearl-gray western jacket that he *sweat* \[read *sweated*\] through." Daniel Gewertz, "Legendary Dylan Rocks 'n' Rolls," *Boston Herald*, 14 Apr. 1997, at 31.
 
@@ -8,9 +8,9 @@ sweat > sweated > sweated. So inflected. Although *sweat* is a variant past tens
 
  - "His hands *sweated* if he found himself on the way to a new place on his own, a place that was to mean something to him, a place where he had to prove himself. They had *sweated* last autumn in the train to Gommern, they were sweating again today." Julia Franck, *Back to Back* 217 (2013).
 
-Before 1910, *sweat* was an irregular verb (*sweat* > *sweat* > *sweat*); since that time, it has become regular in AmE and BrE alike.
+Before 1910, *sweat* was an irregular verb (*sweat* \> *sweat* \> *sweat*); since that time, it has become regular in AmE and BrE alike.
 
-In quasi-figurative phrases <we really sweated over that one\!> <they sweated it out>, the only possible past forms are *sweated*—e.g.:
+In quasi-figurative phrases \<we really sweated over that one\!\> \<they sweated it out\>, the only possible past forms are *sweated*—e.g.:
 
  - "Remington Park fans have *sweated* their way through another summer quarter horse meeting." Bob Forrest, "See Spot Run During Final Remington Week," *Tulsa Trib. & Tulsa World*, 6 July 1996, at B3.
 

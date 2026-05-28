@@ -4,7 +4,7 @@ slings and arrows (= serious difficulties or setbacks) is a phrase from Hamlet's
 
 By the late 1700s, some writers had mistaken the allusive phrase and begun misrendering it as \**stings and arrows*. Actually, they may have been dealing with versions of Shakespeare's plays in which editors had changed *sling* to *sting*. Only a few did that. The variorum edition of *Hamlet* records a critic named Walker who asserted: "*Stings* is undoubtedly the true reading." *A New Variorum Edition of Shakespeare: Hamlet* 207 (H.H. Furness ed., 1918). But this view was never widely adopted. By 1900, others who mistakenly thought the phrase referred entirely to bows and arrows had begun writing \**strings and arrows*. Nevertheless, these confusions have never rivaled the original phrasing.
 
-By the 1960s, the phrase *slings and arrows* had taken on a new sense in theatrical, literary, musical, and artistic contexts, referring to acerbic attacks or bad reviews <she has endured the slings and arrows of dyspeptic critics>.
+By the 1960s, the phrase *slings and arrows* had taken on a new sense in theatrical, literary, musical, and artistic contexts, referring to acerbic attacks or bad reviews \<she has endured the slings and arrows of dyspeptic critics\>.
 
  - Current ratio in print (*slings and arrows* vs. \**stings and arrows* vs. \**strings and arrows*): 221:2.2:1
 

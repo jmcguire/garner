@@ -1,4 +1,4 @@
-# seek > sought > sought
+# seek \> sought \> sought
 
-seek > sought > sought. So inflected. See irregular verbs.
+seek \> sought \> sought. So inflected. See irregular verbs.
 

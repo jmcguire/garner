@@ -4,5 +4,5 @@ hither; **thither**; **whither**. All three are archaisms in decline, *hither* (
 
 *Thither* (= there; to that place) is even more strikingly archaic, but it sometimes appears with *hither* for an arguably pleasant touch of humor and euphony—e.g.: "We have forfeited this joy and peace for the tinsel and glitter, the rushing *hither and thither*." Kathy Hogan, "The True Meaning of Christmas," *Indianapolis News*, 11 Dec. 1996, at A13.
 
-*Whither* (= where; to what place) is the most old-fashioned of all <at Chelsea Square, whither we had gone>. It has virtually no place in modern writing. For a misusage, see **wither**.
+*Whither* (= where; to what place) is the most old-fashioned of all \<at Chelsea Square, whither we had gone\>. It has virtually no place in modern writing. For a misusage, see **wither**.
 

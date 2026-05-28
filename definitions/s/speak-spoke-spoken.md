@@ -1,4 +1,4 @@
-# speak > spoke > spoken
+# speak \> spoke \> spoken
 
-speak > spoke > spoken. So inflected. See irregular verbs.
+speak \> spoke \> spoken. So inflected. See irregular verbs.
 

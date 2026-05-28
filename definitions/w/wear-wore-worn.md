@@ -1,6 +1,6 @@
-# wear > wore > worn
+# wear \> wore \> worn
 
-wear > wore > worn. So inflected—since the mid-1700s. The simple-past *wore* is sometimes mistakenly used as a past participle—e.g.:
+wear \> wore \> worn. So inflected—since the mid-1700s. The simple-past *wore* is sometimes mistakenly used as a past participle—e.g.:
 
  - "And Imler turned out to be a pleasant surprise, using his quickness to create shots and gaining confidence at the point as the season has *wore* \[read *worn*\] on." John C. Cotey, "The 2 Faces of Pirates Series," *St. Petersburg Times* (Fla.), 11 Dec. 1998, at 4.
 

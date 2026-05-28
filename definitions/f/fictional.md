@@ -8,7 +8,7 @@ fictional; **fictitious**; **fictive**; \***fictionary**. Although these forms o
 
 *Fictitious* = (1) false, counterfeit; or (2) imaginary. Sense 1: "His 1993 Nissan Sentra had a *fictitious* license plate, said Phillip Roland, a spokesman for the Las Vegas Metropolitan Police." Steve Newborn, "Fugitive Arrested in Vegas," *Tampa Trib.*, 13 Dec. 1996, Polk §, at 4. Sense 2: "Garrison Keillor, host of radio's ‘A Prairie Home Companion,' touts duct tape as the ‘old reliable' for everything from repairing Lamborghinis to performing heart surgery, in *fictitious* ads by the equally *fictitious* American Duct Tape Council." "Duct Tape Never Gets a Bad Wrap," *Chicago Trib.*, 21 Oct. 2002, Tempo §, at 1. See **factitious**.
 
-*Fictive* = having the capacity of imaginative creation <fictive talent>. Apart from this narrow sense, *fictive* is a needless variant of both *fictional* and *fictitious*—e.g.:
+*Fictive* = having the capacity of imaginative creation \<fictive talent\>. Apart from this narrow sense, *fictive* is a needless variant of both *fictional* and *fictitious*—e.g.:
 
  - "But when an earthly reality hovers too near a *fictive* \[read *fictional*\] one, it sends a shadow onto the landscape that can dominate, even supersede the imagination." Gail Caldwell, "The Munro Doctrine," *Boston Globe*, 3 Nov. 1996, at D15.
 

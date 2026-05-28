@@ -4,5 +4,5 @@ commence; **begin; start**. Except in describing formal ceremonies or exercises,
 
 Stylists have long condemned *commence* if it introduces an infinitive, *begin* being preferable—e.g.: "She trekked into the wilds of Africa and *commenced to live among and study* \[read *began to live among and to study* or *began living among and studying*\] mankind's closest relations." Michael Kilian, "Grunt Work," *Chicago Trib.*, 3 Sept. 1995, at C1.
 
-Definite nuances exist with *start* as opposed to *begin* or *commence.* Usually used of physical movement, *start* suggests an abruptness not present in the other two words <gentlemen, start your engines>. See **institute**.
+Definite nuances exist with *start* as opposed to *begin* or *commence.* Usually used of physical movement, *start* suggests an abruptness not present in the other two words \<gentlemen, start your engines\>. See **institute**.
 

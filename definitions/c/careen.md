@@ -1,6 +1,6 @@
 # careen
 
-careen; **career**, vb. *Careen* = (1) v.i., to tip or tilt <the sailboat careened and then sank>; or (2) v.t., to cause to tip or tilt <they careened the ship on the beach to scrape the barnacles and caulk the seams>. *Career* = to move wildly at high speed. E.g.: "His car overturned yesterday after *careering* out of control across three lanes of the motorway." "M4 Driver Drowns," *Sunday Telegraph*, 11 Feb. 1990, at 2.
+careen; **career**, vb. *Careen* = (1) v.i., to tip or tilt \<the sailboat careened and then sank\>; or (2) v.t., to cause to tip or tilt \<they careened the ship on the beach to scrape the barnacles and caulk the seams\>. *Career* = to move wildly at high speed. E.g.: "His car overturned yesterday after *careering* out of control across three lanes of the motorway." "M4 Driver Drowns," *Sunday Telegraph*, 11 Feb. 1990, at 2.
 
 Since the early 20th century, AmE has made *careen* do the job of *career*, as by saying that a car *careened* down the street. On September 7, 1992, in a campaign speech in Wisconsin, President George H.W. Bush said that "product liability has *careened* out of control." Likewise: "Imagine yourself as Ridge Racer, *careening* in a rocket-powered car through an ever-changing, three-dimensional landscape." "Fight to the Finish," *Newsweek*, 12 Dec. 1994, at 56. In frequency of use in AmE, phrases such as *careened off the road* and *careened out of control* have no close rivals with *careering* counterparts. *Careening off course* is now standard.
 

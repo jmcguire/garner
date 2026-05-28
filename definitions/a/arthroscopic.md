@@ -6,7 +6,7 @@ arthroscopic; **orthoscopic**. *Arthroscopic* (= of, relating to, or involving s
 
  - "At the time, Isaac, as he was called by friends and family, had recently had *orthoscopic* \[read *arthroscopic*\] surgery on his knee and was using crutches to get around." Elizabeth Fitzsimons, "Death Becomes Lifesaving Cause," *San Diego Union-Trib.*, 2 May 2005, at B1.
 
-Just to confuse matters, though, *orthoscopic* is in fact a word that means "rendering a proportionate image" or "giving a flat, undistorted image" <modern TVs give an orthoscopic view>.
+Just to confuse matters, though, *orthoscopic* is in fact a word that means "rendering a proportionate image" or "giving a flat, undistorted image" \<modern TVs give an orthoscopic view\>.
 
 ## Language-Change Index
 

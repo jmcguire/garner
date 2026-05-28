@@ -2,7 +2,7 @@
 
 say, vb.
 
-**A. Inflected Forms: *say* > *said* > *said*.** See irregular verbs.
+**A. Inflected Forms: *say* \> *said* \> *said*.** See irregular verbs.
 
 **B. And *state*.** Whenever possible, use *say* rather than *state*. The latter typically sounds stilted. But there is a substantive as well as a tonal difference: *say* means "to tell; to relate," while *state* means "to set out (formally); to make a specific declaration." See **tell (b)**.
 

@@ -1,6 +1,6 @@
 # conductive
 
-conductive; **conducive**. *Conductive* describes a thing's ability to conduct energy <conductive wire> <heat-conductive>. *Conducive* describes the quality of promoting, contributing to, or helping to bring about some outcome <conducive to success> <conducive to growth>. *Conductive* is sometimes misused for *conducive*—e.g.:
+conductive; **conducive**. *Conductive* describes a thing's ability to conduct energy \<conductive wire\> \<heat-conductive\>. *Conducive* describes the quality of promoting, contributing to, or helping to bring about some outcome \<conducive to success\> \<conducive to growth\>. *Conductive* is sometimes misused for *conducive*—e.g.:
 
  - "The \[University of Michigan's\] witnesses emphasized repeatedly that . . . a diversity of viewpoints, experiences, interests, perspectives and backgrounds . . . creates an atmosphere most *conductive* \[read *conducive*\] to learning." Ward Connerly, "Q: Does Diversity in Higher Education Justify Racial Preferences?," *Insight Mag.*, 14 May 2001, at 40.
 

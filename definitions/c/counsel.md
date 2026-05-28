@@ -4,7 +4,7 @@ counsel.
 
 **A. Scope of the Noun.** In BrE, *counsel* is used only of barristers (litigators), whereas in AmE it is often used in reference to nonlitigating lawyers (the equivalent of English solicitors)—e.g., *general counsel*. See **lawyer**, **consul** & **council**.
 
-**B. Number.** The noun *counsel* may be either singular or plural. In practice it is usually indeterminate <right to counsel> or plural <all counsel were present>—e.g.:
+**B. Number.** The noun *counsel* may be either singular or plural. In practice it is usually indeterminate \<right to counsel\> or plural \<all counsel were present\>—e.g.:
 
  - " ‘I'm always hesitant to interfere with cases, especially where you have two *counsel* present.' " "A Conversation with Judge H. Terry Grimes," *Pa. Law Weekly*, 5 Dec. 1994, at 7.
 

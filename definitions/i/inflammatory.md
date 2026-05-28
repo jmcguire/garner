@@ -1,6 +1,6 @@
 # inflammatory
 
-inflammatory; **inflammable**. Surprisingly, *inflammable* (= combustible) is occasionally misused for *inflammatory* (= provocative of an angry or violent reaction). While both words are synonymous with *incendiary*, *inflammable* is always literal <the arsonist used an inflammable liquid to spread the fire>, *inflammatory* always figurative <the inflammatory rhetoric almost caused a riot>. It's a well-known distinction, but writers occasionally take a wrong turn halfway through spelling *inflammatory*—e.g.:
+inflammatory; **inflammable**. Surprisingly, *inflammable* (= combustible) is occasionally misused for *inflammatory* (= provocative of an angry or violent reaction). While both words are synonymous with *incendiary*, *inflammable* is always literal \<the arsonist used an inflammable liquid to spread the fire\>, *inflammatory* always figurative \<the inflammatory rhetoric almost caused a riot\>. It's a well-known distinction, but writers occasionally take a wrong turn halfway through spelling *inflammatory*—e.g.:
 
  - "Newman's a veteran; he knows better than to incite the opposition with such *inflammable* \[read *inflammatory*\] bulletin-board material." Mike Penner, "1987 Revisited? Braves Say No," *L.A. Times*, 25 Oct. 1991, at C1.
 

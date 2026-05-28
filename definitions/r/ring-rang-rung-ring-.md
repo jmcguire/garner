@@ -1,6 +1,6 @@
-# ring > rang > rung; ring > ringed > ringed
+# ring \> rang \> rung; ring \> ringed \> ringed
 
-ring > rang > rung; ring > ringed > ringed. Senses relating to sound take the irregular inflections *ring > rang > rung* <the telephone rang>. The rarer senses relating to encircling take the regular *-ed* inflections in the past tense and past participle <the enemy ringed the encampment>.
+ring \> rang \> rung; ring \> ringed \> ringed. Senses relating to sound take the irregular inflections *ring \> rang \> rung* \<the telephone rang\>. The rarer senses relating to encircling take the regular *-ed* inflections in the past tense and past participle \<the enemy ringed the encampment\>.
 
 The irregular past-participial *rung* is often misused as a simple-past verb—e.g.:
 

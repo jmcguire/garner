@@ -2,7 +2,7 @@
 
 allusion.
 
-**A. And *illusion*.** While an *allusion* is an indirect reference <literary allusion>, an *illusion* is a deception <optical illusion>. But some writers bungle the two—e.g.:
+**A. And *illusion*.** While an *allusion* is an indirect reference \<literary allusion\>, an *illusion* is a deception \<optical illusion\>. But some writers bungle the two—e.g.:
 
  - "Full of jokes, literary *illusions* \[read *allusions*\], fractured Shakespeare and physical comedy, it's a show that appeals to young and old." Nadine Goff, "‘Buck Mulligan' Has Something for Everyone," *Wis. State J.*, 18 Sept. 1995, at C5.
 

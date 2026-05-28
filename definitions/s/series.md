@@ -1,6 +1,6 @@
 # series
 
-series. Though serving as a plural when the need arises, *series* is ordinarily a singular <the series is quite popular>. But it is also a noun of multitude, so that phrases such as *a series of things* take a plural verb—e.g.:
+series. Though serving as a plural when the need arises, *series* is ordinarily a singular \<the series is quite popular\>. But it is also a noun of multitude, so that phrases such as *a series of things* take a plural verb—e.g.:
 
  - "There *have* been a *series of* such *incidents* as refugees from both sides have begun reconstructing houses." "Muslim Homes Explode in Serb Area," *Ariz. Republic & Phoenix Gaz.*, 11 Nov. 1996, at A17.
 

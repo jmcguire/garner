@@ -1,6 +1,6 @@
 # tortuous
 
-tortuous; **torturous**; **tortious**. *Tortuous* /**tor**-choo-әs/ = full of twists and turns <a tortuous path through the woods>. *Torturous* /**tor**-chәr-әs/ = of, characterized by, or involving torture <torturous abuse>. *Tortious* /**tor**-shәs/ = (1) of, relating to, or involving a civil wrong (i.e., a tort) for which a person can sue <tortious liability>; or (2) constituting a tort <a tortious act>. Two mistakes are fairly common—both involving *tortuous*.
+tortuous; **torturous**; **tortious**. *Tortuous* /**tor**-choo-әs/ = full of twists and turns \<a tortuous path through the woods\>. *Torturous* /**tor**-chәr-әs/ = of, characterized by, or involving torture \<torturous abuse\>. *Tortious* /**tor**-shәs/ = (1) of, relating to, or involving a civil wrong (i.e., a tort) for which a person can sue \<tortious liability\>; or (2) constituting a tort \<a tortious act\>. Two mistakes are fairly common—both involving *tortuous*.
 
 First, that word is occasionally misused for *torturous*—e.g.: "Dozens of deaf Mexican immigrants huddled around Spanish-speaking interpreters in Queens and, using Mexican and American sign language, vividly described their long and *tortuous* \[read *torturous*\] ordeal at the hands of the smuggling ring, which forced them to sell $1 trinkets on the subway from morning until night." "Deaf Immigrants Exploited Over 10-Year Period in City," *N.Y. Times*, 22 July 1997, at A2.
 

@@ -96,7 +96,7 @@ The following list of archaisms, with modern translations to the right, hints at
 | peradventure (see **maybe (b)**) | possibly, perhaps, maybe |
 | perchance (see **maybe (b)**) | possibly, perhaps, maybe |
 | plight one's troth | propose marriage |
-| pray <pray enter> <pray tell> | please |
+| pray \<pray enter\> \<pray tell\> | please |
 | presently (see **presently**) | in a moment |
 | prithee | please |
 | quondam (see **erstwhile** & **quondam**) | former, onetime |

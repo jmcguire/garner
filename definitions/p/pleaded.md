@@ -38,7 +38,7 @@ Still, *pleaded*, the strongly predominant form in both AmE and BrE, is always t
 
  - "As for incumbent Chris Collins, he *pleaded* guilty to two felonies, resigned from Congress, and was sentenced to prison." Margaret Sullivan, *Ghosting the News* 22 (2020).
 
-The spelling *\*plead* as a past tense (for *\*pled*) appeared in the 1700s, apparently on the analogy of *read* > *read.* (Cf. **lead**.) If one needed a dialectal past tense, though, *\*pled* is surely the better choice because it can't be mistaken as a present-tense verb—but better yet (of course) is *pleaded*. E.g.:
+The spelling *\*plead* as a past tense (for *\*pled*) appeared in the 1700s, apparently on the analogy of *read* \> *read.* (Cf. **lead**.) If one needed a dialectal past tense, though, *\*pled* is surely the better choice because it can't be mistaken as a present-tense verb—but better yet (of course) is *pleaded*. E.g.:
 
  - "Shaffer never complied with requests and in March he *plead* \[read *pleaded*\] no contest to 41 building and fire code violations at three complexes." Jody Kleinberg, "Sr. Landlord Fined $8,750 over Repairs," *Press Democrat* (Santa Rosa), 15 Oct. 1997, at B1.
 

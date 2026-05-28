@@ -2,7 +2,7 @@
 
 Adjectives .
 
-**A. Definition.** Adjectives constitute a large class of words (e.g., *big*, *foolish*, *good*), nearly all of which can be used either as attributive modifiers of nouns <big problem> <foolish people> <good dog> or as predicate complements <it was big> <they seemed foolish> <he's been good>. Although adjectives are often defined as words that describe, that overbroad assertion probably gives rise to misunderstandings like these:
+**A. Definition.** Adjectives constitute a large class of words (e.g., *big*, *foolish*, *good*), nearly all of which can be used either as attributive modifiers of nouns \<big problem\> \<foolish people\> \<good dog\> or as predicate complements \<it was big\> \<they seemed foolish\> \<he's been good\>. Although adjectives are often defined as words that describe, that overbroad assertion probably gives rise to misunderstandings like these:
 
  - " ‘Excellence' is *an adjective* \[read *a noun*\] that describes something which is of the highest quality." "Their Work Stands Out," *Barrister*, Summer 1989, at 5. (In that sentence, *describes* should probably be *denotes*, and *which is* should be deleted.)
 
@@ -69,7 +69,7 @@ Some consecutive adjectives present close questions—e.g.: "The *brief, unsigne
 
 For more on the punctuation of successive adjectives, see punctuation (d).
 
-**D. Proper Names as Adjectives.** When a proper name is used as an attributive modifier, the writer should capitalize only that portion used in attribution <a University of Florida student> <a John Birch Society member>.
+**D. Proper Names as Adjectives.** When a proper name is used as an attributive modifier, the writer should capitalize only that portion used in attribution \<a University of Florida student\> \<a John Birch Society member\>.
 
 Using a multiword place name as an attributive modifier should generally be resisted. But the practice is increasingly common. Although *California home* and *Austin jury* are perfectly acceptable, *Sacramento, California home* and *Austin, Texas jury* are not. To make matters worse, some writers place a second comma after the state (on the theory that the state is an appositive). Hence, using a city plus the state as an adjective disrupts the flow of the sentence—e.g.: "Farmland's president, Marc Goldman, sent out sleuths who traced the missing containers to an *Elizabeth, N.J., warehouse* he says is filled with discarded bottles of designer water." Edward Felsenthal, "Nobody's Crying Yet, but There Must Be Spilled Milk Somewhere," *Wall Street J.*, 20 June 1990, at B1. Such constructions contribute to noun plague, lessen readability, and bother literate readers. For more on this phenomenon, see functional shift (b).
 

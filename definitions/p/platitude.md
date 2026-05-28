@@ -1,6 +1,6 @@
 # platitude
 
-platitude; **plaudit**. A *platitude* is a cliché statement—especially one that is expressed as if it were fresh and insightful <his speech was full of platitudes such as "Keep your chin up\!">. A *plaudit* is an expression of praise or congratulation <as mayor, she won the plaudits of environmentalists and developers alike>.
+platitude; **plaudit**. A *platitude* is a cliché statement—especially one that is expressed as if it were fresh and insightful \<his speech was full of platitudes such as "Keep your chin up\!"\>. A *plaudit* is an expression of praise or congratulation \<as mayor, she won the plaudits of environmentalists and developers alike\>.
 
 David Broder, the Washington journalist, pointed out that Greg Gumbel of CBS blended the two in a comment about the Denver Broncos' quarterback, John Elway: "Elway is receiving all the *platitudes* \[read *plaudits*\] he deserves." See David S. Broder, "The Politics of So-So," *Wash. Post*, 20 Jan. 1999, at A27. This mistake sometimes crops up in print—e.g.:
 

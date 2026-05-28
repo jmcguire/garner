@@ -1,6 +1,6 @@
 # luxurious
 
-luxurious; **luxuriant**. Although these two words long ago underwent differentiation, they're still subject to word-swapping. *Luxurious* = characteristic of luxury <luxurious hotel>. *Luxuriant* = growing abundantly; lush <luxuriant foliage>. Cf. **spartan**.
+luxurious; **luxuriant**. Although these two words long ago underwent differentiation, they're still subject to word-swapping. *Luxurious* = characteristic of luxury \<luxurious hotel\>. *Luxuriant* = growing abundantly; lush \<luxuriant foliage\>. Cf. **spartan**.
 
 Each word is sometimes confused with the other. Most commonly, *luxurious* is wrongly used for *luxuriant*—e.g.:
 

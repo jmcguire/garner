@@ -1,6 +1,6 @@
 # behalf
 
-behalf. The phrases *in behalf of* and *on behalf of* have traditionally signified different things. *In behalf of* means "in the interest or for the benefit of" <he fought in behalf of a just man's reputation>; *on behalf of* means "as the agent or representative of" <on behalf of the garden club, I would like to thank our luncheon speaker> <she appeared on behalf of her client>. In current usage, the distinction is seldom followed; *on behalf of* is much more common in both senses. But stalwart stylists continue to distinguish the two.
+behalf. The phrases *in behalf of* and *on behalf of* have traditionally signified different things. *In behalf of* means "in the interest or for the benefit of" \<he fought in behalf of a just man's reputation\>; *on behalf of* means "as the agent or representative of" \<on behalf of the garden club, I would like to thank our luncheon speaker\> \<she appeared on behalf of her client\>. In current usage, the distinction is seldom followed; *on behalf of* is much more common in both senses. But stalwart stylists continue to distinguish the two.
 
 In the following passages, one phrase has been switched for the other:
 

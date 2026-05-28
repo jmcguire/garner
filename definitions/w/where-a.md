@@ -4,7 +4,7 @@ where.
 
 **A. *\*Where it's at.*** The phrase \**where it's at* and its variants have long set up parents' and teachers' classic grammatical correction: "Where's my lunchbox at?" "Between the *a* and the *t*." Besides the faux sin of ending a sentence with a preposition (see prepositions (b)), the *at* is truly redundant, adding nothing to "where it is" or "where is it?" The usage was long regarded as illiterate.
 
-But the rebellious 1960s saw the phrase *\*where it's at* reborn in several new senses: "the truth" <the guru really knows where it's at>, "the current fad" <the Nehru jacket's dead; tie-dye is where it's at now>, or "the most important or current thing" <in racecar design, aerodynamics is where it's at>. These senses have stuck and remain common as casualisms.
+But the rebellious 1960s saw the phrase *\*where it's at* reborn in several new senses: "the truth" \<the guru really knows where it's at\>, "the current fad" \<the Nehru jacket's dead; tie-dye is where it's at now\>, or "the most important or current thing" \<in racecar design, aerodynamics is where it's at\>. These senses have stuck and remain common as casualisms.
 
 The idiom has become such a catchphrase that today it's once again used in the literal sense that parents and teachers have scolded children about, especially as a heading. An internet search for the phrase returned thousands of hits, largely for sites giving directions to a place or listing an area's restaurants, clubs, and the like. But it still carries a stigma, and when not used with a wink and a nudge, it remains a badge of non-U speech. See class distinctions.
 

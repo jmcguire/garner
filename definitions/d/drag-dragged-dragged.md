@@ -1,6 +1,6 @@
-# drag > dragged > dragged
+# drag \> dragged \> dragged
 
-drag > dragged > dragged. So inflected. The past-tense and past-participial *drug* is a dialectal form common in the southern U.S.—e.g.: "Mazur said his father lipped the fish and *drug* it well back up on the bank so it couldn't get away." Mike Leggett, "1 Fish, 2 Fish, Red Fish, Big Fish," *Austin Am.-Statesman*, 16 Jan. 1994, at D12.
+drag \> dragged \> dragged. So inflected. The past-tense and past-participial *drug* is a dialectal form common in the southern U.S.—e.g.: "Mazur said his father lipped the fish and *drug* it well back up on the bank so it couldn't get away." Mike Leggett, "1 Fish, 2 Fish, Red Fish, Big Fish," *Austin Am.-Statesman*, 16 Jan. 1994, at D12.
 
 The linguistic authorities have had some negative things to say. *W2* (1934), the last of the great prescriptive dictionaries, called *drug* "dialectal" and "illiterate." More recent dictionaries, such as *RH2*, call it, more chastely, "nonstandard." The *OED* calls it obsolete except in dialect.
 

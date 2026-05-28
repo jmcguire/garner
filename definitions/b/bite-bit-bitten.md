@@ -1,6 +1,6 @@
-# bite > bit > bitten
+# bite \> bit \> bitten
 
-bite > bit > bitten. So inflected. While *bit*, the past-tense form, is recognized in most dictionaries as an alternative past participle, since 1825 or so it has been far less common than the standard *bitten*. Although the *OED* labels it archaic, the participial *bit* lives on in some set phrases—e.g.:
+bite \> bit \> bitten. So inflected. While *bit*, the past-tense form, is recognized in most dictionaries as an alternative past participle, since 1825 or so it has been far less common than the standard *bitten*. Although the *OED* labels it archaic, the participial *bit* lives on in some set phrases—e.g.:
 
  - "Carolina Hurricanes general manager Jim Rutherford has *bit his lip* since the former Hartford Whalers moved south five seasons ago." David Droschak, "Postseason Perks Up Canes Fans," *Chattanooga Times/Chattanooga Free Press*, 9 June 2002, at C9.
 

@@ -2,7 +2,7 @@
 
 foreclose.
 
-**A. Constructions with.** Today, *foreclose* most commonly indicates one or more possibilities <his failing the exam forecloses the possibility of a promotion>. The word is more common in AmE than in BrE.
+**A. Constructions with.** Today, *foreclose* most commonly indicates one or more possibilities \<his failing the exam forecloses the possibility of a promotion\>. The word is more common in AmE than in BrE.
 
 In the context of a real-estate foreclosure, the verb is generally intransitive: one *forecloses on* property or a mortgage. E.g.: "William J. Hedebrand, a man the town took to court in 1984 over a house he built illegally in West Suffield, is now trying to persuade the town not to *foreclose on* his property." Mindy A. Antonio, "Man Offers to Settle Debt He Owes Suffield," *Hartford Courant*, 22 Dec. 1994, at B1.
 

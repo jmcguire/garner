@@ -4,9 +4,9 @@ Irreversible Binomials are idiomatically unalterable verbal pairings—grammatic
 
 The terms in a binomial are typically antonyms, synonyms, or complementary words that are so conventionally joined in a specific sequence as to seem, to speakers of a given language, inevitably paired that way. In terms of frequency in one order as opposed to the other, a 3:1 ratio isn't enough for irreversibility. *Books and magazines*, for example, occurs more often than *magazines and books*—but 25% of the time the latter phrasing occurs. The same is true of *shoes and socks* vs. *socks and shoes*. The tendency must be much stronger for irreversibility: with *cops and robbers* the ratio is 318:1 over \**robbers and cops*.
 
-Sometimes the binomials are alliterative <flora and fauna> or even rhyming <slice and dice>, but perhaps less often than one might suspect. Often they're chronologically ordered <come and go> <wax and wane>. The positive concept usually precedes the negative <friend or foe> <good and bad>. Proximity is usually given precedence over distance <here and there> <this and that>. Some are clichés <time and tide> <whys and wherefores>.
+Sometimes the binomials are alliterative \<flora and fauna\> or even rhyming \<slice and dice\>, but perhaps less often than one might suspect. Often they're chronologically ordered \<come and go\> \<wax and wane\>. The positive concept usually precedes the negative \<friend or foe\> \<good and bad\>. Proximity is usually given precedence over distance \<here and there\> \<this and that\>. Some are clichés \<time and tide\> \<whys and wherefores\>.
 
-The terms in a binomial might be any part of speech, but most often they're nouns, verbs, or adjectives. In many pairings of complementary nouns, foodstuffs that commonly go together are yoked into a phrase, the more substantial item normally coming first <cookies and cream> <macaroni and cheese>. Various categories might be created, but these are perhaps the most typical semantic groupings:
+The terms in a binomial might be any part of speech, but most often they're nouns, verbs, or adjectives. In many pairings of complementary nouns, foodstuffs that commonly go together are yoked into a phrase, the more substantial item normally coming first \<cookies and cream\> \<macaroni and cheese\>. Various categories might be created, but these are perhaps the most typical semantic groupings:
 
 Antonyms or Contrasting Words
 
@@ -186,7 +186,7 @@ Some writers intentionally invert the word order as a poetic device. For example
 
 At least one writer has called inverted binomials "ungrammatical." See Earl R. Anderson, *A Grammar of Iconism* 267 (1998) (mistakenly calling \**Eve and Adam*, \**that and this*, and \**there and here* "ungrammatical"). These phrases work grammatically, but they're entirely unidiomatic. What the writer meant to say, perhaps, is "unacceptable" or "wrong." But the problem has nothing to do with grammar.
 
-Not all binomials involve conjunctions. Some are reduplicative terms <ding-dong> <easy peasy> <wishy-washy>. Others contain prepositions <cheek by jowl> <pillar to post> <tit for tat>. Other examples of these types will readily come to mind.
+Not all binomials involve conjunctions. Some are reduplicative terms \<ding-dong\> \<easy peasy\> \<wishy-washy\>. Others contain prepositions \<cheek by jowl\> \<pillar to post\> \<tit for tat\>. Other examples of these types will readily come to mind.
 
 *Trinomials* are phrases with three related words. (Some writers use the term *multinomials* for three or more.) Some trinomials—like *ready, aim, fire* and *veni, vidi, vici—*use asyndeton, without a conjunction. But most use *and*, and a few use *or*. These are typical examples:
 

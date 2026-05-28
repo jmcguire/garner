@@ -32,7 +32,7 @@ It could be that the widespread misuse of *impact* is partly an attempt to sides
 
 **C. And *effectuate*.** Most dictionaries define these words identically, but their differentiation should be encouraged. Although both mean "to accomplish, bring about, or cause to happen," stylists have generally considered *effect* the preferable word, *effectuate* a needless variant.
 
-No longer need this be so. The growing distinction—common especially in law—is that *effect* means "to cause to happen, to bring about" <effect a coup>, while *effectuate* means "to give practical effect to (some underlying goal)" <effectuating the purpose of the statute>. As a matter of word frequency, *effect* (as a verb) is much more common than *effectuate*.
+No longer need this be so. The growing distinction—common especially in law—is that *effect* means "to cause to happen, to bring about" \<effect a coup\>, while *effectuate* means "to give practical effect to (some underlying goal)" \<effectuating the purpose of the statute\>. As a matter of word frequency, *effect* (as a verb) is much more common than *effectuate*.
 
  - Current ratio in print (*effect changes* vs. \**effectuate changes*): 58:1
  - Current ratio in print (*effectuate the purpose of* vs. \**effect the purpose of *): 1.9:1

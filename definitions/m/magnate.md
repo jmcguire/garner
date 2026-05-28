@@ -1,6 +1,6 @@
 # magnate
 
-magnate; **magnet**. A *magnate* /**mag**-nayt/ is a tycoon, a person who has grown rich in a field that is usually specified <oil magnate>. A *magnet* /**mag**-net/ is a piece of metal that attracts iron and aligns with the earth's north and south poles (or with another magnetic field).
+magnate; **magnet**. A *magnate* /**mag**-nayt/ is a tycoon, a person who has grown rich in a field that is usually specified \<oil magnate\>. A *magnet* /**mag**-net/ is a piece of metal that attracts iron and aligns with the earth's north and south poles (or with another magnetic field).
 
 *Magnate* is occasionally misspelled *magnet*, an unattractive error—e.g.:
 

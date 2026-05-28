@@ -2,11 +2,11 @@
 
 lay; lie.
 
-**A. The Distinction.** Very simply, *lie* (= to recline, be situated) is intransitive—it can't take a direct object <he lies on his bed>. But *lay* (= to put down, arrange) is always transitive—it needs a direct object <please lay the book on my desk>. The verbs are inflected as follows:
+**A. The Distinction.** Very simply, *lie* (= to recline, be situated) is intransitive—it can't take a direct object \<he lies on his bed\>. But *lay* (= to put down, arrange) is always transitive—it needs a direct object \<please lay the book on my desk\>. The verbs are inflected as follows:
 
-Because *lie* is intransitive, it has only an active voice <lie down for a while>. And because *lay* is transitive, it may be either active <he laid the blanket over her> or passive <the blanket was laid over her>. See passive voice.
+Because *lie* is intransitive, it has only an active voice \<lie down for a while\>. And because *lay* is transitive, it may be either active \<he laid the blanket over her\> or passive \<the blanket was laid over her\>. See passive voice.
 
-To use *lay* without a direct object, in the sense of *lie*, is nonstandard <I want to lay down> <he was laying in the sun>. But this error is very common in speech—from the illiterate to the highly educated. In fact, some commentators believe that people make this mistake more often than any other in the English language. Others claim that it's no longer a mistake—or even that it never was. But make no mistake: using these verbs correctly is a mark of refinement.
+To use *lay* without a direct object, in the sense of *lie*, is nonstandard \<I want to lay down\> \<he was laying in the sun\>. But this error is very common in speech—from the illiterate to the highly educated. In fact, some commentators believe that people make this mistake more often than any other in the English language. Others claim that it's no longer a mistake—or even that it never was. But make no mistake: using these verbs correctly is a mark of refinement.
 
 The most unusual of these inflected forms, of course, is *lain*, but most writers have little difficulty getting it right—e.g.:
 

@@ -22,5 +22,5 @@ The test for knowing when the word *this* is acceptable in such a context is thi
 
 For a related problem with the relative pronoun *which*, also a pointing word, see remote relatives.
 
-**B. *This* vs. *that*.** It isn't easy to explain precisely when to use the pointing word *this* and when to use *that*, or when to use the plural *these* and when to use *those*. Essentially *this* connotes proximity and immediacy in relation to the speaker or writer <this hat on my head>, while *that* connotes some distance and remove <that hat over there>. The difference can be quite subtle, and often either word works as well as the other.
+**B. *This* vs. *that*.** It isn't easy to explain precisely when to use the pointing word *this* and when to use *that*, or when to use the plural *these* and when to use *those*. Essentially *this* connotes proximity and immediacy in relation to the speaker or writer \<this hat on my head\>, while *that* connotes some distance and remove \<that hat over there\>. The difference can be quite subtle, and often either word works as well as the other.
 

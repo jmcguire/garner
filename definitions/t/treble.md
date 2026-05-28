@@ -1,6 +1,6 @@
 # treble
 
-treble; **triple**. These words are distinguishable though sometimes interchangeable. Outside baseball contexts <he tripled to deep right field>, *trebled* is a common term—e.g.:
+treble; **triple**. These words are distinguishable though sometimes interchangeable. Outside baseball contexts \<he tripled to deep right field\>, *trebled* is a common term—e.g.:
 
  - "The last time Congress ‘reformed' campaign finance, it *trebled* the amount of money that is taken out of the Treasury (your money) and given to presidential candidates." Theo Lippman Jr., "What Political Campaigns Need Is Lots More Money," *Baltimore Sun*, 26 Nov. 1996, at A13.
 
@@ -10,5 +10,5 @@ treble; **triple**. These words are distinguishable though sometimes interchange
 
 But in general, the baseball habits have permeated the language as a whole, and people are likely to talk about the *tripling* of costs, revenues, etc., as opposed to *trebling*.
 
-As an adjective, *treble* usually means "three times as much or as many" <treble damages>, whereas *triple* means "having three parts" <a triple bookshelf> <triple bypass surgery>.
+As an adjective, *treble* usually means "three times as much or as many" \<treble damages\>, whereas *triple* means "having three parts" \<a triple bookshelf\> \<triple bypass surgery\>.
 

@@ -2,7 +2,7 @@
 
 abjure; adjure.
 
-**A. Senses Distinguished.** *Abjure*, the more frequently used of these words, may mean either (1) "to renounce" <Germany abjured the use of force>, or (2) "to avoid" <her evaluation abjured excessive praise>. In bygone days, people were sometimes required to "abjure the realm," i.e., go abroad. *Adjure* means "to charge or entreat solemnly; to urge earnestly" <Reagan adjured the Soviets to join him in this noble goal>.
+**A. Senses Distinguished.** *Abjure*, the more frequently used of these words, may mean either (1) "to renounce" \<Germany abjured the use of force\>, or (2) "to avoid" \<her evaluation abjured excessive praise\>. In bygone days, people were sometimes required to "abjure the realm," i.e., go abroad. *Adjure* means "to charge or entreat solemnly; to urge earnestly" \<Reagan adjured the Soviets to join him in this noble goal\>.
 
 **B. Cognate Forms.** The noun forms are *abjuration* (or *\*abjurement*—now defunct) and *adjuration*. The adjectival forms end in *-tory*. The agent nouns are *abjurer* and *adjurer*.
 

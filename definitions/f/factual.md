@@ -8,5 +8,5 @@ The sentences that follow illustrate the better usage:
 
  - "High courts seldom second-guess lower courts on *factual findings*, Foley said." Susan Essoyan & Bettina Boxall, "Gay Marriages on Hold While Ruling Is Appealed," *L.A. Times*, 5 Dec. 1996, at A3.
 
-Notably, *factual* has two meanings: (1) "of or involving facts" <factual issue>; and (2) "true" <a factual depiction>. Sense 1 is the one that appears in phrases such as *factual finding* and *factual question*. Sense 2 appears in phrases such as *factual account* and *factual narrative*—e.g.: "All in all, ‘The Woman Behind the Myth' offers a good *factual* account of Evita's life—but no great insight." "A&E's ‘Evita' Combines Woman with Myth," *Charleston Gaz.* (W. Va.), 19 Dec. 1996, at D8.
+Notably, *factual* has two meanings: (1) "of or involving facts" \<factual issue\>; and (2) "true" \<a factual depiction\>. Sense 1 is the one that appears in phrases such as *factual finding* and *factual question*. Sense 2 appears in phrases such as *factual account* and *factual narrative*—e.g.: "All in all, ‘The Woman Behind the Myth' offers a good *factual* account of Evita's life—but no great insight." "A&E's ‘Evita' Combines Woman with Myth," *Charleston Gaz.* (W. Va.), 19 Dec. 1996, at D8.
 

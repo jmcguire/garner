@@ -1,6 +1,6 @@
 # prospective
 
-prospective; **perspective**. *Prospective* (adj.) = (1) likely to become <prospective member>; or (2) expected <prospective profits>. *Perspective* (n.) = (1) the angle from which something is viewed <we gained a better perspective on the hill>; or (2) the relative proportions and positions of people and things within a scene <everything in the drawing seemed to be in perspective>. The noun *perspective* is sometimes used attributively—that is, it functions as an adjective, especially in art contexts <perspective painting>.
+prospective; **perspective**. *Prospective* (adj.) = (1) likely to become \<prospective member\>; or (2) expected \<prospective profits\>. *Perspective* (n.) = (1) the angle from which something is viewed \<we gained a better perspective on the hill\>; or (2) the relative proportions and positions of people and things within a scene \<everything in the drawing seemed to be in perspective\>. The noun *perspective* is sometimes used attributively—that is, it functions as an adjective, especially in art contexts \<perspective painting\>.
 
 Misusing *perspective* for *prospective* amounts to a malapropism—e.g.:
 

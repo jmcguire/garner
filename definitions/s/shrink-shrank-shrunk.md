@@ -1,6 +1,6 @@
-# shrink > shrank > shrunk
+# shrink \> shrank \> shrunk
 
-shrink > shrank > shrunk. So inflected in standard english since the mid-1800s. In informal usage, the past participle often displaces the simple past, as in the movie title *Honey, I Shrunk the Kids* (1989). But examples are hardly scarce in formal writing—e.g.:
+shrink \> shrank \> shrunk. So inflected in standard english since the mid-1800s. In informal usage, the past participle often displaces the simple past, as in the movie title *Honey, I Shrunk the Kids* (1989). But examples are hardly scarce in formal writing—e.g.:
 
  - "Flunkies grumbled when he forced them to recite anti-corruption hymns, and again when he *shrunk* \[read *shrank*\] official dinners from lavish feasts to nothing more than one soup and four dishes." John Colmey et al., "Zhu's Leap Forward," *Time* (Int'l ed.), 16 Mar. 1998, at 16.
 
@@ -20,7 +20,7 @@ Some writers mistakenly use *\*shrinked* as a past tense and past participle—e
 
 See irregular verbs. Cf. **proved** & **stricken (a)**.
 
-*Shrunken* is exclusively a past-participial adjective <a shriveled and shrunken appearance>. Avoid it as a verb—e.g.: "Upon return, the child found that the room and its contents had been *shrunken* \[read *shrunk*\]." David H. Uttal, "On the Relation Between Play and Symbolic Thought," in *Contemporary Perspectives on Play in Early Childhood Education* 97, 106 (Olivia N. Saracho & Bernard Spodek eds., 2003).
+*Shrunken* is exclusively a past-participial adjective \<a shriveled and shrunken appearance\>. Avoid it as a verb—e.g.: "Upon return, the child found that the room and its contents had been *shrunken* \[read *shrunk*\]." David H. Uttal, "On the Relation Between Play and Symbolic Thought," in *Contemporary Perspectives on Play in Early Childhood Education* 97, 106 (Olivia N. Saracho & Bernard Spodek eds., 2003).
 
 For *shirk* misused for *shrink*, see **shirk**.
 

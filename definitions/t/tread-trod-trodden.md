@@ -1,6 +1,6 @@
-# tread > trod > trodden
+# tread \> trod \> trodden
 
-tread > trod > trodden. So inflected. *Trod* is a variant past participle. Although many American dictionaries (surprisingly) list *\*untrod* as the standard adjective in preference to *untrodden*, the latter form is seven times as common.
+tread \> trod \> trodden. So inflected. *Trod* is a variant past participle. Although many American dictionaries (surprisingly) list *\*untrod* as the standard adjective in preference to *untrodden*, the latter form is seven times as common.
 
 Since the mid-20th century, many writers have tried to make *trod* into a present-tense verb. They're treading heavily on the language—e.g.:
 

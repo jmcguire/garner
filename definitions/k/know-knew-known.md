@@ -1,6 +1,6 @@
-# know > knew > known
+# know \> knew \> known
 
-know > knew > known. So inflected. See irregular verbs.
+know \> knew \> known. So inflected. See irregular verbs.
 
 Through careless error, *know* is sometimes written *now*—e.g.:
 

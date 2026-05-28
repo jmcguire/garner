@@ -14,7 +14,7 @@ Most of these superstitions are treated elsewhere in this book, in the entry ref
 
  - **1987:** "Ending a sentence with a preposition can be as dangerous as stepping on a crack in a sidewalk." Allan Metcalf, "Double or Nothing: An End to Final Prepositions," 62 *Am. Speech* 182, 182 (1987).
 
- - **2003:** "If a preposition falls naturally at the end of a sentence, leave it there. <I don't remember which file name I saved it under.>" Gerald J. Alred, Charles T. Brusaw & Walter E. Oliu, *Handbook of Technical Writing* 412 (7th ed. 2003).
+ - **2003:** "If a preposition falls naturally at the end of a sentence, leave it there. \<I don't remember which file name I saved it under.\>" Gerald J. Alred, Charles T. Brusaw & Walter E. Oliu, *Handbook of Technical Writing* 412 (7th ed. 2003).
 
 For a pleasing cornucopia of still more authorities—should you need them—see prepositions (b).
 

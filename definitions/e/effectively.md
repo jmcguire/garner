@@ -1,6 +1,6 @@
 # effectively
 
-effectively; **effectually**. *Effectively* = (1) in an effective manner; well <to speak effectively>; (2) in effect, actually <she has effectively become his mother-surrogate>; or (3) completely; almost completely <that resource is now effectively gone>. All three senses are common.
+effectively; **effectually**. *Effectively* = (1) in an effective manner; well \<to speak effectively\>; (2) in effect, actually \<she has effectively become his mother-surrogate\>; or (3) completely; almost completely \<that resource is now effectively gone\>. All three senses are common.
 
 *Effectually* (= completely achieving the desired result) often wrongly displaces *effectively* in senses 2 and 3—e.g.:
 

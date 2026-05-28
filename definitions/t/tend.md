@@ -1,6 +1,6 @@
 # tend
 
-tend = (1) to be predisposed to \[something\]; or (2) to look after or care for \[someone or something\]. Sense 2 is a Middle English shortening of *attend*, and the two words are often interchangeable in AmE <tend to business>. In BrE, the two words are interchangeable in limited contexts such as fires <tending to a fire> <attending to a fire> or first aid <tend (to) a patient> <attend to a patient>. In golf talk in AmE as well as BrE, it is common to ask a fellow player or a caddie to *tend the pin* (i.e., to hold the pin while a player on or near the green plays a shot and to pull the pin as soon as the shot has been made).
+tend = (1) to be predisposed to \[something\]; or (2) to look after or care for \[someone or something\]. Sense 2 is a Middle English shortening of *attend*, and the two words are often interchangeable in AmE \<tend to business\>. In BrE, the two words are interchangeable in limited contexts such as fires \<tending to a fire\> \<attending to a fire\> or first aid \<tend (to) a patient\> \<attend to a patient\>. In golf talk in AmE as well as BrE, it is common to ask a fellow player or a caddie to *tend the pin* (i.e., to hold the pin while a player on or near the green plays a shot and to pull the pin as soon as the shot has been made).
 
 *Tend* is sometimes wrongly made *tender*, more commonly in BrE than in AmE—e.g.:
 

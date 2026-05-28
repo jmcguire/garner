@@ -1,6 +1,6 @@
 # enviable
 
-enviable; **envious**. That which is *enviable* arouses envy or is at least worthy of it. A person who is *envious* feels or is struck by envy. *Envious* usually takes the preposition *of* <envious of her sister's success>, but historically has also taken *against* or *at*. See **jealousy**.
+enviable; **envious**. That which is *enviable* arouses envy or is at least worthy of it. A person who is *envious* feels or is struck by envy. *Envious* usually takes the preposition *of* \<envious of her sister's success\>, but historically has also taken *against* or *at*. See **jealousy**.
 
 The pair is in the unenviable position of being susceptible to word-swapping—e.g.:
 

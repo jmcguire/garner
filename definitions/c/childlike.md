@@ -1,6 +1,6 @@
 # childlike
 
-childlike; **childish**. *Childlike* connotes simplicity, innocence, and truthfulness <childlike faith>. *Childish* connotes puerility, peevishness, and silliness <childish sulking>.
+childlike; **childish**. *Childlike* connotes simplicity, innocence, and truthfulness \<childlike faith\>. *Childish* connotes puerility, peevishness, and silliness \<childish sulking\>.
 
 Sometimes *childish* (the negative term) wrongly displaces *childlike* (the positive term)—e.g.:
 

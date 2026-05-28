@@ -1,6 +1,6 @@
-# breed > bred > bred
+# breed \> bred \> bred
 
-breed > bred > bred. So inflected. Yet the ill-bred form *\*breeded* (common in the 1700s but not since then) still sometimes appears. Note that in the following examples, the first two instances are literal, the last two figurative. Either way, the past tenses should be *bred*—e.g.:
+breed \> bred \> bred. So inflected. Yet the ill-bred form *\*breeded* (common in the 1700s but not since then) still sometimes appears. Note that in the following examples, the first two instances are literal, the last two figurative. Either way, the past tenses should be *bred*—e.g.:
 
  - "She also *breeded* \[read *bred*\] and exhibited Afghan hounds." "Mary Thompson, Pilot, Engineer, Autism Activist," *Boston Herald*, 10 May 1998, at 79.
 

@@ -4,7 +4,7 @@ corroborate.
 
 **A. Senses and Uses.** *Corroborate* = (1) to support (a statement, argument, etc.) with evidence that is consistent; to confirm; or (2) to confirm formally (a law, etc.). Sense 1 is more common—e.g.: "Experts said a major issue when recovered-memory cases go to court is the lack of *corroborating* evidence, often because the allegations date so far back." Jeremy Olson, "Repressed Memories a Gray Area," *Omaha World-Herald* (Midlands ed.), 25 Sept. 2002, at A1.
 
-In either sense, this verb is transitive <the last witness corroborated the testimony of other witnesses>. Hence *\*corroborate with* is inferior to *corroborate*. In the passive voice, the phrasing *corroborated by* is usual—e.g.: "The novelists Gaskell and Disraeli and Hardy were not so naive, and their realism is *corroborated by* this book." "Compassionate Curiosity," *Economist*, 25 Jan. 1975, at 96. See -able (d), -atable & spelling (a).
+In either sense, this verb is transitive \<the last witness corroborated the testimony of other witnesses\>. Hence *\*corroborate with* is inferior to *corroborate*. In the passive voice, the phrasing *corroborated by* is usual—e.g.: "The novelists Gaskell and Disraeli and Hardy were not so naive, and their realism is *corroborated by* this book." "Compassionate Curiosity," *Economist*, 25 Jan. 1975, at 96. See -able (d), -atable & spelling (a).
 
 **B. Pronunciation.** In October 1991, during Justice Clarence Thomas's confirmation hearings, some senators consistently mispronounced this word as if it were *cooberate*—like *cooperate* with a /b/ instead of a /p/. The correct pronunciation is /kә-**rob**-ә-rayt/.
 

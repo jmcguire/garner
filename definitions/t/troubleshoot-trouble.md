@@ -1,6 +1,6 @@
-# troubleshoot > troubleshot > troubleshot
+# troubleshoot \> troubleshot \> troubleshot
 
-troubleshoot > troubleshot > troubleshot. So inflected. The erroneous past-tense and past-participial form *\*troubleshooted* sometimes appears, especially in AmE—e.g.:
+troubleshoot \> troubleshot \> troubleshot. So inflected. The erroneous past-tense and past-participial form *\*troubleshooted* sometimes appears, especially in AmE—e.g.:
 
  - "Throughout the evening she *troubleshooted* \[read *troubleshot*\], greeted guests, mourned the winning low bid on a set of top-notch golf clubs placed by mistake on the silent-auction table, and worried about how the crowd was responding to the new location." Nancy Bartley, "Far East Gala II," *Seattle Times*, 16 Sept. 1991, at C2.
 

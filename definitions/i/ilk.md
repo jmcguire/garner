@@ -2,7 +2,7 @@
 
 ilk.
 
-**A. Meaning.** Originally, this Scottish term meant "the same"; hence *of that ilk* meant "of that same \[place, territory, or name\]" <McGuffey of that ilk>. By extension during the 1800s—from a misunderstanding of the Scottish use—*ilk* came to mean "type" or "sort" <Joseph McCarthy and his ilk>. Because there is little call outside Scotland for the original sense, the extended use must now be accepted as standard—e.g.:
+**A. Meaning.** Originally, this Scottish term meant "the same"; hence *of that ilk* meant "of that same \[place, territory, or name\]" \<McGuffey of that ilk\>. By extension during the 1800s—from a misunderstanding of the Scottish use—*ilk* came to mean "type" or "sort" \<Joseph McCarthy and his ilk\>. Because there is little call outside Scotland for the original sense, the extended use must now be accepted as standard—e.g.:
 
  - "That those of the *ilk* who call themselves journalists succumb is something to be loudly denounced—and roundly rejected." Jane Ely, "Multiple-Choice Puzzle Circles Diana's End," *Houston Chron.*, 3 Sept. 1997, at A25.
 

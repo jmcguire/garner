@@ -14,9 +14,9 @@ Interestingly, *impact* as a verb might have arisen partly in response to widesp
 
 ## Language-Change Index
 
-1. *impact* as a transitive verb <this could impact our decision>: Stage 4
+1. *impact* as a transitive verb \<this could impact our decision\>: Stage 4
  - Current ratio in print (*might affect the* vs. *\*might impact the*): 7:1
 
-2. *impact* as an intransitive verb <this could impact on our decision>: Stage 4
+2. *impact* as an intransitive verb \<this could impact on our decision\>: Stage 4
  - Current ratio in print (*might affect the* vs. *\*might impact on*): 8:1
 

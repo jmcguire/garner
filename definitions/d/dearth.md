@@ -1,6 +1,6 @@
 # dearth
 
-dearth = a deficient supply; a scarcity <there was a dearth of Americans at the festival>. E.g.: "A *dearth* of watchdog reporting has dire and quite specific results." Margaret Sullivan, *Ghosting the News* 22 (2020).
+dearth = a deficient supply; a scarcity \<there was a dearth of Americans at the festival\>. E.g.: "A *dearth* of watchdog reporting has dire and quite specific results." Margaret Sullivan, *Ghosting the News* 22 (2020).
 
 The word is commonly misunderstood as meaning a complete absence of something. This misunderstanding is revealed especially in the nonsensical phrase *\*complete dearth*, which has lurked in the linguistic shadows since the early 1800s. E.g.:
 

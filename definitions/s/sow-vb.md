@@ -2,7 +2,7 @@
 
 sow, vb.
 
-**A. Inflected Forms: *sow* > *sowed* > *sown*.** In the past participle, *sowed* is a variant. In modern print sources, *sown* strangely predominates as the standard past participle. See irregular verbs.
+**A. Inflected Forms: *sow* \> *sowed* \> *sown*.** In the past participle, *sowed* is a variant. In modern print sources, *sown* strangely predominates as the standard past participle. See irregular verbs.
 
  - Current ratio in print (*were sown* vs. \**were sowed*): 28:1
 

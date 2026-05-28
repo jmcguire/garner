@@ -1,6 +1,6 @@
 # media
 
-media; **medium**. Strictly speaking, the first is the plural of the second <the media were overreacting>. But *media*—as a shortened form of *communications media*—is increasingly used as a mass noun <the media was overreacting>—especially in a collocation such as *social media* <social media is an especially important aspect of medium marketing>. While that usage still makes some squeamish, it must be accepted as standard. In modern print sources, the phrasing *the media is* is somewhat more prevalent than *the media are*. See count nouns and mass nouns & **social media**. Cf. **criterion** & **phenomenon**.
+media; **medium**. Strictly speaking, the first is the plural of the second \<the media were overreacting\>. But *media*—as a shortened form of *communications media*—is increasingly used as a mass noun \<the media was overreacting\>—especially in a collocation such as *social media* \<social media is an especially important aspect of medium marketing\>. While that usage still makes some squeamish, it must be accepted as standard. In modern print sources, the phrasing *the media is* is somewhat more prevalent than *the media are*. See count nouns and mass nouns & **social media**. Cf. **criterion** & **phenomenon**.
 
 But it's still possible (and preferable) to draw the line at *\*medias*, a double plural that arose in the 1950s—e.g.:
 

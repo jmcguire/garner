@@ -1,6 +1,6 @@
 # compliment
 
-compliment; **complement**. Both as verbs and as nouns, these words are often confounded. *Compliment* = (1) vb., to praise <she complimented the book lavishly>; or (2) n., a laudatory remark <her generous compliments emboldened the young author>. *Complement* = (1) vb., to supplement appropriately or adequately <special Thai desserts complemented the curries nicely>; or (2) n., an adequate supplement <the flowering plants are a splendid complement to the trees offered at the nursery>.
+compliment; **complement**. Both as verbs and as nouns, these words are often confounded. *Compliment* = (1) vb., to praise \<she complimented the book lavishly\>; or (2) n., a laudatory remark \<her generous compliments emboldened the young author\>. *Complement* = (1) vb., to supplement appropriately or adequately \<special Thai desserts complemented the curries nicely\>; or (2) n., an adequate supplement \<the flowering plants are a splendid complement to the trees offered at the nursery\>.
 
 *Compliment* sometimes displaces *complement*, especially in the phrase *full complement* (= a complete set)—e.g.:
 

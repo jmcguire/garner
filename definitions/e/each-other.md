@@ -2,7 +2,7 @@
 
 each other.
 
-**A. And *one another*.** Usage authorities have traditionally suggested that *each other* should refer to two people or entities <John and Bob helped each other>, *one another* to more than two <all of them loved one another>. Yet this 19th-century rule has also been undermined in the literature on usage—e.g.:
+**A. And *one another*.** Usage authorities have traditionally suggested that *each other* should refer to two people or entities \<John and Bob helped each other\>, *one another* to more than two \<all of them loved one another\>. Yet this 19th-century rule has also been undermined in the literature on usage—e.g.:
 
  - "A distinction is set up in the schools between *each other* and *one another*, according as the reference is to two or to more than two persons; and yet scarcely a good author can be found who does not use the two forms interchangeably." Adams Sherman Hill, *Our English* 33 (1888).
 
@@ -18,7 +18,7 @@ Many careful writers and editors will doubtless continue to observe the distinct
 
  - *each other* for *one another* (i.e., for more than two items): Stage 4
 
-**B. Possessive Forms: *each other's* and *one another's*.** The possessive forms are *each other's* and *one another's*. The noun that follows is typically plural <each other's cars> <they praised each other's presentations>, but the more logical construction is singular <each other's car> <they praised each other's presentation>. Whether the phrase is *each other's* or *one another's*, the apostrophe sometimes drifts waywardly (and mistakenly) to the end of the phrase, perhaps because the idea of reciprocity gets overshadowed by the sense of plurality—e.g.:
+**B. Possessive Forms: *each other's* and *one another's*.** The possessive forms are *each other's* and *one another's*. The noun that follows is typically plural \<each other's cars\> \<they praised each other's presentations\>, but the more logical construction is singular \<each other's car\> \<they praised each other's presentation\>. Whether the phrase is *each other's* or *one another's*, the apostrophe sometimes drifts waywardly (and mistakenly) to the end of the phrase, perhaps because the idea of reciprocity gets overshadowed by the sense of plurality—e.g.:
 
  - "They can look back in time to see the field being planted, view closeups of insect damage to the corn, or read *one anothers'* \[read *one another's*\] comments." Laurent Belsie, "More Fun than Watching Paint Dry," *Christian Science Monitor*, 26 July 2001, at 1.
 

@@ -1,12 +1,12 @@
 # edible
 
-edible; **eatable**. Although these adjectives are broadly synonymous, they can be differentiated. What is *edible* is capable of being eaten without danger, or fit for consumption <edible plants>. E.g.:
+edible; **eatable**. Although these adjectives are broadly synonymous, they can be differentiated. What is *edible* is capable of being eaten without danger, or fit for consumption \<edible plants\>. E.g.:
 
  - "The autumn olive, which many conservationists viewed until recent years as ideal, is appealing because its berries are *edible* by deer and birds, and the plants grow quickly and hold back erosion." Anne Paine, "Autumn Olive Deemed Too Invasive," *Tennessean*, 1 Oct. 1996, at B1.
 
  - "With any type of *edible* wild mushrooms, it is very important that you always cook them thoroughly." Kathy Casey, "Wild Mushrooms," *Seattle Times*, 2 Oct. 1996, at F1.
 
-What is *eatable* is at least minimally enjoyable or palatable <the food at that restaurant isn't even eatable>. E.g.: "Along the way, they've maintained a live-and-let-live attitude with the gawkers who show up to watch as they paw through the garbage and recycle the *eatable* morsels." George Snyder, "Dump Bears May Pose Menace," *S.F. Chron.*, 29 July 1995, at A13.
+What is *eatable* is at least minimally enjoyable or palatable \<the food at that restaurant isn't even eatable\>. E.g.: "Along the way, they've maintained a live-and-let-live attitude with the gawkers who show up to watch as they paw through the garbage and recycle the *eatable* morsels." George Snyder, "Dump Bears May Pose Menace," *S.F. Chron.*, 29 July 1995, at A13.
 
 *Eatable* has been used as an attributive noun since the early 1700s, usually in the plural—e.g.:
 

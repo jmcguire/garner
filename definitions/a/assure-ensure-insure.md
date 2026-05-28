@@ -2,7 +2,7 @@
 
 assure; ensure; insure.
 
-**A. *Assure* for *ensure*.** A person *assures* (makes promises to, convinces) other people <our hosts assured us that we would have comfortable rooms>; a person *ensures* (makes certain) that things occur or that events take place <our hosts ensured that we had comfortable rooms>. To put it a little technically, if the verb is in the active voice, a predicate beginning with *that* should be introduced by the verb *ensure*.
+**A. *Assure* for *ensure*.** A person *assures* (makes promises to, convinces) other people \<our hosts assured us that we would have comfortable rooms\>; a person *ensures* (makes certain) that things occur or that events take place \<our hosts ensured that we had comfortable rooms\>. To put it a little technically, if the verb is in the active voice, a predicate beginning with *that* should be introduced by the verb *ensure*.
 
 *Assure* takes a personal object—e.g.: "Davis *assured* residents they can help decide which trees are to be cut." Bruce Schultz, "Cajundome Neighbors Air Problems," *Advocate* (Baton Rouge), 12 Sept. 1997, at B3.
 
@@ -21,7 +21,7 @@ The following sentences illustrate the correct use of *ensure*:
  - *assure* for *ensure*: Stage 3
  - Current ratio in print (*to* *ensure that* vs. *\*to assure that*): 32:1
 
-**B. *Insure* and *ensure*.** *Insure* is best restricted to financial contexts involving indemnification; it should refer to what insurance companies do. *Ensure* should be used in all other senses of the word. Intransitively, *insure* is commonly followed by the preposition *against* <insure against loss>; it may also be used transitively <insure one's valuables>. Following is a commonplace peccadillo: "‘He has an agenda, but with Clinton, he's reached the top and is going to *insure* \[read *ensure*\] that he serves his master,' says an observer." "The Young Master of the White House," *Time*, 4 Apr. 1994, at 25.
+**B. *Insure* and *ensure*.** *Insure* is best restricted to financial contexts involving indemnification; it should refer to what insurance companies do. *Ensure* should be used in all other senses of the word. Intransitively, *insure* is commonly followed by the preposition *against* \<insure against loss\>; it may also be used transitively \<insure one's valuables\>. Following is a commonplace peccadillo: "‘He has an agenda, but with Clinton, he's reached the top and is going to *insure* \[read *ensure*\] that he serves his master,' says an observer." "The Young Master of the White House," *Time*, 4 Apr. 1994, at 25.
 
 ## Language-Change Index
 

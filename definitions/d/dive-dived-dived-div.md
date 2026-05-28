@@ -1,6 +1,6 @@
-# dive > dived > dived; dive > dove > dived
+# dive \> dived \> dived; dive \> dove \> dived
 
-dive > dived > dived; dive > dove > dived. Although *dove* is fairly common in AmE (on the analogy of *drove*), *dived* has long been considered the preferable past-tense form. But times are changing: since 1986, the frequency of *he dove into* in AmE has surpassed that of *he dived into* (not true of BrE). So it is time to declare *dive* > *dove* > *dived* standard AmE alongside the older forms. E.g.:
+dive \> dived \> dived; dive \> dove \> dived. Although *dove* is fairly common in AmE (on the analogy of *drove*), *dived* has long been considered the preferable past-tense form. But times are changing: since 1986, the frequency of *he dove into* in AmE has surpassed that of *he dived into* (not true of BrE). So it is time to declare *dive* \> *dove* \> *dived* standard AmE alongside the older forms. E.g.:
 
  - "A 23-year-old Severna Park man was in critical condition at Maryland Shock Trauma Center in Baltimore yesterday after he *dove* into a pool and suffered a cervical fracture to his neck, Anne Arundel County fire officials reported." "Man Is Critically Injured in Dive into Pool During Bachelor Party," *Baltimore Sun*, 16 July 2001, at B5.
 

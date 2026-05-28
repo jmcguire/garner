@@ -1,4 +1,4 @@
-# sell > sold > sold
+# sell \> sold \> sold
 
-sell > sold > sold. So inflected. See irregular verbs.
+sell \> sold \> sold. So inflected. See irregular verbs.
 

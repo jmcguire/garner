@@ -6,7 +6,7 @@ murder.
 
 *Manslaughter*, which has a lower degree of culpability than *murder*, is homicide committed without malice aforethought.
 
-*Man-killing* is a nonlegal synonym for *homicide*, used sometimes of nonhuman killers <man-killing isn't something tigers do unless they're physically provoked or very hungry>. But it's a sexist term: see sexism (c).
+*Man-killing* is a nonlegal synonym for *homicide*, used sometimes of nonhuman killers \<man-killing isn't something tigers do unless they're physically provoked or very hungry\>. But it's a sexist term: see sexism (c).
 
 **B. *Unintentional murder*.** This phrase may strike some readers as an oxymoron, but it has been fairly widespread since the late 1700s. E.g.:
 

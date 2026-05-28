@@ -1,6 +1,6 @@
 # whereabout(s)
 
-whereabout(s). In all uses, *whereabouts* is the predominant form in AmE and BrE alike—as a noun <I don't know her whereabouts>, as an adverb <whereabouts is the house?>, and as a conjunctive adverb <I don't know whereabouts he lives>. The use as a noun is most common—e.g.: "The silver BMW was discovered after authorities, checking a tip on the suspect's *whereabouts*, fanned out in the neighborhood." Robert Rudolph, "Suspect Surfaces in Search," *Star-Ledger* (Newark), 23 Sept. 1997, at 1.
+whereabout(s). In all uses, *whereabouts* is the predominant form in AmE and BrE alike—as a noun \<I don't know her whereabouts\>, as an adverb \<whereabouts is the house?\>, and as a conjunctive adverb \<I don't know whereabouts he lives\>. The use as a noun is most common—e.g.: "The silver BMW was discovered after authorities, checking a tip on the suspect's *whereabouts*, fanned out in the neighborhood." Robert Rudolph, "Suspect Surfaces in Search," *Star-Ledger* (Newark), 23 Sept. 1997, at 1.
 
 The noun may take either a singular or a plural verb—e.g.:
 

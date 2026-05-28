@@ -2,7 +2,7 @@
 
 wring.
 
-**A. Inflected Forms: *wring* > *wrung* > *wrung*.** The past-tense and past-participial forms of *wring* (= to squeeze or twist) are sometimes erroneously written *rung*—e.g.:
+**A. Inflected Forms: *wring* \> *wrung* \> *wrung*.** The past-tense and past-participial forms of *wring* (= to squeeze or twist) are sometimes erroneously written *rung*—e.g.:
 
  - "On market days, it is possible to see a small boy grab a live chicken by the head and whip its body round and round in an arc until its neck is *rung* \[read *wrung*\]." Linda Greider, "Learning to Talk Turkey in French," *Wash. Post*, 16 Nov. 1978, at E1.
 

@@ -1,6 +1,6 @@
 # corporal
 
-corporal; **corporeal**. These terms have undergone differentiation. *Corporal* (/**kor**-pә-rәl/) = of or affecting the body <corporal punishment>. *Corporeal* (/kor-**por**-ee-әl/) = having a physical body; substantial. E.g.: "Actual people aren't images, but substantial, physical, *corporeal* beings with souls." Larry Woiwode, "Television: The Cyclops That Eats Books," *USA Today* (Mag.), Mar. 1993, at 84.
+corporal; **corporeal**. These terms have undergone differentiation. *Corporal* (/**kor**-pә-rәl/) = of or affecting the body \<corporal punishment\>. *Corporeal* (/kor-**por**-ee-әl/) = having a physical body; substantial. E.g.: "Actual people aren't images, but substantial, physical, *corporeal* beings with souls." Larry Woiwode, "Television: The Cyclops That Eats Books," *USA Today* (Mag.), Mar. 1993, at 84.
 
 *Corporeal* sometimes wrongly displaces *corporal*—e.g.:
 

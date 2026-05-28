@@ -1,6 +1,6 @@
 # awhile
 
-awhile; **a while**. As a noun element, spell it as two words <he rested for a while> <it took quite a while to learn this>. As an adverb, spell it as one <he rested awhile>. Misuses are common—e.g.:
+awhile; **a while**. As a noun element, spell it as two words \<he rested for a while\> \<it took quite a while to learn this\>. As an adverb, spell it as one \<he rested awhile\>. Misuses are common—e.g.:
 
  - "We lay back and rested *a while* \[read *awhile*\] in the warm breeze." Henry Miller, *Sexus* 58 (1949; repr. 1965).
 

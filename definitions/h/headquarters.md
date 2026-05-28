@@ -10,5 +10,5 @@ headquarters. Since the 1800s this noun has commonly taken a plural verb, as in 
 
  - "Its *headquarters is* in Tide Point." Stacey Hirsh, "High-Techs Learn Some Old Rules," *Baltimore Sun*, 21 Jan. 2001, at P5.
 
-Of course, if you're torn by this dilemma, you can usually recast the sentence <the company has its headquarters in St. Louis>.
+Of course, if you're torn by this dilemma, you can usually recast the sentence \<the company has its headquarters in St. Louis\>.
 

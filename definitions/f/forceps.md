@@ -1,6 +1,6 @@
 # forceps
 
-forceps. This is traditionally a singular noun <this forceps isn't big enough>. But on the mistaken assumption that the word is plural, the word is increasingly joined with a plural verb. The error is old—e.g.: "The *forceps are* \[read *is*\] compact, *they are* \[read *it is*\] easy to handle and *have* \[read *has*\] firm gripping power." *Surgery, Gynecology and Obstetrics* 662 (F.H. Martin ed., 1915). This shift in usage took place in the late 1800s.
+forceps. This is traditionally a singular noun \<this forceps isn't big enough\>. But on the mistaken assumption that the word is plural, the word is increasingly joined with a plural verb. The error is old—e.g.: "The *forceps are* \[read *is*\] compact, *they are* \[read *it is*\] easy to handle and *have* \[read *has*\] firm gripping power." *Surgery, Gynecology and Obstetrics* 662 (F.H. Martin ed., 1915). This shift in usage took place in the late 1800s.
 
 The English plural is either *forceps* or *forcepses*. In *The Origin of Species*, Charles Darwin used *forcepses*. The Latin plural is *forcipes* /**for**-si-peez/, which was fairly common in technical books from 1800 to about 1975.
 

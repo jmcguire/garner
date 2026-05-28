@@ -8,7 +8,7 @@ alibi.
 
  - *alibi* for *excuse*: Stage 3 Current ratio in print (*an excuse for not* vs. *an alibi for not*): 75:1
 
-**B. As an Adverb.** In legal usage since the 1600s, *alibi* has sometimes been used as an adverb (meaning "elsewhere" <he proved himself alibi>), but this usage should be avoided. Although "elsewhere" is the original Latin meaning of *alibi* (originally a locative of L. *alius* "other"), in English it has long served only as a noun, and harking back to the classical sense is an affectation.
+**B. As an Adverb.** In legal usage since the 1600s, *alibi* has sometimes been used as an adverb (meaning "elsewhere" \<he proved himself alibi\>), but this usage should be avoided. Although "elsewhere" is the original Latin meaning of *alibi* (originally a locative of L. *alius* "other"), in English it has long served only as a noun, and harking back to the classical sense is an affectation.
 
 ## Language-Change Index
 

@@ -20,7 +20,7 @@ The mistaken plural use, as well as the back-formed singular *\*kudo*, came into
 
 ## Language-Change Index
 
-1. *kudos* as a false plural <many kudos>: Stage 4
+1. *kudos* as a false plural \<many kudos\>: Stage 4
  - Current ratio in print (*kudos is* vs. *\*kudos are*): 1.7:1
 
 2. *\*kudo* as a false singular: Stage 2

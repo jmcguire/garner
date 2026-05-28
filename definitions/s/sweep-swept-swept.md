@@ -1,6 +1,6 @@
-# sweep > swept > swept
+# sweep \> swept \> swept
 
-sweep > swept > swept. So inflected. Yet the weak form *\*sweeped* has erroneously swept into print—e.g.:
+sweep \> swept \> swept. So inflected. Yet the weak form *\*sweeped* has erroneously swept into print—e.g.:
 
  - "Ben Maidment *sweeped* \[read *swept*\] in on the left wing and converted a feed from Dana Mulvihill five seconds after a power play expired." Joe Concannon, "Bernard Rules in Eagles' Barn," *Boston Globe*, 30 Nov. 1997, at C17.
 

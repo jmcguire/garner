@@ -1,4 +1,4 @@
-# forget > forgot > forgotten
+# forget \> forgot \> forgotten
 
-forget > forgot > forgotten. So inflected. See irregular verbs.
+forget \> forgot \> forgotten. So inflected. See irregular verbs.
 

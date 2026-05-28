@@ -2,7 +2,7 @@
 
 myriad.
 
-**A. *Myriad reasons* vs.** *a myriad of reasons*. *Myriad* is more concise as an adjective <myriad drugs> than as a noun <a myriad of drugs>. Here the shorter use is illustrated:
+**A. *Myriad reasons* vs.** *a myriad of reasons*. *Myriad* is more concise as an adjective \<myriad drugs\> than as a noun \<a myriad of drugs\>. Here the shorter use is illustrated:
 
  - "June 1996: Telectronics resumes production after wrangling over *myriad* legal and manufacturing issues." Al Lewis, "Pacemaker Firm Pulls Plug," *Rocky Mountain News* (Denver), 14 Dec. 1996, at B1.
 

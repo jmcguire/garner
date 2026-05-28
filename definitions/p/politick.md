@@ -1,6 +1,6 @@
 # politick
 
-politick, v.i.; **politicize**. *Politick*, a back-formation from *politics*, was formerly disparaged as a nonword. But today it is fully accepted as meaning "to engage in partisan political activities." *Politicize* has the similar sense "to act the politician," but also the broader sense "to render political" <politicizing judicial elections>.
+politick, v.i.; **politicize**. *Politick*, a back-formation from *politics*, was formerly disparaged as a nonword. But today it is fully accepted as meaning "to engage in partisan political activities." *Politicize* has the similar sense "to act the politician," but also the broader sense "to render political" \<politicizing judicial elections\>.
 
 An ill-advised and unusual variant of *politick* is *politic*—which should be reserved for use as an adjective meaning "sensible, prudent, and circumspect."
 

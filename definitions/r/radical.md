@@ -1,6 +1,6 @@
 # radical
 
-radical, adj., = (1) of, relating to, or involving a root or foundation <the radical selfishness of human nature>; or (2) far-reaching, extreme, sweeping <a radical proposal>. It's sometimes misspelled *radicle*—e.g.: "This *radicle* \[read *radical*\] approach to bifurcation would make any class certification a foregone conclusion." "Ninth Circuit Denies Red Cross Mandamus Request in AZ Blood Class Action," *Pharmaceutical Litig. Rptr.*, July 1996, at 11,449.
+radical, adj., = (1) of, relating to, or involving a root or foundation \<the radical selfishness of human nature\>; or (2) far-reaching, extreme, sweeping \<a radical proposal\>. It's sometimes misspelled *radicle*—e.g.: "This *radicle* \[read *radical*\] approach to bifurcation would make any class certification a foregone conclusion." "Ninth Circuit Denies Red Cross Mandamus Request in AZ Blood Class Action," *Pharmaceutical Litig. Rptr.*, July 1996, at 11,449.
 
 Actually, *radicle* is a noun meaning "a small root"—e.g.:
 

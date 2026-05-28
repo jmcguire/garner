@@ -2,7 +2,7 @@
 
 less.
 
-**A. And *fewer*.** Strictly, *less* applies to singular nouns <less tonic water, please> or units of measure <less than six ounces of epoxy>. *Fewer* applies to plural nouns <fewer guests arrived than expected> or numbers of things <we have three fewer members this year>. The empirical evidence in print sources bears out the distinction: the collocation *fewer people* is about seven times as common in books published today as *\*less people*.
+**A. And *fewer*.** Strictly, *less* applies to singular nouns \<less tonic water, please\> or units of measure \<less than six ounces of epoxy\>. *Fewer* applies to plural nouns \<fewer guests arrived than expected\> or numbers of things \<we have three fewer members this year\>. The empirical evidence in print sources bears out the distinction: the collocation *fewer people* is about seven times as common in books published today as *\*less people*.
 
 If you have trouble distinguishing the two words, try substituting a phrase. If "not as much \[as\]" fits, make it *less*. If "not as many \[as\]" is better, use *fewer*. See count nouns and mass nouns & **fewer**.
 
@@ -12,7 +12,7 @@ The exception in using *fewer* occurs when count nouns essentially function as m
 
  - "Okay, how about $50 a month for such an apartment—*less* than two dollars a day?" J.A. Lobbia, "Getting Skewed on Rent," *Village Voice*, 29 Apr. 1997, at 49.
 
-*Fewer*, in fact, is incorrect when intended to refer to a period of time—e.g.: "You can run from sea level to the sky and back to earth in as fast as 45 minutes (so far), but even today, going round-trip in *fewer* \[read *less*\] than 60 minutes carries a special cachet." Lew Freedman, "Their Own Mountain," *Anchorage Daily News*, 29 June 1997, at D1. But if the units of time are thought of as wholes, and not by fractions, then *fewer* is called for <fewer days abroad> <fewer weeks spent apart>.
+*Fewer*, in fact, is incorrect when intended to refer to a period of time—e.g.: "You can run from sea level to the sky and back to earth in as fast as 45 minutes (so far), but even today, going round-trip in *fewer* \[read *less*\] than 60 minutes carries a special cachet." Lew Freedman, "Their Own Mountain," *Anchorage Daily News*, 29 June 1997, at D1. But if the units of time are thought of as wholes, and not by fractions, then *fewer* is called for \<fewer days abroad\> \<fewer weeks spent apart\>.
 
 Hence we say *less documentation* but *fewer documents*; *less argumentation* but *fewer arguments*; *less whispering* but *fewer remarks*; *less ambiguity* but *fewer ambiguities*; *less of a burden* but *fewer burdens*; *less material* but *fewer items*; *less fattening* but *fewer calories*.
 
@@ -30,13 +30,13 @@ The linguistic hegemony by which *less* has encroached on *fewer*'s territory is
 
 Postpositively, *less* is more usual than *fewer* after count nouns such as *pages* or *words*. In the collocations *words or less* and *words or fewer*, the first predominates by a 4:1 ratio. If we further contextualize with a specific number (*five pages or less* vs. *five pages or fewer*), the ratio is 3:1. When *or less* comes at the end of a construction after a count noun, it should be accepted as a standard casualism.
 
-But if you change the wording to a prepositive use (before the noun) <five or fewer pages>, the word *fewer* greatly predominates—to such an extent that \**five or less pages* doesn't even register on the Ngram Viewer. Meanwhile, *more or fewer words* predominates over \**more or less words* by a 1.4:1 ratio. And *more or fewer pages* predominates over \**more or less pages* by a 12:1 ratio.
+But if you change the wording to a prepositive use (before the noun) \<five or fewer pages\>, the word *fewer* greatly predominates—to such an extent that \**five or less pages* doesn't even register on the Ngram Viewer. Meanwhile, *more or fewer words* predominates over \**more or less words* by a 1.4:1 ratio. And *more or fewer pages* predominates over \**more or less pages* by a 12:1 ratio.
 
 Finally, even with the strict usage, it's sometimes a close call whether a thing is a mass noun or a count noun, and hence whether *less* or *fewer* is proper. Take, for example, a percentage: should it be *less than 10% of the homeowners were there* or *fewer than 10% of the homeowners were there*? You could argue that a percentage is something counted (i.e., 10 out of 100) and therefore requires *fewer*. You could also argue that a percentage is a collective mass noun (akin, e.g., to *money*), and so requires *less*. The latter is the better argument because most percentages aren't whole numbers anyway. Even if it were a toss-up between the two theories, it's sound to choose *less*, which is less formal in tone than *fewer*.
 
 ## Language-Change Index
 
- - *less* for *fewer* before a plural count noun <\*five or less pages>: Stage 3 *less* for *fewer* after a plural count noun <five pages or less>: Stage 5
+ - *less* for *fewer* before a plural count noun \<\*five or less pages\>: Stage 3 *less* for *fewer* after a plural count noun \<five pages or less\>: Stage 5
  - Current ratio in print (*fewer children* vs. \**less children*): 15:1
  - Current ratio in print (*fewer calories* vs. \**less calories*): 10:1
  - Current ratio in print (*fewer items* vs. \**less items*): 9:1
@@ -62,7 +62,7 @@ Nearly 10% of the time, however, writers use *\*one fewer*, an awkward and unidi
 
  - Current ratio in print (*one less* vs. \**one fewer*): 12:1
 
-**C. And *lesser*.** *Lesser*, like *less*, refers to quantity, but is confined to use as an adjective before a singular noun and following an article <the lesser crime> or alone before a plural noun <lesser athletes>, thus performing a function no longer idiomatically possible with *less.* Dating from the 1200s, this formal usage allows *lesser* to act as an antonym of *greater.*
+**C. And *lesser*.** *Lesser*, like *less*, refers to quantity, but is confined to use as an adjective before a singular noun and following an article \<the lesser crime\> or alone before a plural noun \<lesser athletes\>, thus performing a function no longer idiomatically possible with *less.* Dating from the 1200s, this formal usage allows *lesser* to act as an antonym of *greater.*
 
 Occasionally, *lessor* (= landlord) is misused for *lesser*—e.g.:
 

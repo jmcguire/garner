@@ -1,6 +1,6 @@
 # pidgin
 
-pidgin (fr. a Chinese pronunciation of the English word *business*) = a simplified form of language used for communication between nonnative speakers of a language <pidgin English>. Although some mid-19th-century writers used the form *\*pigeon English*, that form is now regarded as mistaken—e.g.:
+pidgin (fr. a Chinese pronunciation of the English word *business*) = a simplified form of language used for communication between nonnative speakers of a language \<pidgin English\>. Although some mid-19th-century writers used the form *\*pigeon English*, that form is now regarded as mistaken—e.g.:
 
  - "Spottiswood said he couldn't stand the thought of having the actors speak the kind of *pigeon* \[read *pidgin*\] English often used in films about the Japanese." David Zurawik, "Docudrama Eloquently Adds Fiction to Fact, but the Total May Not Add Up to History," *Baltimore Sun*, 5 Aug. 1995, at D1.
 

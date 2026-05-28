@@ -2,9 +2,9 @@
 
 spartan; **sparse**. *Spartan* is the antonym of *luxurious*, and *sparse* the antonym of *luxuriant*. (See **luxurious**.) But there the similarities end.
 
-In ancient Greece, the people of Sparta were known as being stoical, frugal, simple, laconic, brave, disciplined, and indifferent to comfort or luxury. From them we get the adjective *spartan*, which describes someone with the qualities just listed <the spartan pioneers of the American West>. By extension, a person's surroundings, diet, or lifestyle can be spartan when comforts or luxuries are few <a spartan life on the prairie>. E.g.: "He doesn't like the idea of Elke entering his home and seeing how bare he keeps it, how *spartan* his life is." Donna Jo Napoli & Richard Tchen, *Spinners* 85 (1999).
+In ancient Greece, the people of Sparta were known as being stoical, frugal, simple, laconic, brave, disciplined, and indifferent to comfort or luxury. From them we get the adjective *spartan*, which describes someone with the qualities just listed \<the spartan pioneers of the American West\>. By extension, a person's surroundings, diet, or lifestyle can be spartan when comforts or luxuries are few \<a spartan life on the prairie\>. E.g.: "He doesn't like the idea of Elke entering his home and seeing how bare he keeps it, how *spartan* his life is." Donna Jo Napoli & Richard Tchen, *Spinners* 85 (1999).
 
-The word *sparse* means "not densely packed; scattered" <sparse trees on the plain> <a sparsely populated area>.
+The word *sparse* means "not densely packed; scattered" \<sparse trees on the plain\> \<a sparsely populated area\>.
 
 Undoubtedly through mistaken sound association, people have begun misusing *sparse* for *spartan*—e.g.:
 

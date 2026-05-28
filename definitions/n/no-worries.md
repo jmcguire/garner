@@ -10,7 +10,7 @@ The actor and writer Paul Hogan popularized the phrase outside Australia in his 
 
  - " ‘*No worries*,' said Lonie, an Australian who was the only non-Californian signed by Tedford." Jay Heater, "Cal Didn't Venture Far in Finding Strong Recruiting Class," *San Jose Mercury News*, 5 Feb. 2004, Sports §, at 3.
 
-But beginning about the year 2000, the expression had spread into mainstream AmE without any hint of its foreignness. The phrase now commonly appears without any reference to Australia at all, as in the title of Chris Tomasson's March 2004 article: "No Ball? No Basket? *No Worries,*" *Rocky Mountain News* (Denver), 19 Mar. 2004, at C7. Sometimes the phrase is part of the syntax <they had no worries about the weather that afternoon>, but often it's a catchphrase used as an incomplete sentence (and this is the quintessential Australianism)—e.g.:
+But beginning about the year 2000, the expression had spread into mainstream AmE without any hint of its foreignness. The phrase now commonly appears without any reference to Australia at all, as in the title of Chris Tomasson's March 2004 article: "No Ball? No Basket? *No Worries,*" *Rocky Mountain News* (Denver), 19 Mar. 2004, at C7. Sometimes the phrase is part of the syntax \<they had no worries about the weather that afternoon\>, but often it's a catchphrase used as an incomplete sentence (and this is the quintessential Australianism)—e.g.:
 
  - "Rachel McQuillan joined the million-dollar club more than four years ago, an elite group mostly occupied by players known by their first names. And she owns an Olympic bronze medal in doubles from Barcelona in 1992. *No worries*, right?" Lisa Dillman, "First Round Is All Good for Lucky Loser Tennis," *L.A. Times*, 9 Mar. 2001, at D9.
 

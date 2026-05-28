@@ -1,6 +1,6 @@
 # statutory
 
-statutory; \***statutorial**. *Statutory* = (1) of, relating to, or involving legislation <statutory construction>; or (2) legislatively created <the law of patents is purely statutory>.
+statutory; \***statutorial**. *Statutory* = (1) of, relating to, or involving legislation \<statutory construction\>; or (2) legislatively created \<the law of patents is purely statutory\>.
 
 *\*Statutorial* is a needless variant not recognized in the dictionaries. But it sometimes appears in print—e.g.:
 

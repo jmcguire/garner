@@ -1,6 +1,6 @@
-# skid > skidded > skidded
+# skid \> skidded \> skidded
 
-skid > skidded > skidded. So inflected. *Skid* is an incorrect past tense that occurs only in AmE—e.g.:
+skid \> skidded \> skidded. So inflected. *Skid* is an incorrect past tense that occurs only in AmE—e.g.:
 
  - "Deputies said Brooks' southbound car *skid* \[read *skidded*\] out of control on a curve." "Two Men Are Killed, Two Injured in Overnight Crashes," *Indianapolis News*, 19 Mar. 1996, at D7.
 

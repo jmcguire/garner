@@ -8,7 +8,7 @@ bar; **debar**; **disbar**. The first two have closely related meanings. *Bar* m
 
  - "Lohmar is *barred* by judicial rules from talking about the Conard-King matter, which started Nov. 29." Nordeka English, "Controversial Cases Stir Lohmar-Cundiff Contest for Judge," *St. Louis Post-Dispatch*, 30 Oct. 1996, at 1.
 
-In a corresponding sense, *bar* serves as a noun as well <a bar to all claims>.
+In a corresponding sense, *bar* serves as a noun as well \<a bar to all claims\>.
 
 *Debar*, a somewhat archaic formal word, means "to preclude from having or doing (a thing), or entering (a realm of activity)." It is more common in BrE than in AmE—e.g.:
 

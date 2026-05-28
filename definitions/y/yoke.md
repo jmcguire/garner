@@ -1,6 +1,6 @@
 # yoke
 
-yoke; **yolk**. *Yoke* = (1) a twice-curved, usu. wooden beam with U-shaped brackets beneath to enclose the necks of two oxen or other draft animals <after a struggle, the oxen were fitted into the yoke>; or (2) a pair of animals suitable for yoking <a yoke of oxen>. *Yolk* = the yellow center of an egg <he liked omelettes made with egg whites—he didn't miss the yolks>. *Yoke* is sometimes a verb; *yolk* never is.
+yoke; **yolk**. *Yoke* = (1) a twice-curved, usu. wooden beam with U-shaped brackets beneath to enclose the necks of two oxen or other draft animals \<after a struggle, the oxen were fitted into the yoke\>; or (2) a pair of animals suitable for yoking \<a yoke of oxen\>. *Yolk* = the yellow center of an egg \<he liked omelettes made with egg whites—he didn't miss the yolks\>. *Yoke* is sometimes a verb; *yolk* never is.
 
 With this pair, word-swapping is fairly common. Sometimes *yolk* is misused for *yoke*—e.g.:
 

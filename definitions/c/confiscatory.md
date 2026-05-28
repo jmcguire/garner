@@ -8,5 +8,5 @@ confiscatory /kәn-**fis**-kә-tor-ee/ is the adjective corresponding to the ver
 
  - "Noticeable is the state's *confiscatory* $200 annual license fee for electric cars." Max Brantley, "Mayor Proclaims Electric Vehicle Week in Little Rock," *Ark. Times*, 24 Sept. 2021.
 
-Colloquially, the word bears the sense "stealing with legal authority" <confiscatory landlords>.
+Colloquially, the word bears the sense "stealing with legal authority" \<confiscatory landlords\>.
 

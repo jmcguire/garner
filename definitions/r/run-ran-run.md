@@ -1,4 +1,4 @@
-# run > ran > run
+# run \> ran \> run
 
-run > ran > run. So inflected. See irregular verbs.
+run \> ran \> run. So inflected. See irregular verbs.
 

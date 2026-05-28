@@ -16,7 +16,7 @@ often.
 
  - "Smoke and smells from nearby concession stands *ofttimes* \[read *often*\] wafted over the courts." Frederick C. Klein, "Plenty of Lunch Seating, but U.S. Open Stadium Isn't All for the Masses," *Wall Street J.*, 29 Aug. 1997, at B4.
 
-About the only time *oft* is justified is when it's part of a phrasal adjective <an oft-quoted passage>. Cf. **once** & **then (a)**.
+About the only time *oft* is justified is when it's part of a phrasal adjective \<an oft-quoted passage\>. Cf. **once** & **then (a)**.
 
  - Current ratio in print (*often very* vs. *oftentimes very* vs. *ofttimes very* vs. *oft very*): 6,304:31:1.05:1
 

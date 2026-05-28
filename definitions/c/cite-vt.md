@@ -1,6 +1,6 @@
 # cite, vt
 
-cite, v.t. **A. General Senses and Use.** *Cite*, v.t., = (1) to commend <the mayor cited him for his charitable giving>; (2) to adduce as authority <in arguing the point, he cited the 11th edition of *Encyclopaedia Britannica*>; or (3) to summon before a court of law <he was cited for contempt>.
+cite, v.t. **A. General Senses and Use.** *Cite*, v.t., = (1) to commend \<the mayor cited him for his charitable giving\>; (2) to adduce as authority \<in arguing the point, he cited the 11th edition of *Encyclopaedia Britannica*\>; or (3) to summon before a court of law \<he was cited for contempt\>.
 
 In sense 2, the object of *cite* should be the authority cited, not the person to whom it is cited. The following loose usage is not uncommon in AmE: "Plaintiff is unable to *cite the court to any Connecticut cases which* \[read *cite any Connecticut cases that*\] answer this question." "Property," *Conn. Law Trib.*, 1 Apr. 1996, at 374 (reporting a law case). See object-shuffling.
 

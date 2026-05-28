@@ -12,7 +12,7 @@ Today this sense is relatively common—e.g.:
 
  - "The double-name *gambit* \[read *trick*\] isn't new to Chicago." Betsy Rothstein, "Coping with Burden of Being Jesse Jackson Jr.," *The Hill*, 10 Apr. 2002, at 36.
 
-**B. For *gamut*.** *Gamut* = a full range or extent, literally of musical notes, but more often figuratively of anything <the gamut of available options>. Misusing *gambit* for *gamut* is an increasingly common malapropism—e.g.:
+**B. For *gamut*.** *Gamut* = a full range or extent, literally of musical notes, but more often figuratively of anything \<the gamut of available options\>. Misusing *gambit* for *gamut* is an increasingly common malapropism—e.g.:
 
  - "Participants run the *gambit* \[read *gamut*\] of age and experience from 14-year-old riders to men in their early 20s with very little exposure to the bulls." Donna Logan Wisdom, "Despite Risk, Amateur Bull Riders Chase Rodeo Dreams," *Times Union* (Albany), 28 May 1995, at G1.
 

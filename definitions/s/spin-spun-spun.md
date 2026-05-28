@@ -1,6 +1,6 @@
-# spin > spun > spun
+# spin \> spun \> spun
 
-spin > spun > spun. This irregular verb is so inflected in AmE and BrE alike. *Span* is obsolete as an inflected form of *spin*, though some writers so use it (more commonly in BrE than in AmE)—e.g.:
+spin \> spun \> spun. This irregular verb is so inflected in AmE and BrE alike. *Span* is obsolete as an inflected form of *spin*, though some writers so use it (more commonly in BrE than in AmE)—e.g.:
 
  - "The hot road *span* \[read *spun*\] away behind her." Dorothy L. Sayers, *Gaudy Night* 4 (1936; repr. 1995).
 

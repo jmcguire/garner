@@ -1,6 +1,6 @@
 # underway
 
-underway; **under way**. Some dictionaries record the term as two words when used adverbially, one word when used as an adjective preceding the noun <underway refueling>. In the phrases *get underway* (= to get into motion) and *be underway* (= to be in progress), the term is increasingly made one word, and it would be convenient to make that transformation, which has been underway since the 1960s, complete in all uses of the word.
+underway; **under way**. Some dictionaries record the term as two words when used adverbially, one word when used as an adjective preceding the noun \<underway refueling\>. In the phrases *get underway* (= to get into motion) and *be underway* (= to be in progress), the term is increasingly made one word, and it would be convenient to make that transformation, which has been underway since the 1960s, complete in all uses of the word.
 
 *\*Under weigh* for *underway* is a visual malapropism undoubtedly based on a mistaken association with the nautical phrase *to weigh anchor*—e.g.:
 

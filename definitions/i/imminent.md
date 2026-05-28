@@ -1,6 +1,6 @@
 # imminent
 
-imminent; **eminent**; **immanent**. *Imminent* = certain and very near; impending <imminent danger>. *Eminent* = distinguished; unimpeachable <Moore is an eminent cardiac surgeon>. (See **eminently**.) *Immanent* (primarily a theological term) = inherent; pervading the material world <the immanent goodness of the divine will>.
+imminent; **eminent**; **immanent**. *Imminent* = certain and very near; impending \<imminent danger\>. *Eminent* = distinguished; unimpeachable \<Moore is an eminent cardiac surgeon\>. (See **eminently**.) *Immanent* (primarily a theological term) = inherent; pervading the material world \<the immanent goodness of the divine will\>.
 
 These words are misused in more ways than you might suppose. *Imminent*, of course, ousts *eminent* from its rightful place (perhaps the most common misusage)—e.g.:
 

@@ -1,6 +1,6 @@
-# highlight > highlighted > highlighted
+# highlight \> highlighted \> highlighted
 
-highlight > highlighted > highlighted. So inflected. *\*Highlit* is a variant past-tense and past-participial form that occasionally surfaces—e.g.:
+highlight \> highlighted \> highlighted. So inflected. *\*Highlit* is a variant past-tense and past-participial form that occasionally surfaces—e.g.:
 
  - "The story is read aloud at a speed suggesting a pre-literate user, \[and\] *highlit* \[read *highlighted*\] words are defined at a level appropriate for a smart 5th grader." "Says You," *Wash. Post*, 29 Mar. 1995, at R25.
 

@@ -28,7 +28,7 @@ But some believe the gerund/participle distinction to be illusory. After all, wh
 
 The so-called gerund-participle has many uses. Fowler used a hopelessly outmoded example, contrasting *women's having the vote* (= the fact that women are eligible to vote) with *women having the vote* (= women who are eligible to vote). Fowler seemed to think that the fused participle arose because people confused the two meanings. Whether or not that is so, here we are concerned only with the former construction, the clauses that basically express facts. The other constructions using the -*ing* form are irrelevant. (*I heard Jenny coming in last night*, for example, has *Jenny* as direct object; it means "I heard Jenny last night, as she came in," and putting the possessive case on *Jenny* would be a mistake.)
 
-In the relevant constructions, using a possessive isn't obligatory—and is sometimes even inappropriate. For example, there's typically no choice involved when you're using nonpersonal nouns <he was responsible for the luggage having been lost>, nonpersonal pronouns <she couldn't accept nothing being done about the problem>, and noun phrases ending in pronouns, as in *some of them* <he regretted some of them being left out in the rain>. For a scholarly discussion of still other exceptions, see Thomas Nunnally, "The Possessive with Gerunds," 66 *Am. Speech* 359, 363–65 (1991).
+In the relevant constructions, using a possessive isn't obligatory—and is sometimes even inappropriate. For example, there's typically no choice involved when you're using nonpersonal nouns \<he was responsible for the luggage having been lost\>, nonpersonal pronouns \<she couldn't accept nothing being done about the problem\>, and noun phrases ending in pronouns, as in *some of them* \<he regretted some of them being left out in the rain\>. For a scholarly discussion of still other exceptions, see Thomas Nunnally, "The Possessive with Gerunds," 66 *Am. Speech* 359, 363–65 (1991).
 
 In modern print sources, fused participles are more likely to be encountered in BrE than in AmE. In one short piece in a leading English newspaper, for example, these two examples appeared:
 
@@ -42,7 +42,7 @@ Trigger warning: the following ratios aren't altogether comforting to traditiona
 
 ## Language-Change Index
 
-Garden-variety fused participle <I can understand him not wanting to participate>: Stage 3
+Garden-variety fused participle \<I can understand him not wanting to participate\>: Stage 3
  - Current ratio in print (*resent their being* vs. *resent them being* in World Englishes): 1.5:1
  - Current ratio in print (*appreciate you coming* vs. *appreciate your coming* in AmE): 2:1
  - Current ratio in print (*appreciate you coming* vs. *appreciate your coming* in BrE): 3:1

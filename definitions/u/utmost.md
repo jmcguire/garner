@@ -1,6 +1,6 @@
 # utmost
 
-utmost, adj.; **upmost**, adj. The usual word is *utmost* (= most extreme; of the greatest urgency or intensity) <an issue of the utmost importance>. *Upmost* (= highest; farthest up) is a fairly uncommon variant of *uppermost*. Yet writers have begun misusing *upmost* in contexts where *utmost* is called for—e.g.:
+utmost, adj.; **upmost**, adj. The usual word is *utmost* (= most extreme; of the greatest urgency or intensity) \<an issue of the utmost importance\>. *Upmost* (= highest; farthest up) is a fairly uncommon variant of *uppermost*. Yet writers have begun misusing *upmost* in contexts where *utmost* is called for—e.g.:
 
  - "In a competitive industry where repeat visitors are of *upmost* \[read *utmost*\] importance, how long can Legoland focus primarily on 3- to 12-year-olds?" Mike Freeman, "Legoland Is Zoned for Kids," *San Diego Union-Trib*., 19 Mar. 2000, at I1.
 

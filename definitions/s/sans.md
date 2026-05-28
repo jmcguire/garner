@@ -8,5 +8,5 @@ sans is an archaic literary gallicism to be avoided, unless a tongue-in-cheek or
 
  - "It was here, originally *sans* \[read *without*\] dancers and dance moves, that the singer actually became the star." Mike Bell, "Janet Jackson Delivers Hits and Misses," *Calgary Herald*, 3 Sept. 2015, at C2.
 
-As an English word, it's pronounced /sanz/, not /sahnz/. In fact, though, its most frequent use in English is as part of a larger French phrase <sans doute> <sans culottes>, in which it would normally take more of a French pronunciation.
+As an English word, it's pronounced /sanz/, not /sahnz/. In fact, though, its most frequent use in English is as part of a larger French phrase \<sans doute\> \<sans culottes\>, in which it would normally take more of a French pronunciation.
 

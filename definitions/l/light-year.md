@@ -1,6 +1,6 @@
 # light-year
 
-light-year; **parsec**. Despite their appearance, these terms measure distance, not time. A *light-year* is the distance that light travels in one year in a vacuum (about 5.88 trillion miles). Although some figurative uses accurately reflect distances <the next town seemed light-years away>, the popular mind makes the term refer to time—e.g.:
+light-year; **parsec**. Despite their appearance, these terms measure distance, not time. A *light-year* is the distance that light travels in one year in a vacuum (about 5.88 trillion miles). Although some figurative uses accurately reflect distances \<the next town seemed light-years away\>, the popular mind makes the term refer to time—e.g.:
 
  - "And needless to say, the special effects are *light years ahead* \[read *way ahead*\] of what Disney had in the '60s." Dan Taylor, " ‘Anastasia' a Flub? ‘Flubber' Fine Art?," *Press Democrat* (Santa Rosa), 7 Dec. 1997, at Q27.
 

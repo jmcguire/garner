@@ -1,6 +1,6 @@
 # role
 
-role; **roll**. Like many other homophones, these are subject to word-swapping. *Roll* has many senses, including breadstuff, but the sense that most commonly causes problems is "a list or register; roster" <the teacher took roll>. *Role*, by contrast, means "a function or part, as in a drama." E.g.:
+role; **roll**. Like many other homophones, these are subject to word-swapping. *Roll* has many senses, including breadstuff, but the sense that most commonly causes problems is "a list or register; roster" \<the teacher took roll\>. *Role*, by contrast, means "a function or part, as in a drama." E.g.:
 
  - "She has no children with names such as Johnny, John, Peter, Paul, Mary or Martha. Instead, a sampling of names on one of her *roles* \[read *rolls*\] includes Tiana, Victoria, Carmen, Melissa, Christopher, Phillip, Tyler and Allegra." Marlene Feduris, "What's in a Name?," *Amarillo Globe-News*, 24 May 1992, at D1.
 

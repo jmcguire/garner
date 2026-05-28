@@ -1,6 +1,6 @@
 # effective
 
-effective; **efficacious**; **efficient**; **effectual**. All these words mean generally "having effect," but they have distinctive applications. *Effective* = (1) having a high degree of effect (used of a thing done or of the doer) <more effective study habits>; or (2) coming into effect <effective June 3, 1994>. *Efficacious* = certain to have the desired effect (used of things) <efficacious drugs>. *Efficient* = competent to perform a task; capable of bringing about a desired effect (used of agents or their actions or instruments) <an efficient organization>. *Efficient* increasingly has economic connotations.
+effective; **efficacious**; **efficient**; **effectual**. All these words mean generally "having effect," but they have distinctive applications. *Effective* = (1) having a high degree of effect (used of a thing done or of the doer) \<more effective study habits\>; or (2) coming into effect \<effective June 3, 1994\>. *Efficacious* = certain to have the desired effect (used of things) \<efficacious drugs\>. *Efficient* = competent to perform a task; capable of bringing about a desired effect (used of agents or their actions or instruments) \<an efficient organization\>. *Efficient* increasingly has economic connotations.
 
 *Effectual*, the most uncommon and perhaps most troublesome of these words, means "achieving the overall effect aimed at"—e.g.:
 
@@ -18,7 +18,7 @@ Why the most troublesome? Because *effectual* is often stretched to describe a p
 
  - "Staffing of the role with *effectual* \[read *effective*\] individuals is crucial for maximizing an asset's effects." Hugh McFadden, "Common Sense: Improving the Efficacy of Wide Area Surveillance," *Air & Space Power J.*, Mar.–Apr. 2015, at 74.
 
-This stretch is all the more understandable because the negative form—*ineffectual*—usually does describe a person <an ineffectual manager>. But the history of *effectual* has not been parallel: most often, it doesn't refer to people.
+This stretch is all the more understandable because the negative form—*ineffectual*—usually does describe a person \<an ineffectual manager\>. But the history of *effectual* has not been parallel: most often, it doesn't refer to people.
 
 On the use of *effectually* for *effectively*, see **effectively**.
 

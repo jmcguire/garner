@@ -1,4 +1,4 @@
-# be > was > been
+# be \> was \> been
 
-be > was > been. So inflected. See be-verbs & irregular verbs.
+be \> was \> been. So inflected. See be-verbs & irregular verbs.
 

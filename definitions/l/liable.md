@@ -6,7 +6,7 @@ liable (= subject to or exposed to) should not be used merely for *likely*. *Lia
 
  - "Taking away any function for more than a few days is *liable* to result in loss of that capability." Richard J. Ham, "After the Diagnosis," *Post Graduate Medicine*, June 1997, at 57.
 
-In law, *liable* also means "responsible" or "subject to a penalty" <the landowner may be liable if someone is injured while on the land>.
+In law, *liable* also means "responsible" or "subject to a penalty" \<the landowner may be liable if someone is injured while on the land\>.
 
 *Liable* has three syllables (/**lī**-ә-bәl/), not two, and so is pronounced differently from *libel*.
 

@@ -2,7 +2,7 @@
 
 tell.
 
-**A. Inflected Forms: *tell* > *told* > *told*.** See irregular verbs.
+**A. Inflected Forms: *tell* \> *told* \> *told*.** See irregular verbs.
 
 **B. And *say*.** The verbs *tell* and *say* have distinct uses that most native speakers of English instinctively understand. Idiomatically speaking, you *say* that something is so, or you *tell* someone that something is so. *Tell*, in other words, needs a personal indirect object —a hearer or reader mentioned or clearly implied in the sentence. You don't *tell* that something is so, but instead *tell someone* that something is so—e.g.:
 

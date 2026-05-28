@@ -2,7 +2,7 @@
 
 aside.
 
-**A. Mistakenly Meaning "on each side.**" *Aside*, adv., properly means "to one side, on one side" <she lay the book aside and fell asleep>. But it's sometimes used wrongly in the sense "on each side, per side"—e.g.:
+**A. Mistakenly Meaning "on each side.**" *Aside*, adv., properly means "to one side, on one side" \<she lay the book aside and fell asleep\>. But it's sometimes used wrongly in the sense "on each side, per side"—e.g.:
 
  - "For the lawyers, and there are three *aside* \[read *for each side*\] in this case, \[jury selection\] is vitally important." Christie Blatchford, "The End of the Beginning," *Toronto Sun*, 15 Nov. 1995, at 5.
 

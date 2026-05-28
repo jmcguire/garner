@@ -1,6 +1,6 @@
-# cablecast > cablecast > cablecast
+# cablecast \> cablecast \> cablecast
 
-cablecast > cablecast > cablecast. Dating from the mid-1960s, this verb is so inflected. The weak past form *\*cablecasted* is nonstandard—e.g.:
+cablecast \> cablecast \> cablecast. Dating from the mid-1960s, this verb is so inflected. The weak past form *\*cablecasted* is nonstandard—e.g.:
 
  - "The release of ‘Flaming Pie' was delayed a week to allow the publicity express to rev up on VH-1 (which *cablecasted* \[read *cablecast*\] a week of McCartney promotions) and the Internet (which featured an online McCartney chat and live audio and video)." "Entertainment Briefs," *Chicago Sun-Times*, 21 May 1997, at 51.
 

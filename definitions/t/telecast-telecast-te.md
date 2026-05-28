@@ -1,6 +1,6 @@
-# telecast > telecast > telecast
+# telecast \> telecast \> telecast
 
-telecast > telecast > telecast. So inflected. Avoid *\*telecasted*—e.g.:
+telecast \> telecast \> telecast. So inflected. Avoid *\*telecasted*—e.g.:
 
  - "NBC, which *telecasted* \[read *telecast*\] the event, could not have been pleased by the card." Doug Chapman, "Women's Final a Lackluster Battle Between Geezers," *Providence J.-Bull.*, 5 July 1998, at E13.
 

@@ -1,6 +1,6 @@
 # teem with
 
-teem with (= to abound; be in plentiful supply) should be followed by a count noun <the pond is teeming with fish> <our suggestion box is teeming with slips>. But sometimes it's misused for *rich in*, when applied to abstract noncount nouns—e.g.:
+teem with (= to abound; be in plentiful supply) should be followed by a count noun \<the pond is teeming with fish\> \<our suggestion box is teeming with slips\>. But sometimes it's misused for *rich in*, when applied to abstract noncount nouns—e.g.:
 
  - "Lancaster County is *teeming with* \[read *rich in*\] history." Donald Wagner, "Touring Historic Manheim," *Lancaster New Era*, 31 May 1997, at A6.
 

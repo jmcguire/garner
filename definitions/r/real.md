@@ -1,6 +1,6 @@
 # real
 
-real, adj., in its nontechnical uses, may describe (1) what actually exists and is not just imagined <the Tooth Fairy isn't a real person>, (2) what is genuine and not artificial <a real mink coat>, (3) what is actual and is not made up <the real reason for your tardiness>, (4) what has all the qualities that one associates with a thing <your first real job>, (5) what is experienced outside a protective cocoon <the real world>, or (6) what genuinely exists and is important in some way <a real danger we face>. Commentators have sometimes criticized sense 6 as a weasel word that merely props up a noun that shouldn't need propping up—as in *real difficulty*, *real facts*, *real risk*, etc. Be aware of this problem.
+real, adj., in its nontechnical uses, may describe (1) what actually exists and is not just imagined \<the Tooth Fairy isn't a real person\>, (2) what is genuine and not artificial \<a real mink coat\>, (3) what is actual and is not made up \<the real reason for your tardiness\>, (4) what has all the qualities that one associates with a thing \<your first real job\>, (5) what is experienced outside a protective cocoon \<the real world\>, or (6) what genuinely exists and is important in some way \<a real danger we face\>. Commentators have sometimes criticized sense 6 as a weasel word that merely props up a noun that shouldn't need propping up—as in *real difficulty*, *real facts*, *real risk*, etc. Be aware of this problem.
 
 Since the early 1700s, *real* has been considered dialectal when used for *very*—e.g.:
 
@@ -22,6 +22,6 @@ See dialect.
 
 ## Language-Change Index
 
- - *real* for *really* <*\**he's feeling real bad>: Stage 3
+ - *real* for *really* \<*\**he's feeling real bad\>: Stage 3
  - Current ratio in print (*feeling really bad* vs. *\*feeling real bad*): 10:1
 

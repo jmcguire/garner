@@ -1,6 +1,6 @@
 # \*had have
 
-\*had have; \***had've**; **\*had of**. All these constructions are nonstandard: they contain excrescent nonfinite occurrences of *have* that are grammatically hard to account for. In every case, the word *had* is sufficient by itself. *Had* is the auxiliary verb used in forming the past-perfect tense. It commonly expresses a past condition <if I had been there, I would have said something> or a wish <I wish I had been there>. (See tenses (a).) A superfluous *have* after *had* is typical of dialect, and it sometimes makes its way into print—e.g.:
+\*had have; \***had've**; **\*had of**. All these constructions are nonstandard: they contain excrescent nonfinite occurrences of *have* that are grammatically hard to account for. In every case, the word *had* is sufficient by itself. *Had* is the auxiliary verb used in forming the past-perfect tense. It commonly expresses a past condition \<if I had been there, I would have said something\> or a wish \<I wish I had been there\>. (See tenses (a).) A superfluous *have* after *had* is typical of dialect, and it sometimes makes its way into print—e.g.:
 
  - "Lazutina said her success would not have happened if she *had have* \[read *had*\] stayed with Grushin." "Russia Earns Women's Cross-Country Sweep," *Salt Lake Trib.*, 20 Feb. 1998, at D4.
 

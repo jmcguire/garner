@@ -66,7 +66,7 @@ defund (2010s)
 
 disconnect, n. (1990s)
 
-disruptive, disrupter <disruptive technologies> (2000s)
+disruptive, disrupter \<disruptive technologies\> (2000s)
 
 dog whistle (figurative uses) (2010s)
 
@@ -100,7 +100,7 @@ framework (1930s)
 
 Get over it. (2000s)
 
-ghost, vb. <she's ghosting us> (2010s)
+ghost, vb. \<she's ghosting us\> (2010s)
 
 Go big\! (2010s)
 
@@ -116,7 +116,7 @@ grow your business (1990s)
 
 icon, iconic (2000s)
 
-identify with <I can identify with you> (1950s)
+identify with \<I can identify with you\> (1950s)
 
 impact, vb. (1970s)
 
@@ -150,7 +150,7 @@ methodology (1960s)
 
 mindfulness (1990s)
 
-modeling <modeling certain behaviors> (1960s)
+modeling \<modeling certain behaviors\> (1960s)
 
 moving forward (2000s)
 
@@ -174,7 +174,7 @@ on the same page (1990s)
 
 overly (1940s)
 
-own <owning your adversary> (2000s)
+own \<owning your adversary\> (2000s)
 
 parameters (1950s)
 
@@ -190,9 +190,9 @@ put it out there (2000s)
 
 quantum leap (1960s)
 
-relate, v.i. <I can relate to that> (1980s)
+relate, v.i. \<I can relate to that\> (1980s)
 
-resonate <does that resonate with you?> (1990s)
+resonate \<does that resonate with you?\> (1990s)
 
 send a message (1980s)
 

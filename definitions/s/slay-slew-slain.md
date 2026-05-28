@@ -1,6 +1,6 @@
-# slay > slew > slain
+# slay \> slew \> slain
 
-slay > slew > slain.
+slay \> slew \> slain.
 
 **A. Generally.** *Slay* = (1) to kill; or (2) to overwhelm, often with delight. In sense 1, the verb has gradually been disappearing from common use except in poetry, fantasy writing, headlines, and references to crime victims—e.g., *her son was slain by a stranger in* *2002*. Even that usage is unusual; the more usual word would be *killed* or *murdered*.
 

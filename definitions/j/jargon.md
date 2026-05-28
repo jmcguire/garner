@@ -2,7 +2,7 @@
 
 Jargon refers to the special, usually technical idiom of any social, occupational, or professional group. It arises from the need to streamline communication, to save time and space—and occasionally to conceal meaning from the uninitiated. The subject has a magnified importance today because we live "in an age when vague rhetoric and incomprehensible jargon predominate." Oliver Letwin, "Good Servant, Bad Master," *Times* (London), 25 May 1995, Books §, at 37.
 
-Jargon covers a broad span of vocabulary. For the commonplace medical phrase *heart bypass surgery*, a range of jargon is available. There's the much more technical (and more verbose) *coronary artery bypass graft*. From that phrase comes the acronym *CABG*, pronounced the same as *cabbage* <we're going to have to give him a CABG>. Some heart surgeons, who would have nothing to do with such slang, prefer the pompously arcane *myocardial revascularization*. But whatever the name, it's all bypass surgery.
+Jargon covers a broad span of vocabulary. For the commonplace medical phrase *heart bypass surgery*, a range of jargon is available. There's the much more technical (and more verbose) *coronary artery bypass graft*. From that phrase comes the acronym *CABG*, pronounced the same as *cabbage* \<we're going to have to give him a CABG\>. Some heart surgeons, who would have nothing to do with such slang, prefer the pompously arcane *myocardial revascularization*. But whatever the name, it's all bypass surgery.
 
 Other examples of medical jargon abound:
 

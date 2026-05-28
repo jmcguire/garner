@@ -1,6 +1,6 @@
 # chronic
 
-chronic is best reserved to describe diseases and physical conditions that persist over time <a chronic backache>. But it is sometimes loosely and unwisely used for *habitual* or *inveterate*—e.g.:
+chronic is best reserved to describe diseases and physical conditions that persist over time \<a chronic backache\>. But it is sometimes loosely and unwisely used for *habitual* or *inveterate*—e.g.:
 
  - "High school football coaches are *chronic* \[read *habitual*\] exaggerators." Jim Browitt, "Timberline, Lapwai in Crucial CIL Game," *Lewiston Morning Trib.* (Idaho), 1 Oct. 1993, at B4.
 

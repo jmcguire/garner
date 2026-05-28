@@ -1,6 +1,6 @@
 # bemuse
 
-bemuse; **amuse**. The meanings of these two words differ significantly. *Bemuse* = (1) to make confused or muddled; bewilder <the jury was bemused by all the technical evidence>; or (2) to plunge into thought; preoccupy <the math student was bemused with the concept of infinity>. *Amuse*, of course, means "to entertain" or "to cause laughter in" <the speaker amused the audience with various anecdotes>.
+bemuse; **amuse**. The meanings of these two words differ significantly. *Bemuse* = (1) to make confused or muddled; bewilder \<the jury was bemused by all the technical evidence\>; or (2) to plunge into thought; preoccupy \<the math student was bemused with the concept of infinity\>. *Amuse*, of course, means "to entertain" or "to cause laughter in" \<the speaker amused the audience with various anecdotes\>.
 
 Yet many writers mistakenly use *bemuse* as a synonym for *amuse*—e.g.:
 

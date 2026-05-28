@@ -1,6 +1,6 @@
 # adoptive
 
-adoptive; adopted. *Adoptive* = (1) related by adoption <adoptive parents>; or (2) tending to adopt <first he took an adoptive posture toward the proposal, but then he rejected it>. The phrase *\*adopted father* is an example of hypallage, to be avoided in favor of *adoptive father*. The Latin sourceword, *adoptivus*, applied both to the adopting parent and to the adopted child. But today *adoptive* is almost always used to refer to the adults rather than the children. This has been true, however, only since about 1940. In the 1800s, *\*adopted father* predominated. But it has fallen off greatly since the mid-20th century.
+adoptive; adopted. *Adoptive* = (1) related by adoption \<adoptive parents\>; or (2) tending to adopt \<first he took an adoptive posture toward the proposal, but then he rejected it\>. The phrase *\*adopted father* is an example of hypallage, to be avoided in favor of *adoptive father*. The Latin sourceword, *adoptivus*, applied both to the adopting parent and to the adopted child. But today *adoptive* is almost always used to refer to the adults rather than the children. This has been true, however, only since about 1940. In the 1800s, *\*adopted father* predominated. But it has fallen off greatly since the mid-20th century.
 
 Another way of looking at it is to say that *adoptive* is the active form: an adoptive parent is one who has adopted a child. *Adopted* is the passive form: an adopted child is one who has been adopted by a parent. So what happens in extended senses?
 

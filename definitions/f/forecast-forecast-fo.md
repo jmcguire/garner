@@ -1,6 +1,6 @@
-# forecast > forecast > forecast
+# forecast \> forecast \> forecast
 
-forecast > forecast > forecast. So inflected. *\*Forecasted* is a solecism that spread during the 20th century and continues to reappear—e.g.:
+forecast \> forecast \> forecast. So inflected. *\*Forecasted* is a solecism that spread during the 20th century and continues to reappear—e.g.:
 
  - "In July 1996, Cohen *forecasted* \[read *forecast*\] that the Dow would pass 6000 by Dec. 31, and it did." Richard Wilner, "Goldman Offers 57 Partnerships," *N.Y. Post*, 21 Oct. 1998, at 39.
 

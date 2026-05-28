@@ -1,6 +1,6 @@
-# bet > bet > bet
+# bet \> bet \> bet
 
-bet > bet > bet. So inflected. *Bet*, not *\*betted*, is the preferred (and far more frequent) past tense and past participle. Still, the form *\*betted* occasionally appears, especially in BrE—e.g.:
+bet \> bet \> bet. So inflected. *Bet*, not *\*betted*, is the preferred (and far more frequent) past tense and past participle. Still, the form *\*betted* occasionally appears, especially in BrE—e.g.:
 
  - "Afternoon race cards from minor meetings in Britain are *betted* \[read *bet*\] on in Sri Lanka, Malaysia and India." "Galloping Globe-Trotters," *Economist*, 10 June 1995, at 82.
 

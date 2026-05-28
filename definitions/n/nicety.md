@@ -1,6 +1,6 @@
 # nicety
 
-nicety = (1) scrupulousness, fastidiousness, accuracy; (2) subtlety, difficulty, the quality of requiring a high level of precision; or (3) something elegant or refined; a luxury. Sense 3 is attested from the 1400s to the 1900s <clean linen and other niceties of apparel> and has continued into the 21st century. Given the primacy of senses 1 and 2, though, one wonders whether *luxuries* might not be a better word than *niceties* in the following sentences:
+nicety = (1) scrupulousness, fastidiousness, accuracy; (2) subtlety, difficulty, the quality of requiring a high level of precision; or (3) something elegant or refined; a luxury. Sense 3 is attested from the 1400s to the 1900s \<clean linen and other niceties of apparel\> and has continued into the 21st century. Given the primacy of senses 1 and 2, though, one wonders whether *luxuries* might not be a better word than *niceties* in the following sentences:
 
  - "Prior proposed certain *niceties* for the remodeled spa, including fancy ceiling tiles, nameplates labeling each room after mesquites, creosotes and other ‘healing powers of the desert' and a slight aroma of herbs and oils." Melissa Prentice, "Westward Look's New Spa Wants Its Clients to Relax," *Ariz. Daily Star*, 4 Dec. 1996, at E6.
 

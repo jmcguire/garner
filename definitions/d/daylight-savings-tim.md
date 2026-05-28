@@ -4,7 +4,7 @@ daylight-saving(s) time. Although the singular form *daylight-saving time* is th
 
 The rise of the plural form (*daylight-savings time*) appears to have resulted from the avoidance of a miscue: when *saving* is used, readers might momentarily puzzle over whether *saving* is a gerund (the saving of daylight) or a participle (the time for saving). Also, of course, we commonly speak of how to "save time" (of saving time), and this compounds the possible confusion. Using *savings* as the adjective—as in *savings account* or *savings bond*—makes perfect sense. But the singular form still appears in print twice as often as the plural. Cf. **saving(s)**.
 
-*Saving* is commonly omitted when used with the names of time zones <Pacific Daylight Time>, and when used as a general term to distinguish from standard time <2 p.m. daylight time>.
+*Saving* is commonly omitted when used with the names of time zones \<Pacific Daylight Time\>, and when used as a general term to distinguish from standard time \<2 p.m. daylight time\>.
 
 Regardless of whether you use the plural or the singular, you can prevent most miscues by hyphenating the phrasal adjective: *daylight-saving time* or *daylight-savings time*.
 

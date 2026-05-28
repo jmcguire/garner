@@ -2,7 +2,7 @@
 
 forbid.
 
-**A. Inflected Forms: *forbid* > *forbade* > *forbidden*.** The past tense is *forbade* (traditionally rhyming with *glad*)—e.g.: "\[Locke\] sharply distinguished the respective spheres of Church and State and *forbade* each from meddling in the other." Clifford Orwin, "Civility," 60 *Am. Scholar* 553, 557 (1991). *Forbid* is sometimes wrongly used as a past-tense form—e.g.:
+**A. Inflected Forms: *forbid* \> *forbade* \> *forbidden*.** The past tense is *forbade* (traditionally rhyming with *glad*)—e.g.: "\[Locke\] sharply distinguished the respective spheres of Church and State and *forbade* each from meddling in the other." Clifford Orwin, "Civility," 60 *Am. Scholar* 553, 557 (1991). *Forbid* is sometimes wrongly used as a past-tense form—e.g.:
 
  - "Susan has dropped the restraining order that once *forbid* \[read *forbade*\] him \[from making\] any contact with her." Brian Biggane, "Fitzpatrick's Life Improving, but His Time in Goal Isn't," *Palm Beach Post*, 31 Mar. 1995, at C1.
 

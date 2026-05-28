@@ -1,6 +1,6 @@
-# rid > rid > rid
+# rid \> rid \> rid
 
-rid > rid > rid. So inflected. *\*Ridded* is a variant to avoid—e.g.:
+rid \> rid \> rid. So inflected. *\*Ridded* is a variant to avoid—e.g.:
 
  - "The fish-eating public had a heyday the last time Williams and Badger were *ridded* \[read *rid*\] of non-game fish." Rich Landers, "State Won't Take Chance with Rotenone," *Spokesman-Rev.* (Spokane), 21 Sept. 1995, at C1.
 

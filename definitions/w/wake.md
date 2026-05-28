@@ -2,13 +2,13 @@
 
 wake; **awake; awaken**. The past-tense and past-participial forms of *wake* and its various siblings are perhaps the most vexing in the language. Following are the preferred declensions:
 
-wake > woke > waked (or woken)
+wake \> woke \> waked (or woken)
 
-awake > awoke > awaked (or awoken)
+awake \> awoke \> awaked (or awoken)
 
-awaken > awakened > awakened
+awaken \> awakened \> awakened
 
-wake up > woke up > waked up
+wake up \> woke up \> waked up
 
 See irregular verbs. For the past participle, AmE prefers *waked*; BrE prefers *woken*.
 

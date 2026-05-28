@@ -19,11 +19,11 @@ Directional Words .
 
 All these are also predominant today in BrE—except for *toward*. See **toward (a)**.
 
-A slight exception in AmE is the adverb *backwards*, which is frequently used (though still much less often than *backward*). (It's anomalous that many people who say *forward* also say *backwards*.) When *backward* and *forward* combine in a phrase (either word coming first), be consistent about omitting or using the *s*; by far the more common AmE usage is to leave it off both words. As an adjective, only *backward* is accepted <a backward move>. Cf. **afterwards**.
+A slight exception in AmE is the adverb *backwards*, which is frequently used (though still much less often than *backward*). (It's anomalous that many people who say *forward* also say *backwards*.) When *backward* and *forward* combine in a phrase (either word coming first), be consistent about omitting or using the *s*; by far the more common AmE usage is to leave it off both words. As an adjective, only *backward* is accepted \<a backward move\>. Cf. **afterwards**.
 
-**B. Capitalization.** The words *north*, *south*, *east*, and *west* (and compounds such as *southeast*) should not be capitalized when used to express directions <we went north>. They are properly capitalized when used as proper nouns denoting regions of the world or of a country <the Far East> <the Pacific Northwest>.
+**B. Capitalization.** The words *north*, *south*, *east*, and *west* (and compounds such as *southeast*) should not be capitalized when used to express directions \<we went north\>. They are properly capitalized when used as proper nouns denoting regions of the world or of a country \<the Far East\> \<the Pacific Northwest\>.
 
-When a directional word appears as an adjective before a geographic proper name, it is lowercase <eastern U.S.> <southern Italy> <south Florida>. But when the adjective is part of the proper name, it should be capitalized <North Dakota> <East Anglia>.
+When a directional word appears as an adjective before a geographic proper name, it is lowercase \<eastern U.S.\> \<southern Italy\> \<south Florida\>. But when the adjective is part of the proper name, it should be capitalized \<North Dakota\> \<East Anglia\>.
 
 In all varieties of English, the terms denoting denizens or natives of a particular region are generally capitalized: *Northerner*, *Southerner*, *Easterner*, *Westerner*, *Northeasterner*, *Northwesterner*, *Southeasterner*, *Southwesterner*, *Midwesterner*.
 

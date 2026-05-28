@@ -2,7 +2,7 @@
 
 preemptive; **peremptory**; **preemptory**. The adjectives most commonly used and distinguished are *preemptive* and *peremptory*.
 
-*Preemptive* = (1) of, relating to, or involving preemption <the agency's preemptive powers>; or (2) preventive, deterrent <a preemptive strike>.
+*Preemptive* = (1) of, relating to, or involving preemption \<the agency's preemptive powers\>; or (2) preventive, deterrent \<a preemptive strike\>.
 
 *Peremptory* = (1) incontrovertible; or (2) imperious, domineering. Sense 1: "Fortunately, Deaver gave Henry the hook before he could issue the usual *peremptory* command." Alexander Cockburn, "The End: Convention Seals Post-History Case," *Phoenix Gaz.*, 17 Aug. 1996, at B9. Sense 2: "In these books, the author's twisty, improbable plots feel implausible and contrived; her poised authorial manner, *peremptory* and pinched." Michiko Kakutani, "Her Serene Tyranny, a Mistress of Mayhem," *N.Y. Times*, 16 May 1997, at C29.
 

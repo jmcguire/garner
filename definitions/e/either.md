@@ -39,7 +39,7 @@ Nouns framed by *either . . . or* take a singular verb when the noun closest to 
 
 **F. *Either or both*.** This phrase denotes the meaning generally assigned to *and/or*. Generally speaking, though, neither phrase finds a place in good writing. E.g.: "*Either or both* \[read *Both*\] parties may expect increasing voter disinterest if they accept newly elected members running as members of the other party." Letter of Charles P. Hughes, "Whatta Deal?," *Chattanooga Times*, 13 Apr. 1995, at A6. (On the use of *disinterest* in that sentence, see **disinterest**.) See **and/or**.
 
-**G. Meaning "each of two" or "both."** *Either* in this sense <houses on either side of the street> is less common than *each* (or *both*). But it is perfectly idiomatic—e.g.: "The framed lists—there is one on *either* side of the chapel—are rolls of all the Dominican sisters from the Springfield Roman Catholic diocese." Steven Spearie, "Sisters in Spirit," *State J.-Register* (Springfield, Ill.), 28 Nov. 1997, at A7.
+**G. Meaning "each of two" or "both."** *Either* in this sense \<houses on either side of the street\> is less common than *each* (or *both*). But it is perfectly idiomatic—e.g.: "The framed lists—there is one on *either* side of the chapel—are rolls of all the Dominican sisters from the Springfield Roman Catholic diocese." Steven Spearie, "Sisters in Spirit," *State J.-Register* (Springfield, Ill.), 28 Nov. 1997, at A7.
 
 For more on *either . . . or*, see correlative conjunctions & parallelism.
 

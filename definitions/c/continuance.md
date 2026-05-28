@@ -4,7 +4,7 @@ continuance.
 
 **A. Opposed Senses.** *Continuance* has conflicting senses in lay and legal usage. Generally, it means (1) "keeping up, going on with, maintaining, or prolonging"; or (2) "duration; time of continuing." E.g.: "Every citizen also wants lower taxes and a *continuance* of any and all federal spending programs that directly have some positive impact on each one's lives." Larry A. Smith, "Future Shock: It's Entitlements, Stupid," *Fresno Bee*, 16 Nov. 1996, at B7. (For more on *each one's lives* in that sentence, see concord (b).)
 
-But in American law, *continuance* means "postponement; the adjournment or deferring of a trial or other proceeding until a future date" <motion for continuance>. E.g.: "Her trial is scheduled for late next month but a *continuance* is expected." Anne Koch, "Teen Says She Didn't Kill Pickup Driver," *Seattle Times*, 17 July 1996, at B3.
+But in American law, *continuance* means "postponement; the adjournment or deferring of a trial or other proceeding until a future date" \<motion for continuance\>. E.g.: "Her trial is scheduled for late next month but a *continuance* is expected." Anne Koch, "Teen Says She Didn't Kill Pickup Driver," *Seattle Times*, 17 July 1996, at B3.
 
 **B. And *continuation*; *continuity*.** *Continuation* is the general word denoting (1) the ongoing maintenance or prolongation of something, (2) the carrying on or resumption of an action, etc., or (3) something that prolongs, increases, or adds—e.g.:
 

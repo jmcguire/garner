@@ -2,7 +2,7 @@
 
 wreak.
 
-**A. Inflected Forms: *wreak* > *wreaked* > *wreaked*.** The past tense is not *wrought*, which is the archaic past tense and past participle of *work*.
+**A. Inflected Forms: *wreak* \> *wreaked* \> *wreaked*.** The past tense is not *wrought*, which is the archaic past tense and past participle of *work*.
 
 **B. Pronunciation.** *Wreak* is pronounced /reek/—not /rek/.
 

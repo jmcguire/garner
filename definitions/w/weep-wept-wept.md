@@ -1,6 +1,6 @@
-# weep > wept > wept
+# weep \> wept \> wept
 
-weep > wept > wept. So inflected. The archaic form *\*weeped*, more common in the 1700s than today, should be regarded as erroneous—e.g.:
+weep \> wept \> wept. So inflected. The archaic form *\*weeped*, more common in the 1700s than today, should be regarded as erroneous—e.g.:
 
  - "Players from both teams *weeped* \[read *wept*\] and prayed." Jarrett Bell, "Terrifying Injury Ends Player's NFL Career," *USA Today*, 23 Dec. 1997, at A1.
 

@@ -1,6 +1,6 @@
-# thrust > thrust > thrust
+# thrust \> thrust \> thrust
 
-thrust > thrust > thrust. So inflected. *\*Thrusted* is a common error—e.g.:
+thrust \> thrust \> thrust. So inflected. *\*Thrusted* is a common error—e.g.:
 
  - "They *thrusted* \[read *thrust*\] pens, paper, footballs and jerseys over the fence top for Young to sign." Gary Swan, "Young Already Trying to Run 49ers' Camp," *S.F. Chron.*, 20 July 1998, at C1.
 

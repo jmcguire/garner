@@ -1,6 +1,6 @@
-# fling > flung > flung
+# fling \> flung \> flung
 
-fling > flung > flung. So inflected. *\*Flinged* is a blunder—e.g.:
+fling \> flung \> flung. So inflected. *\*Flinged* is a blunder—e.g.:
 
  - "Ryan would have at least stomped his feet or *flinged* \[read *flung*\] a clipboard into the air, wouldn't he?" Bob McManaman, "Where Is Buddy Goat Gruff?," *Ariz. Republic*, 8 Oct. 1995, at E1.
 

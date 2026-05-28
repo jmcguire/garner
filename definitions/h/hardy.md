@@ -1,6 +1,6 @@
 # hardy
 
-hardy; **hearty**. *Hardy* = bold, vigorous, robust. *Hearty* = (1) warm and enthusiastic <a hearty greeting>; (2) strong and healthy <a hearty rancher>; (3) (of food) nourishing, satisfying <a hearty meal>; or (4) (of an eater) needing or demanding plenty of food <a hearty appetite>. Although sense 2 of *hearty* overlaps somewhat with *hardy* (and is therefore avoided by some careful writers), the other senses don't. Still, some writers confuse the two words—e.g.:
+hardy; **hearty**. *Hardy* = bold, vigorous, robust. *Hearty* = (1) warm and enthusiastic \<a hearty greeting\>; (2) strong and healthy \<a hearty rancher\>; (3) (of food) nourishing, satisfying \<a hearty meal\>; or (4) (of an eater) needing or demanding plenty of food \<a hearty appetite\>. Although sense 2 of *hearty* overlaps somewhat with *hardy* (and is therefore avoided by some careful writers), the other senses don't. Still, some writers confuse the two words—e.g.:
 
  - Sense 1: "A *hardy* \[read *hearty*\] welcome home to Cleo Parker Robinson and the 18 members of her dance troupe." Robert Jackson, "Cleo Parker Robinson Troupe a Hit in Kenya," *Rocky Mountain News* (Denver), 8 Feb. 1996, at D2.
 

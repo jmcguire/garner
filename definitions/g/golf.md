@@ -1,6 +1,6 @@
 # golf
 
-golf. One may either *play golf* (the phrase dates from ca. 1575) or simply *golf* (ca. 1800)—that is, *golf* can be a verb as well as a noun. Most golfers use the older phrasing and say that they *play golf* <I'll be playing golf on Saturday>, whereas nowadays nongolfers tend to be the ones who use *golf* as a verb <she'll be golfing on Saturday>. In modern print sources, *played golf* is much more common than *golfed*.
+golf. One may either *play golf* (the phrase dates from ca. 1575) or simply *golf* (ca. 1800)—that is, *golf* can be a verb as well as a noun. Most golfers use the older phrasing and say that they *play golf* \<I'll be playing golf on Saturday\>, whereas nowadays nongolfers tend to be the ones who use *golf* as a verb \<she'll be golfing on Saturday\>. In modern print sources, *played golf* is much more common than *golfed*.
 
 Writers on golf often disparage the verb *golf* as symptomatic of linguistic dufferdom—e.g.:
 

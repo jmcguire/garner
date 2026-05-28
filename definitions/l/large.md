@@ -8,5 +8,5 @@ large, unlike *great*, is not a word that can be idiomatically coupled with othe
 
 ## Language-Change Index
 
- - *large* for *great* with words of measure <great distance>: Stage 1
+ - *large* for *great* with words of measure \<great distance\>: Stage 1
 

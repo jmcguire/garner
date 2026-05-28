@@ -1,6 +1,6 @@
 # row to hoe
 
-row to hoe is an agricultural or gardening metaphor meaning "a challenging and perhaps arduous project" <it's going to be a tough row to hoe>. Sometimes it's ludicrously written as the mondegreen *\*road to hoe*, especially in sportswriting—e.g.:
+row to hoe is an agricultural or gardening metaphor meaning "a challenging and perhaps arduous project" \<it's going to be a tough row to hoe\>. Sometimes it's ludicrously written as the mondegreen *\*road to hoe*, especially in sportswriting—e.g.:
 
  - "Though victories over Newcastle and Aston Villa showed Leicester how they can preserve their status, it will be a hard *road* \[read *row*\] to hoe this winter." Michael Henderson, "Leicester Dig in for Long, Hard Winter," *Times* (London), 25 Nov. 1996, at 33.
 

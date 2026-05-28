@@ -2,7 +2,7 @@
 
  Anticipatory Reference  (known also as *cataphora*) here denotes the vice of referring to something that is yet to be mentioned. A sentence will be leading up to the all-important predicate but before reaching it will refer to what is contained in the predicate. Or the reference may not even be explained until a later sentence. The reader is temporarily mystified. E.g.: "Conflict of laws is the study of whether or not, *and if so, in what way,* the answer to a legal problem will be affected because the elements of the problem have contacts with more than one jurisdiction." (A possible revision: *Conflict of laws is the study of whether the answer to a legal problem will be affected because the elements of the problem have contacts with more than one jurisdiction—and, if so, what the effect will be.*)
 
-Only rarely can anticipatory reference be used in a way that doesn't bother the reader—e.g.: "We think it's clear—*and nobody has disputed this point*—that Carla has the first choice in deciding whether to take the furniture." Innocuous examples tend to involve personal pronouns <his most recent biographer called Lindley Murray a blockbuster author>.
+Only rarely can anticipatory reference be used in a way that doesn't bother the reader—e.g.: "We think it's clear—*and nobody has disputed this point*—that Carla has the first choice in deciding whether to take the furniture." Innocuous examples tend to involve personal pronouns \<his most recent biographer called Lindley Murray a blockbuster author\>.
 
 Vexatious examples occur in a variety of forms. First, they're frequent with *do*-constructions—e.g.:
 

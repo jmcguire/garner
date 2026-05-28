@@ -1,6 +1,6 @@
-# grind > ground > ground
+# grind \> ground \> ground
 
-grind > ground > ground. So inflected. But the erroneous form *grinded* is gaining ground—e.g.:
+grind \> ground \> ground. So inflected. But the erroneous form *grinded* is gaining ground—e.g.:
 
  - "The ancient constitutional process of impeachment *grinded* \[read *ground*\] into operation again yesterday for the first time in 24 years." David M. Shribman, "A Titanic Jousting Act," *Pitt. Post-Gaz.*, 20 Nov. 1998, at A17.
 

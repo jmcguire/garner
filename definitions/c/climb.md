@@ -2,7 +2,7 @@
 
 climb.
 
-**A. Declension: *climb* > *climbed* > *climbed*.** The past-tense *\*clumb* or *\*clomb* and the past-participial *\*clumb* are dialectal. They sometimes occur in reported speech, especially *\*clumb*—e.g.:
+**A. Declension: *climb* \> *climbed* \> *climbed*.** The past-tense *\*clumb* or *\*clomb* and the past-participial *\*clumb* are dialectal. They sometimes occur in reported speech, especially *\*clumb*—e.g.:
 
  - "Mr. Wimberly, who's 73, says he hasn't ‘*clumb* a tree' and used a cane pole since his 40s." Nancy Kruh, "The Path to Pecan Pie," *Dallas Morning News*, 23 Nov. 1995, at C1.
 

@@ -1,6 +1,6 @@
-# cling > clung > clung
+# cling \> clung \> clung
 
-cling > clung > clung. So inflected—as it has been since the verb first appeared in Old English more than a thousand years ago. Cling to the strong past forms, despite the pitiable shift toward weakening them. It doesn't matter whether the usage is literal or (as in the first and third examples below) metaphorical—e.g.:
+cling \> clung \> clung. So inflected—as it has been since the verb first appeared in Old English more than a thousand years ago. Cling to the strong past forms, despite the pitiable shift toward weakening them. It doesn't matter whether the usage is literal or (as in the first and third examples below) metaphorical—e.g.:
 
  - "They were characterized by maudlin string arrangements and the cries of pedal steel guitars that *clinged* \[read *clung*\] to the pain in her voice." Dave Hoekstra, "Country's Queen: Wynette's Voice Carried Pain, Soul," *Chicago Sun-Times*, 8 Apr. 1998, at 52.
 

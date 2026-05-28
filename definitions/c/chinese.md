@@ -1,6 +1,6 @@
 # Chinese
 
-Chinese, n. Although everyone feels comfortable using *Chinese* as an adjective <Chinese restaurants> and as a collective noun <the Chinese have rich cultural traditions>, a sense of awkwardness arises when using it as a singular noun <he's a Chinese>. The noun use seems to emphasize otherness. So there's a tendency to prefer it as an adjective <he's Chinese>. The same tendency may be seen in other nationalities denoted with the *-ese* suffix (e.g., Burmese, Sudanese, Vietnamese).
+Chinese, n. Although everyone feels comfortable using *Chinese* as an adjective \<Chinese restaurants\> and as a collective noun \<the Chinese have rich cultural traditions\>, a sense of awkwardness arises when using it as a singular noun \<he's a Chinese\>. The noun use seems to emphasize otherness. So there's a tendency to prefer it as an adjective \<he's Chinese\>. The same tendency may be seen in other nationalities denoted with the *-ese* suffix (e.g., Burmese, Sudanese, Vietnamese).
 
 Most dictionaries, however, define *Chinese* as a singular noun meaning "a native of China" or "a citizen of China." And certainly the need occasionally arises to refer to a person from China, as we use *an American* to refer to a person from the U.S. (see **American**) or *a Russian* to refer to a person from Russia. And while everyone with any sense knows that *Chinaman* has long been considered derogatory, *Chinese* is not so considered and fills the need—e.g.:
 

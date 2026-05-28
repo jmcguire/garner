@@ -20,7 +20,7 @@ Logically—at least in theory and leaving aside the complications of time zones
 
 Idiom compounds the conundrum because, by convention, *midnight* is considered the end of the previous day, not the start of the following day. That would seem to recommend 12 p.m. *midnight*, but how can 12:00 p.m. be followed by 12:00:01 a.m.?
 
-The simple solution for noon and midnight is to shun both *a.m.* and *p.m.* and stick with the unambiguous words *noon* <registration starts at noon> and *midnight* <the deadline for filing taxes is April 15 at midnight>. The numeral 12 is superfluous with either word.
+The simple solution for noon and midnight is to shun both *a.m.* and *p.m.* and stick with the unambiguous words *noon* \<registration starts at noon\> and *midnight* \<the deadline for filing taxes is April 15 at midnight\>. The numeral 12 is superfluous with either word.
 
 ## Language-Change Index
 

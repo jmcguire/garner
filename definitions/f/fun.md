@@ -1,6 +1,6 @@
 # fun
 
-fun, traditionally a noun, has come into vogue as an adjective—but only as a casualism. Why has usage changed here? Two main reasons. (1) Unlike other nouns of emotion, *fun* hasn't had a corresponding adjective to mean "productive of fun." *Funny* long ago took on other senses, such as "risible" and "weird." Most other nouns of emotion have adjectives that mean "productive of" <excitement–exciting> <fear–fearful> <gloom–gloomy> <sadness–sad>. But not *fun*, which is among the most popular nouns of emotion. (2) Because *fun* is always a mass noun, it never appears with an indefinite article. So although we may say *This is a pleasure* or *a joy*, we cannot say *\*a fun*. Instead we say *This is fun*—and this predicate noun looks as if it might be a predicate adjective. There are other reasons that get more technical. For a detailed explanation, see Dwight Bolinger, " ‘It's So Fun,' " 38 *Am. Speech* 236–40 (1963).
+fun, traditionally a noun, has come into vogue as an adjective—but only as a casualism. Why has usage changed here? Two main reasons. (1) Unlike other nouns of emotion, *fun* hasn't had a corresponding adjective to mean "productive of fun." *Funny* long ago took on other senses, such as "risible" and "weird." Most other nouns of emotion have adjectives that mean "productive of" \<excitement–exciting\> \<fear–fearful\> \<gloom–gloomy\> \<sadness–sad\>. But not *fun*, which is among the most popular nouns of emotion. (2) Because *fun* is always a mass noun, it never appears with an indefinite article. So although we may say *This is a pleasure* or *a joy*, we cannot say *\*a fun*. Instead we say *This is fun*—and this predicate noun looks as if it might be a predicate adjective. There are other reasons that get more technical. For a detailed explanation, see Dwight Bolinger, " ‘It's So Fun,' " 38 *Am. Speech* 236–40 (1963).
 
 For speakers who consider *fun* in *This is fun* to be a predicate adjective, it's no significant change to say, instead, *This is a fun thing to do*—or *This is so fun* instead of *This is so much fun*. Still, the usage remains casual at best—e.g.: "To liven things up the last few weeks of the season, some resorts create *fun* events to entice customers." Susan McKee, "Ski Resorts Making Plans for Season-Ending Events," *Sacramento Bee*, 16 Apr. 1997, at C7.
 
@@ -24,7 +24,7 @@ To traditionalists, the adjectival *fun* and its comparative forms remain blemis
 
 ## Language-Change Index
 
-1. *fun* as an adjective <a fun place>: Stage 4
+1. *fun* as an adjective \<a fun place\>: Stage 4
 
 2. *fun* as an inflectable adjective (hence *funner*, *funnest*): Stage 2
  - Current ratio in print (*more fun* vs. *funner*): 207:1

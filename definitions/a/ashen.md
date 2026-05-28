@@ -1,6 +1,6 @@
 # ashen
 
-ashen; ashy. A useful differentiation has emerged here. *Ashen* means "resembling the color of ashes" or, by extension, "pale" <her face became ashen when she heard the news>. *Ashy* more broadly means "of, relating to, or involving ashes" <an ashy residue>. The following examples track this distinction:
+ashen; ashy. A useful differentiation has emerged here. *Ashen* means "resembling the color of ashes" or, by extension, "pale" \<her face became ashen when she heard the news\>. *Ashy* more broadly means "of, relating to, or involving ashes" \<an ashy residue\>. The following examples track this distinction:
 
  - "Seeing her husband *ashen*, with sunken eyes and a stooped look, Mickie had had enough. ‘You're going to the doctor,' she said." Alexander Wolff, "Back in Action," *Sports Illustrated*, 23 Oct. 1995, at 94.
 

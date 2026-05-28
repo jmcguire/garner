@@ -1,6 +1,6 @@
 # canon
 
-canon; **cannon**. *Canon* = (1) a corpus of writings <the Western canon>; (2) an accepted notion or principle <canons of ethics>; (3) a rule of ecclesiastical law (either of the Roman Catholic canon law or of the Anglican Church); or (4) a cathedral dignitary.
+canon; **cannon**. *Canon* = (1) a corpus of writings \<the Western canon\>; (2) an accepted notion or principle \<canons of ethics\>; (3) a rule of ecclesiastical law (either of the Roman Catholic canon law or of the Anglican Church); or (4) a cathedral dignitary.
 
 *Cannon* = (1) a big gun; or (2) the ear of a bell, by which the bell hangs. *Cannon* incorrectly displaces *canon* surprisingly often—e.g.:
 

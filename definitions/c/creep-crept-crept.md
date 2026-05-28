@@ -1,6 +1,6 @@
-# creep > crept > crept
+# creep \> crept \> crept
 
-creep > crept > crept. So inflected. Yet the weak form ending in *-ed* has been creeping along as a variant, especially in nonstandard usage, since the 1700s. Avoid it. E.g.:
+creep \> crept \> crept. So inflected. Yet the weak form ending in *-ed* has been creeping along as a variant, especially in nonstandard usage, since the 1700s. Avoid it. E.g.:
 
  - "Furber acknowledged that their grocery store prices have *creeped* \[read *crept*\] up." Patricia Wen & Bruce Mohl, "Grocery-Shopping Services in Tough Battle for Limited Clientele," *Boston Globe*, 18 Oct. 1998, at B2.
 

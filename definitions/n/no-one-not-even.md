@@ -14,5 +14,5 @@ The ungrammatical constructions botch the subject–verb agreement, which in mod
 
  - "But *no one*, not even the wireless providers, *know* \[read *knows*\] what the future will look like." Debra Sparks, "Hold That Call," *Fin. World*, 12 Aug. 1996, at 33.
 
-Which number to use becomes obvious if you mentally move the phrase to the end of the sentence <no one *knows* what the future will look like, not even the wireless providers>.
+Which number to use becomes obvious if you mentally move the phrase to the end of the sentence \<no one *knows* what the future will look like, not even the wireless providers\>.
 

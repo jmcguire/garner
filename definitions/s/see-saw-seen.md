@@ -1,6 +1,6 @@
-# see > saw > seen
+# see \> saw \> seen
 
-see > saw > seen. So inflected. Using the past tense for the past participle, and vice versa, is typical of dialect. Usually these errors occur only in reported speech—e.g.:
+see \> saw \> seen. So inflected. Using the past tense for the past participle, and vice versa, is typical of dialect. Usually these errors occur only in reported speech—e.g.:
 
  - " ‘If I *was* \[read *had been*\] here on time, I would have *saw* \[read *seen*\] what happened and the guy or gal who did this would be caught.' " Giovanna Fabiano, "Vehicle Hits, Kills Woman in Raritan," *Courier-News* (Bridgewater, N.J.), 7 Sept. 2002, at A2 (quoting Louie Dellatorca).
 

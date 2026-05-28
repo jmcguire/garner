@@ -8,7 +8,7 @@ flaunt; **flout**. Unfortunately, confusion about these terms is so common that 
 
  - "Mr. Talton was soon joined by almost two dozen other conservative Republicans who filed en masse into the clerk's office to *flout* \[read *flaunt*\] their disapproval for their colleague and fellow party member." Christy Hoppe, "GOP Shows Off Its Own Defection," *Dallas Morning News*, 25 May 2000, at A33, A35.
 
-*Flaunt* predominantly means "to show off or parade (something) in an ostentatious manner" <if you've got it, flaunt it>. The word is most often used correctly—e.g.:
+*Flaunt* predominantly means "to show off or parade (something) in an ostentatious manner" \<if you've got it, flaunt it\>. The word is most often used correctly—e.g.:
 
  - "Most vivid among the gaggle of grandchildren are the trashy and very available Dori (Maria Mervis), complete with body-*flaunting* garb; \[and others\]." Christopher Rawson, "Putting the Fun in Funeral," *Pitt. Post-Gaz.*, 23 May 1997, at 30.
 

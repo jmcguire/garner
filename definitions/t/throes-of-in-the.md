@@ -1,6 +1,6 @@
 # throes of, in the
 
-throes of, in the. In this phrase, meaning "struggling in the process of (something very painful or difficult)" <in the throes of childbirth>, *throes* is sometimes mistakenly spelled *throws* (an error that spread during the 1990s)—e.g.:
+throes of, in the. In this phrase, meaning "struggling in the process of (something very painful or difficult)" \<in the throes of childbirth\>, *throes* is sometimes mistakenly spelled *throws* (an error that spread during the 1990s)—e.g.:
 
  - " ‘I turned on the light and observed my much-loved pet in the *throws* \[read *throes*\] of a grand mal seizure.' " Liz Quinlan, "A Painful Decision Made Even Harder," *Syracuse Herald-J.*, 11 July 1997, at B8 (quoting an anonymous reader).
 

@@ -522,7 +522,7 @@ Meanwhile, be sure not to confuse adjectives ending in *-ly* with adverbs. A hyp
 
 Occasionally writers omit the hyphens, resulting almost invariably in readers' puzzlement—e.g.: "They lived in the small city of Apopka, Florida, located *in the fern and foliage growing region* \[read instead *in the fern- and foliage-growing region*\] north of Orlando."
 
-**D. Duration or Amount.** When phrasal adjectives denote durations or amounts, plurals should be dropped—e.g.: "The report doesn't disclose whether Annie Bell was born after a normal *nine months pregnancy* \[read *nine-month pregnancy*\]." Likewise, one should write *14-hour-a-day schedule*, *three-week hiatus*, *32-year-old Kansan*, *2,000-bottle wine cellar*, and *25,000-volume library*. The exception is with fractions, in which the plural is retained <a two-thirds vote>.
+**D. Duration or Amount.** When phrasal adjectives denote durations or amounts, plurals should be dropped—e.g.: "The report doesn't disclose whether Annie Bell was born after a normal *nine months pregnancy* \[read *nine-month pregnancy*\]." Likewise, one should write *14-hour-a-day schedule*, *three-week hiatus*, *32-year-old Kansan*, *2,000-bottle wine cellar*, and *25,000-volume library*. The exception is with fractions, in which the plural is retained \<a two-thirds vote\>.
 
 **E. The Compound Conundrum.** When the first or last element in a phrasal adjective is part of a compound noun, it too needs to be hyphenated: *post-cold-war norms*, not *\*post-cold war norms*. Otherwise, as in that example, *cold* appears more closely related to *post* than to *war*. Writers frequently blunder by omitting one of the necessary hyphens—e.g.:
 
@@ -534,7 +534,7 @@ Occasionally writers omit the hyphens, resulting almost invariably in readers' p
 
 Sometimes attaching a modifier to a one-word compound noun may require separating its elements. The problem arises when the adjective specifically modifies the first element of the compound, creating a new phrase that in turn modifies the second element. For example, *pillbox* is always written as a single word, but a box containing sleeping pills would have to be a *sleeping-pill box* (not a *sleeping pillbox* or a *sleeping-pillbox*). Similarly, in baseball we always make the term *baseline* a one-word compound when it stands alone, but when we use it to identify the line from home plate to first or third base, we have to split the elements to make *first-base line* or *third-base line*. Two more examples: although a *bookstore* is where we buy books, for secondhand books we go to a *used-book store* (not a *used bookstore* or a *used-bookstore*); and although a *schoolteacher* teaches school, a *Sunday-school teacher* teaches Sunday school. Cf. **watermark**.
 
-**F. Proper Nouns.** When a name is used attributively as a phrasal adjective, it ordinarily remains unhyphenated. E.g.: "The *Terry Maher strategy* put immediate pressure on rival bookshop chains." Raymond Snoddy, "Book Price War Looms in Britain," *Fin. Times*, 28–29 Sept. 1991, at 1. This becomes awkward, though, when the two words in a proper noun are part of a longer phrasal adjective <the King County-owned stadium> <a New York-doctor-owned building>. A reasonable expedient is to rewrite <the stadium owned by King County> <a building owned by a New York doctor>.
+**F. Proper Nouns.** When a name is used attributively as a phrasal adjective, it ordinarily remains unhyphenated. E.g.: "The *Terry Maher strategy* put immediate pressure on rival bookshop chains." Raymond Snoddy, "Book Price War Looms in Britain," *Fin. Times*, 28–29 Sept. 1991, at 1. This becomes awkward, though, when the two words in a proper noun are part of a longer phrasal adjective \<the King County-owned stadium\> \<a New York-doctor-owned building\>. A reasonable expedient is to rewrite \<the stadium owned by King County\> \<a building owned by a New York doctor\>.
 
 **G. Phrasal Adjectives Following the Noun.** When they occur in the predicate, phrasal adjectives usually aren't hyphenated: "This rule is *well worn*"—but "This is a *well-worn* rule." Some exceptions are always hyphenated. Among them are these:
 
@@ -558,5 +558,5 @@ time-sensitive
 
 wild-eyed
 
-**H. Foreign Phrases.** When used as adjectives, phrases taken from foreign languages generally hold together without the need for hyphens to prevent miscues <hors d'oeuvre tray> <habeas corpus petition> <ad hoc committee> <ex parte communications>.
+**H. Foreign Phrases.** When used as adjectives, phrases taken from foreign languages generally hold together without the need for hyphens to prevent miscues \<hors d'oeuvre tray\> \<habeas corpus petition\> \<ad hoc committee\> \<ex parte communications\>.
 

@@ -14,11 +14,11 @@ above.
 
  - *above* meaning "more than": Stage 4
 
-**B. For *above-mentioned*.** *Above* is an acceptable ellipsis for *above-mentioned*, and it is much less inelegant <the above statements are his last recorded ones>. It was long thought that *above* could not properly act as an adjective. But the word was used in this way throughout the 20th century, even by the best writers. Yet it's much older. *OED2* records it from the 1500s. Essentially, *above* stands attributively, through ellipsis, for *above-said*, *above-written*, *above-mentioned*, or some other phrase.
+**B. For *above-mentioned*.** *Above* is an acceptable ellipsis for *above-mentioned*, and it is much less inelegant \<the above statements are his last recorded ones\>. It was long thought that *above* could not properly act as an adjective. But the word was used in this way throughout the 20th century, even by the best writers. Yet it's much older. *OED2* records it from the 1500s. Essentially, *above* stands attributively, through ellipsis, for *above-said*, *above-written*, *above-mentioned*, or some other phrase.
 
 Some critics have suggested that *above* in this sense should refer only to something mentioned previously on the same page, but this restriction seems unduly narrow. Still, it's often better to make the reference exact by giving a page or paragraph number, rather than the vague reference made possible by *above*. Idiom will not, however, allow *above* to modify all nouns: *\*above vehicle* is unidiomatic for *vehicle mentioned above*. (If you must say *mentioned*, put *above* after that word.) Better yet, simply write *the vehicle* if readers will know from the context which one you're talking about.
 
-Less common than the adjectival *above* is the noun use <the above is entirely accurate>. Pooley's assessment still stands: "Any writer may feel free at any time to use ‘the *above* statement,' and with only slightly less assurance, ‘the *above* will prove.' In either case, he has the authority of scholars and standard literature." Robert C. Pooley, *Teaching English Usage* 130 (1946).
+Less common than the adjectival *above* is the noun use \<the above is entirely accurate\>. Pooley's assessment still stands: "Any writer may feel free at any time to use ‘the *above* statement,' and with only slightly less assurance, ‘the *above* will prove.' In either case, he has the authority of scholars and standard literature." Robert C. Pooley, *Teaching English Usage* 130 (1946).
 
 ## Language-Change Index
 

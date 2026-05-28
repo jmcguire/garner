@@ -2,7 +2,7 @@
 
 repel.
 
-**A. And *repulse*.** Although both verbs mean "to drive back," the traditional distinction is that *repulse* is primarily physical <after repeated warnings, he was repulsed from the premises>; *repel* is primarily figurative <the body odors on the subway repelled her>. Hence *repel* is the verb corresponding more closely in meaning to the adjective *repulsive*. You can find this distinction in any number of older usage books—e.g.: "The person who feels repulsion is *repelled*, not *repulsed*; *repulsed* means ‘rejected.' " H.A. Treble & G.H. Vallins, *An A.B.C. of English Usage* 155 (1936). See **repellent**.
+**A. And *repulse*.** Although both verbs mean "to drive back," the traditional distinction is that *repulse* is primarily physical \<after repeated warnings, he was repulsed from the premises\>; *repel* is primarily figurative \<the body odors on the subway repelled her\>. Hence *repel* is the verb corresponding more closely in meaning to the adjective *repulsive*. You can find this distinction in any number of older usage books—e.g.: "The person who feels repulsion is *repelled*, not *repulsed*; *repulsed* means ‘rejected.' " H.A. Treble & G.H. Vallins, *An A.B.C. of English Usage* 155 (1936). See **repellent**.
 
 Some writers observe that distinction, using *repulse* for what beats back and *repel* for what disgusts—e.g.:
 

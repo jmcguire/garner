@@ -35,7 +35,7 @@ Writers sometimes confound the singular and plural possessives, most commonly by
  - Current ratio in print (*the Joneses' house* vs. *\*the Jones's house*): 2.2:1
  - Current ratio in print (*the Collinses' house* vs. *\*the Collins's house*): 3:1
 
-**C. Absolute Possessives.** The words *hers*, *ours*, *theirs*, and *yours* are sometimes termed "absolute" or "independent" possessives because they occur when no noun follows. No apostrophe appears in these words, which are often in the predicate <the house was ours> <the fault was theirs>. Sometimes, though, they can occur as subjects <hers was a gift that anyone would envy>. See understood words.
+**C. Absolute Possessives.** The words *hers*, *ours*, *theirs*, and *yours* are sometimes termed "absolute" or "independent" possessives because they occur when no noun follows. No apostrophe appears in these words, which are often in the predicate \<the house was ours\> \<the fault was theirs\>. Sometimes, though, they can occur as subjects \<hers was a gift that anyone would envy\>. See understood words.
 
 Occasionally, an absolute possessive occurs when it shouldn't—usually in combination with ordinary possessives. E.g.: "If a new relationship breaks up, your teen may feel very protective of you and feel stress about both *yours* \[read *your*\] and his or her vulnerability." Jeff Lindenbaum, "Dating After Divorce?," *Seattle Times*, 2 Nov. 1994, at E2.
 
@@ -51,7 +51,7 @@ But this age-old idiom has appeared consistently since the days of Middle Englis
 
 The double possessive appears in good writing and typically causes no trouble. Occasionally, however, it can be improved on—e.g.: "Many *colleagues of Dr. Siegel's* \[read *of Dr. Siegel's colleagues*\] have said they were shocked by the allegations about a man whom they have long considered to be a reserved, somewhat academic person." Elisabeth Rosenthal, "Hospital Chief Denies Harassing Aide," *N.Y. Times*, 1 Sept. 1995, at A13.
 
-Of course, the double possessive is impossible to avoid in constructions with personal pronouns <a friend of mine> <that attitude of his>.
+Of course, the double possessive is impossible to avoid in constructions with personal pronouns \<a friend of mine\> \<that attitude of his\>.
 
 ## Language-Change Index
 
@@ -68,7 +68,7 @@ America and England's interests. (Joint)
 
 America's and England's interests. (Individual)
 
-In the last two examples, *interests* is plural (regardless of the possessives) merely as a matter of idiom: we typically refer to *America's interests*, not *America's interest*. With pronouns, each element is always possessive <your and his time-share>.
+In the last two examples, *interests* is plural (regardless of the possessives) merely as a matter of idiom: we typically refer to *America's interests*, not *America's interest*. With pronouns, each element is always possessive \<your and his time-share\>.
 
 On consecutive pages of a book, Frank Rich gets the rule reversed: "The remainder of the time . . . is devoted to *Lawrence Kasha's and David Landay's book* \[read *Lawrence Kasha and David Landay's book*\]." Frank Rich, *Hot Seat* 168 (they coauthored it). / "They've also performed radical surgery on *Molière and Coward's famous heroes* \[read *Molière's and Coward's famous heroes*\]." *Ibid.* at 169 (Molière and Noel Coward never cowrote anything\!).
 
@@ -80,7 +80,7 @@ Other reputable writers have likewise been thrown off—e.g.:
 
  - "Lipsey's and Light's paper \[read *Lipsey and Light's paper*\] competed fiercely for further market domination, starting a Sunday edition to go head to head with the \[*Buffalo*\] *Courier*\[*-News*\]." Margaret Sullivan, *Ghosting the News* 31 (2020). (Lipsey was the publisher, Light the editor of a single Buffalo newspaper.)
 
-**F. Names as Adjectives.** When a proper name is used as an adjective, it isn't a possessive and therefore doesn't take an apostrophe. Hence "the Cubs \[not *Cubs'*\] game is at 1:00 today." The following example incorrectly uses an apostrophe because the name *Fields* (referring to a single person) is being used adjectivally: "One source who attended the fundraiser said it generated at least $50,000 for the *Fields'* \[read *Fields*\] campaign." "Scuttlebutt," *Gambit* (New Orleans), 14 Nov. 1995, at 8. With a title instead of a name, the apostrophe would be needed <the mayor's campaign>.
+**F. Names as Adjectives.** When a proper name is used as an adjective, it isn't a possessive and therefore doesn't take an apostrophe. Hence "the Cubs \[not *Cubs'*\] game is at 1:00 today." The following example incorrectly uses an apostrophe because the name *Fields* (referring to a single person) is being used adjectivally: "One source who attended the fundraiser said it generated at least $50,000 for the *Fields'* \[read *Fields*\] campaign." "Scuttlebutt," *Gambit* (New Orleans), 14 Nov. 1995, at 8. With a title instead of a name, the apostrophe would be needed \<the mayor's campaign\>.
 
  - Current ratio in print (*the Yankees game* vs. \**the Yankees' game*): 18:1
 
@@ -88,13 +88,13 @@ Other reputable writers have likewise been thrown off—e.g.:
 
 **H. Inanimate Things.** Possessives of nouns denoting inanimate objects are generally unobjectionable. They have risen steadily in frequency of occurrence since the late 1800s, perhaps chiefly because they allow writers to avoid awkward uses of *of*—e.g.: *at day's end*, *at the water's edge*, *the book's title*, *the article's main point*, *the system's hub*, *the envelope's contents*, *the car's sticker price*. See **of (a)**.
 
-The old line was that it's better to use an "*of* phrase rather than the *'s* to indicate possession when the possessor is an inanimate object. Write *foot of the bed*, not *the bed's foot*." Robert C. Whitford & James R. Foster, *Concise Dictionary of American Grammar and Usage* 96 (1955). *Foot of the bed*, of course, is a set phrase, so the example is not a fair one. As a general principle, though, whenever it's not a violation of idiom, the possessive in *'s* is preferable <the hotel's front entrance> <the earth's surface>.
+The old line was that it's better to use an "*of* phrase rather than the *'s* to indicate possession when the possessor is an inanimate object. Write *foot of the bed*, not *the bed's foot*." Robert C. Whitford & James R. Foster, *Concise Dictionary of American Grammar and Usage* 96 (1955). *Foot of the bed*, of course, is a set phrase, so the example is not a fair one. As a general principle, though, whenever it's not a violation of idiom, the possessive in *'s* is preferable \<the hotel's front entrance\> \<the earth's surface\>.
 
 But such possessives can be overdone. For example, avoid using the possessive form of a year—e.g.: "Mr. Rogers, 41, took the show by storm in 1993, winning 28 blue ribbons and the Show Sweepstakes with a total of 1,120 points (which really upped the ante: *1992**'s winner* \[read *the* *1992* *winner*\] scored only 387 points)." Anne Raver, "A Big Flower Show One Loves to Hate," *N.Y. Times*, 2 Mar. 1995, at B5.
 
 **I. Phrasal and Compound Possessives.** Avoid phrasal possessives when possible, so that you don't end up with sentences like this: "That strange man who lives down the block's daughter was arrested last week." (Read: *The daughter of that strange man who lives down the block was arrested last week*.) The form with *of*, though slightly longer, is correct. Sometimes, too, the sentence can be fixed in some way other than by inserting an *of*—e.g.: "These statements do let women in on *the man in question's view* of our half of humanity." (Read: *These statements do let women in on how the man in question views our half of humanity.*)
 
-As always, there are exceptions—two of them. With a compound such as *mother-in-law*, the possessive is acceptable and widely used <my mother-in-law's sister>. The other established phrasal possessives are variations on *anybody else's*: "Once alerted, the janitor could find *no one else's* umbrella." See **else's**.
+As always, there are exceptions—two of them. With a compound such as *mother-in-law*, the possessive is acceptable and widely used \<my mother-in-law's sister\>. The other established phrasal possessives are variations on *anybody else's*: "Once alerted, the janitor could find *no one else's* umbrella." See **else's**.
 
 **J. Attributive Nouns Ending in *-ed*.** Words ending in *-ed* become awkward as possessives. This happens primarily in law. With such phrases as *the insured's death* and *the deceased's residence*, it's better to use an *of*-phrase—hence *the death of the insured* and *the residence of the deceased*. (Or you might try *the decedent's residence*.) See **insured**.
 

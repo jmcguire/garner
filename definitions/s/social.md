@@ -2,7 +2,7 @@
 
 social.
 
-**A. And *societal*; *\*societary*.** Although the two main words overlap to some degree, they are distinguishable. *Social* = (1) living in companies or organized communities <man is a social animal>; (2) concerned with the mutual relations among human beings <the social compact>; or (3) of, relating to, or involving friendly companionship <a social event>.
+**A. And *societal*; *\*societary*.** Although the two main words overlap to some degree, they are distinguishable. *Social* = (1) living in companies or organized communities \<man is a social animal\>; (2) concerned with the mutual relations among human beings \<the social compact\>; or (3) of, relating to, or involving friendly companionship \<a social event\>.
 
 *Societal* = of, relating to, or dealing with society or social order. Although \**societary* was standard in this sense for most of the 1800s, it was superseded by *societal* in the first decade of the 20th century and has become a needless variant. *Societal* surged in frequency of use in the late 20th century. E.g.:
 

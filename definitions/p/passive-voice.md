@@ -16,7 +16,7 @@ And, of course, in the passive form, it's possible to omit the actor altogetherâ
 
 Passive: The deadline was missed.
 
-As anyone who follows political discourse knows, the passive voice is a staple of politicians <mistakes were made>.
+As anyone who follows political discourse knows, the passive voice is a staple of politicians \<mistakes were made\>.
 
 The unfailing test for passive voice is this: you must have a *be*-verb (or *get*) plus a past participle (usually a verb ending in *-ed*). Hence constructions such as these are passive:
 

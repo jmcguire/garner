@@ -1,6 +1,6 @@
 # judicial
 
-judicial; **judicious**. *Judicial* = (1) of, relating to, by, or involving the court <judicial officers>; (2) in court <judicial admissions>; (3) legal <the Attorney General took no judicial action>; or (4) of, relating to, or involving a judgment <judicial interest at the rate of 4% annually>. Sense 4, which is mostly confined to legal contexts, is suspect because it hasn't yet gained admission to most dictionaries.
+judicial; **judicious**. *Judicial* = (1) of, relating to, by, or involving the court \<judicial officers\>; (2) in court \<judicial admissions\>; (3) legal \<the Attorney General took no judicial action\>; or (4) of, relating to, or involving a judgment \<judicial interest at the rate of 4% annually\>. Sense 4, which is mostly confined to legal contexts, is suspect because it hasn't yet gained admission to most dictionaries.
 
 *Judicious* is a much simpler word, meaning "well considered, discreet, and wisely exercising sound thinking in practical matters." E.g.:
 

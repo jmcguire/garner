@@ -1,6 +1,6 @@
-# bend > bent > bent
+# bend \> bent \> bent
 
-bend > bent > bent. So inflected (although *on bended knee* is a set phrase). Occasionally the verb gets bent out of shape—e.g.:
+bend \> bent \> bent. So inflected (although *on bended knee* is a set phrase). Occasionally the verb gets bent out of shape—e.g.:
 
  - "He rolled and *bended* \[read *bent*\] the wrist to prove its mobility and strength." Paul Grondahl, "Racing Form," *Times Union* (Albany), 26 July 1998, at T2.
 
