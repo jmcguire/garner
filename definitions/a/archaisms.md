@@ -8,173 +8,171 @@ The obvious advice is to avoid archaic terms unless you're being jocular in some
 
 The following list of archaisms, with modern translations to the right, hints at the bewhiskered language you must needs avoid. If thou wilt besprinkle such vocables aplenty within thy inditements, dost thou not think, mayhap, that thou shouldst be bewigged—perhaps periwigged? 'Tis your burthen. Think no further thereanent. Mark you well.
 
-*Archaic* ***Modern***
-
- - afeared afraid
- - alack \(see **alas**) alas \(a little archaic itself\)
- - anent \(see **anent**) about
- - anon soon
- - aplenty in abundance
- - appertain \(see **appertain**) pertain
- - aught \(see **aught**) anything
- - bade me tell you asked me to tell you
- - bedchamber bedroom
- - bedclothes sheets and blankets
- - bedfast bedridden
- - befoul pollute
- - begrime soil, sully
- - be it ever so \[adj.\] however \[adj.\] it is
- - belike probably
- - benison blessing, benediction, well-wishing
- - bepaint tinge
- - beseem befit
- - besmear smear
- - bespatter spatter
- - besprinkle sprinkle
- - bestead help, be useful to
- - betake yourself to \[a place\] go to \[a place\]
- - bethink remember
- - betide happen, befall
- - betimes early, soon
- - betroth become engaged
- - betrothed, n. fiancé, fiancée
- - betwixt \(see **betwixt**\) between
- - bewhiskered whiskered, whiskery
- - bewigged wearing a wig, wigged
- - burthen burden
- - certes \(see **certes**\) certainly, in truth
- - days of yore days gone by
- - divers \(see **diverse**\) various
- - dost thou? do you?
- - doth does
- - durst not \(see **dare \(e\)**) dare not
- - eftsoons soon after
- - eke \(when used adverbially\) also
- - eldritch \(see **eldritch**\) eerie, weird
- - ere before
- - fain glad\(ly\), willing\(ly\)
- - forenoon morning
- - forsooth in truth, indeed
- - gyves shackles
- - had as lief would just as soon, would just as readily
- - haply \(see **haply**\) by chance
- - hath has
- - henceforward, henceforth from now on
- - hereinafter, hereinbelow below
- - hereinbefore above
- - hereunto up to now, until now
- - hither here
- - hitherto up to now, until now
- - howbeit although
- - I care not a whit, I care not a fig I don't care
- - if I be if I am
- - if it be if it is
- - if such they be if they are
- - indite write, compose
- - in faith, i' faith really, truly
- - in sooth in truth, really, truly
- - I trow I believe
- - it were futile to deny it is futile to deny
- - look to it be careful, take care
- - look ye look
- - maketh makes
- - mark you well notice
- - maugre despite, notwithstanding
- - mayhap \(see **maybe \(b\)**) maybe, perhaps
- - meed reward, recompense
- - meseems it seems to me
- - methinks \(see **methinks**\) I think
- - mine eyes my eyes
- - much at one with much the same as
- - must needs need to
- - naught nothing
- - nay no
- - needs must need to
- - nigh near
- - not a whit not a bit
- - oft, ofttimes \(see **often \(b\)**) often
- - peradventure \(see **maybe \(b\)**) possibly, perhaps, maybe
- - perchance \(see **maybe \(b\)**) possibly, perhaps, maybe
- - plight one's troth propose marriage
- - pray <pray enter> <pray tell> please
- - presently \(see **presently**\) in a moment
- - prithee please
- - quondam \(see **erstwhile** & **quondam**\) former, onetime
- - quoth \(see **quoth**\) said
- - remove to \(another town\) move to \(another town\)
- - right glad very glad
- - runneth runs
- - saith says
- - save \(see **save**\) except
- - sennight week
- - shalt shall
- - shan't won't
- - shew show
- - shouldst thou you should
- - sirrah sir
- - sith since
- - sit you down please sit
- - sometime \(see **erstwhile**\) former
- - spake spoke
- - stand they they stand
- - stoppeth stops
- - subtile subtle
- - surcease cessation, discontinuation
- - take no thought don't trouble yourself
- - thee, thou you
- - thereanent about that, about it
- - therefor for it, for them
- - therein in it, in them
- - thereof of it, of them
- - thereto to it, to them
- - theretofore till then, up to that time
- - therewith with it
- - thine own your own
- - thither there
- - thou hast you have
- - thou wast you were
- - thy soul your soul
- - thy, thine your, yours
- - tidings news
- - 'tis it is
- - to meward toward me
- - to wit namely
- - transpire become known, come to light
- - twain two
- - twelvemonth year
- - unbidden unasked, uninvited
- - unhand let go
- - unto to
- - verily truly
- - viz. namely
- - wain wagon
- - wherefore why
- - wherein in which
- - whilom \(see **erstwhile**\) former
- - wight person
- - wilt thou will you
- - withal \(see \***withal**\) besides, nevertheless
- - woe sorrow
- - wot \(see \***wot**\) know
- - wot not, know not don't know
- - wotted not why didn't know why
- - would it were \(see subjunctives \(a\)) if only it were so
- - yare ready, prepared
- - yclept \(see **yclept**\) named, called
- - ye \(see **ye**) you
- - ye olde \(see **olde**\) the old
- - yesternight last night
- - yesteryear years past
- - yon, yonder over there
- - you were better go you should go, you had better go
+| *Archaic* | ***Modern*** |
+|---|---|
+| afeared | afraid |
+| alack \(see **alas**) | alas \(a little archaic itself\) |
+| anent \(see **anent**) | about |
+| anon | soon |
+| aplenty | in abundance |
+| appertain \(see **appertain**) | pertain |
+| aught \(see **aught**) | anything |
+| bade me tell you | asked me to tell you |
+| bedchamber | bedroom |
+| bedclothes | sheets and blankets |
+| bedfast | bedridden |
+| befoul | pollute |
+| begrime | soil, sully |
+| be it ever so \[adj.\] | however \[adj.\] it is |
+| belike | probably |
+| benison | blessing, benediction, well-wishing |
+| bepaint | tinge |
+| beseem | befit |
+| besmear | smear |
+| bespatter | spatter |
+| besprinkle | sprinkle |
+| bestead | help, be useful to |
+| betake yourself to \[a place\] | go to \[a place\] |
+| bethink | remember |
+| betide | happen, befall |
+| betimes | early, soon |
+| betroth | become engaged |
+| betrothed, n. | fiancé, fiancée |
+| betwixt \(see **betwixt**\) | between |
+| bewhiskered | whiskered, whiskery |
+| bewigged | wearing a wig, wigged |
+| burthen | burden |
+| certes \(see **certes**\) | certainly, in truth |
+| days of yore | days gone by |
+| divers \(see **diverse**\) | various |
+| dost thou? | do you? |
+| doth | does |
+| durst not \(see **dare \(e\)**) | dare not |
+| eftsoons | soon after |
+| eke \(when used adverbially\) | also |
+| eldritch \(see **eldritch**\) | eerie, weird |
+| ere | before |
+| fain | glad\(ly\), willing\(ly\) |
+| forenoon | morning |
+| forsooth | in truth, indeed |
+| gyves | shackles |
+| had as lief | would just as soon, would just as readily |
+| haply \(see **haply**\) | by chance |
+| hath | has |
+| henceforward, henceforth | from now on |
+| hereinafter, hereinbelow | below |
+| hereinbefore | above |
+| hereunto | up to now, until now |
+| hither | here |
+| hitherto | up to now, until now |
+| howbeit | although |
+| I care not a whit, I care not a fig | I don't care |
+| if I be | if I am |
+| if it be | if it is |
+| if such they be | if they are |
+| indite | write, compose |
+| in faith, i' faith | really, truly |
+| in sooth | in truth, really, truly |
+| I trow | I believe |
+| it were futile to deny | it is futile to deny |
+| look to it | be careful, take care |
+| look ye | look |
+| maketh | makes |
+| mark you | well notice |
+| maugre | despite, notwithstanding |
+| mayhap \(see **maybe \(b\)**) | maybe, perhaps |
+| meed | reward, recompense |
+| meseems | it seems to me |
+| methinks \(see **methinks**\) | I think |
+| mine eyes | my eyes |
+| much at one with | much the same as |
+| must needs | need to |
+| naught | nothing |
+| nay | no |
+| needs must | need to |
+| nigh | near |
+| not a whit | not a bit |
+| oft, ofttimes \(see **often \(b\)**) | often |
+| peradventure \(see **maybe \(b\)**) | possibly, perhaps, maybe |
+| perchance \(see **maybe \(b\)**) | possibly, perhaps, maybe |
+| plight one's troth | propose marriage |
+| pray <pray enter> <pray tell> | please |
+| presently \(see **presently**\) | in a moment |
+| prithee | please |
+| quondam \(see **erstwhile** & **quondam**\) | former, onetime |
+| quoth \(see **quoth**\) | said |
+| remove to \(another town\) | move to \(another town\) |
+| right glad | very glad |
+| runneth | runs |
+| saith | says |
+| save \(see **save**\) | except |
+| sennight | week |
+| shalt | shall |
+| shan't | won't |
+| shew | show |
+| shouldst thou | you should |
+| sirrah | sir |
+| sith | since |
+| sit you down | please sit |
+| sometime \(see **erstwhile**\) | former |
+| spake | spoke |
+| stand they | they stand |
+| stoppeth | stops |
+| subtile | subtle |
+| surcease | cessation, discontinuation |
+| take no thought | don't trouble yourself |
+| thee, thou | you |
+| thereanent | about that, about it |
+| therefor | for it, for them |
+| therein | in it, in them |
+| thereof | of it, of them |
+| thereto | to it, to them |
+| theretofore | till then, up to that time |
+| therewith | with it |
+| thine own | your own |
+| thither | there |
+| thou hast | you have |
+| thou wast | you were |
+| thy soul | your soul |
+| thy, thine | your, yours |
+| tidings | news |
+| 'tis | it is |
+| to meward | toward me |
+| to wit | namely |
+| transpire | become known, come to light |
+| twain | two |
+| twelvemonth | year |
+| unbidden | unasked, uninvited |
+| unhand | let go |
+| unto | to |
+| verily | truly |
+| viz. | namely |
+| wain | wagon |
+| wherefore | why |
+| wherein | in which |
+| whilom \(see **erstwhile**\) | former |
+| wight | person |
+| wilt thou | will you |
+| withal \(see \***withal**\) | besides, nevertheless |
+| woe | sorrow |
+| wot \(see \***wot**\) | know |
+| wot not, know not | don't know |
+| wotted not why | didn't know why |
+| would it were \(see subjunctives \(a\)) | if only it were so |
+| yare | ready, prepared |
+| yclept \(see **yclept**\) | named, called |
+| ye \(see **ye**) | you |
+| ye olde \(see **olde**\) | the old |
+| yesternight | last night |
+| yesteryear | years past |
+| yon, yonder | over there |
+| you were better go | you should go, you had better go |
 
 **B. Mistakes Caused by Archaism.** Archaism can be faulted in itself. But a still more embarrassing problem arises when the indulger doesn't understand how the phrasings work. In Early Modern English, the following singular forms were typical:
 
-## *Second Person
-
-*Second Person* ***Third Person***
-
- - thou goest he \(or she\) goeth
+| *Second Person* | ***Third Person*** |
+|---|---|
+| thou goest | he \(or she\) goeth |
 
 Up to the 1600s, the *-eth* suffix was merely an alternative third-person singular inflection for an English verb. Used primarily in southern England, it had, by the end of that century, become obsolete. *She calls* and *he answers* took the place of *she calleth* and *he answereth*. Some writers, straining for an archaic literary touch, use this suffix with no regard to whether the subject is singular or plural. The following title illustrates this tendency: Bill Rogers, "The Bowls *Overfloweth* \[read *Overflow*\]," *Canyon News* \(Tex.\), 25 Dec. 1994, at 9 \(referring to the football bowls\). This use of *-eth* with a plural subject has become lamentably common—e.g.:
 

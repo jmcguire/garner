@@ -8,105 +8,105 @@ The problem with formal words is that they are symptomatic of those stylistic di
 
 In the left-hand column below are some of the chief symptoms—not in every context, of course, but whenever the terms in the right-hand column would do. Prior to commencing a perusal of the roster to be found appended hereto, you might endeavor to procure a libation. Cf. archaisms.
 
-*Formal Word* ***Ordinary Word***
-
- - abode home, house
- - abrasion scrape
- - accommodation\(s\) room
- - accompany go with
- - affianced engaged
- - affront insult
- - annex, vb. attach
- - appear look, seem
- - append attach
- - approximately about
- - arrive come
- - articles things
- - attain reach
- - attired dressed
- - automobile car
- - betrothed engaged
- - beverage drink
- - calumniate defame
- - cast, vb. throw
- - cease stop
- - comestibles food
- - commence begin, start
- - complete finish
- - conceal hide
- - consume eat
- - continue keep on
- - converse talk
- - currency cash
- - deem consider, treat as
- - demise death
- - depart go
- - desist stop
- - detain hold
- - discard throw away
- - discover find
- - donate give
- - effectuate carry out
- - emolument pay
- - employ \(an instrument\) use
- - endeavor try
- - evince show
- - exculpate exonerate
- - expectorate spit
- - expedite hasten
- - expend spend
- - expiration, expiry end
- - extend give
- - falsehood lie
- - forthwith immediately, now, soon, promptly
- - gainsay contradict
- - henceforth from now on
- - How do you do? hello
- - imbibe drink
- - inaugurate begin
- - inculpate incriminate
- - indicate show
- - individual person
- - initiate begin
- - inquire ask
- - institute begin, start
- - interrogate question
- - intimate, vb. suggest
- - libation drink
- - luncheon lunch
- - manner way
- - masticate chew
- - necessitate require
- - obtain get
- - occasion, vb. cause
- - perquisite perk
- - peruse read
- - place, vb. put
- - portion part
- - possess own, have
- - present, vb. give
- - preserve keep
- - prior earlier
- - prior to before
- - proceed go \(ahead\)
- - procure get
- - purchase buy
- - receive get
- - recompense compensation
- - relate tell
- - remain stay
- - remainder rest
- - remove take away, haul off
- - request, vb. ask
- - retain keep
- - retire go to sleep
- - satisfactory acceptable
- - secure get
- - subsequent to after
- - subsequently later, afterward
- - sufficient enough
- - summon send for, call
- - terminate end
- - transpire \(old sense\) happen, occur
- - utilize use
+| *Formal Word* | ***Ordinary Word*** |
+|---|---|
+| abode | home, house |
+| abrasion | scrape |
+| accommodation\(s\) | room | 
+| accompany go | with |
+| affianced | engaged |
+| affront | insult |
+| annex, vb. | attach |
+| appear | look, seem |
+| append | attach |
+| approximately | about |
+| arrive | come |
+| articles | things |
+| attain | reach |
+| attired | dressed |
+| automobile | car |
+| betrothed | engaged |
+| beverage | drink |
+| calumniate | defame |
+| cast, vb. | throw |
+| cease | stop |
+| comestibles | food |
+| commence | begin, start |
+| complete | finish |
+| conceal | hide |
+| consume | eat |
+| continue keep | on |
+| converse | talk |
+| currency | cash |
+| deem consider, treat | as |
+| demise | death |
+| depart | go |
+| desist | stop |
+| detain | hold |
+| discard throw | away |
+| discover | find |
+| donate | give |
+| effectuate carry | out |
+| emolument | pay |
+| employ \(an | instrument\) use |
+| endeavor | try |
+| evince | show |
+| exculpate | exonerate |
+| expectorate | spit |
+| expedite | hasten |
+| expend | spend |
+| expiration, expiry | end |
+| extend | give |
+| falsehood | lie |
+| forthwith | immediately, now, soon, promptly |
+| gainsay | contradict |
+| henceforth from now | on |
+| How do you | do? hello |
+| imbibe | drink |
+| inaugurate | begin |
+| inculpate | incriminate |
+| indicate | show |
+| individual | person |
+| initiate | begin |
+| inquire | ask |
+| institute | begin, start |
+| interrogate | question |
+| intimate, vb. | suggest |
+| libation | drink |
+| luncheon | lunch |
+| manner | way |
+| masticate | chew |
+| necessitate | require |
+| obtain | get |
+| occasion, vb. | cause |
+| perquisite | perk |
+| peruse | read |
+| place, vb. | put |
+| portion | part |
+| possess | own, have |
+| present, vb. | give |
+| preserve | keep |
+| prior | earlier |
+| prior to | before |
+| proceed | go \(ahead\) |
+| procure | get |
+| purchase | buy |
+| receive | get |
+| recompense | compensation |
+| relate | tell |
+| remain | stay |
+| remainder | rest |
+| remove | take away, haul off |
+| request, vb. | ask |
+| retain | keep |
+| retire go to | sleep |
+| satisfactory | acceptable |
+| secure | get |
+| subsequent to | after |
+| subsequently | later, afterward |
+| sufficient | enough |
+| summon send | for, call |
+| terminate | end |
+| transpire \(old sense\) | happen, occur |
+| utilize | use |
 
