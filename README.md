@@ -65,6 +65,19 @@ garner -s <word>
 
 If you want a paged result, pipe it through `less`.
 
+# tests
+
+Run the tests with:
+
+```sh
+./venv/bin/python -m unittest discover -s tests
+```
+
+The tests use a small fixture dictionary in `tests/fixtures/definitions`
+instead of the full set of parsed definition files. They create a temporary
+SQLite database from those fixture entries and check the core lookup/search
+behavior against that tiny dictionary.
+
 # scratchpad
 
 ```sh
@@ -84,3 +97,4 @@ find . -type file -print | xargs perl -ne'print "$ARGV: $_\n" if /^\*+[\w\s]+\*+
 :'a,.g/\S/s/^/ - /
 :'a .g/^\s*$/d
 ```
+
