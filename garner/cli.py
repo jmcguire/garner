@@ -1,0 +1,339 @@
+#!/usr/bin/env python3
+
+import argparse
+import re
+import sqlite3
+import jellyfish
+from pathlib import Path
+from rich.console import Console
+from rich.markdown import Markdown as Markdown2
+from markdown import Markdown
+from markdown_plain_text.extention import PlainTextExtension
+
+script_dir = Path(__file__).resolve().parent
+DEFAULT_DB = (script_dir.parent / "var" / "dictionary.sqlite").resolve()
+DEFAULT_DEFINITIONS = (script_dir.parent / "definitions").resolve()
+MAX_RESULTS_SHOWN = 10
+
+SCHEMA = """
+DROP TABLE entries;
+
+CREATE TABLE entries (
+    id INTEGER PRIMARY KEY,
+    headword TEXT NOT NULL UNIQUE,
+    sort_key TEXT NOT NULL UNIQUE,
+    phonetic_code TEXT NOT NULL,
+    filename TEXT NOT NULL,
+    body_markdown TEXT NOT NULL,
+    body_plain TEXT NOT NULL,
+    forwarding TEXT NULL,
+    is_essay BOOLEAN NOT NULL CHECK (is_essay in (0,1))
+);
+
+CREATE INDEX IF NOT EXISTS idx_entries_sort_key ON entries(sort_key);
+CREATE INDEX IF NOT EXISTS idx_entries_phonetic_code ON entries(phonetic_code);
+"""
+
+# get rid of stuff we don't want the user looking up on, the results should be unique
+def normalize(text):
+    text = text.lower()
+    text = re.sub(r"[^\w\s'-]", "", text, flags=re.UNICODE)
+    text = re.sub(r"\s+", " ", text, flags=re.UNICODE)
+    return text
+
+
+# the phonetic code helps the user search, despite mispellings
+def get_phonetic_code(text):
+    text = normalize(text)
+    text = re.sub(r"[^a-zA-Z]", "", text, flags=re.UNICODE)
+    phonetic_code = jellyfish.metaphone(text)
+    return phonetic_code
+
+
+# our entries are in markdown by default, this converts them to plain text
+def markdown_to_plain(text):
+    md = Markdown(extensions=[PlainTextExtension()])
+    return md.convert(text)
+
+
+# the heading at the top is the actual word(s) to match on
+def first_heading(markdown):
+    match = re.search(r"^#\s+(.+?)\s*$", markdown, flags=re.MULTILINE)
+    return match.group(1) if match else None
+
+
+# open and connect to a db
+def connect(db_path):
+    db_path.parent.mkdir(parents=True, exist_ok=True)
+    conn = sqlite3.connect(db_path)
+    conn.execute("PRAGMA foreign_keys = ON")
+    return conn
+
+
+# is this entry actually just a forward to another entry? is so return that other entry name
+def get_forwarding(body):
+    pattern = r"\. See ([\w\s-]+)\.\Z"
+    match = re.search(pattern, body, flags=re.DOTALL)
+    if match:
+        return match.group(1)
+    else:
+        return None
+
+
+def get_is_essay(title):
+    return title.endswith(", Essay")
+
+
+# build the SQL database from the source directory, that has all the entries
+def build(source_dir, db, verbose):
+    db_path = Path(db).expanduser()
+    conn = connect(db_path)
+    conn.executescript(SCHEMA)
+
+    console = Console()
+
+    source_dir = Path(source_dir)
+    console.print(f"Loading definitions from {source_dir}")
+
+    for path in source_dir.rglob("*.md"):
+
+        body = path.read_text(encoding="utf-8")
+        plain_body = markdown_to_plain(body)
+
+        headword = first_heading(body)
+        sortword = normalize(headword)
+        phonetic_code = get_phonetic_code(headword)
+
+        forwarding = get_forwarding(plain_body)
+        is_essay = get_is_essay(headword)
+
+        if is_essay:
+            headword = headword.removesuffix(", Essay")
+            #sortword = sortword.removesuffix(" essay")
+
+        if not headword:
+            console.print(f"Skipping {path}: no level 1 heading", style="yellow")
+            continue
+        else:
+            if verbose:
+                if forwarding:
+                    console.print(f"loading {headword} ({sortword}) rom {path}, forwards to {forwarding}", style="green")
+                elif is_essay:
+                    console.print(f"loading {headword} ({sortword}) from {path}, an essay", style="green")
+                else:
+                    console.print(f"loading {headword} ({sortword}) from {path}", style="green")
+
+        conn.execute(
+            """
+            INSERT INTO entries
+                (headword, sort_key, phonetic_code, filename, body_markdown, body_plain, forwarding, is_essay)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            """,
+            (
+                headword,
+                sortword,
+                phonetic_code,
+                str(path),
+                body,
+                plain_body,
+                forwarding,
+                is_essay
+            ),
+        )
+
+    conn.commit()
+    conn.close()
+
+    print(f"Built database: {db_path}")
+
+
+# a straight lookup for word
+def lookup(word, db):
+    db_path = Path(db).expanduser()
+    conn = sqlite3.connect(db_path)
+    conn.row_factory = sqlite3.Row
+
+    key = normalize(word)
+
+    row = conn.execute(
+        """
+        SELECT headword, body_markdown, body_plain, filename, forwarding
+        FROM entries
+        WHERE sort_key = ?
+        """,
+        (key,),
+    ).fetchone()
+
+    conn.close()
+    return row
+
+
+def search(word, max_results, db):
+    db_path = Path(db).expanduser()
+    conn = sqlite3.connect(db_path)
+    conn.row_factory = sqlite3.Row
+
+    rows = search_query(word, conn)
+
+    candidates = []
+    for row in rows:
+        distance = jellyfish.levenshtein_distance(word, row["headword"])
+        candidates.append((distance, row))
+
+    candidates.sort(key = lambda x: x[0])
+    candidates = [candidate[1] for candidate in candidates]
+
+    conn.close()
+    return candidates[0:max_results-1]
+
+
+# a helper function for search
+def search_query(word, conn):
+    key = get_phonetic_code(word)
+
+    # search for words "beginning with" the key, lets the user just type the prefix to do a search
+    rows = conn.execute(
+        """
+        SELECT headword, body_markdown, body_plain, filename, forwarding, is_essay
+        FROM entries
+        WHERE phonetic_code like ? OR sort_key like ?
+        """,
+        (f"%{key}%", f"%{word}%",),
+    ).fetchall()
+
+    return rows
+
+
+# get the complete list of essays
+def list_essays(db):
+    db_path = Path(db).expanduser()
+    conn = sqlite3.connect(db_path)
+    conn.row_factory = sqlite3.Row
+
+    rows = conn.execute(
+        """
+        SELECT headword, sort_key, is_essay
+        FROM entries
+        WHERE is_essay = 1
+        """,
+    ).fetchall()
+
+    conn.close()
+    return rows
+
+
+# prints the entry and/or the list of entries
+def display(row, rows, verbose, plain):
+    console = Console()
+
+    if row:
+        if verbose:
+            console.print("filename: " + row["filename"])
+
+        if plain:
+            console.print(row["body_plain"])
+        else:
+            console.print(Markdown2(row["body_markdown"]))
+
+    if rows:
+        if row:
+            print("\n\n")
+        if verbose:
+            for row in rows:
+                console.print(f"{row['headword']} ({row['sort_key']}) @ {row['filename']} {' (essay)' if row['is_essay'] else ''}")
+        else:
+            for row in rows:
+                console.print(f"{row['headword']} {' (essay)' if row['is_essay'] else ''}")
+
+    if not row and not rows:
+        print(f"No entry found")
+
+
+def main():
+    parser = argparse.ArgumentParser(prog="dict")
+
+    parser.add_argument(
+        "-d", "--db",
+        default=str(DEFAULT_DB),
+        help=f"SQLite database path; default: {DEFAULT_DB}",
+    )
+
+    parser.add_argument(
+        "-b", "--build",
+        nargs="?",
+        const=True,
+        metavar="DIR",
+        help=f"Build the database from definition files; default: {DEFAULT_DEFINITIONS}",
+    )
+
+    parser.add_argument(
+        "-e", "--essays",
+        action="store_true",
+        help="List the \"essays\" in this dictionary",
+    )
+
+    parser.add_argument(
+        "-v", "--verbose",
+        action="store_true",
+        help="Verbose output",
+    )
+
+    parser.add_argument(
+        "-p", "--plain",
+        action="store_true",
+        help="Output plain text, no fancy styling.",
+    )
+
+    parser.add_argument(
+        "-s", "--search",
+        help="Search for a word, instead of doing a straight lookup.",
+    )
+
+    parser.add_argument(
+        "-m", "--maxresults",
+        default=str(MAX_RESULTS_SHOWN),
+        type=int,
+        help=f"The maximum number of results to return when searching for a word; default: {MAX_RESULTS_SHOWN}",
+    )
+
+    parser.add_argument(
+        "word",
+        nargs="*",
+        help="Word to look up. If multiple words are passed in, they will be concatenated.",
+    )
+
+    args = parser.parse_args()
+
+    if args.word:
+        word = " ".join(args.word)
+        row = lookup(word, args.db)
+        display(row, None, args.verbose, args.plain)
+
+        if row and row["forwarding"]:
+            print("\n")
+            row = lookup(row["forwarding"], args.db)
+            display(row, None, args.verbose, args.plain)
+    
+    elif args.build is not None:
+        if args.build is True:
+            source_dir = DEFAULT_DEFINITIONS
+        else:
+            source_dir = args.build
+        build(source_dir, args.db, args.verbose)
+
+    elif args.search is not None:
+        rows = search(args.search, args.maxresults, args.db)
+        display(None, rows, args.verbose, args.plain)
+
+    elif args.essays is True:
+        rows = list_essays(args.db)
+        display(None, rows, args.verbose, args.plain)
+
+    else:
+        parser.print_help()
+        parser.exit(1)
+
+
+if __name__ == "__main__":
+    main()
+
