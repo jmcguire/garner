@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import argparse
+import io
 
 from rich.console import Console
 from rich.markdown import Markdown as Markdown2
@@ -12,6 +13,13 @@ MAX_RESULTS_SHOWN = 10
 LOOKUP_SUGGESTIONS_SHOWN = 2
 
 
+def render_markdown_as_plain_text(markdown, width=100):
+    buffer = io.StringIO()
+    console = Console(file=buffer, record=True, color_system=None, width=width)
+    console.print(Markdown2(markdown))
+    return console.export_text(styles=False)
+
+
 def display(row, rows, verbose, plain):
     console = Console()
 
@@ -20,7 +28,7 @@ def display(row, rows, verbose, plain):
             console.print("filename: " + row["filename"])
 
         if plain:
-            console.print(row["body_plain"])
+            print(render_markdown_as_plain_text(row["body_markdown"]), end="")
         else:
             console.print(Markdown2(row["body_markdown"]))
 

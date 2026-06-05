@@ -256,6 +256,23 @@ class DictionaryBehaviorTest(unittest.TestCase):
         self.assertEqual(stdout, "")
         self.assertIn("--maxresults can only be used with --search", stderr)
 
+    def test_plain_markdown_rendering_expands_tables(self):
+        rendered = cli.render_markdown_as_plain_text(
+            """
+# test
+
+| One | Longer Two |
+|---|---|
+| a | b |
+| alpha | beta |
+""".strip(),
+            width=80,
+        )
+
+        self.assertIn("One    Longer Two", rendered)
+        self.assertIn("alpha  beta", rendered)
+        self.assertNotIn("|---|---|", rendered)
+
 
 if __name__ == "__main__":
     unittest.main()

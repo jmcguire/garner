@@ -25,7 +25,6 @@
 ## bugs:
 
  - Language Change index is sometimes not at the end of an entry, but just at the end of a lettered section. Just make it bold instead of a subheading? (e.g. often)
- - --plain is getting an unformatted pile of text, when really we need to start with markdown and strip the colors (but keep the things like tables with correct spacing)
 
 # usage
 
