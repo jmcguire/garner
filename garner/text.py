@@ -31,11 +31,16 @@ def extract_first_heading(markdown):
     return match.group(1) if match else None
 
 
-def extract_forwarding_target(body):
-    pattern = r"\. See ([\w\s-]+)\.\Z"
-    match = re.search(pattern, body, flags=re.DOTALL)
+def extract_forwarding_target(body, headword):
+    lines = [line.strip() for line in body.splitlines() if line.strip()]
+    if len(lines) != 2:
+        return None
+
+    plain_headword = re.sub(r"\\([\\`*_{}\[\]()#+\-.!>])", r"\1", headword)
+    pattern = rf"^{re.escape(plain_headword)}\. See (.+)\.\Z"
+    match = re.search(pattern, lines[1])
     if match:
-        return match.group(1)
+        return match.group(1).strip()
     else:
         return None
 

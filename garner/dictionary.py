@@ -71,7 +71,7 @@ def build(source_dir, db, verbose):
         headword, is_essay = parse_headword(heading)
         sortword = normalize_key(headword)
         sound_key = phonetic_code(headword)
-        forwarding = extract_forwarding_target(plain_body)
+        forwarding = extract_forwarding_target(plain_body, headword)
 
         if verbose:
             if forwarding:

@@ -59,7 +59,17 @@ class HelperBehaviorTest(unittest.TestCase):
     def test_extract_forwarding_target_returns_final_see_reference(self):
         body = text.markdown_to_plain_text((FIXTURES / "e" / "effects.md").read_text(encoding="utf-8"))
 
-        self.assertEqual(text.extract_forwarding_target(body), "effect")
+        self.assertEqual(text.extract_forwarding_target(body, "effects"), "effect")
+
+    def test_extract_forwarding_target_ignores_long_entries_ending_in_see_reference(self):
+        body = text.markdown_to_plain_text((FIXTURES / "h" / "hypercorrection.md").read_text(encoding="utf-8"))
+
+        self.assertIsNone(text.extract_forwarding_target(body, "Hypercorrection"))
+
+    def test_extract_forwarding_target_matches_escaped_markdown_headword(self):
+        body = text.markdown_to_plain_text("# \\*wrapt\n\n\\*wrapt. See **rapt**.\n")
+
+        self.assertEqual(text.extract_forwarding_target(body, "\\*wrapt"), "rapt")
 
 
 class DictionaryBehaviorTest(unittest.TestCase):

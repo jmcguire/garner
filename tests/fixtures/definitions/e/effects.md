@@ -1,4 +1,3 @@
 # effects
 
-Plural of effect. See effect.
-
+effects. See effect.

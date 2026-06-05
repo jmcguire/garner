@@ -13,7 +13,6 @@
  - help should explain "current ratio" and "language change index". also the point of this project. what a usage dictionary is.
  - look for internal links, like "See blah blah.", and wrap them in a markdown link so they "look" appropriate on a screen, even if they can't be clicked
  - need a way to look for those endings, like -ality, these are suffixes. they're currently marked as essays. a separate tag for prefixes or suffixes?
- - if a lookup on a word isn't found, search instead?
  - lookup should also look at the start of a word?
  - organize the parser arguments, add more help, add usage examples, etc.
 
@@ -27,13 +26,8 @@
 
 ## bugs:
 
- - the search isn't getting unique entries
- - the search isn't correctly searching for essays, e.g. "Hypercorrection (essay)"
- - forwarding check is too broad, see the very end of "phrasal verbs (essay)", which forwards.
  - Language Change index is sometimes not at the end of an entry, but just at the end of a lettered section. Just make it bold instead of a subheading? (e.g. often)
- - "spelling (essay)" ends with "no entry found"
  - --plain is getting an unformatted pile of text, when really we need to start with markdown and strip the colors (but keep the things like tables with correct spacing)
- - how do we search for essays? `./bin/garner -s "hypercorrection"`
 
 # usage
 
@@ -97,4 +91,3 @@ find . -type file -print | xargs perl -ne'print "$ARGV: $_\n" if /^\*+[\w\s]+\*+
 :'a,.g/\S/s/^/ - /
 :'a .g/^\s*$/d
 ```
-
