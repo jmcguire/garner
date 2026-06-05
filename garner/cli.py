@@ -48,15 +48,41 @@ def display_lookup_suggestions(word, rows, verbose):
 
 
 def main():
-    parser = argparse.ArgumentParser(prog="dict")
+    parser = argparse.ArgumentParser(
+        prog="garner",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        description=(
+            "Look up entries from Garner's English usage dictionary.\n"
+            "A usage dictionary helps writers and editors make practical choices about contested English usage."
+        ),
+        epilog=(
+            "Notes:\n"
+            "  Language-Change Index: Garner's 1-5 scale for how accepted a disputed usage has become.\n"
+            "  Current ratio: a print-frequency snapshot comparing a prevalent form with a variant.\n\n"
+            "Examples:\n"
+            "  garner --build\n"
+            "  garner affect\n"
+            "  garner hypercorrection essay\n"
+            "  garner --search accomodate\n"
+            "  garner --search hypercorrection essay\n"
+            "  garner --search affect --maxresults 3\n"
+            "  garner --essays\n"
+        ),
+    )
 
-    parser.add_argument(
+    global_options = parser.add_argument_group("global options")
+    command_options = parser.add_argument_group("commands")
+    search_options = parser.add_argument_group("search options")
+    output_options = parser.add_argument_group("output options")
+    lookup_args = parser.add_argument_group("lookup")
+
+    global_options.add_argument(
         "-d", "--db",
         default=str(DEFAULT_DB),
         help=f"SQLite database path; default: {DEFAULT_DB}",
     )
 
-    parser.add_argument(
+    command_options.add_argument(
         "-b", "--build",
         nargs="?",
         const=True,
@@ -64,43 +90,46 @@ def main():
         help=f"Build the database from definition files; default: {DEFAULT_DEFINITIONS}",
     )
 
-    parser.add_argument(
+    command_options.add_argument(
         "-e", "--essays",
         action="store_true",
         help="List the \"essays\" in this dictionary",
     )
 
-    parser.add_argument(
+    command_options.add_argument(
+        "-s", "--search",
+        help="Search for a word instead of doing a straight lookup. Extra words are joined into the search query.",
+    )
+
+    search_options.add_argument(
+        "-m", "--maxresults",
+        default=None,
+        type=int,
+        help=f"Maximum search results to return; only used with --search; default: {MAX_RESULTS_SHOWN}",
+    )
+
+    output_options.add_argument(
         "-v", "--verbose",
         action="store_true",
         help="Verbose output",
     )
 
-    parser.add_argument(
+    output_options.add_argument(
         "-p", "--plain",
         action="store_true",
         help="Output plain text, no fancy styling.",
     )
 
-    parser.add_argument(
-        "-s", "--search",
-        help="Search for a word instead of doing a straight lookup. Extra words are joined into the search query.",
-    )
-
-    parser.add_argument(
-        "-m", "--maxresults",
-        default=str(MAX_RESULTS_SHOWN),
-        type=int,
-        help=f"The maximum number of results to return when searching for a word; default: {MAX_RESULTS_SHOWN}",
-    )
-
-    parser.add_argument(
+    lookup_args.add_argument(
         "word",
         nargs="*",
         help="Word to look up. If multiple words are passed in, they will be joined into one lookup.",
     )
 
     args = parser.parse_args()
+
+    if args.maxresults is not None and args.search is None:
+        parser.error("--maxresults can only be used with --search")
 
     if args.build is not None:
         if args.build is True:
@@ -111,7 +140,8 @@ def main():
 
     elif args.search is not None:
         search_terms = [args.search] + args.word
-        rows = search(" ".join(search_terms), args.maxresults, args.db)
+        max_results = args.maxresults or MAX_RESULTS_SHOWN
+        rows = search(" ".join(search_terms), max_results, args.db)
         display(None, rows, args.verbose, args.plain)
 
     elif args.essays is True:

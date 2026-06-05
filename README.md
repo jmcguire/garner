@@ -10,11 +10,9 @@
 
 ## easy features:
 
- - help should explain "current ratio" and "language change index". also the point of this project. what a usage dictionary is.
  - look for internal links, like "See blah blah.", and wrap them in a markdown link so they "look" appropriate on a screen, even if they can't be clicked
  - need a way to look for those endings, like -ality, these are suffixes. they're currently marked as essays. a separate tag for prefixes or suffixes?
  - lookup should also look at the start of a word?
- - organize the parser arguments, add more help, add usage examples, etc.
 
 ## harder features:
 

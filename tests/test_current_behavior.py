@@ -31,6 +31,19 @@ def run_cli(args):
     return stdout.getvalue()
 
 
+def run_cli_expecting_exit(args):
+    stdout = io.StringIO()
+    stderr = io.StringIO()
+    with mock.patch.object(sys, "argv", ["garner"] + args):
+        with contextlib.redirect_stdout(stdout), contextlib.redirect_stderr(stderr):
+            try:
+                cli.main()
+            except SystemExit as error:
+                return error.code, stdout.getvalue(), stderr.getvalue()
+
+    raise AssertionError("expected SystemExit")
+
+
 class HelperBehaviorTest(unittest.TestCase):
     def test_normalize_key_removes_punctuation_and_folds_whitespace(self):
         self.assertEqual(text.normalize_key(" Hypercorrection,  Essay! "), " hypercorrection essay ")
@@ -235,6 +248,13 @@ class DictionaryBehaviorTest(unittest.TestCase):
 
         self.assertIn("Hypercorrection  (essay)", output)
         self.assertNotIn("No exact entry found for essay", output)
+
+    def test_maxresults_requires_search(self):
+        code, stdout, stderr = run_cli_expecting_exit(["--db", str(self.db_path), "--maxresults", "3", "affect"])
+
+        self.assertEqual(code, 2)
+        self.assertEqual(stdout, "")
+        self.assertIn("--maxresults can only be used with --search", stderr)
 
 
 if __name__ == "__main__":
