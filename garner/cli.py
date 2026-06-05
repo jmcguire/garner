@@ -14,6 +14,14 @@ script_dir = Path(__file__).resolve().parent
 DEFAULT_DB = (script_dir.parent / "var" / "dictionary.sqlite").resolve()
 DEFAULT_DEFINITIONS = (script_dir.parent / "definitions").resolve()
 MAX_RESULTS_SHOWN = 10
+SEARCH_EXACT = 0
+SEARCH_PREFIX = 1
+SEARCH_WORD_PREFIX = 2
+SEARCH_SUBSTRING = 3
+SEARCH_PHONETIC = 4
+SEARCH_FUZZY = 5
+SEARCH_MAX_FUZZY_RATIO = 0.45
+SEARCH_MIN_FUZZY_SIMILARITY = 0.86
 
 SCHEMA = """
 DROP TABLE IF EXISTS entries;
@@ -97,6 +105,44 @@ def lookup_key_and_essay_hint(word):
     if key.endswith(" essay"):
         return key.removesuffix(" essay").strip(), True
     return key, None
+
+
+def search_words(text):
+    return [word for word in re.split(r"[\s'-]+", text) if word]
+
+
+def search_score(word, row):
+    sort_key = row["sort_key"]
+    phonetic_code = row["phonetic_code"]
+    phonetic_key = get_phonetic_code(word)
+
+    if sort_key == word:
+        bucket = SEARCH_EXACT
+    elif sort_key.startswith(word):
+        bucket = SEARCH_PREFIX
+    elif any(part.startswith(word) for part in search_words(sort_key)):
+        bucket = SEARCH_WORD_PREFIX
+    elif word in sort_key:
+        bucket = SEARCH_SUBSTRING
+    elif phonetic_code == phonetic_key or phonetic_code.startswith(phonetic_key):
+        bucket = SEARCH_PHONETIC
+    else:
+        bucket = SEARCH_FUZZY
+
+    distance = jellyfish.levenshtein_distance(word, sort_key)
+    similarity = jellyfish.jaro_winkler_similarity(word, sort_key)
+    return (bucket, distance, -similarity, row["is_essay"], sort_key)
+
+
+def is_search_match(score, word):
+    bucket, distance, negative_similarity, _, _ = score
+    if bucket < SEARCH_FUZZY:
+        return True
+
+    return (
+        distance / max(len(word), 1) <= SEARCH_MAX_FUZZY_RATIO
+        and -negative_similarity >= SEARCH_MIN_FUZZY_SIMILARITY
+    )
 
 
 # build the SQL database from the source directory, that has all the entries
@@ -196,7 +242,11 @@ def search(word, max_results, db):
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
 
-    normalized_word = normalize(word)
+    normalized_word = normalize(word).strip()
+    if not normalized_word:
+        conn.close()
+        return []
+
     rows = search_query(normalized_word, conn)
 
     candidates = []
@@ -207,8 +257,11 @@ def search(word, max_results, db):
             continue
 
         seen.add(row_key)
-        distance = jellyfish.levenshtein_distance(normalized_word, normalize(row["headword"]))
-        candidates.append((distance, row))
+        score = search_score(normalized_word, row)
+        if not is_search_match(score, normalized_word):
+            continue
+
+        candidates.append((score, row))
 
     candidates.sort(key = lambda x: x[0])
     candidates = [candidate[1] for candidate in candidates]
@@ -219,16 +272,12 @@ def search(word, max_results, db):
 
 # a helper function for search
 def search_query(word, conn):
-    key = get_phonetic_code(word)
-
-    # search for words "beginning with" the key, lets the user just type the prefix to do a search
+    # Return all entry headings so ranking can combine exact, prefix, phonetic, and fuzzy matches.
     rows = conn.execute(
         """
-        SELECT id, headword, body_markdown, body_plain, filename, forwarding, is_essay
+        SELECT id, headword, sort_key, phonetic_code, body_markdown, body_plain, filename, forwarding, is_essay
         FROM entries
-        WHERE phonetic_code like ? OR sort_key like ?
-        """,
-        (f"%{key}%", f"%{word}%",),
+        """
     ).fetchall()
 
     return rows

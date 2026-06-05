@@ -133,6 +133,45 @@ class DictionaryBehaviorTest(unittest.TestCase):
 
         self.assertIn("affect", [row["headword"] for row in rows])
 
+    def test_search_ranks_exact_before_prefix_matches(self):
+        rows = cli.search("effect", 3, self.db_path)
+
+        self.assertEqual(rows[0]["headword"], "effect")
+        self.assertEqual(rows[1]["headword"], "effects")
+
+    def test_search_ranks_prefix_before_word_prefix_matches(self):
+        rows = cli.search("effect", 10, self.db_path)
+        headwords = [row["headword"] for row in rows]
+
+        self.assertLess(headwords.index("effective"), headwords.index("side effect"))
+
+    def test_search_includes_fuzzy_matches_for_misspellings(self):
+        rows = cli.search("efect", 5, self.db_path)
+
+        self.assertIn("effect", [row["headword"] for row in rows])
+
+    def test_search_keeps_close_long_misspellings(self):
+        rows = cli.search("recieved", 5, self.db_path)
+
+        self.assertEqual(rows[0]["headword"], "receive")
+
+    def test_search_excludes_similar_but_distant_fuzzy_matches(self):
+        rows = cli.search("recieved", 10, self.db_path)
+
+        self.assertNotIn("recitative", [row["headword"] for row in rows])
+
+    def test_search_excludes_distant_fuzzy_matches(self):
+        rows = cli.search("effe", 10, self.db_path)
+
+        self.assertNotIn("affect", [row["headword"] for row in rows])
+
+    def test_search_does_not_fill_short_prefix_searches_with_fuzzy_noise(self):
+        rows = cli.search("hyper", 10, self.db_path)
+        headwords = [row["headword"] for row in rows]
+
+        self.assertIn("hyperbola", headwords)
+        self.assertNotIn("cypher", headwords)
+
     def test_search_normalizes_query_punctuation(self):
         rows = cli.search("affect!", 10, self.db_path)
 
