@@ -16,18 +16,19 @@ DEFAULT_DEFINITIONS = (script_dir.parent / "definitions").resolve()
 MAX_RESULTS_SHOWN = 10
 
 SCHEMA = """
-DROP TABLE entries;
+DROP TABLE IF EXISTS entries;
 
 CREATE TABLE entries (
     id INTEGER PRIMARY KEY,
     headword TEXT NOT NULL UNIQUE,
-    sort_key TEXT NOT NULL UNIQUE,
+    sort_key TEXT NOT NULL,
     phonetic_code TEXT NOT NULL,
     filename TEXT NOT NULL,
     body_markdown TEXT NOT NULL,
     body_plain TEXT NOT NULL,
     forwarding TEXT NULL,
-    is_essay BOOLEAN NOT NULL CHECK (is_essay in (0,1))
+    is_essay BOOLEAN NOT NULL CHECK (is_essay in (0,1)),
+    UNIQUE (sort_key, is_essay)
 );
 
 CREATE INDEX IF NOT EXISTS idx_entries_sort_key ON entries(sort_key);
@@ -84,6 +85,20 @@ def get_is_essay(title):
     return title.endswith(", Essay")
 
 
+def clean_headword(headword):
+    is_essay = get_is_essay(headword)
+    if is_essay:
+        headword = headword.removesuffix(", Essay")
+    return headword, is_essay
+
+
+def lookup_key_and_essay_hint(word):
+    key = normalize(word).strip()
+    if key.endswith(" essay"):
+        return key.removesuffix(" essay").strip(), True
+    return key, None
+
+
 # build the SQL database from the source directory, that has all the entries
 def build(source_dir, db, verbose):
     db_path = Path(db).expanduser()
@@ -100,28 +115,23 @@ def build(source_dir, db, verbose):
         body = path.read_text(encoding="utf-8")
         plain_body = markdown_to_plain(body)
 
-        headword = first_heading(body)
-        sortword = normalize(headword)
-        phonetic_code = get_phonetic_code(headword)
-
-        forwarding = get_forwarding(plain_body)
-        is_essay = get_is_essay(headword)
-
-        if is_essay:
-            headword = headword.removesuffix(", Essay")
-            #sortword = sortword.removesuffix(" essay")
-
-        if not headword:
+        heading = first_heading(body)
+        if not heading:
             console.print(f"Skipping {path}: no level 1 heading", style="yellow")
             continue
-        else:
-            if verbose:
-                if forwarding:
-                    console.print(f"loading {headword} ({sortword}) rom {path}, forwards to {forwarding}", style="green")
-                elif is_essay:
-                    console.print(f"loading {headword} ({sortword}) from {path}, an essay", style="green")
-                else:
-                    console.print(f"loading {headword} ({sortword}) from {path}", style="green")
+
+        headword, is_essay = clean_headword(heading)
+        sortword = normalize(headword)
+        phonetic_code = get_phonetic_code(headword)
+        forwarding = get_forwarding(plain_body)
+
+        if verbose:
+            if forwarding:
+                console.print(f"loading {headword} ({sortword}) from {path}, forwards to {forwarding}", style="green")
+            elif is_essay:
+                console.print(f"loading {headword} ({sortword}) from {path}, an essay", style="green")
+            else:
+                console.print(f"loading {headword} ({sortword}) from {path}", style="green")
 
         conn.execute(
             """
@@ -153,16 +163,29 @@ def lookup(word, db):
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
 
-    key = normalize(word)
+    key, is_essay = lookup_key_and_essay_hint(word)
 
-    row = conn.execute(
-        """
-        SELECT headword, body_markdown, body_plain, filename, forwarding
-        FROM entries
-        WHERE sort_key = ?
-        """,
-        (key,),
-    ).fetchone()
+    if is_essay is None:
+        row = conn.execute(
+            """
+            SELECT headword, body_markdown, body_plain, filename, forwarding, is_essay
+            FROM entries
+            WHERE sort_key = ?
+            ORDER BY is_essay ASC
+            LIMIT 1
+            """,
+            (key,),
+        ).fetchone()
+    else:
+        row = conn.execute(
+            """
+            SELECT headword, body_markdown, body_plain, filename, forwarding, is_essay
+            FROM entries
+            WHERE sort_key = ? AND is_essay = ?
+            """,
+            (key, is_essay),
+        ).fetchone()
+
 
     conn.close()
     return row
@@ -173,18 +196,25 @@ def search(word, max_results, db):
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
 
-    rows = search_query(word, conn)
+    normalized_word = normalize(word)
+    rows = search_query(normalized_word, conn)
 
     candidates = []
+    seen = set()
     for row in rows:
-        distance = jellyfish.levenshtein_distance(word, row["headword"])
+        row_key = row["id"]
+        if row_key in seen:
+            continue
+
+        seen.add(row_key)
+        distance = jellyfish.levenshtein_distance(normalized_word, normalize(row["headword"]))
         candidates.append((distance, row))
 
     candidates.sort(key = lambda x: x[0])
     candidates = [candidate[1] for candidate in candidates]
 
     conn.close()
-    return candidates[0:max_results-1]
+    return candidates[0:max_results]
 
 
 # a helper function for search
@@ -194,7 +224,7 @@ def search_query(word, conn):
     # search for words "beginning with" the key, lets the user just type the prefix to do a search
     rows = conn.execute(
         """
-        SELECT headword, body_markdown, body_plain, filename, forwarding, is_essay
+        SELECT id, headword, body_markdown, body_plain, filename, forwarding, is_essay
         FROM entries
         WHERE phonetic_code like ? OR sort_key like ?
         """,
@@ -336,4 +366,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
