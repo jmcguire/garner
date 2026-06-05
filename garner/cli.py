@@ -84,7 +84,7 @@ def main():
 
     parser.add_argument(
         "-s", "--search",
-        help="Search for a word, instead of doing a straight lookup.",
+        help="Search for a word instead of doing a straight lookup. Extra words are joined into the search query.",
     )
 
     parser.add_argument(
@@ -97,12 +97,28 @@ def main():
     parser.add_argument(
         "word",
         nargs="*",
-        help="Word to look up. If multiple words are passed in, they will be concatenated.",
+        help="Word to look up. If multiple words are passed in, they will be joined into one lookup.",
     )
 
     args = parser.parse_args()
 
-    if args.word:
+    if args.build is not None:
+        if args.build is True:
+            source_dir = DEFAULT_DEFINITIONS
+        else:
+            source_dir = args.build
+        build(source_dir, args.db, args.verbose)
+
+    elif args.search is not None:
+        search_terms = [args.search] + args.word
+        rows = search(" ".join(search_terms), args.maxresults, args.db)
+        display(None, rows, args.verbose, args.plain)
+
+    elif args.essays is True:
+        rows = list_essays(args.db)
+        display(None, rows, args.verbose, args.plain)
+
+    elif args.word:
         word = " ".join(args.word)
         row = lookup(word, args.db)
 
@@ -116,21 +132,6 @@ def main():
         else:
             rows = search(word, LOOKUP_SUGGESTIONS_SHOWN, args.db)
             display_lookup_suggestions(word, rows, args.verbose)
-
-    elif args.build is not None:
-        if args.build is True:
-            source_dir = DEFAULT_DEFINITIONS
-        else:
-            source_dir = args.build
-        build(source_dir, args.db, args.verbose)
-
-    elif args.search is not None:
-        rows = search(args.search, args.maxresults, args.db)
-        display(None, rows, args.verbose, args.plain)
-
-    elif args.essays is True:
-        rows = list_essays(args.db)
-        display(None, rows, args.verbose, args.plain)
 
     else:
         parser.print_help()

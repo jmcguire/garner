@@ -220,6 +220,12 @@ class DictionaryBehaviorTest(unittest.TestCase):
 
         self.assertEqual(output.strip(), "No entry found")
 
+    def test_search_option_combines_extra_words_into_search_query(self):
+        output = run_cli(["--db", str(self.db_path), "-s", "hypercorrection", "essay"])
+
+        self.assertIn("Hypercorrection  (essay)", output)
+        self.assertNotIn("No exact entry found for essay", output)
+
 
 if __name__ == "__main__":
     unittest.main()
