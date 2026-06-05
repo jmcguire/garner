@@ -14,6 +14,7 @@ script_dir = Path(__file__).resolve().parent
 DEFAULT_DB = (script_dir.parent / "var" / "dictionary.sqlite").resolve()
 DEFAULT_DEFINITIONS = (script_dir.parent / "definitions").resolve()
 MAX_RESULTS_SHOWN = 10
+LOOKUP_SUGGESTIONS_SHOWN = 2
 SEARCH_EXACT = 0
 SEARCH_PREFIX = 1
 SEARCH_WORD_PREFIX = 2
@@ -124,7 +125,7 @@ def search_score(word, row):
         bucket = SEARCH_WORD_PREFIX
     elif word in sort_key:
         bucket = SEARCH_SUBSTRING
-    elif phonetic_code == phonetic_key or phonetic_code.startswith(phonetic_key):
+    elif len(phonetic_key) >= 2 and (phonetic_code == phonetic_key or phonetic_code.startswith(phonetic_key)):
         bucket = SEARCH_PHONETIC
     else:
         bucket = SEARCH_FUZZY
@@ -328,6 +329,15 @@ def display(row, rows, verbose, plain):
         print(f"No entry found")
 
 
+def display_lookup_suggestions(word, rows, verbose):
+    if not rows:
+        print(f"No entry found")
+        return
+
+    print(f"No exact entry found for {word}. Did you mean:")
+    display(None, rows, verbose, plain=True)
+
+
 def main():
     parser = argparse.ArgumentParser(prog="dict")
 
@@ -386,12 +396,17 @@ def main():
     if args.word:
         word = " ".join(args.word)
         row = lookup(word, args.db)
-        display(row, None, args.verbose, args.plain)
 
-        if row and row["forwarding"]:
-            print("\n")
-            row = lookup(row["forwarding"], args.db)
+        if row:
             display(row, None, args.verbose, args.plain)
+
+            if row["forwarding"]:
+                print("\n")
+                row = lookup(row["forwarding"], args.db)
+                display(row, None, args.verbose, args.plain)
+        else:
+            rows = search(word, LOOKUP_SUGGESTIONS_SHOWN, args.db)
+            display_lookup_suggestions(word, rows, args.verbose)
     
     elif args.build is not None:
         if args.build is True:

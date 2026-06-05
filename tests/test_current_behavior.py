@@ -1,6 +1,7 @@
 import contextlib
 import io
 import sqlite3
+import sys
 import tempfile
 import unittest
 from unittest import mock
@@ -48,6 +49,14 @@ def create_fixture_db(source_dir=FIXTURES):
     conn.commit()
     conn.close()
     return temp_dir, db_path
+
+
+def run_cli(args):
+    stdout = io.StringIO()
+    with mock.patch.object(sys, "argv", ["garner"] + args):
+        with contextlib.redirect_stdout(stdout):
+            cli.main()
+    return stdout.getvalue()
 
 
 class HelperBehaviorTest(unittest.TestCase):
@@ -223,6 +232,21 @@ class DictionaryBehaviorTest(unittest.TestCase):
 
             self.assertFalse(cli.lookup("etymology", db_path)["is_essay"])
             self.assertTrue(cli.lookup("etymology essay", db_path)["is_essay"])
+
+    def test_failed_lookup_shows_short_search_suggestions(self):
+        output = run_cli(["--db", str(self.db_path), "recieved"])
+
+        self.assertIn("No exact entry found for recieved. Did you mean:", output)
+        self.assertIn("receive", output)
+        self.assertLessEqual(
+            len([line for line in output.splitlines() if line and not line.startswith("No exact")]),
+            cli.LOOKUP_SUGGESTIONS_SHOWN,
+        )
+
+    def test_failed_lookup_without_suggestions_still_says_no_entry_found(self):
+        output = run_cli(["--db", str(self.db_path), "zzzzzzzz"])
+
+        self.assertEqual(output.strip(), "No entry found")
 
 
 if __name__ == "__main__":
