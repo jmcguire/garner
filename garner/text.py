@@ -1,8 +1,9 @@
 import re
+import io
 
 import jellyfish
-from markdown import Markdown
-from markdown_plain_text.extention import PlainTextExtension
+from rich.console import Console
+from rich.markdown import Markdown
 
 
 def normalize_key(text):
@@ -20,10 +21,12 @@ def phonetic_code(text):
     return jellyfish.metaphone(text)
 
 
-def markdown_to_plain_text(text):
+def markdown_to_plain_text(text, width=100):
     """Convert entry Markdown to plain text for indexing and plain output."""
-    md = Markdown(extensions=[PlainTextExtension()])
-    return md.convert(text)
+    buffer = io.StringIO()
+    console = Console(file=buffer, record=True, color_system=None, width=width)
+    console.print(Markdown(text))
+    return console.export_text(styles=False)
 
 
 def extract_first_heading(markdown):

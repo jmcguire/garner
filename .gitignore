@@ -1,3 +1,5 @@
 venv/
 var/
-
+build/
+dist/
+*.egg-info/

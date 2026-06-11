@@ -1,0 +1,1 @@
+"""Packaged dictionary data."""

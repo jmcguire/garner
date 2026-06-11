@@ -1,9 +1,1 @@
-importlib_metadata==8.7.1
-jellyfish==1.2.1
-Markdown==3.9
-markdown-it-py==3.0.0
-mdurl==0.1.2
--e git+https://github.com/kostyachum/python-markdown-plain-text.git@8740e7ee364ac8ae9c436dcff58f8bb862ce93e5#egg=Plain_Text_Markdown_Extention
-Pygments==2.20.0
-rich==15.0.0
-zipp==3.23.1
+-e ".[release]"

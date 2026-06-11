@@ -1,9 +1,12 @@
 import contextlib
 import io
+import runpy
 import sqlite3
+import subprocess
 import sys
 import tempfile
 import unittest
+import zipfile
 from unittest import mock
 from pathlib import Path
 
@@ -13,7 +16,9 @@ from garner import text
 
 
 FIXTURES = Path(__file__).parent / "fixtures" / "definitions"
-REAL_DEFINITIONS = Path(__file__).parents[1] / "definitions"
+PROJECT_ROOT = Path(__file__).parents[1]
+REAL_DEFINITIONS = PROJECT_ROOT / "definitions"
+RELEASE_SCRIPT = PROJECT_ROOT / "scripts" / "release"
 
 
 def markdown_files(source_dir):
@@ -132,6 +137,28 @@ class DictionaryBehaviorTest(unittest.TestCase):
 
         self.assertIsNotNone(row)
         self.assertEqual(row["headword"], "affect")
+
+    def test_default_lookup_uses_packaged_database(self):
+        row = dictionary.lookup("affect")
+
+        self.assertIsNotNone(row)
+        self.assertEqual(row["headword"], "affect")
+
+    def test_packaged_database_resource_is_readable_sqlite(self):
+        db_path = dictionary.default_db_path()
+        conn = sqlite3.connect(db_path)
+        try:
+            row_count = conn.execute("SELECT COUNT(*) FROM entries").fetchone()[0]
+        finally:
+            conn.close()
+
+        self.assertGreater(row_count, 0)
+
+    def test_db_option_overrides_packaged_database(self):
+        row = dictionary.lookup("hypercorrection essay", self.db_path)
+
+        self.assertIsNotNone(row)
+        self.assertIn("attempt to be correct", row["body_plain"])
 
     def test_lookup_keeps_forwarding_metadata(self):
         row = dictionary.lookup("effects", self.db_path)
@@ -291,6 +318,29 @@ class DictionaryBehaviorTest(unittest.TestCase):
         self.assertEqual(stdout, "")
         self.assertIn("--maxresults can only be used with --search", stderr)
 
+    def test_version_option_prints_package_version(self):
+        code, stdout, stderr = run_cli_expecting_exit(["--version"])
+
+        self.assertEqual(code, 0)
+        self.assertEqual(stderr, "")
+        self.assertIn(cli.__version__, stdout)
+
+    def test_cli_build_accepts_definition_dir_and_db_path(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            db_path = Path(temp_dir) / "dictionary.sqlite"
+            output = run_cli(["--build", str(FIXTURES), "--db", str(db_path)])
+
+            self.assertTrue(db_path.exists())
+            self.assertIn(f"Built database: {db_path}", output)
+
+    def test_bare_build_requires_default_definitions_directory(self):
+        with mock.patch("garner.cli.DEFAULT_DEFINITIONS", Path("/missing/definitions")):
+            code, stdout, stderr = run_cli_expecting_exit(["--build"])
+
+        self.assertEqual(code, 2)
+        self.assertEqual(stdout, "")
+        self.assertIn("--build requires a definitions directory", stderr)
+
     def test_plain_markdown_rendering_expands_tables(self):
         rendered = cli.render_markdown_as_plain_text(
             """
@@ -346,6 +396,30 @@ class DefinitionContentTest(unittest.TestCase):
 
         self.assertGreater(len(checked), 0)
         self.assertEqual(missed, [])
+
+
+class ReleaseScriptTest(unittest.TestCase):
+    def test_release_script_rejects_invalid_version_before_mutating_files(self):
+        result = subprocess.run(
+            [str(RELEASE_SCRIPT), "not-a-version"],
+            cwd=PROJECT_ROOT,
+            capture_output=True,
+            text=True,
+        )
+
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("Invalid version", result.stderr)
+
+    def test_release_script_rejects_wheel_without_packaged_database(self):
+        release_helpers = runpy.run_path(str(RELEASE_SCRIPT))
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            wheel_path = Path(temp_dir) / "garner-0.1.0-py3-none-any.whl"
+            with zipfile.ZipFile(wheel_path, "w") as wheel:
+                wheel.writestr("garner/__init__.py", "")
+
+            with self.assertRaises(SystemExit):
+                release_helpers["verify_wheel_contains_db"](wheel_path)
 
 
 if __name__ == "__main__":

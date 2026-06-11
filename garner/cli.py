@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 
 import argparse
-import io
 
 from rich.console import Console
 from rich.markdown import Markdown as Markdown2
 
-from garner.dictionary import DEFAULT_DB, DEFAULT_DEFINITIONS, build, list_essays, lookup, search
+from garner.__version__ import __version__
+from garner.dictionary import DEFAULT_BUILD_DB, DEFAULT_DEFINITIONS, build, list_essays, lookup, search
+from garner.text import markdown_to_plain_text
 
 
 MAX_RESULTS_SHOWN = 10
@@ -14,10 +15,7 @@ LOOKUP_SUGGESTIONS_SHOWN = 2
 
 
 def render_markdown_as_plain_text(markdown, width=100):
-    buffer = io.StringIO()
-    console = Console(file=buffer, record=True, color_system=None, width=width)
-    console.print(Markdown2(markdown))
-    return console.export_text(styles=False)
+    return markdown_to_plain_text(markdown, width=width)
 
 
 def display(row, rows, verbose, plain):
@@ -86,8 +84,8 @@ def main():
 
     global_options.add_argument(
         "-d", "--db",
-        default=str(DEFAULT_DB),
-        help=f"SQLite database path; default: {DEFAULT_DB}",
+        default=None,
+        help="SQLite database path; default: bundled dictionary database for lookup, var/dictionary.sqlite for build",
     )
 
     command_options.add_argument(
@@ -95,7 +93,7 @@ def main():
         nargs="?",
         const=True,
         metavar="DIR",
-        help=f"Build the database from definition files; default: {DEFAULT_DEFINITIONS}",
+        help=f"Build the database from definition files; default source: {DEFAULT_DEFINITIONS}; default output: {DEFAULT_BUILD_DB}",
     )
 
     command_options.add_argument(
@@ -128,6 +126,12 @@ def main():
         help="Output plain text, no fancy styling.",
     )
 
+    output_options.add_argument(
+        "--version",
+        action="version",
+        version=f"%(prog)s {__version__}",
+    )
+
     lookup_args.add_argument(
         "word",
         nargs="*",
@@ -141,6 +145,8 @@ def main():
 
     if args.build is not None:
         if args.build is True:
+            if not DEFAULT_DEFINITIONS.exists():
+                parser.error("--build requires a definitions directory when no DIR is provided")
             source_dir = DEFAULT_DEFINITIONS
         else:
             source_dir = args.build

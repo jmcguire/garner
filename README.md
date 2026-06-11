@@ -4,26 +4,27 @@ Start with basic python stuff:
 
 ```sh
 python3 -m venv venv
-. ./venv/bin/activate
-python3 -m pip install
+./venv/bin/python -m pip install -r requirements.txt
 ```
 
-Before you can use this dictionary utility, you need to build the local database with the definition files. You only have to do this once, the SQL db will be stored on disk.
+The packaged command includes a compiled SQLite dictionary. If you are working
+from the developer checkout and want to rebuild it from the Markdown
+definitions, run:
 
 ```
-garner --build
+./venv/bin/garner --build
 ```
 
 Then you can lookup words simply like:
 
 ```
-garner <word>
+./venv/bin/garner <word>
 ```
 
 Or search for words like:
 
 ```
-garner -s <word>
+./venv/bin/garner -s <word>
 ```
 
 If you want a paged result, pipe it through `less`.
@@ -40,6 +41,16 @@ The tests use a small fixture dictionary in `tests/fixtures/definitions`
 instead of the full set of parsed definition files. They create a temporary
 SQLite database from those fixture entries and check the core lookup/search
 behavior against that tiny dictionary.
+
+# releases
+
+Release prep is scripted:
+
+```sh
+./scripts/release 1.1.0
+```
+
+See `RELEASING.md` for the full release checklist.
 
 # scratchpad
 

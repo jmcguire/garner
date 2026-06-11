@@ -1,0 +1,160 @@
+#!/usr/bin/env python3
+"""Prepare a Garner release artifact from the current checkout."""
+
+from __future__ import annotations
+
+import os
+import re
+import shutil
+import subprocess
+import sys
+import tempfile
+import zipfile
+from pathlib import Path
+
+
+ROOT = Path(__file__).resolve().parents[1]
+VERSION_FILE = ROOT / "garner" / "__version__.py"
+PACKAGED_DB = ROOT / "garner" / "data" / "dictionary.sqlite"
+DIST_DIR = ROOT / "dist"
+VERSION_RE = re.compile(r"^\d+\.\d+(?:\.\d+)?(?:a\d+|b\d+|rc\d+)?$")
+
+
+def run(command: list[str], **kwargs) -> subprocess.CompletedProcess:
+    print("+ " + " ".join(command))
+    return subprocess.run(command, cwd=ROOT, check=True, **kwargs)
+
+
+def validate_version(version: str) -> None:
+    if not VERSION_RE.fullmatch(version):
+        raise SystemExit(
+            f"Invalid version: {version}\n"
+            "Use a version like 1.1, 1.1.0, 1.1.0a1, 1.1.0b1, or 1.1.0rc1."
+        )
+
+
+def require_clean_worktree() -> None:
+    result = subprocess.run(
+        ["git", "status", "--short"],
+        cwd=ROOT,
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+    if result.stdout.strip():
+        raise SystemExit(
+            "Release prep requires a clean working tree.\n"
+            "Commit or stash current changes, then rerun this command."
+        )
+
+
+def update_version_file(version: str) -> None:
+    original = VERSION_FILE.read_text(encoding="utf-8")
+    updated, count = re.subn(
+        r'__version__ = "[^"]+"',
+        f'__version__ = "{version}"',
+        original,
+        count=1,
+    )
+    if count != 1:
+        raise SystemExit(f"Could not update version in {VERSION_FILE}")
+    VERSION_FILE.write_text(updated, encoding="utf-8")
+
+
+def verify_wheel_contains_db(wheel_path: Path) -> None:
+    expected = "garner/data/dictionary.sqlite"
+    with zipfile.ZipFile(wheel_path) as wheel:
+        names = set(wheel.namelist())
+    if expected not in names:
+        raise SystemExit(f"{wheel_path.name} does not contain {expected}")
+
+
+def venv_python(venv_dir: Path) -> Path:
+    if os.name == "nt":
+        return venv_dir / "Scripts" / "python.exe"
+    return venv_dir / "bin" / "python"
+
+
+def venv_garner(venv_dir: Path) -> Path:
+    if os.name == "nt":
+        return venv_dir / "Scripts" / "garner.exe"
+    return venv_dir / "bin" / "garner"
+
+
+def smoke_test_wheel(wheel_path: Path, version: str) -> None:
+    with tempfile.TemporaryDirectory() as temp_dir:
+        venv_dir = Path(temp_dir) / "venv"
+        run([sys.executable, "-m", "venv", str(venv_dir)])
+        python = venv_python(venv_dir)
+        garner = venv_garner(venv_dir)
+
+        run([str(python), "-m", "pip", "install", str(wheel_path)])
+
+        version_result = run(
+            [str(garner), "--version"],
+            capture_output=True,
+            text=True,
+        )
+        if version not in version_result.stdout:
+            raise SystemExit(f"`garner --version` did not print {version}")
+
+        smoke_commands = [
+            [str(garner), "affect"],
+            [str(garner), "--search", "accomodate"],
+            [str(garner), "--essays"],
+            [str(garner), "--plain", "affect"],
+        ]
+        for command in smoke_commands:
+            run(command, capture_output=True, text=True)
+
+
+def build_release(version: str) -> None:
+    validate_version(version)
+    require_clean_worktree()
+
+    update_version_file(version)
+    PACKAGED_DB.parent.mkdir(parents=True, exist_ok=True)
+
+    run([sys.executable, "-m", "garner.cli", "--build", "definitions", "--db", str(PACKAGED_DB)])
+    run([sys.executable, "-m", "unittest", "discover", "-s", "tests"])
+
+    if DIST_DIR.exists():
+        shutil.rmtree(DIST_DIR)
+    run([sys.executable, "-m", "build"])
+
+    wheels = sorted(DIST_DIR.glob("garner-*.whl"))
+    if not wheels:
+        raise SystemExit("No wheel was built in dist/")
+
+    wheel_path = wheels[-1]
+    verify_wheel_contains_db(wheel_path)
+    smoke_test_wheel(wheel_path, version)
+
+
+def print_next_steps(version: str) -> None:
+    print()
+    print(f"Release {version} is prepared.")
+    print()
+    print("Review the generated changes, then run:")
+    print()
+    print("  git status --short")
+    print("  git diff --stat")
+    print("  git add .gitignore pyproject.toml MANIFEST.in README.md RELEASING.md requirements.txt scripts/release")
+    print("  git add garner/__version__.py garner/data/__init__.py garner/data/dictionary.sqlite")
+    print(f'  git commit -m "Release {version}"')
+    print(f"  git tag v{version}")
+    print()
+    print("Publish/upload steps can be added once PyPI or Homebrew distribution is set up.")
+
+
+def main() -> None:
+    if len(sys.argv) != 2:
+        raise SystemExit("Usage: ./scripts/release VERSION")
+
+    version = sys.argv[1]
+    build_release(version)
+    print_next_steps(version)
+
+
+if __name__ == "__main__":
+    main()

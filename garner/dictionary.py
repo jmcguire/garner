@@ -1,4 +1,5 @@
 import sqlite3
+from importlib import resources
 from pathlib import Path
 
 from rich.console import Console
@@ -15,9 +16,10 @@ from garner.text import (
 )
 
 
-script_dir = Path(__file__).resolve().parent
-DEFAULT_DB = (script_dir.parent / "var" / "dictionary.sqlite").resolve()
-DEFAULT_DEFINITIONS = (script_dir.parent / "definitions").resolve()
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+DEFAULT_BUILD_DB = (PROJECT_ROOT / "var" / "dictionary.sqlite").resolve()
+DEFAULT_DEFINITIONS = (PROJECT_ROOT / "definitions").resolve()
+PACKAGED_DB = "dictionary.sqlite"
 
 SCHEMA = """
 DROP TABLE IF EXISTS entries;
@@ -47,9 +49,32 @@ def connect(db_path):
     return conn
 
 
-def build(source_dir, db, verbose):
+def default_db_path():
+    """Return the packaged read-only dictionary database path."""
+    resource = resources.files("garner.data").joinpath(PACKAGED_DB)
+    if not resource.is_file():
+        raise FileNotFoundError(
+            "Bundled dictionary database not found. "
+            "Run `garner --build DIR --db PATH` to build a custom database."
+        )
+    return Path(resource)
+
+
+def db_path_for_lookup(db=None):
+    if db is None:
+        return default_db_path()
+    return Path(db).expanduser()
+
+
+def db_path_for_build(db=None):
+    if db is None:
+        return DEFAULT_BUILD_DB
+    return Path(db).expanduser()
+
+
+def build(source_dir, db=None, verbose=False):
     """Build a disposable SQLite lookup database from Markdown entries."""
-    db_path = Path(db).expanduser()
+    db_path = db_path_for_build(db)
     conn = connect(db_path)
     conn.executescript(SCHEMA)
 
@@ -105,9 +130,9 @@ def build(source_dir, db, verbose):
     print(f"Built database: {db_path}")
 
 
-def lookup(word, db):
+def lookup(word, db=None):
     """Look up an exact entry, preferring regular entries unless the query asks for an essay."""
-    db_path = Path(db).expanduser()
+    db_path = db_path_for_lookup(db)
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
 
@@ -138,9 +163,9 @@ def lookup(word, db):
     return row
 
 
-def search(word, max_results, db):
+def search(word, max_results, db=None):
     """Return ranked search suggestions; max_results is a ceiling, not a quota."""
-    db_path = Path(db).expanduser()
+    db_path = db_path_for_lookup(db)
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
 
@@ -183,8 +208,8 @@ def search_query(word, conn):
     return rows
 
 
-def list_essays(db):
-    db_path = Path(db).expanduser()
+def list_essays(db=None):
+    db_path = db_path_for_lookup(db)
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
 
