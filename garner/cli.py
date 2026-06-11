@@ -72,7 +72,9 @@ def main():
             "  garner --search accomodate\n"
             "  garner --search hypercorrection essay\n"
             "  garner --search affect --maxresults 3\n"
-            "  garner --essays\n"
+            "  garner --essays\n\n"
+            "Note: some entries start with a - mark, which can confuse the script beacue it looks like an argument. To look them up, put a -- before the entry name, like so\n\n"
+            "  garner -- -er\n"
         ),
     )
 
