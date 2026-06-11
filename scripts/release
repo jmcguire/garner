@@ -139,7 +139,6 @@ def print_next_steps(version: str) -> None:
     print()
     print("  git status --short")
     print("  git diff --stat")
-    print("  git add .gitignore pyproject.toml MANIFEST.in README.md RELEASING.md requirements.txt scripts/release")
     print("  git add garner/__version__.py garner/data/__init__.py garner/data/dictionary.sqlite")
     print(f'  git commit -m "Release {version}"')
     print(f"  git tag v{version}")

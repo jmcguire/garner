@@ -57,7 +57,6 @@ git diff --stat
 Then commit and tag:
 
 ```sh
-git add pyproject.toml MANIFEST.in RELEASING.md requirements.txt scripts/release
 git add garner/__version__.py garner/data/__init__.py garner/data/dictionary.sqlite
 git commit -m "Release 1.1.0"
 git tag v1.1.0
@@ -65,6 +64,34 @@ git tag v1.1.0
 
 ## Publish
 
-PyPI/TestPyPI and Homebrew publishing are not wired up yet. When they are, add the exact upload commands here.
+Upload to TestPyPI with Twine:
+
+```sh
+./venv/bin/python -m twine upload --repository testpypi dist/*
+```
+
+Test the exact wheel from TestPyPI by downloading Garner without its
+dependencies, then installing that wheel through pipx:
+
+```sh
+version=1.1.0
+test_dir="$(mktemp -d)"
+python3 -m pip download \
+    --no-deps \
+    --only-binary=:all: \
+    --index-url https://test.pypi.org/simple/ \
+    --dest "$test_dir" \
+    "garner==$version"
+pipx install --force "$test_dir/garner-$version-py3-none-any.whl"
+garner --version
+garner affect
+```
+
+Do not use TestPyPI as the sole index for a normal dependency-resolving
+install. It does not mirror packages such as `jellyfish` and `rich`. Installing
+the downloaded Garner wheel lets pipx resolve those dependencies from PyPI.
+
+PyPI and Homebrew publishing are not wired up yet. When they are, add the exact
+upload commands here.
 
 For now, the built files are in `dist/`.
