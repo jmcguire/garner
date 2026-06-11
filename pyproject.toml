@@ -4,10 +4,14 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "garner"
+authors = [
+  { name="Justin McGuire", email="jm@landedstar.com" },
+]
 dynamic = ["version"]
-description = "Command-line Garner Usage Dictionary"
+description = "Look up words in the Garner Usage Dictionary from the command-line."
 readme = "README.md"
 requires-python = ">=3.9"
+license = {file = "LICENSE"}
 dependencies = [
     "jellyfish>=1.2,<2",
     "rich>=15,<16",
@@ -22,6 +26,9 @@ classifiers = [
 release = [
     "build>=1.2",
 ]
+
+[project.urls]
+Homepage = "https://github.com/jmcguire/garner"
 
 [project.scripts]
 garner = "garner.cli:main"

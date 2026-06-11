@@ -1,8 +1,6 @@
 # Releasing Garner
 
-Garner has one version number for both the application code and the bundled
-dictionary database. Entry-only changes still need a release version because
-users receive those changes through a new packaged SQLite database.
+Garner has one version number for both the application code and the bundled dictionary database. Entry-only changes still need a release version because users receive those changes through a new packaged SQLite database.
 
 Use normal semantic-ish versions:
 
@@ -17,6 +15,9 @@ Start from a clean working tree:
 ```sh
 git status --short
 ```
+
+Before publishing, confirm that `LICENSE` still covers the code and `NOTICE`
+still accurately describes the dictionary content split.
 
 Install development and release dependencies:
 
@@ -42,8 +43,7 @@ The script:
  - verifies that the wheel contains the bundled SQLite database
  - installs the wheel into a temporary virtual environment and smoke-tests it
 
-If the script fails, fix the problem and rerun it. Do not edit the generated
-SQLite database by hand.
+If the script fails, fix the problem and rerun it. Do not edit the generated SQLite database by hand.
 
 ## Review, Commit, and Tag
 
@@ -65,7 +65,6 @@ git tag v1.1.0
 
 ## Publish
 
-PyPI/TestPyPI and Homebrew publishing are not wired up yet. When they are, add
-the exact upload commands here.
+PyPI/TestPyPI and Homebrew publishing are not wired up yet. When they are, add the exact upload commands here.
 
 For now, the built files are in `dist/`.

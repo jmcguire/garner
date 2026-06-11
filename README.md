@@ -1,4 +1,20 @@
-# usage
+# Basic instalation
+
+If you want to use this tool, just install it through pipx:
+
+`pipx install garner`
+
+Then read the help instructions with `garner -h`.
+
+The basic usage is `garner WORD` to see the usage for WORD, or `garner -s WORD` to search for WORD. The search is pretty generous.
+
+If you want a paged result, pipe it through `less`.
+
+You don't need to read anymore. The rest of this document is for developers.
+
+# Developer Notes
+
+Clone this repo, obviously.
 
 Start with basic python stuff:
 
@@ -7,29 +23,17 @@ python3 -m venv venv
 ./venv/bin/python -m pip install -r requirements.txt
 ```
 
-The packaged command includes a compiled SQLite dictionary. If you are working
-from the developer checkout and want to rebuild it from the Markdown
-definitions, run:
+All the definitions are stored in definitions/, but the tool doesn't use those directly. Instead it uses that to build an SQLite database, and then queries that. (We do this for speed and for searching).
+
+So the first thing you need to do is build the DB.
 
 ```
 ./venv/bin/garner --build
 ```
 
-Then you can lookup words simply like:
+Now you can use the tool like normal.
 
-```
-./venv/bin/garner <word>
-```
-
-Or search for words like:
-
-```
-./venv/bin/garner -s <word>
-```
-
-If you want a paged result, pipe it through `less`.
-
-# tests
+## Tests
 
 Run the tests with:
 
@@ -37,12 +41,15 @@ Run the tests with:
 ./venv/bin/python -m unittest discover -s tests
 ```
 
-The tests use a small fixture dictionary in `tests/fixtures/definitions`
-instead of the full set of parsed definition files. They create a temporary
-SQLite database from those fixture entries and check the core lookup/search
-behavior against that tiny dictionary.
+The tests use a small fixture dictionary in `tests/fixtures/definitions` instead of the full set of parsed definition files. They create a temporary SQLite database from those fixture entries and check the core lookup/search behavior against that tiny dictionary.
 
-# releases
+## Licensing
+
+The code in this repository is MIT licensed. See `LICENSE`.
+
+The dictionary content and bundled definitions are copyrighted by Bryan A.  Garner. See `NOTICE`.
+
+## Releases
 
 Release prep is scripted:
 
@@ -51,23 +58,3 @@ Release prep is scripted:
 ```
 
 See `RELEASING.md` for the full release checklist.
-
-# scratchpad
-
-```sh
-# to find likely links
-# note that i'll need to check for parentheses and ampersands
-find . -type file -print | xargs perl -ne'print "$ARGV: $1\n" if /(See ([^.]+)\.)/'
-
-# if it's for an essay it'll be "Cf. retronyms."
-
-# find good candidates for tables
-find . -type file -print | xargs perl -ne'print "$ARGV: $_\n" if /^\*+[\w\s]+\*+ \*+[\w\s]+\*+/'
-```
-
-```
-# and in vi
-
-:'a,.g/\S/s/^/ - /
-:'a .g/^\s*$/d
-```
