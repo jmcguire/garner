@@ -234,9 +234,10 @@ Do not make colored output required for tests unless color handling is explicitl
 
 Before considering a change complete:
 
-1. Run `pytest`.
-2. Add tests for new behavior.
-3. Confirm CLI examples still work.
-4. Confirm generated database can be rebuilt from Markdown source.
-5. Update this file if project commands or structure change.
+1. Add tests for new behavior.
+2. Run `pytest`.
+3. If any tests fail, decide whether the test is valid and the code needs to be changed, or if the test is no longer testing the right thing and needs to be changed.
+4. Rebuild the generated database from Markdown source, and check that output.
+5. Confirm CLI examples still work.
+6. Update this file and README and TODO if project commands or structure change.
 
