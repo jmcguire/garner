@@ -15,5 +15,5 @@ The similarly spelled *prefectural* is in good use as the adjective correspondin
  - Current ratio in print (*prefectural* vs. *\*prefectoral*): 20:1
 
 3. *prefectural* misspelled *\*prefectual*: Stage 1
- - Current ratio in print (*prefectural* vs. \**prefectual*): 577:1
+ - Current ratio in print (*prefectural* vs. *\*prefectual*): 577:1
 

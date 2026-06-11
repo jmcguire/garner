@@ -17,5 +17,5 @@ If *\*foreswear* were a proper word, it might mean "to swear before," since the 
 **Language-Change Index:**
 
  - *forswear* misspelled *\*foreswear*: Stage 2
- - Current ratio in print (*forswear* vs. \**foreswear*): 7:1
+ - Current ratio in print (*forswear* vs. *\*foreswear*): 7:1
 

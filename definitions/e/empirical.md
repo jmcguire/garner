@@ -10,10 +10,10 @@ Still, medical writers use *empirical* *therapy* and *empirical treatment* about
 
 Etymologically speaking, *empirical* derives ultimately from the Greek term *empeirikos*, meaning a doctor who relies on experience alone. But because the word's spelling misleadingly suggests a connection with *empire*, the term *empirical* is sometimes misused for *imperial* or *imperious*. See malapropisms.
 
-The phrase \**imperial evidence*, traceable back to the 1960s, is a blunder for *empirical evidence*. See word-swapping.
+The phrase *\*imperial evidence*, traceable back to the 1960s, is a blunder for *empirical evidence*. See word-swapping.
 
- - Current ratio in print (*imperial court* vs. \**empirical court*): 2,722:1
- - Current ratio in print (*imperious tone* vs. \**empirical tone*): 125:1
+ - Current ratio in print (*imperial court* vs. *\*empirical court*): 2,722:1
+ - Current ratio in print (*imperious tone* vs. *\*empirical tone*): 125:1
  - Current ratio in print (*empirical* vs. *empiric*): 63:1
- - Current ratio in print (*empirical evidence* vs. \**imperial evidence*): 3,645:1
+ - Current ratio in print (*empirical evidence* vs. *\*imperial evidence*): 3,645:1
 

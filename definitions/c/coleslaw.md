@@ -12,5 +12,5 @@ The error derives from folk etymology, the mistaken notion being that the term r
 
 **Language-Change Index:** *coleslaw* misspelled *\*coldslaw*: Stage 1
 
- - Current ratio in print (*coleslaw* vs. \**coldslaw*): 453:1
+ - Current ratio in print (*coleslaw* vs. *\*coldslaw*): 453:1
 

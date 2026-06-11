@@ -16,5 +16,5 @@ See irregular verbs.
  - Current ratio in print (*she sang* vs. *\*she sung*): 23:1
 
 2. *sang* misused for past-participial *sung*: Stage 1
- - Current ratio in print (*has sung* vs. \**has sang*): 115:1
+ - Current ratio in print (*has sung* vs. *\*has sang*): 115:1
 

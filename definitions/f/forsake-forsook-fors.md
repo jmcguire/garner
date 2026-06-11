@@ -8,7 +8,7 @@ forsake \> forsook \> forsaken. So inflected. *\*Forsaked* is a solecism that ha
 
  - "Katz, a first-team all-Hillsborough County pick at Brandon High in 1997, *forsaked* \[read *forsook*\] a full scholarship at Southern Wesleyan to play close to home and friends at Tampa." Brant James, "Local Connection Is Paying Off for Tampa Series," *St. Petersburg Times* (Fla.), 13 Apr. 2000, at C12.
 
-The past-participial \**forsooken* is nonstandard AmE and essentially nonexistent in BrE.
+The past-participial *\*forsooken* is nonstandard AmE and essentially nonexistent in BrE.
 
 *Forsake* is sometimes corrupted into *\*foresake*—e.g.: "It *foresakes* \[read *forsakes*\] the rounded look of the previous Camry for a crisper, squarer silhouette." James R. Healey, "Moving Target Toyota Aims at No. 1 Spot," *USA Today*, 25 Sept. 1996, at B1. See for- & irregular verbs.
 

@@ -11,5 +11,5 @@ But in one word especially—*quadriplegia*—the medial *i* is sometimes wrongl
 **Language-Change Index:**
 
  - *quadriplegia* misspelled *\*quadraplegia*: Stage 1
- - Current ratio in print (*quadriplegia* vs. \**quadraplegia*): 187:1
+ - Current ratio in print (*quadriplegia* vs. *\*quadraplegia*): 187:1
 

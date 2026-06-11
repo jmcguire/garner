@@ -13,5 +13,5 @@ Both words suggest that things aren't right. But there the difference ends: a *p
 **Language-Change Index:**
 
  - *pallor* misused for *pall*: Stage 1
- - Current ratio in print (*cast a pall* vs. \**cast a pallor*): 42:1
+ - Current ratio in print (*cast a pall* vs. *\*cast a pallor*): 42:1
 

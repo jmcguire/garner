@@ -4,7 +4,7 @@ sow, vb.
 
 **A. Inflected Forms: *sow* \> *sowed* \> *sown*.** In the past participle, *sowed* is a variant. In modern print sources, *sown* strangely predominates as the standard past participle. See irregular verbs.
 
- - Current ratio in print (*were sown* vs. \**were sowed*): 28:1
+ - Current ratio in print (*were sown* vs. *\*were sowed*): 28:1
 
 **B. *Sowing wild oats*.** To *sow* is to scatter seed. By extension, to *sow one's wild oats* is to engage in youthful promiscuity or other excess. Some writers, though, mistake *sow* (/soh/) with its homophone *sew* (= to stitch with needle and thread)—e.g.:
 

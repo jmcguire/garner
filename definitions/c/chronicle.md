@@ -10,5 +10,5 @@ In its one near-legitimate use, *\*chronical* is a needless variant of the adjec
 
 **Language-Change Index:** *chronicle* misspelled *\*chronical*: Stage 1
 
- - Current ratio in print (*chronicle* vs. \**chronical*): 124:1
+ - Current ratio in print (*chronicle* vs. *\*chronical*): 124:1
 

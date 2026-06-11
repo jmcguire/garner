@@ -19,5 +19,5 @@ The opposite error (*collaborate* for *corroborate*) is also all too frequent—
 
 2. *collaborate* misused for *corroborate*: Stage 1
  - Current ratio in print (*was corroborated by* vs. *\*was collaborated by*): 85:1
- - Current ratio in print (*corroborating evidence* vs. \**collaborating evidence*): 91:1
+ - Current ratio in print (*corroborating evidence* vs. *\*collaborating evidence*): 91:1
 

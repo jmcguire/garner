@@ -18,7 +18,7 @@ Nevertheless, for most of the period since 1900, the phrasing *let's you and me*
 
 **B. *\*Let's us*.** This phrase is nonstandard for *let's*.
 
- - Current ratio in print (*let's go* vs. \**let's us go*): 3,228:1
+ - Current ratio in print (*let's go* vs. *\*let's us go*): 3,228:1
 
 **C. *\*Let's don't*.** This phrase is nonstandard for *let's not*.
 

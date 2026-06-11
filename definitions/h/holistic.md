@@ -11,5 +11,5 @@ holistic (= \[1\] of, relating to, or involving holism, i.e., the theory \[esp. 
 **Language-Change Index:**
 
  - *holistic* misspelled *\*wholistic*: Stage 1
- - Current ratio in print (*holistic* vs. \**wholistic*): 132:1
+ - Current ratio in print (*holistic* vs. *\*wholistic*): 132:1
 

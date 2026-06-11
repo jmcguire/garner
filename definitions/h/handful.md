@@ -4,7 +4,7 @@ handful.
 
 **A. Plural.** The word is *handfuls*, not *\*handsful*. See plurals (g).
 
- - Current ratio in print (*handfuls* vs. \**handsful*): 125:1
+ - Current ratio in print (*handfuls* vs. *\*handsful*): 125:1
 
 **B. *Handful is* or *handful are*.** When followed by the preposition *of* plus a plural noun, *handful* typically takes a plural verb—e.g.:
 

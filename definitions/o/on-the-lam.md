@@ -13,5 +13,5 @@ Occasionally the phrase is mistakenly made *\*on the lamb*—e.g.: "The owner of
 **Language-Change Index:**
 
  - *\*on the lamb* for *on the lam*: Stage 2
- - Current ratio in print (*on the lam* vs. \**on the lamb*): 5:1
+ - Current ratio in print (*on the lam* vs. *\*on the lamb*): 5:1
 

@@ -13,5 +13,5 @@ The term is misspelled *\*Neopolitan* surprisingly often—e.g.:
 **Language-Change Index:**
 
  - *Neapolitan* misspelled *\*Neopolitan*: Stage 1
- - Current ratio in print (*Neapolitan* vs. \**Neopolitan*): 45:1
+ - Current ratio in print (*Neapolitan* vs. *\*Neopolitan*): 45:1
 

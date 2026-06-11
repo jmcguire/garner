@@ -8,7 +8,7 @@ somewhat. The phrasing *\*somewhat of a* has traditionally been considered a gra
 
  - "After all, the Jayhawks had six seniors on last season's team, . . . making this *somewhat* \[read *something*\] of a rebuilding season for Kansas." Josh Barr, "Kansas Shows Its Staying Power," *Wash. Post*, 5 Dec. 1997, at B4.
 
-The collocation *something of a* has a greatly predominated over \**somewhat of a* since the 1600s in print sources. The disparity became most pronounced during the 1900s. See **of (b)** & weasel words.
+The collocation *something of a* has a greatly predominated over *\*somewhat of a* since the 1600s in print sources. The disparity became most pronounced during the 1900s. See **of (b)** & weasel words.
 
 **Language-Change Index:**
 

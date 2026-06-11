@@ -8,7 +8,7 @@ When *rather than* separates two verbs, it's often less awkward to convert the v
 
 **B. *\*Rather . . . instead of*.** This phrasing, an example of swapping horses, sometimes displaces what should be a straightforward *rather . . . than*—e.g.: "The tragedy of Ms. Charen's column is that it reveals a writer who would *rather* be glib and sarcastic *instead of* \[read *than*\] measured and sincere." William Roberts, "Column on Princess Was Callous," *Syracuse Herald-J.*, 12 Sept. 1997, at A8.
 
-**C. *\*More . . . rather than*.** The word *rather* is redundant in the solecism \**more X rather than Y*—e.g.:
+**C. *\*More . . . rather than*.** The word *rather* is redundant in the solecism *\*more X rather than Y*—e.g.:
 
  - "His ideological convictions . . . were defined *more* by present-day concerns *rather* \[delete *rather*\] *than* by thirteenth-century conditions." Robert E. Norton, *Secret Germany* 667 (2002).
 

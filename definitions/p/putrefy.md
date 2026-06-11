@@ -5,5 +5,5 @@ putrefy (= to make or become putrid; decay; rot) is so spelled—and has been si
 **Language-Change Index:**
 
  - *putrefy* misspelled *\*putrify*: Stage 1
- - Current ratio in print (*putrefy* vs. \**putrify*): 8:1
+ - Current ratio in print (*putrefy* vs. *\*putrify*): 8:1
 

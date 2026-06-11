@@ -29,7 +29,7 @@ As further evidence of Murphy's Law at work, the opposite error (*rein* for *rei
 **Language-Change Index:**
 
 1. *\*reign in* for *rein in*: Stage 2
- - Current ratio in print (*had to be reined in* vs. \**had to be reigned in*): 20:1
+ - Current ratio in print (*had to be reined in* vs. *\*had to be reigned in*): 20:1
 
 2. *\*hold the reigns* for *hold the reins*: Stage 1
  - Current ratio in print (*hold the reins* vs. *\*hold the reigns*): 29:1

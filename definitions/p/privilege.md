@@ -7,5 +7,5 @@ The word is permissibly pronounced with either three syllables /**priv**-ә-lij/
 **Language-Change Index:**
 
  - *privilege* misspelled *\*priviledge*: Stage 1
- - Current ratio in print (*privilege* vs. \**priviledge*): 820:1
+ - Current ratio in print (*privilege* vs. *\*priviledge*): 820:1
 

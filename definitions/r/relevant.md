@@ -13,5 +13,5 @@ President Harry S. Truman is said to have blundered often in this way.
 **Language-Change Index:**
 
  - *relevant* misspelled *\*revelant*: Stage 1
- - Current ratio in print (*relevant* vs. \**revelant*): 17,240:1
+ - Current ratio in print (*relevant* vs. *\*revelant*): 17,240:1
 

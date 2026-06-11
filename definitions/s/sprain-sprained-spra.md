@@ -8,7 +8,7 @@ sprain \> sprained \> sprained. So inflected. An erroneous *sprang* sometimes sp
 
 Of course, *sprang* is the correct past-tense form of the verb *spring*. See **spring**.
 
-Another error is to misuse *strain* for *sprain* in reference to ankles, as in \**he strained his ankle*.
+Another error is to misuse *strain* for *sprain* in reference to ankles, as in *\*he strained his ankle*.
 
 **Language-Change Index:** *\*sprang ankle* for *sprained ankle*: Stage 1
 

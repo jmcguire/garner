@@ -5,5 +5,5 @@ gibberish. So spelled—not *\*jibberish* (a misspelling that arises from the pr
 **Language-Change Index:**
 
  - *gibberish* misspelled *\*jibberish*: Stage 1
- - Current ratio in print (*gibberish* vs. \**jibberish*): 141:1
+ - Current ratio in print (*gibberish* vs. *\*jibberish*): 141:1
 

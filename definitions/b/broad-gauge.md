@@ -4,5 +4,5 @@ broad gauge (= a width between railroad rails in excess of the standard width), 
 
 By extension, the term has come to mean "broad-minded; tolerant of varied views" \<a broad-gauged diplomat\>. With this meaning, too, the adjectival form predominantly takes a past-tense form.
 
-The misspelling \**broadgage* occasionally thrusts its way into print.
+The misspelling *\*broadgage* occasionally thrusts its way into print.
 

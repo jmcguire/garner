@@ -11,5 +11,5 @@ The mispronunciationâ€”resulting, of course, from the spelling of *restaurant*â€
 **Language-Change Index:**
 
  - *restaurateur* misspelled *\*restauranteur*: Stage 2
- - Current ratio in print (*restaurateur* vs. \**restauranteur*): 14:1
+ - Current ratio in print (*restaurateur* vs. *\*restauranteur*): 14:1
 

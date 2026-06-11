@@ -4,7 +4,7 @@ acid, adj.; **acidic; acidulous; \*acidulent**. The term *acid* often functions 
 
 *Acidic* is most commonly literal and physical, and in a few phrases it predominates over *acid*—one prominent example being *acidic conditions* as opposed to *acid conditions*. Dating from the late 1800s, *acidic* describes what is acid-containing or acid-producing \<acidic proteins\> \<acidic foods\>.
 
-*Acidulous*, a Latin loanword dating in English from the mid-1700s, originally shared those senses but is now often narrowed to describe a harshness or sarcasm in people's temperaments or remarks \<acidulous critics\> \<acidulous invective\>. The variant \**acidulent* has never seriously rivaled *acidulous* in frequency of use.
+*Acidulous*, a Latin loanword dating in English from the mid-1700s, originally shared those senses but is now often narrowed to describe a harshness or sarcasm in people's temperaments or remarks \<acidulous critics\> \<acidulous invective\>. The variant *\*acidulent* has never seriously rivaled *acidulous* in frequency of use.
 
 But *acidulous* itself has been in a slow decline since the early 1800s, and its genuine utility may be open to question—unless the purpose is to signal magniloquence or ultraformality. Then again, some of the statistics may be skewed by context: an *acid critic* might be someone who opposes the use of LSD, while an *acidulous critic* may be just a caustic commentator.
 

@@ -5,5 +5,5 @@ liquefy. So spelled. *\*Liquify*, which predominated till about 1750, is now con
 **Language-Change Index:**
 
  - *liquefy* misspelled *\*liquify*: Stage 2
- - Current ratio in print (*liquefy* vs. \**liquify*): 12:1
+ - Current ratio in print (*liquefy* vs. *\*liquify*): 12:1
 

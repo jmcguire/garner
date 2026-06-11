@@ -5,5 +5,5 @@ height has a distinct /t/ sound at the end. To pronounce or write this word as i
 **Language-Change Index:**
 
  - *height* misspelled or mispronounced *\*heighth*: Stage 2
- - Current ratio in print (*height* vs. \**heighth*): 719:1
+ - Current ratio in print (*height* vs. *\*heighth*): 719:1
 

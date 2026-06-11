@@ -11,5 +11,5 @@ evidentiary; **evidential**. What is the adjective corresponding to the noun *ev
 **Language-Change Index:**
 
  - *evidentiary* misspelled *\*evidenciary*: Stage 1
- - Current ratio in print (*evidentiary* vs. \**evidenciary*): 1,835:1
+ - Current ratio in print (*evidentiary* vs. *\*evidenciary*): 1,835:1
 

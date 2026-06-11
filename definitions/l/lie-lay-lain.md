@@ -7,5 +7,5 @@ In the sense of telling an untruth, the verb is inflected *lie* \> *lied* \> *li
 **Language-Change Index:**
 
  - *lay* for past-participial *lain*: Stage 1
- - Current ratio in print (*had lain on* vs. \**had lay on*): 81:1
+ - Current ratio in print (*had lain on* vs. *\*had lay on*): 81:1
 

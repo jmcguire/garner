@@ -4,7 +4,7 @@ henceforth.
 
 **A. And *\*henceforward.*** The first is an archaism; the second is a needless variant of it.
 
- - Current ratio in print (*henceforth* vs. \**henceforward*): 10:1
+ - Current ratio in print (*henceforth* vs. *\*henceforward*): 10:1
 
 **B. *\*From henceforth*.** This phrase is an archaism that was especially common during the 1600s. Today *henceforth* without *from*—or, casually, the voguish *going forward*—is more typical. Avoid *from henceforth*—e.g.:
 

@@ -29,6 +29,6 @@ Even a writer as major as Edward Albee (1928–2016) was prone to this gaffe—i
 **Language-Change Index:**
 
  - *who's* misused for *whose*: Stage 1
- - Current ratio in print (*whose name* vs. \**who's name*): 372:1
- - Current ratio in print (*whose work* vs. \**who's work*): 1,624:1
+ - Current ratio in print (*whose name* vs. *\*who's name*): 372:1
+ - Current ratio in print (*whose work* vs. *\*who's work*): 1,624:1
 

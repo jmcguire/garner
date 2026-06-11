@@ -16,5 +16,5 @@ See irregular verbs.
 
  - *\*slided* for *slid*: Stage 1
  - Current ratio in print (*had slid* vs. *\*had slided*): 181:1
- - Current ratio in print (*had slid* vs. \**had slidden*): 74:1
+ - Current ratio in print (*had slid* vs. *\*had slidden*): 74:1
 

@@ -10,5 +10,5 @@ The most frequent error is misuse of *definitive* for *definite*—e.g.: "He has
 
 **B. As Misspelled.** The word is sometimes misspelled *\*definate*. See spelling (a).
 
- - Current ratio in print (*definite* vs. \**definate*): 10,202:1
+ - Current ratio in print (*definite* vs. *\*definate*): 10,202:1
 

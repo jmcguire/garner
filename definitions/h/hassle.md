@@ -5,5 +5,5 @@ hassle (= \[1\] a squabble; or \[2\] a needlessly difficult situation) is someti
 **Language-Change Index:**
 
  - *hassle* misspelled *\*hassel*: Stage 1
- - Current ratio in print (*hassle* vs. \**hassel*): 625:1
+ - Current ratio in print (*hassle* vs. *\*hassel*): 625:1
 

@@ -1,12 +1,12 @@
 # preventive
 
-preventive; \***preventative**. Both forms of the word date back to the 1600s. *Preventive* is (1) older, (2) more common, and (3) more correctly formed by analogy to the noun (*prevention*, of course, not \**preventation*). Hence usage commentators have long rejected the form with the "extra syllable."
+preventive; **\*preventative**. Both forms of the word date back to the 1600s. *Preventive* is (1) older, (2) more common, and (3) more correctly formed by analogy to the noun (*prevention*, of course, not *\*preventation*). Hence usage commentators have long rejected the form with the "extra syllable."
 
 In 1755, Samuel Johnson listed only *preventive*, as both adjective ("tending to hinder") and noun ("that which prevents; an antidote"). Almost all other 18th-century lexicographers did the same. The only exception was Thomas Dyche & William Pardon, *A New General English Dictionary* (2d ed. 1737 and later eds.). That lexicon has this entry: "preventive or preventative (a.) that has the power or faculty of hindering or keeping back any thing." The other dictionary writers—and there were many—simply omitted the longer variant. So did Noah Webster in his first unabridged dictionary of 1828 and later editions during his lifetime (d. 1843).
 
-But \**preventative* was cropping up here and there, especially in medical texts. In the late 1700s, several of these contained errata sheets asking readers to understand that, on a specified page, \**preventative* was really supposed to be *preventive*. The word had gotten out that \**preventative* is a nonword—a word with no legitimate existence.
+But *\*preventative* was cropping up here and there, especially in medical texts. In the late 1700s, several of these contained errata sheets asking readers to understand that, on a specified page, *\*preventative* was really supposed to be *preventive*. The word had gotten out that *\*preventative* is a nonword—a word with no legitimate existence.
 
-By 1795, there were direct denunciations of \**preventative*, and the tradition of stigmatizing the word had begun. In the following sample of censorious remarks of varying harshness, note especially the entries for 1809, 1824, and 1847—e.g.:
+By 1795, there were direct denunciations of *\*preventative*, and the tradition of stigmatizing the word had begun. In the following sample of censorious remarks of varying harshness, note especially the entries for 1809, 1824, and 1847—e.g.:
 
  - **1795:** "The word *preventative*, which is not English, occurs too often to warrant us in considering it as an error of the press. . . . It is too generally used for *preventive*, even among those whose education ought to make them explode it. Medical writers, we think, are more chargeable with this base coinage than any other class of literary men." Book Rev., "Lauderdale's *Letters to the Peers of Scotland*," *Monthly Rev.*, Feb. 1795, at 159.
 
@@ -28,7 +28,7 @@ By 1795, there were direct denunciations of \**preventative*, and the tradition 
 
  - **1870:** *Preventative* shows "an utter want of education and a low grade of intelligence." Richard Grant White, *Words and Their Uses* 229 (1870).
 
-It's worth asking why so many people, yesterday and today, want to insert the additional syllable. Perhaps they analogize the word to *representative* (whose noun is *representation*, not \**represention*), *normative*, *qualitative*, *quantitative*, *talkative*—or any of the many other words ending *-ative*. One prominent news announcer in the early 2020s, Rachel Maddow, habitually says \**preventative* even when the chyron, or caption beneath her on the screen, reads *preventive*.
+It's worth asking why so many people, yesterday and today, want to insert the additional syllable. Perhaps they analogize the word to *representative* (whose noun is *representation*, not *\*represention*), *normative*, *qualitative*, *quantitative*, *talkative*—or any of the many other words ending *-ative*. One prominent news announcer in the early 2020s, Rachel Maddow, habitually says *\*preventative* even when the chyron, or caption beneath her on the screen, reads *preventive*.
 
 Although the ferocity of more modern usage commentators has diminished, the stance hasn't changed: they prefer *preventive*. A long list might be added here, but enough is enough. All in all, the situation remains much as it was in the 1700s: if you want to be authoritative, say and write *preventive*.
 

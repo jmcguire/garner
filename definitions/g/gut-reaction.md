@@ -18,5 +18,5 @@ See malapropisms & double bobbles.
 
 **Language-Change Index:**
 
-\**guttural reaction* for *gut reaction*: Stage 1
+*\*guttural reaction* for *gut reaction*: Stage 1
 

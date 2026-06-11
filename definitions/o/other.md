@@ -2,7 +2,7 @@
 
 other.
 
-**A. *\*Other .** . . other than*. Repeating *other* in this way is a fairly common redundancy—e.g.: "The fractional approach typically does not integrate with any *other* type of social insurance program *other than* Social Security." Carolyn M. Burton et al., "Disability Insurance with Social Integration," *J. Am. Soc'y of CLU & ChFC*, Sept. 1995, at 56. Either one of the *other*s should be dropped.
+**A. *\*Other . . . other than*.** Repeating *other* in this way is a fairly common redundancy—e.g.: "The fractional approach typically does not integrate with any *other* type of social insurance program *other than* Social Security." Carolyn M. Burton et al., "Disability Insurance with Social Integration," *J. Am. Soc'y of CLU & ChFC*, Sept. 1995, at 56. Either one of the *other*s should be dropped.
 
 **Language-Change Index:** *\*other . . . other than*: Stage 1
 
@@ -19,7 +19,7 @@ Very occasionally, the *no other . . . except* phrasing is actually correct—e.
 **Language-Change Index:**
 
  - *\*no other . . . except* for *no other . . . than*: Stage 1
- - Current ratio in print (*no other person than* vs. \**no other person except*): 16:1
+ - Current ratio in print (*no other person than* vs. *\*no other person except*): 16:1
 
 **C. And *otherwise*.** See **otherwise (a)**.
 

@@ -15,5 +15,5 @@ But *dialectical* is often misused for *dialectal*—e.g.:
 **Language-Change Index:**
 
  - *dialectical* misused for *dialectal*: Stage 1
- - Current ratio in print (*dialectal speech* vs. \**dialectical speech*): 3:1
+ - Current ratio in print (*dialectal speech* vs. *\*dialectical speech*): 3:1
 

@@ -22,7 +22,7 @@ Yet Fowler had a stylistic if not a grammatical point. Especially in formal pros
 
  - "This implosion comes despite the United States\['\] having poured more than $83 billion in weapons, equipment, and training into the country's security forces over two decades." Thomas Gibbons-Neff, Fahim Abed & Sharif Hassan, "Over 15 Cities Slip Out of Grasp of Afghan Forces," *N.Y. Times*, 14 Aug. 2021, at A1.
 
-Fowler assumed a distinction between the "gerund" -*ing* form (which behaves like a noun) and the "present participle" -*ing* form (which behaves like a verb). It feels more literary, to be sure, to say *My undertaking this job depends on your paying a deposit first*—as opposed to \**Me undertaking this job depends on you paying a deposit first*.
+Fowler assumed a distinction between the "gerund" -*ing* form (which behaves like a noun) and the "present participle" -*ing* form (which behaves like a verb). It feels more literary, to be sure, to say *My undertaking this job depends on your paying a deposit first*—as opposed to *\*Me undertaking this job depends on you paying a deposit first*.
 
 But some believe the gerund/participle distinction to be illusory. After all, whatever label we may attach to -*ing* words, they have the identical form for every English verb. Some grammars today, such as *CGEL*, assume a single -*ing* form called the "gerund-participle." A modern rule using that term might be formulated this way: when a subordinate clause has its verb in the gerund-participle form, the subject should generally be in the possessive case, especially in formal contexts; using the objective case, however, is acceptable in informal writing.
 

@@ -8,10 +8,10 @@ dice. In formal usage, the numbered cube used in games of chance is called a *di
 
 Julius Caesar's *the die is cast* (i.e., one of the pair of dice is thrown) is sometimes mistakenly thought to mean that a machinist's cutting or stamping device has been cast in the foundry.
 
-The phrase is sometimes incorrectly written \**dye is cast* or \**dice is cast*.
+The phrase is sometimes incorrectly written *\*dye is cast* or *\*dice is cast*.
 
 **Language-Change Index:**
 
  - *dice* as a false singular: Stage 2
- - Current ratio in print (*die is cast* vs. \**dye is cast* vs. \**dice is cast*): 171:3:1
+ - Current ratio in print (*die is cast* vs. *\*dye is cast* vs. *\*dice is cast*): 171:3:1
 

@@ -15,5 +15,5 @@ Occasionally the pedantic *octopodes* appears, but it is relatively rare—e.g.:
 **Language-Change Index:**
 
  - *\*octopi* for *octopuses*: Stage 3
- - Current ratio in print (*octopuses* vs. \**octopi* vs. *octopodes*): 58:17:1
+ - Current ratio in print (*octopuses* vs. *\*octopi* vs. *octopodes*): 58:17:1
 

@@ -2,7 +2,7 @@
 
 both.
 
-**A. *Both .** . . and*. These correlative conjunctions must frame matching sentence parts—e.g.:
+**A. *Both . . . and*.** These correlative conjunctions must frame matching sentence parts—e.g.:
 
  - "He was trying *both* to establish himself in his new league *and* to justify the contract extension he was given through 2002." Phil Rogers, "Indians' Grissom Showing He's Big-Time Player," *Chicago Sun-Times*, 11 Oct. 1997, at 3. (The conjunctions frame two infinitives.)
 

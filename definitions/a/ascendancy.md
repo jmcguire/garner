@@ -1,6 +1,6 @@
 # ascendancy
 
-ascendancy; **ascension**. *Ascendancy* (= a position of dominant control; supremacy) is the more common term. \**Ascendance* is a needless variant, and both \**ascendency* and \**ascendence* are variant spellings. *Ascension* denotes the act or process of rising to an important position or a higher level. *Ascendancy* occasionally displaces *ascension*—e.g.:
+ascendancy; **ascension**. *Ascendancy* (= a position of dominant control; supremacy) is the more common term. *\*Ascendance* is a needless variant, and both *\*ascendency* and *\*ascendence* are variant spellings. *Ascension* denotes the act or process of rising to an important position or a higher level. *Ascendancy* occasionally displaces *ascension*—e.g.:
 
  - "As Gloria Molina today takes her seat on the Los Angeles County Board of Supervisors, her meteoric *ascendancy* \[read *ascension*\] is the focus of attention across the country." Cathleen Decker, "Molina—Catch a Rising Star Politics: The New County Supervisor Is the Focus of Attention Nationwide," *L.A. Times*, 8 Mar. 1991, at B6.
 
@@ -12,5 +12,5 @@ See **ascent (a)**.
 
  - Current ratio in print (*ascendancy* vs. *\*ascendency* vs. *\*ascendance* vs. *\*ascendence*): 208:73:48:1
 
- - Current ratio in print (*rapid ascension* vs. \**rapid ascendancy*): 1.9:1
+ - Current ratio in print (*rapid ascension* vs. *\*rapid ascendancy*): 1.9:1
 

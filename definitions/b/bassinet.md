@@ -5,5 +5,5 @@ bassinet (= a hooded basket used as a baby's cradle) is so spelled—not *\*bass
 **Language-Change Index:**
 
  - *bassinet* misspelled *\*bassinette*: Stage 2
- - Current ratio in print (*bassinet* vs. \**bassinette*): 8:1
+ - Current ratio in print (*bassinet* vs. *\*bassinette*): 8:1
 

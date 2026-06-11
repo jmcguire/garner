@@ -11,5 +11,5 @@ knapsack (= a lightweight frameless backpack) is frequently misspelled *\*napsac
 **Language-Change Index:**
 
  - *knapsack* misspelled *\*napsack*: Stage 1
- - Current ratio in print (*knapsack* vs. \**napsack*): 720:1
+ - Current ratio in print (*knapsack* vs. *\*napsack*): 720:1
 

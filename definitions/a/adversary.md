@@ -6,5 +6,5 @@ Though it has only recently made its way into dictionaries, *adversarial* has be
 
  - Current ratio in print (*adversarial relationship* vs. *adversary relationship*): 14:1
 
- - Current ratio in print (*adversary system* vs. \**adversarial system*): 1:1.5
+ - Current ratio in print (*adversary system* vs. *\*adversarial system*): 1:1.5
 

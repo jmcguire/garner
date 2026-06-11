@@ -5,5 +5,5 @@ bulrush, denoting a type of marsh plant, is sometimes misspelled *\*bullrush*—
 **Language-Change Index:**
 
  - *bulrush* misspelled *\*bullrush*: Stage 1
- - Current ratio in print (*bulrush* vs. \**bullrush*): 15:1
+ - Current ratio in print (*bulrush* vs. *\*bullrush*): 15:1
 

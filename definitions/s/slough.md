@@ -17,5 +17,5 @@ As an AmE slang term, *sluff* means "to be lazy; shirk responsibilities" \<Johnn
 **Language-Change Index:**
 
  - *slough off* (the phrasal verb) misspelled *\*sluff off*: Stage 1
- - Current ratio in print (*slough off* vs. \**sluff off *): 61:1
+ - Current ratio in print (*slough off* vs. *\*sluff off *): 61:1
 

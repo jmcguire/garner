@@ -1,6 +1,6 @@
 # captor
 
-captor; \***capturer**. The latter is a needless variant.
+captor; **\*capturer**. The latter is a needless variant.
 
- - Current ratio in print (*captors* vs. \**capturers*): 164:1
+ - Current ratio in print (*captors* vs. *\*capturers*): 164:1
 

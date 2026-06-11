@@ -29,5 +29,5 @@ As might be expected with a jocular casualism, *busted* plays a role in some col
 **Language-Change Index:**
 
  - *\*bursted* for *burst*: Stage 1
- - Current ratio in print (*burst* vs. \**bursted*): 887:1
+ - Current ratio in print (*burst* vs. *\*bursted*): 887:1
 

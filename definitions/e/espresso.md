@@ -11,5 +11,5 @@ For the proper and common mispronunciations, see pronunciation (b).
 **Language-Change Index:**
 
  - *espresso* misspelled *\*expresso*: Stage 1
- - Current ratio in print (*espresso* vs. \**expresso*): 56:1
+ - Current ratio in print (*espresso* vs. *\*expresso*): 56:1
 

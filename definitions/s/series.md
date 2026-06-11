@@ -23,5 +23,5 @@ See synesis. Even so, the collocation *there has been a series* has predominated
 **Language-Change Index:**
 
  - *\*serieses* as plural of *series*: Stage 1
- - Current ratio in print (*several series* vs. \**several serieses*): 4,966:1
+ - Current ratio in print (*several series* vs. *\*several serieses*): 4,966:1
 

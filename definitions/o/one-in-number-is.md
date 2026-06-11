@@ -1,6 +1,6 @@
 # one in \[number\] is
 
-one in \[number\] is; \***one in \[number\] are**. In this construction, a singular verb is required because *one* is the subject. But writers frequently get it wrong—e.g.:
+one in \[number\] is; **\*one in \[number\] are**. In this construction, a singular verb is required because *one* is the subject. But writers frequently get it wrong—e.g.:
 
  - "Research has found that only *one* in six *think* \[read *thinks*\] that political agreement is important for a successful marriage." Cherrill Hicks, " ‘How on Earth Can You Live with a Tory?' " *Independent*, 22 Mar. 1992, at 24.
 
@@ -17,5 +17,5 @@ The same holds true when the construction is *one of five*, etc. See subject–v
 **Language-Change Index:**
 
  - *\*one in three believe* for *one in three believes*: Stage 2
- - Current ratio in print (*one in five is* vs. \**one in five are*): 1.3:1
+ - Current ratio in print (*one in five is* vs. *\*one in five are*): 1.3:1
 

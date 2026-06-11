@@ -10,7 +10,7 @@ But because *gladiolus* is sometimes wrongly taken to be a plural, especially in
 
  - "Anyone at the fair at 11 a.m. Thursday, Sept. 3, can join the new *gladiola* \[read *gladiolus*\] competition in the Horticulture Building. Fairgoers can try to make a *gladiola* \[read *gladiolus*\] arrangement in 10 minutes." Debra J. Groom, "State Fair Gears Up," *Advance-News* (Ogdensburg, N.Y.), 23 Aug. 2015, at 7.
 
-You might be tempted to say that in a phrase such as \**bouquet of gladiolus*, the term *gladiolus* is being used less as a plural than as a collective or mass noun. But the argument doesn't go far. Nobody would refer to a \**bouquet of sunflower* or \**bouquet of tulip*—even though a *bouquet of lavender* is possible (*lavender* not generally being thought of as each flower on its own stalk). The phrase \**bouquet of gladiolus* is neither idiomatic nor logical.
+You might be tempted to say that in a phrase such as *\*bouquet of gladiolus*, the term *gladiolus* is being used less as a plural than as a collective or mass noun. But the argument doesn't go far. Nobody would refer to a *\*bouquet of sunflower* or *\*bouquet of tulip*—even though a *bouquet of lavender* is possible (*lavender* not generally being thought of as each flower on its own stalk). The phrase *\*bouquet of gladiolus* is neither idiomatic nor logical.
 
 **Language-Change Index:**
 
@@ -21,5 +21,5 @@ You might be tempted to say that in a phrase such as \**bouquet of gladiolus*, t
  - Current ratio in print (*gladioli* vs. *\*gladiolas* vs. *gladioluses*): 22:7:1
 
 3. *gladiolus* as a plural: Stage 3
- - Current ratio in print (*bouquet of gladioli* vs. \**bouquet of gladiolus*): 1.9:1
+ - Current ratio in print (*bouquet of gladioli* vs. *\*bouquet of gladiolus*): 1.9:1
 

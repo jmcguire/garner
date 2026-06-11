@@ -11,6 +11,6 @@ Misusing *perspective* for *prospective* amounts to a malapropism—e.g.:
 **Language-Change Index:**
 
  - *perspective* misused for *prospective*: Stage 1
- - Current ratio in print (*prospective students* vs. \**perspective students*): 62:1
- - Current ratio in print (*prospective client* vs. \**perspective client*): 226:1
+ - Current ratio in print (*prospective students* vs. *\*perspective students*): 62:1
+ - Current ratio in print (*prospective client* vs. *\*perspective client*): 226:1
 

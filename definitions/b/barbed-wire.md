@@ -9,6 +9,6 @@ barbed wire (= strands of twisted wire with sharp projections that impede passag
 **Language-Change Index:**
 
  - *\*bob wire* for *barbed wire*: Stage 1
- - Current ratio in print (*barbed wire* vs. \**barbwire* vs. \**barb wire*): 85:3:1
+ - Current ratio in print (*barbed wire* vs. *\*barbwire* vs. *\*barb wire*): 85:3:1
  - Current ratio in print (*barbed wire* vs. *\*bob wire*): 638:1
 

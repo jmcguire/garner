@@ -11,5 +11,5 @@ See irregular verbs (d). For a short, interesting study of this term, see Ann El
 **Language-Change Index:**
 
  - *overflown* misused for *overflowed* as past participle of *overflow*: Stage 1
- - Current ratio in print (*overflowed its banks* vs. \**overflown its banks*): 55:1
+ - Current ratio in print (*overflowed its banks* vs. *\*overflown its banks*): 55:1
 

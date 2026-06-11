@@ -6,5 +6,5 @@ shed \> shed \> shed. So inflected. Avoid the erroneous *\*shedded*—e.g.: "Pro
 
  - *\*shedded* for *shed* as past tense of *shed*: Stage 1
  - Current ratio in print (*shed leaves* vs. *\*shedded leaves*): 15:1
- - Current ratio in print (*was shed* vs. \**was shedded*): 911:1
+ - Current ratio in print (*was shed* vs. *\*was shedded*): 911:1
 

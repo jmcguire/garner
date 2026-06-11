@@ -5,5 +5,5 @@ determinacy (= the quality of having fixed rules or being definitely settled), t
 **Language-Change Index:**
 
  - *determinacy* misspelled *\*determinancy*: Stage 1
- - Current ratio in print (*determinacy* vs. \**determinancy*): 67:1
+ - Current ratio in print (*determinacy* vs. *\*determinancy*): 67:1
 

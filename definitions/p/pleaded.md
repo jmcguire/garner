@@ -1,6 +1,6 @@
 # pleaded
 
-pleaded; \***pled**; **plead** (as a past tense). *Pleaded* has always been the predominant past-tense and past-participial form. From the early 1600s, *pleaded* has appeared much more frequently in print sources than its rivals. Commentators on usage have long preferred it, pouring drops of vitriol onto *\*has pled* and \**has plead*:
+pleaded; **\*pled**; **plead** (as a past tense). *Pleaded* has always been the predominant past-tense and past-participial form. From the early 1600s, *pleaded* has appeared much more frequently in print sources than its rivals. Commentators on usage have long preferred it, pouring drops of vitriol onto *\*has pled* and *\*has plead*:
 
  - **1893:** "*Plĕad*, sometimes wrongly used as the pret. of *plead*. The correct form is *pleaded*." John F. Genung, *Outlines of Rhetoric* 324 (1893).
 
@@ -26,7 +26,7 @@ Indeed, *\*pled*, dating from the 1500s, is nearly obsolete in BrE, except as a 
 
  - "Henry *pled* \[read *pleaded*\] with his audience." John A. Ragosta, "What Would Patrick Henry Say?," *Richmond Times-Dispatch*, 19 Jan. 2021, at 17A.
 
-What is the instinctive attraction to \**pled*? H.L. Mencken explained it this way: "A verb in everyday use tends almost inevitably to pull less familiar verbs with it, whether it be strong or weak. Thus, *fed* as the preterite of *to feed* and *led* as the preterite of *to lead* eased the way in the American vulgate for *pled* as the preterite for *to plead*." Mencken, *The American Language* 437 (4th ed. 1936). He suggested that the phenomenon might result from a combination of analogy and laziness.
+What is the instinctive attraction to *\*pled*? H.L. Mencken explained it this way: "A verb in everyday use tends almost inevitably to pull less familiar verbs with it, whether it be strong or weak. Thus, *fed* as the preterite of *to feed* and *led* as the preterite of *to lead* eased the way in the American vulgate for *pled* as the preterite for *to plead*." Mencken, *The American Language* 437 (4th ed. 1936). He suggested that the phenomenon might result from a combination of analogy and laziness.
 
 Still, *pleaded*, the strongly predominant form in both AmE and BrE, is always the best choice—e.g.:
 

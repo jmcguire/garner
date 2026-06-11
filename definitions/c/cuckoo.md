@@ -5,5 +5,5 @@ cuckoo (= silly, crazy) is sometimes misspelled *\*coocoo*—e.g.: "I assumed Mr
 **Language-Change Index:**
 
  - *cuckoo* misspelled *\*coocoo*: Stage 1
- - Current ratio in print (*cuckoo* vs. \**coocoo*): 366:1
+ - Current ratio in print (*cuckoo* vs. *\*coocoo*): 366:1
 

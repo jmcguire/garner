@@ -34,7 +34,7 @@ Finally, *forbade* is often misspelled *\*forebade*, doubtless through an errone
 2. *forbade* mispronounced /fәr-**bayd**/: Stage 4
 
 3. *forbade* misspelled *\*forebade*: Stage 1
- - Current ratio in print (*forbade* vs. \**forebade*): 661:1
+ - Current ratio in print (*forbade* vs. *\*forebade*): 661:1
 
 4. *forbade* misused for *forbidden*: Stage 1
  - Current ratio in print (*had forbidden* vs. *\*had forbade*): 51:1

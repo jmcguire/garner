@@ -5,5 +5,5 @@ guttural. So spelled—not *\*gutteral*, which is a frequent misspelling. The co
 **Language-Change Index:**
 
  - *guttural* misspelled *\*gutteral*: Stage 1
- - Current ratio in print (*guttural* vs. \**gutteral*): 86:1
+ - Current ratio in print (*guttural* vs. *\*gutteral*): 86:1
 

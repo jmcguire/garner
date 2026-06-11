@@ -82,7 +82,7 @@ This fear of splitting compound phrases—again, not infinitives—can have mome
 
 Adverbs supplying clause information such as frequency or time often occur after the first auxiliary, or after the subject if there isn't one \<I often pay\> \<I have often paid\> \<we never use it\> \<we will never use it\>. Adverbs of location are not numerous, but those that exist are normally positioned after an auxiliary—e.g.: "A large feline animal . . . *has locally been nicknamed* the ‘Basingstoke Beast.' " Megan Hinton, "Dog Walker Spots ‘Lynx Like Big Cat,' " *Daily Echo* (U.K.), 19 Apr. 2021.
 
-The reason the Beatles didn't sing \**I there saw her standing* is simply that words like *there* and *here* function like prepositions or prepositional phrases, not like adverbs: compare \**I in the corner saw her standing* or \**We on that ridge will make our stand*.
+The reason the Beatles didn't sing *\*I there saw her standing* is simply that words like *there* and *here* function like prepositions or prepositional phrases, not like adverbs: compare *\*I in the corner saw her standing* or *\*We on that ridge will make our stand*.
 
 **C. Awkward Adverbs.** Adjectives ending in *-ly* and *-le* often make cumbersome adverbs, e.g., *chillily*, *friendlily*, *ghastlily*, *holily*, *jollily*, *juvenilely*, *lovelily*, *sillily*, *statelily*, *supplely*, *surlily*, *uglily*, *wilily*, and so on. You needn't be timid in writing or pronouncing such adverbs when they're genuinely needed—e.g.: "During the year's cold months, when the abundant fenestration of her home office kept the room chilly, \[the therapist\] wore a pelisse of hand-tanned Native American buckskin that formed a somewhat *ghastlily* moist-looking flesh-colored background for the enclosing shapes her hands formed in her lap." David Foster Wallace, "The Depressed Person," *Harper's Mag.*, 1 Jan. 1998, at 57. But if they seem unnatural, you can easily rephrase the sentence, e.g., *in a silly manner*. A few words, however, act as both adjectives and adverbs; examples are *daily*, *early*, *hourly*, *kindly*, *stately*, and *timely*.
 
@@ -90,7 +90,7 @@ The same is true, to a lesser extent, of many adverbs derived from adjectives th
 
 If you use unusual adverbs, do so sparingly. Some writers display an unfortunate fondness for them, as by using such forms as *consideredly*, *corollarily*, and the spurious *\*widespreadly*. Cf. -edly.
 
-**D. Double Adverbs.** Several adverbs not ending in *-ly*—especially *doubtless*, *fast*, *ill*, *much*, *seldom*, *thus*—have nonword counterparts ending in *-ly*. Using *\*doubtlessly*, *\*fastly*, etc. is incorrect. See \***doubtlessly**, \***fastly**, **ill**, \***muchly**, **seldom** & **thus (b)**.
+**D. Double Adverbs.** Several adverbs not ending in *-ly*—especially *doubtless*, *fast*, *ill*, *much*, *seldom*, *thus*—have nonword counterparts ending in *-ly*. Using *\*doubtlessly*, *\*fastly*, etc. is incorrect. See **\*doubtlessly**, **\*fastly**, **ill**, **\*muchly**, **seldom** & **thus (b)**.
 
 **E. Adverbs vs. Adjectives.** See adjectives (e).
 

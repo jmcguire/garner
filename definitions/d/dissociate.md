@@ -1,6 +1,6 @@
 # dissociate
 
-dissociate; \***disassociate**. *Dissociate* has long been the standard term; *\*disassociate* is a needless variant. *Dissociate* takes the preposition *from.* E.g.:
+dissociate; **\*disassociate**. *Dissociate* has long been the standard term; *\*disassociate* is a needless variant. *Dissociate* takes the preposition *from.* E.g.:
 
  - "To *dissociate* himself *from* such impairments, Dole released the medical summary of his exam last month." "What's Really Up, Doc?," *Plain Dealer* (Cleveland), 26 July 1996, at B10.
 
@@ -11,5 +11,5 @@ dissociate; \***disassociate**. *Dissociate* has long been the standard term; *\
 **Language-Change Index:**
 
  - *\*disassociate* for *dissociate*: Stage 3
- - Current ratio in print (*dissociate* vs. \**disassociate*): 3:1
+ - Current ratio in print (*dissociate* vs. *\*disassociate*): 3:1
 

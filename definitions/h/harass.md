@@ -7,5 +7,5 @@ The words are often misspelled *-rr-*. See spelling (a).
 **Language-Change Index:**
 
  - *harass* misspelled *\*harrass*: Stage 1
- - Current ratio in print (*harass* vs. \**harrass*): 98:1
+ - Current ratio in print (*harass* vs. *\*harrass*): 98:1
 

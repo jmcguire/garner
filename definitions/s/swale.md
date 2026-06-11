@@ -5,5 +5,5 @@ swale (= a depression in the land), an Americanism, is sometimes misspelled *\*s
 **Language-Change Index:**
 
  - *swale* misspelled *\*swail*: Stage 1
- - Current ratio in print (*swale* vs. \**swail*): 264:1
+ - Current ratio in print (*swale* vs. *\*swail*): 264:1
 

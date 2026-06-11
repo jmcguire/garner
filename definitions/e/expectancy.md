@@ -5,5 +5,5 @@ expectancy; **expectation**. Despite an overlap in actual use, the differentiati
 **Language-Change Index:**
 
  - *expectation* misused for *expectancy*: Stage 1
- - Current ratio in print (*life expectancy* vs. \**life expectation*): 202:1
+ - Current ratio in print (*life expectancy* vs. *\*life expectation*): 202:1
 

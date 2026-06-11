@@ -33,7 +33,7 @@ For *shirk* misused for *shrink*, see **shirk**.
  - Current ratio in print (*he shrank* vs. *\*he shrunk* vs. *\*he shrinked*): 169:28:1
 
 3. *shrank* as a past participle in place of *shrunk*: Stage 1
- - Current ratio in print (*has shrunk* vs. \**has shrank*): 529:1
+ - Current ratio in print (*has shrunk* vs. *\*has shrank*): 529:1
 
 4. *shrunken* as past-participial verb (not participial adjective): Stage 1
  - Current ratio in print (*has shrunk* vs. *\*has shrunken*): 27:1

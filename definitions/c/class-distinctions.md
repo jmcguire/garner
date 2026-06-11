@@ -21,13 +21,13 @@ Vocabulary Markers in AmE
 | driver | chauffeur |
 | feel bad | *\**feel badly |
 | fewer items | *\**less items |
-| if I had | *\**if I would have (*or* would've) |
+| if I had | **\*if I would have (*or* would've) |
 | if I hadn't been there | *\**if I hadn't have been there |
-| in regard to, with regard to | *\**in regards to, *\**with regards to |
+| in regard to, with regard to | **\*in regards to, *\**with regards to |
 | John saw my brother and me | *\**John saw my brother and I |
 | lie down | lay down |
 | May I help you? | How may I assist you? May I be of assistance? |
-| more fun, most fun | *\**funner, *\**funnest |
+| more fun, most fun | **\*funner, *\**funnest |
 | not too big a box | *\**not too big of a box |
 | a phenomenon | *\**a phenomena |
 | played well | \*played good |

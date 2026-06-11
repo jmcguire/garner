@@ -8,7 +8,7 @@ flare; **flair**. *Flare* = a sudden outburst of flame; an unsteady light. *Flai
 
  - "\[Mark\] Cuban would love to see \[Sidney\] Crosby or one of the sport's other young guns show some *flare* \[read *flair*\] and self-promotion on the ice." Brian Milner, "Marketing of NHL Misses Net," *Seattle Post-Intelligencer*, 24 Jan. 2007, at D1.
 
-This bit of word-swapping has always plagued the phrase *flair for the dramatic*, popular since the 1920s. Almost from the beginning, some have mistakenly written \**flare for the dramatic*.
+This bit of word-swapping has always plagued the phrase *flair for the dramatic*, popular since the 1920s. Almost from the beginning, some have mistakenly written *\*flare for the dramatic*.
 
 *Flared* trousers were once a sign of fashion *flair*—a reality that probably fueled the confusion.
 
@@ -16,5 +16,5 @@ This bit of word-swapping has always plagued the phrase *flair for the dramatic*
 
  - *flare* misused for *flair*: Stage 1
  - Current ratio in print (*natural flair* vs. *\*natural flare*): 13:1
- - Current ratio in print (*flair for the dramatic* vs. \**flare for the dramatic*): 7:1
+ - Current ratio in print (*flair for the dramatic* vs. *\*flare for the dramatic*): 7:1
 

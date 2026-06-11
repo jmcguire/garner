@@ -1,6 +1,6 @@
 # exorcise
 
-exorcise (= to purge of something spiritually bad, esp. an evil spirit) is so spelled in AmE and BrE alike. The spelling \**exorcize* is a chiefly BrE variant. The word is best pronounced /**ek**-sor-sīz/ to distinguish it from *exercise*.
+exorcise (= to purge of something spiritually bad, esp. an evil spirit) is so spelled in AmE and BrE alike. The spelling *\*exorcize* is a chiefly BrE variant. The word is best pronounced /**ek**-sor-sīz/ to distinguish it from *exercise*.
 
 The malapropism of using *exercise* for *exorcise* conjures up an image of devils doing aerobics (or, if they are zombies, anaerobics)—e.g.:
 
@@ -14,5 +14,5 @@ It's conceivable in those instances that some confusion arose from the secondary
 
  - *exercise* misused for *exorcise*: Stage 1
  - Current ratio in print (*exorcise the evil* vs. *\*exercise the evil*): 59:1
- - Current ratio in print (*exorcise the demons* vs. \**exorcize the demons*): 8:1
+ - Current ratio in print (*exorcise the demons* vs. *\*exorcize the demons*): 8:1
 

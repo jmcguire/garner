@@ -1,4 +1,4 @@
 # \*chivaree
 
-\*chivaree; \***chivari**. See **charivari**.
+\*chivaree; **\*chivari**. See **charivari**.
 

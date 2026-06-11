@@ -6,7 +6,7 @@ perceptive.
 
 *Perceptible*, by contrast, focuses on the thing being perceived. The word describes whatever comes within the range of one's senses as a detectable or recognizable thing \<perceptible temblors\> \<perceptible traces of cumin\>.
 
-*Perceptual* means "of, relating to, or involving sensory perception" \<perceptual experience\> \<perceptual learning\>. \**Perceptional* is a needless variant of *perceptual*.
+*Perceptual* means "of, relating to, or involving sensory perception" \<perceptual experience\> \<perceptual learning\>. *\*Perceptional* is a needless variant of *perceptual*.
 
 **B. Misuse of *perceptive* for *perceptible*.** The blunder of using *perceptive* (= keenly intuitive) where *perceptible* (= appreciable, recognizable) would be the correct word can be readily perceived—e.g.:
 

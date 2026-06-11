@@ -1,6 +1,6 @@
 # analysis
 
-analysis; \***analyzation**. The first, of course, is the standard word. *\*Analyzation*, a pseudo-learned variant of *analysis*, is a nonword—e.g.:
+analysis; **\*analyzation**. The first, of course, is the standard word. *\*Analyzation*, a pseudo-learned variant of *analysis*, is a nonword—e.g.:
 
  - "Dr. David L. Carnes Jr. . . . will be heading the computer *analyzation* \[read *analysis*\] project." Paul H. Carr, "Dentists Drill into Big Market with Root Tool," *San Antonio Bus. J.*, 27 June 1988, at 1.
 
@@ -13,5 +13,5 @@ For the similar nonword *\*paralyzation*, see **paralysis**.
 **Language-Change Index:**
 
  - *\*analyzation* for *analysis*: Stage 1
- - Current ratio in print (*analysis* vs. \**analyzation*): 16,572:1
+ - Current ratio in print (*analysis* vs. *\*analyzation*): 16,572:1
 

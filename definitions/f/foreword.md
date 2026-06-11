@@ -8,10 +8,10 @@ foreword (= a book's introduction, esp. one written by someone other than the au
 
  - "In the *forward* \[read *foreword*\] to his book, \[José\] Cisneros writes that the first Spanish horses were responsible for bringing civilization to our continent and that he considers it his mission to ‘follow their hoofprints along and across the land . . . .' " Gary Cartwright, "Pasó por Aquí," *Texas Monthly*, Dec. 2006, at 182.
 
-Still another misspelling is the nonword \**foreward*. See for-. Cf. **preface**.
+Still another misspelling is the nonword *\*foreward*. See for-. Cf. **preface**.
 
 **Language-Change Index:**
 
  - *forward* misused for *foreword*: Stage 2
- - Current ratio in print (*foreword to the book* vs. \**forward to the book* vs. \**foreward to the book*): 298:58:1
+ - Current ratio in print (*foreword to the book* vs. *\*forward to the book* vs. *\*foreward to the book*): 298:58:1
 

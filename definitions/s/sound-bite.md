@@ -7,5 +7,5 @@ The spelling *\*sound byte* is an error—e.g.: "Although this was a fairly logi
 **Language-Change Index:**
 
  - *sound bite* misspelled *\*sound byte*: Stage 1
- - Current ratio in print (*sound bite* vs. *soundbite* vs. \**sound byte*): 34:12:1
+ - Current ratio in print (*sound bite* vs. *soundbite* vs. *\*sound byte*): 34:12:1
 

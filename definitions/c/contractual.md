@@ -5,5 +5,5 @@ contractual is sometimes erroneously written (or pronounced) *\*contractural*, w
 **Language-Change Index:**
 
  - *contractual* misspelled *\*contractural*: Stage 1
- - Current ratio in print (*contractual* vs. \**contractural*): 819:1
+ - Current ratio in print (*contractual* vs. *\*contractural*): 819:1
 

@@ -1,6 +1,6 @@
 # frog legs
 
-frog legs; **frogs' legs**; \***frog's legs**; **\*frogs legs**. Although *frog legs* seems to be the most natural phrase, there is an amazing mélange of forms.
+frog legs; **frogs' legs**; **\*frog's legs**; **\*frogs legs**. Although *frog legs* seems to be the most natural phrase, there is an amazing mélange of forms.
 
 Some cookbook authors write *frog legs*. See, e.g., Irma S. Rombauer & Marion Rombauer Becker, *Joy of Cooking* 415 (1975); Jacqueline Killeen, *The Whole World Cookbook* 267 (1979); Fredy Girardet, *The Cuisine of Fredy Girardet* 44 (1982); Emeril Lagasse, *Louisiana Real & Rustic* 61 (1996).
 
@@ -25,5 +25,5 @@ Those citations don't quite reflect general usage in newspapers and journals. Of
 3. *\*frog's legs*: Stage 3
 
 4. *\*frogs legs*: Stage 1
- - Current ratio in print (*frog legs* vs. *frogs' legs* vs. \**frog's legs* vs. \**frogs legs*): 15:10:4:1
+ - Current ratio in print (*frog legs* vs. *frogs' legs* vs. *\*frog's legs* vs. *\*frogs legs*): 15:10:4:1
 

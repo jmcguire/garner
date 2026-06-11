@@ -20,5 +20,5 @@ The pronunciation is /dez-i-dә-**rah**-dә/ or /dә-sid-ә-**rah**-tә/.
 
  - *desiderata* misused as a singular: Stage 1
  - Current ratio in print (*a desideratum* vs. *\*a desiderata*): 64:1
- - Current ratio in print (*desiderata* vs. \**desideratums*): 1,560:1
+ - Current ratio in print (*desiderata* vs. *\*desideratums*): 1,560:1
 

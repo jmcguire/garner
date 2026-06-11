@@ -5,5 +5,5 @@ improvise is sometimes misspelled *\*improvize*—e.g.: "Harrelson likes to gamb
 **Language-Change Index:**
 
  - *improvise* misspelled *\*improvize*: Stage 1
- - Current ratio in print (*improvise* vs. \**improvize*): 390:1
+ - Current ratio in print (*improvise* vs. *\*improvize*): 390:1
 

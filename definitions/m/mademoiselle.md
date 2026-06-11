@@ -12,5 +12,5 @@ What is the plural of *mademoiselle*? From about 1750 to 1850, it was a regular 
 
  - Current ratio in print (*mademoiselles* vs. *mesdemoiselles* in AmE): 2:1
  - Current ratio in print (*mesdemoiselles* vs. *mademoiselles* in BrE): 1.2:1
- - Current ratio in print (*mademoiselle* vs. \**madamoiselle*): 377:1
+ - Current ratio in print (*mademoiselle* vs. *\*madamoiselle*): 377:1
 

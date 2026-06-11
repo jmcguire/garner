@@ -29,5 +29,5 @@ For a misuse of *sprang* for *sprained*, see **sprain**.
 
 2. *sprang* misused for past-participial *sprung*: Stage 1
  - Current ratio in print (*have sprung* vs. *\*have sprang*): 229:1
- - Current ratio in print (*they sprang* vs. \**they sprung*): 4:1
+ - Current ratio in print (*they sprang* vs. *\*they sprung*): 4:1
 

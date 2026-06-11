@@ -1,6 +1,6 @@
 # culpable
 
-culpable; **inculpable**; \***culpatory**; **\*culpose**. *Culpable* (= guilty, blameworthy) is the ordinary word among this group. E.g.:
+culpable; **inculpable**; **\*culpatory**; **\*culpose**. *Culpable* (= guilty, blameworthy) is the ordinary word among this group. E.g.:
 
  - "Merritt said yesterday that Christian conservatives were not *culpable* in \[Oliver\] North's defeat." Kent Jenkins Jr., "Uncertainties Arise on Morning After GOP Triumph," *Wash. Post*, 10 Nov. 1994, at C1.
 
@@ -8,7 +8,7 @@ culpable; **inculpable**; \***culpatory**; **\*culpose**. *Culpable* (= guilty, 
 
 See **blameworthy (a)**.
 
-\**Inculpable* is an ambiguous contronym. (To remain blameless, use *blameless*.) \**Inculpable* may mean (1) "(of a person) able to be inculpated \[i.e., guilty\]"; (2) "(of a statement or action) pointing toward guilt"; or (3) "(of a person) not culpable \[i.e., innocent\]." The word has traditionally borne sense 3, but in fact it is used in all three ways—e.g.:
+*\*Inculpable* is an ambiguous contronym. (To remain blameless, use *blameless*.) *\*Inculpable* may mean (1) "(of a person) able to be inculpated \[i.e., guilty\]"; (2) "(of a statement or action) pointing toward guilt"; or (3) "(of a person) not culpable \[i.e., innocent\]." The word has traditionally borne sense 3, but in fact it is used in all three ways—e.g.:
 
  - "On the other hand, it's nice to know I can join the ranks of those who have excuses that render them *inculpable* \[i.e., guiltless\] for their behavior." Tami Plyler, "Excuses, Excuses, Excuses," *Union Leader* (Manchester, N.H.), 7 Mar. 1995, at A5.
 

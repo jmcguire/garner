@@ -9,5 +9,5 @@ pizzeria. The word for a restaurant specializing in pizza is often (and understa
 **Language-Change Index:**
 
  - *pizzeria* misspelled *\*pizzaria*: Stage 1
- - Current ratio in print (*pizzeria* vs. \**pizzaria*): 342:1
+ - Current ratio in print (*pizzeria* vs. *\*pizzaria*): 342:1
 

@@ -5,5 +5,5 @@ eldritch (= weird, eerie) is sometimes misspelled *\*eldrich*—e.g.: "June is t
 **Language-Change Index:**
 
  - *eldritch* misspelled *\*eldrich*: Stage 1
- - Current ratio in print (*eldritch* vs. \**eldrich*): 38:1
+ - Current ratio in print (*eldritch* vs. *\*eldrich*): 38:1
 

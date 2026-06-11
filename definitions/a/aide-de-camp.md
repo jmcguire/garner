@@ -4,5 +4,5 @@ aide-de-camp (= military aide) is so spelled—not *\*aid-de-camp.* Borrowed fro
 
  - Current ratio in print (*aide-de-camp* vs. *\*aid-de-camp*): 17:1
 
- - Current ratio in print (*aides-de-camp* vs. \**aide-de-camps*): 26:1
+ - Current ratio in print (*aides-de-camp* vs. *\*aide-de-camps*): 26:1
 

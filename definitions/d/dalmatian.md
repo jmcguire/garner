@@ -5,5 +5,5 @@ Dalmatian. So spelled (and capitalized)—not *\*dalmatian* or (worse yet) *\*da
 **Language-Change Index:**
 
  - *Dalmatian* misspelled *\*Dalmation*: Stage 1
- - Current ratio in print (*Dalmatian* vs. \**Dalmation*): 61:1
+ - Current ratio in print (*Dalmatian* vs. *\*Dalmation*): 61:1
 

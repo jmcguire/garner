@@ -12,7 +12,7 @@ taut.
 
 In that last example, *wrinkled leather*, as opposed to *\*taught leather*, must come from old cows as opposed to educated ones.
 
- - Current ratio in print (*taut rope* vs. \**taught rope*): 30:1
+ - Current ratio in print (*taut rope* vs. *\*taught rope*): 30:1
 
 **B. And *taunt*, n. & vb.** *Taunt* is both a verb ("to provoke with sarcasm or insults") and a noun ("a sarcastic, provocative gibe"). Unfortunately, writers are increasingly confusing that word with the adjective *taut* (= tightly stretched \[literally or figuratively\])—e.g.:
 

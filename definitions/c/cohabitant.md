@@ -4,5 +4,5 @@ cohabitant; \***cohabitee; \*cohabitor**. *\*Cohabitee*, though increasingly com
 
 **Language-Change Index:** *\*cohabitee* for *cohabitant*: Stage 2
 
- - Current ratio in print (*cohabitant* vs. \**cohabitee* vs. \**cohabitor*): 54:10:1
+ - Current ratio in print (*cohabitant* vs. *\*cohabitee* vs. *\*cohabitor*): 54:10:1
 

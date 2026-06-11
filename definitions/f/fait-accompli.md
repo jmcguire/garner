@@ -4,7 +4,7 @@ fait accompli (= something irrevocably done and not now changeable), from French
 
 The singular and plural forms are pronounced identically: /**fayt** ә-kom-**plee**/ or /**fet** ә-kom-**plee**/.
 
-By the way, since the mid-1960s the misspelling \**fate accompli* has occasionally appeared—a sort of visual malapropism.
+By the way, since the mid-1960s the misspelling *\*fate accompli* has occasionally appeared—a sort of visual malapropism.
 
- - Current ratio in print (*fait accompli* vs. \**fate accompli*): 876:1
+ - Current ratio in print (*fait accompli* vs. *\*fate accompli*): 876:1
 

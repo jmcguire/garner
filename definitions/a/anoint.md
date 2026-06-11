@@ -9,5 +9,5 @@ anoint is sometimes misspelled *\*annoint*—e.g.:
 **Language-Change Index:**
 
  - *anoint* misspelled *\*annoint*: Stage 1
- - Current ratio in print (*anoint* vs. \**annoint*): 201:1
+ - Current ratio in print (*anoint* vs. *\*annoint*): 201:1
 

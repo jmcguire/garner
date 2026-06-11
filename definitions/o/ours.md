@@ -13,5 +13,5 @@ See possessives (c).
 **Language-Change Index:**
 
  - *\*our's* for *ours*: Stage 1
- - Current ratio in print (*ours* vs. \**our's*): 848:1
+ - Current ratio in print (*ours* vs. *\*our's*): 848:1
 

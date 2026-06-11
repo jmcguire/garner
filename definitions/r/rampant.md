@@ -5,5 +5,5 @@ rampant means "widespread, unrestrained," usually in a pejorative sense \<a ramp
 **Language-Change Index:**
 
  - *\*rampant with* for *rife with*: Stage 1
- - Current ratio in print (*corruption was rampant in* vs. \**was* *rampant with corruption*): 20:1
+ - Current ratio in print (*corruption was rampant in* vs. *\*was* *rampant with corruption*): 20:1
 

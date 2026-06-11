@@ -10,5 +10,5 @@ Occasionally the incorrect form *\*concertoes* appears—e.g.: "When I work on M
  - Current ratio in print (*concertos* vs. *concerti*): 9:1
 
 2. *concertos* misspelled *\*concertoes*: Stage 1
- - Current ratio in print (*concertos* vs. \**concertoes*): 2,072:1
+ - Current ratio in print (*concertos* vs. *\*concertoes*): 2,072:1
 

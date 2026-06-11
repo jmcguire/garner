@@ -7,5 +7,5 @@ consummate as an adjective is pronounced /kәn-**sәm**-it/, and as a verb /**ko
 **Language-Change Index:**
 
  - *consummate* misspelled *\*consumate*: Stage 1
- - Current ratio in print (*consummate* vs. \**consumate*): 250:1
+ - Current ratio in print (*consummate* vs. *\*consumate*): 250:1
 

@@ -28,9 +28,9 @@ Today the singular uses are just as common, and not only in the phrase *big data
 
  - "New census *data* *shows* how population shifts over the past decade in Texas . . . will strengthen big cities and their suburbs." Mimi Swartz, "Texas Needs New Leadership," *N.Y. Times*, 24 Aug. 2021, at A16.
 
-It's likely that the singular uses were fueled by computerese and the language of science. But no matter. They're now standard english. *Data* in the singular sense is essentially synonymous with *information*. But if you try to replace *data* with *information* in all instances, you'll soon see that it often doesn't work. Many times it feels unidiomatic. \**Big information* is just silly.
+It's likely that the singular uses were fueled by computerese and the language of science. But no matter. They're now standard english. *Data* in the singular sense is essentially synonymous with *information*. But if you try to replace *data* with *information* in all instances, you'll soon see that it often doesn't work. Many times it feels unidiomatic. *\*Big information* is just silly.
 
-Interestingly, too, *data* can't be plural in the same way as normal English count nouns. You can't say \**three data* or \**four data* the way you say *three birds* or *four trees*. That's a telltale indicator that it's a mass noun: nobody can quantify data. Yet the phrases *three criteria* and *three phenomena* are entirely natural.
+Interestingly, too, *data* can't be plural in the same way as normal English count nouns. You can't say *\*three data* or *\*four data* the way you say *three birds* or *four trees*. That's a telltale indicator that it's a mass noun: nobody can quantify data. Yet the phrases *three criteria* and *three phenomena* are entirely natural.
 
 In one particular use, *data* is overwhelmingly treated as plural: when it begins a clause and is not preceded by a determiner such as the definite article. E.g.:
 
@@ -40,7 +40,7 @@ In one particular use, *data* is overwhelmingly treated as plural: when it begin
 
 With that type of construction, often at the beginning of a sentence, the plural is five times more common than the singular.
 
-*Datum*, the singular count noun, is comparatively infrequent. It always needs a determiner before it. Hence you can't say \**Datum is suspect*—it invariably takes a *the* or *this* or other determiner. (That's the crucial test for count nouns.) *Datum* is unusual because it occurs only in the speech or writing of scientists and other highly educated people using a formal register—e.g.:
+*Datum*, the singular count noun, is comparatively infrequent. It always needs a determiner before it. Hence you can't say *\*Datum is suspect*—it invariably takes a *the* or *this* or other determiner. (That's the crucial test for count nouns.) *Datum* is unusual because it occurs only in the speech or writing of scientists and other highly educated people using a formal register—e.g.:
 
  - "We accept the law as a necessary *datum*, but that is not to say that we are required to accept it in abeyance of our critical faculties." F.R. Leavis, *The Common Pursuit* 166–67 (1952).
 

@@ -12,5 +12,5 @@ trooper; **trouper**. *Trooper* = (1) a cavalry soldier or horse; (2) a police o
 
  - *\*real trooper* for *real trouper*: Stage 3
  - Current ratio in print (*real trouper* vs. *\*real trooper* in BrE): 1.1:1
- - Current ratio in print (*real trouper* vs. \**real trooper* in AmE): 1:3
+ - Current ratio in print (*real trouper* vs. *\*real trooper* in AmE): 1:3
 

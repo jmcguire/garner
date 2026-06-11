@@ -2,7 +2,7 @@
 
 Demonyms. What do you call someone from ——? Often that's not an easy question to answer, whether it's a city, state, province, or country. Anyone who lives in Columbus, Ohio—or the other Columbuses in Georgia, Indiana, and Nebraska—is called a *Columbusite*. But someone from the small town of Columbus, Mississippi, is called a *Columbian*. Those inconsistencies can be a little confusing, but at least they're undisputed within a given locale.
 
-Sometimes the authorities can't agree about a single locale. Beginning in the 1950s, a person from Michigan was known by statute as a *Michiganian*—but the originally jocular, occasionally pejorative term *Michigander*, coined in the early 1800s, had decades earlier become the preference of *Michiganders* themselves. Almost no one wanted to be called a \**Michiganite*, but that's what the U.S. Government Printing Office's style manual specified. It took until 2018 for Michigan law to catch up to local preference and shift to *Michigander*; the *USGPO*, ever a step behind, upgraded to *Michiganian*. Best for *Michiganders* and others to follow the law or local preference—not what some stylesheet writer in Washington says.
+Sometimes the authorities can't agree about a single locale. Beginning in the 1950s, a person from Michigan was known by statute as a *Michiganian*—but the originally jocular, occasionally pejorative term *Michigander*, coined in the early 1800s, had decades earlier become the preference of *Michiganders* themselves. Almost no one wanted to be called a *\*Michiganite*, but that's what the U.S. Government Printing Office's style manual specified. It took until 2018 for Michigan law to catch up to local preference and shift to *Michigander*; the *USGPO*, ever a step behind, upgraded to *Michiganian*. Best for *Michiganders* and others to follow the law or local preference—not what some stylesheet writer in Washington says.
 
 Loose guidelines exist for naming denizens. George R. Stewart, a historian and onomastician, developed six main guidelines—what H.L. Mencken called "Stewart's Laws of Municipal Onomastics"—that are cited in the best up-to-date work on this subject, Paul Dickson's *Labels for Locals* (1997). Here they are: (1) If the place name ends in *-a* or *-ia*, add *-n* \<Alaska, Alaskan\> \<California, Californian\>. (2) If the name ends in *-i*, *-o*, or a sounded *-e*, add *-an* \<Hawaii, Hawaiian\> \<Chicago, Chicagoan\> \<Albuquerque, Albuquerquean\>. (3) If the name ends in *-on*, add *-ian* \<Oregon, Oregonian\>. (4) If the name ends in *-y*, change the *-y* to an *-i* and add *-an* \<Albany, Albanian\>. (5) If the name ends in a consonant or a silent *-e*, add either *-ite* or *-er*, depending on euphony \<Maine, Mainer\> \<New Hampshire, New Hampshirite\>. (6) If the name ends in *-polis*, change that to *-politan* \<Minneapolis, Minneapolitan\>.
 
@@ -22,7 +22,7 @@ What follows is a selection of demonyms, also known as "denizen labels," includi
  - Georgia Georgian
  - Hawaii Hawaiian
  - Idaho Idahoan
- - Illinois Illinoisan /il-ә-**noy**-әn/ (pref. not \**Illinoisian*)
+ - Illinois Illinoisan /il-ә-**noy**-әn/ (pref. not *\*Illinoisian*)
  - Indiana Hoosier, Indianan, \*Indianian
  - Iowa Iowan, \*Iowegian
  - Kansas Kansan

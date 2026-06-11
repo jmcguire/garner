@@ -1,6 +1,6 @@
 # bazaar
 
-bazaar (= \[1\] a market containing many small shops; or \[2\] an occasion when people sell items for a charitable purpose), a term introduced in the 1600s, has been predominantly so spelled since the early 1800s. The original spelling, \**bazar*, is now a variant form.
+bazaar (= \[1\] a market containing many small shops; or \[2\] an occasion when people sell items for a charitable purpose), a term introduced in the 1600s, has been predominantly so spelled since the early 1800s. The original spelling, *\*bazar*, is now a variant form.
 
 The adjective *bizarre* (= startlingly odd) is occasionally misused for *bazaar*. The tricky spelling of the second word, which comes from Persian by way of Hindi and Turkish, may lead some writers into this error—e.g.:
 

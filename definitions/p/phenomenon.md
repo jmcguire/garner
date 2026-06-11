@@ -28,7 +28,7 @@ Surprisingly, the word is often misspelled *\*phenomenum*, especially in BrE—e
  - Current ratio in print (*a rare phenomenon* vs. *\*a rare phenomena*): 181:1
 
 2. *phenomenon* misspelled *\*phenomenum*: Stage 1
- - Current ratio in print (*phenomenon* vs. \**phenomenum*): 31,602:1
+ - Current ratio in print (*phenomenon* vs. *\*phenomenum*): 31,602:1
 
 **B. As a Plural.** Conversely, the singular *phenomenon* is sometimes mistakenly used as a plural—e.g.: "These irregularities could explain several *phenomenon* \[read *phenomena*\] in the earth including the well-known jerkiness in the planet's rotational rate." George Alexander, "Cat Scans Used to Explore the Earth," *N.Y. Times*, 16 Dec. 1986, at C3. Cf. **criterion** & **media**.
 

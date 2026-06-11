@@ -4,7 +4,7 @@ arbitration.
 
 **A. And *arbitrage*.** *Arbitration* = the process of submitting a dispute to a neutral third party whose decision is binding on the participants. *Arbitrage* = the simultaneous buying and selling of currencies or securities at different values in order to profit by price discrepancies.
 
-Writers occasionally err by substituting *arbitrage* for *arbitration*, especially in the phrase \**arbitrage panel*—e.g.:
+Writers occasionally err by substituting *arbitrage* for *arbitration*, especially in the phrase *\*arbitrage panel*—e.g.:
 
  - "In a terse statement on Wednesday, Sir Leon said the EU ‘will carefully study both the *arbitrator's* report and the two panel reports, and of course meanwhile reserve our right of appeal.' . . . In a parallel ruling, an *arbitrage* \[read *arbitration*\] panel decided the U.S. retaliation is legal but excessive." Elizabeth de Bony, *J. of Commerce*, 8 Apr. 1999, at A1.
 

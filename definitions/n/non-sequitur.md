@@ -7,5 +7,5 @@ In the following sentence, the phrase is not only misspelled but also misused be
 **Language-Change Index:**
 
  - *non sequitur* misspelled *\*non sequitor*: Stage 1
- - Current ratio in print (*non sequitur* vs. \**non sequitor*): 176:1
+ - Current ratio in print (*non sequitur* vs. *\*non sequitor*): 176:1
 

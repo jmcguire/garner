@@ -167,7 +167,7 @@ Note, however, that the plural of *still life* is *still lifes*.
  - veto vetoes
  - volcano volcanoes
 
-Some are close calls. For example, the plural *peccadilloes* predominates in usage over \**peccadillos*, but the word is surely no more naturalized than *banjo* (which forms *banjos*).
+Some are close calls. For example, the plural *peccadilloes* predominates in usage over *\*peccadillos*, but the word is surely no more naturalized than *banjo* (which forms *banjos*).
 
 Second, alien-looking words (e.g., *imbroglio*), proper names (e.g., *the Florios*—that is, the Florio family), words that are seldom used as plurals (e.g., *bravados*), words in which *o* is preceded by a vowel (e.g., *portfolios*), and shortened words (e.g., *photo*) typically don't take the *e*. Among the many plurals that don't have an *e* before the pluralizing *s* are these:
 

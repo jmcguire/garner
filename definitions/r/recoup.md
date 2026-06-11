@@ -27,6 +27,6 @@ The *OED* records several examples of "recuperating" losses—from 1865 to recen
 2. *recuperate* misused for *recoup*: Stage 2
  - Current ratio in print (*recoup the loss* vs. *\*recuperate the loss*): 6:1
 
-3. *recuperate* misspelled \**recouperate*: Stage 1
- - Current ratio in print (*recuperate* vs. \**recouperate*): 2,146:1
+3. *recuperate* misspelled *\*recouperate*: Stage 1
+ - Current ratio in print (*recuperate* vs. *\*recouperate*): 2,146:1
 

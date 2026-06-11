@@ -13,5 +13,5 @@ Of course, the phrase *a plenitude of* can very often be shortened to a simple *
 **Language-Change Index:**
 
  - *plenitude* misspelled *\*plentitude*: Stage 1
- - Current ratio in print (*plenitude* vs. \**plentitude*): 9:1
+ - Current ratio in print (*plenitude* vs. *\*plentitude*): 9:1
 

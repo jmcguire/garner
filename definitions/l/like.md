@@ -23,7 +23,7 @@ As all the parenthetical revisions suggest, the most natural solution is to open
 **Language-Change Index:**
 
 Prepositional *like* introducing nominative pronoun: Stage 1
- - Current ratio in print (*like you and me* vs. \**like you and I*): 3:1
+ - Current ratio in print (*like you and me* vs. *\*like you and I*): 3:1
 
 **B. As a Conjunction.** In traditional usage, *like* is a preposition that governs nouns and noun phrases, not a conjunction that governs verbs or clauses. Its function is adjectival, not adverbial. Hence one does not write, properly, *\*The story ended like it began*, but *The story ended as it began*. If we change the verbs to nouns, *like* is correct: "The story's ending was like its beginning." Frequently, therefore, *like* needs to be replaced by the proper conjunction *as* (or *as if*)—e.g.:
 

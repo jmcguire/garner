@@ -5,5 +5,5 @@ iridescent. So spelled. *\*Irridescent* is a common misspelling—e.g.: "The Cor
 **Language-Change Index:**
 
  - *iridescent* misspelled *\*irridescent*: Stage 1
- - Current ratio in print (*iridescent* vs. \**irridescent*): 133:1
+ - Current ratio in print (*iridescent* vs. *\*irridescent*): 133:1
 

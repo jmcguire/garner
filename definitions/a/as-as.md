@@ -2,7 +2,7 @@
 
 as . . . as.
 
-**A. And *so .** . . as*. In positive statements, the *as . . . as* construction is customary—e.g.: "The corn, which should be *as* tall *as* I am at this time of year, is barely half my height." Eason Jordan, "A Visit to the Land of the Vanishing Lake," *Time*, 25 Aug. 1997, at 52.
+**A. And *so . . . as*.** In positive statements, the *as . . . as* construction is customary—e.g.: "The corn, which should be *as* tall *as* I am at this time of year, is barely half my height." Eason Jordan, "A Visit to the Land of the Vanishing Lake," *Time*, 25 Aug. 1997, at 52.
 
 In the mid-20th century it was commonly held that *so . . . as* is preferable to *as . . . as* in negative statements—e.g.: "The Republican governor said he might support future efforts to raise the ballot bar on non-major party candidates, but *not so* high *as* Senate Bill 200 tried to set." Mario F. Cattabiani, "Ridge Vetoes Bill on Ballot Access," *Morning Call* (Allentown, Pa.), 26 June 1997, at A1. But *as . . . as* generally serves equally well in such negative statements, and examples abound in good literature.
 

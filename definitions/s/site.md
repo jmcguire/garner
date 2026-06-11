@@ -22,6 +22,6 @@ Cf. **sight unseen**. For other errors with *site*, see **cite**, n. (b).
  - Current ratio in print (*sites to visit* vs. *\*sights to visit*): 6:1
 
 2. *site* misused for *sight*: Stage 2
- - Current ratio in print (*set his sights* vs. \**set his sites*): 391:1
- - Current ratio in print (*sight for sore eyes* vs. \[nonpunning\] \**site for sore eyes*): 119:1
+ - Current ratio in print (*set his sights* vs. *\*set his sites*): 391:1
+ - Current ratio in print (*sight for sore eyes* vs. \[nonpunning\] *\*site for sore eyes*): 119:1
 

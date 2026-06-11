@@ -11,5 +11,5 @@ See plurals (b).
 **Language-Change Index:**
 
  - *stadiums*: Stage 5
- - Current ratio in print (*stadiums* vs. \**stadia*): 1.8:1
+ - Current ratio in print (*stadiums* vs. *\*stadia*): 1.8:1
 

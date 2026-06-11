@@ -5,5 +5,5 @@ optimize (= to make the best use of) is the word, not *\*optimalize*—e.g.: "In
 **Language-Change Index:**
 
  - *\*optimalize* for *optimize*: Stage 1
- - Current ratio in print (*optimized* vs. \**optimalized*): 6,511:1
+ - Current ratio in print (*optimized* vs. *\*optimalized*): 6,511:1
 

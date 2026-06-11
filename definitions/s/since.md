@@ -18,5 +18,5 @@ See **as (a)** & superstitions (g).
 
 Be careful, though, of starting a sentence with *since* and then using a past-tense construction, which can lead to ambiguity—e.g.: "*Since* Memphis exposed Louisville's main weaknesses . . . in a humbling loss for the Cardinals at Freedom Hall, the Cards have struggled." Mike Strange, "Selection Sunday Conference-by-Conference Breakdowns," *Sporting News*, 17 Mar. 2003, at 21. The reader wonders, at least momentarily, whether the Cards have struggled *because of* or just *after* the upset. See miscues (a).
 
-**B. \**Since . . . then*.** This phraseology mangles the syntax of a causal construction—e.g.: "*Since* he was mad Saturday, *then* he should get even today." Greg Johnson, "It's Expect the Unexpected at Buick Open," *Grand Rapids Press*, 10 Aug. 1997, at E1. The problem is remedied by omitting *then*. Or the writer could have deleted *Since* and changed *then* to *so*.
+**B. *\*Since . . . then*.** This phraseology mangles the syntax of a causal construction—e.g.: "*Since* he was mad Saturday, *then* he should get even today." Greg Johnson, "It's Expect the Unexpected at Buick Open," *Grand Rapids Press*, 10 Aug. 1997, at E1. The problem is remedied by omitting *then*. Or the writer could have deleted *Since* and changed *then* to *so*.
 

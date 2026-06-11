@@ -135,7 +135,7 @@ element of English speech, such as first-person and third-person pronouns.
 
 **C. Number Problems.** Sometimes, in the quest for correctness, writers let
 their sense of grammar override long-established idioms. They may write, for
-example, \**A number of people was there*, when the correct form is *A number
+example, *\*A number of people was there*, when the correct form is *A number
 of people were there*. Or they will write, \**A handful of problems arises
 from that approach*," instead of *A handful of problems arise from that
 approach*. For more on these correct but "antigrammatical" constructions,

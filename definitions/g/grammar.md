@@ -5,5 +5,5 @@ grammar is often misspelled *\*grammer*—e.g.: "Writing Center tutors go throug
 **Language-Change Index:**
 
  - *grammar* misspelled *\*grammer*: Stage 1
- - Current ratio in print (*grammar* vs. \**grammer*): 711:1
+ - Current ratio in print (*grammar* vs. *\*grammer*): 711:1
 

@@ -17,5 +17,5 @@ provenance.
 **Language-Change Index:**
 
  - *provenance* misused for *province*: Stage 1
- - Current ratio in print (*within the province* *of* vs. \**within the provenance of *): 72:1
+ - Current ratio in print (*within the province* *of* vs. *\*within the provenance of *): 72:1
 

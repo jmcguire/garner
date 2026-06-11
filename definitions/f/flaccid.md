@@ -39,5 +39,5 @@ In short, this word is a kind of skunked term: pronounce it in the traditional w
 **Language-Change Index:**
 
  - *flaccid* misspelled *\*flacid*: Stage 1
- - Current ratio in print (*flaccid* vs. \**flacid*): 473:1
+ - Current ratio in print (*flaccid* vs. *\*flacid*): 473:1
 

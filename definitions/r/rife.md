@@ -12,5 +12,5 @@ rife; **ripe**. While a tree may be *rife* (= abundant) with fruit, and that fru
 
  - *ripe* misused for *rife*: Stage 2
  - Current ratio in print (*rife with* vs. *\*ripe with*): 4:1
- - Current ratio in print (*rife with corruption* vs. \**ripe with corruption*): 38:1
+ - Current ratio in print (*rife with corruption* vs. *\*ripe with corruption*): 38:1
 

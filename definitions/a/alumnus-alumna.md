@@ -4,7 +4,7 @@ alumnus; alumna.
 
 **A. Plurals: *alumni*; *alumnae*; *alums*; *\*alumns*.** *Alumni* /ә-**lәm**-nī/ traditionally refers either to male graduates or to males and females collectively; the singular form, which is masculine, is *alumnus*. *Alumnae* /ә-**lәm**-nee/ traditionally refers to female graduates and not to mixed groups; the singular is *alumna*.
 
-Because the plural *alumni* is not considered sex-specific, the phrase *female alumni* (much on the rise since the 1970s) isn't redundant in the way that \**female alumnae* is.
+Because the plural *alumni* is not considered sex-specific, the phrase *female alumni* (much on the rise since the 1970s) isn't redundant in the way that *\*female alumnae* is.
 
 One common mistake with these words is confusing their number, as by using *alumni* or *alumnae* as a singular—e.g.: "He was an *alumni* \[read *alumnus*\] of Massachusetts Institute of Technology (MIT) and UCLA." "Abraham James Kennison" (obit.), *News Trib.* (Tacoma), 7 Jan. 1998, at B4. See plurals (b).
 

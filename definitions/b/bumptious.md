@@ -13,5 +13,5 @@ Cf. **scrumptious**.
 **Language-Change Index:**
 
  - *bumptious* misspelled *\*bumptuous*: Stage 1
- - Current ratio in print (*bumptious* vs. \**bumptuous*): 535:1
+ - Current ratio in print (*bumptious* vs. *\*bumptuous*): 535:1
 

@@ -40,7 +40,7 @@ How do things stand in the 2020s? The erosion of the verbal coastline, if we may
 
 **Language-Change Index:** *fortuitous* misused for *fortunate*: Stage 3
 
-**B. \**Fortuitous accident* & \**fortuitous coincidence*.** In these phrases, the word *fortuitous* bears the right sense but amounts to a redundancy: every accident or coincidence is fortuitous. Writers using those phrases, though, almost invariably mean "fortunate" or "lucky"—e.g.:
+**B. *\*Fortuitous accident* & *\*fortuitous coincidence*.** In these phrases, the word *fortuitous* bears the right sense but amounts to a redundancy: every accident or coincidence is fortuitous. Writers using those phrases, though, almost invariably mean "fortunate" or "lucky"—e.g.:
 
  - "Without that *fortuitous accident* \[read *lucky accident*\] of layout, even Conran's space might have stayed empty." Claudia H. Deutsch, "The Shops at Citicorp Center," *N.Y. Times*, 16 June 1996, § 9, at 10.
 
@@ -50,9 +50,9 @@ How do things stand in the 2020s? The erosion of the verbal coastline, if we may
 
 **Language-Change Index:**
 
-\**fortuitous accident* misused for *lucky accident*: Stage 2
+*\*fortuitous accident* misused for *lucky accident*: Stage 2
 
-\**fortuitous coincidence* misused for *fortunate coincidence*: Stage 2
+*\*fortuitous coincidence* misused for *fortunate coincidence*: Stage 2
 
 **C. Corresponding Adverb: *fortuitously*.** In the early 1980s, a *Time* magazine journalist wrote a piece about American aircraft that, having been ordered by the Shah of Iran, "*fortuitously* were never delivered." Both William Safire and Jacques Barzun called the journalist to task for misusing *fortuitously* in place of *fortunately*. See Safire, *I Stand Corrected* 205–06, 315 (1984). The journalist, George Church, then defended himself by saying that the failure of delivery was an instance of "sheer dumb luck." He posited that while *fortunately* would have emphasized the happiness of the outcome, *fortuitously* emphasized that it resulted from chance. *Ibid.* at 205. No dice, said Safire and Barzun.
 

@@ -10,7 +10,7 @@ slow has long been treated as an immediate adverb, i.e., one not requiring the *
 
 You'll undoubtedly prefer *slowly* in most situations, but occasionally *slow* will sound better. As the mystery writer Rex Stout once quipped, "Not only do I use and approve of the idiom ‘Go slow,' but if I find myself with people who do not, I leave quick" (as quoted in Norman Lewis, *Better English* 69 \[rev. ed. 1961\]). Cf. **quick (a)**.
 
-Notice, however, that if the adverb precedes the verb, the decision has been made for you: *we slowly go*; we don't \**slow go*.
+Notice, however, that if the adverb precedes the verb, the decision has been made for you: *we slowly go*; we don't *\*slow go*.
 
 **Language-Change Index:**
 

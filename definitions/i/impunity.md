@@ -28,5 +28,5 @@ For more on this word, see **immunity**.
 **Language-Change Index:**
 
  - *impunity* misspelled *\*impugnity*: Stage 1
- - Current ratio in print (*impunity* vs. \**impugnity*): 2,898:1
+ - Current ratio in print (*impunity* vs. *\*impugnity*): 2,898:1
 

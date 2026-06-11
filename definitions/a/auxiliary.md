@@ -9,5 +9,5 @@ auxiliary. So spelled, this word is best pronounced /awg-**zil**-yә-ree/. Perha
 **Language-Change Index:**
 
  - *auxiliary* misspelled *\*auxillary*: Stage 1
- - Current ratio in print (*auxiliary* vs. \**auxillary*): 498:1
+ - Current ratio in print (*auxiliary* vs. *\*auxillary*): 498:1
 

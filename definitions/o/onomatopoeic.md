@@ -1,6 +1,6 @@
 # onomatopoeic
 
-onomatopoeic; \***onomatopoetic**. The first is now standard for the adjective corresponding to *onomatopoeia* (= the formation or use of a word that sounds like the action or object it denotes); the second is a needless variant that confusingly suggests an inherent linkage with poetry. Since about 1950, the *-poeic* form has outnumbered the *-poetic* form by a wide margin—e.g.:
+onomatopoeic; **\*onomatopoetic**. The first is now standard for the adjective corresponding to *onomatopoeia* (= the formation or use of a word that sounds like the action or object it denotes); the second is a needless variant that confusingly suggests an inherent linkage with poetry. Since about 1950, the *-poeic* form has outnumbered the *-poetic* form by a wide margin—e.g.:
 
  - "A vast number of words in the language—*onomatopoeic* words they are called—. . . were deliberately coined to imitate a sound." Guy N. Pocock, "Sound and Sense," in *Foundations of English Style* 180, 182 (Paul M. Fulcher ed., 1927).
 
@@ -12,5 +12,5 @@ One historian of the English language has suggested *echoic* as a simpler substi
 
 *Onomatopoeic* is pronounced /on-ә-mat-ә-**pee**-ik/. Take care not to use the sloppy pronunciation /on-ә-mon-ә-**pee**-ik/.
 
- - Current ratio in print (*onomatopoeic* vs. \**onomatopoetic*): 3:1
+ - Current ratio in print (*onomatopoeic* vs. *\*onomatopoetic*): 3:1
 

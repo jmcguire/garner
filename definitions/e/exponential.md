@@ -8,7 +8,7 @@ exponential. This word is not synonymous with *rapid*. Growth is *exponential* w
 
  - "Since 1999, when many mainstream consumers began shopping on the Internet, Web retailers have often seen *exponential* gains in sales." Chris Reidy, "Slump Seen in Holiday Sales," *Boston Globe*, 21 Dec. 2001, at C1.
 
-The phrase *exponential growth*, in popular use since the 1940s, is sometimes mangled into the malapropism \**expotential growth*—doubtless under the influence of *potential growth*. The mistake dates from the early 1960s.
+The phrase *exponential growth*, in popular use since the 1940s, is sometimes mangled into the malapropism *\*expotential growth*—doubtless under the influence of *potential growth*. The mistake dates from the early 1960s.
 
- - Current ratio in print (*exponential growth* vs. \**expotential growth*): 13,420:1
+ - Current ratio in print (*exponential growth* vs. *\*expotential growth*): 13,420:1
 

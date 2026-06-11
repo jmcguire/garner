@@ -1,6 +1,6 @@
 # orient
 
-orient; \***orientate**. The latter is a needless variant of *orient*, which means "to get one's bearings or sense of direction"—e.g.: "It's doubly daunting for foreign players trying to *orientate* \[read *orient*\] themselves to the USA." Chris Colston, "For Some, a World of Change," *USA Today*, 22 Jan. 2008, at C5.
+orient; **\*orientate**. The latter is a needless variant of *orient*, which means "to get one's bearings or sense of direction"—e.g.: "It's doubly daunting for foreign players trying to *orientate* \[read *orient*\] themselves to the USA." Chris Colston, "For Some, a World of Change," *USA Today*, 22 Jan. 2008, at C5.
 
 The longer variant (a back-formation from *orientation*) is more common in BrE than in AmE—e.g.:
 
@@ -15,5 +15,5 @@ Cf. **disorient**.
 **Language-Change Index:**
 
  - *\*orientate* for *orient*: Stage 2
- - Current ratio in print (*oriented* vs. \**orientated*): 19:1
+ - Current ratio in print (*oriented* vs. *\*orientated*): 19:1
 

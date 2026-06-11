@@ -5,5 +5,5 @@ offspring (= one or more children or descendants) is either singular or—more c
 **Language-Change Index:**
 
  - *\*offsprings* for plural *offspring*: Stage 1
- - Current ratio in print (*several offspring* vs. \**several offsprings*): 20:1
+ - Current ratio in print (*several offspring* vs. *\*several offsprings*): 20:1
 

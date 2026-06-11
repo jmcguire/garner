@@ -8,12 +8,12 @@ skew; **skewer**. To *skew* is to change direction; to *skew* statistics is to m
 
  - "Critics of the system say the danger of open primaries is that crossover voters will intentionally *skewer* \[read *skew*\] the results of the opposition party's races in hopes of nominating a candidate who can be defeated by their own party." Will Anderson, "Officials See Significant Cross-Ticket Voting in Primary," *Atlanta J.-Const.*, 15 July 2000, at G3.
 
-A *skewed view* is an incorrect one usually resulting from incomplete knowledge of the facts or disproportionate emphasis on one aspect of data. Since the 1980s, the phrase has sometimes been mistakenly rendered \**skewered view*.
+A *skewed view* is an incorrect one usually resulting from incomplete knowledge of the facts or disproportionate emphasis on one aspect of data. Since the 1980s, the phrase has sometimes been mistakenly rendered *\*skewered view*.
 
 As a noun in sense 2, *skewer* is used correctly here: " ‘What was he doing in that bathroom with that girl at five in the morning, drunk?' Bucher asked. ‘Alcohol is the number one *skewer* of reality.' " Sandy Nelesen, "Tight End Emotional as Verdict Delivered," *Green Bay Press-Gaz.*, 4 Feb. 2001, at A1 (quoting Waukesha County District Attorney Paul Bucher).
 
 **Language-Change Index:**
 
  - *skewer* misused for *skew*: Stage 1
- - Current ratio in print (*skewed view* vs. \**skewered view*): 98:1
+ - Current ratio in print (*skewed view* vs. *\*skewered view*): 98:1
 

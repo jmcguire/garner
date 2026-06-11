@@ -18,5 +18,5 @@ But the opposite error, *luxuriant* for *luxurious*, also sometimes occurs—e.g
  - Current ratio in print (*luxuriant vegetation* vs. *\*luxurious vegetation*): 9:1
 
 2. *luxuriant* misused for *luxurious*: Stage 2
- - Current ratio in print (*luxurious living* vs. \**luxuriant living*): 91:1
+ - Current ratio in print (*luxurious living* vs. *\*luxuriant living*): 91:1
 

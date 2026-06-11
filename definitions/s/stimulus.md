@@ -11,5 +11,5 @@ See plurals (b).
 **Language-Change Index:**
 
  - *\*stimuluses* for *stimuli*: Stage 1
- - Current ratio in print (*stimuli* vs. \**stimuluses*): 9,325:1
+ - Current ratio in print (*stimuli* vs. *\*stimuluses*): 9,325:1
 

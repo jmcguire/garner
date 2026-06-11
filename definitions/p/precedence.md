@@ -4,7 +4,7 @@ precedence.
 
 **A. And *\*precedency.*** Today *precedence* is the standard term. *\*Precedency*, a needless variant, was common through the first half of the 1800s.
 
- - Current ratio in print (*precedence* vs. \**precedency*): 112:1
+ - Current ratio in print (*precedence* vs. *\*precedency*): 112:1
 
 **B. Pronunciation.** Although the traditional pronunciation of *precedence* was /pri-**seed**-әnts/, today the standard pronunciation across World Englishes is /**pres**-i-dәnts/. Hence the word is now typically a homophone of *precedents.*
 

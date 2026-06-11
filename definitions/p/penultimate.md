@@ -16,5 +16,5 @@ Sometimes, too, the word is misspelled *\*pentultimate* (perhaps through sound a
  - Current ratio in print (*the ultimate source* vs. *\*the penultimate source*): 843:1
 
 2. *penultimate* misspelled *\*pentultimate*: Stage 1
- - Current ratio in print (*penultimate* vs. \**pentultimate*): 4,303:1
+ - Current ratio in print (*penultimate* vs. *\*pentultimate*): 4,303:1
 

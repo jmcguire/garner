@@ -5,5 +5,5 @@ marshmallow is so spelled—not *\*marshmellow* (under the influence of the adje
 **Language-Change Index:**
 
  - *marshmallow* misspelled *\*marshmellow*: Stage 1
- - Current ratio in print (*marshmallow* vs. \**marshmellow*): 687:1
+ - Current ratio in print (*marshmallow* vs. *\*marshmellow*): 687:1
 

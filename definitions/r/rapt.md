@@ -8,10 +8,10 @@ rapt (= captivated, enthralled, spellbound) is sometimes erroneously made *\*wra
 
  - "Instruct the group that the point of the exercise is to see the effects of attention and inattention. For this end, they are to pay *wrapt* \[read *rapt*\] attention to Advisor A and little or no attention to Advisor B." E.H. McGrath, *Basic Managerial Skills for All* 197 (2011).
 
-This error is traceable to 17th-century prose but has appeared infrequently over time in comparison with the standard usage. So have the erroneous forms \**rapped attention* and \**wrapped attention*.
+This error is traceable to 17th-century prose but has appeared infrequently over time in comparison with the standard usage. So have the erroneous forms *\*rapped attention* and *\*wrapped attention*.
 
 **Language-Change Index:**
 
  - *\*wrapt attention* for *rapt attention*: Stage 1
- - Current ratio in print (*rapt attention* vs. \**wrapt attention* vs. \**rapped attention* vs. \**wrapped attention*): 1,706:12:1.3:1
+ - Current ratio in print (*rapt attention* vs. *\*wrapt attention* vs. *\*rapped attention* vs. *\*wrapped attention*): 1,706:12:1.3:1
 

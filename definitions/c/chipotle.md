@@ -4,5 +4,5 @@ chipotle (= a smoked jalapeño pepper used in cooking various dishes, esp. Mexic
 
 **Language-Change Index:** *chipotle* misspelled *\*chipolte*: Stage 1
 
- - Current ratio in print (*chipotle* vs. \**chipolte*): 1,323:1
+ - Current ratio in print (*chipotle* vs. *\*chipolte*): 1,323:1
 

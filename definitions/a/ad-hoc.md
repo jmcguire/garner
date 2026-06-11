@@ -8,7 +8,7 @@ Generally speaking, the phrases *on an ad hoc basis* and *in an ad hoc way* are 
 
 Attempts to condense the phrase into one word (e.g., *\*adhocking*) have failed and should be forgotten, and there is no need to hyphenate it. See phrasal adjectives (h).
 
-Finally, the misspelling \**ad hock*, dating from the 1970s, is a blunder that seems unlikely to spread much. Let us hope.
+Finally, the misspelling *\*ad hock*, dating from the 1970s, is a blunder that seems unlikely to spread much. Let us hope.
 
-**Language-Change Index:** *ad hoc* misspelled \**ad hock*: Stage 1 Current ratio in print (*ad hoc* vs. \**ad hock*): 5,643:1
+**Language-Change Index:** *ad hoc* misspelled *\*ad hock*: Stage 1 Current ratio in print (*ad hoc* vs. *\*ad hock*): 5,643:1
 

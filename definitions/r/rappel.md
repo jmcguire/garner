@@ -15,5 +15,5 @@ Because the verb is accented on the second syllable (/ra-**pel**/ or /rә-**pel*
 **Language-Change Index:**
 
  - *repel* misused for *rappel*: Stage 1
- - Current ratio in print (*rappelling down* vs. \**rapelling down*): 92:1
+ - Current ratio in print (*rappelling down* vs. *\*rapelling down*): 92:1
 

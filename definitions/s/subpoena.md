@@ -19,7 +19,7 @@ The modern use is as a noun. Even in medieval English practice, *subpoena* serve
 
 **D. *Subpoena*, v.t.** The inflected forms of this verb, which dates from the early 1600s, are *subpoenaed* and *subpoenaing.* The miscast forms *\*subpoened* and *\*subpoening* have appeared sporadically since the 1800s. The mistaken form *\*subpoenaeing* is a 20th-century American error. *\*Subpoena'd* is an old BrE past-tense variant that was never as common as the standard form *subpoenaed*.
 
- - Current ratio in print (*subpoenaed* vs. \**subpoened* vs. \**subpoena'd*): 474:1:1
+ - Current ratio in print (*subpoenaed* vs. *\*subpoened* vs. *\*subpoena'd*): 474:1:1
 
 **E. Pronunciation.** The word is pronounced /sә-**pee**-nә/ as both noun and verb.
 

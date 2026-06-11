@@ -40,7 +40,7 @@ Among the better-considered traditional views on the question are these:
 
 In print, the standard english expression is in less danger today than it was in the 1700s: *between you and me* occurs with much, much greater frequency. Regardless of what happens in speech, the erroneous form in print, for the time being, represents barely a blip on the screen.
 
-In a 2021 poll taken at a Cosmos Club event in Washington, D.C., 100% of those voting considered \**between you and I* unacceptable.
+In a 2021 poll taken at a Cosmos Club event in Washington, D.C., 100% of those voting considered *\*between you and I* unacceptable.
 
 **Language-Change Index:**
 
@@ -75,7 +75,7 @@ When you intend to refer to a range of possibilities from a low point to a high 
 
 Both logic and idiom require *and* in these constructions, not *or*. One chooses between things (plural), not a thing. *X or Y* is a thing; *X and Y* are things. Now, it's true that once you've chosen, you have either X or Y—so as a matter of prolepsis, some writers are tempted by the *or*. (See **prolepsis** \[p. 1234\].) But it makes no literal sense.
 
- - Current ratio in print (*choose between him and X* vs. \**choose between him or X*): 18:1
+ - Current ratio in print (*choose between him and X* vs. *\*choose between him or X*): 18:1
 
 **E. *Between*; *as between*.** Sometimes *as between* (= comparing; in comparison of) is misused for the straightforward preposition. E.g.: "The contractual provisions *as between* \[read *between*\] the parties are as follows." Cf. **as against**.
 

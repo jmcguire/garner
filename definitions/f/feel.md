@@ -6,7 +6,7 @@ feel.
 
 **B. For *think*.** *Feel* is a weak and informal substitute for *think*, *believe*, *maintain*, or *submit*. E.g.: "We *feel* \[read *believe*\] that the plan should be summarized in considerable detail." When the idea is phrased on an emotional rather than a cognitive level, the resulting sentence seems to minimize the amount of thought being reported—e.g.: "She *feels* \[read *thinks* or *believes*\] that crime prevention must start with helping small children find their way out of poverty and neglect, and that society's resources should go toward better education and housing, not more jails." Bob Cohn & Eleanor Clift, "The Contrary Voice of Janet Reno," *Newsweek*, 11 Oct. 1993, at 30.
 
-**C. *Feel bad*; *\*feel badly*.** When someone is sick or unhappy, that person feels *bad*—not *badly*. In this phrase, *feel* is a linking verb, which takes a predicate adjective instead of an adverb. In modern print sources, *feel bad* outnumbers \**feel badly* by a 16-to-1 margin. Although most professional writers know this point of usage, a few get it wrong—e.g.:
+**C. *Feel bad*; *\*feel badly*.** When someone is sick or unhappy, that person feels *bad*—not *badly*. In this phrase, *feel* is a linking verb, which takes a predicate adjective instead of an adverb. In modern print sources, *feel bad* outnumbers *\*feel badly* by a 16-to-1 margin. Although most professional writers know this point of usage, a few get it wrong—e.g.:
 
  - "Manager Dusty Baker's attention was divided. He felt *badly* \[read *bad*\] for Dunston and was depressed over a ninth-inning rally gone sour." Nick Peters, "Giants, Dunston Suffer a Blow," *Sacramento Bee*, 5 Aug. 1996, at D1.
 
@@ -18,7 +18,7 @@ Not to excuse these errors, but they may result from the misplaced fear that *fe
 
 But the same error crops up even with adjectives other than *bad*. Here it's *miserable*: "Every couple of years, the American Bar Association's monthly magazine publishes an article detailing how *miserably* \[read *miserable*\] many lawyers feel." Judson Hand, "Writer Judson Hand Signs Off from Column," *Asbury Park Press* (Neptune, N.J.), 27 Nov. 1997, at A33. See adjectives (e) & hypercorrection. Cf. **badly (a)**.
 
-In a 2021 poll at a Cosmos Club event in Washington, D.C., only 15% of those voting considered \**feel badly* to be standard english. The other voters rejected it.
+In a 2021 poll at a Cosmos Club event in Washington, D.C., only 15% of those voting considered *\*feel badly* to be standard english. The other voters rejected it.
 
 **Language-Change Index:**
 

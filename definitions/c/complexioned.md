@@ -1,6 +1,6 @@
 # complexioned
 
-complexioned; \***complected**. The first has been standard since the 1600s; the second, a 19th-century Americanism, has been a needless variant since it first appeared. Today, *complexioned* is much more common in print—e.g.:
+complexioned; **\*complected**. The first has been standard since the 1600s; the second, a 19th-century Americanism, has been a needless variant since it first appeared. Today, *complexioned* is much more common in print—e.g.:
 
  - "I had hoped to tease some comments from our big-boned, ruddy-*complexioned* tour guide, who stood in the middle of the gardens as if he were fixed to that dry landscape like a stubborn cactus." Chris Card Fuller, "Sailing into New Waters," *L.A. Times*, 24 Nov. 1996, at L8.
 

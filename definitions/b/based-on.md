@@ -34,7 +34,7 @@ And here it's a preposition (a dangler, to be exact):
 
 **Language-Change Index:** *based on* used adverbially in place of *because* or *because of*: Stage 4
 
-**B. And \**based off*.** Since about 2000, the phrase \**based off* (or \**based off of *) has surged in popularity. Not recorded in most dictionaries, the phrase is essentially equivalent to *based on* or *because of*—e.g.:
+**B. And *\*based off*.** Since about 2000, the phrase *\*based off* (or *\*based off of *) has surged in popularity. Not recorded in most dictionaries, the phrase is essentially equivalent to *based on* or *because of*—e.g.:
 
  - "*Based off of* \[read *Based on*\] post-high school accomplishments, Wandersee edged out state champion swimmers Lindquist and Hughes." Derek Clarkston, "Decade of Dominance," *Kodiak Mirror* (Alaska), 31 Dec. 2019, Sports § (explaining that Hannah Wandersee won "Female Athlete of the Decade" in her locale).
 
@@ -44,5 +44,5 @@ And here it's a preposition (a dangler, to be exact):
 
 Occasionally the phrasing is idiomatically justified, when you're saying that a business, for example, has its headquarters near a given road: "Covestro \[is\] a plastics manufacturer that is *based off* the Parkway West in Robinson." Paul J. Gough, "Stories That Helped Define Pittsburgh's Business in the 2010s," *Pitt. Bus. Times*, 31 Dec. 2019. But with this type of use, the word *based* simply appears alongside the preposition *off*; it's not really a phrase because *is based* could be replaced by *has its headquarters*.
 
-For more on the *of* in \**based off of*, see \***off of**.
+For more on the *of* in *\*based off of*, see **\*off of**.
 

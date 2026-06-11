@@ -1,6 +1,6 @@
 # catch fire
 
-catch fire; \***catch on fire**. The phrase *catch fire*, dating back to the Middle Ages, is much more common in print than *\*catch on fire*, a late-16th-century innovation that has hardly spread like wildfire. The word *on* is a needless particle—e.g.:
+catch fire; **\*catch on fire**. The phrase *catch fire*, dating back to the Middle Ages, is much more common in print than *\*catch on fire*, a late-16th-century innovation that has hardly spread like wildfire. The word *on* is a needless particle—e.g.:
 
  - "Tuesday night's lightning storms temporarily diverted attention for Piedmont when two power poles *caught on fire* \[read *caught fire*\] after lightning strikes." Duncan Murrell, "Power Crews See Light at End of Fran Outage," *Chapel Hill Herald*, 12 Sept. 1996, at 1.
 
@@ -10,5 +10,5 @@ catch fire; \***catch on fire**. The phrase *catch fire*, dating back to the Mid
 
 See phrasal verbs.
 
-**Language-Change Index:** *\*catch on fire* for *catch fire*: Stage 3 Current ratio in print (*catch fire* vs. \**catch on fire*): 6:1
+**Language-Change Index:** *\*catch on fire* for *catch fire*: Stage 3 Current ratio in print (*catch fire* vs. *\*catch on fire*): 6:1
 

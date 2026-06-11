@@ -22,5 +22,5 @@ Because a *consensus* is the collective unanimous opinion of several people, the
  - Current ratio in print (*the consensus was* vs. *\*the consensus of opinion was*): 22:1
 
 4. *consensus* misspelled *\*concensus*: Stage 1
- - Current ratio in print (*consensus* vs. \**concensus*): 876:1
+ - Current ratio in print (*consensus* vs. *\*concensus*): 876:1
 

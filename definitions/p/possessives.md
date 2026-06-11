@@ -82,7 +82,7 @@ Other reputable writers have likewise been thrown off—e.g.:
 
 **F. Names as Adjectives.** When a proper name is used as an adjective, it isn't a possessive and therefore doesn't take an apostrophe. Hence "the Cubs \[not *Cubs'*\] game is at 1:00 today." The following example incorrectly uses an apostrophe because the name *Fields* (referring to a single person) is being used adjectivally: "One source who attended the fundraiser said it generated at least $50,000 for the *Fields'* \[read *Fields*\] campaign." "Scuttlebutt," *Gambit* (New Orleans), 14 Nov. 1995, at 8. With a title instead of a name, the apostrophe would be needed \<the mayor's campaign\>.
 
- - Current ratio in print (*the Yankees game* vs. \**the Yankees' game*): 18:1
+ - Current ratio in print (*the Yankees game* vs. *\*the Yankees' game*): 18:1
 
 **G. Possessives of Names Made with Possessives.** It is common for businesses to be named with a proper single name in possessive form, such as *McDonald's*. Although possessive in form, these are functionally nouns, as in *McDonald's brings you a new kind of meal*. How, then, does one make a possessive of the noun *McDonald's*? Literally, it would be *McDonald's's*, as in *Try McDonald's's dinner combos\!* But good phrasing requires *the dinner combos at McDonald's*. It is also quite defensible to write *McDonald's dinner combos* (the name functioning as a kind of possessive) or *the McDonald's dinner combos* (the name functioning attributively).
 
@@ -110,8 +110,8 @@ As always, there are exceptions—two of them. With a compound such as *mother-i
 
 This usage was dealt a real setback in 2002 with the release of the hit movie *Two Weeks Notice* \[read *Two Weeks' Notice*\], starring Hugh Grant and Sandra Bullock. It might have been an even bigger hit if the good-usage crowd hadn't boycotted the movie on principle. Cf. *six months pregnant* under **pregnant**.
 
- - Current ratio in print (*years' imprisonment* vs. \**years imprisonment*): 3:1
- - Current ratio in print (*weeks' notice* vs. \**weeks notice*): 8:1
+ - Current ratio in print (*years' imprisonment* vs. *\*years imprisonment*): 3:1
+ - Current ratio in print (*weeks' notice* vs. *\*weeks notice*): 8:1
 
 **M. Titles of Books, Films, and the Like.** Do you say *Turabian's "A Manual for Writers"* or *Turabian's "Manual for Writers"*? That is, if you're introducing a title with a possessive, do you include an article (*A* or *The*) that begins the title? Including the article gets the full title of the book, but omitting it seems less stilted. Eric Partridge liked the former phrasing (*U&A* at 333); others prefer the latter (e.g., *Words into Type* 136 \[3d ed. 1974\]). In fact, though, either style is likely to bother some readers.
 
@@ -119,12 +119,12 @@ Kingsley Amis found a sensible approach: "Speakers of English understandably fee
 
  - Current ratio in print (*Burgess's A Clockwork Orange* vs. *Burgess's Clockwork Orange*): 14:1
 
-**N. *Goodness' sake* and *conscience' sake*.** The traditional view is that in the phrases *for goodness' sake* and *for conscience' sake*, no final *s* is added to the possessive. In practice, writers follow this exception with *goodness* but not with *conscience* (the prevalent form in AmE being the almost unpronounceable *conscience's sake*). The reason is probably that *for goodness' sake* is so common. In fact, 50% of the time in modern prose, writers omit the possessive altogether, making it \**for goodness sake*.
+**N. *Goodness' sake* and *conscience' sake*.** The traditional view is that in the phrases *for goodness' sake* and *for conscience' sake*, no final *s* is added to the possessive. In practice, writers follow this exception with *goodness* but not with *conscience* (the prevalent form in AmE being the almost unpronounceable *conscience's sake*). The reason is probably that *for goodness' sake* is so common. In fact, 50% of the time in modern prose, writers omit the possessive altogether, making it *\*for goodness sake*.
 
 The best course is probably to stick with the traditional forms so that they're parallel: *goodness' sake* and *conscience' sake*. See **conscience' sake**.
 
- - Current ratio in print (*goodness' sake* vs. \**goodness sake* vs. *goodness's sake*): 118:61:1
- - Current ratio in print (*conscience' sake* vs. \**conscience sake* vs. *conscience's sake*): 6:4:1
+ - Current ratio in print (*goodness' sake* vs. *\*goodness sake* vs. *goodness's sake*): 118:61:1
+ - Current ratio in print (*conscience' sake* vs. *\*conscience sake* vs. *conscience's sake*): 6:4:1
 
 **O. Fused Participles.** On the need for the possessive case before an *-ing* participle, see fused participles.
 

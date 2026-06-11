@@ -18,5 +18,5 @@ See illogic. See also **overweening**.
 
 **Language-Change Index:**
 
-\**weaned on* for *raised on*: Stage 2 Current ratio in print (*raised on a diet* vs. *\*weaned on a diet*): 12:1
+*\*weaned on* for *raised on*: Stage 2 Current ratio in print (*raised on a diet* vs. *\*weaned on a diet*): 12:1
 

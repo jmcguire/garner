@@ -11,5 +11,5 @@ The phrase *any money* can be a helpful mnemonic device for spelling, *an M on E
 **Language-Change Index:**
 
  - *anemone* misspelled *\*anenome*: Stage 1
- - Current ratio in print (*anemone* vs. \**anenome*): 303:1
+ - Current ratio in print (*anemone* vs. *\*anenome*): 303:1
 
