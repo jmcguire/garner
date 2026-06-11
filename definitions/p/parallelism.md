@@ -2,7 +2,9 @@
 
 Parallelism .
 
-**A. Generally.** *Parallelism*—the matching of sentence parts for logical balance, especially by using grammatically coordinate structures—helps satisfy every reader's innate craving for order and rhythm. In a list, for example, you might have noun \+ noun \+ noun, or verb \+ verb \+ verb, or adjective \+ adjective \+ adjective. By phrasing parallel ideas in parallel grammatical constructions, you show the reader how one idea relates to another. You supply correspondences. Stylists have long emphasized the importance of matching phrase to like phrase:
+## A. Generally
+
+*Parallelism*—the matching of sentence parts for logical balance, especially by using grammatically coordinate structures—helps satisfy every reader's innate craving for order and rhythm. In a list, for example, you might have noun \+ noun \+ noun, or verb \+ verb \+ verb, or adjective \+ adjective \+ adjective. By phrasing parallel ideas in parallel grammatical constructions, you show the reader how one idea relates to another. You supply correspondences. Stylists have long emphasized the importance of matching phrase to like phrase:
 
  - **1926:** "One of the first requisites for the writing of good clean sentences is to have acquired the art of enumeration, that is, of stringing together three or four words or phrases of identical grammatical value without going wrong." H.W. Fowler, *FMEU1* at 142.
 
@@ -14,7 +16,9 @@ Parallelism .
 
  - **2005:** "The use of parallel structures helps produce cohesion and coherence in a text. Aim for parallelism in sentences and in longer passages. The structures can be clauses or phrases." Ann Raimes, *Keys for Writers* 325 (4th ed. 2005).
 
-**B. Parts of Speech.** With correlative conjunctions and with lists (even short ones), noun should be matched with noun, adjective with adjective, adverb with adverb, etc. Avoid mixtures—e.g.:
+## B. Parts of Speech
+
+With correlative conjunctions and with lists (even short ones), noun should be matched with noun, adjective with adjective, adverb with adverb, etc. Avoid mixtures—e.g.:
 
  - "The poem is derivative, ceremonial, and *an elegy* \[read *elegiacal*\]." D.S. Brewer, *Chaucer* 44 (2d ed. 1960). (Another possible revision: *The poem is a derivative and ceremonial elegy.* The original list consisted of adjective \+ adjective \+ noun.)
 
@@ -26,7 +30,11 @@ Parallelism .
 
 A clear thinker presents lists logically so that grammatical and commonsense relationships are clear.
 
-**C. Phrases and Clauses.** One of the most common mistakes in falling into a nonparallel construction involves mixing phrases and clauses by introducing a verb late in the game. "Orthopedic surgeons study for four years in a college or university, four years in an orthopedic residency program and may have one optional year of specialized education." "Podiatry vs. Orthopedics," *USA Today*, 14 Apr. 2003, at D7. The writer follows two *four years* phrases with the clause *may have one optional year of specialized education*. Worse, the first two elements are objects of the shared preposition *for*, a job that the *may have* clause can't serve. A suggested revision: *Orthopedic surgeons study for four years in a college or university and four years in an orthopedic residency program; they may also have one optional year of specialized education.*
+## C. Phrases and Clauses
 
-**D. Content.** To the true stylist, mere grammatical parallelism isn't enough: the grammar should match the ideas. That is, you should strive for notional parallelism. It seems obvious that you shouldn't say that someone is *hungry, tall, and Italian*. But subtler problems arise: "The poetic opening stiffens, dreamily relaxes, then mightily reclenches: an instability of mood and texture both *symptomatic* of the mature Schubert and *disorienting* to generations of frustrated admirers, beginning with Robert Schumann." Joseph Horowitz, "A Symphony Is Where You Find It," *N.Y. Times*, 24 May 1992, § 2, at 1. Although both *symptomatic* and *disorienting* begin adjective phrases, the ideas expressed aren't coordinate. A possible revision: *The poetic opening stiffens, dreamily relaxes, and then mightily reclenches. The instability of mood and texture—symptomatic of the mature Schubert—has been disorienting to generations of frustrated admirers, beginning with Robert Schumann.* The revision subordinates one phrase (*symptomatic*) to the other (*disorienting*), so that frustrated readers themselves aren't disoriented by writing that is symptomatically unparallel.
+One of the most common mistakes in falling into a nonparallel construction involves mixing phrases and clauses by introducing a verb late in the game. "Orthopedic surgeons study for four years in a college or university, four years in an orthopedic residency program and may have one optional year of specialized education." "Podiatry vs. Orthopedics," *USA Today*, 14 Apr. 2003, at D7. The writer follows two *four years* phrases with the clause *may have one optional year of specialized education*. Worse, the first two elements are objects of the shared preposition *for*, a job that the *may have* clause can't serve. A suggested revision: *Orthopedic surgeons study for four years in a college or university and four years in an orthopedic residency program; they may also have one optional year of specialized education.*
+
+## D. Content
+
+To the true stylist, mere grammatical parallelism isn't enough: the grammar should match the ideas. That is, you should strive for notional parallelism. It seems obvious that you shouldn't say that someone is *hungry, tall, and Italian*. But subtler problems arise: "The poetic opening stiffens, dreamily relaxes, then mightily reclenches: an instability of mood and texture both *symptomatic* of the mature Schubert and *disorienting* to generations of frustrated admirers, beginning with Robert Schumann." Joseph Horowitz, "A Symphony Is Where You Find It," *N.Y. Times*, 24 May 1992, § 2, at 1. Although both *symptomatic* and *disorienting* begin adjective phrases, the ideas expressed aren't coordinate. A possible revision: *The poetic opening stiffens, dreamily relaxes, and then mightily reclenches. The instability of mood and texture—symptomatic of the mature Schubert—has been disorienting to generations of frustrated admirers, beginning with Robert Schumann.* The revision subordinates one phrase (*symptomatic*) to the other (*disorienting*), so that frustrated readers themselves aren't disoriented by writing that is symptomatically unparallel.
 

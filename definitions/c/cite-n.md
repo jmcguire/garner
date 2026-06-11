@@ -6,7 +6,9 @@ cite, n. **A. As a Casualism for *citation*.** Using *cite* as a noun—in place
 
  - Current ratio in print (*these citations* vs. *these cites*): 45:1
 
-**B. For *site*.** *Cite* shouldn't be confused with *site* (= a location or place)—e.g.:
+## B. For *site*
+
+*Cite* shouldn't be confused with *site* (= a location or place)—e.g.:
 
  - "The city is looking at several *cites* \[read *sites*\] for a new business center." John Gallant, "A Magic Beginning for Center," *Las Vegas Rev.-J.*, 6 Jan. 1994, at B1.
 

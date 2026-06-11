@@ -2,7 +2,9 @@
 
 Danglers .
 
-**A. Generally.** So-called danglers are ordinarily unattached participles—either present participles (ending in *-ing*) or past participles (ending usually in *-ed*)—that do not relate syntactically to the nouns they are supposed to modify. That is, when the antecedent of a participle doesn't appear where it logically should, the participle is said to "dangle"—e.g.: "*Watching* from the ground below, the birds flew ever higher until they disappeared." In effect, the participle tries to sever its relationship with its noun or pronoun and thus to become functionally a preposition. Gerunds may also dangle precariously—e.g.: "By *watching* closely, the birds became visible." (See (d).) Usually, recasting the sentence will remedy the ambiguity, illogic, or incoherence: "Watching from the ground below, we saw the birds fly higher until they disappeared." / "By watching closely, we were able to see the birds."
+## A. Generally
+
+So-called danglers are ordinarily unattached participles—either present participles (ending in *-ing*) or past participles (ending usually in *-ed*)—that do not relate syntactically to the nouns they are supposed to modify. That is, when the antecedent of a participle doesn't appear where it logically should, the participle is said to "dangle"—e.g.: "*Watching* from the ground below, the birds flew ever higher until they disappeared." In effect, the participle tries to sever its relationship with its noun or pronoun and thus to become functionally a preposition. Gerunds may also dangle precariously—e.g.: "By *watching* closely, the birds became visible." (See (d).) Usually, recasting the sentence will remedy the ambiguity, illogic, or incoherence: "Watching from the ground below, we saw the birds fly higher until they disappeared." / "By watching closely, we were able to see the birds."
 
 Most danglers are faulty. In the normal word order, a participial phrase beginning a sentence ("Walking down the street,") should be directly followed by the noun acting as subject in the main clause ("I saw the house"). When that word order is changed, as by changing the verb in the main clause to the passive voice, the sentence becomes illogical or misleading: "Walking down the street, the house was seen." It was not the house that was walking, but the speaker.
 
@@ -30,7 +32,9 @@ All this has led one commentator to suggest that danglers are minor errors: "The
 
  - **1992:** "Failures to look ahead and consider the grammatical compatibility of the following clause are exceedingly common, especially in unscripted speech." Robert W. Burchfield, *Points of View* 93 (1992).
 
-**B. Present-Participial Danglers.** In the sentences that follow, mispositioned words have caused grammatical blunders. The classic example occurs when the wrong noun begins the main clause—that is, a noun other than the one expected by the reader after digesting the introductory participial phrase. E.g.: "The newspaper said that *before being treated* for their injuries, *General Mladic* forced them to visit the wards of wounded at the Pale hospital, telling them, ‘here's what you have done' and ‘you have also killed children.' " Marlise Simons, "Report Says Serbs Tormented 2 French Pilots," *N.Y. Times*, 29 Dec. 1995, at A5. That wording has General Mladic being treated for others' injuries. Hence danglers reflect a type of bad thinking. See illogic (c).
+## B. Present-Participial Danglers
+
+In the sentences that follow, mispositioned words have caused grammatical blunders. The classic example occurs when the wrong noun begins the main clause—that is, a noun other than the one expected by the reader after digesting the introductory participial phrase. E.g.: "The newspaper said that *before being treated* for their injuries, *General Mladic* forced them to visit the wards of wounded at the Pale hospital, telling them, ‘here's what you have done' and ‘you have also killed children.' " Marlise Simons, "Report Says Serbs Tormented 2 French Pilots," *N.Y. Times*, 29 Dec. 1995, at A5. That wording has General Mladic being treated for others' injuries. Hence danglers reflect a type of bad thinking. See illogic (c).
 
 Another manifestation of this error is to begin the main clause with an expletive (e.g., *it* or *there*) after an introductory participial phrase:
 
@@ -42,15 +46,21 @@ Another manifestation of this error is to begin the main clause with an expletiv
 
 As in that last example, danglers occurring after an introductory word are just as bad as others but are harder for the untrained eye to spot—e.g.: "I have always found John Redwood thoughtful, intelligent and rather convivial. I sincerely hope that we can remain friends after the dust has settled. He has conducted a skilled campaign. Yet, *being* a thoughtful man, I suspect that in his heart of hearts he wishes some of his supporters . . . would just disappear." Jerry Hayes, "A White-Knuckle Ride I Cannot Join," *Independent*, 30 June 1995, at 21. (The writer here seems to attest to his own thoughtfulness. A possible revision: *Yet because he is a thoughtful man, I suspect that in his heart of hearts he wishes . . . .* Or: *Yet I suspect that, because he is a thoughtful man, in his heart of hearts he wishes . . . .*)
 
-**C. Past-Participial Danglers.** These are especially common when the main clause begins with a possessive—e.g.: "*Born* on March 12, 1944, in Dalton, Georgia, Larry Lee Simms's qualifications . . . ." Barbara H. Craig, *Chadha: The Story of an Epic Constitutional Struggle* 79 (1988). (Simms's qualifications were not born on March 12—*he* was. A possible revision: *Born on March 12, 1944, in Dalton, Georgia, Larry Lee Simms had qualifications that . . . .*)
+## C. Past-Participial Danglers
 
-**D. Dangling Gerunds.** These are close allies to dangling participles, but here the participle acts as a noun rather than as an adjective when it is the object of a preposition:
+These are especially common when the main clause begins with a possessive—e.g.: "*Born* on March 12, 1944, in Dalton, Georgia, Larry Lee Simms's qualifications . . . ." Barbara H. Craig, *Chadha: The Story of an Epic Constitutional Struggle* 79 (1988). (Simms's qualifications were not born on March 12—*he* was. A possible revision: *Born on March 12, 1944, in Dalton, Georgia, Larry Lee Simms had qualifications that . . . .*)
+
+## D. Dangling Gerunds
+
+These are close allies to dangling participles, but here the participle acts as a noun rather than as an adjective when it is the object of a preposition:
 
  - "*By instead examining* the multigenerational ethnic group, *it* becomes clear that the Irish had fully adjusted to American society by the time of the First World War." Michael Cottrell, Book Rev., *Canadian Hist. Rev.*, Sept. 1994, at 453. (A possible revision: *By instead examining the multigenerational ethnic group, we see that the Irish . . . .*)
 
  - "*Without belaboring* the point, *the central premise* of this article is that the average pharmacist, preparing myriad prescriptions each day, does not have the time to provide \[Clinical Pharmacy Services\]." Matthew M. Murawski, "Introduction to Personnel Management," *Drug Topics*, 10 June 1996, at 170. (A possible revision: *In brief, the central premise of this article . . . .*)
 
-**E. Acceptable Danglers, or Disguised Conjunctions.** Any number of present participles have been used as conjunctions or prepositions for so long (many since the 1500s) that they have lost the participial duty of modifying specific nouns. In effect, the clauses they introduce are adverbial, standing apart from and commenting on the content of the sentence. Among the commonest of these are *according*, *assuming*, *barring*, *concerning*, *considering*, *given*, *judging*, *owing to*, *regarding*, *respecting*, *speaking*, *taking* (usu. *account of*, *into account*). Thus:
+## E. Acceptable Danglers, or Disguised Conjunctions
+
+Any number of present participles have been used as conjunctions or prepositions for so long (many since the 1500s) that they have lost the participial duty of modifying specific nouns. In effect, the clauses they introduce are adverbial, standing apart from and commenting on the content of the sentence. Among the commonest of these are *according*, *assuming*, *barring*, *concerning*, *considering*, *given*, *judging*, *owing to*, *regarding*, *respecting*, *speaking*, *taking* (usu. *account of*, *into account*). Thus:
 
  - "Horticulturally *speaking*, the best way to prune the tree is probably to remove some of the lowest branches by cutting them off at the trunk." Mary Robson, "Pine Needles Won't Harm," *Seattle Times*, 14 Aug. 1994, at G3.
 
@@ -60,7 +70,9 @@ As in that last example, danglers occurring after an introductory word are just 
 
 For an arguable example, see **except (b)**.
 
-**F. Ending Sentences with Danglers.** Traditionally, grammarians frowned on *all* danglers, but during the 20th century they generally loosened the strictures for a participial construction at the end of a sentence. Some early-20th-century grammarians might have disapproved, but sentences such as the following have long been considered acceptable:
+## F. Ending Sentences with Danglers
+
+Traditionally, grammarians frowned on *all* danglers, but during the 20th century they generally loosened the strictures for a participial construction at the end of a sentence. Some early-20th-century grammarians might have disapproved, but sentences such as the following have long been considered acceptable:
 
  - "Sarah stepped to the door, looking for her friend."
 

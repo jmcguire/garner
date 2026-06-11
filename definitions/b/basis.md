@@ -2,7 +2,9 @@
 
 basis.
 
-**A. In Wordy Constructions.** The word *basis* often signals verbosity in adverbial constructions such as *on a daily basis* and *on a regular basis*, where a simple adverb would serve better—e.g.:
+## A. In Wordy Constructions
+
+The word *basis* often signals verbosity in adverbial constructions such as *on a daily basis* and *on a regular basis*, where a simple adverb would serve better—e.g.:
 
  - "Each one is tremendously important to me *on a personal and professional basis* \[read *both personally and professionally*\]." Zig Ziglar, *Ziglar on Selling* 15 (1991).
 
@@ -12,5 +14,7 @@ basis.
 
 See flotsam phrases. For *on a pro rata basis*, see **pro rata**.
 
-**B. Plural Form.** The plural of *basis*, as well as of *base*, is *bases*. The pronunciations differ, however: for *basis*, the plural is pronounced /**bay**-seez/; for *base*, /**bays**-iz/.
+## B. Plural Form
+
+The plural of *basis*, as well as of *base*, is *bases*. The pronunciations differ, however: for *basis*, the plural is pronounced /**bay**-seez/; for *base*, /**bays**-iz/.
 

@@ -2,7 +2,9 @@
 
 Illogic .
 
-**A. Generally.** The writer on language who would dare drag logic into the discussion must do so warily. For centuries, grammarians labored under the mistaken belief that grammar is nothing but applied logic and therefore tried to rid languages of everything illogical. But to paraphrase Justice Oliver Wendell Holmes, the life of the language has not been logic: it has been experience.
+## A. Generally
+
+The writer on language who would dare drag logic into the discussion must do so warily. For centuries, grammarians labored under the mistaken belief that grammar is nothing but applied logic and therefore tried to rid languages of everything illogical. But to paraphrase Justice Oliver Wendell Holmes, the life of the language has not been logic: it has been experience.
 
 No serious student believes anymore that grammatical distinctions necessarily reflect logical ones. Our language is full of idioms that defy logic, many of them literary and many colloquial. We should not, for example, fret over the synonymy of *fat chance* and *slim chance*, *burn up* and *burn down*, or *miss* and *near miss*. We should instead smile at the playful genius of the language. Applying "linguistic logic" to established ways of saying things is a misconceived effort.
 
@@ -14,7 +16,9 @@ The exercise will tighten your prose. Since idiom does not yet prefer *\*could c
 
 Logic promotes clear thinking. To avoid the ills catalogued below, consider closely how your words and sentences relate to one another.
 
-**B. Illogical Comparison.** This lapse occurs commonly in locutions such as *\*as large if not larger than*, which, when telescoped, becomes *\*as large than*; properly, one writes *as large as if not larger than*. (See cannibalism.) Similar problems occur with classes of things. For example, when members of classes are being compared, a word such as *other* must be used to restrict the class: "Representative democracy is better than any \[other\] political system in the world."
+## B. Illogical Comparison
+
+This lapse occurs commonly in locutions such as *\*as large if not larger than*, which, when telescoped, becomes *\*as large than*; properly, one writes *as large as if not larger than*. (See cannibalism.) Similar problems occur with classes of things. For example, when members of classes are being compared, a word such as *other* must be used to restrict the class: "Representative democracy is better than any \[other\] political system in the world."
 
 Another problem of comparison occurs when the writer forgets the point of reference in the comparison:
 
@@ -28,11 +32,15 @@ Another problem of comparison occurs when the writer forgets the point of refere
 
 For related issues, see **best of all**, **better than any (other)**, **everyone . . . not, every other (a)** & **vice versa**.
 
-**C. Danglers and Misplaced Modifiers.** Every dangler or misplaced modifier perverts logic to some degree, sometimes humorously—e.g.: "I saw the Statue of Liberty flying into Newark." To avoid these disruptions of thought, remember that a participle should relate to a noun that is truly capable of performing the participle's action. Another example: "The 1993 law, which was invalidated before it went into effect, required pregnant teenagers or their doctors to notify a parent or guardian at least 48 hours before undergoing abortions." Aaron Epstein, "High Court Leaves Intact Abortion Rule," *Amarillo Daily News*, 30 Apr. 1996, at A1. Who is getting abortions? This sentence literally suggests that some doctors are getting abortions and that they must notify their parents first.
+## C. Danglers and Misplaced Modifiers
+
+Every dangler or misplaced modifier perverts logic to some degree, sometimes humorously—e.g.: "I saw the Statue of Liberty flying into Newark." To avoid these disruptions of thought, remember that a participle should relate to a noun that is truly capable of performing the participle's action. Another example: "The 1993 law, which was invalidated before it went into effect, required pregnant teenagers or their doctors to notify a parent or guardian at least 48 hours before undergoing abortions." Aaron Epstein, "High Court Leaves Intact Abortion Rule," *Amarillo Daily News*, 30 Apr. 1996, at A1. Who is getting abortions? This sentence literally suggests that some doctors are getting abortions and that they must notify their parents first.
 
 For a fuller discussion of these matters, see danglers & miscues (b).
 
-**D. The Disjointed Appositive.** Phrases intended to be in apposition shouldn't be separated—e.g.:
+## D. The Disjointed Appositive
+
+Phrases intended to be in apposition shouldn't be separated—e.g.:
 
  - "A respected English legal authority on the common law, the view of William Blackstone permeated much of the early thinking on freedom of expression." John Murray, *The Media Law Dictionary* 11 (1978). (Blackstone himself, not Blackstone's *view*, is the respected authority.)
 
@@ -40,11 +48,17 @@ For a fuller discussion of these matters, see danglers & miscues (b).
 
 See appositives & miscues (b).
 
-**E. Mistaken Subject of a Prepositional Phrase.** This problem crops up usually when a word or phrase intervenes between the noun and the prepositional phrase referring to that noun. Often, as in the example below, the noun (*school bus*) functions as an adjective: "*Wallin was the school bus driver in which* \[read *Wallin was driving the school bus in which*\] Hillman and Ellington and Kleven were passengers." Cf. remote relatives.
+## E. Mistaken Subject of a Prepositional Phrase
 
-**F. Poor Exposition of Sequence.** Don't ask your readers to assume what is not logically possible by your very assumptions—e.g.: "The twin-engine turbo prop Merlin Fairchild 300 carrying driver Alan Kulwicki and three other men suddenly dropped off the radar screen and crashed *shortly before landing*." Karen Allen & Erik Brady, "Motor Sports," *USA Today*, 5 Apr. 1993, at C9. (The plane crashed before it would have landed, but as it happened the plane never did land in any normal sense of the word. And if you take the crash itself as a landing, the logic of the temporal sequence is absurd.)
+This problem crops up usually when a word or phrase intervenes between the noun and the prepositional phrase referring to that noun. Often, as in the example below, the noun (*school bus*) functions as an adjective: "*Wallin was the school bus driver in which* \[read *Wallin was driving the school bus in which*\] Hillman and Ellington and Kleven were passengers." Cf. remote relatives.
 
-**G. *\*Times less than*.** Brand Y may cost twice as much as Brand X, but that doesn't mean Brand X is twice as cheap as Brand Y. Farburg may be two times as far away as Nearville, but that doesn't mean Nearville is two times closer than Farburg. Big Dog may be twice the size of Little Dog, but that doesn't mean Little Dog is two times smaller than Big Dog.
+## F. Poor Exposition of Sequence
+
+Don't ask your readers to assume what is not logically possible by your very assumptions—e.g.: "The twin-engine turbo prop Merlin Fairchild 300 carrying driver Alan Kulwicki and three other men suddenly dropped off the radar screen and crashed *shortly before landing*." Karen Allen & Erik Brady, "Motor Sports," *USA Today*, 5 Apr. 1993, at C9. (The plane crashed before it would have landed, but as it happened the plane never did land in any normal sense of the word. And if you take the crash itself as a landing, the logic of the temporal sequence is absurd.)
+
+## G. *\*Times less than*
+
+Brand Y may cost twice as much as Brand X, but that doesn't mean Brand X is twice as cheap as Brand Y. Farburg may be two times as far away as Nearville, but that doesn't mean Nearville is two times closer than Farburg. Big Dog may be twice the size of Little Dog, but that doesn't mean Little Dog is two times smaller than Big Dog.
 
 *One time* is 100% of the cost, distance, size, or any other measure. If you take away "one time" something, you've taken away all there is. If you walk toward me and cover all the distance, you can't get any closer—you can't be twice as close as you were before. If the price is discounted *one time* or 100%, the item is free. *\*Two times cheaper*, if it means anything, might imply that the store will pay *you* the full price of Brand Y if you will take Brand X home with you. That mangles the meaning of *cost*, and it surely isn't what the writer means.
 
@@ -56,7 +70,11 @@ What does the writer mean? Probably "half," but who can say for sure? Yet despit
 
  - "States were further required to limit soot from power plants, cars and other sources to 2.5 microns, or *28 times smaller than* \[who can be sure what this means?\] the width of a human hair." "EPA's Tougher Clean Air Rules Cloud the Michigan Economy," *Detroit News*, 5 Apr. 2001, at 2.
 
-**H. *\*Times more than*.** A problem similar to but far less egregious than the illogic of *\*times less than* comes up when we say that X is *\*two times more than* Y. The common understanding is that if Y is 1, then X is 2. But strictly speaking, one *time more* than Y could also be 2, because *more* implies that the result of 1-times-X is added to X to arrive at Y. The more precise and unambiguous wording is "X is two times as much as Y."
+## H. *\*Times more than*
 
-**I. Miscellaneous Other Examples.** For various other brands of poor thinking, see adjectives (b), **all (d)**, **between (f)**, **contiguous**, **every other (a)**, **\*ex-felon**, **\*least worst**, **much less**, **much-needed**, **same (c)**, **temperature (b)**, **\*these kind of**, **underestimate**, **\*up to —— off and more**, **wean**, **within**, **\*without scarcely** & **yet (b)**.
+A problem similar to but far less egregious than the illogic of *\*times less than* comes up when we say that X is *\*two times more than* Y. The common understanding is that if Y is 1, then X is 2. But strictly speaking, one *time more* than Y could also be 2, because *more* implies that the result of 1-times-X is added to X to arrive at Y. The more precise and unambiguous wording is "X is two times as much as Y."
+
+## I. Miscellaneous Other Examples
+
+For various other brands of poor thinking, see adjectives (b), **all (d)**, **between (f)**, **contiguous**, **every other (a)**, **\*ex-felon**, **\*least worst**, **much less**, **much-needed**, **same (c)**, **temperature (b)**, **\*these kind of**, **underestimate**, **\*up to —— off and more**, **wean**, **within**, **\*without scarcely** & **yet (b)**.
 

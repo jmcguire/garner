@@ -2,7 +2,9 @@
 
 based on.
 
-**A. Generally.** This phrase has two good and two bad uses. First, the phrase may carry a verbal force (*base* being a transitive verb)—e.g.:
+## A. Generally
+
+This phrase has two good and two bad uses. First, the phrase may carry a verbal force (*base* being a transitive verb)—e.g.:
 
  - "She said she *based* her ruling *on* Xiong's allegations." Len Armstrong et al., "Cops and Confessions," *Chicago Trib.*, 16 Dec. 2001, at 1.
 
@@ -34,7 +36,9 @@ And here it's a preposition (a dangler, to be exact):
 
 **Language-Change Index:** *based on* used adverbially in place of *because* or *because of*: Stage 4
 
-**B. And *\*based off*.** Since about 2000, the phrase *\*based off* (or *\*based off of *) has surged in popularity. Not recorded in most dictionaries, the phrase is essentially equivalent to *based on* or *because of*—e.g.:
+## B. And *\*based off*
+
+Since about 2000, the phrase *\*based off* (or *\*based off of *) has surged in popularity. Not recorded in most dictionaries, the phrase is essentially equivalent to *based on* or *because of*—e.g.:
 
  - "*Based off of* \[read *Based on*\] post-high school accomplishments, Wandersee edged out state champion swimmers Lindquist and Hughes." Derek Clarkston, "Decade of Dominance," *Kodiak Mirror* (Alaska), 31 Dec. 2019, Sports § (explaining that Hannah Wandersee won "Female Athlete of the Decade" in her locale).
 

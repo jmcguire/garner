@@ -2,13 +2,19 @@
 
 paradigm.
 
-**A. Sense.** *Paradigm* = (1) an example, pattern; (2) a pattern of grammatical changes within a language; (3) a theoretical framework; or (4) a prevailing attitude, esp. within education or scholarship.
+## A. Sense
 
-**B. Plural.** The preferred plural is *paradigms*, as opposed to *\*paradigmata*. See plurals (b).
+*Paradigm* = (1) an example, pattern; (2) a pattern of grammatical changes within a language; (3) a theoretical framework; or (4) a prevailing attitude, esp. within education or scholarship.
+
+## B. Plural
+
+The preferred plural is *paradigms*, as opposed to *\*paradigmata*. See plurals (b).
 
  - Current ratio in print (*paradigms* vs. *\*paradigmata*): 3,068:1
 
-**C. For *paragon*.** The term *paragon* (= a model of perfection) is sometimes displaced by *paradigm*, especially in the phrase *paragon of virtue*—e.g.:
+## C. For *paragon*
+
+The term *paragon* (= a model of perfection) is sometimes displaced by *paradigm*, especially in the phrase *paragon of virtue*—e.g.:
 
  - "Mr. McCain, once regarded as a *paradigm* \[read *paragon*\] of virtue and accessibility by many in the media who follow him, also is facing criticism." Ralph Z. Hallow, "McCain's Shining Star Dims Republicans," *Wash. Times*, 11 Jan. 2000, at A1.
 
@@ -18,7 +24,9 @@ paradigm.
 
  - Current ratio in print (*paragon of virtue* vs. *\*paradigm of virtue*): 21:1
 
-**D. Pronunciation.** *Paradigm* is pronounced /**pa**-rә-dīm/—though it was /**pa**-rә-dim/ in both AmE and BrE through the early 20th century. The adjective *paradigmatic* is /pa-rә-dig-**mat**-ik/.
+## D. Pronunciation
+
+*Paradigm* is pronounced /**pa**-rә-dīm/—though it was /**pa**-rә-dim/ in both AmE and BrE through the early 20th century. The adjective *paradigmatic* is /pa-rә-dig-**mat**-ik/.
 
 **Language-Change Index:** *paradigm* misused for *paragon*: Stage 1
 

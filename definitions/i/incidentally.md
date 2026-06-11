@@ -2,7 +2,9 @@
 
 incidentally.
 
-**A. Generally.** This sentence adverb commonly introduces casual asides and minor digressions—e.g.:
+## A. Generally
+
+This sentence adverb commonly introduces casual asides and minor digressions—e.g.:
 
  - "The dictionary says a schmuck is a person who is ‘clumsy or stupid; an oaf.' (*Incidentally*, there are four people named Oaf with phone listings.)" Mike Royko, "Downloading Some Lowdown Computer Statistics," *Houston Chron.*, 20 Jan. 1995, Houston §, at 2.
 
@@ -10,7 +12,9 @@ incidentally.
 
 H.W. Fowler's observation, though too harsh, still holds a kernel of truth: "those who find it most useful are not the best writers" (*FMEU1* at 264). See adverbs (f).
 
-**B. And *incidently*.** *Incidentally* means "loosely, casually" or "by the way." *Incidently* (a rare word that the *OED* labels obsolete) means "so as to be incident to or resultant from; so as to depend on or appertain to something else." The most common mistake with these words is to misspell *incidentally*, no doubt because of the pronunciation—e.g.:
+## B. And *incidently*
+
+*Incidentally* means "loosely, casually" or "by the way." *Incidently* (a rare word that the *OED* labels obsolete) means "so as to be incident to or resultant from; so as to depend on or appertain to something else." The most common mistake with these words is to misspell *incidentally*, no doubt because of the pronunciation—e.g.:
 
  - "*Incidently* \[read *Incidentally*\], her openness is an indicator of the good quality of your relationship with her as well." Sylvia B. Rimmq, "Parents Sleeping Nude Shouldn't Bother Child," *Plain Dealer* (Cleveland), 18 Jan. 1997, at E2.
 

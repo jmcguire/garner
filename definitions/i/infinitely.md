@@ -2,7 +2,9 @@
 
 infinitely.
 
-**A. And *eminently*.** *Infinitely* (= endlessly, limitlessly) for *eminently* (= to a high degree) is either gross overstatement or a malapropism. It's a surprising error even in our hyperbole-ridden culture—e.g.:
+## A. And *eminently*
+
+*Infinitely* (= endlessly, limitlessly) for *eminently* (= to a high degree) is either gross overstatement or a malapropism. It's a surprising error even in our hyperbole-ridden culture—e.g.:
 
  - "The voice is quite pleasant, really. Low, well-modulated and *infinitely* \[read *eminently*\] reasonable, it is the voice of a good person." Karla Peterson, "Sandra Bernhard: Shocking Ms. B. Has Her Warm and Comfy Side," *San Diego Union-Trib.*, 23 June 1994, Entertainment §, at 11.
 
@@ -15,7 +17,9 @@ infinitely.
  - *infinitely* misused for *eminently*: Stage 1
  - Current ratio in print (*eminently successful* vs. *\*infinitely successful*): 130:1
 
-**B. And Comparatives.** When *infinitely* modifies a comparative adjective or adverb, the result is almost always either illogical or ineptly hyperbolic—e.g.:
+## B. And Comparatives
+
+When *infinitely* modifies a comparative adjective or adverb, the result is almost always either illogical or ineptly hyperbolic—e.g.:
 
  - "Barron, a game-fowl breeder who has about 200 roosters, said the average gamecock lives a lot longer than the average broiler chicken and agrees with Rubio that their game birds are *infinitely* \[read *far*\] better cared for." Stella Davis, "Fighting Fowl," *Santa Fe New Mexican*, 30 Nov. 2002, at B1.
 

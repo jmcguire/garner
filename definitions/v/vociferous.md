@@ -2,7 +2,9 @@
 
 vociferous.
 
-**A. And *voracious*.** A *vociferous* person is loud, noisy, and clamorous; a *vociferous* crowd is characterized by unrestrained yelling. A *voracious* person or animal, meanwhile, devours food ravenously; a *voracious* reader has an insatiable desire for books, magazines, and other reading materials. In short, although the two words appear similar, they apply to very different types of behavior.
+## A. And *voracious*
+
+A *vociferous* person is loud, noisy, and clamorous; a *vociferous* crowd is characterized by unrestrained yelling. A *voracious* person or animal, meanwhile, devours food ravenously; a *voracious* reader has an insatiable desire for books, magazines, and other reading materials. In short, although the two words appear similar, they apply to very different types of behavior.
 
 Through word-swapping, they get confounded. *Vociferous* is sometimes misused for *voracious*—e.g.:
 
@@ -25,7 +27,9 @@ The opposite error is somewhat less common—e.g.:
 
 2. *voracious* misused for *vociferous*: Stage 1
 
-**B. And *\*vociferant*.** *Vociferous* (in the sense given in (a)) has always (since the 1700s) been the standard term; *\*vociferant* is a needless variant.
+## B. And *\*vociferant*
+
+*Vociferous* (in the sense given in (a)) has always (since the 1700s) been the standard term; *\*vociferant* is a needless variant.
 
  - Current ratio in print (*vociferous* vs. *\*vociferant*): 752:1
 

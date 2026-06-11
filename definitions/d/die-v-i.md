@@ -2,7 +2,9 @@
 
 die, v.i.
 
-**A. Preposition with.** *Die of* (= to die as a result of \[a disease or ailment\]) is the standard idiom. *Die from* is also common, especially when the death results from physical trauma \<died from injuries received in a traffic accident\>. *Die with* is nonstandard—e.g.: "And I felt them two years ago, holding me up and keeping me strong at the memorial service after his dad *died with* \[read *died of*\] cancer." Sharon Randall, "Memories," *Topeka Capital-J.*, 19 Sept. 2000, at C1.
+## A. Preposition with
+
+*Die of* (= to die as a result of \[a disease or ailment\]) is the standard idiom. *Die from* is also common, especially when the death results from physical trauma \<died from injuries received in a traffic accident\>. *Die with* is nonstandard—e.g.: "And I felt them two years ago, holding me up and keeping me strong at the memorial service after his dad *died with* \[read *died of*\] cancer." Sharon Randall, "Memories," *Topeka Capital-J.*, 19 Sept. 2000, at C1.
 
 Even so, *die with* *AIDS* is not uncommon. One doesn't die of AIDS; it weakens the immune system so much that you die of something else. Yet *died of AIDS* is far more common in print than *died with AIDS.*
 
@@ -11,7 +13,9 @@ Even so, *die with* *AIDS* is not uncommon. One doesn't die of AIDS; it weakens 
  - *die with* misused for *die of*: Stage 2
  - Current ratio in print (*died of* vs. *died with*): 6:1
 
-**B. And *dye*, v.t.** The verb *dye* (= tint or treat with a coloring agent) is sometimes mistakenly written *die*—e.g.:
+## B. And *dye*, v.t
+
+The verb *dye* (= tint or treat with a coloring agent) is sometimes mistakenly written *die*—e.g.:
 
  - "Berwyn's Martinez (29–2), who *died* \[read *dyed*\] his hair bright green before the bout, scored his 16th knockout." Larry Hamel, "Martinez Beats Nunez in TKO," *Chicago Sun-Times*, 15 Nov. 1998, Sports §, at 14.
 
@@ -23,5 +27,7 @@ See **dying**.
 
 **Language-Change Index:** *die* misused for *dye*: Stage 1
 
-**C. *Die off*.** See phrasal verbs.
+## C. *Die off*
+
+See phrasal verbs.
 

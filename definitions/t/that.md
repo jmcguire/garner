@@ -2,7 +2,9 @@
 
 that.
 
-**A. And *which*.** You'll encounter two schools of thought on this point. First are those who don't care about any distinction between these words as relative pronouns, who think that *which* is more formal than *that*, and who point to many historical examples of copious *which*es. They say that modern usage is a muddle. Second are those who insist that both words have useful functions that ought to be separated, and who observe the distinction rigorously in their own writing. They view departures from this distinction as "mistakes."
+## A. And *which*
+
+You'll encounter two schools of thought on this point. First are those who don't care about any distinction between these words as relative pronouns, who think that *which* is more formal than *that*, and who point to many historical examples of copious *which*es. They say that modern usage is a muddle. Second are those who insist that both words have useful functions that ought to be separated, and who observe the distinction rigorously in their own writing. They view departures from this distinction as "mistakes."
 
 Before reading any further, you ought to know something more about these two groups: those in the first probably don't write very well; those in the second just might.
 
@@ -80,7 +82,9 @@ Some writers defend the restrictive *which* when there's a *that* nearby, as can
 
 **Language-Change Index:** *which* used with restrictive clauses: Stage 4
 
-**B. And *who.*** People often ask whether, as a relative pronoun, *that* is permitted to refer to people as well as things. Despite a popular canard (see superstitions (l)), the better authorities have maintained that this use of *that* is perfectly permissible. The *OED* notes that *that* is a "general relative pronoun . . . referring to persons or things" and shows that it dates back some 1,300 years in English.
+## B. And *who.*
+
+People often ask whether, as a relative pronoun, *that* is permitted to refer to people as well as things. Despite a popular canard (see superstitions (l)), the better authorities have maintained that this use of *that* is perfectly permissible. The *OED* notes that *that* is a "general relative pronoun . . . referring to persons or things" and shows that it dates back some 1,300 years in English.
 
 Before embarking on this disquisition, we must note that some modern grammarians insist that *that* is not a relative pronoun—despite long-standing literature to the contrary. The argument is that it's not classifiable as a pronoun: it has no genitive form (we use *whose*, not *\*the girl that's mother died*), and you can't put prepositions before it (not *\*the girl to that the prize was awarded*—we use *to whom* or send *to* to the end of the sentence. They may well be right.
 
@@ -142,11 +146,15 @@ The only remaining loose end is to address whether *who* is really preferable to
 
 In sum, here are the rules that generally apply to *who*, *which*, and *that* as relative words: (1) *who* applies to people and, in casual contexts, to animals that have names, and it can be either restrictive or nonrestrictive \<the students who attended seemed to enjoy the show\> \<I saw Jill, who seemed to be happy\>; (2) *which* now applies exclusively to things, usually in AmE as a nonrestrictive relative \<the field was full of Angus cattle, which roamed freely\>; (3) *that* can apply to people, animals, or things, but always as a restrictive relative—meaning it typically defines or narrows a group of people or identifies a particular person \<the same people that I saw yesterday\> \<the man that I lent $5 to\> \<the best roosters that we can find\> \<all the coins that we found yesterday\>.
 
-**C. Contact Clauses.** When a restrictive relative is elided (omitted) as an understood word, the resulting clause is known as a *contact clause*. It can occur when the restrictive relative clause functions as an object and is not preceded by a preposition. Hence *The house we live in is quite old* (where *that* is understood after *house*); *The man we wanted we couldn't reach* (where *whom* or *that* is understood after *man*); *This is the book you were looking for* (where *that* is understood after *book*).
+## C. Contact Clauses
+
+When a restrictive relative is elided (omitted) as an understood word, the resulting clause is known as a *contact clause*. It can occur when the restrictive relative clause functions as an object and is not preceded by a preposition. Hence *The house we live in is quite old* (where *that* is understood after *house*); *The man we wanted we couldn't reach* (where *whom* or *that* is understood after *man*); *This is the book you were looking for* (where *that* is understood after *book*).
 
 Some early grammarians considered contact clauses to be "mistakes"—e.g.: "The relative is sometimes improperly omitted; as, ‘He is a man (*whom*) I greatly esteem." L.T. Covell, *A Digest of English Grammar* 142 (1858). But that view has long been repudiated by respected authorities.
 
-**D. Wrongly Suppressed *that*.** Despite the justified existence of contact clauses in which *that* is omitted as a relative pronoun (see (c)), the word is often ill-advisedly omitted as a conjunction. True, the conjunction is often elided after the verbs *say* and *think* \<he said the claim was bogus\> \<he thought the claim was well-founded\>, but the elision doesn't work well with near-synonyms \<he stated \[that\] the claim was bogus\> \<he believed \[that\] the claim was well-founded\>. The conjunction should usually be retained to introduce clauses begun with verbs such as *acknowledge, ask*, *believe*, *claim*, *decide, doubt*, *state*, *suggest*, and countless others. Without the conjunction, what follows might be taken to be a noun complement, as in *\*the board decided the question did not need to be resolved*. Dropping the conjunction *that* after the verb commonly creates a miscue, even if only momentarily—e.g.:
+## D. Wrongly Suppressed *that*
+
+Despite the justified existence of contact clauses in which *that* is omitted as a relative pronoun (see (c)), the word is often ill-advisedly omitted as a conjunction. True, the conjunction is often elided after the verbs *say* and *think* \<he said the claim was bogus\> \<he thought the claim was well-founded\>, but the elision doesn't work well with near-synonyms \<he stated \[that\] the claim was bogus\> \<he believed \[that\] the claim was well-founded\>. The conjunction should usually be retained to introduce clauses begun with verbs such as *acknowledge, ask*, *believe*, *claim*, *decide, doubt*, *state*, *suggest*, and countless others. Without the conjunction, what follows might be taken to be a noun complement, as in *\*the board decided the question did not need to be resolved*. Dropping the conjunction *that* after the verb commonly creates a miscue, even if only momentarily—e.g.:
 
  - "They *believed prisoners* should be placed in isolation and educated." Mary Frain, "Criminal Justice—and Injustice," *Telegram & Gaz.* (Worcester), 27 Sept. 1996, at C1. (Insert *that* after *believed*.)
 
@@ -168,11 +176,17 @@ It is true, however, that these judgment calls are highly context-specific. What
 
 It appears that when a pronoun begins the subordinate clause introduced by an implied *that*, the conjunction can be more safely omitted than it can be with other noun elements.
 
-**E. Unnecessarily Repeated as Conjunction.** One must be careful not to repeat the conjunction *that* after an intervening phrase. Either suspend it till just before the verb or use it early in the sentence and omit it before the verb—e.g.: "Mr. Siefker has gone through half a dozen lawyers, each thinking *that* with a little bit of work *that* he, too, could claim a piece of that magical work." David Margolick, "At the Bar," *N.Y. Times*, 8 Dec. 1989, at 27. (Delete the second *that*.)
+## E. Unnecessarily Repeated as Conjunction
 
-**F. For *very* or *so*.** In certain negative constructions, *that* commonly functions adverbially—as a loose equivalent of *very* \<I don't like pasta that much\> \<I was never that good at biology\>. Some writers have objected when the degree of comparison is vague (how much don't you like pasta, and how bad were you at biology?). Although no reasonable person objects to the adverbial *that* when the point of comparison is explicit \<I got three scoops—even though I didn't want that much\!\>, usage becomes unmoored when no comparison is intended \<I did it, but I didn't even try that hard\!\>. Yet this adverbial use is now an established casualism, more characteristic of speech than of writing. For a good discussion that dates the trend toward using *that* for *very* from the mid-20th century, see Richard K. Redfern, "Not That Bad: Comments on the Adverbial ‘That,' " 40 *Am. Speech* 74–76 (1965). Cf. **so (b)**.
+One must be careful not to repeat the conjunction *that* after an intervening phrase. Either suspend it till just before the verb or use it early in the sentence and omit it before the verb—e.g.: "Mr. Siefker has gone through half a dozen lawyers, each thinking *that* with a little bit of work *that* he, too, could claim a piece of that magical work." David Margolick, "At the Bar," *N.Y. Times*, 8 Dec. 1989, at 27. (Delete the second *that*.)
+
+## F. For *very* or *so*
+
+In certain negative constructions, *that* commonly functions adverbially—as a loose equivalent of *very* \<I don't like pasta that much\> \<I was never that good at biology\>. Some writers have objected when the degree of comparison is vague (how much don't you like pasta, and how bad were you at biology?). Although no reasonable person objects to the adverbial *that* when the point of comparison is explicit \<I got three scoops—even though I didn't want that much\!\>, usage becomes unmoored when no comparison is intended \<I did it, but I didn't even try that hard\!\>. Yet this adverbial use is now an established casualism, more characteristic of speech than of writing. For a good discussion that dates the trend toward using *that* for *very* from the mid-20th century, see Richard K. Redfern, "Not That Bad: Comments on the Adverbial ‘That,' " 40 *Am. Speech* 74–76 (1965). Cf. **so (b)**.
 
 **Language-Change Index:** *all that* for *so very* \<it's not all that interesting\>: Stage 4
 
-**G. As a Pointing Word.** See pointing words.
+## G. As a Pointing Word
+
+See pointing words.
 

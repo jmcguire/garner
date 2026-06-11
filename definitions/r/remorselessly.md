@@ -2,9 +2,13 @@
 
 remorselessly.
 
-**A. And *unremorsefully*.** These two terms are essentially equivalent. *Remorselessly* is far more common and somewhat more pejorative.
+## A. And *unremorsefully*
 
-**B. Mistakenly Made *\*remorsely*.** Although *\*remorsely* isn't recorded in the *OED* or other dictionaries, some writers have taken to using it—apparently as a contracted form of *remorselessly*. E.g.:
+These two terms are essentially equivalent. *Remorselessly* is far more common and somewhat more pejorative.
+
+## B. Mistakenly Made *\*remorsely*
+
+Although *\*remorsely* isn't recorded in the *OED* or other dictionaries, some writers have taken to using it—apparently as a contracted form of *remorselessly*. E.g.:
 
  - "Ever since then, the belt stars have been slowly but *remorsely* \[read *remorselessly*\] rising in the sky." Graham Hancock, "Riddle of Sphinx Lies in the Stars," *Daily Mail* (U.K.), 5 Apr. 1995, at 42.
 

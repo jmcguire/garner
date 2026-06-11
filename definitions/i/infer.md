@@ -2,7 +2,9 @@
 
 infer.
 
-**A. Meaning.** Properly used, *infer* means "to deduce from evidence; to reason from premises to a conclusion"—e.g.:
+## A. Meaning
+
+Properly used, *infer* means "to deduce from evidence; to reason from premises to a conclusion"—e.g.:
 
  - "We get no sense of the man himself from this book except what we can *infer* from the biographical facts that Mr. Magida presents." John B. Judis, "Maximum Leader," *N.Y. Times*, 18 Aug. 1996, § 7, at 24.
 
@@ -10,7 +12,9 @@ infer.
 
  - "Research shows that a daily glass or two of wine is associated with greater longevity than drinking either more or less alcohol. So it's irresistible *to infer* that modest amounts of alcohol cause a person to live longer." "The Art of Being Smart," *Daily Telegraph*, 15 Aug. 2015, at 1.
 
-**B. And *imply*.** Writers frequently misuse *infer* when *imply* (= to hint at; suggest) would be the correct word—e.g.:
+## B. And *imply*
+
+Writers frequently misuse *infer* when *imply* (= to hint at; suggest) would be the correct word—e.g.:
 
  - "So they obliged him, publishing his life story in its March 24th issue, without *inferring* \[read *implying*\] that he was going to die." Lennie Grimaldi, "Connecticut Q&A: Robert Pelton," *N.Y. Times*, 7 Apr. 1991, Conn. §, at 3.
 

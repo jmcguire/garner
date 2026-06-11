@@ -2,9 +2,13 @@
 
 adequate.
 
-**A. And *sufficient*.** Though both words were originally used in reference to quantity, *adequate* now tends toward the qualitative and *sufficient* toward the quantitative. Hence *adequate* means "suitable to the occasion or circumstances," and *sufficient* means "enough for a particular need or purpose." For more on *sufficient*, see **enough**, adj.
+## A. And *sufficient*
 
-**B. *\*Adequate enough*.** Although this redundancy dates from the 1700s, it is undeniably verbose. Either word suffices alone (or is adequate)—e.g.:
+Though both words were originally used in reference to quantity, *adequate* now tends toward the qualitative and *sufficient* toward the quantitative. Hence *adequate* means "suitable to the occasion or circumstances," and *sufficient* means "enough for a particular need or purpose." For more on *sufficient*, see **enough**, adj.
+
+## B. *\*Adequate enough*
+
+Although this redundancy dates from the 1700s, it is undeniably verbose. Either word suffices alone (or is adequate)—e.g.:
 
  - "While Tyrol doesn't have a particularly large or sophisticated snowmaking system, it is *adequate enough* \[read *adequate*\] to cover 100 percent of the slopes." Mike Ivey, "Snowboarders Aid in Revival of Tyrol Basin," *Capital Times* (Madison), 22 Dec. 1995, at C1.
 

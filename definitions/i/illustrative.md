@@ -2,9 +2,13 @@
 
 illustrative.
 
-**A. Pronunciation.** The second syllable is accented: /i-**lәs**-trә-tiv/, not /**i**-lәs-tray-tiv/.
+## A. Pronunciation
 
-**B. And *illustrious*.** *Illustrative* means "providing a good illustration or portrayal; representative." *Illustrious* means "distinguished; acclaimed; renowned." Occasionally, through word-swapping, *illustrative* displaces *illustrious*—e.g.:
+The second syllable is accented: /i-**lәs**-trә-tiv/, not /**i**-lәs-tray-tiv/.
+
+## B. And *illustrious*
+
+*Illustrative* means "providing a good illustration or portrayal; representative." *Illustrious* means "distinguished; acclaimed; renowned." Occasionally, through word-swapping, *illustrative* displaces *illustrious*—e.g.:
 
  - "Karloff received a great number of critical plaudits and many critics called the film a fine climax to a long and *illustrative* \[read *illustrious*\] film career." Michael R. Pitts, *Horror Film Stars* 85 (1991).
 

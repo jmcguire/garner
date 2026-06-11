@@ -2,9 +2,13 @@
 
 ever.
 
-**A. Superfluous.** For phrases in which *ever* is superfluous, see **\*rarely ever** & **\*seldom ever**.
+## A. Superfluous
 
-**B. *Ever* for *every*.** Clipping *every* to *ever* is typical of AmE dialect—e.g.:
+For phrases in which *ever* is superfluous, see **\*rarely ever** & **\*seldom ever**.
+
+## B. *Ever* for *every*
+
+Clipping *every* to *ever* is typical of AmE dialect—e.g.:
 
  - "Shaquille O'Neal needs a breather *ever* \[read *every*\] once in a while." Michael Murphy, "Look Out Below," *Houston Chron.*, 7 Nov. 2000, Sports §, at 1.
 

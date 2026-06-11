@@ -2,7 +2,9 @@
 
 repel.
 
-**A. And *repulse*.** Although both verbs mean "to drive back," the traditional distinction is that *repulse* is primarily physical \<after repeated warnings, he was repulsed from the premises\>; *repel* is primarily figurative \<the body odors on the subway repelled her\>. Hence *repel* is the verb corresponding more closely in meaning to the adjective *repulsive*. You can find this distinction in any number of older usage books—e.g.: "The person who feels repulsion is *repelled*, not *repulsed*; *repulsed* means ‘rejected.' " H.A. Treble & G.H. Vallins, *An A.B.C. of English Usage* 155 (1936). See **repellent**.
+## A. And *repulse*
+
+Although both verbs mean "to drive back," the traditional distinction is that *repulse* is primarily physical \<after repeated warnings, he was repulsed from the premises\>; *repel* is primarily figurative \<the body odors on the subway repelled her\>. Hence *repel* is the verb corresponding more closely in meaning to the adjective *repulsive*. You can find this distinction in any number of older usage books—e.g.: "The person who feels repulsion is *repelled*, not *repulsed*; *repulsed* means ‘rejected.' " H.A. Treble & G.H. Vallins, *An A.B.C. of English Usage* 155 (1936). See **repellent**.
 
 Some writers observe that distinction, using *repulse* for what beats back and *repel* for what disgusts—e.g.:
 
@@ -26,5 +28,7 @@ Today, however, the verbs are as likely to be used interchangeably, perhaps beca
 
 Because this tendency seems irreversible, you might take any of three tacks. First, you might keep (for now) to the traditional distinction, which is fading. Just don't be the last to cling to it. Second, you might embrace the reversal in meaning; everyone will know what you mean, and the risk to credibility is slight because so few people ever learned the old distinction. Third, you might treat these verbs as skunked terms and avoid them altogether for the next couple of centuries while the new meanings solidify.
 
-**B. And *rappel*.** See **rappel**.
+## B. And *rappel*
+
+See **rappel**.
 

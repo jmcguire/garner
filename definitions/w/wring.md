@@ -2,7 +2,9 @@
 
 wring.
 
-**A. Inflected Forms: *wring* \> *wrung* \> *wrung*.** The past-tense and past-participial forms of *wring* (= to squeeze or twist) are sometimes erroneously written *rung*—e.g.:
+## A. Inflected Forms: *wring* \> *wrung* \> *wrung*
+
+The past-tense and past-participial forms of *wring* (= to squeeze or twist) are sometimes erroneously written *rung*—e.g.:
 
  - "On market days, it is possible to see a small boy grab a live chicken by the head and whip its body round and round in an arc until its neck is *rung* \[read *wrung*\]." Linda Greider, "Learning to Talk Turkey in French," *Wash. Post*, 16 Nov. 1978, at E1.
 
@@ -38,7 +40,9 @@ See irregular verbs.
 3. *\*wrang* for *wrung*: Stage 1
  - Current ratio in print (*wrung his hands* vs. *\*wrang his hands*): 357:1
 
-**B. *Hand-wringing*.** This phrase, in common use since the 1960s, is sometimes mangled into *\*hand-ringing*—e.g.:
+## B. *Hand-wringing*
+
+This phrase, in common use since the 1960s, is sometimes mangled into *\*hand-ringing*—e.g.:
 
  - "Mary Tyler Moore now gets by without the haunting, *hand-ringing* \[read *hand-wringing*\] insecurity that once dogged her everywhere she went." Bob Thompson, "Rediscovering Mary," *Toronto Sun*, 10 Mar. 1996, at S3.
 

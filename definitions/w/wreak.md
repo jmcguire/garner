@@ -2,11 +2,17 @@
 
 wreak.
 
-**A. Inflected Forms: *wreak* \> *wreaked* \> *wreaked*.** The past tense is not *wrought*, which is the archaic past tense and past participle of *work*.
+## A. Inflected Forms: *wreak* \> *wreaked* \> *wreaked*
 
-**B. Pronunciation.** *Wreak* is pronounced /reek/—not /rek/.
+The past tense is not *wrought*, which is the archaic past tense and past participle of *work*.
 
-**C. *Wreak havoc*.** The phrase *wreak havoc* (= to bring about difficulty, confusion, or chaos) is the established idiom in AmE and BrE alike. (In BrE, another traditional idiom is *play havoc*.) But *wreak havoc* has two variants to be avoided: *\*wreck havoc* and *\*work havoc*. E.g.:
+## B. Pronunciation
+
+*Wreak* is pronounced /reek/—not /rek/.
+
+## C. *Wreak havoc*
+
+The phrase *wreak havoc* (= to bring about difficulty, confusion, or chaos) is the established idiom in AmE and BrE alike. (In BrE, another traditional idiom is *play havoc*.) But *wreak havoc* has two variants to be avoided: *\*wreck havoc* and *\*work havoc*. E.g.:
 
  - "An inner struggle was *working* \[read *wreaking*\] havoc on Tracey's normally cheerful demeanor." Jay McInerney, "Smoke," *Atlantic Monthly*, Mar. 1987, at 68.
 
@@ -26,5 +32,7 @@ The phrase *wreak havoc*, by the way, came into vogue only as recently as the 19
 2. *\*work havoc* for *wreak havoc*: Stage 1
  - Current ratio in print (*wreak havoc* vs. *\*work havoc*): 71:1
 
-**D. And *reek*.** For the confusion of *wreak* with *reek*, see **reek**.
+## D. And *reek*
+
+For the confusion of *wreak* with *reek*, see **reek**.
 

@@ -2,7 +2,9 @@
 
 better.
 
-**A. For *had better*.** Dropping the *had* in expressions such as *You (had) better be going now* is acceptable only in informal speech or recorded dialogue. Even in the compressed space of a headline, the ellipsis is inadvisable—e.g.: "Perspective—The FCC *Better* \[read *Had Better*\] Shape Up Those Monopolies," *Communications Week*, 15 Apr. 1996, at 49. The phrasing is a low casualism—e.g.:
+## A. For *had better*
+
+Dropping the *had* in expressions such as *You (had) better be going now* is acceptable only in informal speech or recorded dialogue. Even in the compressed space of a headline, the ellipsis is inadvisable—e.g.: "Perspective—The FCC *Better* \[read *Had Better*\] Shape Up Those Monopolies," *Communications Week*, 15 Apr. 1996, at 49. The phrasing is a low casualism—e.g.:
 
  - "If the Flyers are going to make an offer, they *better* \[read *had better*\] do it in a hurry." "Lightning Time Line," *St. Petersburg Times* (Fla.), 16 Aug. 1997, at C10.
 
@@ -20,5 +22,7 @@ Sometimes *best* replaces *better*, as in *We had best be on our way*. This phra
 2. *had best* for *had better* in casual use: Stage 5
  - Current ratio in print (*you had better* vs. *you had best*): 12:1
 
-**B. And *bettor*.** See **bettor**.
+## B. And *bettor*
+
+See **bettor**.
 

@@ -2,14 +2,18 @@
 
 \*rarely ever.
 
-**A. Self-Contradictory Idiom.** Though old, the phrase *\*rarely ever* is literally nonsensical—as many idioms are, of course. But this one is easily corrected to *rarely*, *rarely if ever*, or *rarely or never*—e.g.: "Norv Turner is a conservative, low-key, play-them-one-game-at-a-time coach who *rarely ever* \[read *rarely*\] gushes." Bill Free, "National Spotlight Pumps Up Redskins," *Baltimore Sun*, 13 Oct. 1997, at C7. Since 1800, *rarely if ever* has steadily occurred much more frequently in print. Cf. ****\*seldom ever**.
+## A. Self-Contradictory Idiom
+
+Though old, the phrase *\*rarely ever* is literally nonsensical—as many idioms are, of course. But this one is easily corrected to *rarely*, *rarely if ever*, or *rarely or never*—e.g.: "Norv Turner is a conservative, low-key, play-them-one-game-at-a-time coach who *rarely ever* \[read *rarely*\] gushes." Bill Free, "National Spotlight Pumps Up Redskins," *Baltimore Sun*, 13 Oct. 1997, at C7. Since 1800, *rarely if ever* has steadily occurred much more frequently in print. Cf. ****\*seldom ever**.
 
 **Language-Change Index:**
 
  - *\*rarely ever* for *rarely* or *rarely if ever*: Stage 2
  - Current ratio in print (*rarely if ever* vs. *\*rarely ever*): 1.5:1
 
-**B. And *\*rarely or ever*.** The phrasing *\*rarely or ever* has no justification at all. It's erroneous in place of *rarely or never* or *rarely if ever*—e.g.:
+## B. And *\*rarely or ever*
+
+The phrasing *\*rarely or ever* has no justification at all. It's erroneous in place of *rarely or never* or *rarely if ever*—e.g.:
 
  - "Among those who have *rarely or ever* \[read *rarely or never*\] camped out is 9-year-old Kurt Davidson of Tujunga." Tom Schultz, "Sunland-Tujunga Program Teaches Kids Wonders of Outdoors," *L.A. Times*, 24 July 1998, at B3.
 

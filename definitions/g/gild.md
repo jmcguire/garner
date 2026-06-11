@@ -2,7 +2,9 @@
 
 gild.
 
-**A. And *guild*.** To *gild* a thing is to put a thin layer of gold on it. Misusing *guild* (= an association made up of people with similar occupations or interests) for the verb *gild* is a fairly common error—e.g.:
+## A. And *guild*
+
+To *gild* a thing is to put a thin layer of gold on it. Misusing *guild* (= an association made up of people with similar occupations or interests) for the verb *gild* is a fairly common error—e.g.:
 
  - "Inside, large parts of the *guilded* \[read *gilded*\] baroque monastery have been removed to reveal four stone chambers of the original Inca temple." Nathaniel C. Nash, "An Archeologist's Cry: Reclaim Site for Incas\!," *N.Y. Times*, 31 Aug. 1993, at A6.
 
@@ -15,7 +17,9 @@ gild.
  - *guild* misused for *gild*: Stage 1
  - Current ratio in print (*gilded* vs. *\*guilded*): 139:1
 
-**B. *Gilding the lily*.** The phrase *gilding the lily* misquotes its Shakespearean source, which reads, "To gild refined gold, to paint the lily" (*King John* 4.2.11). The misquoted phrase became a cliché in the mid-20th century (and remains so). So criticizing it as inaccurate would be as fruitless as complaining about the inaccuracy of "Play it again, Sam" (which is never actually said in the film *Casablanca*—the line is "Play it, Sam").
+## B. *Gilding the lily*
+
+The phrase *gilding the lily* misquotes its Shakespearean source, which reads, "To gild refined gold, to paint the lily" (*King John* 4.2.11). The misquoted phrase became a cliché in the mid-20th century (and remains so). So criticizing it as inaccurate would be as fruitless as complaining about the inaccuracy of "Play it again, Sam" (which is never actually said in the film *Casablanca*—the line is "Play it, Sam").
 
  - Current ratio in print (*gild the lily* vs. *paint the lily*): 2.2:1
  - Current ratio in print (*gild the lily* vs. *\*guild the lily*): 33:1

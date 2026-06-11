@@ -2,9 +2,13 @@
 
 oversight.
 
-**A. As a Noun.** *Oversight* = (1) an unintentional error; or (2) intentional and watchful supervision. For sense 2, *oversight* can be an unfortunate choice of word: *supervision* is preferable, or perhaps even *monitoring*. Indeed, *administrative oversight* sounds less like a responsibility than a bureaucratic botch. See contronyms.
+## A. As a Noun
 
-**B. As a Jargonistic Verb.** In some fields, people have begun using *oversight* as a verb in place of *oversee*—or, more often, *\*oversighting* in place of *overseeing* or the simple *oversight* itself. The usage is common in Australia, but elsewhere it occurs primarily in speech—e.g.:
+*Oversight* = (1) an unintentional error; or (2) intentional and watchful supervision. For sense 2, *oversight* can be an unfortunate choice of word: *supervision* is preferable, or perhaps even *monitoring*. Indeed, *administrative oversight* sounds less like a responsibility than a bureaucratic botch. See contronyms.
+
+## B. As a Jargonistic Verb
+
+In some fields, people have begun using *oversight* as a verb in place of *oversee*—or, more often, *\*oversighting* in place of *overseeing* or the simple *oversight* itself. The usage is common in Australia, but elsewhere it occurs primarily in speech—e.g.:
 
  - " ‘The whole company is reviewing and *oversighting* \[read *overseeing*\] what is going on at the Zion station,' Reed said at a meeting." Robert Enstad, "Edison Says It's Fixing Zion Plan," *Chicago Trib.*, 1 Feb. 1991, at C4 (quoting a utility company's senior vice president).
 

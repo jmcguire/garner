@@ -2,7 +2,9 @@
 
 phenomenon.
 
-**A. And *phenomena*.** *Phenomenon* is the singular form, *phenomena* the plural. Writers have misused the plural form as if it were singular since the mid-1800s. The error persists—e.g.:
+## A. And *phenomena*
+
+*Phenomenon* is the singular form, *phenomena* the plural. Writers have misused the plural form as if it were singular since the mid-1800s. The error persists—e.g.:
 
  - "Not only was this *phenomena* precipitated by the final growth in the price of gas, but by such other disclosures as prospective shallow water zones." Dev George, "Emphasis on Economy Continues as Industry Adjusts to Lower Prices," *Offshore*, May 1994, at 29. (Read: *This phenomenon was precipitated not only by the final growth in the price of gas but also by . . . .* \[See parallelism.])
 
@@ -30,14 +32,18 @@ Surprisingly, the word is often misspelled *\*phenomenum*, especially in BrE—e
 2. *phenomenon* misspelled *\*phenomenum*: Stage 1
  - Current ratio in print (*phenomenon* vs. *\*phenomenum*): 31,602:1
 
-**B. As a Plural.** Conversely, the singular *phenomenon* is sometimes mistakenly used as a plural—e.g.: "These irregularities could explain several *phenomenon* \[read *phenomena*\] in the earth including the well-known jerkiness in the planet's rotational rate." George Alexander, "Cat Scans Used to Explore the Earth," *N.Y. Times*, 16 Dec. 1986, at C3. Cf. **criterion** & **media**.
+## B. As a Plural
+
+Conversely, the singular *phenomenon* is sometimes mistakenly used as a plural—e.g.: "These irregularities could explain several *phenomenon* \[read *phenomena*\] in the earth including the well-known jerkiness in the planet's rotational rate." George Alexander, "Cat Scans Used to Explore the Earth," *N.Y. Times*, 16 Dec. 1986, at C3. Cf. **criterion** & **media**.
 
 **Language-Change Index:**
 
  - *phenomenon* as false plural for *phenomena*: Stage 1
  - Current ratio in print (*two phenomena are* vs. *\*two phenomenon are*): 109:1
 
-**C. And *phenomenons*, *phenom(s)*.** Even though *phenomena* is the accepted plural, some people erroneously write *phenomenons*—e.g.:
+## C. And *phenomenons*, *phenom(s)*
+
+Even though *phenomena* is the accepted plural, some people erroneously write *phenomenons*—e.g.:
 
  - "The seven-day week, alone among the components of the calendar, has always been thought to be a product of divine instruction or social convention, not set by natural *phenomenons* \[read *phenomena*\] as the day, month and year are." Jon Nordheimer, "Sunday Afternoon Blues," *Kansas City Star*, 13 Oct. 1991, at G1.
 

@@ -2,7 +2,9 @@
 
 factoid.
 
-**A. Contradictory Senses.** *Factoid* = (1) an assertion that, although widely accepted as factual, is not or may not be true; or (2) an isolated, usu. surprising fact; an interesting bit of trivia. Sense 1 dates from the early 1970s. A decade later, sense 2 arose with the launch of *USA Today*. Some people object to this sense because the -*oid* suffix generally denotes a resemblance to something but not the thing itself (e.g., a humanoid isn't human; an asteroid isn't a star; an ovoid is shaped like—but isn't—an egg; etc.).
+## A. Contradictory Senses
+
+*Factoid* = (1) an assertion that, although widely accepted as factual, is not or may not be true; or (2) an isolated, usu. surprising fact; an interesting bit of trivia. Sense 1 dates from the early 1970s. A decade later, sense 2 arose with the launch of *USA Today*. Some people object to this sense because the -*oid* suffix generally denotes a resemblance to something but not the thing itself (e.g., a humanoid isn't human; an asteroid isn't a star; an ovoid is shaped like—but isn't—an egg; etc.).
 
 Norman Mailer seems to have coined the term (in sense 1) in his 1973 biography *Marilyn* to mean "a fact that has no existence before appearing in a magazine, newspaper, or other mass-media outlet." It was this original sense that the speaker here quoted had in mind: " ‘Washington at the moment is full of *factoids*, unsubstantiated statements repeated often enough that they take on the color of facts,' said Malcolm Wallop, a Wyoming Republican." Susan F. Rasky, "Decision on Tower as Elusive as Facts," *N.Y. Times*, 13 Feb. 1989, at B6.
 
@@ -22,7 +24,9 @@ Today sense 2 is nearly universal and must be accepted as standard—e.g.:
 
 **Language-Change Index:** *factoid* in reference to an interesting fact: Stage 5
 
-**B. And *factlet*.** The loss of *factoid* in sense 1 is unfortunate in another way, too: there is already a perfectly good term for a piece of trivia—*factlet*. While it is etymologically more correct (since *-let* is a diminutive suffix), it is far rarer today than *factoid*. But it does still appear, even (as the first example shows) in the source of *factoid*'s sense 2—e.g.:
+## B. And *factlet*
+
+The loss of *factoid* in sense 1 is unfortunate in another way, too: there is already a perfectly good term for a piece of trivia—*factlet*. While it is etymologically more correct (since *-let* is a diminutive suffix), it is far rarer today than *factoid*. But it does still appear, even (as the first example shows) in the source of *factoid*'s sense 2—e.g.:
 
  - "All assessments of Gore's future seem to include the obligatory *factlet* that since Martin Van Buren, no sitting vice president other than George Bush has been directly elected president." Walter Shapiro, "Gore vs. Bradley: Get Ready to Rumble," *USA Today*, 9 June 1999, at A2.
 

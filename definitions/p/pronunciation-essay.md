@@ -2,7 +2,9 @@
 
 Pronunciation .
 
-**A. General Principles.** The best course is to follow the pronunciation current among educated speakers in one's region. A few words have universally accepted pronunciations and rejected mispronunciations; where prescriptions on pronunciation appear in this book, the preferred pronunciation is generally preferred across geographic boundaries.
+## A. General Principles
+
+The best course is to follow the pronunciation current among educated speakers in one's region. A few words have universally accepted pronunciations and rejected mispronunciations; where prescriptions on pronunciation appear in this book, the preferred pronunciation is generally preferred across geographic boundaries.
 
 H.W. Fowler still speaks to us with clarion wisdom: "The ambition to do better than our neighbours is in many departments of life a virtue; in pronunciation it is a vice; there the only right ambition is to do as our neighbours" (*FMEU1* at 466).
 
@@ -10,7 +12,9 @@ But when it comes to words that are seldom pronounced by English-speaking people
 
 For a misspelling of *pronunciation*, see **pronunciation**.
 
-**B. Commonly Mispronounced Words.** Many troublesome words are listed throughout this book, with the correct pronunciation noted. Here are some of the most frequently mispronounced words in AmE:
+## B. Commonly Mispronounced Words
+
+Many troublesome words are listed throughout this book, with the correct pronunciation noted. Here are some of the most frequently mispronounced words in AmE:
 
 | ***Correct*** | ***Incorrect*** |
 |---|---|
@@ -74,7 +78,9 @@ Some contractions are also commonly mispronounced. For example, *couldn't*, *did
 
 On pronunciations as class indicators, see class distinctions.
 
-**C. Recessive and Progressive Stresses.** In English pronunciation, two forces seem to be constantly at work: pushing back the accent in certain words (recessive stress) and pushing it forward in others (progressive stress). Hence pronunciations shift very gradually. Recessive stress—usually by which the accent gets moved from the first to the second syllable—sometimes yields what have come to be seen as accepted pronunciations, but many of the recessive stresses here listed typify unrefined speech (Stages 1 to 3 of the Language-Change Index). Most of the terms listed here are more fully discussed in entries at their alphabetical places in this book.
+## C. Recessive and Progressive Stresses
+
+In English pronunciation, two forces seem to be constantly at work: pushing back the accent in certain words (recessive stress) and pushing it forward in others (progressive stress). Hence pronunciations shift very gradually. Recessive stress—usually by which the accent gets moved from the first to the second syllable—sometimes yields what have come to be seen as accepted pronunciations, but many of the recessive stresses here listed typify unrefined speech (Stages 1 to 3 of the Language-Change Index). Most of the terms listed here are more fully discussed in entries at their alphabetical places in this book.
 
 | *Traditional Stress* | ***Recessive Stress*** |
 |---|---|
@@ -126,11 +132,17 @@ With other terms, though, the force of change is in the opposite direction, from
 
 Much depends on what one linguist calls the "dynamics of utterance." Dwight L. Bolinger, "Stress and Information," 33 *Am. Speech* 5–20 (1958). Stress shifts in certain words are an indication of dialect and of regional preferences. They may also be affected by the presence or absence of stress in neighboring words. See Arthur J. Bronstein, *The Pronunciation of American English* 256 (1960).
 
-**D. De-anglicized Pronunciations.** English speakers who learn another language often busy themselves with using the "correct" pronunciation of loanwords long since anglicized: *ambiance* /ahm-bee-**ahns**/ for /**am**-bee-әn\[t\]s/ (*ambience*); *guillotine* /**gee**-yә-teen/ for /**gil**-ә-teen/; *homage* /oh-**mahzh**/ for /**hom**-ij/; *San Jacinto* /san hah-**seen**-toh/ for /san jә-**sin**-toh/; and even place names such as *Torino* for *Turin*. These speakers display not so much their learning of another tongue as their lack of knowledge about English pronunciation. Cf. hobson-jobsonism.
+## D. De-anglicized Pronunciations
 
-**E. Lambdacism and Rhotacism.** These are two of the most common defects in pronunciation: *lambdacism* denotes the imperfect or superfluous sounding of *l* (as by making it sound like an *r* or *y*), and *rhotacism* denotes the imperfect or superfluous sounding of *r* (as by making it a *w* or *l*). In some children, these mispronunciations occur at an early stage of development and are soon outgrown; for them, *Mary had a little lamb* can sound like *Mawy had a yitto yam*. Sometimes, though, these defects are never outgrown; they become minor speech impediments. Sometimes, too, pronunciations exhibiting rhotacism characterize regional speech, as in President John F. Kennedy's pronunciation of *idea* /ī-**deer**/ and *Cuba* /**kyoo**-bәr/. In the words listed in (b), one sees the intrusive *r* (*persevere*) and the omitted *r* (*mirror*), both of which are types of rhotacism; and the intrusive *l* (*album*), which is a type of lambdacism. Cf. **almond**.
+English speakers who learn another language often busy themselves with using the "correct" pronunciation of loanwords long since anglicized: *ambiance* /ahm-bee-**ahns**/ for /**am**-bee-әn\[t\]s/ (*ambience*); *guillotine* /**gee**-yә-teen/ for /**gil**-ә-teen/; *homage* /oh-**mahzh**/ for /**hom**-ij/; *San Jacinto* /san hah-**seen**-toh/ for /san jә-**sin**-toh/; and even place names such as *Torino* for *Turin*. These speakers display not so much their learning of another tongue as their lack of knowledge about English pronunciation. Cf. hobson-jobsonism.
 
-**F. Spelling Pronunciations.** Given the anomalies of English spelling and how it belies phonetic instincts, it's hardly surprising that orthography might give rise to mispronunciations. Because of spelling, people will often, for example, sound out traditionally silent consonants. If these become widespread, then they can't be called "mispronunciations" but instead get upgraded to "variant pronunciations." It's akin to moving from Stage 1 in the Language-Change Index to Stage 2 or 3—perhaps even 4.
+## E. Lambdacism and Rhotacism
+
+These are two of the most common defects in pronunciation: *lambdacism* denotes the imperfect or superfluous sounding of *l* (as by making it sound like an *r* or *y*), and *rhotacism* denotes the imperfect or superfluous sounding of *r* (as by making it a *w* or *l*). In some children, these mispronunciations occur at an early stage of development and are soon outgrown; for them, *Mary had a little lamb* can sound like *Mawy had a yitto yam*. Sometimes, though, these defects are never outgrown; they become minor speech impediments. Sometimes, too, pronunciations exhibiting rhotacism characterize regional speech, as in President John F. Kennedy's pronunciation of *idea* /ī-**deer**/ and *Cuba* /**kyoo**-bәr/. In the words listed in (b), one sees the intrusive *r* (*persevere*) and the omitted *r* (*mirror*), both of which are types of rhotacism; and the intrusive *l* (*album*), which is a type of lambdacism. Cf. **almond**.
+
+## F. Spelling Pronunciations
+
+Given the anomalies of English spelling and how it belies phonetic instincts, it's hardly surprising that orthography might give rise to mispronunciations. Because of spelling, people will often, for example, sound out traditionally silent consonants. If these become widespread, then they can't be called "mispronunciations" but instead get upgraded to "variant pronunciations." It's akin to moving from Stage 1 in the Language-Change Index to Stage 2 or 3—perhaps even 4.
 
 Many words seem immune to "spelling pronunciations." Nobody, seemingly, mispronounces *company* as if it were /kom-**pan**-ee/ even though that's how it looks. And none of the hundreds of words ending in *tion* are mispronounced /-tee-on/ in the final syllable: it's invariably /shәn/. Nor do native speakers pronounce the *b* in *debt* and *doubt*, or the *p* in *pseudo*, *ptarmigan*, *pteradactyl*, or *pteranodon*.
 
@@ -210,15 +222,25 @@ Some have suggested that every county and town have local pronunciations just fo
 
 Over the years, countless people—from Benjamin Franklin to George Bernard Shaw—have wanted to reform English orthography because of the variances between speech and its written representation. None of the proposed reforms have taken hold—not even a little. As things stand, speakers and readers of English must simply cope with the divergences and oddities as best they can. See spelling.
 
-**G. The Receding of Voiceless Stops.** Especially during the 21st century, there has been a noticeable trend in AmE away from the traditional voiceless stops in various words: proper nouns (*Biden* /**bīd**-n/, *Putin* /**poot**-n/), contractions (*couldn't* /**kʊd**-nt/, *didn't* /**did**-nt/, *wouldn't* /**wʊd**-nt/), and various other words (*bottle* /**bot**-l/, *button* /**bәt**-n/, *ridden* /**rid**-n/, *written* /**rit**-n/, etc.). In the 20th century, it was almost inconceivable that a news announcer would speak these words with the final syllable either with a voiced transitioning vowel or with a glottal stop. But that is happening today with a large segment of society, including many news announcers.
+## G. The Receding of Voiceless Stops
 
-**H. The Mispronounced *-ph-*.** In several words—notably, *diphtheria*, *diphthong*, *naphtha*, *ophthalmology*, and *pamphlet*—people tend to change the /f/ sound of the *-ph-* to a /p/ sound. Avoid these mispronunciations.
+Especially during the 21st century, there has been a noticeable trend in AmE away from the traditional voiceless stops in various words: proper nouns (*Biden* /**bīd**-n/, *Putin* /**poot**-n/), contractions (*couldn't* /**kʊd**-nt/, *didn't* /**did**-nt/, *wouldn't* /**wʊd**-nt/), and various other words (*bottle* /**bot**-l/, *button* /**bәt**-n/, *ridden* /**rid**-n/, *written* /**rit**-n/, etc.). In the 20th century, it was almost inconceivable that a news announcer would speak these words with the final syllable either with a voiced transitioning vowel or with a glottal stop. But that is happening today with a large segment of society, including many news announcers.
+
+## H. The Mispronounced *-ph-*
+
+In several words—notably, *diphtheria*, *diphthong*, *naphtha*, *ophthalmology*, and *pamphlet*—people tend to change the /f/ sound of the *-ph-* to a /p/ sound. Avoid these mispronunciations.
 
 For an example of a *-ph-* that has simply dropped out of a word, see **apothegm**. Cf. **jodhpur**.
 
-**I. Names.** See names (c).
+## I. Names
 
-**J. *Pronunciation* and *enunciation*.** *Enunciation* = (1) clear articulation of words, sentences, and thoughts; or (2) a formal announcement, proclamation, or statement. In sense 1, *enunciation* includes correct *pronunciation* of words, but it is a much broader term. When *enunciation* is used without a modifier of quality, the understood connotation is positive \<the speaker is known for her enunciation\>; *pronunciation*, on the other hand, is connotatively neutral \<the president is known for his pronunciation\>.
+See names (c).
 
-**K. Bibliography.** For the best guidance on pronouncing the most troublesome words, see Charles Harrington Elster, *The Big Book of Beastly Mispronunciations* (2d ed. 2005). For an excellent guide to proper nouns, see John K. Bollard, *Pronouncing Dictionary of Proper Names* (2d ed. 1998). For still other references, see the Select Bibliography at the end of this book.
+## J. *Pronunciation* and *enunciation*
+
+*Enunciation* = (1) clear articulation of words, sentences, and thoughts; or (2) a formal announcement, proclamation, or statement. In sense 1, *enunciation* includes correct *pronunciation* of words, but it is a much broader term. When *enunciation* is used without a modifier of quality, the understood connotation is positive \<the speaker is known for her enunciation\>; *pronunciation*, on the other hand, is connotatively neutral \<the president is known for his pronunciation\>.
+
+## K. Bibliography
+
+For the best guidance on pronouncing the most troublesome words, see Charles Harrington Elster, *The Big Book of Beastly Mispronunciations* (2d ed. 2005). For an excellent guide to proper nouns, see John K. Bollard, *Pronouncing Dictionary of Proper Names* (2d ed. 1998). For still other references, see the Select Bibliography at the end of this book.
 

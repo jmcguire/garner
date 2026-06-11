@@ -2,13 +2,19 @@
 
 defense.
 
-**A. Spelling.** *Defense* is AmE; *defence* is BrE (or very antiquated AmE). Modern American writers who use the British spelling are likely to seem affected.
+## A. Spelling
 
-**B. Pronunciation.** The standard pronunciation has long been with the accent on the second syllable: /di-**fen\[t\]s**/. But primarily as a result of sports talk, some have shifted the accent to the first syllable: /**dee**-fen\[t\]s/. If you want to sound like a general or a lawyer, use the first of these pronunciations; if you want to sound like a sports announcer or a cheerleader, use the second. Cf. **offense**.
+*Defense* is AmE; *defence* is BrE (or very antiquated AmE). Modern American writers who use the British spelling are likely to seem affected.
+
+## B. Pronunciation
+
+The standard pronunciation has long been with the accent on the second syllable: /di-**fen\[t\]s**/. But primarily as a result of sports talk, some have shifted the accent to the first syllable: /**dee**-fen\[t\]s/. If you want to sound like a general or a lawyer, use the first of these pronunciations; if you want to sound like a sports announcer or a cheerleader, use the second. Cf. **offense**.
 
 **Language-Change Index:** *defense* pronounced with accent on first syllable: Stage 4
 
-**C. As a Verb.** In mid-20th-century AmE, *defense* came into use as a sports casualism in the sense "to defend against (a play, etc.) effectively." Because the meaning is sometimes vague and a better word or phrase is available, careful speakers and writers are likely to avoid this usage (which is inarguably more economical and may well become standard)—e.g.:
+## C. As a Verb
+
+In mid-20th-century AmE, *defense* came into use as a sports casualism in the sense "to defend against (a play, etc.) effectively." Because the meaning is sometimes vague and a better word or phrase is available, careful speakers and writers are likely to avoid this usage (which is inarguably more economical and may well become standard)—e.g.:
 
  - "The 49ers also can't be encouraged by the way they've *defensed* \[read *defended against*\] the pass all season." Jeffri Chadiha, "49ers Set Sights on Freeman," *S.F. Examiner*, 3 Jan. 1999, at C5.
 

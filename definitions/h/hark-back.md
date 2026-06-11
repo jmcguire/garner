@@ -2,7 +2,9 @@
 
 hark back.
 
-**A. And *\*hearken back*; *\*harken back*.** The phrase *hark back* is now the preferred form throughout the English-speaking world. E.g.:
+## A. And *\*hearken back*; *\*harken back*
+
+The phrase *hark back* is now the preferred form throughout the English-speaking world. E.g.:
 
  - "For an example of this sort of hazard, Biggs *harks back* to June 1950, when the Japanese market fell more than 50 percent in eight days as hostilities flared in Korea." Chet Currier, "Russia Mutual Fund May Require Leap of Faith," *News & Record* (Greensboro), 21 July 1996, at E2.
 
@@ -12,7 +14,9 @@ hark back.
 
  - Current ratio in print (*harked back* vs. *\*harkened back* vs. *\*hearkened back*): 5:3:1
 
-**B. Wrongly Written *\*harp back*.** This odd mistake seems not to have spread beyond BrE—e.g.:
+## B. Wrongly Written *\*harp back*
+
+This odd mistake seems not to have spread beyond BrE—e.g.:
 
  - "It just encourages blokes to *harp* \[read *hark*\] back to a time when men were men and women were very pissed off." Julia Clarke, "Isn't It About Time That Rabbie Was Barred?," *Daily Record* (Glasgow), 24 Jan. 1996, at 28.
 

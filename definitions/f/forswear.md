@@ -2,9 +2,13 @@
 
 forswear.
 
-**A. Inflected Forms: *forswear* \> *forswore* \> *forsworn*.** See irregular verbs.
+## A. Inflected Forms: *forswear* \> *forswore* \> *forsworn*
 
-**B. Spelling and Sense.** *Forswear* (= to renounce; pledge to give up) is sometimes misspelled *\*foreswear*—e.g.:
+See irregular verbs.
+
+## B. Spelling and Sense
+
+*Forswear* (= to renounce; pledge to give up) is sometimes misspelled *\*foreswear*—e.g.:
 
  - "In threatening a trade war, the administration also undercut the fledgling World Trade Organization and the principles that nations *foreswear* \[read *forswear*\] tariffs as weapons and play by the same rules." John Talton, "It's Too Soon to Celebrate Trade Pact," *Cincinnati Enquirer*, 29 June 1995, at B11.
 

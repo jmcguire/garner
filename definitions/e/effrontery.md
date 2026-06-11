@@ -2,7 +2,9 @@
 
 effrontery.
 
-**A. For *affront*.** *Effrontery* (= shameless insolence), when misused for *affront* (= an open insult), is a malapropism. E.g.:
+## A. For *affront*
+
+*Effrontery* (= shameless insolence), when misused for *affront* (= an open insult), is a malapropism. E.g.:
 
  - "This is the ultimate *effrontery* \[read *affront*\] to the people who support the team—the fans." "Don't Tread on Me," *St. Louis Post-Dispatch*, 15 Sept. 1989, at C2.
 
@@ -13,7 +15,9 @@ effrontery.
  - *effrontery* misused for *affront*: Stage 1
  - Current ratio in print (*an affront to* vs. *\*an effrontery to*): 344:1
 
-**B. Misspelled *\*affrontery*.** This malapropism has occurred with some frequency since the late 1600s. It remains fairly common today—e.g.:
+## B. Misspelled *\*affrontery*
+
+This malapropism has occurred with some frequency since the late 1600s. It remains fairly common today—e.g.:
 
  - "His fiery Spanish nature refused to allow him to accept such *affrontery* \[read *effrontery*\]." Furman Bisher, "Alvarez Puts ‘W' Back in Wisconsin," *Atlanta J.-Const.*, 4 Mar. 1994, at E1.
 

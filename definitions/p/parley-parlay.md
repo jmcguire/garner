@@ -2,7 +2,9 @@
 
 parley; parlay.
 
-**A. As Nouns.** A *parley* /**pahr**-lee/ is a discussion of disputed matters, especially a negotiation between warring parties to end hostilities. A *parlay* /**pahr**-lay/ is a series of all-or-nothing wagers made in hopes of eventually accumulating large winnings.
+## A. As Nouns
+
+A *parley* /**pahr**-lee/ is a discussion of disputed matters, especially a negotiation between warring parties to end hostilities. A *parlay* /**pahr**-lay/ is a series of all-or-nothing wagers made in hopes of eventually accumulating large winnings.
 
 Each word is sometimes misused for the other—e.g.:
 
@@ -12,7 +14,9 @@ Each word is sometimes misused for the other—e.g.:
 
  - Current ratio in print (*peace parleys* vs. *\*peace parlays*): 9:1
 
-**B. As Verbs.** *Parley* = (1) to discuss differences of opinions; or (2) to negotiate an agreement or settlement, esp. an end to a war. *Parlay* = (1) to repeatedly wager the original stake plus the accumulated winnings; or (2) in an extended sense, to use something on which to build momentum or to use as a foundation.
+## B. As Verbs
+
+*Parley* = (1) to discuss differences of opinions; or (2) to negotiate an agreement or settlement, esp. an end to a war. *Parlay* = (1) to repeatedly wager the original stake plus the accumulated winnings; or (2) in an extended sense, to use something on which to build momentum or to use as a foundation.
 
 Although word-swapping is rare with these verbs, it does occur—e.g.:
 

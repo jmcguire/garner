@@ -2,7 +2,9 @@
 
 avenge.
 
-**A. And *revenge*, vb.** & n. To *avenge* is to visit fitting retribution on a wrongdoer by reason of (a specified wrong). *Avenge* and *vengeance* have to do with justice, and often with the legal process—e.g.:
+## A. And *revenge*, vb
+
+& n. To *avenge* is to visit fitting retribution on a wrongdoer by reason of (a specified wrong). *Avenge* and *vengeance* have to do with justice, and often with the legal process—e.g.:
 
  - "He longs to see his friends' deaths *avenged*, to get a date with Beth Penrose, and to keep her from the amorous advances of the FBI liaison working on the case." Susan Marx, "A Fruitful Mix of Mystery and Romance," *Orange County Register*, 27 July 1997, at F24.
 
@@ -30,7 +32,9 @@ Often, too, *revenge* is a reflexive verb—e.g.:
 
 Moreover, *revenge* can (and usually does) function as a noun, whereas *avenge* cannot.
 
-**B. *Avenge* for *get revenge*.** Although the *OED* supports the notion that *avenge* may also mean "to take vengeance on (a wrongdoer)," this sense is labeled obsolete and the few examples are from the mid-1600s. Today this sense is fairly rare and not at all idiomatic—e.g.: "Not only did they *avenge* \[read *get revenge on*\] the schoolyard bullies and nasty teachers, but they're also famous for it, because they got their faces all over the news." Jack Levin & James Alan Fox, "Making Celebrities of Serial Killers Elevates Threat," *USA Today*, 23 Oct. 2002, at A13.
+## B. *Avenge* for *get revenge*
+
+Although the *OED* supports the notion that *avenge* may also mean "to take vengeance on (a wrongdoer)," this sense is labeled obsolete and the few examples are from the mid-1600s. Today this sense is fairly rare and not at all idiomatic—e.g.: "Not only did they *avenge* \[read *get revenge on*\] the schoolyard bullies and nasty teachers, but they're also famous for it, because they got their faces all over the news." Jack Levin & James Alan Fox, "Making Celebrities of Serial Killers Elevates Threat," *USA Today*, 23 Oct. 2002, at A13.
 
 **Language-Change Index:**
 

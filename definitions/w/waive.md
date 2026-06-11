@@ -2,9 +2,13 @@
 
 waive.
 
-**A. Narrowing of Sense.** This word has undergone what is known as "specialization," its primary sense having gotten narrower with time. Originally, *waive* was just as broad as *abandon* \<the fleeing thief waived the stolen goods\>. But today, *waive* means "to relinquish voluntarily (something that one has the right to expect)" \<the popular entertainer waived her usual fee\>.
+## A. Narrowing of Sense
 
-**B. Confused with *wave***. *Waive* sometimes occurs where *wave* (= to move to and fro, esp. with the hand) belongs—e.g.:
+This word has undergone what is known as "specialization," its primary sense having gotten narrower with time. Originally, *waive* was just as broad as *abandon* \<the fleeing thief waived the stolen goods\>. But today, *waive* means "to relinquish voluntarily (something that one has the right to expect)" \<the popular entertainer waived her usual fee\>.
+
+## B. Confused with *wave*
+
+*Waive* sometimes occurs where *wave* (= to move to and fro, esp. with the hand) belongs—e.g.:
 
  - "The wife sat down and the presiding priest, *waiving* \[read *waving*\] aside the husband's lawyer as he had the wife's, asked to hear the husband's side of the case." John R. Allison, "Five Ways to Keep Disputes Out of Court," *Harv. Bus. Rev.*, Jan.–Feb. 1990, at 166.
 

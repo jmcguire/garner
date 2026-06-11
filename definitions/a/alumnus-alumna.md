@@ -2,7 +2,9 @@
 
 alumnus; alumna.
 
-**A. Plurals: *alumni*; *alumnae*; *alums*; *\*alumns*.** *Alumni* /ә-**lәm**-nī/ traditionally refers either to male graduates or to males and females collectively; the singular form, which is masculine, is *alumnus*. *Alumnae* /ә-**lәm**-nee/ traditionally refers to female graduates and not to mixed groups; the singular is *alumna*.
+## A. Plurals: *alumni*; *alumnae*; *alums*; *\*alumns*
+
+*Alumni* /ә-**lәm**-nī/ traditionally refers either to male graduates or to males and females collectively; the singular form, which is masculine, is *alumnus*. *Alumnae* /ә-**lәm**-nee/ traditionally refers to female graduates and not to mixed groups; the singular is *alumna*.
 
 Because the plural *alumni* is not considered sex-specific, the phrase *female alumni* (much on the rise since the 1970s) isn't redundant in the way that *\*female alumnae* is.
 
@@ -20,7 +22,9 @@ One common mistake with these words is confusing their number, as by using *alum
 
  - "I've been doing nothing all day but spouting bullshit: to the press, to trustees, to parents, to *alumns* \[read *alums*\]." Joanne Dobson, *Quieter than Sleep* 136 (1997).
 
-**B. *\*Former alumnus*, *alumna*.** Just as a graduate is always a graduate, an *alumnus* or *alumna* is ever thus. Yet the strange redundancy *\*former alumnus* is fairly common—e.g.:
+## B. *\*Former alumnus*, *alumna*
+
+Just as a graduate is always a graduate, an *alumnus* or *alumna* is ever thus. Yet the strange redundancy *\*former alumnus* is fairly common—e.g.:
 
  - "Gregory Bellamy, a friend of Sean Taylor's, speaks at a memorial service at Gulliver Preparatory School for the slain *former alumnus* \[delete *former*\] and NFL safety." Shandel Richardson & Joel Marino, "Rolle: Taylor Was a Target," *Sun-Sentinel* (Ft. Lauderdale), 29 Nov. 2007, at C1 (photo caption).
 

@@ -2,7 +2,9 @@
 
 no less.
 
-**A. And *no fewer*.** The phrase *no less*, like *less*, preferably refers to amounts or to mass nouns, not countable numbers. *No fewer* is the better phrase when discussing numbers of things. (See **less (a)**.) But many good writers nod on this point—e.g.:
+## A. And *no fewer*
+
+The phrase *no less*, like *less*, preferably refers to amounts or to mass nouns, not countable numbers. *No fewer* is the better phrase when discussing numbers of things. (See **less (a)**.) But many good writers nod on this point—e.g.:
 
  - "In this annual, there are *no less* \[read *no fewer*\] than five painters banking on wax for beauty." Regina Hackett, "A Chance to Shine in Bellevue," *Seattle Post-Intelligencer*, 19 July 1997, at C1.
 
@@ -14,5 +16,7 @@ When the sense is *nothing short of*, that phrase (or *nothing less than*) typic
 
 **Language-Change Index:** *no less* for *no fewer* in reference to a count noun: Stage 4
 
-**B. And *not less*.** *No less* subtly connotes surprise \<he weighs no less than 300 pounds\>. The phrasing in the example expresses astonishment that he weighs so much. *Not less* is more clinical and dispassionate \<he weighs not less than 300 pounds\>. That example states matter-of-factly that he weighs at least that much and maybe more.
+## B. And *not less*
+
+*No less* subtly connotes surprise \<he weighs no less than 300 pounds\>. The phrasing in the example expresses astonishment that he weighs so much. *Not less* is more clinical and dispassionate \<he weighs not less than 300 pounds\>. That example states matter-of-factly that he weighs at least that much and maybe more.
 

@@ -2,7 +2,9 @@
 
 between.
 
-**A. And *among*.** *Between* is commonly said to be proper with two things, and *among* with more than two. Ernest Gowers calls this a "superstition" and quotes the *OED*: "In all senses *between* has been, from its earliest appearance, extended to more than two. . . . It is still the only word available to express the relation of a thing to many surrounding things severally and individually; *among* expresses a relation to them collectively and vaguely: we should not say *the space lying among the three points* or *a treaty among three Powers*" (*FMEU2* at 57). Another critic agrees: "A man may halt between *three* as well as *two* opinions." G.H. Vallins, *Better English* 68 (4th ed. 1957). For more authorities to this effect, see superstitions (h).
+## A. And *among*
+
+*Between* is commonly said to be proper with two things, and *among* with more than two. Ernest Gowers calls this a "superstition" and quotes the *OED*: "In all senses *between* has been, from its earliest appearance, extended to more than two. . . . It is still the only word available to express the relation of a thing to many surrounding things severally and individually; *among* expresses a relation to them collectively and vaguely: we should not say *the space lying among the three points* or *a treaty among three Powers*" (*FMEU2* at 57). Another critic agrees: "A man may halt between *three* as well as *two* opinions." G.H. Vallins, *Better English* 68 (4th ed. 1957). For more authorities to this effect, see superstitions (h).
 
 In terms of frequency, the collocation *between three* has outstripped *among three*—by a significant margin—in all periods of English since 1500. The same is true of *between four* vs. *among four*.
 
@@ -22,7 +24,9 @@ Sometimes, however, the sense is anything but reciprocal or mutual. Without a on
 
  - "In a recent interview, Mr. Weitzner explained the relationships *between* \[read *among*\] the various entities at 741 Alexander." Brett Pulley, "At One Office, Intricate Links in New Jersey's G.O.P. Funds," *N.Y. Times*, 8 July 1996, at A1, A9. (*Among* is correct here because the multitude of interlocking political organizations is being stressed.)
 
-**B. *Between you and me*; *\*between you and I*.** Because the pronouns following *between* are objects of the preposition, the correct phrasing has long been regarded as *between you and me*. Yet the phrasing *\*between you and I* is common—"a grammatical error of unsurpassable grossness," as one commentator puts it. The grammatical error is committed almost exclusively by educated speakers trying a little too hard to sound refined but stumbling badly. It's almost surely an ingrained instance of hypercorrection based on childhood admonitions not to use *you and me* (or similar compounds) as the subject of the sentence—and, far more confusing to most people, as a predicate nominative in sentences such as *it is I*. See pronouns (b) & hypercorrection (b).
+## B. *Between you and me*; *\*between you and I*
+
+Because the pronouns following *between* are objects of the preposition, the correct phrasing has long been regarded as *between you and me*. Yet the phrasing *\*between you and I* is common—"a grammatical error of unsurpassable grossness," as one commentator puts it. The grammatical error is committed almost exclusively by educated speakers trying a little too hard to sound refined but stumbling badly. It's almost surely an ingrained instance of hypercorrection based on childhood admonitions not to use *you and me* (or similar compounds) as the subject of the sentence—and, far more confusing to most people, as a predicate nominative in sentences such as *it is I*. See pronouns (b) & hypercorrection (b).
 
 Still, defenders of the solecism are fond of quoting early writers, who worked at a time when the language was not so fully developed. Back in 1892, Henry Sweet was quite right to say that in Early Modern English, "the usage was more unsettled than now, the nominative being as freely substituted for the objective as vice-versa, as in such constructions as *'tween you and I*. *You and I* were so frequently joined together as nominatives—*you and I will go together*, etc.—that the three words formed a sort of group-compound, whose last element became invariable." 1 Henry Sweet, *A New English Grammar, Logical and Historical* 340–41 (1892).
 
@@ -47,7 +51,9 @@ In a 2021 poll taken at a Cosmos Club event in Washington, D.C., 100% of those v
  - *\*between you and I* for *between you and me*: Stage 3
  - Current ratio in print (*between you and me* vs. *\*between you and I*): 16:1
 
-**C. *Between* and Numbers.** This usage causes problems if the things being counted are discrete units and the numbers at each extreme are intended to be included. E.g.:
+## C. *Between* and Numbers
+
+This usage causes problems if the things being counted are discrete units and the numbers at each extreme are intended to be included. E.g.:
 
  - "Saleh met with several other defendants in a Queens garage *between June 23 and June 24* \[read (depending on the meaning) *from June 23 to June 24* or *on June 23 or 24*\] to discuss getting cars for the conspiracy." Peg Tyre & Kevin McCoy, "Busted at Beach," *Newsday* (N.Y.), 24 July 1993, at 3. (There is no time between June 23 and June 24.)
 
@@ -67,7 +73,9 @@ When you intend to refer to a range of possibilities from a low point to a high 
 
 2. *\*between* \[date 1\] *to* \[date 2\] for *between* \[date 1\] *and* \[date 2\]: Stage 2
 
-**D. *Choose between*.** This construction (with various verbs of selection) takes *and*, not *or*. The misuse probably results from confusion between *between . . . and* and *either . . . or*—e.g.:
+## D. *Choose between*
+
+This construction (with various verbs of selection) takes *and*, not *or*. The misuse probably results from confusion between *between . . . and* and *either . . . or*—e.g.:
 
  - "Guests can choose *between* ‘Eve of the Eve Classic,' a smaller, more elegant affair with dinner and open bar, *or* \[read *and*\] the general ‘Eve of the Eve' party, which accommodates more than 2,000 revelers." Audarshia Townsend, "Parties for the Celebratory Mood," *Chicago Trib.*, 21 Dec. 2001, at 31.
 
@@ -77,9 +85,13 @@ Both logic and idiom require *and* in these constructions, not *or*. One chooses
 
  - Current ratio in print (*choose between him and X* vs. *\*choose between him or X*): 18:1
 
-**E. *Between*; *as between*.** Sometimes *as between* (= comparing; in comparison of) is misused for the straightforward preposition. E.g.: "The contractual provisions *as between* \[read *between*\] the parties are as follows." Cf. **as against**.
+## E. *Between*; *as between*
 
-**F. *\*Between each* and Other Constructions with Fewer than Two Objects.** This phrasing is a peculiar brand of illogic, as in *\*between each house* and *\*between each speech* (instead of, properly, *between every two houses* and *between speeches*). Although it is possible to think of *\*between each house* as being an ellipsis for *between each house and the next*, native speakers of English don't consciously think of the phrase in this way. And the resulting expression is literally nonsensical—e.g.:
+Sometimes *as between* (= comparing; in comparison of) is misused for the straightforward preposition. E.g.: "The contractual provisions *as between* \[read *between*\] the parties are as follows." Cf. **as against**.
+
+## F. *\*Between each* and Other Constructions with Fewer than Two Objects
+
+This phrasing is a peculiar brand of illogic, as in *\*between each house* and *\*between each speech* (instead of, properly, *between every two houses* and *between speeches*). Although it is possible to think of *\*between each house* as being an ellipsis for *between each house and the next*, native speakers of English don't consciously think of the phrase in this way. And the resulting expression is literally nonsensical—e.g.:
 
  - "A series of three or more words, phrases, or clauses (like this) takes a comma *between each of the elements* \[read *between the elements*\] and before a conjunction separating the last two." Kate L. Turabian, *A Manual for Writers of Term Papers, Theses, and Dissertations* § 3.68, at 50 (5th ed. 1987).
 

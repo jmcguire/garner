@@ -2,7 +2,9 @@
 
 number of.
 
-**A. *A number of*.** Some pedants think that correctness dictates *a number of people is*. One critic, for example, refers to "the growing habit of using plural verbs with singular nouns," adding: " ‘A number of voters were unhappy' illustrates the offense." F. Thomas Trotter, "Out on the Campaign Trail, English Grammar Trampled," *Nashville Banner*, 12 Sept. 1996, at A13.
+## A. *A number of*
+
+Some pedants think that correctness dictates *a number of people is*. One critic, for example, refers to "the growing habit of using plural verbs with singular nouns," adding: " ‘A number of voters were unhappy' illustrates the offense." F. Thomas Trotter, "Out on the Campaign Trail, English Grammar Trampled," *Nashville Banner*, 12 Sept. 1996, at A13.
 
 But *a number of* is quite correctly paired with a plural noun and a plural verb, as in *there are a number of reasons*—e.g.:
 
@@ -47,9 +49,13 @@ Few usage critics have ever discussed this particular point. One who did, G.H. V
  - *a number of* with plural noun and plural verb: Stage 5
  - Current ratio in print (*a number of them were* vs. *\*a number of them was*): 51:1
 
-**B. *The number of*.** When the phrase is used with the definite article *the*, everything changes. Now, instead of talking about the multiple things, we're talking about the number itself, which is singular \<the number of students planning to attend college is steadily rising\>. E.g.: "While the number of cases *are* \[read *is*\] still relatively low compared with the United States and elsewhere, these new outbreaks . . . are showcasing the limitations of China's zero-tolerance approach to Covid." Sui-Lee Wee & Elsie Chen, "Delta Outbreak in China Tests a Success Story," *N.Y. Times*, 5 Aug. 2021, at A1, A10.
+## B. *The number of*
+
+When the phrase is used with the definite article *the*, everything changes. Now, instead of talking about the multiple things, we're talking about the number itself, which is singular \<the number of students planning to attend college is steadily rising\>. E.g.: "While the number of cases *are* \[read *is*\] still relatively low compared with the United States and elsewhere, these new outbreaks . . . are showcasing the limitations of China's zero-tolerance approach to Covid." Sui-Lee Wee & Elsie Chen, "Delta Outbreak in China Tests a Success Story," *N.Y. Times*, 5 Aug. 2021, at A1, A10.
 
  - Current ratio in print (*the number of people was* vs. *\*the number of people were*): 6:1
 
-**C. With *most*.** See **\*most number of things**.
+## C. With *most*
+
+See **\*most number of things**.
 

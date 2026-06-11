@@ -2,7 +2,9 @@
 
 circumlocution.
 
-**A. Generally.** Circumlocution is roundabout speech or language, or else the use of many words where a few would suffice. People who use circumlocutions are generally not admired for doing so, as the following quotations attest:
+## A. Generally
+
+Circumlocution is roundabout speech or language, or else the use of many words where a few would suffice. People who use circumlocutions are generally not admired for doing so, as the following quotations attest:
 
  - "It's really grown tiresome, hearing so many versions of the same excuse, so many *circumlocutions* around the truth." Anita Creamer, " ‘Experimenting' with the Truth," *Sacramento Bee*, 19 Aug. 1996, at C1.
 
@@ -12,11 +14,15 @@ circumlocution.
 
 One of the most famous government departments in all literature is Charles Dickens's "Circumlocution Office" in *Little Dorrit* (1857–1858).
 
-**B. And *circuity*.** *Circumlocution* is not the noun form corresponding to *circuitous*, which means "winding, tortuous, anfractuous"—the noun for *circuitous* being *circuity*. E.g.: "I bring this up because only now do I recognize the vast *circumlocution* \[read *circuity*\] of the route which I've been cheerfully driving for the past year, a path which was anything but a straight line, horizontally or vertically." Jay Bailey, "Riding on the Disneyland Bypass Road," *Jerusalem Post*, 6 Sept. 1996, at 10.
+## B. And *circuity*
+
+*Circumlocution* is not the noun form corresponding to *circuitous*, which means "winding, tortuous, anfractuous"—the noun for *circuitous* being *circuity*. E.g.: "I bring this up because only now do I recognize the vast *circumlocution* \[read *circuity*\] of the route which I've been cheerfully driving for the past year, a path which was anything but a straight line, horizontally or vertically." Jay Bailey, "Riding on the Disneyland Bypass Road," *Jerusalem Post*, 6 Sept. 1996, at 10.
 
 **Language-Change Index:** *circumlocution* misused for *circuity*: Stage 1
 
-**C. Adjectival Forms.** If the noun corresponding to *circuitous* is seldom used, so is the adjective corresponding to *circumlocution*: *circumlocutory*. E.g.: "He's impatient with compliments, *circumlocutory* in his answers and cheerfully forthcoming with amusing stories that, on reflection, tell you almost nothing about him." Ken Ringle, "Fighting Words," *Wash. Post*, 21 Aug. 1996, at D1.
+## C. Adjectival Forms
+
+If the noun corresponding to *circuitous* is seldom used, so is the adjective corresponding to *circumlocution*: *circumlocutory*. E.g.: "He's impatient with compliments, *circumlocutory* in his answers and cheerfully forthcoming with amusing stories that, on reflection, tell you almost nothing about him." Ken Ringle, "Fighting Words," *Wash. Post*, 21 Aug. 1996, at D1.
 
 Avoid the synonymous variants *\*circumlocutionary* and *\*circumlocutious*—e.g.:
 

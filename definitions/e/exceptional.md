@@ -2,7 +2,9 @@
 
 exceptional.
 
-**A. And *exceptionable*.** *Exceptional* = out of the ordinary; uncommon; rare; superior. *Exceptionable* = likely to draw an objection; likely to offend someone. E.g.: "It is the same ideological insularity that found nothing terribly *exceptionable*—until the firestorm—with the racial spoils system advocated by Lani Guinier." Charles Krauthammer, "Abortion Is Legal, Not Moral," *Cincinnati Enquirer*, 13 Feb. 1995, at A10.
+## A. And *exceptionable*
+
+*Exceptional* = out of the ordinary; uncommon; rare; superior. *Exceptionable* = likely to draw an objection; likely to offend someone. E.g.: "It is the same ideological insularity that found nothing terribly *exceptionable*—until the firestorm—with the racial spoils system advocated by Lani Guinier." Charles Krauthammer, "Abortion Is Legal, Not Moral," *Cincinnati Enquirer*, 13 Feb. 1995, at A10.
 
 *Exceptionable*, of course, is the much rarer term. And about 20% of the time it appears in print, it's misused for *exceptional*—e.g.:
 
@@ -17,7 +19,9 @@ exceptional.
  - *exceptionable* misused for *exceptional*: Stage 1
  - Current ratio in print (*exceptional circumstances* vs. *\*exceptionable circumstances*): 2,229:1
 
-**B. Meaning "physically or mentally handicapped."** The problem with using the word as a euphemism in this way is that it can result in ambiguity: *exceptional* can mean either "having above-average intelligence" (i.e., gifted) or "having below-average intelligence" (i.e., intellectually disabled). In passages such as the following, *exceptional* is symptomatic of doublespeak: "The Resource Directory also lists state and federal agencies that can assist parents with *exceptional* children." Patricia Galbreaith, "Hints for the Disabled," *Dallas Morning News*, 1 Aug. 1997, at C10.
+## B. Meaning "physically or mentally handicapped."
+
+The problem with using the word as a euphemism in this way is that it can result in ambiguity: *exceptional* can mean either "having above-average intelligence" (i.e., gifted) or "having below-average intelligence" (i.e., intellectually disabled). In passages such as the following, *exceptional* is symptomatic of doublespeak: "The Resource Directory also lists state and federal agencies that can assist parents with *exceptional* children." Patricia Galbreaith, "Hints for the Disabled," *Dallas Morning News*, 1 Aug. 1997, at C10.
 
 **Language-Change Index:** *exceptional* as doublespeak for *handicapped*: Stage 3
 

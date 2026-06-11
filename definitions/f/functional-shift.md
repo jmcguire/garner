@@ -2,7 +2,9 @@
 
 Functional Shift .
 
-**A. Generally.** Renaissance rhetoricians called it *enallage* /i-**nal**-i-jee/, and some modern grammarians call it *transfer*: the ability of a word to shift from one grammatical function to another. A noun acts as an adjective (*candy store*); an adjective as a noun (*a collectible*); a noun as a verb (*housing the collection*); a verb as a noun (*apt quotes*); and so on. Many of these functional shifts lead to a compactness that Americans like: "We Americans will not use the more elaborate form when the simpler, more direct one is absolutely unambiguous and does the work without a hitch." Edward N. Teall, *Putting Words to Work* 25 (1940).
+## A. Generally
+
+Renaissance rhetoricians called it *enallage* /i-**nal**-i-jee/, and some modern grammarians call it *transfer*: the ability of a word to shift from one grammatical function to another. A noun acts as an adjective (*candy store*); an adjective as a noun (*a collectible*); a noun as a verb (*housing the collection*); a verb as a noun (*apt quotes*); and so on. Many of these functional shifts lead to a compactness that Americans like: "We Americans will not use the more elaborate form when the simpler, more direct one is absolutely unambiguous and does the work without a hitch." Edward N. Teall, *Putting Words to Work* 25 (1940).
 
 By itself, of course, a word has no part of speech. Only in context does a part-of-speech label make any sense. Still, many words appear usually as one or another part of speech, so that we tend to think of even an isolated word as being a noun, verb, adjective, etc. For example, most people see *umpire* as a noun, and to say that you are *umpiring* a baseball game sounds, to most speakers of English who might pause to consider the point, as if you are using a noun as a verb. This type of shift involves an age-old custom that was especially robust in the Elizabethan age. Although a functional shift sometimes upsets purists—indeed, a new shift (such as *officing* or *tasking*) often seems ugly at first—both colloquial usage and literary usage tend to defy them in the long run.
 
@@ -10,7 +12,9 @@ But this inevitably runs only to certain types of shifts: noun-to-adjective, nou
 
 For a general discussion of functional shift in relation to changes in the meanings of words, see semantic change (a).
 
-**B. Nouns as Adjectives.** The transmutation of nouns into adjectives is one of the most frequent types of functional shift. Henry Bradley noted this linguistic feature in 1904:
+## B. Nouns as Adjectives
+
+The transmutation of nouns into adjectives is one of the most frequent types of functional shift. Henry Bradley noted this linguistic feature in 1904:
 
 One highly important feature of English grammar which has been developed since Old English days is what has been called the attributive use of the substantive, which may be exemplified by such expressions as "a silk hat," "the London County Council," "the Shakspere Tercentenary," "Church of England principles," "a House of Commons debate," "the Marriage Law Amendment Act," "the half-past-two train," "the London, Brighton, and South Coast Railway," "the High-street front of the Town Hall," "my lawyer cousin." No other European language has anything exactly parallel to this usage.
 
@@ -26,7 +30,9 @@ The adjective–noun relationship often becomes vague when nouns that would norm
 
 Almost every phrasal adjective involves a noun phrase used adjectivally—hence *birch tree* yields *birch-tree study*, *government department* yields *government-department brouhaha*, *space flight* yields *space-flight objectives*, and so on.
 
-**C. Adjectives as Nouns.** Many English words that are ordinarily adjectives can function as nouns (*collectibles*, *edibles*, *receivables*, *rentals*). *Indigent* was originally an adjective (1400s), but it came to be used as a noun (1500s). The same process occurred with *editorial*, *hypothetical*, *postmortem*, *principal* (= \[1\] principal investment; or \[2\] principal administrator), *ignitables*, *potential*, *explosives*, and *recitative*. Among recent examples are *finals* (= final examinations) and *classifieds* (= classified advertisements). Other examples are not hard to come by:
+## C. Adjectives as Nouns
+
+Many English words that are ordinarily adjectives can function as nouns (*collectibles*, *edibles*, *receivables*, *rentals*). *Indigent* was originally an adjective (1400s), but it came to be used as a noun (1500s). The same process occurred with *editorial*, *hypothetical*, *postmortem*, *principal* (= \[1\] principal investment; or \[2\] principal administrator), *ignitables*, *potential*, *explosives*, and *recitative*. Among recent examples are *finals* (= final examinations) and *classifieds* (= classified advertisements). Other examples are not hard to come by:
 
  - my dearest
  - the accused
@@ -40,7 +46,9 @@ Almost every phrasal adjective involves a noun phrase used adjectivally—hence 
 
 Though words that have recently undergone semantic shift are typically unsuitable for formal contexts, we should resist the benighted temptation to condemn all such shifts in parts of speech if they help fill gaps in the language. But as one commentator notes, some shifts have little to recommend them: "Can't we at least use correct English? That would distinguish Richmond from those places where the likes of ‘multicultural collaboratives' are springing up. *Collaborative*, of course, is not a noun; it is an adjective. There can no more be a *collaborative* for youth than there can be an *exhaustive* for marathoners or a *repressive* for dictators or a *suggestive* for exotic dancers." Robert Holland, "No Collaboration Without Elaboration," *Richmond Times-Dispatch*, 30 July 1997, at A13. As the headline says, the critic here would substitute the noun *collaboration*.
 
-**D. Nouns as Verbs.** A type of semantic shift a little less common than the noun-to-adjective shift occurs when nouns function as verbs. There are scores of examples, such as *appeal*, *bias*, *deal*, *function* (as in the preceding sentence), *handle*, *people*, *perfume*, *reward*, *room*, *silence*, *survey*, and *weather*. Often these new usages are slangy—e.g.:
+## D. Nouns as Verbs
+
+A type of semantic shift a little less common than the noun-to-adjective shift occurs when nouns function as verbs. There are scores of examples, such as *appeal*, *bias*, *deal*, *function* (as in the preceding sentence), *handle*, *people*, *perfume*, *reward*, *room*, *silence*, *survey*, and *weather*. Often these new usages are slangy—e.g.:
 
  - " ‘The Firm' . . . for a time even out-*box-officed* ‘Jurassic Park.' " Joe Dirck, "Grisham's Latest Loses on Appeal," *Plain Dealer* (Cleveland), 22 May 1994, at K1.
 
@@ -60,7 +68,9 @@ Some brand names are susceptible of being used as verbs (e.g., *Xerox* for "copy
 
 For other examples of noun-to-verb shifts, see **author**, **autopsy**, **gift**, **honcho**, **impact**, **juxtaposition**, **mainstream**, **office**, **premier** (where *premiere* is discussed) & **reference**.
 
-**E. Verbs as Nouns.** Since the late 20th century, there has been a distinct tendency to replace several nouns with terms that have traditionally been regarded exclusively as verbs. "That's a big *ask*." "Take a *listen*." "What's your *solve* for this problem?" "Let's focus on the *build*." "Get ready for the big *reveal*." This type of linguistic conversion—an aspect of modern commercialese—can irritate traditionalists.
+## E. Verbs as Nouns
+
+Since the late 20th century, there has been a distinct tendency to replace several nouns with terms that have traditionally been regarded exclusively as verbs. "That's a big *ask*." "Take a *listen*." "What's your *solve* for this problem?" "Let's focus on the *build*." "Get ready for the big *reveal*." This type of linguistic conversion—an aspect of modern commercialese—can irritate traditionalists.
 
 Yet many instances date back centuries. The noun *listen*, dating from the 1700s, is in this category. *Interdict* has been used as a noun since the 1200s; it's 300 years older than *interdiction*. The noun *reveal* was used in the 1500s and 1600s and then revived by advertisers and broadcasters in the mid-1900s.
 
@@ -70,7 +80,9 @@ Sometimes verb-to-noun conversions noticeably serve the interest of economy: a s
 
 For some audiences, these conversions may serve that interest or various others, including the image of being au courant with the current jargon.
 
-**F. Adjectives as Verbs.** Adjective-to-verb transformations have never been common in English. They usually have a jargonistic quality (as in the first and third examples below) or a trendy quality (as in the second). Careful writers tend to avoid them or, when quoting someone else, to distance themselves with telltale quotation marks (as in the first example):
+## F. Adjectives as Verbs
+
+Adjective-to-verb transformations have never been common in English. They usually have a jargonistic quality (as in the first and third examples below) or a trendy quality (as in the second). Careful writers tend to avoid them or, when quoting someone else, to distance themselves with telltale quotation marks (as in the first example):
 
  - "The New York City Fire Commissioner directed that her cargo tanks be ‘*inerted*' through the introduction of carbon dioxide into the tanks." Grant Gilmore & Charles L. Black Jr., *The Law of Admiralty* 925 (2d ed. 1975).
 
@@ -80,9 +92,15 @@ For some audiences, these conversions may serve that interest or various others,
 
 There are exceptions \<greening rooftops\>. And to copyeditors, it is natural to talk about *lowercasing* and *uppercasing* words. But to those not familiar with copyediting, references such as these smell of jargon.
 
-**G. Prepositions as Adverbs or Particles.** Many prepositions (such as *by*, *down*, *in*, *off*, *on*, and *up*) function also as particles in phrasal verbs (some grammarians call them adverbs). The distinguishing feature is that the preposition invariably has an object \<we walked by the park\>, whereas a particle does not \<they never came by\>. When people bristle at the sight of a sentence-ending preposition, the preposition is often functioning as a particle \<we'll try to work you in\>. See prepositions (b) & superstitions (a).
+## G. Prepositions as Adverbs or Particles
 
-**H. Conjunctions as Prepositions.** Conjunctions such as *but* and *than* may serve as prepositions. Compare the prepositional *but* in *Everyone but you was there* (*but* meaning "except") with the conjunctive *but* in *She liked the design, but she didn't like the drawing*. See **but (d)** & **than (c)**.
+Many prepositions (such as *by*, *down*, *in*, *off*, *on*, and *up*) function also as particles in phrasal verbs (some grammarians call them adverbs). The distinguishing feature is that the preposition invariably has an object \<we walked by the park\>, whereas a particle does not \<they never came by\>. When people bristle at the sight of a sentence-ending preposition, the preposition is often functioning as a particle \<we'll try to work you in\>. See prepositions (b) & superstitions (a).
 
-**I. Any Other Part of Speech as an Interjection.** Almost any word can serve as an interjection. You might call it an exclamatory noun or verb, or an exclamatory conjunction, but in fact it is probably functioning as an interjection: *great\!* (adjective); *moron\!* (noun); *look\!* (verb); *fast\!* (adverb); *you\!* (pronoun); *if only\!* (conjunction).
+## H. Conjunctions as Prepositions
+
+Conjunctions such as *but* and *than* may serve as prepositions. Compare the prepositional *but* in *Everyone but you was there* (*but* meaning "except") with the conjunctive *but* in *She liked the design, but she didn't like the drawing*. See **but (d)** & **than (c)**.
+
+## I. Any Other Part of Speech as an Interjection
+
+Almost any word can serve as an interjection. You might call it an exclamatory noun or verb, or an exclamatory conjunction, but in fact it is probably functioning as an interjection: *great\!* (adjective); *moron\!* (noun); *look\!* (verb); *fast\!* (adverb); *you\!* (pronoun); *if only\!* (conjunction).
 

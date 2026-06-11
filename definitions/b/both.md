@@ -2,7 +2,9 @@
 
 both.
 
-**A. *Both . . . and*.** These correlative conjunctions must frame matching sentence parts—e.g.:
+## A. *Both . . . and*
+
+These correlative conjunctions must frame matching sentence parts—e.g.:
 
  - "He was trying *both* to establish himself in his new league *and* to justify the contract extension he was given through 2002." Phil Rogers, "Indians' Grissom Showing He's Big-Time Player," *Chicago Sun-Times*, 11 Oct. 1997, at 3. (The conjunctions frame two infinitives.)
 
@@ -12,7 +14,9 @@ both.
 
 See parallelism.
 
-**B. *\*Both . . . as well as*.** This construction is both unidiomatic and verbose for *both . . . and*. E.g.:
+## B. *\*Both . . . as well as*
+
+This construction is both unidiomatic and verbose for *both . . . and*. E.g.:
 
  - "But I think it should be obvious—*both* to the characters *as well as* \[read *and*\] to the reader." Denise Gess, "Susan Lucci's Next Movie of the Week," *News & Observer* (Raleigh), 14 Sept. 1997, at G4.
 
@@ -20,7 +24,9 @@ See parallelism.
 
 **Language-Change Index:** *\*both . . . as well as* for *both . . . and*: Stage 2
 
-**C. Redundancies with.** Several wordings with *both* cause redundancies. One is *\*both . . . each other*—e.g.:
+## C. Redundancies with
+
+Several wordings with *both* cause redundancies. One is *\*both . . . each other*—e.g.:
 
  - "Earlier, *both sides had blamed each other* \[read *each side had blamed the other*\] for the error that saw tax revenues collected when they shouldn't have been." Jerry Graff, "Edinburgh Treasurer Wants Full Tax Report," *Indianapolis News*, 31 July 1995, at D8.
 
@@ -30,7 +36,9 @@ See parallelism.
 
 Another is *\*both alike*—e.g.: "This makes treating *both alike* \[read *the two alike*\] difficult." Daniel F. Akerson, "Let the Innovators Innovate," *Investor's Bus. Daily*, 8 Apr. 1996, at A2. Still another is *\*both . . . similar*—e.g.: "In other words, the mission of *both* \[read *the two*\] state agencies is *similar*." Garvey Winegar, "Money Source of Friction Between Outdoor Agencies," *Richmond Times-Dispatch*, 17 Jan. 2001, at E2. See redundancy.
 
-**D. *Both (of) the*.** *Both the* (or *both these*) has a fine pedigree and continues in formal English—e.g.:
+## D. *Both (of) the*
+
+*Both the* (or *both these*) has a fine pedigree and continues in formal English—e.g.:
 
  - "*Both these* movements are thus defined by Euclid." James Odell, *An Essay on the Elements, Accents, and Prosody of the English Language* 60 (1806).
 
@@ -40,7 +48,9 @@ The alternative phrasing, *both of the* (or *both of these*), is somewhat more c
 
  - Current ratio in print (*both the* vs. *both of the*): 19:1
 
-**E. *\*Both (of) the last*; *\*both (of) the last two*.** These phrases, common since the latter half of the 1800s, are unnecessarily wordy for *the last two*—e.g.:
+## E. *\*Both (of) the last*; *\*both (of) the last two*
+
+These phrases, common since the latter half of the 1800s, are unnecessarily wordy for *the last two*—e.g.:
 
  - "One aspect of the game the Vikings need to work on is breaking the full-court press, which plagued them in *both of* \[delete *both of*\] the last two losses." Jeff Zeigler, "ECSU Hopes to Rebound After Taking Short Break," *Virginian-Pilot* (Norfolk), 18 Dec. 1994, at 19.
 

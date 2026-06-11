@@ -2,11 +2,15 @@
 
 stigma.
 
-**A. Plural.** *Stigma* /**stig**-mә/ can be pluralized in two ways: *stigmas* and *stigmata* /stig-**mah**-tә/. The English plural (*-mas*) is preferable in most contexts. But *stigmata* carries the specialized sense "bodily marks resembling the crucifixion wounds of Jesus Christ." In this sense the word is sometimes pronounced /**stig**-mә-tә/, after the Greek and Latin. See plurals (b).
+## A. Plural
+
+*Stigma* /**stig**-mә/ can be pluralized in two ways: *stigmas* and *stigmata* /stig-**mah**-tә/. The English plural (*-mas*) is preferable in most contexts. But *stigmata* carries the specialized sense "bodily marks resembling the crucifixion wounds of Jesus Christ." In this sense the word is sometimes pronounced /**stig**-mә-tә/, after the Greek and Latin. See plurals (b).
 
  - Current ratio in print (*stigmata* vs. *stigmas*): 1.04:1
 
-**B. And *stigmatism*.** *Stigmatism* (= \[1\] the absence of astigmatism; or \[2\] the condition of being afflicted with unhealthy spots on the skin, esp. spots that bleed) is frequently confounded with *stigma* (= a mark of disgrace)—e.g.:
+## B. And *stigmatism*
+
+*Stigmatism* (= \[1\] the absence of astigmatism; or \[2\] the condition of being afflicted with unhealthy spots on the skin, esp. spots that bleed) is frequently confounded with *stigma* (= a mark of disgrace)—e.g.:
 
  - " ‘South Park's' edgy creators are fighting the *stigmatism* \[read *stigma*\] that they're all about gross-out and shock-value." Anthony D'Alessandro, " ‘Bush' League Project," *Daily Variety*, 30 Mar. 2001, at A8.
 

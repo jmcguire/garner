@@ -2,7 +2,9 @@
 
 aside.
 
-**A. Mistakenly Meaning "on each side.**" *Aside*, adv., properly means "to one side, on one side" \<she lay the book aside and fell asleep\>. But it's sometimes used wrongly in the sense "on each side, per side"—e.g.:
+## A. Mistakenly Meaning "on each side."
+
+*Aside*, adv., properly means "to one side, on one side" \<she lay the book aside and fell asleep\>. But it's sometimes used wrongly in the sense "on each side, per side"—e.g.:
 
  - "For the lawyers, and there are three *aside* \[read *for each side*\] in this case, \[jury selection\] is vitally important." Christie Blatchford, "The End of the Beginning," *Toronto Sun*, 15 Nov. 1995, at 5.
 
@@ -18,7 +20,9 @@ This usage occurs most commonly in sports contexts—and particularly (though no
 
 **Language-Change Index:** *aside* misused for *on each side*: Stage 1
 
-**B. *Aside from* vs. *apart from*.** Though once considered inferior to *apart from*, *aside from* has become standard in AmE and BrE alike. But in print, *apart from* appears far more frequently on both sides of the Atlantic. Cf. **outside**.
+## B. *Aside from* vs. *apart from*
+
+Though once considered inferior to *apart from*, *aside from* has become standard in AmE and BrE alike. But in print, *apart from* appears far more frequently on both sides of the Atlantic. Cf. **outside**.
 
  - Current ratio in print (*apart from* vs. *aside from*): 5:1
 

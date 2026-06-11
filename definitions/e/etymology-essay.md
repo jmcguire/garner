@@ -2,7 +2,9 @@
 
 Etymology .
 
-**A. English Etymology Generally.** Etymology is the study of word derivations. Understanding etymology often leads to a greater appreciation of linguistic nuances. For example, knowing the history of words such as the following can open up vistas:
+## A. English Etymology Generally
+
+Etymology is the study of word derivations. Understanding etymology often leads to a greater appreciation of linguistic nuances. For example, knowing the history of words such as the following can open up vistas:
 
  - *abominable*, L. *ab-* "off, away from" \+ *ominari* "to prophesy, forebode"—hence "being an evil omen."
 
@@ -20,7 +22,9 @@ Another fallacy arises when pedants object inflexibly to hybrids or morphologica
 
 Learn all you can about etymology, but temper that knowledge with other types of linguistic facts. Then you'll be in a position to choose words prudently. And you'll be better equipped to answer questions such as these: Must *alternatives* be limited to two? Must a *decimation* involve the destruction of only 10% of a group of things? Is the better spelling *lachrymose* or *\*lacrimose*? Must a *magistrate* be the supreme judge in a given jurisdiction? Which spelling is right: *idiosyncrasy* or *\*idiosyncracy*? Does *inflammable* mean that something will ignite, or won't? For views on those questions, see the appropriate entries. See also loanwords.
 
-**B. Native vs. Classical Elements.** The English language has undoubtedly benefited from its diverse sources. This diversity springs mostly from the Norman Conquest and later the English Renaissance, when writers decided to supplement what they considered a meager vocabulary by importing words.
+## B. Native vs. Classical Elements
+
+The English language has undoubtedly benefited from its diverse sources. This diversity springs mostly from the Norman Conquest and later the English Renaissance, when writers decided to supplement what they considered a meager vocabulary by importing words.
 
 They borrowed freely from foreign languages—mostly Latin, French, and Greek—when adding to the English word-stock. William Caxton, who introduced printing into England in 1477, is credited in the *OED* with the first use of *abjure*, *admiration*, *apparition*, *calumnious*, *capacity*, *desperate*, *factor*, *ingenious*, *inhuman*, *nuptial*, *seduce*, and *sumptuous*, among many other words. It might be hard for modern readers to imagine a time when those words seemed foreign or absurd. But many of Caxton's other borrowings haven't fared so well: for example, *excidion* (= a rooting out), *exercite* (= army), *magistration* (= a command). Another early word-borrower, Thomas Elyot, wrote in the early 1500s. Like Caxton, Elyot had his word-coining successes (*animate*, *attraction*, *education*, *excrement*, *exterior*, *frugality*, *irritate*, *persist*) and his failures (*allective*, *applicate*, *assentatour*). In that respect, these writers are typical of the age.
 
@@ -65,7 +69,9 @@ Some retain distinctive uses, as *anamnesis* does in Platonic philosophy. But of
 
 In specialized writing, a knowledge of classical languages is especially helpful: Latin in law, for example, or Greek and Latin both in medicine. But regardless of your career path, it's useful to enhance your awareness of Greek and Latin word roots. You'll gain a greater sensitivity to the English language and its origins and nuances.
 
-**C. Etymological Awareness.** Through wide reading and a conscious sensitivity to words and their origins, good writers become aware of etymological associations that may escape others. Ignorance of etymologies can easily lead writers astray, as when a journalist gave the label *holocaust* (Gk. "burnt whole") to a flood. Following are sentences in which writers wandered into etymological bogs:
+## C. Etymological Awareness
+
+Through wide reading and a conscious sensitivity to words and their origins, good writers become aware of etymological associations that may escape others. Ignorance of etymologies can easily lead writers astray, as when a journalist gave the label *holocaust* (Gk. "burnt whole") to a flood. Following are sentences in which writers wandered into etymological bogs:
 
  - "The right to exclude or to expel aliens in war or in peace is an inherent and *inalienable* right of every independent nation." (The root *alien*- causes problems when we say that a country has an *inalienable* right to exclude *aliens.*)
 
@@ -75,7 +81,9 @@ In specialized writing, a knowledge of classical languages is especially helpful
 
 In the first and third specimens, an incongruous repetition of the root sense occurs; in the second, the writer has insensitively abstracted and broadened a word still ineluctably tied to its root sense. Cf. sound of prose & verbal awareness.
 
-**D. Folk Etymology.** Popular notions of etymology are often quite colorful—and quite wrong. Indeed, word origins are a common subject of conversation in English-speaking countries. But such discussions ought to be well grounded because linguistic resources are widely available to serve as guides.
+## D. Folk Etymology
+
+Popular notions of etymology are often quite colorful—and quite wrong. Indeed, word origins are a common subject of conversation in English-speaking countries. But such discussions ought to be well grounded because linguistic resources are widely available to serve as guides.
 
 That wasn't always so, and folk etymology has left its mark on the language. Take a few common examples. *Pea* is a false singular of *pease*, which was mistakenly taken as a plural. Likewise, *a newt* is a historical error for *an ewt*, *an adder* for *a nadder*, and *an apron* for *a napron*. *Titmouse* now makes the plural *titmice* even though the word has no real connection with *mouse* or *mice*. *Primrose* and *rosemary* were earlier *primerole* and *romarin*, neither of which has anything to do with roses, but they were respelled precisely on that mistaken assumption.
 
@@ -89,5 +97,7 @@ For other examples of folk etymology discussed in this book, see **abominable, a
 
 For a good study on the subject, see Hugh Rawson, *Devious Derivations* (1994). For a useful historical work, see A. Smythe Palmer, *The Folk and Their Word-Lore* (1904).
 
-**E. Bibliography on English Etymology.** Those wishing to look further into etymology should consult the books listed in the Select Bibliography at the end of this book.
+## E. Bibliography on English Etymology
+
+Those wishing to look further into etymology should consult the books listed in the Select Bibliography at the end of this book.
 

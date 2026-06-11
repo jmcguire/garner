@@ -2,11 +2,15 @@
 
 otherwise.
 
-**A. And *other*.** Pedants insist that *other* is the adjective, *otherwise* the adverb—and that it's wrong to use *otherwise* as an alternative to an adjective \<no real impact, substantial or otherwise\>. Wilson Follett believed that "to pronounce this *otherwise* inadmissible would be to fly in the face of a strongly established usage. But usage, which can allow it on sufferance, cannot prevent it from being rejected by more exact writers" (*MAU* at 242–43). In fact, though, this usage is so strongly established that—to most educated speakers—*other* would sound incorrect. E.g.: "Cowboys simply aren't cowboys—urban or *otherwise*—without a pair of boots between them and the ground." Dan R. Barber, "Boot Bonanza," *Dallas Morning News*, 11 Sept. 1997, at A33.
+## A. And *other*
+
+Pedants insist that *other* is the adjective, *otherwise* the adverb—and that it's wrong to use *otherwise* as an alternative to an adjective \<no real impact, substantial or otherwise\>. Wilson Follett believed that "to pronounce this *otherwise* inadmissible would be to fly in the face of a strongly established usage. But usage, which can allow it on sufferance, cannot prevent it from being rejected by more exact writers" (*MAU* at 242–43). In fact, though, this usage is so strongly established that—to most educated speakers—*other* would sound incorrect. E.g.: "Cowboys simply aren't cowboys—urban or *otherwise*—without a pair of boots between them and the ground." Dan R. Barber, "Boot Bonanza," *Dallas Morning News*, 11 Sept. 1997, at A33.
 
 Of course, *otherwise* often functions adverbially as well—e.g.: "Paul Sanchez . . . said his business has been booming, financially and *otherwise*." David Snyder, "Vendors Confident Fair Will Be Successful," *Albuquerque Trib.*, 5 Sept. 1997, at A8.
 
-**B. As a Conjunction Meaning "or else."** This slipshod usage, which leads to run-on sentences, occurs primarily in BrE. *Otherwise* shouldn't connect two clauses in a compound sentence—e.g.:
+## B. As a Conjunction Meaning "or else."
+
+This slipshod usage, which leads to run-on sentences, occurs primarily in BrE. *Otherwise* shouldn't connect two clauses in a compound sentence—e.g.:
 
  - "It's got to be attractive, *otherwise* people won't go there." George Martin, "Why My Montserrat Is More than Just a Home for Retired Rockers," *Evening Standard*, 11 Sept. 1997, at 23. (Put a period or semicolon after *attractive* and a comma after *otherwise*. Or else change *otherwise* to *or else*.)
 

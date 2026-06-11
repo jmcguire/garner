@@ -2,19 +2,35 @@
 
 Second Person .
 
-**A. Generally.** See pronouns (a), tenses (a), **person** (p. 1230) & **you**.
+## A. Generally
 
-**B. In Archaisms (*thou goest*, etc.).** See archaisms (b).
+See pronouns (a), tenses (a), **person** (p. 1230) & **you**.
 
-**C. With *shall* and *will*.** See **shall**.
+## B. In Archaisms (*thou goest*, etc.)
 
-**D. Possessive Form.** See **your**.
+See archaisms (b).
 
-**E. Shifting Between Second and Third Person.** See ***\*one . . . you**.
+## C. With *shall* and *will*
 
-**F. *Should/would*.** See **should**.
+See **shall**.
 
-**G. *Ye*.** See **ye**.
+## D. Possessive Form
 
-**H. *Y'all*.** See **y'all**.
+See **your**.
+
+## E. Shifting Between Second and Third Person
+
+See ***\*one . . . you**.
+
+## F. *Should/would*
+
+See **should**.
+
+## G. *Ye*
+
+See **ye**.
+
+## H. *Y'all*
+
+See **y'all**.
 

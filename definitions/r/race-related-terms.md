@@ -2,11 +2,15 @@
 
 Race-Related Terms .
 
-**A. Generally.** No feature of English usage can create quite as much difficulty as the terminology used for denoting people's race—especially in the U.S., with its history of slavery. Every writer and editor must stay alert to the sensitivities and the conventions that are prevalent at any given time. Because fashions change—typically as a result of conscious and collective effort—what seems enlightened in one era can come to sound dated or even bigoted in the next.
+## A. Generally
+
+No feature of English usage can create quite as much difficulty as the terminology used for denoting people's race—especially in the U.S., with its history of slavery. Every writer and editor must stay alert to the sensitivities and the conventions that are prevalent at any given time. Because fashions change—typically as a result of conscious and collective effort—what seems enlightened in one era can come to sound dated or even bigoted in the next.
 
 The shifts in usage of race-related terminology often reflect a complex interaction between a dominant culture, with its institutions and media, and the people being referred to. In recent years, particularly in the news media, the practice has been to use terms the people themselves prefer.
 
-**B. The History of *Black*, *Negro*, *Afro-American*, and *African American*.** In June 2021, the Supreme Court issued *Terry v. United States*, in which Justice Clarence Thomas, writing for the majority, used the term *black*. In her partial concurrence, Justice Sonia Sotomayor capitalized it: *Black*. She was the first justice—apart from the anomaly of a 1971 opinion by Justice William O. Douglas—to use the capitalized *Black* as a racial designation. Until April 2021, her opinions had uniformly put the term in lowercase.
+## B. The History of *Black*, *Negro*, *Afro-American*, and *African American*
+
+In June 2021, the Supreme Court issued *Terry v. United States*, in which Justice Clarence Thomas, writing for the majority, used the term *black*. In her partial concurrence, Justice Sonia Sotomayor capitalized it: *Black*. She was the first justice—apart from the anomaly of a 1971 opinion by Justice William O. Douglas—to use the capitalized *Black* as a racial designation. Until April 2021, her opinions had uniformly put the term in lowercase.
 
 The shift doubtless reflects the changing standards of style guides, many of which in 2020 started recommending *Black* over *black*. Although the debate on this point goes back much further, not until 2020 did a great many stylistic influencers, such as the *Columbia Journalism Review* and the Associated Press, endorse capitalizing the word. That year saw a very public shift to *Black*. It became common in newspapers to see references to "the Black and white populations" of a given locale—capitalizing one but not the other.
 
@@ -32,7 +36,9 @@ Even if *Afro-American* was abandoned after Marshall's departure, the late 1980s
 
 How does the phrase *people of color* fit into the picture? It has come to be a hypernym, meaning it's a broader term, literally: it conventionally includes not just African Americans but also other racial minorities, such as Asians and Latinos. The Court used the phrase only six times from 1989 to early 2022—including a 2022 opinion by Justice Sotomayor. It may surprise you to learn that the phrase appeared in eleven decisions from 1813 to 1896, including the infamous opinions in *Dred Scott* (1857) and *Plessy v. Ferguson* (1896). These nineteenth-century references were exclusively to black people—and often in disadvantageous judicial decisions.
 
-**C. *Black*: Capitalized or Lowercase?** In June 2020, the *AP Stylebook* changed its policy to favor capitalizing *Black* whenever the word is used in a racial, ethnic, or cultural sense. Meanwhile, *white* would be lowercase even in corresponding senses. The change occurred after years of consideration and close study.
+## C. *Black*: Capitalized or Lowercase?
+
+In June 2020, the *AP Stylebook* changed its policy to favor capitalizing *Black* whenever the word is used in a racial, ethnic, or cultural sense. Meanwhile, *white* would be lowercase even in corresponding senses. The change occurred after years of consideration and close study.
 
 Here was the reasoning. Most white people in North America can and do identify themselves as Irish, Scottish, English, French, German, Scandinavian, Italian, etc. The only people who think of a generic "white identity" tend to be white supremacists, who routinely capitalize the word *white*.
 
@@ -62,29 +68,45 @@ Because of the widespread adoption of the *AP Stylebook*, however, *The Washingt
 
 Whether, in the long term, people will consider these jarring inconsistencies or natural and desirable usage, only time will tell.
 
-**D. The Question of Hyphenation.** Though referring to the ethnic heritage of Americans with hyphenated terms is traditional \<Irish-American\> \<Italian-American\>, the practice has fallen into disfavor in the 21st century. Politicians and others began using the phrase *hyphenated American* as a term of contempt or derision, as if the people referred to had divided loyalties. Although the term *hyphenated American* dates from the 1890s, it was long quiescent until its resurgence in the 1980s and 1990s. The *OED* gives the phrase no warning tag, but the fifth edition of *AHD* states that it is "best avoided in all but historical contexts."
+## D. The Question of Hyphenation
+
+Though referring to the ethnic heritage of Americans with hyphenated terms is traditional \<Irish-American\> \<Italian-American\>, the practice has fallen into disfavor in the 21st century. Politicians and others began using the phrase *hyphenated American* as a term of contempt or derision, as if the people referred to had divided loyalties. Although the term *hyphenated American* dates from the 1890s, it was long quiescent until its resurgence in the 1980s and 1990s. The *OED* gives the phrase no warning tag, but the fifth edition of *AHD* states that it is "best avoided in all but historical contexts."
 
 Unsurprisingly, in 2019 the *AP Stylebook* changed its policy to print such terms as *African American,* *Asian American, and Filipino American* without hyphens. *The New York Times* did the same. As early as 2017, *The* *Chicago Manual of Style* noted: "Whether terms such as *African American*, *Italian American*, *Chinese American*, and the like should be spelled open or hyphenated has been the subject of considerable controversy. But since the hyphen does not aid comprehension in such terms as those mentioned above, it may be omitted unless a particular author or publisher prefers the hyphen." *The Chicago Manual of Style* § 8.39, at 477 (17th ed. 2017). *Chicago* also notes an exception: the hyphen should appear when "the first term is a prefix" \<Sino-Tibetan languages\> \<Franco-Prussian War\>. *Ibid.* § 7.89, at 451. See **hyphenation** & punctuation (j).
 
 The policy of nonhyphenation may assume that the terms are being used primarily as nouns. Some fastidious editors will doubtless want to hyphenate the terms as phrasal adjectives \<African-American sociology\> even if they leave them open as noun phrases \<the preferences of African Americans\>. That is the policy followed in this book.
 
-**E. Adjectives or Nouns?** Ethnic and racial identifiers such as *Black* and *Latino* are often considered preferable as adjectives, not nouns. Singular uses are particularly objectionable today. To refer to someone as *a Black*, *a Latino*, or *a Chinese* is considered today to reduce the person to that ethnic or racial identity in a manner that can be insulting. Journalists often accept plurals such as *Blacks and whites* when "clearly relevant and needed for reasons of space or sentence construction." *AP Stylebook* 252 (2020–2022).
+## E. Adjectives or Nouns?
 
-**F. The N-Word.** This racial slur was in common use by 19th- and 20th-century white Americans to describe Black people. It was always pejorative, but it took on such an emotional charge during the civil-rights movement in the 1950s and 1960s that it has become an unpardonable slur that only white supremacists among white people use. It is taboo.
+Ethnic and racial identifiers such as *Black* and *Latino* are often considered preferable as adjectives, not nouns. Singular uses are particularly objectionable today. To refer to someone as *a Black*, *a Latino*, or *a Chinese* is considered today to reduce the person to that ethnic or racial identity in a manner that can be insulting. Journalists often accept plurals such as *Blacks and whites* when "clearly relevant and needed for reasons of space or sentence construction." *AP Stylebook* 252 (2020–2022).
+
+## F. The N-Word
+
+This racial slur was in common use by 19th- and 20th-century white Americans to describe Black people. It was always pejorative, but it took on such an emotional charge during the civil-rights movement in the 1950s and 1960s that it has become an unpardonable slur that only white supremacists among white people use. It is taboo.
 
 Some Black people, however, particularly hip-hop artists and other popular musicians, have taken it up defiantly, much as gay people adopted *queer* as a badge of identity. Though *the N-word* may seem coyly euphemistic, it is the safest term to use, when necessary.
 
-**G. Geographic Descriptors: *Asians*, *Africans*, etc.** As noted in (c), many white Americans honor a cultural tradition by identifying themselves as Irish, Polish, Swedish, or the like, but people from African nations tend to be lumped as *Africans*. Similarly, people from the Asian nations are often designated as undifferentiated *Asians*. Rather than make these nouns catchall ethnic identifiers, use them as adjectives: *Asian residents*, *African students*. When possible, identify the particular nation. See **Chinese**.
+## G. Geographic Descriptors: *Asians*, *Africans*, etc
 
-**H. *Asian* vs. *Oriental*.** *Asian* is much preferred over *Oriental*, which sounds dated and disparaging because of its cultural associations with a time when Western nations looked at Eastern nations as exotic. Yet it is considered unobjectionable in the phrase *Oriental rug*. See **Asian**.
+As noted in (c), many white Americans honor a cultural tradition by identifying themselves as Irish, Polish, Swedish, or the like, but people from African nations tend to be lumped as *Africans*. Similarly, people from the Asian nations are often designated as undifferentiated *Asians*. Rather than make these nouns catchall ethnic identifiers, use them as adjectives: *Asian residents*, *African students*. When possible, identify the particular nation. See **Chinese**.
 
-**I. *Latino*; *Latina*; *Hispanic*; *Chicano*.** What is the preferred term for someone who is from, or whose ancestors were from, a Spanish-speaking land? The preference, when possible, is to use a specific identifier such as *Chilean, Cuban, Mexican, Mexican American,* etc. Where that isn't feasible, *Latino* has, since about 2005, become the predominant and preferred noun and adjective. In English, the term dates from the 1940s. *Latina* is the feminine form. In the late 20th century, by contrast, *Hispanic*—which dates only from the early 1970s—became the preferred noun and adjective; it is generally unobjectionable and is preferred by many (68% in a 2021 poll). As always, use the person's preferred term if you know it.
+## H. *Asian* vs. *Oriental*
+
+*Asian* is much preferred over *Oriental*, which sounds dated and disparaging because of its cultural associations with a time when Western nations looked at Eastern nations as exotic. Yet it is considered unobjectionable in the phrase *Oriental rug*. See **Asian**.
+
+## I. *Latino*; *Latina*; *Hispanic*; *Chicano*
+
+What is the preferred term for someone who is from, or whose ancestors were from, a Spanish-speaking land? The preference, when possible, is to use a specific identifier such as *Chilean, Cuban, Mexican, Mexican American,* etc. Where that isn't feasible, *Latino* has, since about 2005, become the predominant and preferred noun and adjective. In English, the term dates from the 1940s. *Latina* is the feminine form. In the late 20th century, by contrast, *Hispanic*—which dates only from the early 1970s—became the preferred noun and adjective; it is generally unobjectionable and is preferred by many (68% in a 2021 poll). As always, use the person's preferred term if you know it.
 
 In the 1970s and 1980s, *Chicano* was widely preferred in the southwestern U.S. to denote people of Mexican-American descent. By the 21st century the term had largely retreated. But again, if it's someone's known preference, then it's advisable. See **Hispanic**.
 
-**J. *Latinx* (lat-in-ex).** In the first decade of the 21st century, *Latinx* was adopted by some as a gender-neutral alternative to *Latino* and *Latina*. In the second decade, people began using it to denote a nonbinary or transgender person of Spanish-speaking descent. In late 2021, major news outlets ran articles about how unpopular the term was among the Latino population. E.g., "Does it rhyme with *sphinx* (how it looks on the printed page) or *Kleenex? Sen. Elizabeth Warren says ‘Latin-ex,'* as if referring to a Cuban man she once dumped. A word with a consonant followed by an x makes no sense in Spanish." Charlotte Allen, " ‘Latinx' Isn't Popular with Latinos," *Wall Street J.*, 20 Dec. 2021, at A19 (adding, "It's not surprising that many Hispanics view the word *Latinx* as a colonialist effort by ignorant gringos to impose their own ideological fixations on the rest of the world."). But linguistic perceptions can change, and they sometimes take decades to do so. Stay tuned.
+## J. *Latinx* (lat-in-ex)
 
-**K. *American Indians*; *Native Americans*; *Alaska Natives*.** The phrase *Native American*, dating in English from the 1600s, became popular especially in the 1970s to denote groups served by the federal Bureau of Indian Affairs: American Indians as well as the Aleut, Inuit, and Yupik peoples of Alaska. Later, the term was interpreted as including Native Hawaiians (see **Hawaiian**) and Pacific Islanders. About the same time, it fell into disfavor among some Indian and Alaskan groups, who came to prefer *American Indian* and *Alaska Native*. Yet views are unpredictable: some consider *Native American* more respectful than *American Indian*.
+In the first decade of the 21st century, *Latinx* was adopted by some as a gender-neutral alternative to *Latino* and *Latina*. In the second decade, people began using it to denote a nonbinary or transgender person of Spanish-speaking descent. In late 2021, major news outlets ran articles about how unpopular the term was among the Latino population. E.g., "Does it rhyme with *sphinx* (how it looks on the printed page) or *Kleenex? Sen. Elizabeth Warren says ‘Latin-ex,'* as if referring to a Cuban man she once dumped. A word with a consonant followed by an x makes no sense in Spanish." Charlotte Allen, " ‘Latinx' Isn't Popular with Latinos," *Wall Street J.*, 20 Dec. 2021, at A19 (adding, "It's not surprising that many Hispanics view the word *Latinx* as a colonialist effort by ignorant gringos to impose their own ideological fixations on the rest of the world."). But linguistic perceptions can change, and they sometimes take decades to do so. Stay tuned.
+
+## K. *American Indians*; *Native Americans*; *Alaska Natives*
+
+The phrase *Native American*, dating in English from the 1600s, became popular especially in the 1970s to denote groups served by the federal Bureau of Indian Affairs: American Indians as well as the Aleut, Inuit, and Yupik peoples of Alaska. Later, the term was interpreted as including Native Hawaiians (see **Hawaiian**) and Pacific Islanders. About the same time, it fell into disfavor among some Indian and Alaskan groups, who came to prefer *American Indian* and *Alaska Native*. Yet views are unpredictable: some consider *Native American* more respectful than *American Indian*.
 
 If you do use *Indian*, the generally preferred term on first reference is the full phrase *American Indian*. By itself, *Indian* can be ambiguous because it commonly denotes the peoples and cultures of the South Asian country India.
 
@@ -102,14 +124,18 @@ The phrase *indigenous American*, which is more logically and etymologically cor
 
 As for the indigenous peoples of Alaska, *Eskimo* is now discommended unless paired with a group's ethnic name \<Inupiat Eskimos\> \<a Yup'ik Eskimo\>. Again, follow a person's or a community's preference \<a member of the Cu'pik community\> \<a Cu'pik\>. The AP's most recent stance is that "the term *Eskimo* \[by itself\] was assigned by nonnative people and in some cultures has taken on offensive connotations." *AP Stylebook* 102 (2020–2022). *Alaska Native* is generally safe except when greater specificity is possible.
 
-**L. *Indigenous Australians*; *aboriginal Australians*; *Australian aborigines*.** Although it was once common to see the phrase *Australian Aborigines* or even *Australian Aboriginals*, those terms are now considered offensive by many. The *AP Stylebook* so notes without recommending a substitute phrase.
+## L. *Indigenous Australians*; *aboriginal Australians*; *Australian aborigines*
+
+Although it was once common to see the phrase *Australian Aborigines* or even *Australian Aboriginals*, those terms are now considered offensive by many. The *AP Stylebook* so notes without recommending a substitute phrase.
 
 What should it be? By far the most common term since about 2005 has been *indigenous Australians*. For the time being, that's the best choice. Both words are sometimes capitalized. See **aborigine**.
 
  - Current ratio in print (*Indigenous Australian* vs. *indigenous Australian*): 4:1
  - Current ratio in print (*indigenous Australians* vs. *Australian aborigines* vs. *aboriginal Australians* vs. *Australian aboriginals* \[case-insensitive search\]): 11:6:4:1
 
-**M. *Romani* vs. *Gypsy*.** Beginning in the late 1500s, the term *Gypsy* (formerly also *\*Gipsy*) was used in reference to a member of the European diaspora of an itinerant people originating in South Asia and later found primarily in Europe and in North and South America. The name was an altered form—in plain english, a corruption—of *Egyptian* (they were thought to have originated in Egypt). Their traditional language is Romani. Today the term *Gypsy*, though widely used in the English-speaking world, is thought, especially in official circles, to be derogatory and offensive. (See prejudiced and prejudicial terms.) It is therefore increasingly replaced by *Romani* (for the singular) and *Roma* (for the plural).
+## M. *Romani* vs. *Gypsy*
+
+Beginning in the late 1500s, the term *Gypsy* (formerly also *\*Gipsy*) was used in reference to a member of the European diaspora of an itinerant people originating in South Asia and later found primarily in Europe and in North and South America. The name was an altered form—in plain english, a corruption—of *Egyptian* (they were thought to have originated in Egypt). Their traditional language is Romani. Today the term *Gypsy*, though widely used in the English-speaking world, is thought, especially in official circles, to be derogatory and offensive. (See prejudiced and prejudicial terms.) It is therefore increasingly replaced by *Romani* (for the singular) and *Roma* (for the plural).
 
 Because *gypsy* (as well as various slang cognates) is associated with so many disparaging senses, it is best avoided in print and in speech. A *gypsy cab*, for example, can be called an *unlicensed cab.* But what of *gypsy moth*? People aren't likely to say *Lymantria dispar*. It's also called a *tussock moth*. You might try that.
 

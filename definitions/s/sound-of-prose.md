@@ -2,7 +2,9 @@
 
 Sound of Prose. Every writer is occasionally guilty of having a tin ear. But the effective writer is self-trained not to write in a way that distracts with undue alliteration, unconscious puns, accidental rhyming, or unseemly images. These clunkers are sure to irritate some readers. And although clunkers are never entirely escapable, writers can learn to minimize them—most helpfully by acquiring the habit of reading their prose aloud.
 
-**A. Undue Alliteration or Rhyme.** I.A. Richards, in a classic book, wrote: "But in most *prose*, and more than we ordinarily *suppose*, the opening words have to wait for *those* that follow to settle what they shall mean." *The Philosophy of Rhetoric* 50 (1936). This type of wordplay—assuming that it is wordplay—should be undertaken cautiously because it declares that the writer is being wry or coy.
+## A. Undue Alliteration or Rhyme
+
+I.A. Richards, in a classic book, wrote: "But in most *prose*, and more than we ordinarily *suppose*, the opening words have to wait for *those* that follow to settle what they shall mean." *The Philosophy of Rhetoric* 50 (1936). This type of wordplay—assuming that it is wordplay—should be undertaken cautiously because it declares that the writer is being wry or coy.
 
 Intentional but ineffective alliteration is one thing. Thoughtless alliteration is quite another—e.g.:
 
@@ -12,7 +14,9 @@ Intentional but ineffective alliteration is one thing. Thoughtless alliteration 
 
 Other phrases susceptible to this problem include *instead of a steady*, *tempted to attempt*, *net debt schedule*, and *need not know*. See alliteration.
 
-**B. Awkward Repetition.** Too much repeating of sounds can enfeeble your style, especially if two different forms of the same root appear close together—e.g.:
+## B. Awkward Repetition
+
+Too much repeating of sounds can enfeeble your style, especially if two different forms of the same root appear close together—e.g.:
 
  - "The major role of *legislative* liaisons is to answer *legislators'* \[read *lawmakers'*\] questions about the impact of proposed *legislation* \[read *bills*\] on various agencies." Editor's Note to a letter to the editor, *Chicago Sun-Times*, 22 June 1992, at 18.
 

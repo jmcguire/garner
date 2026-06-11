@@ -2,7 +2,9 @@
 
 neither . . . nor.
 
-**A. Singular or Plural Verb.** This construction takes a singular verb when the alternatives are singular or when the second alternative is singular—e.g.:
+## A. Singular or Plural Verb
+
+This construction takes a singular verb when the alternatives are singular or when the second alternative is singular—e.g.:
 
  - "*Neither* the radiator *nor* the water pump *leak* \[read *leaks*\]." Ray Magliozzi & Tom Magliozzi, "Duplicate Cars Means Customer Pays More for Name," *Amarillo Daily News*, 21 Aug. 1993, at B5.
 
@@ -36,11 +38,15 @@ Of course, when both alternatives are plural, the verb is plural—e.g.: "*Neith
  - Current ratio in print (*neither he nor she was* vs. *\*neither he nor she were*): 1:1.1
  - Current ratio in print (*\*neither you nor I are* vs. *\*neither you nor I am*): 18:1
 
-**B. Number of Elements.** These correlative conjunctions best frame only two elements, not more. Though it's possible to find both modern and historical examples of *neither . . . nor* with more than two elements, these are unfastidious constructions. When three or more are involved, it's better not to say *\*They considered neither x, y, nor z.* Instead, say *They didn't consider x, y, or z.* Or it's permissible to use a second *nor* emphatically in framing three elements: *They considered neither x, nor y, nor z.* Cf. **either (b)**.
+## B. Number of Elements
+
+These correlative conjunctions best frame only two elements, not more. Though it's possible to find both modern and historical examples of *neither . . . nor* with more than two elements, these are unfastidious constructions. When three or more are involved, it's better not to say *\*They considered neither x, y, nor z.* Instead, say *They didn't consider x, y, or z.* Or it's permissible to use a second *nor* emphatically in framing three elements: *They considered neither x, nor y, nor z.* Cf. **either (b)**.
 
 **Language-Change Index:** *neither . . . nor* with more than two elements: Stage 3
 
-**C. Parallelism.** Not only should there be just two elements, but also those elements should match each other syntactically. (See parallelism.) E.g.:
+## C. Parallelism
+
+Not only should there be just two elements, but also those elements should match each other syntactically. (See parallelism.) E.g.:
 
  - "At the same time, many of Aristide's followers express concern that some ex-members of the army and its paramilitary allies who carried out a campaign of terror here have *neither been disarmed nor brought* \[read *been neither disarmed nor brought*\] to justice." Douglas Farah, "Aristide: U.S. Occupation of Haiti a ‘Great Success,' " *Wash. Post*, 31 Mar. 1995, at A1.
 
@@ -48,7 +54,9 @@ Of course, when both alternatives are plural, the verb is plural—e.g.: "*Neith
 
  - "Secret Service spokesman Jim Makin said Merletti intended *neither* *to offend nor infringe* \[read *neither to offend nor to infringe*\] on agents' free-speech rights." "After JFK Tell-All, Agents Told to Zip It," *Chicago Sun-Times*, 19 Dec. 1997, at 37.
 
-**D. *\*Neither* . . . *or*.** This phrasing is either a serious grammatical lapse or a serious typographical error—e.g.:
+## D. *\*Neither* . . . *or*
+
+This phrasing is either a serious grammatical lapse or a serious typographical error—e.g.:
 
  - "Practically speaking, though, language is *neither* a mirror *or* \[read *nor*\] a prison." Dennis Baron, *Declining Grammar and Other Essays on the English Vocabulary* 4 (1989).
 

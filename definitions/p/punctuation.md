@@ -4,7 +4,9 @@ Punctuation is the cuing system by which writers signal their readers to slow do
 
 The basic marks—and their uses—are well known. Yet each one sometimes presents difficulties. Even the best writers should pay close attention to these matters because the more sophisticated the writing is, the subtler and more varied the punctuation becomes. And punctuating well is essential to writing solid sentences.
 
-**A. Apostrophe \['\].** This punctuation mark does three things. First, it often indicates the possessive case \<Charles Alan Wright's treatise\> \<Jane Ortiz's appointment\>. (See possessives.) Second, it frequently marks the omission of one or more elements and the contracting of the remaining elements into a word (or figure)—e.g.: *never* into *ne'er*; *will not* into *won't*; *1997* into *'97*. (See contractions.) Third, it is sometimes used to mark the plural of an acronym, initialism, number, or letter—e.g.: *CPA's* (now more usually *CPAs*), *1990**'s* (now more usually *1990s*), and *p's and q's* (still with apostrophes because of the single letters). (See dates (d) & numerals (d).)
+## A. Apostrophe \['\]
+
+This punctuation mark does three things. First, it often indicates the possessive case \<Charles Alan Wright's treatise\> \<Jane Ortiz's appointment\>. (See possessives.) Second, it frequently marks the omission of one or more elements and the contracting of the remaining elements into a word (or figure)—e.g.: *never* into *ne'er*; *will not* into *won't*; *1997* into *'97*. (See contractions.) Third, it is sometimes used to mark the plural of an acronym, initialism, number, or letter—e.g.: *CPA's* (now more usually *CPAs*), *1990**'s* (now more usually *1990s*), and *p's and q's* (still with apostrophes because of the single letters). (See dates (d) & numerals (d).)
 
 Two contradictory trends—both bad—are at work with apostrophes.
 
@@ -16,13 +18,17 @@ Finally, U.S. place names drop possessive and associative apostrophes by governm
 
 Similarly, in the U.K. the Post Office removed apostrophes from British street names, apart from royal ones \<Queen Anne's Wall\>—which has had a profound impact on BrE.
 
-**B. Bullet \[•\].** This mark draws the eye immediately to one of several enumerated items. When you don't mean to imply that one thing in a list is any more important than another—that is, when you're not signaling a rank order—and when there is little likelihood that the list will need to be cited, you might use bullet dots. They enhance readability by emphasizing salient points. Examples appear throughout this book (see, for example, the bullets under (c)).
+## B. Bullet \[•\]
+
+This mark draws the eye immediately to one of several enumerated items. When you don't mean to imply that one thing in a list is any more important than another—that is, when you're not signaling a rank order—and when there is little likelihood that the list will need to be cited, you might use bullet dots. They enhance readability by emphasizing salient points. Examples appear throughout this book (see, for example, the bullets under (c)).
 
 There is a notable difference, however, between how the bullets appear in this book and how they ought to appear in most documents. Although here the bullets fall at the left margin, they should generally be indented at least as far as a paragraph indent or perhaps a little more. They are not indented here because the double-column format would make indentation look strange.
 
 Here are seven more tips on using bullets well: (1) end your introduction with a colon, which serves as an anchor; (2) keep the items grammatically parallel (see parallelism); (3) if you begin each item with a lowercase letter, put a semicolon at the end of each item, use *and* after the next-to-last item, and put a period after the last item; (4) if you begin each item with a capital—by convention, "fragments" are acceptable units here—end each with a period; (5) use hanging indents, which are extremely important in giving each bullet its full weight (see document design (h)); (6) ensure that the bullets are well proportioned both in their size and in their distance from the text they introduce, preferably with no more than one blank character-space between the bullet and the first word; and (7) resist the temptation to play with hollow characters, smiley faces, check marks, and the like—unless you're trying for an offbeat appearance, use real bullet dots.
 
-**C. Colon \[:\].** This mark, which promises the completion of something just begun, has five uses.
+## C. Colon \[:\]
+
+This mark, which promises the completion of something just begun, has five uses.
 
 First, it may link two separate clauses or phrases by indicating a step forward from the first to the second: the step may be from an introduction to a main theme, from a cause to an effect, from a general statement to a particular instance, or from a premise to a conclusion. E.g.:
 
@@ -56,7 +62,9 @@ Finally, the colon separates elements such as a book's title and subtitle \<*Wil
 
 Avoid four common misuses of the colon. (1) Don't put one between a verb and its object or complement \<she enjoys watching plays, films, and TV shows\> (no colon after *watching*). (2) Don't put a colon between a preposition and its object \<they are enamored of rare books, bone china, and etched glass\> (no colon after *of*). (3) Don't put a colon after the conjunction *that* \<he declared that all the plants on board must be quarantined\>. (4) Don't put a colon after an introductory word or phrase such as *for example*, *including*, *such as*, or *that is* \<several dignitaries were present, including Vice President Kamala Harris, Senator John Cornyn, and Justice Elena Kagan\> (no colon after *including*). Even so, as noted above, a colon is often appropriate after a phrase that more formally announces a list (e.g., *as follows*, *the following*, *including these*).
 
-**D. Comma \[,\].** This punctuation mark, the least emphatic of them all, is the one used in the greatest variety of circumstances. Two styles result in different treatments. The "close" style of punctuation results in fairly heavy uses of commas; the "open" style results in fairly light uses of commas. In the 20th century, the movement was very much toward the open style. The byword was, "When in doubt, leave it out." Indeed, some writers and editors went too far in omitting commas that would aid clarity. What follows is an explanation tending slightly toward the open style, but with a steady view toward enhancing clarity.
+## D. Comma \[,\]
+
+This punctuation mark, the least emphatic of them all, is the one used in the greatest variety of circumstances. Two styles result in different treatments. The "close" style of punctuation results in fairly heavy uses of commas; the "open" style results in fairly light uses of commas. In the 20th century, the movement was very much toward the open style. The byword was, "When in doubt, leave it out." Indeed, some writers and editors went too far in omitting commas that would aid clarity. What follows is an explanation tending slightly toward the open style, but with a steady view toward enhancing clarity.
 
 Essentially, the comma has ten uses.
 
@@ -96,15 +104,21 @@ Writers cause needless confusion or distraction for their readers when they inse
 
 (4) Some writers (even some otherwise excellent ones) mistakenly use a comma as if it were a stronger mark—a semicolon or a period. The result is a comma splice—e.g.: "He said he didn't want to look, he wanted to remember her as she was in life." (Replace the comma with a semicolon; see run-on sentences.) This also occurs in series of phrases or clauses that themselves contain commas. Semicolons rather than commas are often needed to separate the elements in complex series—e.g.: "We celebrate the Fourth by flying the red, white, and blue; honoring baseball, Mom, and apple pie; and shouting hip, hip, hooray as the fireworks burst."
 
-**E. Dash.** There are two kinds of dashes, which printers are able to distinguish by their length: the em-dash and the en-dash. See (g), (h).
+## E. Dash
 
-**F. Ellipsis Dots \[ . . . \].** Ellipsis points—also called "period-dots"—come in threes. Each one is typographically identical to the period, but together they perform a special function: they signal that the writer has omitted something, usually from quoted matter. Consider the following sentence: "Shakespeare's speech—as exhibited in his works, at least—seems to have represented rather well the cultivated usage of Elizabethan England, particularly in the area around London; and what is more, it was sensitive to social levels." Carroll E. Reed, *Dialects of American English* 10 (1967). If you quoted that sentence but omitted some words from the middle and at the end, it would traditionally look like this: "Shakespeare's speech . . . seems to have represented rather well the cultivated usage of Elizabethan England, particularly in the area around London . . . ." The final period-dot in that quotation, which is spaced evenly with the other three, is simply the period for the sentence; it's not technically part of the ellipsis.
+There are two kinds of dashes, which printers are able to distinguish by their length: the em-dash and the en-dash. See (g), (h).
+
+## F. Ellipsis Dots \[ . . . \]
+
+Ellipsis points—also called "period-dots"—come in threes. Each one is typographically identical to the period, but together they perform a special function: they signal that the writer has omitted something, usually from quoted matter. Consider the following sentence: "Shakespeare's speech—as exhibited in his works, at least—seems to have represented rather well the cultivated usage of Elizabethan England, particularly in the area around London; and what is more, it was sensitive to social levels." Carroll E. Reed, *Dialects of American English* 10 (1967). If you quoted that sentence but omitted some words from the middle and at the end, it would traditionally look like this: "Shakespeare's speech . . . seems to have represented rather well the cultivated usage of Elizabethan England, particularly in the area around London . . . ." The final period-dot in that quotation, which is spaced evenly with the other three, is simply the period for the sentence; it's not technically part of the ellipsis.
 
 But some modern style manuals specify that if words are omitted at the end of a quotation, despite the omitted words, no ellipsis is required at the end. For example, *The Chicago Manual of Style* states: "Ellipses are normally *not* used . . . after the last word of a quotation, even if the end of the original sentence has been omitted, unless the sentence as quoted is deliberately incomplete." *The Chicago Manual of Style* § 13.52, at 729 (17th ed. 2017).
 
 For a more detailed explanation of ellipses, see quotations (e) & **ellipsis** (p. 1207).
 
-**G. Em-Dash \[—\].** The *em-dash*, which is as wide as the capital *M*, is used to mark an interruption in the structure of a sentence. In typewriting, it is commonly represented by two hyphens, often with a space at each end of the pair ( -- ). Word-processing programs can place a true em-dash, but the procedure varies among programs. A pair of em-dashes can be used to enclose a parenthetical remark or to mark the ending and the resumption of a statement by an interlocutor. E.g.: "The last time I saw him I asked him if he still believed—as he once had written—‘that we are at this moment participating in one of the very greatest leaps of the human spirit to a knowledge not only of outside human nature but also of our own deep inward mystery.' " Bill Moyers, Introduction to Joseph Campbell, *The Power of Myth* xix (Betty Sue Flowers ed., 1988).
+## G. Em-Dash \[—\]
+
+The *em-dash*, which is as wide as the capital *M*, is used to mark an interruption in the structure of a sentence. In typewriting, it is commonly represented by two hyphens, often with a space at each end of the pair ( -- ). Word-processing programs can place a true em-dash, but the procedure varies among programs. A pair of em-dashes can be used to enclose a parenthetical remark or to mark the ending and the resumption of a statement by an interlocutor. E.g.: "The last time I saw him I asked him if he still believed—as he once had written—‘that we are at this moment participating in one of the very greatest leaps of the human spirit to a knowledge not only of outside human nature but also of our own deep inward mystery.' " Bill Moyers, Introduction to Joseph Campbell, *The Power of Myth* xix (Betty Sue Flowers ed., 1988).
 
 The em-dash can also be used to replace the colon—e.g.:
 
@@ -138,7 +152,9 @@ Generally, two em-dashes are all a sentence can handle. With three, the reader l
 
 Consider putting a letter space before and after an em-dash. Although most book publishers omit the spaces, outside fine typography the spaces help prevent awkward line breaks.
 
-**H. En-Dash \[–\].** The *en-dash*, which is half as wide as the *em-dash*, is distinct (in print) from the *hyphen*. It joins pairs or groups of words to show a range or to indicate that the items are equal in some way—that both are necessary and neither predominates over the other. An en-dash should connect words that are the same part of speech, and neither linked word should modify the other. If one word is modifying the other, a hyphen should be used. An en-dash is often equivalent to *to* or *versus* \<the 1914–1918 war\> \<the nature–nurture debate\> \<the Dallas–Toronto–Quebec route\> \<the Fischer–Spassky match\> \<the Marxist–Trotskyite split\>. The en-dash is also used, however, for joint authors \<the Prosser–Keeton text\>. But it's not used for one person with a double-barreled name—e.g.: "Lord Baden-Powell's organization" (that's a hyphen, not an en-dash).
+## H. En-Dash \[–\]
+
+The *en-dash*, which is half as wide as the *em-dash*, is distinct (in print) from the *hyphen*. It joins pairs or groups of words to show a range or to indicate that the items are equal in some way—that both are necessary and neither predominates over the other. An en-dash should connect words that are the same part of speech, and neither linked word should modify the other. If one word is modifying the other, a hyphen should be used. An en-dash is often equivalent to *to* or *versus* \<the 1914–1918 war\> \<the nature–nurture debate\> \<the Dallas–Toronto–Quebec route\> \<the Fischer–Spassky match\> \<the Marxist–Trotskyite split\>. The en-dash is also used, however, for joint authors \<the Prosser–Keeton text\>. But it's not used for one person with a double-barreled name—e.g.: "Lord Baden-Powell's organization" (that's a hyphen, not an en-dash).
 
 Some editors use the en-dash for a phrasal adjective in which the individual elements contain spaces or internal hyphens \<a Pulitzer Prize–winning author\> \<a Christopher Ricks–type literary critic\> \<the secretary-treasurer–elect\> \<pre–Civil War society\>.
 
@@ -146,9 +162,13 @@ In typewriting and in newspaper journalism, the en-dash is commonly represented 
 
 In circumstances involving a disjunction, the en-dash is usually preferable to the virgule—e.g.: "If we manage to get that far, the absurdity of attempting to preserve the 19th-century possessive–genitive dichotomy \[not *possessive/genitive dichotomy*\] will have become apparent." See (q).
 
-**I. Exclamation Point \[\!\].** This mark is used after an exclamatory word, phrase, or sentence. It usually counts as the concluding full stop—e.g.: "I can almost hear the producer saying, ‘Cut\! Too much talk\!' " Phillip Lopate, "The Last Taboo," in *Dumbing Down: Essays on the Strip Mining of American Culture* 164, 173 (1996). If used within square brackets in or after a quotation, it expresses the quoter's amusement, dissent, or surprise.
+## I. Exclamation Point \[\!\]
 
-**J. Hyphen \[-\].** This mark has been called "the pest of the punctuation family" (Sophie C. Hadida, *Your Telltale English* 133 \[rev. ed. 1942\]). Generally, AmE is much less hospitable to hyphens than BrE. Words with prefixes are generally made solid: *displeasure* (not *dis-pleasure*), *preshrunk* (not *pre-shrunk*), *postdebate* (not *post-debate*), *preordain* (not *pre-ordain*). This no-hyphen style seems aesthetically superior, but reasonable people will differ on such a question. They can agree, however, that the hyphen must appear when an ambiguity or miscue is possible without it—e.g., *pre-judicial* (career), *re-sign* (the letter). See co- & re- pairs.
+This mark is used after an exclamatory word, phrase, or sentence. It usually counts as the concluding full stop—e.g.: "I can almost hear the producer saying, ‘Cut\! Too much talk\!' " Phillip Lopate, "The Last Taboo," in *Dumbing Down: Essays on the Strip Mining of American Culture* 164, 173 (1996). If used within square brackets in or after a quotation, it expresses the quoter's amusement, dissent, or surprise.
+
+## J. Hyphen \[-\]
+
+This mark has been called "the pest of the punctuation family" (Sophie C. Hadida, *Your Telltale English* 133 \[rev. ed. 1942\]). Generally, AmE is much less hospitable to hyphens than BrE. Words with prefixes are generally made solid: *displeasure* (not *dis-pleasure*), *preshrunk* (not *pre-shrunk*), *postdebate* (not *post-debate*), *preordain* (not *pre-ordain*). This no-hyphen style seems aesthetically superior, but reasonable people will differ on such a question. They can agree, however, that the hyphen must appear when an ambiguity or miscue is possible without it—e.g., *pre-judicial* (career), *re-sign* (the letter). See co- & re- pairs.
 
 But in one context, AmE is somewhat hospitable to the hyphen. That's in the realm of phrasal adjectives. Here's the rule: if two or more consecutive words make sense only when understood together as an adjective modifying a noun that follows, those words (excluding the noun) should be hyphenated. So you hyphenate *special-interest money*, but only because *money* is part of the phrase; if you were referring to this or that *special interest*, a hyphen would be wrong. Thus:
 
@@ -166,7 +186,9 @@ Two paragraphs back, you might have noticed "*somewhat* hospitable." There has b
 
 Traditionally, phrases such as *African-American*, *Italian-American*, and *Mexican-American* have been hyphenated. In 2019, the *AP Stylebook* dropped the hyphens—possibly because of a campaign that ridiculed the perceived social splintering of so-called hyphenated Americans. The sociological effects of dropping the hyphen are yet unknown. See race-related terms (d).
 
-**K. Parentheses \[( )\].** These marks enclose words, phrases, and even whole sentences (but usually no more than a whole paragraph). If what is enclosed is a full sentence, the closing parenthesis follows the end punctuation; if not, the end punctuation is placed outside, as in the previous sentence here. More specifically, parentheses are used in four ways. First, they indicate interpolations and remarks by the writer of the text \<Mrs. X (as I shall call her) now spoke\>. Second, they specify, in one's own running text, an authority, definition, explanation, reference, or translation \<according to Fowler (*FMEU1* at 64), it is correct to . . . \>. Third, in reporting a speech, they sometimes indicate interruptions by the audience \<"finally—(laughter)—no, I'm really coming to an end now—(laughter)—let me say . . ."\>. Fourth, parentheses separate reference letters or figures that do not need a full stop, e.g., (1)(a).
+## K. Parentheses \[( )\]
+
+These marks enclose words, phrases, and even whole sentences (but usually no more than a whole paragraph). If what is enclosed is a full sentence, the closing parenthesis follows the end punctuation; if not, the end punctuation is placed outside, as in the previous sentence here. More specifically, parentheses are used in four ways. First, they indicate interpolations and remarks by the writer of the text \<Mrs. X (as I shall call her) now spoke\>. Second, they specify, in one's own running text, an authority, definition, explanation, reference, or translation \<according to Fowler (*FMEU1* at 64), it is correct to . . . \>. Third, in reporting a speech, they sometimes indicate interruptions by the audience \<"finally—(laughter)—no, I'm really coming to an end now—(laughter)—let me say . . ."\>. Fourth, parentheses separate reference letters or figures that do not need a full stop, e.g., (1)(a).
 
 The first of those uses comes into play most frequently. The main test for whether a parenthetical construction works is whether the rest of the sentence makes sense without it. That's because words contained within parentheses do not affect the syntax of the rest of the sentence. E.g.: "We must determine whether each (or both) children are entitled to tickets." The writer of that sentence could have avoided this error (*each children are*) by reading the sentence without the parenthetical phrase.
 
@@ -174,17 +196,23 @@ Virtually any punctuation mark is subject to an annoying overuse, but this is es
 
 On the use of parentheses with appositives, see appositives.
 
-**L. Period or Full Stop \[.\].** This mark is used for two purposes. First, it ends all sentences that are not questions or exclamations. The next word normally begins with a capital letter. Second, it has traditionally indicated abbreviations, but this use is on the decline. See abbreviations (a).
+## L. Period or Full Stop \[.\]
+
+This mark is used for two purposes. First, it ends all sentences that are not questions or exclamations. The next word normally begins with a capital letter. Second, it has traditionally indicated abbreviations, but this use is on the decline. See abbreviations (a).
 
 If a point marking an abbreviation comes at the end of a sentence, it also serves as the closing full stop. E.g.: "She also kept dogs, cats, birds, etc." But where a closing parenthesis or bracket intervenes, a period is required: "She also kept pets (dogs, cats, birds, etc.)." When a sentence concludes with a quotation that ends with a period, question mark, or exclamation mark, no further period is needed. E.g.: "He cried, ‘Go away\!' \[no period\] But the child would not move."
 
-**M. Question Mark \[?\].** A question mark follows every question for which an answer is expected. Typically, the next word begins with a capital letter. "He asked me, ‘Why are you here?' A foolish question." But it's also possible to have a midsentence question mark—e.g.: "Why should what is supposed to be a sacrament be performed with everyone looking on?—with that most desolating of all assemblages, a family reunion." Edmund Wilson, "Things I Consider Overrated" (1920), in *From the Uncollected Edmund Wilson* 127 (1995). Most authorities recommend not placing a comma after the question mark in such a sentence; yet, though it seems a little old-fashioned, Wilson's em-dash after the question mark is quite acceptable.
+## M. Question Mark \[?\]
+
+A question mark follows every question for which an answer is expected. Typically, the next word begins with a capital letter. "He asked me, ‘Why are you here?' A foolish question." But it's also possible to have a midsentence question mark—e.g.: "Why should what is supposed to be a sacrament be performed with everyone looking on?—with that most desolating of all assemblages, a family reunion." Edmund Wilson, "Things I Consider Overrated" (1920), in *From the Uncollected Edmund Wilson* 127 (1995). Most authorities recommend not placing a comma after the question mark in such a sentence; yet, though it seems a little old-fashioned, Wilson's em-dash after the question mark is quite acceptable.
 
 A question mark is not used after indirect questions \<he asked me why I was there\>. See questions, direct and indirect.
 
 A question mark may be placed after a word, phrase, or date whose accuracy is doubted \<Cardinal Wolsey (1475?–1530)\> \<John Reservation\[?\] called\>.
 
-**N. Quotation Marks \[" "\].** Reserve quotation marks for five situations: (1) when you're quoting someone; (2) when you're referring to a word as a word \<the word "that"\>, unless you're using italics for that purpose; (3) when you mean so-called-but-not-really \<if he's a "champion," he certainly doesn't act like one\>; (4) when you're creating a new word for something—and then only on its first appearance \<I'd call him a "mirb," by which I mean . . . \>; and (5) when you're marking titles of TV and radio programs, magazine articles, book chapters, poems, short stories, and songs \<having been put on the spot, she sang "Auld Lang Syne" as best she could\>.
+## N. Quotation Marks \[" "\]
+
+Reserve quotation marks for five situations: (1) when you're quoting someone; (2) when you're referring to a word as a word \<the word "that"\>, unless you're using italics for that purpose; (3) when you mean so-called-but-not-really \<if he's a "champion," he certainly doesn't act like one\>; (4) when you're creating a new word for something—and then only on its first appearance \<I'd call him a "mirb," by which I mean . . . \>; and (5) when you're marking titles of TV and radio programs, magazine articles, book chapters, poems, short stories, and songs \<having been put on the spot, she sang "Auld Lang Syne" as best she could\>.
 
 In marking quotations, writers and editors of AmE and BrE have developed different conventions for quotation marks (or "inverted commas," as the British call them). In AmE, double quotation marks are used for a first quotation; single marks for a quotation within a quotation; double again for a further quotation inside that; etc. In BrE, the practice is exactly the reverse at each step.
 
@@ -206,7 +234,9 @@ Finally, be cautious about using gratuitous quotation marks. The emphatic use is
 
  - "The individual, however, who truly ‘made it happen' is our senior vice president, Jim Savage. . . . Since he and I are virtually always on the ‘same page' in our philosophy and thoughts, I had a double advantage of having a dedicated, experienced, bright collaborator who made a magnificent contribution." Zig Ziglar, *Ziglar on Selling* 16 (1991).
 
-**O. Semicolon \[;\].** This mark—a kind of "supercomma"—separates sentence parts that need a more distinct break than a comma can signal but that are too closely connected to be made into separate sentences. Typically these will be clauses of similar importance and grammatical construction.
+## O. Semicolon \[;\]
+
+This mark—a kind of "supercomma"—separates sentence parts that need a more distinct break than a comma can signal but that are too closely connected to be made into separate sentences. Typically these will be clauses of similar importance and grammatical construction.
 
 Four uses are common.
 
@@ -240,15 +270,21 @@ Fourth, the semicolon sometimes appears simply to give a weightier pause than a 
 
 The most common misuse of the semicolon is to place it where a colon belongs. So it's not uncommon to see, in a business letter, a semicolon after the salutation: "Dear Sarah; . . . ." But the semicolon stops the forward movement of a statement, whereas a colon marks a forward movement. In any given published example, the error might simply be a typographical error. But it happens too commonly to be routinely a typo—e.g.: "In addition to those whose names appear as contributors, I am especially grateful to the following for their valuable assistance in the preparation of the Second Edition; Luciano Berio, Juilliard School of Music; David Burrows, New York University; . . . ." Willi Apel, *Harvard Dictionary of Music* v–vi (2d ed. 1972). In that sentence, the first semicolon should be a colon; the others are correct.
 
-**P. Square Brackets (\[ \]).** These enclose comments, corrections, explanations, interpolations, notes, or translations that were not in the original text but have been added by subsequent authors, editors, or others. E.g.: "My right honorable friend \[John Smith\] is mistaken."/ "They \[Whig members of Congress\] couldn't thwart President Jackson's legislative agenda." Many journalists use parentheses for this purpose because they follow the *AP Stylebook*.
+## P. Square Brackets (\[ \])
+
+These enclose comments, corrections, explanations, interpolations, notes, or translations that were not in the original text but have been added by subsequent authors, editors, or others. E.g.: "My right honorable friend \[John Smith\] is mistaken."/ "They \[Whig members of Congress\] couldn't thwart President Jackson's legislative agenda." Many journalists use parentheses for this purpose because they follow the *AP Stylebook*.
 
 Also, brackets often show parentheses within parentheses \<Smith and her commander (Robert Parnell, also a \[helicopter\] pilot) both survived the crash\>. But in some fields, such as law, it's not only acceptable but customary to use parentheses within parentheses \<(citing Leonard Baker, *John Marshall: A Life in Law* 14 (1974))\>. The "nesting" parentheses at the end of that citation appear throughout this book in parenthetical cross-references to subparts; for example, toward the end of plurals (g), a cross-reference reads, "(see (b))."
 
 In scholarly writing, brackets are sometimes used for adjustments in quoted matter, such as making lowercase a letter that was uppercase in the source of the quotation \<"it is not surprising, in Alison Lurie's view, that ‘\[i\]nnovations in language are always interesting metaphorically' "\> or signifying the omission of a word's inflection \<"good writers . . . sometimes prove\[ \] to be among the toughest of editors themselves"\>. (Here, the *d* has been omitted from the past-tense *proved*.) Some writers and editors, though, tacitly change the capitalization to keep their text free of brackets. Too many bracketed edits can certainly clutter a quotation. In fact, the practice is so distracting that it should be used only where the quotation must be rigorously accurate.
 
-**Q. Virgule \[/\].** Known popularly as the "slash," arcanely as the "solidus," and somewhere in between as the "diagonal," the virgule is a mark that doesn't appear much in first-rate writing. Some writers use it to mean "per" \<50 words/minute\>. Others use it to mean "or" \<and/or\> or "and" \<every employee/independent contractor must complete form XJ42A\>. Still others use it to indicate a vague disjunction, in which it's not quite an *or* \<the novel/novella distinction\>. In this last use, the en-dash is usually a better choice. (See (h).) In all these uses, there's almost always a better choice than the virgule. Use it as a last resort.
+## Q. Virgule \[/\]
+
+Known popularly as the "slash," arcanely as the "solidus," and somewhere in between as the "diagonal," the virgule is a mark that doesn't appear much in first-rate writing. Some writers use it to mean "per" \<50 words/minute\>. Others use it to mean "or" \<and/or\> or "and" \<every employee/independent contractor must complete form XJ42A\>. Still others use it to indicate a vague disjunction, in which it's not quite an *or* \<the novel/novella distinction\>. In this last use, the en-dash is usually a better choice. (See (h).) In all these uses, there's almost always a better choice than the virgule. Use it as a last resort.
 
 But the virgule has legitimate uses as well: (1) to separate run-in lines of poetry \<To be, or not to be: that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune\>; (2) to show pronunciations (as they're shown throughout this book) \<*ribald* is pronounced /**rib**-әld/\>; (3) to separate the numerator and the denominator in a fraction \<19/20\>; (4) in internet addresses \<http://www.oed.com\>; and (5) in informal jottings, to separate the elements in a date \<11/17/98\>.
 
-**R. Bibliography.** For books on punctuation, see the Select Bibliography at the end of this book (p. 1049).
+## R. Bibliography
+
+For books on punctuation, see the Select Bibliography at the end of this book (p. 1049).
 

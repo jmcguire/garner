@@ -2,7 +2,9 @@
 
 fraught.
 
-**A. Generally.** *Fraught* (= laden, equipped) typically takes *with* to connote ominousness or menace \<a statement fraught with doubt\>. While in the original sense a ship might be *fraught* with riches or democracy *fraught* with blessings (to use two phrases quoted in the *OED*), today *fraught with* is invariably associated with danger or something else bad.
+## A. Generally
+
+*Fraught* (= laden, equipped) typically takes *with* to connote ominousness or menace \<a statement fraught with doubt\>. While in the original sense a ship might be *fraught* with riches or democracy *fraught* with blessings (to use two phrases quoted in the *OED*), today *fraught with* is invariably associated with danger or something else bad.
 
 There is a new sense of *fraught*, too—"distressed" or "distressing"—dating from the mid-1960s. This new use (without a *with*) is now fairly common. Though much more frequent in BrE than in AmE, the sense does appear in American sources—e.g.:
 
@@ -14,7 +16,9 @@ There is a new sense of *fraught*, too—"distressed" or "distressing"—dating 
 
 **Language-Change Index:** *fraught* (without *with*): Stage 5
 
-**B. *Fraught with* and *wrought with*.** *Wrought*, an archaic past participle of *work*, is frequently but erroneously substituted for *fraught* in the idiom *fraught with* (danger, peril, etc.)—e.g.:
+## B. *Fraught with* and *wrought with*
+
+*Wrought*, an archaic past participle of *work*, is frequently but erroneously substituted for *fraught* in the idiom *fraught with* (danger, peril, etc.)—e.g.:
 
  - "Despite the joyous homecoming, the transition from a life that was *wrought* \[read *fraught*\] with danger and emotion won't be easy for the soldiers or their families, said Lt. Col. Mary Erickson, a Combat/Operational Stress Control Officer." Sharon Schmickle, "Home After Doing Their Job," *Star Trib*. (Minneapolis), 7 Apr. 2004, at B1.
 

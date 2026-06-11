@@ -2,9 +2,13 @@
 
 almost.
 
-**A. Placement.** This word is sometimes misplaced in a sentence—e.g.: "There is *almost a childlike simplicity* \[read *an almost childlike simplicity*\] in their straightforward depictions." Myra Yellin Outwater, "Early American ‘Naive' Art a Surprise for Sophisticates," *Morning Call* (Allentown, Pa.), 10 Mar. 1996, at F1. Like *only*, the word *almost* should be placed immediately before the word it modifies. See **only (a)**.
+## A. Placement
 
-**B. *\*Almost quite*.** H.W. Fowler branded this phrasing an "illiteracy," and so it remains today—e.g.:
+This word is sometimes misplaced in a sentence—e.g.: "There is *almost a childlike simplicity* \[read *an almost childlike simplicity*\] in their straightforward depictions." Myra Yellin Outwater, "Early American ‘Naive' Art a Surprise for Sophisticates," *Morning Call* (Allentown, Pa.), 10 Mar. 1996, at F1. Like *only*, the word *almost* should be placed immediately before the word it modifies. See **only (a)**.
+
+## B. *\*Almost quite*
+
+H.W. Fowler branded this phrasing an "illiteracy," and so it remains today—e.g.:
 
  - " ‘They're feeding at the door,' a competing bookseller says jealously, and *almost quite* \[read *almost*\] literally." Raphael Sagalyn, "Bookstore Wars," *Wash. Post* (Mag.), 11 Mar. 1979, at 28.
 

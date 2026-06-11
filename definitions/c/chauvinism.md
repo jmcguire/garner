@@ -2,7 +2,9 @@
 
 chauvinism.
 
-**A. Generally.** Traditionally, *chauvinism* /**shoh**-vә-niz-әm/ refers to fanatical patriotism. The word's eponym is Nicolas Chauvin, a French soldier who was ridiculed for being excessively devoted to Napoleon.
+## A. Generally
+
+Traditionally, *chauvinism* /**shoh**-vә-niz-әm/ refers to fanatical patriotism. The word's eponym is Nicolas Chauvin, a French soldier who was ridiculed for being excessively devoted to Napoleon.
 
 By metaphorical extension, the word has been broadened to denote exaggerated belief in the superiority of any group, class, or cause. Today *male chauvinism*, which (as a phrase, not a phenomenon) dates back to the 1940s, is something of a cliché, being the word's most frequent application—e.g.: "In 1999, the socialist-feminist magazine *Mother Jones*, hardly a bastion of *male chauvinism*, reported that ‘women report using violence in their relationships more often than men' and ‘wives hit their husbands at least as often as husbands hit their wives.' " Stephen Baskerville, "A Tool Kit to Destroy Families," *Wash. Times*, 9 Dec. 2001, at B5.
 
@@ -18,7 +20,9 @@ To the linguistic traditionalist, these uses (or misuses) are arrant nonsense. B
 
 **Language-Change Index:** *chauvinism* for *male chauvinism*: Stage 3
 
-**B. And *jingoism*.** The void left by the shift in the meaning of *chauvinism* from national pride to supposed sexual superiority has been filled by *jingoism*. Essentially synonymous with *chauvinism* in its traditional sense, *jingoism* has the added layer of xenophobic and aggressive attitudes toward foreign policy—e.g.: "Gilmour goes overboard in trying to rationalize and justify Kipling's racism and *jingoism*. He argues, for example, that ‘white' in *The White Man's Burden* does not refer to skin color but rather to ‘civilization and character' and that Kipling's imperialistic beliefs were essentially humane and benevolent rather than based on greed, paternalism and self-interest." Earl L. Dachslager, "The Kipling Paradox," *Houston Chron.*, 23 June 2002, Zest §, at 19.
+## B. And *jingoism*
+
+The void left by the shift in the meaning of *chauvinism* from national pride to supposed sexual superiority has been filled by *jingoism*. Essentially synonymous with *chauvinism* in its traditional sense, *jingoism* has the added layer of xenophobic and aggressive attitudes toward foreign policy—e.g.: "Gilmour goes overboard in trying to rationalize and justify Kipling's racism and *jingoism*. He argues, for example, that ‘white' in *The White Man's Burden* does not refer to skin color but rather to ‘civilization and character' and that Kipling's imperialistic beliefs were essentially humane and benevolent rather than based on greed, paternalism and self-interest." Earl L. Dachslager, "The Kipling Paradox," *Houston Chron.*, 23 June 2002, Zest §, at 19.
 
 Sometimes the word takes on an even softer sense, suggesting a provincialism or regionalism that is broader than national sovereignty—e.g.: "The prime minister's evident glee that the BA order had gone to a ‘European' company is mere *jingoism* at bottom." "New Labour, Old Corporatism," *Wall Street J. Europe*, 27 Aug. 1998, at 6.
 

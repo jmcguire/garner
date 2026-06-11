@@ -4,7 +4,7 @@ Superstitions. In 1926, H.W. Fowler used the term *superstitions* to describe, i
 
 Most of these superstitions are treated elsewhere in this book, in the entry referred to at the end of each subentry. For additional perspectives on these points, see the brief statements by respected authorities on style, grammar, and usage that are collected below.
 
-**A. The False Notion That You Should Never End a Sentence with a Preposition.**
+## A. The False Notion That You Should Never End a Sentence with a Preposition
 
  - **1941:** "Certainly the prepositional tail is in good usage, and, if not pleasing to the purists, it is nevertheless often more forceful and far less stilted than the more involved construction." Lloyd E. Smith, *Making Words Work for You* 100 (1941).
 
@@ -18,7 +18,7 @@ Most of these superstitions are treated elsewhere in this book, in the entry ref
 
 For a pleasing cornucopia of still more authorities—should you need them—see prepositions (b).
 
-**B. The False Notion That You Should Never Split an Infinitive.**
+## B. The False Notion That You Should Never Split an Infinitive
 
  - **19c:** "There is a busybody on your staff who devotes a lot of his time to chasing split infinitives. Every good literary craftsman splits his infinitives when the sense demands it. I call for the immediate dismissal of this pedant. It is of no consequence whether he decides to go quickly or quickly to go or to quickly go. The important thing is that he should go at once." George Bernard Shaw, Letter to *The Times* (19c) (as quoted in *Best Advice on How to Write* 259–60 \[Gorham Munson ed., 1952\]).
 
@@ -47,9 +47,11 @@ For a pleasing cornucopia of still more authorities—should you need them—see
 
 See split infinitives (a).
 
-**C. The False Notion That You Should Never Split a Verb Phrase.** For a litany of authorities dispelling this utter nonsense, see adverbs (b).
+## C. The False Notion That You Should Never Split a Verb Phrase
 
-**D. The False Notion That You Should Never Begin a Sentence with *And* or *But*.**
+For a litany of authorities dispelling this utter nonsense, see adverbs (b).
+
+## D. The False Notion That You Should Never Begin a Sentence with *And* or *But*
 
  - **1938:** "Next to the groundless notion that it is incorrect to end an English sentence with a preposition, perhaps the most wide-spread of many false beliefs about the use of our language is the equally groundless notion that it is incorrect to begin one with ‘but' or ‘and.' As in the case of the superstition about the prepositional ending, no textbook supports it, but apparently about half of our teachers of English go out of their way to handicap their pupils by inculcating it. One cannot help wondering whether those who teach such a monstrous doctrine ever read any English themselves." Charles Allen Lloyd, *We Who Speak English* 19 (1938).
 
@@ -81,7 +83,7 @@ See split infinitives (a).
 
 See **and (a)** & **but (a)**.
 
-**E. The False Notion That You Should Never Write a One-Sentence Paragraph.**
+## E. The False Notion That You Should Never Write a One-Sentence Paragraph
 
  - **1896:** "A paragraph may contain but one sentence . . . \[or\] two sentences; but usually it contains more than two." Adams Sherman Hill, *The Foundations of Rhetoric* 23–24 (1896).
 
@@ -108,7 +110,9 @@ See **and (a)** & **but (a)**.
 
  - **2020:** "If you can say what you want to say in a single sentence that lacks a direct connection with any other sentence, just stop there and go on to a new paragraph. There's no rule against it. A paragraph can be a single sentence, whether long, short, or middling." Martin Cutts, *Oxford Guide to Plain English* 172 (5th ed. 2020).
 
-**F. The False Notion That You Should Never Begin a Sentence with *Because*.** So novel and absurd is this superstition that few authorities on writing have countered it in print. But here's one: "This proscription \[‘Never begin a sentence with *because*'\] appears in no handbook of usage I know of, but the belief seems to have a popular currency among many students." Joseph M. Williams, *Style: Ten Lessons in Clarity and Grace* 168 (1981). It appears to result from concern about fragments—e.g.: "Then the group broke for lunch. Because we were hungry." Of course, the second "sentence" is merely a fragment, not a complete sentence. (See incomplete sentences (a).) But problems of that kind simply cannot give rise to a general prohibition against starting a sentence with *because*. Good writers do so frequently—e.g.:
+## F. The False Notion That You Should Never Begin a Sentence with *Because*
+
+So novel and absurd is this superstition that few authorities on writing have countered it in print. But here's one: "This proscription \[‘Never begin a sentence with *because*'\] appears in no handbook of usage I know of, but the belief seems to have a popular currency among many students." Joseph M. Williams, *Style: Ten Lessons in Clarity and Grace* 168 (1981). It appears to result from concern about fragments—e.g.: "Then the group broke for lunch. Because we were hungry." Of course, the second "sentence" is merely a fragment, not a complete sentence. (See incomplete sentences (a).) But problems of that kind simply cannot give rise to a general prohibition against starting a sentence with *because*. Good writers do so frequently—e.g.:
 
  - **1954:** "*Because* of the war the situation in hospitals is, of course, serious." E.B. White, "A Weekend with the Angels," in *The Second Tree from the Corner* 3, 6 (1954).
 
@@ -120,7 +124,7 @@ See **and (a)** & **but (a)**.
 
 See **because (e)**.
 
-**G. The False Notion That You Should Never Use *since* to Mean *because*.**
+## G. The False Notion That You Should Never Use *since* to Mean *because*
 
  - **1966:** "There is a groundless notion current both in the lower schools and in the world of affairs that *since* has an exclusive reference to time and therefore cannot be used as a causal conjunction. . . . No warrant exists for avoiding this usage, which goes back, beyond Chaucer, to Anglo-Saxon." Wilson Follett, *MAU* at 305.
 
@@ -132,7 +136,7 @@ See **because (e)**.
 
 See **as (a)** & **since**.
 
-**H. The False Notion That You Should Never Use *between* with More than Two Objects.**
+## H. The False Notion That You Should Never Use *between* with More than Two Objects
 
  - **1977:** "When Miss Thistlebottom taught you in grammar school that *between* applies only to two things and *among* to more than two, she was for the most part correct. *Between* essentially does apply to only two, but sometimes the ‘two' relationship is present when more than two elements are involved. For example, it would be proper to say that ‘The President was trying to start negotiations between Israel, Egypt, Syria and Jordan' if what was contemplated was not a round-table conference but separate talks involving Israel and each of the other three nations." Theodore M. Bernstein, *Dos, Don'ts & Maybes of English Usage* 29 (1977).
 
@@ -146,7 +150,7 @@ See **as (a)** & **since**.
 
 See **between (a)**.
 
-**I. The False Notion That You Should Never Use the First-Person Pronouns *I*, *me*, *we*, and *us*.**
+## I. The False Notion That You Should Never Use the First-Person Pronouns *I*, *me*, *we*, and *us*
 
  - **1958:** "If you want to write like a professional just about the first thing you have to do is get used to the first person singular. Just plunge in and write ‘I' whenever ‘I' seems to be the word that is called for. Never mind the superstitious notion that it's immodest to do so. It just isn't so." Rudolf Flesch, *A New Way to Better English* 49 (1958).
 
@@ -156,7 +160,7 @@ See **between (a)**.
 
 See first person.
 
-**J. The False Notion That You Should Never Use Contractions.**
+## J. The False Notion That You Should Never Use Contractions
 
  - **1940:** "*I don't* and *you don't* and *we don't* are easy and proper, except where high dignity is required." Edward N. Teall, *Putting Words to Work* 32 (1940).
 
@@ -178,7 +182,7 @@ See first person.
 
 See contractions (a).
 
-**K. The False Notion That You Should Never Use *you* in Referring to Your Reader.**
+## K. The False Notion That You Should Never Use *you* in Referring to Your Reader
 
  - **1962:** "Keep a running conversation with your reader. Use the second-person pronoun whenever you can. Translate everything into *you* language. *This applies to citizens over 65 = if you're over 65, this applies to you. It must be remembered that = you must remember. Many people don't realize = perhaps you don't realize.* Always write directly to *you*, the person you're trying to reach with your written message. Don't write in mental isolation; reach out to your reader." Rudolf Flesch, *How to Be Brief: An Index to Simple Writing* 114 (1962).
 
@@ -189,4 +193,3 @@ See contractions (a).
  - **2010:** "The *you* point of view, which emphasizes the reader, works well for giving advice or explaining how to do something." Diana Hacker & Nancy Sommers, *A Writer's Reference* 129 (2010).
 
 See **you**.
-

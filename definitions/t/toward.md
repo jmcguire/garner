@@ -2,14 +2,20 @@
 
 toward.
 
-**A. And *towards*.** Since about 1900, *toward* has been the predominant and editorially preferred form in AmE; *towards* has always been predominant in BrE. See directional words (a).
+## A. And *towards*
+
+Since about 1900, *toward* has been the predominant and editorially preferred form in AmE; *towards* has always been predominant in BrE. See directional words (a).
 
  - Current ratio in print (*toward* vs. *towards* in AmE \[case-insensitive search\]): 4:1
  - Current ratio in print (*toward* vs. *towards* in BrE \[case-insensitive search\]): 2:1
 
-**B. Pronunciation.** The word is preferably pronounced /tord/ (to rhyme with *board*), not /tword/ or /tә-**word**/. See class distinctions.
+## B. Pronunciation
 
-**C. Misused for *to* or *against*.** *Toward* implies movement. It shouldn't be used when the sentence would be served by *to* or *against*—e.g.:
+The word is preferably pronounced /tord/ (to rhyme with *board*), not /tword/ or /tә-**word**/. See class distinctions.
+
+## C. Misused for *to* or *against*
+
+*Toward* implies movement. It shouldn't be used when the sentence would be served by *to* or *against*—e.g.:
 
  - "The parks and recreation department has no objections *toward* \[read *to*\] selling the West Suffield School." Rubaina Azhar, "Suffield Holds Off on Sales," *Hartford Courant*, 14 Mar. 1997, at B1.
 

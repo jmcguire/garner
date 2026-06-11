@@ -2,7 +2,9 @@
 
 fortuitous.
 
-**A. And *fortunate*.** If words seem to have personalities, they also have fortunes. They may appreciate in meaning (gaining better senses) or depreciate in meaning (gaining worse senses). Their boundaries may be carefully observed or carelessly neglected. Although *fortuitous* has appreciated in meaning, its traditional boundaries have been muddled. You might debate whether its fate has been fortunate or unfortunate.
+## A. And *fortunate*
+
+If words seem to have personalities, they also have fortunes. They may appreciate in meaning (gaining better senses) or depreciate in meaning (gaining worse senses). Their boundaries may be carefully observed or carelessly neglected. Although *fortuitous* has appreciated in meaning, its traditional boundaries have been muddled. You might debate whether its fate has been fortunate or unfortunate.
 
 Strictly speaking, *fortuitous* means "occurring by chance; accidental or casual." This traditional sense, dating back to the adjective's first use in the 1600s, remains fairly strong—e.g.:
 
@@ -40,7 +42,9 @@ How do things stand in the 2020s? The erosion of the verbal coastline, if we may
 
 **Language-Change Index:** *fortuitous* misused for *fortunate*: Stage 3
 
-**B. *\*Fortuitous accident* & *\*fortuitous coincidence*.** In these phrases, the word *fortuitous* bears the right sense but amounts to a redundancy: every accident or coincidence is fortuitous. Writers using those phrases, though, almost invariably mean "fortunate" or "lucky"—e.g.:
+## B. *\*Fortuitous accident* & *\*fortuitous coincidence*
+
+In these phrases, the word *fortuitous* bears the right sense but amounts to a redundancy: every accident or coincidence is fortuitous. Writers using those phrases, though, almost invariably mean "fortunate" or "lucky"—e.g.:
 
  - "Without that *fortuitous accident* \[read *lucky accident*\] of layout, even Conran's space might have stayed empty." Claudia H. Deutsch, "The Shops at Citicorp Center," *N.Y. Times*, 16 June 1996, § 9, at 10.
 
@@ -54,7 +58,9 @@ How do things stand in the 2020s? The erosion of the verbal coastline, if we may
 
 *\*fortuitous coincidence* misused for *fortunate coincidence*: Stage 2
 
-**C. Corresponding Adverb: *fortuitously*.** In the early 1980s, a *Time* magazine journalist wrote a piece about American aircraft that, having been ordered by the Shah of Iran, "*fortuitously* were never delivered." Both William Safire and Jacques Barzun called the journalist to task for misusing *fortuitously* in place of *fortunately*. See Safire, *I Stand Corrected* 205–06, 315 (1984). The journalist, George Church, then defended himself by saying that the failure of delivery was an instance of "sheer dumb luck." He posited that while *fortunately* would have emphasized the happiness of the outcome, *fortuitously* emphasized that it resulted from chance. *Ibid.* at 205. No dice, said Safire and Barzun.
+## C. Corresponding Adverb: *fortuitously*
+
+In the early 1980s, a *Time* magazine journalist wrote a piece about American aircraft that, having been ordered by the Shah of Iran, "*fortuitously* were never delivered." Both William Safire and Jacques Barzun called the journalist to task for misusing *fortuitously* in place of *fortunately*. See Safire, *I Stand Corrected* 205–06, 315 (1984). The journalist, George Church, then defended himself by saying that the failure of delivery was an instance of "sheer dumb luck." He posited that while *fortunately* would have emphasized the happiness of the outcome, *fortuitously* emphasized that it resulted from chance. *Ibid.* at 205. No dice, said Safire and Barzun.
 
 In short, as could be amply shown with supernumerary examples, the adverb has the same potential pitfalls as the adjective. See (a).
 
@@ -70,7 +76,9 @@ You might argue, surely enough, that in these examples, the writer wanted to emp
 
 **Language-Change Index:** *fortuitously* misused for *fortunately*: Stage 3
 
-**D. Corresponding Noun: *fortuity*.** The noun *fortuity* is the relatively unusual noun corresponding to *fortuitous* (usually in the strict sense)—e.g.:
+## D. Corresponding Noun: *fortuity*
+
+The noun *fortuity* is the relatively unusual noun corresponding to *fortuitous* (usually in the strict sense)—e.g.:
 
  - "Voters tend to be more straightforward, rewarding presidents who, whether by *fortuity* or by design, happen to be in office when the public's pocketful swells." John Liscio, "History, and Hard Numbers, Favor Bill Clinton," *Commercial Appeal* (Memphis), 18 Aug. 1996, at C1.
 

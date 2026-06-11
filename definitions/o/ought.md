@@ -2,7 +2,9 @@
 
 ought.
 
-**A. Infinitive Following.** *Ought*—an old past tense and past participle of *owe*, but now a modal auxiliary verb—is now almost invariably followed by a full infinitive, whether the phrase is *ought to* or *ought not to*—e.g.:
+## A. Infinitive Following
+
+*Ought*—an old past tense and past participle of *owe*, but now a modal auxiliary verb—is now almost invariably followed by a full infinitive, whether the phrase is *ought to* or *ought not to*—e.g.:
 
  - "Clinton to this day insists his day-and-night shakedown of contributors constituted, at one and the same time, action that *ought to be* illegal, but an innocent exercise in democracy and the free play of ideas." John Hall, "Few Mourn End of Thompson's Hearings, and That Is a Shame," *Richmond Times-Dispatch*, 6 Nov. 1997, at A9.
 
@@ -23,9 +25,13 @@ Formerly, a bare infinitive (without *to*) was used in negative and interrogativ
  - *\*ought not be* for *ought not to be*: Stage 2
  - Current ratio in print (*ought not to be* vs. *\*ought not be*): 11:1
 
-**B. And *should*.** *Ought* should be reserved for expressions of necessity, duty, or obligation; *should*, the slightly weaker but more usual word, especially in speech, expresses appropriateness, suitability, or fittingness.
+## B. And *should*
 
-**C. *\*Had ought*.** This phrasing is nonstandard in place of *ought*—e.g.:
+*Ought* should be reserved for expressions of necessity, duty, or obligation; *should*, the slightly weaker but more usual word, especially in speech, expresses appropriateness, suitability, or fittingness.
+
+## C. *\*Had ought*
+
+This phrasing is nonstandard in place of *ought*—e.g.:
 
  - "You *had ought* \[read *ought*\] to see some of the aeroplanes travel here and see some of the battles in the clouds." Norm Maves Jr., "Rats the Size of Half-Grown Mules Visit Trenches," *Oregonian* (Portland), 8 Nov. 1994, at B1.
 
@@ -39,7 +45,9 @@ Formerly, a bare infinitive (without *to*) was used in negative and interrogativ
 
  - Current ratio in print (*you ought* vs. *you had ought*): 1,479:1
 
-**D. *Oughtn't*.** This quaint contraction sometimes appears. The same principles govern its use as those governing *ought.* That is, it should be followed by the full infinitive, not a bare infinitive—e.g.:
+## D. *Oughtn't*
+
+This quaint contraction sometimes appears. The same principles govern its use as those governing *ought.* That is, it should be followed by the full infinitive, not a bare infinitive—e.g.:
 
  - "Kennedy and his top aides scratched their heads at the revelation, wondering if something *oughtn't* to be done." Paul Berman, "The Patriot," *L.A. Times*, 2 July 2000, Book §, at 9.
 
@@ -51,7 +59,11 @@ See (a). Most writers would use the far more natural word *shouldn't*.
 
  - Current ratio in print (*you oughtn't to be* vs. *\*you oughtn't be*): 19:1
 
-**E. *\*Ought to could*.** See double modals.
+## E. *\*Ought to could*
 
-**F. Confused with *aught*.** See **aught (c)**.
+See double modals.
+
+## F. Confused with *aught*
+
+See **aught (c)**.
 

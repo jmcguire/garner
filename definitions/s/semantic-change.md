@@ -4,7 +4,9 @@ Semantic Change. The only constant in language, as in life, is change. That's an
 
 When it comes to word meanings, there are four major types of change: functional shift (changing a word's usual part of speech), narrowing the sense, broadening the sense, and overthrowing the traditional sense altogether.
 
-**A. Functional Shift.** When Americans started using *contact* as a verb in the 1920s, a torrent of objections ensued. Soon after Theodore Dreiser used it in 1925, the *Spectator* editorialized: "Dreiser should not be allowed to corrupt his language" by using the word as a verb. A 1933 piece in *Harper's Magazine* called it an abomination, adding: "We trust it will still be considered so when the 2000th issue of *Harper's* is printed."
+## A. Functional Shift
+
+When Americans started using *contact* as a verb in the 1920s, a torrent of objections ensued. Soon after Theodore Dreiser used it in 1925, the *Spectator* editorialized: "Dreiser should not be allowed to corrupt his language" by using the word as a verb. A 1933 piece in *Harper's Magazine* called it an abomination, adding: "We trust it will still be considered so when the 2000th issue of *Harper's* is printed."
 
 That hopeful prognostication came to naught. The verb proved useful in place of *get in touch with*. The replacements originally suggested—*consult with* and *meet*—just don't work when you want to say, "Contact me next week." The word is a "hypernym" (a general umbrella term) for a whole series of possible specifics (*call*, *write*, *come by*, *send a telegram to*, and now *email* and *text* and even *Zoom*). (See **hypernym** \[p. 1215\].) Today almost nobody even realizes that the term was once controversial. See **contact**.
 
@@ -12,15 +14,21 @@ The same can't be said of *impact* as a verb. The verb use was largely just impl
 
 Why did the noun-to-verb shift take place? It provided a supposedly error-free way of denoting the idea, as opposed to *affect*. That is, people have long struggled with whether to use *effect* (normally a noun, but also a verb meaning "to bring about") or *affect* (usually meaning "to influence"). (See **affect**.) So people started choosing *impact*, and the word spread quickly. Although some sticklers still object to this functional shift, *impact* seems destined to follow the course of *contact*, with any controversy soon forgotten (except among snoots). For a more extensive discussion, see functional shift. See also **impact** & **snoot**.
 
-**B. Specialization.** Words often lose breadth over time. Instances in linguistic history are legion. *Meat* once meant food generally, not just the flesh of an animal to be eaten. *Disease* once meant discomfort of any kind. *Affection* once meant feeling of any kind. *Tyrant* meant simply king or absolute ruler. *Goods* denoted good things generally, and *doctrine* meant instruction. Specialization typically occurs so gradually that nobody minds if a genus term comes to denote just a species within that genus.
+## B. Specialization
 
-**C. Generalization.** The reverse process of broadening the meaning often causes anxiety. When a word is extended to cover things once excluded, people may feel that the rules of language are being violated.
+Words often lose breadth over time. Instances in linguistic history are legion. *Meat* once meant food generally, not just the flesh of an animal to be eaten. *Disease* once meant discomfort of any kind. *Affection* once meant feeling of any kind. *Tyrant* meant simply king or absolute ruler. *Goods* denoted good things generally, and *doctrine* meant instruction. Specialization typically occurs so gradually that nobody minds if a genus term comes to denote just a species within that genus.
+
+## C. Generalization
+
+The reverse process of broadening the meaning often causes anxiety. When a word is extended to cover things once excluded, people may feel that the rules of language are being violated.
 
 The word *anxious* is a good example. It formerly corresponded closely to the noun *anxiety*; it meant "nervous, worried, fretful." As early as the 1500s, though, *anxious* was also being used only in reference to a certain kind of concern for something: it had come to mean "eager, keen." Over time, that sense may even have become predominant. Perhaps the only reason that some people still occasionally object to the *eager* sense is the doggedly different meaning of *anxiety*. See **anxious**.
 
 Words once thought to be irretrievably narrow in meaning still elicit objections when they're used more broadly. *Enormity* ("monstrous wickedness" since the 1400s), *fulsome* ("excessive to the point of being offensive" since the early 1600s), and *reticent* ("reluctant to talk, taciturn" since the early 1800s) are now often used neutrally in reference, respectively, to size, fullness, and disinclination. Sticklers object. As recently as the 2010s, the late John Simon, a language critic as well as a theater critic, was calling such things "illiteracies." See **enormity**, **fulsome** & **reticent**.
 
-**D. Reversals in Meaning.** Nothing bothers the linguistic traditionalist more than the application of a word in a sense entirely different from its established one. Think of *disinterested* (formerly just "impartial," but now often "bored"), *fortuitous* (formerly just "occurring by chance," but now often "fortunate"), and *transpire* (formerly "to come to light," but now usually a fancy equivalent of *happen* or *occur*). These can still arouse moderate agitation. See **disinterested**, **fortuitous** & **transpire**.
+## D. Reversals in Meaning
+
+Nothing bothers the linguistic traditionalist more than the application of a word in a sense entirely different from its established one. Think of *disinterested* (formerly just "impartial," but now often "bored"), *fortuitous* (formerly just "occurring by chance," but now often "fortunate"), and *transpire* (formerly "to come to light," but now usually a fancy equivalent of *happen* or *occur*). These can still arouse moderate agitation. See **disinterested**, **fortuitous** & **transpire**.
 
 If you really wanted to see fervent denunciations, you might have mentioned the phrase *begging the question* to the late Justice Antonin Scalia. He insisted, as unrelenting traditionalists still do, that the phrase denotes arguing in circles: insisting on the truth of the very thing in dispute (as when somebody argues that everybody admires Jill because she's so popular). It's the everyday equivalent of the phrase *petitio principii*.
 
@@ -46,5 +54,7 @@ These clashing assertions, alas, are accompanied by no real evidence. How recent
 
 Are there lessons here? Yes: (1) When you wonder about a linguistic innovation—especially if you're tempted to disapprove—it's well worth consulting a historical dictionary such as the *OED* to find out how old it really is. (2) Whenever you consult a dictionary, you shouldn't accept its word uncritically.
 
-**E. The Recommended Mindset.** Must we simply accept all linguistic change on fatalistic grounds? Absolutely not. Though the language constantly shifts, you're entitled to grouse and harrumph at newfangled applications of words. Who knows? You might influence your friends and family, and you might help effect a widespread rejection of retrograde innovations. Exercise your democratic right to have your say. Just don't expect fulsome praise.
+## E. The Recommended Mindset
+
+Must we simply accept all linguistic change on fatalistic grounds? Absolutely not. Though the language constantly shifts, you're entitled to grouse and harrumph at newfangled applications of words. Who knows? You might influence your friends and family, and you might help effect a widespread rejection of retrograde innovations. Exercise your democratic right to have your say. Just don't expect fulsome praise.
 

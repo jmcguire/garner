@@ -2,7 +2,9 @@
 
 go.
 
-**A. Inflected Forms: *go* \> *went* \> *gone*.** To use *went* as a straight-faced past participle is to engage in low dialect that isn't appropriate even for the sports pages—e.g.:
+## A. Inflected Forms: *go* \> *went* \> *gone*
+
+To use *went* as a straight-faced past participle is to engage in low dialect that isn't appropriate even for the sports pages—e.g.:
 
  - "Larry Jackson has *went* \[read *gone*\] beyond expectations." Jerry Reigle, "Feature Winners' List Longer This Season," *Harrisburg Patriot*, 4 Apr. 1996, at D5.
 
@@ -17,7 +19,9 @@ See irregular verbs.
  - *went* misused for *gone*: Stage 1
  - Current ratio in print (*had gone* vs. *\*had went*): 352:1
 
-**B. Meaning "say."** The use of *go* as a synonym for *say* is seemingly part of every American teenager's vocabulary ("So I go, ‘Whattaya mean?' and he goes, ‘Whattaya mean by askin' that?' "). It occurs in the past tense also: "Then he *went*, like, ‘No way\!' " This is low-level slang. Cf. be-verbs (c) & **like (e)**.
+## B. Meaning "say."
+
+The use of *go* as a synonym for *say* is seemingly part of every American teenager's vocabulary ("So I go, ‘Whattaya mean?' and he goes, ‘Whattaya mean by askin' that?' "). It occurs in the past tense also: "Then he *went*, like, ‘No way\!' " This is low-level slang. Cf. be-verbs (c) & **like (e)**.
 
 **Language-Change Index:** *go* in the sense "say": Stage 4
 

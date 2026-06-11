@@ -2,7 +2,9 @@
 
 breach.
 
-**A. And *breech*; *broach*.** *Breach* (= \[1\] n., an opening or gap; or \[2\] vb., to break open) can be a troublesome word. In general usage, it is confused with two other words: *breech*, n. (= \[1\] buttocks; or \[2\] the lower or back part \[of something, as a gun\]), and *broach*, v.t. (= \[1\] to make a hole in \[something\] to let out liquid; or \[2\] to bring up for discussion). The confusion of *breach* with *breech* occurs most often when writers mistakenly use the latter where *breach* belongs—e.g.:
+## A. And *breech*; *broach*
+
+*Breach* (= \[1\] n., an opening or gap; or \[2\] vb., to break open) can be a troublesome word. In general usage, it is confused with two other words: *breech*, n. (= \[1\] buttocks; or \[2\] the lower or back part \[of something, as a gun\]), and *broach*, v.t. (= \[1\] to make a hole in \[something\] to let out liquid; or \[2\] to bring up for discussion). The confusion of *breach* with *breech* occurs most often when writers mistakenly use the latter where *breach* belongs—e.g.:
 
  - "To fill the *breech* \[read *breach*\], factor in how much income your investments might spin off." "How to Put a Price Tag on the Retirement You Want," *Tampa Trib.*, 5 Nov. 1996, Bus. & Fin. §, at 7.
 
@@ -37,7 +39,9 @@ It's awkward to broach this subject, but sometimes a writer seems thoroughly bef
 3. *breach* for *broach*: Stage 1
  - Current ratio in print (*broached the subject* vs. *\*breached the subject*): 177:1
 
-**B. As a Transitive Verb.** Despite a rumor that some crotchety law professors have been spreading, one can *breach*—not just *break*—a contract, a promise, or the peace. Using *breach* in figurative senses is a very modest extension of the old literal sense "to make a breach in (a wall, boundary, etc.)." Indeed, the *OED*'s first citation for the verb is this one from 1547: "\[Obliviousness\] may come to young men and women when their mind is *breached*" (spelling updated). But the old-fashioned view is explainable: from the 1700s through about 1907, *broke the contract* was the predominant phrasing. In print, *breached the contract* surpassed the old phrasing in the early 1900s and remains prevalent.
+## B. As a Transitive Verb
+
+Despite a rumor that some crotchety law professors have been spreading, one can *breach*—not just *break*—a contract, a promise, or the peace. Using *breach* in figurative senses is a very modest extension of the old literal sense "to make a breach in (a wall, boundary, etc.)." Indeed, the *OED*'s first citation for the verb is this one from 1547: "\[Obliviousness\] may come to young men and women when their mind is *breached*" (spelling updated). But the old-fashioned view is explainable: from the 1700s through about 1907, *broke the contract* was the predominant phrasing. In print, *breached the contract* surpassed the old phrasing in the early 1900s and remains prevalent.
 
 And the figurative meaning appears routinely in well-edited writing—e.g.:
 

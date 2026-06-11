@@ -2,7 +2,9 @@
 
 used to.
 
-**A. Generally.** *Used to*, not *\*use to*, is the phrase meaning "formerly"—e.g.:
+## A. Generally
+
+*Used to*, not *\*use to*, is the phrase meaning "formerly"—e.g.:
 
  - "For those who don't know, Dagmar was a very big blond, what we *use to* \[read *used to*\] call in those days ‘well-endowed.' " Nick Clooney, "Hanging Out with Rosie on Early TV," *Cincinnati Post*, 8 Jan. 2003, at B10. (Note that *in those days* produces a redundancy; changing *used to call* to *called* would eliminate it.)
 
@@ -12,7 +14,9 @@ Cf. **supposed to**.
 
  - Current ratio in print (*We used to have* vs. *\*We use to have*): 149:1
 
-**B. *Didn't used to*; *didn't use to*.** The negative form—whichever you choose—doesn't occur nearly as often as the positive. *Did not use to* has been in constant use throughout the English-speaking world since about 1675. *Did not used to* didn't come into common use till the early 20th century—and didn't surpass the traditional form in AmE till the mid-1970s. In BrE, *did not use to* remains predominant, but the two forms have vied closely since the mid-1970s.
+## B. *Didn't used to*; *didn't use to*
+
+The negative form—whichever you choose—doesn't occur nearly as often as the positive. *Did not use to* has been in constant use throughout the English-speaking world since about 1675. *Did not used to* didn't come into common use till the early 20th century—and didn't surpass the traditional form in AmE till the mid-1970s. In BrE, *did not use to* remains predominant, but the two forms have vied closely since the mid-1970s.
 
 The phrasing denotes the idea that something never happened in the past but that it now happens often or regularly. It is the informal equivalent of *never used to* and the rarely encountered phrase *used not to*. In AmE, the contracted form *didn't used to* is a frequent casualism—e.g.:
 
@@ -35,7 +39,9 @@ But remember the standard form that can save you headaches: *never used to*. It 
  - *didn't used to*: Stage 5
  - Current ratio in print (*didn't used to be* vs. *didn't use to be*): 2.5:1
 
-**C. Contracted Form of *used not to*.** In Irish speech, the formal phrase *used not to* is sometimes contracted (rather awkwardly) to *usen't to* or *\*usedn't to*—e.g.:
+## C. Contracted Form of *used not to*
+
+In Irish speech, the formal phrase *used not to* is sometimes contracted (rather awkwardly) to *usen't to* or *\*usedn't to*—e.g.:
 
  - "Ivy Reading, who worked there for 40 years, said: ‘Saturdays we *usen't to be able to* \[read *couldn't*\] stop even for a cup of tea.' " Sarah Lonsdale, "Town Traders Crushed by Market Forces," *Sunday Telegraph*, 19 Sept. 1993, at 9.
 

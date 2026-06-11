@@ -2,13 +2,17 @@
 
 Pronouns .
 
-**A. The Basics.** The personal pronouns in English are as follows:
+## A. The Basics
+
+The personal pronouns in English are as follows:
 
 On the question of *they* as a third-person singular, see **they**.
 
 There are four essential rules concerning personal pronouns. First, if the pronoun is the subject of a clause, it must always be in the nominative case \<she is friendly\>. Second, if the pronoun is the object of a verb, it must be in the objective case \<he thanked her\>. Third, if a pronoun is the object of a preposition, it must always be in the objective case \<it was the fault of them, not their children\>. If a prepositional phrase contains two or more objects, all the objects are in the objective case \<please tell only me and him\>. *Like*, a preposition, is followed by the objective case \<you're starting to sound like me\> \<they looked like us\>. Fourth, if the pronoun is the subject of an infinitive, it must be in the objective case \<she wanted him to sing another song\>.
 
-**B. Hypercorrect Misuse of Nominative for Objective Case.** When a pronoun occurs in a coordinated phrase functioning as an object—the object of either a verb or a preposition—standard english calls for the pronoun to be in the objective case. *Please call John or me*—not *\*Please call John or I*. Or: *Please give it to Jane or me*—not *\*Please give it to Jane or I*. The useful mnemonic device is to omit the first participant: no native speaker would say *\*Please call I* or *\*Please give it to I*.
+## B. Hypercorrect Misuse of Nominative for Objective Case
+
+When a pronoun occurs in a coordinated phrase functioning as an object—the object of either a verb or a preposition—standard english calls for the pronoun to be in the objective case. *Please call John or me*—not *\*Please call John or I*. Or: *Please give it to Jane or me*—not *\*Please give it to Jane or I*. The useful mnemonic device is to omit the first participant: no native speaker would say *\*Please call I* or *\*Please give it to I*.
 
 But why, once the object is coordinated, do people so often want the second item to be in the nominative as opposed to the objective case? It could well be that the hypercorrection occurs because of half-retained memories of corrections away from the accusative in constructions such as *\*Me and my friends are going to the game*—in which Standard English calls for *My friends and I are going to the game*. If you undergo years of remonstrances about the nonstandard form, you might well conclude (erroneously, of course) that there's something inherently wrong with using *me* in a grammatical pairing.
 
@@ -64,7 +68,9 @@ One advantage of the singular use of *they/them* is that many such problems will
 
 The position, then, remains this. In coordinated phrases, Standard English requires nominative pronouns in a subject position \<my friends and I are going\> and objective pronouns as the object of a verb \<he asked Jill and me to come\>, the object of a preposition \<it's a gift for Jill and me\>, and the subject of an infinitive \<he wants Jill and me to decide\>. Departures from these conventions, though increasingly common, are nonstandard.
 
-**C. Underused in Specialized Writing.** Some specialized writers—especially legal writers—have overlearned the lesson that pronouns sometimes have unclear referents. So they (the writers, not the referents) swear off ever using them (the pronouns, not the writers). The resulting style is quite stiff and unnatural—e.g.:
+## C. Underused in Specialized Writing
+
+Some specialized writers—especially legal writers—have overlearned the lesson that pronouns sometimes have unclear referents. So they (the writers, not the referents) swear off ever using them (the pronouns, not the writers). The resulting style is quite stiff and unnatural—e.g.:
 
  - "Frankfurter was unprepared for what was to come. *Frankfurter* \[read *He*\] did hold opinions about the Court's role in handling civil liberties, but these opinions were sometimes contradictory, extremely fuzzy, inarticulate, and unrefined." H.N. Hirsch, *The Enigma of Felix Frankfurter* 133 (1981).
 
@@ -72,7 +78,9 @@ The position, then, remains this. In coordinated phrases, Standard English requi
 
  - "Throughout the spring of 1941, as Black, Douglas, and Murphy continued to agree with Frankfurter only in minor cases, Frankfurter stepped up his efforts at instruction. By the end of the term, *Frankfurter* \[read *he*\] was clearly exasperated with his colleagues." *Ibid*. at 155.
 
-**D. Indefinite Pronouns: Number.** Traditionally, indefinite pronouns (*anybody*, *anyone*, *everybody*, *everyone*, *nobody*, *no one*, *somebody,* and *someone*) have been considered invariably singular. Indeed, as the subject of a verb, each of those terms must be singular—e.g.:
+## D. Indefinite Pronouns: Number
+
+Traditionally, indefinite pronouns (*anybody*, *anyone*, *everybody*, *everyone*, *nobody*, *no one*, *somebody,* and *someone*) have been considered invariably singular. Indeed, as the subject of a verb, each of those terms must be singular—e.g.:
 
  - "There's just one problem: Hardly *anybody* is riding." William LaRue, "Bootlegger's Secret," *Post-Standard* (Syracuse), 16 Dec. 1997, at A8.
 
@@ -92,28 +100,44 @@ Other sentences present closer calls, but the trend is unmistakable—e.g.:
 
 Although *everybody* and *everyone* carry the strongest suggestions of plurality, the other indefinite pronouns are almost as natural as antecedents with *they* and *them*. That's because *they* has increasingly moved toward singular senses. Disturbing though these developments may be to purists, they're irreversible. And nothing that a grammarian says will change them. See **they (a)** & sexism (b).
 
-**E. Reflexive Pronouns.** The reflexive pronouns—*herself*, *himself*, *itself*, *myself*, *oneself, ourselves*, *themselves, yourself, yourselves*—have two uses. First, they may serve as the object of a reflexive verb (one that has the subject acting on itself), as either a direct object \<they flatter themselves\> or an indirect object \<she gave herself a break\>. Second, they may give their antecedent special emphasis. The antecedent may be the subject \<Gayle herself would never admit it\> \<Gayle would never admit it herself\> or an object \<give it to Gayle herself\>.
+## E. Reflexive Pronouns
+
+The reflexive pronouns—*herself*, *himself*, *itself*, *myself*, *oneself, ourselves*, *themselves, yourself, yourselves*—have two uses. First, they may serve as the object of a reflexive verb (one that has the subject acting on itself), as either a direct object \<they flatter themselves\> or an indirect object \<she gave herself a break\>. Second, they may give their antecedent special emphasis. The antecedent may be the subject \<Gayle herself would never admit it\> \<Gayle would never admit it herself\> or an object \<give it to Gayle herself\>.
 
 The key to the use of reflexive pronouns is that each one should reflect an antecedent. They are misused when they just stand in for personal pronouns—e.g.: "It is only right and just, Ms. Flamel, that the assets of the partnership should now be divided equally *between yourself and me* \[read *between you and me*\]." Fred Saberhagen, *A Coldness in the Blood* 152 (2002). See **myself**.
 
 Nonstandard reflexive pronouns, such as *\*hisself* and *\*theirselves*, typify dialect. (See dialect (c).) For the use of *themself*, see sexism (b) & **they (a)**.
 
-**F. Without Clear Antecedent.** Most pronouns require an antecedent—a preceding noun element to which they refer. When a pronoun such as *they* or *it* appears repeatedly in a passage without the same referent, confusion easily results. Consider what happens with *they* and *them* here: "Targeting the super-rich, Ms. Warren promises a 2% annual levy on net worth over $50m, rising to 3% on fortunes above $1bn. Rich people expend a lot of effort avoiding such taxes. Indeed, the complexity of working out what *they* should cough up is one reason only three rich countries have *them* \[read *those taxes*\], compared with 12 in 1990. \[¶\] *They* sense that a Warren presidency would be costly to *them* personally." "Warrensworld," *Economist*, 26 Oct. 2019, at 18, 19. For similar examples, see **it** (second paragraph).
+## F. Without Clear Antecedent
 
-**G. Predicate Nominatives.** A pronoun that functions as the complement of a be-verb or other linking verb is most traditionally in the nominative case \<this is he\> \<it was she\>. E.g.: "*It was she* who suggested that Meggan make the switch." Dade Lemanski, "Therapy with Love," *Pittsburgh City Paper*, 1 June 2022, at 10. Such pronouns are called predicate nominatives, and they're relatively common, though formal. Sometimes they can sound pedantic, as in *The only one who protested was she* or *The most vociferous advocate in the bunch was he*. The tendency, therefore, is to use the objective case in many such contexts—e.g.: "If ever there was a group that could rise up to the top on the basis of sheer creative genius, *it was* *them*." David Brooks, "What the Beatles Tell Us About Fame," *N.Y. Times*, 11 Feb. 2022, at A26.
+Most pronouns require an antecedent—a preceding noun element to which they refer. When a pronoun such as *they* or *it* appears repeatedly in a passage without the same referent, confusion easily results. Consider what happens with *they* and *them* here: "Targeting the super-rich, Ms. Warren promises a 2% annual levy on net worth over $50m, rising to 3% on fortunes above $1bn. Rich people expend a lot of effort avoiding such taxes. Indeed, the complexity of working out what *they* should cough up is one reason only three rich countries have *them* \[read *those taxes*\], compared with 12 in 1990. \[¶\] *They* sense that a Warren presidency would be costly to *them* personally." "Warrensworld," *Economist*, 26 Oct. 2019, at 18, 19. For similar examples, see **it** (second paragraph).
+
+## G. Predicate Nominatives
+
+A pronoun that functions as the complement of a be-verb or other linking verb is most traditionally in the nominative case \<this is he\> \<it was she\>. E.g.: "*It was she* who suggested that Meggan make the switch." Dade Lemanski, "Therapy with Love," *Pittsburgh City Paper*, 1 June 2022, at 10. Such pronouns are called predicate nominatives, and they're relatively common, though formal. Sometimes they can sound pedantic, as in *The only one who protested was she* or *The most vociferous advocate in the bunch was he*. The tendency, therefore, is to use the objective case in many such contexts—e.g.: "If ever there was a group that could rise up to the top on the basis of sheer creative genius, *it was* *them*." David Brooks, "What the Beatles Tell Us About Fame," *N.Y. Times*, 11 Feb. 2022, at A26.
 
 The traditional phrasing would be *if I were he*, not *\*if I were him*. But almost no speaker of English would say *\*if you were I* as opposed to *if you were me*. (For *it's me*, see **it is I**.) The same is true of many other constructions \<it's him she loves\> \<the only one supporting the measure was me\>. These constructions present a curious choice between being hyperformal and pretty casual—with nothing available in between, short of a full rewording.
 
  - Current ratio in print (*it was they* vs. *it was them*): 4:1
  - Current ratio in print (*Was it him?* vs. *Was it he?*): 9:1
 
-**H. Overeager Pronouns.** See anticipatory reference.
+## H. Overeager Pronouns
 
-**I. Restrictive and Nonrestrictive Relative Pronouns.** See **that (a)**.
+See anticipatory reference.
 
-**J. *One* as a Pronoun.** See **one**.
+## I. Restrictive and Nonrestrictive Relative Pronouns
 
-**K. Noun–Pronoun Disagreement.** See concord (b).
+See **that (a)**.
 
-**L. Relative Pronoun–Antecedent Disagreement.** See concord (d).
+## J. *One* as a Pronoun
+
+See **one**.
+
+## K. Noun–Pronoun Disagreement
+
+See concord (b).
+
+## L. Relative Pronoun–Antecedent Disagreement
+
+See concord (d).
 

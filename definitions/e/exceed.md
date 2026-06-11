@@ -2,7 +2,9 @@
 
 exceed.
 
-**A. In the Phrase *\*exceed more than*.** This phrase is a common redundancy—e.g.:
+## A. In the Phrase *\*exceed more than*
+
+This phrase is a common redundancy—e.g.:
 
  - "The county attorney of Charles County, Md., said its losses *exceed more than* \[read *exceed*\] $1.3 million from derivatives trades." "Derivatives Put in Role of Fall Guy," *Ark. Democrat-Gaz.*, 10 Oct. 1994, at D1.
 
@@ -15,5 +17,7 @@ exceed.
  - *\*exceed more than* for *exceed*: Stage 1
  - Current ratio in print (*exceed 10* vs. *\*exceed more than 10*): 182:1
 
-**B. And *accede*.** See **accede**.
+## B. And *accede*
+
+See **accede**.
 

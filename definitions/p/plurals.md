@@ -2,11 +2,15 @@
 
 Plurals .
 
-**A. Generally.** Most nouns form their plurals simply by adding *s*—thus *books*, *songs*, *xylophones*. But if a word ends with the sound of /s/, /sh/, /ch/, or /z/, the plural is formed by adding *-es*—thus *buses*, *thrushes*, *churches*, and *buzzes*. Occasionally, a single final consonant is doubled—thus *fez* makes *fezzes*.
+## A. Generally
+
+Most nouns form their plurals simply by adding *s*—thus *books*, *songs*, *xylophones*. But if a word ends with the sound of /s/, /sh/, /ch/, or /z/, the plural is formed by adding *-es*—thus *buses*, *thrushes*, *churches*, and *buzzes*. Occasionally, a single final consonant is doubled—thus *fez* makes *fezzes*.
 
 Several exceptions exist in words derived from Old English, such as *child–children*, *foot–feet, goose–geese*, *louse–lice*, *man–men*, *mouse–mice*, *ox–oxen*, *tooth–teeth, woman–women*. But there is at least one exception to these exceptions: when *louse* refers to a scoundrel or cad, the plural is always *louses*. See **mouse**.
 
-**B. Loanwords.** References to this subentry appear throughout this book. That's not to say that each such term is discussed here but only that the principles governing the words are explained here.
+## B. Loanwords
+
+References to this subentry appear throughout this book. That's not to say that each such term is discussed here but only that the principles governing the words are explained here.
 
 Words imported into the English language from other languages—especially Greek, Latin, French, and Italian—present some of the most troublesome aspects of English plurals. Many imported words become thoroughly naturalized; if so, they take an English plural. But if a word of Latin or Greek origin is relatively rare in English—or if the foreign plural became established in English long ago—then it typically retains its foreign plural. See loanwords (b).
 
@@ -100,7 +104,9 @@ Loanwords Predominantly Having a Native-English Plural
 
 If you're really stumped by a question of this kind, try looking at the Google Ngram Viewer, which will tell you which one of two or more possible plurals predominates in English-language books.
 
-**C. Nouns Ending in *f*.** Some words change in the plural from a final *-f* to *-ves*, but others simply become *-fs*. Following are the main ones that change:
+## C. Nouns Ending in *f*
+
+Some words change in the plural from a final *-f* to *-ves*, but others simply become *-fs*. Following are the main ones that change:
 
  - beef, beeves (fattened cattle)
  - calf, calves
@@ -132,7 +138,9 @@ If you're really stumped by a question of this kind, try looking at the Google N
 
 Note, however, that the plural of *still life* is *still lifes*.
 
-**D. Nouns Ending in *o*.** No consistent rules are possible for plurals of words ending in *o*. But some weak guidelines can be ventured. First, nouns used quite often in the plural tend to end in *-oes* (*embargoes*, *heroes*, *noes*, *potatoes*, *vetoes*). The following plurals ending in *-oes* are predominant in English:
+## D. Nouns Ending in *o*
+
+No consistent rules are possible for plurals of words ending in *o*. But some weak guidelines can be ventured. First, nouns used quite often in the plural tend to end in *-oes* (*embargoes*, *heroes*, *noes*, *potatoes*, *vetoes*). The following plurals ending in *-oes* are predominant in English:
 
  - archipelago archipelagoes
  - bastinado bastinadoes
@@ -188,7 +196,9 @@ Second, alien-looking words (e.g., *imbroglio*), proper names (e.g., *the Florio
 
 Good dictionaries contain the preferred spellings. If it's possible to cite a trend, the plurals with *e* seem very slightly on the decline. But it's a slow, weak trend.
 
-**E. Nouns Ending in *y*.** If a word ends in a *y* preceded by a vowel, the plural is formed by adding an *s*—e.g.:
+## E. Nouns Ending in *y*
+
+If a word ends in a *y* preceded by a vowel, the plural is formed by adding an *s*—e.g.:
 
  - alloy, alloys
  - attorney, attorneys
@@ -226,7 +236,9 @@ Writers err especially by treating words in the first category as if they belong
 
  - "A couple of huge ceiba trees . . . had a couple of spider *monkies* \[read *monkeys*\] playing in them." W. Curt Vincent, "Something in Common with Garland," *Laurinburg Exchange* (N.C.), 10 Apr. 2021, Editorial §.
 
-**F. Proper Names.** Although few books on grammar mention the point, proper names often cause problems as plurals. The rule is simple: most take a simple *s*, while those ending in *-s*, *-x*, or *-z*, or in a sibilant *-ch* or *-sh*, take *-es*. Thus:
+## F. Proper Names
+
+Although few books on grammar mention the point, proper names often cause problems as plurals. The rule is simple: most take a simple *s*, while those ending in *-s*, *-x*, or *-z*, or in a sibilant *-ch* or *-sh*, take *-es*. Thus:
 
 | *Singular Form* | ***Plural Form*** |
 |---|---|
@@ -250,7 +262,9 @@ Plurals such as these are often erroneously formed by calling, say, Mr. and Mrs.
 
 Otherwise well-schooled people have a hard time with names that end in *s*. The Flowers couple really should be known as the *Flowerses*—that's the only known plural that any traditional English grammar would countenance. When in February 2003 *The New York Times* ran a big article on the Jukes clan, the *Times* correctly (and repeatedly) referred to the family as the *Jukeses*—e.g.: "Now new information about the *Jukeses* has been found in archives at the State University of New York at Albany." Scott Christianson, "Bad Seed or Bad Science?," *N.Y. Times*, 8 Feb. 2003, at A19. But the article also cited an 1877 book erroneously titled *The Jukes: A Study in Crime, Pauperism, Disease, and Heredity*. To the list of evils in that title, the 19th-century author might have added "poor editing."
 
-**G. Compound Nouns.** Certain compound nouns and hyphenated terms make their plurals by adding *s* to the main word—e.g.:
+## G. Compound Nouns
+
+Certain compound nouns and hyphenated terms make their plurals by adding *s* to the main word—e.g.:
 
  - aides-de-camp
  - attorneys general
@@ -311,7 +325,9 @@ A few phrases fall into this category, such as *cul-de-sacs* (see (b)) and *John
 
 But when the addition is merely a preposition, the *s* is added internally, as in *hangers-on, listeners-in*, *lookers-on* (more typically *onlookers*), *lyings-in,* and *passersby*.
 
-**H. Acronyms and Abbreviations.** In general, form the plural of an acronym or initialism merely by adding *s* with no apostrophe: CEO, CEOs; FAQ, FAQs; IPO, IPOs; PC, PCs; PIN, PINs; POW, POWs; and so on. (But see (k).) This style, consistent with the overall modern trend toward simplicity, also applies where the short form ends in a sibilant sound \<IMAXs\> \<MASHs\> \<SOSs\>. Cf. dates (d).
+## H. Acronyms and Abbreviations
+
+In general, form the plural of an acronym or initialism merely by adding *s* with no apostrophe: CEO, CEOs; FAQ, FAQs; IPO, IPOs; PC, PCs; PIN, PINs; POW, POWs; and so on. (But see (k).) This style, consistent with the overall modern trend toward simplicity, also applies where the short form ends in a sibilant sound \<IMAXs\> \<MASHs\> \<SOSs\>. Cf. dates (d).
 
 There are two practical reasons for this preference. First, the acronym or initialism may also be used as a possessive—a form that does require an apostrophe—so the apostrophe should distinguish the two forms \<the CEO's schedule\> \<NASA's budget\>. Second, using an apostrophe to form a plural is one of the most common and persistent spelling errors, especially with names (as when someone erroneously refers to *\*the Bingham's* instead of \[correctly\] to *the Binghams*). Using apostrophes to form plurals of these short forms encourages that error.
 
@@ -329,13 +345,21 @@ Using *RBI* as a plural form (meaning "runs batted in") isn't usual, but it does
 
  - "His bat came alive in the postseason, when he was 8-for-19 with three doubles, a triple and three *RBI* \[read *RBIs*\]." Tony Jackson, "Reds Acquire Pirates Pitcher," *Cincinnati Post*, 21 Dec. 2001, at B3.
 
-**I. Mass (Noncount) Nouns.** A recent trend in the language is to make plurals for mass nouns—i.e., general and abstract nouns that cannot be broken down into discrete units and that therefore should not have plural forms. One example of this phenomenon is the psychologists' and sociologists' term *behaviors* (= actions), suggesting that the ways in which people behave are readily categorizable and therefore countable. Granted, one can have good or bad behavior, but not, traditionally speaking, *a* good behavior or *a* bad behavior. This remains jargon.
+## I. Mass (Noncount) Nouns
+
+A recent trend in the language is to make plurals for mass nouns—i.e., general and abstract nouns that cannot be broken down into discrete units and that therefore should not have plural forms. One example of this phenomenon is the psychologists' and sociologists' term *behaviors* (= actions), suggesting that the ways in which people behave are readily categorizable and therefore countable. Granted, one can have good or bad behavior, but not, traditionally speaking, *a* good behavior or *a* bad behavior. This remains jargon.
 
 Increasingly, though, speakers of English think of *technologies* and *methodologies* as being discrete things. And to weather forecasters, it makes perfect sense to speak of *humidities* and *accumulations*. In part, this trend seems to show two things: first, an affection for abstract terms; and second, a resulting tendency to reify those abstract terms. See count nouns and mass nouns.
 
-**J. Numbers and Decades.** The modern trend is to form the plural of numbers and decades by adding *s* with no apostrophe \<par 4s\> \<the 2010s\>. Some publication styles, notably that of *The New York Times*, still use the *'s* form with decades \<the 1990's\>. But the reason for that newspaper's unusual style does not apply to most writers: "Many publications omit such apostrophes, but they are needed to make . . . all-cap headlines intelligible and are therefore used throughout the paper for consistency." *The New York Times Manual of Style and Usage* 261–62 (1999).
+## J. Numbers and Decades
 
-**K. Words and Letters.** The best way to form the plural of a word used as a word is to italicize it and append *s* in roman type \<trim the number of *of*s to tighten prose\>. With letters, too, that approach usually works best \<roll call was up to the *H*s\> \<mind your *p*s and *q*s\>. If italic type is unavailable, the apostrophe may be unavoidable \<straight A's\> \<no if's, and's, or but's\>. And to some writers, when the letter to be pluralized is *s*, the apostrophe may be irresistible \<a straightaway followed by a series of *S*'s\>. But two points bear emphasis. First, avoid the apostrophe if possible because its use as an incorrect plural form is so widespread that any use at all encourages error. Second, if despite that advice you do use the apostrophe to form the plural of one word or letter, use it the same way with plural words and letters elsewhere in the document to keep your style consistent.
+The modern trend is to form the plural of numbers and decades by adding *s* with no apostrophe \<par 4s\> \<the 2010s\>. Some publication styles, notably that of *The New York Times*, still use the *'s* form with decades \<the 1990's\>. But the reason for that newspaper's unusual style does not apply to most writers: "Many publications omit such apostrophes, but they are needed to make . . . all-cap headlines intelligible and are therefore used throughout the paper for consistency." *The New York Times Manual of Style and Usage* 261–62 (1999).
 
-**L. Plural Possessives.** See possessives (b).
+## K. Words and Letters
+
+The best way to form the plural of a word used as a word is to italicize it and append *s* in roman type \<trim the number of *of*s to tighten prose\>. With letters, too, that approach usually works best \<roll call was up to the *H*s\> \<mind your *p*s and *q*s\>. If italic type is unavailable, the apostrophe may be unavoidable \<straight A's\> \<no if's, and's, or but's\>. And to some writers, when the letter to be pluralized is *s*, the apostrophe may be irresistible \<a straightaway followed by a series of *S*'s\>. But two points bear emphasis. First, avoid the apostrophe if possible because its use as an incorrect plural form is so widespread that any use at all encourages error. Second, if despite that advice you do use the apostrophe to form the plural of one word or letter, use it the same way with plural words and letters elsewhere in the document to keep your style consistent.
+
+## L. Plural Possessives
+
+See possessives (b).
 

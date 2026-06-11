@@ -2,7 +2,9 @@
 
 connote.
 
-**A. And *denote*.** *Connote* /kә-**noht**/ = to imply something in addition to the literal meaning, esp. some emotional response such as tone, flavor, or association. *Denote* /di-**noht**/ = to convey literal meaning. The corresponding nouns are *connotation* and *denotation*. *Denote* is rarely if ever misused. *Connote*, however, is becoming rarer by the day in its traditional sense, illustrated here: "In careful usage, ‘notoriety' carries a *connotation* of wickedness, evil, or gravely bad conduct." James J. Kilpatrick, "A Little Refresher Course," *Tulsa World*, 25 Nov. 1996, at A8.
+## A. And *denote*
+
+*Connote* /kә-**noht**/ = to imply something in addition to the literal meaning, esp. some emotional response such as tone, flavor, or association. *Denote* /di-**noht**/ = to convey literal meaning. The corresponding nouns are *connotation* and *denotation*. *Denote* is rarely if ever misused. *Connote*, however, is becoming rarer by the day in its traditional sense, illustrated here: "In careful usage, ‘notoriety' carries a *connotation* of wickedness, evil, or gravely bad conduct." James J. Kilpatrick, "A Little Refresher Course," *Tulsa World*, 25 Nov. 1996, at A8.
 
 How are *connote* and *connotation* misused? They're sometimes confounded with *denote* and *denotation*—e.g.:
 
@@ -20,7 +22,9 @@ Moreover, only words and other symbols can *connote*, not acts. *Connote* isn't 
 
  - "Clawson said he thinks someone from the skeet shooting party, several of whom did not know Hatfill, told the FBI about the joke, which took on far more sinister *connotations* \[read *implications*\] as agents desperately searched for the anthrax killer." Wayne Washington, "Fighting Terror Global Impact; Anthrax Probe Raises Doubts on FBI," *Boston Globe*, 23 Sept. 2002, at A1.
 
-**B. And *\*connotate*.** *\*Connotate* is a needless variant of *connote*—e.g.:
+## B. And *\*connotate*
+
+*\*Connotate* is a needless variant of *connote*—e.g.:
 
  - "Other factions wanted to eliminate ‘National' from NCTE's name because it *connotated* \[read *connoted*\] ‘nationalism.' " Carol Innerst, "Language Groups Call All English Dialects Valid," *Wash. Times*, 12 Mar. 1996, at A3.
 

@@ -2,7 +2,9 @@
 
 every other.
 
-**A. Illogical Use.** In sentences involving a comparison, *every other* is sometimes used illogically in place of *all others*; that is, *\*more than every other member collectively* is inferior to *more than all other members collectively*. When the sense is of taking things collectively, the plural is needed. Otherwise, the literal sense suggests undoing a dismemberment (especially in the second and third examples below, because the reference is to people)—e.g.:
+## A. Illogical Use
+
+In sentences involving a comparison, *every other* is sometimes used illogically in place of *all others*; that is, *\*more than every other member collectively* is inferior to *more than all other members collectively*. When the sense is of taking things collectively, the plural is needed. Otherwise, the literal sense suggests undoing a dismemberment (especially in the second and third examples below, because the reference is to people)—e.g.:
 
  - "More people fish, camp and hunt than just about *every other outdoor pursuit* \[read *all other outdoor pursuits*\] put together." Tom Stienstra, "Expert Advice: Sportsmen's Expo Worth It," *S.F. Examiner*, 5 Mar. 1995, at D9.
 
@@ -22,7 +24,9 @@ For those sentences to make any sense, Wake Forest must be one of its own oppone
 
 **Language-Change Index:** *every other* misused for *all other*: Stage 3
 
-**B. Ambiguous Use.** The phrase *every other* can give rise to an ambiguity: when you say *every other person you see*, does that mean all the people you see or half the people you see (every second person)? When there is a remote possibility of misunderstanding, or even of a miscue, the best practice is to rewrite—e.g.:
+## B. Ambiguous Use
+
+The phrase *every other* can give rise to an ambiguity: when you say *every other person you see*, does that mean all the people you see or half the people you see (every second person)? When there is a remote possibility of misunderstanding, or even of a miscue, the best practice is to rewrite—e.g.:
 
  - "When I was a junior—even my first semester as a senior—I swore I wouldn't fall prey to the evils that seemed to hit *every other person* \[read *everybody* or *half the students*\] \[during\] their last semester of high school." Julia O'Malley, "Sliding into a Senior Slump," *Anchorage Daily News*, 8 Mar. 1996, at E1. (On the use of *every . . . person . . . their*, see **everyone (a)**.)
 

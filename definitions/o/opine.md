@@ -2,7 +2,9 @@
 
 opine.
 
-**A. Generally.** *Opine* once typically connoted the forming of a judgment on insufficient grounds. It can still suggest the giving of an idle or facetious opinion—e.g.: "At Boardinghouse, a South Shore shop catering exclusively to snowboarders, the young staffers on duty *opined* that skiers are as doomed as the dinosaurs." Glen Martin, "Ski Season Coasts In," *S.F. Chron.*, 1 Dec. 1997, at A1.
+## A. Generally
+
+*Opine* once typically connoted the forming of a judgment on insufficient grounds. It can still suggest the giving of an idle or facetious opinion—e.g.: "At Boardinghouse, a South Shore shop catering exclusively to snowboarders, the young staffers on duty *opined* that skiers are as doomed as the dinosaurs." Glen Martin, "Ski Season Coasts In," *S.F. Chron.*, 1 Dec. 1997, at A1.
 
 The word can carry many nuances. Sometimes *opine* seems intended to cheapen the opinion given—e.g.:
 
@@ -22,7 +24,9 @@ But the word is also used in the sense "to express or pronounce a formal or auth
 
 Since the word sometimes implies authoritativeness, sometimes disingenuousness, and sometimes ridicule, it's perfect for denoting political spin control—e.g.: "Almost as the applause still echoed, the audience practically sprinted out to parse, *opine* and analyze beneath the bright television lights set up in a marble chamber near the House floor." Bob Dart, "State of the Union," *Atlanta J.-Const.*, 29 Jan. 2003, at A6.
 
-**B. And *\*opinion*, vb.** When used as a verb, *opinion* is at best a needless variant of *opine*, at worst a nonword. E.g.:
+## B. And *\*opinion*, vb
+
+When used as a verb, *opinion* is at best a needless variant of *opine*, at worst a nonword. E.g.:
 
  - "The court *opinioned* \[read *opined*\] that people ‘might resist' joining the guerrillas." Stephen F. Gold, "A Travesty of Justice," *Christian Science Monitor*, 3 Mar. 1992, at 18.
 

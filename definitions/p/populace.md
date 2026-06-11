@@ -2,9 +2,13 @@
 
 populace.
 
-**A. And *population*.** Both refer to the human inhabitants of a geographic region. The difference is in connotation: *population* is a neutral term, while *populace* suggests the rabble or common folk—with a rather superior tone.
+## A. And *population*
 
-**B. And *populous*.** The adjective *populous* (= heavily or densely populated) is sometimes subjected to word-swapping with the noun *populace*—e.g.:
+Both refer to the human inhabitants of a geographic region. The difference is in connotation: *population* is a neutral term, while *populace* suggests the rabble or common folk—with a rather superior tone.
+
+## B. And *populous*
+
+The adjective *populous* (= heavily or densely populated) is sometimes subjected to word-swapping with the noun *populace*—e.g.:
 
  - "The four most *populace* \[read *populous*\] states—California, New York, Texas and Florida—are concerned about it." Patrick K. Lackey, "Keep the Immigrants Coming," *Virginian-Pilot* (Norfolk), 15 Apr. 1995, at A6.
 

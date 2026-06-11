@@ -2,7 +2,9 @@
 
 flaccid.
 
-**A. Pronunciation.** *Flaccid* is traditionally pronounced /**flak**-sid/, not /**flas**-id/. All the old pronunciation guides said so. The /ks/ pronunciation is common in words with a *cc* preceding an *i*, *e*, or *ee*, such as *accession*, *accident*, *succeed*, and *vaccination*. As one authority explains: "When *cc-* precedes *-e* or *-i*, the first *c-* is pronounced *k-*, the second *s-*, as in *accede*, *accelerate*, *accept*, *accessible*, *flaccid*, *succinct*, etc." Norman Lewis, *Dictionary of Modern Pronunciation* 76 (1963). The one set of exceptions to that rule involves Italian words and names commonly used in English (the *cc* having a /ch/ sound): *cappuccino*, *carpaccio*, *Gucci*, *Puccini*, etc. Cf. **accessory (b)** & **succinct**.
+## A. Pronunciation
+
+*Flaccid* is traditionally pronounced /**flak**-sid/, not /**flas**-id/. All the old pronunciation guides said so. The /ks/ pronunciation is common in words with a *cc* preceding an *i*, *e*, or *ee*, such as *accession*, *accident*, *succeed*, and *vaccination*. As one authority explains: "When *cc-* precedes *-e* or *-i*, the first *c-* is pronounced *k-*, the second *s-*, as in *accede*, *accelerate*, *accept*, *accessible*, *flaccid*, *succinct*, etc." Norman Lewis, *Dictionary of Modern Pronunciation* 76 (1963). The one set of exceptions to that rule involves Italian words and names commonly used in English (the *cc* having a /ch/ sound): *cappuccino*, *carpaccio*, *Gucci*, *Puccini*, etc. Cf. **accessory (b)** & **succinct**.
 
 Over a long period, many pronunciation authorities have listed only /**flak**-sid/, not even mentioning /**flas**-id/. See, e.g., John H. Bechtel, *Handbook of Pronunciation and Phonetic Analysis* 53 (1900); Andrew J. Graham, *The Standard-Phonographic Dictionary* 154 (1908); Josephine Turck Baker, *Correct Standardized Pronunciation* 201 (1919); Charles B. Anderson, *A Guide to Good Pronunciation* 55 (1931); Alfred H. Holt, *You Don't Say\!* 62 (1937); *NBC Handbook of Pronunciation* 142 (1940); Morriss H. Needleman, *A Manual of Pronunciation* 126 (1949); John S. Kenyon & Thomas A. Knott, *A Pronouncing Dictionary of American English* 167 (1953); Ruth Gleeson & James Colvin, *Words Most Often Misspelled and Mispronounced* 82 (1963); Daniel Jones, *Everyman's English Pronouncing Dictionary* 192 (A.C. Gimson ed., 14th ed. 1977); Samuel Noory, *Dictionary of Pronunciation* 116 (3d ed. 1979).
 
@@ -28,7 +30,9 @@ In short, this word is a kind of skunked term: pronounce it in the traditional w
 
 **Language-Change Index:** *flaccid* pronounced /**flas**-id/ instead of /**flak**-sid/: Stage 4
 
-**B. Misspelling.** As a result of the spreading mispronunciation, the misspelling *\*flacid* (on the analogy of *placid*) has arisen—e.g.:
+## B. Misspelling
+
+As a result of the spreading mispronunciation, the misspelling *\*flacid* (on the analogy of *placid*) has arisen—e.g.:
 
  - "Naomi, Toshiyuki and I unrolled the long, *flacid* \[read *flaccid*\] canopy while Richard positioned a huge electric fan at the mouth." Elliot Neal Hester, "The Sky's the Limit for Central Florida Vacations," *Boston Herald*, 16 May 1996, at 54.
 

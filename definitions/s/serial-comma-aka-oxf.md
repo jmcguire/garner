@@ -14,7 +14,9 @@ What follows might strike you as overdone. But the authorities on the question, 
 
 What are the merits on each side of the argument?
 
-**A. Favoring the Serial Comma.** Proponents say that the comma is both logical and helpful. They point out that including it *never* creates an ambiguity, whereas omitting it fairly often does. It's a preventive measure that requires no real thought. The serial comma precludes ambiguities and annoyances at a negligible cost.
+## A. Favoring the Serial Comma
+
+Proponents say that the comma is both logical and helpful. They point out that including it *never* creates an ambiguity, whereas omitting it fairly often does. It's a preventive measure that requires no real thought. The serial comma precludes ambiguities and annoyances at a negligible cost.
 
 Problems arise more and more when the items in the series become longer and more complex. Let's say it's as simple as a list of couples: "We'll invite Herb and Myra, Gary and Mariellen, John and Robert, and Bill and Les." Delete the comma after *Robert*, and you have uncertainty about the relationships. And those items in the series aren't even especially complex. Also, of course, there's a pause after *Robert*—and the couples are paired in a normal oral delivery to show relationships. The comma reflects the natural pause.
 
@@ -82,7 +84,9 @@ Among the authorities favoring the serial comma in all instances are these (in c
 
 Of the many sources consulted, the authorities favored the serial comma by a 3:1 ratio. The listing above is only a sampling: it could readily be lengthened.
 
-**B. Not Treating the Serial Comma as Mandatory.** The authorities not requiring the serial comma often say that it's redundant on either of two rationales: (1) because the conjunction at the end of a series (either *and* or *or*) signals the last item, so that a comma simply isn't necessary; or (2) because the commas earlier in the series simply represent the omission of a conjunction, which of course is present before the final item. But the authorities defending this view tend to be much less dogmatic than their disciples are. That is, they admit of exceptions, and they demand judgment calls in each instance. Curiously, though, the students who have learned the nonmandatory view, as shown in social-media posts, also tend to become staunchly averse to serial commas.
+## B. Not Treating the Serial Comma as Mandatory
+
+The authorities not requiring the serial comma often say that it's redundant on either of two rationales: (1) because the conjunction at the end of a series (either *and* or *or*) signals the last item, so that a comma simply isn't necessary; or (2) because the commas earlier in the series simply represent the omission of a conjunction, which of course is present before the final item. But the authorities defending this view tend to be much less dogmatic than their disciples are. That is, they admit of exceptions, and they demand judgment calls in each instance. Curiously, though, the students who have learned the nonmandatory view, as shown in social-media posts, also tend to become staunchly averse to serial commas.
 
 Among the authorities allowing the omission of the serial comma are these (in chronological order):
 
@@ -128,7 +132,9 @@ Another relevant point is that the nonobligatory authorities all concede that th
 
 For those who say the *and* provides the pause before the last item, that's simply not true. It's a syncopated beat, not a beat equal to the other pauses. So the pause theory doesn't go far.
 
-**C. Some Conundrums.** In popular commentary on the serial comma, advocates for one position or the other commonly cite two recurrent issues. The first involves the possibility of conjoined items in the next-to-last and last positions—conjoined items that aren't meant to be so. The second involves miscues relating to actual or supposed appositives.
+## C. Some Conundrums
+
+In popular commentary on the serial comma, advocates for one position or the other commonly cite two recurrent issues. The first involves the possibility of conjoined items in the next-to-last and last positions—conjoined items that aren't meant to be so. The second involves miscues relating to actual or supposed appositives.
 
 As for ambiguous conjoinings, problems can arise in various ways. One occurs when a trailing modifier in the last member of the series might modify both the last item and the penultimate one. E.g.: *He is an employee at the Ministry of Magic, a husband and father of three school-age children*. (The *of*-genitive doesn't relate to *husband*—though it can certainly prompt a momentary distraction.) Or, with different syntax, the last item might be misread to be the direct object of a verb or participle in the next-to-last item: *Shown in this photo are Prince William, Prince George, Catherine holding her daughter and the Queen*. (Is the Queen competing for space on Catherine's lap?)
 
@@ -146,7 +152,9 @@ Such instances inevitably involve unusual juxtapositions. They are generally con
 
 Occasionally, a specific name comes first, followed by descriptors without names—descriptors that could be read as appositives. E.g.: *Highlights of his global tour include encounters with Nelson Mandela, an 800-year-old demigod and a dildo collector*. In that bizarre series, the possibility that two nouns following *Mandela* (namely, *demigod* and *collector*) are appositives creates humor, whether intentionally or not.
 
-**D. Recommendation.** The first thing to realize is that publications have a "house style" that you'll be required to follow if you hope to appear in their pages. If the house style is to generally omit the serial comma, so be it. Accede to the demands of your editors.
+## D. Recommendation
+
+The first thing to realize is that publications have a "house style" that you'll be required to follow if you hope to appear in their pages. If the house style is to generally omit the serial comma, so be it. Accede to the demands of your editors.
 
 But what should the house style ideally be? What should your own style be?
 

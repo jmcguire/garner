@@ -2,7 +2,9 @@
 
 everyone.
 
-**A. Singular or Plural?** Today it is standard practice to use *everyone* and *everybody* with a singular verb but a plural pronoun—e.g.:
+## A. Singular or Plural?
+
+Today it is standard practice to use *everyone* and *everybody* with a singular verb but a plural pronoun—e.g.:
 
  - "Almost *everybody* now seems to be a ‘victim' of something—of society or *their* own weaknesses." Susan Crosland, "The Aftershock of Anger," *Sunday Times* (London), 22 Oct. 1989, at B2.
 
@@ -23,7 +25,11 @@ The shift to the predominance of *everyone . . . their* took place in both AmE a
  - Current ratio in print (*Everyone thinks they* vs. *Everyone thinks he*): 1.7:1
  - Current ratio in print (*Everybody thinks they* vs. *Everybody thinks he*): 2:1
 
-**B. And *every one*.** This sentence should make the distinction evident: "*Every one* of the employees attended the company picnic, and *everyone* had a good time." If you're unsure about whether the single word *everyone* is right, mentally substitute the synonymous *everybody* to see whether the sentence still makes sense; if it does, *everyone* is the correct form.
+## B. And *every one*
 
-**C. And *everybody*.** Because the terms are interchangeable, euphony governs the choice in any given context. In practice, *everyone* appears in print about twice as often as *everybody*. But that was not always so: *everybody* predominated in English-language print sources from about 1820 till about 1930. Cf. **anyone (b)**.
+This sentence should make the distinction evident: "*Every one* of the employees attended the company picnic, and *everyone* had a good time." If you're unsure about whether the single word *everyone* is right, mentally substitute the synonymous *everybody* to see whether the sentence still makes sense; if it does, *everyone* is the correct form.
+
+## C. And *everybody*
+
+Because the terms are interchangeable, euphony governs the choice in any given context. In practice, *everyone* appears in print about twice as often as *everybody*. But that was not always so: *everybody* predominated in English-language print sources from about 1820 till about 1930. Cf. **anyone (b)**.
 

@@ -2,11 +2,15 @@
 
 epithet.
 
-**A. Meanings.** *Epithet* = (1) an esp. apt description or label, whether the quality denoted is favorable or unfavorable; or (2) a slur or an abusive term. Sense 2 is quickly driving out sense 1.
+## A. Meanings
+
+*Epithet* = (1) an esp. apt description or label, whether the quality denoted is favorable or unfavorable; or (2) a slur or an abusive term. Sense 2 is quickly driving out sense 1.
 
 **Language-Change Index:** *epithet* for *slur* or *term of abuse*: Stage 5
 
-**B. And *epitaph*.** *Epitaph* (= a gravestone inscription) is sometimes misused for *epithet* in the sense "a derogatory name." Today the blooper is irksomely common—e.g.:
+## B. And *epitaph*
+
+*Epitaph* (= a gravestone inscription) is sometimes misused for *epithet* in the sense "a derogatory name." Today the blooper is irksomely common—e.g.:
 
  - "Santiago, of the 3400 block of Lituanica, beat the mailman with a pool cue and shouted racial *epitaphs* \[read *epithets*\], Burnett said." "2 Convicted in Racial Attack on Postman," *Chicago Sun-Times*, 12 Mar. 1994, at 38.
 
@@ -21,5 +25,7 @@ In Canada, this error has provoked the ire of a letter-writer: "Art Hanger, the 
  - *epitaph* misused for *epithet*: Stage 1
  - Current ratio in print (*contemptuous epithet* vs. *\*contemptuous epitaph*): 28:1
 
-**C. And *expletive*.** These words overlap somewhat, since a shouted *epithet* is also an *expletive* in the sense of "an exclamation, esp. a profane or scatological exclamation." But *expletive* is also a term in grammar, referring to a word that serves no real purpose in a sentence but merely fills a syntactic space (most commonly *it* or *there*, as in *it is raining* or *there is something we need to talk about*). See expletives.
+## C. And *expletive*
+
+These words overlap somewhat, since a shouted *epithet* is also an *expletive* in the sense of "an exclamation, esp. a profane or scatological exclamation." But *expletive* is also a term in grammar, referring to a word that serves no real purpose in a sentence but merely fills a syntactic space (most commonly *it* or *there*, as in *it is raining* or *there is something we need to talk about*). See expletives.
 

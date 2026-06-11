@@ -2,7 +2,9 @@
 
 Passive Voice .
 
-**A. Generally.** Many writers talk about passive voice without knowing exactly what it is. In fact, many think that any be-verb signals passive voice, as in:
+## A. Generally
+
+Many writers talk about passive voice without knowing exactly what it is. In fact, many think that any be-verb signals passive voice, as in:
 
 The quotation is applicable to this point.
 
@@ -60,7 +62,9 @@ Still, professional editors find that these six situations account for only abou
 
 That means you ought to have a presumption against using the passive, unless it falls into one of the categories just listed.
 
-**B. The Double Passive.** The problem here is using one passive immediately after another. E.g.:
+## B. The Double Passive
+
+The problem here is using one passive immediately after another. E.g.:
 
  - "This document refers to the portion of the votes *entitled to be cast* by virtue of membership in the union." (Votes are not *entitled to be cast*; rather, union members are *entitled to cast* votes.)
 

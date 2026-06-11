@@ -2,7 +2,9 @@
 
 arbitration.
 
-**A. And *arbitrage*.** *Arbitration* = the process of submitting a dispute to a neutral third party whose decision is binding on the participants. *Arbitrage* = the simultaneous buying and selling of currencies or securities at different values in order to profit by price discrepancies.
+## A. And *arbitrage*
+
+*Arbitration* = the process of submitting a dispute to a neutral third party whose decision is binding on the participants. *Arbitrage* = the simultaneous buying and selling of currencies or securities at different values in order to profit by price discrepancies.
 
 Writers occasionally err by substituting *arbitrage* for *arbitration*, especially in the phrase *\*arbitrage panel*—e.g.:
 
@@ -16,7 +18,9 @@ The opposite error is rare but not unknown—e.g.: "Futures and options based on
 
 In the Russian Federation, courts that settle commercial disputes are popularly called *arbitrage courts* (reflecting the Russian pronunciation /ahr-bi-**trazh**/)—e.g.: "Here, she is outside the Federal *Arbitrage* Court in Kazan in front of a mural of Lenin." "Judge Discovers Striking Differences in the Way Russian Society Views Women," *Albuquerque J.*, 4 June 1999, at 14 (photo caption). The federation's highest such court, however, calls itself the "Supreme Arbitration Court" to avoid confusion with the term of speculation.
 
-**B. And *mediation*.** Both terms refer to resolving disputes through a neutral third party. Traditionally, the results of *arbitration* are binding—that is, the parties to the arbitrator's decision are bound by it. Because that aspect of the proceedings is not universally understood, the redundancy *binding arbitration* is unassailable in most contexts. In *mediation*, to the contrary, the mediator merely tries to help two disputing parties reach an agreeable solution; the parties are not, however, bound by a mediator's decisions.
+## B. And *mediation*
+
+Both terms refer to resolving disputes through a neutral third party. Traditionally, the results of *arbitration* are binding—that is, the parties to the arbitrator's decision are bound by it. Because that aspect of the proceedings is not universally understood, the redundancy *binding arbitration* is unassailable in most contexts. In *mediation*, to the contrary, the mediator merely tries to help two disputing parties reach an agreeable solution; the parties are not, however, bound by a mediator's decisions.
 
 This distinction is muddied somewhat by the emergence of *nonbinding arbitration* in the U.S. and Canada. But nonbinding arbitration generally addresses just one aspect of the dispute, and the decision (there is no award) serves merely to help the parties reach a settlement. The arbitrator, unlike a mediator, does not actively negotiate toward a settlement.
 

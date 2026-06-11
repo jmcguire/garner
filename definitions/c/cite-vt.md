@@ -12,5 +12,7 @@ In sense 3, some people have recently begun writing that a person is *cited to* 
 
  - "A sheriff's deputy charged a South Point woman and a Fort Gay, W.Va., man with possession of drugs (marijuana) and drug paraphernalia in Fayette Township and *cited* \[read *summoned*\] them into court last week." "Man Reports Computer, iPod, DVDs, More Stolen," *Herald-Dispatch* (Huntington, W. Va.), 31 Mar. 2012, at 1.
 
-**B. And *quote*.** These words are usefully differentiated. To *cite* an authority is to give its substance and to indicate where it can be found. To *quote* is to repeat someone else's exact words and to enclose them in quotation marks or block-quotation form. In scholarly writing, citations routinely follow quotations. See **quote**.
+## B. And *quote*
+
+These words are usefully differentiated. To *cite* an authority is to give its substance and to indicate where it can be found. To *quote* is to repeat someone else's exact words and to enclose them in quotation marks or block-quotation form. In scholarly writing, citations routinely follow quotations. See **quote**.
 

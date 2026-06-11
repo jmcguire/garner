@@ -2,7 +2,9 @@
 
 there is; there are.
 
-**A. As Signals of Clutter.** These phrases, though sometimes useful, can also be the enemies of a lean writing style, as several commentators have observed—e.g.:
+## A. As Signals of Clutter
+
+These phrases, though sometimes useful, can also be the enemies of a lean writing style, as several commentators have observed—e.g.:
 
  - **1964:** "The habit of beginning statements with the impersonal and usually vague *there is* or *there are* shoves the really significant verb into subordinate place instead of letting it stand vigorously on its own feet." David Lambuth et al., *The Golden Book on Writing* 19 (1964).
 
@@ -18,7 +20,9 @@ When is the phrase *there is* defensible? When the writer is addressing the exis
 
 Otherwise, though, the phrase should typically be cut—e.g.: "*There is* wide support among congressional Republicans for a flat tax." "IRS Faces New Round of Scrutiny," *Dallas Morning News*, 20 Sept. 1997, at F1. (A possible revision: *Congressional Republicans tend to support a flat tax.* Or: *Many congressional Republicans support a flat tax.*) The phrase *there is wide support* has become a cliché among political commentators. And it does exactly what Lambuth and Payne warn against: it robs the sentence of a good strong verb.
 
-**B. Number with.** The number of the verb is controlled by whether the inverted subject that follows *is* or *are* is singular or plural. Mistakes are common—e.g.:
+## B. Number with
+
+The number of the verb is controlled by whether the inverted subject that follows *is* or *are* is singular or plural. Mistakes are common—e.g.:
 
  - "He said there *is* \[read *are*\] several truckloads of nuclear waste." Frank Munger, "State Bans DOE Nuke Waste," *Knoxville News-Sentinel*, 18 Apr. 1996, at A1.
 

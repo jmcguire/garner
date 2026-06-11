@@ -2,7 +2,9 @@
 
 same.
 
-**A. As a Pronoun.** This usage, commonly exemplified in the phrase *acknowledging same*, is a primary symptom of legalese and commercialese. In 1926, when the usage was at its height, H.W. Fowler wrote trenchantly that it "is avoided by all who have any skill in writing" and that those who use it seem bent on giving the worst possible impression of themselves (*FMEU1* at 511). The words *it*, *them*, and the noun itself (e.g., *the envelope*) are words that come naturally to us all. *Same* or *the same* is an unnatural expression:
+## A. As a Pronoun
+
+This usage, commonly exemplified in the phrase *acknowledging same*, is a primary symptom of legalese and commercialese. In 1926, when the usage was at its height, H.W. Fowler wrote trenchantly that it "is avoided by all who have any skill in writing" and that those who use it seem bent on giving the worst possible impression of themselves (*FMEU1* at 511). The words *it*, *them*, and the noun itself (e.g., *the envelope*) are words that come naturally to us all. *Same* or *the same* is an unnatural expression:
 
  - "Even though such a witness discloses a new lead, it is better to make note of *same* \[read *that fact*\], but not to depart from the original objective until its possibilities have been exhausted." Asher L. Cornelius, *The Cross-Examination of Witnesses* 18–19 (1929).
 
@@ -28,7 +30,9 @@ For some time, senators debated whether Tyler—after being inaugurated on April
 
 In 1967, the 25th Amendment remedied the ambiguity by providing that if the President dies, resigns, or is removed, "the Vice President shall become President" (U.S. Constitution, Amend. 25, § 1). If the President is disabled, the Vice President assumes the office's powers and duties as "Acting President" as long as the disability continues (*ibid.* §§ 3, 4).
 
-**B. *\*Same . . . as are*.** *Are* often appears superfluously when writers state that two or more things are identical—e.g.:
+## B. *\*Same . . . as are*
+
+*Are* often appears superfluously when writers state that two or more things are identical—e.g.:
 
  - "Savage punishments are accepted with the *same* resigned acceptance *as are* \[read *as*\] the tragic accidents that occur with regularity in this fundamentally hostile land." Lisa Jardine, "Milton Agonistes," *L.A. Times*, 27 Apr. 1997, Book Rev. §, at 9.
 
@@ -38,13 +42,21 @@ See **as . . . as (c)**.
 
 If the verb seems desirable after the *as*—because the reader wouldn't automatically supply it—then it's best to avoid inversion. That is, instead of writing that *\*horses are required to undergo the same veterinary examination as are Hereford cattle*, write that *horses are required to undergo the same veterinary examination as Hereford cattle are*. E.g.: "They're targeted at the *same* high-risk groups *as are flu shots* \[read *as flu shots are*\]—those over 65 and anyone with a chronic health problem." "Pneumonia, Other Vaccinations Available," *Tampa Trib.*, 24 Oct. 1995, at 1.
 
-**C. *\*Same difference*.** This phrase is an illogical AmE casualism that is to be avoided not only in writing but in speech as well. "It's all the *same*," "It's the *same* thing," etc. are better. (See illogic.) But: *Six minus three yields the same difference as seven minus four*.
+## C. *\*Same difference*
+
+This phrase is an illogical AmE casualism that is to be avoided not only in writing but in speech as well. "It's all the *same*," "It's the *same* thing," etc. are better. (See illogic.) But: *Six minus three yields the same difference as seven minus four*.
 
 **Language-Change Index:** *\*same difference*: Stage 2
 
-**D. *\*Same identical*.** See **identical**.
+## D. *\*Same identical*
 
-**E. *\*Repeat the same*.** See **\*repeat the same**.
+See **identical**.
 
-**F. *Exact same*.** See **exact same**.
+## E. *\*Repeat the same*
+
+See **\*repeat the same**.
+
+## F. *Exact same*
+
+See **exact same**.
 

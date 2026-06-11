@@ -2,7 +2,9 @@
 
 Spelling .
 
-**A. Common Misspellings.** Although computerized spell-checkers have begun to eliminate many misspellings, they can't catch misspellings that are actually different words, as when *not* is mistyped *now*. And to the extent that the word lists in the spell-checkers aren't sound, certain misspellings may become more widespread. For example, one widely used spell-checker stops at the correctly spelled *restaurateur*, recommending that it be replaced with the incorrect form *\*restauranteur*. All in all, though, spell-checkers are quite helpful.
+## A. Common Misspellings
+
+Although computerized spell-checkers have begun to eliminate many misspellings, they can't catch misspellings that are actually different words, as when *not* is mistyped *now*. And to the extent that the word lists in the spell-checkers aren't sound, certain misspellings may become more widespread. For example, one widely used spell-checker stops at the correctly spelled *restaurateur*, recommending that it be replaced with the incorrect form *\*restauranteur*. All in all, though, spell-checkers are quite helpful.
 
 Here are some of the most commonly misspelled words in the English language (note the prevalence of double consonants):
 
@@ -134,7 +136,9 @@ Here are some of the most commonly misspelled words in the English language (not
 
 Three contractions are also constantly being misspelled: *it's*, *they're*, and *you're*. (See **its**, **their** & **your**.) Among the less usual words that are difficult to spell are *iridescent*, *kimono*, *naphtha*, and *syzygy*.
 
-**B. Irregularities.** English orthography is riddled with anomalies of various types—and for various reasons. Sometimes a word seems to be analogous to another in its formation but for etymological reasons isn't (e.g., one word ends in *-tuous*, another *-tious*). Or related words may have been borrowed from a source language at different times (e.g., 13th-century *feme sole* but 20th-century *femme fatale*). Then again, it could be that two loanwords seeming to have similar properties aren't at all analogous (e.g., the sing.–pl. Latin pairs *fungus–fungi* and *apparatus–apparatus*, the latter being a fourth-declension noun—and *apparatuses* being the preferred English plural). And perhaps most commonly, etymologically unrelated words sometimes have a coincidence of sound that misleadingly makes speakers think of them as analogues (*democracy*, *idiosyncrasy*). What follows are some of the marked irregularities in English spelling. Some of the words in this list appeared in the list above, but they're included here to show the misleading analogy to another word.
+## B. Irregularities
+
+English orthography is riddled with anomalies of various types—and for various reasons. Sometimes a word seems to be analogous to another in its formation but for etymological reasons isn't (e.g., one word ends in *-tuous*, another *-tious*). Or related words may have been borrowed from a source language at different times (e.g., 13th-century *feme sole* but 20th-century *femme fatale*). Then again, it could be that two loanwords seeming to have similar properties aren't at all analogous (e.g., the sing.–pl. Latin pairs *fungus–fungi* and *apparatus–apparatus*, the latter being a fourth-declension noun—and *apparatuses* being the preferred English plural). And perhaps most commonly, etymologically unrelated words sometimes have a coincidence of sound that misleadingly makes speakers think of them as analogues (*democracy*, *idiosyncrasy*). What follows are some of the marked irregularities in English spelling. Some of the words in this list appeared in the list above, but they're included here to show the misleading analogy to another word.
 
  - *acquiesce* but *aqueduct*
  - *aesthetic* but *anesthetic*
@@ -309,7 +313,9 @@ Three contractions are also constantly being misspelled: *it's*, *they're*, and 
  - *weasels* but *measles*
  - *wondrous* but *splendorous*
 
-**C. Doubling of Final Consonants in Inflected Verbs.** Apart from words ending in *l* and exceptions noted below, all English-speaking countries follow the same rules on doubling. When a suffix beginning with a vowel is added, the final consonant of the word is repeated only if (1) the vowel sound preceding the consonant is represented by a single letter (hence *bed, bedding* but *head, heading*); or (2) the final syllable bears the main stress (hence *oc-'cur, oc-'curred* but *'of-fer,'of-fered*). Among the more commonly misspelled words are these: *biased*, *focused*, *benefited*, *transferred*.
+## C. Doubling of Final Consonants in Inflected Verbs
+
+Apart from words ending in *l* and exceptions noted below, all English-speaking countries follow the same rules on doubling. When a suffix beginning with a vowel is added, the final consonant of the word is repeated only if (1) the vowel sound preceding the consonant is represented by a single letter (hence *bed, bedding* but *head, heading*); or (2) the final syllable bears the main stress (hence *oc-'cur, oc-'curred* but *'of-fer,'of-fered*). Among the more commonly misspelled words are these: *biased*, *focused*, *benefited*, *transferred*.
 
 There are exceptions. Unaccented syllables in inflected words are often spelled differently in AmE and in BrE. Americans generally do not double a final *l* before the inflectional suffix, whereas the British generally do. Thus:
 
@@ -354,7 +360,9 @@ There are a few other exceptions in AmE. *Chagrined*, *combated*, and *coroneted
 
 Writers and editors should make themselves aware of these minor transatlantic differences in spelling and avoid inserting a bracketed *sic* when quoting a foreign text. See ***sic***.
 
-**D. Mute E.** In English, a verb's unsounded final *e* is ordinarily dropped before the *-ing* and *-ed* inflections: *create*, *creating*, *created*; *rate*, *rating*, *rated*; *share*, *sharing*, *shared*. Exceptions to this rule are verbs ending in *-ee*, *-ye*, and *-oe*; these do not drop the *e* before *-ing*, but they do drop it before *-ed*: *agree*, *agreeing*, *agreed*; *dye*, *dyeing*, *dyed*; *hoe*, *hoeing*, *hoed*.
+## D. Mute E
+
+In English, a verb's unsounded final *e* is ordinarily dropped before the *-ing* and *-ed* inflections: *create*, *creating*, *created*; *rate*, *rating*, *rated*; *share*, *sharing*, *shared*. Exceptions to this rule are verbs ending in *-ee*, *-ye*, and *-oe*; these do not drop the *e* before *-ing*, but they do drop it before *-ed*: *agree*, *agreeing*, *agreed*; *dye*, *dyeing*, *dyed*; *hoe*, *hoeing*, *hoed*.
 
 The suffix *-able* often causes doubt when it is appended to a base ending in a mute *e*. Usually, the *e* is dropped when *-able* is added, but a number of exceptions exist in BrE (e.g., *hateable*, *hireable*, *mineable*, *nameable*, *rateable*, *ropeable*, *saleable*, *sizeable*, *unshakeable*). (See -able (e).) Oddly, though, the spellings *livable* and *movable* predominate in BrE. For most -*able* adjectives—apart from *bakeable*, *hateable*, *makeable*, *nameable*, and *ropeable*—AmE drops the medial *e*.
 
@@ -362,9 +370,15 @@ Although the general rule in AmE is to drop the *e* before a vowel, the almost u
 
 One other difference between AmE and BrE is noteworthy: in AmE, the mute *e* is dropped after *-dg-* in words such as *acknowledgment*, *fledgling*, and *judgment*, whereas the *e* is traditionally retained in BrE (*acknowledgement*, *fledgeling*, *judgement*). Even so, British legal writers usually prefer the spelling *judgment*. See **judgment (a)**.
 
-**E. Words with *-ie-* or *-ei-*.** The old rule—*i* before *e*, except after *c*, or when sounded as *a*, as in *neighbor* and *weigh*—generally holds. But there are many exceptions, such as *counterfeit*, *either*, *feisty*, *forfeit*, *height*, *leisure*, *seize*, *their*, and *weird*. Several words of foreign (especially German) derivation also violate the rule, such as *Fahrenheit*, *meister*, and *zeitgeist*—as well as words in which the *i* and *e* are both pronounced, such as *deity*, *society*, and *spontaneity*. The except-after-*c* proviso also has its exceptions, such as *concierge* and *financier*.
+## E. Words with *-ie-* or *-ei-*
 
-**F. Compounds.** The normal process in Modern English is for separate words used habitually to become hyphenated and then fused into a single word (e.g., *to day* became *to-day* in the 1800s and then *today* in the 1900s). Because the process is constantly at work, it's difficult to be definite about the status of some terms. For example, *database* went rapidly from *data base* through *data-base* to *database*, and many writers even skipped the intermediate step. The same tendency is now seen as people begin to write *wordprocessing* as a solid word. See **word processing**.
+The old rule—*i* before *e*, except after *c*, or when sounded as *a*, as in *neighbor* and *weigh*—generally holds. But there are many exceptions, such as *counterfeit*, *either*, *feisty*, *forfeit*, *height*, *leisure*, *seize*, *their*, and *weird*. Several words of foreign (especially German) derivation also violate the rule, such as *Fahrenheit*, *meister*, and *zeitgeist*—as well as words in which the *i* and *e* are both pronounced, such as *deity*, *society*, and *spontaneity*. The except-after-*c* proviso also has its exceptions, such as *concierge* and *financier*.
 
-**G. Digraphs.** See ae.
+## F. Compounds
+
+The normal process in Modern English is for separate words used habitually to become hyphenated and then fused into a single word (e.g., *to day* became *to-day* in the 1800s and then *today* in the 1900s). Because the process is constantly at work, it's difficult to be definite about the status of some terms. For example, *database* went rapidly from *data base* through *data-base* to *database*, and many writers even skipped the intermediate step. The same tendency is now seen as people begin to write *wordprocessing* as a solid word. See **word processing**.
+
+## G. Digraphs
+
+See ae.
 

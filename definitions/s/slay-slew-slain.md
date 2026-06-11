@@ -2,11 +2,15 @@
 
 slay \> slew \> slain.
 
-**A. Generally.** *Slay* = (1) to kill; or (2) to overwhelm, often with delight. In sense 1, the verb has gradually been disappearing from common use except in poetry, fantasy writing, headlines, and references to crime victims—e.g., *her son was slain by a stranger in* *2002*. Even that usage is unusual; the more usual word would be *killed* or *murdered*.
+## A. Generally
+
+*Slay* = (1) to kill; or (2) to overwhelm, often with delight. In sense 1, the verb has gradually been disappearing from common use except in poetry, fantasy writing, headlines, and references to crime victims—e.g., *her son was slain by a stranger in* *2002*. Even that usage is unusual; the more usual word would be *killed* or *murdered*.
 
 But as a past-participial adjective, *slain* has few if any suitable alternatives—e.g.: "He was the host at a Rose Garden ceremony in which he signed into law bills to fight legal drugs, keep track of sex offenders and provide college funds for the children of *slain police officers*." Adam Nagourney, "Clinton in North, Dole in South, Study for Debate," *N.Y. Times*, 4 Oct. 1996, at A1. Many would use a wordier phrase such as *police officers killed in the line of duty*.
 
-**B. *\*Slayed* for *slew*.** Although *slew* is the preferred past-tense form in both senses, the variant *\*slayed* sometimes appears—e.g.:
+## B. *\*Slayed* for *slew*
+
+Although *slew* is the preferred past-tense form in both senses, the variant *\*slayed* sometimes appears—e.g.:
 
  - "As the candidate who politically *slayed* \[read *slew*\] the powerful Phillips in a strongly Democratic district, she has been a magnet for media attention." Richard D. Walton, "Indiana's Freshmen Hope to Offer Fresh Perspective," *Indianapolis Star*, 5 Jan. 1995, at A1.
 

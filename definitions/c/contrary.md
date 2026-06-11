@@ -2,13 +2,17 @@
 
 contrary.
 
-**A. *Contrary to* or *\*contrary from*.** *Contrary* takes the preposition *to. \*Contrary from* has never been standard. E.g.:
+## A. *Contrary to* or *\*contrary from*
+
+*Contrary* takes the preposition *to. \*Contrary from* has never been standard. E.g.:
 
  - "The facts of a cynical European political elite, defending Mr. Arafat, are *contrary* *to* the facts on the ground." Amos Perlmutter, "Distress Signals . . . Amid Mideast Turbulence," *Wash. Times*, 1 Oct. 1996, at A15.
 
  - "*Contrary* *to* two breathless reports in a local weekly newspaper, ‘Mars Attacks\!' was not filmed in Richmond." Daniel Neman, "Execution of ‘Mars' Less Great than Idea," *Richmond Times-Dispatch*, 13 Dec. 1996, at C5.
 
-**B. *On the contrary*; *to the contrary*; *quite the contrary*.** *On the contrary* introduces an opposing statement, usually as a sentence adverb (see adverbs (f)). E.g.:
+## B. *On the contrary*; *to the contrary*; *quite the contrary*
+
+*On the contrary* introduces an opposing statement, usually as a sentence adverb (see adverbs (f)). E.g.:
 
  - "I hold neither of those views. *On the contrary*, I argue that biochemical systems—as well as other complex systems—were designed by an intelligent agent." Letter of Michael J. Behe, " ‘And God Saw That It Was Good,' " *Newsweek*, 7 Oct. 1996, at 24.
 

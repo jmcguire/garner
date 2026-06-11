@@ -2,7 +2,9 @@
 
 myriad.
 
-**A. *Myriad reasons* vs.** *a myriad of reasons*. *Myriad* is more concise as an adjective \<myriad drugs\> than as a noun \<a myriad of drugs\>. Here the shorter use is illustrated:
+## A. *Myriad reasons* vs
+
+*a myriad of reasons*. *Myriad* is more concise as an adjective \<myriad drugs\> than as a noun \<a myriad of drugs\>. Here the shorter use is illustrated:
 
  - "June 1996: Telectronics resumes production after wrangling over *myriad* legal and manufacturing issues." Al Lewis, "Pacemaker Firm Pulls Plug," *Rocky Mountain News* (Denver), 14 Dec. 1996, at B1.
 
@@ -15,5 +17,7 @@ But the mere fact that the adjective is handier than the noun doesn't mean the l
  - Current ratio in print (*myriad reasons* vs. *a myriad of reasons*): 1.1:1
  - Current ratio in print (*myriad things* vs. *a myriad of things*): 6:1
 
-**B. As a Plural Noun.** Literally meaning "ten thousand" in Greek, *myriad* has now lost its literal sense in ordinary English. It's therefore an archaism to refer to *\*the myriads* of entrepreneurs in this country.
+## B. As a Plural Noun
+
+Literally meaning "ten thousand" in Greek, *myriad* has now lost its literal sense in ordinary English. It's therefore an archaism to refer to *\*the myriads* of entrepreneurs in this country.
 

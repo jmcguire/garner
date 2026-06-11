@@ -2,9 +2,13 @@
 
 grow, v.t.
 
-**A. Inflected Forms: *grow* \> *grew* \> *grown*.** See irregular verbs.
+## A. Inflected Forms: *grow* \> *grew* \> *grown*
 
-**B. Transitive Uses.** Although this verb is typically intransitive \<he grew two inches taller over the summer\>, its transitive use has long been standard in phrases such as *grow crops* and *grow a beard*.
+See irregular verbs.
+
+## B. Transitive Uses
+
+Although this verb is typically intransitive \<he grew two inches taller over the summer\>, its transitive use has long been standard in phrases such as *grow crops* and *grow a beard*.
 
 Since the 1960s, however, *grow* has blossomed as a transitive verb in nonfarming and nongrooming contexts. It is trendy in business jargon: *growing the industry*, *growing your business*, *growing your investment*, and so on. But because many readers will stumble over these odd locutions, the trend should be avoided—e.g.:
 

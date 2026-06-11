@@ -2,7 +2,9 @@
 
 prostate.
 
-**A. And *prostatic*.** Whereas most people, when referring to the disease, use *prostate cancer*, specialists often use *prostatic cancer*. That form can be found even in popular sources—e.g.:
+## A. And *prostatic*
+
+Whereas most people, when referring to the disease, use *prostate cancer*, specialists often use *prostatic cancer*. That form can be found even in popular sources—e.g.:
 
  - "This study, reported in the Journal of the National Cancer Institute, showed that 10 servings of tomatoes a week reduced the incidence of *prostatic cancer* by an amazing 45 percent." Dr. Kenneth Walker, "Researchers Link Bad Gums with Cardiovascular Disease," *Chicago Sun-Times*, 1 Sept. 1996, at 45.
 
@@ -12,7 +14,9 @@ In fact, though, the phrase *prostate cancer* is much more common in print now t
 
  - Current ratio in print (*prostate cancer* vs. *prostatic cancer*): 75:1
 
-**B. And *prostrate*.** These very different words are subject to word-swapping. In the verb sense, to *prostrate* oneself is to kneel down in humility or adoration. As an adjective, *prostrate* means either "lying facedown" or "emotionally overcome." (See **prone**.) The noun *prostate*, by contrast, refers to the gland found in male mammals, surrounding the urethra at the base of the bladder.
+## B. And *prostrate*
+
+These very different words are subject to word-swapping. In the verb sense, to *prostrate* oneself is to kneel down in humility or adoration. As an adjective, *prostrate* means either "lying facedown" or "emotionally overcome." (See **prone**.) The noun *prostate*, by contrast, refers to the gland found in male mammals, surrounding the urethra at the base of the bladder.
 
 The most common mistake is to write *\*prostrate gland* instead of *prostate gland*—e.g.:
 

@@ -2,7 +2,9 @@
 
 bid.
 
-**A. Standard Past-Tense Forms.** *Bid* (= to offer a bid) forms *bid* in the past tense—e.g.: "Williams also *bid* more than the state initially budgeted for that project." Jeffrey Brainard, "New Life for Zephyrhills Depot," *St. Petersburg Times* (Fla.), 25 Oct. 1996, Pasco Times §, at 1.
+## A. Standard Past-Tense Forms
+
+*Bid* (= to offer a bid) forms *bid* in the past tense—e.g.: "Williams also *bid* more than the state initially budgeted for that project." Jeffrey Brainard, "New Life for Zephyrhills Depot," *St. Petersburg Times* (Fla.), 25 Oct. 1996, Pasco Times §, at 1.
 
 When the thing offered is a greeting or a farewell, the past tense is *bade*, rhyming with *glad* (not *glade*)—e.g.:
 
@@ -28,7 +30,9 @@ So which past tense is correct in the phrase *to bid fair* (= to seem likely)—
 2. *bid fair* misused for the past-tense *bade fair*: Stage 3
  - Current ratio in print (*he bade fair to* vs. *\*he bid fair to*): 2.5:1
 
-**B. *\*Bidded* as a Solecism.** When people aren't sure about the past tense of an irregular verb, they revert to the default *-ed*. Many people are uncertain about the past-tense forms of *bid*—e.g.:
+## B. *\*Bidded* as a Solecism
+
+When people aren't sure about the past tense of an irregular verb, they revert to the default *-ed*. Many people are uncertain about the past-tense forms of *bid*—e.g.:
 
  - "But for years, because of the way prison posts are *bidded* \[read *bid*\] for and filled by seniority, administrators have had little choice but to spend millions of dollars each year in overtime to fill vacant positions." Tom Mooney, "State Bows to ACI Union, Drops Privatization Idea," *Providence J.-Bull.*, 21 Oct. 1998, at B1.
 
@@ -42,7 +46,9 @@ See irregular verbs.
 
  - Current ratio in print (*he bid* vs. *\*he bidded*): 1,766:1
 
-**C. Past Participle.** In the sense "to make a bid," the past participle is *bid*—e.g.: "NTL and France Telecom are each believed to have *bid* more than pounds 200m." Mathew Horsman, "France Added to BBC Bid List," *Independent*, 29 Oct. 1996, at 17. Otherwise, the past-participial form is usually *bidden*—e.g.: " ‘Good morning, Signor Mach,' one of them said as the fugitive Italian financier ventured from an apartment on the Boulevard St.-Germain in Paris on Sunday to buy the Italian newspapers from a corner kiosk, only to find himself arrested by the Italian plainclothes policeman who had just *bid* \[read *bidden*\] him good day." Alan Cowell, "Rich Italian Fugitive Finally Caught in Paris," *N.Y. Times*, 1 Nov. 1994, at A4. See irregular verbs (a).
+## C. Past Participle
+
+In the sense "to make a bid," the past participle is *bid*—e.g.: "NTL and France Telecom are each believed to have *bid* more than pounds 200m." Mathew Horsman, "France Added to BBC Bid List," *Independent*, 29 Oct. 1996, at 17. Otherwise, the past-participial form is usually *bidden*—e.g.: " ‘Good morning, Signor Mach,' one of them said as the fugitive Italian financier ventured from an apartment on the Boulevard St.-Germain in Paris on Sunday to buy the Italian newspapers from a corner kiosk, only to find himself arrested by the Italian plainclothes policeman who had just *bid* \[read *bidden*\] him good day." Alan Cowell, "Rich Italian Fugitive Finally Caught in Paris," *N.Y. Times*, 1 Nov. 1994, at A4. See irregular verbs (a).
 
 The simple past *bade* is sometimes misused for *bidden*, a mistake that should be universally forbidden—e.g.:
 

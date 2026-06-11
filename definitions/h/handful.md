@@ -2,11 +2,15 @@
 
 handful.
 
-**A. Plural.** The word is *handfuls*, not *\*handsful*. See plurals (g).
+## A. Plural
+
+The word is *handfuls*, not *\*handsful*. See plurals (g).
 
  - Current ratio in print (*handfuls* vs. *\*handsful*): 125:1
 
-**B. *Handful is* or *handful are*.** When followed by the preposition *of* plus a plural noun, *handful* typically takes a plural verb—e.g.:
+## B. *Handful is* or *handful are*
+
+When followed by the preposition *of* plus a plural noun, *handful* typically takes a plural verb—e.g.:
 
  - "Today there *is* \[read *are*\] only a *handful* of residents in what is left of the white section of town." Peter Applebome, "Deep South and Down Home, but It's a Ghetto All the Same," *N.Y. Times*, 21 Aug. 1993, at 1, 6.
 

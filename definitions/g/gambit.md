@@ -2,7 +2,9 @@
 
 gambit.
 
-**A. General Uses.** In chess, a *gambit* is a move, usually an opening move, likely to sacrifice a piece to gain a strategic advantage. In strictest usage, it is the sacrifice that makes a tactical move a *gambit*. The word lost some of its unique punch when writers began applying it loosely to any trick, tactical move, or ploy. But that shift in meaning was clear by the mid-20th century, especially in the popular satires of Stephen Potter, most notably *The Theory and Practice of Gamesmanship* (1947), *Some Notes on Lifemanship* (1950), *One-Upmanship* (1951), and *Golfmanship* (1968). For example, in the last of these, Potter wrote: "History is a *gambit*. More precisely the writing of history is a double or treble *gambit*. It is a way of saying ‘I think' and ‘what about this' in a tone which is supposed, simply by adding the word ‘History,' to silence argument" (p. 3). Throughout his many satirical texts, Potter used and popularized *gambit* as a synonym for *psychological ploy*.
+## A. General Uses
+
+In chess, a *gambit* is a move, usually an opening move, likely to sacrifice a piece to gain a strategic advantage. In strictest usage, it is the sacrifice that makes a tactical move a *gambit*. The word lost some of its unique punch when writers began applying it loosely to any trick, tactical move, or ploy. But that shift in meaning was clear by the mid-20th century, especially in the popular satires of Stephen Potter, most notably *The Theory and Practice of Gamesmanship* (1947), *Some Notes on Lifemanship* (1950), *One-Upmanship* (1951), and *Golfmanship* (1968). For example, in the last of these, Potter wrote: "History is a *gambit*. More precisely the writing of history is a double or treble *gambit*. It is a way of saying ‘I think' and ‘what about this' in a tone which is supposed, simply by adding the word ‘History,' to silence argument" (p. 3). Throughout his many satirical texts, Potter used and popularized *gambit* as a synonym for *psychological ploy*.
 
 Today this sense is relatively common—e.g.:
 
@@ -12,7 +14,9 @@ Today this sense is relatively common—e.g.:
 
  - "The double-name *gambit* \[read *trick*\] isn't new to Chicago." Betsy Rothstein, "Coping with Burden of Being Jesse Jackson Jr.," *The Hill*, 10 Apr. 2002, at 36.
 
-**B. For *gamut*.** *Gamut* = a full range or extent, literally of musical notes, but more often figuratively of anything \<the gamut of available options\>. Misusing *gambit* for *gamut* is an increasingly common malapropism—e.g.:
+## B. For *gamut*
+
+*Gamut* = a full range or extent, literally of musical notes, but more often figuratively of anything \<the gamut of available options\>. Misusing *gambit* for *gamut* is an increasingly common malapropism—e.g.:
 
  - "Participants run the *gambit* \[read *gamut*\] of age and experience from 14-year-old riders to men in their early 20s with very little exposure to the bulls." Donna Logan Wisdom, "Despite Risk, Amateur Bull Riders Chase Rodeo Dreams," *Times Union* (Albany), 28 May 1995, at G1.
 
@@ -25,5 +29,7 @@ Today this sense is relatively common—e.g.:
  - *\*running the gambit* for *running the gamut*: Stage 1
  - Current ratio in print (*running the gamut* vs. *\*running the gambit*): 32:1
 
-**C. In the Sense "opening."** Because the chess *gambit* is most often associated with openings, some criticize *opening gambit* as a redundancy. But strictly speaking, it's not: a *gambit* can come at any point in a chess game.
+## C. In the Sense "opening."
+
+Because the chess *gambit* is most often associated with openings, some criticize *opening gambit* as a redundancy. But strictly speaking, it's not: a *gambit* can come at any point in a chess game.
 

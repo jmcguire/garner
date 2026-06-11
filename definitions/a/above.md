@@ -2,7 +2,9 @@
 
 above.
 
-**A. Meaning "more than" or "longer than.**" Although *over* has come to be accepted in these senses, *above* should be restricted to informal contexts. It's a casualism when used before a plural noun—e.g.:
+## A. Meaning "more than" or "longer than."
+
+Although *over* has come to be accepted in these senses, *above* should be restricted to informal contexts. It's a casualism when used before a plural noun—e.g.:
 
  - "Now, the RBI has allowed only the incentive of one percent for one-year deposits, 1.5 percent for two-year deposits and two percent for deposits *above two years* \[read *of two years or more* or *of longer than two years*\]." "NBFCs Allowed to Reimburse Part of Broker's Expenses," *Econ. Times*, 3 Oct. 1996, at 8. Cf. **over (a)**.
 
@@ -12,7 +14,9 @@ above.
 
 **Language-Change Index:** *above* meaning "more than": Stage 4
 
-**B. For *above-mentioned*.** *Above* is an acceptable ellipsis for *above-mentioned*, and it is much less inelegant \<the above statements are his last recorded ones\>. It was long thought that *above* could not properly act as an adjective. But the word was used in this way throughout the 20th century, even by the best writers. Yet it's much older. *OED2* records it from the 1500s. Essentially, *above* stands attributively, through ellipsis, for *above-said*, *above-written*, *above-mentioned*, or some other phrase.
+## B. For *above-mentioned*
+
+*Above* is an acceptable ellipsis for *above-mentioned*, and it is much less inelegant \<the above statements are his last recorded ones\>. It was long thought that *above* could not properly act as an adjective. But the word was used in this way throughout the 20th century, even by the best writers. Yet it's much older. *OED2* records it from the 1500s. Essentially, *above* stands attributively, through ellipsis, for *above-said*, *above-written*, *above-mentioned*, or some other phrase.
 
 Some critics have suggested that *above* in this sense should refer only to something mentioned previously on the same page, but this restriction seems unduly narrow. Still, it's often better to make the reference exact by giving a page or paragraph number, rather than the vague reference made possible by *above*. Idiom will not, however, allow *above* to modify all nouns: *\*above vehicle* is unidiomatic for *vehicle mentioned above*. (If you must say *mentioned*, put *above* after that word.) Better yet, simply write *the vehicle* if readers will know from the context which one you're talking about.
 

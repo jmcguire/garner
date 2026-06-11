@@ -2,7 +2,9 @@
 
 whose.
 
-**A. Meaning "of which.**" *Whose* may usefully refer to things \<an idea whose time has come\>. This use of *whose*, formerly decried by some 19th-century grammarians and their predecessors, is often an inescapable way of avoiding clumsiness—e.g.:
+## A. Meaning "of which."
+
+*Whose* may usefully refer to things \<an idea whose time has come\>. This use of *whose*, formerly decried by some 19th-century grammarians and their predecessors, is often an inescapable way of avoiding clumsiness—e.g.:
 
  - "A book *whose* humor could have seemed tediously affected turns out to be entertaining and utterly useful." "Ready to Surf Web? Go Buy the Book," *Atlanta J.-Const.*, 24 Dec. 1995, at H4.
 
@@ -14,7 +16,9 @@ The other possessive for *which*—namely, *of which*—is typically cumbersome.
 
 **Language-Change Index:** *whose* referring to things: Stage 5
 
-**B. Mistakenly Written *who's*.** Whereas *whose* is the possessive form, *who's* is a contraction for *who is*. But writers often confuse the two—e.g.:
+## B. Mistakenly Written *who's*
+
+Whereas *whose* is the possessive form, *who's* is a contraction for *who is*. But writers often confuse the two—e.g.:
 
  - "Lee—*who's* \[read *whose*\] first hit recording was 1959's ‘Ain't It So'—was only 16 in 1956." Richard Jinman, "Rock and Roll Down Under Hits the Big 40," *Weekend Australian*, 20–21 Jan. 1996, at 1.
 

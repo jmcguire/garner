@@ -2,11 +2,15 @@
 
 Prepositions .
 
-**A. The Preposition Quotient.** In lean writing, it's a good idea to minimize prepositional phrases. In flabby prose, a ratio of one preposition for every four words is common; in better, leaner writing, the quotient is more like one preposition for every ten or fifteen words.
+## A. The Preposition Quotient
+
+In lean writing, it's a good idea to minimize prepositional phrases. In flabby prose, a ratio of one preposition for every four words is common; in better, leaner writing, the quotient is more like one preposition for every ten or fifteen words.
 
 Five editorial methods can tighten sentences marred with too many prepositions. First, the prepositional phrase can be deleted as surplusage; for example, it's often possible in a given context to change a phrase such as *senior vice president of the corporation* to *senior vice president*—if the corporate context is already clear. Second, uncovering zombie nouns often eliminates as many as two prepositions each time; hence *is in violation of*  becomes *violates*. Third, it's sometimes possible to replace a prepositional phrase with an adverb; so *she criticized the manuscript with intelligence* becomes *she criticized the manuscript intelligently*. Fourth, many prepositional phrases resolve themselves into possessives; hence *for the convenience of the reader* becomes *for the reader's convenience*. And finally, a change from passive voice to active often entails removing a preposition; so *the ball was hit by Jane* becomes *Jane hit the ball*. See **of (a)**.
 
-**B. Ending Sentences with Prepositions.** The spurious rule about not ending sentences with prepositions is a remnant of Latin grammar, in which a preposition was the one word that a writer could not end a sentence with. But Latin grammar should never straitjacket English grammar. If the canard is a "rule" at all, it is a rule of rhetoric and not of grammar, the idea being to end sentences with strong words that drive a point home. (See sentence ends.) That principle is sound, of course, but not to the extent of meriting lockstep adherence or flouting established idiom.
+## B. Ending Sentences with Prepositions
+
+The spurious rule about not ending sentences with prepositions is a remnant of Latin grammar, in which a preposition was the one word that a writer could not end a sentence with. But Latin grammar should never straitjacket English grammar. If the canard is a "rule" at all, it is a rule of rhetoric and not of grammar, the idea being to end sentences with strong words that drive a point home. (See sentence ends.) That principle is sound, of course, but not to the extent of meriting lockstep adherence or flouting established idiom.
 
 The idea that a preposition is ungrammatical at the end of a sentence is often attributed to 18th-century grammarians. But that idea is greatly overstated. Bishop Robert Lowth, the most prominent 18th-century grammarian, wrote that the final preposition "is an idiom, which our language is strongly inclined to: it prevails in common conversation, and suits very well with the familiar style in writing." *A Short Introduction to English Grammar* 137 (rev. ed. 1782). The furthest Lowth went was to urge that "the placing of the preposition before the relative is more graceful, as well as more perspicuous; and agrees much better with the solemn and elevated style." *Ibid*. That in itself is an archaic view that makes modern writing stuffy; indeed, Lowth elsewhere made the same plea for *hath*: "*Hath* properly belongs to the serious and solemn style; *has* to the familiar." *Ibid*. at 56. (See archaisms.) But in any event, Lowth's statement about prepositions was hardly intended as a "rule."
 
@@ -60,9 +64,13 @@ Good writers don't hesitate to end their sentences with prepositions if doing so
 
 See **which**, **that** & functional shift (g).
 
-**C. Redundant Prepositions.** Writers often repeat prepositions unnecessarily when there are intervening phrases or clauses. E.g.: "Sue is survived by her beloved husband, Roy C. Walker, *with whom* she shared her life *with* for 63 years." "Sue A. ‘West' Walker" (obit.), *Austin Am.-Statesman*, 14 July 1995, at B4. (Delete the second *with*.) Paul McCartney, in his hit song "Live and Let Die," made a similar error: "But if this ever-changing world *in which* we live *in* makes you give in and cry, just live and let die." McCartney might have improved the lyrics by writing *in which we're livin'*.
+## C. Redundant Prepositions
 
-**D. The Wrong Preposition.** A marginally useful guide in determining what preposition goes with a given verb is to look to the verb's prefix. Thus *inhere in*, *comport with* (L. *com-* "with"), *attribute to* (L. *ad-* "to"), and so on. But the exceptions are many. For example, *impute* takes *to*, *prepare* takes *for*, and *recoil* takes *from*.
+Writers often repeat prepositions unnecessarily when there are intervening phrases or clauses. E.g.: "Sue is survived by her beloved husband, Roy C. Walker, *with whom* she shared her life *with* for 63 years." "Sue A. ‘West' Walker" (obit.), *Austin Am.-Statesman*, 14 July 1995, at B4. (Delete the second *with*.) Paul McCartney, in his hit song "Live and Let Die," made a similar error: "But if this ever-changing world *in which* we live *in* makes you give in and cry, just live and let die." McCartney might have improved the lyrics by writing *in which we're livin'*.
+
+## D. The Wrong Preposition
+
+A marginally useful guide in determining what preposition goes with a given verb is to look to the verb's prefix. Thus *inhere in*, *comport with* (L. *com-* "with"), *attribute to* (L. *ad-* "to"), and so on. But the exceptions are many. For example, *impute* takes *to*, *prepare* takes *for*, and *recoil* takes *from*.
 
 In any event, more and more writers seem to have difficulty using the right preposition in various idioms—e.g.:
 
@@ -80,5 +88,7 @@ In any event, more and more writers seem to have difficulty using the right prep
 
 Many other prepositions are treated throughout this book in entries for verbs they accompany. Readers with an interest in a more detailed, comprehensive treatment of this subject may benefit from consulting the following works: Morton Benson et al., *The BBI Combinatory Dictionary of English: A Guide to Word Combinations* (1986); Frederick T. Wood, *English Prepositional Idioms* (1967); and A.P. Cowie & R. Mackin, *The Oxford Dictionary of Current Idiomatic English* (1975).
 
-**E. Prepositions as Particles or Adverbs.** See functional shift (g).
+## E. Prepositions as Particles or Adverbs
+
+See functional shift (g).
 

@@ -2,7 +2,9 @@
 
 nor.
 
-**A. Beginning a Sentence.** *Nor*, like *neither*, may begin a sentence. It must follow either an express negative or an idea that is negative in sense \<This is not economical. Nor is it entirely satisfactory . . . \>. E.g.:
+## A. Beginning a Sentence
+
+*Nor*, like *neither*, may begin a sentence. It must follow either an express negative or an idea that is negative in sense \<This is not economical. Nor is it entirely satisfactory . . . \>. E.g.:
 
  - "The uttering of a word is not a consequence of the uttering of a noise, whether physical or otherwise. *Nor* is the uttering of words with a certain meaning a consequence of uttering the words." J.L. Austin, *How to Do Things with Words* 114 (1965).
 
@@ -12,7 +14,9 @@ nor.
 
 In this construction, of course, the word *nor* needn't follow a *neither*. See **neither (c)**. See also **also not**.
 
-**B. For *or*.** When the negative of a clause or phrase has appeared at the outset of an enumeration, and a disjunctive conjunction is needed, *or* is generally better than *nor*. The initial negative carries through to all the enumerated elements—e.g.:
+## B. For *or*
+
+When the negative of a clause or phrase has appeared at the outset of an enumeration, and a disjunctive conjunction is needed, *or* is generally better than *nor*. The initial negative carries through to all the enumerated elements—e.g.:
 
  - "There have been *no* bombings *nor* \[read *or*\] armed attacks by one side against the other." William D. Montalbano, "Links to IRA Seen in Rash of Violence in Northern Ireland," *L.A. Times*, 12 Jan. 1996, at 1.
 

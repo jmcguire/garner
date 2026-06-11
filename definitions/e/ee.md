@@ -2,7 +2,9 @@
 
 -ee .
 
-**A. General Principles.** This suffix (from the French past-participial *é*) originally denoted "someone who is acted upon"; the sense is inherently passive. It's an especially productive suffix; that is, people are continually creating neologisms with it. Some of these look fairly ridiculous (e.g., *civilizee*), but some readily become quite familiar (e.g., *honoree*, an Americanism dating from the 1890s). Although there are exceptions (e.g., *biographee*), words ending in *-ee* are almost always made from verbs in the passive voice—e.g.:
+## A. General Principles
+
+This suffix (from the French past-participial *é*) originally denoted "someone who is acted upon"; the sense is inherently passive. It's an especially productive suffix; that is, people are continually creating neologisms with it. Some of these look fairly ridiculous (e.g., *civilizee*), but some readily become quite familiar (e.g., *honoree*, an Americanism dating from the 1890s). Although there are exceptions (e.g., *biographee*), words ending in *-ee* are almost always made from verbs in the passive voice—e.g.:
 
 *acquittee* = one who is acquitted
 
@@ -84,9 +86,13 @@ Finally, the suffix is sometimes used to coin jocular words such as *cheatee* (=
 
 The upshot of this discussion is that *-ee* is subject to abuse and that writers must be careful about the forms they use. For active senses we have *-er*, *-or*, and *-ist* at our service; we should be wary of adopting any new active forms ending in *-ee* and do our best to see that *\*attendee* and *\*standee*—or *signee* in an active sense (see **signee**)—together with similar forms, come to an eternal rest. Otherwise, we risk wasting any sense to be found in this suffix. For example, "the unskilled workers used to ‘dilute' skilled workers in time of war should have been called *diluters* instead of *dilutees*; the skilled were the dilutees" (*FMEU2* at 146).
 
-**B. Word Formation.** The principles applying to words ending in -atable apply also to agent nouns ending in *-ee.* Thus we have *inauguree*, not *\*inauguratee*; *subrogee*, not *\*subrogatee* (though the latter is infrequently used mistakenly for the former).
+## B. Word Formation
+
+The principles applying to words ending in -atable apply also to agent nouns ending in *-ee.* Thus we have *inauguree*, not *\*inauguratee*; *subrogee*, not *\*subrogatee* (though the latter is infrequently used mistakenly for the former).
 
 For two anomalous words without corresponding verbs, see **biographee** & **mentee**.
 
-**C. Stylistic Use of.** Stylists know that *-ee* agent nouns are often inferior to more descriptive terms. They sometimes objectify the people they describe, although the writer may intend no callousness—e.g.: "\[Catherine\] Ojok and another *abductee* \[read *abducted woman*\] ran away when \[Gen. Raska\] Lukwiya told them they would become ‘his wives' as soon as they had their first menstrual period." Ben de la Cruz, "Moving Past Life as a Rebel Slave," *Wash. Post*, 29 July 2008, at A11.
+## C. Stylistic Use of
+
+Stylists know that *-ee* agent nouns are often inferior to more descriptive terms. They sometimes objectify the people they describe, although the writer may intend no callousness—e.g.: "\[Catherine\] Ojok and another *abductee* \[read *abducted woman*\] ran away when \[Gen. Raska\] Lukwiya told them they would become ‘his wives' as soon as they had their first menstrual period." Ben de la Cruz, "Moving Past Life as a Rebel Slave," *Wash. Post*, 29 July 2008, at A11.
 

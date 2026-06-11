@@ -2,9 +2,13 @@
 
 counsel.
 
-**A. Scope of the Noun.** In BrE, *counsel* is used only of barristers (litigators), whereas in AmE it is often used in reference to nonlitigating lawyers (the equivalent of English solicitors)—e.g., *general counsel*. See **lawyer**, **consul** & **council**.
+## A. Scope of the Noun
 
-**B. Number.** The noun *counsel* may be either singular or plural. In practice it is usually indeterminate \<right to counsel\> or plural \<all counsel were present\>—e.g.:
+In BrE, *counsel* is used only of barristers (litigators), whereas in AmE it is often used in reference to nonlitigating lawyers (the equivalent of English solicitors)—e.g., *general counsel*. See **lawyer**, **consul** & **council**.
+
+## B. Number
+
+The noun *counsel* may be either singular or plural. In practice it is usually indeterminate \<right to counsel\> or plural \<all counsel were present\>—e.g.:
 
  - " ‘I'm always hesitant to interfere with cases, especially where you have two *counsel* present.' " "A Conversation with Judge H. Terry Grimes," *Pa. Law Weekly*, 5 Dec. 1994, at 7.
 
@@ -26,5 +30,7 @@ But examples of the singular are common enough:
 
  - "Independent *counsels* were created under a 1978 law that Congress allowed to expire in 1992." Tony Mauro, "The Investigators: 2 Types of *Counsels*," *USA Today*, 13 Jan. 1994, at A5.
 
-**C. The Verb.** *Counsel* (= \[1\] to advise; or \[2\] to listen and give support to) makes *counseled* and *counseling* in AmE, *counselled* and *counselling* in BrE. See spelling (c) & **counselor**.
+## C. The Verb
+
+*Counsel* (= \[1\] to advise; or \[2\] to listen and give support to) makes *counseled* and *counseling* in AmE, *counselled* and *counselling* in BrE. See spelling (c) & **counselor**.
 

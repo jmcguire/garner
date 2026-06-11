@@ -2,11 +2,17 @@
 
 begin.
 
-**A. *To begin*.** As an introductory phrase used to enumerate reasons, the idiomatic phrase is *to begin with*, not *to begin*. In the following sentence, the lack of the preposition *with* makes *to begin* sound narrowly chronological, as if Aaron actually began something and then, at some indeterminate point, stopped: "*To begin* \[add *with*\], Aaron played a substantial role in negotiating both agreements."
+## A. *To begin*
 
-**B. And *commence* & *start*.** *Begin* is the usual word. *Commence* is a formal word; ceremonies and exercises are likely to *commence*, as are official proceedings. *Start* usually refers to an activity \<to start running\> \<I started thinking\>; *begin* is also acceptable in this sense. Both *begin* and *start* are often followed by an infinitive (*to* \+ verb), but *commence* rarely is. See **institute** & **commence**.
+As an introductory phrase used to enumerate reasons, the idiomatic phrase is *to begin with*, not *to begin*. In the following sentence, the lack of the preposition *with* makes *to begin* sound narrowly chronological, as if Aaron actually began something and then, at some indeterminate point, stopped: "*To begin* \[add *with*\], Aaron played a substantial role in negotiating both agreements."
 
-**C. Past Tense and Past Participle.** *Begin*, of course, makes *began* in the past tense and *begun* in the past participle. But writers occasionally misuse *began* as a past participle—e.g.:
+## B. And *commence* & *start*
+
+*Begin* is the usual word. *Commence* is a formal word; ceremonies and exercises are likely to *commence*, as are official proceedings. *Start* usually refers to an activity \<to start running\> \<I started thinking\>; *begin* is also acceptable in this sense. Both *begin* and *start* are often followed by an infinitive (*to* \+ verb), but *commence* rarely is. See **institute** & **commence**.
+
+## C. Past Tense and Past Participle
+
+*Begin*, of course, makes *began* in the past tense and *begun* in the past participle. But writers occasionally misuse *began* as a past participle—e.g.:
 
  - "Rivera was competing for a spot in the back end of the Orioles' rotation, but probably would *have began* \[read *have begun*\] the season at Rochester." Roch Kubatko, "O's Rivera May Be Out for Season," *Baltimore Sun*, 24 Feb. 2001, at C1.
 

@@ -2,7 +2,9 @@
 
 Split Infinitives .
 
-**A. Generally.** In 1926, H.W. Fowler divided the English-speaking world into five classes: (1) those who neither know nor care what a split infinitive is; (2) those who do not know but care very much; (3) those who know and condemn; (4) those who know and approve; and (5) those who know and distinguish (*FMEU1* at 558). It is this last class to which, if we have a good ear, we should aspire.
+## A. Generally
+
+In 1926, H.W. Fowler divided the English-speaking world into five classes: (1) those who neither know nor care what a split infinitive is; (2) those who do not know but care very much; (3) those who know and condemn; (4) those who know and approve; and (5) those who know and distinguish (*FMEU1* at 558). It is this last class to which, if we have a good ear, we should aspire.
 
 An infinitive is the tenseless form of a verb preceded by *to*, such as *to dismiss* or *to modify*. Splitting the infinitive is placing one or more words (usually an adverb) between *to* and the verb, such as *to summarily dismiss* or *to unwisely modify*. For the infinitive to be truly split, the intervening word or words must follow *to* directly \<to satisfactorily have finished\>. E.g.: "Supporters of defense projects and opponents of how the president used his new line-item veto power joined forces yesterday *to decisively reject* President Clinton's line-item veto of military construction programs." "Congress Votes to Undo Clinton Veto," *San Diego Union-Trib.*, 9 Nov. 1997, at A7. If the adverb follows any other part of the infinitive, there's no split \<to have satisfactorily finished\>.
 
@@ -28,7 +30,9 @@ For still more authorities on this point, see superstitions (b).
 
 split infinitives where they are natural and logically correct: Stage 5
 
-**B. Splits to Be Avoided.** If a split is easily fixed by putting the adverb at the end of the phrase and the meaning remains the same, then avoiding the split is the best course:
+## B. Splits to Be Avoided
+
+If a split is easily fixed by putting the adverb at the end of the phrase and the meaning remains the same, then avoiding the split is the best course:
 
 Split: "It is not necessary *to here enlarge* upon those points."   Unsplit: "It is not necessary *to enlarge* upon those points *here*."
 
@@ -42,7 +46,9 @@ Wide splits are generally to be avoided, especially with piled-on adverbs—e.g.
 
 With correlative conjunctions, a split infinitive simply displays carelessness—e.g.: "There are already enough problems with trying to get all parents *to either make sure* their children are in car seats *or* in seat belts." Sharon K. Woulfe, "Most Should Keep Air Bags On," *Pantagraph* (Bloomington, Ill.), 19 Nov. 1997, at A12. (A possible revision: *There are already enough problems with trying to get all parents to make sure their children are protected by either car seats or seat belts.*) See parallelism.
 
-**C. Justified Splits.** A number of infinitives are best split. Perhaps the most famous is from the television and movie franchise *Star Trek*, in which, since the 1960s, the opening voice-over has included this phrase: *to boldly go where no man* (or, in later decades, *where no one*) *has gone before*. The phrase sounds inevitable partly because it is so familiar, but also because the adverb most naturally bears the emphasis, not the verb *go*.
+## C. Justified Splits
+
+A number of infinitives are best split. Perhaps the most famous is from the television and movie franchise *Star Trek*, in which, since the 1960s, the opening voice-over has included this phrase: *to boldly go where no man* (or, in later decades, *where no one*) *has gone before*. The phrase sounds inevitable partly because it is so familiar, but also because the adverb most naturally bears the emphasis, not the verb *go*.
 
 And that example is not a rarity. Consider: *She expects to more than double her profits next year*. We cannot merely move the adverbial phrase in that sentence—to "fix" the split, we would have to eliminate the infinitive, as by writing *She expects that her profits will more than double next year*, thereby giving the sentence a different nuance. (The woman seems less responsible for the increase.)
 
@@ -60,7 +66,9 @@ Again, though, knowing when to split an infinitive requires a good ear and a kee
 
 Distinguishing these examples from those under (b) may not be easy for all readers. Those who find it difficult might advantageously avoid all splits.
 
-**D. Awkwardness Caused by Avoiding Splits.** Occasionally, sticking to the old "rule" about split infinitives leads to inept phrasing. The following sentences illustrate clumsy attempts to avoid splitting the infinitive. In the first example, the adverb may be placed more naturally than it is without splitting the infinitive; in the second and third examples, a split is called for:
+## D. Awkwardness Caused by Avoiding Splits
+
+Occasionally, sticking to the old "rule" about split infinitives leads to inept phrasing. The following sentences illustrate clumsy attempts to avoid splitting the infinitive. In the first example, the adverb may be placed more naturally than it is without splitting the infinitive; in the second and third examples, a split is called for:
 
  - "Linda Dishman . . . said Monday that Mahony was *attempting unfairly to deflect* attention away from what she said was illegal demolition of a city-protected landmark." Larry Gordon, "Battle over Cathedral's Fate Intensifies," *L.A. Times*, 4 June 1996, at A1. (What was unfair: the attempting or the deflecting? Read either *was unfairly attempting to deflect* or *was attempting to unfairly deflect*.)
 
@@ -68,5 +76,7 @@ Distinguishing these examples from those under (b) may not be easy for all reade
 
  - "The ordinance is not *expected immediately to solve* \[read *expected to immediately solve*\] problems with the throbbing, low-frequency bass notes from a local club in the Cromwell Square Shopping Center." Stacy Wong, "In Cromwell, Votes on Noise, Large-Pet Laws," *Hartford Courant*, 15 May 1997, at B1.
 
-**E. Ambiguities.** When the first of several infinitives is split and the initial *to* is the only one, an ambiguity results—e.g.: "The legislation would make it a federal crime *to physically block* access to clinics, damage their property or injure or intimidate patients and staff." "Congress OKs Protections for Abortion Clinics," *Dallas Morning News*, 13 May 1994, at A1. There's a problem in interpretation: does *physically* modify the verbs *damage*, *injure*, and *intimidate*, as well as *block*? One hopes that the problem is merely with the journalist's paraphrase and not with the legislation itself.
+## E. Ambiguities
+
+When the first of several infinitives is split and the initial *to* is the only one, an ambiguity results—e.g.: "The legislation would make it a federal crime *to physically block* access to clinics, damage their property or injure or intimidate patients and staff." "Congress OKs Protections for Abortion Clinics," *Dallas Morning News*, 13 May 1994, at A1. There's a problem in interpretation: does *physically* modify the verbs *damage*, *injure*, and *intimidate*, as well as *block*? One hopes that the problem is merely with the journalist's paraphrase and not with the legislation itself.
 

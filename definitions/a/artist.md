@@ -2,7 +2,9 @@
 
 artist.
 
-**A. And *artiste*.** *Artist* /**ahr**-tist/ is the general word for someone who creates works of aesthetic value, especially in the fine arts. *Artiste* /ahr-**teest**/, a gallicism, is a more specialized word denoting (1) a public performer or entertainer, esp. in song and dance; or (2) an affected, often flamboyant fop with artistic pretensions. Sense 2, the pejorative one, is now more common—e.g.:
+## A. And *artiste*
+
+*Artist* /**ahr**-tist/ is the general word for someone who creates works of aesthetic value, especially in the fine arts. *Artiste* /ahr-**teest**/, a gallicism, is a more specialized word denoting (1) a public performer or entertainer, esp. in song and dance; or (2) an affected, often flamboyant fop with artistic pretensions. Sense 2, the pejorative one, is now more common—e.g.:
 
  - "Goodwin's Leontes, in long hair and greatcoat, has been conceived as a pathological *artiste*; we see him at a piano, lighted by a candelabrum and moodily fingering the keys." Peter Marks, "The Banked Fire of ‘Winter's Tale,' " *Wash. Post*, 4 Sept. 2002, at C1.
 
@@ -10,7 +12,9 @@ artist.
 
  - "From the realm of show biz . . . came musical comedy veteran Leigh Scarritt in three roles—Babe the supermarket checker, Roberta the hooker and Dolores the waitressing *artiste*." Anne Marie Welsh, " ‘Working' Is Getting a Bit Tired," *San Diego Union-Trib.*, 23 Sept. 2002, at D1.
 
-**B. And *artisan*.** Although these terms were once synonymous, they have undergone differentiation: an *artist* is someone skilled in any of the fine arts (such as painting), while an *artisan* is a crafter or one skilled at a trade. (*\*Artesan* and *\*artizan* are variant spellings.) Yet *artist* has degenerated to the point where many people use it in reference to anyone with a talent—e.g.:
+## B. And *artisan*
+
+Although these terms were once synonymous, they have undergone differentiation: an *artist* is someone skilled in any of the fine arts (such as painting), while an *artisan* is a crafter or one skilled at a trade. (*\*Artesan* and *\*artizan* are variant spellings.) Yet *artist* has degenerated to the point where many people use it in reference to anyone with a talent—e.g.:
 
  - " ‘Burlesque is back\!' bubbles Dixie Evans, the legendary 1950s-era striptease *artist*." "Bare-All Reunion," *L.A. Times*, 23 May 2002, § 6, at 37.
 

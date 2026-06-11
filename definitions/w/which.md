@@ -2,11 +2,15 @@
 
 which.
 
-**A. Generally.** This word, used immoderately, is possibly responsible for more bad sentences than any other in the language. Small wonder that James Thurber wrote: "What most people don't realize is that one ‘which' leads to another. . . . Your inveterate whicher . . . is not welcome in the best company." "Ladies' and Gentlemen's Guide to Modern English Usage," in *The Ways of Language: A Reader* 142, 143 (Raymond J. Pflug ed., 1967). E.B. White was like-minded: "Careful writers, watchful for small conveniences, go *which*-hunting, remove the defining *whiches*, and by so doing improve their work." William Strunk Jr. & E.B. White, *The Elements of Style* 59 (4th ed. 2000).
+## A. Generally
+
+This word, used immoderately, is possibly responsible for more bad sentences than any other in the language. Small wonder that James Thurber wrote: "What most people don't realize is that one ‘which' leads to another. . . . Your inveterate whicher . . . is not welcome in the best company." "Ladies' and Gentlemen's Guide to Modern English Usage," in *The Ways of Language: A Reader* 142, 143 (Raymond J. Pflug ed., 1967). E.B. White was like-minded: "Careful writers, watchful for small conveniences, go *which*-hunting, remove the defining *whiches*, and by so doing improve their work." William Strunk Jr. & E.B. White, *The Elements of Style* 59 (4th ed. 2000).
 
 For a full explanation of *which* vs. *that*, see **that (a)**. Suffice it to say here that if you see a *which* with neither a preposition nor a comma, dash, or parenthesis before it, it should probably be a *that*.
 
-**B. Wrongly Applied to People.** Unlike *that*—which can apply to either things or people—*which* applies only to things. If people are referred to, the nonrestrictive relative pronoun is *who*—e.g.: "Rights advocates and officials in Zaire protested the treatment of the illegal immigrants, some of *which* \[read *whom*\] were reportedly bound with tape." Youssef M. Ibrahim, "A Wary France Cracks Down on Its Muslims," *N.Y. Times*, 7 Sept. 1995, at A3. See **that (b)**. Cf. **who (d)**.
+## B. Wrongly Applied to People
+
+Unlike *that*—which can apply to either things or people—*which* applies only to things. If people are referred to, the nonrestrictive relative pronoun is *who*—e.g.: "Rights advocates and officials in Zaire protested the treatment of the illegal immigrants, some of *which* \[read *whom*\] were reportedly bound with tape." Youssef M. Ibrahim, "A Wary France Cracks Down on Its Muslims," *N.Y. Times*, 7 Sept. 1995, at A3. See **that (b)**. Cf. **who (d)**.
 
 There is, of course, an exception for traditional wordings. For example, in Early Modern English, it was possible to cast the original version of the Lord's Prayer with a personal *which* \<Our Father, which art in Heaven\>.
 
@@ -15,7 +19,9 @@ There is, of course, an exception for traditional wordings. For example, in Earl
  - *which* wrongly applied to people: Stage 1
  - Current ratio in print (*people who* vs. *people that* vs*. \*people which*): 130:18:1
 
-**C. Beginning Sentences with.** Increasingly in modern prose, *Which* is being used to begin an incomplete sentence. Is this permissible? Yes, the answer must be—primarily in three instances.
+## C. Beginning Sentences with
+
+Increasingly in modern prose, *Which* is being used to begin an incomplete sentence. Is this permissible? Yes, the answer must be—primarily in three instances.
 
 First, despite the language police, the introductory *Which* can be not only appropriate but also effective when the preceding sentence is long and the conclusion is so important that it shouldn't be a mere appendage—e.g.: "An audience thus captivated will surely come to marvel at Shakespeare's genius, but the hook that has skewered them is the dynamic of the narrative and the irresistible magnetism of his protagonists. *Which* is why ‘Hamlet' generally fills theatres and Pericles empties them." Keith Baxter, "The Power of Priestley," *Daily Telegraph*, 29 Oct. 1994, Arts §, at 2.
 
@@ -35,7 +41,9 @@ Third, it's helpful when a thought is expressed in several sentences, and what f
 
 Often the paragraph ends, or a new paragraph begins, with a sentence starting with *Which*—e.g.: "In the process, the 31-year-old Mr. Rose has become a one-man cheering squad for the virtues of pet food. People may turn up their noses, but pet food is made under such stringent controls that it actually is fit for human consumption. ‘It's pasteurized, sterilized and every other "ized," ' Mr. Rose says. \[¶\] *Which* doesn't mean most people want to spread a table cloth and share a few cans with Tabby, or with the guests." Judith Valente, "Edwin Rose's Palate Is Working Overtime on His Pet Theories," *Wall Street J.*, 29 June 1994, at A1. See incomplete sentences (b).
 
-**D. *And which*; *but which*.** To use either expression properly, a nonrestrictive *which*-clause parallel to the *and which* or *but which* must come first. E.g.: "Sutherland could have vetoed the $526 million budget, *which* he drafted this fall *and which* the council rewrote last month." Lisa Kremer, "Pierce Budget Won't Get Sutherland's Signature," *News Trib.* (Tacoma), 9 Dec. 1997, at B1. Without the preceding *which*, the *and which* puts the reader at sea—e.g.:
+## D. *And which*; *but which*
+
+To use either expression properly, a nonrestrictive *which*-clause parallel to the *and which* or *but which* must come first. E.g.: "Sutherland could have vetoed the $526 million budget, *which* he drafted this fall *and which* the council rewrote last month." Lisa Kremer, "Pierce Budget Won't Get Sutherland's Signature," *News Trib.* (Tacoma), 9 Dec. 1997, at B1. Without the preceding *which*, the *and which* puts the reader at sea—e.g.:
 
  - "Eisner still has a huge chunk of stock options—about 8.7 million shares' worth—that he can't exercise yet *and which* will presumably increase in value over the next decade." "Stock Options Give Eisner Record $565 Million Payday," *Newsday* (N.Y.), 5 Dec. 1997, at A79. (Change *and which* to *and that* so that the two relative clauses are parallel.)
 
@@ -47,7 +55,11 @@ Often the paragraph ends, or a new paragraph begins, with a sentence starting wi
 
 See **that (a)** & parallelism.
 
-**E. For *who* or *whom*.** See **who (e)**.
+## E. For *who* or *whom*
 
-**F. The Remote *which*.** See remote relatives.
+See **who (e)**.
+
+## F. The Remote *which*
+
+See remote relatives.
 

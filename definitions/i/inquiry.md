@@ -2,11 +2,17 @@
 
 inquiry.
 
-**A. Pronunciation.** *Inquiry* may be pronounced either /in-**kwīr**-ee/ or /**in**-kwә-ree/. The former has long been the dominant AmE pronunciation. It is the only standard pronunciation in BrE.
+## A. Pronunciation
 
-**B. And *enquiry*.** In AmE, *inquiry* is the standard spelling in all senses. In BrE, *enquiry* is equivalent to *question*, whereas *inquiry* means "an official investigation." See en-.
+*Inquiry* may be pronounced either /in-**kwīr**-ee/ or /**in**-kwә-ree/. The former has long been the dominant AmE pronunciation. It is the only standard pronunciation in BrE.
 
-**C. And *query*.** While *query* refers to a single question, *inquiry* may refer also to a series of questions or a sustained investigation. Occasionally writers misuse *query* for *inquiry*—e.g.:
+## B. And *enquiry*
+
+In AmE, *inquiry* is the standard spelling in all senses. In BrE, *enquiry* is equivalent to *question*, whereas *inquiry* means "an official investigation." See en-.
+
+## C. And *query*
+
+While *query* refers to a single question, *inquiry* may refer also to a series of questions or a sustained investigation. Occasionally writers misuse *query* for *inquiry*—e.g.:
 
  - " ‘You've really got a couple of things that are problematic, notwithstanding the idea that a married woman could be counted as unmarried because she kept her maiden name,' said Richard Steffen, a Speier staffer who launched *a query* \[read *an inquiry*\] into the state's record-keeping system." Ramon G. McLeod, "Maiden Names Skew Birth Data," *S.F. Chron.*, 2 May 1996, at A16.
 

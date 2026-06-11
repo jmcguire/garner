@@ -2,7 +2,9 @@
 
 each.
 
-**A. Number.** The word *each* raises problems of number. Does it take a singular or plural verb, regardless of the construction? Must a pronoun referring to it be singular, or is *they* acceptable?
+## A. Number
+
+The word *each* raises problems of number. Does it take a singular or plural verb, regardless of the construction? Must a pronoun referring to it be singular, or is *they* acceptable?
 
 As for the first question, *each* traditionally takes a singular verb, and the best practice is to write *each . . . is* regardless of whether a plural noun intervenes (*each of the members is*)—e.g.:
 
@@ -31,11 +33,15 @@ As for the second question, pronouns having *each* as an antecedent are traditio
 
  - Current ratio in print (*they each have* vs. *\*they each has*): 438:1
 
-**B. *\*Each . . . apiece*.** This construction is a redundancy—e.g.:
+## B. *\*Each . . . apiece*
+
+This construction is a redundancy—e.g.:
 
  - "The 33 largest American plantations *each* receive more than $1 million *apiece* \[delete *apiece*\] in higher sales prices." Stephen Moore, "Corporate Welfare for Select Few Hurting Others," *Houston Chron.*, 6 Apr. 1995, at A33.
 
  - "Ben Tanner and Kirk Gammill *each* added a goal *apiece* \[delete *apiece*\]." Derek Samson, "Volleyball Tourney Pits Best of A-1, A-2," *Idaho Statesman*, 4 Oct. 1996, at C2.
 
-**C. *Between each*.** See **between (f)**.
+## C. *Between each*
+
+See **between (f)**.
 

@@ -2,7 +2,9 @@
 
 get.
 
-**A. Generally.** *Get* is good English. Yet many writers want to avoid it because they consider it too informal; they prefer *obtain* or *procure*, two formal words. The same tendency is at work here that leads some writers to shun *before* in favor of *\*prior to*, *later* in favor of *\*subsequent to*, and the like. But confident, relaxed writers use the word *get* quite naturally—e.g.:
+## A. Generally
+
+*Get* is good English. Yet many writers want to avoid it because they consider it too informal; they prefer *obtain* or *procure*, two formal words. The same tendency is at work here that leads some writers to shun *before* in favor of *\*prior to*, *later* in favor of *\*subsequent to*, and the like. But confident, relaxed writers use the word *get* quite naturally—e.g.:
 
  - "It was until recently a civil offense, called ‘alienation of affections,' for which either spouse could *get* damages." Max Radin, *The Law and You* 54 (1948).
 
@@ -14,9 +16,13 @@ Although some pedants have contended that *get* must always mean "to obtain," an
 
 Anthony Burgess noted the enormous versatility of *get*: "Foreign learner and native speaker alike can get through a great part of the day with only one verb . . . ‘get.' . . . I get up in the morning, get a bath and a shave, get dressed, get my breakfast, get into the car, get to the office, get down to work, get some coffee at eleven, get lunch at one, get back, get angry, get tired, get home, get into a fight with my wife, get to bed." *A Mouthful of Air* 60 (1992). And he speculates that people regard it as a vulgar word precisely because it makes life so easy.
 
-**B. Inflected Forms: *get \> got \> gotten, got*.** The past participle *gotten* predominates in AmE, *got* in BrE. As recently as the early 20th century, some British writers benightedly lambasted the American form. Consider this misbegotten advice: "America need not boast the use of ‘gotten.' The termination, which suggests either wilful archaism or useless slang, adds nothing of sense or sound to the word. It is like a piece of dead wood in a tree, and is better lopped off." Charles Whibley, "The American Language," 183 *Blackwood's Mag.* 117, 118 (1908). Others, however, noted that *gotten* was the standard BrE form as late as the early 20th century. See G.H. Vallins, *Good English: How to Write It* 31 (1951). See irregular verbs.
+## B. Inflected Forms: *get \> got \> gotten, got*
 
-**C. *Have got* for *have* or *must*.** The phrase *have got*—often contracted (as in *I've got*)—has long been criticized as unnecessary for *have*. In fact, though, the phrasing with *got* adds emphasis and is perfectly idiomatic—e.g.:
+The past participle *gotten* predominates in AmE, *got* in BrE. As recently as the early 20th century, some British writers benightedly lambasted the American form. Consider this misbegotten advice: "America need not boast the use of ‘gotten.' The termination, which suggests either wilful archaism or useless slang, adds nothing of sense or sound to the word. It is like a piece of dead wood in a tree, and is better lopped off." Charles Whibley, "The American Language," 183 *Blackwood's Mag.* 117, 118 (1908). Others, however, noted that *gotten* was the standard BrE form as late as the early 20th century. See G.H. Vallins, *Good English: How to Write It* 31 (1951). See irregular verbs.
+
+## C. *Have got* for *have* or *must*
+
+The phrase *have got*—often contracted (as in *I've got*)—has long been criticized as unnecessary for *have*. In fact, though, the phrasing with *got* adds emphasis and is perfectly idiomatic—e.g.:
 
  - "Most pathetic lyrics: The dumbest lyrics *have got* to be ‘Whose junkpile or Chevelle is this? You boys come here to race or just kiss?' from '455 Rocket.' " Kathy Mattea, "In Sync," *Richmond Times-Dispatch*, 21 Mar. 1997, at E11.
 
@@ -30,5 +36,7 @@ The main error to watch out for is omitting *have* in either its full or its con
 
  - Current ratio in print (*I have to get* vs. *I must get* vs. *I've got to get*): 2.3:1:1
 
-**D. Passive Voice with *get*.** See passive voice (a).
+## D. Passive Voice with *get*
+
+See passive voice (a).
 

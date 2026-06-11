@@ -2,7 +2,9 @@
 
 Loanwords .
 
-**A. Generally.** Although all languages borrow words from elsewhere, the English vocabulary is a particularly vast and varied assortment of words from different languages. English may well have gained much of its capacious receptivity to borrowed terms from the clash of cultures following the Norman Conquest of 1066, which resulted in a blending into its Germanic roots of vast numbers of Romance words. The French influence is prominent, for example, in the writing of Chaucer (ca. 1300). Then, with the advent of printing in England in the late 1400s, writers often referred to the "rude and barbarous" tongue in which they worked as being inadequate to their task. Many of them avidly devised new words on Latin and Greek roots. But the great majority of these never became "core words"; rather, they stayed at the periphery of the language.
+## A. Generally
+
+Although all languages borrow words from elsewhere, the English vocabulary is a particularly vast and varied assortment of words from different languages. English may well have gained much of its capacious receptivity to borrowed terms from the clash of cultures following the Norman Conquest of 1066, which resulted in a blending into its Germanic roots of vast numbers of Romance words. The French influence is prominent, for example, in the writing of Chaucer (ca. 1300). Then, with the advent of printing in England in the late 1400s, writers often referred to the "rude and barbarous" tongue in which they worked as being inadequate to their task. Many of them avidly devised new words on Latin and Greek roots. But the great majority of these never became "core words"; rather, they stayed at the periphery of the language.
 
 The core/periphery dichotomy is important. In recent years, linguists have quantified the frequency of occurrence among the most common words, with strata graded in thousands all the way up to 10,000 (and beyond). It has long been known that the definite article *the* is by far the most commonly used word in the language. *I* and *you* are close seconds in speech, though in writing they are significantly less frequent. What is fascinating, though, is to quantify the percentages of words whose origin is English, French, Latin, Norse, or "other." Although 83% of the 1,000 most frequently used words in English derive from Anglo-Saxon (Old English), that number drops precipitously to 34% when we look at the top 2,000 words. From 1,000 to 2,000, the French element swells from 11% to 46%, and the Latin from 2% to 11%. (See Donka Minkowa & Robert Stockwell, "English Words," in *The Handbook of English Linguistics* 461, 466 \[Bas Aarts & April McMahon eds., 2006\].)
 
@@ -30,7 +32,11 @@ In this book, many more peripheral than core terms are treated—words of etymol
 
 The brief account here given skims the surface of a large field of linguistic investigation. For more, see—for starters—Philip Durkin, *Borrowed Words: A History of Loanwords in English* (2014); D. Gary Miller, *External Influences on English from Its Beginnings to the Renaissance* (2012); Paivi Pahta, Janne Skaffari & Laura Wright, *Multilingual Practices in Language History: English and Beyond* (2017); Francis Katamba, *English Words: Structure, History, Usage* (2015); Martin Haspelmath & Uri Tadmor, *Loanwords in the World's Languages: A Comparative Handbook* (2009).
 
-**B. Garner's Law of Loanwords.** The more arcane or technical a loanword, the more likely it is to retain a foreign plural, diacritical marks, and italics; the more common it becomes, the more likely it is to lose them. Corollary: if the loanword becomes widely used, it typically loses italics first, diacritical marks second, and a foreign plural last.
+## B. Garner's Law of Loanwords
 
-**C. Plurals of Loanwords.** See plurals (b).
+The more arcane or technical a loanword, the more likely it is to retain a foreign plural, diacritical marks, and italics; the more common it becomes, the more likely it is to lose them. Corollary: if the loanword becomes widely used, it typically loses italics first, diacritical marks second, and a foreign plural last.
+
+## C. Plurals of Loanwords
+
+See plurals (b).
 

@@ -2,7 +2,9 @@
 
 Plain Language .
 
-**A. Generally.** Albert Einstein once said that his goal in stating an idea was to make it as simple as possible but no simpler. He also said: "Most of the fundamental ideas of science are essentially simple, and may, as a rule, be expressed in a language comprehensible to everyone." *The Evolution of Physics* 29 (1938). If that's true of science, surely it's true of most other subjects.
+## A. Generally
+
+Albert Einstein once said that his goal in stating an idea was to make it as simple as possible but no simpler. He also said: "Most of the fundamental ideas of science are essentially simple, and may, as a rule, be expressed in a language comprehensible to everyone." *The Evolution of Physics* 29 (1938). If that's true of science, surely it's true of most other subjects.
 
 But there is little reason for hope when so many writers seem to believe that to appear competent or smart, they must state their ideas in the most complex language they can. Of course, this problem plagues many fields of intellectual endeavor, as the philosopher Bertrand Russell noted:
 
@@ -54,7 +56,9 @@ Third, simplifying is a higher intellectual attainment than complexifying. Writi
 
 Fourth, the very idea of professionalism demands that writers not conspire against nonspecialists by adopting a style that makes their writing seem like a suffocating fog. We should continually ask ourselves how the culture stacks up when we consider the durable truth expressed by Richard Grant White: "As a general rule, the higher the culture, the simpler the style and the plainer the speech." *Words and Their Uses* 31 (1870; repr. 1899).
 
-**B. A Plain-Language Library.** Those wishing to consult further sources in the field may find the following books helpful:
+## B. A Plain-Language Library
+
+Those wishing to consult further sources in the field may find the following books helpful:
 
  - Martin Cutts, *The Oxford Guide to Plain English* (5th ed. 2020).
 

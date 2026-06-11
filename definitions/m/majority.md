@@ -2,9 +2,13 @@
 
 majority.
 
-**A. For *most*.** When *most* will suffice, use it in place of *majority*—e.g.: "*The majority* \[read *Most*\] of the budget increase is due to the long-awaited expansion or replacement for city hall." Dave Nicholson, "Public Hearings Set on Budget," *Tampa Trib.*, 6 Sept. 1997, at 1. *Majority* is most helpful in discussing votes—e.g.: "And let's not forget that a *majority* of Michigan voters approved term limits." Joseph A. Morton, "Should Michigan Kill Term Limits?," *Detroit News*, 6 Sept. 1997, at C14.
+## A. For *most*
 
-**B. Number.** *Majority* is sometimes a collective noun that takes a singular verb, but sometimes (through synesis) it's a plural demanding a plural verb—e.g.:
+When *most* will suffice, use it in place of *majority*—e.g.: "*The majority* \[read *Most*\] of the budget increase is due to the long-awaited expansion or replacement for city hall." Dave Nicholson, "Public Hearings Set on Budget," *Tampa Trib.*, 6 Sept. 1997, at 1. *Majority* is most helpful in discussing votes—e.g.: "And let's not forget that a *majority* of Michigan voters approved term limits." Joseph A. Morton, "Should Michigan Kill Term Limits?," *Detroit News*, 6 Sept. 1997, at C14.
+
+## B. Number
+
+*Majority* is sometimes a collective noun that takes a singular verb, but sometimes (through synesis) it's a plural demanding a plural verb—e.g.:
 
  - "But the clear *majority reach*, or at least attempt to reach, that level where quality dwells." Jack Valenti, "Lights\! Camera\! Rhetoric\!," *Wash. Post*, 4 Feb. 1996, at C4.
 
@@ -14,7 +18,9 @@ Especially in the phrase *a majority of (people or things)*—with the *of*-phra
 
  - Current ratio in print (*a majority of them are* vs. *a majority of them is*): 14:1
 
-**C. And *plurality*.** *Majority* and *plurality* are most often used in reference to elections and other types of surveys. A *majority* (sometimes termed an *absolute majority*, although there is no distinction) is either (1) a number of votes that is more than half the total \<the referendum passed with a 53% majority\>, or (2) the numerical spread by which the majority won \<when Jeffords bolted, the Democrats took control of the Senate with a one-vote majority\>. *Majority* is often used as an adjective to designate the bloc with the most votes or members \<some committee members dissented from the majority report\>.
+## C. And *plurality*
+
+*Majority* and *plurality* are most often used in reference to elections and other types of surveys. A *majority* (sometimes termed an *absolute majority*, although there is no distinction) is either (1) a number of votes that is more than half the total \<the referendum passed with a 53% majority\>, or (2) the numerical spread by which the majority won \<when Jeffords bolted, the Democrats took control of the Senate with a one-vote majority\>. *Majority* is often used as an adjective to designate the bloc with the most votes or members \<some committee members dissented from the majority report\>.
 
 In a contest with three or more candidates or questions, a *plurality* is either (1) the largest vote, or (2) the difference between the largest vote and the second-largest vote. It is often contrasted with a *majority* because a *plurality* may be (and usually is) smaller than 50% \<Hirsch won a plurality in the first mayoral election, but third-party candidates drew off enough votes to deny her a majority and force a runoff\>.
 

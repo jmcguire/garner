@@ -2,11 +2,15 @@
 
 surmise.
 
-**A. Spelling.** As noun and verb, the word is so spelled—not *\*surmize*. E.g.: "Other officials even extended their optimism to *surmize* \[read *surmise*\] that ‘a new climate has begun.' " Ana Martinez-Soler, "Madrid Cheers as France Quashes ETA Terrorists," *Christian Science Monitor*, 17 Jan. 1984, at 7.
+## A. Spelling
+
+As noun and verb, the word is so spelled—not *\*surmize*. E.g.: "Other officials even extended their optimism to *surmize* \[read *surmise*\] that ‘a new climate has begun.' " Ana Martinez-Soler, "Madrid Cheers as France Quashes ETA Terrorists," *Christian Science Monitor*, 17 Jan. 1984, at 7.
 
  - Current ratio in print (*surmise* vs. *\*surmize*): 528:1
 
-**B. And *\*surmisal*.** The word *\*surmisal* has long been a needless variant of the noun *surmise*—e.g.:
+## B. And *\*surmisal*
+
+The word *\*surmisal* has long been a needless variant of the noun *surmise*—e.g.:
 
  - "On Long Island, the vacuum of knowledge is filled with assumptions and *surmisals* \[read *surmises*\], the latest being that Iran may have been involved in the bomb explosion aboard TWA 800—that is, if it was a bomb explosion." Daniel Schorr, "Tripping over Terrorism," *Christian Science Monitor*, 9 Aug. 1996, at 19.
 

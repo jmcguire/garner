@@ -2,15 +2,27 @@
 
 Articles.
 
-**A. Definition.** See p. 1195.
+## A. Definition
 
-**B. Capitalization of.** See capitalization (d).
+See p. 1195.
 
-**C. Omitted from Headlines.** See headlinese (c), (e).
+## B. Capitalization of
 
-**D. In Foreignisms.** See hypercorrection (j).
+See capitalization (d).
 
-**E. Pronunciation.** See **the (a)**.
+## C. Omitted from Headlines
 
-**F. In Book Titles, etc., After Possessive.** See possessives (m).
+See headlinese (c), (e).
+
+## D. In Foreignisms
+
+See hypercorrection (j).
+
+## E. Pronunciation
+
+See **the (a)**.
+
+## F. In Book Titles, etc., After Possessive
+
+See possessives (m).
 

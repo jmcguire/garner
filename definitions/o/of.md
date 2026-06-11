@@ -2,7 +2,9 @@
 
 of.
 
-**A. Signaling Verbosity.** However innocuous it may appear, the tiny word *of* is, in anything other than small doses, among the surest indications of flabby writing. Some fear that *of* and its resulting flabbiness are spreading: "Clearly, *of* is now something more than a mere preposition. It's a virus." "All About Of," *N.Y. Times*, 8 Mar. 1992, at 14. The only suitable vaccination is to cultivate a hardy skepticism about its utility in any given context. If it proves itself, fine. Often, though, it will merely breed verbosity—e.g.:
+## A. Signaling Verbosity
+
+However innocuous it may appear, the tiny word *of* is, in anything other than small doses, among the surest indications of flabby writing. Some fear that *of* and its resulting flabbiness are spreading: "Clearly, *of* is now something more than a mere preposition. It's a virus." "All About Of," *N.Y. Times*, 8 Mar. 1992, at 14. The only suitable vaccination is to cultivate a hardy skepticism about its utility in any given context. If it proves itself, fine. Often, though, it will merely breed verbosity—e.g.:
 
  - "In spite *of* the fact that a great percentage *of* the media coverage *of* Muslims mainly targets the negative actions *of* some splinter groups and several individuals, there are still a shrinking number *of* people who are still under the false impression that Al-Islam is a ‘bloody and dangerous religion,' as the Bishop puts it." Frederick Qasim Khan, "Muslims Do Not Denounce Christians," *Call & Post* (Cleveland), 4 Jan. 1996, at A5. (A possible revision: *Because the media frequently put Muslims in a negative light, some continue to believe that Al-Islam is a "bloody and dangerous religion," as the Bishop puts it.* \[Five *of*s to none; 56 words to 28; and heightened logic in the revision.\])
 
@@ -12,7 +14,9 @@ of.
 
 As the examples illustrate, reducing the *of*s can, even at the sentence level, make the prose much more brisk and readable. See prepositions (a).
 
-**B. Intrusive *of*.** The word *of* often intrudes where it doesn't idiomatically belong, as in *\*not that big of a deal* (read *not that big a deal*), *\*not too smart of a student* (read *not too smart a student*), *\*somewhat of an abstract idea* (read *a somewhat abstract idea* \[see **somewhat**\]), etc. E.g.: "Spurs guard Mario Elie doesn't seem to think the Spurs will have *that difficult of a time* \[read *too difficult a time*\] handling the Knicks in these Finals." "Elie Attacks," *Fla. Today*, 17 June 1999, at C2. Cf. **all (a), as . . . as (d)** & **too (c)**. For the opposite tendency—omitting a traditional *of*—see **couple (c)**.
+## B. Intrusive *of*
+
+The word *of* often intrudes where it doesn't idiomatically belong, as in *\*not that big of a deal* (read *not that big a deal*), *\*not too smart of a student* (read *not too smart a student*), *\*somewhat of an abstract idea* (read *a somewhat abstract idea* \[see **somewhat**\]), etc. E.g.: "Spurs guard Mario Elie doesn't seem to think the Spurs will have *that difficult of a time* \[read *too difficult a time*\] handling the Knicks in these Finals." "Elie Attacks," *Fla. Today*, 17 June 1999, at C2. Cf. **all (a), as . . . as (d)** & **too (c)**. For the opposite tendency—omitting a traditional *of*—see **couple (c)**.
 
 As the statistics below show, the language has seen a major shift toward the intrusive *of*, which is becoming a common casualism.
 
@@ -23,9 +27,13 @@ As the statistics below show, the language has seen a major shift toward the int
 1980 ratio in print (*not that difficult a* vs. *\*not that difficult of a*): 25:1
  - Current ratio in print (*not that difficult a* vs. *\*not that difficult of a*): 2.5:1
 
-**C. Superfluous in Dates.** *December of* *1987* should be *December* *1987**.* See dates (b).
+## C. Superfluous in Dates
 
-**D. For *have*.** Because the spoken *have* (especially in a contraction) is often identical in sound with *of* \<I should've done it\>, semiliterate writers have taken to writing *\*should of*, *\*could of*, and *\*would of* (aka *\*shoulda*, *\*coulda*, and *\*woulda*). But the word is *have*, or a contraction ending in *'ve*, and it should be written so. This error has typified uneducated usage since about the time of World War I. Instances of it are legion—e.g.:
+*December of* *1987* should be *December* *1987**.* See dates (b).
+
+## D. For *have*
+
+Because the spoken *have* (especially in a contraction) is often identical in sound with *of* \<I should've done it\>, semiliterate writers have taken to writing *\*should of*, *\*could of*, and *\*would of* (aka *\*shoulda*, *\*coulda*, and *\*woulda*). But the word is *have*, or a contraction ending in *'ve*, and it should be written so. This error has typified uneducated usage since about the time of World War I. Instances of it are legion—e.g.:
 
  - " ‘He may *of* \[read *have*\] been otherwise occupied by his other legal troubles,' Lanza said. ‘Other than that, I don't know.' " Jack Sherzer, "Spotz Suit Against Officers Dismissed," *Harrisburg Patriot*, 1 Aug. 1996, at B4 (quoting David J. Lanza, who can't be faulted for the mistranscription).
 
@@ -41,7 +49,11 @@ See **\*had have**.
 
 **Language-Change Index:** *of* misused for *have*: Stage 1
 
-**E. *Of a . . . nature*.** See **nature**.
+## E. *Of a . . . nature*
 
-**F. *Of*-genitive vs. Possessive.** See **of (a)** & possessives (h).
+See **nature**.
+
+## F. *Of*-genitive vs. Possessive
+
+See **of (a)** & possessives (h).
 

@@ -2,7 +2,9 @@
 
 but.
 
-**A. Beginning Sentences with.** It is a gross canard that beginning a sentence with *but* is stylistically slipshod. In fact, doing so is highly desirable in any number of contexts, as countless stylebooks have said (many correctly pointing out that *but* is more effective than *however* at the beginning of a sentence)—e.g.:
+## A. Beginning Sentences with
+
+It is a gross canard that beginning a sentence with *but* is stylistically slipshod. In fact, doing so is highly desirable in any number of contexts, as countless stylebooks have said (many correctly pointing out that *but* is more effective than *however* at the beginning of a sentence)—e.g.:
 
  - **1877:** "The group of Adversative conjunctions represented by But (called Arrestive) very often fulfil the office of relating consecutive sentences. . . . An entire paragraph is not unfrequently devoted to arresting or preventing a seeming inference from one preceding, and is therefore appropriately opened by But, Still, Nevertheless, &c." Alexander Bain, *English Composition and Rhetoric* 110 (4th ed. 1877).
 
@@ -67,9 +69,13 @@ Some years ago, a researcher found that 8.75% of the sentences in the work of fi
 
 All this enthusiasm for the construction, though, must be tempered with this caution: don't start consecutive sentences with *But*. E.g.: "It is not now, and I trust it never will become, my purpose to argue that grammatical knowledge is not a *good* in itself. *But*, then, I believe that *any* knowledge is good. *But* \[read *Even so,*\] I suggest that grammatical knowledge taught as an end in itself, taught without a calculated, relentless focus on its applicability to problems that occur in writing, will have no appreciable value to a student in his writing." Bertrand Evans, "Grammar and Writing," in *A Linguistics Reader* 111, 116 (Graham Wilson ed., 1967). See **yet (a)**. Cf. **however (a)**.
 
-**B. More than One in a Sentence.** Putting this coordinating conjunction twice in one sentence invariably makes the sentence unwieldy and less easy to read. E.g.: "*But* this opening misleads because the focus dissipates as the play progresses and the scattershot climax drips with sentiment *but* is ultimately unsatisfying." A. Levine, "Barely Afloat ‘Raft of Medusa,' " *Pitt. Post-Gaz.*, 10 Oct. 1997, at 34. (A possible revision: *But this opening misleads because the focus dissipates as the play progresses. Although the scattershot climax drips with sentiment, it's ultimately unsatisfying.*)
+## B. More than One in a Sentence
 
-**C. For *and*.** This lapse is surprisingly common. The misuse of *but* for *and* often betrays the writer's idiosyncratic prejudice. That is, if you write that someone is *attractive but smart*, you're suggesting that this combination of characteristics is atypical. E.g.:
+Putting this coordinating conjunction twice in one sentence invariably makes the sentence unwieldy and less easy to read. E.g.: "*But* this opening misleads because the focus dissipates as the play progresses and the scattershot climax drips with sentiment *but* is ultimately unsatisfying." A. Levine, "Barely Afloat ‘Raft of Medusa,' " *Pitt. Post-Gaz.*, 10 Oct. 1997, at 34. (A possible revision: *But this opening misleads because the focus dissipates as the play progresses. Although the scattershot climax drips with sentiment, it's ultimately unsatisfying.*)
+
+## C. For *and*
+
+This lapse is surprisingly common. The misuse of *but* for *and* often betrays the writer's idiosyncratic prejudice. That is, if you write that someone is *attractive but smart*, you're suggesting that this combination of characteristics is atypical. E.g.:
 
  - "There \[was\] . . . a *wealthy but nice-looking* \[read *wealthy, nice-looking*\] family." Helen Fielding, "Eating Out: A Posher Sort of Poppadom," *Independent*, 3 Dec. 1995, at 66. (Are wealthy people typically not nice-looking? On the reason for the comma between the adjectives in the revision, see punctuation (d).)
 
@@ -77,7 +83,9 @@ All this enthusiasm for the construction, though, must be tempered with this cau
 
  - "He's gruff and sensitive, *talented but hard-working* \[read *talented and hard working*\], plain-speaking but as smart as anyone." Tom E. Curran, "Andruzzi Has More than Paid His Dues," *Providence J.-Bull.*, 3 Oct. 2003, at 14. (Are talented people typically lazy? The writer has also made the converse lapse in the first pairing: *gruff* and *sensitive* are more often viewed as opposites than complements, so *but* would be more appropriate than *and* between them.)
 
-**D. Preposition or Conjunction?** The use of *but* in a negative sense after a pronoun (such as *everybody* or *nobody*) has long caused confusion: is it *Nobody but her* or *Nobody but she*? If *but* is regarded as a preposition (equivalent to *except*), the objective *her* or *him* would follow. But if *but* is regarded as a conjunction, the nominative *she* or *he* would follow.
+## D. Preposition or Conjunction?
+
+The use of *but* in a negative sense after a pronoun (such as *everybody* or *nobody*) has long caused confusion: is it *Nobody but her* or *Nobody but she*? If *but* is regarded as a preposition (equivalent to *except*), the objective *her* or *him* would follow. But if *but* is regarded as a conjunction, the nominative *she* or *he* would follow.
 
 The conventional explanation is that *but* is taken as a preposition needing an objective pronoun if the verb precedes the *but*-phrase \<everyone had a ticket but him\>; yet it's taken as a conjunction requiring a nominative pronoun if the verb follows the *but*-phrase \<everyone but he had a ticket\>. E.g.:
 

@@ -2,13 +2,17 @@
 
 Magna Carta.
 
-**A. Versus *\*Magna Charta*.** The usual—and the better—form is *Magna Carta*. *Time* magazine used the variant spelling and found itself on the defensive: "We were unfairly reproved for our spelling of the document Magna Charta \[Living, Nov. 11\]. Although many publications use the more familiar Magna Carta, most dictionaries prefer the word we used, *charta*, from the Latin word for paper." "Going by the Rules," *Time*, 16 Dec. 1991, at 9. Which dictionaries? Not *W3*, *RH2*, *AHD*, *W11*, or the *OED*—the last of which shows that the great document was known exclusively as *Magna Carta* from the 1200s to the 1600s. And the leading British textbooks on the subject, by W.S. McKechnie and J.C. Holt, use *Carta.* For the full history of the vicissitudes of the two spellings, see Bryan A. Garner, "A Lexicographic Look at Magna Carta," in *Magna Carta: Muse and Mentor* 85 (Randy J. Holland ed., 2014).
+## A. Versus *\*Magna Charta*
+
+The usual—and the better—form is *Magna Carta*. *Time* magazine used the variant spelling and found itself on the defensive: "We were unfairly reproved for our spelling of the document Magna Charta \[Living, Nov. 11\]. Although many publications use the more familiar Magna Carta, most dictionaries prefer the word we used, *charta*, from the Latin word for paper." "Going by the Rules," *Time*, 16 Dec. 1991, at 9. Which dictionaries? Not *W3*, *RH2*, *AHD*, *W11*, or the *OED*—the last of which shows that the great document was known exclusively as *Magna Carta* from the 1200s to the 1600s. And the leading British textbooks on the subject, by W.S. McKechnie and J.C. Holt, use *Carta.* For the full history of the vicissitudes of the two spellings, see Bryan A. Garner, "A Lexicographic Look at Magna Carta," in *Magna Carta: Muse and Mentor* 85 (Randy J. Holland ed., 2014).
 
 And what about the *Time* editors' argument that *charta* is the Latin word for "paper"? That argument is a blank page: *charta* and *carta* are variants bearing the same meaning in Latin.
 
  - Current ratio in print (*Magna Carta* vs. *\*Magna Charta*): 5:1
 
-**B. Article with.** Traditionally, *Magna Carta* did not take a definite article: one said *Magna Carta*, not *the Magna Carta*. This traditional usage is still followed closely in London and, less rigorously, elsewhere in England—e.g.:
+## B. Article with
+
+Traditionally, *Magna Carta* did not take a definite article: one said *Magna Carta*, not *the Magna Carta*. This traditional usage is still followed closely in London and, less rigorously, elsewhere in England—e.g.:
 
  - "The Declaration of Arbroath was a century after *Magna Carta*: and the baronial limitations on kingship in the earlier document were also to filter down, to give all a dim sense of being ‘freemen'." John Lloyd, "Brave Heart's Campaign Trail," *Fin. Times*, 4 Jan. 2003, Books §, at 5.
 

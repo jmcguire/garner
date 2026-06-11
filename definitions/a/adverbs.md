@@ -2,7 +2,9 @@
 
 Adverbs .
 
-**A. Generally.** English has an enormous number of words belonging to the adverb category, expressing a very wide range of meanings. A few dozen are basic adverbs unrelated to adjectives; among the most frequent of these are *again*, *almost*, *already*, *also*, *always*, *anyway*, *as*, *even*, *ever*, *how*, *however*, *indeed*, *just*, *maybe*, *never*, *not*, *often*, *only*, *otherwise*, *perhaps*, *quite*, *rather*, *really*, *soon*, *still*, *therefore*, *though*, *too*, *very*, and *yet*. But there are many thousands of others—from *abdominally* to *zoologically*—formed by adding the suffix *-ly* to an adjective stem.
+## A. Generally
+
+English has an enormous number of words belonging to the adverb category, expressing a very wide range of meanings. A few dozen are basic adverbs unrelated to adjectives; among the most frequent of these are *again*, *almost*, *already*, *also*, *always*, *anyway*, *as*, *even*, *ever*, *how*, *however*, *indeed*, *just*, *maybe*, *never*, *not*, *often*, *only*, *otherwise*, *perhaps*, *quite*, *rather*, *really*, *soon*, *still*, *therefore*, *though*, *too*, *very*, and *yet*. But there are many thousands of others—from *abdominally* to *zoologically*—formed by adding the suffix *-ly* to an adjective stem.
 
 Adverbs modify verbs, adjectives, prepositions, and other adverbs; they supply qualifications regarding frequency (*often*), manner (*viciously*), degree (*greatly*), evaluation (*delightfully*), place (*locally*), time (*recently*), modality (*possibly*), consequence (*therefore*), and many other kinds of information. See *CGEL* 565–70; Bryan A. Garner, *The Chicago Guide to Grammar, Usage, and Punctuation* 130–33 (2016).
 
@@ -42,7 +44,9 @@ In short, there are certain types of adverbs to be cautious about: adverbs of ma
 
 Professor Trimble gives a good counterbalance to all the naysaying about this disparaged part of speech: "The right adverb, fresh and adroitly placed, is one of life's finest small pleasures." John R. Trimble, *Writing with Style* 77 (2d ed. 2000). Adroitly placed indeed\!
 
-**B. Syntactic Placement.** Where does the adverb go in relation to a compound verb (also known as a verb phrase)? The default is to place it after the first auxiliary verb.
+## B. Syntactic Placement
+
+Where does the adverb go in relation to a compound verb (also known as a verb phrase)? The default is to place it after the first auxiliary verb.
 
 Many writers fall into awkward, unidiomatic sentences when they misguidedly refuse to put an adverb between the auxiliary and the main verb. A clause-modifying adverb is ideally placed just after the first auxiliary verb: *is ideally placed*—not *ideally is placed.* Some writers think that the separation of a verb phrase is akin to the so-called split infinitive. It is not. As H.W. Fowler explained long ago, when a clause with one or more auxiliary verbs preceding the main verb is modified by an adverb, "its normal place is between the auxiliary (or sometimes the first auxiliary if there are two or more) and the rest." (*FMEU1* at 448.) Not only is there no objection to this placement, he stresses, "but any other position for the adverb requires special justification. *I have never seen her*, not *I never have seen her*, is the ordinary idiom" (*Ibid.*). Many authorities over more than two centuries have agreed on this point:
 
@@ -84,17 +88,25 @@ Adverbs supplying clause information such as frequency or time often occur after
 
 The reason the Beatles didn't sing *\*I there saw her standing* is simply that words like *there* and *here* function like prepositions or prepositional phrases, not like adverbs: compare *\*I in the corner saw her standing* or *\*We on that ridge will make our stand*.
 
-**C. Awkward Adverbs.** Adjectives ending in *-ly* and *-le* often make cumbersome adverbs, e.g., *chillily*, *friendlily*, *ghastlily*, *holily*, *jollily*, *juvenilely*, *lovelily*, *sillily*, *statelily*, *supplely*, *surlily*, *uglily*, *wilily*, and so on. You needn't be timid in writing or pronouncing such adverbs when they're genuinely needed—e.g.: "During the year's cold months, when the abundant fenestration of her home office kept the room chilly, \[the therapist\] wore a pelisse of hand-tanned Native American buckskin that formed a somewhat *ghastlily* moist-looking flesh-colored background for the enclosing shapes her hands formed in her lap." David Foster Wallace, "The Depressed Person," *Harper's Mag.*, 1 Jan. 1998, at 57. But if they seem unnatural, you can easily rephrase the sentence, e.g., *in a silly manner*. A few words, however, act as both adjectives and adverbs; examples are *daily*, *early*, *hourly*, *kindly*, *stately*, and *timely*.
+## C. Awkward Adverbs
+
+Adjectives ending in *-ly* and *-le* often make cumbersome adverbs, e.g., *chillily*, *friendlily*, *ghastlily*, *holily*, *jollily*, *juvenilely*, *lovelily*, *sillily*, *statelily*, *supplely*, *surlily*, *uglily*, *wilily*, and so on. You needn't be timid in writing or pronouncing such adverbs when they're genuinely needed—e.g.: "During the year's cold months, when the abundant fenestration of her home office kept the room chilly, \[the therapist\] wore a pelisse of hand-tanned Native American buckskin that formed a somewhat *ghastlily* moist-looking flesh-colored background for the enclosing shapes her hands formed in her lap." David Foster Wallace, "The Depressed Person," *Harper's Mag.*, 1 Jan. 1998, at 57. But if they seem unnatural, you can easily rephrase the sentence, e.g., *in a silly manner*. A few words, however, act as both adjectives and adverbs; examples are *daily*, *early*, *hourly*, *kindly*, *stately*, and *timely*.
 
 The same is true, to a lesser extent, of many adverbs derived from adjectives that end in *y*, such as *funny* (making *funnily*). But they have a more widespread acceptance—e.g.: "His long play about the Civil War is obviously and *unfunnily* bad, but a hundred pages are devoted to reproducing the manuscript and another fifty to endless jawing about its relation to art, justice, and order." Jonathan Franzen, "Mr. Difficult," *New Yorker*, 30 Sept. 2002, at 100, 111.
 
 If you use unusual adverbs, do so sparingly. Some writers display an unfortunate fondness for them, as by using such forms as *consideredly*, *corollarily*, and the spurious *\*widespreadly*. Cf. -edly.
 
-**D. Double Adverbs.** Several adverbs not ending in *-ly*—especially *doubtless*, *fast*, *ill*, *much*, *seldom*, *thus*—have nonword counterparts ending in *-ly*. Using *\*doubtlessly*, *\*fastly*, etc. is incorrect. See **\*doubtlessly**, **\*fastly**, **ill**, **\*muchly**, **seldom** & **thus (b)**.
+## D. Double Adverbs
 
-**E. Adverbs vs. Adjectives.** See adjectives (e).
+Several adverbs not ending in *-ly*—especially *doubtless*, *fast*, *ill*, *much*, *seldom*, *thus*—have nonword counterparts ending in *-ly*. Using *\*doubtlessly*, *\*fastly*, etc. is incorrect. See **\*doubtlessly**, **\*fastly**, **ill**, **\*muchly**, **seldom** & **thus (b)**.
 
-**F. Sentence Adverbs.** A sentence adverb, which qualifies an entire statement rather than a single word, does not resolve itself into the form *in a —— manner*, as most adverbs do. So in *Happily, the bill did not go beyond the committee*, the introductory adverb *happily* conveys the writer's opinion on the message being imparted. The following words are among the most frequent sentence adverbs ending in *-ly*:
+## E. Adverbs vs. Adjectives
+
+See adjectives (e).
+
+## F. Sentence Adverbs
+
+A sentence adverb, which qualifies an entire statement rather than a single word, does not resolve itself into the form *in a —— manner*, as most adverbs do. So in *Happily, the bill did not go beyond the committee*, the introductory adverb *happily* conveys the writer's opinion on the message being imparted. The following words are among the most frequent sentence adverbs ending in *-ly*:
 
  - accordingly
  - admittedly

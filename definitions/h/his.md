@@ -2,7 +2,11 @@
 
 his.
 
-**A. *One . . . his*.** See **one (b)**.
+## A. *One . . . his*
 
-**B. *His or her*.** See **he or she** & sexism (b).
+See **one (b)**.
+
+## B. *His or her*
+
+See **he or she** & sexism (b).
 

@@ -2,9 +2,13 @@
 
 danger.
 
-**A. *In danger of life*; *in danger of death*.** Curiously, these phrases are synonymous. *Life* is the only exception to the idiom requiring *in danger of* to be followed by the peril and not by what is exposed to it. Thus, we say *in danger of losing his honor*, *in danger of being thrown from the bridge*, etc.
+## A. *In danger of life*; *in danger of death*
 
-**B. *\*Running the danger*.** Idiomatically speaking, one runs a *risk*, not a *danger*—e.g.:
+Curiously, these phrases are synonymous. *Life* is the only exception to the idiom requiring *in danger of* to be followed by the peril and not by what is exposed to it. Thus, we say *in danger of losing his honor*, *in danger of being thrown from the bridge*, etc.
+
+## B. *\*Running the danger*
+
+Idiomatically speaking, one runs a *risk*, not a *danger*—e.g.:
 
  - "If you parody your bland role model with utter brilliance, then you *run the danger* \[read *run the risk*\] of being too clever for your own good." Barry Walters, " ‘Brady' Sequel Is Like One Long Episode," *S.F. Examiner*, 23 Aug. 1996, at D3.
 

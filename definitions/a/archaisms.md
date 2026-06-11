@@ -2,7 +2,9 @@
 
 Archaisms .
 
-**A. Generally.** Language that is current in one age may come to be viewed, within a few generations, as pompously archaic. Once a term becomes an archaism, it may be stuck with that status for centuries—forever sounding old-fashioned to literary people and outright alien to everyone else. Many archaisms persist in people's knowledge only because they're encountered in ancient religious texts or in classic literature.
+## A. Generally
+
+Language that is current in one age may come to be viewed, within a few generations, as pompously archaic. Once a term becomes an archaism, it may be stuck with that status for centuries—forever sounding old-fashioned to literary people and outright alien to everyone else. Many archaisms persist in people's knowledge only because they're encountered in ancient religious texts or in classic literature.
 
 The obvious advice is to avoid archaic terms unless you're being jocular in some way. But we need a nuanced approach. Some writers use them for effect. Consider what Somerset Maugham said: "I do not think a far-fetched, and archaic or even an affected word is out of place when it sounds better than the blunt, obvious one or when it gives a sentence a better balance." *The Summing Up* (1938), in *Classics in Composition* 219, 225 (Donald E. Hayden ed., 1969). But that's almost like the breaking of a rule by a virtuoso: you must master the rules first—including an abstemious approach to outmoded diction—before learning when to ignore them altogether.
 
@@ -168,7 +170,9 @@ The following list of archaisms, with modern translations to the right, hints at
 | yon, yonder | over there |
 | you were better go | you should go, you had better go |
 
-**B. Mistakes Caused by Archaism.** Archaism can be faulted in itself. But a still more embarrassing problem arises when the indulger doesn't understand how the phrasings work. In Early Modern English, the following singular forms were typical:
+## B. Mistakes Caused by Archaism
+
+Archaism can be faulted in itself. But a still more embarrassing problem arises when the indulger doesn't understand how the phrasings work. In Early Modern English, the following singular forms were typical:
 
 | *Second Person* | ***Third Person*** |
 |---|---|

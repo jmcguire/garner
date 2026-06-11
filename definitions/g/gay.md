@@ -2,7 +2,9 @@
 
 gay.
 
-**A. Generally.** In 1980, a well-known language critic commented: "\[The\] special-interest use of *gay* undermines the correct use of a legitimate and needed English word. It now becomes ambiguous to call a cheerful person or thing gay; to wish someone a gay journey or holiday, for example, may have totally uncalled-for over- and undertones and, in conservative circles, may even be considered insulting. The insulting aspect we can eventually get rid of; the ambiguous, never. What do we do about it? If we energetically reject *gay* as a legitimate synonym for *homosexual*, it may not be too late to bury this linguistic abomination." John Simon, *Paradigms Lost* 27 (1980).
+## A. Generally
+
+In 1980, a well-known language critic commented: "\[The\] special-interest use of *gay* undermines the correct use of a legitimate and needed English word. It now becomes ambiguous to call a cheerful person or thing gay; to wish someone a gay journey or holiday, for example, may have totally uncalled-for over- and undertones and, in conservative circles, may even be considered insulting. The insulting aspect we can eventually get rid of; the ambiguous, never. What do we do about it? If we energetically reject *gay* as a legitimate synonym for *homosexual*, it may not be too late to bury this linguistic abomination." John Simon, *Paradigms Lost* 27 (1980).
 
 Hardly anyone today would dispute, though, that Simon's cause is lost: *gay* is now all but universal in referring to homosexuals, both male and female, and has been embraced by the gay community. Its stronger associations are with men, so that we have the phrase *\*gay and lesbian affairs*, as if lesbians weren't gay. See (b).
 
@@ -20,5 +22,7 @@ The new sense of *gay* is now standard. Trying to reclaim the old sense would be
 
 **Language-Change Index:** *gay* meaning "homosexual": Stage 5
 
-**B. *Gay and lesbian*.** Though common, this phrasing is peculiarly redundant, since lesbians are gay women. So the phrase *gay and lesbian* raises a genus–species problem akin to saying *\*human beings and women* (an insult to women). What is no doubt happening is that *gay* is undergoing what is technically known as specialization—that is, in some of its senses the word is becoming sex-specific. In the end, *gay* may end up always referring almost exclusively to men. In the meantime, though, it's more logical to use *gay* as a solo adjective, as in the title of the *Handbook of Affirmative Psychotherapy with Lesbians and Gay Men* (2002). And when the use is attributive—a noun sense being desired—it's probably more clearly descriptive to refer to *gay men and women*, as in the title of Tom Cowan's *Gay Men and Women Who Enriched the World* (1997).
+## B. *Gay and lesbian*
+
+Though common, this phrasing is peculiarly redundant, since lesbians are gay women. So the phrase *gay and lesbian* raises a genus–species problem akin to saying *\*human beings and women* (an insult to women). What is no doubt happening is that *gay* is undergoing what is technically known as specialization—that is, in some of its senses the word is becoming sex-specific. In the end, *gay* may end up always referring almost exclusively to men. In the meantime, though, it's more logical to use *gay* as a solo adjective, as in the title of the *Handbook of Affirmative Psychotherapy with Lesbians and Gay Men* (2002). And when the use is attributive—a noun sense being desired—it's probably more clearly descriptive to refer to *gay men and women*, as in the title of Tom Cowan's *Gay Men and Women Who Enriched the World* (1997).
 

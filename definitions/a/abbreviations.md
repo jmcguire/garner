@@ -2,7 +2,9 @@
 
 Abbreviations.
 
-**A. Acronyms and Initialisms.** Six points merit attention here.
+## A. Acronyms and Initialisms
+
+Six points merit attention here.
 
 First, be aware of the technical difference between the two types of abbreviated names. An *acronym* is made from the first letters or parts of a compound term. It's read or spoken as a single word, not letter by letter (e.g., *awol* = absent without official leave, *radar* = radio detection and ranging, and *scuba* = self-contained underwater breathing apparatus). An *initialism* is also made from the first letters or parts of a compound term, but it's sounded letter by letter, not as one word (e.g., *r.p.m.* = revolutions per minute).
 
@@ -16,7 +18,9 @@ Fifth, don't use abbreviations that have already been taken. Although it's under
 
 Sixth, when an indefinite article is needed before an abbreviation, the choice between *a* and *an* depends simply on how the first syllable is sounded. A vowel sound takes *an*, a consonant sound *a*—hence *an MGM film*, *an SOS*, *a DVD player*, *a UFO*. See **a (a)**.
 
-**B. Resulting Redundancies.** Some acronyms and initialisms often appear as part of a two-word phrase in which the second word is what one of the short form's letters stands for. So a bank customer withdraws cash from an *ATM machine*, using a *PIN number* as a password. A supermarket clerk searches a milk carton for its *UPC code*. High-school seniors study hard for the *SAT test* (though the SAT owners now insist that the *T* does not stand for *test*—see **SAT**). Economists monitor the *CPI Index*. American and Russian diplomats sit down to negotiate at the *SALT talks* as their military counterparts consider whether to launch *ABM missiles*. Websites may display pages in *PDF format*. And scientists try to unlock the mysteries of the deadly *HIV virus*.
+## B. Resulting Redundancies
+
+Some acronyms and initialisms often appear as part of a two-word phrase in which the second word is what one of the short form's letters stands for. So a bank customer withdraws cash from an *ATM machine*, using a *PIN number* as a password. A supermarket clerk searches a milk carton for its *UPC code*. High-school seniors study hard for the *SAT test* (though the SAT owners now insist that the *T* does not stand for *test*—see **SAT**). Economists monitor the *CPI Index*. American and Russian diplomats sit down to negotiate at the *SALT talks* as their military counterparts consider whether to launch *ABM missiles*. Websites may display pages in *PDF format*. And scientists try to unlock the mysteries of the deadly *HIV virus*.
 
 The problem with these phrases, if there is one, is that they are technically redundant (*automated-teller machine machine*, *personal-identification number number*, *Universal Product Code code*, *Consumer Price Index Index*, *Strategic Arms Limitation Talks talks*, *anti-ballistic missile missile*, *portable document format format*, and *human-immunodeficiency virus virus*). Although some editors will insist that these redundancies are unacceptable, they help cue the mind to the precise subject whether the context is speech or writing. In short, the objections smell of pedantry.
 
@@ -24,7 +28,9 @@ A slightly different type of redundancy arises if you define *ATC* as the *air-t
 
 See redundancy.
 
-**C. Initialese.** One of the most irritating types of pedantry in modern writing is the overuse of abbreviations, especially abbreviated names. Originally, to be sure, abbreviations were intended to serve the convenience of the reader by shortening names so that cumbersome phrases would not have to be repeated in their entirety. The purported simplifications actually simplified. But many writers—especially technical writers—seem to have lost sight of this goal: they allow abbreviated terms to proliferate, and their prose quickly becomes a hybrid-English system of hieroglyphs requiring the reader to refer constantly to the original uses of terms to grasp the meaning. This kind of writing might be thought more scholarly than ordinary, straightforward prose. It isn't. Rather, it's tiresome and inconsiderate writing; it betrays the writer's thoughtlessness toward the reader and a puerile fascination with the insubstantial trappings of scholarship.
+## C. Initialese
+
+One of the most irritating types of pedantry in modern writing is the overuse of abbreviations, especially abbreviated names. Originally, to be sure, abbreviations were intended to serve the convenience of the reader by shortening names so that cumbersome phrases would not have to be repeated in their entirety. The purported simplifications actually simplified. But many writers—especially technical writers—seem to have lost sight of this goal: they allow abbreviated terms to proliferate, and their prose quickly becomes a hybrid-English system of hieroglyphs requiring the reader to refer constantly to the original uses of terms to grasp the meaning. This kind of writing might be thought more scholarly than ordinary, straightforward prose. It isn't. Rather, it's tiresome and inconsiderate writing; it betrays the writer's thoughtlessness toward the reader and a puerile fascination with the insubstantial trappings of scholarship.
 
 Three examples suffice to illustrate the malady:
 
@@ -48,5 +54,7 @@ Abbreviations are often conveniences for writers but inconveniences for readers.
 
 Robert Burchfield warned that the proliferation of initialisms could profoundly affect the language as a whole: "As formations they are often ingenious—for example KWIC (*K*ey *W*ord *i*n *C*ontext) and CARE (*C*ooperative for *A*merican *R*elief *E*verywhere, a federation of U.S. charities)—but they are barren, in that they cannot generate anything except themselves, and etymologically rootless. Each one that is formed takes the language fractionally away from its Germanic, and ultimately its Indo-European, origins." Robert W. Burchfield, *Unlocking the English Language* 65 (1989).
 
-**D. Plurals.** See plurals (h).
+## D. Plurals
+
+See plurals (h).
 

@@ -2,7 +2,9 @@
 
 anecdote.
 
-**A. Adjective Forms: *anecdotal*; *\*anecdotic*; *\*anecdotical*.** The form *anecdotal* is standard; the other forms are needless variants. In reference to evidence, *anecdotal* refers not to anecdotes, but to personal experiences reported by one or more people.
+## A. Adjective Forms: *anecdotal*; *\*anecdotic*; *\*anecdotical*
+
+The form *anecdotal* is standard; the other forms are needless variants. In reference to evidence, *anecdotal* refers not to anecdotes, but to personal experiences reported by one or more people.
 
  - Current ratio in print (*anecdotal* vs. *\*anecdotic* vs. *\*anecdotical*): 340:3:1
 
@@ -10,7 +12,9 @@ anecdote.
 
  - Current ratio in print (*anecdotal history* vs. *\*anecdotic history*): 6:1
 
-**B. And *antidote*.** *Anecdote* (= a brief story, usu. true and intended to amuse) is sometimes confused with *antidote* (= something that counteracts poison), resulting in a malapropism—e.g.:
+## B. And *antidote*
+
+*Anecdote* (= a brief story, usu. true and intended to amuse) is sometimes confused with *antidote* (= something that counteracts poison), resulting in a malapropism—e.g.:
 
  - "One dog was poisoned but we found the *anecdote* \[read *antidote*\]." Dennis Pollock, "Home Alone Is Not This Guy's Choice During Holidays," *Fresno Bee*, 5 Dec. 1994, at F2.
 
@@ -33,7 +37,9 @@ See word-swapping.
 2. *antidote* misused for *anecdote*: Stage 1
  - Current ratio in print (*amusing anecdote* vs. ***\*amusing** antidote*): 132:1
 
-**C. Corresponding Agent Noun.** *Anecdotist* /**an**-ik-doh-tist/ (= someone skilled in telling stories based on personal experience), an agent noun dating from about 1760, has long been the standard term. *Anecdotalist*, a rival form that emerged in the mid-1800s and achieved significant popularity after 1980, is a variant. Given the predominance of *anecdotalism* (= the propensity for storytelling) over *\*anecdotism*, the corresponding noun *anecdotalist* seems likely to succeed in the end. (The *anecdotalist* evidence isn't yet in.) Forget the obsolete needless variants: *\*anecdotarian* and *\*anecdotographer*.
+## C. Corresponding Agent Noun
+
+*Anecdotist* /**an**-ik-doh-tist/ (= someone skilled in telling stories based on personal experience), an agent noun dating from about 1760, has long been the standard term. *Anecdotalist*, a rival form that emerged in the mid-1800s and achieved significant popularity after 1980, is a variant. Given the predominance of *anecdotalism* (= the propensity for storytelling) over *\*anecdotism*, the corresponding noun *anecdotalist* seems likely to succeed in the end. (The *anecdotalist* evidence isn't yet in.) Forget the obsolete needless variants: *\*anecdotarian* and *\*anecdotographer*.
 
  - Current ratio in print (*anecdotist* vs. *anecdotalist*): 2.2:1
 

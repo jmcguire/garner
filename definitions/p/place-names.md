@@ -2,11 +2,19 @@
 
 Place Names .
 
-**A. As Adjectives.** See adjectives (d).
+## A. As Adjectives
 
-**B. British Practices with American Place Names.** See names (e).
+See adjectives (d).
 
-**C. Pronunciation of Foreign Names.** See names (c).
+## B. British Practices with American Place Names
 
-**D. Names for Residents and Natives.** See demonyms.
+See names (e).
+
+## C. Pronunciation of Foreign Names
+
+See names (c).
+
+## D. Names for Residents and Natives
+
+See demonyms.
 

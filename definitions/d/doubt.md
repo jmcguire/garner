@@ -2,7 +2,9 @@
 
 doubt.
 
-**A. *Doubt that*; *doubt whether*; *\*doubt if*.** The phrasing *doubt that* (the most common of the three)is used primarily in negative sentences, statements of skepticism, and questions—e.g.:
+## A. *Doubt that*; *doubt whether*; *\*doubt if*
+
+The phrasing *doubt that* (the most common of the three)is used primarily in negative sentences, statements of skepticism, and questions—e.g.:
 
  - "McPherson also *doubted that* the council would want to change the job description from secretary to manager." Jim Hosek, "Kuchta Retires," *Pitt. Post-Gaz.*, 4 Sept. 1996, at S1.
 
@@ -21,7 +23,11 @@ doubt.
  - *\*doubt if* for *doubt that*: Stage 3
  - Current ratio in print (*doubt that* vs. *\*doubt if *): 11:1
 
-**B. Followed by a Negative.** *Doubt* can be confusing when followed by a negative—e.g.: "I *doubt* whether the company *will not* take the further step when necessary." This sentence merely states that the writer thinks the company *will* take the further step.
+## B. Followed by a Negative
 
-**C. And *\*misdoubt*.** See **\*misdoubt**.
+*Doubt* can be confusing when followed by a negative—e.g.: "I *doubt* whether the company *will not* take the further step when necessary." This sentence merely states that the writer thinks the company *will* take the further step.
+
+## C. And *\*misdoubt*
+
+See **\*misdoubt**.
 

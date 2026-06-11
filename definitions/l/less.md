@@ -2,7 +2,9 @@
 
 less.
 
-**A. And *fewer*.** Strictly, *less* applies to singular nouns \<less tonic water, please\> or units of measure \<less than six ounces of epoxy\>. *Fewer* applies to plural nouns \<fewer guests arrived than expected\> or numbers of things \<we have three fewer members this year\>. The empirical evidence in print sources bears out the distinction: the collocation *fewer people* is about seven times as common in books published today as *\*less people*.
+## A. And *fewer*
+
+Strictly, *less* applies to singular nouns \<less tonic water, please\> or units of measure \<less than six ounces of epoxy\>. *Fewer* applies to plural nouns \<fewer guests arrived than expected\> or numbers of things \<we have three fewer members this year\>. The empirical evidence in print sources bears out the distinction: the collocation *fewer people* is about seven times as common in books published today as *\*less people*.
 
 If you have trouble distinguishing the two words, try substituting a phrase. If "not as much \[as\]" fits, make it *less*. If "not as many \[as\]" is better, use *fewer*. See count nouns and mass nouns & **fewer**.
 
@@ -44,7 +46,9 @@ Finally, even with the strict usage, it's sometimes a close call whether a thing
  - Current ratio in print (*fewer people* vs. *\*less people*): 5:1
  - Current ratio in print (*ten pages or less* vs. *ten pages or fewer*): 3:1
 
-**B. *One less* or *\*one fewer*?** If, in strict usage, *less* applies to singular nouns and *fewer* to plural nouns, the choice is clear: *one less golfer* on the course, not *\*one fewer golfer*. This is tricky only because *less* is being applied to a singular count noun, whereas it usually applies to a mass noun. Burt Bacharach got it right in "One Less Bell to Answer" (1970). Since at least 1700, most published authors have gotten it right. And most contemporary writers get it right—e.g.:
+## B. *One less* or *\*one fewer*?
+
+If, in strict usage, *less* applies to singular nouns and *fewer* to plural nouns, the choice is clear: *one less golfer* on the course, not *\*one fewer golfer*. This is tricky only because *less* is being applied to a singular count noun, whereas it usually applies to a mass noun. Burt Bacharach got it right in "One Less Bell to Answer" (1970). Since at least 1700, most published authors have gotten it right. And most contemporary writers get it right—e.g.:
 
  - "I couldn't care less that NFL players will receive *one less* game check." "Capital-Journal," *Topeka Capital-J.*, 16 Sept. 2001, at X2.
 
@@ -62,7 +66,9 @@ Nearly 10% of the time, however, writers use *\*one fewer*, an awkward and unidi
 
  - Current ratio in print (*one less* vs. *\*one fewer*): 12:1
 
-**C. And *lesser*.** *Lesser*, like *less*, refers to quantity, but is confined to use as an adjective before a singular noun and following an article \<the lesser crime\> or alone before a plural noun \<lesser athletes\>, thus performing a function no longer idiomatically possible with *less.* Dating from the 1200s, this formal usage allows *lesser* to act as an antonym of *greater.*
+## C. And *lesser*
+
+*Lesser*, like *less*, refers to quantity, but is confined to use as an adjective before a singular noun and following an article \<the lesser crime\> or alone before a plural noun \<lesser athletes\>, thus performing a function no longer idiomatically possible with *less.* Dating from the 1200s, this formal usage allows *lesser* to act as an antonym of *greater.*
 
 Occasionally, *lessor* (= landlord) is misused for *lesser*—e.g.:
 
@@ -75,5 +81,7 @@ See **lessor**.
  - Current ratio in print (*a lesser extent* vs. *\*a less extent*): 61:1
  - Current ratio in print (*a lesser extent* vs. *\*a lessor extent*): 6,590:1
 
-**D. Adjective for Noun.** As a noun, *less* means "a smaller amount" or "something not as important." Occasionally, writers make it an adjective when it should be a noun—e.g.: "He wants business to make money and everyone to pay *less taxes* \[read *less in taxes*\]." "The New, Improved Powell," *N.Y. Times*, 13 Sept. 1995, at 14.
+## D. Adjective for Noun
+
+As a noun, *less* means "a smaller amount" or "something not as important." Occasionally, writers make it an adjective when it should be a noun—e.g.: "He wants business to make money and everyone to pay *less taxes* \[read *less in taxes*\]." "The New, Improved Powell," *N.Y. Times*, 13 Sept. 1995, at 14.
 

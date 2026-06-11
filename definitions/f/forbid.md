@@ -2,7 +2,9 @@
 
 forbid.
 
-**A. Inflected Forms: *forbid* \> *forbade* \> *forbidden*.** The past tense is *forbade* (traditionally rhyming with *glad*)—e.g.: "\[Locke\] sharply distinguished the respective spheres of Church and State and *forbade* each from meddling in the other." Clifford Orwin, "Civility," 60 *Am. Scholar* 553, 557 (1991). *Forbid* is sometimes wrongly used as a past-tense form—e.g.:
+## A. Inflected Forms: *forbid* \> *forbade* \> *forbidden*
+
+The past tense is *forbade* (traditionally rhyming with *glad*)—e.g.: "\[Locke\] sharply distinguished the respective spheres of Church and State and *forbade* each from meddling in the other." Clifford Orwin, "Civility," 60 *Am. Scholar* 553, 557 (1991). *Forbid* is sometimes wrongly used as a past-tense form—e.g.:
 
  - "Susan has dropped the restraining order that once *forbid* \[read *forbade*\] him \[from making\] any contact with her." Brian Biggane, "Fitzpatrick's Life Improving, but His Time in Goal Isn't," *Palm Beach Post*, 31 Mar. 1995, at C1.
 
@@ -40,7 +42,9 @@ Finally, *forbade* is often misspelled *\*forebade*, doubtless through an errone
  - Current ratio in print (*had forbidden* vs. *\*had forbade*): 51:1
  - Current ratio in print (*has forbidden* vs. *\*has forbade*): 158:1
 
-**B. Preposition with.** In formal contexts, *forbid* traditionally takes the preposition *to* or, less formally, *from*. H.W. Fowler stated that *forbid from doing* is unidiomatic (*FMEU1* at 186), but it is increasingly common. Yet *forbid to do* and *forbid from doing* appear frequently—e.g.:
+## B. Preposition with
+
+In formal contexts, *forbid* traditionally takes the preposition *to* or, less formally, *from*. H.W. Fowler stated that *forbid from doing* is unidiomatic (*FMEU1* at 186), but it is increasingly common. Yet *forbid to do* and *forbid from doing* appear frequently—e.g.:
 
  - "In exchange, the Government prohibits newspaper vending machines, *forbids* small stores *from selling* papers and gives the union sole right to use the public sidewalks to sell newspapers." Anthony DePalma, "Despite Gains, Press Freedom in Mexico Is Still Limited," *N.Y. Times*, 20 Nov. 1994, § 1, at 3.
 

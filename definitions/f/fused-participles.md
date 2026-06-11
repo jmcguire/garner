@@ -2,7 +2,9 @@
 
 Fused Participles .
 
-**A. In General.** Should you say *I appreciate your coming* or *I appreciate you coming*? That's the question. Literary folks tend to want *your*; everybody else tends to want *you*.
+## A. In General
+
+Should you say *I appreciate your coming* or *I appreciate you coming*? That's the question. Literary folks tend to want *your*; everybody else tends to want *you*.
 
 Subordinate clauses with the verb in the -*ing* form sometimes have the subject in the possessive case (as in *My going home made her sad*, or *Shareholders worried about the company's reorganizing*) and sometimes don't (as in *Me going home made her sad*, or *Shareholders worried about the company reorganizing*). H.W. Fowler in 1926 suggested that the latter, without a possessive, was "rapidly corrupting modern English style" (*FMEU1* at 206). He thought that a participle (functioning as a gerund) lacked a proper grammatical relationship to any preceding noun or pronoun that was not in the possessive; it was instead "fused" with it in some sense, so he gave this construction the name "fused participle," and the name has stuck.
 
@@ -48,7 +50,9 @@ Garden-variety fused participle \<I can understand him not wanting to participat
  - Current ratio in print (*appreciate you coming* vs. *appreciate your coming* in BrE): 3:1
  - Current ratio in print (*appreciate you coming* vs. *appreciate your coming* in World Englishes): 3:1
 
-**B. A Brief History.** Rather cryptically, H.W. Fowler wrote in 1926 that the phrase *fused participle* had been "invented a dozen years \[before\] for the purpose of labelling & so making recognizable & avoidable a usage considered by the inventor to be rapidly corrupting English style." (*FMEU1* at 206.) Who was this inventor? Either H.W. himself or his late brother, F.G. Fowler, who died in 1918 from tuberculosis contracted in World War I. The term was first used, it is believed, in *The King's English* (2d ed. 1908). In that book, the two brothers elaborated why they thought the fused participle "defrauds" both the gerund and the "honest participle." (*Ibid.* at 120.) The argument extends for ten pages.
+## B. A Brief History
+
+Rather cryptically, H.W. Fowler wrote in 1926 that the phrase *fused participle* had been "invented a dozen years \[before\] for the purpose of labelling & so making recognizable & avoidable a usage considered by the inventor to be rapidly corrupting English style." (*FMEU1* at 206.) Who was this inventor? Either H.W. himself or his late brother, F.G. Fowler, who died in 1918 from tuberculosis contracted in World War I. The term was first used, it is believed, in *The King's English* (2d ed. 1908). In that book, the two brothers elaborated why they thought the fused participle "defrauds" both the gerund and the "honest participle." (*Ibid.* at 120.) The argument extends for ten pages.
 
 About the time that *FMEU1* appeared in 1926, a skirmish arose over the subject between Fowler and the great Danish linguist Otto Jespersen, who marshaled voluminous historical evidence to undermine Fowler's near-absolute position (see Jespersen, "Disputed Points in English Grammar," 2 *S.P.E. Tracts* \[2 Dec. 1926\], at 811–36). It was an aggressive 25-page article with repeated slights of Fowler. Because Fowler had termed the fused participle "grammatically indefensible," Jespersen called him an "instinctive grammatical moralizer" who had "emotional objections." (*Ibid.* at 812, 835.) In answer to Jespersen, Fowler bristled: "He . . . laughs at me." (Fowler, "On -*Ing*: Professor Jespersen and ‘the Instinctive Grammatical Moraliser,' " 2 *S.P.E. Tracts* \[24 Mar. 1927\], at 856.) Fowler said the two men "do not look at problems of idiom and expression from the same point of view." (*Ibid.*) And he embraced the sobriquet "instinctive grammatical moralizer," saying: "the ability to distinguish between the right and wrong in speech does seem to me much more a matter of instinct than of history." (*Ibid.* at 857.) Ruffled by the exchange, Fowler largely withdrew as a contributor to the Society for Pure English, which had published the contentious articles. (See Jenny McMorris, *The Warden of English: The Life of H.W. Fowler* 168 \[2001\].)
 

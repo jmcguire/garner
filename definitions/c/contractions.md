@@ -2,7 +2,9 @@
 
 Contractions .
 
-**A. Generally.** Many writers, especially those who write in formal situations, feel uncomfortable with contractions. Perhaps contractions don't generally belong in extremely solemn contexts.
+## A. Generally
+
+Many writers, especially those who write in formal situations, feel uncomfortable with contractions. Perhaps contractions don't generally belong in extremely solemn contexts.
 
 But why shouldn't writers use them in all other types of writing? Some excellent writers use contractions to good effect, even in books—e.g.:
 
@@ -30,13 +32,19 @@ Contractions can be plotted on a slope from least informal to most. (1) The *-n'
 
 For wise guidance on when to use contractions—and words dispelling the idea that you should never use them—see superstitions (j).
 
-**B. Ill-Advised Forms.** While you can use contractions such as *can't*, *don't*, and *you'll* to good advantage, you may stumble if you contract recklessly. A few contractions that occur in speech don't translate well into writing because they're not instantly readable—the mind's tongue trips over them, however briefly. Examples of those to avoid (except perhaps in quoted speech) include *\*I'd've*, *\*it'd*, *\*she'd've*, *\*there're*, and *\*who're*.
+## B. Ill-Advised Forms
+
+While you can use contractions such as *can't*, *don't*, and *you'll* to good advantage, you may stumble if you contract recklessly. A few contractions that occur in speech don't translate well into writing because they're not instantly readable—the mind's tongue trips over them, however briefly. Examples of those to avoid (except perhaps in quoted speech) include *\*I'd've*, *\*it'd*, *\*she'd've*, *\*there're*, and *\*who're*.
 
 Two mistakes commonly occur with such contractions. First, the reduced *have* in several of these forms is sometimes mistaken for an *of*. (See **of (d)**.) Second, the conditional past perfect (*if I'd* \[= I had\] *known*) is sometimes mistakenly given a superfluous *-'ve* (*\*if I'd've known*)—e.g.: "If *I'd've* \[read *I'd*\] passed up on the date *he'd've* \[read, perhaps, *he'd have*\] been in like Flynn." Will Self, "A Novella in Several Live Performances," *Independent*, 7 June 2000, at 7. See **\*had have** & tenses (a).
 
 One last point. The form *\*who're* is particularly ugly because of its visual resemblance to *whore*—e.g.: "And what happens to people *who're* laid off?" Ross Gittins, "The Big News on Jobless Is How Badly It Hits the Young," *Sydney Morning Herald* (Aus.), 9 Aug. 2014, Business §, at 6.
 
-**C. Miscue with Contracted *is*.** Be careful about contracting *is* with a noun (*the President's going back to Washington*) as opposed to a pronoun (*he's going back to Washington*). A miscue commonly results because it can read at first as a possessive: "If *Baker's spitting* \[read *Baker is spitting*\] into the wind anyhow, he might as well have a little fun. . . . But *Baker's anything* \[read *Baker is anything*\] but a quietist." David Gates, Book Rev., "Paper Chase," *N.Y. Times*, 15 Apr. 2001, § 7, at 8, 9.
+## C. Miscue with Contracted *is*
 
-**D. Mispronounced Contractions.** See pronunciation (b).
+Be careful about contracting *is* with a noun (*the President's going back to Washington*) as opposed to a pronoun (*he's going back to Washington*). A miscue commonly results because it can read at first as a possessive: "If *Baker's spitting* \[read *Baker is spitting*\] into the wind anyhow, he might as well have a little fun. . . . But *Baker's anything* \[read *Baker is anything*\] but a quietist." David Gates, Book Rev., "Paper Chase," *N.Y. Times*, 15 Apr. 2001, § 7, at 8, 9.
+
+## D. Mispronounced Contractions
+
+See pronunciation (b).
 

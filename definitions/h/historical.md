@@ -2,7 +2,9 @@
 
 historical.
 
-**A. And *historic*.** *Historical*, meaning "of, relating to, or involving or occurring in history," is called on for use far more frequently. *Historic* means "historically significant" \<the Alamo is a historic building\>. An event that makes history is *historic*; momentous happenings or developments are *historic*—e.g.: "The Supreme Court's *historic* decision about whether mentally competent, dying patients and their doctors have the right to hasten death won't be known for months." "Voices: Should Doctors Be Able to Assist Terminally Ill Patients in Suicide?," *USA Today*, 10 Jan. 1997, at A12.
+## A. And *historic*
+
+*Historical*, meaning "of, relating to, or involving or occurring in history," is called on for use far more frequently. *Historic* means "historically significant" \<the Alamo is a historic building\>. An event that makes history is *historic*; momentous happenings or developments are *historic*—e.g.: "The Supreme Court's *historic* decision about whether mentally competent, dying patients and their doctors have the right to hasten death won't be known for months." "Voices: Should Doctors Be Able to Assist Terminally Ill Patients in Suicide?," *USA Today*, 10 Jan. 1997, at A12.
 
 A documented fact, event, or development—perhaps having no great importance in itself—is *historical*. E.g.: "Despite the *historical* data, some people just don't feel comfortable knowing their loan's rate can drift up 5 or 6 points." Ilyce R. Glink, "Refinancing Is Wise, Even in a Bouncy Market," *Chicago Sun-Times*, 24 Jan. 1997, at 8.
 
@@ -24,5 +26,7 @@ The far less common mistake is misusing *historical* for *historic*—e.g.: "Gar
 2. *historical* for *historic*: Stage 3
  - Current ratio in print (*historic occasion* vs. *\*historical occasion*): 3:1
 
-**B. *A historic(al)*; *\*an historic(al)*.** On the question whether to write *a* or *an historic(al)*, see **a (a)**.
+## B. *A historic(al)*; *\*an historic(al)*
+
+On the question whether to write *a* or *an historic(al)*, see **a (a)**.
 

@@ -2,7 +2,9 @@
 
 than.
 
-**A. Verb Not Repeated After (*than is*, *than has*).** Often it's unnecessary (though not ungrammatical) to repeat *be*-verbs and *have*-verbs after *than*, especially when a noun follows—e.g.:
+## A. Verb Not Repeated After (*than is*, *than has*)
+
+Often it's unnecessary (though not ungrammatical) to repeat *be*-verbs and *have*-verbs after *than*, especially when a noun follows—e.g.:
 
  - "Derby (pronounced Darby) is far more typical of English life *than is* \[read *than*\] London—in the same way that Dubuque is more typical of American life than New York City." Ann Miller Jordan, "Derby Filled with History, Charm—and Ghosts," *Ft. Worth Star-Telegram*, 26 Oct. 1997, at 1.
 
@@ -12,11 +14,15 @@ than.
 
 See comparatives and superlatives (c).
 
-**B. For *then*.** This error is so elementary that you might fairly wonder whether it is merely a lapse in proofreading. But it occurs with some frequency—e.g.: "Mr. Bennett did wake up several times, hoping to hear good news, if not about himself, *than* \[read *then*\] at least about the two stars of the film, Nigel Hawthorne, nominated for best actor, or Helen Mirren, nominated for best actress." Sarah Lyall, "For Alan Bennett, Home Is Where He's Heartened," *N.Y. Times*, 19 Oct. 1995, at B3. This error is extremely common, perhaps because the two words are almost homophones in some dialects of AmE. In any given instance, though, the error might be typographical. For the opposite error, see **then (b)**.
+## B. For *then*
+
+This error is so elementary that you might fairly wonder whether it is merely a lapse in proofreading. But it occurs with some frequency—e.g.: "Mr. Bennett did wake up several times, hoping to hear good news, if not about himself, *than* \[read *then*\] at least about the two stars of the film, Nigel Hawthorne, nominated for best actor, or Helen Mirren, nominated for best actress." Sarah Lyall, "For Alan Bennett, Home Is Where He's Heartened," *N.Y. Times*, 19 Oct. 1995, at B3. This error is extremely common, perhaps because the two words are almost homophones in some dialects of AmE. In any given instance, though, the error might be typographical. For the opposite error, see **then (b)**.
 
 **Language-Change Index:** *than* misused for *then*: Stage 1
 
-**C. Case of Pronoun After: *than me* or *than I*?** Traditional grammarians have considered *than* a conjunction, not a preposition—hence *He is taller than I (am)*. On this theory, the pronoun after *than* gets its case from its function in the completed second clause of the sentence—though, typically, the completing words of the second clause are merely implied. See understood words.
+## C. Case of Pronoun After: *than me* or *than I*?
+
+Traditional grammarians have considered *than* a conjunction, not a preposition—hence *He is taller than I (am)*. On this theory, the pronoun after *than* gets its case from its function in the completed second clause of the sentence—though, typically, the completing words of the second clause are merely implied. See understood words.
 
 That view has had its detractors, including Eric Partridge, who preferred the objective case: *You are a much greater loser than me* (*U&A* at 330). Even William Safire plumps for the objective case: "The hardline Conjunctionites have been fighting this battle a long time. Give them credit: they had to go up against the poet Milton's treatment of *than* as a preposition—*than whom* in ‘Paradise Lost'—and against Shakespeare's ‘a man no mightier than thyself or me' in ‘Julius Caesar.' " Safire, "Than Me?," *N.Y. Times*, 16 Apr. 1995, § 7, at 16. See (d).
 
@@ -40,13 +46,19 @@ What about "My mother likes the dog more than me?" vs. "My mother likes the dog 
  - Current ratio in print (*taller than he* vs. *\*taller than him*): 1.3:1
  - Current ratio in print (*better than I* vs. *\*better than me*): 4:1
 
-**D. *Than whom*.** In the awkward and (fortunately) now-rare inverted construction (e.g., *T.S. Eliot, than whom few critics could be considered better*), we might expect the nominative *who* to be the preferred pronoun. *Than* is treated as a conjunction in formal usage, not a preposition (see (c)), so the preferable relative pronoun in formal writing would seem to be the nominative *who* rather than the objective *whom*. But the anomalous phrasing has been traditional since the latter part of the 1500s. The *OED* states that *than whom* "is universally recognized instead of *than who*."
+## D. *Than whom*
+
+In the awkward and (fortunately) now-rare inverted construction (e.g., *T.S. Eliot, than whom few critics could be considered better*), we might expect the nominative *who* to be the preferred pronoun. *Than* is treated as a conjunction in formal usage, not a preposition (see (c)), so the preferable relative pronoun in formal writing would seem to be the nominative *who* rather than the objective *whom*. But the anomalous phrasing has been traditional since the latter part of the 1500s. The *OED* states that *than whom* "is universally recognized instead of *than who*."
 
 A late-19th-century American rhetorician objected to the phrase: "*Than whom*, as in the sentence, ‘Wilfred, than whom no truer friend to me exists, counsels this course,' is an anomalous expression (*than* being treated as if it were a preposition with an object, whereas it is a conjunction) which it is better to avoid. The high example of Milton has given currency to the phrase." John F. Genung, *Outlines of Rhetoric* 57 (1893). But most 20th-century authorities accepted it. One of them, G.H. Vallins, explained that "usage has triumphed over ‘grammar' and the ordinary speaker or writer over the pedant." G.H. Vallins, *Good English: How to Write It* 85 (1951).
 
 Still, very few "ordinary" speakers or writers ever use the phrase, which is essentially a literary idiom. It's hardly surprising to find it in the writings of Hazlitt—e.g.: "I once knew a very ingenious man, *than whom*, to take him in the way of common chit-chat or fireside gossip, no one could be more entertaining or rational." William Hazlitt, "On the Conversation of Authors" (1820), in *A Reader for Writers* 275, 291 (William Targ ed., 1951). But it would be surprising to find it in an informal essay written in the 21st century.
 
-**E. *Prefer . . . than.*** See **prefer**.
+## E. *Prefer . . . than.*
 
-**F. *Different than.*** See **different (a)**.
+See **prefer**.
+
+## F. *Different than.*
+
+See **different (a)**.
 

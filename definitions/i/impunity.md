@@ -2,7 +2,9 @@
 
 impunity.
 
-**A. Meaning and Use.** This word means "free from punishment or other adverse consequences"; it typically appears in the idiom *with impunity* \<she can fire her predecessor's staff with impunity\>.
+## A. Meaning and Use
+
+This word means "free from punishment or other adverse consequences"; it typically appears in the idiom *with impunity* \<she can fire her predecessor's staff with impunity\>.
 
 Sometimes this set phrase, *with impunity*, gets mangled into *\*without impunity* (which seems to suggest that punishment or adverse consequences would follow, but that's never the intended sense). This error appears most frequently in sportswriting—e.g.:
 
@@ -19,7 +21,9 @@ For more on this word, see **immunity**.
  - *\*without impunity* for *with impunity*: Stage 1
  - Current ratio in print (*with impunity* vs. *\*without impunity*): 176:1
 
-**B. *\*Impugnity*.** Some writers apparently confuse the word *impunity* as having some association with *impugn* (= to assail the integrity of \[a person, a person's motives, etc.\])—e.g.:
+## B. *\*Impugnity*
+
+Some writers apparently confuse the word *impunity* as having some association with *impugn* (= to assail the integrity of \[a person, a person's motives, etc.\])—e.g.:
 
  - "Did they mean to threaten and compromise the security of the United States so as to pursue with *impugnity* \[read *impunity*\] their designs in Berlin and elsewhere?" Terence Ball, *Idioms of Inquiry* 105 (1987).
 

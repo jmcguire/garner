@@ -2,7 +2,9 @@
 
 dastard.
 
-**A. Confusion with *bastard*.** *Dastard* (= coward) is commonly muddled because of the sound association with its harsher rhyme, *bastard*. Although H.W. Fowler insisted that *dastard* should be reserved for someone who avoids all personal risk (*FMEU1* at 103), modern American writers tend to use it as a printable euphemism for the more widely objectionable epithet—e.g.:
+## A. Confusion with *bastard*
+
+*Dastard* (= coward) is commonly muddled because of the sound association with its harsher rhyme, *bastard*. Although H.W. Fowler insisted that *dastard* should be reserved for someone who avoids all personal risk (*FMEU1* at 103), modern American writers tend to use it as a printable euphemism for the more widely objectionable epithet—e.g.:
 
  - "Samuel Ramey is the *dastard* of the piece, the treacherous, lecherous, murderous Assur." Herbert Glass, "On the Record: Cheryl Studer Scores as Semiramide," *L.A. Times*, 22 May 1994, at 51.
 
@@ -16,7 +18,9 @@ Recent American dictionaries record one meaning of *dastard* as being "a person 
 
 **Language-Change Index:** *dastard* in the broad sense "a despicable person": Stage 5
 
-**B. Corresponding Adjective: *dastardly*.** Like the noun form, the adjective *dastardly* has been subjected to slipshod extension. Although most dictionaries define it merely as "cowardly," it is now often used as if it meant "sneaky and underhanded; treacherous"—e.g.:
+## B. Corresponding Adjective: *dastardly*
+
+Like the noun form, the adjective *dastardly* has been subjected to slipshod extension. Although most dictionaries define it merely as "cowardly," it is now often used as if it meant "sneaky and underhanded; treacherous"—e.g.:
 
  - "Like her aunts and a long line of female relatives before her, she's a witch. A white one, which means that no matter how much havoc Sabrina may create until she gets a handle on her powers, she's not likely to use them for anything more *dastardly* than cute boy-trappage." Claire Bickley, "Sabrina Simply Enchanting," *Toronto Sun*, 26 Sept. 1996, at 65.
 

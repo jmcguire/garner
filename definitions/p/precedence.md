@@ -2,13 +2,19 @@
 
 precedence.
 
-**A. And *\*precedency.*** Today *precedence* is the standard term. *\*Precedency*, a needless variant, was common through the first half of the 1800s.
+## A. And *\*precedency.*
+
+Today *precedence* is the standard term. *\*Precedency*, a needless variant, was common through the first half of the 1800s.
 
  - Current ratio in print (*precedence* vs. *\*precedency*): 112:1
 
-**B. Pronunciation.** Although the traditional pronunciation of *precedence* was /pri-**seed**-әnts/, today the standard pronunciation across World Englishes is /**pres**-i-dәnts/. Hence the word is now typically a homophone of *precedents.*
+## B. Pronunciation
 
-**C. And *precedent*, n.** *Precedence* (= priority) and *precedent* (= \[1\] an established convention; or \[2\] a model) are sometimes misused for each other. For example, *precedent* sometimes displaces *precedence* in the phrase *take precedence*—e.g.: "Criminal cases, because of speedy-trial requirements, take *precedent* \[read *precedence*\] over civil cases." Stuart Eskenazi, "Texas Files $4 Billion Tobacco Lawsuit," *Austin Am.-Statesman*, 29 Mar. 1996, at A1, A10. Misusages of this type are extremely common among journalists not accustomed to writing about the law.
+Although the traditional pronunciation of *precedence* was /pri-**seed**-әnts/, today the standard pronunciation across World Englishes is /**pres**-i-dәnts/. Hence the word is now typically a homophone of *precedents.*
+
+## C. And *precedent*, n
+
+*Precedence* (= priority) and *precedent* (= \[1\] an established convention; or \[2\] a model) are sometimes misused for each other. For example, *precedent* sometimes displaces *precedence* in the phrase *take precedence*—e.g.: "Criminal cases, because of speedy-trial requirements, take *precedent* \[read *precedence*\] over civil cases." Stuart Eskenazi, "Texas Files $4 Billion Tobacco Lawsuit," *Austin Am.-Statesman*, 29 Mar. 1996, at A1, A10. Misusages of this type are extremely common among journalists not accustomed to writing about the law.
 
 Likewise, *precedence* sometimes ousts *precedent* in the phrase *set a precedent*—e.g.:
 

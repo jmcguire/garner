@@ -2,9 +2,13 @@
 
 thus.
 
-**A. General Senses.** A formal adverb that dates from Old English, *thus* has four meanings: (1) in this or that manner \<one does it thus\>; (2) so \<thus far\>; (3) hence, consequently; and (4) as an example. In senses 3 and 4, *thus*, when it begins a clause, should usually have a comma after it.
+## A. General Senses
 
-**B. *\*Thusly*.** *Thus* itself being an adverb, it needs no *-ly*. Although the nonword *\*thusly* has appeared in otherwise respectable writing since it emerged in the late 1800s, it remains a lapse—e.g.:
+A formal adverb that dates from Old English, *thus* has four meanings: (1) in this or that manner \<one does it thus\>; (2) so \<thus far\>; (3) hence, consequently; and (4) as an example. In senses 3 and 4, *thus*, when it begins a clause, should usually have a comma after it.
+
+## B. *\*Thusly*
+
+*Thus* itself being an adverb, it needs no *-ly*. Although the nonword *\*thusly* has appeared in otherwise respectable writing since it emerged in the late 1800s, it remains a lapse—e.g.:
 
  - "Jackson, a counterpuncher by nature, responded *thusly* \[read *thus*\] yesterday to such thoughts: ‘His people may think this is a circus, but . . . .' " Ron Borges, "Jackson Has a Rallying Cry vs. Lewis: ‘No Surrender,' " *Boston Globe*, 5 May 1994, at 79.
 

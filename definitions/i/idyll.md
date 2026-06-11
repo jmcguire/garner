@@ -2,11 +2,15 @@
 
 idyll.
 
-**A. Spelling and Pronunciation.** *Idyll* (= \[1\] a poem or prose composition depicting rustic simplicity; or \[2\] a narrative, esp. in verse, resembling a brief epic) is the standard spelling. *\*Idyl*, the predominant spelling during the 1800s, is now but a variant. Either way, the word is pronounced /**ī**-dәl/, like *idle*, in AmE; and /**id**-әl/ in BrE.
+## A. Spelling and Pronunciation
+
+*Idyll* (= \[1\] a poem or prose composition depicting rustic simplicity; or \[2\] a narrative, esp. in verse, resembling a brief epic) is the standard spelling. *\*Idyl*, the predominant spelling during the 1800s, is now but a variant. Either way, the word is pronounced /**ī**-dәl/, like *idle*, in AmE; and /**id**-әl/ in BrE.
 
  - Current ratio in print (*idyll* vs. *\*idyl*): 11:1
 
-**B. Adjective Misused.** *Idyllic* = of, belonging to, or resembling an idyll; full of pastoral charm or rustic picturesqueness. E.g.: "But after a pretend visit to Antarctica, it's easy in Christchurch to decide to spend most of your time outdoors, especially on an *idyllic* spring day in November." Millie Ball, "Take a Boat Ride to Christchurch, New Zealand," *Times-Picayune* (New Orleans), 26 Jan. 2003, Travel §, at 1. The word is often misused as if it meant *ideal*—e.g.:
+## B. Adjective Misused
+
+*Idyllic* = of, belonging to, or resembling an idyll; full of pastoral charm or rustic picturesqueness. E.g.: "But after a pretend visit to Antarctica, it's easy in Christchurch to decide to spend most of your time outdoors, especially on an *idyllic* spring day in November." Millie Ball, "Take a Boat Ride to Christchurch, New Zealand," *Times-Picayune* (New Orleans), 26 Jan. 2003, Travel §, at 1. The word is often misused as if it meant *ideal*—e.g.:
 
  - "The setting couldn't be more *idyllic* \[read *ideal*\] for Marcus Allen. It's Super Bowl week in his hometown of San Diego." Randy Covitz, "Allen Would Feel Right at Home If He Makes It into Hall of Fame," *Kansas City Star*, 25 Jan. 2003, Sports §, at 1.
 

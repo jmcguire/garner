@@ -2,7 +2,9 @@
 
 blameworthy.
 
-**A. And *culpable*.** Though the two words are etymologically equivalent, in 20th- and 21st-century usage the Anglo-Saxon *blameworthy* has tended to be used in noncriminal contexts, the Latinate *culpable* in criminal contexts. Hence *culpable* connotes a greater level of wrongdoing. But it's a wispy distinction—e.g.:
+## A. And *culpable*
+
+Though the two words are etymologically equivalent, in 20th- and 21st-century usage the Anglo-Saxon *blameworthy* has tended to be used in noncriminal contexts, the Latinate *culpable* in criminal contexts. Hence *culpable* connotes a greater level of wrongdoing. But it's a wispy distinction—e.g.:
 
  - "Are any of them *culpable* and at risk of indictment?" Andrew E. Serwer, "The Fall of a Buffett Wannabe," *Fortune*, 28 Oct. 1996, at 30.
 
@@ -10,7 +12,9 @@ blameworthy.
 
 In all phases of Modern English, the Latinate *culpable* has always appeared more frequently than the Anglo-Saxon *blameworthy*. See **culpable**.
 
-**B. And *blamable*; *blameful*.** *Blameworthy* is the usual word meaning "deserving blame." *Blamable* (so spelled in AmE, but *blameable* in BrE) is a needless variant.
+## B. And *blamable*; *blameful*
+
+*Blameworthy* is the usual word meaning "deserving blame." *Blamable* (so spelled in AmE, but *blameable* in BrE) is a needless variant.
 
 *Blameful* (= imputing blame; blaming) is almost self-explanatory. E.g.: "The Sacramento City Teachers Association points a *blameful* finger at the district." Deborah Anderluh, "City District, Teachers Still at Loggerheads," *Sacramento Bee*, 8 Mar. 1996, at B1. The word is occasionally misused for *blameworthy*—e.g.:
 

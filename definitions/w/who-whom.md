@@ -2,7 +2,9 @@
 
 who; whom.
 
-**A. Generally.** Edward Sapir, the philosopher of language, prophesied that "within a couple of hundred years from to-day not even the most learned jurist will be saying ‘Whom did you see?' By that time the *whom* will be as delightfully archaic as the Elizabethan *his* for *its*. No logical or historical argument will avail to save this hapless *whom*." *Language* 156–57 (1921; repr. 1949). A safer bet might be that no one will be spelling *to-day* with a hyphen. In any event, writers in the 21st century ought to understand how the words *who* and *whom* are correctly used.
+## A. Generally
+
+Edward Sapir, the philosopher of language, prophesied that "within a couple of hundred years from to-day not even the most learned jurist will be saying ‘Whom did you see?' By that time the *whom* will be as delightfully archaic as the Elizabethan *his* for *its*. No logical or historical argument will avail to save this hapless *whom*." *Language* 156–57 (1921; repr. 1949). A safer bet might be that no one will be spelling *to-day* with a hyphen. In any event, writers in the 21st century ought to understand how the words *who* and *whom* are correctly used.
 
 *Who*, the nominative pronoun, is used (1) as the subject of a verb \<it was Kate who rescued the dog\>; and (2) as the complement of a linking verb, i.e., as a predicate nominative \<they know who you are\>. *Whom*, the objective pronoun, is used (1) as the object of a verb \<whom did you see?\>; and (2) as the object of a preposition \<the person to whom we're indebted\>.
 
@@ -18,7 +20,9 @@ The correct uses of *who* are sometimes tricky. But if the pronoun acts as the s
 
 While the subject of a finite verb is nominative (*I know she is good*), the subject of an infinitive is in the objective case (*I know her to be good*). The same is true of *who* and *whom*. But that brings us to the next section.
 
-**B. The Objective *who*.** *Whom* is always the object of a verb, the object of a preposition, or the subject of an infinitive. E.g.: "Do all you can to develop your intuition—this will help you to know when to act and when to wait, *whom* to be cautious about and *whom* to trust." Susannah Rohland, "Today's Birthday," *Wash. Times*, 9 July 1997, at C16. If a horoscope writer like Rohland can get it right, then you'd think that other journalists would as well. But often they don't, perhaps because they consider the word stuffy—e.g.:
+## B. The Objective *who*
+
+*Whom* is always the object of a verb, the object of a preposition, or the subject of an infinitive. E.g.: "Do all you can to develop your intuition—this will help you to know when to act and when to wait, *whom* to be cautious about and *whom* to trust." Susannah Rohland, "Today's Birthday," *Wash. Times*, 9 July 1997, at C16. If a horoscope writer like Rohland can get it right, then you'd think that other journalists would as well. But often they don't, perhaps because they consider the word stuffy—e.g.:
 
  - "And he \[nominee Stephen G. Breyer\] promised, following the admonition of the late Justice Arthur Goldberg, *who* \[read *whom*\] he served as a law clerk 30 years ago, to do his best to avoid footnotes." Ruth Marcus, "Judge Breyer Gets Day in Rose Garden," *Wash. Post*, 17 May 1994, at A8.
 
@@ -44,7 +48,9 @@ In the examples just listed, *who* is defensible as a casualism. But the objecti
 2. *who* as an object following a preposition: Stage 2
  - Current ratio in print (*one of whom is* vs. *\*one of who is*): 152:1
 
-**C. The Mistaken Nominative *whom*.** Among the toughest contexts in which to get the pronouns right are those involving linking verbs. We say, for example, *who it is* for the same reason we say *This is he*, but some very good writers have nodded. In any event, *whom* shouldn't be used as the subject of any finite verb, despite this galaxy of occurrences in reputable sources:
+## C. The Mistaken Nominative *whom*
+
+Among the toughest contexts in which to get the pronouns right are those involving linking verbs. We say, for example, *who it is* for the same reason we say *This is he*, but some very good writers have nodded. In any event, *whom* shouldn't be used as the subject of any finite verb, despite this galaxy of occurrences in reputable sources:
 
  - "The distinguished political and social philosopher Russell Kirk used the word ‘energumen' to describe . . . *whom* \[read *who*\] it is I agitate against." William F. Buckley, *The Jeweler's Eye* 284 (1969). (*Who* is needed as the inverted subject of *is*: *it is who*, as in *it is he*.)
 
@@ -78,7 +84,9 @@ Perhaps the most sensible approach was the one taken by Robert C. Pooley in 1974
 
 **Language-Change Index:** *whom* misused as a subject: Stage 1
 
-**D. *Who* in Reference to Nonhumans (i.e., for *that* or *which*).** *Who* is the relative pronoun for human beings (though *that* is also acceptable); *that* and *which* are the relative pronouns for anything other than humans, including entities created by humans. But writers too often forget this elementary point—e.g.:
+## D. *Who* in Reference to Nonhumans (i.e., for *that* or *which*)
+
+*Who* is the relative pronoun for human beings (though *that* is also acceptable); *that* and *which* are the relative pronouns for anything other than humans, including entities created by humans. But writers too often forget this elementary point—e.g.:
 
  - "Many companies, I believe, *who* \[read *that*\] are busy buying new businesses and bringing in new management teams haven't even tested the outside edge of their profitability." Mark H. McCormack, *What They Don't Teach You at Harvard Business School* 203 (1984).
 
@@ -95,7 +103,9 @@ But animals with names most naturally take *who* \<Lassie, who starred in a TV s
  - *who* in reference to nonhumans: Stage 2
  - Current ratio in print (*companies that* vs. *\*companies who*): 8:1
 
-**E. *Which* for *who* or *whom*.** Some inattentive writers use *which* in referring to human beings—e.g.:
+## E. *Which* for *who* or *whom*
+
+Some inattentive writers use *which* in referring to human beings—e.g.:
 
  - "The bakery employs 11 people, two of *which* \[read *whom*\] are English (non-Amish) women, and one who is a salesman." Faith Whitcomb, "Bakery Relies on Generations of Amish Recipes," *Plain Dealer* (Cleveland), 13 June 1995, at 4.
 
@@ -109,5 +119,7 @@ See **which (b)**.
 
 *That*, of course, is permissible when referring to humans: *the people that were present* or *the people who were present*. See **that (b)**.
 
-**F. Placement of the Relative Pronoun.** See remote relatives.
+## F. Placement of the Relative Pronoun
+
+See remote relatives.
 

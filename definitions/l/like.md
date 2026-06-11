@@ -2,7 +2,9 @@
 
 like.
 
-**A. As a Preposition.** The object of a preposition should be in the objective case—you say *They are very much like us*, not *\*They are very much like we*. When the second-person pronoun is used, no problem arises: "I, like you, believe that Mozart was the greatest composer of all time." But apart from the second person, writers often get confused on this point, as with first-person pronouns—e.g.:
+## A. As a Preposition
+
+The object of a preposition should be in the objective case—you say *They are very much like us*, not *\*They are very much like we*. When the second-person pronoun is used, no problem arises: "I, like you, believe that Mozart was the greatest composer of all time." But apart from the second person, writers often get confused on this point, as with first-person pronouns—e.g.:
 
  - "She, like *I* \[read *me*\], instantly fell in love with his beautiful face, huge blue eyes, unusually soft fur, and gentle disposition." Patricia Livingston, "New Cat Forced Out but Finds Nice Home," *Times-Picayune* (New Orleans), 3 Feb. 2000, at B11. (A suggested improvement: *Like me, she instantly fell . . . .*)
 
@@ -25,7 +27,9 @@ As all the parenthetical revisions suggest, the most natural solution is to open
 Prepositional *like* introducing nominative pronoun: Stage 1
  - Current ratio in print (*like you and me* vs. *\*like you and I*): 3:1
 
-**B. As a Conjunction.** In traditional usage, *like* is a preposition that governs nouns and noun phrases, not a conjunction that governs verbs or clauses. Its function is adjectival, not adverbial. Hence one does not write, properly, *\*The story ended like it began*, but *The story ended as it began*. If we change the verbs to nouns, *like* is correct: "The story's ending was like its beginning." Frequently, therefore, *like* needs to be replaced by the proper conjunction *as* (or *as if*)—e.g.:
+## B. As a Conjunction
+
+In traditional usage, *like* is a preposition that governs nouns and noun phrases, not a conjunction that governs verbs or clauses. Its function is adjectival, not adverbial. Hence one does not write, properly, *\*The story ended like it began*, but *The story ended as it began*. If we change the verbs to nouns, *like* is correct: "The story's ending was like its beginning." Frequently, therefore, *like* needs to be replaced by the proper conjunction *as* (or *as if*)—e.g.:
 
  - "It looks *like* \[read *as if*\] the sales clerks are ahead of the hitters so far." Dan O'Neill, "Morning Briefing," *St. Louis Post-Dispatch*, 16 Mar. 1995, at D2.
 
@@ -57,13 +61,19 @@ Although this use of *like* can no longer be considered an outright solecism, as
 2. *like* for *as if* or *as though*: Stage 4
  - Current ratio in print (*acts as if he* vs. *acts like he*): 1:1.3
 
-**C. *As* for *like*.** This is a form of hypercorrection—trying so hard to avoid error that you end up falling into an opposite error. Ernest Gowers saw the problem: "A fashion seems to be growing, even among some good writers, to prefer *as* to *like* not only, rightly, as a conjunction, but also, ill-advisedly, as a prepositional adjective" (*FMEU2* at 336). E.g.: "*As* \[read *Like*\] most people, I have been fortunate to have many mentors in life." John B. Simon, "Seymour F. Simon," *CBA Record*, Oct. 1993, at 14. Cf. **in common with**.
+## C. *As* for *like*
+
+This is a form of hypercorrection—trying so hard to avoid error that you end up falling into an opposite error. Ernest Gowers saw the problem: "A fashion seems to be growing, even among some good writers, to prefer *as* to *like* not only, rightly, as a conjunction, but also, ill-advisedly, as a prepositional adjective" (*FMEU2* at 336). E.g.: "*As* \[read *Like*\] most people, I have been fortunate to have many mentors in life." John B. Simon, "Seymour F. Simon," *CBA Record*, Oct. 1993, at 14. Cf. **in common with**.
 
 **Language-Change Index:** *as* misused for the preposition *like* \<as you, I agree with that\>: Stage 2
 
-**D. Overused Generally.** Like any other word, *like* can entangle a sentence if used indiscriminately—e.g.: "I have been buying most of my books from Barnes & Noble, whose two new superstores have come down on my old neighborhood shop *like* the Assyrians who came down *like* the wolf on the fold." Victor Navasky, "Buying Books: Theory vs. Practice," *N.Y. Times*, 20 June 1996, at A13. The two *like* phrases are especially jarring because they come at the end of an already involved sentence.
+## D. Overused Generally
 
-**E. As a Vogue Word and Verbal Tic.** Since the advent of "Valley Girl talk" in the 1980s, *like* has colonized ever-greater swaths of everyday meaning, especially in middle-class speech. (See class distinctions.) Its semantic versatility makes it feel comfortable to those who use it—often as an in-group marker. This versatility, which persistently feels newfangled, makes the word irksome to snoots and other traditionalists who are annoyed by its spread. (See **snoot**.) Apart from its conventional senses, *like* has taken on at least five new ones.
+Like any other word, *like* can entangle a sentence if used indiscriminately—e.g.: "I have been buying most of my books from Barnes & Noble, whose two new superstores have come down on my old neighborhood shop *like* the Assyrians who came down *like* the wolf on the fold." Victor Navasky, "Buying Books: Theory vs. Practice," *N.Y. Times*, 20 June 1996, at A13. The two *like* phrases are especially jarring because they come at the end of an already involved sentence.
+
+## E. As a Vogue Word and Verbal Tic
+
+Since the advent of "Valley Girl talk" in the 1980s, *like* has colonized ever-greater swaths of everyday meaning, especially in middle-class speech. (See class distinctions.) Its semantic versatility makes it feel comfortable to those who use it—often as an in-group marker. This versatility, which persistently feels newfangled, makes the word irksome to snoots and other traditionalists who are annoyed by its spread. (See **snoot**.) Apart from its conventional senses, *like* has taken on at least five new ones.
 
 (1) **The quotative *like*.** This use of the word recounts statements, usually spoken as opposed to written. E.g.: "I was *like*, ‘You stop right there\!' "/ "And then I was *like*, ‘You aren't going in there?' And he was *like*, ‘Yes, I am\!' "
 
@@ -89,9 +99,13 @@ Since the 1980s, *be like* (the quotative *like*) has also been a low casualism 
 
 **Language-Change Index:** *like* as a spoken space-filler \<I was, like, ready an hour ago\>: Stage 2
 
-**F. For *such as*.** As a preposition, *like* often takes on the sense "similar to" or "resembling" \<I want something like a Degas print\>. This use often verges into the sense "as for example" \<I enjoy the work of painters like Degas\>. Does a reference like that one—such as that one—exclude or include Degas? Do you enjoy the work of painters who resemble Degas but not that of Degas himself? (This is the pedantic position.) Or do you enjoy the work of Degas and others like him? (This is the more usual relaxed position.)
+## F. For *such as*
 
-**G. *The likes of*.** Is *the likes of* (= people or things of the same type as) disparaging? The linguist Dwight Bolinger calls the phrase, which didn't become widespread till the 1800s, "dysphemistic" (*Language: The Loaded Weapon* 122 \[1980\]). Sometimes it's disparaging, but not always. In fact, it's more commonly positive than negative:
+As a preposition, *like* often takes on the sense "similar to" or "resembling" \<I want something like a Degas print\>. This use often verges into the sense "as for example" \<I enjoy the work of painters like Degas\>. Does a reference like that one—such as that one—exclude or include Degas? Do you enjoy the work of painters who resemble Degas but not that of Degas himself? (This is the pedantic position.) Or do you enjoy the work of Degas and others like him? (This is the more usual relaxed position.)
+
+## G. *The likes of*
+
+Is *the likes of* (= people or things of the same type as) disparaging? The linguist Dwight Bolinger calls the phrase, which didn't become widespread till the 1800s, "dysphemistic" (*Language: The Loaded Weapon* 122 \[1980\]). Sometimes it's disparaging, but not always. In fact, it's more commonly positive than negative:
 
  - **Positive:** "We may be able to ring in the new year with a fireworks show *the likes of* which nobody's seen for a century." David Kipen, "A Literary Hodgepodge," *S.F. Chron.*, 24 Dec. 2000, at 35.
 
@@ -113,5 +127,7 @@ But variations of the phrase, *so-and-so and his* \[or *her*\] *like* and *somet
 
 See **ilk (b)**.
 
-**H. Faulty Comparisons with *like*.** See illogic (b).
+## H. Faulty Comparisons with *like*
+
+See illogic (b).
 

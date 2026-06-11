@@ -2,7 +2,9 @@
 
 among.
 
-**A. And *amongst*.** Most forms ending in *-st*, such as *whilst* and *amidst*, are archaisms in AmE. *Amongst* is no exception: in AmE it is pretentious at best. E.g.: "Imagine a city where the electricity and water companies are owned by the local authorities and, thanks to progressive planning and construction, prices are *amongst* \[read *among*\] the lowest in the country." Michael Dibdin, "Seattle Is the America Thatcher Ignored," *Seattle Times*, 17 Jan. 1997, at B5.
+## A. And *amongst*
+
+Most forms ending in *-st*, such as *whilst* and *amidst*, are archaisms in AmE. *Amongst* is no exception: in AmE it is pretentious at best. E.g.: "Imagine a city where the electricity and water companies are owned by the local authorities and, thanks to progressive planning and construction, prices are *amongst* \[read *among*\] the lowest in the country." Michael Dibdin, "Seattle Is the America Thatcher Ignored," *Seattle Times*, 17 Jan. 1997, at B5.
 
 *Amongst* is more common and more tolerable in BrE, where it doesn't suggest affectation—e.g.:
 
@@ -16,7 +18,9 @@ Cf. **amid (b)**; **whilst**.
 
  - Current ratio in print (*among* vs. *amongst* in BrE): 9:1
 
-**B. With Mass Nouns.** Generally, *among* is used with plural nouns and *amid* with mass nouns. Hence one is *among* friends but *amid* a crowd. (See count nouns and mass nouns & **amid**.) *Among* is occasionally misused for other prepositions—e.g.:
+## B. With Mass Nouns
+
+Generally, *among* is used with plural nouns and *amid* with mass nouns. Hence one is *among* friends but *amid* a crowd. (See count nouns and mass nouns & **amid**.) *Among* is occasionally misused for other prepositions—e.g.:
 
  - "Incompetence in writing English is widespread *among* \[read *in* or *within*\] the legal profession." Robert W. Benson, "The End of Legalese," 13 *N.Y.U. Rev. L. & Soc. Change* 519, 570 (1984–1985).
 
@@ -26,5 +30,7 @@ Cf. **amid (b)**; **whilst**.
 
 **Language-Change Index:** *among* used with a mass noun: Stage 2
 
-**C. And *between*.** See **between (a)**.
+## C. And *between*
+
+See **between (a)**.
 

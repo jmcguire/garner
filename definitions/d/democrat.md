@@ -2,9 +2,13 @@
 
 Democrat.
 
-**A. And *democrat*.** The capital *D* distinguishes the sense "a member of the Democratic Party" from the broader sense, which is denoted by a lowercase *d*.
+## A. And *democrat*
 
-**B. *Democratic*; *Democrat*, adj.** During much of the late 20th century, Republicans were fairly successful in denigrating the noun *Democrat*, which often appeared in such phrases as *tax-and-spend Democrats* and *big-spending Democrats*. Interestingly, though, the adjective *Democratic* didn't undergo this depreciation in meaning. In the 1980s and 1990s, therefore, some Republicans preferred to refer to the *\*Democrat Convention* as opposed to the *Democratic Convention*. The former suggests something like a drunken party, whereas the latter suggests dignified proceedings.
+The capital *D* distinguishes the sense "a member of the Democratic Party" from the broader sense, which is denoted by a lowercase *d*.
+
+## B. *Democratic*; *Democrat*, adj
+
+During much of the late 20th century, Republicans were fairly successful in denigrating the noun *Democrat*, which often appeared in such phrases as *tax-and-spend Democrats* and *big-spending Democrats*. Interestingly, though, the adjective *Democratic* didn't undergo this depreciation in meaning. In the 1980s and 1990s, therefore, some Republicans preferred to refer to the *\*Democrat Convention* as opposed to the *Democratic Convention*. The former suggests something like a drunken party, whereas the latter suggests dignified proceedings.
 
 There's a history. Since at least the 1950s, Republicans have been trying to deny Democrats the positive associations of the adjective *democratic*. Hence Senator Joseph McCarthy regularly referred to the *\*Democrat Party*, an epithet that the Republican National Committee officially endorsed in 1956 and that virtually every Republican National Convention speaker used that year. ("It's in common usage now, at least among Republicans," the committee's public-relations director told *The New York Times*. Anthony Lewis, "G.O.P. Drops ‘ic' in Democratic But Rivals Say They'll Survive," *N.Y. Times*, 30 Aug. 1956, at 1.)
 

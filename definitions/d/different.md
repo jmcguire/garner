@@ -2,7 +2,9 @@
 
 different.
 
-**A. *Different from*; *different than*; *different to*.** *Different than* is often considered inferior to *different from.* With the corresponding verb, for example, we say *differ from*, not *\*differ than*. The problem is that *than* should follow a comparative adjective (*larger than*, *sooner than*, etc.), and *different* is not comparative—though, to be sure, it is a word of contrast. *Than* implies a comparison, i.e., a matter of degree; but differences are ordinarily qualitative, not quantitative, and the adjective *different* is not strictly comparative. Hence writers should generally prefer *different from*—e.g.: "He performed to everything from jazz to the bossa nova to Brahms and Scarlatti, establishing a style very *different from* that of Bill (Bojangles) Robinson, Fred Astaire and the Nicholas Brothers." "Paul Draper," *Dayton Daily News*, 21 Sept. 1996, at B3.
+## A. *Different from*; *different than*; *different to*
+
+*Different than* is often considered inferior to *different from.* With the corresponding verb, for example, we say *differ from*, not *\*differ than*. The problem is that *than* should follow a comparative adjective (*larger than*, *sooner than*, etc.), and *different* is not comparative—though, to be sure, it is a word of contrast. *Than* implies a comparison, i.e., a matter of degree; but differences are ordinarily qualitative, not quantitative, and the adjective *different* is not strictly comparative. Hence writers should generally prefer *different from*—e.g.: "He performed to everything from jazz to the bossa nova to Brahms and Scarlatti, establishing a style very *different from* that of Bill (Bojangles) Robinson, Fred Astaire and the Nicholas Brothers." "Paul Draper," *Dayton Daily News*, 21 Sept. 1996, at B3.
 
 Still, it is indisputable that *different than* is sometimes idiomatic, and even useful, since *different from* often cannot be substituted for it—e.g.: "This designer's fashions are typically quite *different* for men *than* for women."
 
@@ -27,7 +29,9 @@ When *from* nicely fills the slot of *than*, however, that is the idiom to be pr
  - *different than* for *different from*: Stage 3
  - Current ratio in print (*different from* vs. *different than*): 8:1
 
-**B. *Than* with Adverbial Forms.** With the adverb *differently*, the word *than* often follows—a usage common since the 1600s. This usage is especially common in speech, but it also appears in print—e.g.:
+## B. *Than* with Adverbial Forms
+
+With the adverb *differently*, the word *than* often follows—a usage common since the 1600s. This usage is especially common in speech, but it also appears in print—e.g.:
 
  - "In the future, however, HARP will be handling things *differently than* it did in the Quick case." Marion Gammill, "Remodel Morass Has Client Seeing Red," *Fresno Bee*, 1 Sept. 1996, at B1.
 
@@ -49,9 +53,13 @@ In modern print, *differently from* occurs more frequently than *differently tha
 2. *differently than* not preceding an independent clause: Stage 2
  - Current ratio in print (*differently from him* vs. *\*differently than him*): 8:1
 
-**C. *Three different*, etc.** When following a number, *different* is sometimes a superfluity \<Bennett backed Forbes as a candidate for five different reasons\>. Sometimes, however, the word *different* does add a desirable emphasis \<scientists examined the problem using three different methods\>. The word is emphatic in the same way as *distinct*. In fact, if you wouldn't feel comfortable replacing *different* with *distinct*, you shouldn't be using *different*.
+## C. *Three different*, etc
 
-**D. And *differing*.** The difference between the adjective *different* and the participle *differing* is the difference between the verb phrases *differ from* and *differ with*. The first describes unlike things \<Chevys are different from Fords\>. The second describes unlike thinking \<Democrats and Republicans have differing opinions\>. According to the *OED*, the use of *differing* in the sense of "different" was "very common in the 17th and early 18th" centuries but is now rare or obsolete. That assessment, suggesting a marked differentiation between the words, is unduly sanguine. In fact, the imprudent use of *differing* for *different* is not rare at all in modern print sources—e.g.:
+When following a number, *different* is sometimes a superfluity \<Bennett backed Forbes as a candidate for five different reasons\>. Sometimes, however, the word *different* does add a desirable emphasis \<scientists examined the problem using three different methods\>. The word is emphatic in the same way as *distinct*. In fact, if you wouldn't feel comfortable replacing *different* with *distinct*, you shouldn't be using *different*.
+
+## D. And *differing*
+
+The difference between the adjective *different* and the participle *differing* is the difference between the verb phrases *differ from* and *differ with*. The first describes unlike things \<Chevys are different from Fords\>. The second describes unlike thinking \<Democrats and Republicans have differing opinions\>. According to the *OED*, the use of *differing* in the sense of "different" was "very common in the 17th and early 18th" centuries but is now rare or obsolete. That assessment, suggesting a marked differentiation between the words, is unduly sanguine. In fact, the imprudent use of *differing* for *different* is not rare at all in modern print sources—e.g.:
 
  - "Bridge Builders is a program started by Mystrom that brings families from *differing* \[read *different*\] ethnic backgrounds together in social settings." Don Hunter, "Forceful Personality Creates Fans and Foes," *Anchorage Daily News*, 25 Mar. 2003, at B1.
 

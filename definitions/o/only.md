@@ -2,7 +2,9 @@
 
 only.
 
-**A. Placement.** *Only* is perhaps the most frequently misplaced of all English words. Its best placement is precisely before the words intended to be limited. The more words separating *only* from its correct position, the more awkward the sentence. And such a separation can lead to ambiguities. (Cf. **just** & **solely**.) Yet the strong but unfortunate tendency is to stick *only* right before the verb or verb phrase regardless of the illogic that creates—e.g.:
+## A. Placement
+
+*Only* is perhaps the most frequently misplaced of all English words. Its best placement is precisely before the words intended to be limited. The more words separating *only* from its correct position, the more awkward the sentence. And such a separation can lead to ambiguities. (Cf. **just** & **solely**.) Yet the strong but unfortunate tendency is to stick *only* right before the verb or verb phrase regardless of the illogic that creates—e.g.:
 
  - "The prosecution was hindered from seeking a conviction on attempted manslaughter charges because Seles elected not to testify at the hearing and *only provided her medical records shortly before* \[read *provided her medical records only shortly before*\] the trial was to begin." Cindy Shmerler, "WTA Still Working for Harsher Sentence," *USA Today*, 28 Apr. 1994, at C11.
 
@@ -20,9 +22,15 @@ More than a century before Genung and Fowler wrote those passages, the rhetorici
 
 **Language-Change Index:** *only* separated from the word it limits: Stage 4
 
-**B. In Doublespeak.** A paltering *only* sometimes reflects doublespeak. Consider the signs that, beginning in the mid-1990s, appeared at American Airlines gates throughout the U.S.: *Beverages only in main cabin*. The airline is saying that while first-class passengers will get both meals and drinks, coach-class passengers will get only drinks. If the sign read *Meals only in first class*, the syntax would work pretty well, but the majority of passengers (in coach) would be miffed. If it said *No meals in coach class*, the sense of upset would only intensify. If it said *Only beverages in coach class*, the sense would be right—but once again the coach passengers might feel as if they were being shorted. So the sign-writers changed *coach class* to *main cabin* (a kind of euphemism) and then worded the sign as if it were an honor being bestowed: *Prizes only for the winners. Jackpots only for the lucky few. Beverages only in main cabin*. It sounds as if everyone else on board must do without: no drinks for those in the cockpit or in first class. But of course that isn't so. First-class passengers don't complain about the sign because they know they'll be fed and get all the drinks they reasonably want. Coach passengers don't complain because they don't think through what the sign literally means. See airlinese.
+## B. In Doublespeak
 
-**C. As Nongradable Adjective.** See adjectives (b).
+A paltering *only* sometimes reflects doublespeak. Consider the signs that, beginning in the mid-1990s, appeared at American Airlines gates throughout the U.S.: *Beverages only in main cabin*. The airline is saying that while first-class passengers will get both meals and drinks, coach-class passengers will get only drinks. If the sign read *Meals only in first class*, the syntax would work pretty well, but the majority of passengers (in coach) would be miffed. If it said *No meals in coach class*, the sense of upset would only intensify. If it said *Only beverages in coach class*, the sense would be right—but once again the coach passengers might feel as if they were being shorted. So the sign-writers changed *coach class* to *main cabin* (a kind of euphemism) and then worded the sign as if it were an honor being bestowed: *Prizes only for the winners. Jackpots only for the lucky few. Beverages only in main cabin*. It sounds as if everyone else on board must do without: no drinks for those in the cockpit or in first class. But of course that isn't so. First-class passengers don't complain about the sign because they know they'll be fed and get all the drinks they reasonably want. Coach passengers don't complain because they don't think through what the sign literally means. See airlinese.
 
-**D. And *sole*.** See **sole**.
+## C. As Nongradable Adjective
+
+See adjectives (b).
+
+## D. And *sole*
+
+See **sole**.
 

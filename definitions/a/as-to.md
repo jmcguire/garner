@@ -2,7 +2,9 @@
 
 as to.
 
-**A. Defensible Uses.** First, it must be said that *as to* is an all-purpose preposition to be avoided whenever a more specific preposition will do. But *as to* isn't always indefensible. The phrase is most justifiable when introducing something previously mentioned only cursorily: "*As to* concerns the fair might lose on-track business if it offered its signal to the OTBs, \[Dun said\]: ‘I figured we were going to lose the handle either way.' " Jay Burns, "Farmington Takes Step Forward, Using OTB for New Revenue," *Portland Press Herald*, 7 Sept. 1997, at D8. In beginning sentences this way, *as to* is equivalent to the more colloquial *as for*. In effect, the phrase is a passable shorthand form of *regarding*, *with regard to*, or *on the question of*.
+## A. Defensible Uses
+
+First, it must be said that *as to* is an all-purpose preposition to be avoided whenever a more specific preposition will do. But *as to* isn't always indefensible. The phrase is most justifiable when introducing something previously mentioned only cursorily: "*As to* concerns the fair might lose on-track business if it offered its signal to the OTBs, \[Dun said\]: ‘I figured we were going to lose the handle either way.' " Jay Burns, "Farmington Takes Step Forward, Using OTB for New Revenue," *Portland Press Herald*, 7 Sept. 1997, at D8. In beginning sentences this way, *as to* is equivalent to the more colloquial *as for*. In effect, the phrase is a passable shorthand form of *regarding*, *with regard to*, or *on the question of*.
 
 The phrase is also (minimally) defensible when used for *about*, but that word is stylistically preferable in most contexts. *As to* smells of jargon—e.g.:
 
@@ -10,7 +12,9 @@ The phrase is also (minimally) defensible when used for *about*, but that word i
 
  - "Reasonable people may disagree *as to* \[read *about*\] the importance of the school system's efforts to prevent and detect thefts in the schools." Roy D. Nichols Jr., "Searches at Granby Are ‘Reasonable,' " *Virginian-Pilot & Ledger Star* (Norfolk), 6 Sept. 1997, at B8.
 
-**B. Poor Uses.** The main problem with *as to* is that it doesn't clearly establish syntactic or conceptual relationships, so it can hamper comprehensibility. In each of the following examples, another preposition would more directly and forcefully express the thought:
+## B. Poor Uses
+
+The main problem with *as to* is that it doesn't clearly establish syntactic or conceptual relationships, so it can hamper comprehensibility. In each of the following examples, another preposition would more directly and forcefully express the thought:
 
  - **For *about*:** "There's no rule *as to* \[read *about*\] how long you have to wait before you can enjoy your creation." Dan Macdonald, "At-Home Winemaking," *Fla. Times-Union*, 14 Aug. 1997, at E6.
 

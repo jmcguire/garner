@@ -2,7 +2,9 @@
 
 not guilty.
 
-**A. And *innocent*.** It used to be that only journalists made the mistake of writing *plead innocent* rather than *plead not guilty*, but now this phrase has made it even into judges' writing. Lawyers should avoid the phrase, since there is no such thing as a plea of innocent. Journalists, on the other hand, avoid *not guilty* merely because *not* might get accidentally dropped or misrendered *now*:
+## A. And *innocent*
+
+It used to be that only journalists made the mistake of writing *plead innocent* rather than *plead not guilty*, but now this phrase has made it even into judges' writing. Lawyers should avoid the phrase, since there is no such thing as a plea of innocent. Journalists, on the other hand, avoid *not guilty* merely because *not* might get accidentally dropped or misrendered *now*:
 
 Many newspapers—and it tends to drive lawyers a little crazy—but many newspapers insist on saying that a defendant "pleaded innocent"; they will not report that he or she "pleaded not guilty." I've gone to clients for many years and said, "That's wrong. People don't plead innocent; they are not found innocent. They plead and are found ‘not guilty.' " Now I realize that newspaper writers live in perpetual fear of the word *not* either being dropped by a printer or being changed from *not* to *now*. Therefore, whenever possible, they shy away from the word *not*, even at the expense of strict accuracy. . . .
 
@@ -18,7 +20,9 @@ Strictly speaking, *not guilty* and *innocent* aren't quite synonymous. To be *i
 
 **Language-Change Index:** *plead innocent* for *plead not guilty*: Stage 4
 
-**B. *\*Not guilty beyond a reasonable doubt*.** This phrasing is ambiguous. The standard by which a jury decides criminal charges is this: a defendant is guilty only if the evidence shows, beyond a reasonable doubt, that he or she committed the crime. Otherwise, the defendant is not guilty. So we say that a defendant was not found *guilty beyond a reasonable doubt*.
+## B. *\*Not guilty beyond a reasonable doubt*
+
+This phrasing is ambiguous. The standard by which a jury decides criminal charges is this: a defendant is guilty only if the evidence shows, beyond a reasonable doubt, that he or she committed the crime. Otherwise, the defendant is not guilty. So we say that a defendant was not found *guilty beyond a reasonable doubt*.
 
 But it doesn't follow that we should also say that a defendant was found *\*not guilty beyond a reasonable doubt*. Is that *not guilty (beyond a reasonable doubt)* or *not guilty-beyond-a-reasonable-doubt*? The latter idea makes more sense—e.g.: "The question is whether a judge can reach a contrary conclusion on the second charge—deciding that though a defendant was *not guilty beyond a reasonable doubt*, he nonetheless probably committed the crime." "High Court's Highhanded Decision," *Chicago Trib.*, 26 Jan. 1997, at 20.
 

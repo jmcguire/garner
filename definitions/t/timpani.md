@@ -2,7 +2,9 @@
 
 timpani.
 
-**A. A Tale of Two Words.** First, there's the Latinate word *tympanum*, which denotes (1) the eardrum, (2) the middle ear, (3) the diaphragm in an old-fashioned telephone, (4) in architecture, the vertical recessed face of a pediment, as over a door, (5) a hand drum of ancient Greece or Rome, (6) a modern kettledrum, or (7) a drumhead—that is, the stretched membrane of a drum. The plural is *tympana* in senses 1–4 and *tympani* in the drum senses (5–7).
+## A. A Tale of Two Words
+
+First, there's the Latinate word *tympanum*, which denotes (1) the eardrum, (2) the middle ear, (3) the diaphragm in an old-fashioned telephone, (4) in architecture, the vertical recessed face of a pediment, as over a door, (5) a hand drum of ancient Greece or Rome, (6) a modern kettledrum, or (7) a drumhead—that is, the stretched membrane of a drum. The plural is *tympana* in senses 1–4 and *tympani* in the drum senses (5–7).
 
 Second, there's the Italianate *timpano*, denoting a kettledrum. The plural is *timpani*.
 
@@ -17,7 +19,9 @@ In AmE journalism, *timpani* now preponderates by a significant margin. Perhaps 
  - *timpani* spelled *tympani*: Stage 5
  - Current ratio in print (*tympani* vs. *timpani* in World Englishes): 1.4:1
 
-**B. Singular or Plural.** The word *timpani*—though borrowed into English as the plural form of the Italian singular *timpano*—has become interchangeably singular or plural. Most commonly, of course, the word is plural—e.g.: "The Jefferson Symphony Orchestra has been awarded a $14,110 grant by the Bonfils-Stanton Foundation for a set of four new *timpani*." "Good for You," *Rocky Mountain News* (Denver), 3 Oct. 1996, at D14. But it's often singular as well. Even professional musicians commonly refer to *a timpani*, not *\*a timpano*. E.g.:
+## B. Singular or Plural
+
+The word *timpani*—though borrowed into English as the plural form of the Italian singular *timpano*—has become interchangeably singular or plural. Most commonly, of course, the word is plural—e.g.: "The Jefferson Symphony Orchestra has been awarded a $14,110 grant by the Bonfils-Stanton Foundation for a set of four new *timpani*." "Good for You," *Rocky Mountain News* (Denver), 3 Oct. 1996, at D14. But it's often singular as well. Even professional musicians commonly refer to *a timpani*, not *\*a timpano*. E.g.:
 
  - "\[It is an opera\] house where Mozart's double-bass or *timpani* is heard as clearly as the soprano." Anthony Lewis, "To Love and Be Wise," *N.Y. Times*, 11 July 1994, at A15.
 
@@ -29,7 +33,9 @@ See plurals (b).
 
 **Language-Change Index:** *timpani* as a singular: Stage 5
 
-**C. *\*Timpani drum*.** This phrase is a redundancy that had little currency till the late 20th century. It should be halved—e.g.:
+## C. *\*Timpani drum*
+
+This phrase is a redundancy that had little currency till the late 20th century. It should be halved—e.g.:
 
  - "The pit . . . is made up of 14 people on xylophones, marimbas, chimes, gongs, *tympani drums* \[read *timpani* or *kettledrums*\], glockenspiels, bells, triangles, tambourines and more." Michael Colton, "Esprit de Corps," *Boston Globe*, 17 Aug. 1994, at 73.
 

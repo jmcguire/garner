@@ -2,7 +2,9 @@
 
 confess.
 
-**A. *Confess to* for *confess*.** Traditionally, people *confess* crimes, guilt, weaknesses, faults, and the like. Less traditionally—though at least since the 1700s—people have *confessed to* these things. Euphony should govern the phrasing. In the following examples, *confess to* sounds better than *confess* alone would have:
+## A. *Confess to* for *confess*
+
+Traditionally, people *confess* crimes, guilt, weaknesses, faults, and the like. Less traditionally—though at least since the 1700s—people have *confessed to* these things. Euphony should govern the phrasing. In the following examples, *confess to* sounds better than *confess* alone would have:
 
  - "Did ever anybody seriously *confess to* envy?" Herman Melville, *Billy Budd* 39 (1891; repr. \[Signet ed.\] 1979).
 
@@ -16,7 +18,9 @@ Cf. **admit**.
 
  - Current ratio in print (*confessed guilt* vs. *\*confessed to guilt*): 4:1
 
-**B. *\*Confess innocence* for *profess innocence*.** This misusage is nothing short of a malapropism (probably influenced by the similar-sounding *confess ignorance*)—e.g.:
+## B. *\*Confess innocence* for *profess innocence*
+
+This misusage is nothing short of a malapropism (probably influenced by the similar-sounding *confess ignorance*)—e.g.:
 
  - "Kathleen Turner . . . *confesses* \[read *professes*\] innocence when two neighbors . . . confront her." Philip Wuntch, "Serial Mom," *Dallas Morning News*, 15 Apr. 1994, at C1.
 

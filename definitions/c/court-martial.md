@@ -2,11 +2,15 @@
 
 court-martial.
 
-**A. Generally.** *Court-martial* (= an ad hoc military court convened to try and to punish those accused of violating military law) is hyphenated both as noun and as verb. The *OED* lists the verb as colloquial, an observation now antiquated. As to spelling, in AmE the final *l* is not doubled in *court-martialed* and *court-martialing*, although in BrE it is. (See spelling (c).)
+## A. Generally
+
+*Court-martial* (= an ad hoc military court convened to try and to punish those accused of violating military law) is hyphenated both as noun and as verb. The *OED* lists the verb as colloquial, an observation now antiquated. As to spelling, in AmE the final *l* is not doubled in *court-martialed* and *court-martialing*, although in BrE it is. (See spelling (c).)
 
 The plural of the noun is *courts-martial*. See plurals (g) & postpositive adjectives.
 
-**B. And *court marshal*.** One meaning of *marshal* is "a judicial officer who provides court security, executes process, and performs other tasks for the court" (*Black's Law Dictionary* 1167 \[11th ed. 2019\]). It's therefore not surprising that *court marshal* has become a frequent phrase—e.g.:
+## B. And *court marshal*
+
+One meaning of *marshal* is "a judicial officer who provides court security, executes process, and performs other tasks for the court" (*Black's Law Dictionary* 1167 \[11th ed. 2019\]). It's therefore not surprising that *court marshal* has become a frequent phrase—e.g.:
 
  - "He became *court marshal* in 1989 and would start each court session by calling, ‘Oyez, oyez.' " "Cancer Kills High Court Marshal," *Charleston Gaz.* (W. Va.), 7 July 1995, at C2.
 

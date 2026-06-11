@@ -7,5 +7,7 @@ As between *commonsensical* and *\*commonsensible*, you might suspect that *-ibl
  - Current ratio in print (*commonsense reasons* vs. *commonsensical reasons*): 6:1
  - Current ratio in print (*commonsensical* vs. *\*commonsensible*): 83:1
 
-**B. And *common sense*, n.** Although the adjective is one word, the noun is two: *common sense*.
+## B. And *common sense*, n
+
+Although the adjective is one word, the noun is two: *common sense*.
 

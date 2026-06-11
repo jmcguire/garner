@@ -2,7 +2,9 @@
 
 applause.
 
-**A. Singular or Plural.** This word, derived from the Latin verbal noun *applausus*, means (1) "loudly expressed approval," or (2) "marked commendation." In English, the word traditionally appears in such a way that its number (singular or plural) is disguised \<we could hear the applause\> \<he gained our applause\>. But the *OED* gives only singular definitions, and when *applause* is the subject of a verb it takes a singular verb—e.g.: "The biggest *applause* comes after his nod to party loyalty." Paul Demko, "Here We Go A-Caucusing," *City Pages* (Minneapolis), 25 Apr. 2001, at 6.
+## A. Singular or Plural
+
+This word, derived from the Latin verbal noun *applausus*, means (1) "loudly expressed approval," or (2) "marked commendation." In English, the word traditionally appears in such a way that its number (singular or plural) is disguised \<we could hear the applause\> \<he gained our applause\>. But the *OED* gives only singular definitions, and when *applause* is the subject of a verb it takes a singular verb—e.g.: "The biggest *applause* comes after his nod to party loyalty." Paul Demko, "Here We Go A-Caucusing," *City Pages* (Minneapolis), 25 Apr. 2001, at 6.
 
 Yet because the end of the word sounds much like a plural ending in *s*, some writers (who deserve some hoots) erroneously use the word as if it were plural—e.g.:
 
@@ -17,7 +19,9 @@ Yet because the end of the word sounds much like a plural ending in *s*, some wr
  - *applause* misused as a plural: Stage 2
  - Current ratio in print (*the applause was* vs. *\*the applause were*): 84:1
 
-**B. Narrowing of Meaning.** As suggested in (a), the word has never referred merely to clapping. Huzzahs would count as applause. But today the word is increasingly thought to be interchangeable with clapping—e.g.:
+## B. Narrowing of Meaning
+
+As suggested in (a), the word has never referred merely to clapping. Huzzahs would count as applause. But today the word is increasingly thought to be interchangeable with clapping—e.g.:
 
  - "Several of the legislators burst into *applause—*and the loudest *clapping* seemed to come from the men." Yolanda Jones, "In Brief," *Commercial Appeal* (Memphis), 15 Feb. 2008, at 1.
 

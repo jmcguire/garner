@@ -2,9 +2,13 @@
 
 temperature.
 
-**A. Pronunciation.** *Temperature* is pronounced /**tem**-pә-rә-chәr/ or /**tem**-prә-chәr/, not /**tem**-pә-rә-tyʊr/, which is pedantic, or /**tem**-pә-chәr/, which is slovenly. A combination of the precious and the slovenly, /**tem**-pә-tyʊr/ is ridiculously affected.
+## A. Pronunciation
 
-**B. For *fever*.** In colloquial English, *temperature* has been used in the sense "fever" since the late 1800s. But this usage is illogical because everything has a temperature, in the general sense of the word. The better choice is *fever*—e.g.:
+*Temperature* is pronounced /**tem**-pә-rә-chәr/ or /**tem**-prә-chәr/, not /**tem**-pә-rә-tyʊr/, which is pedantic, or /**tem**-pә-chәr/, which is slovenly. A combination of the precious and the slovenly, /**tem**-pә-tyʊr/ is ridiculously affected.
+
+## B. For *fever*
+
+In colloquial English, *temperature* has been used in the sense "fever" since the late 1800s. But this usage is illogical because everything has a temperature, in the general sense of the word. The better choice is *fever*—e.g.:
 
  - "Mustang Joe, a finalist in the Wimbledon Derby, came down badly with the sickness and was running a *temperature* \[read *fever*\]." Roger Jackson, "Jo's the Best," *Sporting Life*, 20 Nov. 1995, News §, at 1.
 

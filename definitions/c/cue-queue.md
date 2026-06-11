@@ -2,7 +2,9 @@
 
 cue; queue.
 
-**A. As Nouns.** Though pronounced the same, these words have different meanings. *Cue* = (1) a signal to begin; a hint; or (2) a stick used in billiards, pool, or shuffleboard. *Queue* = (1) a line of people or things waiting their turn; or (2) a hanging braid of hair. See (c).
+## A. As Nouns
+
+Though pronounced the same, these words have different meanings. *Cue* = (1) a signal to begin; a hint; or (2) a stick used in billiards, pool, or shuffleboard. *Queue* = (1) a line of people or things waiting their turn; or (2) a hanging braid of hair. See (c).
 
 Not surprisingly, the two are subject to word-swapping—e.g.:
 
@@ -17,7 +19,9 @@ Not surprisingly, the two are subject to word-swapping—e.g.:
 2. *cue* misused for *queue*: Stage 1
  - Current ratio in print (*long queues* vs. *\*long cues*): 215:1
 
-**B. *Cue up*; *queue up*.** To *cue up* an audio or video recording is to have it ready for playing at a particular point. E.g.:
+## B. *Cue up*; *queue up*
+
+To *cue up* an audio or video recording is to have it ready for playing at a particular point. E.g.:
 
  - "His brother *cued up* the tape, the rousing theme song from ‘Rocky.' " Mark Pazniokas, "Out of Prison, Santopietro Welcomed Home," *Hartford Courant*, 17 Sept. 1996, at A3.
 
@@ -29,7 +33,9 @@ To *queue up* is to line up—e.g.:
 
  - "Florida State students *queued up* for probably the most prized ticket they would ever use." Tim Layden, "No. 1 vs. No. 2," *Sports Illustrated*, 2 Dec. 1996, at 36.
 
-**C. In Pigtails.** The braid of hair is spelled *queue*, not *cue*. E.g.: "Instructed by French dancing masters in the stately steps and deep curtsies of the minuet, the young men had indeed to mind their pieds (feet) and *queues* (pigtails) to keep from losing their balance or their huge wigs." Laurie Lucas, "Anniversaries," *Press-Enterprise* (Riverside, Cal.), 15 Nov. 1995, at D4.
+## C. In Pigtails
+
+The braid of hair is spelled *queue*, not *cue*. E.g.: "Instructed by French dancing masters in the stately steps and deep curtsies of the minuet, the young men had indeed to mind their pieds (feet) and *queues* (pigtails) to keep from losing their balance or their huge wigs." Laurie Lucas, "Anniversaries," *Press-Enterprise* (Riverside, Cal.), 15 Nov. 1995, at D4.
 
 But of course, some writers get it wrong—e.g.: "The pigtail or *‘cue'* \[read *‘queue'*\]—as cultivated by sailors—was hair twisted or plaited, commonly prettied up by a binding of spun yarn and the whole applied with a dose of Stockholm tar which gave its gravity-defying look." Letter of William Wood, "Tarred Pigtail," *Daily Telegraph*, 9 July 1992, at 16.
 

@@ -2,11 +2,15 @@
 
 Tenses .
 
-**A. Generally.** The following table shows the basic tenses in English with the verb *be* conjugated. The labels *1st*, *2nd*, and *3rd* stand for first person, second person, and third person.
+## A. Generally
+
+The following table shows the basic tenses in English with the verb *be* conjugated. The labels *1st*, *2nd*, and *3rd* stand for first person, second person, and third person.
 
 Cf. subjunctives.
 
-**B. Sequence of.** The term *sequence of tenses* refers to the relationship of tenses in subordinate clauses to those in principal clauses. Generally, the former follow from the latter.
+## B. Sequence of
+
+The term *sequence of tenses* refers to the relationship of tenses in subordinate clauses to those in principal clauses. Generally, the former follow from the latter.
 
 In careful writing, the tenses agree both logically and grammatically. The basic rules of tense sequence are easily stated, although the many examples that follow belie their ostensible simplicity.
 
@@ -42,7 +46,9 @@ Cf. **would have liked**.
 
 On a related subject, see double modals.
 
-**C. Ongoing-Truth Exception.** Are the tenses right in these sentences?
+## C. Ongoing-Truth Exception
+
+Are the tenses right in these sentences?
 
  - "Yesterday, she *said* she *likes* \[*liked*?\] chocolate ice cream."
 
@@ -52,7 +58,9 @@ On a related subject, see double modals.
 
 In all these examples, the present tense is correct if the assertion deals with what seems to be an ongoing state of affairs. But if things have changed (she no longer likes ice cream, he is now a carpenter, he is known to have changed his citizenship), then the past tense would be appropriate. Many writers mistakenly use the past tense for a condition or state that is ongoing—e.g.: "It hadn't escaped my notice that many modern texts . . . *were* \[read *are*\] self-referential, or concerned with the pleasures of ‘recognition.' " Letter of Claude Rawson, *London Rev. of Books*, 18 May 1989, at 5.
 
-**D. Threatened Obsolescence of Perfect Tenses.** Perhaps the heading here is overdrawn, but many educated speakers of English seem at least mildly hostile to perfect tenses. There are three: the present perfect, the past perfect (or pluperfect), and the future perfect. And they're worth some attention.
+## D. Threatened Obsolescence of Perfect Tenses
+
+Perhaps the heading here is overdrawn, but many educated speakers of English seem at least mildly hostile to perfect tenses. There are three: the present perfect, the past perfect (or pluperfect), and the future perfect. And they're worth some attention.
 
 First, the present-perfect tense is formed with *have* \[\+ past participle\], as in *I have done that*. Either of two qualities must be present for this tense to be appropriate: indefiniteness of past time or a continuation to the present. This tense sometimes represents an action as having been completed at some indefinite time in the past—e.g.:
 

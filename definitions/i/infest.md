@@ -2,7 +2,9 @@
 
 infest.
 
-**A. And *infect*.** *Infest* (= to inhabit either as a parasite or in menacingly large numbers) is sometimes confounded with *infect* (= \[of a germ or virus\] to introduce a disease into an organism). In general, living things are *infected*; places are *infested*. And while an infestation may spread disease, the cause of the disease itself will be infection. Some writers miss that distinction, typically with *infest* displacing *infect*—e.g.:
+## A. And *infect*
+
+*Infest* (= to inhabit either as a parasite or in menacingly large numbers) is sometimes confounded with *infect* (= \[of a germ or virus\] to introduce a disease into an organism). In general, living things are *infected*; places are *infested*. And while an infestation may spread disease, the cause of the disease itself will be infection. Some writers miss that distinction, typically with *infest* displacing *infect*—e.g.:
 
  - "I'm thinking, is our opposition to the archbishop's point of view a classic case of Seattle overhang? That's the disease that rapidly *infests* \[read *infects*\] editorial offices and gives us in these towers the eyesight to see things only from under Seattle's roof." James Vesely, "Classic Seattle Overhang and the Cross We Carry," *Seattle Times*, 19 Mar. 2001, at B4.
 
@@ -18,7 +20,9 @@ The opposite error, in which *infect* ousts the proper word *infest*, is rare bu
 
 2. *infect* misused for *infest*: Stage 1
 
-**B. And *invest*.** *Infest* is sometimes, by malapropism, confused with *invest*—e.g.:
+## B. And *invest*
+
+*Infest* is sometimes, by malapropism, confused with *invest*—e.g.:
 
  - "Harvest from about 1,470 Boise National Forest acres . . . will thin stands of *insect-invested* \[read *insect-infested*\] trees." "Idaho," *USA Today*, 17 Dec. 1991, at A10.
 

@@ -2,11 +2,17 @@
 
 manicure; pedicure.
 
-**A. Sense.** *Manicure* = (1) a cosmetic treatment or care for hands, esp. the fingernails; or (2) a person who provides such treatments or care. The second sense has been almost wholly replaced by *manicurist*.
+## A. Sense
 
-**B. As Verb.** *Manicure* = (1) to give cosmetic treatments to another's hands, esp. trimming, polishing, and grooming the fingernails; or (2) to trim closely and neatly; to make neat and attractive. In its second, extended sense, golf-course fairways, hedges, and the like are manicured. The verb uses of the word date from the late 1800s.
+*Manicure* = (1) a cosmetic treatment or care for hands, esp. the fingernails; or (2) a person who provides such treatments or care. The second sense has been almost wholly replaced by *manicurist*.
 
-**C. And *pedicure*.** As a noun, *pedicure* = (1) a cosmetic treatment or care for the feet, esp. the toenails; (2) the care or cosmetic treatment of an animal's claws or hooves; (3) medical treatment of the feet for minor problems such as corns or bunions; or (4) a person who provides medical or cosmetic treatments for feet. It also has a verb sense (= to treat the feet cosmetically or surgically) and may be transitive or intransitive. Although it has been used since 1896, it has never been as common as *manicure*.
+## B. As Verb
+
+*Manicure* = (1) to give cosmetic treatments to another's hands, esp. trimming, polishing, and grooming the fingernails; or (2) to trim closely and neatly; to make neat and attractive. In its second, extended sense, golf-course fairways, hedges, and the like are manicured. The verb uses of the word date from the late 1800s.
+
+## C. And *pedicure*
+
+As a noun, *pedicure* = (1) a cosmetic treatment or care for the feet, esp. the toenails; (2) the care or cosmetic treatment of an animal's claws or hooves; (3) medical treatment of the feet for minor problems such as corns or bunions; or (4) a person who provides medical or cosmetic treatments for feet. It also has a verb sense (= to treat the feet cosmetically or surgically) and may be transitive or intransitive. Although it has been used since 1896, it has never been as common as *manicure*.
 
 Because *mani*- denotes something related to the hand, and *pedi*- to the foot, these terms are restricted to those specific body parts. Some writers misunderstand this. Hence:
 

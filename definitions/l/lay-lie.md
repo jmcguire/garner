@@ -2,7 +2,9 @@
 
 lay; lie.
 
-**A. The Distinction.** Very simply, *lie* (= to recline, be situated) is intransitive—it can't take a direct object \<he lies on his bed\>. But *lay* (= to put down, arrange) is always transitive—it needs a direct object \<please lay the book on my desk\>. The verbs are inflected as follows:
+## A. The Distinction
+
+Very simply, *lie* (= to recline, be situated) is intransitive—it can't take a direct object \<he lies on his bed\>. But *lay* (= to put down, arrange) is always transitive—it needs a direct object \<please lay the book on my desk\>. The verbs are inflected as follows:
 
 Because *lie* is intransitive, it has only an active voice \<lie down for a while\>. And because *lay* is transitive, it may be either active \<he laid the blanket over her\> or passive \<the blanket was laid over her\>. See passive voice.
 
@@ -18,7 +20,9 @@ The most unusual of these inflected forms, of course, is *lain*, but most writer
 
 The proper form of this past participle admittedly sounds archaic. See **lie** & irregular verbs.
 
-**B. *Lay* for *lie*.** This is one of the most widely known of all usage errors—e.g.:
+## B. *Lay* for *lie*
+
+This is one of the most widely known of all usage errors—e.g.:
 
  - "Mr. Armstrong \[debating against Alan Dershowitz\] was not to be outdone . . . . But Mr. Dershowitz did not *lay* \[read *lie*\] down." William Glaberson, "Face to Face, 2 Lawyers Feud Away, Slap for Slap," *N.Y. Times*, 19 Jan. 1991, at 15.
 
@@ -56,7 +60,9 @@ Some blame the confusion in part on the children's prayer that begins, "Now I *l
 3. *\*laid low* for *lay low* (as a past form): Stage 4
  - Current ratio in print (*they lay low* vs. *\*they laid low*): 1.9:1
 
-**C. *Laid* for Past-Tense *lay*.** The *lay*-for-*lie* error also occurs with the past-tense forms—e.g.:
+## C. *Laid* for Past-Tense *lay*
+
+The *lay*-for-*lie* error also occurs with the past-tense forms—e.g.:
 
  - "He *laid* \[read *lay*\] down flat on the ground and looked around for an object or landmark he might have missed from a higher angle." "Pumpkin Place," *Amarillo Daily News*, 4 Mar. 1996, at C1.
 
@@ -67,7 +73,9 @@ Some blame the confusion in part on the children's prayer that begins, "Now I *l
  - *laid* misused for past-tense *lay*: Stage 4
  - Current ratio in print (*he lay down on* vs. *\*he laid down on*): 5:1
 
-**D. *Laid* for *lain*.** Not surprisingly, the same mistake occurs with the past participles as well—e.g.:
+## D. *Laid* for *lain*
+
+Not surprisingly, the same mistake occurs with the past participles as well—e.g.:
 
  - "The players—performers—will take on a problem that has *laid* \[read *lain*\] dormant since Peter Ueberroth caved in to the umps." Peter Gammons, "KC May Start Enjoying Some Royalties," *Boston Globe*, 25 Nov. 1990, at 58.
 
@@ -80,7 +88,9 @@ Some blame the confusion in part on the children's prayer that begins, "Now I *l
  - *laid* misused for past-participial *lain*: Stage 4
  - Current ratio in print (*had lain idle* vs. *\*had laid idle*): 36:1
 
-**E. *Lain* for the Past-Participial *laid*.** This is a ghastly example of hypercorrection, that is, choosing the more far-fetched (and, as it happens, wrong) term in a contorted attempt to be correct—e.g.:
+## E. *Lain* for the Past-Participial *laid*
+
+This is a ghastly example of hypercorrection, that is, choosing the more far-fetched (and, as it happens, wrong) term in a contorted attempt to be correct—e.g.:
 
  - "Earlier in the day, several people had *‘lain hands'* \[read *'laid hands'*\] on Zachary and prayed for him. This is common at the crusades, as many people seem to think that God has anointed them." Mike Thomas, "The Power and the Glory," *Orlando Sentinel*, 24 Nov. 1991, at 9.
 

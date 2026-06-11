@@ -2,11 +2,17 @@
 
 feel.
 
-**A. Inflected Forms: *feel* \> *felt* \> *felt*.** See irregular verbs.
+## A. Inflected Forms: *feel* \> *felt* \> *felt*
 
-**B. For *think*.** *Feel* is a weak and informal substitute for *think*, *believe*, *maintain*, or *submit*. E.g.: "We *feel* \[read *believe*\] that the plan should be summarized in considerable detail." When the idea is phrased on an emotional rather than a cognitive level, the resulting sentence seems to minimize the amount of thought being reported—e.g.: "She *feels* \[read *thinks* or *believes*\] that crime prevention must start with helping small children find their way out of poverty and neglect, and that society's resources should go toward better education and housing, not more jails." Bob Cohn & Eleanor Clift, "The Contrary Voice of Janet Reno," *Newsweek*, 11 Oct. 1993, at 30.
+See irregular verbs.
 
-**C. *Feel bad*; *\*feel badly*.** When someone is sick or unhappy, that person feels *bad*—not *badly*. In this phrase, *feel* is a linking verb, which takes a predicate adjective instead of an adverb. In modern print sources, *feel bad* outnumbers *\*feel badly* by a 16-to-1 margin. Although most professional writers know this point of usage, a few get it wrong—e.g.:
+## B. For *think*
+
+*Feel* is a weak and informal substitute for *think*, *believe*, *maintain*, or *submit*. E.g.: "We *feel* \[read *believe*\] that the plan should be summarized in considerable detail." When the idea is phrased on an emotional rather than a cognitive level, the resulting sentence seems to minimize the amount of thought being reported—e.g.: "She *feels* \[read *thinks* or *believes*\] that crime prevention must start with helping small children find their way out of poverty and neglect, and that society's resources should go toward better education and housing, not more jails." Bob Cohn & Eleanor Clift, "The Contrary Voice of Janet Reno," *Newsweek*, 11 Oct. 1993, at 30.
+
+## C. *Feel bad*; *\*feel badly*
+
+When someone is sick or unhappy, that person feels *bad*—not *badly*. In this phrase, *feel* is a linking verb, which takes a predicate adjective instead of an adverb. In modern print sources, *feel bad* outnumbers *\*feel badly* by a 16-to-1 margin. Although most professional writers know this point of usage, a few get it wrong—e.g.:
 
  - "Manager Dusty Baker's attention was divided. He felt *badly* \[read *bad*\] for Dunston and was depressed over a ninth-inning rally gone sour." Nick Peters, "Giants, Dunston Suffer a Blow," *Sacramento Bee*, 5 Aug. 1996, at D1.
 
@@ -25,7 +31,9 @@ In a 2021 poll at a Cosmos Club event in Washington, D.C., only 15% of those vot
  - *\*feel badly* for *feel bad*: Stage 2
  - Current ratio in print (*feel bad* vs. *\*feel badly*): 16:1
 
-**D. *Feel like*.** To avoid using *like* as a conjunction, writers usually need to change this phrase to *feel as if*. E.g.:
+## D. *Feel like*
+
+To avoid using *like* as a conjunction, writers usually need to change this phrase to *feel as if*. E.g.:
 
  - "But on a combined income of $60,000, McDonald and his wife Cindy, who have five children, *feel like* \[read *feel as if*\] they're just scraping by." Marc Levinson, "Living on the Edge," *Newsweek*, 4 Nov. 1991, at 23.
 

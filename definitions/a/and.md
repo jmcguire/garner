@@ -2,7 +2,9 @@
 
 and.
 
-**A. Beginning Sentences with.** It is rank superstition that this coordinating conjunction cannot properly begin a sentence:
+## A. Beginning Sentences with
+
+It is rank superstition that this coordinating conjunction cannot properly begin a sentence:
 
  - **1870:** "\[T\]he idea that a sentence should *never* begin with \[*and*\] is absurd. It would be quite as sensible to and worthy of consideration to insist that a sentence should never begin with *but* or *nor*." S.W.W., " ‘And' at the Beginning of a Sentence," 19 *N.Y. Teacher & Am. Educ. Monthly* 204, 205 (May 1870).
 
@@ -40,13 +42,23 @@ The very best writers find occasion to begin sentences with *and*—e.g.:
 
  - "*And* there is, come to think of it, that unsounded *b*, to keep alive some small doubt." Christopher Ricks, *Beckett's Dying Words* 51 (1993).
 
-**B. For *or*.** Oddly, *and* is frequently misused for *or* where a singular noun, or one of two nouns, is called for—e.g.: "While third-party candidates have mounted serious challenges for senator *and* \[read *or*\] governor in almost two dozen states this year, building an effective third-party apparatus is rare." Jonathan Rabinovitz, "Weicker's Victory: Lasting Legacy?," *N.Y. Times*, 5 Oct. 1994, at A13. (The phrase should be *senator or governor*; as written, the sentence says that in each of almost 24 states third-party candidates were running for both senator and governor—an idea belied by the context of the article.)
+## B. For *or*
 
-**C. In Enumerations.** Some writers have a tendency, especially in long enumerations, to omit *and* before the final element. To do so is often infelicitous: the reader is jarred by the abrupt period ending the sentence and may even wonder whether something has been omitted. One may occasionally omit *and* before the final element in an enumeration with a particular nuance in mind. Without *and*, the implication is that the series is incomplete—rhetoricians call this construction "asyndeton." With *and*, the implication is that the series is complete. This shade in meaning is increasingly subtle in modern prose.
+Oddly, *and* is frequently misused for *or* where a singular noun, or one of two nouns, is called for—e.g.: "While third-party candidates have mounted serious challenges for senator *and* \[read *or*\] governor in almost two dozen states this year, building an effective third-party apparatus is rare." Jonathan Rabinovitz, "Weicker's Victory: Lasting Legacy?," *N.Y. Times*, 5 Oct. 1994, at A13. (The phrase should be *senator or governor*; as written, the sentence says that in each of almost 24 states third-party candidates were running for both senator and governor—an idea belied by the context of the article.)
 
-**D. Serial Comma (Oxford Comma) Before *and* in Enumerations.** On the question of punctuating enumerations, the better practice is to place a comma before the *and* introducing the final element. See serial comma.
+## C. In Enumerations
 
-**E. *But* misused for *and*.** See **but (c)**.
+Some writers have a tendency, especially in long enumerations, to omit *and* before the final element. To do so is often infelicitous: the reader is jarred by the abrupt period ending the sentence and may even wonder whether something has been omitted. One may occasionally omit *and* before the final element in an enumeration with a particular nuance in mind. Without *and*, the implication is that the series is incomplete—rhetoricians call this construction "asyndeton." With *and*, the implication is that the series is complete. This shade in meaning is increasingly subtle in modern prose.
 
-**F. Mistaken for *in*.** For the error of hearing *and* as *'n'* and therefore writing *in* in its place, see **day and age**, **neck-and-neck** & **one and the same**.
+## D. Serial Comma (Oxford Comma) Before *and* in Enumerations
+
+On the question of punctuating enumerations, the better practice is to place a comma before the *and* introducing the final element. See serial comma.
+
+## E. *But* misused for *and*
+
+See **but (c)**.
+
+## F. Mistaken for *in*
+
+For the error of hearing *and* as *'n'* and therefore writing *in* in its place, see **day and age**, **neck-and-neck** & **one and the same**.
 

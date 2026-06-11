@@ -2,7 +2,9 @@
 
 access, n.
 
-**A. Confused with *excess*.** *Access*, n., most commonly means (1) "the right or ability to enter or get near," (2) "a means of approaching," or (3) "retrievability of electronic information by computer." *Excess* = (1) an overabundance, superfluity; or (2) the amount by which one thing exceeds another. Sometimes *access* is misused for *excess*—e.g.:
+## A. Confused with *excess*
+
+*Access*, n., most commonly means (1) "the right or ability to enter or get near," (2) "a means of approaching," or (3) "retrievability of electronic information by computer." *Excess* = (1) an overabundance, superfluity; or (2) the amount by which one thing exceeds another. Sometimes *access* is misused for *excess*—e.g.:
 
  - "\[I\]t has been noted that samples of this kind may be difficult to amplify with primers that give a product in *access* \[read *excess*\] of 400–500 bp." Finbarr E. Cotter, *Molecular Diagnosis of Cancer* 117 (1996).
 
@@ -12,7 +14,9 @@ access, n.
 
 **Language-Change Index:** *access* misused for *excess*: Stage 1
 
-**B. Meaning "outburst."** This sense, though somewhat archaic, is unimpeachable. Still, the usage is likely to give most readers pause—e.g.:
+## B. Meaning "outburst."
+
+This sense, though somewhat archaic, is unimpeachable. Still, the usage is likely to give most readers pause—e.g.:
 
  - "In an *access* \[better: *outburst*\] of unbridled enthusiasm, he hangs by his heels from a Calder sculpture while crooning ‘La donna e mobile.' " Donal Henahan, "A New Wave Director Goes to Work on ‘Rigoletto,' " *N.Y. Times*, 8 Sept. 1985, § 2, at 31.
 

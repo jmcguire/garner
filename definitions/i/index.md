@@ -2,7 +2,9 @@
 
 index.
 
-**A. Plurals.** For ordinary purposes, *indexes* is the preferable plural, not *indices*—e.g.:
+## A. Plurals
+
+For ordinary purposes, *indexes* is the preferable plural, not *indices*—e.g.:
 
  - "The book is beautifully produced, \[is\] profusely illustrated, \[and\] contains scrupulous filmographies and two *indexes* (of boy actors and film titles)." Peter Parker, "Sweet Boys with Insufferable Parents," *Independent*, 12 Oct. 1996, Books §, at 6. (For the reasons behind the inserted words, see parallelism.)
 
@@ -17,7 +19,9 @@ Writers who use the Latinate form, of course, should spell it correctly. Some mi
  - Current ratio in print (*book indexes* vs. *book indices*): 7:1
  - Current ratio in print (*economic indices* vs. *economic indexes*): 3:1
 
-**B. And *\*indice*.** The erroneous back-formation *\*indice* /**in**-dә-see/ has been around for a while. Although the term is noted as the singular form of *indicia* (= indicators) in the *OED*, it is labeled both rare and obsolete; the surviving alternative, *indicium*, is also rare. What has happened is that the Latinate plural of *index*—*indices*—has confused people into using *\*indice* as a singular (instead of *index*). In September 1982, President Ronald Reagan mentioned economic *indices* and then used the singular, three-syllable *\*indice* where *index* might have been expected. See Alan R. Slotkin, "Media Watch," 58 *Am. Speech* 192 (1983).
+## B. And *\*indice*
+
+The erroneous back-formation *\*indice* /**in**-dә-see/ has been around for a while. Although the term is noted as the singular form of *indicia* (= indicators) in the *OED*, it is labeled both rare and obsolete; the surviving alternative, *indicium*, is also rare. What has happened is that the Latinate plural of *index*—*indices*—has confused people into using *\*indice* as a singular (instead of *index*). In September 1982, President Ronald Reagan mentioned economic *indices* and then used the singular, three-syllable *\*indice* where *index* might have been expected. See Alan R. Slotkin, "Media Watch," 58 *Am. Speech* 192 (1983).
 
 Though heard fairly often from television announcers, *\*indice* is seldom seen in print. But it has appeared sporadically since the mid-20th century—e.g.: "Kielholz firmly believes that a younger workforce will be more in tune with the knowledge-worker spirit. However, Kielholz's most important *indice* \[read *index* or, perhaps, *criterion*\] remains IQ." "Employer Meets Burden of Demonstrating Nondiscriminatory Reason for Termination," *N.Y.L.J.*, 17 May 2001, at 17.
 

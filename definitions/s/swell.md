@@ -2,7 +2,9 @@
 
 swell.
 
-**A. Inflected Forms: *swell* \> *swelled* \> *swelled*.** So inflected in AmE. The form *swollen*—quite correct as an adjective \<swollen ankles\>—is a variant past participle in AmE. But in BrE *swollen* is the normal past participle \<her ankles had swollen to twice their ordinary size\>.
+## A. Inflected Forms: *swell* \> *swelled* \> *swelled*
+
+So inflected in AmE. The form *swollen*—quite correct as an adjective \<swollen ankles\>—is a variant past participle in AmE. But in BrE *swollen* is the normal past participle \<her ankles had swollen to twice their ordinary size\>.
 
 In 1936, two British usage critics (preferring *swollen*) said that " ‘*swelled* head' is the only phrase which has the weak form of the participle." H.A. Treble & G.H. Vallins, *An A.B.C. of English Usage* 173 (1936). E.g.: "After two Oscar wins, several nominations and many blockbuster hits, beloved actor Tom Hanks has developed a *swelled* head." Jennie Punter, "Apollo 13," *Globe & Mail* (Toronto), 21 Sept. 2002, at R19 (referring comically to computer enlargement). In fact, we've developed the slang noun *swellhead* to denote an egotist. *Swollen head* (a fine distinction in AmE) tends to refer to a diseased or injured one.
 
@@ -16,7 +18,9 @@ This usage is about five times as common in print as the metaphorical use of *sw
 
 And in AmE, the more usual past participle is *swelled* in other senses as well—e.g.: "Tests showed his brain had *swelled* \[or *swollen*\], a condition that can be fatal." Ed White, "West Nile Sidelines Kids' Radio Bible Voice," *Grand Rapids Press*, 15 Sept. 2002, at A21. See irregular verbs (b).
 
-**B. Dialectal Variants.** The term *\*swoll* is a dialectal form sometimes encountered, usually in recorded speech—e.g.:
+## B. Dialectal Variants
+
+The term *\*swoll* is a dialectal form sometimes encountered, usually in recorded speech—e.g.:
 
  - "Tackle Steve Wallace explained: ‘New Orleans *swoll* up on the goal line. And they stopped us. And we *swoll* up after. It was a theme all week. They would swell up and we had to swell up bigger.' " Don Pierson, "49ers Aren't Well but They're Looking Swell," *Chicago Trib.*, 3 Dec. 1991, at C8.
 

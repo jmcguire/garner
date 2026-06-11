@@ -2,9 +2,13 @@
 
 neither.
 
-**A. Pronunciation.** In AmE generally, /**nee**-thәr/ is the traditionally preferred pronunciation; /**nī**-thәr/ is a mildly pretentious variant in most parts of the country. But in BrE, /**nī**-thә/ or /**nee**-thә/ is usual. Cf. **either (a)**.
+## A. Pronunciation
 
-**B. Number.** As a pronoun, *neither* is traditionally construed as a singular. That is, it should take a singular verb, and any word for which *neither* is an antecedent should also be singular. Hence *neither of the offers was a good one* is grammatically better than *\*neither of the offers were good ones*. E.g.:
+In AmE generally, /**nee**-thәr/ is the traditionally preferred pronunciation; /**nī**-thәr/ is a mildly pretentious variant in most parts of the country. But in BrE, /**nī**-thә/ or /**nee**-thә/ is usual. Cf. **either (a)**.
+
+## B. Number
+
+As a pronoun, *neither* is traditionally construed as a singular. That is, it should take a singular verb, and any word for which *neither* is an antecedent should also be singular. Hence *neither of the offers was a good one* is grammatically better than *\*neither of the offers were good ones*. E.g.:
 
  - "The fact is that *neither* of these men *were* \[read *was*\] an expert on language." John McWhorter, *The Word on the Street* 63 (1998).
 
@@ -25,7 +29,9 @@ But often it's not that simple. In the first example below, the plural *themselv
  - *neither* as a pronoun erroneously construed with a plural verb: Stage 3
  - Current ratio in print (*Neither of them is* vs. *\*Neither of them are*): 2:1
 
-**C. Beginning Sentences with.** It is permissible to begin a sentence with *neither*—just as it is with *nor*—when embarking on yet another negative subject. E.g.:
+## C. Beginning Sentences with
+
+It is permissible to begin a sentence with *neither*—just as it is with *nor*—when embarking on yet another negative subject. E.g.:
 
  - "*Neither* must we suppose that the size of the book makes any difference: big books are not necessarily scholarly, nor small ones superficial." Frank Wilson Cheney Hersey, *English Composition* 9 (1921).
 

@@ -4,7 +4,9 @@ Hypercorrection. Sometimes people strive to abide by the strictest etiquette, bu
 
 This foible can have several causes. Often, it results from an attempt to avoid what the writer wrongly supposes to be a grammatical error. (See superstitions.) At other times, it results from an incomplete grasp of a foreign grammar, coupled with an attempt to conform to that grammar. Yet again, it sometimes results from a misplaced sense of logic overriding a well-established idiom. A few of the most common manifestations are enumerated below.
 
-**A. False Latin Plurals.** One with a smattering of Latin learns that, in that language, most nouns ending in *-us* have a plural ending in *-i*: *genius* forms *genii*, *nimbus* forms *nimbi*, *syllabus* forms *syllabi*, *terminus* forms *termini*, and so on. The trouble is that not all of them do end in *-i*, so traps abound for those trying to show off their sketchy knowledge of Latin:
+## A. False Latin Plurals
+
+One with a smattering of Latin learns that, in that language, most nouns ending in *-us* have a plural ending in *-i*: *genius* forms *genii*, *nimbus* forms *nimbi*, *syllabus* forms *syllabi*, *terminus* forms *termini*, and so on. The trouble is that not all of them do end in *-i*, so traps abound for those trying to show off their sketchy knowledge of Latin:
 
 | Hypercorrect Plural | Latin Plural | English Plural |
 |---|---|---|
@@ -19,7 +21,9 @@ This foible can have several causes. Often, it results from an attempt to avoid 
 | prospecti | prospectus | prospectuses |
 | stati | status | statuses |
 
-**B. Pronoun Troubles.** Replacements of *me* with a hypercorrect
+## B. Pronoun Troubles
+
+Replacements of *me* with a hypercorrect
 *I*—instances of word-swapping with pronouns—are nothing new. They may be
 ever more frequent, but the trend started long ago. As far back as 1956,
 James Thurber wrote about the issue in a letter to Lewis Gannett, the
@@ -133,7 +137,9 @@ element of English speech, such as first-person and third-person pronouns.
 
  - Current ratio in print (*between him and me* vs. **between him and I*): 20:1
 
-**C. Number Problems.** Sometimes, in the quest for correctness, writers let
+## C. Number Problems
+
+Sometimes, in the quest for correctness, writers let
 their sense of grammar override long-established idioms. They may write, for
 example, *\*A number of people was there*, when the correct form is *A number
 of people were there*. Or they will write, \**A handful of problems arises
@@ -141,19 +147,25 @@ from that approach*," instead of *A handful of problems arise from that
 approach*. For more on these correct but "antigrammatical" constructions,
 see synesis & **number of**.
 
-**D. Redundantly Formed Adverbs.** The forms *doubtless*, *much*, and *thus*
+## D. Redundantly Formed Adverbs
+
+The forms *doubtless*, *much*, and *thus*
 are adverbs, yet some writers overcompensate by adding *-ly*, thereby
 forming
 barbarisms: *doubtlessly*, *muchly*, and *thusly*. See adverbs (d).
 
-**E. *As* for *like*.** When writers fear using *like* as a
+## E. *As* for *like*
+
+When writers fear using *like* as a
 conjunction, they sometimes fail to use it when it would function
 appropriately as a preposition or adverb. Thus *She sings like a bird*
 becomes **She sings as a bird*. But the latter sentence sounds as if it is
 explaining the capacity in which she sings. The hypercorrection, then,
 results in a miscue. See **like (c)**.
 
-**F. *Whom* for *who*.** Perhaps writers should get points for
+## F. *Whom* for *who*
+
+Perhaps writers should get points for
 trying, but those who don't know how to use *whom* should abstain in
 questionable contexts. That is, *against whom*, *for whom*, and the like may
 generally be instances in which the writer knows to choose *whom*. But
@@ -164,7 +176,9 @@ Slowed but Hasn't Stopped as a Writer," *Fresno Bee*, 3 Aug. 1997, at G2.
 Although *whom* in that sentence may seem to be the object of *realizes*, in
 fact it is the subject of the verb *is*. See **who** & pronouns (b).
 
-**G. Unsplit Infinitives Causing Miscues.** Writers who have given in to the
+## G. Unsplit Infinitives Causing Miscues
+
+Writers who have given in to the
 most widespread of superstitions—or who believe that most of the readers
 have done so—avoid all split infinitives. They should at least avoid
 introducing unclear modifiers into their prose. But many writers do
@@ -179,7 +193,9 @@ her influence subtly over the other*, (3) *Each is trying to subtly exert
 his or her influence over the other*, or (4) *Each is trying to exert his or
 her subtle influence over the other*. See split infinitives.
 
-**H. Unsplit Verb Phrases.** A surprising number of writers believe that
+## H. Unsplit Verb Phrases
+
+A surprising number of writers believe that
 it's a mistake to put an adverb in the midst of a verb phrase. The surprise
 is on them: every language authority who addresses the question holds just
 the opposite view—that the adverb generally *belongs* in the midst of a verb
@@ -187,18 +203,24 @@ phrase. (See adverbs (b).) The canard to the contrary frequently causes
 awkwardness and artificiality—e.g.: "I *soon will be calling* you." (Read:
 *I will soon be calling you*.) See superstitions (c).
 
-**I. Prepositions Moved from the Ends of Sentences.** "That is the type of
+## I. Prepositions Moved from the Ends of Sentences
+
+"That is the type of
 arrant pedantry up with which I shall not put," Winston Churchill is reputed
 to have said. The story is apocryphal, but it handily mocks the priggishness
 that causes some writers and speakers to avoid ending with a preposition.
 See prepositions (b) & superstitions (a).
 
-**J. Borrowed Articles for Borrowed Nouns.** When a naturalized or quasi-
+## J. Borrowed Articles for Borrowed Nouns
+
+When a naturalized or quasi-
 naturalized foreignism appears, the surrounding words—with a few exceptions,
 such as *hoi polloi*—should be English. So one refers to *finding the mot
 juste*, preferably not **finding le mot juste*. But see **hoi polloi**.
 
-**K. Overrefined Pronunciation.** Some foreignisms acquire anglicized
+## K. Overrefined Pronunciation
+
+Some foreignisms acquire anglicized
 pronunciations. For example, in AmE *lingerie* is pronounced in a way that
 the French would consider utterly barbarous: /lon-jә-**ray**/, as opposed to
 /la[n]-**zhree**/. (See **lingerie**.) But for a native speaker of AmE to

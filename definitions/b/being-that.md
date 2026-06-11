@@ -2,7 +2,9 @@
 
 being that.
 
-**A. Meaning "because" or "since.**" Instead of using this awkward phrase in the sense of *because* or *since*, use one of those straightforward words—e.g.:
+## A. Meaning "because" or "since."
+
+Instead of using this awkward phrase in the sense of *because* or *since*, use one of those straightforward words—e.g.:
 
  - "And working with the Big Eye network made sense, *being that* \[read *because*\] the show comes from David Letterman's Worldwide Pants productions, whose other shows . . . are all on CBS." Scott Pierce, " ‘Ed' Perseveres," *Deseret News* (Salt Lake City), 17 Nov. 2000, at C8. (Delete the comma before the newly inserted *because*.)
 
@@ -12,7 +14,9 @@ being that.
 
 Sometimes the best replacement is *given that* or *in that*—e.g.: "I guess they finally understand Bush has many supporters in Kentucky, *being that* \[read *given that* or *in that*\] he won the state by a sizable margin." Letter of Greg Schuler, "The C-J Headline," *Courier-J.* (Louisville), 19 Dec. 2000, at A6.
 
-**B. In an Absolute Construction.** This phrase often appears in what grammarians call a "nominative absolute"—e.g.:
+## B. In an Absolute Construction
+
+This phrase often appears in what grammarians call a "nominative absolute"—e.g.:
 
  - "Berglund . . . said the company has learned a lot since the company entered the market four years ago, the biggest surprise *being that* shoppers actually like grocery shopping." Patricia Wen, "Old Ways Run Deep," *Boston Globe*, 17 Nov. 2000, at A1.
 

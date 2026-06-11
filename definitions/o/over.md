@@ -2,7 +2,9 @@
 
 over.
 
-**A. For *more than*.** In one of its uses, the prepositional *over* is interchangeable with *more than* \<over 600 people were there\>—and this has been so for more than 600 years. The charge that *over* is inferior to *more than* is a baseless crotchet. E.g.:
+## A. For *more than*
+
+In one of its uses, the prepositional *over* is interchangeable with *more than* \<over 600 people were there\>—and this has been so for more than 600 years. The charge that *over* is inferior to *more than* is a baseless crotchet. E.g.:
 
  - "Reagan won the election by *over* a million votes." Gerard De Groot, "Reagan's Rise," *History Today*, Sept. 1995, at 31.
 
@@ -14,5 +16,7 @@ In 2014 even the Associated Press came around, finally sanctioning *over* "in al
 
  - Current ratio in print (*more than a hundred* vs. *over a hundred*): 1:1.03
 
-**B. *Over-* as a Combining Form.** See **overly**.
+## B. *Over-* as a Combining Form
+
+See **overly**.
 

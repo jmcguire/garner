@@ -2,7 +2,9 @@
 
 nouveau riche.
 
-**A. Generally.** *Nouveau riche* (= \[1\] a newly rich person; or \[2\] newly rich people collectively) is sometimes misspelled *\*nouveau rich*—e.g.: "It will be for Deng's heirs to deal with problems such as the widening gap between China's *nouveau rich* \[read *nouveau riche*\] and rural poor." James Cox, "Deng Xiaoping: 1904–1997," *USA Today*, 20 Feb. 1997, at A1.
+## A. Generally
+
+*Nouveau riche* (= \[1\] a newly rich person; or \[2\] newly rich people collectively) is sometimes misspelled *\*nouveau rich*—e.g.: "It will be for Deng's heirs to deal with problems such as the widening gap between China's *nouveau rich* \[read *nouveau riche*\] and rural poor." James Cox, "Deng Xiaoping: 1904–1997," *USA Today*, 20 Feb. 1997, at A1.
 
 The phrase keeps the French plural *nouveaux riches,* as it has since it was first used in the 1790s. But some mistakenly write *\*nouveau riches* or even (as a plural) *\*nouveau rich*—e.g.:
 
@@ -30,7 +32,9 @@ The singular and plural forms are pronounced /noo-voh **reesh**/.
 
 3. *nouveau riche* in reference to newfound wealth: Stage 1
 
-**B. And Its Near-Synonyms: *parvenu*; *arriviste*.** The gallicisms *parvenu* /**pahr**-vә-noo/ and *arriviste* /ah-ree-**veest**/ are synonymous, meaning "a person who is newly rich; an upstart." Probably the worst put-down of the three, *arriviste* can also refer to someone who has recently acquired power or success that isn't necessarily monetary.
+## B. And Its Near-Synonyms: *parvenu*; *arriviste*
+
+The gallicisms *parvenu* /**pahr**-vә-noo/ and *arriviste* /ah-ree-**veest**/ are synonymous, meaning "a person who is newly rich; an upstart." Probably the worst put-down of the three, *arriviste* can also refer to someone who has recently acquired power or success that isn't necessarily monetary.
 
 Although *nouveau riche* is by far the most widespread of these terms, the others are hardly rare—e.g.:
 

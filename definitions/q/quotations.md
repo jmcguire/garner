@@ -2,11 +2,15 @@
 
 Quotations .
 
-**A. Use of Quoted Material.** The deft and incidental use of quotations is a rare art. Inept writers tend to overuse block quotations (see (b)). Those who do this abrogate their duty—namely, to *write*. Readers tend to skip over single-spaced mountains of prose, knowing how unlikely it is that so much of a previous writer's material pertains directly to the matter at hand.
+## A. Use of Quoted Material
+
+The deft and incidental use of quotations is a rare art. Inept writers tend to overuse block quotations (see (b)). Those who do this abrogate their duty—namely, to *write*. Readers tend to skip over single-spaced mountains of prose, knowing how unlikely it is that so much of a previous writer's material pertains directly to the matter at hand.
 
 Especially to be avoided is quoting another writer at the end of a paragraph or section, a habit infused with laziness. Skillful quoters subordinate the quoted material to their own prose and use only the most clearly relevant parts of the previous writing. And even then, they weave it into their own narrative or analysis, not allowing the quoted to overpower the quoter.
 
-**B. Handling Block Quotations.** The best way to handle them, of course, is not to handle them at all: quote smaller chunks. Assuming, though, that this goal is unattainable—as many writers seem to think it is—then the biggest challenge is handling a quotation so that it will actually get read. The secret is in the lead-in.
+## B. Handling Block Quotations
+
+The best way to handle them, of course, is not to handle them at all: quote smaller chunks. Assuming, though, that this goal is unattainable—as many writers seem to think it is—then the biggest challenge is handling a quotation so that it will actually get read. The secret is in the lead-in.
 
 Before discussing how a good lead-in reads, let's look at the way many of them read. These are dreadful:
 
@@ -60,7 +64,9 @@ When the writer gives the upshot in the introductory words, readers aren't left 
 
 This method has the benefit not only of ensuring that the quotation is read but also of enhancing the writer's credibility. For if the lead-in is pointed as well as accurate, the reader will agree that the quotation supports the writer's assertion.
 
-**C. Punctuating the Lead-In.** Writers usually have four choices: a colon, a comma, a period (i.e., no lead-in, really—only an independent sentence before the quotation), or no punctuation. A long quotation ordinarily requires a colon—e.g.:
+## C. Punctuating the Lead-In
+
+Writers usually have four choices: a colon, a comma, a period (i.e., no lead-in, really—only an independent sentence before the quotation), or no punctuation. A long quotation ordinarily requires a colon—e.g.:
 
 My concern today is with what might be called the Higher Bibliography (*bibliology* would be a better word), and in particular with the superior historical certainty increasingly claimed for such investigations. Here, as a sample, is a characteristic pronouncement:
 
@@ -90,9 +96,13 @@ Janet Groth, *Edmund Wilson: A Critic for Our Time* 25 (1989).
 
 The mere fact that what is being introduced is a block quotation does not mean that some additional punctuation is necessary.
 
-**D. American and British Systems.** In AmE, quotations that are short enough to be run in to the text (usually fewer than 50 words) are set off by pairs of *double* quotation marks (". . ."). In BrE, quoted text that is not long enough to be a block quotation is set off by *single* quotation marks (‘. . .'). See punctuation (n).
+## D. American and British Systems
 
-**E. Ellipses.** A good way to trim down a bloated quotation—and to increase the odds of having it read—is to cut irrelevant parts. When you omit one or more words, you show the omission by using ellipsis points (a series of three period-dots) with one space before, after, and between them:
+In AmE, quotations that are short enough to be run in to the text (usually fewer than 50 words) are set off by pairs of *double* quotation marks (". . ."). In BrE, quoted text that is not long enough to be a block quotation is set off by *single* quotation marks (‘. . .'). See punctuation (n).
+
+## E. Ellipses
+
+A good way to trim down a bloated quotation—and to increase the odds of having it read—is to cut irrelevant parts. When you omit one or more words, you show the omission by using ellipsis points (a series of three period-dots) with one space before, after, and between them:
 
 In several scenes . . . the players bear down and the camera bores in with an intensity that suggests the sense of liberty, even in matters irrelevant to censorship, that freedom from the Hays code can bring.
 

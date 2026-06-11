@@ -2,13 +2,17 @@
 
 foot-and-mouth disease.
 
-**A. And *hoof-and-mouth disease*.** Although some commentators have erroneously suggested otherwise, the phrase *foot-and-mouth disease* has long predominated in AmE and BrE alike, as well as in veterinary medicine. It dates from the 1850s. The phrase *hoof-and-mouth disease*, an Americanism dating from the 1880s, may have a stronger claim to logic (since hoofed animals aren't usually said to have "feet"). Yet it never progressed beyond its status as a casualism and a secondary variant.
+## A. And *hoof-and-mouth disease*
+
+Although some commentators have erroneously suggested otherwise, the phrase *foot-and-mouth disease* has long predominated in AmE and BrE alike, as well as in veterinary medicine. It dates from the 1850s. The phrase *hoof-and-mouth disease*, an Americanism dating from the 1880s, may have a stronger claim to logic (since hoofed animals aren't usually said to have "feet"). Yet it never progressed beyond its status as a casualism and a secondary variant.
 
 There is also an unrelated childhood condition called "Hand, Foot, and Mouth Disease," characterized by ulcerated sores in the mouth and rashes on the extremities.
 
  - Current ratio in print (*foot-and-mouth disease* vs. *hoof-and-mouth disease*): 24:1
 
-**B. Whether to Hyphenate.** During the devastating 2001 outbreak of the disease in Europe, five major newspapers and magazines over a two-day period hyphenated the phrasal adjective, and one didn't:
+## B. Whether to Hyphenate
+
+During the devastating 2001 outbreak of the disease in Europe, five major newspapers and magazines over a two-day period hyphenated the phrasal adjective, and one didn't:
 
  - "The Irish Republic yesterday confirmed its first case of *foot-and-mouth disease* in the current outbreak." John Murray Brown et al., "Foot-and-Mouth in Irish Republic," *Fin. Times*, 23 Mar. 2001, at 1 (hyphenating in both text and headline).
 

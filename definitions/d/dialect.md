@@ -2,11 +2,15 @@
 
 Dialect .
 
-**A. Definition.** The term *dialect* has two main senses: (1) in the popular sense, it refers to any linguistic variety other than the standard language; (2) in the modern linguist's sense, it refers to any linguistic variety that is shared by a group of speakers, including the standard variety. Sense 1 is sometimes thought to have negative connotations, since it applies chiefly to nonprestigious varieties; sense 2 tends to be neutral, since it applies to all varieties. To those who adhere to sense 1, a dialect cannot be standard, and a phrase like *the standard dialect* is an oxymoron; to those who adhere to sense 2, the phrase makes perfect sense.
+## A. Definition
+
+The term *dialect* has two main senses: (1) in the popular sense, it refers to any linguistic variety other than the standard language; (2) in the modern linguist's sense, it refers to any linguistic variety that is shared by a group of speakers, including the standard variety. Sense 1 is sometimes thought to have negative connotations, since it applies chiefly to nonprestigious varieties; sense 2 tends to be neutral, since it applies to all varieties. To those who adhere to sense 1, a dialect cannot be standard, and a phrase like *the standard dialect* is an oxymoron; to those who adhere to sense 2, the phrase makes perfect sense.
 
 Granting the utility of the linguist's sense 2, we adopt the popular sense for purposes of this book—without meaning to denigrate the many nonstandard varieties that enrich the English language and its literature.
 
-**B. The Nature of Dialect.** Dialects are mainly of two types: *regional dialects* and *class dialects*. Regional dialects result from geographic dispersion and settlement patterns. For the U.S., the regional types have been carefully catalogued and charted in Frederic G. Cassidy and Joan Houston Hall's *Dictionary of American Regional English.* Class dialects can indicate upbringing or educational level, sometimes both. Over time, class dialects have eclipsed regional dialects in importance: "In the course of the history of the English language regional dialects have become less important as more and more speakers have learned to speak standard English, but class dialects have, for good or ill, become more important." G.L. Brook, *A History of the English Language* 14 (1958).
+## B. The Nature of Dialect
+
+Dialects are mainly of two types: *regional dialects* and *class dialects*. Regional dialects result from geographic dispersion and settlement patterns. For the U.S., the regional types have been carefully catalogued and charted in Frederic G. Cassidy and Joan Houston Hall's *Dictionary of American Regional English.* Class dialects can indicate upbringing or educational level, sometimes both. Over time, class dialects have eclipsed regional dialects in importance: "In the course of the history of the English language regional dialects have become less important as more and more speakers have learned to speak standard English, but class dialects have, for good or ill, become more important." G.L. Brook, *A History of the English Language* 14 (1958).
 
 Because education typically entails the inculcation of standard language (as a result of both classroom learning and peer pressure, often more strongly the latter), what results is often a type of bidialectalism. As Otto Jespersen, one of the great linguists, put it: "People whose minds are awake and developed cannot be confined to a dialect." *Mankind, Nation, and Individual from a Linguistic Point of View* 71 (1946). So a person who grows up speaking dialect may later acquire standard english and be able to move comfortably into and out of the two linguistic varieties. This is known to linguists as "dialect-switching" or "code-switching."
 
@@ -18,7 +22,9 @@ This book, of course, is principally about Standard English. So when the text sa
 
 Although some people regret the demise of dialects with the spread of Standard English, others are inclined to believe that this is a good thing. Otto Jespersen was among the latter: "If we think out logically and bravely what is for the good of society, our view of language will lead us to the conclusion that it is our duty to work in the direction which natural evolution has already taken, i.e. towards the diffusion of the common language at the cost of local dialects." Jespersen, *Mankind, Nation, and Individual from a Linguistic Point of View* 72 (1946). On the other hand, dialects are surprisingly hardy and perennial, as other linguists have noted: "With monotonous regularity writers on dialect say that dialects are passing out of use and that it will soon be too late to record them, but if dialects are dying they are, like King Charles II, taking an unconscionable time about it." G.L. Brook, *A History of the English Language* 199 (1958).
 
-**C. Dialect Exemplified.** Every educated American will have heard plenty of dialect, whether in ordinary life or in films and TV shows. We could not attempt an exhaustive guide to the wide variety of nonstandard English dialects here. Many dialects are not strictly limited by geography within the U.S.; to determine geographic dispersion, you might consult any of the many linguistic atlases that pinpoint the distribution of different forms. Here we merely want to give a few examples of the ways in which nonstandard dialects differ from Standard English, noting that they are not random or accidental departures from correctness; they are systematic. Perhaps the most noticeable kind of dialectal difference is the use of words that Standard English doesn't have:
+## C. Dialect Exemplified
+
+Every educated American will have heard plenty of dialect, whether in ordinary life or in films and TV shows. We could not attempt an exhaustive guide to the wide variety of nonstandard English dialects here. Many dialects are not strictly limited by geography within the U.S.; to determine geographic dispersion, you might consult any of the many linguistic atlases that pinpoint the distribution of different forms. Here we merely want to give a few examples of the ways in which nonstandard dialects differ from Standard English, noting that they are not random or accidental departures from correctness; they are systematic. Perhaps the most noticeable kind of dialectal difference is the use of words that Standard English doesn't have:
 
 | *Dialect* | ***Standard*** |
 |---|---|
@@ -86,7 +92,9 @@ One of the most salient and noticeable features of nonstandard dialects relates 
 
 The *Longman Pronunciation Dictionary* by J.C. Wells (3d ed. 2008) is a thorough and reliable guide to English pronunciation using the International Phonetic Alphabet. It gives the BrE pronunciation first and the Standard American English pronunciation second.
 
-**D. Bibliography.** There is a rich body of literature on the dialects of North America and Britain. The following books make for a good starting point:
+## D. Bibliography
+
+There is a rich body of literature on the dialects of North America and Britain. The following books make for a good starting point:
 
  - G.L. Brook, *Varieties of English* (1973).
  - Craig M. Carver, *American Regional Dialects* (1987).

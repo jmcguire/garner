@@ -2,9 +2,13 @@
 
 Names .
 
-**A. Capitalization.** Many complex rules govern the capitalization of names—too many to cover here. But a few especially important ones merit mention. First, names that are proper nouns—such as names of people, places, books, articles, and the like—are capitalized \<President Ronald Reagan\> \<Atlanta, Georgia\> \<*Gone with the Wind*\>. That's the rule that everybody knows. Second, when a name such as *Hockaday School* is reduced to a shortened form (the *School*) after the first reference, even the common noun *school* may be capitalized because it's a short-form proper noun. This practice is common for in-house publications such as annual reports. And in legal writing, a statute is commonly referred to as *the Act* after the first reference, and the court one is addressing is always *the Court*. Keep in mind, though, that in most prose the practice can get out of hand: "\[D\]o not capitalize a short form unless it clearly warrants the importance, distinction, or emphasis that capitalization conveys." *Gregg Reference Manual* Rule 310 (10th ed. 2004). And third, when a name for some idiosyncratic reason isn't usually capitalized \<k.d. lang\>, the first letter must be capitalized when it begins a sentence \<K.d. lang sang a few of her hit songs\>. (Some editors would write her name K.D. Lang regardless of her preference for lowercase. Cf. **Cummings**.) For a full coverage of the many complexities of capitalizing names, see *The Chicago Manual of Style*. See capitalization (a).
+## A. Capitalization
 
-**B. *Jr.*; *Sr.*; *III*; etc.** There are four traditional rules about the use of these labels in modern AmE—most of them forgotten in modern usage though scattered throughout etiquette books.
+Many complex rules govern the capitalization of names—too many to cover here. But a few especially important ones merit mention. First, names that are proper nouns—such as names of people, places, books, articles, and the like—are capitalized \<President Ronald Reagan\> \<Atlanta, Georgia\> \<*Gone with the Wind*\>. That's the rule that everybody knows. Second, when a name such as *Hockaday School* is reduced to a shortened form (the *School*) after the first reference, even the common noun *school* may be capitalized because it's a short-form proper noun. This practice is common for in-house publications such as annual reports. And in legal writing, a statute is commonly referred to as *the Act* after the first reference, and the court one is addressing is always *the Court*. Keep in mind, though, that in most prose the practice can get out of hand: "\[D\]o not capitalize a short form unless it clearly warrants the importance, distinction, or emphasis that capitalization conveys." *Gregg Reference Manual* Rule 310 (10th ed. 2004). And third, when a name for some idiosyncratic reason isn't usually capitalized \<k.d. lang\>, the first letter must be capitalized when it begins a sentence \<K.d. lang sang a few of her hit songs\>. (Some editors would write her name K.D. Lang regardless of her preference for lowercase. Cf. **Cummings**.) For a full coverage of the many complexities of capitalizing names, see *The Chicago Manual of Style*. See capitalization (a).
+
+## B. *Jr.*; *Sr.*; *III*; etc
+
+There are four traditional rules about the use of these labels in modern AmE—most of them forgotten in modern usage though scattered throughout etiquette books.
 
 First, a father should not adopt the *Sr.* label, nor should others refer to him that way without good reason. That's what the etiquette mavens have long said—e.g.:
 
@@ -48,7 +52,9 @@ But in the mid-1990s, the president of the American Law Institute, Charles Alan 
 
 Both forms are correct. Besides logic, the comma-less form probably has the future on its side; for one thing, it makes possessives possible (*John Jones Jr.'s book*). The with-comma form has recent (not ancient) tradition on its side. Posterity will be eager to discover, no doubt, how this earth-shattering dilemma is resolved in the decades ahead. One consideration that militates in favor of the comma-less form is that, in a sentence, one comma begets another: "John Jones, Jr. was elected" seems to be telling Jones that Jr. was elected. With a comma before *Jr.*, another is needed after: "John Jones, Jr., was elected."
 
-**C. Pronunciation of Foreign Names.** As the international lingua franca, English has achieved a greater degree of eclecticism than any other language in history. It has borrowed words from most other major languages, often copiously. It has almost universally anglicized its borrowings—using English phonemes (speech sounds) to approximate the sound of a word in the language of the word's origin. The English word *ketchup*, for example, derives from the Cantonese term *k'ē chap*, which is not authentically pronounceable with English phonemes. No sensible speaker of Cantonese, when visiting the U.S., would object that Americans "mispronounce" *ketchup*, any more than a sensible American would object that Thais, when speaking Thai, say something like /kahm-pyoo-**tʊ**-\[ә\]/ for *computer* or /a-**pәn**/ for *apple* (both of which are Thai borrowings from English).
+## C. Pronunciation of Foreign Names
+
+As the international lingua franca, English has achieved a greater degree of eclecticism than any other language in history. It has borrowed words from most other major languages, often copiously. It has almost universally anglicized its borrowings—using English phonemes (speech sounds) to approximate the sound of a word in the language of the word's origin. The English word *ketchup*, for example, derives from the Cantonese term *k'ē chap*, which is not authentically pronounceable with English phonemes. No sensible speaker of Cantonese, when visiting the U.S., would object that Americans "mispronounce" *ketchup*, any more than a sensible American would object that Thais, when speaking Thai, say something like /kahm-pyoo-**tʊ**-\[ә\]/ for *computer* or /a-**pәn**/ for *apple* (both of which are Thai borrowings from English).
 
 A borrowing language, in other words, makes loanwords more native—more pronounceable—by using the closest available phonemes. What results, when the usage becomes widespread, is a "correct" pronunciation in the borrowing language. A speaker striving to be correct shouldn't reach for an affected pronunciation using foreign phonemes unavailable to other speakers of the borrowing language.
 
@@ -124,7 +130,9 @@ Milosevic: /mi-**loh**-sә-vich/, not /mi-**loh**-sә-vik/
 
  - Versailles (France): /vә-**sī**/ or /vәr-**sī**/Versailles (Kentucky or Pennsylvania): /vәr-**saylz**/
 
-**D. Names with Particles.** Many names contain particle prefixes such as *al*, *d'*, *de*, *della*, *der*, *du*, *el*, *la*, *mac*, *ten*, *ter*, *van*, and *von*. If a prefix has been compounded with the remainder of the surname, the correct form takes little thought \<Lafarge\> \<Debussy\> \<Vandergriff\>. But things can become more complicated with proper names having separate particles. When used with a person's full name or with a title, the particle is retained as part of the surname \<Count von Zeppelin\> \<Princess Marie de Bourbon\> \<Justice van Zandt\> \<Professor Ahmad al-Hariq\> \<Mrs. La Ruiz\>. By contrast, when the surname is used alone, whether the particle remains depends on the name's origin, the particle's function (that is, whether it's a preposition, an article, or an expression of descent), and certain customary usages.
+## D. Names with Particles
+
+Many names contain particle prefixes such as *al*, *d'*, *de*, *della*, *der*, *du*, *el*, *la*, *mac*, *ten*, *ter*, *van*, and *von*. If a prefix has been compounded with the remainder of the surname, the correct form takes little thought \<Lafarge\> \<Debussy\> \<Vandergriff\>. But things can become more complicated with proper names having separate particles. When used with a person's full name or with a title, the particle is retained as part of the surname \<Count von Zeppelin\> \<Princess Marie de Bourbon\> \<Justice van Zandt\> \<Professor Ahmad al-Hariq\> \<Mrs. La Ruiz\>. By contrast, when the surname is used alone, whether the particle remains depends on the name's origin, the particle's function (that is, whether it's a preposition, an article, or an expression of descent), and certain customary usages.
 
 In Romance languages (such as French, Spanish, Italian, and Portuguese), particles that are also prepositions meaning "of," "from," or "at" are not capitalized. If the main part of the surname is a single syllable, the preposition is retained when the surname is used alone—hence *Charles de Gaulle* becomes *de Gaulle* and *Pierre de Weck* becomes *de Weck*. If a surname is longer than one syllable, the preposition is usually dropped—hence *Simon de Montfort* becomes *Montfort* and *Eduardo de Carvalho* becomes *Carvalho*. When *d'* is used, it is normally retained, regardless of the length of the surname—e.g., *Jean d'Arc* becomes *d'Arc* and *Tullio d'Attore* becomes *d'Attore*. All other particles are always capitalized and are retained in the surname—so *John Dos Passos* becomes *Dos Passos*, *Jacques La Motte* becomes *La Motte*, and *Georges Des Périers* becomes *Des Périers*. If a name contains a preposition plus another particle, the preposition remains lowercase and is dropped when the surname stands alone—e.g., *Françoise de La Tour* yields *La Tour* and *Tomas de La Ruiz* yields *La Ruiz*. The one exception to lowercasing prepositions occurs when a preposition has been compounded with the remainder of the name, as in *Claude Debussy* (*Debussy*) and *Henri Darnley* (*Darnley*).
 
@@ -144,17 +152,27 @@ Some names were anglicized long ago and won't be familiar if the anglicized form
 
 A final note: despite the myriad conventions here discussed, every lowercase particle gets capitalized at the beginning of a sentence—e.g., *Bin Laden ranted about . . .* , *D'Arc presented a problem . . .* , *De la Renta's fashion show was . . .* , *De Mille's final epic demonstrated . . . .* See (a).
 
-**E. British Practices with American Place Names.** British writers do a strange thing with American place names: they use the adjectival form ending in *n* where Americans wouldn't change the name at all. Hence the British might refer to Bill Clinton's *Arkansan property*, as opposed to his *Arkansas property*. And notice what British writers do in the following examples—wrongly from the American's perspective:
+## E. British Practices with American Place Names
+
+British writers do a strange thing with American place names: they use the adjectival form ending in *n* where Americans wouldn't change the name at all. Hence the British might refer to Bill Clinton's *Arkansan property*, as opposed to his *Arkansas property*. And notice what British writers do in the following examples—wrongly from the American's perspective:
 
  - "He died Friday night at his *Californian* \[read *California*\] ranch in Big Sur." Clive Cookson, "Linus Pauling: Leader in Chemistry," *Fin. Times*, 22 Aug. 1994, at 4.
 
  - Peter Tory, "Delicious *Texan* \[read *Texas*\] Recipe for Criminal ‘Appetites,' " *Daily Express* (London), 26 Aug. 1994, at 9.
 
-**F. Proper Names as Adjectives.** See adjectives (d).
+## F. Proper Names as Adjectives
 
-**G. Pluralizing Proper Names.** See plurals (f).
+See adjectives (d).
 
-**H. Names for Place Residents and Natives.** See demonyms.
+## G. Pluralizing Proper Names
 
-**I. Other Sources.** For good general studies, see Justin Kaplan & Anne Bernays, *The Language of Names* (1997), and Elsdon C. Smith, *Treasury of Name Lore* (1967). For books on how proper names have become everyday words, see Eugene Ehrlich, *What's in a Name?* (1999); Andrew Sholl, *Wellingtons, Watts & Windsor* (1997); and Rosie Boycott, *Batty, Bloomers and Boycott* (1983). For a source on possessive phrases made from proper names (e.g., *Achilles' heel*, *Adam's rib*, *Halley's comet*), see Dorothy Rose Blumberg, *Whose What?* (1969).
+See plurals (f).
+
+## H. Names for Place Residents and Natives
+
+See demonyms.
+
+## I. Other Sources
+
+For good general studies, see Justin Kaplan & Anne Bernays, *The Language of Names* (1997), and Elsdon C. Smith, *Treasury of Name Lore* (1967). For books on how proper names have become everyday words, see Eugene Ehrlich, *What's in a Name?* (1999); Andrew Sholl, *Wellingtons, Watts & Windsor* (1997); and Rosie Boycott, *Batty, Bloomers and Boycott* (1983). For a source on possessive phrases made from proper names (e.g., *Achilles' heel*, *Adam's rib*, *Halley's comet*), see Dorothy Rose Blumberg, *Whose What?* (1969).
 

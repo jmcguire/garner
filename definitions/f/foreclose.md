@@ -2,7 +2,9 @@
 
 foreclose.
 
-**A. Constructions with.** Today, *foreclose* most commonly indicates one or more possibilities \<his failing the exam forecloses the possibility of a promotion\>. The word is more common in AmE than in BrE.
+## A. Constructions with
+
+Today, *foreclose* most commonly indicates one or more possibilities \<his failing the exam forecloses the possibility of a promotion\>. The word is more common in AmE than in BrE.
 
 In the context of a real-estate foreclosure, the verb is generally intransitive: one *forecloses on* property or a mortgage. E.g.: "William J. Hedebrand, a man the town took to court in 1984 over a house he built illegally in West Suffield, is now trying to persuade the town not to *foreclose on* his property." Mindy A. Antonio, "Man Offers to Settle Debt He Owes Suffield," *Hartford Courant*, 22 Dec. 1994, at B1.
 
@@ -12,7 +14,9 @@ Some writers even use *\*foreclose against*, but *on* is more idiomatic—e.g.: 
 
 *Foreclose* (a person) *from* (an action) is an archaic construction still occasionally used, but the instances are too convoluted to quote. That in itself should serve as adequate warning to avoid it.
 
-**B. Misspelled *\*forclose*.** *\*Forclose* is an erroneous form that sometimes appears—e.g.:
+## B. Misspelled *\*forclose*
+
+*\*Forclose* is an erroneous form that sometimes appears—e.g.:
 
  - "And both the Norwest Bank and the Federal Land Bank have moved in court to *forclose* \[read *foreclose*\] on the farm." "Illicit Crop Almost Saved Farm," *N.Y. Times*, 7 Sept. 1988, at A24.
 

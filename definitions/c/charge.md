@@ -2,7 +2,9 @@
 
 charge, n. & v.t. **A. In the Sense "accusation."** To write that someone has been *accused* of a *charge* is a redundancy. E.g.: "On May 1, Jackson, the former captain of the women's track team, and the other women went to the Navy Yard in Washington to testify at an Article 32 hearing, the military's version of a grand jury. That night, *she was accused of a charge of her own* \[read *she herself was accused* or *she herself was charged with an offense*\]." JoAnna Daemmrich, "Mid Charged with Lying," *Baltimore Sun*, 3 June 1996, at B1. See **accuse**.
 
-**B. Active and Passive Use.** *In charge of* can have either an active or a passive sense—e.g.:
+## B. Active and Passive Use
+
+*In charge of* can have either an active or a passive sense—e.g.:
 
  - "The farmhand was left *in charge of* the livestock."
 

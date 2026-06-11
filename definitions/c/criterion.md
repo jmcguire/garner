@@ -2,7 +2,9 @@
 
 criterion.
 
-**A. And the Plural Form *criteria*.** *Criteria* is the plural, *criterion* the (originally Greek) singular. A Ph.D. in linguistics once defended *criteria* as a singular because "not everyone knows that the singular is *criterium*"\! (Indeed.) (See (c).) The plural *\*criterions* is occasionally seen, but it has failed to become standard. Infrequently, though not infrequently enough, one even sees *\*criterias*. Here are the correct forms:
+## A. And the Plural Form *criteria*
+
+*Criteria* is the plural, *criterion* the (originally Greek) singular. A Ph.D. in linguistics once defended *criteria* as a singular because "not everyone knows that the singular is *criterium*"\! (Indeed.) (See (c).) The plural *\*criterions* is occasionally seen, but it has failed to become standard. Infrequently, though not infrequently enough, one even sees *\*criterias*. Here are the correct forms:
 
  - "The commission . . . has published its *criteria* for eligibility. Its central, repeated *criterion* for participation in the debates: ‘the realistic chance of being elected.' " William Safire, "Three's a Crowd at the Debates," *Cincinnati Enquirer*, 6 Sept. 1996, at A18.
 
@@ -26,7 +28,9 @@ Cf. **media** & **phenomenon**. See plurals (b).
 2. *\*criterions* as a plural: Stage 1
  - Current ratio in print (*criteria* vs. *\*criterions*): 668:1
 
-**B. *Criterion* Misused as a Plural.** Oddly, perhaps because *criteria* is so often wrongly thought to be singular, the correct singular and plural forms have—in some writers' minds—done something of a role reversal. So *criterion* is sometimes incorrectly used as the plural form—e.g.:
+## B. *Criterion* Misused as a Plural
+
+Oddly, perhaps because *criteria* is so often wrongly thought to be singular, the correct singular and plural forms have—in some writers' minds—done something of a role reversal. So *criterion* is sometimes incorrectly used as the plural form—e.g.:
 
  - "A state law adopted in 1959 outlines many *criterion* \[read *criteria*\] for consolidation, but no communities have ever met all the *criterion* \[read *criteria*\]." Kimberly Garcia, "Town, Village Cooperate for a Change," *Wis. State J.*, 31 Oct. 1994, at B1.
 
@@ -37,7 +41,9 @@ Cf. **media** & **phenomenon**. See plurals (b).
  - *criterion* as a false plural for *criteria*: Stage 1
  - Current ratio in print (*several criteria* vs. *\*several criterion*): 165:1
 
-**C. And *criterium*.** Since about 1970, *criterium* has denoted "a bicycle race of a specified number of laps on a closed course over public roads closed to normal traffic" (*W11*). The word was borrowed from the French, in which *critérium* means "competition." E.g.:
+## C. And *criterium*
+
+Since about 1970, *criterium* has denoted "a bicycle race of a specified number of laps on a closed course over public roads closed to normal traffic" (*W11*). The word was borrowed from the French, in which *critérium* means "competition." E.g.:
 
  - "Jonathan \[Page\], 17, won the 72-mile road race and placed fourth and fifth, respectively, in the *criterium* and the time trials in the 17- and 18-year-old division at the national junior cycling championships." "Faces in the Crowd," *Sports Illustrated*, 24 Oct. 1994, at 26.
 

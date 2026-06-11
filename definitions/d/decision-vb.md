@@ -2,7 +2,9 @@
 
 decision, vb.
 
-**A. In Combat Sports.** The *OED* records this verb as a boxing term from 1914, noting that it can be used also in other combat sports to mean "to beat (an opponent) by a decision." *RH2*'s definition is somewhat more explicit: "to win a victory over (one's opponent) by a point score rather than a knockout." The word gained prominence in the latter half of the 20th century. Sportswriters are much enamored of the word—e.g.:
+## A. In Combat Sports
+
+The *OED* records this verb as a boxing term from 1914, noting that it can be used also in other combat sports to mean "to beat (an opponent) by a decision." *RH2*'s definition is somewhat more explicit: "to win a victory over (one's opponent) by a point score rather than a knockout." The word gained prominence in the latter half of the 20th century. Sportswriters are much enamored of the word—e.g.:
 
  - "David Diaz (139) became an Olympian by *decisioning* Zabdiel Judah." Michael Holley, "Mesi Win a Stunner: Hartford's Clay-Bey Upset at US Boxoffs," *Boston Globe*, 20 Apr. 1996, at 82.
 
@@ -18,7 +20,9 @@ Sports usage becomes questionable when writers use *decision* as a mere synonym 
 
  - Tennis: "Ali Rapps and Annie Turpin of Geneseo *decisioned* \[read *defeated*\] Goffrier and Gustaitis 6–0, 6–1." Mindy Carls, "Boilermakers Take Game to Sectionals," *Star-Courier* (Kewanee, Ill.), 20 Oct. 2021, at B1.
 
-**B. In Banking.** In banking, *decisioning* is the term for a lender's deciding whether to extend credits or grants. Although most dictionaries don't record this sense, it's well established—e.g.:
+## B. In Banking
+
+In banking, *decisioning* is the term for a lender's deciding whether to extend credits or grants. Although most dictionaries don't record this sense, it's well established—e.g.:
 
  - "Officials said the system has an ‘expert *decisioning'* capability, which automatically obtains access to relevant returned check data and makes the pay/no-pay decision." Steven Marjanovic, "Mellon to Test Return Item Processing Plan," *Am. Banker*, 8 June 1995, at 13.
 
@@ -26,5 +30,7 @@ Sports usage becomes questionable when writers use *decision* as a mere synonym 
 
  - "The SBA received more than 17,500 applications since the program launched in late April with fewer than 1,000 submissions left to be *decisioned*." Taylor Mims, "Shuttered Venues Begin Receiving Supplemental Grants," *Billboard*, 24 Sept. 2021, News §.
 
-**C. Other Uses.** The *OED* labels other uses—in the sense "to make a decision about"—nonstandard, regional, or colloquial. In sum, don't say you *decisioned* to get your hair cut. Use *decided*.
+## C. Other Uses
+
+The *OED* labels other uses—in the sense "to make a decision about"—nonstandard, regional, or colloquial. In sum, don't say you *decisioned* to get your hair cut. Use *decided*.
 

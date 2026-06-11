@@ -2,7 +2,9 @@
 
 Incomplete Sentences .
 
-**A. Fragments.** Grammarians typically define *fragment* as a part of a sentence punctuated as if it were complete. Usually denoting an error—as opposed to literary license—the term *fragment* (or *frag.*) appears frequently in the marginal jottings of high-school and college English teachers. That is to say, some high-school and college students don't know how to write complete sentences. Hence elementary grammars warn against constructions such as the following one, in which a main clause and a subordinate clause are each written as a complete sentence:
+## A. Fragments
+
+Grammarians typically define *fragment* as a part of a sentence punctuated as if it were complete. Usually denoting an error—as opposed to literary license—the term *fragment* (or *frag.*) appears frequently in the marginal jottings of high-school and college English teachers. That is to say, some high-school and college students don't know how to write complete sentences. Hence elementary grammars warn against constructions such as the following one, in which a main clause and a subordinate clause are each written as a complete sentence:
 
 We usually go to the fair in the evening. Because everything is more glamorous under the lights.
 
@@ -18,7 +20,9 @@ We usually go to the fair in the evening. Everything is more glamorous under the
 
 This type of elementary problem rarely occurs in the writing of those who know enough about writing to be able to construct complete sentences. (The more common problem is run-on sentences, which occur when writers punctuate two sentences as if they were one.) Therefore, basic advice on avoiding fragments—"don't write a phrase or dependent clause as if it were a complete sentence"—is of limited utility to most writers. Further, for reasons discussed in (b), that advice might be misleading.
 
-**B. Incomplete Sentences in Informal Writing.** Grammarians' definitions of the word *sentence* range widely. Here's a sampling:
+## B. Incomplete Sentences in Informal Writing
+
+Grammarians' definitions of the word *sentence* range widely. Here's a sampling:
 
  - **1936:** "A sentence is a group of words containing a subject and a predicate and expressing a complete thought." C. Rexford Davis, *Toward Correct English* 1 (1936).
 

@@ -2,7 +2,9 @@
 
 censor; censure.
 
-**A. As Verbs.** To *censor* /**sen**-sәr/ is to scrutinize and revise, to suppress or edit selectively. E.g.: "The news is severely *censored* by the Pentagon and the Arab information agency." Lucille Povero, "Local Newspaper Is the Best Hope of Getting the Truth," *St. Petersburg Times* (Fla.), 11 Jan. 1991, City Times §, at 2.
+## A. As Verbs
+
+To *censor* /**sen**-sәr/ is to scrutinize and revise, to suppress or edit selectively. E.g.: "The news is severely *censored* by the Pentagon and the Arab information agency." Lucille Povero, "Local Newspaper Is the Best Hope of Getting the Truth," *St. Petersburg Times* (Fla.), 11 Jan. 1991, City Times §, at 2.
 
 To *censure* /**sen**-shәr/ is to criticize severely, to castigate. E.g.:
 
@@ -22,7 +24,9 @@ Sometimes the writer's intent becomes unclear—e.g.: "A production about her Ba
 
 **Language-Change Index:** *censor* misused for *censure*: Stage 2
 
-**B. As Nouns.** *Censor*, n., = someone who inspects publications, films, and the like before they are released to ensure that they contain nothing heretical, libelous, or offensive. Although it would be nice to pronounce this use of the term obsolete, censors remain prominent in some places. E.g.:
+## B. As Nouns
+
+*Censor*, n., = someone who inspects publications, films, and the like before they are released to ensure that they contain nothing heretical, libelous, or offensive. Although it would be nice to pronounce this use of the term obsolete, censors remain prominent in some places. E.g.:
 
  - "A movie made to finesse Chinese *censors* can easily slip through the grasp of Western audiences." Georgia Brown, "A Time to Live and a Time to Die," *Village Voice*, 22 Nov. 1994, at 64.
 
