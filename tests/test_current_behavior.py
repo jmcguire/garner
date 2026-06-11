@@ -325,6 +325,20 @@ class DictionaryBehaviorTest(unittest.TestCase):
         self.assertEqual(stderr, "")
         self.assertIn(cli.__version__, stdout)
 
+    def test_help_groups_user_options_before_developer_options(self):
+        code, stdout, stderr = run_cli_expecting_exit(["--help"])
+
+        self.assertEqual(code, 0)
+        self.assertEqual(stderr, "")
+        self.assertLess(stdout.index("basic use:"), stdout.index("options:"))
+        self.assertLess(stdout.index("options:"), stdout.index("developer options:"))
+
+        examples = stdout.split("Examples:\n", 1)[1]
+        self.assertIn("garner affect", examples)
+        self.assertIn("garner --search accomodate", examples)
+        self.assertNotIn("garner --build", examples)
+        self.assertNotIn("garner --db", examples)
+
     def test_cli_build_accepts_definition_dir_and_db_path(self):
         with tempfile.TemporaryDirectory() as temp_dir:
             db_path = Path(temp_dir) / "dictionary.sqlite"

@@ -56,6 +56,7 @@ def display_lookup_suggestions(word, rows, verbose):
 def main():
     parser = argparse.ArgumentParser(
         prog="garner",
+        add_help=False,
         formatter_class=argparse.RawDescriptionHelpFormatter,
         description=(
             "Look up entries from Garner's English usage dictionary.\n"
@@ -66,31 +67,71 @@ def main():
             "  Language-Change Index: Garner's 1-5 scale for how accepted a disputed usage has become.\n"
             "  Current ratio: a print-frequency snapshot comparing a prevalent form with a variant.\n\n"
             "Examples:\n"
-            "  garner --build\n"
             "  garner affect\n"
             "  garner hypercorrection essay\n"
             "  garner --search accomodate\n"
             "  garner --search hypercorrection essay\n"
             "  garner --search affect --maxresults 3\n"
             "  garner --essays\n\n"
-            "Note: some entries start with a - mark, which can confuse the script beacue it looks like an argument. To look them up, put a -- before the entry name, like so\n\n"
+            "Some entries start with a - mark, which can confuse the script beacue it looks like an argument. To look them up, put a -- before the entry name, like so\n\n"
             "  garner -- -er\n"
         ),
     )
 
-    global_options = parser.add_argument_group("global options")
-    command_options = parser.add_argument_group("commands")
-    search_options = parser.add_argument_group("search options")
-    output_options = parser.add_argument_group("output options")
-    lookup_args = parser.add_argument_group("lookup")
+    basic_use = parser.add_argument_group("basic use")
+    options = parser.add_argument_group("options")
+    developer_options = parser.add_argument_group("developer options")
 
-    global_options.add_argument(
+    basic_use.add_argument(
+        "word",
+        nargs="*",
+        help="Word to look up. If multiple words are passed in, they will be joined into one lookup.",
+    )
+
+    basic_use.add_argument(
+        "-s", "--search",
+        help="Search for a word instead of doing a straight lookup. Extra words are joined into the search query.",
+    )
+
+    basic_use.add_argument(
+        "-e", "--essays",
+        action="store_true",
+        help="List the \"essays\" in this dictionary",
+    )
+
+    options.add_argument(
+        "-m", "--maxresults",
+        default=None,
+        type=int,
+        help=f"Maximum search results to return; only used with --search; default: {MAX_RESULTS_SHOWN}",
+    )
+
+    options.add_argument(
+        "-p", "--plain",
+        action="store_true",
+        help="Output plain text, no fancy styling.",
+    )
+
+    options.add_argument(
+        "-h", "--help",
+        action="help",
+        help="Show this help message and exit",
+    )
+
+    options.add_argument(
+        "--version",
+        action="version",
+        version=f"%(prog)s {__version__}",
+        help="Show program's version number and exit",
+    )
+
+    developer_options.add_argument(
         "-d", "--db",
         default=None,
         help="SQLite database path; default: bundled dictionary database for lookup, var/dictionary.sqlite for build",
     )
 
-    command_options.add_argument(
+    developer_options.add_argument(
         "-b", "--build",
         nargs="?",
         const=True,
@@ -98,46 +139,10 @@ def main():
         help=f"Build the database from definition files; default source: {DEFAULT_DEFINITIONS}; default output: {DEFAULT_BUILD_DB}",
     )
 
-    command_options.add_argument(
-        "-e", "--essays",
-        action="store_true",
-        help="List the \"essays\" in this dictionary",
-    )
-
-    command_options.add_argument(
-        "-s", "--search",
-        help="Search for a word instead of doing a straight lookup. Extra words are joined into the search query.",
-    )
-
-    search_options.add_argument(
-        "-m", "--maxresults",
-        default=None,
-        type=int,
-        help=f"Maximum search results to return; only used with --search; default: {MAX_RESULTS_SHOWN}",
-    )
-
-    output_options.add_argument(
+    developer_options.add_argument(
         "-v", "--verbose",
         action="store_true",
         help="Verbose output",
-    )
-
-    output_options.add_argument(
-        "-p", "--plain",
-        action="store_true",
-        help="Output plain text, no fancy styling.",
-    )
-
-    output_options.add_argument(
-        "--version",
-        action="version",
-        version=f"%(prog)s {__version__}",
-    )
-
-    lookup_args.add_argument(
-        "word",
-        nargs="*",
-        help="Word to look up. If multiple words are passed in, they will be joined into one lookup.",
     )
 
     args = parser.parse_args()
