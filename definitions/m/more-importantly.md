@@ -14,7 +14,5 @@ And third, if the position is changed from the beginning of the sentence in any 
 
 The criticism of *more importantly* and *most importantly* has always been rather muted and obscure, and today it has dwindled to something less than that. So writers needn't fear any criticism for using the *-ly* forms; if they encounter any, it's easily dismissed as picayunish pedantry. See **importantly**.
 
-## Language-Change Index
-
- - *more importantly* for *(what is) more important*: Stage 5
+**Language-Change Index:** *more importantly* for *(what is) more important*: Stage 5
 

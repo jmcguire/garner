@@ -8,9 +8,7 @@ commendable; **commendatory**. The first means "praiseworthy, laudable" \<a comm
 
  - "Responses of American business to disaster have included some *commendatory* \[read *commendable*\] actions." James Russell, "Kind Acts Abundant in Wake of Storm," *Miami Herald*, 17 Sept. 1992, at C3.
 
-## Language-Change Index
-
- - *commendatory* misused for *commendable*: Stage 1
+**Language-Change Index:** *commendatory* misused for *commendable*: Stage 1
 
  - Current ratio in print (*commendable* vs. *commendatory*): 12:1
 

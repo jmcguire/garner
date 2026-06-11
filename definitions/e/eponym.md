@@ -8,7 +8,5 @@ But today, *eponymous* is commonly (and sloppily) used with the derived name rat
 
 The simpler constructions *lends its name to*, *is named for*, etc. are far clearer.
 
-## Language-Change Index
-
- - *eponym* for *namesake*: Stage 2
+**Language-Change Index:** *eponym* for *namesake*: Stage 2
 

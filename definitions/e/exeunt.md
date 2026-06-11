@@ -12,7 +12,5 @@ One reason people mistakenly use *exeunt* for one person may be that, in Elizabe
 
 In BrE, the singular *exeat* survives to denote a period of leave allowed to boarding-school students (usually to visit parents).
 
-## Language-Change Index
-
- - *exeunt* misused for *exit*: Stage 1
+**Language-Change Index:** *exeunt* misused for *exit*: Stage 1
 

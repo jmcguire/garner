@@ -12,9 +12,7 @@ The past form *\*clefted* is an infrequent solecism—e.g.:
 
  - "The valleys in this deeply *clefted* \[read *cleft*\] buffer zone between Austria and the rest of Italy seem to function as discrete cultural entities." Ben Ross, "Italy's Adventure Centre," *Independent*, 14 Apr. 2012, at 4.
 
-## Language-Change Index
-
- - *\*clefted* misused for *cleft*: Stage 1
+**Language-Change Index:** *\*clefted* misused for *cleft*: Stage 1
 
  - Current ratio in print (*cleft* vs. *\*clefted*): 137:1
 

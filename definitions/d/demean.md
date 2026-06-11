@@ -12,7 +12,5 @@ Yet the other sense, which has been with us since at least 1601, is now dominant
 
 Meanwhile, the word that might have preempted ambiguities—*bemean* (= to debase)—has become obsolescent.
 
-## Language-Change Index
-
- - *demean* for *debase* or *degrade*: Stage 5
+**Language-Change Index:** *demean* for *debase* or *degrade*: Stage 5
 

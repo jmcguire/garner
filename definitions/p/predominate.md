@@ -10,7 +10,5 @@ predominate, vb.; **dominate**. *Predominate* is traditionally an intransitive v
 
 *Dominate*, by contrast, can be either transitive \<the challenger dominated the champ from the opening bell\> or intransitive \<athletes dominate over scholars in the school's social hierarchy\>.
 
-## Language-Change Index
-
- - *predominate* used as a transitive verb: Stage 1
+**Language-Change Index:** *predominate* used as a transitive verb: Stage 1
 

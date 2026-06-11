@@ -6,7 +6,5 @@ statistic (= a single term or datum in a statistical compilation) is a back-form
 
  - "He did not cite the source of that *statistic*." "Lawyer Asks High Court to Target Police Chase," *News & Observer* (Raleigh), 10 Dec. 1997, at A10.
 
-## Language-Change Index
-
- - *one statistic*: Stage 5
+**Language-Change Index:** *one statistic*: Stage 5
 

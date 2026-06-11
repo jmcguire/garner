@@ -10,7 +10,5 @@ formative; **formidable**. *Formative* (= of, relating to, or involving developm
 
 See **formidable** & word-swapping.
 
-## Language-Change Index
-
- - *formidable* misused for *formative*: Stage 1
+**Language-Change Index:** *formidable* misused for *formative*: Stage 1
 

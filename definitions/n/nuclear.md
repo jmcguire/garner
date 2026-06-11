@@ -6,7 +6,5 @@ William Safire has suggested that because Presidents Eisenhower, Carter, Clinton
 
 In 2012, in a public forum, I asked Andrew Card—President George W. Bush's chief of staff—whether the pronunciation of *nuclear* had ever been discussed in his presence in the Oval Office. His entirely serious answer: "Endlessly."
 
-## Language-Change Index
-
- - *nuclear* mispronounced /**noo**-kyә-lәr/: Stage 2
+**Language-Change Index:** *nuclear* mispronounced /**noo**-kyә-lәr/: Stage 2
 

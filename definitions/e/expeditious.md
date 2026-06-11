@@ -10,7 +10,5 @@ expeditious; **expedient**, adj.; \***expediential**. *Expeditious* = quickly ac
 
  - "The people who work there are the friendliest and most *expedient* \[read *expeditious*\] humans in the world." Shannon Bryan, "Getting Outside in Augusta," *Portland Press Herald*, 20 Aug. 2015, at A1.
 
-## Language-Change Index
-
- - *expedient* misused for *expeditious*: Stage 1
+**Language-Change Index:** *expedient* misused for *expeditious*: Stage 1
 

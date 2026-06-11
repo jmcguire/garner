@@ -10,7 +10,5 @@ spay (= to neuter by removing the ovaries from \[a female animal\]) is used so o
 
 See word-swapping.
 
-## Language-Change Index
-
- - *spade* misused for *spayed* as past form of *spay*: Stage 2
+**Language-Change Index:** *spade* misused for *spayed* as past form of *spay*: Stage 2
 

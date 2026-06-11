@@ -8,9 +8,7 @@ impugn.
 
 **B. For *impute*.** Misusing *impugn* for *impute* (= to ascribe or attribute) is phonically predictable but astonishing nonetheless—e.g.: "Overall, Kupetz rejected the notion that a court should simply ignore the actual intention of the parties and *impugn* \[read *impute*\] constructive intent in every instance." Irving D. Labovitz, "Countering Fraudulent Conveyance and Voidable Preference Concerns in LBOs," *J. Commercial Lending*, Mar. 1993, at 34. See **impute**.
 
-## Language-Change Index
-
- - *impugn* misused for *impute*: Stage 1
+**Language-Change Index:** *impugn* misused for *impute*: Stage 1
 
 **C. Corresponding Noun.** *Impugnment* is the standard noun corresponding to *impugn*. *\*Impugnation* is an archaic variant. For the mistaken form *\*impugnity* (for *impunity*), see **impunity (b)**.
 

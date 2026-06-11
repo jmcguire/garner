@@ -10,7 +10,5 @@ Of course, *sprang* is the correct past-tense form of the verb *spring*. See **s
 
 Another error is to misuse *strain* for *sprain* in reference to ankles, as in \**he strained his ankle*.
 
-## Language-Change Index
-
- - *\*sprang ankle* for *sprained ankle*: Stage 1
+**Language-Change Index:** *\*sprang ankle* for *sprained ankle*: Stage 1
 

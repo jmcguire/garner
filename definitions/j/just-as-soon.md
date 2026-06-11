@@ -8,7 +8,5 @@ just as soon. This idiom is occasionally mangled into the unintelligible malapro
 
  - "I'm not a social butterfly and *just assume* \[read *would just as soon*\] spend my free time studying the teachings of Aradia." Nicholas Hanna, *Coven of Rats* 3 (2007).
 
-## Language-Change Index
-
- - *\*just assume* for *just as soon*: Stage 1
+**Language-Change Index:** *\*just assume* for *just as soon*: Stage 1
 

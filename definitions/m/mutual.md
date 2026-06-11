@@ -6,9 +6,7 @@ mutual.
 
 But when the sense is "shared by two or more," then the word is *common*—not *mutual*. *Friend in common* has traditionally been thought preferable to *mutual friend*, although the latter has stuck because of Dickens's novel (the title to which, it is sometimes observed, comes from a sentence mouthed by an illiterate character). Some careful writers continue to use *friend in common*. But *mutual friend* has in fact predominated since the 1700s—today by a 35:1 ratio. *Common friend*, of course, would be ambiguous.
 
-## Language-Change Index
-
- - *mutual friend* for *friend in common*: Stage 5
+**Language-Change Index:** *mutual friend* for *friend in common*: Stage 5
 
 **B. In Redundancies.** *Mutual* creates any number of redundancies. E.g.: "The 25-page motion . . . claims that multimillion-dollar misstatements are strewn along a Symington paper trail that consists of a series of *mutually contradictory* \[read *contradictory* or *inconsistent*\] financial statements." Jerry Kammer & Pat Flannery, "Judge Asked to Rule Symington Lied on Financial Statement," *Ariz. Republic*, 22 Mar. 1997, at B5. Some of the more common prolixities with this word are *\*mutual agreement* and *\*mutual cooperation*. Cf. **together**.
 

@@ -10,7 +10,5 @@ howbeit. This literary word, a true archaism common only in the 1600s, means "ne
 
 Cf. **albeit**.
 
-## Language-Change Index
-
- - *howbeit* for *though*: Stage 2
+**Language-Change Index:** *howbeit* for *though*: Stage 2
 

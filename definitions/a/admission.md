@@ -14,9 +14,7 @@ Sometimes *admittance* is misused for *admission*, as when the subject is being 
 
  - "BYU's long-awaited *admittance* \[read *admission*\] into the Big 12 Conference . . . is the result of a lot of hard work by a lot of people." "Difference Maker," *Deseret News* (Salt Lake City), 1 Oct. 2021.
 
-## Language-Change Index
-
- - *admittance* misused for *admission*: Stage 2
+**Language-Change Index:** *admittance* misused for *admission*: Stage 2
 
 **B. And *confession*.** In criminal law, a distinction has traditionally existed between these words: an *admission* is a concession that an allegation or factual assertion is true without any acknowledgment of guilt with respect to the criminal charges, whereas a *confession* involves an acknowledgment of guilt as well as of the truth of factual allegations. See **confess**.
 

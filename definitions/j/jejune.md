@@ -16,7 +16,5 @@ The unfortunate thing about this double meaning is that it's sometimes hard to t
 
 Maybe, then, the best definition today—in AmE, at least—is "insipidly adolescent" or "intellectually insubstantial as a result of juvenility."
 
-## Language-Change Index
-
- - *jejune* in the sense "puerile": Stage 3
+**Language-Change Index:** *jejune* in the sense "puerile": Stage 3
 

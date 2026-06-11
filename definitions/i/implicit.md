@@ -14,7 +14,5 @@ Still, in most contexts the writer is well advised to seek an alternative wordin
 
 See **impliedly**.
 
-## Language-Change Index
-
- - *implicit* for *complete*: Stage 4
+**Language-Change Index:** *implicit* for *complete*: Stage 4
 

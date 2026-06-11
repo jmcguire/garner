@@ -8,7 +8,7 @@ scrumptious (= delicious, extremely pleasant) is so spelled, not *\*scrumptuous*
 
 Cf. **bumptious**.
 
-## Language-Change Index
+**Language-Change Index:**
 
  - *scrumptious* misspelled *\*scrumptuous*: Stage 1
  - Current ratio in print (*scrumptious* vs. \**scrumptuous*): 405:1

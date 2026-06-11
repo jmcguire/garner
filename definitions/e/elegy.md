@@ -8,7 +8,5 @@ elegy; **eulogy**. An *elegy* is a mournful song or poem, whereas a *eulogy* is 
 
  - "After the players were introduced, Knight gave a moving *elegy* \[read *eulogy*\] for his old coach and friend." "Just One Minute: College Basketball," *Indianapolis Star*, 1 Feb. 2010, at B1.
 
-## Language-Change Index
-
- - *elegy* misused for *eulogy*: Stage 1
+**Language-Change Index:** *elegy* misused for *eulogy*: Stage 1
 

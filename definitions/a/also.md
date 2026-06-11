@@ -4,7 +4,5 @@ also. This word is a close synonym of *too* (= as well), but its syntactic flexi
 
 For more on *also*, see **too (a)**.
 
-## Language-Change Index
-
- - *also* as a conjunction: Stage 2
+**Language-Change Index:** *also* as a conjunction: Stage 2
 

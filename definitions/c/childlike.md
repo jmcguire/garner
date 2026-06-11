@@ -8,9 +8,7 @@ Sometimes *childish* (the negative term) wrongly displaces *childlike* (the posi
 
  - "Some drawings have a delightful, almost *childish* \[read *childlike*\] simplicity." Jacqueline Hall, "Sketches Show How Architects Develop Ideas," *Columbus Dispatch*, 15 Sept. 2002, at G8.
 
-## Language-Change Index
-
- - *childish* misused for *childlike*: Stage 2
+**Language-Change Index:** *childish* misused for *childlike*: Stage 2
 
  - Current ratio in print (*childlike innocence* vs. *\*childish innocence*): 2.1:1
 

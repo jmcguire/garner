@@ -12,7 +12,5 @@ Through an odd sort of metathesis, *copula* wrongly displaces *cupola* fairly of
 
 See **cupola**.
 
-## Language-Change Index
-
- - *copula* misused for *cupola*: Stage 1
+**Language-Change Index:** *copula* misused for *cupola*: Stage 1
 

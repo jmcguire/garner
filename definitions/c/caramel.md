@@ -8,7 +8,5 @@ caramel (= \[1\] burnt sugar used to color or sweeten food; or \[2\] a smooth, c
 
 Another slight influence leading to this error might be a place name: Carmel, California (which is pronounced /kahr-**mel**/).
 
-## Language-Change Index
-
- - *caramel* misspelled *\*carmel*: Stage 1
+**Language-Change Index:** *caramel* misspelled *\*carmel*: Stage 1
 

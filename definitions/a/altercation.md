@@ -20,7 +20,5 @@ The real battle now is to limit *altercation* to light roughhousing. That is, it
 
 Cf. **accost**.
 
-## Language-Change Index
-
- - *altercation* referring to physical violence: Stage 3
+**Language-Change Index:** *altercation* referring to physical violence: Stage 3
 

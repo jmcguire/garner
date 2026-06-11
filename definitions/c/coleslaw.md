@@ -10,9 +10,7 @@ coleslaw. So spelled—not *\*coldslaw*. Yet the mistake isn't uncommon—e.g.:
 
 The error derives from folk etymology, the mistaken notion being that the term refers to the temperature at which the dish is ordinarily served. The true etymology is that *coleslaw* comes from the Dutch *koolsla* \[*kool* "cabbage" \+ *sla* "salad"\]. See etymology (d).
 
-## Language-Change Index
-
- - *coleslaw* misspelled *\*coldslaw*: Stage 1
+**Language-Change Index:** *coleslaw* misspelled *\*coldslaw*: Stage 1
 
  - Current ratio in print (*coleslaw* vs. \**coldslaw*): 453:1
 

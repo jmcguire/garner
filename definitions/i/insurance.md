@@ -8,7 +8,5 @@ In AmE, *assurance* (which answers to *assure*) chiefly means "pledge" or "guara
 
 **B. Pronunciation.** This word is preferably pronounced with the primary accent on the second syllable: /in-**shʊr**-әnts/—not /**in**-shәr-әnts/ (a dialectal pronunciation). See pronunciation (b) & dialect.
 
-## Language-Change Index
-
- - *insurance* mispronounced /**in**-shәr-әnts/: Stage 2
+**Language-Change Index:** *insurance* mispronounced /**in**-shәr-әnts/: Stage 2
 

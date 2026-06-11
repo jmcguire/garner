@@ -4,9 +4,7 @@ often.
 
 **A. Pronunciation.** The educated pronunciation is /**of**-әn/, but many people today use the "spelling pronunciation" /**of**-tәn/. Similar words with a silent *t* are *chasten*, *fasten*, *hasten*, *listen*, *soften*, and *whistle*. See pronunciation (f).
 
-## Language-Change Index
-
- - *often* pronounced /**of**-tәn/: Stage 4
+**Language-Change Index:** *often* pronounced /**of**-tәn/: Stage 4
 
 **B. And *oftentimes*; *oft*; *ofttimes*.** In AmE, *oftentimes* is a common synonym of *often*; it often seems to add weight and perhaps quaintness to a pronouncement. The second and third are literary archaisms and needless variants. Substituting *often* is almost always (not merely often) better—e.g.:
 

@@ -14,9 +14,7 @@ One of the most famous government departments in all literature is Charles Dicke
 
 **B. And *circuity*.** *Circumlocution* is not the noun form corresponding to *circuitous*, which means "winding, tortuous, anfractuous"—the noun for *circuitous* being *circuity*. E.g.: "I bring this up because only now do I recognize the vast *circumlocution* \[read *circuity*\] of the route which I've been cheerfully driving for the past year, a path which was anything but a straight line, horizontally or vertically." Jay Bailey, "Riding on the Disneyland Bypass Road," *Jerusalem Post*, 6 Sept. 1996, at 10.
 
-## Language-Change Index
-
- - *circumlocution* misused for *circuity*: Stage 1
+**Language-Change Index:** *circumlocution* misused for *circuity*: Stage 1
 
 **C. Adjectival Forms.** If the noun corresponding to *circuitous* is seldom used, so is the adjective corresponding to *circumlocution*: *circumlocutory*. E.g.: "He's impatient with compliments, *circumlocutory* in his answers and cheerfully forthcoming with amusing stories that, on reflection, tell you almost nothing about him." Ken Ringle, "Fighting Words," *Wash. Post*, 21 Aug. 1996, at D1.
 
@@ -30,7 +28,7 @@ Avoid the synonymous variants *\*circumlocutionary* and *\*circumlocutious*—e.
 
  - "Davis could be elusive and *circumlocutious* \[read *circumlocutory*\] in his mischievous way." Martin Regg Cohn, "Eight Toronto Premiers," *Toronto Star*, 12 Dec. 2020, News §.
 
-## Language-Change Index
+**Language-Change Index:**
 
 1. *\*circumlocutionary* for *circumlocutory*: Stage 1
  - Current ratio in print (*circumlocutory* vs. *\*circumlocutionary*): 11:1

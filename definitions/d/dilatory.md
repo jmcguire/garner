@@ -8,7 +8,5 @@ dilatory (= \[1\] tending to delay; or \[2\] tending to cause dilation) is now o
 
 The pronunciation is /**dil**-ә-tor-ee/.
 
-## Language-Change Index
-
- - *dilatory* misused for *deleterious*: Stage 1
+**Language-Change Index:** *dilatory* misused for *deleterious*: Stage 1
 

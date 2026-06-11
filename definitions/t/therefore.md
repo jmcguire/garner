@@ -18,9 +18,7 @@ therefore.
 
 **D. For *thereby*.** *Therefore* shouldn't be confused, as it sometimes is, with *thereby* (= by that means; in that way)—e.g.: "The bank recently completed negotiations to offer a student lending package in conjunction with Columbia University in New York, *therefore* \[read *thereby*\] providing student loans to college students at an expensive school." Marian King, "Banks Given More Incentives to Offer Loans for Students," *Sun-Sentinel* (Ft. Lauderdale), 1 Jan. 1997, at 14.
 
-## Language-Change Index
-
- - *therefore* misused for *thereby*: Stage 1
+**Language-Change Index:** *therefore* misused for *thereby*: Stage 1
 
 **E. *\*So therefore*.** See **so (d)**.
 

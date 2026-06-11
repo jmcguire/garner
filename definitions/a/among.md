@@ -24,9 +24,7 @@ Cf. **amid (b)**; **whilst**.
 
  - "*Among* \[read *Contributing to*\] last year's toll was a gas blast that leveled part of a New York City block, killing eight people and injuring 48 more." Nick Penzenstadler, "Scientists: Gas-Pipe Upgrades Paying Off in Cities," *Greenville News* (S.C.), 10 Sept. 2015, at B3.
 
-## Language-Change Index
-
- - *among* used with a mass noun: Stage 2
+**Language-Change Index:** *among* used with a mass noun: Stage 2
 
 **C. And *between*.** See **between (a)**.
 

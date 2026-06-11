@@ -12,9 +12,7 @@ commensurate.
 
  - "The salary range for tax collector is $52,500 to $85,000, *commiserate* \[read *commensurate*\] with experience." Becky Johnson, "Race for Tax Collector Could Be a Heated One," *Mountaineer* (Waynesville, N.C.), 27 Dec. 2017.
 
-## Language-Change Index
-
- - *commiserate* misused for *commensurate*: Stage 1
+**Language-Change Index:** *commiserate* misused for *commensurate*: Stage 1
 
  - Current ratio in print (*is commensurate with* vs. *\*is commiserate with*): 379:1
 

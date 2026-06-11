@@ -18,9 +18,7 @@ See parallelism.
 
  - "The bank operations there will include *both* branch business *as well as* \[read *and*\] the bank's commercial-vault business." Mark Mensheha, "First National Bank Plans to Open Branch on North Side," *San Antonio Bus. J.*, 10 Oct. 1997, at 6.
 
-## Language-Change Index
-
- - *\*both . . . as well as* for *both . . . and*: Stage 2
+**Language-Change Index:** *\*both . . . as well as* for *both . . . and*: Stage 2
 
 **C. Redundancies with.** Several wordings with *both* cause redundancies. One is *\*both . . . each other*—e.g.:
 

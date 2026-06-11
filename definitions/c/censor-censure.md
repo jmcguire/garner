@@ -20,9 +20,7 @@ The word *censure* was widely mispronounced like *censor* in Congress during the
 
 Sometimes the writer's intent becomes unclear—e.g.: "A production about her Bavarian adventure was so scandalous that the Lord Chamberlain, who *censured* \[read *censored*, probably\] plays, banned it." Michael Alpert, *London 1849: A Victorian Murder Story* 36 (2004). The reader can't be certain whether the lord routinely banned or panned plays.
 
-## Language-Change Index
-
- - *censor* misused for *censure*: Stage 2
+**Language-Change Index:** *censor* misused for *censure*: Stage 2
 
 **B. As Nouns.** *Censor*, n., = someone who inspects publications, films, and the like before they are released to ensure that they contain nothing heretical, libelous, or offensive. Although it would be nice to pronounce this use of the term obsolete, censors remain prominent in some places. E.g.:
 

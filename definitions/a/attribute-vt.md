@@ -10,7 +10,5 @@ See malapropisms. For a brief comment on the misuse of *accredit* for *attribute
 
 The verb is pronounced /ә-**tri**-byoot/.
 
-## Language-Change Index
-
- - *contribute* misused for *attribute*: Stage 1
+**Language-Change Index:** *contribute* misused for *attribute*: Stage 1
 

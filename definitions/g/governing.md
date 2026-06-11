@@ -10,7 +10,5 @@ governing (= regulating, controlling) is sometimes mistakenly written *governori
 
 This error is analogous to misusing *error* as a verb in place of *err*. See **err (b)**.
 
-## Language-Change Index
-
- - *governoring* misused for *governing*: Stage 1
+**Language-Change Index:** *governoring* misused for *governing*: Stage 1
 

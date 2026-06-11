@@ -4,7 +4,5 @@ quality. Note the different meanings this word bears in the phrases *quality con
 
 For a misuse of *quality*, n., for *quantity*, see **unknown quantity**.
 
-## Language-Change Index
-
- - *quality* as an adjective meaning "of high quality": Stage 4
+**Language-Change Index:** *quality* as an adjective meaning "of high quality": Stage 4
 

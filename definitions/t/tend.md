@@ -12,7 +12,5 @@ tend = (1) to be predisposed to \[something\]; or (2) to look after or care for 
 
 See **exhibit a tendency**.
 
-## Language-Change Index
-
- - *\*well-tendered garden* for *well-tended garden*: Stage 1
+**Language-Change Index:** *\*well-tendered garden* for *well-tended garden*: Stage 1
 

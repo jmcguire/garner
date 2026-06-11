@@ -6,7 +6,5 @@ To *educe* is to draw out, evoke, or elicit. This term is the rarest of the thre
 
 To *deduce* is to draw an inference. E.g.: "As it happens, scientists have *deduced* the nature of an evolutionary path that a primitive blood-clotting mechanism could have followed to evolve into the more complex cascade." Boyce Rensberger, "How Science Responds When Creationists Criticize Evolution," *Wash. Post*, 8 Jan. 1997, at H1. See **deduce**.
 
-## Language-Change Index
-
- - *educe* misused for *adduce*: Stage 1
+**Language-Change Index:** *educe* misused for *adduce*: Stage 1
 

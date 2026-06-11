@@ -16,7 +16,5 @@ Also, some writers faddishly use *as such* as if it meant "thus" or "therefore"â
 
 Obviously, this phrase requires much care.
 
-## Language-Change Index
-
- - *as such* for *therefore*: Stage 2
+**Language-Change Index:** *as such* for *therefore*: Stage 2
 

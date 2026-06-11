@@ -10,7 +10,5 @@ astigmatism (= an uneven curvature of the cornea; a defect in a lens) is often i
 
 For further misuse of *stigmatism*, see **stigma (b)**.
 
-## Language-Change Index
-
- - *\*a stigmatism* for *astigmatism*: Stage 1
+**Language-Change Index:** *\*a stigmatism* for *astigmatism*: Stage 1
 

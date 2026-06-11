@@ -10,7 +10,5 @@ Attempts to condense the phrase into one word (e.g., *\*adhocking*) have failed 
 
 Finally, the misspelling \**ad hock*, dating from the 1970s, is a blunder that seems unlikely to spread much. Let us hope.
 
-## Language-Change Index
-
- - *ad hoc* misspelled \**ad hock*: Stage 1 Current ratio in print (*ad hoc* vs. \**ad hock*): 5,643:1
+**Language-Change Index:** *ad hoc* misspelled \**ad hock*: Stage 1 Current ratio in print (*ad hoc* vs. \**ad hock*): 5,643:1
 

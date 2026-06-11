@@ -12,7 +12,5 @@ office, vb., has become a commonplace expression in the American business world,
 
 This is a classic example of the issue discussed under functional shift (a), (d).
 
-## Language-Change Index
-
- - *office* as a verb: Stage 3
+**Language-Change Index:** *office* as a verb: Stage 3
 

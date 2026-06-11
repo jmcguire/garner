@@ -4,7 +4,5 @@ viewpoint; **point of view**; **standpoint**. The first, which originated in the
 
 Yet *viewpoint*, apart from being extremely common, conveniently says in one word what *point of view* says in three. The same holds true for *standpoint*. Today, no stigma should attach to either word.
 
-## Language-Change Index
-
- - *viewpoint* for *point of view*: Stage 5
+**Language-Change Index:** *viewpoint* for *point of view*: Stage 5
 

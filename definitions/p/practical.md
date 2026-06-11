@@ -16,7 +16,5 @@ Occasionally *practicable* is misused for *practical*—e.g.: "The articles in T
 
 In both words, the first syllable is stressed: /**prak**-ti-kәl/ and /**prak**-ti-kә-bәl/.
 
-## Language-Change Index
-
- - *practicable* misused for *practical*: Stage 1
+**Language-Change Index:** *practicable* misused for *practical*: Stage 1
 

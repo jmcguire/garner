@@ -4,9 +4,7 @@ causality; **causation**. These words have a fine distinction. *Causality* = the
 
 *Causation* should not be used for *cause*—e.g.: "Similarly, if affirmative action was the *causation* \[read *cause*\] of White male labor displacement, the unemployment statistics would reflect such displacement." Byron A. Ellis, "The Displacement Myth," *Baltimore Afro-Am.*, 5 Aug. 1995, at A5.
 
-## Language-Change Index
-
- - *causation* misused for *cause*: Stage 1
+**Language-Change Index:** *causation* misused for *cause*: Stage 1
 
  - Current ratio in print (*was the cause of* vs. *\*was the causation of *): 2,515:1
 

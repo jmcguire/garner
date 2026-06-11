@@ -12,7 +12,5 @@ But often, the words' connotations suggest a distinction. A *visit* is, in gener
 
 Without some suggestion of collectivity, formality, or transcendence, *visitation* often just sounds like a magniloquent substitute for the simpler word—e.g.: "\[David\] Bell is a gifted director and his fluid, lovely work here is extraordinary. This is a production that deserves *visitations* \[read *visits*\] from Broadway producers." Chris Jones, "Chris Jones Recommends," *Chicago Trib.*, 11 May 2007, On the Town §, at 9.
 
-## Language-Change Index
-
- - *visitation* misused for *visit*: Stage 1
+**Language-Change Index:** *visitation* misused for *visit*: Stage 1
 

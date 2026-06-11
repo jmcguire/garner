@@ -10,7 +10,5 @@ Most people today associate *prodigal* with the part of the parable about wander
 
 The word is unrelated to *prodigy* and *prodigious*, both of which today generally carry positive connotations.
 
-## Language-Change Index
-
- - *prodigal* in the sense "returning": Stage 3
+**Language-Change Index:** *prodigal* in the sense "returning": Stage 3
 

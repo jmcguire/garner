@@ -6,7 +6,5 @@ probity (= honesty; integrity) is sometimes misused for *propriety*—e.g.:
 
  - "The Clintons and their political allies have built careers on criticizing the ‘get-rich-quick' attitudes of the ‘greedy 80s,' when all sorts of unscrupulous scoundrels were making money on deals of dubious ethical *probity* \[read *propriety*\]." "Whitewater Rafting," *Orange County Register*, 2 Feb. 1994, at B8. (People have or lack probity; deals don't.)
 
-## Language-Change Index
-
- - *probity* misused for *propriety*: Stage 1
+**Language-Change Index:** *probity* misused for *propriety*: Stage 1
 

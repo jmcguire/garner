@@ -12,7 +12,5 @@ odious (= hateful, repulsive) derives from *odium* (= hatred; the reproach that 
 
 See **odorous**.
 
-## Language-Change Index
-
- - *odious* in olfactory sense: Stage 1
+**Language-Change Index:** *odious* in olfactory sense: Stage 1
 

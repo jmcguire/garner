@@ -6,7 +6,5 @@ eliminate, strictly speaking, means to get rid of something that already exists 
 
  - "You will save wear and tear on your back and *eliminate* \[read *prevent*\] future back problems with this simple precaution." "*Quality* \[read *High-Quality*\] Tools Will Make Garden Work Easier," *State J.-Register* (Springfield, Ill.), 27 Dec. 2002, Mag. §, at A11. (For more on the use of *quality* here, see **quality**.)
 
-## Language-Change Index
-
- - *eliminate* misused for *prevent*: Stage 2
+**Language-Change Index:** *eliminate* misused for *prevent*: Stage 2
 

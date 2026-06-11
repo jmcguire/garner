@@ -8,7 +8,5 @@ ecology. When it originated in the late 1800s, this word referred to the biologi
 
 *Ecology* was formerly spelled with a digraph: *œcology* (so listed in the first edition of the *OED*).
 
-## Language-Change Index
-
- - *ecology* misused for *environment*: Stage 1
+**Language-Change Index:** *ecology* misused for *environment*: Stage 1
 

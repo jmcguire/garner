@@ -10,7 +10,5 @@ gait (= a manner of walking, trotting, etc.) is sometimes confused with its homo
 
 See word-swapping.
 
-## Language-Change Index
-
- - *gate* misused for *gait*: Stage 1
+**Language-Change Index:** *gate* misused for *gait*: Stage 1
 

@@ -4,9 +4,7 @@ chest of drawers, an old-fashioned equivalent of *dresser* or *bureau*, is somet
 
 In a similar vein, *\*Chip and Dale furniture* can sometimes be found in classified ads.
 
-## Language-Change Index
-
- - *\*chester drawers* for *chest of drawers*: Stage 1
+**Language-Change Index:** *\*chester drawers* for *chest of drawers*: Stage 1
 
  - Current ratio in print (*chest of drawers* vs. *\*chester drawers*): 1,461:1
 

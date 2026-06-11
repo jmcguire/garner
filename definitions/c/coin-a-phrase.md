@@ -16,7 +16,5 @@ Here something is truly (though clumsily) coined: "It will be the age of, to *co
 
 Although it is typically the writer who is doing the coining when this phrase is used, it may well be someone else instead—e.g.: "Nearly two years before Neil Armstrong would *coin the phrase* as he stepped onto the lunar surface, the first Saturn V flight—AS-501, in NASA parlance—was truly a ‘giant leap' in America's race to the moon." Timothy R. Gaffney, "Saturn V a ‘Giant Leap,' " *Dayton Daily News*, 4 Nov. 2002, at B1.
 
-## Language-Change Index
-
- - *coin a phrase* misused to mean "borrow a phrase": Stage 3
+**Language-Change Index:** *coin a phrase* misused to mean "borrow a phrase": Stage 3
 

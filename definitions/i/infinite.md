@@ -10,7 +10,5 @@ infinite (= unimaginably large in degree or amount) doesn't work well with quali
 
 The word is also often a sign of hyperbole, as those examples show. See adjectives (b).
 
-## Language-Change Index
-
- - *\*almost infinite* for *countless*: Stage 1
+**Language-Change Index:** *\*almost infinite* for *countless*: Stage 1
 

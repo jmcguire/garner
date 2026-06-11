@@ -10,9 +10,7 @@ allude.
 
 In the following sentence, the writer creates an oxymoron because an allusion can't be explicit: "The images in the grid *alluded explicitly to homosexuality* \[read *depicted homosexuality explicitly*\], since all showed male couples, most in sexual positions." Maud Lavin, "Robert Flynt at Witkin," *Art in America*, Feb. 1993, at 111. For more on allusion, see literary allusion.
 
-## Language-Change Index
-
- - *allude* used for a specific reference: Stage 3
+**Language-Change Index:** *allude* used for a specific reference: Stage 3
 
 **B. And *illude* & *elude*.** To *illude* (a rare verb) is to deceive with an illusion; to *elude* (a common verb) is to avoid or escape. Both words are sometimes misused for *allude*—e.g.:
 
@@ -22,7 +20,7 @@ In the following sentence, the writer creates an oxymoron because an allusion ca
 
 The reverse error—*allude* for *elude*—is somewhat less common. E.g.: "Glenn said Derogatis also was charged with aggravated assault, possession of cocaine and *alluding* \[read *eluding*\] police." "Law & Order," *Star-Ledger* (Newark), 19 Dec. 2002, Essex §, at 39.
 
-## Language-Change Index
+**Language-Change Index:**
 
 1. *illude* misused for *allude*: Stage 1
  - Current ratio in print (*allude to* vs. *\*illude to*): 37,891:1
@@ -35,7 +33,5 @@ The reverse error—*allude* for *elude*—is somewhat less common. E.g.: "Glenn
 
 **C. For *suggest*.** This is an attenuated use of *allude* to be avoided—e.g.: "As Johnson *alluded* \[read *suggested*\], who among us has no sin?" Letter of Karen M. Piet, "Jesus Forgave Sins of Those Who Repented and Told Them to Sin No More," *Rocky Mountain News* (Denver), 3 Sept. 1997, at A40.
 
-## Language-Change Index
-
- - *allude* misused for *suggest*: Stage 1
+**Language-Change Index:** *allude* misused for *suggest*: Stage 1
 

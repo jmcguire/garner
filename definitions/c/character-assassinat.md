@@ -4,7 +4,5 @@ character assassination (= defamation, esp. to create public distrust), a phrase
 
 At other times, though, the phrase is mangled into a mondegreen—e.g.: "\[Tom\] DeLay spokesman Jonathan Grella released a statement that accused Democrats of *‘caricature assassination'* \[read *‘character assassination'*\]." Hans Nichols & Jonathan E. Kaplan, "We Could Have Nixed It, Say Dems," *The Hill*, 15 June 2004, at 1.
 
-## Language-Change Index
-
- - *\*caricature assassination* for *character assassination*: Stage 1
+**Language-Change Index:** *\*caricature assassination* for *character assassination*: Stage 1
 

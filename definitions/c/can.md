@@ -6,9 +6,7 @@ can.
 
 But three caveats are necessary. First, educated people typically say *can't I* as opposed to the stilted forms *mayn't I* and *may I not*. The same is true of other pronouns \<why can't she go?\> \<can't you wait until Saturday?\>. Second, *you can't* and *you cannot* are much more common denials of permission than *you may not* \<no, you can't play with any more than 14 clubs in your bag\>. Third, because *may* is a more polite way of asking for permission, a fussy insistence on using it can give the writing a prissy tone.
 
-## Language-Change Index
-
- - *can* for *may*: Stage 4
+**Language-Change Index:** *can* for *may*: Stage 4
 
 **B. And *could*.** These words express essentially the same idea, but there is a slight difference. In the phrase *We can supply you with 5 tons of caliche*, the meaning is simply that we are able to. But in the phrase *We could supply you with 5 tons of caliche if you'd send us a $5,000 deposit*, the *could* is right because of the condition tacked onto the end; that is, there is some stronger sense of doubt with *could*. See subjunctives.
 

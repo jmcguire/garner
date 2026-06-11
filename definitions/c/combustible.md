@@ -8,9 +8,7 @@ combustible. So spelled—not *\*combustable*. (See -able (a).) *\*Combustible e
 
  - "Newspapers are the buggy-whip makers in the era of *combustible* \[read *combustion*\] engines." Lee Wolverton, "Newspapers Suffered as Ad Revenues Declined," *Herald-Dispatch* (Huntington, W. Va.), 28 Apr. 2021, at A4.
 
-## Language-Change Index
-
- - Current ratio in print (*combustible* vs. *\*combustable*): 1,157:1
+**Language-Change Index:** Current ratio in print (*combustible* vs. *\*combustable*): 1,157:1
 
  - *\*combustible engine* for *combustion engine*: Stage 1
 

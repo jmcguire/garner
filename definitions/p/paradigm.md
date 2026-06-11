@@ -20,7 +20,5 @@ paradigm.
 
 **D. Pronunciation.** *Paradigm* is pronounced /**pa**-rә-dīm/—though it was /**pa**-rә-dim/ in both AmE and BrE through the early 20th century. The adjective *paradigmatic* is /pa-rә-dig-**mat**-ik/.
 
-## Language-Change Index
-
- - *paradigm* misused for *paragon*: Stage 1
+**Language-Change Index:** *paradigm* misused for *paragon*: Stage 1
 

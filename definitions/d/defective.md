@@ -4,7 +4,5 @@ defective; **deficient**; **defectible**. The primary difference to be noted is 
 
 *Defectible*, an extremely rare word, means "likely to fail or become defective."
 
-## Language-Change Index
-
- - *deficiency* misused for *defect*: Stage 1
+**Language-Change Index:** *deficiency* misused for *defect*: Stage 1
 

@@ -6,7 +6,5 @@ An apologist for the illogical phrasing might argue that it involves hypallage: 
 
 In the U.K., you're more likely to encounter *secondhand bookshop*.
 
-## Language-Change Index
-
- - *used bookstore* for *used-book store*: Stage 2
+**Language-Change Index:** *used bookstore* for *used-book store*: Stage 2
 

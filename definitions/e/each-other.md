@@ -14,9 +14,7 @@ each other.
 
 Many careful writers and editors will doubtless continue to observe the distinction, but no one else will notice.
 
-## Language-Change Index
-
- - *each other* for *one another* (i.e., for more than two items): Stage 4
+**Language-Change Index:** *each other* for *one another* (i.e., for more than two items): Stage 4
 
 **B. Possessive Forms: *each other's* and *one another's*.** The possessive forms are *each other's* and *one another's*. The noun that follows is typically plural \<each other's cars\> \<they praised each other's presentations\>, but the more logical construction is singular \<each other's car\> \<they praised each other's presentation\>. Whether the phrase is *each other's* or *one another's*, the apostrophe sometimes drifts waywardly (and mistakenly) to the end of the phrase, perhaps because the idea of reciprocity gets overshadowed by the sense of plurality—e.g.:
 
@@ -26,7 +24,7 @@ Many careful writers and editors will doubtless continue to observe the distinct
 
  - "A 2-year-old program . . . trains space explorers how to stay on *each others'* \[read *each other's*\] good *sides* \[read *side*\]." Elisabeth A. Wright, "NASA Focusing on Personal Space Training," *L.A. Times*, 30 Dec. 2001, at B5.
 
-## Language-Change Index
+**Language-Change Index:**
 
 1. *\*each others'* for *each other's*: Stage 1
  - Current ratio in print (*each other's* vs. *\*each others'*): 34:1

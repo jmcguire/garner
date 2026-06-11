@@ -6,7 +6,5 @@ antipathy (= strong aversion; intense dislike) is sometimes misused for *antithe
 
 The adjectival form is *antipathetic*.
 
-## Language-Change Index
-
- - *antipathy* misused for *antithesis*: Stage 1
+**Language-Change Index:** *antipathy* misused for *antithesis*: Stage 1
 

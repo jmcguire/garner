@@ -10,7 +10,5 @@ Yet *assassinator* has a rarefied mathematical sense. If you must know, it's the
 
 Got that?
 
-## Language-Change Index
-
- - *assassinator* as an equivalent of *assassin*: Stage 1
+**Language-Change Index:** *assassinator* as an equivalent of *assassin*: Stage 1
 

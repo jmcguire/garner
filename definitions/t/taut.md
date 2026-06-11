@@ -22,7 +22,7 @@ In that last example, *wrinkled leather*, as opposed to *\*taught leather*, must
 
  - "Kai's eyes gleamed as he waited by his partner's feet, muscles *taunt* \[read *taut*\] under his golden fur as he anticipated the coming command." LaDonna Nicholson, "Four-Legged Enforcement," *Orange County Register*, 30 Mar. 2000, at 1.
 
-## Language-Change Index
+**Language-Change Index:**
 
  - *taunt* misused for *taut*: Stage 1
  - Current ratio in print (*stretched taut* vs. *\*stretched taunt*): 155:1

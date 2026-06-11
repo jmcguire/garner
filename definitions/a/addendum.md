@@ -10,7 +10,5 @@ addendum (= an addition or supplement) forms the plural *addenda* (not \**addend
 
 See plurals (b).
 
-## Language-Change Index
-
- - *addenda* used for the singular *addendum*: Stage 2 Current ratio in print (*an addendum* vs. *\*an addenda*): 101:1 Current ratio in print (*addenda* vs. \**addendums*): 6:1
+**Language-Change Index:** *addenda* used for the singular *addendum*: Stage 2 Current ratio in print (*an addendum* vs. *\*an addenda*): 101:1 Current ratio in print (*addenda* vs. \**addendums*): 6:1
 

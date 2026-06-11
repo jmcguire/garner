@@ -10,7 +10,5 @@ homophobe, n. This word, together with its cognates *homophobia* and *homophobic
 
 See etymology (a).
 
-## Language-Change Index
-
- - *homophobe*: Stage 5
+**Language-Change Index:** *homophobe*: Stage 5
 

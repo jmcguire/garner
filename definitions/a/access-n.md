@@ -10,9 +10,7 @@ access, n.
 
  - "The following days yield\[ed\] a heatwave which saw weather in *access* \[read *excess*\] of 20C during the first lockdown." Dominic Kureen, "Temperatures Plummet," *Isle of Wight County Press*, 7 Apr. 2021, Weather & Climate §.
 
-## Language-Change Index
-
- - *access* misused for *excess*: Stage 1
+**Language-Change Index:** *access* misused for *excess*: Stage 1
 
 **B. Meaning "outburst."** This sense, though somewhat archaic, is unimpeachable. Still, the usage is likely to give most readers pause—e.g.:
 

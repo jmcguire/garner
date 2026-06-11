@@ -18,7 +18,5 @@ H.W. Fowler's observation, though too harsh, still holds a kernel of truth: "tho
 
 Cf. **accidentally**.
 
-## Language-Change Index
-
- - *incidently* misused for *incidentally*: Stage 1
+**Language-Change Index:** *incidently* misused for *incidentally*: Stage 1
 

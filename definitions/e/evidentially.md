@@ -4,7 +4,5 @@ evidentially for *evidently* is a pretentious error—one that would not occur i
 
 Although this error might seem analogous to using *partially* for *partly*, the word *evidentially* (the adverb corresponding to the adjective *evidential* and the noun *evidence*) has a technical legal sense that makes it an erroneous alternative to *evidently*—not a valid parallel to an existing term, as is the case with *partially*.
 
-## Language-Change Index
-
- - *evidentially* misused for *evidently*: Stage 1
+**Language-Change Index:** *evidentially* misused for *evidently*: Stage 1
 

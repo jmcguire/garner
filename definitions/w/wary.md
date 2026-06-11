@@ -12,7 +12,5 @@ Doubtless by false association with *wary* and perhaps with *leery* (= suspiciou
 
  - "A stamp might be the next tool that helps unite Americans at a time when some residents are *weary* \[read *wary*\] about opening the mail for fear of becoming a victim of a bioterrorist attack." Sean Adkins, "New Stamp Printed on Local Paper," *York Daily Record*, 25 Oct. 2001, at B5.
 
-## Language-Change Index
-
- - *weary* misused for *wary*: Stage 1 Current ratio in print (*wary of the dangers* vs. *\*weary of the dangers*): 81:1
+**Language-Change Index:** *weary* misused for *wary*: Stage 1 Current ratio in print (*wary of the dangers* vs. *\*weary of the dangers*): 81:1
 

@@ -26,7 +26,5 @@ Because *mani*- denotes something related to the hand, and *pedi*- to the foot, 
 
  - "We wouldn't want those *manicured* \[read *pedicured*\] toes to get dirty now, would we?" Jennifer D. Braun, "Canine Couture from the House of Poochie," *Star-Ledger* (Newark), 16 July 2000, at 1.
 
-## Language-Change Index
-
- - *manicure* misused for *pedicure*: Stage 2
+**Language-Change Index:** *manicure* misused for *pedicure*: Stage 2
 

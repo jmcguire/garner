@@ -6,7 +6,5 @@ imaginative; **imaginary**. *Imaginative* (= creative) is occasionally misused f
 
  - "It's easy to forget the utterly *imaginative* \[read *imaginary*\] things that flourish as rumors and ‘fact' when something untoward happens." Liz Smith, "An Instinct for Money," *Newsday* (N.Y.), 29 May 2002, at A15.
 
-## Language-Change Index
-
- - *imaginative* misused for *imaginary*: Stage 1
+**Language-Change Index:** *imaginative* misused for *imaginary*: Stage 1
 

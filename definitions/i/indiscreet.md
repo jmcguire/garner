@@ -8,7 +8,5 @@ indiscreet; **indiscrete**. *Indiscreet* = lacking discretion in the sense of pr
 
 See **discrete**.
 
-## Language-Change Index
-
- - *indiscrete* misused for *indiscreet*: Stage 1
+**Language-Change Index:** *indiscrete* misused for *indiscreet*: Stage 1
 

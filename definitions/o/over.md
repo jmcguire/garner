@@ -10,9 +10,7 @@ over.
 
 In 2014 even the Associated Press came around, finally sanctioning *over* "in all uses to indicate greater numerical value." One curmudgeonly copyeditor snapped back: "More than my dead body\!"
 
-## Language-Change Index
-
- - *over* in the sense "more than": Stage 5
+**Language-Change Index:** *over* in the sense "more than": Stage 5
 
  - Current ratio in print (*more than a hundred* vs. *over a hundred*): 1:1.03
 

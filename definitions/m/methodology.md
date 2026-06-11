@@ -10,7 +10,5 @@ methodology, strictly speaking, means "the science or study of method." But sinc
 
 Prefer *method* or *methods* whenever you can.
 
-## Language-Change Index
-
- - *methodology* for *method*: Stage 5
+**Language-Change Index:** *methodology* for *method*: Stage 5
 

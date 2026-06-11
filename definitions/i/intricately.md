@@ -8,7 +8,5 @@ intricately (= in a detailed or complicated way) is sometimes misused for *intim
 
  - " ‘Paul was checking off the boxes,' said SMG executive Doug Thornton, who managed the Superdome for the state and was *intricately* \[read *intimately*\] involved in the process." Jeff Duncan, "How the Saints Were Saved in 2005," *Times-Picayune* (New Orleans), 30 Aug. 2015, at C1.
 
-## Language-Change Index
-
- - *intricately* misused for *intimately*: Stage 1
+**Language-Change Index:** *intricately* misused for *intimately*: Stage 1
 

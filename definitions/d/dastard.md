@@ -14,9 +14,7 @@ British writers, on the other hand, have remained truer to the word's original s
 
 Recent American dictionaries record one meaning of *dastard* as being "a person who acts treacherously or underhandedly." So the new meaning should probably now be considered standard.
 
-## Language-Change Index
-
- - *dastard* in the broad sense "a despicable person": Stage 5
+**Language-Change Index:** *dastard* in the broad sense "a despicable person": Stage 5
 
 **B. Corresponding Adjective: *dastardly*.** Like the noun form, the adjective *dastardly* has been subjected to slipshod extension. Although most dictionaries define it merely as "cowardly," it is now often used as if it meant "sneaky and underhanded; treacherous"—e.g.:
 

@@ -14,9 +14,7 @@ Writers should generally try to be as specific as possible rather than make use 
 
 **C. For *et al.*** The term *etc.* should be reserved for things, not for people; *et al.* serves when people are being mentioned. But liberal ideologues might think the following usage quite appropriate: "The presidential heavyweight hopefuls—Dole, Sen. Phil Gramm, ex-Tennessee Gov. Lamar Alexander, *etc.* \[read *et al.*\]—were present and accounted for at the GOP Midwest leadership conference in Green Bay over the weekend." "Lake Jump," *Chicago Trib.*, 22 May 1995, § 1, at 12. See **et al**.
 
-## Language-Change Index
-
- - *etc.* misused for *et al.*: Stage 3
+**Language-Change Index:** *etc.* misused for *et al.*: Stage 3
 
 **D. Misspelled and Mispronounced.** When spelled out, the Latin words should be separate \<et cetera\>. When pronounced, the term should not be shortened to three syllables—so /et **set**-ә-rә/, not /et **set**-rә/. The abbreviation is surprisingly often misspelled *\*ect.*, perhaps because the *t* in the first syllable of *etc.* is often mispronounced as a *k* or *x* (as if it were *ex cetera*). See pronunciation (b).
 

@@ -10,7 +10,5 @@ onerous (= burdensome) for *heinous* (= shockingly evil; abominable) is an occas
 
 The word is typically pronounced /**oh**-nәr-әs/ (like *owner us*).
 
-## Language-Change Index
-
- - *onerous* misused for *heinous*: Stage 1
+**Language-Change Index:** *onerous* misused for *heinous*: Stage 1
 

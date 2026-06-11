@@ -10,7 +10,5 @@ auspices. *Under the auspices* /**aw**-spi-siz/ *of* means "with the sponsorship
 
 See **aegis**.
 
-## Language-Change Index
-
- - *under the auspices of* misused for *in accordance with*: Stage 1
+**Language-Change Index:** *under the auspices of* misused for *in accordance with*: Stage 1
 

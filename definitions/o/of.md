@@ -39,9 +39,7 @@ As the statistics below show, the language has seen a major shift toward the int
 
 See \***had have**.
 
-## Language-Change Index
-
- - *of* misused for *have*: Stage 1
+**Language-Change Index:** *of* misused for *have*: Stage 1
 
 **E. *Of a . . . nature*.** See **nature**.
 

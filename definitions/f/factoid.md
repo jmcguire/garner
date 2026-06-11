@@ -20,9 +20,7 @@ Today sense 2 is nearly universal and must be accepted as standard—e.g.:
 
  - "*Factoid*: One part per million equates to one second in 11 1/2 days. One part per billion equates to one second in 32 years. And one part per trillion is the same as one second in 32,000 years." *San Diego Union-Trib.*, 13 Dec. 2000, at F2.
 
-## Language-Change Index
-
- - *factoid* in reference to an interesting fact: Stage 5
+**Language-Change Index:** *factoid* in reference to an interesting fact: Stage 5
 
 **B. And *factlet*.** The loss of *factoid* in sense 1 is unfortunate in another way, too: there is already a perfectly good term for a piece of trivia—*factlet*. While it is etymologically more correct (since *-let* is a diminutive suffix), it is far rarer today than *factoid*. But it does still appear, even (as the first example shows) in the source of *factoid*'s sense 2—e.g.:
 

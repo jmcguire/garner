@@ -6,7 +6,5 @@ The noun plural is *faxes*.
 
 Some writers mistakenly put the word in all capitals, as if it were an acronym. It isn't. It's just a clipped form with a slight change in spelling: write *fax*, not *\*FAX*.
 
-## Language-Change Index
-
- - *fax* as n. & vb.: Stage 5
+**Language-Change Index:** *fax* as n. & vb.: Stage 5
 

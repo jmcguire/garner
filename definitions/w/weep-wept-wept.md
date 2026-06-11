@@ -10,7 +10,5 @@ weep \> wept \> wept. So inflected. The archaic form *\*weeped*, more common in 
 
 See irregular verbs.
 
-## Language-Change Index
-
- - *\*weeped* for *wept*: Stage 1 Current ratio in print (*I wept* vs. *\*I weeped*): 697:1
+**Language-Change Index:** *\*weeped* for *wept*: Stage 1 Current ratio in print (*I wept* vs. *\*I weeped*): 697:1
 

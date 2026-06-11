@@ -8,7 +8,5 @@ dispose for *dispose of* is jargonistic phrasing among waste-handlers—e.g.:
 
 For the use of this verb in diametrically opposed senses, see contronyms.
 
-## Language-Change Index
-
- - *dispose* misused for *dispose of*: Stage 1
+**Language-Change Index:** *dispose* misused for *dispose of*: Stage 1
 

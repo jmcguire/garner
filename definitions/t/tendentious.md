@@ -16,9 +16,7 @@ Avoid the variant spelling *\*tendencious*.
 
 **B. With People.** The word doesn't properly apply to people as a synonym for *prejudiced* or *biased*—e.g.: "Bretecher's world is peopled by *tendentious* \[read *prejudiced* or *biased*\] hippies who turn into pretentious yuppies." Mary Schmich, "Accent on Agony," *Chicago Trib.*, 3 Aug. 1997, at 18.
 
-## Language-Change Index
-
- - *tendentious* misused in reference to a person, as opposed to an argument, statement, presentation, etc.: Stage 1
+**Language-Change Index:** *tendentious* misused in reference to a person, as opposed to an argument, statement, presentation, etc.: Stage 1
 
 **C. For *contentious*.** *Tendentious* is occasionally confused with *contentious* (= combative)—e.g.:
 
@@ -28,9 +26,7 @@ Avoid the variant spelling *\*tendencious*.
 
  - " ‘Why Orwell Matters' suggests that neither camp is likely to win a lasting victory in the *tendentious* \[read *contentious*\] tug of war for the allegiance of a polemicist as gifted, and refractory, as Hitchens." Jim Barloon, "Why Orwell Matters," *Houston Chron.*, 5 Jan. 2003, Zest §, at 18.
 
-## Language-Change Index
-
- - *tendentious* misused for *contentious*: Stage 1
+**Language-Change Index:** *tendentious* misused for *contentious*: Stage 1
 
 **D. For *tendinitis*.** A surprising error is the substitution of *tendentious* for *tendinitis* (= inflammation of tendons in a joint). It probably results from trigger-happy users of spell-checkers—e.g.:
 
@@ -40,7 +36,5 @@ Avoid the variant spelling *\*tendencious*.
 
  - "About 45 minutes before Sunday's game, Nets coach Byron Scott said starting point guard Jason Kidd was going to sit out because of *tendentious* \[read *tendinitis*\] in his left foot." John Reid, "Nets' Kittles Returns Home as a Pro," *Times-Picayune* (New Orleans), 10 Mar. 2003, Sports §, at 6.
 
-## Language-Change Index
-
- - *tendentious* misused for *tendinitis*: Stage 1
+**Language-Change Index:** *tendentious* misused for *tendinitis*: Stage 1
 

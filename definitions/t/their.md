@@ -6,7 +6,5 @@ their.
 
 **B. Singular Antecedent with *their*.** See concord (b).
 
-## Language-Change Index
-
- - *they're* misused for *their*: Stage 1
+**Language-Change Index:** *they're* misused for *their*: Stage 1
 

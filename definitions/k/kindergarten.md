@@ -4,7 +4,5 @@ kindergarten. This German loanword for "children's garden" has been in use in En
 
 The word may be pronounced /**kin**-dәr-gahrt'n/ or /-gahrd'n/.
 
-## Language-Change Index
-
- - *kindergarten* misspelled *\*kindergarden*: Stage 1
+**Language-Change Index:** *kindergarten* misspelled *\*kindergarden*: Stage 1
 

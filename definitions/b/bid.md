@@ -20,7 +20,7 @@ So which past tense is correct in the phrase *to bid fair* (= to seem likely)—
 
  - "And paired as it was with a second congressional sleuthing effort, into the Whitewater affair, it *bade fair* to generate what passed for some agreeable theater, if not actual news." Brian Duffy, "Just Sniffing," *U.S. News & World Rep.*, 14 Aug. 1995, at 8.
 
-## Language-Change Index
+**Language-Change Index:**
 
 1. *bid farewell* misused for the past-tense *bade farewell*: Stage 2
  - Current ratio in print (*he* *bade farewell* vs. *\*he bid farewell*): 2.2:1
@@ -38,9 +38,7 @@ So which past tense is correct in the phrase *to bid fair* (= to seem likely)—
 
 See irregular verbs.
 
-## Language-Change Index
-
- - *\*bidded* for past-tense *bid*: Stage 1
+**Language-Change Index:** *\*bidded* for past-tense *bid*: Stage 1
 
  - Current ratio in print (*he bid* vs. *\*he bidded*): 1,766:1
 
@@ -54,7 +52,7 @@ The simple past *bade* is sometimes misused for *bidden*, a mistake that should 
 
  - "So when the Blackhawks offered Doug Gilmour a three-year deal for $18 million, . . . he was *bade* \[read *bidden*\] goodbye." Jay Greenberg, "Lamoriello's Way Is NHL's Best Way," *N.Y. Post*, 17 Dec. 1998, at 92.
 
-## Language-Change Index
+**Language-Change Index:**
 
 1. *bid* misused for past-participial *bidden*: Stage 3
  - Current ratio in print (*had bidden her* vs. *\*had bid her*): 3:1

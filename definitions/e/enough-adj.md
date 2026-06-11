@@ -12,7 +12,5 @@ There are, of course, exceptions to the general rule: *sufficient* (or more ofte
 
 For more on *sufficient*, see **adequate (a)**.
 
-## Language-Change Index
-
- - *sufficient* used with a count noun: Stage 3
+**Language-Change Index:** *sufficient* used with a count noun: Stage 3
 

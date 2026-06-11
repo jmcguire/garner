@@ -18,7 +18,5 @@ Occasionally the word bears its original Latin sense, often in its abbreviated f
 
 The word is pronounced /**flor**-yoo-it/.
 
-## Language-Change Index
-
- - *\*floruit period* for *floruit*: Stage 1
+**Language-Change Index:** *\*floruit period* for *floruit*: Stage 1
 

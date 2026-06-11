@@ -8,7 +8,5 @@ Either *convince* or *persuade* may be used with a *that*-clause. Although *pers
 
  - "The merger has received preliminary approval from the UC Board of Regents, which was *persuaded that* the agreement would avert financial problems at UCSF." Lisa M. Krieger, "Bills May Threaten UC–Stanford Merger," *S.F. Examiner*, 22 May 1997, at A6.
 
-## Language-Change Index
-
- - *convince* as an equivalent of *persuade*: Stage 5
+**Language-Change Index:** *convince* as an equivalent of *persuade*: Stage 5
 

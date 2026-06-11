@@ -10,9 +10,7 @@ comply.
 
  - "Planning agents . . . said there is only one location which *complies to* \[read *complies with*\] all criteria for a crematorium." Louise Hill, "Plans Lodged for Second Crematorium Near Newchurch," *Isle of Wight County Press*, 5 Jan. 2021.
 
-## Language-Change Index
-
- - *\*comply to* for *comply with*: Stage 1
+**Language-Change Index:** *\*comply to* for *comply with*: Stage 1
 
  - Current ratio in print (*comply with* vs. *\*comply to*): 168:1
 

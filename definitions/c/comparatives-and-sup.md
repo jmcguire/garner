@@ -18,7 +18,7 @@ Comparatives and Superlatives .
 
 One idiomatic exception occurs when we put our *best foot* forward, since (of course) we have only two.
 
-## Language-Change Index
+**Language-Change Index:**
 
 Superlative with two objects \<best of the pair\>: Stage 4
 
@@ -40,9 +40,7 @@ Still, if a word ordinarily takes either the *-er* or the *-est* suffix—and th
 
 For an example of the double superlative, see \***least worst**.
 
-## Language-Change Index
-
- - *\*more slower* for *slower*, etc.: Stage 1
+**Language-Change Index:** *\*more slower* for *slower*, etc.: Stage 1
 
 **E. *Greater of A* *(or) (and)* *B*.** Logic loses to idiom when deciding whether to use the conjunctive *and* or the disjunctive *or* in phrases such as *the greater of A* \[*and*? *or*?\] *B*. Logic would seem to demand *and* to include all the options in the comparison before one is singled out as being the *lesser*, *biggest*, *oldest*, *latter*, etc. But in fact, since the early 20th century this type of phrasing has tended toward *or*—except in logicians' prose.
 

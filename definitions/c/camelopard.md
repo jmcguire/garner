@@ -8,7 +8,5 @@ camelopard (= giraffe) is an old-fashioned word still used in Europe. In English
 
 The word is pronounced /kә-**mel**-ә-pahrd/.
 
-## Language-Change Index
-
- - *camelopard* misspelled *\*cameleopard*: Stage 1 Current ratio in print (*camelopard* vs. \**cameleopard*): 1.7:1
+**Language-Change Index:** *camelopard* misspelled *\*cameleopard*: Stage 1 Current ratio in print (*camelopard* vs. \**cameleopard*): 1.7:1
 

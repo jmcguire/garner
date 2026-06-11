@@ -12,7 +12,5 @@ Objectors thought that *epicenter* was being misused for *center* \<the epicente
 
 If the word ever seems wrong, that's probably because no strife or upheaval seems to be involved. If *center* might serve as well, it's probably the better word—e.g.: "Clearly, urban areas are at the *epicenter* \[read *center*\] of welfare reform." Bruce Katz & Katherine Allen, "Cities Matter," *Brookings Rev.*, 1 July 2001, at 30. You might argue there that welfare reform is never easy, and that's true enough. But it's widely regarded in a favorable light, not as a scourge.
 
-## Language-Change Index
-
- - *epicenter* used in metaphorical senses to denote the center of devastation: Stage 5 2018 ratio in print (*epicenter of the pandemic* vs. *center of the pandemic*): 7:1
+**Language-Change Index:** *epicenter* used in metaphorical senses to denote the center of devastation: Stage 5 2018 ratio in print (*epicenter of the pandemic* vs. *center of the pandemic*): 7:1
 

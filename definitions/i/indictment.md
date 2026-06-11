@@ -10,7 +10,5 @@ indictment usually takes *of*, but *against* has also been fairly common since t
 
 For more on *indictment*, see **arraignment**.
 
-## Language-Change Index
-
- - *\*indictment against* for *indictment of*: Stage 5
+**Language-Change Index:** *\*indictment against* for *indictment of*: Stage 5
 
