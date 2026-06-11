@@ -13,6 +13,24 @@ from garner import text
 
 
 FIXTURES = Path(__file__).parent / "fixtures" / "definitions"
+REAL_DEFINITIONS = Path(__file__).parents[1] / "definitions"
+
+
+def markdown_files(source_dir):
+    return sorted(source_dir.rglob("*.md"))
+
+
+def first_body_line(markdown):
+    lines = markdown.splitlines()
+    heading_index = next((index for index, line in enumerate(lines) if line.startswith("# ")), None)
+    if heading_index is None:
+        return None
+
+    for line in lines[heading_index + 1:]:
+        if line.strip():
+            return line.strip()
+
+    return None
 
 
 def create_fixture_db(source_dir=FIXTURES):
@@ -74,6 +92,11 @@ class HelperBehaviorTest(unittest.TestCase):
 
         self.assertEqual(text.extract_forwarding_target(body, "effects"), "effect")
 
+    def test_extract_forwarding_target_supports_old_headword_prefixed_reference(self):
+        body = text.markdown_to_plain_text("# effects\n\neffects. See **effect**.\n")
+
+        self.assertEqual(text.extract_forwarding_target(body, "effects"), "effect")
+
     def test_extract_forwarding_target_ignores_long_entries_ending_in_see_reference(self):
         body = text.markdown_to_plain_text((FIXTURES / "h" / "hypercorrection.md").read_text(encoding="utf-8"))
 
@@ -115,6 +138,13 @@ class DictionaryBehaviorTest(unittest.TestCase):
 
         self.assertIsNotNone(row)
         self.assertEqual(row["forwarding"], "effect")
+        self.assertEqual(row["body_markdown"], "# effects\n\nSee effect.\n")
+
+    def test_build_does_not_treat_normal_see_reference_as_forwarding(self):
+        row = dictionary.lookup("hypercorrection essay", self.db_path)
+
+        self.assertIsNotNone(row)
+        self.assertIsNone(row["forwarding"])
 
     def test_lookup_prefers_regular_entry_when_essay_has_same_key(self):
         row = dictionary.lookup("etymology", self.db_path)
@@ -277,6 +307,45 @@ class DictionaryBehaviorTest(unittest.TestCase):
         self.assertIn("One    Longer Two", rendered)
         self.assertIn("alpha  beta", rendered)
         self.assertNotIn("|---|---|", rendered)
+
+
+class DefinitionContentTest(unittest.TestCase):
+    def test_real_definitions_do_not_repeat_headword_as_first_sentence(self):
+        repeated = []
+        for path in markdown_files(REAL_DEFINITIONS):
+            markdown = path.read_text(encoding="utf-8")
+            heading = text.extract_first_heading(markdown)
+            if not heading:
+                continue
+
+            headword, _ = text.parse_headword(heading)
+            line = first_body_line(markdown)
+            if line and line.startswith(f"{headword}."):
+                repeated.append(path.relative_to(REAL_DEFINITIONS.parent).as_posix())
+
+        self.assertEqual(repeated, [])
+
+    def test_real_forwarding_only_entries_are_recognized(self):
+        checked = []
+        missed = []
+        for path in markdown_files(REAL_DEFINITIONS):
+            markdown = path.read_text(encoding="utf-8")
+            heading = text.extract_first_heading(markdown)
+            if not heading:
+                continue
+
+            plain_body = text.markdown_to_plain_text(markdown)
+            lines = [line.strip() for line in plain_body.splitlines() if line.strip()]
+            if len(lines) != 2 or not lines[1].startswith("See "):
+                continue
+
+            headword, _ = text.parse_headword(heading)
+            checked.append(path.relative_to(REAL_DEFINITIONS.parent).as_posix())
+            if not text.extract_forwarding_target(plain_body, headword):
+                missed.append(path.relative_to(REAL_DEFINITIONS.parent).as_posix())
+
+        self.assertGreater(len(checked), 0)
+        self.assertEqual(missed, [])
 
 
 if __name__ == "__main__":
