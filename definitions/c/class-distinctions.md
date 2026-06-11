@@ -1,6 +1,6 @@
 # Class Distinctions, Essay
 
-Class Distinctions. Much can be said about the relationship between standard english and social class. (The question is most relevant to native speakers.) Much might be said against it, too, given that social class, which in the relevant sense has little to do with income but is instead about behavior and taste, is perhaps the biggest taboo in the U.S. Serious mentions of class may provoke accusations of elitism and snobbery.
+Much can be said about the relationship between standard english and social class. (The question is most relevant to native speakers.) Much might be said against it, too, given that social class, which in the relevant sense has little to do with income but is instead about behavior and taste, is perhaps the biggest taboo in the U.S. Serious mentions of class may provoke accusations of elitism and snobbery.
 
 That's precisely how the subject remains taboo. It's not supposed to exist. Yet some commentators think that English-speaking countries, including the U.S., are as rigidly stratified as any other societies. The distinctions tend to be visible only to more highly educated people and invisible to those with less education. They might also be invisible to those who, because of egalitarian convictions, find any acknowledgment of class differences personally and politically abhorrent.
 
@@ -14,31 +14,31 @@ Vocabulary Markers in AmE
 |---|---|
 | anyway | \*anyways |
 | before | \*prior to |
-| between you and me | *\**between you and I |
-| a criterion | *\**a criteria |
+| between you and me | *\*between you and I* |
+| a criterion | *\*a criteri* |
 | died | passed away, passed on |
 | drinks | beverages |
 | driver | chauffeur |
-| feel bad | *\**feel badly |
-| fewer items | *\**less items |
-| if I had | **\*if I would have (*or* would've) |
-| if I hadn't been there | *\**if I hadn't have been there |
-| in regard to, with regard to | **\*in regards to, *\**with regards to |
-| John saw my brother and me | *\**John saw my brother and I |
+| feel bad | *\*feel badly* |
+| fewer items | *\*less items* |
+| if I had | \*if I would have (*or* would've) |
+| if I hadn't been there | *\*if I hadn't have been there* |
+| in regard to, with regard to | \*in regards to, *\*with regards to* |
+| John saw my brother and me | *\*John saw my brother and I* |
 | lie down | lay down |
 | May I help you? | How may I assist you? May I be of assistance? |
-| more fun, most fun | **\*funner, *\**funnest |
-| not too big a box | *\**not too big of a box |
-| a phenomenon | *\**a phenomena |
-| played well | \*played good |
+| more fun, most fun | \*funner, *\*funnest* |
+| not too big a box | *\*not too big of a box* |
+| a phenomenon | *\*a phenomena* |
+| played well | *\*played good* |
 | pregnant | expecting |
-| regardless | *\**irregardless |
-| send Sally and me a copy | *\**send Sally and I a copy |
-| themselves | *\**theirselves |
-| this is she (in answering a telephone caller's question) | *\**this is her |
+| regardless | *\*irregardless* |
+| send Sally and me a copy | *\*send Sally and I a copy* |
+| themselves | *\*theirselves* |
+| this is she (in answering a telephone caller's question) | *\*this is her* |
 | use, n. & vb. | utilization, utilize |
-| what kind of bird | *\**what kind of a bird |
-| you and I are through | *\**me and you are through |
+| what kind of bird | *\*what kind of a bird* |
+| you and I are through | *\*me and you are through* |
 | \[nothing\] | real classy, class act, high-class |
 
 Pronunciation Markers in AmE |
