@@ -1,4 +1,4 @@
-# Basic instalation
+# Basic installation
 
 If you want to use this tool, just install it through pipx:
 
