@@ -1,7 +1,5 @@
 # aside
 
-aside.
-
 ## A. Mistakenly Meaning "on each side."
 
 *Aside*, adv., properly means "to one side, on one side" \<she lay the book aside and fell asleep\>. But it's sometimes used wrongly in the sense "on each side, per side"—e.g.:

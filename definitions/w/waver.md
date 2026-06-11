@@ -1,4 +1,4 @@
 # waver
 
-waver. See **waiver**.
+See **waiver**.
 

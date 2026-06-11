@@ -1,7 +1,5 @@
 # commensurate
 
-commensurate.
-
 ## A. And *commensurable.*
 
 In all but mathematical contexts, *commensurable* is a needless variant of *commensurate*. *Commensurable* legitimately means "reducible to a common divisor" \<15 and 10 are commensurable because they are divisible by 5\>. *Commensurate* /kә-**men**-shʊr-әt/ is the more usual word meaning (1) "equivalent in extent or duration" \<job responsibilities commensurate with your previous post\>; or (2) "corresponding in appropriate degree, magnitude, or amount" \<pay commensurate with the work\>.

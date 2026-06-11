@@ -1,6 +1,6 @@
 # Nonwords, Essay
 
-Nonwords. H.W. Fowler's formidable American precursor, Richard Grant White, wrote incisively about words that aren't legitimate words:
+H.W. Fowler's formidable American precursor, Richard Grant White, wrote incisively about words that aren't legitimate words:
 
 \[A\]s there are books that are not books, so there are words that are not words. Most of them are usurpers, interlopers, or vulgar pretenders; some are deformed creatures, with only half a life in them; but some of them are legitimate enough in their pretensions, although oppressive, intolerable, useless. Words that are not words sometimes die spontaneously; but many linger, living a precarious life on the outskirts of society, uncertain of their position, and cause great discomfort to all right-thinking, straightforward people.
 

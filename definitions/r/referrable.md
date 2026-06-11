@@ -1,4 +1,4 @@
 # \*referrable
 
-\*referrable. See **referable**.
+See **referable**.
 

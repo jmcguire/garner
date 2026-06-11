@@ -1,4 +1,4 @@
 # Macron
 
-Macron. See diacritical marks.
+See diacritical marks.
 

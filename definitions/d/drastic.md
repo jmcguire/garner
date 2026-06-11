@@ -1,4 +1,4 @@
 # drastic
 
-drastic. See **dramatic**.
+See **dramatic**.
 

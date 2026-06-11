@@ -1,4 +1,4 @@
 # \*stateable
 
-\*stateable. See **statable**.
+See **statable**.
 

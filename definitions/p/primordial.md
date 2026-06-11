@@ -1,4 +1,4 @@
 # primordial
 
-primordial. See **primal**.
+See **primal**.
 

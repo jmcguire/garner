@@ -1,4 +1,4 @@
 # brotel
 
-brotel. See portmanteau words.
+See portmanteau words.
 

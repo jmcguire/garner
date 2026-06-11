@@ -1,4 +1,4 @@
 # \*conversible
 
-\*conversible. See **conversable**.
+See **conversable**.
 

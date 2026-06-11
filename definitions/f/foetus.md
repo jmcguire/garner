@@ -1,4 +1,4 @@
 # \*foetus
 
-\*foetus. See **fetus**.
+See **fetus**.
 

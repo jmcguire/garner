@@ -1,6 +1,6 @@
 # stride \> strode \> strode
 
-stride \> strode \> strode. So inflected. The variant past participle *\*stridden*, an archaism (attested in the *OED* from 1576 to 1970), rarely appears today. Another past-participial form, *\*strid*, was current before 1800 but is now obsolete.
+So inflected. The variant past participle *\*stridden*, an archaism (attested in the *OED* from 1576 to 1970), rarely appears today. Another past-participial form, *\*strid*, was current before 1800 but is now obsolete.
 
 The form *strode* serves as both the simple past and the past participle. Hence there is no full correspondence with the seemingly analogous *ride* \> *rode* \> *ridden*. E.g.:
 

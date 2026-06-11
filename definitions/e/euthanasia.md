@@ -1,7 +1,5 @@
 # euthanasia
 
-euthanasia.
-
 ## A. And *mercy killing.*
 
 These synonyms are widespread, the former perhaps being more connotatively neutral. *Mercy killing* usually applies to people exclusively, while *euthanasia* applies equally to animals.

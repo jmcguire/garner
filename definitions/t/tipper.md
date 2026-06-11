@@ -1,4 +1,4 @@
 # tipper
 
-tipper. See **tipster**.
+See **tipster**.
 

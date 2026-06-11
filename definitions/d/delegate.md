@@ -1,4 +1,4 @@
 # delegate
 
-delegate. See **relegate**.
+See **relegate**.
 

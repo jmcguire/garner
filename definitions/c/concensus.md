@@ -1,4 +1,4 @@
 # \*concensus
 
-\*concensus. See **consensus**.
+See **consensus**.
 

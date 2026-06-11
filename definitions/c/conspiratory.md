@@ -1,4 +1,4 @@
 # \*conspiratory
 
-\*conspiratory. See **conspiratorial**.
+See **conspiratorial**.
 

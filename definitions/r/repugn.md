@@ -1,4 +1,4 @@
 # repugn
 
-repugn. See **impugn (a)**.
+See **impugn (a)**.
 

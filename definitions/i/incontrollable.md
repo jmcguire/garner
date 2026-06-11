@@ -1,4 +1,4 @@
 # \*incontrollable
 
-\*incontrollable. See **uncontrollable**.
+See **uncontrollable**.
 

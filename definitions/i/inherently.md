@@ -1,4 +1,4 @@
 # inherently
 
-inherently. See **innately**.
+See **innately**.
 

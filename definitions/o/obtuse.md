@@ -1,4 +1,4 @@
 # obtuse
 
-obtuse. See **abstruse**.
+See **abstruse**.
 

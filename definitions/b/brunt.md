@@ -1,4 +1,4 @@
 # brunt
 
-brunt. See **bear the brunt**.
+See **bear the brunt**.
 

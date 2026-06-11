@@ -1,4 +1,4 @@
 # accentuate
 
-accentuate. See **accent**.
+See **accent**.
 

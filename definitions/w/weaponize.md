@@ -1,6 +1,6 @@
 # weaponize
 
-weaponize. For a long time—probably beginning in the 1950s—this -*ize* neologism was in the exclusive domain of military and international-relations jargon. Uses were infrequent, but the word occurred in popular sources as early as 1984—e.g.:
+For a long time—probably beginning in the 1950s—this -*ize* neologism was in the exclusive domain of military and international-relations jargon. Uses were infrequent, but the word occurred in popular sources as early as 1984—e.g.:
 
  - " ‘Absolutely no work is being done to develop, manufacture, store or *weaponize* biological warfare agents,' the \[Pentagon\] statement says." R. Jeffrey Smith, "New Army Biowarfare Lab Raises Concerns," *Science*, 7 Dec. 1984, at 1176.
 

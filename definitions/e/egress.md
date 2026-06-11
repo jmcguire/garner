@@ -1,4 +1,4 @@
 # egress
 
-egress. See **ingress**.
+See **ingress**.
 

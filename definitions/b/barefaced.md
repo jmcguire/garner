@@ -1,4 +1,4 @@
 # barefaced
 
-barefaced. See **bald-faced**.
+See **bald-faced**.
 

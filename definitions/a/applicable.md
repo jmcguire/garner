@@ -1,7 +1,5 @@
 # applicable
 
-applicable.
-
 ## A. And *\*appliable*; *\*applyable*
 
 These two variants are incorrect. *Applicable*, the correct form, is traditionally accented on the first syllable in AmE /**ap**-li-kә-bәl/. But /a-**plik**-ә-bәl/ is usual in BrE and quite common in AmE. See pronunciation (b).

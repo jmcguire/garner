@@ -1,7 +1,5 @@
 # over
 
-over.
-
 ## A. For *more than*
 
 In one of its uses, the prepositional *over* is interchangeable with *more than* \<over 600 people were there\>—and this has been so for more than 600 years. The charge that *over* is inferior to *more than* is a baseless crotchet. E.g.:

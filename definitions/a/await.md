@@ -1,7 +1,5 @@
 # await
 
-await.
-
 ## A. And *wait for*
 
 Because *await* is transitive, it doesn't take a preposition such as *for*. Essentially, *await* means the same thing as *wait for*: you can *await* someone's arrival or *wait for* the person to arrive. But *\*await for* isn't good English. Although it appears mostly in the writings of nonnative speakers of English (especially in foreign journals), it does surface in homegrown writing as well—e.g.:

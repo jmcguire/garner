@@ -1,7 +1,5 @@
 # incident; incidence
 
-incident; incidence.
-
 ## A. Meanings
 
 Although these words overlap, their primary senses are distinguishable. An *incident* is an occurrence or happening \<several unfortunate incidents led to the curfew\>. Though *incidence* sometimes bears this sense, it more often means "the rate of occurrence" \<a high incidence of truancy\>. In fact, whenever *incidence* appears where *incident* would fit, a switch is probably in order—e.g.:

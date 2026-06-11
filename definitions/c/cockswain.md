@@ -1,4 +1,4 @@
 # cockswain
 
-cockswain. See **coxswain**.
+See **coxswain**.
 

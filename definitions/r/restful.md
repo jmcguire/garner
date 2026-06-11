@@ -1,4 +1,4 @@
 # restful
 
-restful. See **restive**.
+See **restive**.
 

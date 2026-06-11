@@ -1,4 +1,4 @@
 # hyphenize
 
-hyphenize. See **hyphenate**.
+See **hyphenate**.
 

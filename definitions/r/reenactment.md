@@ -1,4 +1,4 @@
 # reenactment
 
-reenactment. No hyphen.
+No hyphen.
 

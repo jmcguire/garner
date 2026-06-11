@@ -1,4 +1,4 @@
 # as between
 
-as between. See **between (e)**.
+See **between (e)**.
 

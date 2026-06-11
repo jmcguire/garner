@@ -1,7 +1,5 @@
 # illustrative
 
-illustrative.
-
 ## A. Pronunciation
 
 The second syllable is accented: /i-**lәs**-trә-tiv/, not /**i**-lәs-tray-tiv/.

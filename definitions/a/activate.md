@@ -1,4 +1,4 @@
 # activate
 
-activate. See **actuate**.
+See **actuate**.
 

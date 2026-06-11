@@ -1,6 +1,6 @@
 # in like Flynn
 
-in like Flynn. This phrase, meaning "assured of success," first became widespread during World War II as an allusion to the actor Errol Flynn s legendary prowess in seducing women. (In 1942, Flynn was prosecuted for the statutory rape of two teenage girls—and was acquitted.) Today the phrase, which itself dates from 1942, has generally lost any sexual connotation—e.g.:
+This phrase, meaning "assured of success," first became widespread during World War II as an allusion to the actor Errol Flynn s legendary prowess in seducing women. (In 1942, Flynn was prosecuted for the statutory rape of two teenage girls—and was acquitted.) Today the phrase, which itself dates from 1942, has generally lost any sexual connotation—e.g.:
 
  - "By these standards, Gore should be *in like Flynn*." Kevin Phillips, "The Bush Restoration," *Commercial Appeal* (Memphis), 13 Feb. 2000, at B3.
 

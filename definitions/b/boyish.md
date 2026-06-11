@@ -1,4 +1,4 @@
 # boyish
 
-boyish. See **girlie**.
+See **girlie**.
 

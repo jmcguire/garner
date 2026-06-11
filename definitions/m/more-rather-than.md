@@ -1,4 +1,4 @@
 # \*more . . . rather than
 
-\*more . . . rather than. See **rather (c)**.
+See **rather (c)**.
 

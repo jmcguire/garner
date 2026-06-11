@@ -1,4 +1,4 @@
 # posed
 
-posed. See **poised**.
+See **poised**.
 

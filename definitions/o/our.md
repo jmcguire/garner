@@ -1,4 +1,4 @@
 # -our
 
--our. See -or/-our.
+See -or/-our.
 

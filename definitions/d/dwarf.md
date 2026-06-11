@@ -1,6 +1,6 @@
 # dwarf
 
-dwarf. Pl. *dwarfs*. The form *\*dwarves*, a variant, occasionally appears—e.g.:
+Pl. *dwarfs*. The form *\*dwarves*, a variant, occasionally appears—e.g.:
 
  - "The sculptors of Benin long have made their finest objects—their regal heads and life-size *dwarves* \[read *dwarfs*\], their animals and birds and ceremonial swords—out of molten brass." Joseph McLellan et al., "Here & Now," *Wash. Post*, 25 Sept. 1994, at G3.
 

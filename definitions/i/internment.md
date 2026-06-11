@@ -1,4 +1,4 @@
 # internment
 
-internment. See **interment**.
+See **interment**.
 

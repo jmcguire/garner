@@ -1,4 +1,4 @@
 # Negro
 
-Negro. See race-related terms (b).
+See race-related terms (b).
 

@@ -1,4 +1,4 @@
 # inessential
 
-inessential. See **nonessential**.
+See **nonessential**.
 

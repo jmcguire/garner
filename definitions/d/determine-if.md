@@ -1,4 +1,4 @@
 # \*determine if
 
-\*determine if. See **determine whether**.
+See **determine whether**.
 

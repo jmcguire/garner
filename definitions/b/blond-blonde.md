@@ -1,7 +1,5 @@
 # blond; blonde
 
-blond; blonde.
-
 ## A. As an Adjective
 
 In French, the *e* is a feminine tag, the spelling without the *e* being the masculine. This distinction has generally carried over to BrE, so that *blonde* more often refers to women and *blond* more often refers to men. In AmE, though, there is a tendency to use *blond* in all senses—e.g.: "Currently there's an ‘Absolut Dallas' ad that pictures a *blond woman's* tiara-adorned bouffant hairdo in the shape of a bottle." Melanie Wells, "Absolut's Eye-Catching Ads Command Teens' Attention," *USA Today*, 31 Jan. 1997, at B5.

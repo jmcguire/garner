@@ -1,4 +1,4 @@
 # whither
 
-whither. See **hither**.
+See **hither**.
 

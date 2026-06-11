@@ -1,4 +1,4 @@
 # \*pryer
 
-\*pryer. See **prier**.
+See **prier**.
 

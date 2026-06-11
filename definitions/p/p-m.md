@@ -1,4 +1,4 @@
 # p.m
 
-p.m. See **a.m**.
+See **a.m**.
 

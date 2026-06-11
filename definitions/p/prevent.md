@@ -1,6 +1,6 @@
 # prevent
 
-prevent. In AmE, this verb takes *from*, but in BrE the preposition is frequently omitted—e.g.:
+In AmE, this verb takes *from*, but in BrE the preposition is frequently omitted—e.g.:
 
  - "Fortunately for us, the earth's atmosphere absorbs gamma rays and *prevents them doing* any damage to life or property here." Clive Cookson, "Headed This Way from a Galaxy Near You," *Fin. Times*, 17 May 1997, at 2. (AmE would insert *from* after *them*.)
 

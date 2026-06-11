@@ -1,4 +1,4 @@
 # jinni
 
-jinni. See **genie**.
+See **genie**.
 

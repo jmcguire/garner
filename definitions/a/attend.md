@@ -1,4 +1,4 @@
 # attend
 
-attend. See **tend**.
+See **tend**.
 

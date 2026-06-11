@@ -1,6 +1,6 @@
 # \*various of (the)
 
-\*various of (the). Although this phrasing dates from the late 1700s, it has traditionally been disapproved because *various* shifts from being used as an adjective to a pronoun. Although the phrasing is roughly analogous to *several of* or *many of*, it is not refined usage. Some improvement, including *various* alone, is always available—e.g.:
+Although this phrasing dates from the late 1700s, it has traditionally been disapproved because *various* shifts from being used as an adjective to a pronoun. Although the phrasing is roughly analogous to *several of* or *many of*, it is not refined usage. Some improvement, including *various* alone, is always available—e.g.:
 
  - "Even the most casual of swing band followers 50 years ago knew *various of the* \[read *the various*\] soloists in their favorite band." Philip Elwood, "A Standout Among Pianists in Swing Era," *S.F. Examiner*, 13 Jan. 1995, at D7. (In that quotation, *band* should be *bands*. See concord (b).)
 

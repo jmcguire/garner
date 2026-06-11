@@ -1,4 +1,4 @@
 # reputation
 
-reputation. See **character**.
+See **character**.
 

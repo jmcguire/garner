@@ -1,6 +1,6 @@
 # what with
 
-what with. This phrase—meaning "in view of," "in consequence of," or "considering (one or more specified things)"—dates back to Old English. It begins an adverbial phrase—e.g.:
+This phrase—meaning "in view of," "in consequence of," or "considering (one or more specified things)"—dates back to Old English. It begins an adverbial phrase—e.g.:
 
  - "This is a city in perpetual health crisis, *what with* drugs, AIDS, and teenage pregnancy, not to mention the occasional appearance of the West Nile virus or sewage spill into the Jones Falls." Michael Ollove, "Dr. Baltimore," *Baltimore Sun*, 1 Oct. 2000, at E9.
 

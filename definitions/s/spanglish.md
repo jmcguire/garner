@@ -1,4 +1,4 @@
 # Spanglish
 
-Spanglish. See portmanteau words.
+See portmanteau words.
 

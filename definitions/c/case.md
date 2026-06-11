@@ -1,7 +1,5 @@
 # case
 
-case.
-
 ## A. Generally
 
 H.W. Fowler wrote of *case*: "There is perhaps no single word so freely resorted to as a trouble-saver, and consequently responsible for so much flabby writing" (*FMEU1* at 65). Arthur Quiller-Couch condemned it as "jargon's dearest child." *On the Art of Writing* 106 (1916).

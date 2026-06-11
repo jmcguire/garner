@@ -1,4 +1,4 @@
 # inurnment
 
-inurnment. See **interment**.
+See **interment**.
 

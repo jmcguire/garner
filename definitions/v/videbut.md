@@ -1,4 +1,4 @@
 # videbut
 
-videbut. See portmanteau words.
+See portmanteau words.
 

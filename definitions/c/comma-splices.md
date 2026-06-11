@@ -1,4 +1,4 @@
 # Comma Splices
 
-Comma Splices. See run-on sentences.
+See run-on sentences.
 

@@ -1,4 +1,4 @@
 # mercilessly
 
-mercilessly. See **\*unmercilessly**.
+See **\*unmercilessly**.
 

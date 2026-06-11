@@ -1,4 +1,4 @@
 # implicitly
 
-implicitly. See **impliedly**.
+See **impliedly**.
 

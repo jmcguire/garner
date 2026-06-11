@@ -1,4 +1,4 @@
 # lawful
 
-lawful. See **legal**.
+See **legal**.
 

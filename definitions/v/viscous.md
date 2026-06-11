@@ -1,4 +1,4 @@
 # viscous
 
-viscous. See **vicious**.
+See **vicious**.
 

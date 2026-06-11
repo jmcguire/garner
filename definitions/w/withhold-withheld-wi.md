@@ -1,4 +1,4 @@
 # withhold \> withheld \> withheld
 
-withhold \> withheld \> withheld. So inflected. See irregular verbs.
+So inflected. See irregular verbs.
 

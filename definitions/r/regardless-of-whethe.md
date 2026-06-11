@@ -1,6 +1,6 @@
 # regardless of whether
 
-regardless of whether. This is the idiomatic phrasing, not *\*regardless whether*—e.g.:
+This is the idiomatic phrasing, not *\*regardless whether*—e.g.:
 
  - "When he wanted to send troops to help end the civil war a year ago, President Clinton told a skeptical public and Congress that they would be withdrawn in December 1996 *regardless whether* \[read *regardless of whether*\] peace had been achieved." "Bosnia Mission Is Not Justified," *Fla. Times-Union*, 21 Nov. 1996, at A10.
 

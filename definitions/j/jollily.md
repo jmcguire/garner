@@ -1,4 +1,4 @@
 # jollily
 
-jollily. See adverbs (c).
+See adverbs (c).
 

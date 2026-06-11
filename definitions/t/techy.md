@@ -1,4 +1,4 @@
 # techy
 
-techy. See **techie**.
+See **techie**.
 

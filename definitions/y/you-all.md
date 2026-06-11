@@ -1,4 +1,4 @@
 # you all
 
-you all. See **y'all (c)**.
+See **y'all (c)**.
 

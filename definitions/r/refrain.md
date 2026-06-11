@@ -1,4 +1,4 @@
 # refrain
 
-refrain. See **restrain**.
+See **restrain**.
 

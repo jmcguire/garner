@@ -1,6 +1,6 @@
 # taken aback
 
-taken aback. This phrase (meaning "shocked or stunned, usu. by something someone has done") is sometimes wrongly written—or wrongly said—*\*taken back*. E.g.:
+This phrase (meaning "shocked or stunned, usu. by something someone has done") is sometimes wrongly written—or wrongly said—*\*taken back*. E.g.:
 
  - "Never one to be *taken back* \[read *taken aback*\] by a new situation, even at the age of eight, Paula had learned a technique for disarming people." Walter B. Barbe, "My Friend Paula" (1958), in *Readings in the Language Arts* 468, 469 (Verna Dieckman Anderson et al. eds., 1964).
 

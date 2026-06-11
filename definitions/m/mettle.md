@@ -1,4 +1,4 @@
 # mettle
 
-mettle. See **metal**.
+See **metal**.
 

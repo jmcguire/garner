@@ -1,4 +1,4 @@
 # bemean
 
-bemean. See **demean**.
+See **demean**.
 

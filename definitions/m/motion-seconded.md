@@ -1,6 +1,6 @@
 # motion seconded
 
-motion seconded. This parliamentary idiom has recently become mangled, through sound association, into the phrase *\*notion seconded*. Perhaps the phrase needed is *notion confirmed*—e.g.:
+This parliamentary idiom has recently become mangled, through sound association, into the phrase *\*notion seconded*. Perhaps the phrase needed is *notion confirmed*—e.g.:
 
  - "Common Cause asked the House ethics committee to investigate Rostenkowski. A *New York Times* editorial *seconded that notion* \[read *approved that idea*?\] and urged House Democrats to ‘call on Mr. Rostenkowski to step aside as chairman.' " Peter Carlson, "Dan Rostenkowski Goes Down in History," *Wash. Post* (Mag.), 17 Oct. 1993, at 35.
 

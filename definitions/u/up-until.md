@@ -1,4 +1,4 @@
 # \*up until
 
-\*up until. See **until**.
+See **until**.
 

@@ -1,4 +1,4 @@
 # \*sorb
 
-\*sorb. See **absorb**.
+See **absorb**.
 

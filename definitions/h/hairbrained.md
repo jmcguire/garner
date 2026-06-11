@@ -1,4 +1,4 @@
 # \*hairbrained
 
-\*hairbrained. See **harebrained**.
+See **harebrained**.
 

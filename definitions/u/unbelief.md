@@ -1,4 +1,4 @@
 # unbelief
 
-unbelief. See **disbelief**.
+See **disbelief**.
 

@@ -1,6 +1,6 @@
 # \*reason is because
 
-\*reason is because. This construction is loose because *reason* implies *because* and vice versa. Robert W. Burchfield, the distinguished *OED* lexicographer, put it well: "Though often defended by modern grammarians, the type ‘the reason . . . is because' (instead of ‘the reason . . . is that') aches with redundancy, and is still as inadmissible in Standard English as it was when H.W. Fowler objected to it in 1926." *Points of View* 116 (1992).
+This construction is loose because *reason* implies *because* and vice versa. Robert W. Burchfield, the distinguished *OED* lexicographer, put it well: "Though often defended by modern grammarians, the type ‘the reason . . . is because' (instead of ‘the reason . . . is that') aches with redundancy, and is still as inadmissible in Standard English as it was when H.W. Fowler objected to it in 1926." *Points of View* 116 (1992).
 
 After *reason is*, you'll need a noun phrase, a predicate adjective, or a clause introduced by *that*. The best cure for *\*reason is because* is to replace *because* with *that*—e.g.:
 

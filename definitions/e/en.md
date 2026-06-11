@@ -1,4 +1,4 @@
 # -en
 
--en. See diminutives (e).
+See diminutives (e).
 

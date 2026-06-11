@@ -1,4 +1,4 @@
 # \*vizor
 
-\*vizor. See **visor**.
+See **visor**.
 

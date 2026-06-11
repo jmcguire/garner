@@ -1,7 +1,5 @@
 # comply
 
-comply.
-
 ## A. Preposition with
 
 Since the 1600s, *comply* has overwhelmingly taken the preposition *with*, not *to*—e.g.:

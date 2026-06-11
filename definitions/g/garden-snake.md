@@ -1,4 +1,4 @@
 # \*garden snake
 
-\*garden snake. See **garter snake**.
+See **garter snake**.
 

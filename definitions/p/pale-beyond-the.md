@@ -1,6 +1,6 @@
 # pale, beyond the
 
-pale, beyond the. This phrase, which means "bizarre, outside the bounds of civilized behavior," derives from the legal sense of *pale* from English history ("a district or territory within specific bounds, or subject to a particular jurisdiction"). In medieval Ireland, the district around Dublin, settled by the English and considered a law-abiding area, was known as the *Pale* or *within the Pale*. The land beyond that area was characterized as wild "bandit country." Today, whatever is *beyond the pale* is a forbidden area or subject.
+This phrase, which means "bizarre, outside the bounds of civilized behavior," derives from the legal sense of *pale* from English history ("a district or territory within specific bounds, or subject to a particular jurisdiction"). In medieval Ireland, the district around Dublin, settled by the English and considered a law-abiding area, was known as the *Pale* or *within the Pale*. The land beyond that area was characterized as wild "bandit country." Today, whatever is *beyond the pale* is a forbidden area or subject.
 
 Modern writers occasionally mangle the phrase by writing *\*beyond the pail* instead of *pale*, a blunder that spread especially after 1950. E.g.:
 

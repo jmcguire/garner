@@ -1,4 +1,4 @@
 # unremorsefully
 
-unremorsefully. See **remorselessly (a)**.
+See **remorselessly (a)**.
 

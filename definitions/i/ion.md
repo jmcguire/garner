@@ -1,4 +1,4 @@
 # -ion
 
--ion. See noun suffixes (b) & zombie nouns.
+See noun suffixes (b) & zombie nouns.
 

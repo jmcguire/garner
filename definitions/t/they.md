@@ -1,7 +1,5 @@
 # they
 
-they.
-
 ## A. Number
 
 Traditionally a plural, *they* has been under great pressure to take on singular senses—and has been doing so especially since the late 20th century. True, there are historical antecedents going back centuries, especially with the possessive *their* in reference to an indefinite pronoun \<anyone who thinks their soup is too hot should wait a few minutes\>. But the late-20th-century changes were often qualitatively different—e.g.: "As for the student who stopped by yesterday, *they* were saying that the trees were cut down in violation of city ordinance." At first the view was that the sex of the student was irrelevant to the statement. Again, true enough. But the student in this last example was a known person—not a hypothetical construct.

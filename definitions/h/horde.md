@@ -1,4 +1,4 @@
 # horde
 
-horde. See **hoard**.
+See **hoard**.
 

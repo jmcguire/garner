@@ -1,7 +1,5 @@
 # slough
 
-slough.
-
 ## A. Pronunciation
 
 Depending on the meaning, this word can rhyme with *through*, *rough*, or *bough*.

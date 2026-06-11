@@ -1,7 +1,5 @@
 # protagonist
 
-protagonist.
-
 ## A. Generally
 
 Literally, *protagonist* = the chief character in a drama. By extension, it means "a champion of a cause." It should not be used loosely in reference to any character in a drama or any supporter of a cause—only to the chief one. But the slipshod extension is commonplace—e.g.:

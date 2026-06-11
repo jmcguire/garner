@@ -1,4 +1,4 @@
 # \*rhumba
 
-\*rhumba. See **rumba**.
+See **rumba**.
 

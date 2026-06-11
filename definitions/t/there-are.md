@@ -1,4 +1,4 @@
 # there are
 
-there are. See **there is** & expletives.
+See **there is** & expletives.
 

@@ -1,6 +1,6 @@
 # litter
 
-litter. In March 2022, a law professor objected (on Twitter) to having public trash cans bearing signs that read, "Deposit litter here." The same cans bore a pictogram of a person throwing trash into such a can, with the legend "Litter." The professor said, "By definition, if it is deposited in the can, it is not litter. ‘Litter' must be scattered, strewn about, or lie about in disorder in a public place. See Merriam-Webster."
+In March 2022, a law professor objected (on Twitter) to having public trash cans bearing signs that read, "Deposit litter here." The same cans bore a pictogram of a person throwing trash into such a can, with the legend "Litter." The professor said, "By definition, if it is deposited in the can, it is not litter. ‘Litter' must be scattered, strewn about, or lie about in disorder in a public place. See Merriam-Webster."
 
 *Litter* has several senses in *W11*: (1) a covered couch for carrying someone, or a stretcher; (2) material used as bedding for animals; (3) the offspring at one birth of a multiparous animal; and (4) \[quoting:\] "trash, wastepaper, or garbage lying scattered about\[;\] . . . an untidy accumulation of objects." The *OED*'s definition corresponding to sense 4 is "odds and ends, fragments and leavings lying about, rubbish; a state of confusion or untidiness; a disorderly accumulation of things lying about."
 

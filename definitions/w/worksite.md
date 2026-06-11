@@ -1,4 +1,4 @@
 # worksite
 
-worksite. One word. Cf. **jobsite**.
+One word. Cf. **jobsite**.
 

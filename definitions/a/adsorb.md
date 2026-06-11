@@ -1,4 +1,4 @@
 # adsorb
 
-adsorb. See **absorb**.
+See **absorb**.
 

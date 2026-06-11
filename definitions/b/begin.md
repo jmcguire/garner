@@ -1,7 +1,5 @@
 # begin
 
-begin.
-
 ## A. *To begin*
 
 As an introductory phrase used to enumerate reasons, the idiomatic phrase is *to begin with*, not *to begin*. In the following sentence, the lack of the preposition *with* makes *to begin* sound narrowly chronological, as if Aaron actually began something and then, at some indeterminate point, stopped: "*To begin* \[add *with*\], Aaron played a substantial role in negotiating both agreements."

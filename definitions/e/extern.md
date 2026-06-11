@@ -1,4 +1,4 @@
 # extern
 
-extern. See **intern**.
+See **intern**.
 

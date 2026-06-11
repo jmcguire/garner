@@ -1,4 +1,4 @@
 # unreadable
 
-unreadable. See **illegible**.
+See **illegible**.
 

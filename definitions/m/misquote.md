@@ -1,4 +1,4 @@
 # misquote
 
-misquote. See **quote**.
+See **quote**.
 

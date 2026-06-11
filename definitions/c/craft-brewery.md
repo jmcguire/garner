@@ -1,4 +1,4 @@
 # craft brewery
 
-craft brewery. See **microbrewery**.
+See **microbrewery**.
 

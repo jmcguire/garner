@@ -1,4 +1,4 @@
 # master's degree
 
-master's degree. So written.
+So written.
 

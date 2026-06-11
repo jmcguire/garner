@@ -1,4 +1,4 @@
 # triathlon
 
-triathlon. See -athlon.
+See -athlon.
 

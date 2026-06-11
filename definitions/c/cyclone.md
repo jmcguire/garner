@@ -1,4 +1,4 @@
 # cyclone
 
-cyclone. See **hurricane**.
+See **hurricane**.
 

@@ -1,7 +1,5 @@
 # connote
 
-connote.
-
 ## A. And *denote*
 
 *Connote* /kә-**noht**/ = to imply something in addition to the literal meaning, esp. some emotional response such as tone, flavor, or association. *Denote* /di-**noht**/ = to convey literal meaning. The corresponding nouns are *connotation* and *denotation*. *Denote* is rarely if ever misused. *Connote*, however, is becoming rarer by the day in its traditional sense, illustrated here: "In careful usage, ‘notoriety' carries a *connotation* of wickedness, evil, or gravely bad conduct." James J. Kilpatrick, "A Little Refresher Course," *Tulsa World*, 25 Nov. 1996, at A8.

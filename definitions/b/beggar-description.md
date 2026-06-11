@@ -1,6 +1,6 @@
 # beggar description
 
-beggar description. To *beggar description* is to be indescribable or beyond description. The phrase originated in Shakespeare's reference to Cleopatra: "For her own person, / It beggar'd all description" (*Antony and Cleopatra*, 2.2.197–98). What the phrase says, in essence, is that something is so incredible as to make a beggar of anyone's powers of description—e.g.:
+To *beggar description* is to be indescribable or beyond description. The phrase originated in Shakespeare's reference to Cleopatra: "For her own person, / It beggar'd all description" (*Antony and Cleopatra*, 2.2.197–98). What the phrase says, in essence, is that something is so incredible as to make a beggar of anyone's powers of description—e.g.:
 
  - "Recently, New Yorkers have been up in arms over something so grievous, so blasphemous, that it *beggars description*. I'll give it a shot, though. Mayor Bill de Blasio was caught eating pizza with a knife and fork." Jim Sullivan, "‘Pizzagate' in Big Apple," *Boston Herald*, 15 Jan. 2014, at 17.
 

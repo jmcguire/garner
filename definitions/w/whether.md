@@ -1,7 +1,5 @@
 # whether
 
-whether.
-
 ## A. *Whether or not*
 
 Despite the superstition to the contrary, the words *or not* are usually superfluous, since *whether* implies *or not*—e.g.:

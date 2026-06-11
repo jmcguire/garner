@@ -1,6 +1,6 @@
 # master
 
-master. Traditionally, *master* was used in reference to a boy up to the age of 12—especially in addressing an envelope. Today the practice has largely fallen into disuse, except in formal circumstances. The custom thrives chiefly in the southern U.S., as this sampling suggests:
+Traditionally, *master* was used in reference to a boy up to the age of 12—especially in addressing an envelope. Today the practice has largely fallen into disuse, except in formal circumstances. The custom thrives chiefly in the southern U.S., as this sampling suggests:
 
  - "I have loved receiving mail since I was a boy sitting on the front porch waiting for mailman Mike Houser. . . . I wondered why they \[my correspondents\] addressed me as ‘*master*,' and it must have been when I was in college that I learned that this is a term used for a boy too young to be called ‘mister.' " Harold Julian, "Hail to the Mail," *Knoxville News-Sentinel*, 21 May 2000, at E9. (Perhaps delete one *that* from the second sentence: *it must have been in college that I learned this as a term . . . .*)
 

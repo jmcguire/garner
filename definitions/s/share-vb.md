@@ -1,7 +1,5 @@
 # share, vb
 
-share, vb.
-
 ## A. Generally
 
 As a verb, *share* (= \[1\] to divide into parts for the purpose of giving one or more parts to others \<to share a pie\>; \[2\] to receive, possess, or occupy with others \<to share a home\>; or \[3\] to have in common with; to experience along with others \<to share adventures along the way\>) has traditionally borne the meanings just given.

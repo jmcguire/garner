@@ -1,7 +1,5 @@
 # beget
 
-beget.
-
 ## A. Sense
 
 *Beget* = (1) to sire; to father (a child); or (2) to produce (a result). The metaphorical meaning (sense 2) is an understandable extension of the biological meaning (sense 1). But whenever the context is biological, it's worth remembering that this word isn't gender-neutral—e.g.: "She laughed. ‘One does not object to the desires of one's king\! Of course, if *I beget* \[read *I give birth to*\] a child, that will put an end to it.'" Carolyn Meyer, *Doomed Queen Anne* 14 (2002) (quoting the character Queen Anne).

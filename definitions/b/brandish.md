@@ -1,4 +1,4 @@
 # brandish
 
-brandish. See **blandish**.
+See **blandish**.
 

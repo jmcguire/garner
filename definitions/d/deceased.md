@@ -1,4 +1,4 @@
 # deceased
 
-deceased. See **diseased**.
+See **diseased**.
 

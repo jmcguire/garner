@@ -1,4 +1,4 @@
 # \*fantasm
 
-\*fantasm. See **phantasm**.
+See **phantasm**.
 

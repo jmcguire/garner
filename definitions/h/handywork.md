@@ -1,4 +1,4 @@
 # \*handywork
 
-\*handywork. See **handiwork**.
+See **handiwork**.
 

@@ -1,4 +1,4 @@
 # Tatar
 
-Tatar. See **Tartar**.
+See **Tartar**.
 

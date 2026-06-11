@@ -1,4 +1,4 @@
 # \*highth
 
-\*highth. See **height**.
+See **height**.
 

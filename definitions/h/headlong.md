@@ -1,4 +1,4 @@
 # headlong
 
-headlong. See **headstrong**.
+See **headstrong**.
 

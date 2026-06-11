@@ -1,6 +1,6 @@
 # mademoiselle
 
-mademoiselle. So spelled. *\*Madamoiselle* is a frequent misspelling—e.g.:
+So spelled. *\*Madamoiselle* is a frequent misspelling—e.g.:
 
  - "Photo of Sherry Francis as Madame de Volanges, Mary Lilly as Madame La Marquise de Merteuil, Erica Welborn as *Madamoiselle* \[read *Mademoiselle*\] Cecile Volanges." "A Stitch in Time," *Sunday Advocate* (Baton Rouge) (Mag.), 24 Sept. 1995, at 14 (photo caption).
 

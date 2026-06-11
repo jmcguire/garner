@@ -1,6 +1,6 @@
 # cumulus
 
-cumulus. Pl. *cumuli*. (See plurals (b).) Although the corresponding adjective is *cumulous*—and although the noun *cumulus* can stand on its own—the standard phrasing is *cumulus cloud*. E.g.:
+Pl. *cumuli*. (See plurals (b).) Although the corresponding adjective is *cumulous*—and although the noun *cumulus* can stand on its own—the standard phrasing is *cumulus cloud*. E.g.:
 
  - "The type of clouds that cross Wisconsin changes seasonally, and you find more *cumulus clouds* this time of the year." John Malan, "Today Is Likely to Be More Typical of a Day in June," *Milwaukee J. Sentinel*, 5 June 1996, Sports §, at 8.
 

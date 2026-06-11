@@ -1,6 +1,6 @@
 # coin a phrase
 
-coin a phrase. To *coin* is to mint afresh, to invent, or to make current—e.g.: "Whoever said money can't buy happiness sure knew how to *coin a phrase*." Tom Weber, "U.S. Mint Causing Two-Bit Ire," *Bangor Daily News*, 20 Aug. 2002, at B1. The phrase doesn't mean "to use," as some writers have mistakenly thought since the mid-20th century—e.g.:
+To *coin* is to mint afresh, to invent, or to make current—e.g.: "Whoever said money can't buy happiness sure knew how to *coin a phrase*." Tom Weber, "U.S. Mint Causing Two-Bit Ire," *Bangor Daily News*, 20 Aug. 2002, at B1. The phrase doesn't mean "to use," as some writers have mistakenly thought since the mid-20th century—e.g.:
 
  - "To *coin a phrase* \[read *borrow a phrase*\] from the movie, ‘Rudy,' he's six-foot nothing and a hundred and nothing." Roger McAfee, "Maturing Merricks Gives Bulldogs Boost," *Intelligencer J.* (Lancaster, Pa.), 28 Feb. 2002, at C1.
 

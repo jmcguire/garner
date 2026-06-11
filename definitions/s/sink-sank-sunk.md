@@ -1,6 +1,6 @@
 # sink \> sank \> sunk
 
-sink \> sank \> sunk. So inflected. These standard inflections have been fixed only since about 1880—and still there is some flux in print sources. The past participle often ousts the simple past-tense form from its rightful place—e.g.:
+So inflected. These standard inflections have been fixed only since about 1880—and still there is some flux in print sources. The past participle often ousts the simple past-tense form from its rightful place—e.g.:
 
  - "When the Montreal Expos announced that they had selected outfielder Errick L. Williams in the annual Rule 5 draft, it caused barely a ripple of interest. Until it *sunk* \[read *sank*\] in exactly who Errick L. Williams was." Larry Stone, "Montreal Picks, Plans to Trade Heisman-Toting Ricky Williams," *Seattle Times*, 15 Dec. 1998, at E4. (On the second sentence in that example, see incomplete sentences.)
 

@@ -1,4 +1,4 @@
 # passage
 
-passage. See **voyage**.
+See **voyage**.
 

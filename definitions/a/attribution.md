@@ -1,4 +1,4 @@
 # attribution
 
-attribution. See **attribute**, n.
+See **attribute**, n.
 

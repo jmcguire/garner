@@ -1,7 +1,5 @@
 # inculcate (into)
 
-inculcate (into).
-
 ## A. And *indoctrinate*
 
 *Inculcate* is sometimes misused for *indoctrinate*. Although these are both transitive verbs (i.e., they take direct objects), the nature of the objects is different. One *inculcates* values into people; and one *indoctrinates* people with certain values—e.g.: "Green schools can also *inculcate* green values in students at an impressionable age." Bryan Walsh, "Little Green Schoolhouse," *Time*, 1 Oct. 2007, at 59. So one does not *inculcate* people, but rather values or beliefs or ideas. The mistake is common—e.g.:

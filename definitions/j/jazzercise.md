@@ -1,4 +1,4 @@
 # jazzercise
 
-jazzercise. See portmanteau words.
+See portmanteau words.
 

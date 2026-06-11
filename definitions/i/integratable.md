@@ -1,4 +1,4 @@
 # \*integratable
 
-\*integratable. See **integrable**.
+See **integrable**.
 

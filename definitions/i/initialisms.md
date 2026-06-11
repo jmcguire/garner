@@ -1,4 +1,4 @@
 # Initialisms
 
-Initialisms. See abbreviations.
+See abbreviations.
 

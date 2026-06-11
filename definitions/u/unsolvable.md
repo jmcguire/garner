@@ -1,4 +1,4 @@
 # unsolvable
 
-unsolvable. See **insoluble**.
+See **insoluble**.
 

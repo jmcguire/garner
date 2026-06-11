@@ -1,4 +1,4 @@
 # not this
 
-not this. See **not (d)**.
+See **not (d)**.
 

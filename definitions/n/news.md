@@ -1,6 +1,6 @@
 # news
 
-news. For most of its life, *news* was used as both a singular and a plural. It was only in the 1800s that the singular became the exclusively standard usage. The word continues to be regarded as singular—e.g.:
+For most of its life, *news* was used as both a singular and a plural. It was only in the 1800s that the singular became the exclusively standard usage. The word continues to be regarded as singular—e.g.:
 
  - "By now, such good *news has* become commonplace." Tom Saler, "Earnings Help Explain the Bull's Endurance," *Milwaukee J. Sentinel*, 4 Aug. 1997, at 13.
 

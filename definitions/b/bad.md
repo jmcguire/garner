@@ -1,4 +1,4 @@
 # bad
 
-bad. See **badly (a)**.
+See **badly (a)**.
 

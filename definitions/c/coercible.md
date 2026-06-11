@@ -1,4 +1,4 @@
 # coercible
 
-coercible. So spelled—not *\*coerceable*. See -able (a).
+So spelled—not *\*coerceable*. See -able (a).
 

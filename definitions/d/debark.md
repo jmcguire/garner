@@ -1,4 +1,4 @@
 # \*debark
 
-\*debark. See **disembark**.
+See **disembark**.
 

@@ -1,4 +1,4 @@
 # sexual
 
-sexual. See **sex**, adj.
+See **sex**, adj.
 

@@ -1,4 +1,4 @@
 # that said
 
-that said. See **having said that**.
+See **having said that**.
 

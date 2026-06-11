@@ -1,7 +1,5 @@
 # very
 
-very.
-
 ## A. As a weasel word
 
 This intensifier, which functions as both an adjective and an adverb, surfaces repeatedly in flabby writing. In almost every context in which it appears, its omission would result in at most a negligible loss. And in many contexts the idea would be more powerfully expressed without it—e.g.: "The *very* \[delete *very*\] outrageous statement by Earl Woods that his son would ‘do more than anyone to change humanity' gives Woods a chance not only to survive his Miracle at the Masters, but to improve upon it." Blaine Newnham, "Tiger ‘Knows What He's Doing,' " *Tulsa Trib. & Tulsa World*, 19 Apr. 1997, at B2. In that sentence—as in so many others—*very* actually weakens the adjective that follows. See **most**. Cf. **clearly** & **obviously**.

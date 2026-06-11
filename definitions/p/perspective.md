@@ -1,4 +1,4 @@
 # perspective
 
-perspective. See **prospective**.
+See **prospective**.
 

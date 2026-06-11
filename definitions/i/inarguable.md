@@ -1,4 +1,4 @@
 # inarguable
 
-inarguable. See **unarguable**.
+See **unarguable**.
 

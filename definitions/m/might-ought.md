@@ -1,4 +1,4 @@
 # \*might ought
 
-\*might ought. See double modals.
+See double modals.
 

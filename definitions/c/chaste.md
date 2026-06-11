@@ -1,7 +1,5 @@
 # chaste
 
-chaste.
-
 ## A. And Gender
 
 *Chaste* (= untainted by unlawful sexual intercourse; virtuous; sexually continent) is a word that applies to males and females alike. E.g.: "As a young and *chaste* boy, Yava said, he would often be called on to help construct the sand painting, lending the power of his purity." Barbara Yost, "Navajos Seek Answer with Help of Old Ways," *Phoenix Gaz.*, 4 June 1993, at A2.

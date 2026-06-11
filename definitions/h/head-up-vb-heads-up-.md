@@ -1,6 +1,6 @@
 # head up, vb.; heads-up, n. & adj
 
-head up, vb.; heads-up, n. & adj. A. *Head up*, vb. This phrasal verb has been voguish in business and academic jargon since the 1970s—e.g.:
+A. *Head up*, vb. This phrasal verb has been voguish in business and academic jargon since the 1970s—e.g.:
 
  - "Nigel Wilson, a transit expert at the Massachusetts Institute of Technology, will *head up* the panel." Doug Hanchett, "MBTA on Board for Review of Silver Line Buses," *Boston Herald*, 22 Oct. 2000, at 9.
 

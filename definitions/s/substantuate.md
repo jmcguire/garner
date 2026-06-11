@@ -1,4 +1,4 @@
 # \*substantuate
 
-\*substantuate. See **substantiate**.
+See **substantiate**.
 

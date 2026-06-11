@@ -1,4 +1,4 @@
 # \*digamy
 
-\*digamy. See **bigamy**.
+See **bigamy**.
 

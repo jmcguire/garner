@@ -1,4 +1,4 @@
 # anaesthetic
 
-anaesthetic. See **anesthetic** & ae.
+See **anesthetic** & ae.
 

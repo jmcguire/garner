@@ -1,7 +1,5 @@
 # censor; censure
 
-censor; censure.
-
 ## A. As Verbs
 
 To *censor* /**sen**-sәr/ is to scrutinize and revise, to suppress or edit selectively. E.g.: "The news is severely *censored* by the Pentagon and the Arab information agency." Lucille Povero, "Local Newspaper Is the Best Hope of Getting the Truth," *St. Petersburg Times* (Fla.), 11 Jan. 1991, City Times §, at 2.

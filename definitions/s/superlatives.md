@@ -1,4 +1,4 @@
 # Superlatives
 
-Superlatives. See comparatives and superlatives.
+See comparatives and superlatives.
 

@@ -1,4 +1,4 @@
 # kalends
 
-kalends. See **calends**.
+See **calends**.
 

@@ -1,4 +1,4 @@
 # offence
 
-offence. See **offense**.
+See **offense**.
 

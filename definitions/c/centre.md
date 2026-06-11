@@ -1,4 +1,4 @@
 # centre
 
-centre. See **center**.
+See **center**.
 

@@ -1,7 +1,5 @@
 # thus
 
-thus.
-
 ## A. General Senses
 
 A formal adverb that dates from Old English, *thus* has four meanings: (1) in this or that manner \<one does it thus\>; (2) so \<thus far\>; (3) hence, consequently; and (4) as an example. In senses 3 and 4, *thus*, when it begins a clause, should usually have a comma after it.

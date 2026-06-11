@@ -1,6 +1,6 @@
 # lay waste
 
-lay waste. Meaning "to ravage or devastate," the traditional idiom is unusual: either *they laid waste the city* or (a variant) *they laid the city waste*. *Lay* is the verb; *city* is the object; and *waste* is an adjective serving as an objective complement. The structure of *they laid waste the city* is like that of the unobjectionable *they laid bare the problems*.
+Meaning "to ravage or devastate," the traditional idiom is unusual: either *they laid waste the city* or (a variant) *they laid the city waste*. *Lay* is the verb; *city* is the object; and *waste* is an adjective serving as an objective complement. The structure of *they laid waste the city* is like that of the unobjectionable *they laid bare the problems*.
 
 In 1965, an academician polled about 100 college students in New York, only a quarter of whom preferred the traditional phrasing; half preferred the phrasing *laid waste to the city*. In that version, *lay* is the verb; *waste* is a noun serving as a direct object; and a prepositional phrase follows. The phrasing doesn't make any literal sense.
 

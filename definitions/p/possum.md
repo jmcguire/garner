@@ -1,4 +1,4 @@
 # possum
 
-possum. See **opossum**.
+See **opossum**.
 

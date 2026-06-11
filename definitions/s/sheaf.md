@@ -1,4 +1,4 @@
 # sheaf
 
-sheaf. Pl. *sheaves*. See **sheaves** & plurals (c).
+Pl. *sheaves*. See **sheaves** & plurals (c).
 

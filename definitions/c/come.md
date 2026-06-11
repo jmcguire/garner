@@ -1,7 +1,5 @@
 # come
 
-come.
-
 ## A. *Come* \> *came* \> *come*
 
 So inflected. Nonstandard past forms \<he come here yesterday\> \<she hasn't came yet\> typify dialect. For a good discussion, see Sali Tagliamonte, "*Come/Came* Variation in English Dialects," 76 *Am. Speech* 42, 42–43 (2001). See irregular verbs.

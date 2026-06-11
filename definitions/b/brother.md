@@ -1,4 +1,4 @@
 # brother
 
-brother. See **brethren**.
+See **brethren**.
 

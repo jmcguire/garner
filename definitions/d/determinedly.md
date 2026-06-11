@@ -1,4 +1,4 @@
 # determinedly
 
-determinedly. See **determinately**.
+See **determinately**.
 

@@ -1,4 +1,4 @@
 # noneconomic
 
-noneconomic. See **uneconomical**.
+See **uneconomical**.
 

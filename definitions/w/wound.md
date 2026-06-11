@@ -1,4 +1,4 @@
 # wound
 
-wound. See **wind**.
+See **wind**.
 

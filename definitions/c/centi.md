@@ -1,4 +1,4 @@
 # centi-
 
-centi-. See **hecto-**.
+See **hecto-**.
 

@@ -1,4 +1,4 @@
 # more honored in the breach
 
-more honored in the breach. See **breach, more honored in the**.
+See **breach, more honored in the**.
 

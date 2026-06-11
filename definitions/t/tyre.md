@@ -1,4 +1,4 @@
 # tyre
 
-tyre. See **tire**.
+See **tire**.
 

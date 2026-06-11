@@ -1,4 +1,4 @@
 # \*innundate
 
-\*innundate. See **inundate**.
+See **inundate**.
 

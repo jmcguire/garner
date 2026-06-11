@@ -1,4 +1,4 @@
 # \*foresake
 
-\*foresake. See **forsake**.
+See **forsake**.
 

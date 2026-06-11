@@ -1,6 +1,6 @@
 # forbearance
 
-forbearance. So spelled—not *\*forebearance*, which is a nonword. But some writers blunder—e.g.:
+So spelled—not *\*forebearance*, which is a nonword. But some writers blunder—e.g.:
 
  - "But the 1903 National League pennant went to the Pittsburgh Pirates, whose owner, Barney Dreyfuss, greatly appreciated the American League's *forebearance* \[read *forbearance*\] in not putting a team in his city." J. Anthony Lukas, "The Year the World Series Was Canceled," *N.Y. Times*, 23 Oct. 1994, § 4, at 15.
 

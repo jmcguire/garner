@@ -1,7 +1,5 @@
 # go
 
-go.
-
 ## A. Inflected Forms: *go* \> *went* \> *gone*
 
 To use *went* as a straight-faced past participle is to engage in low dialect that isn't appropriate even for the sports pages—e.g.:

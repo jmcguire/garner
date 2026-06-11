@@ -1,7 +1,5 @@
 # you
 
-you.
-
 ## A. Used in an Exclusive Way
 
 Be aware of your audience. If you're writing for the *New England Journal of Medicine*, it's probably safe to use *you* to mean "doctors." But avoid the second-person pronoun if a substantial number of your readers couldn't conceivably consider themselves within the ambit of the postulated *you*. It's one thing to say explicitly, "Imagine you're a prepubescent boy . . . ." It's quite another to say to a general audience, "One morning your voice starts dropping into a lower register . . . ." Hence a principle: if you're going to use *you* in reference to your reader, make sure that it's a plausible *you*. See superstitions (k).

@@ -1,4 +1,4 @@
 # unable
 
-unable. See **incapable**.
+See **incapable**.
 

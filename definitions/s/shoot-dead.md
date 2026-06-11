@@ -1,4 +1,4 @@
 # shoot . . . dead
 
-shoot . . . dead. See **kill . . . dead**.
+See **kill . . . dead**.
 

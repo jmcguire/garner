@@ -1,4 +1,4 @@
 # repress
 
-repress. See **oppress**.
+See **oppress**.
 

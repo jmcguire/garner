@@ -1,4 +1,4 @@
 # nonmarital child
 
-nonmarital child. See **illegitimate child**.
+See **illegitimate child**.
 

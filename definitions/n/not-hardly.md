@@ -1,6 +1,6 @@
 # \*not hardly
 
-\*not hardly. This robust barbarism is fine if your purpose is to show dialect, but it doesn't otherwise belong in the serious writer's toolbox—e.g.:
+This robust barbarism is fine if your purpose is to show dialect, but it doesn't otherwise belong in the serious writer's toolbox—e.g.:
 
  - "Is there a more logical place for Moorpark than the Marmonte League? *Not hardly.* \[Read *Hardly.*\] But logic often has nothing to do with it." Paige A. Leech, "Time to Get Real on Realignment," *L.A. Times*, 16 Feb. 1997, at C10.
 

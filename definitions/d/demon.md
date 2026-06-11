@@ -1,4 +1,4 @@
 # demon
 
-demon. See **daemon**.
+See **daemon**.
 

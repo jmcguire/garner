@@ -1,4 +1,4 @@
 # \*inalterable
 
-\*inalterable. See **unalterable**.
+See **unalterable**.
 

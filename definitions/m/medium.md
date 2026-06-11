@@ -1,4 +1,4 @@
 # medium
 
-medium. See **media** & **median**.
+See **media** & **median**.
 

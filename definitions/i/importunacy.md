@@ -1,4 +1,4 @@
 # \*importunacy
 
-\*importunacy. See **importunity**.
+See **importunity**.
 

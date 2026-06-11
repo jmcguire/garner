@@ -1,4 +1,4 @@
 # unartistic
 
-unartistic. See **inartistic**.
+See **inartistic**.
 

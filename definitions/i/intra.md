@@ -1,4 +1,4 @@
 # intra-
 
-intra-. See inter-.
+See inter-.
 

@@ -1,7 +1,5 @@
 # better
 
-better.
-
 ## A. For *had better*
 
 Dropping the *had* in expressions such as *You (had) better be going now* is acceptable only in informal speech or recorded dialogue. Even in the compressed space of a headline, the ellipsis is inadvisable—e.g.: "Perspective—The FCC *Better* \[read *Had Better*\] Shape Up Those Monopolies," *Communications Week*, 15 Apr. 1996, at 49. The phrasing is a low casualism—e.g.:

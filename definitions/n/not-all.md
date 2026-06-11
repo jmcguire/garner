@@ -1,4 +1,4 @@
 # not all
 
-not all. See **all (b)**.
+See **all (b)**.
 

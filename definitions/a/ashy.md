@@ -1,4 +1,4 @@
 # ashy
 
-ashy. See **ashen**.
+See **ashen**.
 

@@ -1,4 +1,4 @@
 # \*usually always
 
-\*usually always. See **\*generally always**.
+See **\*generally always**.
 

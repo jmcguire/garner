@@ -1,4 +1,4 @@
 # indigenous American
 
-indigenous American. See **Native American**.
+See **Native American**.
 

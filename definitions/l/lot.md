@@ -1,4 +1,4 @@
 # lot
 
-lot. See **a lot**.
+See **a lot**.
 

@@ -1,4 +1,4 @@
 # to begin
 
-to begin. See **begin (a)**.
+See **begin (a)**.
 

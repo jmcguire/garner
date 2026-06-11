@@ -1,4 +1,4 @@
 # waste
 
-waste. See **waist**.
+See **waist**.
 

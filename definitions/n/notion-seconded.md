@@ -1,4 +1,4 @@
 # \*notion seconded
 
-\*notion seconded. See **motion seconded**.
+See **motion seconded**.
 

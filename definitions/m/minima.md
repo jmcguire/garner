@@ -1,4 +1,4 @@
 # minima
 
-minima. See **minimum**.
+See **minimum**.
 

@@ -1,4 +1,4 @@
 # coronet
 
-coronet. See **cornet**.
+See **cornet**.
 

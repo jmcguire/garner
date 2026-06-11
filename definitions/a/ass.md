@@ -1,4 +1,4 @@
 # ass
 
-ass. See **arse**.
+See **arse**.
 

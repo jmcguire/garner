@@ -1,4 +1,4 @@
 # somewhere
 
-somewhere. See **someplace**.
+See **someplace**.
 

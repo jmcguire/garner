@@ -1,4 +1,4 @@
 # McIntosh
 
-McIntosh. See **mackintosh**.
+See **mackintosh**.
 

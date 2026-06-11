@@ -1,4 +1,4 @@
 # \*s/he
 
-\*s/he. See sexism (b).
+See sexism (b).
 

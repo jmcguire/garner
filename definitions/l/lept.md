@@ -1,4 +1,4 @@
 # \*lept
 
-\*lept. See **leapt**.
+See **leapt**.
 

@@ -1,4 +1,4 @@
 # noted
 
-noted. See **noticeable**.
+See **noticeable**.
 

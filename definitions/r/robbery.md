@@ -1,4 +1,4 @@
 # robbery
 
-robbery. See **burglary**.
+See **burglary**.
 

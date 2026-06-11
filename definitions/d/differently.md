@@ -1,4 +1,4 @@
 # differently
 
-differently. See **different (b)**.
+See **different (b)**.
 

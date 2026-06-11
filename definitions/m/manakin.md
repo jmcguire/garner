@@ -1,4 +1,4 @@
 # \*manakin
 
-\*manakin. See **manikin**.
+See **manikin**.
 

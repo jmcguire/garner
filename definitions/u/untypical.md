@@ -1,4 +1,4 @@
 # \*untypical
 
-\*untypical. See **atypical**.
+See **atypical**.
 

@@ -1,7 +1,5 @@
 # err
 
-err.
-
 ## A. Pronunciation
 
 Traditionalists rhyme this word with *fur*; most AmE speakers make it rhyme with *bear*. Each side is likely to think the other errs.

@@ -1,7 +1,5 @@
 # impractical
 
-impractical.
-
 ## A. And *impracticable*
 
 *Impractical* = (1) not manifested in good practice; incapable of being wisely put to good use; or (2) lacking in practical skill or knowledge. *Impracticable* = not workable or accomplishable; infeasible. Although *impractical* is considered an ordinary word today and *impracticable* an unusual one, that was not always true: from the late 1600s until the mid-1900s, *impracticable* appeared far more commonly in print than its shorter sibling. Cf. **practical**.

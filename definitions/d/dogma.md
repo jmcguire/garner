@@ -1,6 +1,6 @@
 # dogma
 
-dogma. Pl. *dogmas* /**dog**-mәz/ or *\*dogmata* /**dog**-mә-tә/. The simple plural is preferred over the Greek *\*dogmata*—e.g.:
+Pl. *dogmas* /**dog**-mәz/ or *\*dogmata* /**dog**-mә-tә/. The simple plural is preferred over the Greek *\*dogmata*—e.g.:
 
  - "If The Union doesn't subscribe to the unisex *dogmata* \[read *dogmas*\] of our frumpy homogenizers—and I sometimes wonder—such distinctions should be borne in mind." Letter of R.R. Dalling, "Valley Center Churlish Caricature," *San Diego Union-Trib.*, 17 Apr. 1985, at B7.
 

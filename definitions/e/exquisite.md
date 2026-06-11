@@ -1,7 +1,5 @@
 # exquisite
 
-exquisite.
-
 ## A. Pronunciation
 
 The word is most traditionally pronounced with the first syllable accented (/**ek**-skwiz-it/); in AmE, however, stressing the second (/ek-**skwiz**-it/) is typical and fully acceptable.

@@ -1,4 +1,4 @@
 # motel
 
-motel. See portmanteau words.
+See portmanteau words.
 

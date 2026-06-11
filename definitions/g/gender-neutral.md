@@ -1,4 +1,4 @@
 # gender-neutral
 
-gender-neutral. See **unisex;** see also sexism.
+See **unisex;** see also sexism.
 

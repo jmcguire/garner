@@ -1,4 +1,4 @@
 # perpetrate
 
-perpetrate. See **perpetuate**.
+See **perpetuate**.
 

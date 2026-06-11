@@ -1,4 +1,4 @@
 # \*caricature assassination
 
-\*caricature assassination. See **character assassination**.
+See **character assassination**.
 

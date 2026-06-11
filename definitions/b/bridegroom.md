@@ -1,4 +1,4 @@
 # bridegroom
 
-bridegroom. See **groom**.
+See **groom**.
 

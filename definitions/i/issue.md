@@ -1,7 +1,5 @@
 # issue
 
-issue.
-
 ## A. *At issue*; *in issue*
 
 *At issue* = (1) (of people) in controversy; taking opposite sides of a case or contrary views of a matter; at variance \<his views are at issue with mine\>; or (2) (of matters or questions) being in dispute or under discussion; in question \<the allegations at issue\>. The phrase *in issue*, which shares sense 2 of *at issue*, has always been infrequent. Having originated in mid-19th-century legal contexts, *in issue* is common in law but uncommon elsewhere. *At issue* is the ordinary idiomatic phrase.

@@ -1,4 +1,4 @@
 # inability
 
-inability. See **disability (a)**.
+See **disability (a)**.
 

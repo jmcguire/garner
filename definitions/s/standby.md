@@ -1,4 +1,4 @@
 # standby
 
-standby. Pl. *standbys*—not *\*standbies*.
+Pl. *standbys*—not *\*standbies*.
 

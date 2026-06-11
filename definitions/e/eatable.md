@@ -1,4 +1,4 @@
 # eatable
 
-eatable. See **edible**.
+See **edible**.
 

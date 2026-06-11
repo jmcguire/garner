@@ -1,7 +1,5 @@
 # decision, vb
 
-decision, vb.
-
 ## A. In Combat Sports
 
 The *OED* records this verb as a boxing term from 1914, noting that it can be used also in other combat sports to mean "to beat (an opponent) by a decision." *RH2*'s definition is somewhat more explicit: "to win a victory over (one's opponent) by a point score rather than a knockout." The word gained prominence in the latter half of the 20th century. Sportswriters are much enamored of the word—e.g.:

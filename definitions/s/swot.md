@@ -1,4 +1,4 @@
 # \*swot
 
-\*swot. See **swat**.
+See **swat**.
 

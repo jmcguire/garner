@@ -1,7 +1,5 @@
 # alternate; alternative
 
-alternate; alternative.
-
 ## A. As Nouns
 
 *Alternative* is needed far more often than *alternate*. An *alternative* is a choice or option—usually one of two choices, but not necessarily. Etymological purists have argued that the word (fr. L. *alter* "the other of two") should be confined to contexts involving only two choices. Ernest Gowers termed this contention a fetish (*FMEU2* at 196), and it has little or no support either among other stylistic experts or in actual usage. E.g.: "The county has *three alternatives* on how to meet the region's needs before its treatment plants reach capacity in 2010." "Officials Oppose Plan Expansion," *Seattle Times*, 26 Aug. 1997, at B2. In fact, the phrases *three alternatives* and *four alternatives* have been fairly common in print since the 1800s.

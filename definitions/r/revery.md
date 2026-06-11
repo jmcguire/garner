@@ -1,4 +1,4 @@
 # \*revery
 
-\*revery. See **reverie**.
+See **reverie**.
 

@@ -1,4 +1,4 @@
 # literatim
 
-literatim. See **verbatim**.
+See **verbatim**.
 

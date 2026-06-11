@@ -1,4 +1,4 @@
 # \*inplane
 
-\*inplane. See airlinese.
+See airlinese.
 

@@ -1,4 +1,4 @@
 # galumph
 
-galumph. See portmanteau words.
+See portmanteau words.
 

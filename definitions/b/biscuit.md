@@ -1,4 +1,4 @@
 # biscuit
 
-biscuit. See **cookie**.
+See **cookie**.
 

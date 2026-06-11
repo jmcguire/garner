@@ -1,4 +1,4 @@
 # \*halliard
 
-\*halliard. See **halyard**.
+See **halyard**.
 

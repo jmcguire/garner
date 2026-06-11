@@ -1,4 +1,4 @@
 # ripe
 
-ripe. See **rife**.
+See **rife**.
 

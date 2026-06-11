@@ -1,4 +1,4 @@
 # crape
 
-crape. See **crepe**.
+See **crepe**.
 

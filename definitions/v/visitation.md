@@ -1,4 +1,4 @@
 # visitation
 
-visitation. See **visit**, n.
+See **visit**, n.
 

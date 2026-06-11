@@ -1,6 +1,6 @@
 # illicit
 
-illicit. This adjective, meaning "illegal," appears in two malapropisms. First, it is sometimes used for *elicit* (= to bring out)—e.g.:
+This adjective, meaning "illegal," appears in two malapropisms. First, it is sometimes used for *elicit* (= to bring out)—e.g.:
 
  - "The NFL tempered Cincinnati's first free agent signing Wednesday when it raised the league's salary cap $500,000, making it $2.5 million higher than in 1994 and *illiciting* \[read *eliciting*\] more fears from Bengals General Manager Mike Brown for the future." Geoff Hobson, "Bengals Rocked by New, Expanded Salary Cap," *Cincinnati Enquirer*, 23 Mar. 1995, at D1.
 

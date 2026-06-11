@@ -1,4 +1,4 @@
 # Filipino
 
-Filipino. See **Philippine Islands**.
+See **Philippine Islands**.
 

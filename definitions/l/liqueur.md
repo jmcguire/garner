@@ -1,4 +1,4 @@
 # liqueur
 
-liqueur. See **liquor**.
+See **liquor**.
 

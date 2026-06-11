@@ -1,7 +1,5 @@
 # delivery
 
-delivery.
-
 ## A. And *deliverance*
 
 *Delivery*, the more usual word, is used in reference to (1) a transfer or conveyance (of something) \<overnight delivery\>; (2) an utterance \<a stammering delivery of the speech\>; or (3) a giving of birth \<premature delivery\>. *Deliverance* is a legal and religious term usually meaning "rescue, release," although at one time it overlapped with *delivery* in almost every sense.

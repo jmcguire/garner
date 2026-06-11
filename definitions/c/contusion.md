@@ -1,4 +1,4 @@
 # contusion
 
-contusion. See **concussion**.
+See **concussion**.
 

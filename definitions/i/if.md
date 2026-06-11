@@ -1,7 +1,5 @@
 # if
 
-if.
-
 ## A. And *whether*
 
 It's good editorial practice to distinguish between these words. Use *if* for a conditional idea, *whether* for an alternative or possibility. Hence *Let me know if you'll be coming* best means that I want to hear from you only if you're coming. But *Let me know whether you'll be coming* means that I want to hear from you about your plans one way or the other.

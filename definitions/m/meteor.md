@@ -1,4 +1,4 @@
 # meteor
 
-meteor. See **meteoroid**.
+See **meteoroid**.
 

@@ -1,7 +1,5 @@
 # later
 
-later.
-
 ## A. Without Temporal Context
 
 *Later* should not be used unless a proper time frame has already been established. E.g.: "As Salman Rushdie, *later the target of an Islamic fatwa calling for his death* \[read *who would become the target of an Islamic fatwa calling for his death*\], stated in 1985, . . . ."

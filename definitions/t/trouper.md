@@ -1,4 +1,4 @@
 # trouper
 
-trouper. See **trooper**.
+See **trooper**.
 

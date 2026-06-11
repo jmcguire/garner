@@ -1,4 +1,4 @@
 # quanta
 
-quanta. See **quantum**.
+See **quantum**.
 

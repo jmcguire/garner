@@ -1,4 +1,4 @@
 # \*dissention
 
-\*dissention. See **dissent**, n.
+See **dissent**, n.
 

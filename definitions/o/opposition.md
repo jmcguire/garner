@@ -1,4 +1,4 @@
 # opposition
 
-opposition. For an odd misusage, see **apposition**.
+For an odd misusage, see **apposition**.
 

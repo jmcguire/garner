@@ -1,4 +1,4 @@
 # inquisitorial
 
-inquisitorial. See **inquisitive**.
+See **inquisitive**.
 

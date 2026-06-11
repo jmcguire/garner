@@ -1,7 +1,5 @@
 # i.e
 
-i.e.
-
 ## A. Generally
 
 The abbreviation for *id est* (L. "that is") introduces explanatory phrases or clauses. Although the abbreviation is appropriate in some scholarly contexts, the phrase *that is* or the word *namely* is more comprehensible to the average reader.

@@ -1,4 +1,4 @@
 # \*premia
 
-\*premia. See **premium**.
+See **premium**.
 

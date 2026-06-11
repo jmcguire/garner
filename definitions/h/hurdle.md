@@ -1,4 +1,4 @@
 # hurdle
 
-hurdle. See **hurl**.
+See **hurl**.
 

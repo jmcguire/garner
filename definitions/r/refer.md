@@ -1,4 +1,4 @@
 # refer
 
-refer. See **allude (a)**.
+See **allude (a)**.
 

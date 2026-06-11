@@ -1,4 +1,4 @@
 # one less
 
-one less. See **fewer**.
+See **fewer**.
 

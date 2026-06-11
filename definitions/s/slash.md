@@ -1,4 +1,4 @@
 # Slash
 
-Slash. See punctuation (q).
+See punctuation (q).
 

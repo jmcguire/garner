@@ -1,7 +1,5 @@
 # percentage
 
-percentage.
-
 ## A. Number
 
 Even though this word is technically a singular, it's usually construed with a plural verb when followed by *of* plus a plural noun (or when the *of*-phrase is implied)—e.g.:

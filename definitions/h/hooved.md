@@ -1,4 +1,4 @@
 # \*hooved
 
-\*hooved. See **hoofed**.
+See **hoofed**.
 

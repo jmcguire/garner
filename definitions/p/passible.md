@@ -1,4 +1,4 @@
 # passible
 
-passible. See **passable**.
+See **passable**.
 

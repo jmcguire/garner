@@ -1,4 +1,4 @@
 # \*napsack
 
-\*napsack. See **knapsack**.
+See **knapsack**.
 

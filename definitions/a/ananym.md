@@ -1,4 +1,4 @@
 # ananym
 
-ananym. See **anonym**.
+See **anonym**.
 

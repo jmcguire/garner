@@ -1,4 +1,4 @@
 # province
 
-province. See **provenance (b)**.
+See **provenance (b)**.
 

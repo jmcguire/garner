@@ -1,4 +1,4 @@
 # \*tike
 
-\*tike. See **tyke**.
+See **tyke**.
 

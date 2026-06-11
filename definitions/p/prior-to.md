@@ -1,4 +1,4 @@
 # \*prior to
 
-\*prior to. See **prior**.
+See **prior**.
 

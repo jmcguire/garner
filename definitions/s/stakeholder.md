@@ -1,4 +1,4 @@
 # stakeholder
 
-stakeholder. See **shareholder**.
+See **shareholder**.
 

@@ -1,4 +1,4 @@
 # \*camarade
 
-\*camarade. See **comrade**.
+See **comrade**.
 

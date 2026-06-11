@@ -1,4 +1,4 @@
 # \*disk jockey
 
-\*disk jockey. See **disc jockey**.
+See **disc jockey**.
 

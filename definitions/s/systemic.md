@@ -1,4 +1,4 @@
 # systemic
 
-systemic. See **systematic**.
+See **systematic**.
 

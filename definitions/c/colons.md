@@ -1,4 +1,4 @@
 # Colons
 
-Colons. See punctuation (c).
+See punctuation (c).
 

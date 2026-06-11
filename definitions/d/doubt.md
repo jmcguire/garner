@@ -1,7 +1,5 @@
 # doubt
 
-doubt.
-
 ## A. *Doubt that*; *doubt whether*; *\*doubt if*
 
 The phrasing *doubt that* (the most common of the three)is used primarily in negative sentences, statements of skepticism, and questions—e.g.:

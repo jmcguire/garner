@@ -1,4 +1,4 @@
 # lode
 
-lode. See **load**.
+See **load**.
 

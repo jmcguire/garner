@@ -1,4 +1,4 @@
 # recense
 
-recense. See **revise**.
+See **revise**.
 

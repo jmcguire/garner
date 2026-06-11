@@ -1,4 +1,4 @@
 # \*indue
 
-\*indue. See **endue**.
+See **endue**.
 

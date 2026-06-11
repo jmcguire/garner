@@ -1,7 +1,5 @@
 # murder
 
-murder.
-
 ## A. And *homicide; manslaughter; man-killing.*
 
 *Homicide* is the killing of another human being; it is the general legal term. (See **homicide**.) *Murder* is the unlawful killing of a human being with malice aforethought. It is the most heinous kind of criminal homicide. At common law, *murder* was not subdivided; but in most American jurisdictions statutes have created *first-degree murder*, *second-degree murder*, and *third-degree murder* (in descending order of reprehensibility). Indeed, *second-degree murder* is the same as common-law murder, as defined above. *First-degree murder*, a statutory crime, is the common-law crime of murder with an added element (such as arson, rape, robbery, burglary, larceny, or kidnapping) that aggravates the crime.

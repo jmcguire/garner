@@ -1,4 +1,4 @@
 # \*cleptomania
 
-\*cleptomania. See **kleptomania**.
+See **kleptomania**.
 

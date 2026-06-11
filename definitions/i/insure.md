@@ -1,4 +1,4 @@
 # insure
 
-insure. See **assure**.
+See **assure**.
 

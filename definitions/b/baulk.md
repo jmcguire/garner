@@ -1,4 +1,4 @@
 # \*baulk
 
-\*baulk. See **balk**.
+See **balk**.
 

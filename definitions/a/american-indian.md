@@ -1,4 +1,4 @@
 # American Indian
 
-American Indian. See **Native American**.
+See **Native American**.
 

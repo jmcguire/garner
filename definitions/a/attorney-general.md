@@ -1,6 +1,6 @@
 # attorney general
 
-attorney general. Pl. *attorneys general* (both AmE and BrE)—though *attorney-generals* occurs also in BrE. See plurals (g) & postpositive adjectives.
+Pl. *attorneys general* (both AmE and BrE)—though *attorney-generals* occurs also in BrE. See plurals (g) & postpositive adjectives.
 
  - Current ratio in print (*attorneys general* vs. *attorney generals* in World Englishes): 8:1
 

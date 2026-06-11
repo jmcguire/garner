@@ -1,6 +1,6 @@
 # quadri-/quadru-/quadra-, Essay
 
-quadri-/quadru-/quadra-. In Latinate words denoting four of something, *quadri-* is the usual form, as in *quadripartite* (= having four parts), *quadrillion* (= 1015 \[consisting of four groups of three zeros after 1,000\]), and *quadrivium* (= the four subjects of study in the higher division of the medieval curriculum, consisting of arithmetic, geometry, astronomy, and music).
+In Latinate words denoting four of something, *quadri-* is the usual form, as in *quadripartite* (= having four parts), *quadrillion* (= 1015 \[consisting of four groups of three zeros after 1,000\]), and *quadrivium* (= the four subjects of study in the higher division of the medieval curriculum, consisting of arithmetic, geometry, astronomy, and music).
 
 *Quadru-* is the usual form for words in which the second element begins with a *p*, as in *quadruped* (= a four-legged animal), *quadruple* (= to multiply by four), and *quadruplet* (= one of four children born at one birth). The two words in which *quadru*- precedes a word without a *p* are rare: *quadrumanous* (= four-handed) and *quadrumvirate* (= a group of four men united in some way).
 

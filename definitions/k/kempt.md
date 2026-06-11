@@ -1,4 +1,4 @@
 # kempt
 
-kempt. See **unkempt**.
+See **unkempt**.
 

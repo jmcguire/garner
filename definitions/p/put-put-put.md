@@ -1,4 +1,4 @@
 # put \> put \> put
 
-put \> put \> put. So inflected. See irregular verbs.
+So inflected. See irregular verbs.
 

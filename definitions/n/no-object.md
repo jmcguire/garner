@@ -1,6 +1,6 @@
 # no object
 
-no object. This phrase, literally speaking, should mean "not a goal; not something considered worth achieving." In fact, though, writers have used it to mean "no obstacle" or "no objection" since about 1790—e.g.:
+This phrase, literally speaking, should mean "not a goal; not something considered worth achieving." In fact, though, writers have used it to mean "no obstacle" or "no objection" since about 1790—e.g.:
 
  - "Culpin sees teleworking as capable of making a great contribution to economic growth in a global marketplace where distance *is no object* \[read *is irrelevant* or *is no obstacle*\]." Claire Gooding, "The Ups and Downs of Teleworking," *Fin. Times*, 5 Apr. 1995, at xviii.
 

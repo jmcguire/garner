@@ -1,4 +1,4 @@
 # forgo
 
-forgo. See **forego**.
+See **forego**.
 

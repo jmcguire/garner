@@ -1,4 +1,4 @@
 # 's
 
-'s. See possessives.
+See possessives.
 

@@ -1,4 +1,4 @@
 # tenant
 
-tenant. See **tenet**.
+See **tenet**.
 

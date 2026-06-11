@@ -1,4 +1,4 @@
 # complementary
 
-complementary. See **complimentary**.
+See **complimentary**.
 

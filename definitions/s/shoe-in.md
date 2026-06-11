@@ -1,4 +1,4 @@
 # \*shoe-in
 
-\*shoe-in. See **shoo-in**.
+See **shoo-in**.
 

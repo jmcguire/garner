@@ -1,7 +1,5 @@
 # every other
 
-every other.
-
 ## A. Illogical Use
 
 In sentences involving a comparison, *every other* is sometimes used illogically in place of *all others*; that is, *\*more than every other member collectively* is inferior to *more than all other members collectively*. When the sense is of taking things collectively, the plural is needed. Otherwise, the literal sense suggests undoing a dismemberment (especially in the second and third examples below, because the reference is to people)—e.g.:

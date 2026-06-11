@@ -1,4 +1,4 @@
 # em-/im-
 
-em-/im-. See en-.
+See en-.
 

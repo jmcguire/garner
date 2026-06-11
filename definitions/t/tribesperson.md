@@ -1,4 +1,4 @@
 # \*tribesperson
 
-\*tribesperson. See sexism (c).
+See sexism (c).
 

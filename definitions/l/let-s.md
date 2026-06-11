@@ -1,7 +1,5 @@
 # let's
 
-let's.
-
 ## A. *Let's you and I*
 
 First, think of *let's*: *let us*. *Us* is in the objective case. Another form of the phrase (still in the objective case) would be *let you and me* (*you and me* agreeing with *us*). The construction *let you and I* is ungrammatical—and fairly rare.

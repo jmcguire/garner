@@ -1,4 +1,4 @@
 # imitation
 
-imitation. See **counterfeit**.
+See **counterfeit**.
 

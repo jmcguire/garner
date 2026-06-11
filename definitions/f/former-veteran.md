@@ -1,4 +1,4 @@
 # \*former veteran
 
-\*former veteran. See **veteran**.
+See **veteran**.
 

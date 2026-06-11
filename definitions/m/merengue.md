@@ -1,4 +1,4 @@
 # merengue
 
-merengue. See **meringue**.
+See **meringue**.
 

@@ -1,4 +1,4 @@
 # glimpse
 
-glimpse. See **glance**.
+See **glance**.
 

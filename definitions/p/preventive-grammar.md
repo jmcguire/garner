@@ -1,6 +1,6 @@
 # Preventive Grammar, Essay
 
-Preventive Grammar. Occasionally a grammarian or editor will be asked a question such as, "Should it be *It's both of their second marriage* or *It's both of their second marriages?*" The expert to whom the question has been posed will demur and recommend a rewrite: *It's a second marriage for each of them*, or even *It's a second marriage for them both*. Or perhaps *the* for *a*. The questioner will persist: "But which of the original wordings is correct? Assume a rewrite is impossible."
+Occasionally a grammarian or editor will be asked a question such as, "Should it be *It's both of their second marriage* or *It's both of their second marriages?*" The expert to whom the question has been posed will demur and recommend a rewrite: *It's a second marriage for each of them*, or even *It's a second marriage for them both*. Or perhaps *the* for *a*. The questioner will persist: "But which of the original wordings is correct? Assume a rewrite is impossible."
 
 But of course a rewrite is never impossible. Although questions of this kind might fascinate philologasters, they're a nuisance to both the true philologist and the true stylist. The best recourse is a rewording. Why perpetrate a sentence that's awkward but arguably defensible? A sentence that's only defensible will raise doubts in the reasonable reader's mind.
 

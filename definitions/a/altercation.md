@@ -1,6 +1,6 @@
 # altercation
 
-altercation. The traditional view is that this word refers to "a noisy brawl or dispute," not rising to the seriousness of physical violence. For authority limiting the term to the sense "wordy strife," see the *OED*, *W2*, *W3*, and Eric Partridge's *U&A*. But since about 1980 in AmE and BrE alike, the word has often denoted some type of scuffling or fighting, especially in police jargon—e.g.:
+The traditional view is that this word refers to "a noisy brawl or dispute," not rising to the seriousness of physical violence. For authority limiting the term to the sense "wordy strife," see the *OED*, *W2*, *W3*, and Eric Partridge's *U&A*. But since about 1980 in AmE and BrE alike, the word has often denoted some type of scuffling or fighting, especially in police jargon—e.g.:
 
  - "A 29-year-old drugstore manager who was punched in the chest last month during an *altercation* has died of his injuries, Suffolk police reported yesterday." Olivia Winslow, "Man Punched in Chest During Store Spat Dies," *Newsday* (N.Y.), 12 Sept. 1997, at A32.
 

@@ -1,4 +1,4 @@
 # informer
 
-informer. See **informant**.
+See **informant**.
 

@@ -1,4 +1,4 @@
 # \*swob
 
-\*swob. See **swab**.
+See **swab**.
 

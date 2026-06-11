@@ -1,4 +1,4 @@
 # immanent
 
-immanent. See **imminent**.
+See **imminent**.
 

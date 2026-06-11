@@ -1,4 +1,4 @@
 # \*scallawag
 
-\*scallawag. See **scalawag**.
+See **scalawag**.
 

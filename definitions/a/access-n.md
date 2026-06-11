@@ -1,7 +1,5 @@
 # access, n
 
-access, n.
-
 ## A. Confused with *excess*
 
 *Access*, n., most commonly means (1) "the right or ability to enter or get near," (2) "a means of approaching," or (3) "retrievability of electronic information by computer." *Excess* = (1) an overabundance, superfluity; or (2) the amount by which one thing exceeds another. Sometimes *access* is misused for *excess*—e.g.:

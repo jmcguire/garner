@@ -1,4 +1,4 @@
 # \*denouncement
 
-\*denouncement. See **denunciation**.
+See **denunciation**.
 

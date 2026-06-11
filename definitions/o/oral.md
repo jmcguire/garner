@@ -1,4 +1,4 @@
 # oral
 
-oral. See **aural** & **verbal**.
+See **aural** & **verbal**.
 

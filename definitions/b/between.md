@@ -1,7 +1,5 @@
 # between
 
-between.
-
 ## A. And *among*
 
 *Between* is commonly said to be proper with two things, and *among* with more than two. Ernest Gowers calls this a "superstition" and quotes the *OED*: "In all senses *between* has been, from its earliest appearance, extended to more than two. . . . It is still the only word available to express the relation of a thing to many surrounding things severally and individually; *among* expresses a relation to them collectively and vaguely: we should not say *the space lying among the three points* or *a treaty among three Powers*" (*FMEU2* at 57). Another critic agrees: "A man may halt between *three* as well as *two* opinions." G.H. Vallins, *Better English* 68 (4th ed. 1957). For more authorities to this effect, see superstitions (h).

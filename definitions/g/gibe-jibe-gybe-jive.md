@@ -1,7 +1,5 @@
 # gibe; jibe; gybe; jive
 
-gibe; jibe; gybe; jive.
-
 ## A. Meanings
 
 This set of words can be hard to keep straight.

@@ -1,4 +1,4 @@
 # repulse
 
-repulse. See **repel (a)**.
+See **repel (a)**.
 

@@ -1,4 +1,4 @@
 # frangible
 
-frangible. See **fragile**.
+See **fragile**.
 

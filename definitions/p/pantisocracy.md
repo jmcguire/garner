@@ -1,4 +1,4 @@
 # pantisocracy
 
-pantisocracy. See governmental forms.
+See governmental forms.
 

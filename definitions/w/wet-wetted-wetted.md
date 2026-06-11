@@ -1,6 +1,6 @@
 # wet \> wet(ted) \> wet(ted)
 
-wet \> wet(ted) \> wet(ted). Since the 1700s, this verb has had both a regular and an irregular past and past participle form. In most contexts, *wet* is the predominant form—e.g.:
+Since the 1700s, this verb has had both a regular and an irregular past and past participle form. In most contexts, *wet* is the predominant form—e.g.:
 
  - "She *wet* her whistle with a sip of water." Warren Gerds, "Peters Pours on the Charm at Weidner Concert," *Green Bay Press-Gaz.*, 29 Sept. 2002, at A5.
 

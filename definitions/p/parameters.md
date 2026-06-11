@@ -1,7 +1,5 @@
 # parameters
 
-parameters.
-
 ## A. Generally
 
 Technical contexts aside, this jargonistic word is widely shunned by those with a heightened sensitivity to language. To begin with, only a specialist in mathematics or computing knows the technical sense, and elsewhere it's a mush word. Second, when it does have a discernible meaning, it's typically usurping the place of a far simpler and more straightforward term, such as *boundaries*, *limits*, or *guidelines*. *Parameters* became a vogue term in the late 20th century and remains so—e.g.:

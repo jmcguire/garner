@@ -1,4 +1,4 @@
 # hung
 
-hung. See **hanged**.
+See **hanged**.
 

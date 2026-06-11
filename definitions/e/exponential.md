@@ -1,6 +1,6 @@
 # exponential
 
-exponential. This word is not synonymous with *rapid*. Growth is *exponential* when the rate of growth increases dramatically over time. The metaphor is of increasing by a mathematical "power"—not "times" but "squared." In the usage of hyperbolists, *exponential* and *exponentially* displace *rapid* and *rapidly*—e.g.:
+This word is not synonymous with *rapid*. Growth is *exponential* when the rate of growth increases dramatically over time. The metaphor is of increasing by a mathematical "power"—not "times" but "squared." In the usage of hyperbolists, *exponential* and *exponentially* displace *rapid* and *rapidly*—e.g.:
 
  - "The *exponential* growth of spam also has spawned a number of software programs designed specifically to rid your inbox of junk mail." David Einstein, "There's No Sure Way to Eliminate Spam from Your Mailbox," *S.F. Chron.*, 13 Dec. 2001, at B4. (Note the redundancy in that sentence: all computer programs are software, and vice versa, so *software programs* is ill-advised.)
 

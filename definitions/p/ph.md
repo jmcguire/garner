@@ -1,4 +1,4 @@
 # -ph-
 
--ph-. See pronunciation (d).
+See pronunciation (d).
 

@@ -1,4 +1,4 @@
 # pearl
 
-pearl. In the context of knitting, see **purl**.
+In the context of knitting, see **purl**.
 

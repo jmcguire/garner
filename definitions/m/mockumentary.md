@@ -1,4 +1,4 @@
 # mockumentary
 
-mockumentary. See portmanteau words.
+See portmanteau words.
 

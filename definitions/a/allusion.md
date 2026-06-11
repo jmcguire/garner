@@ -1,7 +1,5 @@
 # allusion
 
-allusion.
-
 ## A. And *illusion*
 
 While an *allusion* is an indirect reference \<literary allusion\>, an *illusion* is a deception \<optical illusion\>. But some writers bungle the two—e.g.:

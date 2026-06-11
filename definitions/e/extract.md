@@ -1,4 +1,4 @@
 # extract
 
-extract. See **extricate**.
+See **extricate**.
 

@@ -1,4 +1,4 @@
 # brier
 
-brier. See **briar**.
+See **briar**.
 

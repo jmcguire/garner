@@ -1,4 +1,4 @@
 # crept
 
-crept. See **creep**.
+See **creep**.
 

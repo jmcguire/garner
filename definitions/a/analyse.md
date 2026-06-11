@@ -1,4 +1,4 @@
 # analyse
 
-analyse. See **analyze**.
+See **analyze**.
 

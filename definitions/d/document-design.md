@@ -1,6 +1,6 @@
 # Document Design, Essay
 
-Document Design. Traditionally, writers have been relatively unconcerned with the look of their documents. This lack of concern didn't have many horrible consequences in the days of typewriters, when the primary design choices were the width of the margins and the amount of underlining and capitals.
+Traditionally, writers have been relatively unconcerned with the look of their documents. This lack of concern didn't have many horrible consequences in the days of typewriters, when the primary design choices were the width of the margins and the amount of underlining and capitals.
 
 But with the advent of word processing and desktop publishing, document design has become much more important as writers are presented with all kinds of new formatting and printing options. Failing to use these options knowledgeably and tastefully puts the writer at a disadvantage because most readers have become accustomed to well-designed documents. In short, it has become essential to know something about typography and design.
 

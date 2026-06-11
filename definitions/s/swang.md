@@ -1,4 +1,4 @@
 # \*swang
 
-\*swang. See **swing**.
+See **swing**.
 

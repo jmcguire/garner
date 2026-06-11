@@ -1,6 +1,6 @@
 # would have liked
 
-would have liked. This phrase should invariably be followed by a present-tense infinitive—hence *would have liked to go, would have liked to read,* not *\*would have liked to have gone, \*would have liked to have read*. The erroneous phrasings are becoming common—e.g.:
+This phrase should invariably be followed by a present-tense infinitive—hence *would have liked to go, would have liked to read,* not *\*would have liked to have gone, \*would have liked to have read*. The erroneous phrasings are becoming common—e.g.:
 
  - "One *would have liked to have been* \[read *would have liked to be*\] present at the meeting in which the introduction of this equipment was ratified." Giles Smith, " ‘Replay' Ends Dispute over Hurst's Goal," *Daily Telegraph*, 16 Aug. 1997, at 21.
 

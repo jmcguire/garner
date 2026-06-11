@@ -1,6 +1,6 @@
 # and/or
 
-and/or. A legal and business formula dating from the mid-1800s, *and/or* has been vilified for most of its life—and rightly so. To avoid ambiguity, don't use it. Many writers—especially lawyers—would be surprised at how easy and workable this solution is.
+A legal and business formula dating from the mid-1800s, *and/or* has been vilified for most of its life—and rightly so. To avoid ambiguity, don't use it. Many writers—especially lawyers—would be surprised at how easy and workable this solution is.
 
 *Or* alone usually suffices. If you are offered coffee or tea, you may pick either (or, in this case, neither), or you may for whatever reason order both. This is the ordinary sense of the word, understood by everyone and universally accommodated by the simple *or*.
 

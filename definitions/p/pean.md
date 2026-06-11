@@ -1,4 +1,4 @@
 # \*pean
 
-\*pean. See **paean**.
+See **paean**.
 

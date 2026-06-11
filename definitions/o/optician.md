@@ -1,4 +1,4 @@
 # optician
 
-optician. See **ophthalmologist**.
+See **ophthalmologist**.
 

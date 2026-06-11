@@ -1,4 +1,4 @@
 # penological
 
-penological. See **penal**.
+See **penal**.
 

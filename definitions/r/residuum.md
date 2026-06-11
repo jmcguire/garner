@@ -1,4 +1,4 @@
 # residuum
 
-residuum. See **residue**.
+See **residue**.
 

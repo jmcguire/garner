@@ -1,4 +1,4 @@
 # \*on accident
 
-\*on accident. See **accident**.
+See **accident**.
 

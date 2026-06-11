@@ -1,4 +1,4 @@
 # polygyny
 
-polygyny. See **polygamy**.
+See **polygamy**.
 

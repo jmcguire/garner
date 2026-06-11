@@ -1,4 +1,4 @@
 # \*scirocco
 
-\*scirocco. See **sirocco**.
+See **sirocco**.
 

@@ -1,4 +1,4 @@
 # \*Los Angelean
 
-\*Los Angelean. See **Angeleno**.
+See **Angeleno**.
 

@@ -1,6 +1,6 @@
 # stimulus
 
-stimulus. Pl. *stimuli*. This word has not traditionally made a native-English plural, but a few writers have nevertheless experimented with *\*stimuluses*—e.g.:
+Pl. *stimuli*. This word has not traditionally made a native-English plural, but a few writers have nevertheless experimented with *\*stimuluses*—e.g.:
 
  - "The octopus is meant not to symbolize industry or productivity, but as an example of the kind of visual *stimuluses* \[read *stimuli*\] that America is producing." Robert W. Duffy, "Ceos' Tentacles Embrace Arts," *St. Louis Post-Dispatch*, 28 July 1996, at C4.
 

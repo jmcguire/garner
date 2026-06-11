@@ -1,4 +1,4 @@
 # \*penoche
 
-\*penoche. See **panocha**.
+See **panocha**.
 

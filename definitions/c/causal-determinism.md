@@ -1,4 +1,4 @@
 # causal determinism
 
-causal determinism. See **fatalism**.
+See **fatalism**.
 

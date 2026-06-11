@@ -1,7 +1,5 @@
 # *bona fides* , n
 
-*bona fides* , n.
-
 ## A. And *good faith*; *bonne foi*
 
 Though the adjective *bona fide* has been fully anglicized, the noun phrase *bona fides* has lost much ground—especially in AmE—to *good faith*. The trend should be encouraged. Perhaps the comparative infrequency of *bona fides* results from its pronunciation /**boh**-nә **fī**-deez/, which sounds foreign and bombastic in comparison with *good faith*. The gallicism *bonne foi*, a variant, sounds still more so; fortunately, it is rare.

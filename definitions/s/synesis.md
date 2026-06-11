@@ -1,6 +1,6 @@
 # Synesis, Essay
 
-Synesis. In some contexts, meaning—as opposed to the strict requirements of grammar or syntax—governs subject–verb agreement. Henry Sweet, the 19th-century English grammarian, used the term "antigrammatical constructions" for these triumphs of logic over grammar. (Expressions in which grammar triumphs over logic are termed "antilogical.") Modern grammarians call the principle underlying these antigrammatical constructions "synesis" (/**sin**-ә-sis/).
+In some contexts, meaning—as opposed to the strict requirements of grammar or syntax—governs subject–verb agreement. Henry Sweet, the 19th-century English grammarian, used the term "antigrammatical constructions" for these triumphs of logic over grammar. (Expressions in which grammar triumphs over logic are termed "antilogical.") Modern grammarians call the principle underlying these antigrammatical constructions "synesis" (/**sin**-ә-sis/).
 
 The classic example of an antigrammatical construction is the phrase *a number of* (= several, many). It is routinely followed by a plural verb, even though technically the singular noun *number* is the subject \<a number of people were there\>. (See **number of**.) Another example occurs when a unit of measure has a collective sense. It can be plural in form but singular in sense—e.g.: "*Three-fourths is* a smaller quantity than we had expected." / "*Two pounds* of shrimp *is* all I need."
 

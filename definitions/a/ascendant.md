@@ -1,7 +1,5 @@
 # ascendant
 
-ascendant.
-
 ## A. Spelling
 
 *Ascendant* (= \[1\] moving upward; or \[2\] becoming more popular or powerful), a French loanword dating in English from the 1300s, has always been predominantly so spelled. **Ascendent* is a variant.

@@ -1,4 +1,4 @@
 # \*frier
 
-\*frier. See **fryer**.
+See **fryer**.
 

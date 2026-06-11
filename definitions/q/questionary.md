@@ -1,4 +1,4 @@
 # \*questionary
 
-\*questionary. See **questionnaire**.
+See **questionnaire**.
 

@@ -1,4 +1,4 @@
 # crimp
 
-crimp. See **cramp (one's) style**.
+See **cramp (one's) style**.
 

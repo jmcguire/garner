@@ -1,4 +1,4 @@
 # emote
 
-emote. See back-formations.
+See back-formations.
 

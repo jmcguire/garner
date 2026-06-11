@@ -1,6 +1,6 @@
 # elderly
 
-elderly. This adjective began as a euphemism for *aged* or *old*, but even *elderly* has now acquired negative connotations. Perhaps *senior*, the newest euphemism, will one day have to be replaced as our youth-dominated popular culture continually denigrates anything associated with old people.
+This adjective began as a euphemism for *aged* or *old*, but even *elderly* has now acquired negative connotations. Perhaps *senior*, the newest euphemism, will one day have to be replaced as our youth-dominated popular culture continually denigrates anything associated with old people.
 
 As an adjective, *elderly* has traditionally been applied most often to people \<an elderly aunt\>, but it may apply to other living things \<an elderly dog\> or, rarely, something personified \<an elderly ship\>.
 

@@ -1,4 +1,4 @@
 # kabbalist
 
-kabbalist. See **kabbalah** & **cabalist**.
+See **kabbalah** & **cabalist**.
 

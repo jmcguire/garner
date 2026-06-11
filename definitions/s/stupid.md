@@ -1,4 +1,4 @@
 # stupid
 
-stupid. See **ignorant**.
+See **ignorant**.
 

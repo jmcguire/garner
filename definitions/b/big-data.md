@@ -1,4 +1,4 @@
 # big data
 
-big data. See **data**.
+See **data**.
 

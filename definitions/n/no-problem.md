@@ -1,4 +1,4 @@
 # no problem
 
-no problem. See **thank you (b)**.
+See **thank you (b)**.
 

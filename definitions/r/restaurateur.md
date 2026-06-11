@@ -1,6 +1,6 @@
 # restaurateur
 
-restaurateur. So spelled, as a French loanword from the late 1700s. *\*Restauranteur*, with an intrusive *n*, is a common error that began appearing in the mid-1800s and spread especially after 1960. It occurs in writing as well as in pronunciation—e.g.:
+So spelled, as a French loanword from the late 1700s. *\*Restauranteur*, with an intrusive *n*, is a common error that began appearing in the mid-1800s and spread especially after 1960. It occurs in writing as well as in pronunciation—e.g.:
 
  - "Corporate spending is way down, *restauranteurs* \[read *restaurateurs*\] and caterers say." Ellen Debenport, "Second-Term Inaugurals Often a Little Lackluster," *St. Petersburg Times* (Fla.), 19 Jan. 1997, at A1.
 

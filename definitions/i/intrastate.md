@@ -1,4 +1,4 @@
 # intrastate
 
-intrastate. See **interstate**.
+See **interstate**.
 

@@ -1,6 +1,6 @@
 # indulge
 
-indulge. When the target of the indulgence is a habit, custom, or form of gratification, this verb is usually intransitive: one *indulges in* a given habit. But it is possible also simply to *indulge* a habit—e.g.: "Employees in a New York City office building have to trek outside to *indulge* *their habit* \[or *indulge in their habit*\]." Christopher John Farley, "The Butt Stops Here," *Time*, 18 Apr. 1994, at 59.
+When the target of the indulgence is a habit, custom, or form of gratification, this verb is usually intransitive: one *indulges in* a given habit. But it is possible also simply to *indulge* a habit—e.g.: "Employees in a New York City office building have to trek outside to *indulge* *their habit* \[or *indulge in their habit*\]." Christopher John Farley, "The Butt Stops Here," *Time*, 18 Apr. 1994, at 59.
 
 When the target of the indulgence is the person seeking that gratification, the verb is transitive and the person is the verb's direct object—e.g.:
 

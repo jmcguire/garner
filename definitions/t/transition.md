@@ -1,4 +1,4 @@
 # transition
 
-transition. For a curious error, see **transgression**.
+For a curious error, see **transgression**.
 

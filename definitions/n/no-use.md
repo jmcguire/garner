@@ -1,6 +1,6 @@
 # no use
 
-no use. Eric Partridge labeled this "incorrect—or, at best, colloquial—for *of no use*" (*U&A* at 203). Yet *it's no use* has greatly outranked *it's of no use* in print sources since about 1830. Although some readers and listeners would consider *no use* colloquial, the following examples certainly aren't incorrect:
+Eric Partridge labeled this "incorrect—or, at best, colloquial—for *of no use*" (*U&A* at 203). Yet *it's no use* has greatly outranked *it's of no use* in print sources since about 1830. Although some readers and listeners would consider *no use* colloquial, the following examples certainly aren't incorrect:
 
  - "There's *no use* crying about it." Dana Parsons, "Apocalypse When?," *L.A. Times*, 27 Aug. 1995, at B1.
 

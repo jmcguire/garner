@@ -1,4 +1,4 @@
 # misjudgment
 
-misjudgment. See **judgment (a)**.
+See **judgment (a)**.
 

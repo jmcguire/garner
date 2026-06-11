@@ -1,4 +1,4 @@
 # diminishment
 
-diminishment. See **diminution**.
+See **diminution**.
 

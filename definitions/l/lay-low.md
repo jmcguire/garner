@@ -1,4 +1,4 @@
 # lay low
 
-lay low. See **lie low**.
+See **lie low**.
 

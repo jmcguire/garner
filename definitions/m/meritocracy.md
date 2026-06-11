@@ -1,4 +1,4 @@
 # meritocracy
 
-meritocracy. See governmental forms.
+See governmental forms.
 

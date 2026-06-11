@@ -1,4 +1,4 @@
 # nonincentive
 
-nonincentive. See **disincentive**.
+See **disincentive**.
 

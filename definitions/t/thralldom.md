@@ -1,4 +1,4 @@
 # thralldom
 
-thralldom. See **disenthrall**.
+See **disenthrall**.
 

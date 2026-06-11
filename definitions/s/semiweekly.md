@@ -1,4 +1,4 @@
 # semiweekly
 
-semiweekly. See bi-.
+See bi-.
 

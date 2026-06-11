@@ -1,4 +1,4 @@
 # \*calliper
 
-\*calliper. See **caliber**.
+See **caliber**.
 

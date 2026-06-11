@@ -1,6 +1,6 @@
 # equally as
 
-equally as. The particle in this phrase is almost always unnecessary and even faulty—e.g.:
+The particle in this phrase is almost always unnecessary and even faulty—e.g.:
 
  - "The sauce would work *equally as* \[read *equally*\] well on chicken, fish, onions, or any food that's good cooked on the grill or in the broiler." Patricia Mack, "No Cooking Tonight," *Record* (N.J.), 25 Sept. 1996, at F1.
 

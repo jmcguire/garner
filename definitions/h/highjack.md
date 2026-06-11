@@ -1,4 +1,4 @@
 # \*highjack
 
-\*highjack. See **hijack**.
+See **hijack**.
 

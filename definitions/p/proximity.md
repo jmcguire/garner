@@ -1,4 +1,4 @@
 # proximity
 
-proximity. See **close proximity**.
+See **close proximity**.
 

@@ -1,4 +1,4 @@
 # standpoint
 
-standpoint. See **viewpoint**.
+See **viewpoint**.
 

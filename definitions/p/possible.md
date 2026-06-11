@@ -1,7 +1,5 @@
 # possible
 
-possible.
-
 ## A. And *practicable.*
 
 *Practicable* (= feasible; possible in practice) is only a little narrower than *possible* (= capable of happening or being done). The more problematic words are *practical* and *practicable*. See **practical**.

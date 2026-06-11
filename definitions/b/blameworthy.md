@@ -1,7 +1,5 @@
 # blameworthy
 
-blameworthy.
-
 ## A. And *culpable*
 
 Though the two words are etymologically equivalent, in 20th- and 21st-century usage the Anglo-Saxon *blameworthy* has tended to be used in noncriminal contexts, the Latinate *culpable* in criminal contexts. Hence *culpable* connotes a greater level of wrongdoing. But it's a wispy distinction—e.g.:

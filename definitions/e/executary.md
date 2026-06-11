@@ -1,4 +1,4 @@
 # executary
 
-executary. See portmanteau words.
+See portmanteau words.
 

@@ -1,4 +1,4 @@
 # \*insuror
 
-\*insuror. See **insurer**.
+See **insurer**.
 

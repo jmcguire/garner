@@ -1,4 +1,4 @@
 # \*ameba
 
-\*ameba. See **amoeba**.
+See **amoeba**.
 

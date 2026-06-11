@@ -1,4 +1,4 @@
 # galimony
 
-galimony. See portmanteau words.
+See portmanteau words.
 

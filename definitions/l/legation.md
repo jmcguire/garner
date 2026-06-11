@@ -1,4 +1,4 @@
 # legation
 
-legation. See **embassy**.
+See **embassy**.
 

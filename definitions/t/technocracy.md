@@ -1,4 +1,4 @@
 # technocracy
 
-technocracy. See governmental forms.
+See governmental forms.
 

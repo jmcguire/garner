@@ -1,4 +1,4 @@
 # blameful
 
-blameful. See **blameworthy (b)**.
+See **blameworthy (b)**.
 

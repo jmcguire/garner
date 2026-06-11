@@ -1,4 +1,4 @@
 # ventail
 
-ventail. See **aventail**.
+See **aventail**.
 

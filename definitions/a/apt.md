@@ -1,7 +1,5 @@
 # apt
 
-apt.
-
 ## A. And *apposite*
 
 Both words mean "fit, suitable." Whereas *apt* is the ordinary term, *apposite* is a formal word.

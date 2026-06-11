@@ -1,4 +1,4 @@
 # perfect
 
-perfect. See adjectives (b) & **more perfect**.
+See adjectives (b) & **more perfect**.
 

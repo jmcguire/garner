@@ -1,4 +1,4 @@
 # complement
 
-complement. See **compliment** & **supplement**.
+See **compliment** & **supplement**.
 

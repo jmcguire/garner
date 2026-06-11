@@ -1,4 +1,4 @@
 # Mass Nouns
 
-Mass Nouns. See count nouns and mass nouns.
+See count nouns and mass nouns.
 

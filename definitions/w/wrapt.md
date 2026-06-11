@@ -1,4 +1,4 @@
 # \*wrapt
 
-\*wrapt. See **rapt**.
+See **rapt**.
 

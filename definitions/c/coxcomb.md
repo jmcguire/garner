@@ -1,4 +1,4 @@
 # coxcomb
 
-coxcomb. See **cockscomb**.
+See **cockscomb**.
 

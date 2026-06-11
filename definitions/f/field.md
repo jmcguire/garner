@@ -1,6 +1,6 @@
 # field
 
-field. The phrase *the field of* is often vague and unnecessary—e.g.:
+The phrase *the field of* is often vague and unnecessary—e.g.:
 
  - "Lindsey . . . accrued a 3.91 grade point average while studying *in the field of* \[delete *in the field of*\] communications." "Carter Gets Pharmacy Degree, Loyd Academic Honors," *Knoxville News-Sentinel*, 12 July 1994, at B2.
 

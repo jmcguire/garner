@@ -1,4 +1,4 @@
 # financeable
 
-financeable. So spelled. See -able (e).
+So spelled. See -able (e).
 

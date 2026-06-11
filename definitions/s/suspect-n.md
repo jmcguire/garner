@@ -1,6 +1,6 @@
 # suspect, n
 
-suspect, n. A *suspect* is someone suspected of committing a crime. The person who commits the crime is a criminal (or a robber, thief, murderer, or the like). But in police reports it is common for writers (and, more commonly, broadcast reporters) to describe how "the *suspect*" committed the crime. Not only is this often absurd (if there *is* no suspect at that time), but it is also potentially false and libelous (if there is a suspect but the suspect is not guilty). Unfortunately, the slack usage seems to be an infection that some writers catch from hanging around police jargon too long—e.g.:
+A *suspect* is someone suspected of committing a crime. The person who commits the crime is a criminal (or a robber, thief, murderer, or the like). But in police reports it is common for writers (and, more commonly, broadcast reporters) to describe how "the *suspect*" committed the crime. Not only is this often absurd (if there *is* no suspect at that time), but it is also potentially false and libelous (if there is a suspect but the suspect is not guilty). Unfortunately, the slack usage seems to be an infection that some writers catch from hanging around police jargon too long—e.g.:
 
  - "When confronted, the other man punched him in the eye. The *suspect* \[read *assailant*\] fled on foot, leaving the lawnmower." Jeremy Jarrell, "Woman Reports She Saw Man," *Herald-Dispatch* (Huntington, W. Va.), 31 May 2002, at C3.
 

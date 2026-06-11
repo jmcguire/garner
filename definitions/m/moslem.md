@@ -1,4 +1,4 @@
 # Moslem
 
-Moslem. See **Muslim**.
+See **Muslim**.
 

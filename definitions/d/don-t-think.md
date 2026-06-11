@@ -1,6 +1,6 @@
 # don't think
 
-don't think. This phrasing has sometimes been criticized as illogical. After all, you *do* think: you simply think something negative. But the phrasing is perfectly idiomatic and centuries old—e.g.:
+This phrasing has sometimes been criticized as illogical. After all, you *do* think: you simply think something negative. But the phrasing is perfectly idiomatic and centuries old—e.g.:
 
  - "I'd always wondered where I'd be when we found the aliens, but I *don't think* I ever imagined I'd see them on my computer screen." Wayne Rash Jr., "Rash's Judgment," *Communications Week*, 12 Aug. 1996, at 82.
 

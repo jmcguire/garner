@@ -1,7 +1,5 @@
 # populace
 
-populace.
-
 ## A. And *population*
 
 Both refer to the human inhabitants of a geographic region. The difference is in connotation: *population* is a neutral term, while *populace* suggests the rabble or common folk—with a rather superior tone.

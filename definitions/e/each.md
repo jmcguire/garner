@@ -1,7 +1,5 @@
 # each
 
-each.
-
 ## A. Number
 
 The word *each* raises problems of number. Does it take a singular or plural verb, regardless of the construction? Must a pronoun referring to it be singular, or is *they* acceptable?

@@ -1,4 +1,4 @@
 # stagflation
 
-stagflation. See portmanteau words.
+See portmanteau words.
 

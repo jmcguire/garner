@@ -1,6 +1,6 @@
 # having said that
 
-having said that. This phrase, which hedges a previous assertion, is a frequent source of danglers. The phrase is perfectly fine, of course, if *I* or a word for some other speaker follows the comma: "*Having said that*, I freely acknowledge that I have returned to work to catch up on my rest." Tom Jackson, "Snared in Pasco's Comfy Time Warp," *Tampa Trib.*, 20 July 1999, Pasco §, at 1. But the expression becomes a mid- to low casualism when it's not anchored to a term for the speaker in the main clause—e.g.:
+This phrase, which hedges a previous assertion, is a frequent source of danglers. The phrase is perfectly fine, of course, if *I* or a word for some other speaker follows the comma: "*Having said that*, I freely acknowledge that I have returned to work to catch up on my rest." Tom Jackson, "Snared in Pasco's Comfy Time Warp," *Tampa Trib.*, 20 July 1999, Pasco §, at 1. But the expression becomes a mid- to low casualism when it's not anchored to a term for the speaker in the main clause—e.g.:
 
  - "*Having said that*, after a while one gobsmacking building looks pretty much like another." Simon Hattenstone, "48 Hours in . . . Prague," *Guardian*, 27 June 1998, at 10.
 

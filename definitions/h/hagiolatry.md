@@ -1,4 +1,4 @@
 # hagiolatry
 
-hagiolatry. See **hagiarchy**.
+See **hagiarchy**.
 

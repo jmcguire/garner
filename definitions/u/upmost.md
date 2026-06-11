@@ -1,4 +1,4 @@
 # upmost
 
-upmost. See **utmost**.
+See **utmost**.
 

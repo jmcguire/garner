@@ -1,4 +1,4 @@
 # whity
 
-whity. See **whitish**.
+See **whitish**.
 

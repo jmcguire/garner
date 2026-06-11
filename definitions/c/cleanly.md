@@ -1,6 +1,6 @@
 # cleanly
 
-cleanly. This word can be either an adverb or an adjective. Most commonly, it functions as an adverb meaning "in a clean manner"—e.g.:
+This word can be either an adverb or an adjective. Most commonly, it functions as an adverb meaning "in a clean manner"—e.g.:
 
  - "Even when it hits off-center (as it does this month) instead of *cleanly*, the moon manages a total eclipse." Bob Beman, "Earthly Shadows," *Discover*, Sept. 1996, at 35.
 

@@ -1,4 +1,4 @@
 # Genovese
 
-Genovese. See **Genevese**.
+See **Genevese**.
 

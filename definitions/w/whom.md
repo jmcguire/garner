@@ -1,4 +1,4 @@
 # whom
 
-whom. See **who**.
+See **who**.
 

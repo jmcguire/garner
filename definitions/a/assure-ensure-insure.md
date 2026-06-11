@@ -1,7 +1,5 @@
 # assure; ensure; insure
 
-assure; ensure; insure.
-
 ## A. *Assure* for *ensure*
 
 A person *assures* (makes promises to, convinces) other people \<our hosts assured us that we would have comfortable rooms\>; a person *ensures* (makes certain) that things occur or that events take place \<our hosts ensured that we had comfortable rooms\>. To put it a little technically, if the verb is in the active voice, a predicate beginning with *that* should be introduced by the verb *ensure*.

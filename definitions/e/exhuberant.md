@@ -1,4 +1,4 @@
 # \*exhuberant
 
-\*exhuberant. See **exuberant**.
+See **exuberant**.
 

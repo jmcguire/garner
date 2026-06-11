@@ -1,4 +1,4 @@
 # \*go fetch
 
-\*go fetch. See **fetch**.
+See **fetch**.
 

@@ -1,4 +1,4 @@
 # geometry
 
-geometry. See **plane geometry**.
+See **plane geometry**.
 

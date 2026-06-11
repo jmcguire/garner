@@ -1,7 +1,5 @@
 # minimize
 
-minimize.
-
 ## A. Meanings
 
 Traditionally, *minimize* means "to keep (something) to a minimum"—e.g.: "To *minimize* its exposure to the failings of any one technology, the agency has long relied on a ‘layered' system of diverse detectors, from software for spotting anomalies in shipping manifests to X-ray scanners." David Stipp, "Detecting the Danger Within," *Fortune*, 17 Feb. 2003, at 104.

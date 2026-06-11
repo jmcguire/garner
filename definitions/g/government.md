@@ -1,7 +1,5 @@
 # government
 
-government.
-
 ## A. Pronunciation
 
 *Government* is preferably pronounced with the /n/ sound distinctly in the second syllable: /**gәv**-әrn-mәnt/. According to the pronunciation expert Charles Harrington Elster, it is "one of a number of words that careful speakers are particularly diligent about pronouncing precisely. . . . How you say it is an indication of whether you are an average educated speaker or a cultivated one." *BBBM* at 229. Robert W. Burchfield, the *OED* chief editor and BBC consultant, said that *government* belongs "to a small group of words that \[give\] a maximum of offence to listeners if pronounced in a garbled manner, with the first *n* silent." *FMEU3* at 339.

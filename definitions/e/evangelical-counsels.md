@@ -1,4 +1,4 @@
 # evangelical counsels
 
-evangelical counsels. See **counsel of perfection**.
+See **counsel of perfection**.
 

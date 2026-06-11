@@ -1,7 +1,5 @@
 # court-martial
 
-court-martial.
-
 ## A. Generally
 
 *Court-martial* (= an ad hoc military court convened to try and to punish those accused of violating military law) is hyphenated both as noun and as verb. The *OED* lists the verb as colloquial, an observation now antiquated. As to spelling, in AmE the final *l* is not doubled in *court-martialed* and *court-martialing*, although in BrE it is. (See spelling (c).)

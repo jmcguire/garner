@@ -1,7 +1,5 @@
 # epochal
 
-epochal.
-
 ## A. And *epic*, adj.; *\*epical*
 
 *Epochal* /**ep**-ә-kәl/ = marking an epoch, or a new period in chronology. The word should not be used lightly. "Five devastating *epochal* floods have visited the valley since the establishment of the commission." (Only if the writer intended to convey that five epochs had passed since the establishment of the commission—an unlikely meaning—would *epochal* have been correct.)

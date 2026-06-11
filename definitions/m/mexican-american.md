@@ -1,4 +1,4 @@
 # Mexican American
 
-Mexican American. See **Hispanic**.
+See **Hispanic**.
 

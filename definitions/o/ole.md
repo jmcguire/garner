@@ -1,4 +1,4 @@
 # ole
 
-ole. See **olde**.
+See **olde**.
 

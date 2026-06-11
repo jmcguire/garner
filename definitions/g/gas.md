@@ -1,4 +1,4 @@
 # gas
 
-gas. See **fluid**.
+See **fluid**.
 

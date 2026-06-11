@@ -1,4 +1,4 @@
 # interpellate
 
-interpellate. See **interpolate**.
+See **interpolate**.
 

@@ -1,4 +1,4 @@
 # \*forebearance
 
-\*forebearance. See **forbearance**.
+See **forbearance**.
 

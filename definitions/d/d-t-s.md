@@ -1,4 +1,4 @@
 # d.t.'s
 
-d.t.'s. See **delirium tremens**.
+See **delirium tremens**.
 

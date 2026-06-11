@@ -1,4 +1,4 @@
 # bass
 
-bass. See **base**.
+See **base**.
 

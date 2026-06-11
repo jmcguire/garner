@@ -1,4 +1,4 @@
 # undeniably
 
-undeniably. See **clearly** & **obviously**.
+See **clearly** & **obviously**.
 

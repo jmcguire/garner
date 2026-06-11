@@ -1,4 +1,4 @@
 # Ebonics
 
-Ebonics. See **African-American English** & portmanteau words.
+See **African-American English** & portmanteau words.
 

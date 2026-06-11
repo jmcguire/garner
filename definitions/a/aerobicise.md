@@ -1,4 +1,4 @@
 # aerobicise
 
-aerobicise. See portmanteau words.
+See portmanteau words.
 

@@ -1,7 +1,5 @@
 # above
 
-above.
-
 ## A. Meaning "more than" or "longer than."
 
 Although *over* has come to be accepted in these senses, *above* should be restricted to informal contexts. It's a casualism when used before a plural noun—e.g.:

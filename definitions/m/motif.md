@@ -1,4 +1,4 @@
 # motif
 
-motif. See **leitmotif**.
+See **leitmotif**.
 

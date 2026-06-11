@@ -1,4 +1,4 @@
 # difunctional
 
-difunctional. See **bifunctional**.
+See **bifunctional**.
 

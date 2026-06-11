@@ -1,4 +1,4 @@
 # neonaticide
 
-neonaticide. See **infanticide**.
+See **infanticide**.
 

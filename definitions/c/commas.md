@@ -1,4 +1,4 @@
 # Commas
 
-Commas. See punctuation (d).
+See punctuation (d).
 

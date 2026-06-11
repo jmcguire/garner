@@ -1,6 +1,6 @@
 # all of a sudden
 
-all of a sudden. This is the idiomatic phrase, not *\*all of the sudden*—e.g.:
+This is the idiomatic phrase, not *\*all of the sudden*—e.g.:
 
  - "I wasn't thinking of anything, but *all of the sudden* \[read *all of a sudden*\] I was no longer tired." Sam Brumbaugh, *Goodbye, Goodness: A Novel* 108 (2005).
 

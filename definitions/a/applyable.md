@@ -1,4 +1,4 @@
 # \*applyable
 
-\*applyable. See **applicable (a)**.
+See **applicable (a)**.
 

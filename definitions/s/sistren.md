@@ -1,4 +1,4 @@
 # sistren
 
-sistren. See **brethren**.
+See **brethren**.
 

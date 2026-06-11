@@ -1,4 +1,4 @@
 # repulsive
 
-repulsive. See **repellent**.
+See **repellent**.
 

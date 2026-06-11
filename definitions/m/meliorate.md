@@ -1,4 +1,4 @@
 # \*meliorate
 
-\*meliorate. See **ameliorate**.
+See **ameliorate**.
 

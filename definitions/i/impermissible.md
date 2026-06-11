@@ -1,4 +1,4 @@
 # impermissible
 
-impermissible. So spelled. See -able.
+So spelled. See -able.
 

@@ -1,4 +1,4 @@
 # émigré
 
-émigré. See **emigrant**.
+See **emigrant**.
 

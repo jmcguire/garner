@@ -1,4 +1,4 @@
 # bouillon
 
-bouillon. See **bullion**.
+See **bullion**.
 

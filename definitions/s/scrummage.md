@@ -1,4 +1,4 @@
 # \*scrummage
 
-\*scrummage. See **scrimmage**.
+See **scrimmage**.
 

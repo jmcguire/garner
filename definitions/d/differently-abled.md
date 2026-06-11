@@ -1,4 +1,4 @@
 # differently abled
 
-differently abled. See euphemisms.
+See euphemisms.
 

@@ -1,4 +1,4 @@
 # pen name
 
-pen name. See **pseudonym**.
+See **pseudonym**.
 

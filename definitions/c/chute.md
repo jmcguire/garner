@@ -1,4 +1,4 @@
 # chute
 
-chute. See **shoot**, n.
+See **shoot**, n.
 

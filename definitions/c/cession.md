@@ -1,4 +1,4 @@
 # cession
 
-cession. See **session**.
+See **session**.
 

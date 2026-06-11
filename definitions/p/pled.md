@@ -1,4 +1,4 @@
 # \*pled
 
-\*pled. See **pleaded**.
+See **pleaded**.
 

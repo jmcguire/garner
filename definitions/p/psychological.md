@@ -1,4 +1,4 @@
 # psychological
 
-psychological. See **psychic**.
+See **psychic**.
 

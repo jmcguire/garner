@@ -1,4 +1,4 @@
 # alright
 
-alright. See **all right**.
+See **all right**.
 

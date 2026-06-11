@@ -1,4 +1,4 @@
 # \*aggrievance
 
-\*aggrievance. See **grievance**.
+See **grievance**.
 

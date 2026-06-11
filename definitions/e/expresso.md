@@ -1,4 +1,4 @@
 # \*expresso
 
-\*expresso. See **espresso**.
+See **espresso**.
 

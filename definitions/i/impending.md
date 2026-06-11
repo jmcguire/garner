@@ -1,4 +1,4 @@
 # impending
 
-impending. See **pending**.
+See **pending**.
 

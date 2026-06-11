@@ -1,4 +1,4 @@
 # corespondent
 
-corespondent. See **correspondent**.
+See **correspondent**.
 

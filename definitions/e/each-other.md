@@ -1,7 +1,5 @@
 # each other
 
-each other.
-
 ## A. And *one another*
 
 Usage authorities have traditionally suggested that *each other* should refer to two people or entities \<John and Bob helped each other\>, *one another* to more than two \<all of them loved one another\>. Yet this 19th-century rule has also been undermined in the literature on usage—e.g.:

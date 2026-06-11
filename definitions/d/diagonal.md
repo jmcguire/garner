@@ -1,4 +1,4 @@
 # Diagonal
 
-Diagonal. See punctuation (q).
+See punctuation (q).
 

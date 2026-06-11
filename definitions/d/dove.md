@@ -1,4 +1,4 @@
 # dove
 
-dove. See **dive**.
+See **dive**.
 

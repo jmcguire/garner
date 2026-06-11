@@ -1,4 +1,4 @@
 # \*suffrance
 
-\*suffrance. See **sufferance**.
+See **sufferance**.
 

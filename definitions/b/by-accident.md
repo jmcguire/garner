@@ -1,4 +1,4 @@
 # by accident
 
-by accident. See **accident**.
+See **accident**.
 

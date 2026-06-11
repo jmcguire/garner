@@ -1,7 +1,5 @@
 # swell
 
-swell.
-
 ## A. Inflected Forms: *swell* \> *swelled* \> *swelled*
 
 So inflected in AmE. The form *swollen*—quite correct as an adjective \<swollen ankles\>—is a variant past participle in AmE. But in BrE *swollen* is the normal past participle \<her ankles had swollen to twice their ordinary size\>.

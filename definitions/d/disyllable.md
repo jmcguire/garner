@@ -1,4 +1,4 @@
 # disyllable
 
-disyllable. See **dissyllable**.
+See **dissyllable**.
 

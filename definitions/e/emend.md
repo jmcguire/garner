@@ -1,4 +1,4 @@
 # emend
 
-emend. See **amend**.
+See **amend**.
 

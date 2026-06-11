@@ -1,4 +1,4 @@
 # M.O
 
-M.O. See **modus operandi**.
+See **modus operandi**.
 

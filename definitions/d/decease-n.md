@@ -1,4 +1,4 @@
 # decease, n
 
-decease, n. See **death**.
+See **death**.
 

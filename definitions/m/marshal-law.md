@@ -1,4 +1,4 @@
 # \*marshal law
 
-\*marshal law. See **marshal**, n. **(a)**.
+See **marshal**, n. **(a)**.
 

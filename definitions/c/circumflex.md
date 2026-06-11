@@ -1,4 +1,4 @@
 # Circumflex
 
-Circumflex. See diacritical marks.
+See diacritical marks.
 

@@ -1,4 +1,4 @@
 # \*stati
 
-\*stati. See **status**.
+See **status**.
 

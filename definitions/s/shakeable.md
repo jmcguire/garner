@@ -1,4 +1,4 @@
 # shakeable
 
-shakeable. See **shakable**.
+See **shakable**.
 

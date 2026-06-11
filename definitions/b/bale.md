@@ -1,4 +1,4 @@
 # bale
 
-bale. See **bail**.
+See **bail**.
 

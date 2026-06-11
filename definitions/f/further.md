@@ -1,4 +1,4 @@
 # further
 
-further. See **farther**.
+See **farther**.
 

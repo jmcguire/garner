@@ -1,4 +1,4 @@
 # fay
 
-fay. See **fey**.
+See **fey**.
 

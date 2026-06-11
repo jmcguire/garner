@@ -1,6 +1,6 @@
 # obviate
 
-obviate. Some modern dictionaries define *obviate* as meaning "to render unnecessary." And some writers actually use the word this way—e.g.: "Volunteering does not, I repeat does not, *obviate* government's role in providing social services." Betty Winston Baye, "Volunteers Won't Be Enough," *Courier-J.* (Louisville), 1 May 1997, at A13.
+Some modern dictionaries define *obviate* as meaning "to render unnecessary." And some writers actually use the word this way—e.g.: "Volunteering does not, I repeat does not, *obviate* government's role in providing social services." Betty Winston Baye, "Volunteers Won't Be Enough," *Courier-J.* (Louisville), 1 May 1997, at A13.
 
 But that definition is unduly restrictive. In fact, the *OED* doesn't even list this sense. *Obviate* more often means "to anticipate and prevent or quickly eliminate (difficulties, obstacles, etc.)"—e.g.:
 

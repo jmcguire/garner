@@ -1,4 +1,4 @@
 # ambiance
 
-ambiance. See **ambience**.
+See **ambience**.
 

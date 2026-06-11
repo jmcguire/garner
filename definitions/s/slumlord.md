@@ -1,4 +1,4 @@
 # slumlord
 
-slumlord. See portmanteau words.
+See portmanteau words.
 

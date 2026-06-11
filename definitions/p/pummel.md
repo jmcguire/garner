@@ -1,4 +1,4 @@
 # pummel
 
-pummel. See **pommel**.
+See **pommel**.
 

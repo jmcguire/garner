@@ -1,4 +1,4 @@
 # \*carmel
 
-\*carmel. See **caramel**.
+See **caramel**.
 

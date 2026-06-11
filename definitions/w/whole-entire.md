@@ -1,6 +1,6 @@
 # \*whole entire
 
-\*whole entire. This has been a fairly common redundancy since the 1600s—e.g.:
+This has been a fairly common redundancy since the 1600s—e.g.:
 
  - "This has them ranked sixth in the *whole entire* \[delete *whole entire*\] nation, greatly reducing their margin of error for reaching their four-loss quota." Bob Wojnowski, "They're No Longer Many, So Here Are a Few Heartfelt Suggestions to Help Restore Irish Spring," *Detroit News*, 26 Sept. 1997, at D1.
 

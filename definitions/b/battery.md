@@ -1,4 +1,4 @@
 # battery
 
-battery. See **assault**.
+See **assault**.
 

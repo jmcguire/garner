@@ -1,4 +1,4 @@
 # \*judgmatic
 
-\*judgmatic. See **judgmental**.
+See **judgmental**.
 

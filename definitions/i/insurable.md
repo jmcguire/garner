@@ -1,4 +1,4 @@
 # insurable
 
-insurable. So spelled.
+So spelled.
 

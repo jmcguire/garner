@@ -1,7 +1,5 @@
 # agree
 
-agree.
-
 ## A. Preposition with
 
 *Agree with* means "to be in accord with (another)"; *agree to* means "to acquiesce in (usu. the performance or specifications of something)." One agrees *with* someone *on* or *about* a certain settlement \<I agree with you about the color\>. *Agree on* refers to the subject of the agreement \<we agree on the color\>.

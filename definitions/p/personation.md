@@ -1,4 +1,4 @@
 # \*personation
 
-\*personation. See **impersonation**.
+See **impersonation**.
 

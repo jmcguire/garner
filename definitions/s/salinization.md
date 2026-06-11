@@ -1,4 +1,4 @@
 # salinization
 
-salinization. See **desalination**.
+See **desalination**.
 

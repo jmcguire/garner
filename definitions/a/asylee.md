@@ -1,4 +1,4 @@
 # asylee
 
-asylee. See portmanteau words.
+See portmanteau words.
 

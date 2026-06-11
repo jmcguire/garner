@@ -1,4 +1,4 @@
 # haemorrhage
 
-haemorrhage. See **hemorrhage**.
+See **hemorrhage**.
 

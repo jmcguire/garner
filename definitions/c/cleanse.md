@@ -1,4 +1,4 @@
 # cleanse
 
-cleanse. See **clean**.
+See **clean**.
 

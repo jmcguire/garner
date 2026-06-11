@@ -1,4 +1,4 @@
 # anesthesia
 
-anesthesia. See **anesthetic**.
+See **anesthetic**.
 

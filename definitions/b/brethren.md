@@ -1,6 +1,6 @@
 # brethren
 
-brethren. The plural form *brethren* (= brothers) has survived most prominently in contexts involving religious, legal, and fraternal organizations—almost always in reference to people who aren't brothers by birth.
+The plural form *brethren* (= brothers) has survived most prominently in contexts involving religious, legal, and fraternal organizations—almost always in reference to people who aren't brothers by birth.
 
 Sometimes, though, *brethren* is used literally or figuratively in the context of tribes, allies, and even colleagues—e.g.:
 

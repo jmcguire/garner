@@ -1,4 +1,4 @@
 # orthoscopic
 
-orthoscopic. See **arthroscopic**.
+See **arthroscopic**.
 

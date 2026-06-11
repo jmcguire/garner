@@ -1,4 +1,4 @@
 # lowly
 
-lowly. See **low**.
+See **low**.
 

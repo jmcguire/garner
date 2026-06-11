@@ -1,4 +1,4 @@
 # draw on
 
-draw on. See phrasal verbs.
+See phrasal verbs.
 

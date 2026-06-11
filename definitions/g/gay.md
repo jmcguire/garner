@@ -1,7 +1,5 @@
 # gay
 
-gay.
-
 ## A. Generally
 
 In 1980, a well-known language critic commented: "\[The\] special-interest use of *gay* undermines the correct use of a legitimate and needed English word. It now becomes ambiguous to call a cheerful person or thing gay; to wish someone a gay journey or holiday, for example, may have totally uncalled-for over- and undertones and, in conservative circles, may even be considered insulting. The insulting aspect we can eventually get rid of; the ambiguous, never. What do we do about it? If we energetically reject *gay* as a legitimate synonym for *homosexual*, it may not be too late to bury this linguistic abomination." John Simon, *Paradigms Lost* 27 (1980).

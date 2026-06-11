@@ -1,4 +1,4 @@
 # \*awless
 
-\*awless. See **aweless**.
+See **aweless**.
 

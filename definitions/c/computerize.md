@@ -1,4 +1,4 @@
 # computerize
 
-computerize. See -ize.
+See -ize.
 

@@ -1,7 +1,5 @@
 # taut
 
-taut.
-
 ## A. And *taught*
 
 *Taut* (= \[1\] tightly stretched; \[2\] tense; or \[3\] well-disciplined) is surprisingly often written *taught* (the past tense of *teach*)—e.g.:

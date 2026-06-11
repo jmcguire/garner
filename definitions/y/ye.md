@@ -1,7 +1,5 @@
 # ye
 
-ye.
-
 ## A. As Article Meaning "the."
 
 In phrases such as *Ye Olde Cheshire Cheese* (reportedly Samuel Johnson's favorite pub in London) and *Ye Olde Curiosity Shoppe*, the word *ye* is simply a variant spelling of *the*. The Middle English thorn (þ) represented the sound now represented in English by *th*. By 1500 or so, its form was identical to that of *y*. Hence the "proper" pronunciation of *ye* as a definite article is /thee/—not /yee/.

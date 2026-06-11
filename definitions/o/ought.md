@@ -1,7 +1,5 @@
 # ought
 
-ought.
-
 ## A. Infinitive Following
 
 *Ought*—an old past tense and past participle of *owe*, but now a modal auxiliary verb—is now almost invariably followed by a full infinitive, whether the phrase is *ought to* or *ought not to*—e.g.:

@@ -1,4 +1,4 @@
 # justice
 
-justice. See **judge**.
+See **judge**.
 

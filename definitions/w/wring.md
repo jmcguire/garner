@@ -1,7 +1,5 @@
 # wring
 
-wring.
-
 ## A. Inflected Forms: *wring* \> *wrung* \> *wrung*
 
 The past-tense and past-participial forms of *wring* (= to squeeze or twist) are sometimes erroneously written *rung*—e.g.:

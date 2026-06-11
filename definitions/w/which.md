@@ -1,7 +1,5 @@
 # which
 
-which.
-
 ## A. Generally
 
 This word, used immoderately, is possibly responsible for more bad sentences than any other in the language. Small wonder that James Thurber wrote: "What most people don't realize is that one ‘which' leads to another. . . . Your inveterate whicher . . . is not welcome in the best company." "Ladies' and Gentlemen's Guide to Modern English Usage," in *The Ways of Language: A Reader* 142, 143 (Raymond J. Pflug ed., 1967). E.B. White was like-minded: "Careful writers, watchful for small conveniences, go *which*-hunting, remove the defining *whiches*, and by so doing improve their work." William Strunk Jr. & E.B. White, *The Elements of Style* 59 (4th ed. 2000).

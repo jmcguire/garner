@@ -1,4 +1,4 @@
 # confute
 
-confute. See **refute**.
+See **refute**.
 

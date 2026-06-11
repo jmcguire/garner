@@ -1,4 +1,4 @@
 # whole 'nother
 
-whole 'nother. See **'nother** & tmesis.
+See **'nother** & tmesis.
 

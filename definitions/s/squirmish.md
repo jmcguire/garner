@@ -1,4 +1,4 @@
 # squirmish
 
-squirmish. See portmanteau words.
+See portmanteau words.
 

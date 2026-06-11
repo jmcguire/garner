@@ -1,6 +1,6 @@
 # slew, n
 
-slew, n. (= a large number or great amount), originally an Americanism dating from the 1830s, has become fairly common in all varieties of English. E.g.: "The \[newspaper's\] elegant new look won a *slew* of national awards." Margaret Sullivan, *Ghosting the News* 32 (2020).
+(= a large number or great amount), originally an Americanism dating from the 1830s, has become fairly common in all varieties of English. E.g.: "The \[newspaper's\] elegant new look won a *slew* of national awards." Margaret Sullivan, *Ghosting the News* 32 (2020).
 
 Commonly appearing in the phrase *whole slew*, the word *slew* is sometimes confounded with its homophone *slough* (= a stagnant bog—also pronounced /sloo/)—e.g.:
 

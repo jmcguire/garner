@@ -1,4 +1,4 @@
 # wail
 
-wail. For a misuse of this word, see **whale**.
+For a misuse of this word, see **whale**.
 

@@ -1,4 +1,4 @@
 # Gallic
 
-Gallic. See **Gaelic**.
+See **Gaelic**.
 

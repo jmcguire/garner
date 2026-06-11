@@ -1,4 +1,4 @@
 # avigation
 
-avigation. See portmanteau words.
+See portmanteau words.
 

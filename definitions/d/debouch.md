@@ -1,4 +1,4 @@
 # debouch
 
-debouch. See **debauch**.
+See **debauch**.
 

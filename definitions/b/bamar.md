@@ -1,4 +1,4 @@
 # Bamar
 
-Bamar. See **Burmese**.
+See **Burmese**.
 

@@ -1,4 +1,4 @@
 # Rhotacism
 
-Rhotacism. See pronunciation (e).
+See pronunciation (e).
 

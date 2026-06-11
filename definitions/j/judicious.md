@@ -1,4 +1,4 @@
 # judicious
 
-judicious. See **judicial**.
+See **judicial**.
 

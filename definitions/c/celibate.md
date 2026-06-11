@@ -1,4 +1,4 @@
 # celibate
 
-celibate. See **chaste (b)**.
+See **chaste (b)**.
 

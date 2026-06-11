@@ -1,4 +1,4 @@
 # statelily
 
-statelily. See adverbs (c).
+See adverbs (c).
 

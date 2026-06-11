@@ -1,4 +1,4 @@
 # -ible
 
--ible. See -able (a).
+See -able (a).
 

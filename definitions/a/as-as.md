@@ -1,7 +1,5 @@
 # as . . . as
 
-as . . . as.
-
 ## A. And *so . . . as*
 
 In positive statements, the *as . . . as* construction is customary—e.g.: "The corn, which should be *as* tall *as* I am at this time of year, is barely half my height." Eason Jordan, "A Visit to the Land of the Vanishing Lake," *Time*, 25 Aug. 1997, at 52.

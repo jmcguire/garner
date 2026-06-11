@@ -1,6 +1,6 @@
 # what
 
-what. Eric Partridge opined that *what*, as the subject of a clause, generally takes a singular (third-person) verb regardless of what follows (not *what follow*) (*U&A* at 362). Thus:
+Eric Partridge opined that *what*, as the subject of a clause, generally takes a singular (third-person) verb regardless of what follows (not *what follow*) (*U&A* at 362). Thus:
 
  - "What she wants *is* a new house."
 

@@ -1,4 +1,4 @@
 # revenge
 
-revenge. See **avenge**.
+See **avenge**.
 

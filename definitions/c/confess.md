@@ -1,7 +1,5 @@
 # confess
 
-confess.
-
 ## A. *Confess to* for *confess*
 
 Traditionally, people *confess* crimes, guilt, weaknesses, faults, and the like. Less traditionally—though at least since the 1700s—people have *confessed to* these things. Euphony should govern the phrasing. In the following examples, *confess to* sounds better than *confess* alone would have:

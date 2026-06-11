@@ -1,4 +1,4 @@
 # dissentious
 
-dissentious. See **dissenting**.
+See **dissenting**.
 

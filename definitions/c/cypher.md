@@ -1,4 +1,4 @@
 # \*cypher
 
-\*cypher. See **cipher**.
+See **cipher**.
 

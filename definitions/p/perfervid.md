@@ -1,4 +1,4 @@
 # perfervid
 
-perfervid. See **fervent**.
+See **fervent**.
 

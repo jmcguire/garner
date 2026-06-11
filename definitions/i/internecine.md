@@ -1,6 +1,6 @@
 # internecine
 
-internecine. As originally used in English, and as recorded by Samuel Johnson in 1755, *internecine* means "mutually deadly; destructive of both parties." In best usage it still bears the sense of devastation—e.g.: "As Zaman portrays himself, he is the civil warlord. He was the one to avoid the *internecine* bloodshed that continues to plague Afghanistan." Michael A. Lev, "In Power Shift, Afghan Warlord Now Out of Loop," *Chicago Trib.*, 7 May 2002, News §, at 6.
+As originally used in English, and as recorded by Samuel Johnson in 1755, *internecine* means "mutually deadly; destructive of both parties." In best usage it still bears the sense of devastation—e.g.: "As Zaman portrays himself, he is the civil warlord. He was the one to avoid the *internecine* bloodshed that continues to plague Afghanistan." Michael A. Lev, "In Power Shift, Afghan Warlord Now Out of Loop," *Chicago Trib.*, 7 May 2002, News §, at 6.
 
 The word is now routinely used in extended but milder senses, with the suggestion that internecine warfare has a winner. Often, in fact, it is used to mean nothing more than "internal"—e.g.:
 

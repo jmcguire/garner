@@ -1,7 +1,5 @@
 # inchoate
 
-inchoate.
-
 ## A. Meaning, Pronunciation, and Spelling
 
 *Inchoate*—pronounced /in-**koh**-it/ in both AmE and BrE, and secondarily /**in**-koh-әt/ in BrE (always three syllables)—means "just begun; in the early stages of forming; not fully developed"—e.g.: "American understanding of Islamic terrorism then was still *inchoate*. Al-Qaida was barely on the screen." Terry McDermott et al., "Al-Qaida ‘Engineer' Slips Dragnet," *Newsday* (N.Y.), 27 Dec. 2002, at A42. The word is sometimes misspelled *\*incohate*.

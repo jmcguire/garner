@@ -1,4 +1,4 @@
 # slew, vb
 
-slew, vb. See **slay**.
+See **slay**.
 

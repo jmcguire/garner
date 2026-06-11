@@ -1,7 +1,5 @@
 # but
 
-but.
-
 ## A. Beginning Sentences with
 
 It is a gross canard that beginning a sentence with *but* is stylistically slipshod. In fact, doing so is highly desirable in any number of contexts, as countless stylebooks have said (many correctly pointing out that *but* is more effective than *however* at the beginning of a sentence)—e.g.:

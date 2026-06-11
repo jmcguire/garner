@@ -1,4 +1,4 @@
 # par
 
-par. See **subpar**.
+See **subpar**.
 

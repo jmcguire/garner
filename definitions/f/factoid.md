@@ -1,7 +1,5 @@
 # factoid
 
-factoid.
-
 ## A. Contradictory Senses
 
 *Factoid* = (1) an assertion that, although widely accepted as factual, is not or may not be true; or (2) an isolated, usu. surprising fact; an interesting bit of trivia. Sense 1 dates from the early 1970s. A decade later, sense 2 arose with the launch of *USA Today*. Some people object to this sense because the -*oid* suffix generally denotes a resemblance to something but not the thing itself (e.g., a humanoid isn't human; an asteroid isn't a star; an ovoid is shaped like—but isn't—an egg; etc.).

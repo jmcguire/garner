@@ -1,4 +1,4 @@
 # inestimable
 
-inestimable. See **estimable**.
+See **estimable**.
 

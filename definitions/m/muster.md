@@ -1,4 +1,4 @@
 # muster
 
-muster. See **pass muster**.
+See **pass muster**.
 

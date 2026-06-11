@@ -1,4 +1,4 @@
 # heal
 
-heal. See **cure**.
+See **cure**.
 

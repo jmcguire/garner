@@ -1,4 +1,4 @@
 # dicta
 
-dicta. See **dictum**.
+See **dictum**.
 

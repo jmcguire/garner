@@ -1,7 +1,5 @@
 # exceedingly
 
-exceedingly.
-
 ## A. And *exceeding*, adv
 
 *Exceedingly* (= extraordinarily) is often used as a mild hyperbole roughly equivalent to *quite* or *very*. It doesn't usually present any problems, but it does have an old-fashioned by-form, *exceeding* \<exceeding kind\>. Instead of this archaism, use *exceedingly*—e.g.:

@@ -1,4 +1,4 @@
 # \*hommos
 
-\*hommos. See **hummus**.
+See **hummus**.
 

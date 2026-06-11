@@ -1,4 +1,4 @@
 # injunction
 
-injunction. See **enjoinder**.
+See **enjoinder**.
 

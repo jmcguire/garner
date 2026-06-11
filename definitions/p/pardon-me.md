@@ -1,4 +1,4 @@
 # pardon me
 
-pardon me. See **excuse me**.
+See **excuse me**.
 

@@ -1,4 +1,4 @@
 # venial
 
-venial. See **venal**.
+See **venal**.
 

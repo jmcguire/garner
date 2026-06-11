@@ -1,4 +1,4 @@
 # DMZ
 
-DMZ. See **Demilitarized Zone**.
+See **Demilitarized Zone**.
 

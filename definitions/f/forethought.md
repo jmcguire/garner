@@ -1,4 +1,4 @@
 # forethought
 
-forethought. See **malice aforethought**.
+See **malice aforethought**.
 

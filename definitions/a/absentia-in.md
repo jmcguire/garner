@@ -1,4 +1,4 @@
 # absentia, in
 
-absentia, in. See **in absentia**.
+See **in absentia**.
 

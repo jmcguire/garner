@@ -1,4 +1,4 @@
 # apologia
 
-apologia. See **apology**.
+See **apology**.
 

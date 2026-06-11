@@ -1,4 +1,4 @@
 # mic
 
-mic. See **mike**.
+See **mike**.
 

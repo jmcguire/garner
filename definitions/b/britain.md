@@ -1,4 +1,4 @@
 # Britain
 
-Britain. See **Great Britain**.
+See **Great Britain**.
 

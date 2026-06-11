@@ -1,4 +1,4 @@
 # -ress
 
--ress. See sexism (d).
+See sexism (d).
 

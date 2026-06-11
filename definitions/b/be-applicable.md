@@ -1,4 +1,4 @@
 # be applicable
 
-be applicable. See **applicable (c)**.
+See **applicable (c)**.
 

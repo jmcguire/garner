@@ -1,4 +1,4 @@
 # \*hejira
 
-\*hejira. See **hegira**.
+See **hegira**.
 

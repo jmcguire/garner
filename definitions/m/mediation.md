@@ -1,4 +1,4 @@
 # mediation
 
-mediation. See **arbitration (b)**.
+See **arbitration (b)**.
 

@@ -1,6 +1,6 @@
 # anxious
 
-anxious. This word has a range of meaning. As the adjective corresponding to *anxiety*, it has long meant "uneasy, disquieted." In the most unimpeachable uses, the word stays close to that association—e.g.: "The latest holdup is the EPA's final approval of the companies' plans to test for lead at the 150 homes . . . . Some residents are getting *anxious*." Stacy Shelton, "Toxic Investigation," *Atlanta J.-Const.*, 13 Sept. 2002, at D1.
+This word has a range of meaning. As the adjective corresponding to *anxiety*, it has long meant "uneasy, disquieted." In the most unimpeachable uses, the word stays close to that association—e.g.: "The latest holdup is the EPA's final approval of the companies' plans to test for lead at the 150 homes . . . . Some residents are getting *anxious*." Stacy Shelton, "Toxic Investigation," *Atlanta J.-Const.*, 13 Sept. 2002, at D1.
 
 Today the word typically encompasses both worry and anticipation—e.g.: "Creator and anchorman Brian Lamb, the prince of un-chic, tirelessly fields the remarks of obnoxious callers, preening journalists, and *anxious* authors." "Spanning the Spectrum," *Nat'l Rev.*, 24 Mar. 1997, at 16. The word carries a sense of expectation. Here, for example, it seems appropriately used as the author discusses a major life change: "I was *anxious* to leave for Boston . . . . I was looking forward to a change." Elizabeth Morgan, *The Making of a Woman Surgeon* 219 (1980).
 

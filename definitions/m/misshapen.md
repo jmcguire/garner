@@ -1,4 +1,4 @@
 # misshapen
 
-misshapen. See **shape**.
+See **shape**.
 

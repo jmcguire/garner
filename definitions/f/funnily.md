@@ -1,4 +1,4 @@
 # funnily
 
-funnily. See adverbs (c).
+See adverbs (c).
 

@@ -1,4 +1,4 @@
 # \*perpetuatable
 
-\*perpetuatable. See **perpetuable**.
+See **perpetuable**.
 

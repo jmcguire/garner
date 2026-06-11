@@ -1,4 +1,4 @@
 # cloture
 
-cloture. See **closure**.
+See **closure**.
 

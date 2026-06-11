@@ -1,4 +1,4 @@
 # commonness
 
-commonness. See **commonality**.
+See **commonality**.
 

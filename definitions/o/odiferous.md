@@ -1,4 +1,4 @@
 # \*odiferous
 
-\*odiferous. See **odorous**.
+See **odorous**.
 

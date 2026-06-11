@@ -1,4 +1,4 @@
 # anesthesiologist
 
-anesthesiologist. See **anesthetist**.
+See **anesthetist**.
 

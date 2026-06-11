@@ -1,7 +1,5 @@
 # et al
 
-et al.
-
 ## A. Generally
 
 *Et al.* is the abbreviated form of the Latin phrase *et alii* (= and others), which is used only in reference to people, whereas *etc.* is used in reference to things. Since *alii* is abbreviated, it always takes a period. But American writers commonly mispunctuate it *\*et al*, *\*et. al.*, or *\*et. al*—all wrong.

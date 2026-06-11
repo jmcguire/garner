@@ -1,6 +1,6 @@
 # burst \> burst \> burst
 
-burst \> burst \> burst. So inflected. As a past-tense or past-participial form, *\*bursted* is a mistake—e.g.:
+So inflected. As a past-tense or past-participial form, *\*bursted* is a mistake—e.g.:
 
  - "Among emergencies that agencies and managers name are such things as a *bursted* \[read *burst*\] water pipe." Betty Lonngren, "Rental Rapport," *Chicago Trib.*, 13 Oct. 1995, at D28.
 

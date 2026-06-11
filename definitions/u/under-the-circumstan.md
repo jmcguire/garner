@@ -1,4 +1,4 @@
 # under the circumstances
 
-under the circumstances. See **circumstances (a)**.
+See **circumstances (a)**.
 

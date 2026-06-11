@@ -1,4 +1,4 @@
 # claustral
 
-claustral. See **cloistral**.
+See **cloistral**.
 

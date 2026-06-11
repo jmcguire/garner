@@ -1,7 +1,5 @@
 # aver
 
-aver.
-
 ## A. And *asseverate*
 
 These are formal words for *say* or *state*. *Aver* has its place in solemn contexts \<Allen averred that he would somehow make things right\>. *Asseverate*, a rarer and weightier word, is seldom justified. Both refer to affirmations of fact, usually with no implication that an oath has been taken.

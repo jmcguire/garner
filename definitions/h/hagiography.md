@@ -1,4 +1,4 @@
 # hagiography
 
-hagiography. See **hagiarchy**.
+See **hagiarchy**.
 

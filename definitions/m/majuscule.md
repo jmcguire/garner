@@ -1,4 +1,4 @@
 # majuscule
 
-majuscule. See **minuscule**.
+See **minuscule**.
 

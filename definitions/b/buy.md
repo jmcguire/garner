@@ -1,7 +1,5 @@
 # buy
 
-buy.
-
 ## A. Inflected Forms: *buy* \> *bought* \> *bought*
 
 The form *\*boughten* (= store-bought as opposed to homemade) is an archaic past-participial adjective formed on the analogy of words such as *broken*, *driven*, and *frozen*. In the sense "store-bought," *\*boughten* still occurs in dialectal AmE. E.g.:

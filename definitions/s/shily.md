@@ -1,4 +1,4 @@
 # \*shily
 
-\*shily. See **shy**.
+See **shy**.
 

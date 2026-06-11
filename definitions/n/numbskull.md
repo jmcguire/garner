@@ -1,4 +1,4 @@
 # numbskull
 
-numbskull. See **numskull**.
+See **numskull**.
 

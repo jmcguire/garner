@@ -1,4 +1,4 @@
 # \*bye the bye
 
-\*bye the bye. See **by the by**.
+See **by the by**.
 

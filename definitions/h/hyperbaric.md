@@ -1,4 +1,4 @@
 # hyperbaric
 
-hyperbaric. See **hyperbolic (b)**.
+See **hyperbolic (b)**.
 

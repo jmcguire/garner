@@ -1,6 +1,6 @@
 # headquarters
 
-headquarters. Since the 1800s this noun has commonly taken a plural verb, as in the first two examples listed below. But the singular predominates when the reference is to a building, as in the third example, or to authority (as opposed to a place), as in the fourth example:
+Since the 1800s this noun has commonly taken a plural verb, as in the first two examples listed below. But the singular predominates when the reference is to a building, as in the third example, or to authority (as opposed to a place), as in the fourth example:
 
  - "Heather Cook \[is the\] manager of public relations for SurfControl, whose U.S. *headquarters are* in Scotts Valley, Calif." Morgan Lee, "General Services to Add Internet Filters," *Albuquerque J.*, 11 Dec. 2000, at 4.
 

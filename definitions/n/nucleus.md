@@ -1,6 +1,6 @@
 # nucleus
 
-nucleus. In traditional senses, the plural is *nuclei*—not *nucleuses*. E.g.:
+In traditional senses, the plural is *nuclei*—not *nucleuses*. E.g.:
 
  - "He said the genetic therapy company scientists hope to target the mutation by injecting a small molecule made of DNA, the basic material of all cell *nucleuses* \[read *nuclei*\]." Mark Guidera, "Oncor to Develop Gene Therapy for Obesity," *Baltimore Sun*, 26 Mar. 1996, at C2.
 

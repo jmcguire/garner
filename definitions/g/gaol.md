@@ -1,4 +1,4 @@
 # gaol
 
-gaol. See **jail**.
+See **jail**.
 

@@ -1,4 +1,4 @@
 # \*shovelboard
 
-\*shovelboard. See **shuffleboard**.
+See **shuffleboard**.
 

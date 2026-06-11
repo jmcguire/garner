@@ -1,4 +1,4 @@
 # disappointed
 
-disappointed. See hierarchical expressions.
+See hierarchical expressions.
 

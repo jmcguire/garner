@@ -1,6 +1,6 @@
 # variety
 
-variety. When the phrase *a variety of* means "many," it takes a plural verb—e.g.:
+When the phrase *a variety of* means "many," it takes a plural verb—e.g.:
 
  - "Words, songs and rituals are a few of the many things that color our experience, and *a variety of* them *are* found in religious services." William C. Graham, "Saving Signs, Wondrous Words," *Nat'l Catholic Rptr.*, 9 May 1997, at 15.
 

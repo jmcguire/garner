@@ -1,4 +1,4 @@
 # married spouse
 
-married spouse. See **spouse**.
+See **spouse**.
 

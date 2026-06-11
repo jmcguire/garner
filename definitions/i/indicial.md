@@ -1,4 +1,4 @@
 # indicial
 
-indicial. See **indicative**.
+See **indicative**.
 

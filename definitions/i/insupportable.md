@@ -1,4 +1,4 @@
 # insupportable
 
-insupportable. See **unsupportable**.
+See **unsupportable**.
 

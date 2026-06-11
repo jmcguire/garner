@@ -1,4 +1,4 @@
 # into
 
-into. See **in**.
+See **in**.
 

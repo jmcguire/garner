@@ -1,4 +1,4 @@
 # lent
 
-lent. See **lend**.
+See **lend**.
 

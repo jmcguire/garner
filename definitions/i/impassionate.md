@@ -1,6 +1,6 @@
 # impassionate
 
-impassionate. Because this adjective can mean either "impassioned" or "dispassionate," it is best avoided in favor of one of those defining words. In short, it is a skunked term. Despite its absence from American desk dictionaries, *impassionate* is still used by journalists in both senses—e.g.:
+Because this adjective can mean either "impassioned" or "dispassionate," it is best avoided in favor of one of those defining words. In short, it is a skunked term. Despite its absence from American desk dictionaries, *impassionate* is still used by journalists in both senses—e.g.:
 
  - "An intense, *impassionate* \[read *impassioned*\] personality, even when she was young, Bush began putting on variety shows at age 5, charging the neighbors 15 cents to attend." Joanne Kaufman, "Barbara Bush Rides Out the Pain of a Doomed Soap Opera Role," *People*, 1 Feb. 1988, at 56.
 

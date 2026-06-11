@@ -1,4 +1,4 @@
 # \*propelment
 
-\*propelment. See **propulsion**.
+See **propulsion**.
 

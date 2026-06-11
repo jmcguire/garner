@@ -1,4 +1,4 @@
 # titbit
 
-titbit. See **tidbit**.
+See **tidbit**.
 

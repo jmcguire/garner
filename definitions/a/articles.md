@@ -1,7 +1,5 @@
 # Articles
 
-Articles.
-
 ## A. Definition
 
 See p. 1195.

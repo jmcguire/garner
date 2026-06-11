@@ -1,4 +1,4 @@
 # \*numbedness
 
-\*numbedness. See **numbness**.
+See **numbness**.
 

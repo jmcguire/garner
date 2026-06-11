@@ -1,4 +1,4 @@
 # antitrust
 
-antitrust. So written—without a hyphen.
+So written—without a hyphen.
 

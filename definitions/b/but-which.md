@@ -1,4 +1,4 @@
 # but which
 
-but which. See **which (d)**.
+See **which (d)**.
 

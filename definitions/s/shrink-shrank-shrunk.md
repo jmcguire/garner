@@ -1,6 +1,6 @@
 # shrink \> shrank \> shrunk
 
-shrink \> shrank \> shrunk. So inflected in standard english since the mid-1800s. In informal usage, the past participle often displaces the simple past, as in the movie title *Honey, I Shrunk the Kids* (1989). But examples are hardly scarce in formal writing—e.g.:
+So inflected in standard english since the mid-1800s. In informal usage, the past participle often displaces the simple past, as in the movie title *Honey, I Shrunk the Kids* (1989). But examples are hardly scarce in formal writing—e.g.:
 
  - "Flunkies grumbled when he forced them to recite anti-corruption hymns, and again when he *shrunk* \[read *shrank*\] official dinners from lavish feasts to nothing more than one soup and four dishes." John Colmey et al., "Zhu's Leap Forward," *Time* (Int'l ed.), 16 Mar. 1998, at 16.
 

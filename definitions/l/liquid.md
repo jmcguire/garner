@@ -1,4 +1,4 @@
 # liquid
 
-liquid. See **fluid**.
+See **fluid**.
 

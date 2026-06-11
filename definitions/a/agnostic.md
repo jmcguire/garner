@@ -1,4 +1,4 @@
 # agnostic
 
-agnostic. See **atheist**.
+See **atheist**.
 

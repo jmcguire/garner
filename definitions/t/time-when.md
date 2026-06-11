@@ -1,4 +1,4 @@
 # time when
 
-time when. See **reason why**.
+See **reason why**.
 

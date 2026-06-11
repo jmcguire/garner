@@ -1,6 +1,6 @@
 # wouldn't be surprised
 
-wouldn't be surprised. Generally, a negative shouldn't appear after this phrase. That is, *I wouldn't be surprised if Ratliff has retired* means that I think Ratliff has retired; *I wouldn't be surprised if Ratliff hasn't retired* means, literally, that I suspect Ratliff is still working. But many people use the double-negative form, which is especially common in reported speech—e.g.:
+Generally, a negative shouldn't appear after this phrase. That is, *I wouldn't be surprised if Ratliff has retired* means that I think Ratliff has retired; *I wouldn't be surprised if Ratliff hasn't retired* means, literally, that I suspect Ratliff is still working. But many people use the double-negative form, which is especially common in reported speech—e.g.:
 
  - "Ethan Johnson, plan recorder for the Holden Arboretum in Kirtland, noted that one of the rhododendrons was blooming, and ‘I *wouldn't be surprised* if others *didn't have* \[read *had*\] flowers on them.' " Suzanne Hively, "Topsy-Turvy Winter Weather Unsettling to Sleeping Plants," *Plain Dealer* (Cleveland), 15 Jan. 2000, Your Home §, at 3.
 

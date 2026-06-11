@@ -1,4 +1,4 @@
 # sputter
 
-sputter. See **splutter**.
+See **splutter**.
 

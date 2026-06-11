@@ -1,4 +1,4 @@
 # reoccurrence
 
-reoccurrence. See **recurrence**.
+See **recurrence**.
 

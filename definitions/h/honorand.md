@@ -1,4 +1,4 @@
 # \*honorand
 
-\*honorand. See **honoree**.
+See **honoree**.
 

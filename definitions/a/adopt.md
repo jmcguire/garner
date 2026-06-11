@@ -1,4 +1,4 @@
 # adopt
 
-adopt. See **adapt**.
+See **adapt**.
 

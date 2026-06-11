@@ -1,4 +1,4 @@
 # \*applier
 
-\*applier. See **applicant**.
+See **applicant**.
 

@@ -1,4 +1,4 @@
 # \*emory board
 
-\*emory board. See **emery board**.
+See **emery board**.
 

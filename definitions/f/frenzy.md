@@ -1,4 +1,4 @@
 # frenzy
 
-frenzy. See **frenetic**.
+See **frenetic**.
 

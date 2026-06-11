@@ -1,6 +1,6 @@
 # narcissus
 
-narcissus. Since about 1870, the predominant plural has been the Latin *narcissi*, not the native plural *\*narcissuses* (which is excessively sibilant)—e.g.:
+Since about 1870, the predominant plural has been the Latin *narcissi*, not the native plural *\*narcissuses* (which is excessively sibilant)—e.g.:
 
  - "All my laboriously naturalized daffodils and *narcissi* will gradually emerge in my absence." Maxine Kumin, "Florida Spring Has Her Missing Mud Season," *Star Trib.* (Minneapolis), 23 Mar. 1995, at A15.
 

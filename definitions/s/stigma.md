@@ -1,7 +1,5 @@
 # stigma
 
-stigma.
-
 ## A. Plural
 
 *Stigma* /**stig**-mә/ can be pluralized in two ways: *stigmas* and *stigmata* /stig-**mah**-tә/. The English plural (*-mas*) is preferable in most contexts. But *stigmata* carries the specialized sense "bodily marks resembling the crucifixion wounds of Jesus Christ." In this sense the word is sometimes pronounced /**stig**-mә-tә/, after the Greek and Latin. See plurals (b).

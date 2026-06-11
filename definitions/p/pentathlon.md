@@ -1,4 +1,4 @@
 # pentathlon
 
-pentathlon. See -athlon.
+See -athlon.
 

@@ -1,4 +1,4 @@
 # \*cohabitate
 
-\*cohabitate. See **cohabit**.
+See **cohabit**.
 

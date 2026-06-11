@@ -1,4 +1,4 @@
 # quadra-
 
-quadra-. See **quadri-.**
+See **quadri-.**
 

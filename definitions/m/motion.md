@@ -1,4 +1,4 @@
 # motion
 
-motion. See **resolution**.
+See **resolution**.
 

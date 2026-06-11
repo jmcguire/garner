@@ -1,4 +1,4 @@
 # \*shouldn't ought
 
-\*shouldn't ought. See double modals.
+See double modals.
 

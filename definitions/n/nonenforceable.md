@@ -1,4 +1,4 @@
 # \*nonenforceable
 
-\*nonenforceable. See **unenforceable**.
+See **unenforceable**.
 

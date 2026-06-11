@@ -1,4 +1,4 @@
 # get revenge
 
-get revenge. See **avenge (b)**.
+See **avenge (b)**.
 

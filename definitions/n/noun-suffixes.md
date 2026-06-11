@@ -1,6 +1,6 @@
 # Noun Suffixes
 
-Noun Suffixes. Although there are many other noun suffixes (*-age, -ance, -ence -hood, -ty, -ure*, etc.), five engender enough doubt or curiosity to occupy space in a usage guide: *-cy*, *-ion*, *-ity*, *-ment* & *-ness*. They are discussed below.
+Although there are many other noun suffixes (*-age, -ance, -ence -hood, -ty, -ure*, etc.), five engender enough doubt or curiosity to occupy space in a usage guide: *-cy*, *-ion*, *-ity*, *-ment* & *-ness*. They are discussed below.
 
 ## A. -*cy*
 

@@ -1,7 +1,5 @@
 # about
 
-about.
-
 A. And *approximately*. When possible, use *about* instead of *approximately*, a formal word often intended to lend a scientific air to prose. But it sounds pseudoscientific and pretentious when it appears in ordinary contexts.
 
 ## B. And *around*

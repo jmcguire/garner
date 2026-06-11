@@ -1,6 +1,6 @@
 # rewrite
 
-rewrite. Although *write* cannot be a noun, *rewrite* has functioned as a noun as well as a verb since the early 20th century. E.g.:
+Although *write* cannot be a noun, *rewrite* has functioned as a noun as well as a verb since the early 20th century. E.g.:
 
  - "The play, meanwhile, could stand a good *rewrite*." Scott Collins, " ‘Pants on Fire': A Smothered Attempt," *L.A. Times*, 21 Oct. 1994, at 26.
 

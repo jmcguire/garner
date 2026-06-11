@@ -1,4 +1,4 @@
 # forjudge
 
-forjudge. See **forejudge**.
+See **forejudge**.
 

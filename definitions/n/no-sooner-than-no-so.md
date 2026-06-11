@@ -1,6 +1,6 @@
 # no sooner . . . than; \*no sooner . . . when
 
-no sooner . . . than; \*no sooner . . . when. The first phrasing is better because *sooner* is a comparative that should take the word *than*, not *when*. Although the correct phrasing is vastly predominant, the loose phrasing is lamentably common—e.g.:
+The first phrasing is better because *sooner* is a comparative that should take the word *than*, not *when*. Although the correct phrasing is vastly predominant, the loose phrasing is lamentably common—e.g.:
 
  - "*No sooner* did he hear a description of the suspects' car *when* \[read *than*\] he saw the car himself." Paul Sullivan, "Tommy Tajima, at 47, Newspaper Photographer," *Boston Herald*, 22 Dec. 1999, at 39.
 

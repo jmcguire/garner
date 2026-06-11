@@ -1,6 +1,6 @@
 # respond back
 
-respond back. Because the prefix *re-* means "back," this phrase is usually a redundancy—e.g.:
+Because the prefix *re-* means "back," this phrase is usually a redundancy—e.g.:
 
  - "Perrin also recommended no additional action be taken until the county *responds back* \[read *responds*\] to the municipality." Ian McCallum, "Sewer Plan Shelved," *Times J.* (St. Thomas, Ont.), 15 Aug. 2005, News §, at 1. (The verbing of *front-end* in that sentence may also irritate some readers.)
 

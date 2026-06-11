@@ -1,4 +1,4 @@
 # -fold
 
--fold. See **twofold**.
+See **twofold**.
 

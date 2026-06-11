@@ -1,4 +1,4 @@
 # tiro
 
-tiro. See **tyro**.
+See **tyro**.
 

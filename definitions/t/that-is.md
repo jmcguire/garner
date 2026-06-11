@@ -1,6 +1,6 @@
 # that is
 
-that is. Conventional wisdom once held that if this phrase begins a sentence, the result is a sentence fragment. (See incomplete sentences (a).) But good writers unimpeachably use the phrase in this way, in place of *in other words*—e.g.:
+Conventional wisdom once held that if this phrase begins a sentence, the result is a sentence fragment. (See incomplete sentences (a).) But good writers unimpeachably use the phrase in this way, in place of *in other words*—e.g.:
 
  - "While adopting certain teaching techniques, we are more interested in communication than in composition. *That is*, with due respect to Shakespeare and others, we want our girls to *communicate* freely with the live world around them rather than plunge into musty old books." Vladimir Nabokov, *Lolita* 179 (1955; repr. 1982).
 

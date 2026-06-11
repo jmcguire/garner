@@ -1,7 +1,5 @@
 # used to
 
-used to.
-
 ## A. Generally
 
 *Used to*, not *\*use to*, is the phrase meaning "formerly"—e.g.:

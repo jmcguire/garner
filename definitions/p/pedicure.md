@@ -1,4 +1,4 @@
 # pedicure
 
-pedicure. See **manicure**.
+See **manicure**.
 

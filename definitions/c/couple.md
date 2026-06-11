@@ -1,7 +1,5 @@
 # couple
 
-couple.
-
 ## A. Number
 
 *Couple* (= pair) is a collective noun like *team*, *company*, or *faculty*. As a rule, a collective noun in AmE takes a singular verb unless the action is clearly that of the individual participants rather than collective. When two people form a couple, they may act as individuals \<the couple plan to take jobs in Philadelphia\> or as a single entity \<the couple is buying a house\>. But unlike other collective nouns, *couple* should take a plural verb far more often than a singular one.

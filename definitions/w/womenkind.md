@@ -1,4 +1,4 @@
 # \*womenkind
 
-\*womenkind. See **womankind**.
+See **womankind**.
 

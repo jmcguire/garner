@@ -1,4 +1,4 @@
 # Cursing
 
-Cursing. See profanity.
+See profanity.
 

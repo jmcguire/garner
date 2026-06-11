@@ -1,4 +1,4 @@
 # oft
 
-oft. See **often (b)**.
+See **often (b)**.
 

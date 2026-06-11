@@ -1,4 +1,4 @@
 # caliper
 
-caliper. See **caliber**.
+See **caliber**.
 

@@ -1,4 +1,4 @@
 # \*harp back
 
-\*harp back. See **hark back (b)**.
+See **hark back (b)**.
 

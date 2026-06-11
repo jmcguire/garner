@@ -1,4 +1,4 @@
 # \*enjeopard
 
-\*enjeopard. See **jeopardize**.
+See **jeopardize**.
 

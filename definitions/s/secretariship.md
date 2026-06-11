@@ -1,4 +1,4 @@
 # \*secretariship
 
-\*secretariship. See **secretaryship**.
+See **secretaryship**.
 

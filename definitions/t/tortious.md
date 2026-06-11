@@ -1,4 +1,4 @@
 # tortious
 
-tortious. See **tortuous**.
+See **tortuous**.
 

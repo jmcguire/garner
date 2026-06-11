@@ -1,4 +1,4 @@
 # quasar
 
-quasar. See portmanteau words.
+See portmanteau words.
 

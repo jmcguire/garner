@@ -1,4 +1,4 @@
 # Chanukah
 
-Chanukah. See **Hanukkah**.
+See **Hanukkah**.
 

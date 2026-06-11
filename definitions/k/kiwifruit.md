@@ -1,4 +1,4 @@
 # kiwifruit
 
-kiwifruit. One word in AmE, generally two in BrE.
+One word in AmE, generally two in BrE.
 

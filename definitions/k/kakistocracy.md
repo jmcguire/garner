@@ -1,4 +1,4 @@
 # kakistocracy
 
-kakistocracy. See governmental forms.
+See governmental forms.
 

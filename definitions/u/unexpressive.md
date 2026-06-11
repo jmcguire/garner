@@ -1,4 +1,4 @@
 # \*unexpressive
 
-\*unexpressive. See **inexpressive**.
+See **inexpressive**.
 

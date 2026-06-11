@@ -1,4 +1,4 @@
 # háček
 
-háček. See diacritical marks.
+See diacritical marks.
 

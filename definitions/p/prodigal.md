@@ -1,6 +1,6 @@
 # prodigal
 
-prodigal. To be *prodigal* is to be prone to wasteful spending, especially to frittering away one's savings on hedonistic indulgence. In the biblical parable, the *prodigal* son leaves home, squanders his inheritance, almost starves to death, and is still greeted with open arms when he returns to his father.
+To be *prodigal* is to be prone to wasteful spending, especially to frittering away one's savings on hedonistic indulgence. In the biblical parable, the *prodigal* son leaves home, squanders his inheritance, almost starves to death, and is still greeted with open arms when he returns to his father.
 
 Most people today associate *prodigal* with the part of the parable about wandering afar and coming home repentant, with no connotation left of squandering money—e.g.:
 

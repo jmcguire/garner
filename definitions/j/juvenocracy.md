@@ -1,4 +1,4 @@
 # juvenocracy
 
-juvenocracy. See governmental forms.
+See governmental forms.
 

@@ -1,4 +1,4 @@
 # \*disenthrone
 
-\*disenthrone. See **dethrone**.
+See **dethrone**.
 

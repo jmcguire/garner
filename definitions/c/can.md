@@ -1,7 +1,5 @@
 # can
 
-can.
-
 ## A. And *may.*
 
 The distinction between these words has been much discussed over the years, beginning with Samuel Johnson's *Dictionary of the English Language* (1755). Generally, *can* expresses physical or mental ability \<he can lift 500 pounds\>; *may* expresses permission or authorization \<the guests may now enter\>, and sometimes possibility \<the trial may end on Friday\>. Although only an insufferable precisian would insist on observing the distinction in informal speech or writing (especially in questions such as "Can I wait until August?"), it's often advisable to distinguish between these words.

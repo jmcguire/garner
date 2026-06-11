@@ -1,4 +1,4 @@
 # at all events
 
-at all events. See **in any event**.
+See **in any event**.
 

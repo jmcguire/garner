@@ -1,4 +1,4 @@
 # known quantity
 
-known quantity. See **unknown quantity**.
+See **unknown quantity**.
 

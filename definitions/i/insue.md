@@ -1,4 +1,4 @@
 # \*insue
 
-\*insue. See **ensue**.
+See **ensue**.
 

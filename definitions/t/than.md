@@ -1,7 +1,5 @@
 # than
 
-than.
-
 ## A. Verb Not Repeated After (*than is*, *than has*)
 
 Often it's unnecessary (though not ungrammatical) to repeat *be*-verbs and *have*-verbs after *than*, especially when a noun follows—e.g.:

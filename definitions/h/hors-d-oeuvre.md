@@ -1,6 +1,6 @@
 # hors d'oeuvre
 
-hors d'oeuvre. Although this noun serves as both the singular and the plural in French, the anglicized plural *hors d'oeuvres* became standard in English during the 20th century. See plurals (b) & spelling (a).
+Although this noun serves as both the singular and the plural in French, the anglicized plural *hors d'oeuvres* became standard in English during the 20th century. See plurals (b) & spelling (a).
 
 **Language-Change Index:**
 

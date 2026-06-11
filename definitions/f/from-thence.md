@@ -1,4 +1,4 @@
 # from thence
 
-from thence. See **from hence**.
+See **from hence**.
 

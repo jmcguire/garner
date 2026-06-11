@@ -1,4 +1,4 @@
 # sterility
 
-sterility. See **impotence (a)**.
+See **impotence (a)**.
 

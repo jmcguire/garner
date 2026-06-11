@@ -1,4 +1,4 @@
 # effectual
 
-effectual. See **effective**.
+See **effective**.
 

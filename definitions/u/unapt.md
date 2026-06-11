@@ -1,4 +1,4 @@
 # unapt
 
-unapt. See **inapt**.
+See **inapt**.
 

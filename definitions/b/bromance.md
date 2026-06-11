@@ -1,4 +1,4 @@
 # bromance
 
-bromance. See portmanteau words.
+See portmanteau words.
 

@@ -1,4 +1,4 @@
 # \*prolificness
 
-\*prolificness. See **prolificacy**.
+See **prolificacy**.
 

@@ -1,7 +1,5 @@
 # late
 
-late.
-
 ## A. *The late*
 
 This expression is elliptical for *lately* (i.e., recently) *deceased*. How long this can be used of a dead person depends on how recently that person died, but anything more than five years or so is going to strike most readers as odd (e.g., *the late John F. Kennedy*). Of course, there's no absolute statute of limitations; the question is whether a fair number of reasonable readers would know or need to be reminded that the person has died. But the expression serves as more than just a reminder. It also offers a note of respect—and perhaps even a touch of sorrow. So in the fall of 1997 people said *the late Princess Diana* not because anybody needed to be reminded that she had died in August of that year—everyone knew it—but because people mourned her death. By the same token, a widowed spouse might continue to use *my late husband* or *my late wife*, or *late lamented . . .* .

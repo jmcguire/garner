@@ -1,7 +1,5 @@
 # anecdote
 
-anecdote.
-
 ## A. Adjective Forms: *anecdotal*; *\*anecdotic*; *\*anecdotical*
 
 The form *anecdotal* is standard; the other forms are needless variants. In reference to evidence, *anecdotal* refers not to anecdotes, but to personal experiences reported by one or more people.

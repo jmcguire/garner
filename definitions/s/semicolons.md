@@ -1,4 +1,4 @@
 # Semicolons
 
-Semicolons. See punctuation (o).
+See punctuation (o).
 

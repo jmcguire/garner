@@ -1,4 +1,4 @@
 # misbelief
 
-misbelief. See **disbelief**.
+See **disbelief**.
 

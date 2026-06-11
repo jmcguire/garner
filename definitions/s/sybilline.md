@@ -1,4 +1,4 @@
 # \*sybilline
 
-\*sybilline. See **sibylline**.
+See **sibylline**.
 

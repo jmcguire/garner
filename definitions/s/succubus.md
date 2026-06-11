@@ -1,4 +1,4 @@
 # succubus
 
-succubus. See **incubus**.
+See **incubus**.
 

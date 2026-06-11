@@ -1,4 +1,4 @@
 # help
 
-help. See **assist**, v.t.
+See **assist**, v.t.
 

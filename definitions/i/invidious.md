@@ -1,6 +1,6 @@
 # invidious
 
-invidious. This term is sometimes mistakenly, through metathesis, written *\*indivious*—e.g.: "*Indivious* \[read *Invidious*\] discrimination is not pervasive anymore." Luis Wilmot, "Affirmative Action," *San Antonio Express-News*, 25 June 1995. For more on this word, see **insidious**.
+This term is sometimes mistakenly, through metathesis, written *\*indivious*—e.g.: "*Indivious* \[read *Invidious*\] discrimination is not pervasive anymore." Luis Wilmot, "Affirmative Action," *San Antonio Express-News*, 25 June 1995. For more on this word, see **insidious**.
 
 **Language-Change Index:**
 

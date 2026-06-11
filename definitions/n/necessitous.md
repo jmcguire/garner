@@ -1,4 +1,4 @@
 # necessitous
 
-necessitous. See **necessary**.
+See **necessary**.
 

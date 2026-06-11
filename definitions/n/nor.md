@@ -1,7 +1,5 @@
 # nor
 
-nor.
-
 ## A. Beginning a Sentence
 
 *Nor*, like *neither*, may begin a sentence. It must follow either an express negative or an idea that is negative in sense \<This is not economical. Nor is it entirely satisfactory . . . \>. E.g.:

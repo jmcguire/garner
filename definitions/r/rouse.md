@@ -1,4 +1,4 @@
 # rouse
 
-rouse. See **arouse**.
+See **arouse**.
 

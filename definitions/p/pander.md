@@ -1,6 +1,6 @@
 # pander
 
-pander. The oldest use of this word—dating from about 1530—is as a noun meaning "a go-between in a sexual rendezvous; procurer." The sense was long ago extended to "someone who caters to others' base desires." The word derives from *Pandarus* or *Pandar*, a Trojan archer who, in fictional accounts by both Boccaccio (1313–1375) and Chaucer (1343–1400), procures for Troilus the good graces of Cressida.
+The oldest use of this word—dating from about 1530—is as a noun meaning "a go-between in a sexual rendezvous; procurer." The sense was long ago extended to "someone who caters to others' base desires." The word derives from *Pandarus* or *Pandar*, a Trojan archer who, in fictional accounts by both Boccaccio (1313–1375) and Chaucer (1343–1400), procures for Troilus the good graces of Cressida.
 
 By the 1600s, the word had come to be a verb meaning (1) "to act as a go-between in a sexual rendezvous," or (2) "to exploit the weaknesses of others." Sense 2 is now more common—e.g.:
 

@@ -1,4 +1,4 @@
 # \*cummin
 
-\*cummin. See **cumin**.
+See **cumin**.
 

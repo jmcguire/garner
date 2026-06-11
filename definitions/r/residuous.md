@@ -1,4 +1,4 @@
 # \*residuous
 
-\*residuous. See **residual**.
+See **residual**.
 

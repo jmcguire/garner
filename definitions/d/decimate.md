@@ -1,6 +1,6 @@
 # decimate
 
-decimate. Originally this word meant "to kill one in every ten," but this etymological sense, because it's so uncommon, has been abandoned except in historical contexts. Now *decimate* generally means "to cause great loss of life; to destroy a large part of." Even allowing that extension in meaning, the word is commonly misused in two ways.
+Originally this word meant "to kill one in every ten," but this etymological sense, because it's so uncommon, has been abandoned except in historical contexts. Now *decimate* generally means "to cause great loss of life; to destroy a large part of." Even allowing that extension in meaning, the word is commonly misused in two ways.
 
 First, the word is sometimes mistakenly applied to an obliteration or utter defeat—e.g.:
 

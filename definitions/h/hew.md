@@ -1,7 +1,5 @@
 # hew
 
-hew.
-
 ## A. And *hue.*
 
 *Hew*, vb., = (1) to chop, cut; or (2) to adhere or conform (to). Thus sense 1: "Other pieces in this amazing residence include functional tables, chairs and benches, typically *hewed* from a single piece of wood and incised with a variety of designs." Laura Pope, "Where Furniture, Sculpture Collide," *Union Leader* (Manchester, N.H.), 25 Aug. 1996, at E1. And sense 2: "So many actors pretend not to be seeking fame and fortune that Firth's protestations naturally arouse skepticism. But he has *hewed* to this line from the start." Bart Mills, "That Tortured Look," *Chicago Trib.*, 2 Jan. 1997, Tempo §, at 11.

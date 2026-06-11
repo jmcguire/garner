@@ -1,4 +1,4 @@
 # \*verbage
 
-\*verbage. See **verbiage**.
+See **verbiage**.
 

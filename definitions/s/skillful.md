@@ -1,7 +1,5 @@
 # skillful
 
-skillful.
-
 ## A. And *skilful*
 
 The AmE spelling is *skillful*, the BrE *skilful.* Cf. **willful**.

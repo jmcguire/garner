@@ -1,4 +1,4 @@
 # skewbald
 
-skewbald. See **piebald**.
+See **piebald**.
 

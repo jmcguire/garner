@@ -1,4 +1,4 @@
 # \*rooves
 
-\*rooves. See **roof**.
+See **roof**.
 

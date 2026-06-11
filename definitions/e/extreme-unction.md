@@ -1,4 +1,4 @@
 # extreme unction
 
-extreme unction. See **last rites**.
+See **last rites**.
 

@@ -1,7 +1,5 @@
 # -able , Essay
 
--able .
-
 ## A. Choice of *-able* or *-ible*
 
 Many adjectives have competing forms ending in *-able* and *-ible*. Some of these have undergone differentiation in meaning; the less commonly used forms in some pairs are merely needless variants of the predominant forms. The lists that follow contain the most troublesome words of this class.

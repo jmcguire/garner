@@ -1,6 +1,6 @@
 # better than any (other)
 
-better than any (other). Ordinarily, *better than any other* is more logical than *better than any*, because the thing being proclaimed best is also one of the things being considered—e.g.: "Hooley, 63, knows this landscape and its residents *better than any other* elected official." Editorial, "Return Hooley to Congress," *Oregonian* (Portland), 4 Oct. 2002, at C6.
+Ordinarily, *better than any other* is more logical than *better than any*, because the thing being proclaimed best is also one of the things being considered—e.g.: "Hooley, 63, knows this landscape and its residents *better than any other* elected official." Editorial, "Return Hooley to Congress," *Oregonian* (Portland), 4 Oct. 2002, at C6.
 
 Writers who omit the word *other* fall into logical lapses—e.g.:
 

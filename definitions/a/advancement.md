@@ -1,4 +1,4 @@
 # advancement
 
-advancement. See **advance**.
+See **advance**.
 

@@ -1,4 +1,4 @@
 # \*commonty
 
-\*commonty. See **commonality**.
+See **commonality**.
 

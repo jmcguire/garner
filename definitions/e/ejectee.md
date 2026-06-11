@@ -1,4 +1,4 @@
 # ejectee
 
-ejectee. See -ee.
+See -ee.
 

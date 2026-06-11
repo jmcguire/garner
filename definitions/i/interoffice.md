@@ -1,4 +1,4 @@
 # interoffice
 
-interoffice. One word.
+One word.
 

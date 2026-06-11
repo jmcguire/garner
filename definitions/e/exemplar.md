@@ -1,4 +1,4 @@
 # exemplar
 
-exemplar. See **example**.
+See **example**.
 

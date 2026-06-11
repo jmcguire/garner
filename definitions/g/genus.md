@@ -1,6 +1,6 @@
 # genus
 
-genus. The only plural form included in many dictionaries is *genera*, but both the *OED* and *RH2* include the variant *genuses*. That variant has become fairly common, and it is undeniably more comprehensible to more people—e.g.:
+The only plural form included in many dictionaries is *genera*, but both the *OED* and *RH2* include the variant *genuses*. That variant has become fairly common, and it is undeniably more comprehensible to more people—e.g.:
 
  - "New kinds of dinosaurs are described every month. Peter Makovicky, curator of dinosaurs at the Field Museum in Chicago, estimates there are 900 valid *genuses*, at least double the figure from two decades ago." Jerry Adler, "Buried Treasure," *Newsweek*, 27 June 2005, at 44.
 

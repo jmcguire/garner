@@ -1,4 +1,4 @@
 # \*cohabitor
 
-\*cohabitor. See **cohabitant**.
+See **cohabitant**.
 

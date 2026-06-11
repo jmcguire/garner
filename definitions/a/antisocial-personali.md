@@ -1,4 +1,4 @@
 # antisocial personality
 
-antisocial personality. See **psychopath**.
+See **psychopath**.
 

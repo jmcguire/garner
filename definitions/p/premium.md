@@ -1,6 +1,6 @@
 # premium
 
-premium. The standard plural has been *premiums* since the 1700s. The form *\*premia* is hopelessly pedantic—e.g.:
+The standard plural has been *premiums* since the 1700s. The form *\*premia* is hopelessly pedantic—e.g.:
 
  - "Suppose that an insurance scheme is established and administered in such a way that insurance *premia* \[read *premiums*\] are not affected by riskiness of the portfolio." Philip Perry, "Regulation Q and Federal Deposit Insurance," *Am. Banker*, 2 Mar. 1983, at 4.
 

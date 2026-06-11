@@ -1,6 +1,6 @@
 # chief
 
-chief. In AmE, the comparative *chiefer* and the superlative *chiefest* are archaic—the word *chief* being considered a nongradable adjective. See adjectives (b).
+In AmE, the comparative *chiefer* and the superlative *chiefest* are archaic—the word *chief* being considered a nongradable adjective. See adjectives (b).
 
 But the superlative form still occasionally appears, especially in BrE—e.g.:
 

@@ -1,4 +1,4 @@
 # \*inclosure
 
-\*inclosure. See **enclosure**.
+See **enclosure**.
 

@@ -1,4 +1,4 @@
 # passcode
 
-passcode. See **password**.
+See **password**.
 

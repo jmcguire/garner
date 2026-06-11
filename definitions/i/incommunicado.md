@@ -1,4 +1,4 @@
 # incommunicado
 
-incommunicado. See **incognito**.
+See **incognito**.
 

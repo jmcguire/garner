@@ -1,4 +1,4 @@
 # timbal
 
-timbal. See **timpani (a)**.
+See **timpani (a)**.
 

@@ -1,7 +1,5 @@
 # Abbreviations, Essay
 
-Abbreviations.
-
 ## A. Acronyms and Initialisms
 
 Six points merit attention here.

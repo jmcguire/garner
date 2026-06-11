@@ -1,4 +1,4 @@
 # \*blamableness
 
-\*blamableness. See **blameworthiness**.
+See **blameworthiness**.
 

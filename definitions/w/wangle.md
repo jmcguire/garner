@@ -1,4 +1,4 @@
 # wangle
 
-wangle. See **wrangle**.
+See **wrangle**.
 

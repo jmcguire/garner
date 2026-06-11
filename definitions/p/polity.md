@@ -1,4 +1,4 @@
 # polity
 
-polity. See **policy**.
+See **policy**.
 

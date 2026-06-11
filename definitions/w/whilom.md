@@ -1,4 +1,4 @@
 # whilom
 
-whilom. See **erstwhile**.
+See **erstwhile**.
 

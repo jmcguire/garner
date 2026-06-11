@@ -1,4 +1,4 @@
 # nevertheless
 
-nevertheless. See **\*but nevertheless**.
+See **\*but nevertheless**.
 

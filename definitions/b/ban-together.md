@@ -1,4 +1,4 @@
 # \*ban together
 
-\*ban together. See **band together**.
+See **band together**.
 

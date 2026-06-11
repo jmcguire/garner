@@ -1,6 +1,6 @@
 # Meritage
 
-Meritage. "Some people find the word ‘Meritage' meritorious. Others find it meretricious. But most people have no idea what it means." John Kessler, "Drinkers Confused over ‘Meritage' Label," *Denver Post*, 8 June 1994, at E1. Dictionaries provide little help: as of late 2015, few major dictionaries had an entry on the term—which has an interesting history.
+"Some people find the word ‘Meritage' meritorious. Others find it meretricious. But most people have no idea what it means." John Kessler, "Drinkers Confused over ‘Meritage' Label," *Denver Post*, 8 June 1994, at E1. Dictionaries provide little help: as of late 2015, few major dictionaries had an entry on the term—which has an interesting history.
 
 In 1987, California winemakers sponsored an international contest to create an upscale term for a table wine blended from two or more Bordeaux varietals grown in the U.S. A California grocery-store wine buyer won the contest with *Meritage*, a portmanteau word formed by combining *merit* with *heritage*. The word rhymes with *heritage*; it's pronounced /**mer**-ә-tij/. Yet many wine enthusiasts mistakenly give it a Frenchified pronunciation /mer-i-**tahzh**/, which has become lamentably widespread. The term isn't a gallicism at all.
 

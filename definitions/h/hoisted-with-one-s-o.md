@@ -1,6 +1,6 @@
 # hoist(ed) with one's own petar(d)
 
-hoist(ed) with one's own petar(d). This Shakespearean phrase, meaning "ruined by one's own scheming against others," raises several editorial issues.
+This Shakespearean phrase, meaning "ruined by one's own scheming against others," raises several editorial issues.
 
 First, the actual line in *Hamlet* is *hoist with his own petar* (3.4.207). The form *petar* is an archaic variant of *petard*, meaning "an explosive device used in ancient warfare to blow open a gate or to breach a wall." So *hoist with one's own petard* literally means to blow oneself into the air with one's own bomb. In modern print sources, *petard* greatly outnumbers *petar*—in journalism by a 37:1 ratio. So almost every writer who uses the phrase updates Shakespeare by using *petard*. Or more likely, they're relying on editions of Shakespeare in which the spelling has been modernized.
 

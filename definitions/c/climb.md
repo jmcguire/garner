@@ -1,7 +1,5 @@
 # climb
 
-climb.
-
 ## A. Declension: *climb* \> *climbed* \> *climbed*
 
 The past-tense *\*clumb* or *\*clomb* and the past-participial *\*clumb* are dialectal. They sometimes occur in reported speech, especially *\*clumb*—e.g.:

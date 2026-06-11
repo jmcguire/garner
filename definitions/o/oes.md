@@ -1,4 +1,4 @@
 # -oes
 
--oes. See plurals (d).
+See plurals (d).
 

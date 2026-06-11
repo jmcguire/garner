@@ -1,4 +1,4 @@
 # televangelist
 
-televangelist. See portmanteau words.
+See portmanteau words.
 

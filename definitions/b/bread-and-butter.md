@@ -1,6 +1,6 @@
 # bread and butter
 
-bread and butter. This construction is most commonly considered a collective noun phrase calling for a singular verb—e.g.:
+This construction is most commonly considered a collective noun phrase calling for a singular verb—e.g.:
 
  - "An editor must never forget where his *bread and butter* (or cake) *comes* from." William Targ, "What Is an Editor?" in *Editors on Editing* 4, 27 (Gerald Gross ed., rev. ed. 1985).
 

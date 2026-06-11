@@ -1,4 +1,4 @@
 # salvable
 
-salvable. See **savable**.
+See **savable**.
 

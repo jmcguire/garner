@@ -1,7 +1,5 @@
 # judgment
 
-judgment.
-
 ## A. Spelling
 
 *Judgment* has traditionally been the preferred form in AmE and in British legal texts, even as far back as the 1700s. *Judgement* has long been prevalent in British nonlegal texts and was thought by H.W. Fowler to be the better form (*FMEU1* at 310). Oddly, however, BrE has always favored *prejudgment* over *\*prejudgement*, perhaps because it is mostly a legal term. (See **prejudgment.)** The same is true of *misjudgment*. Cf. **abridgment** & **acknowledgment**. See spelling (d).

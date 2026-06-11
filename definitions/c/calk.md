@@ -1,4 +1,4 @@
 # calk
 
-calk. See **caulk**.
+See **caulk**.
 

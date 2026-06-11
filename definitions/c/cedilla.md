@@ -1,4 +1,4 @@
 # Cedilla
 
-Cedilla. See diacritical marks.
+See diacritical marks.
 

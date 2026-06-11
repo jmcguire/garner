@@ -1,4 +1,4 @@
 # Jones's
 
-Jones's. See possessives (a).
+See possessives (a).
 

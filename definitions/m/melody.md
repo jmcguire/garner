@@ -1,4 +1,4 @@
 # melody
 
-melody. See **medley**.
+See **medley**.
 

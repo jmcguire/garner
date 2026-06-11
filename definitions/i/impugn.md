@@ -1,7 +1,5 @@
 # impugn
 
-impugn.
-
 ## A. And *oppugn*; *repugn*
 
 *Impugn* (= to challenge, call into question) has been the most commonly used of these three terms since the late 1600s. E.g.: "In a second ruling today, Judge Sweeney also appeared to *impugn* the church's handling of accused molesters who had been placed back in parishes after receiving therapy." Pam Belluck, "Judge Denies Church's Bid to Seal Records on Priests," *N.Y. Times*, 26 Nov. 2002, at A18.

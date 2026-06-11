@@ -1,4 +1,4 @@
 # \*nosey
 
-\*nosey. See **nosy**.
+See **nosy**.
 

@@ -1,7 +1,5 @@
 # oversight
 
-oversight.
-
 ## A. As a Noun
 
 *Oversight* = (1) an unintentional error; or (2) intentional and watchful supervision. For sense 2, *oversight* can be an unfortunate choice of word: *supervision* is preferable, or perhaps even *monitoring*. Indeed, *administrative oversight* sounds less like a responsibility than a bureaucratic botch. See contronyms.

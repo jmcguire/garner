@@ -1,6 +1,6 @@
 # no worries
 
-no worries. This Australianism, meaning "no problem" or "don't worry," appeared first in the mid-1960s. The *OED* records a singular use from Sydney in 1965: "*No worry* . . . it's amazing what a few schooners of jolly does for a bloke." The *Australian National Dictionary* and the *OED* record the plural *no worries* in a 1967 book by J. Hibberd entitled *White with Wire Wheels*: " ‘Well. How was she?' . . . ‘Who, Sue? No worries.' " Other uses are attested from the late 1960s to the mid-1980s.
+This Australianism, meaning "no problem" or "don't worry," appeared first in the mid-1960s. The *OED* records a singular use from Sydney in 1965: "*No worry* . . . it's amazing what a few schooners of jolly does for a bloke." The *Australian National Dictionary* and the *OED* record the plural *no worries* in a 1967 book by J. Hibberd entitled *White with Wire Wheels*: " ‘Well. How was she?' . . . ‘Who, Sue? No worries.' " Other uses are attested from the late 1960s to the mid-1980s.
 
 The actor and writer Paul Hogan popularized the phrase outside Australia in his Crocodile Dundee movies (the memorable one of 1986, the less memorable sequel of 1988, and the wholly forgettable second sequel of 2001). Hogan's catchphrase was *No worries, mate*. The wide appeal of those movies made the phrase something of a vogue expression, sometimes with and sometimes without *mate* tacked on the end. In many examples, American and British writers make clear that the phrase is an Australianism—e.g.:
 

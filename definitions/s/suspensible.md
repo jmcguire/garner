@@ -1,4 +1,4 @@
 # \*suspensible
 
-\*suspensible. See **suspendable**.
+See **suspendable**.
 

@@ -1,4 +1,4 @@
 # degree
 
-degree. See **diploma**.
+See **diploma**.
 

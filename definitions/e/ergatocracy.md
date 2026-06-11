@@ -1,4 +1,4 @@
 # ergatocracy
 
-ergatocracy. See governmental forms.
+See governmental forms.
 

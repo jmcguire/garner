@@ -1,4 +1,4 @@
 # Emotive Conjugations
 
-Emotive Conjugations. See spin conjugations.
+See spin conjugations.
 

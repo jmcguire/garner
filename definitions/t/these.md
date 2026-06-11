@@ -1,4 +1,4 @@
 # these
 
-these. See pointing words.
+See pointing words.
 

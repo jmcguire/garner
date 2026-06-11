@@ -1,7 +1,5 @@
 # commute
 
-commute.
-
 ## A. And *commutate*
 
 *Commute* = (1) to travel back and forth regularly, esp. over a significant distance and esp. to one's job; (2) to replace (a punishment or penalty) with one of less severity; or (3) to change (one kind of payment) into or for another. *Commutate* is a technical term meaning "to regulate the direction of (an electric current)."

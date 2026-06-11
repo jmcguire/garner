@@ -1,4 +1,4 @@
 # envy
 
-envy. See **jealousy** & **enviable**.
+See **jealousy** & **enviable**.
 

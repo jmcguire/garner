@@ -1,4 +1,4 @@
 # domesticated
 
-domesticated. See **domestic**.
+See **domestic**.
 

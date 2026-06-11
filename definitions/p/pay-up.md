@@ -1,4 +1,4 @@
 # pay up
 
-pay up. See **pay (b)**.
+See **pay (b)**.
 

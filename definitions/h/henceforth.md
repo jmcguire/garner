@@ -1,7 +1,5 @@
 # henceforth
 
-henceforth.
-
 ## A. And *\*henceforward.*
 
 The first is an archaism; the second is a needless variant of it.

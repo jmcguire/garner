@@ -1,6 +1,6 @@
 # Sentence Ends, Essay
 
-Sentence Ends. Rhetoricians have long emphasized that the punch word in a sentence should come at the end:
+Rhetoricians have long emphasized that the punch word in a sentence should come at the end:
 
  - **1955:** "The most emphatic place in a clause or sentence is the end. This is the climax; and, during the momentary pause that follows, that last word continues, as it were, to reverberate in the reader's mind. It has, in fact, the last word. One should therefore think twice about what one puts at a sentence-end." F.L. Lucas, *Style* 39–40 (1955).
 

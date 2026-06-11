@@ -1,4 +1,4 @@
 # \*submittable
 
-\*submittable. See **submissible**.
+See **submissible**.
 

@@ -1,4 +1,4 @@
 # podia
 
-podia. See **podium**.
+See **podium**.
 

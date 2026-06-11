@@ -1,4 +1,4 @@
 # sup
 
-sup. See **wassup**.
+See **wassup**.
 

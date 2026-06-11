@@ -1,7 +1,5 @@
 # exceptional
 
-exceptional.
-
 ## A. And *exceptionable*
 
 *Exceptional* = out of the ordinary; uncommon; rare; superior. *Exceptionable* = likely to draw an objection; likely to offend someone. E.g.: "It is the same ideological insularity that found nothing terribly *exceptionable*—until the firestorm—with the racial spoils system advocated by Lani Guinier." Charles Krauthammer, "Abortion Is Legal, Not Moral," *Cincinnati Enquirer*, 13 Feb. 1995, at A10.

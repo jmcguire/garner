@@ -1,4 +1,4 @@
 # \*commissible
 
-\*commissible. See **committable**.
+See **committable**.
 

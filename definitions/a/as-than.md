@@ -1,4 +1,4 @@
 # as . . . than
 
-as . . . than. See **as . . . as (e)**.
+See **as . . . as (e)**.
 

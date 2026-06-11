@@ -1,4 +1,4 @@
 # wife
 
-wife. Pl. *wives*. See plurals (c).
+Pl. *wives*. See plurals (c).
 

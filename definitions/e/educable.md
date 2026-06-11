@@ -1,7 +1,5 @@
 # educable
 
-educable.
-
 ## A. And *educible*
 
 *Educable* = capable of being educated. *Educible* = capable of being elicited (i.e., educed). See **educational** & **educe**.

@@ -1,4 +1,4 @@
 # taxpayer
 
-taxpayer. One word.
+One word.
 

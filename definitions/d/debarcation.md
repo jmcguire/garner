@@ -1,4 +1,4 @@
 # \*debarcation
 
-\*debarcation. See **debarkation**.
+See **debarkation**.
 

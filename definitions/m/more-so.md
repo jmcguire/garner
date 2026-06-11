@@ -1,4 +1,4 @@
 # more so
 
-more so. Two words, not one.
+Two words, not one.
 

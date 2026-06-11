@@ -1,4 +1,4 @@
 # widely regarded
 
-widely regarded. See **regard (b)**.
+See **regard (b)**.
 

@@ -1,4 +1,4 @@
 # when and if
 
-when and if. See **if and when (b)**.
+See **if and when (b)**.
 

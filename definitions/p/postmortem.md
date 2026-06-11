@@ -1,4 +1,4 @@
 # postmortem
 
-postmortem. See **autopsy**.
+See **autopsy**.
 

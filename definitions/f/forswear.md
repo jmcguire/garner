@@ -1,7 +1,5 @@
 # forswear
 
-forswear.
-
 ## A. Inflected Forms: *forswear* \> *forswore* \> *forsworn*
 
 See irregular verbs.

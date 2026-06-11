@@ -1,4 +1,4 @@
 # \*spritely
 
-\*spritely. See **sprightly**.
+See **sprightly**.
 

@@ -1,4 +1,4 @@
 # fuze
 
-fuze. See **fuse**.
+See **fuse**.
 

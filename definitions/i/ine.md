@@ -1,4 +1,4 @@
 # -ine
 
--ine. See -ile.
+See -ile.
 

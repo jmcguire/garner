@@ -1,4 +1,4 @@
 # dowry
 
-dowry. See **dower**.
+See **dower**.
 

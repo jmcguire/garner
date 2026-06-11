@@ -1,6 +1,6 @@
 # Subordination and Coordination, Essay
 
-Subordination and Coordination. People like being coordinated; they dislike being subordinated. So the terminology in this entry is a little counterintuitive because in writing subordination is good, and coordination often less so.
+People like being coordinated; they dislike being subordinated. So the terminology in this entry is a little counterintuitive because in writing subordination is good, and coordination often less so.
 
 An elementary point of composition—one that really could be called "advanced," given how many writers overlook it—is the importance of using subordinate sentence structures as opposed to coordinate ones. It's a matter of integrating instead of stringing together. Coordination involves creating compound sentences: two independent clauses of equal importance joined by a conjunction such as *and.* E.g.:
 

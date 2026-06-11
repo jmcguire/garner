@@ -1,4 +1,4 @@
 # Euphony
 
-Euphony. See sound of prose.
+See sound of prose.
 

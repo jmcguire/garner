@@ -1,4 +1,4 @@
 # deduct
 
-deduct. See **deduce (a)**.
+See **deduce (a)**.
 

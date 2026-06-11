@@ -1,7 +1,5 @@
 # dare
 
-dare.
-
 ## A. Generally
 
 It's been called "one of the subtlest and most variegated verbs in the language" (Robert W. Burchfield, *Points of View* 123 \[1992\]) and also "one of the trickiest" (William Safire, "Love That Dare," *N.Y. Times*, 17 May 1987, § 6, at 10). The subtleties arise because *dare* is both an ordinary verb \<he dares you to pick up the snake\> and a modal verb \<he dare not do it himself\>. And the form it takes (*dares* vs. *dare* in those examples) changes with that grammatical function.

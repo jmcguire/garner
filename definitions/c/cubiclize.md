@@ -1,4 +1,4 @@
 # cubiclize
 
-cubiclize. See -ize.
+See -ize.
 

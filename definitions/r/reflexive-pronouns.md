@@ -1,4 +1,4 @@
 # Reflexive Pronouns
 
-Reflexive Pronouns. See pronouns (e).
+See pronouns (e).
 

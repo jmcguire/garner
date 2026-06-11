@@ -1,4 +1,4 @@
 # ebullit
 
-ebullit. See back-formations.
+See back-formations.
 

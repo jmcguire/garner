@@ -1,4 +1,4 @@
 # \*tyne
 
-\*tyne. See **tine**.
+See **tine**.
 

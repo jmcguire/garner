@@ -1,7 +1,5 @@
 # rescission
 
-rescission.
-
 ## A. And *\*recision*; *\*recission*; *\*rescision*
 
 For "an act of rescinding, annulling, vacating, or canceling," *rescission* is the standard and the etymologically preferable spelling. It has been vastly predominant since about 1800.

@@ -1,6 +1,6 @@
 # manner born, to the
 
-manner born, to the. This Shakespearean phrase—meaning "accustomed from birth to a certain habit or custom"—first occurred in *Hamlet* (1603), when the melancholy protagonist bemoans the king's drunken revelry: "Though I am a native here / And to the manner born, it is a custom / More honored in the breach than the observance." 1.4.16–18. The phrase is sometimes misunderstood as *\*to the manor born*. This confused view of the text was persuasively refuted by the Evanses in 1957 (see *DCAU* at 290).
+This Shakespearean phrase—meaning "accustomed from birth to a certain habit or custom"—first occurred in *Hamlet* (1603), when the melancholy protagonist bemoans the king's drunken revelry: "Though I am a native here / And to the manner born, it is a custom / More honored in the breach than the observance." 1.4.16–18. The phrase is sometimes misunderstood as *\*to the manor born*. This confused view of the text was persuasively refuted by the Evanses in 1957 (see *DCAU* at 290).
 
 But confusion in the popular mind was aggravated by a clever pun in the title of the BBC television series *To the Manor Born* (1979–1981), which ran frequently on American PBS stations. The actress Penelope Keith played an heiress who, having lived her entire life on an English manor that has been in the family for generations, is forced, through financial straits, to sell the manor to a supermarket magnate. After she moves into a smaller house on the manor, the heiress and the businessman gradually fall in love and eventually marry.
 

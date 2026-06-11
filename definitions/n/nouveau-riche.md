@@ -1,7 +1,5 @@
 # nouveau riche
 
-nouveau riche.
-
 ## A. Generally
 
 *Nouveau riche* (= \[1\] a newly rich person; or \[2\] newly rich people collectively) is sometimes misspelled *\*nouveau rich*—e.g.: "It will be for Deng's heirs to deal with problems such as the widening gap between China's *nouveau rich* \[read *nouveau riche*\] and rural poor." James Cox, "Deng Xiaoping: 1904–1997," *USA Today*, 20 Feb. 1997, at A1.

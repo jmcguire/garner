@@ -1,7 +1,5 @@
 # regard
 
-regard.
-
 ## A. As a Noun in *with regard to* and *in regard to*
 
 In these phrases, the singular noun is standard. The plural form (as in *\*with regards to* or *\*in regards to*) is incorrect—e.g.:

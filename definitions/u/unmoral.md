@@ -1,4 +1,4 @@
 # unmoral
 
-unmoral. See **immoral**.
+See **immoral**.
 

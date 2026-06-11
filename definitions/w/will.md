@@ -1,4 +1,4 @@
 # will
 
-will. See **shall**.
+See **shall**.
 

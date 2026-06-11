@@ -1,7 +1,5 @@
 # neither . . . nor
 
-neither . . . nor.
-
 ## A. Singular or Plural Verb
 
 This construction takes a singular verb when the alternatives are singular or when the second alternative is singular—e.g.:

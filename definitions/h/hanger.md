@@ -1,4 +1,4 @@
 # hanger
 
-hanger. See **hangar**.
+See **hangar**.
 

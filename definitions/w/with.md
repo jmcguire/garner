@@ -1,7 +1,5 @@
 # with
 
-with.
-
 ## A. As a Quasi-Conjunction
 
 *With* is increasingly being used as a quasi-conjunction to introduce a tag-on idea at the end of a sentence. The sense is close to *and* \<John went to Houston and Sarah went to Minneapolis, with me going to Chicago\>. Avoid this sloppy construction—e.g.:

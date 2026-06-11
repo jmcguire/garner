@@ -1,7 +1,5 @@
 # temperature
 
-temperature.
-
 ## A. Pronunciation
 
 *Temperature* is pronounced /**tem**-pә-rә-chәr/ or /**tem**-prә-chәr/, not /**tem**-pә-rә-tyʊr/, which is pedantic, or /**tem**-pә-chәr/, which is slovenly. A combination of the precious and the slovenly, /**tem**-pә-tyʊr/ is ridiculously affected.

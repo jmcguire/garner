@@ -1,4 +1,4 @@
 # optometrist
 
-optometrist. See **ophthalmologist**.
+See **ophthalmologist**.
 

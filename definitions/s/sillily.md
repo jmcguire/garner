@@ -1,4 +1,4 @@
 # sillily
 
-sillily. See adverbs (c).
+See adverbs (c).
 

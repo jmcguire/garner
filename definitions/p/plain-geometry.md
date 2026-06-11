@@ -1,4 +1,4 @@
 # \*plain geometry
 
-\*plain geometry. See **plane geometry**.
+See **plane geometry**.
 

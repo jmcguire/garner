@@ -1,4 +1,4 @@
 # Capitol Hill
 
-Capitol Hill. See **capital**.
+See **capital**.
 

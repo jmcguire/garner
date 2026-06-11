@@ -1,4 +1,4 @@
 # indicable
 
-indicable. See -able (d) & -atable.
+See -able (d) & -atable.
 

@@ -1,4 +1,4 @@
 # \*enure
 
-\*enure. See **inure**.
+See **inure**.
 

@@ -1,4 +1,4 @@
 # \*deaccelerate
 
-\*deaccelerate. See **decelerate**.
+See **decelerate**.
 

@@ -1,4 +1,4 @@
 # disassemble
 
-disassemble. See **dissemble**.
+See **dissemble**.
 

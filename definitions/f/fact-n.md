@@ -1,7 +1,5 @@
 # fact, n
 
-fact, n.
-
 ## A. *Fact of the matter*
 
 This flotsam phrase occasionally serves well in speech—to fill up space while the speaker thinks of what to say next—but it generally has no justification in writing. And in speech it can become a verbal tic that annoys listeners.

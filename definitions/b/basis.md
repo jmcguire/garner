@@ -1,7 +1,5 @@
 # basis
 
-basis.
-
 ## A. In Wordy Constructions
 
 The word *basis* often signals verbosity in adverbial constructions such as *on a daily basis* and *on a regular basis*, where a simple adverb would serve better—e.g.:

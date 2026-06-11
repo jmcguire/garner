@@ -1,4 +1,4 @@
 # \*phrenetic
 
-\*phrenetic. See **frenetic**.
+See **frenetic**.
 

@@ -1,4 +1,4 @@
 # remember
 
-remember. See **recollect (a)**.
+See **recollect (a)**.
 

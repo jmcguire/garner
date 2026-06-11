@@ -1,4 +1,4 @@
 # aeon
 
-aeon. See **eon**.
+See **eon**.
 

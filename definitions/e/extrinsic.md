@@ -1,4 +1,4 @@
 # extrinsic
 
-extrinsic. See **extraneous**.
+See **extraneous**.
 

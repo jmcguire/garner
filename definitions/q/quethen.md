@@ -1,4 +1,4 @@
 # \*quethen
 
-\*quethen. See **quoth**.
+See **quoth**.
 

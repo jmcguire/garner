@@ -1,4 +1,4 @@
 # renounce
 
-renounce. See **denounce**.
+See **denounce**.
 

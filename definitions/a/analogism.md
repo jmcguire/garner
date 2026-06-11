@@ -1,4 +1,4 @@
 # analogism
 
-analogism. See **analogy**.
+See **analogy**.
 

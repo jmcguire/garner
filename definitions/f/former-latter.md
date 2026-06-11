@@ -1,7 +1,5 @@
 # former; latter
 
-former; latter.
-
 ## A. Application
 
 Often it's best to abstain from these words altogether—unless, that is, one's task is to differentiate thousands of word pairs. (A few harmless drudges actually undertake such tasks.) But if *former* and *latter* are to be used, they should apply only to a series of two. The *former* is the first of two, the *latter* the second of two. In contexts with more than two elements, *first* should be used rather than *former*, *last* rather than *latter*.

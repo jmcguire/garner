@@ -1,4 +1,4 @@
 # \*includable
 
-\*includable. See **includible**.
+See **includible**.
 

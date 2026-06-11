@@ -1,4 +1,4 @@
 # pallet
 
-pallet. See **palette**.
+See **palette**.
 

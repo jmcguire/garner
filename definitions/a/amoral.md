@@ -1,4 +1,4 @@
 # amoral
 
-amoral. See **immoral**.
+See **immoral**.
 

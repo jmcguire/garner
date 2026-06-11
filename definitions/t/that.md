@@ -1,7 +1,5 @@
 # that
 
-that.
-
 ## A. And *which*
 
 You'll encounter two schools of thought on this point. First are those who don't care about any distinction between these words as relative pronouns, who think that *which* is more formal than *that*, and who point to many historical examples of copious *which*es. They say that modern usage is a muddle. Second are those who insist that both words have useful functions that ought to be separated, and who observe the distinction rigorously in their own writing. They view departures from this distinction as "mistakes."

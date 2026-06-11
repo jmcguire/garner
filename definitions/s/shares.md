@@ -1,4 +1,4 @@
 # shares
 
-shares. See **stock**.
+See **stock**.
 

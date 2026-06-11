@@ -1,4 +1,4 @@
 # \*renunciable
 
-\*renunciable. See **renounceable**.
+See **renounceable**.
 

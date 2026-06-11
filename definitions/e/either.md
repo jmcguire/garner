@@ -1,7 +1,5 @@
 # either
 
-either.
-
 ## A. Pronunciation
 
 The preferred pronunciation in AmE is /**ee**-thәr/, not /**ī**-thәr/. This has long been so. A 19th-century linguist criticized the *eye* pronunciation, calling the *ee* pronunciation "better-supported and more analogical." William Dwight Whitney, *Language and the Study of Language* 43 (5th ed. 1874). Still, /**ī**-thәr/ is widely heard in BrE, and it remains common (though arguably pretentious) in AmE. Cf. **neither (a)**.

@@ -1,4 +1,4 @@
 # \*hone in
 
-\*hone in. See **home in**.
+See **home in**.
 

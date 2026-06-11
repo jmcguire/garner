@@ -1,7 +1,5 @@
 # as to
 
-as to.
-
 ## A. Defensible Uses
 
 First, it must be said that *as to* is an all-purpose preposition to be avoided whenever a more specific preposition will do. But *as to* isn't always indefensible. The phrase is most justifiable when introducing something previously mentioned only cursorily: "*As to* concerns the fair might lose on-track business if it offered its signal to the OTBs, \[Dun said\]: ‘I figured we were going to lose the handle either way.' " Jay Burns, "Farmington Takes Step Forward, Using OTB for New Revenue," *Portland Press Herald*, 7 Sept. 1997, at D8. In beginning sentences this way, *as to* is equivalent to the more colloquial *as for*. In effect, the phrase is a passable shorthand form of *regarding*, *with regard to*, or *on the question of*.

@@ -1,4 +1,4 @@
 # persecute
 
-persecute. See **prosecute**.
+See **prosecute**.
 

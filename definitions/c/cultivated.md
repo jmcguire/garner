@@ -1,4 +1,4 @@
 # cultivated
 
-cultivated. See **cultured**.
+See **cultured**.
 

@@ -1,4 +1,4 @@
 # \*premiss
 
-\*premiss. See **premise**.
+See **premise**.
 

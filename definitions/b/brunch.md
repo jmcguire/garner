@@ -1,4 +1,4 @@
 # brunch
 
-brunch. See portmanteau words.
+See portmanteau words.
 

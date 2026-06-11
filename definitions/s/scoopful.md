@@ -1,4 +1,4 @@
 # scoopful
 
-scoopful. Pl. *scoopfuls*. See plurals (g).
+Pl. *scoopfuls*. See plurals (g).
 

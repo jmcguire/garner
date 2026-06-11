@@ -1,6 +1,6 @@
 # vale of tears
 
-vale of tears. In this age-old idiom, *vale* means "world"—and the full phrase means "this world of struggles and difficulties." But since the early 1800s, writers have sometimes mistakenly spelled it *\*veil of tears*—e.g.:
+In this age-old idiom, *vale* means "world"—and the full phrase means "this world of struggles and difficulties." But since the early 1800s, writers have sometimes mistakenly spelled it *\*veil of tears*—e.g.:
 
  - "Edwin C. Daly left this *veil* \[read *vale*\] of tears on Monday (April 15, 1996) at his home in Tamarac, FL." "Edwin C. Daly" (obit.), *Hartford Courant*, 30 Apr. 1996, at B8.
 

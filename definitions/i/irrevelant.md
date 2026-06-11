@@ -1,4 +1,4 @@
 # \*irrevelant
 
-\*irrevelant. See **irrelevant**.
+See **irrelevant**.
 

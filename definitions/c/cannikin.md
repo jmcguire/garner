@@ -1,4 +1,4 @@
 # cannikin
 
-cannikin. See **canister**.
+See **canister**.
 

@@ -1,4 +1,4 @@
 # it seems
 
-it seems. See fudge words.
+See fudge words.
 

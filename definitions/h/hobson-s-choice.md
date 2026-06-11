@@ -1,7 +1,5 @@
 # Hobson's choice
 
-Hobson's choice.
-
 ## A. Generally
 
 This ever-spreading catchphrase has loosened its etymological tether. Tradition has it that Thomas Hobson (1549–1631), a hostler in Cambridge, England, always gave his customers only one choice among his horses: whichever one was closest to the door. Hence, in literary usage, a *Hobson's choice* came to denote no choice at all—either taking what is offered or taking nothing.

@@ -1,4 +1,4 @@
 # disposition
 
-disposition. See **disposal**.
+See **disposal**.
 

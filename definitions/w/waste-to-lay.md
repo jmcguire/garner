@@ -1,4 +1,4 @@
 # waste, to lay
 
-waste, to lay. See **lay waste**.
+See **lay waste**.
 

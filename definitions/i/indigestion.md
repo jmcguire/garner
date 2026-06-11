@@ -1,4 +1,4 @@
 # indigestion
 
-indigestion. For the pronunciation, see **digestion**.
+For the pronunciation, see **digestion**.
 

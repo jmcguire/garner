@@ -1,4 +1,4 @@
 # manned flights
 
-manned flights. See sexism (c).
+See sexism (c).
 

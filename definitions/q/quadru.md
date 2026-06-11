@@ -1,4 +1,4 @@
 # quadru-
 
-quadru-. See quadri-.
+See quadri-.
 

@@ -1,4 +1,4 @@
 # breathe
 
-breathe. See **breath**.
+See **breath**.
 

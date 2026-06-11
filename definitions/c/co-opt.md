@@ -1,6 +1,6 @@
 # co-opt
 
-co-opt. This word, from the Latin *cooptare* "to choose or elect," has an obligatory hyphen because without it a miscue almost certainly takes place. *Coöpt* is an old-fashioned variant. The word means (1) "to recruit (someone) as a member," (2) "to gain the allegiance of (an opponent or potential opponent)," or (3) "to absorb or assimilate; to make use of."
+This word, from the Latin *cooptare* "to choose or elect," has an obligatory hyphen because without it a miscue almost certainly takes place. *Coöpt* is an old-fashioned variant. The word means (1) "to recruit (someone) as a member," (2) "to gain the allegiance of (an opponent or potential opponent)," or (3) "to absorb or assimilate; to make use of."
 
 *Co-opt* is sometimes wrongly written *co-op* (which is properly only a shortening of *cooperative*): " ‘The danger here is clear—people trying to *co-op* \[read *co-opt*\] the campaign finance reform issue and pass off fake reforms as real.' " Alison Mitchell, "McCain Returns to an Uneasy Senate," *N.Y. Times*, 20 Mar. 2000, at A19 (quoting Fred Wertheimer). See **co-op**.
 

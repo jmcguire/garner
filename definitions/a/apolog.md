@@ -1,4 +1,4 @@
 # \*apolog
 
-\*apolog. See **apologue**.
+See **apologue**.
 

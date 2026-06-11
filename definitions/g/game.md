@@ -1,4 +1,4 @@
 # game
 
-game. See **zero-sum game**.
+See **zero-sum game**.
 

@@ -1,4 +1,4 @@
 # -(c)ule
 
--(c)ule. See diminutives (b).
+See diminutives (b).
 

@@ -1,6 +1,6 @@
 # loathsome
 
-loathsome. So spelled, even though the first syllable sounds like the verb rather than the adjective (see **loathe**). Perhaps as a result of the sound association, many writers misspell the word *\*loathesome*—e.g.:
+So spelled, even though the first syllable sounds like the verb rather than the adjective (see **loathe**). Perhaps as a result of the sound association, many writers misspell the word *\*loathesome*—e.g.:
 
  - "An array of *loathesome* \[read *loathsome*\] characters drifts through this anthropology of the urban undead." Chris Kidler, "Tama Janowitz's ‘A Certain Age,' " *Baltimore Sun*, 8 Aug. 1999, at F10.
 

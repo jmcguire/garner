@@ -1,4 +1,4 @@
 # Your Excellency
 
-Your Excellency. See hierarchical expressions.
+See hierarchical expressions.
 

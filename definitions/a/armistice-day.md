@@ -1,4 +1,4 @@
 # Armistice Day
 
-Armistice Day. See **Veterans Day**.
+See **Veterans Day**.
 

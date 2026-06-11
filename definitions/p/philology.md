@@ -1,4 +1,4 @@
 # philology
 
-philology. See **linguistics**.
+See **linguistics**.
 

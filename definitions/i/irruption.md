@@ -1,4 +1,4 @@
 # irruption
 
-irruption. See **eruption**.
+See **eruption**.
 

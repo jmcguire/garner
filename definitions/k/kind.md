@@ -1,4 +1,4 @@
 # kind
 
-kind. See **class** & **type of**.
+See **class** & **type of**.
 

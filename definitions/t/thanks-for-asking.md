@@ -1,4 +1,4 @@
 # Thanks for asking
 
-Thanks for asking. See phatic language.
+See phatic language.
 

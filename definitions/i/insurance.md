@@ -1,7 +1,5 @@
 # insurance
 
-insurance.
-
 ## A. And *assurance*
 
 *Insurance* answers to both *insure* and *ensure* (the spelling *\*ensurance* now being obsolete). (See **assure**.) Usually, *insurance* refers to indemnification against loss (from the verb *insure*). In this legal sense, insurance is of two kinds. One is insurance against accidents: buildings burning, ships sinking, cars colliding, bodies being injured, and the like. The other—in BrE frequently called *assurance*—is provision for designated people on the occurrence of death: *life insurance* (AmE) or *life assurance* (BrE).

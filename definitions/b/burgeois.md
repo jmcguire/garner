@@ -1,4 +1,4 @@
 # \*burgeois
 
-\*burgeois. See **bourgeois**.
+See **bourgeois**.
 

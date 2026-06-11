@@ -1,4 +1,4 @@
 # \*tooken
 
-\*tooken. See **take (a)**.
+See **take (a)**.
 

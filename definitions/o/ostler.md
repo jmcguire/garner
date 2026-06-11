@@ -1,4 +1,4 @@
 # ostler
 
-ostler. See **hostler**.
+See **hostler**.
 

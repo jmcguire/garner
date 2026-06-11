@@ -1,4 +1,4 @@
 # appraisement
 
-appraisement. See **appraisal**.
+See **appraisal**.
 

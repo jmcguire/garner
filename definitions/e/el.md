@@ -1,4 +1,4 @@
 # -el
 
--el. See diminutives (c).
+See diminutives (c).
 

@@ -1,4 +1,4 @@
 # \*inflatus
 
-\*inflatus. See **afflatus**.
+See **afflatus**.
 

@@ -1,4 +1,4 @@
 # lightsaber
 
-lightsaber. See **saber**.
+See **saber**.
 

@@ -1,4 +1,4 @@
 # explain
 
-explain. See **explicate**.
+See **explicate**.
 

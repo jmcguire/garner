@@ -1,6 +1,6 @@
 # odds
 
-odds. *Odds are* is a familiar locution. But when *odds* is separated from the verb, a mistake in subject–verb agreement often appears—e.g.:
+*Odds are* is a familiar locution. But when *odds* is separated from the verb, a mistake in subject–verb agreement often appears—e.g.:
 
  - "The *odds* that a woman might have more than one *is* \[read *are*\] extremely low." Sandra Coney, "Full Cancer Evaluation—Now," *Sunday Star-Times* (N.Z.), 16 May 1999, at C4.
 

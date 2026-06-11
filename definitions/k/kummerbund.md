@@ -1,4 +1,4 @@
 # \*kummerbund
 
-\*kummerbund. See **cummerbund**.
+See **cummerbund**.
 

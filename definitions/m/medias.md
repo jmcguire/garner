@@ -1,4 +1,4 @@
 # \*medias
 
-\*medias. See **media**.
+See **media**.
 

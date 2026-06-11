@@ -1,4 +1,4 @@
 # billiard
 
-billiard. See **billion**.
+See **billion**.
 

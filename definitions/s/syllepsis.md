@@ -1,4 +1,4 @@
 # Syllepsis
 
-Syllepsis. See zeugma.
+See zeugma.
 

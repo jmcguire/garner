@@ -1,7 +1,5 @@
 # same
 
-same.
-
 ## A. As a Pronoun
 
 This usage, commonly exemplified in the phrase *acknowledging same*, is a primary symptom of legalese and commercialese. In 1926, when the usage was at its height, H.W. Fowler wrote trenchantly that it "is avoided by all who have any skill in writing" and that those who use it seem bent on giving the worst possible impression of themselves (*FMEU1* at 511). The words *it*, *them*, and the noun itself (e.g., *the envelope*) are words that come naturally to us all. *Same* or *the same* is an unnatural expression:

@@ -1,4 +1,4 @@
 # allocution
 
-allocution. See **elocution**.
+See **elocution**.
 

@@ -1,4 +1,4 @@
 # choate
 
-choate. See **inchoate (b)**.
+See **inchoate (b)**.
 

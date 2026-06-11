@@ -1,4 +1,4 @@
 # terminal
 
-terminal. See **terminus**.
+See **terminus**.
 

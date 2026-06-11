@@ -1,4 +1,4 @@
 # Alaska Native
 
-Alaska Native. See **Native American**.
+See **Native American**.
 

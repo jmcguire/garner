@@ -1,4 +1,4 @@
 # directly antithetical
 
-directly antithetical. See **antithetical**.
+See **antithetical**.
 

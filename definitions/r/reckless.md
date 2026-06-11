@@ -1,6 +1,6 @@
 # reckless
 
-reckless. So spelled. In a fairly gross error traceable to the early 1800s, the word is frequently misspelled *\*wreckless*, which appears to denote pretty much the opposite of what it's supposed to mean. As literacy in the higher sense has become ever shakier, this error has become disturbingly common—e.g.:
+So spelled. In a fairly gross error traceable to the early 1800s, the word is frequently misspelled *\*wreckless*, which appears to denote pretty much the opposite of what it's supposed to mean. As literacy in the higher sense has become ever shakier, this error has become disturbingly common—e.g.:
 
  - "It begins with the cast making mindless revelry; the quality of movement is disturbingly loose and *wreckless* \[read *reckless*\]." Nancy Goldner, " ‘Speaking in Tongues' World Premiere at the Annenberg," *Phil. Inquirer*, 11 Nov. 1988, at 15.
 

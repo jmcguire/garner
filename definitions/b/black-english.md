@@ -1,4 +1,4 @@
 # Black English
 
-Black English. See **African-American English**.
+See **African-American English**.
 

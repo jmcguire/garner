@@ -1,4 +1,4 @@
 # Cataphora
 
-Cataphora. See anticipatory reference.
+See anticipatory reference.
 

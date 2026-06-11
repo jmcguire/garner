@@ -1,4 +1,4 @@
 # differing
 
-differing. See **different (d)**.
+See **different (d)**.
 

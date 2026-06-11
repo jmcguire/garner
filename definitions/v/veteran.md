@@ -1,6 +1,6 @@
 # veteran
 
-veteran. Once a veteran, always a veteran. Hence *\*former veteran*, a redundancy that spread during the mid-20th century, is erroneous—e.g.:
+Once a veteran, always a veteran. Hence *\*former veteran*, a redundancy that spread during the mid-20th century, is erroneous—e.g.:
 
  - "Many *former veterans* \[read *veterans*\] now work in the private sector and would have good reason to fear any disclosure of their possible exposure to Agent Orange." Shira A. Scheindlin, "Discovering the Discoverable: A Bird's Eye View of Discovery in a Complex Multi-District Class Action Litigation," 52 *Brook. L. Rev.* 397, 421 n.94 (1986).
 

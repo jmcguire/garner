@@ -1,4 +1,4 @@
 # last name
 
-last name. See names (d).
+See names (d).
 

@@ -1,4 +1,4 @@
 # friar
 
-friar. See **fryer**.
+See **fryer**.
 

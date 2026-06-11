@@ -1,7 +1,5 @@
 # remorselessly
 
-remorselessly.
-
 ## A. And *unremorsefully*
 
 These two terms are essentially equivalent. *Remorselessly* is far more common and somewhat more pejorative.

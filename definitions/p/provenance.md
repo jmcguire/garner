@@ -1,7 +1,5 @@
 # provenance
 
-provenance.
-
 ## A. And *provenience*
 
 Both are formal words for *origin* or *source*. *Provenance* (/**prov**-ә-nints/ or /-nәnts/) is the more usual word throughout the English-speaking world, usually in reference to art, antiques, artifacts, and other fields in which proof of authenticity is an issue. (Pronouncing it as a gallicism, with a nasally stressed ending, can justifiably be called pretentious.) *Provenience* /prә-**vee**-nyәn\[t\]s/ is a chiefly AmE variant (rarely used).

@@ -1,4 +1,4 @@
 # terminate
 
-terminate. See **fire**.
+See **fire**.
 

@@ -1,4 +1,4 @@
 # Oh
 
-Oh. See **O**.
+See **O**.
 

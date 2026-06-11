@@ -1,4 +1,4 @@
 # \*crosier
 
-\*crosier. See **crozier**.
+See **crozier**.
 

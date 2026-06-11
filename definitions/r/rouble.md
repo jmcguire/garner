@@ -1,4 +1,4 @@
 # rouble
 
-rouble. See **ruble**.
+See **ruble**.
 

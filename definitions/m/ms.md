@@ -1,4 +1,4 @@
 # ms
 
-ms. See **manuscript**.
+See **manuscript**.
 

@@ -1,4 +1,4 @@
 # \*educatory
 
-\*educatory. See **educational**.
+See **educational**.
 

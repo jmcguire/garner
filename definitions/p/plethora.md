@@ -1,6 +1,6 @@
 # plethora
 
-plethora. According to the *OED2* (1988) and most other dictionaries, this word refers (and has always referred) to an overabundance, an overfullness, or an excess. The phrase *a plethora of* is essentially an ornate equivalent of *too many*—e.g.: "Our electoral politics now is beset with *a plethora of* \[read *too many*\] players and a confusing clutter of messages." Steven E. Schier, "From Melting Pot to Centrifuge," *Brookings Rev.*, 1 Jan. 2002, at 16. But sometimes, when not preceded by the indefinite article, the word is genuinely useful—e.g.:
+According to the *OED2* (1988) and most other dictionaries, this word refers (and has always referred) to an overabundance, an overfullness, or an excess. The phrase *a plethora of* is essentially an ornate equivalent of *too many*—e.g.: "Our electoral politics now is beset with *a plethora of* \[read *too many*\] players and a confusing clutter of messages." Steven E. Schier, "From Melting Pot to Centrifuge," *Brookings Rev.*, 1 Jan. 2002, at 16. But sometimes, when not preceded by the indefinite article, the word is genuinely useful—e.g.:
 
  - "Critics say the *plethora* of scrip circulating in Argentina risks running out of control." Matt Moffett & Michelle Wallin, "Investors Question Argentine Currency Proposal," *Wall Street J.*, 26 Dec. 2001, at A6.
 

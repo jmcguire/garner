@@ -1,4 +1,4 @@
 # glumpy
 
-glumpy. See portmanteau words.
+See portmanteau words.
 

@@ -1,7 +1,5 @@
 # prejudicial
 
-prejudicial.
-
 ## A. And *prejudiced.*
 
 *Prejudicial* (= tending to injure; harmful) applies to things and events; *prejudiced* (= harboring prejudices) applies to people. The meaning of a sentence can frequently be made clearer by using *harmful* in place of *prejudicial*.

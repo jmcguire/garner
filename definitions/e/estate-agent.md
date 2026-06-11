@@ -1,4 +1,4 @@
 # estate agent
 
-estate agent. See **realtor**.
+See **realtor**.
 

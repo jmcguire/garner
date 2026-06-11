@@ -1,7 +1,5 @@
 # sow, vb
 
-sow, vb.
-
 ## A. Inflected Forms: *sow* \> *sowed* \> *sown*
 
 In the past participle, *sowed* is a variant. In modern print sources, *sown* strangely predominates as the standard past participle. See irregular verbs.

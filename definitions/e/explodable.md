@@ -1,4 +1,4 @@
 # \*explodable
 
-\*explodable. See **explosible**.
+See **explosible**.
 

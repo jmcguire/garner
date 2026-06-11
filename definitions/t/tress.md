@@ -1,4 +1,4 @@
 # -tress
 
--tress. See sexism (d).
+See sexism (d).
 

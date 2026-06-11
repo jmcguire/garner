@@ -1,7 +1,5 @@
 # who; whom
 
-who; whom.
-
 ## A. Generally
 
 Edward Sapir, the philosopher of language, prophesied that "within a couple of hundred years from to-day not even the most learned jurist will be saying ‘Whom did you see?' By that time the *whom* will be as delightfully archaic as the Elizabethan *his* for *its*. No logical or historical argument will avail to save this hapless *whom*." *Language* 156–57 (1921; repr. 1949). A safer bet might be that no one will be spelling *to-day* with a hyphen. In any event, writers in the 21st century ought to understand how the words *who* and *whom* are correctly used.

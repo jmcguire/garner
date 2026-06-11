@@ -1,4 +1,4 @@
 # I'm counting on you
 
-I'm counting on you. See hierarchical expressions.
+See hierarchical expressions.
 

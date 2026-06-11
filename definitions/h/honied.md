@@ -1,4 +1,4 @@
 # \*honied
 
-\*honied. See **honeyed**.
+See **honeyed**.
 

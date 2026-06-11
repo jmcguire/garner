@@ -1,4 +1,4 @@
 # for sale
 
-for sale. See **sale**.
+See **sale**.
 

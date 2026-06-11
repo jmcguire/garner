@@ -1,6 +1,6 @@
 # seldom
 
-seldom. Because this word is an adverb as well as an adjective, the nonword *\*seldomly* is never (not merely seldom) needed—e.g.:
+Because this word is an adverb as well as an adjective, the nonword *\*seldomly* is never (not merely seldom) needed—e.g.:
 
  - "Hogan was a man so focused that he *seldomly* \[read *seldom*\] noticed what was going on around him." Jeff Babineau, "Hogan's Legacy," *Orlando Sentinel*, 3 Aug. 1997, at C4.
 

@@ -1,4 +1,4 @@
 # \*intrust
 
-\*intrust. See **entrust**.
+See **entrust**.
 

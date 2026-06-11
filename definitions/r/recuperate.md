@@ -1,4 +1,4 @@
 # recuperate
 
-recuperate. See **recoup**.
+See **recoup**.
 

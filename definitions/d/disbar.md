@@ -1,4 +1,4 @@
 # disbar
 
-disbar. See **bar**.
+See **bar**.
 

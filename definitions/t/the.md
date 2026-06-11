@@ -1,7 +1,5 @@
 # the
 
-the.
-
 ## A. Pronunciation
 
 The pronunciation rule for the definite article parallels the usage rule for the indefinite articles *a* and *an*. Before a word that starts with a vowel sound, say /thee/ \</thee/ ant\> \</thee/ elephant\>. Before a word that starts with a consonant sound, say /thә/ \</thә/ bee\> \</thә/ condor\>. There is a twist, however: when saying the word for emphasis, say /thee/ no matter what word follows \<that was /thee/ worst movie I've ever sat through\>.

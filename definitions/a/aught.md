@@ -1,7 +1,5 @@
 # aught
 
-aught.
-
 ## A. Generally
 
 *Aught* (= \[1\] anything; or \[2\] all) is an archaism in rapid decline. Today it is generally restricted to BrE, and not even particularly common there—e.g.: "For *aught* I see they adjust themselves to their stations with all proper humility." Fintan O'Toole, "Race Issue Reflects Shameful Double Standards," *Irish Times*, 30 May 1997, at 14. In legal contexts, however, the term sometimes surfaces in the phrase *for aught that appears*.

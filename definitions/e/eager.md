@@ -1,4 +1,4 @@
 # eager
 
-eager. See **anxious**.
+See **anxious**.
 

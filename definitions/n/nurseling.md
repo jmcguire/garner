@@ -1,4 +1,4 @@
 # \*nurseling
 
-\*nurseling. See **nursling**.
+See **nursling**.
 

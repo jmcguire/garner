@@ -1,4 +1,4 @@
 # opt out
 
-opt out. See **opt**.
+See **opt**.
 

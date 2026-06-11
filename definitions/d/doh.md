@@ -1,4 +1,4 @@
 # doh
 
-doh. See **do**.
+See **do**.
 

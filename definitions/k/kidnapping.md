@@ -1,7 +1,5 @@
 # kidnapping
 
-kidnapping.
-
 ## A. Spelling
 
 Spell-check programs notwithstanding, the spelling with *pp* is preferred, by convention. But the inferior spelling *\*kidnaping* occasionally appears.

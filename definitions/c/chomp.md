@@ -1,4 +1,4 @@
 # chomp
 
-chomp. See **champ**.
+See **champ**.
 

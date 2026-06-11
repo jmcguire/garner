@@ -1,4 +1,4 @@
 # \*laniard
 
-\*laniard. See **lanyard**.
+See **lanyard**.
 

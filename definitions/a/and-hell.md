@@ -1,4 +1,4 @@
 # and hell
 
-and hell. See **sure as hell**.
+See **sure as hell**.
 

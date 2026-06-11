@@ -1,4 +1,4 @@
 # durst
 
-durst. See **dare (e)**.
+See **dare (e)**.
 

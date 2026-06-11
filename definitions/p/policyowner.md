@@ -1,4 +1,4 @@
 # \*policyowner
 
-\*policyowner. See **policyholder**.
+See **policyholder**.
 

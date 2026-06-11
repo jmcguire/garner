@@ -1,4 +1,4 @@
 # scull
 
-scull. See **skull**.
+See **skull**.
 

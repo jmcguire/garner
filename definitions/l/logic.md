@@ -1,4 +1,4 @@
 # Logic
 
-Logic. See illogic.
+See illogic.
 

@@ -1,4 +1,4 @@
 # uninterested
 
-uninterested. See **disinterested**.
+See **disinterested**.
 

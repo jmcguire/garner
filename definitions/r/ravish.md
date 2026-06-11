@@ -1,4 +1,4 @@
 # ravish
 
-ravish. See **ravage**.
+See **ravage**.
 

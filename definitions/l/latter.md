@@ -1,4 +1,4 @@
 # latter
 
-latter. See **former**.
+See **former**.
 

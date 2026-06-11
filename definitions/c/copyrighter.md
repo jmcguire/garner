@@ -1,4 +1,4 @@
 # copyrighter
 
-copyrighter. See **copywriter**.
+See **copywriter**.
 

@@ -1,7 +1,5 @@
 # because
 
-because.
-
 ## A. Senses
 
 The conjunction *because* ordinarily begins a dependent clause that expresses reason, cause, or motive for whatever idea appears in the main clause. It has a well-known sense ("for the reason that" or "by reason of") and, in expressions that amount to casualisms, some senses that most dictionaries don't traditionally record. The most common of the seldom-recorded meanings is "and the evidence is that" \<it must be snowing in Chicago because the airport has been shut down for "weather-related reasons"\>. This usage contains an ellipsis: "(I deduce) p because q." E.g.:

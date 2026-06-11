@@ -1,7 +1,5 @@
 # benefit
 
-benefit.
-
 ## A. Inflections of Verb
 
 *Benefit* makes *benefited* and *benefiting* in AmE and BrE alike—not *\*benefitted* and *\*benefitting*. See spelling (c).

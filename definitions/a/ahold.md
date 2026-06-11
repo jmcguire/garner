@@ -1,6 +1,6 @@
 # ahold
 
-ahold. This noun is an AmE casualism equivalent to *hold*. It ordinarily follows the verb *get*. Though omitted from most British dictionaries, it appears in most American dictionaries and surfaces fairly often in informal contexts—e.g.:
+This noun is an AmE casualism equivalent to *hold*. It ordinarily follows the verb *get*. Though omitted from most British dictionaries, it appears in most American dictionaries and surfaces fairly often in informal contexts—e.g.:
 
  - "Brand, the Clay juvenile officer, said she isn't surprised the kids were able to get *ahold* of fireworks." Julianna Gittler & Cammi Clark, "Illegal, Dangerous, and Always Around," *Post-Standard* (Syracuse), 2 July 1998, at 13.
 

@@ -1,4 +1,4 @@
 # yaws
 
-yaws. See **frambesia**.
+See **frambesia**.
 

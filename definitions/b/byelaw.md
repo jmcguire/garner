@@ -1,4 +1,4 @@
 # byelaw
 
-byelaw. See **bylaw**.
+See **bylaw**.
 

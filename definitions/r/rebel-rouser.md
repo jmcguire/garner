@@ -1,4 +1,4 @@
 # \*rebel rouser
 
-\*rebel rouser. See **rabble-rouser**.
+See **rabble-rouser**.
 

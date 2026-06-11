@@ -1,4 +1,4 @@
 # ingraft
 
-ingraft. See **engraft**.
+See **engraft**.
 

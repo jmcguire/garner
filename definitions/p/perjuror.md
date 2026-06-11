@@ -1,4 +1,4 @@
 # \*perjuror
 
-\*perjuror. See **perjurer**.
+See **perjurer**.
 

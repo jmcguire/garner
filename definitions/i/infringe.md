@@ -1,4 +1,4 @@
 # infringe
 
-infringe. See **impinge**.
+See **impinge**.
 

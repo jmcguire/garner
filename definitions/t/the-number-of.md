@@ -1,4 +1,4 @@
 # the number of
 
-the number of. See **number (b)**.
+See **number (b)**.
 

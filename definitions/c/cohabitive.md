@@ -1,4 +1,4 @@
 # \*cohabitive
 
-\*cohabitive. See **cohabitative**.
+See **cohabitative**.
 

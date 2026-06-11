@@ -1,6 +1,6 @@
 # lens
 
-lens. So spelled—not *\*lense*. But the misspelling occurs fairly often, as something like a back-formation from the plural—e.g.:
+So spelled—not *\*lense*. But the misspelling occurs fairly often, as something like a back-formation from the plural—e.g.:
 
  - "Raunchy Lisa ‘Left Eye' Lopes—who got her nickname after wearing a condom over one *lense* \[read *lens*\] of her glasses—makes no apologies for her behavior." John Dingwall, "Latest Flame," *Daily Record* (Baltimore), 8 Feb. 1996, at 23.
 

@@ -1,4 +1,4 @@
 # \*hairlip
 
-\*hairlip. See **harelip**.
+See **harelip**.
 

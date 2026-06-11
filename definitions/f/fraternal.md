@@ -1,6 +1,6 @@
 # fraternal
 
-fraternal. This word means "brotherly," with one exception: twins that develop from separate ova are *fraternal* regardless of their sex—e.g.:
+This word means "brotherly," with one exception: twins that develop from separate ova are *fraternal* regardless of their sex—e.g.:
 
  - "Our daughter has 3-year-old *fraternal* twin girls." Letter to Dr. T. Berry Brazelton, "Adult Shares Memories of Ending a ‘Babyish' Comfort," *Times Union* (Albany), 5 Sept. 2007, at E2.
 

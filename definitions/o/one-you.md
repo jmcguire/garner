@@ -1,6 +1,6 @@
 # \*one . . . you
 
-\*one . . . you. This shift from third person to second is even worse than *one . . . he*. (See **one (b)**.) Typically the best solution is to prefer *you* over *one*—e.g.:
+This shift from third person to second is even worse than *one . . . he*. (See **one (b)**.) Typically the best solution is to prefer *you* over *one*—e.g.:
 
  - "*One* hears—and if *you* are like me, *you* acquiesce in—many complaints about the decline of civility in Western society." Clifford Orwin, "Civility," 60 *Am. Scholar* 553, 553 (1991). (A possible revision: *You hear—and if you are like me, you acquiesce in—many complaints . . . .*)
 

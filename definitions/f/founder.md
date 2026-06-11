@@ -1,4 +1,4 @@
 # founder
 
-founder. See **flounder** & **forefathers**.
+See **flounder** & **forefathers**.
 

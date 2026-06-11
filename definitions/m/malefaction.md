@@ -1,4 +1,4 @@
 # malefaction
 
-malefaction. See **malfeasance**.
+See **malfeasance**.
 

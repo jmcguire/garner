@@ -1,4 +1,4 @@
 # \*fraenum
 
-\*fraenum. See **frenum**.
+See **frenum**.
 

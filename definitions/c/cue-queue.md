@@ -1,7 +1,5 @@
 # cue; queue
 
-cue; queue.
-
 ## A. As Nouns
 
 Though pronounced the same, these words have different meanings. *Cue* = (1) a signal to begin; a hint; or (2) a stick used in billiards, pool, or shuffleboard. *Queue* = (1) a line of people or things waiting their turn; or (2) a hanging braid of hair. See (c).

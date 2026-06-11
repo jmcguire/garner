@@ -1,6 +1,6 @@
 # \*least worst
 
-\*least worst. This phrase, like its kissing cousin *\*least worse*, doesn't make literal sense: it should be *least bad*. If you have several undesirable options with varying levels of undesirability, only one can be the *worst*. All the others are *less bad*, and the least undesirable is the *least bad*. With a superlative adverb such as *least*, it's incorrect to use either a comparative or a superlative adjective: hence *bad* is correct.
+This phrase, like its kissing cousin *\*least worse*, doesn't make literal sense: it should be *least bad*. If you have several undesirable options with varying levels of undesirability, only one can be the *worst*. All the others are *less bad*, and the least undesirable is the *least bad*. With a superlative adverb such as *least*, it's incorrect to use either a comparative or a superlative adjective: hence *bad* is correct.
 
 In each of the following examples, the illogical phrase—most often it's a spoken error, but sometimes (especially in BrE sources) it's the writer's fault—should be replaced by *least bad*. E.g.:
 

@@ -1,7 +1,5 @@
 # timpani
 
-timpani.
-
 ## A. A Tale of Two Words
 
 First, there's the Latinate word *tympanum*, which denotes (1) the eardrum, (2) the middle ear, (3) the diaphragm in an old-fashioned telephone, (4) in architecture, the vertical recessed face of a pediment, as over a door, (5) a hand drum of ancient Greece or Rome, (6) a modern kettledrum, or (7) a drumhead—that is, the stretched membrane of a drum. The plural is *tympana* in senses 1–4 and *tympani* in the drum senses (5–7).

@@ -1,7 +1,5 @@
 # intelligent
 
-intelligent.
-
 ## A. And *intelligible.*
 
 *Intelligent* means "(of people) having mental power or grasp." *Intelligible* means "(of statements) understandable."

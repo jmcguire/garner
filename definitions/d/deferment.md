@@ -1,4 +1,4 @@
 # deferment
 
-deferment. See **deferral**.
+See **deferral**.
 

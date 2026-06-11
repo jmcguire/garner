@@ -1,4 +1,4 @@
 # Tilde
 
-Tilde. See diacritical marks.
+See diacritical marks.
 

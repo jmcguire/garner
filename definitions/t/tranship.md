@@ -1,4 +1,4 @@
 # \*tranship
 
-\*tranship. See **transship**.
+See **transship**.
 

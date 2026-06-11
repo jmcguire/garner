@@ -1,4 +1,4 @@
 # acquiescence
 
-acquiescence. See **permission**.
+See **permission**.
 

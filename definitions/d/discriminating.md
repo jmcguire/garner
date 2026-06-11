@@ -1,4 +1,4 @@
 # discriminating
 
-discriminating. See **discriminatory**.
+See **discriminatory**.
 

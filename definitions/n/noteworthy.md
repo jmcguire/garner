@@ -1,4 +1,4 @@
 # noteworthy
 
-noteworthy. See **noticeable**.
+See **noticeable**.
 

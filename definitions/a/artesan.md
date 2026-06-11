@@ -1,4 +1,4 @@
 # \*artesan
 
-\*artesan. See **artist (b)**.
+See **artist (b)**.
 

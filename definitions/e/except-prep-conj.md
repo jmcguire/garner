@@ -1,7 +1,5 @@
 # except, prep. & conj
 
-except, prep. & conj.
-
 ## A. As Preposition and Conjunction
 
 When *except* begins a phrase (with no finite verb) rather than a clause, it is a simple preposition not followed by the relative pronoun *that* \<all people except farmers owning more than 500 acres\> \<no one must leave the room except with permission\>. But when *except* as a conjunction introduces a clause (with a finite verb), it should be followed by *that* \<all vice presidents are to receive a 10% bonus in compensation, except that no bonus is allowed on previous bonuses\>.

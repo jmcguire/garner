@@ -1,4 +1,4 @@
 # defamacast
 
-defamacast. See portmanteau words.
+See portmanteau words.
 

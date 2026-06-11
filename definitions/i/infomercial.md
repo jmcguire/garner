@@ -1,4 +1,4 @@
 # infomercial
 
-infomercial. See portmanteau words.
+See portmanteau words.
 

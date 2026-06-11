@@ -1,4 +1,4 @@
 # \*loth
 
-\*loth. See **loathe**.
+See **loathe**.
 

@@ -1,6 +1,6 @@
 # due to
 
-due to. The traditional view is that *due to* should be restricted to adjectival uses in the sense "attributable to," usually following the verb *to be* (sometimes understood in context). But the stylist may wish to avoid even correct uses of the phrase, which one writer calls a "graceless phrase, even when used correctly," adding, "Avoid it altogether." Lucile Vaughan Payne, *The Lively Art of Writing* 148 (1965). Under that view, *due to* is a skunked term.
+The traditional view is that *due to* should be restricted to adjectival uses in the sense "attributable to," usually following the verb *to be* (sometimes understood in context). But the stylist may wish to avoid even correct uses of the phrase, which one writer calls a "graceless phrase, even when used correctly," adding, "Avoid it altogether." Lucile Vaughan Payne, *The Lively Art of Writing* 148 (1965). Under that view, *due to* is a skunked term.
 
 Despite the traditional view that the adjectival use is best (*due* being equivalent to *attributable*), the phrase is commonly used as a preposition or conjunctive adverb meaning *because of*, *owing to*, *caused by*, or *on grounds of*—e.g.:
 

@@ -1,7 +1,5 @@
 # criterion
 
-criterion.
-
 ## A. And the Plural Form *criteria*
 
 *Criteria* is the plural, *criterion* the (originally Greek) singular. A Ph.D. in linguistics once defended *criteria* as a singular because "not everyone knows that the singular is *criterium*"\! (Indeed.) (See (c).) The plural *\*criterions* is occasionally seen, but it has failed to become standard. Infrequently, though not infrequently enough, one even sees *\*criterias*. Here are the correct forms:

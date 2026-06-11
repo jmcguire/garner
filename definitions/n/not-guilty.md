@@ -1,7 +1,5 @@
 # not guilty
 
-not guilty.
-
 ## A. And *innocent*
 
 It used to be that only journalists made the mistake of writing *plead innocent* rather than *plead not guilty*, but now this phrase has made it even into judges' writing. Lawyers should avoid the phrase, since there is no such thing as a plea of innocent. Journalists, on the other hand, avoid *not guilty* merely because *not* might get accidentally dropped or misrendered *now*:

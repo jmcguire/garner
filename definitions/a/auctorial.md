@@ -1,4 +1,4 @@
 # \*auctorial
 
-\*auctorial. See **authorial**.
+See **authorial**.
 

@@ -1,4 +1,4 @@
 # devotee
 
-devotee. See -ee.
+See -ee.
 

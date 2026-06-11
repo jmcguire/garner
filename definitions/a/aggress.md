@@ -1,4 +1,4 @@
 # aggress
 
-aggress. See back-formations.
+See back-formations.
 

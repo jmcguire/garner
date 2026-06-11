@@ -1,6 +1,6 @@
 # minuscule
 
-minuscule. So spelled, not *\*miniscule*. The word derives from the word *minus*; it has nothing to do with the prefix *mini*-. But the misspelling has spread since about 1950—e.g.:
+So spelled, not *\*miniscule*. The word derives from the word *minus*; it has nothing to do with the prefix *mini*-. But the misspelling has spread since about 1950—e.g.:
 
  - "Mouth hanging open, Harry saw that the little square for June thirteenth seemed to have turned into a *miniscule* \[read *minuscule*\] television screen." J.K. Rowling, *Harry Potter and the Chamber of Secrets* 242 (Am. ed. 1999).
 

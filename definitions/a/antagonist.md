@@ -1,4 +1,4 @@
 # antagonist
 
-antagonist. See **protagonist (c)**.
+See **protagonist (c)**.
 

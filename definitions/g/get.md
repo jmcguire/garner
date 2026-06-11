@@ -1,7 +1,5 @@
 # get
 
-get.
-
 ## A. Generally
 
 *Get* is good English. Yet many writers want to avoid it because they consider it too informal; they prefer *obtain* or *procure*, two formal words. The same tendency is at work here that leads some writers to shun *before* in favor of *\*prior to*, *later* in favor of *\*subsequent to*, and the like. But confident, relaxed writers use the word *get* quite naturally—e.g.:

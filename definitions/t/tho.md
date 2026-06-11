@@ -1,4 +1,4 @@
 # \*tho
 
-\*tho. See **although**.
+See **although**.
 

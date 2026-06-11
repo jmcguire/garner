@@ -1,4 +1,4 @@
 # \*innavigable
 
-\*innavigable. See **unnavigable**.
+See **unnavigable**.
 

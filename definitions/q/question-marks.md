@@ -1,4 +1,4 @@
 # Question Marks
 
-Question Marks. See punctuation (m).
+See punctuation (m).
 

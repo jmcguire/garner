@@ -1,4 +1,4 @@
 # \*cumquat
 
-\*cumquat. See **kumquat**.
+See **kumquat**.
 

@@ -1,4 +1,4 @@
 # toxology
 
-toxology. See **toxicology**.
+See **toxicology**.
 

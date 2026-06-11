@@ -1,6 +1,6 @@
 # hopefully
 
-hopefully. Adverbs often have more than one kind of use, and *hopefully* is one of them. But the newer of the two uses of *hopefully* became hotly controversial from about 1965 to 1985. To some extent, it still retains a bad odor (see skunked terms).
+Adverbs often have more than one kind of use, and *hopefully* is one of them. But the newer of the two uses of *hopefully* became hotly controversial from about 1965 to 1985. To some extent, it still retains a bad odor (see skunked terms).
 
 The novel use that provoked the reaction is not really a change in meaning, but rather a change in what the adverb can modify. Other adverbs have only rarely been criticized for this (but see **thankfully**). Few commentators seem to worry that *frankly* can modify either the way of performing an action (a manner use, as in *Please speak frankly*) or the character of the speech act (a sentence-modifying or clause-modifying use, as in *Frankly, I don't care*). No one worries that *clearly* can be a manner modifier in *They didn't see us clearly* and a sentence modifier about evidence for the inference in *Clearly, they didn't see us*. Likewise with *truthfully*: it's a manner modifier in *The witness responded truthfully*, but a clause modifier in *Truthfully, I don't know*.
 

@@ -1,4 +1,4 @@
 # privation
 
-privation. See **deprivation**.
+See **deprivation**.
 

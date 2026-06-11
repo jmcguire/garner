@@ -1,4 +1,4 @@
 # hand down
 
-hand down. See phrasal verbs.
+See phrasal verbs.
 

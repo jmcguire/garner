@@ -1,4 +1,4 @@
 # rough-hewn
 
-rough-hewn. See **hew (b)**.
+See **hew (b)**.
 

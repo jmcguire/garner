@@ -1,4 +1,4 @@
 # querist
 
-querist. See **questioner**.
+See **questioner**.
 

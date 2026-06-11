@@ -61,7 +61,6 @@ def build(source_dir, db, verbose):
     for path in source_dir.rglob("*.md"):
 
         body = path.read_text(encoding="utf-8")
-        plain_body = markdown_to_plain_text(body)
 
         heading = extract_first_heading(body)
         if not heading:
@@ -69,6 +68,7 @@ def build(source_dir, db, verbose):
             continue
 
         headword, is_essay = parse_headword(heading)
+        plain_body = markdown_to_plain_text(body)
         sortword = normalize_key(headword)
         sound_key = phonetic_code(headword)
         forwarding = extract_forwarding_target(plain_body, headword)

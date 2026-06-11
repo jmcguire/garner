@@ -1,4 +1,4 @@
 # \*parachronism
 
-\*parachronism. See **anachronism**.
+See **anachronism**.
 

@@ -1,4 +1,4 @@
 # sliver
 
-sliver. See **slither**.
+See **slither**.
 

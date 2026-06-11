@@ -1,4 +1,4 @@
 # financial
 
-financial. See **economic (b)**.
+See **economic (b)**.
 

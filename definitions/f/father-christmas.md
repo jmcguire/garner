@@ -1,4 +1,4 @@
 # Father Christmas
 
-Father Christmas. See **Santa Claus**.
+See **Santa Claus**.
 

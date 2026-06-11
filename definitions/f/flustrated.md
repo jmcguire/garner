@@ -1,4 +1,4 @@
 # flustrated
 
-flustrated. See portmanteau words.
+See portmanteau words.
 

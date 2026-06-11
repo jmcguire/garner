@@ -1,4 +1,4 @@
 # conservatory
 
-conservatory. See **conservational**.
+See **conservational**.
 

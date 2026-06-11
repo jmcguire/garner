@@ -1,4 +1,4 @@
 # let alone
 
-let alone. See **leave alone**.
+See **leave alone**.
 

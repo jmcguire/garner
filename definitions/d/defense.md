@@ -1,7 +1,5 @@
 # defense
 
-defense.
-
 ## A. Spelling
 
 *Defense* is AmE; *defence* is BrE (or very antiquated AmE). Modern American writers who use the British spelling are likely to seem affected.

@@ -1,4 +1,4 @@
 # goodness' sake
 
-goodness' sake. So written. See possessives (n).
+So written. See possessives (n).
 

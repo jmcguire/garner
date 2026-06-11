@@ -1,4 +1,4 @@
 # \*hare's breath
 
-\*hare's breath. See **hair's breadth**.
+See **hair's breadth**.
 

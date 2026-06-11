@@ -1,4 +1,4 @@
 # effulge
 
-effulge. See back-formations.
+See back-formations.
 

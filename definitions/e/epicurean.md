@@ -1,6 +1,6 @@
 # epicurean
 
-epicurean. So spelled—preferably not *\*epicurian*. E.g.:
+So spelled—preferably not *\*epicurian*. E.g.:
 
  - "If people know how to taste \[chocolate\] properly, they may view it like that other great *epicurian* \[read *epicurean*\] matchmaker." Jay Cridlin, "Can Cocoa Bring People Together?," *St. Petersburg Times* (Fla.), 6 June 2008, at 51.
 

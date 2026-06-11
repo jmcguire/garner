@@ -1,4 +1,4 @@
 # Connecticuter
 
-Connecticuter. See **Nutmegger**.
+See **Nutmegger**.
 

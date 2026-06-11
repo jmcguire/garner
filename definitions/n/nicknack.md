@@ -1,4 +1,4 @@
 # \*nicknack
 
-\*nicknack. See **knickknack**.
+See **knickknack**.
 

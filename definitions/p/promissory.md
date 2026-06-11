@@ -1,4 +1,4 @@
 # promissory
 
-promissory. So spelled.
+So spelled.
 

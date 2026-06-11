@@ -1,4 +1,4 @@
 # anti-aircraft
 
-anti-aircraft. See vowel clusters.
+See vowel clusters.
 

@@ -1,7 +1,5 @@
 # so
 
-so.
-
 ## A. Beginning Sentences with
 
 Like *And* and *But*, *So* is a good word for beginning a sentence (no comma following). Each of these three is the informal equivalent of a heavier and longer conjunctive adverb (*Additionally*, *However*, and *Consequently* or *Therefore*). Rhetoric, not grammar, is what counts here. The shorter word affords a brisker pace—e.g.:

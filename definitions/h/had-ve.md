@@ -1,4 +1,4 @@
 # \*had've
 
-\*had've. See **\*had have**.
+See **\*had have**.
 

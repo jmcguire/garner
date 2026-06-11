@@ -1,4 +1,4 @@
 # knees
 
-knees. See **hands and knees**.
+See **hands and knees**.
 

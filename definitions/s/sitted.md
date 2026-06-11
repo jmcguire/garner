@@ -1,4 +1,4 @@
 # \*sitted
 
-\*sitted. See **sit**.
+See **sit**.
 

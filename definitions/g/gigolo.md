@@ -1,4 +1,4 @@
 # gigolo
 
-gigolo. Pl. *gigolos*—neither *\*gigoloes* nor *\*gigoli*. See plurals (d).
+Pl. *gigolos*—neither *\*gigoloes* nor *\*gigoli*. See plurals (d).
 

@@ -1,4 +1,4 @@
 # in some circumstances
 
-in some circumstances. See **circumstances (c)**.
+See **circumstances (c)**.
 

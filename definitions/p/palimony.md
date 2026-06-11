@@ -1,4 +1,4 @@
 # palimony
 
-palimony. See portmanteau words.
+See portmanteau words.
 

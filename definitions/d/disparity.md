@@ -1,4 +1,4 @@
 # disparity
 
-disparity. See **difference**.
+See **difference**.
 

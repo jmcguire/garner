@@ -1,7 +1,5 @@
 # bankrupt
 
-bankrupt.
-
 ## A. And *\*bankrout*
 
 The spelling *\*bankrout* is obsolete. In the English Renaissance, scholars respelled French borrowings such as *\*bankrout* on the Latin model—hence *bankrupt.* Many of these respellings did not survive (e.g., *\*accompt* for *account*); *bankrupt* is one of the few that did. Cf. **comptroller**.

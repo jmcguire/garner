@@ -1,4 +1,4 @@
 # real facts
 
-real facts. See **fact**, n. **(c), (e)**.
+See **fact**, n. **(c), (e)**.
 

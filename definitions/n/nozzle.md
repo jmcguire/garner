@@ -1,4 +1,4 @@
 # nozzle
 
-nozzle. See **muzzle**.
+See **muzzle**.
 

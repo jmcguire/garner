@@ -1,4 +1,4 @@
 # suspicious
 
-suspicious. See **suspect**, adj.
+See **suspect**, adj.
 

@@ -1,4 +1,4 @@
 # inmost
 
-inmost. See **innermost**.
+See **innermost**.
 

@@ -1,4 +1,4 @@
 # sympathy
 
-sympathy. See **empathy** & **simpatico**.
+See **empathy** & **simpatico**.
 

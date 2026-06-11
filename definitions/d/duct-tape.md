@@ -1,6 +1,6 @@
 # duct tape
 
-duct tape. So spelled—not *\*duck tape*, whether that was its original name or not.
+So spelled—not *\*duck tape*, whether that was its original name or not.
 
 On 10 February 2003, the U.S. Department of Homeland Security declared a "level-orange" terrorism alert and advised people to stock up on plastic sheeting and duct tape. Soon after, William Safire of *The New York Times* firmly declared that *\*duck tape* was the original form, dating from World War II when Johnson & Johnson developed the material for the U.S. Army to waterproof ammunition cases. He cited two wartime ads, one for Venetian blinds "in cream with cream tape or white with *duck tape*," and another for surplus "cotton *duck tape*."
 

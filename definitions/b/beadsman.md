@@ -1,4 +1,4 @@
 # \*beadsman
 
-\*beadsman. See **bedesman**.
+See **bedesman**.
 

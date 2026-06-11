@@ -1,4 +1,4 @@
 # rabbit
 
-rabbit. See **Welsh rabbit**.
+See **Welsh rabbit**.
 

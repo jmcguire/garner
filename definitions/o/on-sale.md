@@ -1,4 +1,4 @@
 # on sale
 
-on sale. See **sale**.
+See **sale**.
 

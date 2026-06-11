@@ -1,4 +1,4 @@
 # \*destroyable
 
-\*destroyable. See **destructible**.
+See **destructible**.
 

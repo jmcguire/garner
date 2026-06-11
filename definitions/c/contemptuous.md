@@ -1,7 +1,5 @@
 # contemptuous
 
-contemptuous.
-
 ## A. And *contemptible*
 
 *Contemptuous* = expressing contempt. *Contemptible* = worthy of contempt or scorn. See -able (a).

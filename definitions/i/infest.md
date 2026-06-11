@@ -1,7 +1,5 @@
 # infest
 
-infest.
-
 ## A. And *infect*
 
 *Infest* (= to inhabit either as a parasite or in menacingly large numbers) is sometimes confounded with *infect* (= \[of a germ or virus\] to introduce a disease into an organism). In general, living things are *infected*; places are *infested*. And while an infestation may spread disease, the cause of the disease itself will be infection. Some writers miss that distinction, typically with *infest* displacing *infect*—e.g.:

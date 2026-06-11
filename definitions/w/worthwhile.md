@@ -1,4 +1,4 @@
 # worthwhile
 
-worthwhile. One word.
+One word.
 

@@ -1,7 +1,5 @@
 # precedence
 
-precedence.
-
 ## A. And *\*precedency.*
 
 Today *precedence* is the standard term. *\*Precedency*, a needless variant, was common through the first half of the 1800s.

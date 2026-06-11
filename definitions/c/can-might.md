@@ -1,4 +1,4 @@
 # \*can might
 
-\*can might. See double modals.
+See double modals.
 

@@ -1,4 +1,4 @@
 # you guys
 
-you guys. See **y'all (c)** & **guy**.
+See **y'all (c)** & **guy**.
 

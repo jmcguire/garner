@@ -1,4 +1,4 @@
 # firefighter
 
-firefighter. See sexism (c).
+See sexism (c).
 

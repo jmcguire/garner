@@ -1,4 +1,4 @@
 # \*renumeration
 
-\*renumeration. See **remuneration**.
+See **remuneration**.
 

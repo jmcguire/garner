@@ -1,4 +1,4 @@
 # \*Roumania
 
-\*Roumania. See **Romania**.
+See **Romania**.
 

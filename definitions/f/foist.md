@@ -1,7 +1,5 @@
 # foist
 
-foist.
-
 ## A. Preposition with: *off* vs
 
 *on*. Traditionally, *foist* takes the preposition *on*—e.g.: "That network has *foisted* innumerable Virtual Celebrities *on* us." Richard Roeper, " ‘The Spot' Marks a New Batch of Virtual Celebrities," *Chicago Sun-Times*, 15 Dec. 1996, Upfront §, at 2.

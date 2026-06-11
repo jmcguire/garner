@@ -1,4 +1,4 @@
 # surcease
 
-surcease. See **death**.
+See **death**.
 

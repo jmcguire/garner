@@ -1,4 +1,4 @@
 # we
 
-we. See first person & pronouns.
+See first person & pronouns.
 

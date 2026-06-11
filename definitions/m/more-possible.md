@@ -1,4 +1,4 @@
 # \*more possible
 
-\*more possible. See adjectives (b).
+See adjectives (b).
 

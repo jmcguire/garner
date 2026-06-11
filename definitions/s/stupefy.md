@@ -1,6 +1,6 @@
 # stupefy
 
-stupefy. So spelled today, as it has been since the mid-1800s. The archaic form *\*stupify* is now regarded as a misspelling—e.g.:
+So spelled today, as it has been since the mid-1800s. The archaic form *\*stupify* is now regarded as a misspelling—e.g.:
 
  - "Insurance agents will *stupify* \[read *stupefy*\] their clients with \[obscure\] notations." James W. Johnson, *Logic and Rhetoric* 197 (1962).
 

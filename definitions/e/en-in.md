@@ -1,6 +1,6 @@
 # en-/in-, Essay
 
-en-/in-. No consistent rule exists for determining which form of the prefix to use before a given word. But it's fair to say that the French form *en-* is more a living prefix than *in-*. That is, *en-* has won most of the battles in which it contended against *in-*.
+No consistent rule exists for determining which form of the prefix to use before a given word. But it's fair to say that the French form *en-* is more a living prefix than *in-*. That is, *en-* has won most of the battles in which it contended against *in-*.
 
 The following lists show the preferred form at left and the variant on the right. Of course, when the root word begins with a *b*, *m*, or *p*, the prefixes typically become *em-* and *im-*.
 

@@ -1,4 +1,4 @@
 # Luna
 
-Luna. See **earth**.
+See **earth**.
 

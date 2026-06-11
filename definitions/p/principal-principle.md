@@ -1,7 +1,5 @@
 # principal; principle
 
-principal; principle.
-
 ## A. The Senses
 
 These two words, though often confused and used incorrectly and interchangeably, share no common definitions. Generally, it's enough to remember that *principal* (= chief, primary, most important) is usually an adjective and that *principle* (= a truth, rule, doctrine, or course of action) is virtually always a noun. Although *principle* is not a verb, we have *principled* as an adjective.

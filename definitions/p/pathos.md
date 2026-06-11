@@ -1,4 +1,4 @@
 # pathos
 
-pathos. See **bathos**.
+See **bathos**.
 

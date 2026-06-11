@@ -1,4 +1,4 @@
 # wolf
 
-wolf. Pl. *wolves*. See plurals (c).
+Pl. *wolves*. See plurals (c).
 

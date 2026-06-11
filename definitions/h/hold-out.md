@@ -1,4 +1,4 @@
 # hold out
 
-hold out. See phrasal verbs.
+See phrasal verbs.
 

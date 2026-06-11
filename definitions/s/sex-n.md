@@ -1,4 +1,4 @@
 # sex, n
 
-sex, n. See **gender**.
+See **gender**.
 

@@ -1,4 +1,4 @@
 # \*unsubstantial
 
-\*unsubstantial. See **insubstantial**.
+See **insubstantial**.
 

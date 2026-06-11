@@ -1,7 +1,5 @@
 # bid
 
-bid.
-
 ## A. Standard Past-Tense Forms
 
 *Bid* (= to offer a bid) forms *bid* in the past tense—e.g.: "Williams also *bid* more than the state initially budgeted for that project." Jeffrey Brainard, "New Life for Zephyrhills Depot," *St. Petersburg Times* (Fla.), 25 Oct. 1996, Pasco Times §, at 1.

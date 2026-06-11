@@ -1,6 +1,6 @@
 # beg the question
 
-beg the question. This phrase has not traditionally meant "to invite an obvious follow-up question," as many mistakenly believe. The strict meaning of *beg the question* is "to engage in circular reasoning"—that is, to base a conclusion on an assumption that is as much in need of proof or demonstration as the conclusion itself. The formal name for this logical fallacy is *petitio principii*. Following are two classic examples and a third from a book review:
+This phrase has not traditionally meant "to invite an obvious follow-up question," as many mistakenly believe. The strict meaning of *beg the question* is "to engage in circular reasoning"—that is, to base a conclusion on an assumption that is as much in need of proof or demonstration as the conclusion itself. The formal name for this logical fallacy is *petitio principii*. Following are two classic examples and a third from a book review:
 
  - "Reasonable people are those who think and reason intelligently." (This statement begs the question, What does it mean to think and reason intelligently?)
 

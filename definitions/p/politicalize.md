@@ -1,4 +1,4 @@
 # \*politicalize
 
-\*politicalize. See **politicize**.
+See **politicize**.
 

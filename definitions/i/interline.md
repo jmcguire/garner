@@ -1,4 +1,4 @@
 # interline
 
-interline. See airlinese.
+See airlinese.
 

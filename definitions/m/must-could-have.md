@@ -1,4 +1,4 @@
 # \*must could have
 
-\*must could have. See double modals.
+See double modals.
 

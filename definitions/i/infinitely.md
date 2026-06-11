@@ -1,7 +1,5 @@
 # infinitely
 
-infinitely.
-
 ## A. And *eminently*
 
 *Infinitely* (= endlessly, limitlessly) for *eminently* (= to a high degree) is either gross overstatement or a malapropism. It's a surprising error even in our hyperbole-ridden culture—e.g.:

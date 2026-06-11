@@ -1,7 +1,5 @@
 # as
 
-as.
-
 ## A. Causal Words: *as*; *because*; *since*; *for*
 
 In the causal sense, *as* should generally be avoided because (not *as*\!) it may be misunderstood as having its more usual meaning "while," especially when it is placed anywhere but at the beginning of the sentence. H.W. Fowler states: "To causal or explanatory *as*-clauses, if they are placed before the main sentence . . . there is no objection" (*FMEU1* at 31). This is most common in BrE—e.g.: "*As* she didn't get the original money, could she please have the larger sum?" Martin Waller, "Mail Shot," *Times* (London), 30 May 1997, at 29.

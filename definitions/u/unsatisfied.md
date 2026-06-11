@@ -1,4 +1,4 @@
 # unsatisfied
 
-unsatisfied. See **dissatisfied**.
+See **dissatisfied**.
 

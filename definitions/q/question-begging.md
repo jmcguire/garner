@@ -1,4 +1,4 @@
 # question-begging
 
-question-begging. See **beg the question**.
+See **beg the question**.
 

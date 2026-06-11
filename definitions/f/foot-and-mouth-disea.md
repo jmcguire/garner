@@ -1,7 +1,5 @@
 # foot-and-mouth disease
 
-foot-and-mouth disease.
-
 ## A. And *hoof-and-mouth disease*
 
 Although some commentators have erroneously suggested otherwise, the phrase *foot-and-mouth disease* has long predominated in AmE and BrE alike, as well as in veterinary medicine. It dates from the 1850s. The phrase *hoof-and-mouth disease*, an Americanism dating from the 1880s, may have a stronger claim to logic (since hoofed animals aren't usually said to have "feet"). Yet it never progressed beyond its status as a casualism and a secondary variant.

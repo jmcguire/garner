@@ -1,4 +1,4 @@
 # breathalyzer
 
-breathalyzer. See portmanteau words.
+See portmanteau words.
 

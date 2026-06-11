@@ -1,4 +1,4 @@
 # presume
 
-presume. See **assume**.
+See **assume**.
 

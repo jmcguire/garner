@@ -1,4 +1,4 @@
 # prototype
 
-prototype. See **archetype**.
+See **archetype**.
 

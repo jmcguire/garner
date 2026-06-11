@@ -1,4 +1,4 @@
 # mould
 
-mould. See **mold**.
+See **mold**.
 

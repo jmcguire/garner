@@ -1,4 +1,4 @@
 # draught
 
-draught. See **draft**.
+See **draft**.
 

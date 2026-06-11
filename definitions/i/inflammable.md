@@ -1,4 +1,4 @@
 # inflammable
 
-inflammable. See **flammable** & **inflammatory**.
+See **flammable** & **inflammatory**.
 

@@ -1,4 +1,4 @@
 # billfold
 
-billfold. See **wallet**.
+See **wallet**.
 

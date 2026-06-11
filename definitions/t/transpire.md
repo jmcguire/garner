@@ -1,6 +1,6 @@
 # transpire
 
-transpire. The traditionally correct meaning of this word is "to pass through a surface; come to light; become known by degrees." But that sense is now beyond redemption, though writers should be aware of it. Today, of course, the popular use of *transpire* is as a formal word equivalent to *happen*, *occur*, or *take place*. But when used in that way, *transpire* is a mere pomposity displacing an everyday word—e.g.:
+The traditionally correct meaning of this word is "to pass through a surface; come to light; become known by degrees." But that sense is now beyond redemption, though writers should be aware of it. Today, of course, the popular use of *transpire* is as a formal word equivalent to *happen*, *occur*, or *take place*. But when used in that way, *transpire* is a mere pomposity displacing an everyday word—e.g.:
 
  - "The group all had an interest in what was *transpiring* \[read *happening*\] in the Catholic Church as the Second Vatican Council got under way in 1962, Martinelli said." Gerald Renner, "Witness Tells of Abuse by Priest," *Hartford Courant*, 22 Aug. 1997, at A1.
 

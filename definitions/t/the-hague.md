@@ -1,4 +1,4 @@
 # The Hague
 
-The Hague. See **Netherlands**.
+See **Netherlands**.
 

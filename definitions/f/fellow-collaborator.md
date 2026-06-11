@@ -1,4 +1,4 @@
 # \*fellow collaborator
 
-\*fellow collaborator. See **collaborator**.
+See **collaborator**.
 

@@ -1,4 +1,4 @@
 # inept
 
-inept. See **inapt**.
+See **inapt**.
 

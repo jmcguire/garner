@@ -1,4 +1,4 @@
 # decathlon
 
-decathlon. See **-athlon**.
+See **-athlon**.
 

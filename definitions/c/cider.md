@@ -1,4 +1,4 @@
 # cider
 
-cider. See **apple cider**.
+See **apple cider**.
 

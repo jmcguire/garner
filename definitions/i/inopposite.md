@@ -1,4 +1,4 @@
 # \*inopposite
 
-\*inopposite. See **inapposite**.
+See **inapposite**.
 

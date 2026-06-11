@@ -1,4 +1,4 @@
 # adulteration
 
-adulteration. See **adultery (b)**.
+See **adultery (b)**.
 

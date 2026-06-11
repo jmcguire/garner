@@ -1,4 +1,4 @@
 # user-friendly
 
-user-friendly. See computerese & -friendly.
+See computerese & -friendly.
 

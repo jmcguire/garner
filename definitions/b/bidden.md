@@ -1,4 +1,4 @@
 # bidden
 
-bidden. See **bid (c)**.
+See **bid (c)**.
 

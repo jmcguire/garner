@@ -1,4 +1,4 @@
 # \*reak
 
-\*reak. See **reek**.
+See **reek**.
 

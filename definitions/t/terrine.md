@@ -1,4 +1,4 @@
 # terrine
 
-terrine. See **tureen**.
+See **tureen**.
 

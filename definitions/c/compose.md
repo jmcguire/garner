@@ -1,4 +1,4 @@
 # compose
 
-compose. See **comprise (a)**.
+See **comprise (a)**.
 

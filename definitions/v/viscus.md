@@ -1,4 +1,4 @@
 # viscus
 
-viscus. See **viscera**.
+See **viscera**.
 

@@ -1,7 +1,5 @@
 # inquiry
 
-inquiry.
-
 ## A. Pronunciation
 
 *Inquiry* may be pronounced either /in-**kwīr**-ee/ or /**in**-kwә-ree/. The former has long been the dominant AmE pronunciation. It is the only standard pronunciation in BrE.

@@ -1,7 +1,5 @@
 # subsequently
 
-subsequently.
-
 ## A. For *later*
 
 Using the four-syllable word in place of the two-syllable word is rarely, if ever, a good stylistic choice.

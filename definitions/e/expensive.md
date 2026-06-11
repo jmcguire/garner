@@ -1,6 +1,6 @@
 # expensive
 
-expensive. Because the word means "high-priced," the phrase *\*expensive prices* (uncommon till about 1960) is a redundancy—e.g.:
+Because the word means "high-priced," the phrase *\*expensive prices* (uncommon till about 1960) is a redundancy—e.g.:
 
  - "Some travelers report *expensive prices* \[read *high prices*\] in larger cities like Split and Zagreb where hotel rooms are booked by United Nations and NATO officials and journalists." Jim Simon, "Rebounding in War's Wake," *Austin Am.-Statesman*, 23 June 1996, at F6.
 

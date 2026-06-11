@@ -1,4 +1,4 @@
 # payor
 
-payor. See **payer**.
+See **payer**.
 

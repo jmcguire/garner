@@ -1,4 +1,4 @@
 # Trinomials
 
-Trinomials. See irreversible binomials.
+See irreversible binomials.
 

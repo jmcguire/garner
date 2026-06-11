@@ -1,4 +1,4 @@
 # \*dividable
 
-\*dividable. See **divisible**.
+See **divisible**.
 

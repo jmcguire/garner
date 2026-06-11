@@ -1,4 +1,4 @@
 # \*sensatory
 
-\*sensatory. See **sensory**.
+See **sensory**.
 

@@ -1,4 +1,4 @@
 # livelong
 
-livelong. See **lifelong**.
+See **lifelong**.
 

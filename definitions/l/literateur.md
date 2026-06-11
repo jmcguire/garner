@@ -1,4 +1,4 @@
 # \*literateur
 
-\*literateur. See **litterateur**.
+See **litterateur**.
 

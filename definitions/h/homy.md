@@ -1,4 +1,4 @@
 # \*homy
 
-\*homy. See **homely**.
+See **homely**.
 

@@ -1,7 +1,5 @@
 # chauvinism
 
-chauvinism.
-
 ## A. Generally
 
 Traditionally, *chauvinism* /**shoh**-vә-niz-әm/ refers to fanatical patriotism. The word's eponym is Nicolas Chauvin, a French soldier who was ridiculed for being excessively devoted to Napoleon.

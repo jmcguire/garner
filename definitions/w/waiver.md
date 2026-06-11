@@ -1,6 +1,6 @@
 # waiver
 
-waiver. *Waiver* (= voluntary relinquishment of a right or advantage) is primarily a noun; *waver* (= to vacillate) is primarily a verb. It is a fairly common solecism to misuse *waiver* for *waver*—e.g.:
+*Waiver* (= voluntary relinquishment of a right or advantage) is primarily a noun; *waver* (= to vacillate) is primarily a verb. It is a fairly common solecism to misuse *waiver* for *waver*—e.g.:
 
  - "Mayor Koch . . . *waivered* \[read *wavered*\] between silence and support for months." "Bess Myerson Accused of Stealing $44 in Goods," *N.Y. Times*, 28 May 1988, at 9.
 

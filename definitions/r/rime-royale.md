@@ -1,4 +1,4 @@
 # rime royale
 
-rime royale. See **rhyme royal**.
+See **rhyme royal**.
 

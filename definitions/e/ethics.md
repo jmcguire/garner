@@ -1,7 +1,5 @@
 # ethics
 
-ethics.
-
 ## A. And *ethos.*
 
 Although the distinction escapes many writers, it is plain. *Ethics* = the field of moral science. Bentham defined *ethics* as "the art of directing men's actions to the production of the greatest possible quantity of happiness, on the part of those whose interest is in view." Jeremy Bentham, *An Introduction to the Principles of Morals and Legislation* 310 (1823; repr. 1948). The singular form *ethic* means "a set of moral principles."

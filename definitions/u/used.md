@@ -1,4 +1,4 @@
 # used
 
-used. See **preowned**.
+See **preowned**.
 

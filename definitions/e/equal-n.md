@@ -1,4 +1,4 @@
 # equal, n
 
-equal, n. & adj. See **coequal**.
+& adj. See **coequal**.
 

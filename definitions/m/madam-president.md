@@ -1,4 +1,4 @@
 # Madam President
 
-Madam President. See hierarchical expressions.
+See hierarchical expressions.
 

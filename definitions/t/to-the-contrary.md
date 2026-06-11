@@ -1,4 +1,4 @@
 # to the contrary
 
-to the contrary. See **contrary (b)**.
+See **contrary (b)**.
 

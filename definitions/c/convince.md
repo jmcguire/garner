@@ -1,4 +1,4 @@
 # convince
 
-convince. See **persuade**.
+See **persuade**.
 

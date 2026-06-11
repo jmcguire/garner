@@ -1,4 +1,4 @@
 # allergen-friendly
 
-allergen-friendly. See **-friendly**.
+See **-friendly**.
 

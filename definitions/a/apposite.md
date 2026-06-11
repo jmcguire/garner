@@ -1,4 +1,4 @@
 # apposite
 
-apposite. See **apt (a)**.
+See **apt (a)**.
 

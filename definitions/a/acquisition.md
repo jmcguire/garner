@@ -1,4 +1,4 @@
 # acquisition
 
-acquisition. See **acquirement**.
+See **acquirement**.
 

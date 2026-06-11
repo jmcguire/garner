@@ -1,4 +1,4 @@
 # aestival
 
-aestival. See **estival**.
+See **estival**.
 

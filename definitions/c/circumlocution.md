@@ -1,7 +1,5 @@
 # circumlocution
 
-circumlocution.
-
 ## A. Generally
 
 Circumlocution is roundabout speech or language, or else the use of many words where a few would suffice. People who use circumlocutions are generally not admired for doing so, as the following quotations attest:

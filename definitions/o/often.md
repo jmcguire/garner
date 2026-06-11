@@ -1,7 +1,5 @@
 # often
 
-often.
-
 ## A. Pronunciation
 
 The educated pronunciation is /**of**-әn/, but many people today use the "spelling pronunciation" /**of**-tәn/. Similar words with a silent *t* are *chasten*, *fasten*, *hasten*, *listen*, *soften*, and *whistle*. See pronunciation (f).

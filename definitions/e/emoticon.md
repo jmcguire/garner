@@ -1,4 +1,4 @@
 # emoticon
 
-emoticon. See portmanteau words.
+See portmanteau words.
 

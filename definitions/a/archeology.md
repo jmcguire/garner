@@ -1,4 +1,4 @@
 # \*archeology
 
-\*archeology. See **archaeology**.
+See **archaeology**.
 

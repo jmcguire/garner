@@ -1,4 +1,4 @@
 # \*supposably
 
-\*supposably. See **supposedly**.
+See **supposedly**.
 

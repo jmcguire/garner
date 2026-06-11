@@ -1,4 +1,4 @@
 # Raising
 
-Raising. See **can't seem** & **don't think**.
+See **can't seem** & **don't think**.
 

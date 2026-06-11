@@ -1,6 +1,6 @@
 # also not
 
-also not. This phrasing, which ordinarily follows a negative statement, is usually inferior to *nor*—e.g.:
+This phrasing, which ordinarily follows a negative statement, is usually inferior to *nor*—e.g.:
 
  - "*Race should also not* \[read *Nor should race*\] be a matter in law enforcement, prosecution or sentencing, but it is." Letter of Stanley S. White, "Unavoidable Reality," *Atlanta J.-Const.*, 23 Jan. 1997, at I5.
 

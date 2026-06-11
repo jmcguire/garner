@@ -1,4 +1,4 @@
 # unfazed
 
-unfazed. See **faze**.
+See **faze**.
 

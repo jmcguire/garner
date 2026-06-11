@@ -1,4 +1,4 @@
 # devise
 
-devise. See **device**.
+See **device**.
 

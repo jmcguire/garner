@@ -1,4 +1,4 @@
 # plainly
 
-plainly. See **clearly**.
+See **clearly**.
 

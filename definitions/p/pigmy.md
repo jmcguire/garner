@@ -1,4 +1,4 @@
 # \*pigmy
 
-\*pigmy. See **pygmy**.
+See **pygmy**.
 

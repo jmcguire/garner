@@ -1,4 +1,4 @@
 # deathly
 
-deathly. See **deadly**.
+See **deadly**.
 

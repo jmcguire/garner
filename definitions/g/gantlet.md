@@ -1,4 +1,4 @@
 # gantlet
 
-gantlet. See **gauntlet**.
+See **gauntlet**.
 

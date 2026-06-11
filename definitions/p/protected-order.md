@@ -1,4 +1,4 @@
 # \*protected order
 
-\*protected order. See **protective order**.
+See **protective order**.
 

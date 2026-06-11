@@ -1,6 +1,6 @@
 # pizzeria
 
-pizzeria. The word for a restaurant specializing in pizza is often (and understandably) misspelled *\*pizzaria*—e.g.:
+The word for a restaurant specializing in pizza is often (and understandably) misspelled *\*pizzaria*—e.g.:
 
  - "Gennaro Lombardi and Anthony Totonno pose outside Lombardi's, the first licensed *pizzaria* \[read *pizzeria*\] in the United States." "Crispy, Droopy or Chunky: The True American (Pizza) Pie," *N.Y. Times*, 29 June 2006, at E5 (photo caption).
 

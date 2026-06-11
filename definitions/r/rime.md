@@ -1,4 +1,4 @@
 # rime
 
-rime. See **rhyme**.
+See **rhyme**.
 

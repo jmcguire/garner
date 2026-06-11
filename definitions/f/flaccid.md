@@ -1,7 +1,5 @@
 # flaccid
 
-flaccid.
-
 ## A. Pronunciation
 
 *Flaccid* is traditionally pronounced /**flak**-sid/, not /**flas**-id/. All the old pronunciation guides said so. The /ks/ pronunciation is common in words with a *cc* preceding an *i*, *e*, or *ee*, such as *accession*, *accident*, *succeed*, and *vaccination*. As one authority explains: "When *cc-* precedes *-e* or *-i*, the first *c-* is pronounced *k-*, the second *s-*, as in *accede*, *accelerate*, *accept*, *accessible*, *flaccid*, *succinct*, etc." Norman Lewis, *Dictionary of Modern Pronunciation* 76 (1963). The one set of exceptions to that rule involves Italian words and names commonly used in English (the *cc* having a /ch/ sound): *cappuccino*, *carpaccio*, *Gucci*, *Puccini*, etc. Cf. **accessory (b)** & **succinct**.

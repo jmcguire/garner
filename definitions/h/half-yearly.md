@@ -1,4 +1,4 @@
 # half-yearly
 
-half-yearly. See **biannual**.
+See **biannual**.
 

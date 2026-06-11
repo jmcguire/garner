@@ -1,7 +1,5 @@
 # exuberant
 
-exuberant.
-
 ## A. And *exorbitant*
 
 *Exuberant* = (1) having extremely high spirits; gushingly enthusiastic; or (2) flamboyant; overelaborate. *Exorbitant* = exceeding a reasonable or appropriate amount. Although some dictionaries record an extra sense for *exuberant* (also "extreme" or "very great"), when the adjective refers to a monetary amount the correct word is *exorbitant*—e.g.:

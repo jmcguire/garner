@@ -1,4 +1,4 @@
 # Sentence Adverbs, Essay
 
-Sentence Adverbs. See adverbs (f).
+See adverbs (f).
 

@@ -1,4 +1,4 @@
 # doing good
 
-doing good. See phatic language.
+See phatic language.
 

@@ -1,4 +1,4 @@
 # as concerns
 
-as concerns. See **as regards**.
+See **as regards**.
 

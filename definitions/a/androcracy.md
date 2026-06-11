@@ -1,4 +1,4 @@
 # androcracy
 
-androcracy. See governmental forms.
+See governmental forms.
 

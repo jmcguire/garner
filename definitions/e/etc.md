@@ -1,7 +1,5 @@
 # etc
 
-etc.
-
 ## A. Generally
 
 More than 400 years ago, John Florio wrote: "The heaviest thing that is, is one *Etcetera.*" It is heaviest because it implies a number too extensive to mention. Following are some of the most sensible words ever written on *etc.*:

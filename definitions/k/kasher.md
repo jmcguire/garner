@@ -1,4 +1,4 @@
 # \*kasher
 
-\*kasher. See **kosher**.
+See **kosher**.
 

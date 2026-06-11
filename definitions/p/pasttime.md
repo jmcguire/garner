@@ -1,4 +1,4 @@
 # \*pasttime
 
-\*pasttime. See **pastime**.
+See **pastime**.
 

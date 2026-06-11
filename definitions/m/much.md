@@ -1,4 +1,4 @@
 # much
 
-much. See **many**.
+See **many**.
 

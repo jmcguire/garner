@@ -1,4 +1,4 @@
 # smog
 
-smog. See portmanteau words.
+See portmanteau words.
 

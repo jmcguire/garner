@@ -1,4 +1,4 @@
 # fist pump
 
-fist pump. See **fist bump**.
+See **fist bump**.
 

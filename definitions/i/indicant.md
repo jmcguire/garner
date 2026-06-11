@@ -1,4 +1,4 @@
 # \*indicant
 
-\*indicant. See **indicative**.
+See **indicative**.
 

@@ -1,6 +1,6 @@
 # gut reaction
 
-gut reaction. This phrase, meaning "an instinctive response," is sometimes malapropistically said (and written) *\*guttural reaction*, or worse, *\*gutteral reaction*—e.g.:
+This phrase, meaning "an instinctive response," is sometimes malapropistically said (and written) *\*guttural reaction*, or worse, *\*gutteral reaction*—e.g.:
 
  - "And it's told in Mamet's poetry of the inarticulate dispossessed—a language of ellipses, crudities and *gutteral reactions* \[read *gut reactions*\]." Bob Hicks, "Ain't Misbehavin'," *Oregonian* (Portland), 18 Jan. 1991, at R21.
 

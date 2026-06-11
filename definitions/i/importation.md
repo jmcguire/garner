@@ -1,4 +1,4 @@
 # importation
 
-importation. See **import**.
+See **import**.
 

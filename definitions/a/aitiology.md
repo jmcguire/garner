@@ -1,4 +1,4 @@
 # \*aitiology
 
-\*aitiology. See **etiology**.
+See **etiology**.
 

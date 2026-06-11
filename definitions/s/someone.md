@@ -1,4 +1,4 @@
 # someone
 
-someone. See **somebody**.
+See **somebody**.
 

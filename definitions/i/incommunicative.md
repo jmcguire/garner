@@ -1,4 +1,4 @@
 # \*incommunicative
 
-\*incommunicative. See **uncommunicative**.
+See **uncommunicative**.
 

@@ -1,4 +1,4 @@
 # Possessive with Gerund
 
-Possessive with Gerund. See fused participles.
+See fused participles.
 

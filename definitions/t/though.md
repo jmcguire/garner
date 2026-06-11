@@ -1,4 +1,4 @@
 # though
 
-though. See **although**.
+See **although**.
 

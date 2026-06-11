@@ -1,4 +1,4 @@
 # momenta
 
-momenta. See **momentum**.
+See **momentum**.
 

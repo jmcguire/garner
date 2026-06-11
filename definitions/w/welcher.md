@@ -1,4 +1,4 @@
 # welcher
 
-welcher. See **welsher**.
+See **welsher**.
 

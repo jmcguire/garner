@@ -1,4 +1,4 @@
 # \*big of
 
-\*big of. See **of (b)**.
+See **of (b)**.
 

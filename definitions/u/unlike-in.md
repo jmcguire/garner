@@ -1,6 +1,6 @@
 # unlike in
 
-unlike in. Though some critics have called the phrase a "gaucherie" and worse, *unlike in*—in which *unlike* takes on an adverbial sense—is now common in AmE and BrE alike. Of all the instances in which *unlike* appears, it is followed by *in* about 2% of the time—meaning, statistically, that it's quite frequent. E.g.:
+Though some critics have called the phrase a "gaucherie" and worse, *unlike in*—in which *unlike* takes on an adverbial sense—is now common in AmE and BrE alike. Of all the instances in which *unlike* appears, it is followed by *in* about 2% of the time—meaning, statistically, that it's quite frequent. E.g.:
 
  - "But *unlike in* the primary, Cropp won't be running with the support of John Ray's well-financed mayoral campaign." Rene Sanchez, "D.C. Council in the Throes of an Upheaval," *Wash. Post*, 13 Sept. 1990, at C7.
 

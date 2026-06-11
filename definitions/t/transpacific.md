@@ -1,4 +1,4 @@
 # transpacific
 
-transpacific. See **transatlantic**.
+See **transatlantic**.
 

@@ -1,4 +1,4 @@
 # \*hearken back
 
-\*hearken back. See **hark back (a)**.
+See **hark back (a)**.
 

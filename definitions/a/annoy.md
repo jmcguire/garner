@@ -1,4 +1,4 @@
 # annoy
 
-annoy. See **aggravate**.
+See **aggravate**.
 

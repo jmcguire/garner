@@ -1,4 +1,4 @@
 # rear
 
-rear. See **raise (a)**.
+See **raise (a)**.
 

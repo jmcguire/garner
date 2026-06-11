@@ -1,4 +1,4 @@
 # \*Britisher
 
-\*Britisher. See **Briton (a)**.
+See **Briton (a)**.
 

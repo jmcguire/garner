@@ -1,4 +1,4 @@
 # catchup
 
-catchup. See **ketchup**.
+See **ketchup**.
 

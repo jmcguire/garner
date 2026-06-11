@@ -1,4 +1,4 @@
 # buncombe
 
-buncombe. See **bunkum**.
+See **bunkum**.
 

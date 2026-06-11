@@ -1,4 +1,4 @@
 # \*tenderhooks
 
-\*tenderhooks. See **tenterhooks**.
+See **tenterhooks**.
 

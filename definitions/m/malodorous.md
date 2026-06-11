@@ -1,4 +1,4 @@
 # malodorous
 
-malodorous. See **odorous**.
+See **odorous**.
 

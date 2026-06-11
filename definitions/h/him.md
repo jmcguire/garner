@@ -1,4 +1,4 @@
 # Him
 
-Him. See **He**.
+See **He**.
 

@@ -1,4 +1,4 @@
 # ova
 
-ova. See **ovum**.
+See **ovum**.
 

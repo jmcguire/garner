@@ -1,4 +1,4 @@
 # frontbencher
 
-frontbencher. See **backbencher**.
+See **backbencher**.
 

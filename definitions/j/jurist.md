@@ -1,7 +1,5 @@
 # jurist
 
-jurist.
-
 ## A. Generally
 
 In BrE, this word is reserved for someone who has made outstanding contributions to legal thought and legal literature. In AmE, it is loosely applied to every judge of whatever level, and sometimes even to nonscholarly practitioners who are well respected.

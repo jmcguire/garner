@@ -1,4 +1,4 @@
 # asinine
 
-asinine. So spelled. See spelling (a) & animal adjectives.
+So spelled. See spelling (a) & animal adjectives.
 

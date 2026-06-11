@@ -1,4 +1,4 @@
 # Non-U
 
-Non-U. See class distinctions.
+See class distinctions.
 

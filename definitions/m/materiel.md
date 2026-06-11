@@ -1,4 +1,4 @@
 # materiel
 
-materiel. See **material**.
+See **material**.
 

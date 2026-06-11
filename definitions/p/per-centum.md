@@ -1,4 +1,4 @@
 # per centum
 
-per centum. See **percent**.
+See **percent**.
 

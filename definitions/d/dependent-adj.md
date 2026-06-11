@@ -1,4 +1,4 @@
 # dependent, adj
 
-dependent, adj. See **addicted**.
+See **addicted**.
 

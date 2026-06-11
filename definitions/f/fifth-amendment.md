@@ -1,6 +1,6 @@
 # Fifth Amendment
 
-Fifth Amendment. The idiom is *take the Fifth*, not *\*plead the Fifth* (a solecism very much on the rise since about 1950)—e.g.:
+The idiom is *take the Fifth*, not *\*plead the Fifth* (a solecism very much on the rise since about 1950)—e.g.:
 
  - "He was advised to keep silent and *plead* \[read *take*\] the Fifth Amendment." Kevin Diaz, "$4 Million Award's a Start Toward a Clean Slate," *Star Trib.* (Minneapolis), 22 Oct. 1994, at A1.
 

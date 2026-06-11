@@ -1,4 +1,4 @@
 # villain
 
-villain. See **antihero**.
+See **antihero**.
 

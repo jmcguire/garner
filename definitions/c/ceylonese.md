@@ -1,4 +1,4 @@
 # \*Ceylonese
 
-\*Ceylonese. See **Sri Lankan**.
+See **Sri Lankan**.
 

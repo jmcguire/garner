@@ -1,4 +1,4 @@
 # yay
 
-yay. See **yea**.
+See **yea**.
 

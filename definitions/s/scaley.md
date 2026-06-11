@@ -1,4 +1,4 @@
 # \*scaley
 
-\*scaley. See **scaly**.
+See **scaly**.
 

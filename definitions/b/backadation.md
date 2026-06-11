@@ -1,4 +1,4 @@
 # \*backadation
 
-\*backadation. See **backwardation**.
+See **backwardation**.
 

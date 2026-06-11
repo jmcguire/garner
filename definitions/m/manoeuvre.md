@@ -1,4 +1,4 @@
 # manoeuvre
 
-manoeuvre. See **maneuver**.
+See **maneuver**.
 

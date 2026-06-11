@@ -1,4 +1,4 @@
 # \*appendent
 
-\*appendent. See **appendant**.
+See **appendant**.
 

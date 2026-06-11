@@ -1,4 +1,4 @@
 # \*quai
 
-\*quai. See **quay**.
+See **quay**.
 

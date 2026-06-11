@@ -1,4 +1,4 @@
 # cord
 
-cord. See **chord**.
+See **chord**.
 

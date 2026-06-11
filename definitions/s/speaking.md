@@ -1,6 +1,6 @@
 # speaking
 
-speaking. This word is among the few "acceptable danglers" or "disguised conjunctions" when used as a sentence adverb—e.g.:
+This word is among the few "acceptable danglers" or "disguised conjunctions" when used as a sentence adverb—e.g.:
 
  - "*Speaking* realistically, Ritchey still only hopes to ‘capture' a small margin of the commuting population." Thomas Hackett, "Riders Take Public Transportation for Diverse Reasons," *News & Observer* (Raleigh), 2 Apr. 1996, at B1. (This might be a paraphrase of Ritchey, but the sentence barely has him speaking, if at all; the comment is the writer's.)
 

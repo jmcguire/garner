@@ -1,4 +1,4 @@
 # Christmas
 
-Christmas. See **Xmas**.
+See **Xmas**.
 

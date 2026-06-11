@@ -1,4 +1,4 @@
 # faecal
 
-faecal. See **fecal**.
+See **fecal**.
 

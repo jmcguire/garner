@@ -1,6 +1,6 @@
 # misnomer
 
-misnomer. Speakers and writers often misuse this word, meaning "an inappropriate name," to mean "a popular misconception"—e.g.: " ‘The last I remember, only 7 percent of Division I programs operate in the black. The common *misnomer* \[read *misunderstanding*\] is that people see this as a multi-million-dollar business.' " "College Arena a Marketplace," *Times Union* (Albany), 24 Dec. 2000, at C1 (quoting Syracuse assistant athletic director Michael Veley). Oddly enough, this mistake is itself a kind of misnomer based on a misconception.
+Speakers and writers often misuse this word, meaning "an inappropriate name," to mean "a popular misconception"—e.g.: " ‘The last I remember, only 7 percent of Division I programs operate in the black. The common *misnomer* \[read *misunderstanding*\] is that people see this as a multi-million-dollar business.' " "College Arena a Marketplace," *Times Union* (Albany), 24 Dec. 2000, at C1 (quoting Syracuse assistant athletic director Michael Veley). Oddly enough, this mistake is itself a kind of misnomer based on a misconception.
 
 Although the error is less common in edited text, it does surface—e.g.:
 

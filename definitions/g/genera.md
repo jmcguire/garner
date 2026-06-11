@@ -1,4 +1,4 @@
 # genera
 
-genera. See **genus**.
+See **genus**.
 

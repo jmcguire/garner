@@ -1,4 +1,4 @@
 # preestablished
 
-preestablished. So spelled.
+So spelled.
 

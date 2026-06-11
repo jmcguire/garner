@@ -1,7 +1,5 @@
 # too
 
-too.
-
 ## A. Beginning Sentences with
 
 It is conventionally considered bad form to begin a sentence with *too* (= also), although some journalists use the word this way. Instead of *\*Too, we shouldn't forget*, write *Also, we shouldn't forget* or, better, *And we shouldn't forget*. Words such as *moreover*, *further*, and *furthermore* are also serviceable in this position—though they are heavy. Cf. **as well**.

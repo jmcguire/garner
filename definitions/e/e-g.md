@@ -1,7 +1,5 @@
 # e.g
 
-e.g.
-
 ## A. Generally
 
 This abbreviation, short for *exempli gratia* /ek-**sem**-plee **grah**-tee-ә/ \[L. "for example"\], introduces representative examples. In AmE, it is preferably followed by a comma (or, depending on the construction, a colon) and unitalicized. In BrE, curiously enough, the periods are sometimes omitted—e.g.: "The problem with seeking a legislative cure for the ethical disease is that most of the perceived outrages are either already illegal (*eg*, Pentagon officials taking bribes) or beyond the reach of the law (politicians' sexual adventures)." "Washington on an Ethics Kick," *Economist*, 28 Jan.–3 Feb. 1989, at 19. To American eyes, *eg* looks like *egg* misspelled.

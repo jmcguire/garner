@@ -1,4 +1,4 @@
 # enrollee
 
-enrollee. See -ee.
+See -ee.
 

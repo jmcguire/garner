@@ -1,4 +1,4 @@
 # threefold
 
-threefold. See **twofold**.
+See **twofold**.
 

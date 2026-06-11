@@ -1,4 +1,4 @@
 # opera
 
-opera. See **opus**.
+See **opus**.
 

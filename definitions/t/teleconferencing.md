@@ -1,4 +1,4 @@
 # teleconferencing
 
-teleconferencing. See **conferencing**.
+See **conferencing**.
 

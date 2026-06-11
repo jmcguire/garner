@@ -1,4 +1,4 @@
 # annunciate
 
-annunciate. See **announce**.
+See **announce**.
 

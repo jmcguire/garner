@@ -1,4 +1,4 @@
 # actual fact, in
 
-actual fact, in. See **fact (c)**.
+See **fact (c)**.
 

@@ -1,4 +1,4 @@
 # objectivize
 
-objectivize. See **objectify**.
+See **objectify**.
 

@@ -1,4 +1,4 @@
 # \*baton sinister
 
-\*baton sinister. See **bend sinister**.
+See **bend sinister**.
 

@@ -1,4 +1,4 @@
 # unalienable
 
-unalienable. See **inalienable**.
+See **inalienable**.
 

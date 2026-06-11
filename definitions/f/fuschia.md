@@ -1,4 +1,4 @@
 # \*fuschia
 
-\*fuschia. See **fuchsia**.
+See **fuchsia**.
 

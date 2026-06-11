@@ -1,4 +1,4 @@
 # proceed
 
-proceed. See **precede**.
+See **precede**.
 

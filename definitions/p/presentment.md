@@ -1,4 +1,4 @@
 # presentment
 
-presentment. See **presentiment**.
+See **presentiment**.
 

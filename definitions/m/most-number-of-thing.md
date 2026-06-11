@@ -1,6 +1,6 @@
 # \*most number of things
 
-\*most number of things. This phrasing is incorrect for *most things* or (more verbosely) *greatest number of things* or *highest number of things*—e.g.:
+This phrasing is incorrect for *most things* or (more verbosely) *greatest number of things* or *highest number of things*—e.g.:
 
  - "The team had the *most number of* \[read *most*\] wins in the history of the school with a 15–1 record." Harper Mar, "Grimsley Swimmer Places in Pan Am Games," *News & Record* (Greensboro), 26 Mar. 1995, at 6.
 

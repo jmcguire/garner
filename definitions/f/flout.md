@@ -1,4 +1,4 @@
 # flout
 
-flout. See **flaunt**.
+See **flaunt**.
 

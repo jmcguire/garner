@@ -1,4 +1,4 @@
 # \*avouch
 
-\*avouch. See **vouch**.
+See **vouch**.
 

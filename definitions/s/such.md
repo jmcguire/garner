@@ -1,7 +1,5 @@
 # such
 
-such.
-
 ## A. As a Demonstrative Adjective
 
 *Such* is properly used as an adjective when reference has previously been made to a category of people or things: hence *such* means "of that kind" \<such a person\> \<such people\>. It isn't properly equivalent to *this*, *that*, *these*, or *those*.

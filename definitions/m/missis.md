@@ -1,4 +1,4 @@
 # \*missis
 
-\*missis. See **missus**.
+See **missus**.
 

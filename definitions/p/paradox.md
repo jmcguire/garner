@@ -1,6 +1,6 @@
 # paradox
 
-paradox. A *paradox* is a seeming contradiction or a statement that appears on its face to be contrary to reason, but whose incongruity sometimes resolves itself on closer analysis—e.g.: "What explains this poor-in-wealth, rich-in-health mystery? That's exactly what Hayes-Bautista hopes to discover and what health experts have dubbed the ‘Latino epidemiological *paradox*.' " Yvette Cabrera, "Latina Mothers Poor in Wealth, Rich in Health," *Milwaukee J. Sentinel*, 11 Aug. 2002, Lifestyle §, at L3.
+A *paradox* is a seeming contradiction or a statement that appears on its face to be contrary to reason, but whose incongruity sometimes resolves itself on closer analysis—e.g.: "What explains this poor-in-wealth, rich-in-health mystery? That's exactly what Hayes-Bautista hopes to discover and what health experts have dubbed the ‘Latino epidemiological *paradox*.' " Yvette Cabrera, "Latina Mothers Poor in Wealth, Rich in Health," *Milwaukee J. Sentinel*, 11 Aug. 2002, Lifestyle §, at L3.
 
 In strict usage, a *paradox* is not an unresolvable problem—e.g.: "Two months shy of kicking off its 2002 campaign, United Way of South Hampton Roads officials are faced with the *paradox* \[read *problem*\] of a bad economy. Community needs rise. And too often, donations go down." Janie Bryant, "Economy, Scandal May Affect Fund-raising in the Region," *Virginian-Pilot* (Norfolk), 19 July 2002, at B4.
 

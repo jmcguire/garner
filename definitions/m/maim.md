@@ -1,4 +1,4 @@
 # maim
 
-maim. See **mayhem (b)**.
+See **mayhem (b)**.
 

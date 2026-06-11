@@ -1,4 +1,4 @@
 # module
 
-module. See **mode**.
+See **mode**.
 

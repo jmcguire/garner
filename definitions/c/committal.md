@@ -1,4 +1,4 @@
 # committal
 
-committal. See **commitment**.
+See **commitment**.
 

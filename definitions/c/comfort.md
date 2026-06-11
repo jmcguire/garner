@@ -1,4 +1,4 @@
 # comfort
 
-comfort. See **solace**.
+See **solace**.
 

@@ -1,4 +1,4 @@
 # induction
 
-induction. See **deduce (b)** & **inducement**.
+See **deduce (b)** & **inducement**.
 

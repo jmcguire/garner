@@ -1,7 +1,5 @@
 # neither
 
-neither.
-
 ## A. Pronunciation
 
 In AmE generally, /**nee**-thәr/ is the traditionally preferred pronunciation; /**nī**-thәr/ is a mildly pretentious variant in most parts of the country. But in BrE, /**nī**-thә/ or /**nee**-thә/ is usual. Cf. **either (a)**.

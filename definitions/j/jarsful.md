@@ -1,4 +1,4 @@
 # \*jarsful
 
-\*jarsful. See **jarful**.
+See **jarful**.
 

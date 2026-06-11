@@ -1,6 +1,6 @@
 # invite
 
-invite. Use it in the traditional way—as a verb. Avoid it as a noun displacing *invitation*—e.g.:
+Use it in the traditional way—as a verb. Avoid it as a noun displacing *invitation*—e.g.:
 
  - "In the meantime, he isn't counting on many *invites* \[read *invitations*\] to cocktail parties." Jeffrey H. Birnbaum, "Don't Show Them the Money\!," *Fortune*, 3 Mar. 1997, at 116.
 

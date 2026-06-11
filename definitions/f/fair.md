@@ -1,7 +1,5 @@
 # fair
 
-fair.
-
 ## A. And *fare*
 
 Properly an adjective or noun, *fair* is sometimes misused for the verb *fare* (= \[1\] to experience good or bad fortune or treatment; or \[2\] to happen or turn out)—e.g.:

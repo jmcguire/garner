@@ -1,4 +1,4 @@
 # flied out
 
-flied out. See **fly**.
+See **fly**.
 

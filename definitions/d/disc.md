@@ -1,4 +1,4 @@
 # disc
 
-disc. See **disk (a)**.
+See **disk (a)**.
 

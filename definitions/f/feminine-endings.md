@@ -1,4 +1,4 @@
 # Feminine Endings
 
-Feminine Endings. See sexism (d).
+See sexism (d).
 

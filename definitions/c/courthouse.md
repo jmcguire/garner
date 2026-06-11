@@ -1,4 +1,4 @@
 # courthouse
 
-courthouse. One word.
+One word.
 

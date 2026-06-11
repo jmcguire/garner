@@ -1,4 +1,4 @@
 # tympani
 
-tympani. See **timpani**.
+See **timpani**.
 

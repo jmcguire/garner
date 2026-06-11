@@ -1,7 +1,5 @@
 # send
 
-send.
-
 ## A. Inflected Forms: *send* \> *sent* \> *sent*
 
 So inflected. See irregular verbs.

@@ -1,4 +1,4 @@
 # profligacy
 
-profligacy. See **prodigality**.
+See **prodigality**.
 

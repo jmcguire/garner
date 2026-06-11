@@ -1,4 +1,4 @@
 # \*wreckless
 
-\*wreckless. See **reckless**.
+See **reckless**.
 

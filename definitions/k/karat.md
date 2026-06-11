@@ -1,4 +1,4 @@
 # karat
 
-karat. See **carat**.
+See **carat**.
 

@@ -1,4 +1,4 @@
 # deuterogamy
 
-deuterogamy. See **bigamy**.
+See **bigamy**.
 

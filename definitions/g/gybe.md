@@ -1,4 +1,4 @@
 # gybe
 
-gybe. See **gibe**.
+See **gibe**.
 

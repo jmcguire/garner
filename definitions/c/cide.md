@@ -1,6 +1,6 @@
 # -cide, Essay
 
--cide. This suffix denotes either the act of slaying \[fr. L. *-cīdium* "cutting, killing"\] or someone who slays \[fr. L. *-cīda* "cutter, killer"\]. Hence *fratricide* is either the killing of one's brother or someone who kills his or her brother. Some common words ending in this suffix are these:
+This suffix denotes either the act of slaying \[fr. L. *-cīdium* "cutting, killing"\] or someone who slays \[fr. L. *-cīda* "cutter, killer"\]. Hence *fratricide* is either the killing of one's brother or someone who kills his or her brother. Some common words ending in this suffix are these:
 
 *homicide* = the act of killing a person    = the killer of another person   *infanticide* = the act of killing a baby    = one who kills a baby   *matricide* = the act of killing one's mother    = the killer of one's own mother   *parricide* = the act of killing one's father    = the killer of one's own father   *patricide*  See **parricide**.   *regicide* = the act of killing the king or queen    = the killer of the king or queen   *suicide* = the act of killing oneself    = one who kills oneself
 

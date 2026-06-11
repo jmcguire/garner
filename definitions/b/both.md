@@ -1,7 +1,5 @@
 # both
 
-both.
-
 ## A. *Both . . . and*
 
 These correlative conjunctions must frame matching sentence parts—e.g.:

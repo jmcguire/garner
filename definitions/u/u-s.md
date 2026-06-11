@@ -1,6 +1,6 @@
 # U.S
 
-U.S.; US; **U.S.A**.; USA; **U.S. of A**.; **US of A**. As the shortened form for *United States of America*, the abbreviation *U.S.* tends to retain its periods in AmE despite the modern trend to drop periods from most initialisms (see abbreviations (a)). In both BrE and World Englishes, the periods are typically dropped.
+; US; **U.S.A**.; USA; **U.S. of A**.; **US of A**. As the shortened form for *United States of America*, the abbreviation *U.S.* tends to retain its periods in AmE despite the modern trend to drop periods from most initialisms (see abbreviations (a)). In both BrE and World Englishes, the periods are typically dropped.
 
 Many stylebooks recommend using the abbreviated form *U.S.* only for adjective uses \<U.S. foreign policy\> or as a noun in headlines \<U.S. Enters Peace Talks\>. Beginning about 1960, *U.S.* became much more common than the spelled-out words in adjective uses: *U.S. troops* has outnumbered *United States troops* in print sources fairly dramatically since that time.
 

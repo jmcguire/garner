@@ -1,6 +1,6 @@
 # as such
 
-as such. In this phrase, *such* is a pronoun requiring an antecedent—e.g.:
+In this phrase, *such* is a pronoun requiring an antecedent—e.g.:
 
  - "There has been an abundance of English slang from at least the sixteenth century to the present time, but it has always been recognized *as such* \[i.e., as slang\], and has at no time been supposed to be anything but a minor part of the English language." Sir William Craigie, "Our American English Marches Onward," *N.Y. Times*, 18 Aug. 1935, § 7, at 15.
 

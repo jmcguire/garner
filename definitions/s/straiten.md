@@ -1,4 +1,4 @@
 # straiten
 
-straiten. See **straighten**.
+See **straighten**.
 

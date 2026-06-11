@@ -1,4 +1,4 @@
 # prochronism
 
-prochronism. See **anachronism**.
+See **anachronism**.
 

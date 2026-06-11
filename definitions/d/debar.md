@@ -1,4 +1,4 @@
 # debar
 
-debar. See **bar**.
+See **bar**.
 

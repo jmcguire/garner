@@ -1,4 +1,4 @@
 # undermine
 
-undermine. See **circumvent**.
+See **circumvent**.
 

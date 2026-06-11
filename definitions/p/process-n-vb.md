@@ -1,7 +1,5 @@
 # process, n. & vb
 
-process, n. & vb.
-
 ## A. Pronunciation
 
 A *process* is a series of purposeful actions to which something is subjected or a series of things that occur naturally and result in a gradual change \<fermentation is both a biological and a chemical process\>. The word is pronounced /**prah**-ses/ in AmE and /**proh**-ses/ in BrE. To *process* something is either to deal with or handle it in some way, especially through established procedures, or to subject it to some special treatment \<we haven't yet processed the applications\>. This verb is pronounced just as the noun is: /**prah**-ses/ in AmE and /**proh**-ses/ in BrE.

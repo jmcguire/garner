@@ -1,7 +1,5 @@
 # circumstances
 
-circumstances.
-
 ## A. *In* or *under the circumstances*
 
 Some writers prefer *in the circumstances* to *under the circumstances*. The latter is unobjectionable, however, and since 1830 or so has been much more common. E.g.: "*Under the circumstances*, we think that the board made the right decision."

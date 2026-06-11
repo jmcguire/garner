@@ -1,4 +1,4 @@
 # legally
 
-legally. See adverbs (f).
+See adverbs (f).
 

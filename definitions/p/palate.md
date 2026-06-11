@@ -1,4 +1,4 @@
 # palate
 
-palate. See **palette**.
+See **palette**.
 

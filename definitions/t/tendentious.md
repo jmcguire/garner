@@ -1,7 +1,5 @@
 # tendentious
 
-tendentious.
-
 ## A. Generally
 
 *Tendentious* = (of a writing, etc.) tending to promote a given viewpoint; biased. The word appears much more commonly in BrE than in AmE—e.g.:

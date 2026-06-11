@@ -1,4 +1,4 @@
 # \*boldface lie
 
-\*boldface lie. See **bald-faced**.
+See **bald-faced**.
 

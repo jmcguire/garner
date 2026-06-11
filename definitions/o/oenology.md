@@ -1,4 +1,4 @@
 # oenology
 
-oenology. See **enology**.
+See **enology**.
 

@@ -1,4 +1,4 @@
 # \*wrapture
 
-\*wrapture. See **rapture**.
+See **rapture**.
 

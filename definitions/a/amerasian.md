@@ -1,4 +1,4 @@
 # Amerasian
 
-Amerasian. See portmanteau words.
+See portmanteau words.
 

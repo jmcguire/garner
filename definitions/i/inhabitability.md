@@ -1,4 +1,4 @@
 # \*inhabitability
 
-\*inhabitability. See **habitability**.
+See **habitability**.
 

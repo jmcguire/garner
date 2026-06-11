@@ -1,7 +1,5 @@
 # lay; lie
 
-lay; lie.
-
 ## A. The Distinction
 
 Very simply, *lie* (= to recline, be situated) is intransitive—it can't take a direct object \<he lies on his bed\>. But *lay* (= to put down, arrange) is always transitive—it needs a direct object \<please lay the book on my desk\>. The verbs are inflected as follows:

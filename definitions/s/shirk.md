@@ -1,6 +1,6 @@
 # shirk
 
-shirk. In the modern idiom, this word is almost exclusively a transitive verb, as in the expression that someone has *shirked* his or her duties. But the misformed phrase *\*shirk from* has recently emerged, probably out of confusion with *shrink from*—e.g.:
+In the modern idiom, this word is almost exclusively a transitive verb, as in the expression that someone has *shirked* his or her duties. But the misformed phrase *\*shirk from* has recently emerged, probably out of confusion with *shrink from*—e.g.:
 
  - "\[Children\] must have teachers who never *shirk* \[read *shrink*\] from challenging them to do their best." "Motivated Children Learn," *Baltimore Sun*, 18 June 1997, at A10.
 

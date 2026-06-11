@@ -1,6 +1,6 @@
 # better . . . rather than
 
-better . . . rather than. In this phrasing, the word *rather* is usually unnecessary, since *than* completes the comparison begun by *better*—e.g.:
+In this phrasing, the word *rather* is usually unnecessary, since *than* completes the comparison begun by *better*—e.g.:
 
  - "When will the administration learn that it is *better* to disclose such arrangements up front *rather than waiting* \[read *than to wait*\] until the university has been sued?" Letter of Gordon J. Johnson, "Secrecy Suggests Something's Amiss," *Rocky Mountain News* (Denver), 3 July 1999, at A51.
 

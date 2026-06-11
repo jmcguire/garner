@@ -1,4 +1,4 @@
 # \*bannerol
 
-\*bannerol. See **banderole**.
+See **banderole**.
 

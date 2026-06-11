@@ -1,4 +1,4 @@
 # smoulder
 
-smoulder. See **smolder**.
+See **smolder**.
 

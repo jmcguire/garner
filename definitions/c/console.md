@@ -1,4 +1,4 @@
 # console
 
-console. See **condole**.
+See **condole**.
 

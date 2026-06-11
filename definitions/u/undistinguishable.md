@@ -1,4 +1,4 @@
 # \*undistinguishable
 
-\*undistinguishable. See **indistinguishable**.
+See **indistinguishable**.
 

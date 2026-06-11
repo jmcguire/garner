@@ -1,7 +1,5 @@
 # domino
 
-domino.
-
 ## A. Plural Form
 
 Since the mid-1800s, the standard form has been *dominoes*, not *\*dominos*. See plurals (d).

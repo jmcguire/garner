@@ -1,4 +1,4 @@
 # jibe
 
-jibe. See **gibe**.
+See **gibe**.
 

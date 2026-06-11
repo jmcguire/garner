@@ -1,4 +1,4 @@
 # anecdotalist
 
-anecdotalist. See **anecdote (c)**.
+See **anecdote (c)**.
 

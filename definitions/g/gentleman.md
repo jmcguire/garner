@@ -1,7 +1,5 @@
 # gentleman
 
-gentleman.
-
 ## A. General Use
 
 *Gentleman* should not be used indiscriminately as a genteelism for *man*, the generic term. *Gentleman* should be reserved for reference to a cultured, refined man. It is a sign of the times that "no word could be, it seems, more thoroughly out of style than *gentleman*." John Mortimer, "Wooster Sauce," *Sunday Times* (London), 29 Sept. 1991, § 7, at 6. In 2001, a Phoenix resort specified that at one of its restaurants, "Jackets are required for *gentlemen*." Which leaves one to wonder what's required for all the other men.

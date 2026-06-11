@@ -1,6 +1,6 @@
 # relevant
 
-relevant. The misspelling *\*revelant* is a classic example of metathesis, or the transposition of sounds in a word. The error is more frequent in speech than in writing, but it does appear surprisingly often in print—e.g.:
+The misspelling *\*revelant* is a classic example of metathesis, or the transposition of sounds in a word. The error is more frequent in speech than in writing, but it does appear surprisingly often in print—e.g.:
 
  - "Right or wrong, the quote becomes *revelant* \[read *relevant*\] now because Brasseur and Eisler will defend their 1993 world championships in Japan next Tuesday and Wednesday and neither Russian couple is expected to take part." Jim Proudfoot, "Open Ice Ahead for Canadian Figure Skaters," *Toronto Star*, 18 Mar. 1994, at E4.
 

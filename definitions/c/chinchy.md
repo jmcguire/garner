@@ -1,4 +1,4 @@
 # \*chinchy
 
-\*chinchy. See **chintzy**.
+See **chintzy**.
 

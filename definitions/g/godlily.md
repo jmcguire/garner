@@ -1,4 +1,4 @@
 # godlily
 
-godlily. See adverbs (c).
+See adverbs (c).
 

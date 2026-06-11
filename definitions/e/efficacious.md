@@ -1,4 +1,4 @@
 # efficacious
 
-efficacious. See **effective**.
+See **effective**.
 

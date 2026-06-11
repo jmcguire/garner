@@ -1,4 +1,4 @@
 # nonsuch
 
-nonsuch. See **nonesuch**.
+See **nonesuch**.
 

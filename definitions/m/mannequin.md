@@ -1,4 +1,4 @@
 # mannequin
 
-mannequin. See **manikin**.
+See **manikin**.
 

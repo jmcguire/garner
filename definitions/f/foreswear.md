@@ -1,4 +1,4 @@
 # \*foreswear
 
-\*foreswear. See **forswear**.
+See **forswear**.
 

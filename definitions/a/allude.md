@@ -1,7 +1,5 @@
 # allude
 
-allude.
-
 ## A. And *advert* & *refer*
 
 To *allude* is to refer to (something) indirectly or by suggestion only. To *advert* or *refer* is to bring up directly, *advert* being the more formal word. (See **advert**.) *Allude* is misused for *refer* when the indirect nature of a comment or suggestion is missing—e.g.:

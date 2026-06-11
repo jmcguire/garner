@@ -1,4 +1,4 @@
 # salaam
 
-salaam. So spelled. See spelling (b).
+So spelled. See spelling (b).
 

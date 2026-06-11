@@ -1,7 +1,5 @@
 # libel
 
-libel.
-
 ## A. Pronunciation
 
 Pronounce it /**lī**-bәl/. The word is often mispronounced, through epenthesis, the way *liable* /**lī**-ә-bәl/ is pronounced. See pronunciation.

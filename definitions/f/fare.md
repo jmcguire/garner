@@ -1,7 +1,5 @@
 # fare
 
-fare.
-
 ## A. As a Noun
 
 Because this word, in one of its senses, means "food," the phrase *\*food fare* is a silly redundancy—e.g.:

@@ -1,7 +1,5 @@
 # index
 
-index.
-
 ## A. Plurals
 
 For ordinary purposes, *indexes* is the preferable plural, not *indices*—e.g.:

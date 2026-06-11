@@ -1,7 +1,5 @@
 # everyone
 
-everyone.
-
 ## A. Singular or Plural?
 
 Today it is standard practice to use *everyone* and *everybody* with a singular verb but a plural pronoun—e.g.:

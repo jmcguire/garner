@@ -1,7 +1,5 @@
 # vehicular
 
-vehicular.
-
 ## A. *Vehicular homicide*
 
 *Vehicular* /vee-**hik**-yә-lәr/, an adjective dating (surprisingly) from the 1600s, is not objectionable per se. Several states have *vehicular-homicide statutes*, in which there is no ready substitute for *vehicular*. The phrase *vehicular homicide* dates from 1941.

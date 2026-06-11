@@ -1,4 +1,4 @@
 # \*draftsperson
 
-\*draftsperson. See sexism (c).
+See sexism (c).
 

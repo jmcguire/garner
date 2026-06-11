@@ -1,7 +1,5 @@
 # effect, v.t
 
-effect, v.t.
-
 ## A. Generally
 
 This verb—meaning "to bring about, make happen"—is mostly confined to formal contexts. Besides sounding pretentious, it often spawns wordiness. The verb tends to occur alongside zombie nouns such as *improvement*—e.g.:

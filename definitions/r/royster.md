@@ -1,4 +1,4 @@
 # \*royster
 
-\*royster. See **roister**.
+See **roister**.
 

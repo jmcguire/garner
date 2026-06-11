@@ -1,7 +1,5 @@
 # he or she
 
-he or she.
-
 ## A. Generally
 
 The traditional view, now widely assailed as sexist, was that the masculine pronouns are generic, comprehending both male and female. One way to avoid the generic masculine *he*, *his*, and *him* is to use—not at every turn, but sparingly—*he or she*, *his or her*, and *him or her*. These expressions, in occasional use from the 1600s on, were very much on the rise during the late 20th century. E.g.: "The notion that a business can teach a customer about *his or her* desires will reshape industries, he says." "Strategy with a Touch of Showbiz," *Fin. Times*, 7 Aug. 1997, at 14.

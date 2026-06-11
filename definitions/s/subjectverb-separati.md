@@ -1,6 +1,6 @@
 # Subject–Verb Separation, Essay
 
-Subject–Verb Separation. The core words in a sentence are the subject and the verb. They are related both in sense and in grammar. And related words should go together. If you separate them too much, the sentence goes asunder—e.g.:
+The core words in a sentence are the subject and the verb. They are related both in sense and in grammar. And related words should go together. If you separate them too much, the sentence goes asunder—e.g.:
 
  - "Jurors' *need* to hear that testimony again just minutes before reaching a verdict *puzzled* experts." Haya El Nasser & Sally Ann Stewart, "Verdict Revealed Today," *USA Today*, 3 Oct. 1995, at A1. (A possible revision: *When jurors said they needed to hear that testimony again, and just minutes later reached a verdict, the experts were puzzled.* Or: *The experts were puzzled when jurors said they needed to hear that testimony again, and just minutes later reached a verdict.*)
 

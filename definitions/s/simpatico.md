@@ -1,6 +1,6 @@
 # simpatico
 
-simpatico. Like *sympathy*, this word derives from the Greek word *sympátheia* (= sympathy). But *simpatico* (= mutually fond or understanding) came to English in the 1800s as a loanword from either Italian (*simpatico*) or Spanish (*simpático*)—probably the former. In good English the word has always had the *sim-* spelling. Stumbling on the pattern of *sympathy*, writers often misspell the word—e.g.:
+Like *sympathy*, this word derives from the Greek word *sympátheia* (= sympathy). But *simpatico* (= mutually fond or understanding) came to English in the 1800s as a loanword from either Italian (*simpatico*) or Spanish (*simpático*)—probably the former. In good English the word has always had the *sim-* spelling. Stumbling on the pattern of *sympathy*, writers often misspell the word—e.g.:
 
  - "In the meantime, \[Sleepy\] Brown lost a lot of momentum. While he may have now found a *sympatico* \[read *simpatico*\] partner in Big Boi's label, there's been tension with that imprint's distributor, Virgin Records." Jim Farber, "The Legend of Sleepy Ain't Hollow," *Daily News* (N.Y.), 24 Sept. 2006, Sunday Now §, at 20.
 

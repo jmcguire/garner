@@ -1,4 +1,4 @@
 # Final Preposition
 
-Final Preposition. See prepositions (b).
+See prepositions (b).
 

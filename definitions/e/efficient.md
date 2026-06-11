@@ -1,4 +1,4 @@
 # efficient
 
-efficient. See **effective**.
+See **effective**.
 

@@ -1,7 +1,5 @@
 # incidentally
 
-incidentally.
-
 ## A. Generally
 
 This sentence adverb commonly introduces casual asides and minor digressions—e.g.:

@@ -1,4 +1,4 @@
 # weary
 
-weary. See **wary**.
+See **wary**.
 

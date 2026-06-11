@@ -1,4 +1,4 @@
 # wax
 
-wax. See **wane**.
+See **wane**.
 

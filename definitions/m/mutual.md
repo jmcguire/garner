@@ -1,7 +1,5 @@
 # mutual
 
-mutual.
-
 ## A. And *common.*
 
 It's possible to refer to a couple's *mutual* devotion, but not their *mutual* devotion to their children. The reason is that whatever is *mutual* is reciprocal—it's directed by each toward the other. E.g.: "So consider the matter a quid pro quo, a *mutual* exchange of affection between Zereoue and Mountaineer fandom." Michael Dobie, "More-Famous Amos," *Newsday* (N.Y.), 14 Nov. 1997, at A103.

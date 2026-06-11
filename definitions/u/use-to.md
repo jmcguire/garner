@@ -1,4 +1,4 @@
 # \*use to
 
-\*use to. See **used to**.
+See **used to**.
 

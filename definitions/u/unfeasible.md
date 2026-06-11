@@ -1,4 +1,4 @@
 # \*unfeasible
 
-\*unfeasible. See **infeasible**.
+See **infeasible**.
 

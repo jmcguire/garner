@@ -1,4 +1,4 @@
 # \*committible
 
-\*committible. See **committable**.
+See **committable**.
 

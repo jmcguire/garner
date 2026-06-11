@@ -1,4 +1,4 @@
 # insipient
 
-insipient. See **incipient**.
+See **incipient**.
 

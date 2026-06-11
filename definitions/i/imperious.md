@@ -1,7 +1,5 @@
 # imperious
 
-imperious.
-
 ## A. And *imperial*
 
 Deriving from the same root (L. *imper-* "power over a family, region, or state"), these words have been differentiated by their suffixes. *Imperial* = of or belonging to an emperor or empire. E.g.: "Hoagland notes that the *imperial* collection now on view at the National Gallery was removed from the Forbidden City, but he fails to point out that the transfer occurred in the 1930s to avoid capture by the Japanese, not the Communists, as he suggests." "Clues to China," *Wash. Post*, 22 Feb. 1997, at A21.

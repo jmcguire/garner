@@ -1,4 +1,4 @@
 # indices
 
-indices. See **index (a)**.
+See **index (a)**.
 

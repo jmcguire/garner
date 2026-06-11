@@ -1,4 +1,4 @@
 # court judgment
 
-court judgment. See **judgment (c)**.
+See **judgment (c)**.
 

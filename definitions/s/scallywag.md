@@ -1,4 +1,4 @@
 # scallywag
 
-scallywag. See **scalawag**.
+See **scalawag**.
 

@@ -1,4 +1,4 @@
 # picayune
 
-picayune. So spelled. See spelling (a).
+So spelled. See spelling (a).
 

@@ -1,4 +1,4 @@
 # alleviable
 
-alleviable. So formed—not *\*alleviatable*. See -able (d) & -atable.
+So formed—not *\*alleviatable*. See -able (d) & -atable.
 

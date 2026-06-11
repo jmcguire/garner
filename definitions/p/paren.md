@@ -1,6 +1,6 @@
 # paren
 
-paren. This casualism for *parenthesis*, based on the term's long-standing abbreviation, is gaining in popularity—e.g.:
+This casualism for *parenthesis*, based on the term's long-standing abbreviation, is gaining in popularity—e.g.:
 
  - " ‘As far as I know, I'm the first one who did colon, minus, *paren*.' " Katie Hafner, "Emoticon at Age 20 Continues to Stir :-)," *Chicago Trib.*, 23 Sept. 2002, Bus. §, at 4 (quoting Scott E. Fahlman of Carnegie Mellon University).
 

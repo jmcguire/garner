@@ -1,4 +1,4 @@
 # specs
 
-specs. See **spec**.
+See **spec**.
 

@@ -1,4 +1,4 @@
 # line-drived
 
-line-drived. See **drive**.
+See **drive**.
 

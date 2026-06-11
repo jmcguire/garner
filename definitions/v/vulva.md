@@ -1,4 +1,4 @@
 # vulva
 
-vulva. See **vagina**.
+See **vagina**.
 

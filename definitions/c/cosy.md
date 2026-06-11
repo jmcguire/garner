@@ -1,4 +1,4 @@
 # \*cosy
 
-\*cosy. See **cozy**.
+See **cozy**.
 

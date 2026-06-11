@@ -1,4 +1,4 @@
 # \*sympatico
 
-\*sympatico. See **simpatico**.
+See **simpatico**.
 

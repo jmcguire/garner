@@ -1,7 +1,5 @@
 # disk
 
-disk.
-
 ## A. And *disc.*
 
 *Disk* is the more usual spelling in AmE. *Disc* is the spelling used in four senses: (1) a phonograph record; (2) an optical disk (as an audio compact disc or videodisc); (3) a tool making up part of a plow; and (4) a component of a brake system. Otherwise, *disk* is the preferred spelling for general reference to thin circular objects, intervertebral disks, celestial bodies, and computer disks. But for now, *disc* is more or less universal in BrE.

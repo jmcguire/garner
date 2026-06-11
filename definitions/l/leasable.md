@@ -1,4 +1,4 @@
 # leasable
 
-leasable. So spelled.
+So spelled.
 

@@ -1,4 +1,4 @@
 # lede
 
-lede. See **lead**, n.
+See **lead**, n.
 

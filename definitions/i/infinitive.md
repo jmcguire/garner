@@ -1,4 +1,4 @@
 # infinitive
 
-infinitive. See be-verbs & split infinitives.
+See be-verbs & split infinitives.
 

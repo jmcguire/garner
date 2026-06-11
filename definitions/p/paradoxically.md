@@ -1,4 +1,4 @@
 # paradoxically
 
-paradoxically. See adverbs (f).
+See adverbs (f).
 

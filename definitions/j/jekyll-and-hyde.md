@@ -1,4 +1,4 @@
 # Jekyll and Hyde
 
-Jekyll and Hyde. See literary allusion.
+See literary allusion.
 

@@ -1,4 +1,4 @@
 # politicly
 
-politicly. See **politically**.
+See **politically**.
 

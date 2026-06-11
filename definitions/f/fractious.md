@@ -1,4 +1,4 @@
 # fractious
 
-fractious. See **factional**.
+See **factional**.
 

@@ -1,4 +1,4 @@
 # substantiate
 
-substantiate. So spelled—not *\*substantuate.*
+So spelled—not *\*substantuate.*
 

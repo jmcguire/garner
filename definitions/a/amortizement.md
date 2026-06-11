@@ -1,4 +1,4 @@
 # \*amortizement
 
-\*amortizement. See **amortization**.
+See **amortization**.
 

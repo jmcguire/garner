@@ -1,4 +1,4 @@
 # shat
 
-shat. See **shit**.
+See **shit**.
 

@@ -1,7 +1,5 @@
 # appropriate, v.t
 
-appropriate, v.t.
-
 ## A. And *misappropriate*
 
 *Appropriate* = (1) to set apart for a particular person or organization for a specific purpose \<government-appropriated funds\>; or (2) to take from a particular person or organization for a specific purpose \<by appropriating her valuables and locking them away, her stepmother in effect stole them\>. Sense 1 is the more usual in AmE, perhaps because it is better to give than to receive. Sense 2 is gradually fading. *Misappropriate* = to apply (as another's money) dishonestly to one's own use. *Appropriate* has a more neutral, nonaccusatory connotation. Still, in meaning "to take from a particular person or organization for a particular purpose," it is tinged with some of the negative connotations made explicit in *misappropriate*. See **embezzle**.

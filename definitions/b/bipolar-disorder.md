@@ -1,4 +1,4 @@
 # bipolar disorder
 
-bipolar disorder. See **manic depression**.
+See **manic depression**.
 

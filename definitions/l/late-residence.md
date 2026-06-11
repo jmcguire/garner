@@ -1,4 +1,4 @@
 # late residence
 
-late residence. See **late (b)**.
+See **late (b)**.
 

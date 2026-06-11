@@ -1,4 +1,4 @@
 # defraud
 
-defraud. See **deceive**.
+See **deceive**.
 

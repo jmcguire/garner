@@ -1,7 +1,5 @@
 # avenge
 
-avenge.
-
 ## A. And *revenge*, vb
 
 & n. To *avenge* is to visit fitting retribution on a wrongdoer by reason of (a specified wrong). *Avenge* and *vengeance* have to do with justice, and often with the legal process—e.g.:

@@ -1,4 +1,4 @@
 # number
 
-number. See **amount**.
+See **amount**.
 

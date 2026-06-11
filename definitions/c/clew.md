@@ -1,4 +1,4 @@
 # clew
 
-clew. See **clue**.
+See **clue**.
 

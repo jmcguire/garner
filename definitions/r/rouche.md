@@ -1,4 +1,4 @@
 # rouche
 
-rouche. See **ruche**.
+See **ruche**.
 

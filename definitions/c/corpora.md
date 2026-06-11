@@ -1,4 +1,4 @@
 # corpora
 
-corpora. See **corpus**.
+See **corpus**.
 

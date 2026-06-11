@@ -1,4 +1,4 @@
 # debtor
 
-debtor. See **bankrupt (b)**.
+See **bankrupt (b)**.
 

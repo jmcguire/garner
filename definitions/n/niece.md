@@ -1,4 +1,4 @@
 # niece
 
-niece. See **nephew**.
+See **nephew**.
 

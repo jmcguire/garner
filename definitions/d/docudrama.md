@@ -1,4 +1,4 @@
 # docudrama
 
-docudrama. See portmanteau words.
+See portmanteau words.
 

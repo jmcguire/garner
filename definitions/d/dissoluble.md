@@ -1,4 +1,4 @@
 # dissoluble
 
-dissoluble. See **dissolvable**.
+See **dissolvable**.
 

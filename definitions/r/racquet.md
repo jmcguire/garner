@@ -1,4 +1,4 @@
 # racquet
 
-racquet. See **racket**.
+See **racket**.
 

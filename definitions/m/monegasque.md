@@ -1,4 +1,4 @@
 # Monegasque
 
-Monegasque. See **Monacan**.
+See **Monacan**.
 

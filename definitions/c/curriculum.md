@@ -1,6 +1,6 @@
 # curriculum
 
-curriculum. Pl. *curricula* or *curriculums*. E.g.:
+Pl. *curricula* or *curriculums*. E.g.:
 
  - "These *curricula* don't ‘radically change the way students learn how to add, subtract, multiply and divide.' " "Bethlehem's Math Program Gives Students an Edge," *Morning Call* (Allentown, Pa.), 24 Sept. 2002, at A12.
 

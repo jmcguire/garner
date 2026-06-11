@@ -1,7 +1,5 @@
 # marshal, n
 
-marshal, n.
-
 ## A. And *martial*, adj
 
 *Marshal* = (1) a military officer; (2) a person performing duties, as a person in charge of ceremonies or an officer for a court; or (3) a law-enforcement officer. *Martial* = (1) of, relating to, or involving warfare; or (2) warlike.

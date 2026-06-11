@@ -1,6 +1,6 @@
 # remuneration
 
-remuneration. So spelled. *\*Renumeration* is an all-too-common misspelling and mispronunciation—e.g.:
+So spelled. *\*Renumeration* is an all-too-common misspelling and mispronunciation—e.g.:
 
  - "Joseph Cammarata . . . said he . . . would recommend rejecting any settlement that did not include financial *renumeration* \[read *remuneration*\] for Jones." Robert Kilborn & Lance Carden, "News in Brief," *Christian Science Monitor*, 2 June 1997, at 2.
 

@@ -1,4 +1,4 @@
 # rallentando
 
-rallentando. See **ritardando**.
+See **ritardando**.
 

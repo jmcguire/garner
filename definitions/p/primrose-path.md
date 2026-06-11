@@ -1,4 +1,4 @@
 # primrose path
 
-primrose path. See **garden path**.
+See **garden path**.
 

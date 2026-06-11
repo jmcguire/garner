@@ -1,4 +1,4 @@
 # inculcatable
 
-inculcatable. So spelled. See -atable.
+So spelled. See -atable.
 

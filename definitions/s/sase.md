@@ -1,4 +1,4 @@
 # SASE
 
-SASE. See **self-addressed stamped envelope**.
+See **self-addressed stamped envelope**.
 

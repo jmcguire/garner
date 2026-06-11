@@ -1,4 +1,4 @@
 # Wyomingite
 
-Wyomingite. See demonyms.
+See demonyms.
 

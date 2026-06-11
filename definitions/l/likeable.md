@@ -1,4 +1,4 @@
 # likeable
 
-likeable. See **likable**.
+See **likable**.
 

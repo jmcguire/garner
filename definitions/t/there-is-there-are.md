@@ -1,7 +1,5 @@
 # there is; there are
 
-there is; there are.
-
 ## A. As Signals of Clutter
 
 These phrases, though sometimes useful, can also be the enemies of a lean writing style, as several commentators have observed—e.g.:

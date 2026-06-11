@@ -1,4 +1,4 @@
 # slander
 
-slander. See **defamation**.
+See **defamation**.
 

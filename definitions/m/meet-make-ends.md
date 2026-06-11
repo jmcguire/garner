@@ -1,4 +1,4 @@
 # meet, make ends
 
-meet, make ends. See **make ends meet**.
+See **make ends meet**.
 

@@ -1,4 +1,4 @@
 # Elegant Variation
 
-Elegant Variation. See inelegant variation.
+See inelegant variation.
 

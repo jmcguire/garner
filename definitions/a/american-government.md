@@ -1,6 +1,6 @@
 # American government
 
-American government. This phrase is acceptable when you're talking about the way the U.S. is governed, as opposed to "the government" as an entity—e.g.:
+This phrase is acceptable when you're talking about the way the U.S. is governed, as opposed to "the government" as an entity—e.g.:
 
  - "This seminar, dealing with congressional policies and *American government*, is presented by the Washington Workshops Foundation and will be attended by high school leaders from across the country." "School News," *Portland Press Herald*, 20 Dec. 1995, at B7.
 

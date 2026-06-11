@@ -1,4 +1,4 @@
 # \*analyzation
 
-\*analyzation. See **analysis**.
+See **analysis**.
 

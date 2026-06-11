@@ -1,6 +1,6 @@
 # viz
 
-viz. is an abbreviation of the Latin word *videlicet* (fr. *videre* "to see" \+ *licet* "it is permissible"). The English-language equivalents are *namely* and *that is*, either of which is preferable. (See **namely** & **that is**.) Like its English counterparts, the Latin term signifies that what follows particularizes and explains a general statement. E.g.:
+is an abbreviation of the Latin word *videlicet* (fr. *videre* "to see" \+ *licet* "it is permissible"). The English-language equivalents are *namely* and *that is*, either of which is preferable. (See **namely** & **that is**.) Like its English counterparts, the Latin term signifies that what follows particularizes and explains a general statement. E.g.:
 
  - "For too long Virginia's elitist Democrats (*viz.*, Don Beyer, L.F. Payne, Mark Warner, Chuck Robb et al. are—to a man—millionaires) have taken Virginia's African-Americans, including Wilder, for granted." "Election Clean-Up," *Richmond Times-Dispatch*, 8 Nov. 1997, at A8.
 

@@ -1,4 +1,4 @@
 # \*anachronic
 
-\*anachronic. See **anachronistic**.
+See **anachronistic**.
 

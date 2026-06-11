@@ -1,7 +1,5 @@
 # admonition
 
-admonition.
-
 ## A. And *monition*
 
 Both terms mean "a warning; caution." *Admonition* is the more common, less technical term—e.g.: "Then Jack Kemp chimes in with an *admonition* to listeners to beg Congress to ban the procedure in question ‘before one more life is lost.' " Nell Bernstein, "Abortion Wars: A Smaller Sequel," *Newsday* (N.Y.), 9 Mar. 1997, at G5. This word has the additional sense "a mild reprimand"—e.g.: "Righter could face sanctions ranging from an official *admonition* to being stripped of his priesthood and rank as a bishop." Mark O'Keefe, "Bishop's Heresy Trial May Split Pro- and Anti-Gay Episcopal Factions," *San Diego Union-Trib.*, 29 Sept. 1995, at E4.

@@ -1,4 +1,4 @@
 # wench
 
-wench. See **winch**.
+See **winch**.
 

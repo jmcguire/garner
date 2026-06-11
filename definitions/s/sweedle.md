@@ -1,4 +1,4 @@
 # sweedle
 
-sweedle. See portmanteau words.
+See portmanteau words.
 

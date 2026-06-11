@@ -1,4 +1,4 @@
 # Indian
 
-Indian. See **Native American**.
+See **Native American**.
 

@@ -1,7 +1,5 @@
 # majority
 
-majority.
-
 ## A. For *most*
 
 When *most* will suffice, use it in place of *majority*—e.g.: "*The majority* \[read *Most*\] of the budget increase is due to the long-awaited expansion or replacement for city hall." Dave Nicholson, "Public Hearings Set on Budget," *Tampa Trib.*, 6 Sept. 1997, at 1. *Majority* is most helpful in discussing votes—e.g.: "And let's not forget that a *majority* of Michigan voters approved term limits." Joseph A. Morton, "Should Michigan Kill Term Limits?," *Detroit News*, 6 Sept. 1997, at C14.

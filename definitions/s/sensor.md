@@ -1,4 +1,4 @@
 # sensor
 
-sensor. See **censor**.
+See **censor**.
 

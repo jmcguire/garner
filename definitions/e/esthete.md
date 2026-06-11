@@ -1,4 +1,4 @@
 # \*esthete
 
-\*esthete. See **aesthete**.
+See **aesthete**.
 

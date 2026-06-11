@@ -1,4 +1,4 @@
 # slurry
 
-slurry. See **sludge**.
+See **sludge**.
 

@@ -1,4 +1,4 @@
 # attorney
 
-attorney. See **lawyer**.
+See **lawyer**.
 

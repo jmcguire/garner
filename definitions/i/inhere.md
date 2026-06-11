@@ -1,7 +1,5 @@
 # inhere
 
-inhere.
-
 ## A. Preposition with
 
 *Inhere* (= to exist as a basic quality in) takes the preposition *in*—not *within*. E.g.: "Of course that fusion *inheres within* \[read *inheres in*\] Judaism." Alisa Solomon, "What's God Got to Do with It?," *Village Voice*, 18 Apr. 1995, at 33.

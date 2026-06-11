@@ -1,6 +1,6 @@
 # exact same
 
-exact same. This expression, which sprang into currency after 1950, is a lazy truncation of *exactly the same*. Although *the exact same* is acceptable in informal speech, it's not an expression for polished prose—e.g.:
+This expression, which sprang into currency after 1950, is a lazy truncation of *exactly the same*. Although *the exact same* is acceptable in informal speech, it's not an expression for polished prose—e.g.:
 
  - "There is not one briefcase, however. There are several; they're *the exact same* \[read *exactly the same*\] shade of pale aqua, and they all get swapped by characters skulking in and out of various dressing cubicles." David Richards, "All Roads Lead to Mother in a Game of Spy Versus Spy," *N.Y. Times*, 5 Dec. 1994, at C11.
 

@@ -1,4 +1,4 @@
 # patricide
 
-patricide. See **parricide**.
+See **parricide**.
 

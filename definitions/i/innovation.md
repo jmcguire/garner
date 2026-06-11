@@ -1,4 +1,4 @@
 # innovation
 
-innovation. See **\*new innovation**.
+See **\*new innovation**.
 

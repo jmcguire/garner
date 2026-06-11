@@ -1,4 +1,4 @@
 # ult
 
-ult. See **inst**.
+See **inst**.
 

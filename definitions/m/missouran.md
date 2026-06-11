@@ -1,4 +1,4 @@
 # \*Missouran
 
-\*Missouran. See **Missourian**.
+See **Missourian**.
 

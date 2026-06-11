@@ -1,4 +1,4 @@
 # subconscious
 
-subconscious. See **unconscious**.
+See **unconscious**.
 

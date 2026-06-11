@@ -1,4 +1,4 @@
 # \*pigeon English
 
-\*pigeon English. See **pidgin**.
+See **pidgin**.
 

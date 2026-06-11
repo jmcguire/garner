@@ -1,4 +1,4 @@
 # \*impower
 
-\*impower. See **empower**.
+See **empower**.
 

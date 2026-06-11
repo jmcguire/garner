@@ -1,4 +1,4 @@
 # round
 
-round. See **around**.
+See **around**.
 

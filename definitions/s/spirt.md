@@ -1,4 +1,4 @@
 # \*spirt
 
-\*spirt. See **spurt**.
+See **spurt**.
 

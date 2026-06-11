@@ -1,4 +1,4 @@
 # unlawful
 
-unlawful. See **illegal**.
+See **illegal**.
 

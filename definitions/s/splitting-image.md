@@ -1,4 +1,4 @@
 # \*splitting image
 
-\*splitting image. See **spitting image (b)**.
+See **spitting image (b)**.
 

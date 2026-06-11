@@ -1,7 +1,5 @@
 # gild
 
-gild.
-
 ## A. And *guild*
 
 To *gild* a thing is to put a thin layer of gold on it. Misusing *guild* (= an association made up of people with similar occupations or interests) for the verb *gild* is a fairly common error—e.g.:

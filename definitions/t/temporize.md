@@ -1,7 +1,5 @@
 # temporize
 
-temporize.
-
 ## A. And *temporalize*
 
 *Temporize* (fairly common since the 1600s) = (1) to gain time by evasion or indirection \<the tough financial solutions have long been apparent, but policymakers have temporized\>; or (2) to behave as the circumstances require, esp. by complying or yielding \<after Jill threatened to leave, Jack temporized and wore a dark suit to the wedding\>.

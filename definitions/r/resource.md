@@ -1,4 +1,4 @@
 # resource
 
-resource. See **recourse**.
+See **recourse**.
 

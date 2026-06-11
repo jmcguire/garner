@@ -1,7 +1,5 @@
 # partially
 
-partially.
-
 ## A. And *partly.*
 
 Whenever either word can suffice in a given context, *partly* is the better choice. *Partially* occasionally causes ambiguity because of its other sense "in a manner exhibiting favoritism." E.g.: "The case was *partially* heard on May 31, 1995." Lydia Barbara Bashwiner, "Aubrey Family-Member Rule Is Applied Prospectively Only," *N.J. Lawyer*, 24 Feb. 1997, at 36. But aren't cases supposed to be heard impartially?

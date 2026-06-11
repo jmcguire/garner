@@ -1,4 +1,4 @@
 # \*shuffle pass
 
-\*shuffle pass. See **shovel pass**.
+See **shovel pass**.
 

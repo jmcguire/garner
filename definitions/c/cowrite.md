@@ -1,4 +1,4 @@
 # cowrite
 
-cowrite. See **author**, v.t. **(a)**.
+See **author**, v.t. **(a)**.
 

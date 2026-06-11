@@ -1,7 +1,5 @@
 # of
 
-of.
-
 ## A. Signaling Verbosity
 
 However innocuous it may appear, the tiny word *of* is, in anything other than small doses, among the surest indications of flabby writing. Some fear that *of* and its resulting flabbiness are spreading: "Clearly, *of* is now something more than a mere preposition. It's a virus." "All About Of," *N.Y. Times*, 8 Mar. 1992, at 14. The only suitable vaccination is to cultivate a hardy skepticism about its utility in any given context. If it proves itself, fine. Often, though, it will merely breed verbosity—e.g.:

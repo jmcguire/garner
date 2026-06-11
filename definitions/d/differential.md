@@ -1,7 +1,5 @@
 # differential
 
-differential.
-
 ## A. And *difference*
 
 Traditionally, the noun *differential* had only specialized mathematical, biological, and mechanical senses. As a popularized technicality, it was extended to mean "a difference in wages or prices" \<a port differential between tariff rates\>. E.g.: "Drivers receive only straight time for the extra day, with no pay *differential*." Michael Davis, "Ryder, Union Still Troubled," *Tennessean*, 15 Jan. 1998, at E1.

@@ -1,4 +1,4 @@
 # scaly
 
-scaly. So spelled—not *\*scaley*.
+So spelled—not *\*scaley*.
 

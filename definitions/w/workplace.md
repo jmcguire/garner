@@ -1,4 +1,4 @@
 # workplace
 
-workplace. One word.
+One word.
 

@@ -1,7 +1,5 @@
 # and
 
-and.
-
 ## A. Beginning Sentences with
 
 It is rank superstition that this coordinating conjunction cannot properly begin a sentence:

@@ -1,4 +1,4 @@
 # impossible
 
-impossible. See adjectives (b).
+See adjectives (b).
 

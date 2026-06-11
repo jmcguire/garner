@@ -1,4 +1,4 @@
 # confession
 
-confession. See **admission (b)**.
+See **admission (b)**.
 

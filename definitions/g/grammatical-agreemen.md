@@ -1,4 +1,4 @@
 # Grammatical Agreement
 
-Grammatical Agreement. See concord & subject–verb agreement.
+See concord & subject–verb agreement.
 

@@ -1,4 +1,4 @@
 # compare and contrast
 
-compare and contrast. See **contrast (b)**.
+See **contrast (b)**.
 

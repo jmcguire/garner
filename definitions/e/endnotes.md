@@ -1,4 +1,4 @@
 # Endnotes
 
-Endnotes. See footnotes (b).
+See footnotes (b).
 

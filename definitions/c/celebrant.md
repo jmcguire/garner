@@ -1,7 +1,5 @@
 # celebrant
 
-celebrant.
-
 ## A. And *celebrator*
 
 *Celebrant* best refers to a participant in a religious rite \<the celebrant at the baptism\>. *Celebrator* is the better word for someone who celebrates—e.g.: "Never let it be said that we last-minute *celebrators* have to be satisfied with the leftovers, the discards, the old and the ugly." Warren Berry, "Our Favorite Things," *Newsday* (N.Y.), 16 Dec. 2001, at H5.

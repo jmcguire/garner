@@ -1,4 +1,4 @@
 # Torino
 
-Torino. See **Turin**.
+See **Turin**.
 

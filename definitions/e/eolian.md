@@ -1,4 +1,4 @@
 # \*eolian
 
-\*eolian. See **aeolian**.
+See **aeolian**.
 

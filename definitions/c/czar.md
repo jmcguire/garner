@@ -1,4 +1,4 @@
 # czar
 
-czar. See **tsar**.
+See **tsar**.
 

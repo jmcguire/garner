@@ -1,6 +1,6 @@
 # more important(ly)
 
-more important(ly). As an introductory phrase, *more important* as a sentence-starter has historically been considered an elliptical form of "What is more important . . . ," and hence the *-ly* form is sometimes thought to be the less desirable. From 1850 to 1950, *more important* appeared often in print sources as a sentence-starter. But beginning about 1950, *more importantly* also began appearing frequently—and by 2000 it was rivaling the no*-ly* form. For now, the two coexist in literary language, but momentum seems to be on the side of the *-ly* form—which now predominates by a 2:1 ratio in BrE (it's 1:1 in AmE).
+As an introductory phrase, *more important* as a sentence-starter has historically been considered an elliptical form of "What is more important . . . ," and hence the *-ly* form is sometimes thought to be the less desirable. From 1850 to 1950, *more important* appeared often in print sources as a sentence-starter. But beginning about 1950, *more importantly* also began appearing frequently—and by 2000 it was rivaling the no*-ly* form. For now, the two coexist in literary language, but momentum seems to be on the side of the *-ly* form—which now predominates by a 2:1 ratio in BrE (it's 1:1 in AmE).
 
 Three points militate against the position that the *-ly* form is undesirable. First, if we may begin a sentence "*Importantly*, the production appeared first off Broadway . . . ," we ought to be able to begin it, "*More importantly*, . . . ." See adverbs (f).
 

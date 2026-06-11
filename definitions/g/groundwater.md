@@ -1,4 +1,4 @@
 # groundwater
 
-groundwater. One word.
+One word.
 

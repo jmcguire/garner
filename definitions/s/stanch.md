@@ -1,4 +1,4 @@
 # stanch
 
-stanch. See **staunch**.
+See **staunch**.
 

@@ -1,4 +1,4 @@
 # ironically
 
-ironically. See adverbs (f).
+See adverbs (f).
 

@@ -1,7 +1,5 @@
 # however
 
-however.
-
 ## A. Beginning Sentences with
 
 It seems everyone has heard that sentences should not begin with this word—not, that is, when a contrast is intended. But doing so isn't a grammatical error; it's merely a stylistic lapse, the word *But* or *Yet* ordinarily being much preferable. (See **but (a)**.) The reason is that *However*—three syllables followed by a comma—is a ponderous way of introducing a contrast, and it leads to unemphatic sentences. E.g.:

@@ -1,4 +1,4 @@
 # \*flection
 
-\*flection. See **flexion**.
+See **flexion**.
 

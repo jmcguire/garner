@@ -1,6 +1,6 @@
 # fall through the cracks
 
-fall through the cracks. The *cracks* in this idiom are the openings between slats, as on a boardwalk. Things can *fall through the cracks* but not *between* them because that's where the slats are. Yet since about 1960, the idiom has often been mangled into the illogical *\*fall between the cracks*—e.g.:
+The *cracks* in this idiom are the openings between slats, as on a boardwalk. Things can *fall through the cracks* but not *between* them because that's where the slats are. Yet since about 1960, the idiom has often been mangled into the illogical *\*fall between the cracks*—e.g.:
 
  - "But Mr. Ball argued that the program reaches a segment of the population that normally *falls between* \[read *through*\] *the cracks*." Sally Brady & Leslie Koren, "Jail Not Sole Option for Drunkards," *Wash. Times*, 21 Dec. 1998, at C7.
 

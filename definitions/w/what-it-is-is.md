@@ -1,6 +1,6 @@
 # what it is is
 
-what it is is. Sentences with this ungainly construction have been much on the rise since the beginning of the 20th century. E.g.: "*What* the O'Rourke study really *is is* simply a glorified set of examinations in grammar." Janet Rankin Aiken, *Commonsense Grammar* 244 (1936). Dating from the mid-1800s, the phrasing had become common by the 1960s—e.g.: "*What it is is* a judicious mixing of standard English with a large number of ‘Scotchifications.' " Stanley Rundle, "Language and Dialect," in *A Linguistics Reader* 86, 88 (Graham Wilson ed., 1967).
+Sentences with this ungainly construction have been much on the rise since the beginning of the 20th century. E.g.: "*What* the O'Rourke study really *is is* simply a glorified set of examinations in grammar." Janet Rankin Aiken, *Commonsense Grammar* 244 (1936). Dating from the mid-1800s, the phrasing had become common by the 1960s—e.g.: "*What it is is* a judicious mixing of standard English with a large number of ‘Scotchifications.' " Stanley Rundle, "Language and Dialect," in *A Linguistics Reader* 86, 88 (Graham Wilson ed., 1967).
 
 Notice that neither of those writers put a comma before the second *is*. That's the way to punctuate it—with nothing at all. Only the last of these three more recent examples got the punctuation right:
 

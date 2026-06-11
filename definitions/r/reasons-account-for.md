@@ -1,6 +1,6 @@
 # \*reasons account for
 
-\*reasons account for. This odd, illogical construction appears to result from writers' seeking to avoid both the noun *things* (and therefore resort to *reasons*) and the construction *there are* (see **there is**). But either of those choices is preferable to the idea that a reason can account for something. There can be several reasons for a phenomenon; or several things can account for it. But idiomatically speaking, the reasons don't account—e.g.:
+This odd, illogical construction appears to result from writers' seeking to avoid both the noun *things* (and therefore resort to *reasons*) and the construction *there are* (see **there is**). But either of those choices is preferable to the idea that a reason can account for something. There can be several reasons for a phenomenon; or several things can account for it. But idiomatically speaking, the reasons don't account—e.g.:
 
  - "Several *reasons account* for the trend, specialists say, but most point to one reason: experience." Raphael Lewis, "Teen Drivers Said to Pose Increased Risk," *Boston Globe*, 16 Mar. 2000, at B4. \[A suggested revision: *Several things account for the trend, specialists say, but most point to one: experience.* Or: *There are several reasons for the trend.*\]
 

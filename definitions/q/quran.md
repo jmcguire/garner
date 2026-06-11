@@ -1,4 +1,4 @@
 # Quran
 
-Quran. See **Koran**.
+See **Koran**.
 

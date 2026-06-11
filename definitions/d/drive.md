@@ -1,7 +1,5 @@
 # drive
 
-drive.
-
 ## A. Inflected Forms: *drive* \> *drove* \> *driven*
 
 In AmE, *drived* (for *drove*) seems to have become standard in some sports terms. In baseball, phrasal verbs made from nouns that are in turn derived from strong verbs are often weakened to *-ed* forms, as when *fly out* becomes *flied out*—the only instance in which *flied* (instead of *flew*) is correctly used as a past tense. The same thing has happened with *line-drive* (which has invaded the lingo of other sports). Although *line-drive* as a verb has been standard since the 1980s, an alternative wording might sometimes be preferable—e.g.:

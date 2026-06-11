@@ -1,4 +1,4 @@
 # \*gerry-rig
 
-\*gerry-rig. See **jury-rig**.
+See **jury-rig**.
 

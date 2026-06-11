@@ -1,4 +1,4 @@
 # disafforest
 
-disafforest. See **deforest**.
+See **deforest**.
 

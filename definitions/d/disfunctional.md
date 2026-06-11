@@ -1,4 +1,4 @@
 # \*disfunctional
 
-\*disfunctional. See **dysfunctional**.
+See **dysfunctional**.
 

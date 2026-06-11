@@ -1,4 +1,4 @@
 # befriend
 
-befriend. See hierarchical expressions.
+See hierarchical expressions.
 

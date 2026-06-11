@@ -1,7 +1,5 @@
 # check
 
-check.
-
 ## A. And *cheque*
 
 Both denote a written order directing a bank to pay money to a specified person. The first, much older spelling is standard AmE. The second has been used by the British since the late 1700s. Still, the second spelling turns up occasionally in AmE.

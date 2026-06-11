@@ -1,4 +1,4 @@
 # hour
 
-hour. See **half an hour**.
+See **half an hour**.
 

@@ -1,7 +1,5 @@
 # no less
 
-no less.
-
 ## A. And *no fewer*
 
 The phrase *no less*, like *less*, preferably refers to amounts or to mass nouns, not countable numbers. *No fewer* is the better phrase when discussing numbers of things. (See **less (a)**.) But many good writers nod on this point—e.g.:

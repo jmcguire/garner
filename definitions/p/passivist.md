@@ -1,4 +1,4 @@
 # passivist
 
-passivist. See **pacifist**.
+See **pacifist**.
 

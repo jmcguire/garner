@@ -1,4 +1,4 @@
 # unorganized
 
-unorganized. See **disorganized**.
+See **disorganized**.
 

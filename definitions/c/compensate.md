@@ -1,7 +1,5 @@
 # compensate
 
-compensate.
-
 ## A. Transitive or Intransitive
 
 *Compensate* may or may not take *for*, and either way means "to make up for, to counterbalance (a loss)." The modern tendency is to omit *for*, but the sound of a sentence may outweigh the interests of concision. E.g.:

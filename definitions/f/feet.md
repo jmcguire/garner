@@ -1,4 +1,4 @@
 # feet
 
-feet. See **foot**.
+See **foot**.
 

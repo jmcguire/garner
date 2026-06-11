@@ -1,4 +1,4 @@
 # Nongradable Adjectives
 
-Nongradable Adjectives. See adjectives (b).
+See adjectives (b).
 

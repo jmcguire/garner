@@ -1,4 +1,4 @@
 # consent
 
-consent. See **assent**.
+See **assent**.
 

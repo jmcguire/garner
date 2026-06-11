@@ -1,4 +1,4 @@
 # vittles
 
-vittles. See **victuals**.
+See **victuals**.
 

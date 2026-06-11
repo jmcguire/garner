@@ -1,6 +1,6 @@
 # auxiliary
 
-auxiliary. So spelled, this word is best pronounced /awg-**zil**-yә-ree/. Perhaps through confusion with *ancillary*, it is often misspelled *\*auxillary* (and mispronounced /awg-**zil**-ә-ree/)—e.g.:
+So spelled, this word is best pronounced /awg-**zil**-yә-ree/. Perhaps through confusion with *ancillary*, it is often misspelled *\*auxillary* (and mispronounced /awg-**zil**-ә-ree/)—e.g.:
 
  - "In the past week, the company has moved operations to its *auxillary* \[read *auxiliary*\] warehouse." Jeff Richgels, "Rising from the Ashes," *Capital Times* (Madison), 10 Aug. 1996, at C1.
 

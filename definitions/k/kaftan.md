@@ -1,4 +1,4 @@
 # kaftan
 
-kaftan. See **caftan**.
+See **caftan**.
 

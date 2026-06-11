@@ -1,4 +1,4 @@
 # unavoidable
 
-unavoidable. See adjectives (b).
+See adjectives (b).
 

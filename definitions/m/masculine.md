@@ -1,4 +1,4 @@
 # masculine
 
-masculine. See **male**.
+See **male**.
 

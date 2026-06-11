@@ -1,4 +1,4 @@
 # embarrass
 
-embarrass. See spelling (a).
+See spelling (a).
 

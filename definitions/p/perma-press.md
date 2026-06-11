@@ -1,4 +1,4 @@
 # perma-press
 
-perma-press. See portmanteau words.
+See portmanteau words.
 

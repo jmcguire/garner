@@ -1,4 +1,4 @@
 # \*rhodomontade
 
-\*rhodomontade. See **rodomontade**.
+See **rodomontade**.
 

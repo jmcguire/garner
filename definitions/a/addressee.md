@@ -1,4 +1,4 @@
 # addressee
 
-addressee. See -ee.
+See -ee.
 

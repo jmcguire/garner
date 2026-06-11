@@ -1,4 +1,4 @@
 # britches
 
-britches. See **breeches**.
+See **breeches**.
 

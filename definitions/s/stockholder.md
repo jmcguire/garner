@@ -1,4 +1,4 @@
 # stockholder
 
-stockholder. See **shareholder**.
+See **shareholder**.
 

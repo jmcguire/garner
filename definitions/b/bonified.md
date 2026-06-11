@@ -1,4 +1,4 @@
 # \*bonified
 
-\*bonified. See **bona fide (c)**.
+See **bona fide (c)**.
 

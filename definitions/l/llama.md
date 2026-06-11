@@ -1,4 +1,4 @@
 # llama
 
-llama. See **lama**.
+See **lama**.
 

@@ -1,4 +1,4 @@
 # nobody
 
-nobody. See **no one** & pronouns (d).
+See **no one** & pronouns (d).
 

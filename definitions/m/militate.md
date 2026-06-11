@@ -1,4 +1,4 @@
 # militate
 
-militate. See **mitigate**.
+See **mitigate**.
 

@@ -1,4 +1,4 @@
 # had better
 
-had better. See **better (a)**.
+See **better (a)**.
 

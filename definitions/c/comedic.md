@@ -1,4 +1,4 @@
 # comedic
 
-comedic. See **comic**.
+See **comic**.
 

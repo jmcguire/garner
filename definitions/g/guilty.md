@@ -1,4 +1,4 @@
 # guilty
 
-guilty. See **not guilty**.
+See **not guilty**.
 

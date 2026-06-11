@@ -1,4 +1,4 @@
 # topography
 
-topography. See **typography**.
+See **typography**.
 

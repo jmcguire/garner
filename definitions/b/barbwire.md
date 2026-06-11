@@ -1,4 +1,4 @@
 # \*barbwire
 
-\*barbwire. See **barbed wire**.
+See **barbed wire**.
 

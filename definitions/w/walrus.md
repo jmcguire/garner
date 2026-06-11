@@ -1,4 +1,4 @@
 # walrus
 
-walrus. Pl. *walruses*.
+Pl. *walruses*.
 

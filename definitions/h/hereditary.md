@@ -1,4 +1,4 @@
 # hereditary
 
-hereditary. See **heritable**.
+See **heritable**.
 

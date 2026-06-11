@@ -1,4 +1,4 @@
 # might
 
-might. See **may** & subjunctives.
+See **may** & subjunctives.
 

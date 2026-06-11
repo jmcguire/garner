@@ -1,4 +1,4 @@
 # weald
 
-weald. See **wield**.
+See **wield**.
 

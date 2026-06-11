@@ -1,4 +1,4 @@
 # \*canakin
 
-\*canakin. See **canister**.
+See **canister**.
 

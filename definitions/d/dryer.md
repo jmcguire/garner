@@ -1,4 +1,4 @@
 # dryer
 
-dryer. See **drier**.
+See **drier**.
 

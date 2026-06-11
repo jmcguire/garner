@@ -1,4 +1,4 @@
 # excess
 
-excess. See **access**, n. **(a)**.
+See **access**, n. **(a)**.
 

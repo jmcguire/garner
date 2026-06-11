@@ -1,4 +1,4 @@
 # primeval
 
-primeval. See **primal**.
+See **primal**.
 

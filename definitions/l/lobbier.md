@@ -1,4 +1,4 @@
 # \*lobbier
 
-\*lobbier. See **lobbyist**.
+See **lobbyist**.
 

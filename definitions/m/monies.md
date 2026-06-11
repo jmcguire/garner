@@ -1,4 +1,4 @@
 # \*monies
 
-\*monies. See **moneys**.
+See **moneys**.
 

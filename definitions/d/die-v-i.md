@@ -1,7 +1,5 @@
 # die, v.i
 
-die, v.i.
-
 ## A. Preposition with
 
 *Die of* (= to die as a result of \[a disease or ailment\]) is the standard idiom. *Die from* is also common, especially when the death results from physical trauma \<died from injuries received in a traffic accident\>. *Die with* is nonstandard—e.g.: "And I felt them two years ago, holding me up and keeping me strong at the memorial service after his dad *died with* \[read *died of*\] cancer." Sharon Randall, "Memories," *Topeka Capital-J.*, 19 Sept. 2000, at C1.

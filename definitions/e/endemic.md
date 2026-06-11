@@ -1,4 +1,4 @@
 # endemic
 
-endemic. See **epidemic**.
+See **epidemic**.
 

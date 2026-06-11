@@ -1,4 +1,4 @@
 # conception, immaculate
 
-conception, immaculate. See **immaculate conception**.
+See **immaculate conception**.
 

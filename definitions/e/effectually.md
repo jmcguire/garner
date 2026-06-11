@@ -1,4 +1,4 @@
 # effectually
 
-effectually. See **effectively**.
+See **effectively**.
 

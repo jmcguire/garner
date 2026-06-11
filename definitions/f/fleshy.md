@@ -1,4 +1,4 @@
 # fleshy
 
-fleshy. See **fleshly**.
+See **fleshly**.
 

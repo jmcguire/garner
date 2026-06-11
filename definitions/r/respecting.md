@@ -1,4 +1,4 @@
 # respecting
 
-respecting. For *respecting* as an acceptable dangling modifier, see danglers (e).
+For *respecting* as an acceptable dangling modifier, see danglers (e).
 

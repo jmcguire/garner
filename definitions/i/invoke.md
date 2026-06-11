@@ -1,4 +1,4 @@
 # invoke
 
-invoke. See **evoke**.
+See **evoke**.
 

@@ -1,4 +1,4 @@
 # larceny
 
-larceny. See **burglary**.
+See **burglary**.
 

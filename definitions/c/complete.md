@@ -1,4 +1,4 @@
 # complete
 
-complete. See adjectives (b).
+See adjectives (b).
 

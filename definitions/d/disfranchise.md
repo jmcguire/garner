@@ -1,4 +1,4 @@
 # disfranchise
 
-disfranchise. See **disenfranchise**.
+See **disenfranchise**.
 

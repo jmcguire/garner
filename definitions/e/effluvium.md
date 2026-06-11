@@ -1,7 +1,5 @@
 # effluvium
 
-effluvium.
-
 ## A. Plural Form
 
 *Effluvium* (= \[1\] a smelly emanation or stench; or \[2\] industrial waste) forms the plurals *effluvia* and *effluviums*. The former has long predominated and is established as standard. See plurals (b).

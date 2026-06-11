@@ -1,4 +1,4 @@
 # \*arbitratable
 
-\*arbitratable. See **arbitrable**.
+See **arbitrable**.
 

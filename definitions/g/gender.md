@@ -1,7 +1,5 @@
 # gender
 
-gender.
-
 ## A. Generally
 
 The term *gender* has long been used as a grammatical distinction of a word according to the sex assigned (usually arbitrarily in the Romance languages) to a given noun. It has newly been established in the language of the law in phrases such as *gender discrimination*, a use disapproved as jargonistic by some authorities. In reformers' eyes, it eliminates the distracting word *sex* (which, of course, denotes coitus as well as physical characteristics that contribute to one's sense of self).

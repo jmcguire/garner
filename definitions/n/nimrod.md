@@ -1,6 +1,6 @@
 # nimrod
 
-nimrod. According to all the standard dictionaries—such as *W11* and the *SOED*—this word means "a skillful hunter." The term derives from the name of a king of Shinar (Nimrod), who is described in Genesis as a mighty hunter. And the word is often used in this traditional sense—e.g.: "Some sportsmen, of course, would say Mealey has a fatal flaw . . . . *Nimrods* and anglers believe he's too cozy with groups as varied as ranchers, miners, loggers and even environmentalists." D.F. Oliveria, "Unattended Youngsters at Great Risk in the Water," *Spokesman Rev.* (Spokane), 5 Aug. 1997, at B4.
+According to all the standard dictionaries—such as *W11* and the *SOED*—this word means "a skillful hunter." The term derives from the name of a king of Shinar (Nimrod), who is described in Genesis as a mighty hunter. And the word is often used in this traditional sense—e.g.: "Some sportsmen, of course, would say Mealey has a fatal flaw . . . . *Nimrods* and anglers believe he's too cozy with groups as varied as ranchers, miners, loggers and even environmentalists." D.F. Oliveria, "Unattended Youngsters at Great Risk in the Water," *Spokesman Rev.* (Spokane), 5 Aug. 1997, at B4.
 
 In late-20th-century slang, though, the word came to mean "a simpleton; dunderhead; blockhead"—e.g.:
 

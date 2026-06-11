@@ -1,4 +1,4 @@
 # \*teepee
 
-\*teepee. See **tepee**.
+See **tepee**.
 

@@ -1,6 +1,6 @@
 # tuna fish
 
-tuna fish. Strictly speaking, *tuna fish* is redundant because *tuna* is invariably a *fish*. Many have complained about this issue, which first arose about 1914—e.g.:
+Strictly speaking, *tuna fish* is redundant because *tuna* is invariably a *fish*. Many have complained about this issue, which first arose about 1914—e.g.:
 
  - "If he had his way, he would rid the world of ‘*tuna fish*.' ‘What else can a tuna be?' asks Anderson." Robert L. Miller, "Letter from the Publisher," *Sports Illustrated*, 9 July 1984, at 4.
 

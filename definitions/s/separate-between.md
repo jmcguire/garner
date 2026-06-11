@@ -1,6 +1,6 @@
 # \*separate between
 
-\*separate between. This phrase often appears ill-advisedly in place of *distinguish between* or *separate from*—e.g.:
+This phrase often appears ill-advisedly in place of *distinguish between* or *separate from*—e.g.:
 
  - "Second, \[be sure to\] *separate between* \[read *distinguish between*\] direct and indirect salespersons' costs." Melissa Campanelli, "Can Managers Coach?," *Sales & Marketing Mgmt.*, 1 July 1994, at 58.
 

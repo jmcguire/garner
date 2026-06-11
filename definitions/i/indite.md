@@ -1,4 +1,4 @@
 # indite
 
-indite. See **indict**.
+See **indict**.
 

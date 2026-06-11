@@ -1,7 +1,5 @@
 # epithet
 
-epithet.
-
 ## A. Meanings
 
 *Epithet* = (1) an esp. apt description or label, whether the quality denoted is favorable or unfavorable; or (2) a slur or an abusive term. Sense 2 is quickly driving out sense 1.

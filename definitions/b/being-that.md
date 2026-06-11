@@ -1,7 +1,5 @@
 # being that
 
-being that.
-
 ## A. Meaning "because" or "since."
 
 Instead of using this awkward phrase in the sense of *because* or *since*, use one of those straightforward words—e.g.:

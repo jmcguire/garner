@@ -1,6 +1,6 @@
 # fir
 
-fir. The name of the evergreen tree is occasionally misspelled *fur*, creating an odd mental image—e.g.:
+The name of the evergreen tree is occasionally misspelled *fur*, creating an odd mental image—e.g.:
 
  - "One of the most visible signs of the strong winds was the toppling of an almost 80-foot *fur* \[read *fir*\] tree near a Congress Street home in Fairfield." Greg Clarkin, "Scrambling for Power After a One-Two Punch of Storms," *N.Y. Times*, 22 Jan. 2006, § 14CN, at 11.
 

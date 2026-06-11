@@ -1,4 +1,4 @@
 # shape up
 
-shape up. See hierarchical expressions.
+See hierarchical expressions.
 

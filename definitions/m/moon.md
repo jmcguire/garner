@@ -1,4 +1,4 @@
 # moon
 
-moon. See **earth**.
+See **earth**.
 

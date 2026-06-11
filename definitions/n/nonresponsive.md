@@ -1,4 +1,4 @@
 # nonresponsive
 
-nonresponsive. See **unresponsive**.
+See **unresponsive**.
 

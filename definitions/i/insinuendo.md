@@ -1,4 +1,4 @@
 # insinuendo
 
-insinuendo. See portmanteau words.
+See portmanteau words.
 

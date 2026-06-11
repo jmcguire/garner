@@ -1,4 +1,4 @@
 # netiquette
 
-netiquette. See portmanteau words.
+See portmanteau words.
 

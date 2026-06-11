@@ -1,4 +1,4 @@
 # Genitives
 
-Genitives. See possessives.
+See possessives.
 

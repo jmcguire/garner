@@ -1,4 +1,4 @@
 # Mohammed
 
-Mohammed. See **Muhammad**.
+See **Muhammad**.
 

@@ -1,4 +1,4 @@
 # avert
 
-avert. See **advert**.
+See **advert**.
 

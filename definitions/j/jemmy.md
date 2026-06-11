@@ -1,4 +1,4 @@
 # jemmy
 
-jemmy. See **jimmy**.
+See **jimmy**.
 

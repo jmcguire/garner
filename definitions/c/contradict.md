@@ -1,4 +1,4 @@
 # contradict
 
-contradict. See **gainsay**.
+See **gainsay**.
 

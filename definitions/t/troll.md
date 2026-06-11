@@ -1,4 +1,4 @@
 # troll
 
-troll. See **trawl**.
+See **trawl**.
 

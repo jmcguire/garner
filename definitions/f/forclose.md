@@ -1,4 +1,4 @@
 # \*forclose
 
-\*forclose. See **foreclose**.
+See **foreclose**.
 

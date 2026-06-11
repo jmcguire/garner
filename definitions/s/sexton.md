@@ -1,4 +1,4 @@
 # sexton
 
-sexton. See **sextant**.
+See **sextant**.
 

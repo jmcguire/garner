@@ -1,4 +1,4 @@
 # all ready
 
-all ready. See **already**.
+See **already**.
 

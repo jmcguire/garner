@@ -1,4 +1,4 @@
 # -ing
 
--ing. See diminutives (h).
+See diminutives (h).
 

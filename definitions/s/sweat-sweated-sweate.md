@@ -1,6 +1,6 @@
 # sweat \> sweated \> sweated
 
-sweat \> sweated \> sweated. So inflected. Although *sweat* is a variant past tense and past participle, *sweated* has been the standard form since the early 20th century in AmE and BrE alike—e.g.:
+So inflected. Although *sweat* is a variant past tense and past participle, *sweated* has been the standard form since the early 20th century in AmE and BrE alike—e.g.:
 
  - "He was dressed in white cowboy hat and boots, and a pearl-gray western jacket that he *sweat* \[read *sweated*\] through." Daniel Gewertz, "Legendary Dylan Rocks 'n' Rolls," *Boston Herald*, 14 Apr. 1997, at 31.
 

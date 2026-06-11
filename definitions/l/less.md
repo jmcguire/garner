@@ -1,7 +1,5 @@
 # less
 
-less.
-
 ## A. And *fewer*
 
 Strictly, *less* applies to singular nouns \<less tonic water, please\> or units of measure \<less than six ounces of epoxy\>. *Fewer* applies to plural nouns \<fewer guests arrived than expected\> or numbers of things \<we have three fewer members this year\>. The empirical evidence in print sources bears out the distinction: the collocation *fewer people* is about seven times as common in books published today as *\*less people*.

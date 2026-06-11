@@ -1,4 +1,4 @@
 # part
 
-part. See **portion**.
+See **portion**.
 

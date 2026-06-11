@@ -1,4 +1,4 @@
 # \*falderol
 
-\*falderol. See **folderol**.
+See **folderol**.
 

@@ -1,4 +1,4 @@
 # flack
 
-flack. See **flak**.
+See **flak**.
 

@@ -1,4 +1,4 @@
 # Mr. President
 
-Mr. President. See hierarchical expressions.
+See hierarchical expressions.
 

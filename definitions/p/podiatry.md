@@ -1,4 +1,4 @@
 # podiatry
 
-podiatry. See **\*chiropody**.
+See **\*chiropody**.
 

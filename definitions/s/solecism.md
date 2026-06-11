@@ -1,6 +1,6 @@
 # solecism
 
-solecism. Generally, *solecism* /**sol**-ә-siz-әm/ refers to a grammatical or syntactic error, often a gross mistake. E.g.:
+Generally, *solecism* /**sol**-ә-siz-әm/ refers to a grammatical or syntactic error, often a gross mistake. E.g.:
 
  - "Robert Faggan edited with a touching, if somewhat irritating, respect for the exact orthography of the original letters, even keeping misspellings and blatant *solecisms*." Christopher Bernard, "A Touching Tracking of Our God-Hunger," *Ft. Worth Star-Telegram*, 23 Mar. 1997, at 9.
 

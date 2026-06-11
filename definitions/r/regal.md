@@ -1,4 +1,4 @@
 # regal
 
-regal. See **kingly**.
+See **kingly**.
 

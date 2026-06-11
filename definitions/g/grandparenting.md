@@ -1,4 +1,4 @@
 # grandparenting
 
-grandparenting. See **parenting**.
+See **parenting**.
 

@@ -1,4 +1,4 @@
 # lay off
 
-lay off. See **fire**.
+See **fire**.
 

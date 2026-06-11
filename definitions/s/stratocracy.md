@@ -1,4 +1,4 @@
 # stratocracy
 
-stratocracy. See governemental forms.
+See governemental forms.
 

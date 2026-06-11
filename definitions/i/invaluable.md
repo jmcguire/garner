@@ -1,4 +1,4 @@
 # invaluable
 
-invaluable. See **valuable**.
+See **valuable**.
 

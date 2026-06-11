@@ -1,4 +1,4 @@
 # \*quadriennial
 
-\*quadriennial. See **quadrennial**.
+See **quadrennial**.
 

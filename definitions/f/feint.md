@@ -1,4 +1,4 @@
 # feint
 
-feint. See **faint** & **feign**.
+See **faint** & **feign**.
 

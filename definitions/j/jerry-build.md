@@ -1,4 +1,4 @@
 # jerry-build
 
-jerry-build. See **jury-rig**.
+See **jury-rig**.
 

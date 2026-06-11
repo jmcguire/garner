@@ -1,4 +1,4 @@
 # Columbusite
 
-Columbusite. See demonyms.
+See demonyms.
 

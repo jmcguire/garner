@@ -1,4 +1,4 @@
 # \*mouch
 
-\*mouch. See **mooch**.
+See **mooch**.
 

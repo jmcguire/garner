@@ -1,4 +1,4 @@
 # saleable
 
-saleable. See **salable**.
+See **salable**.
 

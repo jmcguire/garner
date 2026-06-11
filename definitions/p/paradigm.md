@@ -1,7 +1,5 @@
 # paradigm
 
-paradigm.
-
 ## A. Sense
 
 *Paradigm* = (1) an example, pattern; (2) a pattern of grammatical changes within a language; (3) a theoretical framework; or (4) a prevailing attitude, esp. within education or scholarship.

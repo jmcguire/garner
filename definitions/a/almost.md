@@ -1,7 +1,5 @@
 # almost
 
-almost.
-
 ## A. Placement
 
 This word is sometimes misplaced in a sentence—e.g.: "There is *almost a childlike simplicity* \[read *an almost childlike simplicity*\] in their straightforward depictions." Myra Yellin Outwater, "Early American ‘Naive' Art a Surprise for Sophisticates," *Morning Call* (Allentown, Pa.), 10 Mar. 1996, at F1. Like *only*, the word *almost* should be placed immediately before the word it modifies. See **only (a)**.

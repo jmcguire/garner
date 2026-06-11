@@ -1,6 +1,6 @@
 # Chronology, Essay
 
-Chronology. Many writing problems—though described in various other ways—result primarily from disruptions in chronological order. In narrative presentations, of course, chronology is the essential organizer. The brain can more easily process the information when it's presented in that order. So generally, the writer should try to work out the sequence of events and use sentences and paragraphs to let the story unfold.
+Many writing problems—though described in various other ways—result primarily from disruptions in chronological order. In narrative presentations, of course, chronology is the essential organizer. The brain can more easily process the information when it's presented in that order. So generally, the writer should try to work out the sequence of events and use sentences and paragraphs to let the story unfold.
 
 Even at the sentence level, disruptions can occur. The following example comes from a handbook for band directors: "Improved intonation often results when students take up their instruments after singing their parts aloud once the director realizes that there are intonation problems." This is in reverse chronological order. But the sentence can easily be recast: *A director who detects intonation problems should try having the students put their instruments down and sing their parts aloud. Often, when they play again, their intonation will be improved.*
 

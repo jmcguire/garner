@@ -1,4 +1,4 @@
 # virus
 
-virus. Pl. *viruses*.
+Pl. *viruses*.
 

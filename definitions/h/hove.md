@@ -1,4 +1,4 @@
 # hove
 
-hove. See **heave**.
+See **heave**.
 

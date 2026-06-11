@@ -1,4 +1,4 @@
 # reversion
 
-reversion. See **reversal**.
+See **reversal**.
 

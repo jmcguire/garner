@@ -1,6 +1,6 @@
 # \*after having \[\+ past participle\]
 
-\*after having \[\+ past participle\]. This construction is ordinarily incorrect for *after* \[\+ present participle\]. That is, although either *having gone on for ten years* or *after going on for ten years* makes sense, coupling *after* with *having* \[\+ past participle\] makes a redundancy—e.g.:
+This construction is ordinarily incorrect for *after* \[\+ present participle\]. That is, although either *having gone on for ten years* or *after going on for ten years* makes sense, coupling *after* with *having* \[\+ past participle\] makes a redundancy—e.g.:
 
  - "Queen Caroline, the estranged consort of George IV, . . . died at Hammersmith in 1821, three weeks *after having been* \[read *after being*\] excluded from the Coronation in Westminster Abbey." Kenneth Rose, "Precedent, Protocol and the Stately Ceremonial of Death," *Sunday Telegraph*, 7 Sept. 1997, at 29. (On the ambiguous *who* in that sentence, see remote relatives (a).)
 

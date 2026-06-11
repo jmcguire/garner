@@ -1,4 +1,4 @@
 # in fault
 
-in fault. See **at fault**.
+See **at fault**.
 

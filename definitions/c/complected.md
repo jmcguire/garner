@@ -1,4 +1,4 @@
 # \*complected
 
-\*complected. See **complexioned**.
+See **complexioned**.
 

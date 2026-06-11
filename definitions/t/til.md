@@ -1,4 +1,4 @@
 # \*'til
 
-\*'til. See **till**.
+See **till**.
 

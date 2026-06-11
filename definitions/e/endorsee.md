@@ -1,4 +1,4 @@
 # endorsee
 
-endorsee. See -ee.
+See -ee.
 

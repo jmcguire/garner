@@ -1,4 +1,4 @@
 # \*ensurance
 
-\*ensurance. See **insurance (a)**.
+See **insurance (a)**.
 

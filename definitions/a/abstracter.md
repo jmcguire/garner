@@ -1,4 +1,4 @@
 # abstracter
 
-abstracter. See **abstractor**.
+See **abstractor**.
 

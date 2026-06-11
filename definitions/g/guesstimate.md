@@ -1,4 +1,4 @@
 # guesstimate
 
-guesstimate. See portmanteau words.
+See portmanteau words.
 

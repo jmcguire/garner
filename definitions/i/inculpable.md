@@ -1,4 +1,4 @@
 # inculpable
 
-inculpable. See **culpable** & **inculpatable**.
+See **culpable** & **inculpatable**.
 

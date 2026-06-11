@@ -1,4 +1,4 @@
 # algology
 
-algology. See **phycology**.
+See **phycology**.
 

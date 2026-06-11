@@ -1,7 +1,5 @@
 # effrontery
 
-effrontery.
-
 ## A. For *affront*
 
 *Effrontery* (= shameless insolence), when misused for *affront* (= an open insult), is a malapropism. E.g.:

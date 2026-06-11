@@ -1,7 +1,5 @@
 # defalcate
 
-defalcate.
-
 ## A. And *peculate*; *embezzle*
 
 These words are broadly synonymous, all three meaning "to misappropriate money in one's charge." *Defalcate* and *peculate*, the latter being slightly more common today in referring to public moneys, are formal words that describe a bad action about as neutrally as possible. *Embezzle* is the popular word, more highly charged with negative connotations. See **defalcation**.

@@ -1,4 +1,4 @@
 # everybody
 
-everybody. See **everyone (a), (c)** & pronouns (d).
+See **everyone (a), (c)** & pronouns (d).
 

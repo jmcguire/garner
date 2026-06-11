@@ -1,4 +1,4 @@
 # going forward
 
-going forward. See **henceforth (b)**.
+See **henceforth (b)**.
 

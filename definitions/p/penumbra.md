@@ -1,6 +1,6 @@
 # penumbra
 
-penumbra. Though some dictionaries list only the plural *penumbrae*, you could hardly be faulted for anglicizing to *penumbras*. (See plurals (b).) The word is particularly common in discussions of constitutional law—e.g.:
+Though some dictionaries list only the plural *penumbrae*, you could hardly be faulted for anglicizing to *penumbras*. (See plurals (b).) The word is particularly common in discussions of constitutional law—e.g.:
 
  - "They embroider controversial opinions with qualifiers, exemptions, tripartite analyses, *penumbras* and other devices that enable them to wriggle out of positions that infuriate Washington hostesses or the editors of the New York Times." Tony Snow, "Clarence Thomas, No Excuses," *Cincinnati Enquirer*, 7 July 1995, at A14.
 

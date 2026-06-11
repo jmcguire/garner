@@ -1,4 +1,4 @@
 # misinformation
 
-misinformation. See **disinformation**.
+See **disinformation**.
 

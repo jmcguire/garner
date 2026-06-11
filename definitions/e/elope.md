@@ -1,6 +1,6 @@
 # elope
 
-elope. The *OED* and many other dictionaries define this term as if it had historically been a sexist one in law: "**a.** *Law.* Of a wife: To run away from her husband in the company of a paramour. **b.** In popular language also (and more frequently) said of a woman running away from home with a lover for the purpose of being married" (*OED*). These definitions suggest that only women can elope, but even legal writers have long made men as well as women elopers—e.g.:
+The *OED* and many other dictionaries define this term as if it had historically been a sexist one in law: "**a.** *Law.* Of a wife: To run away from her husband in the company of a paramour. **b.** In popular language also (and more frequently) said of a woman running away from home with a lover for the purpose of being married" (*OED*). These definitions suggest that only women can elope, but even legal writers have long made men as well as women elopers—e.g.:
 
  - "If evidence was admitted to show that House had armed himself, and was hunting for Steadman, under the impression that the latter had *eloped* with his wife, and was secreting himself in that vicinity, it is difficult to see upon what principle his threats in that connection were excluded." *Alexander v. United States*, 138 U.S. 353, 356 (1891).
 

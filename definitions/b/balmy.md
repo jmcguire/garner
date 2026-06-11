@@ -1,4 +1,4 @@
 # balmy
 
-balmy. See **barmy**.
+See **barmy**.
 

@@ -1,4 +1,4 @@
 # \*controvene
 
-\*controvene. See **contravene (c)**.
+See **contravene (c)**.
 

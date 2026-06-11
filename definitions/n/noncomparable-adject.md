@@ -1,4 +1,4 @@
 # Noncomparable Adjectives
 
-Noncomparable Adjectives. See adjectives (b).
+See adjectives (b).
 

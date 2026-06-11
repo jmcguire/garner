@@ -1,4 +1,4 @@
 # \*ratskeller
 
-\*ratskeller. See **rathskeller**.
+See **rathskeller**.
 

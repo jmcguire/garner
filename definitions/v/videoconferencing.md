@@ -1,4 +1,4 @@
 # videoconferencing
 
-videoconferencing. See **conferencing**.
+See **conferencing**.
 

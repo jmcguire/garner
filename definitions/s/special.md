@@ -1,4 +1,4 @@
 # special
 
-special. See **especial**.
+See **especial**.
 

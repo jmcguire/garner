@@ -1,4 +1,4 @@
 # \*wile away
 
-\*wile away. See **while away**.
+See **while away**.
 

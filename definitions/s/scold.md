@@ -1,4 +1,4 @@
 # scold
 
-scold. For an uncommon error, see **scald**.
+For an uncommon error, see **scald**.
 

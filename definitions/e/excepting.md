@@ -1,4 +1,4 @@
 # excepting
 
-excepting. See **except (b)**.
+See **except (b)**.
 

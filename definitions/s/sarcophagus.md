@@ -1,7 +1,5 @@
 # sarcophagus
 
-sarcophagus.
-
 ## A. Plural
 
 The standard plural is *sarcophagi* /sahr-**kof**-ә-jī/ or /-gī/. The anglicized form *sarcophaguses*, though defensible, rarely appears. See plurals (b).

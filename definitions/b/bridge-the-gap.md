@@ -1,6 +1,6 @@
 # bridge the gap
 
-bridge the gap. This is the established idiom, dating from the 1600s. Through mistaken sound association, some writers use *\*breach the gap* in place of *bridge the gap*. The result is worse than a broken idiom: it's a logical impossibility. To *breach* something is to create a gap in it, not to close the gap. As nouns, *gap* and *breach* are synonymous. Still, the error is fairly common—e.g.:
+This is the established idiom, dating from the 1600s. Through mistaken sound association, some writers use *\*breach the gap* in place of *bridge the gap*. The result is worse than a broken idiom: it's a logical impossibility. To *breach* something is to create a gap in it, not to close the gap. As nouns, *gap* and *breach* are synonymous. Still, the error is fairly common—e.g.:
 
  - "His power existed in the gap between the two parties . . . and in the electric anticipation that he might seek to *breach* \[read *bridge*\] it." David M. Shribman, "Upheaval in Halls of Power: One Man's Shift Changes All the Rules of Politics," *Boston Globe*, 25 May 2001, at A1.
 

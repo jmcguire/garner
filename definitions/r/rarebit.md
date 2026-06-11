@@ -1,4 +1,4 @@
 # rarebit
 
-rarebit. See **Welsh rabbit**.
+See **Welsh rabbit**.
 

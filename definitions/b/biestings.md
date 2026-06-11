@@ -1,4 +1,4 @@
 # \*biestings
 
-\*biestings. See **beestings**.
+See **beestings**.
 

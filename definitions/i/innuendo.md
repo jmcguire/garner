@@ -1,4 +1,4 @@
 # innuendo
 
-innuendo. Pl. *innuendoes*—not *\*innuendos*. See plurals (d).
+Pl. *innuendoes*—not *\*innuendos*. See plurals (d).
 

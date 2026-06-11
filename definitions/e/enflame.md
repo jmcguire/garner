@@ -1,4 +1,4 @@
 # \*enflame
 
-\*enflame. See **inflame**.
+See **inflame**.
 

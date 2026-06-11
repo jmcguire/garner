@@ -1,7 +1,5 @@
 # toward
 
-toward.
-
 ## A. And *towards*
 
 Since about 1900, *toward* has been the predominant and editorially preferred form in AmE; *towards* has always been predominant in BrE. See directional words (a).

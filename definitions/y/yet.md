@@ -1,7 +1,5 @@
 # yet
 
-yet.
-
 ## A. Beginning Sentences with
 
 Like other coordinating conjunctions, *yet* is perfectly acceptable as a sentence-starter. It's a rank superstition to believe otherwise. E.g.:

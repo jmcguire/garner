@@ -1,7 +1,5 @@
 # number of
 
-number of.
-
 ## A. *A number of*
 
 Some pedants think that correctness dictates *a number of people is*. One critic, for example, refers to "the growing habit of using plural verbs with singular nouns," adding: " ‘A number of voters were unhappy' illustrates the offense." F. Thomas Trotter, "Out on the Campaign Trail, English Grammar Trampled," *Nashville Banner*, 12 Sept. 1996, at A13.

@@ -1,4 +1,4 @@
 # unconstitutional
 
-unconstitutional. See **nonconstitutional**.
+See **nonconstitutional**.
 

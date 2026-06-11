@@ -1,4 +1,4 @@
 # unwed
 
-unwed. See **wed**.
+See **wed**.
 

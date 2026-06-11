@@ -1,4 +1,4 @@
 # external
 
-external. See **extraneous**.
+See **extraneous**.
 

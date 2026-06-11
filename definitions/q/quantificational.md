@@ -1,4 +1,4 @@
 # \*quantificational
 
-\*quantificational. See **quantitative**.
+See **quantitative**.
 

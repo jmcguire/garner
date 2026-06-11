@@ -1,3 +1,3 @@
 # effects
 
-effects. See effect.
+See effect.

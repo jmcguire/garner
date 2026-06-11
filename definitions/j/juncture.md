@@ -1,6 +1,6 @@
 # juncture
 
-juncture. The phrase *at this juncture* should be used in reference to a crisis or a critically important time—e.g.: "*At this* critical *juncture* in history, the people of China need and deserve our support and friendship." Samuel D. Ling, "China's Challenge," *Chicago Trib.*, 27 Feb. 1997, at 22. Such phrases as *critical juncture* (a cliché) and *pivotal juncture* are redundant, since *juncture* alone will typically suffice in place of those phrases.
+The phrase *at this juncture* should be used in reference to a crisis or a critically important time—e.g.: "*At this* critical *juncture* in history, the people of China need and deserve our support and friendship." Samuel D. Ling, "China's Challenge," *Chicago Trib.*, 27 Feb. 1997, at 22. Such phrases as *critical juncture* (a cliché) and *pivotal juncture* are redundant, since *juncture* alone will typically suffice in place of those phrases.
 
 But the phrase *at this juncture* isn't equivalent merely to "at this time" or "now." When used with these meanings—as by the first President George Bush and popularized by his impersonator, Dana Carvey—it's a pomposity. E.g.:
 

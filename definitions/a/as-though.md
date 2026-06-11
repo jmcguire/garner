@@ -1,4 +1,4 @@
 # as though
 
-as though. See **as if**.
+See **as if**.
 

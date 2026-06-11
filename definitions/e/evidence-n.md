@@ -1,7 +1,5 @@
 # evidence, n
 
-evidence, n.
-
 ## A. And *testimony*
 
 These words overlap but are not always interchangeable. *Testimony* is a species of *evidence*; it refers only to evidence received through the medium of witnesses. *Evidence*, the broader term, includes all means by which a fact in issue is established or disproved; hence *evidence* may include documents and tangible objects. The word *evidence* has also long been used in the sense "the law of evidence," generally dealing with what is and is not admissible at trial.

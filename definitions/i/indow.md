@@ -1,4 +1,4 @@
 # \*indow
 
-\*indow. See **endow**.
+See **endow**.
 

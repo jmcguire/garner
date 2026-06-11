@@ -1,4 +1,4 @@
 # averse
 
-averse. See **adverse**.
+See **adverse**.
 

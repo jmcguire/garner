@@ -1,4 +1,4 @@
 # kerb
 
-kerb. See **curb**.
+See **curb**.
 

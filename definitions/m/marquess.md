@@ -1,4 +1,4 @@
 # marquess
 
-marquess. See **marquis**.
+See **marquis**.
 

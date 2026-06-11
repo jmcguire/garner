@@ -1,4 +1,4 @@
 # unqualified
 
-unqualified. See **disqualified**.
+See **disqualified**.
 

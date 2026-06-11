@@ -1,4 +1,4 @@
 # sadly
 
-sadly. See adverbs (f).
+See adverbs (f).
 

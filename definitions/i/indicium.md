@@ -1,4 +1,4 @@
 # indicium
 
-indicium. See **indicia**.
+See **indicia**.
 

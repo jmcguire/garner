@@ -1,7 +1,5 @@
 # all
 
-all.
-
 ## A. *All (of)*
 
 The better construction is to omit *of* and write, when possible, "*All* the attempts failed." Since the beginnings of Modern English, the phrasing *all the* (\+ plural noun) has vastly predominated over *all of the* (\+ plural noun): the *of*-variant was essentially nonexistent till the beginning of the 20th century, and even now it is not nearly as frequent in print, whether AmE or BrE. E.g.: "With the end to fighting, the group was disbanded, and *all* its members were ordered to burn their identity papers and go into hiding." P.H. Ferguson, "End of War Gave Life to Would-Be Kamikazes," *Austin Am.-Statesman*, 3 Sept. 1995, at A20. Although *all of* is more common in AmE than in BrE, it should generally be avoided in all formal writing. See **of (a)**.

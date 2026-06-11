@@ -1,6 +1,6 @@
 # would
 
-would. Writers often use *would* to condition statements that really ought to be straightforward—e.g.:
+Writers often use *would* to condition statements that really ought to be straightforward—e.g.:
 
  - "Mr. Kohl *would seem* \[read *seems*\] to have made another concession." Alan Riding, "European Leaders Give Their Backing to Monetary Plan," *N.Y. Times*, 9 Dec. 1989, at 1.
 

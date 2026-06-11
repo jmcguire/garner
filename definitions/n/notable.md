@@ -1,4 +1,4 @@
 # notable
 
-notable. See **noticeable**.
+See **noticeable**.
 

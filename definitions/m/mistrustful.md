@@ -1,4 +1,4 @@
 # mistrustful
 
-mistrustful. See **distrustful**.
+See **distrustful**.
 

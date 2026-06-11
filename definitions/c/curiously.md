@@ -1,4 +1,4 @@
 # curiously
 
-curiously. See adverbs (f).
+See adverbs (f).
 

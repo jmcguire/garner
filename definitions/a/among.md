@@ -1,7 +1,5 @@
 # among
 
-among.
-
 ## A. And *amongst*
 
 Most forms ending in *-st*, such as *whilst* and *amidst*, are archaisms in AmE. *Amongst* is no exception: in AmE it is pretentious at best. E.g.: "Imagine a city where the electricity and water companies are owned by the local authorities and, thanks to progressive planning and construction, prices are *amongst* \[read *among*\] the lowest in the country." Michael Dibdin, "Seattle Is the America Thatcher Ignored," *Seattle Times*, 17 Jan. 1997, at B5.

@@ -1,4 +1,4 @@
 # \*quezal
 
-\*quezal. See **quetzal**.
+See **quetzal**.
 

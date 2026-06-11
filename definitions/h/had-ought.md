@@ -1,4 +1,4 @@
 # \*had ought
 
-\*had ought. See **ought (c)** & double modals.
+See **ought (c)** & double modals.
 

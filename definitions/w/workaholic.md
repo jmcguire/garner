@@ -1,4 +1,4 @@
 # workaholic
 
-workaholic. See -aholic & morphological deformities.
+See -aholic & morphological deformities.
 

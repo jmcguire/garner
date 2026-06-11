@@ -1,7 +1,5 @@
 # contravene
 
-contravene.
-
 ## A. And *violate*
 
 *Contravene* (= \[1\] \[of people\] to transgress, infringe \[a law, rule, etc.\]; to defy; or \[2\] \[of things\] to be contrary to, come in conflict with) is a French loanword dating from the 1500s. E.g.: "While the matter has been in the courts, the U.S. Department of Transportation issued a letter saying the airport's regulation *contravenes* federal law and policy." Howard Pankratz, "Centennial Injunction Voided," *Denver Post*, 13 Dec. 1996, at A24. The word can often be advantageously replaced by *violate*.

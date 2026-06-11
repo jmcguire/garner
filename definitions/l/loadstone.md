@@ -1,4 +1,4 @@
 # \*loadstone
 
-\*loadstone. See **lodestone**.
+See **lodestone**.
 

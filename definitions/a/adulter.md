@@ -1,4 +1,4 @@
 # \*adulter
 
-\*adulter. See **adulterer**.
+See **adulterer**.
 

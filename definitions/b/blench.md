@@ -1,4 +1,4 @@
 # blench
 
-blench. See **blanch**.
+See **blanch**.
 

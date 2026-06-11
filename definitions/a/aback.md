@@ -1,4 +1,4 @@
 # aback
 
-aback. See **taken aback**.
+See **taken aback**.
 

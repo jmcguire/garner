@@ -1,4 +1,4 @@
 # oligarchy
 
-oligarchy. See governmental forms.
+See governmental forms.
 

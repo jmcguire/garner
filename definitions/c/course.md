@@ -1,4 +1,4 @@
 # course
 
-course. See **coarse**.
+See **coarse**.
 

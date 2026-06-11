@@ -1,6 +1,6 @@
 # Hypercorrection, Essay
 
-Hypercorrection. Sometimes people strive to abide by the strictest etiquette, but in the process behave inappropriately. The very motivations that result in this irony can play havoc with the language: a person will strive for a correct linguistic form but instead fall into error. Linguists call this phenomenon "hypercorrection"—a common shortcoming.
+Sometimes people strive to abide by the strictest etiquette, but in the process behave inappropriately. The very motivations that result in this irony can play havoc with the language: a person will strive for a correct linguistic form but instead fall into error. Linguists call this phenomenon "hypercorrection"—a common shortcoming.
 
 This foible can have several causes. Often, it results from an attempt to avoid what the writer wrongly supposes to be a grammatical error. (See superstitions.) At other times, it results from an incomplete grasp of a foreign grammar, coupled with an attempt to conform to that grammar. Yet again, it sometimes results from a misplaced sense of logic overriding a well-established idiom. A few of the most common manifestations are enumerated below.
 

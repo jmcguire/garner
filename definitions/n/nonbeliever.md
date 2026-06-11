@@ -1,4 +1,4 @@
 # nonbeliever
 
-nonbeliever. See **atheist**.
+See **atheist**.
 

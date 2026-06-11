@@ -1,7 +1,5 @@
 # lose
 
-lose.
-
 ## A. Inflected Forms: *lose* \> *lost* \> *lost*
 
 See irregular verbs.

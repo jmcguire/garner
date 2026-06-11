@@ -1,4 +1,4 @@
 # -ity
 
--ity. See noun suffixes (c).
+See noun suffixes (c).
 

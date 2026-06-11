@@ -1,4 +1,4 @@
 # \*criminate
 
-\*criminate. See **incriminate**.
+See **incriminate**.
 

@@ -1,7 +1,5 @@
 # heyday
 
-heyday.
-
 ## A. Spelling
 
 So spelled—not *\*heydey* or *\*hayday*. In the 1500s, *Heyday\!* was an exclamation of joy, surprise, or exuberance. Although this usage is now defunct, the word lives on to denote a period of great success, popularity, or vitality. The standard spelling persists despite occasional lapses—e.g.:

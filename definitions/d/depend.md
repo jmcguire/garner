@@ -1,6 +1,6 @@
 # depend
 
-depend. This word typically takes *on* (or, less good, *upon*—see **upon**). When a clausal complement follows the verb, to omit the *on* is a casualism—e.g.:
+This word typically takes *on* (or, less good, *upon*—see **upon**). When a clausal complement follows the verb, to omit the *on* is a casualism—e.g.:
 
  - "It all *depends when* \[read *depends on when*\] the hardware gets delivered." "Comcast to Offer Cable Modems," *Bus. J.* (Sacramento), 26 May 2000, at 2.
 

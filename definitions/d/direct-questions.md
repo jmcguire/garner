@@ -1,4 +1,4 @@
 # Direct Questions
 
-Direct Questions. See questions, direct and indirect.
+See questions, direct and indirect.
 

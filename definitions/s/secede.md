@@ -1,4 +1,4 @@
 # secede
 
-secede. See **cede**.
+See **cede**.
 

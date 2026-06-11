@@ -1,4 +1,4 @@
 # triple
 
-triple. See **treble**.
+See **treble**.
 

@@ -1,4 +1,4 @@
 # \*legitimatize
 
-\*legitimatize. See **legitimize**.
+See **legitimize**.
 

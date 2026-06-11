@@ -1,7 +1,5 @@
 # clinch
 
-clinch.
-
 ## A. And *clench*
 
 Etymologically, these are variants of the same Germanic word, which split in two and, through differentiation, developed into separate words. The older form is *clench* (originally "to fasten closely together"), dating from the mid-1200s. *Clinch* (originally "to fix securely") arose in the late 1500s. The words have had considerable overlap.

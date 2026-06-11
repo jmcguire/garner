@@ -1,4 +1,4 @@
 # as do
 
-as do. See anticipatory reference.
+See anticipatory reference.
 

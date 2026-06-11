@@ -1,4 +1,4 @@
 # nonmaterial
 
-nonmaterial. See **immaterial**.
+See **immaterial**.
 

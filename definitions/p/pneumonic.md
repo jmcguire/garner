@@ -1,4 +1,4 @@
 # pneumonic
 
-pneumonic. See **mnemonic**.
+See **mnemonic**.
 

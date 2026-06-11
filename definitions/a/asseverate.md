@@ -1,4 +1,4 @@
 # asseverate
 
-asseverate. See **aver (a)**.
+See **aver (a)**.
 

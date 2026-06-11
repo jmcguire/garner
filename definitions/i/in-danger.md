@@ -1,4 +1,4 @@
 # in danger
 
-in danger. See **danger (a)**.
+See **danger (a)**.
 

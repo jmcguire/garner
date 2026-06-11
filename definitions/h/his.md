@@ -1,7 +1,5 @@
 # his
 
-his.
-
 ## A. *One . . . his*
 
 See **one (b)**.

@@ -1,7 +1,5 @@
 # Democrat
 
-Democrat.
-
 ## A. And *democrat*
 
 The capital *D* distinguishes the sense "a member of the Democratic Party" from the broader sense, which is denoted by a lowercase *d*.

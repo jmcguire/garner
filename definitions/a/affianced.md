@@ -1,4 +1,4 @@
 # affianced
 
-affianced. See **affined**.
+See **affined**.
 

@@ -1,4 +1,4 @@
 # burgle
 
-burgle. See **burglarize**.
+See **burglarize**.
 

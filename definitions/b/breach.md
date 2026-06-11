@@ -1,7 +1,5 @@
 # breach
 
-breach.
-
 ## A. And *breech*; *broach*
 
 *Breach* (= \[1\] n., an opening or gap; or \[2\] vb., to break open) can be a troublesome word. In general usage, it is confused with two other words: *breech*, n. (= \[1\] buttocks; or \[2\] the lower or back part \[of something, as a gun\]), and *broach*, v.t. (= \[1\] to make a hole in \[something\] to let out liquid; or \[2\] to bring up for discussion). The confusion of *breach* with *breech* occurs most often when writers mistakenly use the latter where *breach* belongs—e.g.:

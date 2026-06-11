@@ -1,4 +1,4 @@
 # frow
 
-frow. See **froe**.
+See **froe**.
 

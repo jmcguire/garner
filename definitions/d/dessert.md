@@ -1,4 +1,4 @@
 # dessert
 
-dessert. See **just deserts**.
+See **just deserts**.
 

@@ -1,4 +1,4 @@
 # in part
 
-in part. See **in whole**.
+See **in whole**.
 

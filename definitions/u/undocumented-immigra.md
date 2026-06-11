@@ -1,4 +1,4 @@
 # undocumented immigrant
 
-undocumented immigrant. See **illegal immigrant**.
+See **illegal immigrant**.
 

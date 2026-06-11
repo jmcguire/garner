@@ -1,4 +1,4 @@
 # cleanness
 
-cleanness. See **cleanliness**.
+See **cleanliness**.
 

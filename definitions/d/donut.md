@@ -1,4 +1,4 @@
 # donut
 
-donut. See **doughnut**.
+See **doughnut**.
 

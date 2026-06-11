@@ -1,4 +1,4 @@
 # pretence
 
-pretence. See **pretense**.
+See **pretense**.
 

@@ -1,4 +1,4 @@
 # invent
 
-invent. See **discover**.
+See **discover**.
 

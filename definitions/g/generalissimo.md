@@ -1,4 +1,4 @@
 # generalissimo
 
-generalissimo. Pl. *generalissimos*. See plurals (d).
+Pl. *generalissimos*. See plurals (d).
 

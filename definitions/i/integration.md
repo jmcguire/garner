@@ -1,4 +1,4 @@
 # integration
 
-integration. See **desegregation**.
+See **desegregation**.
 

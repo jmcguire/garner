@@ -1,4 +1,4 @@
 # Sentence Fragments
 
-Sentence Fragments. See incomplete sentences.
+See incomplete sentences.
 

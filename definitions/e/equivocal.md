@@ -1,4 +1,4 @@
 # equivocal
 
-equivocal. See **unequivocal**.
+See **unequivocal**.
 

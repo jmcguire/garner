@@ -1,4 +1,4 @@
 # presumption
 
-presumption. See **assumption**.
+See **assumption**.
 

@@ -1,4 +1,4 @@
 # redact
 
-redact. See **revise**.
+See **revise**.
 

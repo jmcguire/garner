@@ -1,4 +1,4 @@
 # would rather
 
-would rather. See **had rather**.
+See **had rather**.
 

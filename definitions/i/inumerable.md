@@ -1,4 +1,4 @@
 # \*inumerable
 
-\*inumerable. See **enumerable**.
+See **enumerable**.
 

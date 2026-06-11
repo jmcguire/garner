@@ -1,4 +1,4 @@
 # Oxbridge
 
-Oxbridge. See portmanteau words.
+See portmanteau words.
 

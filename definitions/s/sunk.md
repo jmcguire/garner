@@ -1,4 +1,4 @@
 # sunk
 
-sunk. See **sink**.
+See **sink**.
 

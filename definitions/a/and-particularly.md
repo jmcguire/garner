@@ -1,4 +1,4 @@
 # and particularly
 
-and particularly. See **particularly**.
+See **particularly**.
 

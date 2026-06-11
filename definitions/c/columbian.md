@@ -1,4 +1,4 @@
 # Columbian
 
-Columbian. See **Colombian** & demonyms.
+See **Colombian** & demonyms.
 

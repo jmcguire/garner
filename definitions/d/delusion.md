@@ -1,4 +1,4 @@
 # delusion
 
-delusion. See **hallucination** & **illusion**.
+See **hallucination** & **illusion**.
 

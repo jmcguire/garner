@@ -1,4 +1,4 @@
 # Frozen Binomials
 
-Frozen Binomials. See irreversible binomials.
+See irreversible binomials.
 

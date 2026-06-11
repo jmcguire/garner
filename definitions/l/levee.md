@@ -1,4 +1,4 @@
 # levee
 
-levee. See **levy**, n.
+See **levy**, n.
 

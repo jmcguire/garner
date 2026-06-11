@@ -1,4 +1,4 @@
 # toxin
 
-toxin. See **toxic**.
+See **toxic**.
 

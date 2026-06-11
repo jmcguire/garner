@@ -1,6 +1,6 @@
 # breach, more honored in the
 
-breach, more honored in the. Strictly speaking, this phrase refers to a rule or tradition that is better violated than followed. Hence in Shakespeare's *Hamlet*, where the phrase originated, Hamlet says that the Danes' riotous drinking "is a custom / More honored in the breach than in the observance" (1.4.17–18). But writers often misapply the phrase to a just rule that, in practice, is often broken—e.g.:
+Strictly speaking, this phrase refers to a rule or tradition that is better violated than followed. Hence in Shakespeare's *Hamlet*, where the phrase originated, Hamlet says that the Danes' riotous drinking "is a custom / More honored in the breach than in the observance" (1.4.17–18). But writers often misapply the phrase to a just rule that, in practice, is often broken—e.g.:
 
  - "It is an American custom (perhaps *more honored in the breach* \[read *more often breached than observed*\]) as well as a Chinese one to show respect for one's elders." Judith Martin, "Ingenuity Can Overcome This Language Barrier," *Chicago Trib.*, 8 Oct. 1989, at C6.
 

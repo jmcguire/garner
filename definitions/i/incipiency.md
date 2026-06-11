@@ -1,4 +1,4 @@
 # incipiency
 
-incipiency. See **inception**.
+See **inception**.
 

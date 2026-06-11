@@ -1,4 +1,4 @@
 # haemoglobin
 
-haemoglobin. See **hemoglobin**.
+See **hemoglobin**.
 

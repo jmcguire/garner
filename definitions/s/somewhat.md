@@ -1,6 +1,6 @@
 # somewhat
 
-somewhat. The phrasing *\*somewhat of a* has traditionally been considered a grammatical error because it treats *somewhat*—principally an adverb—as a pronoun. Instead of *\*somewhat of a lackluster performance*, write either *a somewhat lackluster performance* or *something of a lackluster performance*. E.g.:
+The phrasing *\*somewhat of a* has traditionally been considered a grammatical error because it treats *somewhat*—principally an adverb—as a pronoun. Instead of *\*somewhat of a lackluster performance*, write either *a somewhat lackluster performance* or *something of a lackluster performance*. E.g.:
 
  - "So when the district needed help with its accounting work, it found itself in *somewhat* \[read *something*\] of a quandary." Lynn Shea, "Tiny District Tries to Get Help with Its Accounting," *Pitt. Post-Gaz.*, 24 Sept. 1997, at W7.
 

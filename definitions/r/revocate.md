@@ -1,4 +1,4 @@
 # \*revocate
 
-\*revocate. See **revoke**.
+See **revoke**.
 

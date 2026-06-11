@@ -1,4 +1,4 @@
 # quadriplegia
 
-quadriplegia. So spelled. See quadri-.
+So spelled. See quadri-.
 

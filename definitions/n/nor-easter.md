@@ -1,6 +1,6 @@
 # nor'easter
 
-nor'easter. This casualism, denoting a North American storm that brings high winds and rain or snow to the upper Atlantic Coast, dates from the mid-1800s but didn't come into widespread use until the late 1900s. The storm is so named because although the cyclonic storm itself moves northeasterly up the coast, the inland winds on its west side blow from out of the northeast.
+This casualism, denoting a North American storm that brings high winds and rain or snow to the upper Atlantic Coast, dates from the mid-1800s but didn't come into widespread use until the late 1900s. The storm is so named because although the cyclonic storm itself moves northeasterly up the coast, the inland winds on its west side blow from out of the northeast.
 
 While for some, the folksy pronunciation might evoke images of a Yankee seafarer, the contracted term is neither authentic nor accurate. New Englanders tend to drop their *r* sounds and are more likely to pronounce *northeaster* as /naw-**thees**-tә/. As *Boston Globe* wordsmith Jan Freeman noted, "The facts, however, have not slowed the advance of *nor'easter*. Even in print, where it's probably less common than in speech, it has practically routed *northeaster* in the past quarter-century or so. . . . \[I\]t would take a mighty wind, at this point, to blow *nor'easter* back into oblivion."
 

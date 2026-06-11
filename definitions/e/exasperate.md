@@ -1,4 +1,4 @@
 # exasperate
 
-exasperate. See **exacerbate**.
+See **exacerbate**.
 

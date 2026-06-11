@@ -1,4 +1,4 @@
 # vs
 
-vs. See **v**.
+See **v**.
 

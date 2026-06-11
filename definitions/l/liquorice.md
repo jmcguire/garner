@@ -1,4 +1,4 @@
 # liquorice
 
-liquorice. See **licorice**.
+See **licorice**.
 

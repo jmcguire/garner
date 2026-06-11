@@ -1,6 +1,6 @@
 # shake \> shook \> shaken
 
-shake \> shook \> shaken. So inflected. Occasionally *shook* appears erroneously as the past-participial form—e.g.:
+So inflected. Occasionally *shook* appears erroneously as the past-participial form—e.g.:
 
  - "Exercise rider Kelly Rycroft was *shook* \[read *shaken*\] up Wednesday morning when a horse he was pulling up was struck from behind by a bolting horse." Dennis Feser & Jan Alta, "Astro Force Renew Rivalry in Richmond Stakes," *Vancouver Sun*, 26 Apr. 1996, at D3.
 

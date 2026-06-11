@@ -1,4 +1,4 @@
 # fasciitis
 
-fasciitis. See **plantar fasciitis**.
+See **plantar fasciitis**.
 

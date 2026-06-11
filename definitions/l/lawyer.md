@@ -1,7 +1,5 @@
 # lawyer
 
-lawyer.
-
 ## A. And *attorney*; *counsel*; *counselor*
 
 The two most common among these in AmE, *lawyer* and *attorney*, are not generally distinguished even by members of the legal profession—except perhaps that *lawyer* is often viewed as having negative connotations. So one frequently hears about *lawyer-bashing*, but only the tone-deaf write *attorney-bashing*—e.g.: "*Attorney-bashing* \[read *Lawyer-bashing*\] always will be a popular pastime." Christopher Smith, "Injury Lawyer May Be Utah's Best—Bar None," *Salt Lake Trib.*, 7 Feb. 1994, at A1.

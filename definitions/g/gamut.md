@@ -1,4 +1,4 @@
 # gamut
 
-gamut. See **gambit (b)**.
+See **gambit (b)**.
 

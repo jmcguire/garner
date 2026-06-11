@@ -1,4 +1,4 @@
 # \*wrang
 
-\*wrang. See **wring**.
+See **wring**.
 

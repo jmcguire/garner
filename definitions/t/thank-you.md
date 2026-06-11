@@ -1,7 +1,5 @@
 # thank you
 
-thank you.
-
 ## A. Generally
 
 This phrase remains the best, most serviceable phrase, despite various attempts to embellish it or truncate it: *thanking you in advance* (presumptuous and possibly insulting), *thank you very much* (with a trailer of surplusage), *thanks* (useful on informal occasions), *many thanks* (informal but emphatic), *\*much thanks* (archaic and increasingly unidiomatic), *\*thanks much* (confusing the noun with the verb), and *\*thanx* (unacceptably cutesy).

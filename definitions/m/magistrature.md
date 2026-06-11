@@ -1,4 +1,4 @@
 # \*magistrature
 
-\*magistrature. See **magistracy**.
+See **magistracy**.
 

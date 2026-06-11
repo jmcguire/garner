@@ -1,4 +1,4 @@
 # deboned
 
-deboned. See **boned**.
+See **boned**.
 

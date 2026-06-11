@@ -1,4 +1,4 @@
 # \*summersault
 
-\*summersault. See **somersault**.
+See **somersault**.
 

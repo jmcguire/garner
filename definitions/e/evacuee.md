@@ -1,4 +1,4 @@
 # evacuee
 
-evacuee. See -ee & **refugee**.
+See -ee & **refugee**.
 

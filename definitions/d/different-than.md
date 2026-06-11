@@ -1,4 +1,4 @@
 # different than
 
-different than. See **different (a)**.
+See **different (a)**.
 

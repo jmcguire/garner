@@ -1,4 +1,4 @@
 # howdy
 
-howdy. See phatic language.
+See phatic language.
 

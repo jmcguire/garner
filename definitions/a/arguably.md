@@ -1,4 +1,4 @@
 # arguably
 
-arguably. See adverbs (f).
+See adverbs (f).
 

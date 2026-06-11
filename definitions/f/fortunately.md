@@ -1,4 +1,4 @@
 # fortunately
 
-fortunately. See adverbs (f).
+See adverbs (f).
 

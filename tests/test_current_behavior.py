@@ -84,6 +84,11 @@ class HelperBehaviorTest(unittest.TestCase):
 
         self.assertEqual(text.extract_forwarding_target(body, "\\*wrapt"), "rapt")
 
+    def test_extract_forwarding_target_matches_headwordless_forwarding_entry(self):
+        body = text.markdown_to_plain_text("# effects\n\nSee **effect**.\n")
+
+        self.assertEqual(text.extract_forwarding_target(body, "effects"), "effect")
+
 
 class DictionaryBehaviorTest(unittest.TestCase):
     def setUp(self):

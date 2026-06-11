@@ -1,4 +1,4 @@
 # not proven
 
-not proven. See **proved**.
+See **proved**.
 

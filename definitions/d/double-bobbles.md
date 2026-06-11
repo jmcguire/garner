@@ -1,6 +1,6 @@
 # Double Bobbles, Essay
 
-Double Bobbles. A double bobble occurs when somebody reaches for a word—in fact, the *wrong* word—and then mistakes another word altogether for that wrong word. It's a word twice removed from its correct use. Two ready examples are *\*Hobbesian choice* (when misused for a difficult choice) and *compromise* (when misused for *comprise*).
+A double bobble occurs when somebody reaches for a word—in fact, the *wrong* word—and then mistakes another word altogether for that wrong word. It's a word twice removed from its correct use. Two ready examples are *\*Hobbesian choice* (when misused for a difficult choice) and *compromise* (when misused for *comprise*).
 
 A *Hobson's choice* is really a take-it-or-leave-it choice. (See **Hobson's choice (a)**.) By slipshod extension, though, the phrase came to refer to any difficult choice. And to compound the problem, some writers reach for the extended sense and miss entirely: they confuse Thomas Hobson, a relatively obscure man, with his famous contemporary Thomas Hobbes (1588–1679). The resulting malapropism is amazingly common—e.g.: "There was a *Hobbesian choice* \[read *Hobson's choice*\] to be made: To get an hour-long ‘Letterman,' ABC also would have to kill ‘Nightline.' " Verne Gay, "Letterman's One-Night Stand," *Newsday* (N.Y.), 8 July 2002, § II, at B23. See **Hobson's choice (c)**.
 

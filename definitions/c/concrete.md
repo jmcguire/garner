@@ -1,4 +1,4 @@
 # concrete
 
-concrete. See **cement**.
+See **cement**.
 

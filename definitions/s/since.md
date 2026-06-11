@@ -1,7 +1,5 @@
 # since
 
-since.
-
 ## A. Expressing Causality
 
 As a subordinating conjunction, *since* may bear a sense either of time or of logical connection. Despite the canard that the word properly relates only to time, the causal meaning has existed continuously in the English language for more than a thousand years. In modern print sources, the causal sense is almost as common as the temporal sense. Typically, *since* expresses a milder sense of causation than *because* does—e.g.:

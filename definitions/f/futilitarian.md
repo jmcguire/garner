@@ -1,4 +1,4 @@
 # futilitarian
 
-futilitarian. See portmanteau words.
+See portmanteau words.
 

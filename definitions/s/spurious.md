@@ -1,4 +1,4 @@
 # spurious
 
-spurious. See **specious**.
+See **specious**.
 

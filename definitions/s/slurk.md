@@ -1,4 +1,4 @@
 # slurk
 
-slurk. See portmanteau words.
+See portmanteau words.
 

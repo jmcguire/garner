@@ -1,4 +1,4 @@
 # accordance
 
-accordance. See **accord**, n.
+See **accord**, n.
 

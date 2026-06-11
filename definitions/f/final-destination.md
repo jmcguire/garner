@@ -1,4 +1,4 @@
 # final destination
 
-final destination. See **destination**.
+See **destination**.
 

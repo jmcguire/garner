@@ -1,4 +1,4 @@
 # \*first iteration
 
-\*first iteration. See **reiterate**.
+See **reiterate**.
 

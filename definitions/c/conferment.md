@@ -1,4 +1,4 @@
 # conferment
 
-conferment. See **conferral**.
+See **conferral**.
 

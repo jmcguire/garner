@@ -1,4 +1,4 @@
 # martial law
 
-martial law. See **marshal**, n. **(a)**.
+See **marshal**, n. **(a)**.
 

@@ -1,4 +1,4 @@
 # forceable
 
-forceable. See **forcible**.
+See **forcible**.
 

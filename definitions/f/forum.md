@@ -1,6 +1,6 @@
 # forum
 
-forum. The standard plural *forums* has predominated in AmE since the early 1920s and in BrE since the mid-1970s. Although *\*fora* was prevalent in earlier periods, it is now a pedantic archaism—e.g.:
+The standard plural *forums* has predominated in AmE since the early 1920s and in BrE since the mid-1970s. Although *\*fora* was prevalent in earlier periods, it is now a pedantic archaism—e.g.:
 
  - "Their various *forums* unite hobbyists." Tom Foremski, "Selecting Online Services," *Fin. Times*, 3 Dec. 1997, at 4.
 

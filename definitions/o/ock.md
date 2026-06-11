@@ -1,4 +1,4 @@
 # -ock
 
--ock. See diminutives (l).
+See diminutives (l).
 

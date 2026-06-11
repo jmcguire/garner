@@ -1,7 +1,5 @@
 # bivouac
 
-bivouac.
-
 ## A. As a Noun
 
 This word is primarily a noun denoting a short-term military encampment, especially one with little or no shelter. E.g.:

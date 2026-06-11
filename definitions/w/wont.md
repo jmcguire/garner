@@ -1,6 +1,6 @@
 # wont
 
-wont. Although Samuel Johnson reported in 1755 that this word had slipped from use, it hangs on today as a slightly whimsical way of expressing customary behavior. It is used almost exclusively as a predicate adjective \<as he is wont to\> or as a noun \<as is her wont\>, although other forms do exist. The dominant pronunciations are /wahnt/ and /wawnt/ in AmE, and /wohnt/ and /wәnt/ in BrE. Probably because it is often a homophone for *want*, and because its meaning intertwines with that simpler term (someone who is *wont* to do something generally *wants* to do it), it is occasionally misspelled *want*—e.g.:
+Although Samuel Johnson reported in 1755 that this word had slipped from use, it hangs on today as a slightly whimsical way of expressing customary behavior. It is used almost exclusively as a predicate adjective \<as he is wont to\> or as a noun \<as is her wont\>, although other forms do exist. The dominant pronunciations are /wahnt/ and /wawnt/ in AmE, and /wohnt/ and /wәnt/ in BrE. Probably because it is often a homophone for *want*, and because its meaning intertwines with that simpler term (someone who is *wont* to do something generally *wants* to do it), it is occasionally misspelled *want*—e.g.:
 
  - "Montgomerie had been the target of catcalls from American fans all week. As is his *want* \[read *wont*\], he exacerbated the situation by letting the fans know how much they irritated him." Paul Kenyon, "Death Deals Golf a Cruel Blow," *Providence J.-Bull.*, 26 Oct. 1999, at D1.
 

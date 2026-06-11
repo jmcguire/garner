@@ -1,4 +1,4 @@
 # pertain
 
-pertain. See **appertain**.
+See **appertain**.
 

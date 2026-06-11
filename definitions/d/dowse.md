@@ -1,4 +1,4 @@
 # dowse
 
-dowse. See **douse**.
+See **douse**.
 

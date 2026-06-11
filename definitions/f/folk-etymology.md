@@ -1,4 +1,4 @@
 # Folk Etymology
 
-Folk Etymology. See etymology (d).
+See etymology (d).
 

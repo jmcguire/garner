@@ -1,4 +1,4 @@
 # \*general consensus
 
-\*general consensus. See **consensus**.
+See **consensus**.
 

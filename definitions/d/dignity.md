@@ -1,6 +1,6 @@
 # dignity
 
-dignity. *Dignity* is traditionally thought to be a quality one possesses. It is not a synonym for *respect*, so it's mangled in the phrase *\*treat with dignity*—e.g.:
+*Dignity* is traditionally thought to be a quality one possesses. It is not a synonym for *respect*, so it's mangled in the phrase *\*treat with dignity*—e.g.:
 
  - "Whatever the parent's limitations, Grathwol encourages caregivers to treat him or her with *dignity* \[read *respect*\]." Gail Rosenblum, "Losing Her Sight, but Not Her Vision," *Star Trib.* (Minneapolis), 3 June 2006, at E3.
 

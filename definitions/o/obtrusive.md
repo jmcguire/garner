@@ -1,4 +1,4 @@
 # obtrusive
 
-obtrusive. See **intrusive**.
+See **intrusive**.
 

@@ -1,4 +1,4 @@
 # analog
 
-analog. See **analogue**.
+See **analogue**.
 

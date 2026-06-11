@@ -1,7 +1,5 @@
 # exceed
 
-exceed.
-
 ## A. In the Phrase *\*exceed more than*
 
 This phrase is a common redundancy—e.g.:

@@ -1,4 +1,4 @@
 # vise
 
-vise. See **vice**.
+See **vice**.
 

@@ -1,4 +1,4 @@
 # kitty-cornered
 
-kitty-cornered. See **catty-cornered**.
+See **catty-cornered**.
 

@@ -1,4 +1,4 @@
 # partly
 
-partly. See **partially**.
+See **partially**.
 

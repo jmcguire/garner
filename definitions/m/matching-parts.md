@@ -1,4 +1,4 @@
 # Matching Parts
 
-Matching Parts. See parallelism.
+See parallelism.
 

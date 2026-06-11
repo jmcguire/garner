@@ -1,4 +1,4 @@
 # lour
 
-lour. See **lower**.
+See **lower**.
 

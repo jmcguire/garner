@@ -1,6 +1,6 @@
 # every time
 
-every time. Two words. But many writers try to solidify the phrase—e.g.:
+Two words. But many writers try to solidify the phrase—e.g.:
 
  - "Then this past Saturday night against Fresno State, Cooper had the Tiger faithful perched on the edge of their seats *everytime* \[read *every time*\] he touched the ball." Hunt Archbold, " ‘Lizard' Slithers His Way into AU Playing Picture," *Montgomery Advertiser*, 11 Sept. 1996, at C1.
 

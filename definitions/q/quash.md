@@ -1,4 +1,4 @@
 # quash
 
-quash. See **squash**.
+See **squash**.
 

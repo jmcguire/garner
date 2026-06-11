@@ -1,7 +1,5 @@
 # handful
 
-handful.
-
 ## A. Plural
 
 The word is *handfuls*, not *\*handsful*. See plurals (g).

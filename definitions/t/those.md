@@ -1,4 +1,4 @@
 # those
 
-those. See pointing words.
+See pointing words.
 

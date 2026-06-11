@@ -1,4 +1,4 @@
 # -'d
 
--'d. See -ed.
+See -ed.
 

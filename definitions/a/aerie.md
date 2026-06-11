@@ -1,4 +1,4 @@
 # aerie
 
-aerie. See **eyrie**.
+See **eyrie**.
 

@@ -1,4 +1,4 @@
 # azuki
 
-azuki. See **adzuki**.
+See **adzuki**.
 

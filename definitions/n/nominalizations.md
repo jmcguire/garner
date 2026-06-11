@@ -1,4 +1,4 @@
 # Nominalizations
 
-Nominalizations. See zombie nouns.
+See zombie nouns.
 

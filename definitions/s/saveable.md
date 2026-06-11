@@ -1,4 +1,4 @@
 # \*saveable
 
-\*saveable. See **savable**.
+See **savable**.
 

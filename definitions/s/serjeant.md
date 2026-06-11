@@ -1,4 +1,4 @@
 # serjeant
 
-serjeant. See **sergeant**.
+See **sergeant**.
 

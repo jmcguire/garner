@@ -1,7 +1,5 @@
 # out
 
-out.
-
 ## A. As an Unnecessary Particle in Phrasal Verbs
 
 *Out* is usually superfluous in phrases such as *\*calculate out*, *\*cancel out*, *\*distribute out*, *\*segregate out*, and *\*separate out*. (Colloquially, it occurs in *figure out*, *lose out*, *make out*, *test out*, *try out*, and *work out*.) See phrasal verbs.

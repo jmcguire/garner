@@ -1,4 +1,4 @@
 # \*revisor
 
-\*revisor. See **reviser**.
+See **reviser**.
 

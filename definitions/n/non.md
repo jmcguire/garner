@@ -1,4 +1,4 @@
 # non-
 
-non-. See negatives (a).
+See negatives (a).
 

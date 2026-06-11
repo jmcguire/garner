@@ -1,4 +1,4 @@
 # autocracy
 
-autocracy. See governmental forms.
+See governmental forms.
 

@@ -1,4 +1,4 @@
 # frenemy
 
-frenemy. See portmanteau words.
+See portmanteau words.
 

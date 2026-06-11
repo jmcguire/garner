@@ -1,4 +1,4 @@
 # lusty
 
-lusty. See **lustful**.
+See **lustful**.
 

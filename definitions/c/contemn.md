@@ -1,4 +1,4 @@
 # contemn
 
-contemn. See **condemn**.
+See **condemn**.
 

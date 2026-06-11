@@ -1,4 +1,4 @@
 # disport
 
-disport. See **deport**.
+See **deport**.
 

@@ -1,7 +1,5 @@
 # adequate
 
-adequate.
-
 ## A. And *sufficient*
 
 Though both words were originally used in reference to quantity, *adequate* now tends toward the qualitative and *sufficient* toward the quantitative. Hence *adequate* means "suitable to the occasion or circumstances," and *sufficient* means "enough for a particular need or purpose." For more on *sufficient*, see **enough**, adj.

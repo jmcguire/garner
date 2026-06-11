@@ -1,4 +1,4 @@
 # surface
 
-surface. See **resurface**.
+See **resurface**.
 

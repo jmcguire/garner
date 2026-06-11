@@ -1,4 +1,4 @@
 # drafter
 
-drafter. See **draftsman**.
+See **draftsman**.
 

@@ -1,4 +1,4 @@
 # \*quick claim
 
-\*quick claim. See **quitclaim**.
+See **quitclaim**.
 

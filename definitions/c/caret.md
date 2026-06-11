@@ -1,4 +1,4 @@
 # caret
 
-caret. See **carat**.
+See **carat**.
 

@@ -1,4 +1,4 @@
 # \*win a victory
 
-\*win a victory. See **victory**.
+See **victory**.
 

@@ -1,4 +1,4 @@
 # \*compensible
 
-\*compensible. See **compensable**.
+See **compensable**.
 

@@ -1,7 +1,5 @@
 # discomfit, vb
 
-discomfit, vb.
-
 ## A. Meanings and Inflection
 
 *Discomfit* = (1) to thwart or frustrate; or (2) to disconcert; to put into a state of unease and embarrassment. Sense 2 is relatively new, a result of confusion of *discomfit* and *discomfort* (see (c)). Once considered a usage error, this extension is now the most common sense and is accepted as standard.

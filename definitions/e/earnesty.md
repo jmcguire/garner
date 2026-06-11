@@ -1,6 +1,6 @@
 # \*earnesty
 
-\*earnesty. This word, as a synonym of *earnestness*, is listed in the *OED* with four citations—from 1548 to 1608—but is marked obsolete. Somewhat common during the 1700s, it fell into disuse after about 1810. Although you might surmise that it has long been obsolete, it still sometimes appears. Since it doesn't really fill any gap in the language, writers and editors would be wise to avoid it and instead use *earnestness*—e.g.:
+This word, as a synonym of *earnestness*, is listed in the *OED* with four citations—from 1548 to 1608—but is marked obsolete. Somewhat common during the 1700s, it fell into disuse after about 1810. Although you might surmise that it has long been obsolete, it still sometimes appears. Since it doesn't really fill any gap in the language, writers and editors would be wise to avoid it and instead use *earnestness*—e.g.:
 
  - "Born three years after the civil war, he carries an image of the new post-Franco generation, of youthful *earnesty* \[read *earnestness*\], of modernness tempered with mature moderation." Ana Martinez-Soler, "Spain and Socialism," *Christian Science Monitor*, 21 Oct. 1982, at 12.
 

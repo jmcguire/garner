@@ -1,7 +1,5 @@
 # in lieu of
 
-in lieu of.
-
 ## A. Generally
 
 The phrase *in lieu of* (= in place of) is now English, and *instead of* will not always suffice in its stead—e.g.: "The two were arraigned before a town of Montezuma justice and sent to the Cayuga County Jail *in lieu of* $100,000 bond or $50,000 cash bail." Jeff Stage, "Troopers Find 43 Pounds of Marijuana in Car," *Syracuse Herald-J.*, 8 Aug. 1997, at B1. But *instead* is usually better whenever it naturally fits—e.g.: "The stations originated in Europe as rest stops for travelers walking long distances or for those making pilgrimages to local cathedrals *in lieu of* \[read *instead of*\] going to the Holy Land." "Walking in Jesus' Steps," *Patriot Ledger* (Quincy, Mass.), 22 Mar. 1997, at 44.

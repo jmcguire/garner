@@ -1,4 +1,4 @@
 # datum
 
-datum. See **data**.
+See **data**.
 

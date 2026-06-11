@@ -1,4 +1,4 @@
 # \*prototypal
 
-\*prototypal. See **prototypical**.
+See **prototypical**.
 

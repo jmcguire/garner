@@ -1,4 +1,4 @@
 # Double Negatives
 
-Double Negatives. See negatives (b).
+See negatives (b).
 

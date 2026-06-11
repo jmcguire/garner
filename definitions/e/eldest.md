@@ -1,4 +1,4 @@
 # eldest
 
-eldest. See **elder**.
+See **elder**.
 

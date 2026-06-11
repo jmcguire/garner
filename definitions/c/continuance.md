@@ -1,7 +1,5 @@
 # continuance
 
-continuance.
-
 ## A. Opposed Senses
 
 *Continuance* has conflicting senses in lay and legal usage. Generally, it means (1) "keeping up, going on with, maintaining, or prolonging"; or (2) "duration; time of continuing." E.g.: "Every citizen also wants lower taxes and a *continuance* of any and all federal spending programs that directly have some positive impact on each one's lives." Larry A. Smith, "Future Shock: It's Entitlements, Stupid," *Fresno Bee*, 16 Nov. 1996, at B7. (For more on *each one's lives* in that sentence, see concord (b).)

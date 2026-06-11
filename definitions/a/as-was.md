@@ -1,4 +1,4 @@
 # as was
 
-as was. See **as is**.
+See **as is**.
 

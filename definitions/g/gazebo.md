@@ -1,4 +1,4 @@
 # gazebo
 
-gazebo. Pl. *gazebos*. See plurals (d).
+Pl. *gazebos*. See plurals (d).
 

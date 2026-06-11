@@ -1,4 +1,4 @@
 # typescript
 
-typescript. See **manuscript**.
+See **manuscript**.
 

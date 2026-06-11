@@ -1,4 +1,4 @@
 # thresh
 
-thresh. See **thrash**.
+See **thrash**.
 

@@ -1,4 +1,4 @@
 # homocentric
 
-homocentric. See **anthropocentric**.
+See **anthropocentric**.
 

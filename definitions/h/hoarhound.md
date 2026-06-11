@@ -1,4 +1,4 @@
 # \*hoarhound
 
-\*hoarhound. See **horehound**.
+See **horehound**.
 

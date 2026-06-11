@@ -1,4 +1,4 @@
 # genuine
 
-genuine. See **authentic**.
+See **authentic**.
 

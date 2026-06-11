@@ -1,4 +1,4 @@
 # pleather
 
-pleather. See portmanteau words.
+See portmanteau words.
 

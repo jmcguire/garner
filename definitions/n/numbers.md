@@ -1,4 +1,4 @@
 # Numbers
 
-Numbers. See numerals.
+See numerals.
 

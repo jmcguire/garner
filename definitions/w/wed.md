@@ -1,6 +1,6 @@
 # wed
 
-wed. This verb is traditionally inflected *wed* \> *wedded* \> *wedded*. As a past-tense form, *wed* is a variant that *W2* labels "dialectal." It has become especially widespread since the mid-1970s. Stick to *wedded*—e.g.:
+This verb is traditionally inflected *wed* \> *wedded* \> *wedded*. As a past-tense form, *wed* is a variant that *W2* labels "dialectal." It has become especially widespread since the mid-1970s. Stick to *wedded*—e.g.:
 
  - "Last year, the singer \[Dan Fogelberg\] *wed* \[read *wedded*\] his longtime fiancée, Anastasia Savage, who shares his love of oil painting." Walter Scott, "Personality Parade," *Parade*, 3 Jan. 1993, at 4.
 

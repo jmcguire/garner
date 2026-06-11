@@ -1,4 +1,4 @@
 # registrar
 
-registrar. See **register**.
+See **register**.
 

@@ -1,4 +1,4 @@
 # grey
 
-grey. See **gray**.
+See **gray**.
 

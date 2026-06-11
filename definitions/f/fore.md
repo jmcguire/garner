@@ -1,4 +1,4 @@
 # fore-
 
-fore-. See for-.
+See for-.
 

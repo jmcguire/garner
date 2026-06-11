@@ -1,4 +1,4 @@
 # Compound Adjectives
 
-Compound Adjectives. See phrasal adjectives.
+See phrasal adjectives.
 

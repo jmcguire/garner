@@ -1,7 +1,5 @@
 # half
 
-half.
-
 ## A. *Half (of)*
 
 The preposition *of* is often unnecessary. Omit it when you can—e.g.: "Nearly *half of* \[read *half*\] the people in Cuba receive economic help from family and friends in the United States." "Family Pulls Painting from Auction," *Fresno Bee*, 28 Nov. 1997, at C2. Here the better form appears:

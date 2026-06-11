@@ -1,6 +1,6 @@
 # educate the public, to
 
-educate the public, to. Dating from the mid-1800s, this phrase typically means "to seek to change public opinion." Whether the means is through disseminating information or propaganda is often in the eye of the beholder. But the only desired result is typically to have masses of people change their attitudes or think differently about some issue—e.g.:
+Dating from the mid-1800s, this phrase typically means "to seek to change public opinion." Whether the means is through disseminating information or propaganda is often in the eye of the beholder. But the only desired result is typically to have masses of people change their attitudes or think differently about some issue—e.g.:
 
  - "Phillips said county history shows that land-acquisition measures require two or three elections to fully *educate the public*." Susan Byrnes & David Schaefer, "Failed Park Measures Still Have a Chance, Bond Supporters Say," *Seattle Times*, 19 Sept. 1996, at B5.
 

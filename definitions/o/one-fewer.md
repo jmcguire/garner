@@ -1,4 +1,4 @@
 # \*one fewer
 
-\*one fewer. See **fewer**.
+See **fewer**.
 

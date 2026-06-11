@@ -1,4 +1,4 @@
 # \*cabob
 
-\*cabob. See **kebab**.
+See **kebab**.
 

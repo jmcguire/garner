@@ -1,4 +1,4 @@
 # Mojave
 
-Mojave. See **Mohave**.
+See **Mohave**.
 

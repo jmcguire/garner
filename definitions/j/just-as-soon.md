@@ -1,6 +1,6 @@
 # just as soon
 
-just as soon. This idiom is occasionally mangled into the unintelligible malapropism *\*just assume*—e.g.:
+This idiom is occasionally mangled into the unintelligible malapropism *\*just assume*—e.g.:
 
  - "\[O\]ffice courtships have become as much a fixture in the workplace as fax machines and desktops. And it's one area most executives would *just assume* \[read *just as soon*\] not govern, a new survey shows." Teresa M. McAleavy, "Unwritten Rules Govern Office Wooing," *Record* (Bergen County, N.J.), 17 Feb. 2002, Bus. §, at B6.
 

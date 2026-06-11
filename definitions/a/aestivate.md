@@ -1,4 +1,4 @@
 # aestivate
 
-aestivate. See **estivate**.
+See **estivate**.
 

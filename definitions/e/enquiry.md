@@ -1,4 +1,4 @@
 # enquiry
 
-enquiry. See **inquiry (b)**.
+See **inquiry (b)**.
 

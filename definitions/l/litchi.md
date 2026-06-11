@@ -1,4 +1,4 @@
 # litchi
 
-litchi. See **lychee**.
+See **lychee**.
 

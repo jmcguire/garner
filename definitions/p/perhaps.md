@@ -1,4 +1,4 @@
 # perhaps
 
-perhaps. See **maybe**.
+See **maybe**.
 

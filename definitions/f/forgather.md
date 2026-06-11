@@ -1,4 +1,4 @@
 # forgather
 
-forgather. See **foregather**.
+See **foregather**.
 

@@ -1,4 +1,4 @@
 # Fused Sentences
 
-Fused Sentences. See run-on sentences.
+See run-on sentences.
 

@@ -1,7 +1,5 @@
 # social
 
-social.
-
 ## A. And *societal*; *\*societary*
 
 Although the two main words overlap to some degree, they are distinguishable. *Social* = (1) living in companies or organized communities \<man is a social animal\>; (2) concerned with the mutual relations among human beings \<the social compact\>; or (3) of, relating to, or involving friendly companionship \<a social event\>.

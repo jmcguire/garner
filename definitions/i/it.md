@@ -1,6 +1,6 @@
 # it
 
-it. This expletive and pronoun often appears too many times in one sentence. Careful writers restrict it (*it*, that is) to one meaning in a given sentence—no more. The problems with using more than one in a sentence are threefold. First, ambiguity may arise if each of two pronominal *it*s refers to a different antecedent from the other. Second, the sentence may well contain a miscue if readers can't immediately distinguish the pronoun *it* from an expletive *it*. And third, having one *it* followed closely by another often impairs euphony.
+This expletive and pronoun often appears too many times in one sentence. Careful writers restrict it (*it*, that is) to one meaning in a given sentence—no more. The problems with using more than one in a sentence are threefold. First, ambiguity may arise if each of two pronominal *it*s refers to a different antecedent from the other. Second, the sentence may well contain a miscue if readers can't immediately distinguish the pronoun *it* from an expletive *it*. And third, having one *it* followed closely by another often impairs euphony.
 
 The most common sloppiness is to use the expletive *it* and the personal pronoun *it* in the same passage—e.g.:
 

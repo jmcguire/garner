@@ -1,7 +1,5 @@
 # chimera
 
-chimera.
-
 ## A. Spelling and Pronunciation
 
 The form *chimera* is now standard, *\*chimaera* rarely appearing. The word is pronounced /kī-**meer**-ә/.

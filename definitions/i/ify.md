@@ -1,4 +1,4 @@
 # -ify
 
--ify. See -fy.
+See -fy.
 

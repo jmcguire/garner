@@ -1,4 +1,4 @@
 # enplane
 
-enplane. See airlinese.
+See airlinese.
 

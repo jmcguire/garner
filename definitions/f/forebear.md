@@ -1,4 +1,4 @@
 # forebear
 
-forebear. See **forbear**.
+See **forbear**.
 

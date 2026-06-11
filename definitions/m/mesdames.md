@@ -1,4 +1,4 @@
 # mesdames
 
-mesdames. See **madam**.
+See **madam**.
 

@@ -1,7 +1,5 @@
 # tell
 
-tell.
-
 ## A. Inflected Forms: *tell* \> *told* \> *told*
 
 See irregular verbs.

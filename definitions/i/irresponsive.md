@@ -1,4 +1,4 @@
 # \*irresponsive
 
-\*irresponsive. See **unresponsive**.
+See **unresponsive**.
 

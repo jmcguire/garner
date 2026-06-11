@@ -1,4 +1,4 @@
 # Swearing
 
-Swearing. See profanity.
+See profanity.
 

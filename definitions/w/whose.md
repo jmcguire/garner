@@ -1,7 +1,5 @@
 # whose
 
-whose.
-
 ## A. Meaning "of which."
 
 *Whose* may usefully refer to things \<an idea whose time has come\>. This use of *whose*, formerly decried by some 19th-century grammarians and their predecessors, is often an inescapable way of avoiding clumsiness—e.g.:

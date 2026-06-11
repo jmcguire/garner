@@ -1,4 +1,4 @@
 # pant
 
-pant. See **pants**.
+See **pants**.
 

@@ -1,7 +1,5 @@
 # rather
 
-rather.
-
 ## A. *Rather than*
 
 This phrase can function either as a conjunction or as a preposition. As a conjunction (the more common use), *rather than* demands that the constructions on each side of it be parallel: "If we can, we will solve this problem diplomatically *rather than* forcibly." But as a preposition, *rather than* can connect nonparallel constructions: "*Rather than* staying home on a Saturday night, we went out to six different bars."

@@ -1,4 +1,4 @@
 # \*wasteband
 
-\*wasteband. See **waistband**.
+See **waistband**.
 

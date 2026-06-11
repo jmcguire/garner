@@ -1,4 +1,4 @@
 # arrant
 
-arrant. See **errant**.
+See **errant**.
 

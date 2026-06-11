@@ -1,6 +1,6 @@
 # once in a while
 
-once in a while. So written. The phrase is occasionally disfigured into a mondegreen—e.g.:
+So written. The phrase is occasionally disfigured into a mondegreen—e.g.:
 
  - "The recipes are usually interesting, and I may even try one *once and while* \[read *once in a while*\]." Dan Macdonald, "Ingenuity in Kitchen Can Stop the Tears," *Fla. Times-Union*, 22 July 1999, at F1.
 

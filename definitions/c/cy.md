@@ -1,4 +1,4 @@
 # -cy
 
--cy. See -ce/-cy & noun suffixes (a).
+See -ce/-cy & noun suffixes (a).
 

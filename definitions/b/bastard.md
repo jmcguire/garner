@@ -1,4 +1,4 @@
 # bastard
 
-bastard. See **dastard (a)**, euphemisms & **illegitimate child**.
+See **dastard (a)**, euphemisms & **illegitimate child**.
 

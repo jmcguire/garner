@@ -1,4 +1,4 @@
 # forwent
 
-forwent. See **forego**.
+See **forego**.
 

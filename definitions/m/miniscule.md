@@ -1,4 +1,4 @@
 # \*miniscule
 
-\*miniscule. See **minuscule**.
+See **minuscule**.
 

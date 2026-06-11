@@ -1,4 +1,4 @@
 # drunken
 
-drunken. See **drunk**.
+See **drunk**.
 

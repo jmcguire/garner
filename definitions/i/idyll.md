@@ -1,7 +1,5 @@
 # idyll
 
-idyll.
-
 ## A. Spelling and Pronunciation
 
 *Idyll* (= \[1\] a poem or prose composition depicting rustic simplicity; or \[2\] a narrative, esp. in verse, resembling a brief epic) is the standard spelling. *\*Idyl*, the predominant spelling during the 1800s, is now but a variant. Either way, the word is pronounced /**ī**-dәl/, like *idle*, in AmE; and /**id**-әl/ in BrE.

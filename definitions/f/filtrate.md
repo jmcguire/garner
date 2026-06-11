@@ -1,4 +1,4 @@
 # \*filtrate
 
-\*filtrate. See **filter**.
+See **filter**.
 

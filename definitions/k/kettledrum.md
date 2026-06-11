@@ -1,4 +1,4 @@
 # kettledrum
 
-kettledrum. One word. See **timpani (a), (c)**.
+One word. See **timpani (a), (c)**.
 

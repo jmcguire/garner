@@ -1,4 +1,4 @@
 # dismembered
 
-dismembered. See **disembodied**.
+See **disembodied**.
 

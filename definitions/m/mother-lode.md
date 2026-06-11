@@ -1,4 +1,4 @@
 # mother lode
 
-mother lode. See **load**.
+See **load**.
 

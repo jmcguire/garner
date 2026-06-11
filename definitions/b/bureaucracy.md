@@ -1,4 +1,4 @@
 # bureaucracy
 
-bureaucracy. See governmental forms.
+See governmental forms.
 

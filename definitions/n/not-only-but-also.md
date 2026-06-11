@@ -1,6 +1,6 @@
 # not only . . . but also
 
-not only . . . but also. For the sake of parallelism, these correlative conjunctions must frame syntactically identical sentence parts—e.g.:
+For the sake of parallelism, these correlative conjunctions must frame syntactically identical sentence parts—e.g.:
 
  - "Many board games, electronic toys and computer programs *are not only enjoyable but also provide* \[read *not only are enjoyable but also provide*\] educational benefits." Jeffrey L. Derevensky & Rina Gupta, "Christmas Without Elmo," *Montreal Gaz.*, 19 Dec. 1996, at B3. (In that revision, the conjunctions frame two verb phrases. Another possible revision: *Many board games, electronic toys, and computer games are not only enjoyable but also educational.* The conjunctions frame two adjectives.)
 

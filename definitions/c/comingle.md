@@ -1,4 +1,4 @@
 # \*comingle
 
-\*comingle. See **commingle**.
+See **commingle**.
 

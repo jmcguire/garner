@@ -1,7 +1,5 @@
 # sometime
 
-sometime.
-
 ## A. And *some time.*
 
 *Sometime* = at an indefinite or unspecified time; esp., at a time in the future \<we'll see each other sometime\>. *Some time* = quite a while \<they spent some time together\>. The difference may be illustrated by contrasting the senses of these two sentences: (1) "It was not until *sometime* later that George quit." (The precise time is unknown to the writer.) (2) "It was not until *some time* later that George quit." (George waited quite a while before quitting.)

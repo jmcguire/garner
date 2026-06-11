@@ -1,4 +1,4 @@
 # cacao
 
-cacao. See **cocoa**.
+See **cocoa**.
 

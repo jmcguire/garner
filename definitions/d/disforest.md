@@ -1,4 +1,4 @@
 # \*disforest
 
-\*disforest. See **deforest**.
+See **deforest**.
 

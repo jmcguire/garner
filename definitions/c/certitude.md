@@ -1,4 +1,4 @@
 # certitude
 
-certitude. See **certainty**.
+See **certainty**.
 

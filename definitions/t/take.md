@@ -1,7 +1,5 @@
 # take
 
-take.
-
 ## A. Inflected Forms: *take* \> *took* \> *taken*
 
 The form *\*tooken* is low dialect that occasionally shows up in quoted speech—e.g.:

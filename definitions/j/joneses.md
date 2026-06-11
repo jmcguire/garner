@@ -1,4 +1,4 @@
 # Joneses
 
-Joneses. See plurals (e).
+See plurals (e).
 

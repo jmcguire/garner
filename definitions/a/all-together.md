@@ -1,4 +1,4 @@
 # all together
 
-all together. See **altogether**.
+See **altogether**.
 

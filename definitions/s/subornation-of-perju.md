@@ -1,6 +1,6 @@
 # subornation of perjury
 
-subornation of perjury. This legal phrase refers to the crime of trying to persuade another person to commit perjury. In the press (and, embarrassingly enough, even in judicial opinions), it is occasionally rendered *\*subordination of perjury*, a persistent malapropism that can be traced back to the 1700s. E.g.:
+This legal phrase refers to the crime of trying to persuade another person to commit perjury. In the press (and, embarrassingly enough, even in judicial opinions), it is occasionally rendered *\*subordination of perjury*, a persistent malapropism that can be traced back to the 1700s. E.g.:
 
  - "The Parliament noted that when nothing was in writing, contract terms were ‘commonly endeavored to be upheld by perjury and *subordination of perjury* \[read *subornation of perjury*\].' " John Roska, "Oral Contract to Buy House Requires Proof of Basic Issues," *St. Louis Post-Dispatch*, 1 Apr. 2004, St. Clair–Monroe §, at 2.
 

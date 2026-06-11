@@ -1,4 +1,4 @@
 # leaf
 
-leaf. Pl. *leaves*. See plurals (c).
+Pl. *leaves*. See plurals (c).
 

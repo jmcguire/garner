@@ -1,4 +1,4 @@
 # dependant
 
-dependant. See **dependent**, n.
+See **dependent**, n.
 

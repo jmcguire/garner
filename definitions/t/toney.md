@@ -1,4 +1,4 @@
 # \*toney
 
-\*toney. See **tony**.
+See **tony**.
 

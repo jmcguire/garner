@@ -1,4 +1,4 @@
 # notice
 
-notice. For *advance notice* vs. *\*advanced notice*, see **advanced**.
+For *advance notice* vs. *\*advanced notice*, see **advanced**.
 

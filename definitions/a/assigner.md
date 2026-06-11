@@ -1,4 +1,4 @@
 # \*assigner
 
-\*assigner. See **assignor**.
+See **assignor**.
 

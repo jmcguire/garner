@@ -1,4 +1,4 @@
 # amenability
 
-amenability. See **amenity**.
+See **amenity**.
 

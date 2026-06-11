@@ -1,7 +1,5 @@
 # based on
 
-based on.
-
 ## A. Generally
 
 This phrase has two good and two bad uses. First, the phrase may carry a verbal force (*base* being a transitive verb)—e.g.:

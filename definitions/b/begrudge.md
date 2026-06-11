@@ -1,4 +1,4 @@
 # begrudge
 
-begrudge. See **resent (a)** & **grudging**.
+See **resent (a)** & **grudging**.
 

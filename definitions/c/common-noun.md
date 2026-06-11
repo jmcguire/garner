@@ -1,4 +1,4 @@
 # common noun
 
-common noun. See **proper noun**.
+See **proper noun**.
 

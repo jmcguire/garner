@@ -1,4 +1,4 @@
 # rational
 
-rational. See **reasonable**.
+See **reasonable**.
 

@@ -1,4 +1,4 @@
 # \*cyclopian
 
-\*cyclopian. See **cyclopean**.
+See **cyclopean**.
 

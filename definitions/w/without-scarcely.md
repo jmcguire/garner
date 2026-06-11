@@ -1,6 +1,6 @@
 # \*without scarcely
 
-\*without scarcely. This phrasing is an optical illusion: something of a redundancy while something of an oxymoron. Whatever it is, though, it's illogical—e.g.:
+This phrasing is an optical illusion: something of a redundancy while something of an oxymoron. Whatever it is, though, it's illogical—e.g.:
 
  - "He shook hands *without scarcely* \[read *without* or *scarcely*\] noticing those who were there to encourage him." Godfrey Sperling, "The Power of a Candidate's Prose," *Christian Science Monitor*, 8 Mar. 1988, at 11.
 

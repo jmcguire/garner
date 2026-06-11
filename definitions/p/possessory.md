@@ -1,4 +1,4 @@
 # possessory
 
-possessory. See **possessive**.
+See **possessive**.
 

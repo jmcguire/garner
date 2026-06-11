@@ -1,4 +1,4 @@
 # \*herstory
 
-\*herstory. See sexism (c).
+See sexism (c).
 

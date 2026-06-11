@@ -1,4 +1,4 @@
 # beyond a reasonable doubt
 
-beyond a reasonable doubt. See **not guilty (b)**.
+See **not guilty (b)**.
 

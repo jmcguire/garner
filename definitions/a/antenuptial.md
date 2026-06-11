@@ -1,4 +1,4 @@
 # antenuptial
 
-antenuptial. See **prenuptial**.
+See **prenuptial**.
 

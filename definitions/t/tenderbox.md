@@ -1,4 +1,4 @@
 # \*tenderbox
 
-\*tenderbox. See **tinderbox**.
+See **tinderbox**.
 

@@ -1,4 +1,4 @@
 # discrimination
 
-discrimination. See **discriminatory** (2nd paragraph).
+See **discriminatory** (2nd paragraph).
 

@@ -1,4 +1,4 @@
 # \*preying mantis
 
-\*preying mantis. See **praying mantis**.
+See **praying mantis**.
 

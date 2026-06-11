@@ -1,4 +1,4 @@
 # \*tipi
 
-\*tipi. See **tepee**.
+See **tepee**.
 

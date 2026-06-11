@@ -1,4 +1,4 @@
 # carol, n
 
-carol, n. See **carrel**.
+See **carrel**.
 

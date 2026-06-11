@@ -1,4 +1,4 @@
 # trio
 
-trio. For a curious error, see **triage**.
+For a curious error, see **triage**.
 

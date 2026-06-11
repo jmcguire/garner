@@ -1,4 +1,4 @@
 # determinism
 
-determinism. See **fatalism**.
+See **fatalism**.
 

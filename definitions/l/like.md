@@ -1,7 +1,5 @@
 # like
 
-like.
-
 ## A. As a Preposition
 
 The object of a preposition should be in the objective case—you say *They are very much like us*, not *\*They are very much like we*. When the second-person pronoun is used, no problem arises: "I, like you, believe that Mozart was the greatest composer of all time." But apart from the second person, writers often get confused on this point, as with first-person pronouns—e.g.:

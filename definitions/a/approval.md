@@ -1,4 +1,4 @@
 # approval
 
-approval. See **approbation**.
+See **approbation**.
 

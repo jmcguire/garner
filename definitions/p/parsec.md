@@ -1,4 +1,4 @@
 # parsec
 
-parsec. See **light-year**.
+See **light-year**.
 

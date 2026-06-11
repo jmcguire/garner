@@ -1,4 +1,4 @@
 # \*djinni
 
-\*djinni. See **genie**.
+See **genie**.
 

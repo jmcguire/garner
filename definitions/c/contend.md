@@ -1,4 +1,4 @@
 # contend
 
-contend. See **allege** & **contest**.
+See **allege** & **contest**.
 

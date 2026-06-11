@@ -1,4 +1,4 @@
 # all-round
 
-all-round. See **all-around**.
+See **all-around**.
 

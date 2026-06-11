@@ -1,4 +1,4 @@
 # purchase
 
-purchase. See **buy (b)**.
+See **buy (b)**.
 

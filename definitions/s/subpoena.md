@@ -1,7 +1,5 @@
 # subpoena
 
-subpoena.
-
 ## A. Sense
 
 *W3* lists *subpoena* as an adverb meaning "under penalty" (or "under pain"). This, of course, is its etymological sense. Yet it virtually never appears in modern writing with this meaning, and it should be considered obsolete in that sense.

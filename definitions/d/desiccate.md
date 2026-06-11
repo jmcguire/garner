@@ -1,4 +1,4 @@
 # desiccate
 
-desiccate. So spelled. See spelling (a).
+So spelled. See spelling (a).
 

@@ -1,4 +1,4 @@
 # scorify
 
-scorify. See **scarify**.
+See **scarify**.
 

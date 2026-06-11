@@ -1,7 +1,5 @@
 # say, vb
 
-say, vb.
-
 ## A. Inflected Forms: *say* \> *said* \> *said*
 
 See irregular verbs.

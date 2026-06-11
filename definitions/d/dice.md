@@ -1,6 +1,6 @@
 # dice
 
-dice. In formal usage, the numbered cube used in games of chance is called a *die*, and two or more are *dice*. But the word *dice* is often used sloppily as a singular—e.g.:
+In formal usage, the numbered cube used in games of chance is called a *die*, and two or more are *dice*. But the word *dice* is often used sloppily as a singular—e.g.:
 
  - "Risks are calculable and can be insured against—for instance, the chance of a normal single *dice* \[read *die*\] throwing a six is one in six." Samuel Brittan, "Some Ruminations on Risk," *Fin. Times*, 11 Apr. 1996, at 12.
 

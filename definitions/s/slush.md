@@ -1,4 +1,4 @@
 # slush
 
-slush. See **sludge**.
+See **sludge**.
 

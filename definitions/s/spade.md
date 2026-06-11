@@ -1,4 +1,4 @@
 # spade
 
-spade. See **spay**.
+See **spay**.
 

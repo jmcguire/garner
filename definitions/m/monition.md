@@ -1,4 +1,4 @@
 # monition
 
-monition. See **admonition (a)**.
+See **admonition (a)**.
 

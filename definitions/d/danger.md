@@ -1,7 +1,5 @@
 # danger
 
-danger.
-
 ## A. *In danger of life*; *in danger of death*
 
 Curiously, these phrases are synonymous. *Life* is the only exception to the idiom requiring *in danger of* to be followed by the peril and not by what is exposed to it. Thus, we say *in danger of losing his honor*, *in danger of being thrown from the bridge*, etc.

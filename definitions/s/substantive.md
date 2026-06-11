@@ -1,7 +1,5 @@
 # substantive
 
-substantive.
-
 ## A. Pronunciation
 
 *Substantive*—a commonly mispronounced word—has three, not four, syllables: /**sәb**-stәn-tiv/. The common error in AmE is to insert what is technically known as an epenthetic *e* after the second syllable: /**sәb**-stә-nә-tiv/. Still another blunder in AmE is to accent the second syllable: /sәb-**stan**-tiv/; that pronunciation is considered an acceptable variant in BrE. See pronunciation (b).

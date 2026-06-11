@@ -1,6 +1,6 @@
 # cramp (one's) style
 
-cramp (one's) style. This is the set phrase meaning "(of an outside influence) to interfere with one's freedom to act"—e.g.: "Producers say the minimum requirements *cramp* artistic *style* and lead to the unnecessary hiring of additional musicians." Tania Padgett, "Broadway Musician Walkout Looming," *Newsday* (N.Y.), 2 Mar. 2003, at A16.
+This is the set phrase meaning "(of an outside influence) to interfere with one's freedom to act"—e.g.: "Producers say the minimum requirements *cramp* artistic *style* and lead to the unnecessary hiring of additional musicians." Tania Padgett, "Broadway Musician Walkout Looming," *Newsday* (N.Y.), 2 Mar. 2003, at A16.
 
 Some writers change *cramp* to *crimp* (= to make pinched or bent), perhaps because the phrase *put a crimp in* has a similar meaning: "to hurt (something's) chances." But it isn't idiomatic to say that something *\*crimps (someone's) style*, much as the writers may complain that this stricture is cramping their style—e.g.:
 

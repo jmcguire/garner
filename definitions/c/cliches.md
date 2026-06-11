@@ -1,6 +1,6 @@
 # Clichés, Essay
 
-Clichés. Writing pundits have often warned against clichés:
+Writing pundits have often warned against clichés:
 
  - **1926:** "The purpose with which these phrases are introduced is for the most part that of giving a fillip to a passage that might be humdrum without them; they do serve this purpose with some readers—the less discerning—though with the other kind they more effectually disserve it." H.W. Fowler, *FMEU1* at 224.
 

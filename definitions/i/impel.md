@@ -1,4 +1,4 @@
 # impel
 
-impel. See **compel**.
+See **compel**.
 

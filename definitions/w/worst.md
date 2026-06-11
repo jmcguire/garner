@@ -1,7 +1,5 @@
 # worst
 
-worst.
-
 ## A. For *most*
 
 *Worst* is a casualism when used as an equivalent of *most* \<what they need worst is food\>. It is related to *(most) badly in need*. It occurs chiefly in reported speech—e.g.:

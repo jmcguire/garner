@@ -1,7 +1,5 @@
 # one
 
-one.
-
 ## A. The Overdone *one*
 
 In AmE, *one* (= any person indefinitely) is extremely formal. To most American speakers, it seems bookish and pedantic. It's rare to find anyone who goes this far, especially in speech: "So if *one* does *one's* best, *one* recognizes that sometimes *one's* best is not going to bring all of the changes that *one* would hope for, but it doesn't mean there hasn't been progress." Bob Krueger (interviewed by Diane Jennings, *Dallas Morning News*, 31 Dec. 1995, at J1). For ordinary purposes, *you* is a better, more relaxed choice. The passage above, for example, might have read: *So if you do your best, you recognize that sometimes your best isn't going to bring all the changes that you would hope for, but it doesn't mean there hasn't been progress.* See **you**.

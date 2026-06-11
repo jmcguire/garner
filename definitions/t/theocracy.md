@@ -1,4 +1,4 @@
 # theocracy
 
-theocracy. See governmental forms.
+See governmental forms.
 

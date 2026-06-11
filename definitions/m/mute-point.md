@@ -1,4 +1,4 @@
 # \*mute point
 
-\*mute point. See **moot**.
+See **moot**.
 

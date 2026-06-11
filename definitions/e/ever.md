@@ -1,7 +1,5 @@
 # ever
 
-ever.
-
 ## A. Superfluous
 
 For phrases in which *ever* is superfluous, see **\*rarely ever** & **\*seldom ever**.

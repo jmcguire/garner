@@ -1,6 +1,6 @@
 # \*free gift
 
-\*free gift. This redundancy, the result of advertisers' attempted assurances that you'll really get something for nothing, isn't much used by careful writers. But that's not to say it's not used—e.g.:
+This redundancy, the result of advertisers' attempted assurances that you'll really get something for nothing, isn't much used by careful writers. But that's not to say it's not used—e.g.:
 
  - "Merchants offered special discount drawings, fashion shows, decorating tips and *free gifts* \[read *gifts*\]." Michelle Daniels, "Sani Family Event Benefits Hinds Hospice," *Fresno Bee*, 29 Dec. 1995, at B2. (The serial comma would clarify that sentence; that is, insert a comma before the *and*. See serial comma.)
 

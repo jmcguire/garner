@@ -1,4 +1,4 @@
 # flautist
 
-flautist. See **flutist**.
+See **flutist**.
 

@@ -1,4 +1,4 @@
 # \*wolvish
 
-\*wolvish. See **wolfish**.
+See **wolfish**.
 

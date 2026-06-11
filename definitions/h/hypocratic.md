@@ -1,4 +1,4 @@
 # \*Hypocratic
 
-\*Hypocratic. See **Hippocratic**.
+See **Hippocratic**.
 

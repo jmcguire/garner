@@ -1,4 +1,4 @@
 # defence
 
-defence. See **defense**.
+See **defense**.
 

@@ -1,4 +1,4 @@
 # moustache
 
-moustache. See **mustache**.
+See **mustache**.
 

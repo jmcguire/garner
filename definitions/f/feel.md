@@ -1,7 +1,5 @@
 # feel
 
-feel.
-
 ## A. Inflected Forms: *feel* \> *felt* \> *felt*
 
 See irregular verbs.

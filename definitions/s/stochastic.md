@@ -1,4 +1,4 @@
 # stochastic
 
-stochastic. See **aleatory**.
+See **aleatory**.
 

@@ -1,4 +1,4 @@
 # prise
 
-prise. See **prize**.
+See **prize**.
 

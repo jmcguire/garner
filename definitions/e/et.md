@@ -1,4 +1,4 @@
 # -et
 
--et. See diminutives (f).
+See diminutives (f).
 

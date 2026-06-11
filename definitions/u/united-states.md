@@ -1,7 +1,5 @@
 # United States
 
-United States.
-
 ## A. Number
 
 By the late 1800s in AmE, this proper noun had "ceased to have any suggestion of plurality about it." Harry T. Peck, *What Is Good English?* 3, 16 (1899). That represented a change from the early days of the republic when states'-rights particularism was rampant. It was once usual to say *the United States have*, as Alexander Hamilton did in *The Federalist* No. 15, at 108 (Clinton Rossiter ed., 1961).

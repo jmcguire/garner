@@ -1,4 +1,4 @@
 # in the affirmative
 
-in the affirmative. See **affirmative**.
+See **affirmative**.
 

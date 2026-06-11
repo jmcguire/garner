@@ -1,4 +1,4 @@
 # reenforce
 
-reenforce. See **reinforce**.
+See **reinforce**.
 

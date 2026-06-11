@@ -1,4 +1,4 @@
 # \*paederast
 
-\*paederast. See **pederast**.
+See **pederast**.
 

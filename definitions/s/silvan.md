@@ -1,4 +1,4 @@
 # \*silvan
 
-\*silvan. See **sylvan**.
+See **sylvan**.
 

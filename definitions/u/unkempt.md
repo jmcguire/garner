@@ -1,7 +1,5 @@
 # unkempt
 
-unkempt.
-
 ## A. Sense and Use
 
 *Unkempt* is often said to be a word with a "lost positive," one of those interesting negatives without a corresponding positive word (cf. *discombobulate*, *disgruntled*, *nondescript*). That is, the word *kempt* is thought to be obsolete while *unkempt* thrives. (Perhaps this says something about the state of the world.) *Unkempt* means "uncombed, disheveled" (another word with a lost positive), although some of the earliest uses from the 1300s were figurative: *unkempt rhymes* and *unkempt words*. By the 1700s, most uses were literal: *unkempt hair*, *unkempt locks*, *unkempt fellows*, *unkempt cotton*. By the 1800s, the word took on broader senses of untidiness and applied to other things, such as clothes and farms.

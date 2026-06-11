@@ -1,4 +1,4 @@
 # telephonee
 
-telephonee. See -ee.
+See -ee.
 

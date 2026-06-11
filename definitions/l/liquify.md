@@ -1,4 +1,4 @@
 # \*liquify
 
-\*liquify. See **liquefy**.
+See **liquefy**.
 

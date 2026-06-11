@@ -1,4 +1,4 @@
 # field day
 
-field day. See **heyday (b)**.
+See **heyday (b)**.
 

@@ -1,4 +1,4 @@
 # aggregation
 
-aggregation. See **aggregate**, n.
+See **aggregate**, n.
 

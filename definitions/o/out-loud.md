@@ -1,4 +1,4 @@
 # out loud
 
-out loud. See **aloud**.
+See **aloud**.
 

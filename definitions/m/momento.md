@@ -1,4 +1,4 @@
 # \*momento
 
-\*momento. See **memento**.
+See **memento**.
 

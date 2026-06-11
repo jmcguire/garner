@@ -1,4 +1,4 @@
 # handcraft
 
-handcraft. See **handicraft**.
+See **handicraft**.
 

@@ -1,4 +1,4 @@
 # annihilable
 
-annihilable. So formed—not *\*annihilatable*. See -able (d) & -atable.
+So formed—not *\*annihilatable*. See -able (d) & -atable.
 

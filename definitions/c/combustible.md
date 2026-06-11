@@ -1,6 +1,6 @@
 # combustible
 
-combustible. So spelled—not *\*combustable*. (See -able (a).) *\*Combustible engine* is a mistake for *combustion engine*. In fact, it erroneously suggests that the engine is flammable (or, as we used to say, *inflammable*—see **flammable**). E.g.:
+So spelled—not *\*combustable*. (See -able (a).) *\*Combustible engine* is a mistake for *combustion engine*. In fact, it erroneously suggests that the engine is flammable (or, as we used to say, *inflammable*—see **flammable**). E.g.:
 
  - "Terrill said the use of *combustible* \[read *combustion*\] engines, such as those running chain saws, lawnmowers and weedeaters, should be curtailed, as should campfires." Larry D. Hatfield, "Hot Winds Fan New Fire Fears," *S.F. Examiner*, 13 Oct. 1995, at A1.
 

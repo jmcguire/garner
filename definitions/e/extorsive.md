@@ -1,4 +1,4 @@
 # \*extorsive
 
-\*extorsive. See **extortionate**.
+See **extortionate**.
 

@@ -1,4 +1,4 @@
 # \*bride-elect
 
-\*bride-elect. See **bride-to-be**.
+See **bride-to-be**.
 

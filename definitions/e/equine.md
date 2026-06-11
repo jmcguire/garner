@@ -1,4 +1,4 @@
 # equine
 
-equine. See animal adjectives.
+See animal adjectives.
 

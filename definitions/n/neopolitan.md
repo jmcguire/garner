@@ -1,4 +1,4 @@
 # \*Neopolitan
 
-\*Neopolitan. See **Neapolitan**.
+See **Neapolitan**.
 

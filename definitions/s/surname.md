@@ -1,7 +1,5 @@
 # surname
 
-surname.
-
 ## A. Generally
 
 *Surname* (= someone's family name), a French loanword dating in English from the 1300s, derives from OF *surnom* (*sur*- "over, beyond, above" \+ *name*). Through folk etymology during the 1600s to the 1800s, *surname* was frequently misspelled *\*sirname*, suggesting "father's name." (See etymology (d).) Although the *OED* labels *\*sirname* an obsolete variant, it still occasionally appears.

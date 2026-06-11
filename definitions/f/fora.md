@@ -1,4 +1,4 @@
 # \*fora
 
-\*fora. See **forum**.
+See **forum**.
 

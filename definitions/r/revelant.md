@@ -1,4 +1,4 @@
 # \*revelant
 
-\*revelant. See **relevant**.
+See **relevant**.
 

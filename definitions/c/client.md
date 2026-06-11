@@ -1,7 +1,5 @@
 # client
 
-client.
-
 ## A. And *customer*
 
 By definition, a *client* is someone who engages the services of a professional, whereas a *customer* gives custom or trade to a business, often with regularity. An accountant or a lawyer has *clients*; a grocery store or telephone company has *customers*.

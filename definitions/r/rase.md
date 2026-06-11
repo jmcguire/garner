@@ -1,4 +1,4 @@
 # \*rase
 
-\*rase. See **raze**.
+See **raze**.
 

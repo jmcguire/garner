@@ -1,4 +1,4 @@
 # uniform
 
-uniform. See adjectives (b).
+See adjectives (b).
 

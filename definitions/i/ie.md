@@ -1,4 +1,4 @@
 # -ie
 
--ie. See diminutives (g).
+See diminutives (g).
 

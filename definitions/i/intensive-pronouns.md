@@ -1,4 +1,4 @@
 # Intensive Pronouns
 
-Intensive Pronouns. See pronouns (e).
+See pronouns (e).
 

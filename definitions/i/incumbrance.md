@@ -1,4 +1,4 @@
 # \*incumbrance
 
-\*incumbrance. See **encumbrance**.
+See **encumbrance**.
 

@@ -1,7 +1,5 @@
 # according
 
-according.
-
 ## A. *According to*
 
 This phrase means (1) "depending on"; (2) "as explained or reported by (a person)"; or (3) "in accordance with." In sense 2, the phrase is a weak form of attribution \<according to Barbara Tuchman, . . .\>; a text sprinkled with *according to*'s gives the appearance of having little originality. Use the phrase sparingly.

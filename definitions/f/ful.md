@@ -1,4 +1,4 @@
 # -ful
 
--ful. See plurals (g).
+See plurals (g).
 

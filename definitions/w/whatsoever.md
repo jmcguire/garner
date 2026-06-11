@@ -1,4 +1,4 @@
 # whatsoever
 
-whatsoever. See **whatever**.
+See **whatever**.
 

@@ -1,4 +1,4 @@
 # molten
 
-molten. See **melt**.
+See **melt**.
 

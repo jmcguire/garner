@@ -1,6 +1,6 @@
 # I enjoyed myself
 
-I enjoyed myself. Though literalistic pedants sometimes criticize this idiom as hopelessly illogical (which it is), it has been standard since the late 1700s—e.g.:
+Though literalistic pedants sometimes criticize this idiom as hopelessly illogical (which it is), it has been standard since the late 1700s—e.g.:
 
  - "And *I enjoyed myself*, so it doesn't seem that I failed." Dan McGrath, "For Better or Worse, This Gig Was Fun," *Sacramento Bee*, 20 Aug. 1995, at A2.
 

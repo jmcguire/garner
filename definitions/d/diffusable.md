@@ -1,4 +1,4 @@
 # \*diffusable
 
-\*diffusable. See **diffusible**.
+See **diffusible**.
 

@@ -1,4 +1,4 @@
 # forgery
 
-forgery. See **counterfeit**.
+See **counterfeit**.
 

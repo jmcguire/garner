@@ -1,6 +1,6 @@
 # eyes peeled
 
-eyes peeled. The phrase is so spelled, though some erroneously make it *\*eyes pealed*—e.g.:
+The phrase is so spelled, though some erroneously make it *\*eyes pealed*—e.g.:
 
  - "The mug can be lifted to the mouth, a necessity during the Super Bowl, when all eyes are *pealed* \[read *peeled* or, better yet, *fixed*\] on the television and not watching where soup may be dripping." Jo Northrop, "Filling Mugs with Meals," *Wash. Post*, 26 Jan. 1983, at E10. (*Fixed* is the better choice because the cliché \[*eyes peeled*\] means "watchful," not "focused.")
 

@@ -1,4 +1,4 @@
 # \*lynchpin
 
-\*lynchpin. See **linchpin**.
+See **linchpin**.
 

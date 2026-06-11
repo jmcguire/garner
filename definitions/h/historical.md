@@ -1,7 +1,5 @@
 # historical
 
-historical.
-
 ## A. And *historic*
 
 *Historical*, meaning "of, relating to, or involving or occurring in history," is called on for use far more frequently. *Historic* means "historically significant" \<the Alamo is a historic building\>. An event that makes history is *historic*; momentous happenings or developments are *historic*—e.g.: "The Supreme Court's *historic* decision about whether mentally competent, dying patients and their doctors have the right to hasten death won't be known for months." "Voices: Should Doctors Be Able to Assist Terminally Ill Patients in Suicide?," *USA Today*, 10 Jan. 1997, at A12.

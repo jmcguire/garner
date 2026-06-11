@@ -1,4 +1,4 @@
 # demise
 
-demise. See **death**.
+See **death**.
 

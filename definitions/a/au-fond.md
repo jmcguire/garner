@@ -1,4 +1,4 @@
 # au fond
 
-au fond. See ***à fond***.
+See ***à fond***.
 

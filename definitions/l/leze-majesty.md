@@ -1,4 +1,4 @@
 # \*leze majesty
 
-\*leze majesty. See **lese majesty**.
+See **lese majesty**.
 

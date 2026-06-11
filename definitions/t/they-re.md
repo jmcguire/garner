@@ -1,4 +1,4 @@
 # they're
 
-they're. See **their**.
+See **their**.
 

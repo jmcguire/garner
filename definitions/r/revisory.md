@@ -1,4 +1,4 @@
 # revisory
 
-revisory. See **revisionary**.
+See **revisionary**.
 

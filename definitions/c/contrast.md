@@ -1,7 +1,5 @@
 # contrast
 
-contrast.
-
 ## A. Prepositions with
 
 One *contrasts* something *with*—not *to*—something else. But it's permissible to write either *in contrast to* or *in contrast with*. Cf. **compare with**.

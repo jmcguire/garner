@@ -1,4 +1,4 @@
 # alone
 
-alone. See **lone**.
+See **lone**.
 

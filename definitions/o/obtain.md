@@ -1,4 +1,4 @@
 # obtain
 
-obtain. See **attain**.
+See **attain**.
 

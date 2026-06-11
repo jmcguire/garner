@@ -1,4 +1,4 @@
 # lectern
 
-lectern. See **podium**.
+See **podium**.
 

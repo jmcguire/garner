@@ -1,4 +1,4 @@
 # \*aquiculture
 
-\*aquiculture. See **aquaculture**.
+See **aquaculture**.
 

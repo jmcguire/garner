@@ -1,7 +1,5 @@
 # moot
 
-moot.
-
 ## A. As an Adjective
 
 The *OED* once listed only the sense "that can be argued; debatable; not decided, doubtful." Hence a *moot point* was classically seen as one that is arguable. A *moot case* was a hypothetical case proposed for discussion in a "moot" of law students (i.e., the word was once a noun). In U.S. law schools, students practice arguing hypothetical cases before appellate courts in *moot court.*

@@ -1,4 +1,4 @@
 # mitre
 
-mitre. See **miter**.
+See **miter**.
 

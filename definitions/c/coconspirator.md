@@ -1,4 +1,4 @@
 # coconspirator
 
-coconspirator. See **conspirator** & co-.
+See **conspirator** & co-.
 

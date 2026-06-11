@@ -1,6 +1,6 @@
 # cyclops
 
-cyclops. Pl. *cyclopes* /sī-**kloh**-peez/ or *cyclopses* /**sī**-klop-sәz/. The classically formed plural, *cyclopes*, still predominates in AmE and BrE alike—e.g.:
+Pl. *cyclopes* /sī-**kloh**-peez/ or *cyclopses* /**sī**-klop-sәz/. The classically formed plural, *cyclopes*, still predominates in AmE and BrE alike—e.g.:
 
  - "Post-apocalyptic *cyclopes* line the wall of a sewer like bats in black leather, and Siamese-twin sisters who suggest taloned ravens cackle over sinister purposes." Jay Carr, "Dungeonlike ‘City' Casts Eerie Spell," *Boston Globe*, 9 Sept. 1995, at 65.
 

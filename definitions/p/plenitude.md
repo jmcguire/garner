@@ -1,6 +1,6 @@
 # plenitude
 
-plenitude. So spelled. The word is derived from the Latin *plenus* "full"—the etymon also for *plenary*. Unfortunately, through confusion with the word *plenty*, the misspelling *\*plentitude* (which first appeared in the 1700s) has become common—e.g.:
+So spelled. The word is derived from the Latin *plenus* "full"—the etymon also for *plenary*. Unfortunately, through confusion with the word *plenty*, the misspelling *\*plentitude* (which first appeared in the 1700s) has become common—e.g.:
 
  - "In its scant 181 pages (including a well-organized index), the reader will find a *plentitude* \[read *plenitude*\] of good shopping theory." Georgia Brown, "Gonzo Shopper," *Wash. Times*, 2 Jan. 1997, at C11.
 

@@ -1,4 +1,4 @@
 # Curtailed Words
 
-Curtailed Words. See back-formations.
+See back-formations.
 

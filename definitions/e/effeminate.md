@@ -1,4 +1,4 @@
 # effeminate
 
-effeminate. See **female**.
+See **female**.
 

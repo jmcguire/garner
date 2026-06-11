@@ -1,6 +1,6 @@
 # unleash
 
-unleash. The word is premised on the analogy of letting a threatening or vicious animal off a leash. But a surprising number of writers have misunderstood that and written the meaningless *\*unlease*—e.g.:
+The word is premised on the analogy of letting a threatening or vicious animal off a leash. But a surprising number of writers have misunderstood that and written the meaningless *\*unlease*—e.g.:
 
  - "But Mr. Williams *unleases* \[read *unleashes*\] a fiery temper at managers who fail to make budget." Eric N. Berg, "Suntrust's Florida Ambitions," *N.Y. Times*, 24 Nov. 1986, at D1.
 

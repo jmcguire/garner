@@ -1,4 +1,4 @@
 # \*improvize
 
-\*improvize. See **improvise**.
+See **improvise**.
 

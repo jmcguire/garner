@@ -1,4 +1,4 @@
 # boss
 
-boss. See hierarchical expressions.
+See hierarchical expressions.
 

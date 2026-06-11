@@ -1,4 +1,4 @@
 # Latinx
 
-Latinx. See race-related terms (j).
+See race-related terms (j).
 

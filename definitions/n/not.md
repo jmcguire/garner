@@ -1,7 +1,5 @@
 # not
 
-not.
-
 ## A. Placement of
 
 When used in a construction with *all* or *every*, *not* is usually best placed just before that word. E.g.:

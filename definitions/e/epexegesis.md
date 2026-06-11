@@ -1,4 +1,4 @@
 # epexegesis
 
-epexegesis. See **exegesis**.
+See **exegesis**.
 

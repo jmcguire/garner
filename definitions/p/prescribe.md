@@ -1,4 +1,4 @@
 # prescribe
 
-prescribe. See **proscribe**.
+See **proscribe**.
 

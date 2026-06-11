@@ -1,4 +1,4 @@
 # maltreat
 
-maltreat. See **mistreat**.
+See **mistreat**.
 

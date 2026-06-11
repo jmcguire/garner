@@ -1,4 +1,4 @@
 # antebellum
 
-antebellum. One word.
+One word.
 

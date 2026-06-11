@@ -1,4 +1,4 @@
 # amuck
 
-amuck. See **amok**.
+See **amok**.
 

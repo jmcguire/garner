@@ -1,7 +1,5 @@
 # economic
 
-economic.
-
 ## A. And *economical.*
 
 *Economical* means "thrifty" or, in the current jargon, "cost-effective" \<it's not economical to have so many workers with duplicative responsibilities\>. *Economic* should be used for every other meaning possible for the words, almost always in reference to the study of economics \<economic growth\>. Hence we have *economic studies* and *economic interest* but *economical shopping*. See -ic/-ical. Cf. **uneconomical**.

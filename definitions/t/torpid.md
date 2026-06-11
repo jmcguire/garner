@@ -1,4 +1,4 @@
 # torpid
 
-torpid. See **turbid**.
+See **turbid**.
 

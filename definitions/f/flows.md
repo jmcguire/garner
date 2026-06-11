@@ -1,4 +1,4 @@
 # flows
 
-flows. See **floes**.
+See **floes**.
 

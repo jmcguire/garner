@@ -1,4 +1,4 @@
 # arriviste
 
-arriviste. See **nouveau riche (b)**.
+See **nouveau riche (b)**.
 

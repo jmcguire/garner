@@ -1,7 +1,5 @@
 # suicide
 
-suicide.
-
 ## A. And *self-killing*; *self-murder*; *self-slaughter*; *felo-de-se*
 
 The five terms are generally synonymous, though *self-murder* and *self-slaughter* are charged with extremely negative connotations. *Suicide* and *self-killing* are broad terms that include every instance in which a person intentionally causes his or her own death. *Suicide* used to be included within the definition of *homicide* (= the killing of a human being by a human being), but the modern trend has been to distinguish the one from the other by defining *homicide* as "the killing of a human being by *another* human being." The Latin phrase *felo-de-se* is a euphemism either for a person who commits suicide or for the act of suicide. See -cide.

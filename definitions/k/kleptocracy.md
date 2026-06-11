@@ -1,4 +1,4 @@
 # kleptocracy
 
-kleptocracy. See governmental forms.
+See governmental forms.
 

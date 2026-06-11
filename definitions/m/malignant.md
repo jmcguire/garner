@@ -1,4 +1,4 @@
 # malignant
 
-malignant. See **benign**.
+See **benign**.
 

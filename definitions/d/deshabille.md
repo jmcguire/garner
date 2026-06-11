@@ -1,4 +1,4 @@
 # deshabille
 
-deshabille. See **dishabille**.
+See **dishabille**.
 

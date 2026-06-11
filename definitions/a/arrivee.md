@@ -1,4 +1,4 @@
 # arrivee
 
-arrivee. See -ee.
+See -ee.
 

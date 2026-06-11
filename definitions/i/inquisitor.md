@@ -1,4 +1,4 @@
 # inquisitor
 
-inquisitor. See **inquirer**.
+See **inquirer**.
 

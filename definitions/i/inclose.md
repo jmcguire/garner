@@ -1,4 +1,4 @@
 # \*inclose
 
-\*inclose. See **enclose**.
+See **enclose**.
 

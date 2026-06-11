@@ -1,7 +1,5 @@
 # anyone
 
-anyone.
-
 ## A. And *any one*
 
 For the indefinite pronoun, the one-word spelling is required \<anyone could do that\>. Though formerly written as two words, the unification of the phrase is now complete. *Any one* = any single person or thing (of a number). E.g.: "When he died, none of us could remember *any one* thing he'd said." Richard Hoffer, "The Player," *Sports Illustrated*, 30 Sept. 1996, at 13.

@@ -1,6 +1,6 @@
 # edification
 
-edification. In the phrase *for your edification* (= for your moral or intellectual instruction), the word *edification* is sometimes misused (usually but not always for jocular effect) to mean "for your enjoyment" or the like—e.g.:
+In the phrase *for your edification* (= for your moral or intellectual instruction), the word *edification* is sometimes misused (usually but not always for jocular effect) to mean "for your enjoyment" or the like—e.g.:
 
  - "Dennis has come to the Tishomingo Lodge and Casino to perform daredevil dives for the *edification* \[read *thrill*\] of the casino guests." Elmore Leonard, "The Best Kind of ‘Blues,' " *Rocky Mountain News* (Denver), 15 Feb. 2002, at D28.
 

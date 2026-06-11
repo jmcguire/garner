@@ -1,4 +1,4 @@
 # colosseum
 
-colosseum. See **coliseum**.
+See **coliseum**.
 

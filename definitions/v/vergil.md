@@ -1,4 +1,4 @@
 # \*Vergil
 
-\*Vergil. See **Virgil**.
+See **Virgil**.
 

@@ -1,6 +1,6 @@
 # \*sufficient number of, a
 
-\*sufficient number of, a. Although this phrase is certainly old, dating back to the 1600s, it is also certainly verbose for *enough*—e.g.:
+Although this phrase is certainly old, dating back to the 1600s, it is also certainly verbose for *enough*—e.g.:
 
  - "As might be expected, he found *a sufficient number of* \[read *enough*\] legislators receptive to the state's crying need to legalize betting." O.K. Carter, "Races' Old Patron Would Be Proud," *Ft. Worth Star-Telegram*, 17 Apr. 1997, at 1.
 

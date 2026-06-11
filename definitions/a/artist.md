@@ -1,7 +1,5 @@
 # artist
 
-artist.
-
 ## A. And *artiste*
 
 *Artist* /**ahr**-tist/ is the general word for someone who creates works of aesthetic value, especially in the fine arts. *Artiste* /ahr-**teest**/, a gallicism, is a more specialized word denoting (1) a public performer or entertainer, esp. in song and dance; or (2) an affected, often flamboyant fop with artistic pretensions. Sense 2, the pejorative one, is now more common—e.g.:

@@ -1,6 +1,6 @@
 # Semantic Change
 
-Semantic Change. The only constant in language, as in life, is change. That's an unsettling reality for many people, since language consists of stipulated meanings—rules agreed on by society at large. When some start ignoring or flouting those rules for what seems like no good reason, others will be confused and annoyed. That, too, is constant because almost all change brings some discomfort.
+The only constant in language, as in life, is change. That's an unsettling reality for many people, since language consists of stipulated meanings—rules agreed on by society at large. When some start ignoring or flouting those rules for what seems like no good reason, others will be confused and annoyed. That, too, is constant because almost all change brings some discomfort.
 
 When it comes to word meanings, there are four major types of change: functional shift (changing a word's usual part of speech), narrowing the sense, broadening the sense, and overthrowing the traditional sense altogether.
 

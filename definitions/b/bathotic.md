@@ -1,4 +1,4 @@
 # \*bathotic
 
-\*bathotic. See **bathetic**.
+See **bathetic**.
 

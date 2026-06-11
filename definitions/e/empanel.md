@@ -1,4 +1,4 @@
 # empanel
 
-empanel. See **impanel**.
+See **impanel**.
 

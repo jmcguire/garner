@@ -1,4 +1,4 @@
 # voracity
 
-voracity. See malapropisms & **veracity**.
+See malapropisms & **veracity**.
 

@@ -1,4 +1,4 @@
 # homeowner
 
-homeowner. One word.
+One word.
 

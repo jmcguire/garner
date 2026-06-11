@@ -1,4 +1,4 @@
 # translucent
 
-translucent. See **transparent**.
+See **transparent**.
 

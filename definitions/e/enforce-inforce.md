@@ -1,7 +1,5 @@
 # enforce; \*inforce
 
-enforce; \*inforce.
-
 ## A. Spelling
 
 The latter is an archaic spelling whose only vestige appears in *reinforce.* See en-.

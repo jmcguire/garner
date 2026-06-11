@@ -1,6 +1,6 @@
 # \*up to —— off and more
 
-\*up to —— off and more. This bit of illogic crops up fairly often in print ads and store signs. At a sale touted as offering *up to 50% off and more*, for example, all we know is that the sale price is (1) less than 50% off, (2) 50% off, or (3) more than 50% off. The number itself, then, is meaningless and serves only as bait in big, bold type. The small type, as usual, taketh away.
+This bit of illogic crops up fairly often in print ads and store signs. At a sale touted as offering *up to 50% off and more*, for example, all we know is that the sale price is (1) less than 50% off, (2) 50% off, or (3) more than 50% off. The number itself, then, is meaningless and serves only as bait in big, bold type. The small type, as usual, taketh away.
 
 Versions of the phrase appear in places other than signs announcing sales—e.g.:
 

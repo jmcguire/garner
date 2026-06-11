@@ -1,4 +1,4 @@
 # bar sinister
 
-bar sinister. See **bend sinister**.
+See **bend sinister**.
 

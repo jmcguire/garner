@@ -1,4 +1,4 @@
 # nowadays
 
-nowadays. See **anymore (a)**.
+See **anymore (a)**.
 

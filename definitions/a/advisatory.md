@@ -1,4 +1,4 @@
 # \*advisatory
 
-\*advisatory. See **advisory**.
+See **advisory**.
 

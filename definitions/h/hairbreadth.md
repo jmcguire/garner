@@ -1,4 +1,4 @@
 # \*hairbreadth
 
-\*hairbreadth. See **hair's breadth**.
+See **hair's breadth**.
 

@@ -1,6 +1,6 @@
 # ma'am
 
-ma'am. This contraction of *madam* can be found pretty much throughout the English-speaking world. But it especially characterizes Southern, Midwestern, and Western AmE on the one hand, and British aristocratic speech (but only in reference to royalty) on the other. E.g.:
+This contraction of *madam* can be found pretty much throughout the English-speaking world. But it especially characterizes Southern, Midwestern, and Western AmE on the one hand, and British aristocratic speech (but only in reference to royalty) on the other. E.g.:
 
  - "Greetings *Ma'am*: The Queen, in the only public appearance on her 70th birthday, is given flowers at the Church of St. Mary Magdalen at Sandringham yesterday." "70th Birthday Flowers for the Queen," *Independent*, 22 Apr. 1996, at 5 (photo caption).
 

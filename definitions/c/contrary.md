@@ -1,7 +1,5 @@
 # contrary
 
-contrary.
-
 ## A. *Contrary to* or *\*contrary from*
 
 *Contrary* takes the preposition *to. \*Contrary from* has never been standard. E.g.:

@@ -1,4 +1,4 @@
 # workload
 
-workload. See **workforce**.
+See **workforce**.
 

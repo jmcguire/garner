@@ -1,4 +1,4 @@
 # epicure
 
-epicure. See **gourmet**.
+See **gourmet**.
 

@@ -1,4 +1,4 @@
 # load factor
 
-load factor. See airlinese.
+See airlinese.
 

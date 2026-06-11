@@ -1,6 +1,6 @@
 # Frankenstein
 
-Frankenstein. In Mary Shelley's novel *Frankenstein* (1818), Dr. Victor Frankenstein creates a gruesome creature that eventually kills the doctor's brother and sister-in-law, and tries but fails to kill the doctor before ending its own life. Strictly speaking, then, a *Frankenstein* (usually capitalized) is a creator of a monster or other destructive agency, while a *Frankenstein's monster* is either a monster that turns on its creator or a destructive agency that cannot be controlled.
+In Mary Shelley's novel *Frankenstein* (1818), Dr. Victor Frankenstein creates a gruesome creature that eventually kills the doctor's brother and sister-in-law, and tries but fails to kill the doctor before ending its own life. Strictly speaking, then, a *Frankenstein* (usually capitalized) is a creator of a monster or other destructive agency, while a *Frankenstein's monster* is either a monster that turns on its creator or a destructive agency that cannot be controlled.
 
 But popular usage has created a monster of its own: *Frankenstein* has come to refer to the creature itself. Today this ubiquitous usage must be accepted as standard—e.g.:
 

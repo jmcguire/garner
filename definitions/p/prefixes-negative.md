@@ -1,4 +1,4 @@
 # Prefixes, Negative
 
-Prefixes, Negative. See negatives (a).
+See negatives (a).
 

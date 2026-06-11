@@ -1,6 +1,6 @@
 # on the part of
 
-on the part of. This phrase is usually verbose—e.g.:
+This phrase is usually verbose—e.g.:
 
  - "Watterson is somewhat self-effacing about how he comes up with such metaphysical thoughts *on the part of* \[read *for*\] the kid, such cogent comments by the cat." "After a Highly Successful Decade, Cartoonist Is Pulling the Plug on ‘Calvin & Hobbes,' " *Asbury Park Press* (Neptune, N.J.), 3 Dec. 1995, at C3.
 

@@ -1,4 +1,4 @@
 # \*jiujutsu
 
-\*jiujutsu. See **jujitsu**.
+See **jujitsu**.
 

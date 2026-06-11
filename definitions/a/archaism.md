@@ -1,4 +1,4 @@
 # archaism
 
-archaism. See **anachronism**.
+See **anachronism**.
 

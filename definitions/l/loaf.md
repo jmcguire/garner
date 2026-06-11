@@ -1,4 +1,4 @@
 # loaf
 
-loaf. Pl. *loaves*. See plurals (c).
+Pl. *loaves*. See plurals (c).
 

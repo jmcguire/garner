@@ -1,4 +1,4 @@
 # curriculum vitae
 
-curriculum vitae. See **vita**.
+See **vita**.
 

@@ -1,4 +1,4 @@
 # expedient
 
-expedient. See **expeditious**.
+See **expeditious**.
 

@@ -1,4 +1,4 @@
 # \*administerial
 
-\*administerial. See **administrative**.
+See **administrative**.
 

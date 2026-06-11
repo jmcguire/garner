@@ -1,7 +1,5 @@
 # impotence
 
-impotence.
-
 ## A. And *sterility*
 
 *Impotence* /**im**-pә-tәn\[t\]s/ refers to the inability of a male to copulate (esp. to achieve an erection), and *sterility* to anyone's inability to procreate. *Impotence* in the modern literal sense should be used only in reference to men. *\*Impotency* is a needless variant. See **potence**.

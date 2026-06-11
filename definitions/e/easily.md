@@ -1,4 +1,4 @@
 # easily
 
-easily. See **easy**.
+See **easy**.
 

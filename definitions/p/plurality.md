@@ -1,4 +1,4 @@
 # plurality
 
-plurality. See **majority (c)**.
+See **majority (c)**.
 

@@ -1,4 +1,4 @@
 # revisionist
 
-revisionist. See **revisionary**.
+See **revisionary**.
 

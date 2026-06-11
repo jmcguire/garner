@@ -1,7 +1,5 @@
 # lest
 
-lest.
-
 ## A. Sense
 
 Because *lest* means "for fear that," it should be followed by a negative idea. It isn't equivalent to *in case*—one can't rightly say, "She plans to take along a camera *lest* \[read *in case*\] she find a breathtaking view." Indeed, the negative idea is overwhelming in modern usage—e.g.: "Its members would do well to study up, *lest* they find themselves met by a wall of suspicion, or worse yet indifference." Betty Winston Baye, "Ralph Reed: The Black Messiah?," *Courier-J.* (Louisville), 20 Feb. 1997, at A11.

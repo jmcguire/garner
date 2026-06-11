@@ -1,4 +1,4 @@
 # luggage
 
-luggage. See **baggage**.
+See **baggage**.
 

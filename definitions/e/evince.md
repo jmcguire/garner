@@ -1,4 +1,4 @@
 # evince
 
-evince. See **evidence**, v.t.
+See **evidence**, v.t.
 

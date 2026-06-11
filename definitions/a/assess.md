@@ -1,4 +1,4 @@
 # assess
 
-assess. See **access**, vb. **(b)**.
+See **access**, vb. **(b)**.
 

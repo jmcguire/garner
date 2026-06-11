@@ -1,4 +1,4 @@
 # follow
 
-follow. See **comply (b)**.
+See **comply (b)**.
 

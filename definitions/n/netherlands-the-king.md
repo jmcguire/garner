@@ -1,6 +1,6 @@
 # Netherlands, the; Kingdom of the Netherlands; Holland; Dutch; The Hague
 
-Netherlands, the; Kingdom of the Netherlands; Holland; Dutch; The Hague. A. Generally. The European country is called *the Netherlands*. The Netherlands—together with Aruba, Curaçao, and St. Maarten—makes up the *Kingdom of the Netherlands*. In 2010, Bonaire, St. Eustatius, and Saba became special municipalities of the Netherlands. Strictly speaking, *Holland* refers to two coastal provinces of the Netherlands (North Holland and South Holland), and not to the country's ten other provinces. Still, *Holland* is commonly used to refer to the Netherlands as a whole. The people, language, and culture are called *Dutch*. Although the country's capital is Amsterdam, its government is located in The Hague.
+A. Generally. The European country is called *the Netherlands*. The Netherlands—together with Aruba, Curaçao, and St. Maarten—makes up the *Kingdom of the Netherlands*. In 2010, Bonaire, St. Eustatius, and Saba became special municipalities of the Netherlands. Strictly speaking, *Holland* refers to two coastal provinces of the Netherlands (North Holland and South Holland), and not to the country's ten other provinces. Still, *Holland* is commonly used to refer to the Netherlands as a whole. The people, language, and culture are called *Dutch*. Although the country's capital is Amsterdam, its government is located in The Hague.
 
 ## B. Capitalization, Number, and Possessive Form
 

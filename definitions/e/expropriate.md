@@ -1,4 +1,4 @@
 # expropriate
 
-expropriate. See **appropriate (b)**.
+See **appropriate (b)**.
 

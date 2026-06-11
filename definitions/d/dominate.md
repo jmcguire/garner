@@ -1,4 +1,4 @@
 # dominate
 
-dominate. See **predominate**, vb.
+See **predominate**, vb.
 

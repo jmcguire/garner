@@ -1,4 +1,4 @@
 # Holland
 
-Holland. See **Netherlands**.
+See **Netherlands**.
 

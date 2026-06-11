@@ -1,4 +1,4 @@
 # dyarchy
 
-dyarchy. See governmental forms.
+See governmental forms.
 

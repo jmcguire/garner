@@ -1,7 +1,5 @@
 # fantasy
 
-fantasy.
-
 ## A. And *phantasy*
 
 The first has been the preferred spelling in both AmE and BrE since the late 1800s.

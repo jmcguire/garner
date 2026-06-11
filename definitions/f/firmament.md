@@ -1,6 +1,6 @@
 # firmament
 
-firmament. The *firmament* is the sky, the canopy of stars (as people once envisioned it). Historically it was "firm" because it was thought to be a fixed and immutable dome. Today the word is often used in a metaphorical sense to mean the constellation of "stars" (celebrities or key people) in a certain field. But sometimes writers seem misled by the "firm" portion of the word, using *firmament* as if it meant *ground* or *foundation*—e.g.:
+The *firmament* is the sky, the canopy of stars (as people once envisioned it). Historically it was "firm" because it was thought to be a fixed and immutable dome. Today the word is often used in a metaphorical sense to mean the constellation of "stars" (celebrities or key people) in a certain field. But sometimes writers seem misled by the "firm" portion of the word, using *firmament* as if it meant *ground* or *foundation*—e.g.:
 
  - "The pair present an affecting love story against the racial *firmament* \[read *climate*\] Jack Johnson/Jefferson encountered during his reign that began in 1908 and ended seven years later." Jeff Rivers, "Films with Punch," *Sun-Sentinel* (Ft. Lauderdale), 27 Dec. 2001, at E3.
 

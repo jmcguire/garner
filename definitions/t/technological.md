@@ -1,4 +1,4 @@
 # technological
 
-technological. See **technical**.
+See **technical**.
 

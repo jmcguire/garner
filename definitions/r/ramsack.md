@@ -1,4 +1,4 @@
 # \*ramsack
 
-\*ramsack. See **ransack**.
+See **ransack**.
 

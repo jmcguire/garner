@@ -1,4 +1,4 @@
 # no other . . . than
 
-no other . . . than. See **other (b)**.
+See **other (b)**.
 

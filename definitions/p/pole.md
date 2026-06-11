@@ -1,4 +1,4 @@
 # pole
 
-pole. See **poll**.
+See **poll**.
 

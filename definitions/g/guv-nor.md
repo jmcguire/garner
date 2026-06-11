@@ -1,4 +1,4 @@
 # guv'nor
 
-guv'nor. See hierarchical expressions.
+See hierarchical expressions.
 

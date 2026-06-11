@@ -1,4 +1,4 @@
 # routinely
 
-routinely. See **regularly**.
+See **regularly**.
 

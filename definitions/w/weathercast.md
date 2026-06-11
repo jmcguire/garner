@@ -1,4 +1,4 @@
 # weathercast
 
-weathercast. See portmanteau words.
+See portmanteau words.
 

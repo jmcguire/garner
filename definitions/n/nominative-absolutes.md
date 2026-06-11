@@ -1,4 +1,4 @@
 # Nominative Absolutes
 
-Nominative Absolutes. See absolute constructions.
+See absolute constructions.
 

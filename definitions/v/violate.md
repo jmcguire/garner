@@ -1,4 +1,4 @@
 # violate
 
-violate. See **contravene (a)**.
+See **contravene (a)**.
 

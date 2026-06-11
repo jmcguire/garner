@@ -1,6 +1,6 @@
 # Double Subjects
 
-Double Subjects. Linguists term it "pronominal apposition"—the use of a dependent pronoun in a sentence such as *My brother he's the president*. Of course, the *he* is unnecessary there, and its use marks the speaker as a speaker of dialect.
+Linguists term it "pronominal apposition"—the use of a dependent pronoun in a sentence such as *My brother he's the president*. Of course, the *he* is unnecessary there, and its use marks the speaker as a speaker of dialect.
 
 Interestingly, though, the difference between this substandard usage and standard usage is slight—though quite perceptible. William Labov explains the kinship between the double subject in standard and in nonstandard speech:
 

@@ -1,4 +1,4 @@
 # disclaim
 
-disclaim. See **declaim**.
+See **declaim**.
 

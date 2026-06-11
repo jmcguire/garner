@@ -1,7 +1,5 @@
 # all right
 
-all right.
-
 ## A. Uses
 
 So versatile is *all right* that there are at least 15 identifiable uses of the term: (1) to mean "satisfactory but not superb" \<school is all right, I guess\>; (2) to mean "without bodily or mental discomfort or health problems" \<do you feel all right?\>; (3) to express suitability or convenience \<Sure. Saturday morning would be all right\>; (4) to express reassurance \<it's going to be all right, believe me\>; (5) to denote success \<she's a millionaire; she's doing all right for herself\>; (6) to ask or grant permission \<is it all right if Sally comes along?\>; (7) to acquiesce reluctantly \<oh, all right, I guess\>; (8) to express or elicit understanding \<I'll check with you later, all right?\>; (9) to threaten or impatiently express intention \<all right, I've had about enough\>; (10) to transition to a new subject \<all right, now I'd like to address this other point\>; (11) to express certainty \<that's out of bounds, all right\>; (12) to declare exuberance \<I won? All right\!\>; (13) to express strong approval \<your new boyfriend is all right\!\>; (14) to respond to a greeting \<How's it going? All right. How about with you?\>; and (15) to respond to a thank-you \<that's quite all right\>.

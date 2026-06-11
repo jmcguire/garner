@@ -1,4 +1,4 @@
 # \*seperate
 
-\*seperate. See **separate**.
+See **separate**.
 

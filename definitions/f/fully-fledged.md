@@ -1,4 +1,4 @@
 # fully fledged
 
-fully fledged. See **full-fledged**.
+See **full-fledged**.
 

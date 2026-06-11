@@ -1,7 +1,5 @@
 # expediency
 
-expediency.
-
 ## A. And *\*expedience*
 
 *Expediency* is usual; *\*expedience* is a needless variant.

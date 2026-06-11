@@ -1,4 +1,4 @@
 # shone
 
-shone. See **shine**.
+See **shine**.
 

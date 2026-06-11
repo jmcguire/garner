@@ -1,4 +1,4 @@
 # faeces
 
-faeces. See **feces**.
+See **feces**.
 

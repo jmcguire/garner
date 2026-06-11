@@ -1,4 +1,4 @@
 # artefact
 
-artefact. See **artifact**.
+See **artifact**.
 

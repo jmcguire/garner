@@ -1,6 +1,6 @@
 # bind \> bound \> bound
 
-bind \> bound \> bound. So inflected. It was bound to happen: some writers have erroneously introduced a weak past-tense form (*\*binded*). The word suggests what punishment might be inflicted at their wrists (though no one says *\*binded and gagged*)—e.g.:
+So inflected. It was bound to happen: some writers have erroneously introduced a weak past-tense form (*\*binded*). The word suggests what punishment might be inflicted at their wrists (though no one says *\*binded and gagged*)—e.g.:
 
  - "ABL players cannot play for the WNBA this season because they are *binded* \[read *bound*\] by their exclusive contracts until Aug. 31." Jason Quick, "ABL's Success Has to Be Seen," *Oregonian* (Portland), 17 Feb. 1997, at B1.
 

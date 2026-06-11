@@ -1,4 +1,4 @@
 # bid fair
 
-bid fair. See **bid (a)**.
+See **bid (a)**.
 

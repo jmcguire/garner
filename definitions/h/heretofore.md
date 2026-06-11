@@ -1,4 +1,4 @@
 # heretofore
 
-heretofore. See **hitherto** & **up to now**.
+See **hitherto** & **up to now**.
 

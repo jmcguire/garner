@@ -1,4 +1,4 @@
 # \*plentitude
 
-\*plentitude. See **plenitude**.
+See **plenitude**.
 

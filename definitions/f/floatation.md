@@ -1,4 +1,4 @@
 # \*floatation
 
-\*floatation. See **flotation**.
+See **flotation**.
 

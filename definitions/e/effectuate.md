@@ -1,4 +1,4 @@
 # effectuate
 
-effectuate. See **effect (c)**.
+See **effect (c)**.
 

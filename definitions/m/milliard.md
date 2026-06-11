@@ -1,4 +1,4 @@
 # milliard
 
-milliard. See **billion**.
+See **billion**.
 

@@ -1,4 +1,4 @@
 # \*exhorbitant
 
-\*exhorbitant. See **exorbitant**.
+See **exorbitant**.
 

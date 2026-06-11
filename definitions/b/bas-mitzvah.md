@@ -1,4 +1,4 @@
 # bas mitzvah
 
-bas mitzvah. See **bar mitzvah**.
+See **bar mitzvah**.
 

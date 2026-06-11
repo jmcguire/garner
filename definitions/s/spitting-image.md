@@ -1,7 +1,5 @@
 # spitting image
 
-spitting image.
-
 ## A. Etymology
 
 *Spitting image* (= the exact likeness; an identical duplicate) is actually a corruption of *spit and image*, from the notion of God's using spit and dust to form the clay to make Adam in his image. As far back as the early 1800s, the phrase *the very spit of* was used in this sense \<the child is the very spit of his grandfather\>. By the mid- to late 1800s, *spit* was coupled with *image* (or *fetch* or *picture*) to form *spit and image*. But around the turn of the 20th century, *spitting image* (or *spittin' image*) appeared. It became the more common form in AmE and BrE at about the same time in the late 1950s. Though originally an error, it's so common today—so much more common than *spit and image*—that most dictionaries fully countenance it without recording *spit and image*. E.g.:

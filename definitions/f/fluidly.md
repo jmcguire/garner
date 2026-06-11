@@ -1,4 +1,4 @@
 # fluidly
 
-fluidly. See **fluently**.
+See **fluently**.
 

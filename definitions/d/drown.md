@@ -1,7 +1,5 @@
 # drown
 
-drown.
-
 ## A. *Drowned* and *\*drownded*
 
 The past-tense form is *drowned*, not *\*drownded*—the latter being dialectal. E.g.: "True, \[the flooding\] helped duck and geese populations, but it also *drownded* \[read *drowned*\] millions of other living creatures who weren't favored targets." "Hunters Are Not Really a Tool of Nature," *Buffalo News*, 14 Feb. 1993, at 8. (See irregular verbs (d).) The dialectal form appears in the speech of uneducated characters in the works of Dickens, Kipling, and Twain.

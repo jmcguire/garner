@@ -1,4 +1,4 @@
 # En-Dashes
 
-En-Dashes. See punctuation (h).
+See punctuation (h).
 

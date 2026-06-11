@@ -1,7 +1,5 @@
 # Magna Carta
 
-Magna Carta.
-
 ## A. Versus *\*Magna Charta*
 
 The usual—and the better—form is *Magna Carta*. *Time* magazine used the variant spelling and found itself on the defensive: "We were unfairly reproved for our spelling of the document Magna Charta \[Living, Nov. 11\]. Although many publications use the more familiar Magna Carta, most dictionaries prefer the word we used, *charta*, from the Latin word for paper." "Going by the Rules," *Time*, 16 Dec. 1991, at 9. Which dictionaries? Not *W3*, *RH2*, *AHD*, *W11*, or the *OED*—the last of which shows that the great document was known exclusively as *Magna Carta* from the 1200s to the 1600s. And the leading British textbooks on the subject, by W.S. McKechnie and J.C. Holt, use *Carta.* For the full history of the vicissitudes of the two spellings, see Bryan A. Garner, "A Lexicographic Look at Magna Carta," in *Magna Carta: Muse and Mentor* 85 (Randy J. Holland ed., 2014).

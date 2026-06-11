@@ -1,4 +1,4 @@
 # requisite
 
-requisite. See **prerequisite (a)**.
+See **prerequisite (a)**.
 

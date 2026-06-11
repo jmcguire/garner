@@ -1,4 +1,4 @@
 # \*illy
 
-\*illy. See **ill**.
+See **ill**.
 

@@ -1,4 +1,4 @@
 # mankind
 
-mankind. See **humankind, womankind** & sexism (c).
+See **humankind, womankind** & sexism (c).
 

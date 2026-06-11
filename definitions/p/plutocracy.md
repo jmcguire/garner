@@ -1,4 +1,4 @@
 # plutocracy
 
-plutocracy. See governmental forms.
+See governmental forms.
 

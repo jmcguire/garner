@@ -1,4 +1,4 @@
 # sank
 
-sank. See **sink**.
+See **sink**.
 

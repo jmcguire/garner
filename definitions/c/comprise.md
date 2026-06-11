@@ -1,7 +1,5 @@
 # comprise
 
-comprise.
-
 ## A. And *compose*
 
 Correct use of these words is simple, but increasingly rare. The parts *compose* the whole; the whole *comprises* the parts. The whole is *composed* of the parts; the parts are *comprised* in the whole. *Comprise*, the more troublesome word in this pair, means "to contain; to consist of"—e.g.:

@@ -1,7 +1,5 @@
 # only
 
-only.
-
 ## A. Placement
 
 *Only* is perhaps the most frequently misplaced of all English words. Its best placement is precisely before the words intended to be limited. The more words separating *only* from its correct position, the more awkward the sentence. And such a separation can lead to ambiguities. (Cf. **just** & **solely**.) Yet the strong but unfortunate tendency is to stick *only* right before the verb or verb phrase regardless of the illogic that creates—e.g.:

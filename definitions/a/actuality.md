@@ -1,4 +1,4 @@
 # actuality
 
-actuality. See **in actuality**.
+See **in actuality**.
 

@@ -1,4 +1,4 @@
 # transmit
 
-transmit. See **send**.
+See **send**.
 

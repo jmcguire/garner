@@ -1,4 +1,4 @@
 # homey
 
-homey. See **homely**.
+See **homely**.
 

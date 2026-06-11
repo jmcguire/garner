@@ -1,7 +1,5 @@
 # diphthong
 
-diphthong.
-
 ## A. Spelling and Pronunciation
 
 It's *diphthong* /**dif**-thong/, not *\*dipthong* /**dip**-thong/. The word is often misspelled (and mispronounced)—e.g.: "He \[Sir Alec Guinness\] didn't frighten Americans and colonials with cavernous and well-rounded *dipthongs* \[read *diphthongs*\], as John Gielgud did." Ray Conlogue, "A Master of Wit and Subtlety," *Globe & Mail* (Toronto), 8 Aug. 2000, at R10. See pronunciation (d).

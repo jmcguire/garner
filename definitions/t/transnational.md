@@ -1,4 +1,4 @@
 # transnational
 
-transnational. So spelled.
+So spelled.
 

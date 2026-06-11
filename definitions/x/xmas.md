@@ -1,6 +1,6 @@
 # Xmas
 
-Xmas. This 16th-century abbreviation for *Christmas* spread into popular usage in the late 1800s and achieved the height of its popularity in the 1920s. Today it is widespread in advertising. The prejudice against it is unfounded and unfortunate. The X is not a Roman X but a Greek chi—the first letter in *Christ* (Gk. *Christos*). *Xmas* has no connection with Generation X, X-ray, or X as an algebraic variable.
+This 16th-century abbreviation for *Christmas* spread into popular usage in the late 1800s and achieved the height of its popularity in the 1920s. Today it is widespread in advertising. The prejudice against it is unfounded and unfortunate. The X is not a Roman X but a Greek chi—the first letter in *Christ* (Gk. *Christos*). *Xmas* has no connection with Generation X, X-ray, or X as an algebraic variable.
 
 According to the late poet and philologist John Ciardi, "Though commonly frowned upon by grammarians as slovenly and by the pious as profane, *X* has ancient antecedents as the symbol of Christ and the cross, so much so that illiterate Jews at Ellis Island refused to sign with an *X*, insisting on making an *O*, called in Yiddish *kikl*, little circle." John Ciardi, *A Browser's Dictionary* 421 (1980).
 

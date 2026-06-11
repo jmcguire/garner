@@ -1,7 +1,5 @@
 # solicit
 
-solicit.
-
 ## A. For *elicit*
 
 To *solicit* a response is to request it. To *elicit* a response is to get it. But some writers confuse the two, usually by misusing *solicit* for *elicit*—e.g.: " ‘The way the question was worded didn't *solicit* \[read *elicit*\] the type of response I think we were looking for,' Ekberg said." Geordie Wilson, "Three Levies on One Ballot a Possibility for Voters," *Seattle Times*, 15 Aug. 1991, at C3. The following example contains an ambiguity—is the core group to ask 4,000 people or to get 4,000 to cooperate? "Sentient representatives expect the core group to *solicit* \[read *elicit*?\] responses from about 4,000 people." Carolene Langie, "Buena Park to Ask About Goals, Issues," *Orange County Register*, 28 June 1990, at 1. For another misuse of *solicit*, see **illicit**.

@@ -1,4 +1,4 @@
 # hangry
 
-hangry. See portmanteau words.
+See portmanteau words.
 

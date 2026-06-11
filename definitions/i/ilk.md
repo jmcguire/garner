@@ -1,7 +1,5 @@
 # ilk
 
-ilk.
-
 ## A. Meaning
 
 Originally, this Scottish term meant "the same"; hence *of that ilk* meant "of that same \[place, territory, or name\]" \<McGuffey of that ilk\>. By extension during the 1800s—from a misunderstanding of the Scottish use—*ilk* came to mean "type" or "sort" \<Joseph McCarthy and his ilk\>. Because there is little call outside Scotland for the original sense, the extended use must now be accepted as standard—e.g.:

@@ -1,4 +1,4 @@
 # polyandry
 
-polyandry. See **polygamy**.
+See **polygamy**.
 

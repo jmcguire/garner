@@ -1,4 +1,4 @@
 # \*reknowned
 
-\*reknowned. See **renowned**.
+See **renowned**.
 

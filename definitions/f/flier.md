@@ -1,4 +1,4 @@
 # \*flier
 
-\*flier. See **flyer**.
+See **flyer**.
 

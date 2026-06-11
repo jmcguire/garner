@@ -1,4 +1,4 @@
 # relatedly
 
-relatedly. See -edly.
+See -edly.
 

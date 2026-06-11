@@ -1,4 +1,4 @@
 # \*caldron
 
-\*caldron. See **cauldron**.
+See **cauldron**.
 

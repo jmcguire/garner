@@ -1,4 +1,4 @@
 # old adage
 
-old adage. See **adage**.
+See **adage**.
 

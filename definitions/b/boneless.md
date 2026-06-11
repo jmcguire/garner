@@ -1,4 +1,4 @@
 # boneless
 
-boneless. See **boned**.
+See **boned**.
 

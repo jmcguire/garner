@@ -1,6 +1,6 @@
 # tenterhooks
 
-tenterhooks. A *tenter* is a frame for stretching cloth to dry, and *tenterhooks* are the hooks or nails placed in the tenter to hold the cloth. The set phrase *on tenterhooks*, then, refers to being stretched—and therefore strained and nervous. Because the unfamiliar word *tenterhook* is rarely seen outside that phrase, it is prone to being misspelled *\*tenderhook*, perhaps under the influence of *tenderfoot* or *tinderbox*—e.g.:
+A *tenter* is a frame for stretching cloth to dry, and *tenterhooks* are the hooks or nails placed in the tenter to hold the cloth. The set phrase *on tenterhooks*, then, refers to being stretched—and therefore strained and nervous. Because the unfamiliar word *tenterhook* is rarely seen outside that phrase, it is prone to being misspelled *\*tenderhook*, perhaps under the influence of *tenderfoot* or *tinderbox*—e.g.:
 
  - "They did see the smoke from the huge Sioux and Cheyenne encampment, and were on *tenderhooks* \[read *tenterhooks*\] until Custer's scout, Curley, arrived on the morning of the 27th bearing confirmation of their fears." Frederic Smith, "Civilian Grant Marsh Played Major Role in Bighorn Story," *Bismarck Trib.*, 25 June 2001, at A1.
 

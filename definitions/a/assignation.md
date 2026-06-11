@@ -1,4 +1,4 @@
 # assignation
 
-assignation. See **assignment**.
+See **assignment**.
 

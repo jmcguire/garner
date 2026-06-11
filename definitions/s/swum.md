@@ -1,4 +1,4 @@
 # swum
 
-swum. See **swim**.
+See **swim**.
 

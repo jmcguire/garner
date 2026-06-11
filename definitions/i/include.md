@@ -1,7 +1,5 @@
 # include
 
-include.
-
 ## A. Introducing Exhaustive or Nonexhaustive List
 
 The word has traditionally introduced a nonexhaustive list but is now coming to be widely misused for *consists of*—e.g.: "The Department of Public Safety report detailing the reprimand was released to the AP . . . one day after the all-male, three-member Public Safety Commission cleared the Rangers of wrongdoing in a separate sexual harassment charge. \[¶\] The \[three-member\] commission—which *includes* \[read *consists of*\] Robert Holt of Midland, James Francis of Dallas and Ronald Krist of Houston—said it would continue to investigate whether any changes in policy are needed." Chip Brown, "Bush Defends Rangers Amid Allegations of Discrimination," *Austin Am.-Statesman*, 14 July 1995, at B1. Only three people are on the commission, and all are named.

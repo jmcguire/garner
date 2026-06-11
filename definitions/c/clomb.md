@@ -1,4 +1,4 @@
 # \*clomb
 
-\*clomb. See **climb (a)**.
+See **climb (a)**.
 

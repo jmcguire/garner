@@ -1,6 +1,6 @@
 # platypus
 
-platypus. Pl. *platypuses*. Like *octopus* (pl. *octopuses*—not *\*octopi*), *platypus* derives from Greek. Hence the faux-Latin plural *\*platypi*, founded on an error, should be avoided. As one writer warns: "Don't expect platypus spotting to be a close-up, cuddly affair. Platypuses (never platypi) are shy and elusive." Sue Neales, "In Pursuit of the Platypus," *The Age*, 2 Nov. 1996, at 3. Although H.W. Fowler and other respected usage commentators have always promoted the native-grown plural, writers sometimes go astray—e.g.:
+Pl. *platypuses*. Like *octopus* (pl. *octopuses*—not *\*octopi*), *platypus* derives from Greek. Hence the faux-Latin plural *\*platypi*, founded on an error, should be avoided. As one writer warns: "Don't expect platypus spotting to be a close-up, cuddly affair. Platypuses (never platypi) are shy and elusive." Sue Neales, "In Pursuit of the Platypus," *The Age*, 2 Nov. 1996, at 3. Although H.W. Fowler and other respected usage commentators have always promoted the native-grown plural, writers sometimes go astray—e.g.:
 
  - "How do you even start to invent a fractured, empty soul for your generation while there are kangaroos and duckbilled *platypi* \[read *platypuses*\] boinging past your window?" Bruno Maddox, "Australia: Not That Boring," *N.Y. Times*, 23 Feb. 1997, § 7, at 11.
 

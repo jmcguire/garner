@@ -1,4 +1,4 @@
 # \*womyn
 
-\*womyn. See sexism (c).
+See sexism (c).
 

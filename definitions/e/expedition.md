@@ -1,4 +1,4 @@
 # expedition
 
-expedition. See **expediency (b)**.
+See **expediency (b)**.
 

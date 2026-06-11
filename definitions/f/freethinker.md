@@ -1,4 +1,4 @@
 # freethinker
 
-freethinker. See **atheist**.
+See **atheist**.
 

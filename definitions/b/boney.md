@@ -1,4 +1,4 @@
 # \*boney
 
-\*boney. See **bony**.
+See **bony**.
 

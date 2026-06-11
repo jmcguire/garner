@@ -1,4 +1,4 @@
 # mall
 
-mall. See **maul**.
+See **maul**.
 

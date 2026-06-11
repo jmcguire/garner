@@ -1,4 +1,4 @@
 # \*afficionado
 
-\*afficionado. See **aficionado**.
+See **aficionado**.
 

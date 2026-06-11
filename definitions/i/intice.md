@@ -1,4 +1,4 @@
 # \*intice
 
-\*intice. See **entice**.
+See **entice**.
 

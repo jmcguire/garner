@@ -1,4 +1,4 @@
 # hero
 
-hero. See **antihero**.
+See **antihero**.
 

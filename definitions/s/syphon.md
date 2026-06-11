@@ -1,4 +1,4 @@
 # \*syphon
 
-\*syphon. See **siphon**.
+See **siphon**.
 

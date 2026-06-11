@@ -1,4 +1,4 @@
 # \*quarternary
 
-\*quarternary. See **quaternary**.
+See **quaternary**.
 

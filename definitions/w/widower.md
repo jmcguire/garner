@@ -1,4 +1,4 @@
 # widower
 
-widower. See **widow**, n.
+See **widow**, n.
 

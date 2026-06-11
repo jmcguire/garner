@@ -1,7 +1,5 @@
 # supersede
 
-supersede.
-
 ## A. Spelling
 
 This word—from the Latin root *-sed-* "to sit," not *-ced-* "to move"—is properly spelled with an internal *s*, not a *c*. But so many other English words end in *-cede* or *-ceed* that many writers unconsciously distort the spelling of *supersede*. The misspelling has persistently occurred since the 1600s, though quite infrequently in comparison with the correct spelling. The error appears in some surprising places—e.g.:

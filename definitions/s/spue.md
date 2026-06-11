@@ -1,4 +1,4 @@
 # \*spue
 
-\*spue. See **spew**.
+See **spew**.
 

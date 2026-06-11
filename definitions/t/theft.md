@@ -1,4 +1,4 @@
 # theft
 
-theft. See **burglary**.
+See **burglary**.
 

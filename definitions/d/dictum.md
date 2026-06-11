@@ -1,7 +1,5 @@
 # dictum
 
-dictum.
-
 ## A. Generally
 
 *Dictum* = (1) an authoritative pronouncement; (2) a statement in a court decision that is of lesser authority than law because it is not part of the court's legal ruling; or (3) a customary saying. The word can carry different connotations, as the varied senses indicate.

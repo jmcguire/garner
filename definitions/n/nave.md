@@ -1,4 +1,4 @@
 # nave
 
-nave. See **knave**.
+See **knave**.
 

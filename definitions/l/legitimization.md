@@ -1,4 +1,4 @@
 # \*legitimization
 
-\*legitimization. See **legitimacy**.
+See **legitimacy**.
 

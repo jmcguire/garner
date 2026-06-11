@@ -1,4 +1,4 @@
 # afford
 
-afford. See **accord**, v.t. **(a)**.
+See **accord**, v.t. **(a)**.
 

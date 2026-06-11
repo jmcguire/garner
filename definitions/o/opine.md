@@ -1,7 +1,5 @@
 # opine
 
-opine.
-
 ## A. Generally
 
 *Opine* once typically connoted the forming of a judgment on insufficient grounds. It can still suggest the giving of an idle or facetious opinion—e.g.: "At Boardinghouse, a South Shore shop catering exclusively to snowboarders, the young staffers on duty *opined* that skiers are as doomed as the dinosaurs." Glen Martin, "Ski Season Coasts In," *S.F. Chron.*, 1 Dec. 1997, at A1.

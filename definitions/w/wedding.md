@@ -1,4 +1,4 @@
 # wedding
 
-wedding. See **marriage**.
+See **marriage**.
 

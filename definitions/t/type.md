@@ -1,4 +1,4 @@
 # type
 
-type. See **class**.
+See **class**.
 

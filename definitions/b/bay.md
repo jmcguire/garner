@@ -1,4 +1,4 @@
 # bay
 
-bay. See **gulf**.
+See **gulf**.
 

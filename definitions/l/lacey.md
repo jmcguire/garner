@@ -1,4 +1,4 @@
 # \*lacey
 
-\*lacey. See **lacy**.
+See **lacy**.
 

@@ -1,7 +1,5 @@
 # causal
 
-causal.
-
 ## A. And *causative*
 
 These words, though unfortunately muddled by some writers, should be kept distinct. *Causal* = (1) of, relating to, or involving causes; entailing causation \<they could find no causal connection between a missile and the crash\>; or (2) arising from a cause \<three causal conditions\>. So in sense 1, the phrases *causal connection*, *causal link*, and *causal relationship* are set phrases—e.g.:

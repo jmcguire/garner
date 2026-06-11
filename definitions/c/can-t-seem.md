@@ -1,6 +1,6 @@
 # can't seem
 
-can't seem. Although this phrase is technically illogical (e.g., "I can't seem to find my coat" is more logically rendered "I seem to be unable to find my coat"), it is also undoubtedly idiomatic. Idiom tends to prefer succinctness over logic, and here the logical construction is verbose. Linguists use the term "raising" to describe the process of moving a negative from a subordinate clause to a main clause. So "I think I will not go" becomes "I don't think I will go." (See **don't think**.) The phrase *can't seem* is one of the more popular instances of raising. It became established in the late 1800s and grew rapidly in popularity during the 1900s.
+Although this phrase is technically illogical (e.g., "I can't seem to find my coat" is more logically rendered "I seem to be unable to find my coat"), it is also undoubtedly idiomatic. Idiom tends to prefer succinctness over logic, and here the logical construction is verbose. Linguists use the term "raising" to describe the process of moving a negative from a subordinate clause to a main clause. So "I think I will not go" becomes "I don't think I will go." (See **don't think**.) The phrase *can't seem* is one of the more popular instances of raising. It became established in the late 1800s and grew rapidly in popularity during the 1900s.
 
 Regardless of its label, this process is quite common, especially in speech. But it also occurs in writing—e.g.:
 

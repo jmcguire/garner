@@ -1,4 +1,4 @@
 # \*boloney
 
-\*boloney. See **baloney**.
+See **baloney**.
 

@@ -1,7 +1,5 @@
 # manicure; pedicure
 
-manicure; pedicure.
-
 ## A. Sense
 
 *Manicure* = (1) a cosmetic treatment or care for hands, esp. the fingernails; or (2) a person who provides such treatments or care. The second sense has been almost wholly replaced by *manicurist*.

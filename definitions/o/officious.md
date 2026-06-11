@@ -1,6 +1,6 @@
 # officious
 
-officious. In Samuel Johnson's day, *officious* had positive connotations ("eager to please"). Today, however, it's perjorative, meaning "meddlesome; interfering with what is not one's concern." E.g.: "Over the years, the most *officious* and obnoxious customs officials I encountered were those in India." Thomas Sowell, "On Busybodies, Young ‘Adults' and Self-Respect," *Atlanta J.-Const.*, 6 Sept. 1995, at A10.
+In Samuel Johnson's day, *officious* had positive connotations ("eager to please"). Today, however, it's perjorative, meaning "meddlesome; interfering with what is not one's concern." E.g.: "Over the years, the most *officious* and obnoxious customs officials I encountered were those in India." Thomas Sowell, "On Busybodies, Young ‘Adults' and Self-Respect," *Atlanta J.-Const.*, 6 Sept. 1995, at A10.
 
 In the context of diplomacy, the word has a strangely different, neutral sense: "unofficial or informal; not involving official business." The *OED* says that this sense is now rare.
 

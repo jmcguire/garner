@@ -1,4 +1,4 @@
 # hagiocracy
 
-hagiocracy. See governmental forms.
+See governmental forms.
 

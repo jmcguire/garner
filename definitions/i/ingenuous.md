@@ -1,4 +1,4 @@
 # ingenuous
 
-ingenuous. See **ingenious**.
+See **ingenious**.
 

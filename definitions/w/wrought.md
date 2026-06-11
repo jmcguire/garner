@@ -1,4 +1,4 @@
 # wrought
 
-wrought. See **wreak (a)**.
+See **wreak (a)**.
 

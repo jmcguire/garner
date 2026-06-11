@@ -1,4 +1,4 @@
 # protestation
 
-protestation. See **protest**, n.
+See **protest**, n.
 

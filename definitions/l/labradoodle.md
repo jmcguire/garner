@@ -1,4 +1,4 @@
 # labradoodle
 
-labradoodle. See portmanteau words.
+See portmanteau words.
 

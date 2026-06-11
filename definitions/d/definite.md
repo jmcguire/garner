@@ -1,7 +1,5 @@
 # definite
 
-definite.
-
 ## A. And *definitive.*
 
 These words are increasingly confused. *Definite* = fixed, exact, and explicit. *Definitive* = authoritative; conclusive; exhaustive; providing a binding answer.

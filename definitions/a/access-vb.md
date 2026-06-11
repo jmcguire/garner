@@ -1,7 +1,5 @@
 # access, vb
 
-access, vb.
-
 ## A. Generally
 
 As a verb, *access* was popularized by its use in computerese. Like a number of other nouns turned into verbs (e.g., *contact*), it now seems increasingly well ensconced in the language. As Ernest Gowers said about *contact*, it is an ancient and valuable right of English-speaking peoples to turn their nouns into verbs when they are so minded (*FMEU2* at 108). *Gain access to* or some other such equivalent is admittedly ungainly alongside *access*. See functional shift (d).

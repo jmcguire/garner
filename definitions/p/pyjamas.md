@@ -1,4 +1,4 @@
 # pyjamas
 
-pyjamas. See **pajamas**.
+See **pajamas**.
 

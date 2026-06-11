@@ -1,4 +1,4 @@
 # emigrate
 
-emigrate. See **immigrate**.
+See **immigrate**.
 

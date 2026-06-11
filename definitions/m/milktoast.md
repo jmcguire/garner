@@ -1,4 +1,4 @@
 # \*milktoast
 
-\*milktoast. See **milquetoast**.
+See **milquetoast**.
 

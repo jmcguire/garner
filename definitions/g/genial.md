@@ -1,4 +1,4 @@
 # genial
 
-genial. See **congenial**.
+See **congenial**.
 

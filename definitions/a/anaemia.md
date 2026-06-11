@@ -1,4 +1,4 @@
 # anaemia
 
-anaemia. See **anemia**.
+See **anemia**.
 

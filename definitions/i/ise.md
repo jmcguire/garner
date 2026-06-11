@@ -1,4 +1,4 @@
 # -ise
 
--ise. See -ize.
+See -ize.
 

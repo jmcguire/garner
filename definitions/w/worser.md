@@ -1,4 +1,4 @@
 # \*worser
 
-\*worser. See **worse**.
+See **worse**.
 

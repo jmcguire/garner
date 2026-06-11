@@ -1,4 +1,4 @@
 # re
 
-re. See **in re**.
+See **in re**.
 

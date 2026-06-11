@@ -1,6 +1,6 @@
 # Prejudiced and Prejudicial Terms
 
-Prejudiced and Prejudicial Terms. Language both reflects and shapes perceptions. That makes it a natural battleground for those who seek to reform society in the name of social justice—or even just to encourage individual people to be more civilized. It's an ever-present struggle.
+Language both reflects and shapes perceptions. That makes it a natural battleground for those who seek to reform society in the name of social justice—or even just to encourage individual people to be more civilized. It's an ever-present struggle.
 
 While linguistic traditionalists wish to preserve the language handed down to them, with perhaps incremental changes, linguistic progressives wish to eradicate built-in biases at once. The attendant issues transcend the obvious issues of racial and ethnic slurs (see race-related terms), putdowns of gay and transgender people, and other patently discriminatory expressions. Metaphorical uses of language, in particular, can express invidious biases against people with disabilities \<lame arguments\> \<blind followers\> \<deaf to reason\>—and against all things black \<a black mark on your record\> \<black sheep\> \<blackening your reputation\>.
 

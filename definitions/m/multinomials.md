@@ -1,4 +1,4 @@
 # Multinomials
 
-Multinomials. See irreversible binomials.
+See irreversible binomials.
 

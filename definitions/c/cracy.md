@@ -1,4 +1,4 @@
 # -cracy
 
--cracy. See governmental forms.
+See governmental forms.
 

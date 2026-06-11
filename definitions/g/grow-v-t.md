@@ -1,7 +1,5 @@
 # grow, v.t
 
-grow, v.t.
-
 ## A. Inflected Forms: *grow* \> *grew* \> *grown*
 
 See irregular verbs.

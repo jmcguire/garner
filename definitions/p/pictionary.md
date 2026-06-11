@@ -1,4 +1,4 @@
 # pictionary
 
-pictionary. See portmanteau words.
+See portmanteau words.
 

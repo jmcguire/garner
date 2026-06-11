@@ -1,4 +1,4 @@
 # exert
 
-exert. See **assert**.
+See **assert**.
 

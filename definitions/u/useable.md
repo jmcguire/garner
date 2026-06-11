@@ -1,4 +1,4 @@
 # \*useable
 
-\*useable. See **usable**.
+See **usable**.
 

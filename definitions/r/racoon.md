@@ -1,4 +1,4 @@
 # \*racoon
 
-\*racoon. See **raccoon**.
+See **raccoon**.
 

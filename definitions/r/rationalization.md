@@ -1,4 +1,4 @@
 # rationalization
 
-rationalization. See **ratiocination**.
+See **ratiocination**.
 

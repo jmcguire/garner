@@ -1,7 +1,5 @@
 # admission
 
-admission.
-
 ## A. And *admittance*
 
 The distinction between these terms is old and useful, but it has a history of being ignored. *Admittance* is purely physical, as in signs that read "No admittance." E.g.: "Temple Israel in Boston, one of the largest congregations in the area, has told members that tickets will be required for *admittance*, ushers will be vigilant about security, and bags might be searched." Michael S. Rosenwald, "Synagogues Add Security for High Holy Days," *Boston Globe*, 6 Sept. 2002, at B8.

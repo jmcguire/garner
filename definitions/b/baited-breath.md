@@ -1,4 +1,4 @@
 # \*baited breath
 
-\*baited breath. See **bated breath**.
+See **bated breath**.
 

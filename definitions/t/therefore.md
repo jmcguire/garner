@@ -1,7 +1,5 @@
 # therefore
 
-therefore.
-
 ## A. Punctuation Around
 
 One must take care in the punctuation of *therefore*. When a comma appears before *therefore*, the preceding word gets emphasized \<it was John, therefore, who deserved the accolades\> (suggesting that somebody else got the accolades but didn't deserve them). (Cf. **however (b)**.) Or you can reverse the order of the words to put *therefore* just before the word needing emphasis, but without surrounding commas \<it was therefore John who deserved the accolades\>. But the word is often mispunctuated. To see the false emphasis in each of the following examples, read the word preceding *therefore* as if it were strongly stressed:

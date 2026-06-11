@@ -1,4 +1,4 @@
 # distract
 
-distract. See **detract**.
+See **detract**.
 

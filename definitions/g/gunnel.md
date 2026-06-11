@@ -1,4 +1,4 @@
 # \*gunnel
 
-\*gunnel. See **gunwale**.
+See **gunwale**.
 

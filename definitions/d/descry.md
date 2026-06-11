@@ -1,4 +1,4 @@
 # descry
 
-descry. See **decry**.
+See **decry**.
 

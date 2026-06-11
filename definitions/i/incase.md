@@ -1,4 +1,4 @@
 # \*incase
 
-\*incase. See **encase**.
+See **encase**.
 

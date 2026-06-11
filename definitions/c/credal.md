@@ -1,4 +1,4 @@
 # credal
 
-credal. See **creedal**.
+See **creedal**.
 

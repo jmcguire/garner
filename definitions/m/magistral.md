@@ -1,4 +1,4 @@
 # magistral
 
-magistral. See **magisterial**.
+See **magisterial**.
 

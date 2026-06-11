@@ -1,7 +1,5 @@
 # surmise
 
-surmise.
-
 ## A. Spelling
 
 As noun and verb, the word is so spelled—not *\*surmize*. E.g.: "Other officials even extended their optimism to *surmize* \[read *surmise*\] that ‘a new climate has begun.' " Ana Martinez-Soler, "Madrid Cheers as France Quashes ETA Terrorists," *Christian Science Monitor*, 17 Jan. 1984, at 7.

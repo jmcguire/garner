@@ -1,7 +1,5 @@
 # phenomenon
 
-phenomenon.
-
 ## A. And *phenomena*
 
 *Phenomenon* is the singular form, *phenomena* the plural. Writers have misused the plural form as if it were singular since the mid-1800s. The error persists—e.g.:

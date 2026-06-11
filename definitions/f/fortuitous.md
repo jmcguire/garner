@@ -1,7 +1,5 @@
 # fortuitous
 
-fortuitous.
-
 ## A. And *fortunate*
 
 If words seem to have personalities, they also have fortunes. They may appreciate in meaning (gaining better senses) or depreciate in meaning (gaining worse senses). Their boundaries may be carefully observed or carelessly neglected. Although *fortuitous* has appreciated in meaning, its traditional boundaries have been muddled. You might debate whether its fate has been fortunate or unfortunate.

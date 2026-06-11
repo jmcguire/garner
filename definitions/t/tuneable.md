@@ -1,4 +1,4 @@
 # \*tuneable
 
-\*tuneable. See **tunable**.
+See **tunable**.
 

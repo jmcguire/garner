@@ -1,4 +1,4 @@
 # eisegesis
 
-eisegesis. See **exegesis**.
+See **exegesis**.
 

@@ -1,4 +1,4 @@
 # wounds, nursing
 
-wounds, nursing. See **nursing one's wounds**.
+See **nursing one's wounds**.
 

@@ -1,4 +1,4 @@
 # troupe
 
-troupe. See **troop**.
+See **troop**.
 

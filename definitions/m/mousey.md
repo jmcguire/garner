@@ -1,4 +1,4 @@
 # \*mousey
 
-\*mousey. See **mousy**.
+See **mousy**.
 

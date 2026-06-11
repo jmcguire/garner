@@ -1,4 +1,4 @@
 # eminent
 
-eminent. See **imminent**.
+See **imminent**.
 

@@ -1,7 +1,5 @@
 # deviant; deviate
 
-deviant; deviate.
-
 ## A. As Adjectives
 
 *Deviant* is normal. In 1895, the *OED* labeled both these adjectives "obsolete" and "rare." The *OED Supp.* (1972) deleted the tag on *deviant* and cited many examples in the sense "deviating from normal social standards or behavior." The word is common—e.g.:

@@ -1,4 +1,4 @@
 # ill-shapen
 
-ill-shapen. See **shape**.
+See **shape**.
 

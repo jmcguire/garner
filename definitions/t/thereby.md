@@ -1,4 +1,4 @@
 # thereby
 
-thereby. See **therefore (d)**.
+See **therefore (d)**.
 

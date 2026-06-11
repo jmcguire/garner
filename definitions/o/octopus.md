@@ -1,6 +1,6 @@
 # octopus
 
-octopus. Because this word is actually of Greek origin—not Latin—the classical plural is *octopodes* /ok-**top**-ә-deez/, not *\*octopi*. But the standard plural in AmE and BrE alike is *octopuses*—which has vastly predominated in print sources since the early 1920s. Still, some writers mistakenly use the supposed Latin plural—e.g.:
+Because this word is actually of Greek origin—not Latin—the classical plural is *octopodes* /ok-**top**-ә-deez/, not *\*octopi*. But the standard plural in AmE and BrE alike is *octopuses*—which has vastly predominated in print sources since the early 1920s. Still, some writers mistakenly use the supposed Latin plural—e.g.:
 
  - "Winnik did a column on the sex life of *octopi* \[read *octopuses*\], but it's not the kind of thing that should be in a family newspaper." Bob Krauss, "Our Honolulu," *Honolulu Advertiser*, 5 Feb. 2003, at 1.
 

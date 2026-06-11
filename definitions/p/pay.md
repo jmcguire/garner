@@ -1,7 +1,5 @@
 # pay
 
-pay.
-
 ## A. Inflected Forms: *pay* \> *paid* \> *paid*
 
 *\*Payed* is a startling error for *paid*—e.g.:

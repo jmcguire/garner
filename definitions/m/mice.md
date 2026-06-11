@@ -1,4 +1,4 @@
 # mice
 
-mice. See **mouse**.
+See **mouse**.
 

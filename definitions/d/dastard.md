@@ -1,7 +1,5 @@
 # dastard
 
-dastard.
-
 ## A. Confusion with *bastard*
 
 *Dastard* (= coward) is commonly muddled because of the sound association with its harsher rhyme, *bastard*. Although H.W. Fowler insisted that *dastard* should be reserved for someone who avoids all personal risk (*FMEU1* at 103), modern American writers tend to use it as a printable euphemism for the more widely objectionable epithet—e.g.:

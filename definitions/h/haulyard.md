@@ -1,4 +1,4 @@
 # \*haulyard
 
-\*haulyard. See **halyard**.
+See **halyard**.
 

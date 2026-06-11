@@ -1,6 +1,6 @@
 # coleslaw
 
-coleslaw. So spelled—not *\*coldslaw*. Yet the mistake isn't uncommon—e.g.:
+So spelled—not *\*coldslaw*. Yet the mistake isn't uncommon—e.g.:
 
  - "A mound of French fries and a big bowl of creamy *coldslaw* \[read *coleslaw*\] arrived." Robert Lindsey, "Correspondent's Choice," *N.Y. Times*, 30 Oct. 1983, § 10, at 10.
 

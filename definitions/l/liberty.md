@@ -1,4 +1,4 @@
 # liberty
 
-liberty. See **freedom (a)**.
+See **freedom (a)**.
 

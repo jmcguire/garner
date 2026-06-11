@@ -1,4 +1,4 @@
 # Transferred Epithet
 
-Transferred Epithet. See hypallage.
+See hypallage.
 

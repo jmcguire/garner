@@ -1,4 +1,4 @@
 # eastwardly
 
-eastwardly. See directional words (c).
+See directional words (c).
 

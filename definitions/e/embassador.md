@@ -1,4 +1,4 @@
 # \*embassador
 
-\*embassador. See **ambassador**.
+See **ambassador**.
 

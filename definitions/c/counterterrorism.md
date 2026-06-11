@@ -1,4 +1,4 @@
 # counterterrorism
 
-counterterrorism. See **antiterrorism**.
+See **antiterrorism**.
 

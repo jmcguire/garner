@@ -1,4 +1,4 @@
 # shrift
 
-shrift. See **short shrift**.
+See **short shrift**.
 

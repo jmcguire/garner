@@ -1,4 +1,4 @@
 # \*hiri kiri
 
-\*hiri kiri. See **hara-kiri**.
+See **hara-kiri**.
 

@@ -1,7 +1,5 @@
 # citizen
 
-citizen.
-
 ## A. And *resident*
 
 With U.S. citizens, the terms *citizen* and *resident* are generally viewed as being interchangeable in reference to state residency or citizenship. But the words are not interchangeable when other political entities (e.g., cities) are the frame of reference: *citizen* implies political allegiance and a corresponding protection by the state, whereas *resident* denotes merely that one lives in a certain place. It is possible to be a U.S. *citizen* while being neither a *citizen* nor a *resident* of any particular state. (That is, American citizens can reside abroad.) See **citizenship**.

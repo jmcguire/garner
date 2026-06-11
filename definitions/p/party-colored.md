@@ -1,4 +1,4 @@
 # \*party-colored
 
-\*party-colored. See **parti-colored**.
+See **parti-colored**.
 

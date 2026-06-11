@@ -1,4 +1,4 @@
 # Proper Names
 
-Proper Names. See names.
+See names.
 

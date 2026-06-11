@@ -1,4 +1,4 @@
 # postscript
 
-postscript. See **P.S**.
+See **P.S**.
 

@@ -1,4 +1,4 @@
 # picturesque
 
-picturesque. See **picaresque**.
+See **picaresque**.
 

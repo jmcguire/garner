@@ -1,4 +1,4 @@
 # -tion
 
--tion. See zombie nouns.
+See zombie nouns.
 

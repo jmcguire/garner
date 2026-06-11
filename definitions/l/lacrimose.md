@@ -1,4 +1,4 @@
 # \*lacrimose
 
-\*lacrimose. See **lachrymose**.
+See **lachrymose**.
 

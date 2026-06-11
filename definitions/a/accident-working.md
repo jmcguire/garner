@@ -1,4 +1,4 @@
 # accident working
 
-accident working. See **working**.
+See **working**.
 

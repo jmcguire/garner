@@ -1,4 +1,4 @@
 # dotage
 
-dotage. See **dote**.
+See **dote**.
 

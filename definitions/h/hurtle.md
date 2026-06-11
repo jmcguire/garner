@@ -1,4 +1,4 @@
 # hurtle
 
-hurtle. See **hurl**.
+See **hurl**.
 

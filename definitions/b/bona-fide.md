@@ -1,7 +1,5 @@
 # bona fide
 
-bona fide.
-
 ## A. Meaning
 
 This Latin phrase, meaning "good-faith," has been used as a legal term for "without fraud or deceit" (*Black's Law Dictionary* 217 \[11th ed. 2019\]) since at least the 1500s. Outside legal contexts, its meaning has been subject to slipshod extension—from "guileless" to "genuine," and later to "sincere" and even "very." The steps are subtle. Most often, for example, "guileless" and "genuine" overlap: a genuine effort is one that is done in good faith. At other times, though, what is genuine (in the sense "authentic") shows anything but good faith—e.g.:

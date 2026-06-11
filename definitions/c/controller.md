@@ -1,4 +1,4 @@
 # controller
 
-controller. See **comptroller**.
+See **comptroller**.
 

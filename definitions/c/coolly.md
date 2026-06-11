@@ -1,6 +1,6 @@
 # coolly
 
-coolly. So spelled—not *\*cooly*. E.g.: "It's a nicely restrained, *cooly* \[read *coolly*\] observant effort." Lloyd Sachs, " ‘Boys Life' Even Better the Second Time Around," *Chicago Sun-Times*, 15 Aug. 1997, at 30.
+So spelled—not *\*cooly*. E.g.: "It's a nicely restrained, *cooly* \[read *coolly*\] observant effort." Lloyd Sachs, " ‘Boys Life' Even Better the Second Time Around," *Chicago Sun-Times*, 15 Aug. 1997, at 30.
 
 **Language-Change Index:**
 

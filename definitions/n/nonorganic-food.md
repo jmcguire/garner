@@ -1,4 +1,4 @@
 # nonorganic food
 
-nonorganic food. See **organic**.
+See **organic**.
 

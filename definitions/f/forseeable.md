@@ -1,4 +1,4 @@
 # \*forseeable
 
-\*forseeable. See **foreseeable**.
+See **foreseeable**.
 

@@ -1,4 +1,4 @@
 # reportedly
 
-reportedly. See -edly.
+See -edly.
 

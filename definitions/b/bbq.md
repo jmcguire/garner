@@ -1,4 +1,4 @@
 # \*BBQ
 
-\*BBQ. See **barbecue**.
+See **barbecue**.
 

@@ -1,4 +1,4 @@
 # prox
 
-prox. See **inst**.
+See **inst**.
 

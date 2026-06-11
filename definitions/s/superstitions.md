@@ -1,6 +1,6 @@
 # Superstitions, Essay
 
-Superstitions. In 1926, H.W. Fowler used the term *superstitions* to describe, in the field of writing, "unintelligent applications of an unintelligent dogma" (*FMEU1* at 586). Experts in usage have long railed against them as arrant nonsense, yet they retain a firm grip—if not a stranglehold—on the average person's mind when it comes to putting words down. Indeed, these superstitions are bred in the classrooms in which children and adolescents learn to write.
+In 1926, H.W. Fowler used the term *superstitions* to describe, in the field of writing, "unintelligent applications of an unintelligent dogma" (*FMEU1* at 586). Experts in usage have long railed against them as arrant nonsense, yet they retain a firm grip—if not a stranglehold—on the average person's mind when it comes to putting words down. Indeed, these superstitions are bred in the classrooms in which children and adolescents learn to write.
 
 Most of these superstitions are treated elsewhere in this book, in the entry referred to at the end of each subentry. For additional perspectives on these points, see the brief statements by respected authorities on style, grammar, and usage that are collected below.
 

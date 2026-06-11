@@ -1,4 +1,4 @@
 # \*intervenience
 
-\*intervenience. See **intervention**.
+See **intervention**.
 

@@ -1,7 +1,5 @@
 # presidency
 
-presidency.
-
 ## A. And *presidence*
 
 *Presidency* = the office or function of a president. *Presidence* = the action or fact of presiding.

@@ -1,4 +1,4 @@
 # concededly
 
-concededly. See -edly & adverbs (f).
+See -edly & adverbs (f).
 

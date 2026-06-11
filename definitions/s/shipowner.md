@@ -1,4 +1,4 @@
 # shipowner
 
-shipowner. One word.
+One word.
 

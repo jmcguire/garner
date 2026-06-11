@@ -1,7 +1,5 @@
 # impunity
 
-impunity.
-
 ## A. Meaning and Use
 
 This word means "free from punishment or other adverse consequences"; it typically appears in the idiom *with impunity* \<she can fire her predecessor's staff with impunity\>.

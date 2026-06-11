@@ -1,4 +1,4 @@
 # semi-
 
-semi-. See bi-.
+See bi-.
 

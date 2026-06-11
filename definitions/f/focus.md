@@ -1,7 +1,5 @@
 # focus
 
-focus.
-
 ## A. As a Noun
 
 Pl. *focuses* or *foci* /**foh**-sī/. The plural *foci*—typical in medical and other technical texts—may strike readers as pretentious in ordinary prose. E.g.:

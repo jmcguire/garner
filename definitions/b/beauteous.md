@@ -1,6 +1,6 @@
 # beauteous
 
-beauteous. Though H.W. Fowler labeled this word a "poeticism" equivalent to *beautiful*, the process of differentiation has created a distinction between the two words. Today, *beauteous* typically means not just "beautiful" but "beautiful and sexy," when it refers to women (as it most commonly does)—e.g.:
+Though H.W. Fowler labeled this word a "poeticism" equivalent to *beautiful*, the process of differentiation has created a distinction between the two words. Today, *beauteous* typically means not just "beautiful" but "beautiful and sexy," when it refers to women (as it most commonly does)—e.g.:
 
  - "It might be called ‘Leaving Long Island,' except that no *beauteous* hooker gives Buscemi's lonesome loser-boozer a seraphic farewell." Malcolm Johnson, "One Sad Life Melts Away in ‘Trees Lounge,' " *Hartford Courant*, 1 Nov. 1996, at E5.
 

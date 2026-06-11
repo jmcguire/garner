@@ -1,4 +1,4 @@
 # aftereffect
 
-aftereffect. One word.
+One word.
 

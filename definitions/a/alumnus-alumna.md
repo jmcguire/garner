@@ -1,7 +1,5 @@
 # alumnus; alumna
 
-alumnus; alumna.
-
 ## A. Plurals: *alumni*; *alumnae*; *alums*; *\*alumns*
 
 *Alumni* /ә-**lәm**-nī/ traditionally refers either to male graduates or to males and females collectively; the singular form, which is masculine, is *alumnus*. *Alumnae* /ә-**lәm**-nee/ traditionally refers to female graduates and not to mixed groups; the singular is *alumna*.

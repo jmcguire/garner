@@ -1,4 +1,4 @@
 # sun
 
-sun. See **earth**.
+See **earth**.
 

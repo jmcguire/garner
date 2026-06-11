@@ -1,7 +1,5 @@
 # infer
 
-infer.
-
 ## A. Meaning
 
 Properly used, *infer* means "to deduce from evidence; to reason from premises to a conclusion"—e.g.:

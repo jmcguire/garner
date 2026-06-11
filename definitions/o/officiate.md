@@ -1,6 +1,6 @@
 # officiate
 
-officiate. The verb, meaning "to perform the duties of an official," has traditionally been intransitive—that is, it doesn't take a direct object; instead, it has a preposition after it. A priest *officiates at* a wedding, and a referee *officiates at* a sports event. Only up to the early 1700s was the word ever transitive, and then only rarely. But this transitive usage is now undergoing something of a resurgence, most often in the passive voice—e.g.:
+The verb, meaning "to perform the duties of an official," has traditionally been intransitive—that is, it doesn't take a direct object; instead, it has a preposition after it. A priest *officiates at* a wedding, and a referee *officiates at* a sports event. Only up to the early 1700s was the word ever transitive, and then only rarely. But this transitive usage is now undergoing something of a resurgence, most often in the passive voice—e.g.:
 
  - "A memorial Mass *was officiated* \[read *was led*\] by Rev. Nathanael Foshage on Wednesday, Sept. 26 at St. Michael's Catholic Church in Delta." "Allinson" (obit.), *Chicago Trib.*, 27 Sept. 2001, at 7. \[Or read: *The Rev. Nathanael Foshage officiated at the memorial mass on Wednesday . . . .*\] (On the use of *Rev.* in the original sentence, see **Reverend**.)
 

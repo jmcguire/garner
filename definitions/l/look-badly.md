@@ -1,4 +1,4 @@
 # \*look badly
 
-\*look badly. See **badly (a)**.
+See **badly (a)**.
 

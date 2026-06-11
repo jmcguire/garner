@@ -1,7 +1,5 @@
 # parley; parlay
 
-parley; parlay.
-
 ## A. As Nouns
 
 A *parley* /**pahr**-lee/ is a discussion of disputed matters, especially a negotiation between warring parties to end hostilities. A *parlay* /**pahr**-lay/ is a series of all-or-nothing wagers made in hopes of eventually accumulating large winnings.

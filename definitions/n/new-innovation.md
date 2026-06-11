@@ -1,6 +1,6 @@
 # \*new innovation
 
-\*new innovation. Because an *innovation* is something new or different, the phrase *\*new innovation* is redundant—e.g.:
+Because an *innovation* is something new or different, the phrase *\*new innovation* is redundant—e.g.:
 
  - "To work, a sequel must return you to the familiar but then lead you into new territory. There have to be new developments, in terms of the narrative and characterization, and it must include *new innovations* \[read *innovations*\] in terms of structure or setting." Jane Roscoe, "With Right Stuff, Sequels Top Originals," *Newsday* (N.Y.), 29 May 2001, at A27.
 

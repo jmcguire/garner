@@ -1,4 +1,4 @@
 # \*sillabub
 
-\*sillabub. See **syllabub**.
+See **syllabub**.
 

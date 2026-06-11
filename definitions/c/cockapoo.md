@@ -1,4 +1,4 @@
 # cockapoo
 
-cockapoo. See portmanteau words.
+See portmanteau words.
 

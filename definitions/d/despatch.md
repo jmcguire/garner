@@ -1,4 +1,4 @@
 # \*despatch
 
-\*despatch. See **dispatch**.
+See **dispatch**.
 

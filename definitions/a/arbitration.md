@@ -1,7 +1,5 @@
 # arbitration
 
-arbitration.
-
 ## A. And *arbitrage*
 
 *Arbitration* = the process of submitting a dispute to a neutral third party whose decision is binding on the participants. *Arbitrage* = the simultaneous buying and selling of currencies or securities at different values in order to profit by price discrepancies.

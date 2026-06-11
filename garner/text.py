@@ -37,7 +37,7 @@ def extract_forwarding_target(body, headword):
         return None
 
     plain_headword = re.sub(r"\\([\\`*_{}\[\]()#+\-.!>])", r"\1", headword)
-    pattern = rf"^{re.escape(plain_headword)}\. See (.+)\.\Z"
+    pattern = rf"^(?:{re.escape(plain_headword)}\.\s+)?See (.+)\.\Z"
     match = re.search(pattern, lines[1])
     if match:
         return match.group(1).strip()

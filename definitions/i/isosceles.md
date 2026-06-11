@@ -1,4 +1,4 @@
 # isosceles
 
-isosceles. So spelled. See spelling (a).
+So spelled. See spelling (a).
 

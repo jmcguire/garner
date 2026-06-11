@@ -1,4 +1,4 @@
 # -ck-
 
--ck-. See -c-.
+See -c-.
 

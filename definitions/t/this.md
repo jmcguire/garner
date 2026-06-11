@@ -1,4 +1,4 @@
 # this
 
-this. See pointing words.
+See pointing words.
 

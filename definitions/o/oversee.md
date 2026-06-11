@@ -1,4 +1,4 @@
 # oversee
 
-oversee. See **overlook**.
+See **overlook**.
 

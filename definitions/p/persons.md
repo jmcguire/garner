@@ -1,4 +1,4 @@
 # persons
 
-persons. See **people (a)**.
+See **people (a)**.
 

@@ -1,4 +1,4 @@
 # \*amortise
 
-\*amortise. See **amortize**.
+See **amortize**.
 

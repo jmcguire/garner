@@ -1,7 +1,5 @@
 # foreclose
 
-foreclose.
-
 ## A. Constructions with
 
 Today, *foreclose* most commonly indicates one or more possibilities \<his failing the exam forecloses the possibility of a promotion\>. The word is more common in AmE than in BrE.

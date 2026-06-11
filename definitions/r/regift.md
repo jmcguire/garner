@@ -1,4 +1,4 @@
 # regift
 
-regift. See **gift**.
+See **gift**.
 

@@ -1,4 +1,4 @@
 # \*adulteratable
 
-\*adulteratable. See **adulterable**.
+See **adulterable**.
 

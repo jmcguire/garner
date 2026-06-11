@@ -1,4 +1,4 @@
 # askesis
 
-askesis. See **ascesis**.
+See **ascesis**.
 

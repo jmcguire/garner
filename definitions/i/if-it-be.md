@@ -1,4 +1,4 @@
 # if it be
 
-if it be. See subjunctives.
+See subjunctives.
 

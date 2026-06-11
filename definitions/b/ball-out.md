@@ -1,4 +1,4 @@
 # \*ball out
 
-\*ball out. See **bawl out**.
+See **bawl out**.
 

@@ -1,7 +1,5 @@
 # then
 
-then.
-
 ## A. As an Adjective
 
 *Then* should not be hyphenated when alone as an adjective meaning "that existed or was so at that time" \<the then mayor of San Diego\>. When the word is part of a phrasal adjective, the phrase should be hyphenated \<then-mayor Pete Buttigieg\>, but not when it occurs after the noun \<Rudolph Giuliani, then mayor of New York, said . . .\>. Cf. **once** & **often (b)**.

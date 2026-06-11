@@ -1,7 +1,5 @@
 # arise
 
-arise.
-
 ## A. Inflected Forms: *arise* \> *arose* \> *arisen*
 
 See irregular verbs.

@@ -1,4 +1,4 @@
 # visual
 
-visual. See **ocular** & **visible**.
+See **ocular** & **visible**.
 

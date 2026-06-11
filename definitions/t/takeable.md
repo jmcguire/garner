@@ -1,4 +1,4 @@
 # \*takeable
 
-\*takeable. See **takable**.
+See **takable**.
 

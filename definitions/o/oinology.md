@@ -1,4 +1,4 @@
 # \*oinology
 
-\*oinology. See **enology**.
+See **enology**.
 

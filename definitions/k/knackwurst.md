@@ -1,4 +1,4 @@
 # knackwurst
 
-knackwurst. See **knockwurst**.
+See **knockwurst**.
 

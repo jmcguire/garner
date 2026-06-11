@@ -1,4 +1,4 @@
 # \*hah
 
-\*hah. See **ha**.
+See **ha**.
 

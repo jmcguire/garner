@@ -1,4 +1,4 @@
 # \*camomile
 
-\*camomile. See **chamomile**.
+See **chamomile**.
 

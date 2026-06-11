@@ -1,4 +1,4 @@
 # cavalry
 
-cavalry. See **calvary**.
+See **calvary**.
 

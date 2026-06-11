@@ -1,7 +1,5 @@
 # myriad
 
-myriad.
-
 ## A. *Myriad reasons* vs
 
 *a myriad of reasons*. *Myriad* is more concise as an adjective \<myriad drugs\> than as a noun \<a myriad of drugs\>. Here the shorter use is illustrated:

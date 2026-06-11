@@ -1,4 +1,4 @@
 # sear
 
-sear. See **sere**.
+See **sere**.
 

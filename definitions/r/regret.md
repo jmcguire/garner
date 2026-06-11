@@ -1,4 +1,4 @@
 # regret
 
-regret. See **resent (b)**.
+See **resent (b)**.
 

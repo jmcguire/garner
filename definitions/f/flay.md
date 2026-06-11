@@ -1,4 +1,4 @@
 # flay
 
-flay. See **flail**.
+See **flail**.
 

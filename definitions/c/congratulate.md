@@ -1,6 +1,6 @@
 # congratulate
 
-congratulate. The traditional idiom is to *congratulate* a person *on* or *for* something. The verb shouldn't be construed with a *that*-clause—e.g.:
+The traditional idiom is to *congratulate* a person *on* or *for* something. The verb shouldn't be construed with a *that*-clause—e.g.:
 
  - "Keno should be *congratulated that he was* \[read *congratulated on being*\] able to keep the donation down to $35,000." Jim Driskill, "Facts on Candidate Hawker Weren't All on Table," *Ariz. Republic*, 14 Mar. 2000, at 4.
 

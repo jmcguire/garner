@@ -1,4 +1,4 @@
 # Doomsday Book
 
-Doomsday Book. See **Domesday Book**.
+See **Domesday Book**.
 

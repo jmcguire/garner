@@ -1,4 +1,4 @@
 # \*impass
 
-\*impass. See **impasse**.
+See **impasse**.
 

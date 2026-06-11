@@ -1,4 +1,4 @@
 # misalliance
 
-misalliance. See **mesalliance**.
+See **mesalliance**.
 

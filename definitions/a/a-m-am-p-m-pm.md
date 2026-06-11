@@ -1,7 +1,5 @@
 # a.m.; am; p.m.; pm
 
-a.m.; am; p.m.; pm.
-
 ## A. Generally
 
 Whether you use small capitals or lowercase, keep your document consistent throughout. The lowercase letters are now more common, and with lowercase the periods are standard. But many editors prefer the look of am.

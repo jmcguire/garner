@@ -1,4 +1,4 @@
 # Nowell
 
-Nowell. See **Noel**.
+See **Noel**.
 

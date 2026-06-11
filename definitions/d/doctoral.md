@@ -1,6 +1,6 @@
 # doctoral
 
-doctoral. So spelled—not *\*doctorial*. E.g.:
+So spelled—not *\*doctorial*. E.g.:
 
  - " ‘In World War II, the USO served as a transforming organization, helping create and develop a shared national American culture,' says Teri Tynes of Austin, Texas, whose *doctorial* \[read *doctoral*\] dissertation at the University of Texas, ‘A Theater Worth Fighting For,' examined the group." Tom Squitieri, "USO Observes an Active 50th with War in Gulf," *USA Today*, 4 Feb. 1991, at A7.
 

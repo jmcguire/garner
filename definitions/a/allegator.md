@@ -1,4 +1,4 @@
 # \*allegator
 
-\*allegator. See **alleger**.
+See **alleger**.
 

@@ -1,4 +1,4 @@
 # plan
 
-plan. See **\*preplan**.
+See **\*preplan**.
 

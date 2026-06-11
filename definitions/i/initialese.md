@@ -1,4 +1,4 @@
 # Initialese
 
-Initialese. See abbreviations (c).
+See abbreviations (c).
 

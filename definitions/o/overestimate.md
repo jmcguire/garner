@@ -1,4 +1,4 @@
 # overestimate
 
-overestimate. See **underestimate**.
+See **underestimate**.
 

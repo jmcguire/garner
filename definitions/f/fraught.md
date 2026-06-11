@@ -1,7 +1,5 @@
 # fraught
 
-fraught.
-
 ## A. Generally
 
 *Fraught* (= laden, equipped) typically takes *with* to connote ominousness or menace \<a statement fraught with doubt\>. While in the original sense a ship might be *fraught* with riches or democracy *fraught* with blessings (to use two phrases quoted in the *OED*), today *fraught with* is invariably associated with danger or something else bad.

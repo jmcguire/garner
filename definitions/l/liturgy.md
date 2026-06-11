@@ -1,4 +1,4 @@
 # liturgy
 
-liturgy. See **litany**.
+See **litany**.
 

@@ -1,4 +1,4 @@
 # the fact that
 
-the fact that. See **fact**, n. **(b)**.
+See **fact**, n. **(b)**.
 

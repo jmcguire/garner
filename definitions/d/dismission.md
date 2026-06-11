@@ -1,4 +1,4 @@
 # \*dismission
 
-\*dismission. See **dismissal**.
+See **dismissal**.
 

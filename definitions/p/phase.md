@@ -1,4 +1,4 @@
 # phase
 
-phase. See **faze**.
+See **faze**.
 

@@ -1,4 +1,4 @@
 # licit
 
-licit. See **legal**.
+See **legal**.
 

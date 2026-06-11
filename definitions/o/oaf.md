@@ -1,4 +1,4 @@
 # oaf
 
-oaf. Pl. *oafs*. See plurals (c).
+Pl. *oafs*. See plurals (c).
 

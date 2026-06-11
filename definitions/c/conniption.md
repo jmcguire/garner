@@ -1,4 +1,4 @@
 # conniption
 
-conniption. So spelled. See spelling (a).
+So spelled. See spelling (a).
 

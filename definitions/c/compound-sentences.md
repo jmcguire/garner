@@ -1,4 +1,4 @@
 # Compound Sentences
 
-Compound Sentences. See subordination and coordination.
+See subordination and coordination.
 

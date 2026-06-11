@@ -1,4 +1,4 @@
 # baneful
 
-baneful. See **baleful**.
+See **baleful**.
 

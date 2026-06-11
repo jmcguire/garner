@@ -1,6 +1,6 @@
 # betwixt
 
-betwixt. On the few occasions when this archaism appears, it's usually in the cliché *betwixt and between* (meaning "in a middle position; neither one nor the other"). But sometimes it pops up on its own when the writer tries to affect quaintness—e.g.:
+On the few occasions when this archaism appears, it's usually in the cliché *betwixt and between* (meaning "in a middle position; neither one nor the other"). But sometimes it pops up on its own when the writer tries to affect quaintness—e.g.:
 
  - "*Betwixt* the owls and the frogs, the familiar sound \[of the woodcock\] comes from an old field not far from the house." "The Woodcock Dance Is Thrilling Rite of Spring," *Pitt. Post-Gaz.*, 10 Mar. 1996, at D13. (A possible revision: *While the owls and the frogs sing, the familiar sound comes from an old field not far from the house.*)
 

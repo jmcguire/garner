@@ -1,4 +1,4 @@
 # prideful
 
-prideful. See **proud**.
+See **proud**.
 

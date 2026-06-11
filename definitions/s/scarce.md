@@ -1,4 +1,4 @@
 # scarce
 
-scarce. See **rare**.
+See **rare**.
 

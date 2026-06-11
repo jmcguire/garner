@@ -1,4 +1,4 @@
 # credulous
 
-credulous. See **credible**.
+See **credible**.
 

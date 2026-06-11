@@ -1,4 +1,4 @@
 # misfeasance
 
-misfeasance. See **malfeasance**.
+See **malfeasance**.
 

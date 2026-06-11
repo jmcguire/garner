@@ -1,4 +1,4 @@
 # \*administerable
 
-\*administerable. See **administrable**.
+See **administrable**.
 

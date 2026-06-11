@@ -1,4 +1,4 @@
 # orphan
 
-orphan. See **widow**.
+See **widow**.
 

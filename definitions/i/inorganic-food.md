@@ -1,4 +1,4 @@
 # \*inorganic food
 
-\*inorganic food. See **organic**.
+See **organic**.
 

@@ -1,4 +1,4 @@
 # \*extorter
 
-\*extorter. See **extortionist**.
+See **extortionist**.
 

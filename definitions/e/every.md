@@ -1,7 +1,5 @@
 # every
 
-every.
-
 ## A. Meaning "all."
 
 With an abstract noun—as opposed to a count noun—the word *all* is more apt than *every*. E.g.: "Now both the law enforcement community and, apparently, the judiciary, are going to the opposite extreme by giving the Freemen *every leniency they can* \[read *all the leniency they can*\]." "Make the Freemen Obey the Law," *Times Union* (Albany), 12 Aug. 1996, at A6.

@@ -1,4 +1,4 @@
 # \*totally obsolescent
 
-\*totally obsolescent. For this phrase, see **archaic**.
+For this phrase, see **archaic**.
 

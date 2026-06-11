@@ -1,4 +1,4 @@
 # maudlin
 
-maudlin. See **Magdalen**.
+See **Magdalen**.
 

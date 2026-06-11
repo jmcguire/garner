@@ -1,4 +1,4 @@
 # \*hutzpa(h)
 
-\*hutzpa(h). See **chutzpah**.
+See **chutzpah**.
 

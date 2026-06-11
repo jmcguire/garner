@@ -1,4 +1,4 @@
 # bologna
 
-bologna. See **baloney**.
+See **baloney**.
 

@@ -1,7 +1,5 @@
 # y'all
 
-y'all.
-
 ## A. Spelling
 
 Dating back to the early 1800s, this sturdy Southernism—prevalent from Texas to Virginia—is most logically *y'all*, not *\*ya'll*, and the better form is vastly predominant in print sources. Only the *you* of *you all* is contracted. And in modern print sources, *y'all* is nine times as common. So *\*ya'll* (which misleadingly resembles *he'll*, *she'll*, and *we'll*) deserves an edit—e.g.:

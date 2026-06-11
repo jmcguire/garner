@@ -1,4 +1,4 @@
 # neurofibroma
 
-neurofibroma. See **neuroma**.
+See **neuroma**.
 

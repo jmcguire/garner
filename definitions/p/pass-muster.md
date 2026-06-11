@@ -1,6 +1,6 @@
 # pass muster
 
-pass muster. This phrase began as a military term meaning "to undergo review without censure." In widespread use since the 1700s, by the 1800s it had spread into the language generally, in the sense "to prove worthy"—e.g.:
+This phrase began as a military term meaning "to undergo review without censure." In widespread use since the 1700s, by the 1800s it had spread into the language generally, in the sense "to prove worthy"—e.g.:
 
  - "\[The prize\] goes only to firms that meet a stringent set of criteria and *pass muster* in detailed on-site inspections." Will Astor, "From a Two-Bay Garage to the Baldridge," *Rochester Bus. J.*, 15 Nov. 1996, at 10.
 

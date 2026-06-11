@@ -1,6 +1,6 @@
 # unique
 
-unique. Strictly speaking, *unique* means "being one of a kind," not "unusual." Hence the phrases *\*very unique*, *\*quite unique*, *\*how unique*, and the like have traditionally been viewed as slovenly. This tendency to hyperbole—to use *unique* when all that is meant is "uncommon, unusual, remarkable"—began in the early 1800s. However old it is, the tendency is worth resisting.
+Strictly speaking, *unique* means "being one of a kind," not "unusual." Hence the phrases *\*very unique*, *\*quite unique*, *\*how unique*, and the like have traditionally been viewed as slovenly. This tendency to hyperbole—to use *unique* when all that is meant is "uncommon, unusual, remarkable"—began in the early 1800s. However old it is, the tendency is worth resisting.
 
 Unless the thing is the only one of its kind, rarity does not make it unique. For instance, if a thing is one in a million, logically there would be two things in two million. Rare indeed but not unique.
 

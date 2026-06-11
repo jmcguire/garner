@@ -1,7 +1,5 @@
 # perceptive
 
-perceptive.
-
 ## A. And *percipient*; *perceptible*; *perceptual*; \perceptional*
 
 A *perceptive* person has sensitive powers of observation and sizes up people and situations keenly and quickly \<a perceptive teacher\>. A *percipient* person has perhaps more sensory acuteness and speed; the focus is less on emotional acuity \<percipient subjects in the study of hearing\>. *Percipient* can also function as a noun meaning "one who perceives" \<percipients varied greatly in their ability to detect the smells\>. With both words, the emphasis is on the perceiver.

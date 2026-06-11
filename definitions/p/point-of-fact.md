@@ -1,4 +1,4 @@
 # point of fact
 
-point of fact. See **fact**, n. **(d)**.
+See **fact**, n. **(d)**.
 

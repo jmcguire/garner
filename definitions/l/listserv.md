@@ -1,4 +1,4 @@
 # Listserv
 
-Listserv. See **email list**.
+See **email list**.
 

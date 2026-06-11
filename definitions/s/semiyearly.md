@@ -1,4 +1,4 @@
 # semiyearly
 
-semiyearly. See hybrids.
+See hybrids.
 

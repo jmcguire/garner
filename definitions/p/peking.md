@@ -1,4 +1,4 @@
 # Peking
 
-Peking. See **Beijing**.
+See **Beijing**.
 

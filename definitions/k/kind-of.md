@@ -1,7 +1,5 @@
 # kind of
 
-kind of.
-
 ## A. Meaning "somewhat."
 
 *Kind of* is a weak substitute for *somewhat*, *rather*, *somehow*, and other adverbs. It properly functions as a noun, however, signifying category or class in phrases such as *this kind of paper*. Cf. **sort of**. See **\*these kind of**.

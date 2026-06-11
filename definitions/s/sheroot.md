@@ -1,4 +1,4 @@
 # \*sheroot
 
-\*sheroot. See **cheroot**.
+See **cheroot**.
 

@@ -1,4 +1,4 @@
 # ol'
 
-ol'. See **olde**.
+See **olde**.
 

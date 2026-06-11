@@ -1,4 +1,4 @@
 # not . . . either
 
-not . . . either. See **either (e)**.
+See **either (e)**.
 

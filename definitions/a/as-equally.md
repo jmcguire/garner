@@ -1,4 +1,4 @@
 # as equally
 
-as equally. See **equally as**.
+See **equally as**.
 

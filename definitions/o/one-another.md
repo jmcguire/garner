@@ -1,4 +1,4 @@
 # one another
 
-one another. See **each other**.
+See **each other**.
 

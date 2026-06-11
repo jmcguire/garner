@@ -1,4 +1,4 @@
 # \*malefeasance
 
-\*malefeasance. See **malfeasance**.
+See **malfeasance**.
 

@@ -1,4 +1,4 @@
 # \*reversable
 
-\*reversable. See **reversible**.
+See **reversible**.
 

@@ -1,4 +1,4 @@
 # \*attendee
 
-\*attendee. See -ee.
+See -ee.
 

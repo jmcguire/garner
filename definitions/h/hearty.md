@@ -1,4 +1,4 @@
 # hearty
 
-hearty. See **hardy**.
+See **hardy**.
 

@@ -1,4 +1,4 @@
 # fantasmagoria
 
-fantasmagoria. See **phantasmagoria**.
+See **phantasmagoria**.
 

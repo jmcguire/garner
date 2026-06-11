@@ -1,4 +1,4 @@
 # \*might had better
 
-\*might had better. See double modals.
+See double modals.
 

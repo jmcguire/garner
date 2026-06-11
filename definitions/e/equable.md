@@ -1,4 +1,4 @@
 # equable
 
-equable. See **equitable**.
+See **equitable**.
 

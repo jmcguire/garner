@@ -1,7 +1,5 @@
 # badly
 
-badly.
-
 ## A. And *bad*
 
 With a linking verb such as *is*, *feels*, *seems*, or *tastes*, the predicate adjective *bad* is required, not the adverbial complement *badly*—e.g.:

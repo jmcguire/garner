@@ -1,4 +1,4 @@
 # CE
 
-CE. See **BC**.
+See **BC**.
 

@@ -1,4 +1,4 @@
 # proof
 
-proof. Pl. *proofs*. See plurals (c) & **evidence**, n. **(b)**.
+Pl. *proofs*. See plurals (c) & **evidence**, n. **(b)**.
 

@@ -1,4 +1,4 @@
 # \*fiord
 
-\*fiord. See **fjord**.
+See **fjord**.
 

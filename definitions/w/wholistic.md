@@ -1,4 +1,4 @@
 # \*wholistic
 
-\*wholistic. See **holistic**.
+See **holistic**.
 

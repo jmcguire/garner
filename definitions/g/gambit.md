@@ -1,7 +1,5 @@
 # gambit
 
-gambit.
-
 ## A. General Uses
 
 In chess, a *gambit* is a move, usually an opening move, likely to sacrifice a piece to gain a strategic advantage. In strictest usage, it is the sacrifice that makes a tactical move a *gambit*. The word lost some of its unique punch when writers began applying it loosely to any trick, tactical move, or ploy. But that shift in meaning was clear by the mid-20th century, especially in the popular satires of Stephen Potter, most notably *The Theory and Practice of Gamesmanship* (1947), *Some Notes on Lifemanship* (1950), *One-Upmanship* (1951), and *Golfmanship* (1968). For example, in the last of these, Potter wrote: "History is a *gambit*. More precisely the writing of history is a double or treble *gambit*. It is a way of saying ‘I think' and ‘what about this' in a tone which is supposed, simply by adding the word ‘History,' to silence argument" (p. 3). Throughout his many satirical texts, Potter used and popularized *gambit* as a synonym for *psychological ploy*.

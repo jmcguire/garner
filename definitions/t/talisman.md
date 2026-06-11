@@ -1,6 +1,6 @@
 # talisman
 
-talisman. Pl. *talismans*. Sometimes the erroneous *\*talismen* appears for the singular or plural, especially the latter—e.g.:
+Pl. *talismans*. Sometimes the erroneous *\*talismen* appears for the singular or plural, especially the latter—e.g.:
 
  - "The boy soldiers wear old shredded Zairian army uniforms or jeans and T-shirts, often with *talismen* \[read *talismans*\] or plastic rosary beads around their necks." Chris Tomlinson, "Child Warriors Believe Magic Makes Them Unbeatable," *Plain Dealer* (Cleveland), 14 Dec. 1996, at A10.
 

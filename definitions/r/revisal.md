@@ -1,4 +1,4 @@
 # \*revisal
 
-\*revisal. See **revision**.
+See **revision**.
 

@@ -1,4 +1,4 @@
 # C-section
 
-C-section. See **cesarean section**.
+See **cesarean section**.
 

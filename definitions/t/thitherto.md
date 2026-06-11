@@ -1,4 +1,4 @@
 # thitherto
 
-thitherto. See **hitherto**.
+See **hitherto**.
 

@@ -1,4 +1,4 @@
 # \*promotor
 
-\*promotor. See **promoter**.
+See **promoter**.
 

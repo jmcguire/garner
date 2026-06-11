@@ -1,4 +1,4 @@
 # averageable
 
-averageable. So spelled.
+So spelled.
 

@@ -1,4 +1,4 @@
 # apiary
 
-apiary. See **aviary**.
+See **aviary**.
 

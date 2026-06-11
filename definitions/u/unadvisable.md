@@ -1,4 +1,4 @@
 # \*unadvisable
 
-\*unadvisable. See **inadvisable**.
+See **inadvisable**.
 

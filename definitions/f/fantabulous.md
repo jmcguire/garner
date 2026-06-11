@@ -1,4 +1,4 @@
 # fantabulous
 
-fantabulous. See portmanteau words.
+See portmanteau words.
 

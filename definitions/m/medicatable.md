@@ -1,4 +1,4 @@
 # \*medicatable
 
-\*medicatable. See **medicable**.
+See **medicable**.
 

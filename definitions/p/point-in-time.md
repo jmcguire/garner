@@ -1,6 +1,6 @@
 # point in time
 
-point in time. This phrase, well known as mere verbiage, occurs most commonly in reported speech. But sometimes it sneaks into print—e.g.:
+This phrase, well known as mere verbiage, occurs most commonly in reported speech. But sometimes it sneaks into print—e.g.:
 
  - "Corzine says the proposals would add only an extra $60 billion to federal spending when fully implemented, a *point in time* \[read *time*\] even he concedes may never come." Charles Stile & Jeff Pillets, "McCain, Giuliani and Franks Attack Corzine," *Record* (N.J.), 2 Nov. 2000, at A16.
 

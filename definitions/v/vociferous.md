@@ -1,7 +1,5 @@
 # vociferous
 
-vociferous.
-
 ## A. And *voracious*
 
 A *vociferous* person is loud, noisy, and clamorous; a *vociferous* crowd is characterized by unrestrained yelling. A *voracious* person or animal, meanwhile, devours food ravenously; a *voracious* reader has an insatiable desire for books, magazines, and other reading materials. In short, although the two words appear similar, they apply to very different types of behavior.

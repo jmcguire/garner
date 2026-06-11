@@ -1,4 +1,4 @@
 # censure
 
-censure. See **censor**.
+See **censor**.
 

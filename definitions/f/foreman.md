@@ -1,7 +1,5 @@
 # foreman
 
-foreman.
-
 ## A. Generally
 
 In the sense "a person in charge of a group of workers" \<the foreman on the docks\>, *foreman* dates from the 1500s. But pressure is afoot to find gender-neutral alternatives, and the words *supervisor*, *chief*, and *leader* seem to be the most likely candidates. *The Historical Thesaurus of the Oxford English Dictionary* lists more than 20 others, from the medieval *steward* to the modern *line manager*. See sexism (c).

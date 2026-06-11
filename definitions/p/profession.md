@@ -1,6 +1,6 @@
 # profession
 
-profession. This word has been much debased in recent years, primarily at the hands of egalitarians who call any occupation a profession. In many American cities today, a person seeking a job as a barber, manicurist, or convenience-store manager turns in the classified ads to the section titled "Professions." A physician looking for a change in jobs turns to "Advanced Degree Required," a section of its own rather than a subsection of "Professions."
+This word has been much debased in recent years, primarily at the hands of egalitarians who call any occupation a profession. In many American cities today, a person seeking a job as a barber, manicurist, or convenience-store manager turns in the classified ads to the section titled "Professions." A physician looking for a change in jobs turns to "Advanced Degree Required," a section of its own rather than a subsection of "Professions."
 
 Traditionally there have been but three professions: theology, law, and medicine. These were known either as *the three professions* or as *the learned professions*. The term was ultimately extended to mean "one's principal vocation," which embraces prostitution as well as medicine. (*The oldest profession* originally had an irony much stronger than it has today.)
 

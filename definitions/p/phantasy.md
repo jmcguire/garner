@@ -1,4 +1,4 @@
 # \*phantasy
 
-\*phantasy. See **fantasy**.
+See **fantasy**.
 

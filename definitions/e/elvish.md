@@ -1,4 +1,4 @@
 # \*elvish
 
-\*elvish. See **elfin**.
+See **elfin**.
 

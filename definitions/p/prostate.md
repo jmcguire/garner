@@ -1,7 +1,5 @@
 # prostate
 
-prostate.
-
 ## A. And *prostatic*
 
 Whereas most people, when referring to the disease, use *prostate cancer*, specialists often use *prostatic cancer*. That form can be found even in popular sources—e.g.:

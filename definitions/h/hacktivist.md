@@ -1,4 +1,4 @@
 # hacktivist
 
-hacktivist. See portmanteau words.
+See portmanteau words.
 

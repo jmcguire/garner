@@ -1,4 +1,4 @@
 # ofttimes
 
-ofttimes. See **often (b)**.
+See **often (b)**.
 

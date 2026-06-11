@@ -1,4 +1,4 @@
 # Malformations
 
-Malformations. See morphological deformities.
+See morphological deformities.
 

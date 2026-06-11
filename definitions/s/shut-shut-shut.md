@@ -1,4 +1,4 @@
 # shut \> shut \> shut
 
-shut \> shut \> shut. So inflected. See irregular verbs.
+So inflected. See irregular verbs.
 

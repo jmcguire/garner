@@ -1,4 +1,4 @@
 # ultimate destination
 
-ultimate destination. See **destination**.
+See **destination**.
 

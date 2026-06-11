@@ -1,7 +1,5 @@
 # avail
 
-avail.
-
 ## A. As a Verb
 
 *Avail* = (1) to get the benefit of, make use of \<to avail oneself of the opportunity\>; or (2) to be of advantage or utility \<the attempts to rectify the problem availed no one\>.

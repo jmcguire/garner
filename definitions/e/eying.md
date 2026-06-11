@@ -1,4 +1,4 @@
 # \*eying
 
-\*eying. See **eyeing**.
+See **eyeing**.
 

@@ -1,7 +1,5 @@
 # naphtha
 
-naphtha.
-
 ## A. Misspelled
 
 *Naphtha* /**naf**-thә/ (= a liquid distilled from petroleum and used as a solvent or fuel) is sometimes misspelled (and mispronounced) *\*naptha*—e.g.:

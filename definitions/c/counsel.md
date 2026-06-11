@@ -1,7 +1,5 @@
 # counsel
 
-counsel.
-
 ## A. Scope of the Noun
 
 In BrE, *counsel* is used only of barristers (litigators), whereas in AmE it is often used in reference to nonlitigating lawyers (the equivalent of English solicitors)—e.g., *general counsel*. See **lawyer**, **consul** & **council**.

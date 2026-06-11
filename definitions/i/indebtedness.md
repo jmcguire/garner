@@ -1,7 +1,5 @@
 # indebtedness
 
-indebtedness.
-
 ## A. Generally
 
 *Indebtedness* = the state or fact of being indebted. E.g.:

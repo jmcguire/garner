@@ -1,4 +1,4 @@
 # comedienne
 
-comedienne. See **comedian**.
+See **comedian**.
 

@@ -1,7 +1,5 @@
 # strew
 
-strew.
-
 ## A. As a Verb: *strew* \> *strewed* \> *strewn*
 
 So inflected. The past-participial *strewn* was not fixed as the standard form until about 1860—simultaneously, oddly enough, in both AmE and BrE. The archaic *strewed* as a past participle persists, but only as a sporadic variant—e.g.:

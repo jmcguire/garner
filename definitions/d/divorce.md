@@ -1,7 +1,5 @@
 # divorce
 
-divorce.
-
 ## A. And *annulment*
 
 A *divorce* recognizes the existence of a valid marriage, whereas an *annulment* treats the marriage as if it had never existed. Even so, in most jurisdictions the "nonexistence" of the marriage is not considered absolute: any children conceived before the annulment are considered legitimate.

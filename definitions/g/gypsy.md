@@ -1,4 +1,4 @@
 # Gypsy
 
-Gypsy. See race-related terms (m).
+See race-related terms (m).
 

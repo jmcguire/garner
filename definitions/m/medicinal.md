@@ -1,4 +1,4 @@
 # medicinal
 
-medicinal. See **medical**.
+See **medical**.
 

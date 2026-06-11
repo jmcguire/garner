@@ -1,4 +1,4 @@
 # ageing
 
-ageing. See **aging**.
+See **aging**.
 

@@ -1,7 +1,5 @@
 # hark back
 
-hark back.
-
 ## A. And *\*hearken back*; *\*harken back*
 
 The phrase *hark back* is now the preferred form throughout the English-speaking world. E.g.:

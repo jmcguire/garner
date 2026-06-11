@@ -1,4 +1,4 @@
 # \*spacial
 
-\*spacial. See **spatial**.
+See **spatial**.
 

@@ -1,4 +1,4 @@
 # \*standee
 
-\*standee. See -ee.
+See -ee.
 

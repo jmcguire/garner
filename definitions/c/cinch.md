@@ -1,4 +1,4 @@
 # cinch
 
-cinch. See **clinch (b)**.
+See **clinch (b)**.
 

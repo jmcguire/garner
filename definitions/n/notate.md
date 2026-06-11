@@ -1,4 +1,4 @@
 # notate
 
-notate. See **note**, vb.
+See **note**, vb.
 

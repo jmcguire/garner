@@ -1,7 +1,5 @@
 # Hawaii
 
-Hawaii.
-
 ## A. Sense
 
 To most people, the place name *Hawaii* is unambiguous. It refers to the 50th state of the U.S., comprising eight volcanic islands (and more than 120 islets), inhabited from the 5th century AD by Polynesians, annexed by the U.S. as a territory in 1900, and admitted as a state in 1959. The islands have individual names: Oahu, Maui, Kauai, Molokai, and so on. The biggest island, which is geologically the newest and still has active volcanoes, is called *Hawaii*. Hence an ambiguity: when you say *Hawaii*, do you mean all the islands collectively (the 50th state) or just the biggest of the islands? To cure this ambiguity, the big island is usually called *the Big Island* (so capitalized). But officially it is known as *Hawaii*.

@@ -1,7 +1,5 @@
 # augur, n. & vb
 
-augur, n. & vb.
-
 ## A. And *auger*, n
 
 & vb. These are very different words with similar spellings. They are pronounced identically: /**aw**-gәr/. The more common one is *augur*. As a noun, it refers to a soothsayer or fortune-teller—e.g.: "\[In ancient Rome\], a man called an *augur* was said to be able to tell the future by observing the flight of birds." "No Ducks, No Glory," *Wash. Post*, 18 Jan. 2001, at C13. The word appears in Deuteronomy (18:10–12, NRSV): "one who practices divination, or is a soothsayer, or an *augur*, or a sorcerer, or one who casts spells." As a verb, *augur* means to forebode or presage—most commonly in phrases similar to those in which *bode* appears \<augurs well\> \<augurs ill\>. E.g.: "No theatrical spectacle could have been more majestic. It was poignant, it was glorious. And it *augured* war." Carolly Erickson, *Alexandra: The Last Tsarina* 219 (2001).

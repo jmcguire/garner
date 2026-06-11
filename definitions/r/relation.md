@@ -1,7 +1,5 @@
 # relation
 
-relation.
-
 ## A. And *relative*
 
 These terms are interchangeable in the sense "a person with familial connections to another," although *relative* has been much more usual since the mid-20th century.
