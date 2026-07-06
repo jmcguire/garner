@@ -2,7 +2,7 @@
 
 If you want to use this tool, just install it through pipx:
 
-`pipx install garner`
+`pipx install garner-dict`
 
 Then read the help instructions with `garner -h`.
 

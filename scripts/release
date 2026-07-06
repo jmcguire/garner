@@ -122,7 +122,7 @@ def build_release(version: str) -> None:
         shutil.rmtree(DIST_DIR)
     run([sys.executable, "-m", "build"])
 
-    wheels = sorted(DIST_DIR.glob("garner-*.whl"))
+    wheels = sorted(DIST_DIR.glob("garner_dict-*.whl"))
     if not wheels:
         raise SystemExit("No wheel was built in dist/")
 
