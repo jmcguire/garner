@@ -1,7 +1,5 @@
 # Tenses, Essay
 
-Tenses .
-
 ## A. Generally
 
 The following table shows the basic tenses in English with the verb *be* conjugated. The labels *1st*, *2nd*, and *3rd* stand for first person, second person, and third person.

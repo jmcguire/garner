@@ -1,7 +1,5 @@
 # -er, Essay
 
--er .
-
 ## A. And *-or.*
 
 These agent-noun suffixes can be especially vexatious. Many words that were once considered Latin borrowings have become so thoroughly naturalized that they take *-er* instead of *-or* (e.g., *adviser*, *diffuser*, *prohibiter*, *promoter*, *propeller*). But not *impostor* (which does not refer to someone who *imposts*). The historical tendency has been to make the Latinate *-or* the correlative of *-ee* (especially in legal writing), hence *donee/donor*, *indemnitee/indemnitor*, *obligee/obligor*, *offeree/offeror*, *transferee/transferor*, *vendee/vendor*. See -ee.

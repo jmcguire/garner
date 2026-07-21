@@ -1,4 +1,4 @@
 # Binomial Pairs
 
- Binomial Pairs . See irreversible binomials.
+ See irreversible binomials.
 

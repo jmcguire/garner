@@ -1,7 +1,5 @@
 # a
 
-**a.
-
 ## A. Choice Between *a* and *an*
 
 The indefinite article *a* is used before words beginning with a consonant sound, including /y/ and /w/ sounds. The other form, *an*, is used before words beginning with a vowel sound. Since the sound rather than the letter controls, it's not unusual to find *a* before a vowel or *an* before a consonant. Hence *a eulogy* (but *an elegy*), *a European country*, *a one-year term*, *a Ouija board*, *a uniform*, *an FBI agent*, *an MBA degree*, *an SEC filing*.
@@ -59,4 +57,3 @@ When the construction requires a phrasal adjective, *per* is the only idiomatic 
 ## C. Pronunciation
 
 The indefinite article is ordinarily pronounced /ә/—not /ay/. The latter pronunciation is appropriate only in cases of emphasis \<I didn't say "clubs"; I said "*a* club"\> and for the name of the letter. But /ay/ is nearly ubiquitous among broadcasters, "who have been taught—and for good reason—to avoid filling pauses in their speech with *uh* or *um*. Thus, if they happen to pause on the article *a* when pronouncing it UH, they will appear to have committed this cardinal sin." *BBBM* at 2.
-

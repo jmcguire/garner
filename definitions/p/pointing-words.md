@@ -1,7 +1,5 @@
 # Pointing Words, Essay
 
-Pointing Words .
-
 ## A. Generally
 
 Pointing words (technically known as "deictic terms")—words like *this*, *that*, *these*, *those*, and *it*—point at an antecedent. A pointing word should always have an identifiable referent. But this doesn't mean that *this* or *these* must invariably have a noun immediately following it. Most grammarians take a more relaxed position: "The antecedent of *this* and *that* may be any single noun . . . . *This* and *that* may also refer to a phrase, clause, or sentence, or even to an implied thought. Reference of this kind must, however, be immediately clear and apparent; otherwise the thought will be obscure." James C. Fernald, *English Grammar Simplified* 40 (Cedric Gale ed., rev. ed. 1979). Fernald is not alone: "*This*, like *that*, is regularly used to refer to the idea of a preceding clause or sentence: ‘He had always had his own way at home, and this made him a poor roommate.'/‘The company trains their salesmen in their own school. This \[more formally: *This practice*\] assures them a group of men with the same sales methods.' " Porter G. Perrin, *Writer's Guide and Index to English* 794 (rev. ed. 1950) (bracketed language in original). Perrin's notation in his second example accurately describes the difference between *this* and *this practice*: it is a question of formality, not of correctness.

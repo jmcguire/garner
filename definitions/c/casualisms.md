@@ -1,7 +1,5 @@
 # Casualisms, Essay
 
-Casualisms .
-
 ## A. Generally
 
 Some expressions characteristic of speech (but appearing also in writing) declare either freedom from inhibition or an utter lack of solemnity. They may add a relaxed freshness, or they may seem inappropriately unbuttoned. Although they overlap to some degree with slang, they can't always be so labeled. They make up the least formal type of standard english, and they're standard only in informal contexts. All the expressions that make up this peculiar subset of English are here termed *casualisms*.

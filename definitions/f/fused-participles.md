@@ -1,7 +1,5 @@
 # Fused Participles, Essay
 
-Fused Participles .
-
 ## A. In General
 
 Should you say *I appreciate your coming* or *I appreciate you coming*? That's the question. Literary folks tend to want *your*; everybody else tends to want *you*.

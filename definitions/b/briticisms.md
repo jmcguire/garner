@@ -1,4 +1,4 @@
 # Briticisms
 
- Briticisms . See americanisms and briticisms.
+ See americanisms and briticisms.
 

@@ -1,7 +1,5 @@
 # Dialect
 
-Dialect .
-
 ## A. Definition
 
 The term *dialect* has two main senses: (1) in the popular sense, it refers to any linguistic variety other than the standard language; (2) in the modern linguist's sense, it refers to any linguistic variety that is shared by a group of speakers, including the standard variety. Sense 1 is sometimes thought to have negative connotations, since it applies chiefly to nonprestigious varieties; sense 2 tends to be neutral, since it applies to all varieties. To those who adhere to sense 1, a dialect cannot be standard, and a phrase like *the standard dialect* is an oxymoron; to those who adhere to sense 2, the phrase makes perfect sense.

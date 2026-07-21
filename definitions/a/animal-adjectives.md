@@ -1,6 +1,6 @@
 # Animal Adjectives, Essay
 
- Animal Adjectives . If you have an English–Latin dictionary, look up any animal to find the corresponding Latin term. Then look up that term in an unabridged English-language dictionary and you're likely to find an English adjective—perhaps rare, but there nevertheless—ending in *-ine*. Some of these, of course, are well known:
+ If you have an English–Latin dictionary, look up any animal to find the corresponding Latin term. Then look up that term in an unabridged English-language dictionary and you're likely to find an English adjective—perhaps rare, but there nevertheless—ending in *-ine*. Some of these, of course, are well known:
 
  - asinine = of, relating to, or like an ass (donkey)
  - bovine = of, relating to, or like a cow

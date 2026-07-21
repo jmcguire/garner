@@ -1,7 +1,5 @@
 # Loanwords
 
-Loanwords .
-
 ## A. Generally
 
 Although all languages borrow words from elsewhere, the English vocabulary is a particularly vast and varied assortment of words from different languages. English may well have gained much of its capacious receptivity to borrowed terms from the clash of cultures following the Norman Conquest of 1066, which resulted in a blending into its Germanic roots of vast numbers of Romance words. The French influence is prominent, for example, in the writing of Chaucer (ca. 1300). Then, with the advent of printing in England in the late 1400s, writers often referred to the "rude and barbarous" tongue in which they worked as being inadequate to their task. Many of them avidly devised new words on Latin and Greek roots. But the great majority of these never became "core words"; rather, they stayed at the periphery of the language.

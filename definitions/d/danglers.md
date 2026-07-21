@@ -1,7 +1,5 @@
 # Danglers, Essay
 
-Danglers .
-
 ## A. Generally
 
 So-called danglers are ordinarily unattached participles—either present participles (ending in *-ing*) or past participles (ending usually in *-ed*)—that do not relate syntactically to the nouns they are supposed to modify. That is, when the antecedent of a participle doesn't appear where it logically should, the participle is said to "dangle"—e.g.: "*Watching* from the ground below, the birds flew ever higher until they disappeared." In effect, the participle tries to sever its relationship with its noun or pronoun and thus to become functionally a preposition. Gerunds may also dangle precariously—e.g.: "By *watching* closely, the birds became visible." (See (d).) Usually, recasting the sentence will remedy the ambiguity, illogic, or incoherence: "Watching from the ground below, we saw the birds fly higher until they disappeared." / "By watching closely, we were able to see the birds."

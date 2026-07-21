@@ -1,7 +1,5 @@
 # Alliteration
 
-Alliteration .
-
 ## A. Pleasant Examples
 
 How language affects the ear should be a critical concern of writers, who can use sound (even in the mind's ear) for any of several effects. When they repeat sounds in nearby words, the result is called *alliteration* (which has two subsets: *assonance* for vowels \<reverie in poetry\>, *consonance* for consonants \<put pen to paper\>).

@@ -1,7 +1,5 @@
 # Prepositions, Essay
 
-Prepositions .
-
 ## A. The Preposition Quotient
 
 In lean writing, it's a good idea to minimize prepositional phrases. In flabby prose, a ratio of one preposition for every four words is common; in better, leaner writing, the quotient is more like one preposition for every ten or fifteen words.

@@ -1,7 +1,5 @@
 # -ee, Essay
 
--ee .
-
 ## A. General Principles
 
 This suffix (from the French past-participial *é*) originally denoted "someone who is acted upon"; the sense is inherently passive. It's an especially productive suffix; that is, people are continually creating neologisms with it. Some of these look fairly ridiculous (e.g., *civilizee*), but some readily become quite familiar (e.g., *honoree*, an Americanism dating from the 1890s). Although there are exceptions (e.g., *biographee*), words ending in *-ee* are almost always made from verbs in the passive voice—e.g.:

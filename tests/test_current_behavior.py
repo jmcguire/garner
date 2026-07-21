@@ -430,7 +430,9 @@ class DefinitionContentTest(unittest.TestCase):
 
             headword, _ = text.parse_headword(heading)
             line = first_body_line(markdown)
-            if line and line.startswith(f"{headword}."):
+            if line and line.lstrip("* ").startswith(f"{headword} ."):
+                repeated.append(path.relative_to(REAL_DEFINITIONS.parent).as_posix())
+            elif line and line.startswith(f"{headword}."):
                 repeated.append(path.relative_to(REAL_DEFINITIONS.parent).as_posix())
 
         self.assertEqual(repeated, [])

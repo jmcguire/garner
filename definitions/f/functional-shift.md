@@ -1,7 +1,5 @@
 # Functional Shift, Essay
 
-Functional Shift .
-
 ## A. Generally
 
 Renaissance rhetoricians called it *enallage* /i-**nal**-i-jee/, and some modern grammarians call it *transfer*: the ability of a word to shift from one grammatical function to another. A noun acts as an adjective (*candy store*); an adjective as a noun (*a collectible*); a noun as a verb (*housing the collection*); a verb as a noun (*apt quotes*); and so on. Many of these functional shifts lead to a compactness that Americans like: "We Americans will not use the more elaborate form when the simpler, more direct one is absolutely unambiguous and does the work without a hitch." Edward N. Teall, *Putting Words to Work* 25 (1940).

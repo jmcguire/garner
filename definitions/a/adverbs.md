@@ -1,7 +1,5 @@
 # Adverbs, Essay
 
-Adverbs .
-
 ## A. Generally
 
 English has an enormous number of words belonging to the adverb category, expressing a very wide range of meanings. A few dozen are basic adverbs unrelated to adjectives; among the most frequent of these are *again*, *almost*, *already*, *also*, *always*, *anyway*, *as*, *even*, *ever*, *how*, *however*, *indeed*, *just*, *maybe*, *never*, *not*, *often*, *only*, *otherwise*, *perhaps*, *quite*, *rather*, *really*, *soon*, *still*, *therefore*, *though*, *too*, *very*, and *yet*. But there are many thousands of others—from *abdominally* to *zoologically*—formed by adding the suffix *-ly* to an adjective stem.

@@ -1,4 +1,4 @@
 # -archy
 
- -archy . See governmental forms.
+ See governmental forms.
 

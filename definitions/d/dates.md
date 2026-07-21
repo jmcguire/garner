@@ -1,7 +1,5 @@
 # Dates, Essay
 
-Dates .
-
 ## A. Order of Elements
 
 One may unimpeachably write either *May 26, 2009**,* or *26 May 2009*. The latter—the BrE method, which is also used in the American military—has practical advantages in prose, for it takes no commas. It is used throughout this book.

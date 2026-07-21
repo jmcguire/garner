@@ -1,7 +1,5 @@
 # Etymology, Essay
 
-Etymology .
-
 ## A. English Etymology Generally
 
 Etymology is the study of word derivations. Understanding etymology often leads to a greater appreciation of linguistic nuances. For example, knowing the history of words such as the following can open up vistas:

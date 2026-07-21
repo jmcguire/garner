@@ -1,7 +1,5 @@
 # *sic*
 
-*sic* .
-
 ## A. Generally
 
 *Sic* (= thus, so), invariably bracketed and preferably set in italics, indicates that a preceding word or phrase in a quoted passage is reproduced as it appeared in the original document. *Sic* at its best is intended to aid readers, who might be confused about whether the quoter or the quoted writer is responsible for the spelling or grammatical anomaly. This interpolation has been much on the rise: in published writings, its use has skyrocketed since the mid-20th century.

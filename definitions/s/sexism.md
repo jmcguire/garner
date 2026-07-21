@@ -1,7 +1,5 @@
 # Sexism, Essay
 
-Sexism .
-
 ## A. Generally
 
 If you start with the pragmatic premise that you want to avoid misleading, distracting, or annoying a significant percentage of your readers, then you'll almost certainly conclude that it's best to avoid sexist language. Regardless of your political persuasion, that conclusion seems inevitable—if you're a pragmatist.

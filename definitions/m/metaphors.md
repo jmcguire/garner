@@ -1,7 +1,5 @@
 # Metaphors, Essay
 
-Metaphors .
-
 ## A. Generally
 
 A *metaphor* is a figure of speech in which one thing is called by the name of something else, or is said to be that other thing. Unlike *similes*, which make explicit comparisons using *like* or *as*, metaphorical comparisons are typically implicit—not explicit. Skillful use of metaphor is one of the highest attainments of writing; graceless and even aesthetically offensive use of metaphors is one of the commonest scourges of writing.

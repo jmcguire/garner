@@ -1,4 +1,4 @@
 # *id est*
 
-*id est* . See **i.e**.
+See **i.e**.
 

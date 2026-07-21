@@ -1,4 +1,4 @@
 # Active Voice
 
- Active Voice . See passive voice.
+ See passive voice.
 

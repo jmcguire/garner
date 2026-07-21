@@ -1,6 +1,6 @@
 # Abstractitis, Essay
 
-Abstractitis . "How vile a thing . . . is the abstract noun\! It wraps a man's thoughts round like cotton wool." Arthur Quiller-Couch, *On the Art of Writing* 109 (2d ed. 1943). *Abstractitis* is Ernest Gowers's term for writing that is so abstract and obtuse (hence abstruse) that the writer does not even know what he or she is trying to say (*FMEU2* at 5). Far be it from the reader, then, to find coherent meaning in such writing.
+"How vile a thing . . . is the abstract noun\! It wraps a man's thoughts round like cotton wool." Arthur Quiller-Couch, *On the Art of Writing* 109 (2d ed. 1943). *Abstractitis* is Ernest Gowers's term for writing that is so abstract and obtuse (hence abstruse) that the writer does not even know what he or she is trying to say (*FMEU2* at 5). Far be it from the reader, then, to find coherent meaning in such writing.
 
 An example from political science illustrates the affliction:
 

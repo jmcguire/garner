@@ -1,7 +1,5 @@
 # co-, Essay
 
-co- .
-
 ## A. Hyphenation with
 
 Generally, this prefix—which means "together with" or "joint"—does not take a hyphen (e.g., *coauthor*, *cohost*, *cosponsor*). The hyphen should appear only when the unhyphenated form might lead the reader to mistake the syllables (e.g., *co-occurrence*, *co-organizer*) or when the writer thinks that a word is a new form or neologism (e.g., *co-golfer*, *co-secretary*). See punctuation (j).

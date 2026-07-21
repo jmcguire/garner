@@ -1,4 +1,4 @@
 # *ipsissima verba*
 
-*ipsissima verba* . See **verbatim**.
+See **verbatim**.
 

@@ -1,6 +1,6 @@
 # Vogue Terms, Essay
 
- Vogue Terms . In the mid-1990s, colorful hair dye became all the rage. Teenagers used it. Thirty-somethings used it—and applied it to their young children's hair. Women of all ages used it. Even many middle-aged men used it. By 2001, the craze had long since spread over the globe. For example, in the summer of that year, it was difficult to spot, among hordes of young people at various places in Japan, a single undyed pate: seemingly everyone had light-brown or blond hair (if not some bolder color).
+ In the mid-1990s, colorful hair dye became all the rage. Teenagers used it. Thirty-somethings used it—and applied it to their young children's hair. Women of all ages used it. Even many middle-aged men used it. By 2001, the craze had long since spread over the globe. For example, in the summer of that year, it was difficult to spot, among hordes of young people at various places in Japan, a single undyed pate: seemingly everyone had light-brown or blond hair (if not some bolder color).
 
 That's the way fads are. People latch on to them to make a statement about themselves. But the statement truly has little to do with individuality: it's all about groupism. You adopt a fad to show that you're with it, hip, or young at heart. You don't want to be left out or left behind. That's the essence of it.
 

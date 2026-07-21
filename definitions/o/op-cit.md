@@ -1,4 +1,4 @@
 # *op. cit*
 
-*op. cit* . See ***ibid.***
+See ***ibid.***
 

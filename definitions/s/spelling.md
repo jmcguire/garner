@@ -1,7 +1,5 @@
 # Spelling, Essay
 
-Spelling .
-
 ## A. Common Misspellings
 
 Although computerized spell-checkers have begun to eliminate many misspellings, they can't catch misspellings that are actually different words, as when *not* is mistyped *now*. And to the extent that the word lists in the spell-checkers aren't sound, certain misspellings may become more widespread. For example, one widely used spell-checker stops at the correctly spelled *restaurateur*, recommending that it be replaced with the incorrect form *\*restauranteur*. All in all, though, spell-checkers are quite helpful.

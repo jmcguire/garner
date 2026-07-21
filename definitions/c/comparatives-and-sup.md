@@ -1,7 +1,5 @@
 # Comparatives and Superlatives, Essay
 
-Comparatives and Superlatives .
-
 ## A. Choice Between Comparative and Superlative
 
 When two items are being compared, a comparative adjective is needed \<the greater of the two\>; when more than two are being compared, the superlative is needed \<the greatest of the three\>. The blunder of using the superlative adjective when only two items are being compared is increasingly common, especially in AmE—e.g.:

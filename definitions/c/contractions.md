@@ -1,7 +1,5 @@
 # Contractions, Essay
 
-Contractions .
-
 ## A. Generally
 
 Many writers, especially those who write in formal situations, feel uncomfortable with contractions. Perhaps contractions don't generally belong in extremely solemn contexts.

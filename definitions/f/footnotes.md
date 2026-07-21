@@ -1,7 +1,5 @@
 # Footnotes, Essay
 
-Footnotes .
-
 ## A. The Good and the Bad
 
 Footnotes are the mark of a scholar. Overabundant, overflowing footnotes are the mark of an insecure scholar—often someone who gets lost in the byways of analysis yet wants to show off. Underinclusive footnotes mark the scholar who (1) wants to write for a popular audience and fears that footnotes will be a turnoff; (2) doesn't really know the literature in his or her field very well; or (3) doesn't care to give credit where credit is due.

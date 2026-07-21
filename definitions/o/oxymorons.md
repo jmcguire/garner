@@ -1,7 +1,5 @@
 # Oxymorons, Essay
 
-Oxymorons .
-
 ## A. Generally
 
 This term, originally a Greek word meaning "keenly foolish" or "sharply dull," denotes an immediate contradiction in terminology. Thus:

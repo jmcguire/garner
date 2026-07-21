@@ -1,7 +1,5 @@
 # Capitalization, Essay
 
-Capitalization .
-
 ## A. Generally
 
 The decision whether to capitalize a word seems simple at first. There are really just three rules: capitalize the first word of a sentence, the pronoun *I*, and proper names. What could be easier?

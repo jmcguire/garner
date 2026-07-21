@@ -1,7 +1,5 @@
 # Parallelism, Essay
 
-Parallelism .
-
 ## A. Generally
 
 *Parallelism*—the matching of sentence parts for logical balance, especially by using grammatically coordinate structures—helps satisfy every reader's innate craving for order and rhythm. In a list, for example, you might have noun \+ noun \+ noun, or verb \+ verb \+ verb, or adjective \+ adjective \+ adjective. By phrasing parallel ideas in parallel grammatical constructions, you show the reader how one idea relates to another. You supply correspondences. Stylists have long emphasized the importance of matching phrase to like phrase:

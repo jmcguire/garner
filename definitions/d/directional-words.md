@@ -1,7 +1,5 @@
 # Directional Words, Essay
 
-Directional Words .
-
 ## A. The Suffix *-ward(s)*
 
 In AmE, the preferred practice is to use the *-ward* form of directional words, as in *toward*, *forward*, and *westward.* Words ending in *-ward* may be either adjectives or adverbs, whereas words ending in *-wards*, common in BrE, may be adverbs only. These are typical preferred AmE forms:

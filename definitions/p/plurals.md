@@ -1,7 +1,5 @@
 # Plurals, Essay
 
-Plurals .
-
 ## A. Generally
 
 Most nouns form their plurals simply by adding *s*—thus *books*, *songs*, *xylophones*. But if a word ends with the sound of /s/, /sh/, /ch/, or /z/, the plural is formed by adding *-es*—thus *buses*, *thrushes*, *churches*, and *buzzes*. Occasionally, a single final consonant is doubled—thus *fez* makes *fezzes*.

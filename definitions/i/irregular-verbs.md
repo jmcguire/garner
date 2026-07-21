@@ -1,7 +1,5 @@
 # Irregular Verbs, Essay
 
-Irregular Verbs .
-
 ## A. Inflected Forms
 
 There are two types of verbs—regular (or "weak") and irregular (or "strong"). Irregular verbs form the past tense or past participle in apparently unpredictable ways, usually by changing the vowel of the present-tense form, without the addition of an ending (e.g., *begin*, *began*; *rise*, *rose*; *wring*, *wrung*). Regular verbs, by contrast, form the past tense by adding *-ed*, *-d*, or *-t* to the present tense.
