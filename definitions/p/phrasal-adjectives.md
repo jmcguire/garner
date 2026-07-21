@@ -1,4 +1,4 @@
-# Phrasal Adjectives, Essay, Essay
+# Phrasal Adjectives, Essay
 
 Phrasal Adjectives .
 
@@ -575,4 +575,3 @@ wild-eyed
 ## H. Foreign Phrases
 
 When used as adjectives, phrases taken from foreign languages generally hold together without the need for hyphens to prevent miscues \<hors d'oeuvre tray\> \<habeas corpus petition\> \<ad hoc committee\> \<ex parte communications\>.
-

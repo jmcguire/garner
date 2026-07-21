@@ -1,4 +1,3 @@
-# \**laesae majestas
+# *\*laesae majestas*
 
-*\*laesae majestas*; ***\*laesae majestatis***. See **lese majesty**.
-
+See **lese majesty**.
