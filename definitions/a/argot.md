@@ -1,4 +1,4 @@
 # Argot
 
- Argot . See p. 1195.
+ See p. 1195.
 

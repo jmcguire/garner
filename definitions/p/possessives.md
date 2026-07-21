@@ -1,7 +1,5 @@
 # Possessives, Essay
 
-Possessives .
-
 ## A. Singular Possessives
 
 To form a singular possessive, add *'s* to most singular nouns—even those ending in *s*, *ss*, and *x* (hence *Jones's*, *Nichols's*, *witness's*, *Vitex's*). E.g.: "Noting *Congress's* move to regulate maternity hospitalization, managed-care advocates predict that politicians would legislate health care." Kent Jenkins et al., "Health Care Politics," *U.S. News & World Rep.*, 1 Dec. 1997, at 24. The traditional approach of the *AP Stylebook* (see, e.g., the 1996 6th ed.) was to use nothing more than an apostrophe if the word already ends in *s*. For a few decades until 2017, the AP editors followed a hairsplitting rule to use only the apostrophe (no additional *s*) for a word that ends in *s* if it is followed by a word that begins with *s*. AP still adheres to its convention of using just an apostrophe after a singular name that ends in *s*. But most authorities who aren't newspaper journalists demand the final *s* for virtually all singular possessives (e.g., *Bill Forbis's farm*, not *Bill Forbis' farm*). See the very first rule of William Strunk Jr. & E.B. White, *The Elements of Style* 1 (all editions).

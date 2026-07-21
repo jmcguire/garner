@@ -1,7 +1,5 @@
 # Italics, Essay
 
-Italics .
-
 ## A. Generally
 
 H.W. Fowler cautioned that many people, though competent in their own special subjects, don't have enough writing experience to realize that they shouldn't try to achieve emphasis by italicizing something in every tenth sentence (*FMEU1* at 304). With experience comes the competence to frame sentences so that emphatic words fall in emphatic places. (See sentence ends.) Also, the writer learns the techniques of subtle repetition—the type that reinforces an idea without cloying.

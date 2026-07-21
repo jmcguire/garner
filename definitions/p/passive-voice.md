@@ -1,7 +1,5 @@
 # Passive Voice, Essay
 
-Passive Voice .
-
 ## A. Generally
 
 Many writers talk about passive voice without knowing exactly what it is. In fact, many think that any be-verb signals passive voice, as in:

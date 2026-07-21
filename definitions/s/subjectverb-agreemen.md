@@ -1,7 +1,5 @@
 # Subject–Verb Agreement, Essay
 
-Subject–Verb Agreement .
-
 ## A. General Rule
 
 The simple rule is to use a plural verb with a plural subject, a singular verb with a singular subject. But there are complications. If a sentence has two or more singular subjects connected by *and*, use a plural verb. Yet if the subjects really amount to a single person or thing, use a singular verb \<the apple of his eye and the source of his inspiration is Heather\>. And if the sentence has two singular subjects connected by *or*, *either . . . or*, or *neither . . . nor*, use a singular verb \<let me know if you or your client has any questions\>. See concord (a). See also **either (d)** & **neither . . . nor (b)**.

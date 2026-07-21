@@ -1,7 +1,5 @@
 # Be-Verbs, Essay
 
-Be-Verbs .
-
 ## A. Wrongly Omitted in Nonfinite Uses
 
 *Be*-verbs, usually in the infinitive or participial form, are often omitted from sentences in which they would add clarity. One explanation is that they are intended to be "understood." (See understood words.) But this explanation does not excuse the ambiguity and awkwardness often caused by such omissions. The bracketed verbs in the following sentences were omitted in the original sources.

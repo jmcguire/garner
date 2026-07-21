@@ -1,4 +1,4 @@
 # -y
 
- -y . See diminutives (g).
+ See diminutives (g).
 

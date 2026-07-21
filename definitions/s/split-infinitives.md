@@ -1,7 +1,5 @@
 # Split Infinitives, Essay
 
-Split Infinitives .
-
 ## A. Generally
 
 In 1926, H.W. Fowler divided the English-speaking world into five classes: (1) those who neither know nor care what a split infinitive is; (2) those who do not know but care very much; (3) those who know and condemn; (4) those who know and approve; and (5) those who know and distinguish (*FMEU1* at 558). It is this last class to which, if we have a good ear, we should aspire.

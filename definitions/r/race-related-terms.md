@@ -1,7 +1,5 @@
 # Race-Related Terms
 
-Race-Related Terms .
-
 ## A. Generally
 
 No feature of English usage can create quite as much difficulty as the terminology used for denoting people's race—especially in the U.S., with its history of slavery. Every writer and editor must stay alert to the sensitivities and the conventions that are prevalent at any given time. Because fashions change—typically as a result of conscious and collective effort—what seems enlightened in one era can come to sound dated or even bigoted in the next.

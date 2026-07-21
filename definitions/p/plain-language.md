@@ -1,7 +1,5 @@
 # Plain Language
 
-Plain Language .
-
 ## A. Generally
 
 Albert Einstein once said that his goal in stating an idea was to make it as simple as possible but no simpler. He also said: "Most of the fundamental ideas of science are essentially simple, and may, as a rule, be expressed in a language comprehensible to everyone." *The Evolution of Physics* 29 (1938). If that's true of science, surely it's true of most other subjects.

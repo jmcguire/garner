@@ -1,7 +1,5 @@
 # Particles
 
-Particles .
-
 ## A. Definition
 
 See p. 1229.

@@ -1,7 +1,5 @@
 # Illogic, Essay
 
-Illogic .
-
 ## A. Generally
 
 The writer on language who would dare drag logic into the discussion must do so warily. For centuries, grammarians labored under the mistaken belief that grammar is nothing but applied logic and therefore tried to rid languages of everything illogical. But to paraphrase Justice Oliver Wendell Holmes, the life of the language has not been logic: it has been experience.

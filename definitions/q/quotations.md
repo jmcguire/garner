@@ -1,7 +1,5 @@
 # Quotations, Essay
 
-Quotations .
-
 ## A. Use of Quoted Material
 
 The deft and incidental use of quotations is a rare art. Inept writers tend to overuse block quotations (see (b)). Those who do this abrogate their duty—namely, to *write*. Readers tend to skip over single-spaced mountains of prose, knowing how unlikely it is that so much of a previous writer's material pertains directly to the matter at hand.

@@ -1,6 +1,6 @@
 # Questions, Direct and Indirect, Essay
 
-Questions, Direct and Indirect . A. The Difference in Punctuating. A direct question—one posed explicitly—ends with a question mark. E.g.:
+A. The Difference in Punctuating. A direct question—one posed explicitly—ends with a question mark. E.g.:
 
  - "How can demand be controlled and stimulated?" Helen E. Haines, *Living with Books* 39 (2d ed. 1950).
 

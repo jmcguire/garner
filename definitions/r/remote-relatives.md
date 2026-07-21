@@ -1,7 +1,5 @@
 # Remote Relatives, Essay
 
-Remote Relatives .
-
 ## A. Generally
 
 "Every relative word which is used shall instantly present its antecedent to the mind of the reader, without the least obscurity." Hugh Blair, *Lectures on Rhetoric* 65 (Grenville Kleiser ed., 1911). Surprisingly few modern grammarians discuss what has become an increasingly common problem: the separation of the relative pronoun (*that*, *which*, *who*) from its antecedent. For example, in the sentence "The files sitting in the office that I was talking about yesterday are in disarray," the word *that*—technically—modifies *office*, not *files*. But many writers today would intend to have it modify *files*. They would loosely employ a "remote relative."

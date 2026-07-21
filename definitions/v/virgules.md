@@ -1,4 +1,4 @@
 # Virgules
 
- Virgules . See punctuation (q).
+ See punctuation (q).
 

@@ -1,7 +1,5 @@
 # Pronouns, Essay
 
-Pronouns .
-
 ## A. The Basics
 
 The personal pronouns in English are as follows:

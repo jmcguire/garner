@@ -1,7 +1,5 @@
 # First Person, Essay
 
-First Person .
-
 ## A. Generally
 
 Immature writers use *I* and *me* at every turn. It's therefore a customary rite of passage for every grade-school student to write an essay without ever using the first person. As a writing exercise, this is useful.

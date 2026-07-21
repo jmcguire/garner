@@ -1,7 +1,5 @@
 # Place Names, Essay
 
-Place Names .
-
 ## A. As Adjectives
 
 See adjectives (d).

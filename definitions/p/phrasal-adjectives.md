@@ -1,7 +1,5 @@
 # Phrasal Adjectives, Essay
 
-Phrasal Adjectives .
-
 ## A. General Rule
 
 When a phrase functions as an adjective preceding the noun it modifies—an increasingly frequent phenomenon in 20th- and 21st-century English—the phrase should ordinarily be hyphenated. Hence *the soup is burning hot* becomes *the burning-hot soup*; *the child is six years old* becomes *the six-year-old child* (or *the six-year-old*). Most professional writers know this; most nonprofessionals don't.

@@ -1,7 +1,5 @@
 # Headlinese, Essay
 
-Headlinese .
-
 ## A. Headlines and Headings Generally
 
 Headlines in journalism, like headings in other documents, are both the most important and least important parts of the writing. They are the most important because they are the most read and, if effectively written, most valuable to the reader. Their value comes in attracting the reader's attention and guiding the reader to where particular information might be found. Piquing the reader's interest is equivalent to a salesperson's getting a foot in the door. It's not the closing of the deal by any means. The text must deliver what the head promises or the deal's off. That's why the heading might also be said to be the least important part of the writing.

@@ -1,7 +1,5 @@
 # Americanisms and Briticisms, Essay
 
-Americanisms and Briticisms .
-
 ## A. Generally
 
 Although this book points out many differences between AmE and BrE, that is not its primary purpose. For guidance on distinctions not covered here, see *Hart's Rules for Compositors and Readers at the University Press, Oxford* (39th ed. 1983); Norman W. Schur, *British English A to Zed* (1987); Norman Moss, *British/American Language Dictionary* (1984); and Martin S. Allwood, *American and British* (1964). For differences in editorial style, compare *The Chicago Manual of Style* with Caroline Drake & Maureen Leach, *Butcher's Copy-Editing*.

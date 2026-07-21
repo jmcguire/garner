@@ -1,4 +1,4 @@
 # *videlicet*
 
- *videlicet* . See **viz**.
+ See **viz**.
 

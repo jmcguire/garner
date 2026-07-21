@@ -1,7 +1,5 @@
 # Negatives, Essay
 
-Negatives .
-
 ## A. Negative Prefixes
 
 The primary negative (or "privative") prefixes in English are *in-* (assimilated in many words to *il-*, *im-*, *ir-*), *un-*, *non-*, *anti-*, and *a-*. For purposes of simple negation, *in-* is the most particularized of these prefixes, since it generally goes only with certain Latin derivatives (e.g., *inaccessible*, *inarticulate*, *intolerant*). *Un-* usually precedes most other adjectives, including Latin derivatives ending in *-ed* (e.g., *undiluted*, *unexhausted*, *unsaturated*). *Non-* is the broadest of the prefixes, since it may precede virtually any word. It often contrasts with *in-* or *un-* in expressing a nongradable contrast, rather than the opposite end of a scale—e.g.: *nonscientific* (= concerned with a field other than science) as opposed to *unscientific* (= not in accordance with scientific principles). *Anti-*, of course, has the special sense "against." *A-* (= not, without) appears mostly but not exclusively with Greek derivatives (e.g., *theist*/*atheist*, *symmetrical*/*asymmetrical*) and scientific terminology (e.g., *mitosis*/*amitosis*). Because this prefix is easily confused with the defunct Old English prefix *a-* (which is not a negative), it is best kept to established pairings.

@@ -1,7 +1,5 @@
 # Third Person
 
-Third Person .
-
 ## A. Generally
 
 See pronouns (a), tenses (a) & **person** (p. 1230).

@@ -1,7 +1,5 @@
 # Adjectives, Essay
 
-Adjectives .
-
 ## A. Definition
 
 Adjectives constitute a large class of words (e.g., *big*, *foolish*, *good*), nearly all of which can be used either as attributive modifiers of nouns \<big problem\> \<foolish people\> \<good dog\> or as predicate complements \<it was big\> \<they seemed foolish\> \<he's been good\>. Although adjectives are often defined as words that describe, that overbroad assertion probably gives rise to misunderstandings like these:

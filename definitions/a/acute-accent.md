@@ -1,4 +1,4 @@
 # Acute Accent
 
- Acute Accent . See diacritical marks.
+ See diacritical marks.
 

@@ -1,7 +1,5 @@
 # Collective Nouns, Essay
 
-Collective Nouns .
-
 ## A. Number
 
 A collective noun names an aggregate of individuals or things with a singular form. For example, *ensemble*, *group*, and *team* refer to several people, but each word is singular.

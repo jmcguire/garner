@@ -1,7 +1,5 @@
 # Names, Essay
 
-Names .
-
 ## A. Capitalization
 
 Many complex rules govern the capitalization of names—too many to cover here. But a few especially important ones merit mention. First, names that are proper nouns—such as names of people, places, books, articles, and the like—are capitalized \<President Ronald Reagan\> \<Atlanta, Georgia\> \<*Gone with the Wind*\>. That's the rule that everybody knows. Second, when a name such as *Hockaday School* is reduced to a shortened form (the *School*) after the first reference, even the common noun *school* may be capitalized because it's a short-form proper noun. This practice is common for in-house publications such as annual reports. And in legal writing, a statute is commonly referred to as *the Act* after the first reference, and the court one is addressing is always *the Court*. Keep in mind, though, that in most prose the practice can get out of hand: "\[D\]o not capitalize a short form unless it clearly warrants the importance, distinction, or emphasis that capitalization conveys." *Gregg Reference Manual* Rule 310 (10th ed. 2004). And third, when a name for some idiosyncratic reason isn't usually capitalized \<k.d. lang\>, the first letter must be capitalized when it begins a sentence \<K.d. lang sang a few of her hit songs\>. (Some editors would write her name K.D. Lang regardless of her preference for lowercase. Cf. **Cummings**.) For a full coverage of the many complexities of capitalizing names, see *The Chicago Manual of Style*. See capitalization (a).

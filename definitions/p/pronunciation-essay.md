@@ -1,7 +1,5 @@
 # Pronunciation, Essay
 
-Pronunciation .
-
 ## A. General Principles
 
 The best course is to follow the pronunciation current among educated speakers in one's region. A few words have universally accepted pronunciations and rejected mispronunciations; where prescriptions on pronunciation appear in this book, the preferred pronunciation is generally preferred across geographic boundaries.

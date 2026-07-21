@@ -1,7 +1,5 @@
 # Incomplete Sentences, Essay
 
-Incomplete Sentences .
-
 ## A. Fragments
 
 Grammarians typically define *fragment* as a part of a sentence punctuated as if it were complete. Usually denoting an error—as opposed to literary license—the term *fragment* (or *frag.*) appears frequently in the marginal jottings of high-school and college English teachers. That is to say, some high-school and college students don't know how to write complete sentences. Hence elementary grammars warn against constructions such as the following one, in which a main clause and a subordinate clause are each written as a complete sentence:

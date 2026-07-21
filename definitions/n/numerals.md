@@ -1,7 +1,5 @@
 # Numerals, Essay
 
-Numerals .
-
 ## A. General Guidance in Using
 
 The best practice is to spell out all numbers ten and below and to use numerals for numbers 11 and above. This "rule" has five exceptions:

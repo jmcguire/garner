@@ -1,7 +1,5 @@
 # Second Person
 
-Second Person .
-
 ## A. Generally
 
 See pronouns (a), tenses (a), **person** (p. 1230) & **you**.

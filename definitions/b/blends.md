@@ -1,4 +1,4 @@
 # Blends
 
- Blends . See portmanteau words.
+ See portmanteau words.
 

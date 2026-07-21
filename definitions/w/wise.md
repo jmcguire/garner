@@ -1,6 +1,6 @@
 # -wise, Essay
 
- -wise . Generally, avoid *-wise* words or compounds when the suffix means "regarding" or some other frame of reference. They typically displace a more direct wording, and they're invariably graceless and inelegant—e.g.:
+ Generally, avoid *-wise* words or compounds when the suffix means "regarding" or some other frame of reference. They typically displace a more direct wording, and they're invariably graceless and inelegant—e.g.:
 
  - "McCaskey (0–8) is the biggest school *population-wise*, but the smallest when it comes to youth soccer turnout." Eric Stark, "L-L Girls' Soccer '97," *Lancaster New Era*, 14 Apr. 1997, at C1. (A possible revision: *Although McCaskey (0–8) has the most students, it has the smallest turnout for youth soccer*.)
 

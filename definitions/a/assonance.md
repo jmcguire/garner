@@ -1,4 +1,4 @@
 # Assonance
 
- Assonance . See alliteration.
+ See alliteration.
 

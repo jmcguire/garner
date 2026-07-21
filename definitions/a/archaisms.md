@@ -1,7 +1,5 @@
 # Archaisms, Essay
 
-Archaisms .
-
 ## A. Generally
 
 Language that is current in one age may come to be viewed, within a few generations, as pompously archaic. Once a term becomes an archaism, it may be stuck with that status for centuries—forever sounding old-fashioned to literary people and outright alien to everyone else. Many archaisms persist in people's knowledge only because they're encountered in ancient religious texts or in classic literature.

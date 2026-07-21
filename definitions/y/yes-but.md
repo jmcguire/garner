@@ -1,6 +1,6 @@
 # yes, but . .
 
-yes, but . . .. In various fields, from the art of selling to relationship counseling to social networking, this expression is warned about. The *OED* even has a definition suggesting its negativity: it describes *yes but* as "expressing concessive assent or agreement (sometimes sarcastically), before introducing an objection or qualification." And it defines *yes but* also as a noun denoting a response that concedes assent or agreement before introducing an objection or qualification, with this 2011 illustrative quotation: "Planning may include knowing how to confront self-defeating behaviours or patterns, procrastination, hurdles, and ‘yes buts.' "
+In various fields, from the art of selling to relationship counseling to social networking, this expression is warned about. The *OED* even has a definition suggesting its negativity: it describes *yes but* as "expressing concessive assent or agreement (sometimes sarcastically), before introducing an objection or qualification." And it defines *yes but* also as a noun denoting a response that concedes assent or agreement before introducing an objection or qualification, with this 2011 illustrative quotation: "Planning may include knowing how to confront self-defeating behaviours or patterns, procrastination, hurdles, and ‘yes buts.' "
 
 Here is a sampling of what has been said against the phrase:
 
@@ -13,4 +13,3 @@ Here is a sampling of what has been said against the phrase:
 On the other hand, the expression is sometimes praised. Lawyers, for example, take questions from the bench. When asked a yes–no question, many an advocate will postpone the yes or no by building up to it with explanatory words—a much-decried habit. Hence books on oral argument advise advocates to answer questions directly by saying yes or no at the outset, and then qualifying. One well-known manual says: "Another \[recommended\] approach is to say, ‘Yes, but not in all cases and here is why.' Or ‘Generally, yes.' That method softens the harsh effect that can sometimes be produced with a yes or no answer." David C. Frederick, *Supreme Court and Appellate Advocacy* 233 (2003).
 
 And so the whole issue is complicated and rife with subtleties. Should you be careful with this wording? Yes, but not so much that it makes you tongue-tied.
-

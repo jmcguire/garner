@@ -1,6 +1,6 @@
 # Appositives, Essay
 
- Appositives . An appositive points out the same person or thing by a different name, usually in the form of an explanatory phrase that narrows an earlier, more general phrase. So in the sentence "My brother Blair lives in Tennessee," *Blair* is the appositive of *brother.* Typically, in phrases less succinct than *my brother Blair* (in which *Blair* is restrictive), the appositive is set off by commas or parentheses:
+ An appositive points out the same person or thing by a different name, usually in the form of an explanatory phrase that narrows an earlier, more general phrase. So in the sentence "My brother Blair lives in Tennessee," *Blair* is the appositive of *brother.* Typically, in phrases less succinct than *my brother Blair* (in which *Blair* is restrictive), the appositive is set off by commas or parentheses:
 
  - " ‘Gotta watch what I do,' joked the dark-haired 18-year-old, the youngest child of Councilwoman Domenique Thornton and her husband, *Richard Thornton*." "In the Running for First Daughter," *Hartford Courant*, 11 Sept. 1997, at B7. (*Richard Thornton* is an appositive of *her husband*. And the entire phrase *the youngest child . . . Thornton* is an appositive of *18-year-old*.)
 

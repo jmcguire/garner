@@ -1,4 +1,4 @@
 # Buried Verbs
 
- Buried Verbs . See zombie nouns.
+ See zombie nouns.
 
