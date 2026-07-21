@@ -1,39 +1,76 @@
-# Basic installation
+# Garner
 
-If you want to use this tool, just install it through pipx:
+Garner is a command-line interface for the Garner Usage Dictionary.
 
-`pipx install garner-dict`
+## Install
 
-Then read the help instructions with `garner -h`.
+On macOS or Linux with [Homebrew](https://brew.sh/):
 
-The basic usage is `garner WORD` to see the usage for WORD, or `garner -s WORD` to search for WORD. The search is pretty generous.
+```sh
+brew install jmcguire/garner/garner-dict
+```
 
-If you want a paged result, pipe it through `less`.
+Or, on any system with Python 3.9 or newer, install the Python package with
+[pipx](https://pipx.pypa.io/):
 
-You don't need to read anymore. The rest of this document is for developers.
+```sh
+pipx install garner-dict
+```
 
-# Developer Notes
+Both install the command as `garner`. Try it with:
 
-Clone this repo, obviously.
+```sh
+garner affect
+garner --search accomodate
+garner --help
+```
 
-Start with basic python stuff:
+Pipe a long entry through `less` for paged output:
+
+```sh
+garner affect | less
+```
+
+## About Distribution
+
+This is an independent command-line interface and packaging project. It is not
+an official publication of Bryan A. Garner or of the Garner Usage Dictionary.
+The code is MIT licensed, but the dictionary content is copyrighted by Bryan A.
+Garner and is not licensed by this repository. See [NOTICE](NOTICE).
+
+The Homebrew package is intentionally published in the maintainer's personal
+tap (`jmcguire/garner`), not in `homebrew/core`. That makes the source,
+maintainer, and content notice explicit, and does not imply that the dictionary
+content has been approved for official Homebrew distribution. The PyPI package
+and Homebrew formula bundle the same compiled dictionary database. Anyone who
+uses or redistributes it remains responsible for respecting the applicable
+rights.
+
+## Developer Notes
+
+Clone this repository, then create a development environment:
 
 ```sh
 python3 -m venv venv
 ./venv/bin/python -m pip install -r requirements.txt
 ```
 
-All the definitions are stored in definitions/, but the tool doesn't use those directly. Instead it uses that to build an SQLite database, and then queries that. (We do this for speed and for searching).
+The Markdown files in `definitions/` are the editable source of truth. Garner
+builds them into an SQLite database for fast lookup and search. Build the local
+database before trying source changes:
 
-So the first thing you need to do is build the DB.
-
-```
+```sh
 ./venv/bin/garner --build
 ```
 
-Now you can use the tool like normal.
+Then use the tool normally:
 
-## Tests
+```sh
+./venv/bin/garner affect
+./venv/bin/garner --search accomodate
+```
+
+### Tests
 
 Run the tests with:
 
@@ -41,20 +78,24 @@ Run the tests with:
 ./venv/bin/python -m unittest discover -s tests
 ```
 
-The tests use a small fixture dictionary in `tests/fixtures/definitions` instead of the full set of parsed definition files. They create a temporary SQLite database from those fixture entries and check the core lookup/search behavior against that tiny dictionary.
+The tests use a small fixture dictionary in `tests/fixtures/definitions`, not
+the full definitions collection. They build a temporary SQLite database from
+those entries and cover core lookup, search, forwarding, and formatting
+behavior without making small source-formatting changes needlessly brittle.
 
-## Licensing
+### Licensing
 
-The code in this repository is MIT licensed. See `LICENSE`.
+The code in this repository is MIT licensed. See [LICENSE](LICENSE).
 
-The dictionary content and bundled definitions are copyrighted by Bryan A.  Garner. See `NOTICE`.
+The dictionary content and bundled definitions are copyrighted by Bryan A.
+Garner. See [NOTICE](NOTICE).
 
-## Releases
+### Releases
 
-Release prep is scripted:
+Release preparation is scripted:
 
 ```sh
-./scripts/release 1.1.0
+./venv/bin/python scripts/release 1.1.0
 ```
 
-See `RELEASING.md` for the full release checklist.
+See [RELEASING.md](RELEASING.md) for the release and distribution checklist.
