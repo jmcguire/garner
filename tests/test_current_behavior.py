@@ -374,6 +374,27 @@ class DictionaryBehaviorTest(unittest.TestCase):
 
 
 class DefinitionContentTest(unittest.TestCase):
+    def test_subjunctive_subsections_remain_in_essay_without_standalone_entries(self):
+        subsection_labels = (
+            "Counterfactual conditions",
+            "Demands and commands",
+            "Suggestions and proposals",
+            "Statements of necessity",
+        )
+        subjunctives = (REAL_DEFINITIONS / "s" / "subjunctives.md").read_text(encoding="utf-8")
+        standalone_entries = []
+
+        for path in markdown_files(REAL_DEFINITIONS):
+            heading = text.extract_first_heading(path.read_text(encoding="utf-8"))
+            if heading and text.normalize_key(heading).rstrip(":") in {
+                text.normalize_key(label) for label in subsection_labels
+            }:
+                standalone_entries.append(path.relative_to(REAL_DEFINITIONS.parent).as_posix())
+
+        for label in subsection_labels:
+            self.assertIn(label, subjunctives)
+        self.assertEqual(standalone_entries, [])
+
     def test_real_definitions_do_not_repeat_headword_as_first_sentence(self):
         repeated = []
         for path in markdown_files(REAL_DEFINITIONS):
