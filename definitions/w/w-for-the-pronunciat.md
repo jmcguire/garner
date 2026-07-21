@@ -1,4 +1,3 @@
-# W**. For the pronunciation, see
+# W
 
-W**. For the pronunciation, see Dubya**.
-
+See Dubya.

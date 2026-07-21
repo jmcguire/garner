@@ -1,4 +1,3 @@
-# \**mariage de convenance
+# *\*mariage de convenance*
 
-*\*mariage de convenance*. See **marriage of convenience**.
-
+See **marriage of convenience**.

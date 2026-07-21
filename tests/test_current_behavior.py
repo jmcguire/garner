@@ -374,6 +374,31 @@ class DictionaryBehaviorTest(unittest.TestCase):
 
 
 class DefinitionContentTest(unittest.TestCase):
+    def test_repaired_headwords_are_clean_and_complete(self):
+        expected_headwords = {
+            "i/i.md": "I",
+            "o/o.md": "O",
+            "v/v.md": "v",
+            "w/w-for-the-pronunciat.md": "W",
+            "h/humble-adj.md": "humble, adj.",
+            "c/conveyance.md": "conveyance, n.",
+            "c/conscience.md": "conscience' sake",
+            "l/laesae-majestas.md": "*\\*laesae majestas*",
+            "m/mariage-de-convenanc.md": "*\\*mariage de convenance*",
+            "p/phrasal-adjectives.md": "Phrasal Adjectives, Essay",
+            "w/wellerisms.md": "Wellerisms, Essay",
+        }
+
+        actual_headwords = {
+            path.relative_to(REAL_DEFINITIONS).as_posix(): text.extract_first_heading(
+                path.read_text(encoding="utf-8")
+            )
+            for path in markdown_files(REAL_DEFINITIONS)
+            if path.relative_to(REAL_DEFINITIONS).as_posix() in expected_headwords
+        }
+
+        self.assertEqual(actual_headwords, expected_headwords)
+
     def test_subjunctive_subsections_remain_in_essay_without_standalone_entries(self):
         subsection_labels = (
             "Counterfactual conditions",
