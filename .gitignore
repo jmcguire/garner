@@ -3,3 +3,4 @@ var/
 build/
 dist/
 *.egg-info/
+.DS_STORE
