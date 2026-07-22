@@ -4,42 +4,42 @@ In 1948, Bertrand Russell spoke on a radio program and mentioned what he called 
 
 Devising examples can be a parlor game. In each category, many synonyms could be substituted.
 
-***I'm*** ***You're*** ***They're***
-
- - assertive aggressive bossy
- - astute crafty cunning
- - big-boned fat morbidly obese
- - brave foolhardy reckless
- - buzzed drunk plastered
- - concerned worried fretful
- - conservative reactionary right-wing nut jobs
- - curious inquisitive nosy
- - devout pious churchy
- - diplomatic expedient sycophantic
- - displeased irked deranged
- - an enthusiast a fanatic lunatics
- - fashionable trendy faddish
- - fastidious finicky anal-retentive
- - forthright blunt tactless
- - a freedom fighter a guerrilla terrorists
- - a freethinker an atheist infidels
- - frugal cheap skinflints
- - idiosyncratic eccentric wacko
- - imaginative unrealistic delusional
- - an intellectual a brainiac eggheads
- - liberal left-leaning communistic
- - open-minded nonjudgmental unprincipled
- - an orator a lecturer pontificators
- - otherwise occupied inattentive oblivious
- - principled methodical ideologically driven
- - reserved shy timid
- - self-aware self-absorbed narcissistic
- - self-confident assured smug
- - a statesman a politician demagogues
- - tenacious stubborn bullheaded
- - thin skinny scrawny
- - thoughtful caring suffocating
- - trusting credulous gullible
- - weeping crying blubbering
- - a whistleblower an informant snitches
+| ***I'm*** | ***You're*** | ***They're*** |
+|---|---|---|
+| assertive | aggressive | bossy |
+| astute | crafty | cunning |
+| big-boned | fat | morbidly obese |
+| brave | foolhardy | reckless |
+| buzzed | drunk | plastered |
+| concerned | worried | fretful |
+| conservative | reactionary | right-wing nut jobs |
+| curious | inquisitive | nosy |
+| devout | pious | churchy |
+| diplomatic | expedient | sycophantic |
+| displeased | irked | deranged |
+| an enthusiast | a fanatic | lunatics |
+| fashionable | trendy | faddish |
+| fastidious | finicky | anal-retentive |
+| forthright | blunt | tactless |
+| a freedom fighter | a guerrilla | terrorists |
+| a freethinker | an atheist | infidels |
+| frugal | cheap | skinflints |
+| idiosyncratic | eccentric | wacko |
+| imaginative | unrealistic | delusional |
+| an intellectual | a brainiac | eggheads |
+| liberal | left-leaning | communistic |
+| open-minded | nonjudgmental | unprincipled |
+| an orator | a lecturer | pontificators |
+| otherwise occupied | inattentive | oblivious |
+| principled | methodical | ideologically driven |
+| reserved | shy | timid |
+| self-aware | self-absorbed | narcissistic |
+| self-confident | assured | smug |
+| a statesman | a politician | demagogues |
+| tenacious | stubborn | bullheaded |
+| thin | skinny | scrawny |
+| thoughtful | caring | suffocating |
+| trusting | credulous | gullible |
+| weeping | crying | blubbering |
+| a whistleblower | an informant | snitches |
 
