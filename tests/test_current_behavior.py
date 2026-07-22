@@ -374,6 +374,26 @@ class DictionaryBehaviorTest(unittest.TestCase):
 
 
 class DefinitionContentTest(unittest.TestCase):
+    def test_repaired_tables_have_consistent_column_counts(self):
+        repaired_files = (
+            "c/class-distinctions.md",
+            "d/dialect.md",
+            "i/irregular-verbs.md",
+            "s/spin-conjugations.md",
+        )
+
+        for relative_path in repaired_files:
+            table_width = None
+            for line in (REAL_DEFINITIONS / relative_path).read_text(encoding="utf-8").splitlines():
+                if not line.startswith("|"):
+                    table_width = None
+                    continue
+
+                width = len(line.strip().strip("|").split("|"))
+                if table_width is None:
+                    table_width = width
+                self.assertEqual(width, table_width, f"{relative_path}: {line}")
+
     def test_repaired_headwords_are_clean_and_complete(self):
         expected_headwords = {
             "i/i.md": "I",

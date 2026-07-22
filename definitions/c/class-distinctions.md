@@ -8,14 +8,14 @@ You could argue that many deprecated aspects of language use—euphemisms, gente
 
 U Speech (upper) is typically separated from Non-U Speech (non-upper) by a cluster of characteristics involving word choice and pronunciation. For Americans, U Speech means upper-middle-class; Non-U Speech means middle class and below. For a discussion of the nine classes in American society, see Paul Fussell, *Class* (1983). What follows is a rough list of markers that, taken together, are strongly indicative. Prior to reading it, you might lay down. Uh . . . no. Before reading it, you might lie down.
 
-Vocabulary Markers in AmE
+## Vocabulary Markers in AmE
 
 | *U* | ***Non-U*** |
 |---|---|
 | anyway | \*anyways |
 | before | \*prior to |
 | between you and me | *\*between you and I* |
-| a criterion | *\*a criteri* |
+| a criterion | *\*a criteria* |
 | died | passed away, passed on |
 | drinks | beverages |
 | driver | chauffeur |
@@ -41,38 +41,37 @@ Vocabulary Markers in AmE
 | you and I are through | *\*me and you are through* |
 | \[nothing\] | real classy, class act, high-class |
 
-Pronunciation Markers in AmE |
+## Pronunciation Markers in AmE
 
 | *Word* | ***U*** | ***Non-U*** |
 |---|---|---|
-| accurate | **ak**-yә-rit | **ak**-ә-rit | 
-| adult | ә-**dәlt** | **ad**-әlt | 
-| asterisk | **as**-tә-risk | **as**-tә-rik | 
-| beneficiary | ben-ә-**fish**-ee-er-ee | ben-ә-**fish**-ә-rer-ee | 
-| comparable | **com**-pәr-ә-bәl | kәm-**pair**-ә-bәl | 
-| coupon | **koo**-pon | **kyoo**-pon | 
-| descent | di-**sent** | **dee**-sent | 
-| deteriorate | di-**tir**-ee-ә-rayt | dee-**tir**-ee-ayt, | di-**tir**-әr-ayt | 
-| escalate | **es**-kә-layt | **es**-kyә-layt | 
-| escape | es-**kayp** | ek-**skayp** | 
-| especially | es-**spesh**-ә-lee | ek-**spesh**-ә-lee | 
-| etc. | et | **set**-ә-rә | ek | **set**-ә-rә | 
-| fiancé(e) | fee-ahn-**say** | fee-**ahn**-say | 
-| grievous | **gree**-vәs | **gree**-vee-әs | 
-| height | hīt | hītth | 
-| heinous | **hay**-nәs | **hee**-nәs, | **hee**-nee-әs | 
-| intellectual | in-tә-**lek**-chʊ-\[w\]әl | in-ә-**lek**-shәl | 
-| interesting | **in**-trә-sting | **in**-ә-res-ting | 
-| library | **lī**-brer-ee | **li**-ber-ee | 
-| mischievous | **mis**-chә-vәs | mis-**chee**-vee-әs | 
-| often | **off**-әn | **off**-tәn | 
-| police | pә-**lees** | **poh**-lees | 
-| preferable | **pref**-әr-ә-bәl | pri-**fәr**-ә-bәl | 
-| probably | **prob**-ә-blee | **prol**-ee | 
-| secretary | **sek**-rә-ter-ee | **se**-kә-ter-ee | 
-| subsidiary | sәb-**sid**-ee-er-ee | sәb-**sid**-ә-rer-ee, | sәb-**sid**-ә-ree | 
-| toward(s) | tord\[s\] | twahrd\[s\], tә-**word**\[s\], tword\[s\] | 
-| wash | wahsh | wahrsh | 
+| accurate | **ak**-yә-rit | **ak**-ә-rit |
+| adult | ә-**dәlt** | **ad**-әlt |
+| asterisk | **as**-tә-risk | **as**-tә-rik |
+| beneficiary | ben-ә-**fish**-ee-er-ee | ben-ә-**fish**-ә-rer-ee |
+| comparable | **com**-pәr-ә-bәl | kәm-**pair**-ә-bәl |
+| coupon | **koo**-pon | **kyoo**-pon |
+| descent | di-**sent** | **dee**-sent |
+| deteriorate | di-**tir**-ee-ә-rayt | dee-**tir**-ee-ayt, di-**tir**-әr-ayt |
+| escalate | **es**-kә-layt | **es**-kyә-layt |
+| escape | es-**kayp** | ek-**skayp** |
+| especially | es-**spesh**-ә-lee | ek-**spesh**-ә-lee |
+| etc. | et | **set**-ә-rә, ek **set**-ә-rә |
+| fiancé(e) | fee-ahn-**say** | fee-**ahn**-say |
+| grievous | **gree**-vәs | **gree**-vee-әs |
+| height | hīt | hītth |
+| heinous | **hay**-nәs | **hee**-nәs, **hee**-nee-әs |
+| intellectual | in-tә-**lek**-chʊ-\[w\]әl | in-ә-**lek**-shәl |
+| interesting | **in**-trә-sting | **in**-ә-res-ting |
+| library | **lī**-brer-ee | **li**-ber-ee |
+| mischievous | **mis**-chә-vәs | mis-**chee**-vee-әs |
+| often | **off**-әn | **off**-tәn |
+| police | pә-**lees** | **poh**-lees |
+| preferable | **pref**-әr-ә-bәl | pri-**fәr**-ә-bәl |
+| probably | **prob**-ә-blee | **prol**-ee |
+| secretary | **sek**-rә-ter-ee | **se**-kә-ter-ee |
+| subsidiary | sәb-**sid**-ee-er-ee | sәb-**sid**-ә-rer-ee, sәb-**sid**-ә-ree |
+| toward(s) | tord\[s\] | twahrd\[s\], tә-**word**\[s\], tword\[s\] |
+| wash | wahsh | wahrsh |
 
 For still more mispronunciations, see pronunciation (b).
-
