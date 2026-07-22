@@ -31,7 +31,7 @@ Every educated American will have heard plenty of dialect, whether in ordinary l
 In grammar, nonstandard dialects often have different (nearly always simpler) inflected forms for irregular verbs, and some have different reflexive pronouns:
 
 | *Dialect* | ***Standard*** |
-|---|---| |
+|---|---|
 | I don't like it and she don't either, but it don't make no never mind. | I don't like it and she doesn't either, but it doesn't matter. |
 | They was broke, so we drug 'em outside. | They were broken, so we dragged them outside. |
 | He coulda hurt hisself. | He could have hurt himself. |
